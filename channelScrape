@@ -5,13 +5,13 @@ from googleapiclient.errors import HttpError
 # Set up the YouTube Data API client
 api_service_name = "youtube"
 api_version = "v3"
-developer_key = "YOUR_API_KEY"  # Replace with your API key
+developer_key = "AIzaSyBKVzoAJmjkMQUUud0BgYb6yDS4AaEh-N8"  # Replace with your API key
 
 youtube = googleapiclient.discovery.build(api_service_name, api_version, developerKey=developer_key)
 
 def get_channel_videos(channel_id):
     # Retrieve the video IDs of all videos in a YouTube channel
-    video_ids = []
+    video_ids = UCvHqXK_Hz79tjqRosK4tWYA
     next_page_token = None
 
     while True:
