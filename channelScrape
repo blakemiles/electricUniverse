@@ -11,7 +11,7 @@ youtube = googleapiclient.discovery.build(api_service_name, api_version, develop
 
 def get_channel_videos(channel_id):
     # Retrieve the video IDs of all videos in a YouTube channel
-    video_ids = UCvHqXK_Hz79tjqRosK4tWYA
+    video_ids = []
     next_page_token = None
 
     while True:
@@ -69,7 +69,7 @@ def download_captions(video_id):
         print(f"An HTTP error occurred: {e}")
 
 # Replace "YOUR_CHANNEL_ID" with the ID of the YouTube channel you want to scrape
-channel_id = "YOUR_CHANNEL_ID"
+channel_id = "UCvHqXK_Hz79tjqRosK4tWYA"
 
 # Get the video IDs of the channel's videos
 videos = get_channel_videos(channel_id)
