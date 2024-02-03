@@ -1,0 +1,1517 @@
+[
+    {
+        "text": "You've all heard all sorts of mention in\nthe last couple of days and you will",
+        "start": 11.58,
+        "duration": 4.13
+    },
+    {
+        "text": "continue to hear mention of this thing called the\nBirkeland Current. And all of you, to a lesser or",
+        "start": 15.71,
+        "duration": 8.59
+    },
+    {
+        "text": "greater degree, have some idea about\nwhat is meant by that term. What I'd like",
+        "start": 24.3,
+        "duration": 4.92
+    },
+    {
+        "text": "to do is to give you some results that I've\ndeveloped over the last year to try to nail down",
+        "start": 29.22,
+        "duration": 7.58
+    },
+    {
+        "text": "some of the properties of Birkeland\nCurrents. There are some well-known",
+        "start": 36.8,
+        "duration": 4.54
+    },
+    {
+        "text": "properties of Birkeland Currents\nthat I think most of you will know.",
+        "start": 41.34,
+        "duration": 5.05
+    },
+    {
+        "text": "In no particular order, the definition of it,\nit's the flow of electrical charge in space.",
+        "start": 46.39,
+        "duration": 6.77
+    },
+    {
+        "text": "So, that means there is an electrical\ncurrent. The flow of charge - how many",
+        "start": 53.16,
+        "duration": 5.52
+    },
+    {
+        "text": "Coulombs pass up an observation point - in one\nsecond, constitutes the amperage of that current.",
+        "start": 58.68,
+        "duration": 7.43
+    },
+    {
+        "text": "Currents create magnetic fields. In other\nwords, if you have a Birkeland Current , if you",
+        "start": 66.11,
+        "duration": 4.99
+    },
+    {
+        "text": "have a current, you will have a magnetic\nfield. And if you have a magnetic field,",
+        "start": 71.1,
+        "duration": 5.33
+    },
+    {
+        "text": "you better remember that there's a current there\nthat made it. Some astronomers lack that insight,",
+        "start": 76.43,
+        "duration": 6.43
+    },
+    {
+        "text": "I guess. One example of a Birkeland Current\nis the one that connects the Sun to the Earth,",
+        "start": 82.86,
+        "duration": 8.16
+    },
+    {
+        "text": "that powers up the Aurora Borealis and the Aurora\nAustralis. And the man who discovered that fact,",
+        "start": 91.02,
+        "duration": 8.09
+    },
+    {
+        "text": "was Christian Birkeland, after whom those\nflows are named. He was dogged for years",
+        "start": 99.11,
+        "duration": 6.81
+    },
+    {
+        "text": "by a man whose name was Sydney Chapman,\nan astronomer who claimed that Birkeland was crazy.",
+        "start": 105.92,
+        "duration": 7.44
+    },
+    {
+        "text": "Obviously there could be no flow of current - of\ncharge - through space. It would all dissipate.",
+        "start": 113.36,
+        "duration": 6.64
+    },
+    {
+        "text": "At first they said, well, space is an insulator,\nyou can't get current through an insulator.",
+        "start": 120.0,
+        "duration": 5.52
+    },
+    {
+        "text": "Then they changed their mind and said, oh\nno, no, no, space is a perfect conductor.",
+        "start": 125.52,
+        "duration": 4.5
+    },
+    {
+        "text": "Well you can't have it both ways. Actually, the latter\nis closer to the truth. Space contains plasma and",
+        "start": 130.02,
+        "duration": 7.98
+    },
+    {
+        "text": "plasma is a very good, not perfect, but very good\nconductor. And so, when charge flows in a plasma, it has",
+        "start": 138.0,
+        "duration": 9.59
+    },
+    {
+        "text": "certain properties. There's a picture of what those\nBirkeland Currents look like. They come from the Sun",
+        "start": 147.59,
+        "duration": 7.21
+    },
+    {
+        "text": "and they drop down into that cone at the north\npole and the south pole of the magnetosphere.",
+        "start": 154.8,
+        "duration": 10.56
+    },
+    {
+        "text": "Typical properties of Birkeland currents:\nThey twist; they often come in pairs; they",
+        "start": 165.36,
+        "duration": 4.68
+    },
+    {
+        "text": "produce helical magnetic fields - we'll\ntalk some about that. In fact, we'll talk",
+        "start": 170.04,
+        "duration": 4.08
+    },
+    {
+        "text": "a lot about that in the next half hour. Sometimes\nthey're called ‘vortices’; they form filaments in sunspot",
+        "start": 174.12,
+        "duration": 7.56
+    },
+    {
+        "text": "penumbras. You've probably seen those. There's a picture\nof what they look like. On the right is a single Birkeland",
+        "start": 181.68,
+        "duration": 8.16
+    },
+    {
+        "text": "Current - you can see the twist. In the left-hand picture,\nwhen it's magnified, you can see they do very often",
+        "start": 189.84,
+        "duration": 7.5
+    },
+    {
+        "text": "come in pairs. They're very straight, typically. They\ncan curve and twist too, but they are straight and",
+        "start": 197.34,
+        "duration": 7.8
+    },
+    {
+        "text": "that's a mystery. If you have a fire hose and\nyou spray a fire hose, if I had one in my hand, I",
+        "start": 205.14,
+        "duration": 6.59
+    },
+    {
+        "text": "don't think I could hit somebody sitting in the back row\nof the room. The thing would dissipate. These things,",
+        "start": 211.73,
+        "duration": 6.85
+    },
+    {
+        "text": "contrary to Sydney Chapman, do not dissipate.\nAnd the question is why, and I hope to answer",
+        "start": 218.58,
+        "duration": 6.78
+    },
+    {
+        "text": "that this morning. They connect stars in strings.\nA number of years ago, you've probably",
+        "start": 225.36,
+        "duration": 6.12
+    },
+    {
+        "text": "heard somebody say, “Gee, it looks like those stars\nform in strings.” Astronomers say, “No, no that's an",
+        "start": 231.48,
+        "duration": 5.75
+    },
+    {
+        "text": "optical illusion, they don't form in strings.”\nYes, they do form in strings and those",
+        "start": 237.23,
+        "duration": 5.41
+    },
+    {
+        "text": "strings are Birkeland Currents. The\nBirkeland Currents also connect galaxies.",
+        "start": 242.64,
+        "duration": 4.67
+    },
+    {
+        "text": "Just a couple of weeks ago, I think Wal\nmentioned this the other day, there was",
+        "start": 247.31,
+        "duration": 3.25
+    },
+    {
+        "text": "an announcement in Science Digest that\nastronomers - Australian astronomers,",
+        "start": 250.56,
+        "duration": 5.39
+    },
+    {
+        "text": "coupled with some [astronomers] here -\nhave discovered that galaxies do indeed",
+        "start": 255.95,
+        "duration": 6.12
+    },
+    {
+        "text": "form on strings, which is a big reversal.\nAnyway, I developed over the last year a method",
+        "start": 262.07,
+        "duration": 8.47
+    },
+    {
+        "text": "for taking a close look at what the magnetic\nfield is - what it looks like, the structure of",
+        "start": 270.54,
+        "duration": 6.36
+    },
+    {
+        "text": "it, around the Birkeland Current. Let's just assume,\nin your mind's eye for a second, in space you've got this",
+        "start": 276.9,
+        "duration": 7.5
+    },
+    {
+        "text": "bunch of charges that are flowing\nalong. What will happen? I've just",
+        "start": 284.4,
+        "duration": 5.34
+    },
+    {
+        "text": "said they'll make a magnetic field. Sure,\nbut what will the shape of that field be,",
+        "start": 289.74,
+        "duration": 4.2
+    },
+    {
+        "text": "and what will the properties of that that whole\noperation look like? I've discovered, because of the",
+        "start": 293.94,
+        "duration": 6.36
+    },
+    {
+        "text": "results of this work, that the magnetic\nforce fields that surround Birkeland Currents",
+        "start": 300.3,
+        "duration": 5.22
+    },
+    {
+        "text": "reach out vastly - and I can't overemphasize that\nword too much - vastly farther into space than",
+        "start": 305.52,
+        "duration": 8.94
+    },
+    {
+        "text": "previously thought. The magnetic fields that\nthe Birkeland Currents create, wrap around them,",
+        "start": 314.46,
+        "duration": 7.2
+    },
+    {
+        "text": "similar to the bindings of Roman fasces.\nYou know the fascist business? You",
+        "start": 321.66,
+        "duration": 5.58
+    },
+    {
+        "text": "can take a bunch of sticks and wrap\nit up and it's much stronger with the",
+        "start": 327.24,
+        "duration": 3.89
+    },
+    {
+        "text": "wrapping than the individual sticks\nwould be. I searched the internet for a",
+        "start": 331.13,
+        "duration": 4.5
+    },
+    {
+        "text": "picture of a Roman fasces and that's the best one I can\ncome up with. Clearly, that winding goes around in one",
+        "start": 335.63,
+        "duration": 7.09
+    },
+    {
+        "text": "direction, but in reality - maybe not on that picture -\nit also wraps around, going back from left to right and",
+        "start": 342.72,
+        "duration": 8.81
+    },
+    {
+        "text": "right to left. I'll talk more about that\nin a second. What is a minimum energy",
+        "start": 351.53,
+        "duration": 4.27
+    },
+    {
+        "text": "field? Somebody mentioned that the other day.\nIn nature, stuff tends to seek a minimum energy.",
+        "start": 355.8,
+        "duration": 7.14
+    },
+    {
+        "text": "Water runs downhill. Perfume spreads out - will\ndiffuse - right up uncorking the perfume bottle. In",
+        "start": 362.94,
+        "duration": 8.29
+    },
+    {
+        "text": "a few minutes the people in the back of\nthe room would smell the perfume. People",
+        "start": 371.82,
+        "duration": 3.24
+    },
+    {
+        "text": "in the front row would smell it first, and after a while,\nif I left it open long enough, there would be a level",
+        "start": 375.06,
+        "duration": 7.97
+    },
+    {
+        "text": "concentration of perfume throughout the room.\nAnd so, stuff just tends to shrink away. If you",
+        "start": 383.03,
+        "duration": 7.44
+    },
+    {
+        "text": "push on it, it'll move away to avoid the\npush. And it's a natural thing. Lightning",
+        "start": 390.47,
+        "duration": 5.41
+    },
+    {
+        "text": "follows whatever path seems to lead downward\nto a lower voltage. Planets. One of the primary",
+        "start": 395.88,
+        "duration": 7.46
+    },
+    {
+        "text": "claims of the Electric Universe is that the\nseparation of the planets is due to a push-pull, back",
+        "start": 403.34,
+        "duration": 8.02
+    },
+    {
+        "text": "and forth, a jockeying. Many people don't\nrealize that the planet Venus has a long tail.",
+        "start": 411.36,
+        "duration": 6.11
+    },
+    {
+        "text": "That tail carries electric charge and\nit just flicks the outer regions of our",
+        "start": 417.47,
+        "duration": 9.37
+    },
+    {
+        "text": "magnetosphere as Venus passes\nbetween us and the Sun. And if",
+        "start": 426.84,
+        "duration": 4.74
+    },
+    {
+        "text": "we get too close, our theory is that it is a push.\nOn Earth electricity goes wherever you lead it.",
+        "start": 431.58,
+        "duration": 7.2
+    },
+    {
+        "text": "The wire goes like that, that's the way the current\nis going to go. Provided, of course, you put a",
+        "start": 438.78,
+        "duration": 5.75
+    },
+    {
+        "text": "voltage at one end and a lower voltage\nat the other end, so that the charge can",
+        "start": 444.53,
+        "duration": 4.21
+    },
+    {
+        "text": "flow downhill to a minimum energy. In space\nhowever, it goes wherever it wants to, because",
+        "start": 448.74,
+        "duration": 7.38
+    },
+    {
+        "text": "there are no wires. So that lightning,\nthat charge moving through space, (in this",
+        "start": 456.12,
+        "duration": 6.12
+    },
+    {
+        "text": "case through our atmosphere) is following\na path that it wants to, to get from a",
+        "start": 462.24,
+        "duration": 4.92
+    },
+    {
+        "text": "higher voltage to a lower voltage, why doesn't it go\nin a straight line? Well, because it meets up with all",
+        "start": 467.16,
+        "duration": 7.02
+    },
+    {
+        "text": "sorts of stuff in the atmosphere. Little\nregions, clouds of charge, changes in",
+        "start": 474.18,
+        "duration": 6.35
+    },
+    {
+        "text": "humidity, maybe a cloud or something here\nor there. It is going as it senses downhill, just",
+        "start": 480.53,
+        "duration": 8.05
+    },
+    {
+        "text": "the way water would ripple down\nover the surface of a mountainside.",
+        "start": 488.58,
+        "duration": 4.8
+    },
+    {
+        "text": "And of course, if you really get out in\nspace, it does go where it wants to,",
+        "start": 493.38,
+        "duration": 6.42
+    },
+    {
+        "text": "as long as you leave it alone, as long\nas you don't put any rocks in its path.",
+        "start": 499.8,
+        "duration": 5.33
+    },
+    {
+        "text": "As long as you don't put a magnetic field there\nthat will disturb the direction of that flow.",
+        "start": 505.13,
+        "duration": 8.34
+    },
+    {
+        "text": "That's the jet from the M87 [galaxy].\nAnd that jet is several hundred light years",
+        "start": 513.47,
+        "duration": 9.24
+    },
+    {
+        "text": "long. See how well it's collimated. It's a\nheck of a lot better than your garden hose.",
+        "start": 522.71,
+        "duration": 6.01
+    },
+    {
+        "text": "So the question is why is it collimated?\nWhy does it stick together like that?",
+        "start": 528.72,
+        "duration": 5.1
+    },
+    {
+        "text": "Well, there's one thing that even that jet\nfrom M87 senses and that is the Lorentz force.",
+        "start": 533.82,
+        "duration": 9.72
+    },
+    {
+        "text": "There's a current there, right? And if there's\na current, you know there's a magnetic field.",
+        "start": 543.54,
+        "duration": 4.91
+    },
+    {
+        "text": "Well, if a current crosses over a magnetic\nfield, you get what's called the Lorentz force.",
+        "start": 548.45,
+        "duration": 8.47
+    },
+    {
+        "text": "This is as complicated as the talk\ngets. So, don't sweat. If you point",
+        "start": 556.92,
+        "duration": 4.91
+    },
+    {
+        "text": "your red arrow in the direction of\nthe current flow and it crosses a",
+        "start": 561.83,
+        "duration": 4.09
+    },
+    {
+        "text": "magnetic field, that's the direction of\nthe blue arrow. And you point your",
+        "start": 565.92,
+        "duration": 4.02
+    },
+    {
+        "text": "fingers in the direction of the red arrow,\nand then move your fingers toward the",
+        "start": 569.94,
+        "duration": 5.82
+    },
+    {
+        "text": "direction of the blue arrow. So, we\nstart with the current and then move",
+        "start": 575.76,
+        "duration": 3.3
+    },
+    {
+        "text": "toward the magnetic field. Your thumb\nis going to be in the direction of the",
+        "start": 579.06,
+        "duration": 5.21
+    },
+    {
+        "text": "force that those charges are going to\nexperience. In other words, in this",
+        "start": 584.27,
+        "duration": 4.09
+    },
+    {
+        "text": "situation, the charge which is flowing from left to\nright will start to curl up. That's how cyclotrons",
+        "start": 588.36,
+        "duration": 9.3
+    },
+    {
+        "text": "work. You know the things go around in a circle\nand the radius is called the Larmor radius.",
+        "start": 597.66,
+        "duration": 5.22
+    },
+    {
+        "text": "Well, anyway that's the only force that charge\nmoving in free space - if you leave it alone - will",
+        "start": 602.88,
+        "duration": 9.84
+    },
+    {
+        "text": "suffer. It'll feel that Lorentz force.\nI realized that - and I didn't invent that",
+        "start": 612.72,
+        "duration": 6.78
+    },
+    {
+        "text": "idea, I just realized it - and then I\nfound in Tony Peratt's book an equation",
+        "start": 619.5,
+        "duration": 5.76
+    },
+    {
+        "text": "that says if you want to have a cosmic Birkeland\nCurrent at a minimum energy, suffering no forces,",
+        "start": 625.26,
+        "duration": 11.88
+    },
+    {
+        "text": "the way to get the Lorentz force to zero,\nis to have that Birkeland Current look",
+        "start": 637.14,
+        "duration": 5.16
+    },
+    {
+        "text": "like this. And out comes this big equation. Now\nif you're a mathematician - and I am surely not -",
+        "start": 642.3,
+        "duration": 6.56
+    },
+    {
+        "text": "then you can visualize what that\nstructure has to be. Well, I looked at",
+        "start": 648.86,
+        "duration": 5.8
+    },
+    {
+        "text": "that equation for a long time and as I say\nthis talk is a non-mathematical talk, but...",
+        "start": 654.66,
+        "duration": 11.46
+    },
+    {
+        "text": "[Quoted link is invalid] ... you can see\nthe paper and you can wallow around in",
+        "start": 666.24,
+        "duration": 21.59
+    },
+    {
+        "text": "the mathematics as much as you want to.\nWhat I did was when I got that equation,",
+        "start": 687.83,
+        "duration": 5.29
+    },
+    {
+        "text": "I plugged it into a computer and did an\niterative solution, almost exactly the",
+        "start": 693.12,
+        "duration": 6.06
+    },
+    {
+        "text": "same as Dr. Wolf was talking about,\nin the generation of fractals. You get the",
+        "start": 699.18,
+        "duration": 3.96
+    },
+    {
+        "text": "equation, pick a number, stick it in and\nsee what you get. And take that number",
+        "start": 703.14,
+        "duration": 3.36
+    },
+    {
+        "text": "and stick it back in the equation and see what\nthat produces. And eventually you get this trail.",
+        "start": 706.5,
+        "duration": 5.33
+    },
+    {
+        "text": "Well, I didn't generate anything as\nwild as a fractal, but I did come up",
+        "start": 711.83,
+        "duration": 6.43
+    },
+    {
+        "text": "with a solution. I will show you the\nsolution in a second. But the purpose was",
+        "start": 718.26,
+        "duration": 6.84
+    },
+    {
+        "text": "to get an equation which would result in a\nBirkeland curve, that is free. Left alone.",
+        "start": 725.1,
+        "duration": 10.2
+    },
+    {
+        "text": "Leave it on its own devices, what will it look like?\nTo understand this, we have to talk a",
+        "start": 735.3,
+        "duration": 6.36
+    },
+    {
+        "text": "little bit about cylindrical coordinates.\nIs there anybody who doesn't have any",
+        "start": 741.66,
+        "duration": 2.7
+    },
+    {
+        "text": "idea what a cylindrical coordinate is?\nCartesian coordinates are the x, y and z",
+        "start": 744.36,
+        "duration": 3.71
+    },
+    {
+        "text": " in there. You see the x, y and z?\nz is the vertical axis. x is coming out",
+        "start": 748.07,
+        "duration": 6.73
+    },
+    {
+        "text": "at you, and y is going from left to right.\nWe want to specify the position of a",
+        "start": 754.8,
+        "duration": 4.5
+    },
+    {
+        "text": "point like this guy up here. You can\nspecify: it's this far in the x-axis,",
+        "start": 759.3,
+        "duration": 4.62
+    },
+    {
+        "text": "this far in the y-axis and this far in the z-axis.\nThat's the point. Cylindrical coordinates is the same",
+        "start": 763.92,
+        "duration": 5.82
+    },
+    {
+        "text": "thing, except instead of the x- and y- \naxes (you still use the same Z-axis),",
+        "start": 769.74,
+        "duration": 5.7
+    },
+    {
+        "text": "but instead of x and y, you replace x and\ny by, at what angle are you from the",
+        "start": 775.44,
+        "duration": 5.88
+    },
+    {
+        "text": "center of this cylinder, from this pipe?\nAnd how far out are you? So,",
+        "start": 781.32,
+        "duration": 6.6
+    },
+    {
+        "text": "think about a Birkeland Current.\nThink about an oil pipeline or a water",
+        "start": 789.18,
+        "duration": 4.8
+    },
+    {
+        "text": "pipeline. It doesn't make any difference\nwhere z is particularly, because it's all",
+        "start": 793.98,
+        "duration": 4.08
+    },
+    {
+        "text": "the same. Things don't change in a\ncylinder. It doesn't even depend on where",
+        "start": 798.06,
+        "duration": 4.62
+    },
+    {
+        "text": "you are in theta, because it's \nsymmetrical. It doesn't make any",
+        "start": 802.68,
+        "duration": 7.92
+    },
+    {
+        "text": "difference where you're at the three\no'clock position, the six o'clock position,",
+        "start": 810.6,
+        "duration": 2.58
+    },
+    {
+        "text": "where you are. The radius, oh yes, that\nmakes a big difference. How far you are",
+        "start": 813.18,
+        "duration": 4.74
+    },
+    {
+        "text": "out from the center of the thing. That is critical.\nSo, I'm trying to plot the magnitude and",
+        "start": 817.92,
+        "duration": 11.7
+    },
+    {
+        "text": "the direction of the magnetic field, and that's \nthis B vector. The B Vector has two components,",
+        "start": 829.62,
+        "duration": 8.21
+    },
+    {
+        "text": "one in the direction of the flow - z, and \none in the wrap-around direction, the",
+        "start": 837.83,
+        "duration": 5.83
+    },
+    {
+        "text": "theta direction. So, if you can come up\nwith a solution that will enable you to tell",
+        "start": 843.66,
+        "duration": 7.14
+    },
+    {
+        "text": "what B(z) is and what B(theta) is,\nhow strong they are for any given",
+        "start": 850.8,
+        "duration": 6.24
+    },
+    {
+        "text": "radius you are out from the center of\nthis thing, then you can predict and plot",
+        "start": 857.04,
+        "duration": 4.5
+    },
+    {
+        "text": "what the magnetic field is going to look like.\nOK, now hold on to your seats because",
+        "start": 861.54,
+        "duration": 4.62
+    },
+    {
+        "text": "there's the answer. It may not make much\nsense looking at it, but let me see if I can",
+        "start": 866.16,
+        "duration": 6.35
+    },
+    {
+        "text": "explain what I'm talking about. The black line\nis the strength - it starts off there at 1 - of",
+        "start": 872.51,
+        "duration": 9.67
+    },
+    {
+        "text": "the axial magnetic field, B(z). That's how\nstrong the field is along the axis of the flow.",
+        "start": 882.18,
+        "duration": 8.04
+    },
+    {
+        "text": "The red component is the strength\nof the wraparound field [B(theta)].",
+        "start": 890.22,
+        "duration": 5.88
+    },
+    {
+        "text": "The horizontal axis here is not time.\nPlease, it's not time. It's the radius, the",
+        "start": 896.1,
+        "duration": 5.88
+    },
+    {
+        "text": "radial distance you are out from the center of this flow.\nSo, can you begin to see what's going to happen?",
+        "start": 901.98,
+        "duration": 9.41
+    },
+    {
+        "text": "Right at zero, or as close to the vertical\naxis as we can get, the wraparound - the red -",
+        "start": 911.39,
+        "duration": 7.74
+    },
+    {
+        "text": "there is no wraparound field. It's \nall parallel; the magnetic field is",
+        "start": 919.13,
+        "duration": 5.11
+    },
+    {
+        "text": "exactly in the same direction as the current.\nAnd then, as you begin to come away from -",
+        "start": 924.24,
+        "duration": 6.06
+    },
+    {
+        "text": "that is increase the radius - that axial field \ncomponent.... Of course you know the sum",
+        "start": 930.3,
+        "duration": 8.33
+    },
+    {
+        "text": "of the two vectors B(z) and B (theta) is the B that\nwe're looking for. So, what's the sum of two component",
+        "start": 938.63,
+        "duration": 8.05
+    },
+    {
+        "text": "vectors? Well, it's the square root of the sum of \nthe squares, right? Well, that's the light blue curve.",
+        "start": 946.68,
+        "duration": 10.14
+    },
+    {
+        "text": "So, the light blue curve, the cyan curve,\nis the total strength of the magnetic field",
+        "start": 956.82,
+        "duration": 7.86
+    },
+    {
+        "text": "as a function of how far you come out\nfrom the center of a Birkeland Current.",
+        "start": 964.68,
+        "duration": 5.27
+    },
+    {
+        "text": "And other than maybe a couple \nof little ripples at the close-in,",
+        "start": 969.95,
+        "duration": 7.09
+    },
+    {
+        "text": "small values of r, it comes down pretty well,\ndecaying like any decaying exponential right?",
+        "start": 977.04,
+        "duration": 7.14
+    },
+    {
+        "text": "Well, no not like any decaying exponential.\nThe purple curve is one over the square root of r.",
+        "start": 984.18,
+        "duration": 8.64
+    },
+    {
+        "text": "Most people will say OK. If you know\nwhat we are so proud of in the Electrical",
+        "start": 992.82,
+        "duration": 8.63
+    },
+    {
+        "text": "Universe and that is we're always saying to the\nastronomers that gravity goes down as one over r squared,",
+        "start": 1001.45,
+        "duration": 6.79
+    },
+    {
+        "text": "and the magnetic field from a wire carrying a current\ngoes down as only 1/r. That's a much less rapid decay.",
+        "start": 1008.24,
+        "duration": 9.59
+    },
+    {
+        "text": "1/r is much less rapid than one over r squared.\nThis goes down as one over the square root of r.",
+        "start": 1017.83,
+        "duration": 7.5
+    },
+    {
+        "text": "So, this stuff reaches out into space\nmuch farther than we had heretofore",
+        "start": 1025.33,
+        "duration": 7.02
+    },
+    {
+        "text": "thought, because there are no wires up\nthere. We don't get any 1/r decay. We",
+        "start": 1032.35,
+        "duration": 5.65
+    },
+    {
+        "text": "get a one over the square root of r decay,\nwhich means this stuff has a much",
+        "start": 1038.0,
+        "duration": 5.28
+    },
+    {
+        "text": "wider effect than we had ever sensed\nbefore. Also, if you think about it, try to",
+        "start": 1043.28,
+        "duration": 6.0
+    },
+    {
+        "text": "visualize in your mind's eye what's going to happen\nas you go out to higher values of r. First, the",
+        "start": 1049.28,
+        "duration": 6.24
+    },
+    {
+        "text": "axial strength is getting weaker and the\nred curve is building up to a maximum.",
+        "start": 1055.52,
+        "duration": 5.22
+    },
+    {
+        "text": "That maximum occurs almost (not\nduring the first cycle but the other",
+        "start": 1060.74,
+        "duration": 5.52
+    },
+    {
+        "text": "cycles) - it's almost exact - the maximum \nof the curlicue kind of the curling around",
+        "start": 1066.26,
+        "duration": 4.56
+    },
+    {
+        "text": "field occurs when the axial field component \nis zero. So, what that means is, just look at these",
+        "start": 1070.82,
+        "duration": 8.4
+    },
+    {
+        "text": "11 plots. Just look at step number 1.\nThink of yourself as you’re above this",
+        "start": 1079.22,
+        "duration": 6.6
+    },
+    {
+        "text": "Birkeland Current that’s in the cylinder.\nThe cyan-colored arrows are the",
+        "start": 1085.82,
+        "duration": 7.02
+    },
+    {
+        "text": "direction of the field. The whole field,\nbecause there is no wrap-around.",
+        "start": 1092.84,
+        "duration": 4.74
+    },
+    {
+        "text": "And then, as you come to step number 2,\nthat's a little farther away from the",
+        "start": 1097.58,
+        "duration": 5.94
+    },
+    {
+        "text": "axis of the flow, and you can see that the\ncurl-around field begins to contribute. The",
+        "start": 1103.52,
+        "duration": 9.53
+    },
+    {
+        "text": "axial field gets weaker and the\nwhole thing begins to tilt. And so,",
+        "start": 1113.05,
+        "duration": 5.77
+    },
+    {
+        "text": "this magnetic field begins to wrap\nlike a fasce around the current.",
+        "start": 1118.82,
+        "duration": 6.59
+    },
+    {
+        "text": "In step number 3 you see that the\nwrap-around field is stronger yet.",
+        "start": 1125.41,
+        "duration": 6.03
+    },
+    {
+        "text": "The white arrows in each of these successive\ndiagrams [are a repeat of the previous one]",
+        "start": 1131.44,
+        "duration": 7.18
+    },
+    {
+        "text": "and so each successive diagram is\none layer higher, away from the",
+        "start": 1138.62,
+        "duration": 6.66
+    },
+    {
+        "text": "center of this flow. The white field shows\nwhat is happening just below the blue field.",
+        "start": 1145.28,
+        "duration": 8.1
+    },
+    {
+        "text": "Eventually, when you get to somewhere out here\nbetween 4 and 5, you can see that the white",
+        "start": 1153.38,
+        "duration": 6.29
+    },
+    {
+        "text": "arrows are really zero. Notice there is no\naxial magnetic field. It's all wrap- around.",
+        "start": 1159.67,
+        "duration": 7.69
+    },
+    {
+        "text": "It's just as though you took tape and\njust wrapped it around that pipe.",
+        "start": 1167.36,
+        "duration": 4.55
+    },
+    {
+        "text": "And then, as you go farther and farther\naway, the axial field actually reverses",
+        "start": 1171.91,
+        "duration": 4.81
+    },
+    {
+        "text": "direction, begins to come back at you and so\nthe curl is down. And then... when you get to",
+        "start": 1176.72,
+        "duration": 7.38
+    },
+    {
+        "text": "number 6, the axial field has reversed and is just\nagainst you. Again, what's going on between 6 and 7?",
+        "start": 1184.1,
+        "duration": 8.45
+    },
+    {
+        "text": "Well,... at 6 the wraparound field is zero\nand at 7 it's beginning to wrap the other way.",
+        "start": 1194.12,
+        "duration": 12.12
+    },
+    {
+        "text": "So, first of all it wraps this way. Then it goes back\ndown that way. Perhaps some of you have seen that",
+        "start": 1206.24,
+        "duration": 9.05
+    },
+    {
+        "text": "diagram that was published by one of\nour EU heroes, Hannes Alfven. You can",
+        "start": 1215.29,
+        "duration": 7.69
+    },
+    {
+        "text": "see that the red arrow is right near the center of the\nflow, and (what should I say) the pitch of it is not",
+        "start": 1222.98,
+        "duration": 8.28
+    },
+    {
+        "text": "very high at all. Then the farther out\nyou get, like you go to the blue arrow",
+        "start": 1231.26,
+        "duration": 4.7
+    },
+    {
+        "text": "then the pitch is less. It's a finer thread, if you will.\nAnd then finally out to the green arrow,",
+        "start": 1235.96,
+        "duration": 8.56
+    },
+    {
+        "text": "well that's out there somewhere between my diagram 3 and 4.\nThe axial field is zero and the thing just goes",
+        "start": 1244.52,
+        "duration": 5.64
+    },
+    {
+        "text": "around. That's fine as it goes.\nAs far as it goes, Alfven was right.",
+        "start": 1250.16,
+        "duration": 5.51
+    },
+    {
+        "text": "He just didn't go far enough, because \nthe next radius out, bigger than the green",
+        "start": 1255.67,
+        "duration": 7.33
+    },
+    {
+        "text": "circles there, would produce something like the blue,\nexcept with a wider radius. And instead of going up, it",
+        "start": 1263.0,
+        "duration": 7.74
+    },
+    {
+        "text": "would come down. Let me give you\nan analogy. The perfume bottle when I",
+        "start": 1270.74,
+        "duration": 4.62
+    },
+    {
+        "text": "opened it, would go to all corners of the room.\nIt would spread out in all dimensions.",
+        "start": 1275.36,
+        "duration": 7.55
+    },
+    {
+        "text": "This is also a minimum-energy field and that\nmeans that this magnetic field is going to wrap",
+        "start": 1282.91,
+        "duration": 8.88
+    },
+    {
+        "text": "around the current, every possible way it can.\nAnd so it isn't just going to go clockwise and then stop.",
+        "start": 1291.79,
+        "duration": 8.17
+    },
+    {
+        "text": "It's going to go clockwise and then\ncounterclockwise, and come back down again. So,",
+        "start": 1299.96,
+        "duration": 6.36
+    },
+    {
+        "text": "the question is, well so what?\nWell, here's the comparison of the field",
+        "start": 1306.32,
+        "duration": 4.5
+    },
+    {
+        "text": "strengths. The yellow curve is one\nover the square root of r. The purple",
+        "start": 1310.82,
+        "duration": 4.32
+    },
+    {
+        "text": "curve is the wire's magnetic field\nwhich is 1/r, and if you look at a",
+        "start": 1315.14,
+        "duration": 5.94
+    },
+    {
+        "text": "couple of different radial distances,\nthere my observation number 2 says",
+        "start": 1321.08,
+        "duration": 5.21
+    },
+    {
+        "text": "that the Birkeland Current magnetic field\nis 32 times stronger than gravity at r=10.",
+        "start": 1326.29,
+        "duration": 7.26
+    },
+    {
+        "text": "And it's even 3.2 times stronger than the previous EU\nestimate which [was based on] the magnetic field in a wire.",
+        "start": 1333.55,
+        "duration": 9.0
+    },
+    {
+        "text": "But there aren’t any wires out there,\nSo, therefore it spreads out even farther.",
+        "start": 1342.55,
+        "duration": 5.77
+    },
+    {
+        "text": "The Lorentz force compresses matter at\nvarious radial fields, I don't know how",
+        "start": 1348.32,
+        "duration": 4.32
+    },
+    {
+        "text": "much longer I got here, but let me just try to\ngive you what I think is the most important thing.",
+        "start": 1352.64,
+        "duration": 4.56
+    },
+    {
+        "text": "Here's a picture that looks like a bullseye,\nas you're looking down a Birkeland Current.",
+        "start": 1357.2,
+        "duration": 7.14
+    },
+    {
+        "text": "[Pay attention to the thin little\nblack circles with numbers. The numbers",
+        "start": 1364.34,
+        "duration": 8.76
+    },
+    {
+        "text": "at the various radius distances correlate with the\nnumbers that you see in the field strength figure below].",
+        "start": 1373.1,
+        "duration": 5.88
+    },
+    {
+        "text": "For example at about 31. That's a \nplace where the axial strength is zero.",
+        "start": 1378.98,
+        "duration": 13.86
+    },
+    {
+        "text": "So what you've got is simply the\nwraparound magnetic field, the red is at a",
+        "start": 1392.84,
+        "duration": 7.98
+    },
+    {
+        "text": "maximum, and so there's what I've tried to draw\nthere at 31, you can see that's a strong wraparound",
+        "start": 1400.82,
+        "duration": 8.09
+    },
+    {
+        "text": "current. If you come out to radius 73,\nyou can see that again, you're at a",
+        "start": 1408.91,
+        "duration": 8.71
+    },
+    {
+        "text": "point where the wraparound field is very \nstrong. The axial field is zero and so what you",
+        "start": 1417.62,
+        "duration": 9.48
+    },
+    {
+        "text": "got is the thing goes around the other way.\nOkay, so what? Well, consider yourself",
+        "start": 1427.1,
+        "duration": 4.55
+    },
+    {
+        "text": "as a positive charge and you're\nheading down the highway here.",
+        "start": 1431.65,
+        "duration": 4.99
+    },
+    {
+        "text": "You are going to either intercept,\ndepending on how far your path is,",
+        "start": 1436.64,
+        "duration": 5.15
+    },
+    {
+        "text": "whether you're right at the center or\nwhether you're a little bit farther out",
+        "start": 1441.79,
+        "duration": 2.83
+    },
+    {
+        "text": "from the center of this flow, are you in\nthe right hand lane or the high-speed",
+        "start": 1444.62,
+        "duration": 3.72
+    },
+    {
+        "text": "lane, you're going to encounter either this\n(at that point) downward magnetic field,",
+        "start": 1448.34,
+        "duration": 6.3
+    },
+    {
+        "text": "or, if you're out here, you'll encounter an upward\nmagnetic field. You see it? Well, now think about",
+        "start": 1454.64,
+        "duration": 6.12
+    },
+    {
+        "text": "the Lorentz force. If you're at radius 31,\nyou're going that way, the magnetic field is down,",
+        "start": 1460.76,
+        "duration": 9.41
+    },
+    {
+        "text": "and so you've got a force pushing you in\ntoward the center. Remember the Lorentz force:",
+        "start": 1470.17,
+        "duration": 5.05
+    },
+    {
+        "text": "you put your fingers in the direction\nof the flow of a current charge,",
+        "start": 1475.22,
+        "duration": 4.14
+    },
+    {
+        "text": "then change them into the direction of\nthe magnetic field and your thumb tells",
+        "start": 1479.36,
+        "duration": 4.67
+    },
+    {
+        "text": "you what the push is going to be. So you've got current\ngoing in at radius 31. You've got a magnetic field",
+        "start": 1484.03,
+        "duration": 7.5
+    },
+    {
+        "text": "downward. So, in, down, the force is in. So any charge\naround the radius 31 is going to be squeezed into",
+        "start": 1491.53,
+        "duration": 11.71
+    },
+    {
+        "text": "the middle. Is that good? Yes, it's good \nbecause in the middle you've got a very strong",
+        "start": 1503.24,
+        "duration": 8.81
+    },
+    {
+        "text": "axial [magnetic field]. The black line is at a maximum.\nYou got a strong field going that way.",
+        "start": 1512.05,
+        "duration": 5.65
+    },
+    {
+        "text": "Then you have nothing in any other \ndirection. And when the current",
+        "start": 1517.7,
+        "duration": 4.44
+    },
+    {
+        "text": "wants to go in the same direction \nas the field, it's a super highway.",
+        "start": 1522.14,
+        "duration": 4.98
+    },
+    {
+        "text": "So, that's why these Birkeland \nCurrents work so well, right in that first",
+        "start": 1527.12,
+        "duration": 6.48
+    },
+    {
+        "text": "little area. What about the rest of it? Well, you can \nspend some time doing this kind of stuff, but for",
+        "start": 1533.6,
+        "duration": 7.62
+    },
+    {
+        "text": "example at radius 75, look at 75.\nThe z- field is zero and you got a counter-",
+        "start": 1541.22,
+        "duration": 7.5
+    },
+    {
+        "text": "rotating magnetic field and so what happens?\nYou're heading into the board. You're a plus charge.",
+        "start": 1548.72,
+        "duration": 5.81
+    },
+    {
+        "text": "and you put your fingers in the direction of your\nflow, and then you look at the magnetic field: it's up.",
+        "start": 1554.53,
+        "duration": 7.62
+    },
+    {
+        "text": "Okay, your fingers are there, go up, out. So, any \ncharge that's flowing around radius 73, is going to be",
+        "start": 1562.15,
+        "duration": 13.45
+    },
+    {
+        "text": "expelled outward from the flow. And so, \nevery time you come to one of these reversals,",
+        "start": 1575.6,
+        "duration": 5.93
+    },
+    {
+        "text": "you're going to be pushed either in or out.\nAnd that's what I've done. I've tried to",
+        "start": 1581.53,
+        "duration": 6.37
+    },
+    {
+        "text": "mark in the pink as where the charges \nend up. Okay. I hope it's clear. If you look",
+        "start": 1587.9,
+        "duration": 7.8
+    },
+    {
+        "text": "at this long enough, it becomes clear, \nI guess... Pick anything, like pick 136.",
+        "start": 1595.7,
+        "duration": 7.85
+    },
+    {
+        "text": "What's going on here? Well, at 136 you\nlook along over here someplace that's right",
+        "start": 1605.77,
+        "duration": 5.28
+    },
+    {
+        "text": "there, that says that the wraparound field is zero \nand the axial field is negative. So, at 136 there is no",
+        "start": 1611.05,
+        "duration": 9.36
+    },
+    {
+        "text": "wraparound field. It's zero, and this magnetic\nfield is coming at you. Doesn't that defeat the",
+        "start": 1620.41,
+        "duration": 8.76
+    },
+    {
+        "text": "purpose? You don't want any current flowing\nback, you want current going that way.",
+        "start": 1629.17,
+        "duration": 4.5
+    },
+    {
+        "text": "Well, you notice there's no charge carriers \nthere. Because at 136, they're either pushed",
+        "start": 1633.67,
+        "duration": 7.57
+    },
+    {
+        "text": "that way into this, sort of first shell,\nor they're pushed outward to that shell.",
+        "start": 1641.24,
+        "duration": 10.02
+    },
+    {
+        "text": "So, regions like 51 and 136 radius, out here is\nanother one at 220, it's sort of like a super highway.",
+        "start": 1651.26,
+        "duration": 11.27
+    },
+    {
+        "text": "But there's no cars on the highway.\nThere's no charge carriers there.",
+        "start": 1662.53,
+        "duration": 4.45
+    },
+    {
+        "text": "I hope I've shown that at certain places,\nat certain radii, it's easy for current",
+        "start": 1666.98,
+        "duration": 7.19
+    },
+    {
+        "text": "to flow, and other places it's hard for\ncurrent to flow and certainly because of",
+        "start": 1674.17,
+        "duration": 5.05
+    },
+    {
+        "text": "the counter-rotating wraparound field,\ncharges will tend to form in these",
+        "start": 1679.22,
+        "duration": 6.36
+    },
+    {
+        "text": "layers. So, these layers are concentric\ncylinders. This is the same sort of",
+        "start": 1685.58,
+        "duration": 5.04
+    },
+    {
+        "text": "result that Marklund came up with, with Marklund\nconvection. If any of you are familiar with that.",
+        "start": 1690.62,
+        "duration": 5.88
+    },
+    {
+        "text": "Marklund, a Swedish scientist/engineer I think,\ndeveloped almost the same thing except his",
+        "start": 1696.5,
+        "duration": 8.7
+    },
+    {
+        "text": "mechanism is predicated on the idea that you've got\na variety, a spectrum of different types of elements,",
+        "start": 1705.2,
+        "duration": 6.66
+    },
+    {
+        "text": "and he found that what goes to the center are the\neasily ionizable elements. To me it's very counter-",
+        "start": 1711.86,
+        "duration": 10.14
+    },
+    {
+        "text": "intuitive. Iron and stuff like that are\neasy to ionize, so you'll find iron and",
+        "start": 1722.0,
+        "duration": 5.7
+    },
+    {
+        "text": "the heavy elements in the middle.\nAnd one of the hardest elements",
+        "start": 1727.7,
+        "duration": 3.66
+    },
+    {
+        "text": "of all (which seems absolutely nuts to me, but \nit is true) to ionize is hydrogen. And hydrogen",
+        "start": 1731.36,
+        "duration": 7.5
+    },
+    {
+        "text": "is on the outside. So, that's Marklund convection.\nHe's got the same result as this. That is there are",
+        "start": 1738.86,
+        "duration": 6.84
+    },
+    {
+        "text": "concentric cylinders and there's a\nselectivity as to what kind of elements",
+        "start": 1745.7,
+        "duration": 5.4
+    },
+    {
+        "text": "you're going to find in which layer. And\nthat's great. My result is independent of",
+        "start": 1751.1,
+        "duration": 5.76
+    },
+    {
+        "text": "what you've got there. In other words,\nthis will happen no matter what the stuff is that's",
+        "start": 1756.86,
+        "duration": 6.9
+    },
+    {
+        "text": "flowing. It could be just protons, it could be \nelectrons. If all you have is electrons,",
+        "start": 1763.76,
+        "duration": 7.5
+    },
+    {
+        "text": "everything I said, just reverse it.\nIt goes the other way, it's no problem.",
+        "start": 1771.26,
+        "duration": 5.27
+    },
+    {
+        "text": "But the same kind of selectivity the same kind of\nforming these concentric layers will occur. Well,",
+        "start": 1776.53,
+        "duration": 9.07
+    },
+    {
+        "text": "is this true? Well there's a famous picture\nof Saturn's north pole. It's also the famous",
+        "start": 1785.6,
+        "duration": 7.74
+    },
+    {
+        "text": "hexagon in the middle. You see the little\none right in the middle and my results",
+        "start": 1793.34,
+        "duration": 4.31
+    },
+    {
+        "text": "here do not predict that hexagon. I wish they did,\nbut they don't. But they do predict those circles.",
+        "start": 1797.65,
+        "duration": 6.55
+    },
+    {
+        "text": "Here's a Birkeland Current coming down into\nJupiter's north pole. Same sort of thing.",
+        "start": 1804.2,
+        "duration": 5.33
+    },
+    {
+        "text": "there are concentric circles. That's where the charge \nhits. That's where the charge is concentrated.",
+        "start": 1809.53,
+        "duration": 6.79
+    },
+    {
+        "text": "And the wrapping around, by the way, I don't have\nany slide to show it but the the way this crazy",
+        "start": 1816.32,
+        "duration": 5.82
+    },
+    {
+        "text": "’going this way and then back that way’ it's wrapped\nlike a Roman soldier. In World War I the soldiers",
+        "start": 1822.14,
+        "duration": 8.15
+    },
+    {
+        "text": "wore patisse, wrapped around their leg.\nI think they only wrapped them in one direction.",
+        "start": 1830.29,
+        "duration": 6.19
+    },
+    {
+        "text": "But if you wrap them all the way down\nand then come wrapping them about the",
+        "start": 1836.48,
+        "duration": 2.57
+    },
+    {
+        "text": "other way and then back down the other\nway, you got a real wrap. And that's a real",
+        "start": 1839.05,
+        "duration": 5.34
+    },
+    {
+        "text": "reason, in my mind, that the whole thing\nhangs together, and doesn't dissipate.",
+        "start": 1844.39,
+        "duration": 6.97
+    },
+    {
+        "text": "Here's a picture from Tony Peratt's lab.\nThat's a dense plasma focus device",
+        "start": 1851.48,
+        "duration": 5.4
+    },
+    {
+        "text": "and you can see the circularity of it. You can\nalmost see this circle going one way and then going",
+        "start": 1856.88,
+        "duration": 7.32
+    },
+    {
+        "text": "the other way. Here's a picture that\nC.J. Ransom and Mel Acheson can be",
+        "start": 1864.2,
+        "duration": 6.47
+    },
+    {
+        "text": "proud of. They made that one in CJ's lab. And \nagain that's the result of a high amperage current.",
+        "start": 1870.67,
+        "duration": 8.22
+    },
+    {
+        "text": "Probably, CJ if he's here, can tell you \nwhat the surface, the substrate is.",
+        "start": 1878.89,
+        "duration": 4.75
+    },
+    {
+        "text": "But you can see, it forms a bullseye.\nAnd the strongest one is of course",
+        "start": 1883.64,
+        "duration": 7.2
+    },
+    {
+        "text": "that one right in the middle. So, that's\nbecause of the properties, I think we've",
+        "start": 1890.84,
+        "duration": 4.55
+    },
+    {
+        "text": "identified here as the properties of a Birkeland \nCurrent. We, Wal, me, a few other of us",
+        "start": 1895.39,
+        "duration": 8.13
+    },
+    {
+        "text": "nuts, are convinced that what you're\nlooking at there is a Birkeland Current.",
+        "start": 1903.52,
+        "duration": 5.5
+    },
+    {
+        "text": "A Birkeland Current that's undergoing a z-pinch,\nand you can see, I think very obviously,",
+        "start": 1909.02,
+        "duration": 6.42
+    },
+    {
+        "text": "that the Birkeland Current consists of\nconcentric cylinders. You can see the",
+        "start": 1915.44,
+        "duration": 3.54
+    },
+    {
+        "text": "outside too certainly. And the center one I\nthink that that, and that, are double layers",
+        "start": 1918.98,
+        "duration": 8.34
+    },
+    {
+        "text": "in a central stream of current. Whether\nthe current's going all one way or all",
+        "start": 1927.32,
+        "duration": 4.56
+    },
+    {
+        "text": "the other, we've talked for hours on \nthis and we still can't figure it out. But I",
+        "start": 1931.88,
+        "duration": 4.44
+    },
+    {
+        "text": "would say if that is indeed a Birkeland\nCurrent, all the currents going one way",
+        "start": 1936.32,
+        "duration": 4.26
+    },
+    {
+        "text": "on the outer sheath, whether it goes\nin the opposite direction in the center,",
+        "start": 1940.58,
+        "duration": 4.44
+    },
+    {
+        "text": "I don't know. But certainly, it can go\nwhichever way it wants to because in the center,",
+        "start": 1945.02,
+        "duration": 6.89
+    },
+    {
+        "text": "the magnetic field is lined up with the flow of\ncharge, no matter which way it's going.",
+        "start": 1951.91,
+        "duration": 4.69
+    },
+    {
+        "text": "And so it goes for free. It's a super highway.\nAnyway, that Planetary Nebula M2-9 that's not Messier.",
+        "start": 1956.6,
+        "duration": 8.1
+    },
+    {
+        "text": "Somebody else quoted Walt Whitman,\nso I didn't want to be left in the lurch.",
+        "start": 1964.7,
+        "duration": 9.14
+    },
+    {
+        "text": "And after all this lecture of numbers and all this\nhe says he looked up in perfect silence at the stars.",
+        "start": 1975.5,
+        "duration": 8.52
+    },
+    {
+        "text": "You have to look. And I submit that's one of the\nprimary rules of the Electric Universe. That is,",
+        "start": 1984.02,
+        "duration": 6.89
+    },
+    {
+        "text": "let your eyes tell you and that is a\nconcentrically-made sheet of current.",
+        "start": 1990.91,
+        "duration": 8.59
+    },
+    {
+        "text": "Again, just looking downstream, that's \nwhat you see in a Birkeland Current.",
+        "start": 1999.5,
+        "duration": 4.86
+    },
+    {
+        "text": "And there's that picture of Saturn. I submit that's \npretty darn good evidence. Anyway, thanks.",
+        "start": 2004.36,
+        "duration": 7.34
+    },
+    {
+        "text": "[Applause]",
+        "start": 2011.7,
+        "duration": 3.21
+    },
+    {
+        "text": "[Music]",
+        "start": 2017.43,
+        "duration": 31.06
+    }
+]

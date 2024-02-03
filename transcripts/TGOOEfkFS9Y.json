@@ -1,0 +1,382 @@
+[
+    {
+        "text": "Hello. I wanted to give a short tutorial on how I go about\nanalyzing images. A friend of mine sent me a link to an",
+        "start": 12.17,
+        "duration": 8.41
+    },
+    {
+        "text": "image from the James Webb Space Telescope. As I was\nplaying around with it, I thought this would be a good",
+        "start": 20.58,
+        "duration": 4.8
+    },
+    {
+        "text": "opportunity to give a little demo. OK, so enjoy.\nAnd here is the Webb page that my friend sent me.",
+        "start": 25.38,
+        "duration": 9.86
+    },
+    {
+        "text": "James Webb reveals complex galactic structures.\nLook at that, that is incredible. This is apparently a galaxy,",
+        "start": 36.54,
+        "duration": 7.19
+    },
+    {
+        "text": "just looking at the caption here, IC 5332. That's a\ncatalog number for galaxies. So, I'm going to copy that,",
+        "start": 43.73,
+        "duration": 10.03
+    },
+    {
+        "text": "and I'm going to go to one of my go-to applications for\nlooking at telescope data, which is this sky.esa.int.",
+        "start": 53.94,
+        "duration": 10.2
+    },
+    {
+        "text": "It combines telescope data across a very wide range\nof telescopes. Very easy, very good interface to use.",
+        "start": 65.45,
+        "duration": 9.73
+    },
+    {
+        "text": "Right now, we're looking at the Crab Nebula. When you launch\nit up, it'll [shows you things to choose from]. So that's the",
+        "start": 75.18,
+        "duration": 9.6
+    },
+    {
+        "text": "Crab Nebula. Look over here on the left.\nThis is the layers you can put on top of each other.",
+        "start": 84.78,
+        "duration": 5.82
+    },
+    {
+        "text": "We're looking at an optical image, DSS2 which is the\nDigital Sky Survey number two, in color. But we can choose",
+        "start": 90.6,
+        "duration": 8.28
+    },
+    {
+        "text": "different telescopes. Look at that. All those choices; those\nare all optical telescopes. HST is Hubble. Let's see if",
+        "start": 98.88,
+        "duration": 5.58
+    },
+    {
+        "text": "there's a Hubble image of this. That might be good\nfor later research. Good raw data. Okay, nothing",
+        "start": 104.46,
+        "duration": 9.29
+    },
+    {
+        "text": "that's beautiful from Hubble on this one. So, let's \ngo back where we were on digital Sky Survey. Let's",
+        "start": 113.75,
+        "duration": 8.47
+    },
+    {
+        "text": "add on a new row, say in the near infrared. Oh, that's nice.\nHow about the mid infrared, “Oh look at that!.” OK, so",
+        "start": 122.22,
+        "duration": 11.87
+    },
+    {
+        "text": "we're going to do a near infrared and then I'm\ngoing to add also a new row of far infrared.",
+        "start": 134.09,
+        "duration": 8.59
+    },
+    {
+        "text": "OK. [excitement] You can change the opacity.\nSo, I can blend the images. This is",
+        "start": 142.68,
+        "duration": 12.05
+    },
+    {
+        "text": "one of the great things about this tool, you can blend the\nimages from different wavelengths and different telescopes.",
+        "start": 154.73,
+        "duration": 7.81
+    },
+    {
+        "text": "We're looking at one object here, the Crab Nebula.\nWe're looking at it in different wavelengths",
+        "start": 162.54,
+        "duration": 5.22
+    },
+    {
+        "text": "captured by different telescopes, and we're \nblending across the telescopes to give us a",
+        "start": 167.76,
+        "duration": 6.72
+    },
+    {
+        "text": "fuller view of this mysterious thing that we are looking at.\nOK. Got a little sidetrack there. Let's go to the",
+        "start": 174.48,
+        "duration": 9.68
+    },
+    {
+        "text": "IC 5332. That was what we started with here.\nSo, I'm going to type in IC 5332.",
+        "start": 184.16,
+        "duration": 9.82
+    },
+    {
+        "text": "(Oops, I got an editing problem here, it's going to say\nnothing there) ... And there is the galaxy that is the",
+        "start": 195.0,
+        "duration": 11.75
+    },
+    {
+        "text": "subject of this video - IC 5332, it's coming \nup. An optical telescope Digital Sky Survey",
+        "start": 214.14,
+        "duration": 8.34
+    },
+    {
+        "text": "Cool, I'm just going to zoom out a little bit. (Just for \nthe heck of it, let's just see what else we got here.",
+        "start": 222.48,
+        "duration": 6.42
+    },
+    {
+        "text": "We can see this in near infrared, a little bit, \nnot much). There's different telescopes one can",
+        "start": 228.9,
+        "duration": 8.52
+    },
+    {
+        "text": "choose; not all telescopes have all the data on here.\nYou're not guaranteed to find a picture of this",
+        "start": 237.42,
+        "duration": 11.03
+    },
+    {
+        "text": "in any other wavelength. I'm just showing that\nyou can choose different wavelengths. Okay, so",
+        "start": 248.45,
+        "duration": 7.56
+    },
+    {
+        "text": "there's the object in question. You'll notice up here\nthere's a couple of icons for Hubble and for James Webb.",
+        "start": 256.01,
+        "duration": 7.45
+    },
+    {
+        "text": "Hubble and James Webb have both made the effort to \nput some of their specialty images, high quality images,",
+        "start": 263.46,
+        "duration": 7.67
+    },
+    {
+        "text": "into this tool. it's not the best integration, but it \ncertainly is worth using. So, I'm going to click on the",
+        "start": 271.13,
+        "duration": 7.33
+    },
+    {
+        "text": "James Webb version, since that's where this all \nstarted. It knows that I'm looking at this part of the",
+        "start": 278.46,
+        "duration": 5.34
+    },
+    {
+        "text": "sky. It calls up the pictures that I want. Let's look at\nthis one. Webb, I see, yeah that's it. That's the one,",
+        "start": 283.8,
+        "duration": 7.98
+    },
+    {
+        "text": "right? That's the one that we started with. There \nit is. Now the blending, it's awkward with these",
+        "start": 291.78,
+        "duration": 8.94
+    },
+    {
+        "text": "James Webb and Hubble specialty images. You don't get\nto do everything you want. So, what I'm going to do,",
+        "start": 300.72,
+        "duration": 7.19
+    },
+    {
+        "text": "is take this image and put it into another tool, to do my\nown blending with it. I'm going to zoom in a bit, so that I",
+        "start": 307.91,
+        "duration": 7.33
+    },
+    {
+        "text": "can get rid of those boxes. There we go, and I'm going\nto zoom in - nice big image - and on the upper right",
+        "start": 315.24,
+        "duration": 6.06
+    },
+    {
+        "text": "hand here, take a screenshot and you can \ndownload this image (I already did it), so I'm just",
+        "start": 321.3,
+        "duration": 8.94
+    },
+    {
+        "text": "going to say, you can download the image,\nsave it to your computer and then I'm",
+        "start": 330.24,
+        "duration": 3.78
+    },
+    {
+        "text": "going to look at a the Hubble version of this. So, there's \nthe Hubble one. It's amazing, right? And then I can",
+        "start": 334.02,
+        "duration": 11.58
+    },
+    {
+        "text": "save the Hubble version of this, download that.\nNow I want to blend them. You can use",
+        "start": 345.6,
+        "duration": 7.02
+    },
+    {
+        "text": "Photoshop - I don't have photoshop on this computer - so\nthey go to ’Online Image Editing Tool’. This one [Photopea]",
+        "start": 352.62,
+        "duration": 10.5
+    },
+    {
+        "text": "(I don't know how to pronounce it - ’photopia’?) I'm\ngoing to load up, one image. Say put Hubble first,",
+        "start": 363.12,
+        "duration": 13.44
+    },
+    {
+        "text": "IC 5332 Hubble Space Telescope. Open that.\nThere it is! Oops. Just want to zoom in.",
+        "start": 376.56,
+        "duration": 10.34
+    },
+    {
+        "text": "There we go, and now I'm going to open up\nthe James Webb, but I open it in place,",
+        "start": 386.9,
+        "duration": 8.5
+    },
+    {
+        "text": "so that they can be layers. So they can\nbe on the same image, but just layers of",
+        "start": 395.4,
+        "duration": 4.68
+    },
+    {
+        "text": "the same image. So, open the James Webb. All right.\nso now you can see over here. Here's the layers.",
+        "start": 400.08,
+        "duration": 6.05
+    },
+    {
+        "text": "We have the Hubble and then we have the James \nWebb beneath it - I'm just toggling the visibility here -",
+        "start": 406.13,
+        "duration": 6.97
+    },
+    {
+        "text": "of the top layer. Let me rename that. That is IC 5332 Hubble\nSpace Telescope, so I can keep track here. When you blend...",
+        "start": 413.1,
+        "duration": 12.42
+    },
+    {
+        "text": "there's a lot of ways to blend, and\nthe simplest is with ‘opacity’ or ‘fill’ for",
+        "start": 425.52,
+        "duration": 6.29
+    },
+    {
+        "text": "these images. They're basically the same option. So, \nopacity - I'm going to toggle the opacity of the top layer,",
+        "start": 431.81,
+        "duration": 7.87
+    },
+    {
+        "text": "which is the Hubble Space Telescope. That's kind of \nawkward. How it's blending out the blacks there. Let me try",
+        "start": 439.68,
+        "duration": 7.73
+    },
+    {
+        "text": "switching the order - see if it matters. Opacity, that's\nbetter. So, there was something weird going on there with",
+        "start": 447.41,
+        "duration": 12.55
+    },
+    {
+        "text": "having the one image on top versus the other. I don't know\nwhat it is, don't really care right now. I think it had",
+        "start": 462.3,
+        "duration": 4.92
+    },
+    {
+        "text": "something to do with how the zero pixel was being stored.\nOkay, back to the project. The top image is the",
+        "start": 467.22,
+        "duration": 6.53
+    },
+    {
+        "text": "James Webb. I'm going to toggle the opacity and you can\nsee there's the Hubble, there's the James Webb. There's",
+        "start": 473.75,
+        "duration": 7.38
+    },
+    {
+        "text": "the Hubble, there's your James Webb.\nAnd the human visual system is very advanced,",
+        "start": 481.13,
+        "duration": 7.45
+    },
+    {
+        "text": "and it will start putting things together \nfor you, if you give it information and",
+        "start": 488.58,
+        "duration": 9.42
+    },
+    {
+        "text": "let it do its job. Wow! So, what I'm seeing - which I didn't\neven notice till now - is on the Hubble there are these",
+        "start": 498.0,
+        "duration": 7.97
+    },
+    {
+        "text": "dark areas. Wow! Didn't even notice those.\nLook at all those dark areas and what do",
+        "start": 505.97,
+        "duration": 6.61
+    },
+    {
+        "text": "you want to bet that those are exactly where the James\nWebb is bright. So, we got to choose some features and",
+        "start": 512.58,
+        "duration": 7.37
+    },
+    {
+        "text": "check it out. Like right around here,\nSee this orange thing here. You see",
+        "start": 519.95,
+        "duration": 6.13
+    },
+    {
+        "text": "like an S-shaped ‘wiggle – wiggle’ dark lane. Let's see\nif that ‘wiggle – wiggle’ dark lane... Yeah, pretty much.",
+        "start": 526.08,
+        "duration": 10.19
+    },
+    {
+        "text": "Okay, it's not a hundred percent, but clearly, like up\nhere, let's look up here. There's nothing in the James Webb",
+        "start": 536.27,
+        "duration": 5.77
+    },
+    {
+        "text": "there, it's a dark area with the James Webb.\nWhat does Hubble give us? Yep, that is a",
+        "start": 542.04,
+        "duration": 6.96
+    },
+    {
+        "text": "very clear image for the Hubble - it almost reminds\nme of the Nautilus shells, when you cut them,",
+        "start": 549.0,
+        "duration": 6.3
+    },
+    {
+        "text": "and they have the chambers in them. This reminds me \nof that. That kind of segregation. So, segregation",
+        "start": 555.3,
+        "duration": 8.65
+    },
+    {
+        "text": "in the plasma world is... It's a very elaborate \ncomplex thing. Plasma does it very well. You can see...",
+        "start": 563.95,
+        "duration": 14.27
+    },
+    {
+        "text": "There's these very well-defined boundaries.\nI'll zoom in on one of these boundaries here. Now.",
+        "start": 578.22,
+        "duration": 10.34
+    },
+    {
+        "text": "Oh, no back up. Hey, I want to zoom in. Well anyway.\nThose boundaries are a clear delineation of energy",
+        "start": 589.14,
+        "duration": 24.54
+    },
+    {
+        "text": "levels - a very sharp delineation of composition.\nSo, whatever is along this thin line here,",
+        "start": 613.68,
+        "duration": 10.62
+    },
+    {
+        "text": "is a very different energy and composition than\nwhat's over here in this dark area. And that kind of",
+        "start": 624.3,
+        "duration": 7.02
+    },
+    {
+        "text": "segregation is everywhere in the plasma\nuniverse. It's everywhere in biology too,",
+        "start": 631.32,
+        "duration": 5.76
+    },
+    {
+        "text": "frankly. You know the body is segregated into ...\nThe muscles are in bundles; the nerves have their own",
+        "start": 637.08,
+        "duration": 8.58
+    },
+    {
+        "text": "segregation; the nerves go on their own channels, \netc. Okay. Well, that was really it. I am done",
+        "start": 645.66,
+        "duration": 6.72
+    },
+    {
+        "text": "with the little demo. I'm just going to keep\nplaying with this, and hope you enjoy it. Bye.",
+        "start": 652.38,
+        "duration": 7.82
+    },
+    {
+        "text": "[Music]",
+        "start": 663.9,
+        "duration": 6.74
+    }
+]

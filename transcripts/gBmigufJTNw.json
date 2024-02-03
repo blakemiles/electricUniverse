@@ -1,0 +1,527 @@
+[
+    {
+        "text": "[Music]",
+        "start": 3.68,
+        "duration": 3.06
+    },
+    {
+        "text": "We orbit around a star as part of\nthe solar system. This star is one of a",
+        "start": 10.63,
+        "duration": 4.73
+    },
+    {
+        "text": "hundred to four hundred million\nstars that make up the Milky Way.",
+        "start": 15.36,
+        "duration": 4.07
+    },
+    {
+        "text": "Our solar system is unique in many ways, and\none of those is that it only comprises one star.",
+        "start": 19.43,
+        "duration": 6.65
+    },
+    {
+        "text": "Most star systems actually consist\nof two stars called a binary system.",
+        "start": 26.08,
+        "duration": 5.68
+    },
+    {
+        "text": "Most binary systems can be hard to detect.\nThe easiest way is through visual",
+        "start": 31.76,
+        "duration": 4.79
+    },
+    {
+        "text": "observations where it is possible to\nresolve the individual stars themselves.",
+        "start": 36.55,
+        "duration": 5.05
+    },
+    {
+        "text": "This is most often not possible, so\nastronomers have to rely on other techniques.",
+        "start": 41.6,
+        "duration": 5.27
+    },
+    {
+        "text": "One involves looking at changes in the\nspectra of the starlight, which can show",
+        "start": 46.87,
+        "duration": 4.49
+    },
+    {
+        "text": "a wobble to the motion of the star, indicating\nthat it is moving about a common center.",
+        "start": 51.36,
+        "duration": 5.6
+    },
+    {
+        "text": "The third method uses a measurement\nof the light intensity received by the star.",
+        "start": 56.96,
+        "duration": 4.88
+    },
+    {
+        "text": "Many stars show a periodic change\nin their apparent brightness.",
+        "start": 61.84,
+        "duration": 4.16
+    },
+    {
+        "text": "This could happen for a number of reasons.\nSome stars undergo changes in their",
+        "start": 66.0,
+        "duration": 4.96
+    },
+    {
+        "text": "intrinsic luminosity. The other possibility is\nthat it is a binary system where the orbital plane",
+        "start": 70.96,
+        "duration": 6.72
+    },
+    {
+        "text": "lies edge-on to us so that the stars\nperiodically eclipse one another.",
+        "start": 77.68,
+        "duration": 5.11
+    },
+    {
+        "text": "These systems are called eclipsing binaries.\nSometimes these systems can contain more",
+        "start": 82.79,
+        "duration": 5.93
+    },
+    {
+        "text": "than two stars. But now NASA has detected a\nnew and bizarre sextuple system, in which all",
+        "start": 88.72,
+        "duration": 7.2
+    },
+    {
+        "text": "the stars are aligned perfectly, creating\na sextuple eclipsing star system.",
+        "start": 95.92,
+        "duration": 6.08
+    },
+    {
+        "text": "More strange is that the system seems\nto consist of three pairs of binary stars",
+        "start": 102.0,
+        "duration": 5.36
+    },
+    {
+        "text": "locked into an exotic dance. It was\ndiscovered using NASA's exoplanet",
+        "start": 107.36,
+        "duration": 4.96
+    },
+    {
+        "text": "hunting Transiting Exoplanet Survey\nSatellite, or TESS for short.",
+        "start": 112.32,
+        "duration": 5.36
+    },
+    {
+        "text": "TESS is cataloging how the brightness of\naround 800 million stars change over time.",
+        "start": 117.68,
+        "duration": 5.68
+    },
+    {
+        "text": "This means that they can identify stars\nwhose brightness dips, which is usually a",
+        "start": 123.36,
+        "duration": 4.8
+    },
+    {
+        "text": "good sign that a planet might\nbe in orbit around the star.",
+        "start": 128.16,
+        "duration": 3.76
+    },
+    {
+        "text": "Using this mechanism, they were able to\nidentify a hundred star systems with",
+        "start": 131.92,
+        "duration": 4.64
+    },
+    {
+        "text": "potentially three or more stars.\nFrom this data they were able to",
+        "start": 136.56,
+        "duration": 4.08
+    },
+    {
+        "text": "identify the rather remarkable\nsextuple system TYC 7037-89-1.",
+        "start": 140.64,
+        "duration": 7.59
+    },
+    {
+        "text": "So let's examine the system in a little more\ndetail. They can identify three pairs of star,",
+        "start": 148.23,
+        "duration": 5.85
+    },
+    {
+        "text": "pair A, B and C. When we examine the\nmasses and the size of the stars in the",
+        "start": 154.08,
+        "duration": 4.79
+    },
+    {
+        "text": "system, something rather remarkable\nstands out: each pair of stars consists",
+        "start": 158.87,
+        "duration": 5.29
+    },
+    {
+        "text": "of one larger star which is brighter and\none smaller star which is smaller. It",
+        "start": 164.16,
+        "duration": 6.07
+    },
+    {
+        "text": "also appears as if the ratio between the\nlarger and smaller star is consistently",
+        "start": 170.23,
+        "duration": 5.05
+    },
+    {
+        "text": "the same throughout the system. The\nestimated temperatures of the stars",
+        "start": 175.28,
+        "duration": 4.48
+    },
+    {
+        "text": "are also consistently the same for\nboth the larger and the smaller star.",
+        "start": 179.76,
+        "duration": 4.96
+    },
+    {
+        "text": "Pair A orbits each other every 1.3 days,\nand pair C every 1.6 days.",
+        "start": 184.72,
+        "duration": 6.48
+    },
+    {
+        "text": "Pair A orbits pair C every four years. Much\nfurther out from pair A and C sits pair B.",
+        "start": 191.2,
+        "duration": 7.84
+    },
+    {
+        "text": "These orbit each other every 8.2 days,\nand B orbits pair A and C every 2,000 years.",
+        "start": 199.04,
+        "duration": 7.68
+    },
+    {
+        "text": "This system is a very interesting find\nand the astronomers offer no clue as to",
+        "start": 206.72,
+        "duration": 4.64
+    },
+    {
+        "text": "how such a system could form.\nAlthough the idea of star capture is",
+        "start": 211.36,
+        "duration": 4.4
+    },
+    {
+        "text": "possible, the sheer number of binary star systems\nrules out this possibility as the main cause.",
+        "start": 215.76,
+        "duration": 6.24
+    },
+    {
+        "text": "Instead, mainstream scientists rely on\nthe idea that some fragmentation of the",
+        "start": 222.0,
+        "duration": 4.64
+    },
+    {
+        "text": "molecular cloud occurred, causing\nmultiple stars to be formed.",
+        "start": 226.64,
+        "duration": 4.23
+    },
+    {
+        "text": "The problem here is that this has to\noccur three times at different locations,",
+        "start": 230.87,
+        "duration": 5.13
+    },
+    {
+        "text": "but every time in the same ratio split\nof two to one, and also with the plane",
+        "start": 236.0,
+        "duration": 4.95
+    },
+    {
+        "text": "exactly aligned to Earth. In the\nElectric Universe there is a much",
+        "start": 240.95,
+        "duration": 4.25
+    },
+    {
+        "text": "simpler way of looking at these systems.\nSo let's break this down in a different way.",
+        "start": 245.2,
+        "duration": 4.88
+    },
+    {
+        "text": "We know that stars form along filaments and\nthat plasma flows along these filaments.",
+        "start": 250.08,
+        "duration": 5.76
+    },
+    {
+        "text": "As the plasma flows, it will tend to form into\nfilaments. One large flowing mass of plasma will",
+        "start": 255.84,
+        "duration": 6.4
+    },
+    {
+        "text": "form into a number of smaller filaments.\nAs the currents flow along these filaments,",
+        "start": 262.24,
+        "duration": 5.36
+    },
+    {
+        "text": "they will generate a magnetic field\nwhich will cause the filaments to become",
+        "start": 267.6,
+        "duration": 3.84
+    },
+    {
+        "text": "attracted to each other. This\noften results in the formation of",
+        "start": 271.44,
+        "duration": 3.68
+    },
+    {
+        "text": "twin filaments wrapping around each\nother. Peratt studied these in detail in",
+        "start": 275.12,
+        "duration": 4.16
+    },
+    {
+        "text": "his laboratory and has written about\nthem in his book on the Plasma Universe.",
+        "start": 279.28,
+        "duration": 4.32
+    },
+    {
+        "text": "Of particular interest is a computer\nsimulation he performed which showed",
+        "start": 283.6,
+        "duration": 3.92
+    },
+    {
+        "text": "that when three filaments start to form,\nand two are slightly closer to each",
+        "start": 287.52,
+        "duration": 4.16
+    },
+    {
+        "text": "other, then this attractive force will\ncause the two closest to wrap around",
+        "start": 291.68,
+        "duration": 4.23
+    },
+    {
+        "text": "each other and not the other one.\nThis may be an alternative way of",
+        "start": 295.91,
+        "duration": 4.49
+    },
+    {
+        "text": "explaining why stars form and are often\nfound in pairs. And in this example, we",
+        "start": 300.4,
+        "duration": 5.04
+    },
+    {
+        "text": "would have the initial formation process\nwhereby three stars formed, two much",
+        "start": 305.44,
+        "duration": 4.64
+    },
+    {
+        "text": "closer due to the attraction, and one on a\nmuch larger orbit compared to the others.",
+        "start": 310.08,
+        "duration": 6.24
+    },
+    {
+        "text": "When Peratt looked to the interactions\nof Birkeland currents, he saw that when",
+        "start": 316.32,
+        "duration": 3.68
+    },
+    {
+        "text": "the filaments pinch, a double layer forms\nat the same point in each filament.",
+        "start": 320.0,
+        "duration": 5.19
+    },
+    {
+        "text": "This would also therefore explain why\nall the stars are in the same plane with",
+        "start": 325.19,
+        "duration": 4.33
+    },
+    {
+        "text": "their rotation vectors aligned. So how\nwould we explain a sextuple star",
+        "start": 329.52,
+        "duration": 5.36
+    },
+    {
+        "text": "system then? In the Electric Universe the stars\nare powered by the movement of this plasma.",
+        "start": 334.88,
+        "duration": 5.52
+    },
+    {
+        "text": "Stars will form where a filament becomes\npinched causing the material to be",
+        "start": 340.4,
+        "duration": 4.23
+    },
+    {
+        "text": "compressed in a small area. Electric\nstars attempt to balance their incoming",
+        "start": 344.63,
+        "duration": 4.56
+    },
+    {
+        "text": "current and electron availability with\nthe output brightness and surface area.",
+        "start": 349.19,
+        "duration": 5.13
+    },
+    {
+        "text": "Sudden dramatic changes to the incoming current\ndensity can cause an overload to the star.",
+        "start": 354.32,
+        "duration": 6.08
+    },
+    {
+        "text": "The only way to deal with this increase\nof charge is to create a greater surface",
+        "start": 360.4,
+        "duration": 4.0
+    },
+    {
+        "text": "area. The simplest way to do\nthis is by splitting the star in two.",
+        "start": 364.4,
+        "duration": 4.63
+    },
+    {
+        "text": "This immediately increases the surface area\ngreatly. These events are often referred to as",
+        "start": 369.03,
+        "duration": 5.85
+    },
+    {
+        "text": "electrical stressing events and\nthe splitting process is called the",
+        "start": 374.88,
+        "duration": 3.52
+    },
+    {
+        "text": "fissioning of the star, meaning it splits into two.\nWe also suspect that stars can become",
+        "start": 378.4,
+        "duration": 5.6
+    },
+    {
+        "text": "ejected from their birthing filament.\nThis is something that I have previously",
+        "start": 384.0,
+        "duration": 3.84
+    },
+    {
+        "text": "looked into, if you are interested\nin more details on this.",
+        "start": 387.84,
+        "duration": 3.19
+    },
+    {
+        "text": "The basic concept is that the filaments\nare not stationary. So, while the star",
+        "start": 391.03,
+        "duration": 4.65
+    },
+    {
+        "text": "forms and is small, it is able to move\nwith this moving filament. But at a",
+        "start": 395.68,
+        "duration": 5.04
+    },
+    {
+        "text": "certain point it gains enough mass that\nit can no longer follow the movement and",
+        "start": 400.72,
+        "duration": 4.64
+    },
+    {
+        "text": "gets kicked out of it. As the\nstars formed at the same time, it",
+        "start": 405.36,
+        "duration": 4.08
+    },
+    {
+        "text": "is likely that this process happened\nat the same time for all three stars.",
+        "start": 409.44,
+        "duration": 5.03
+    },
+    {
+        "text": "Upon leaving the filament, it is likely\nthat the stars would have undergone a",
+        "start": 414.47,
+        "duration": 3.77
+    },
+    {
+        "text": "significant electrical stressing\nevent, causing them to fission.",
+        "start": 418.24,
+        "duration": 4.16
+    },
+    {
+        "text": "This would have resulted in the\nformation of a close companion to each",
+        "start": 422.4,
+        "duration": 3.68
+    },
+    {
+        "text": "of the initial three stars. This\nwould not only explain how it is",
+        "start": 426.08,
+        "duration": 3.92
+    },
+    {
+        "text": "possible to create a sextuple star\nsystem, all aligned along the same plane,",
+        "start": 430.0,
+        "duration": 4.63
+    },
+    {
+        "text": "while they all have pairs of stars where\none is about a third the size of the",
+        "start": 434.63,
+        "duration": 4.33
+    },
+    {
+        "text": "other, and why one of the pairs is so much\nfurther out compared to the other two pairs.",
+        "start": 438.96,
+        "duration": 6.4
+    },
+    {
+        "text": "There is one other possibility to\nexplaining this sextuple star system.",
+        "start": 445.36,
+        "duration": 4.64
+    },
+    {
+        "text": "It is important to remember that they\nare not able to resolve the differences",
+        "start": 450.0,
+        "duration": 3.59
+    },
+    {
+        "text": "between the pairs of stars in each system.\nSo is it possible that what they see as",
+        "start": 453.59,
+        "duration": 5.13
+    },
+    {
+        "text": "variability in luminosity is not caused\nby an eclipsing star at all, but instead",
+        "start": 458.72,
+        "duration": 5.36
+    },
+    {
+        "text": "is caused by the flickering of the star itself?\nWe know that our Sun undergoes a regular",
+        "start": 464.08,
+        "duration": 5.44
+    },
+    {
+        "text": "change to its output, but this is\non the order of years, not days.",
+        "start": 469.52,
+        "duration": 5.11
+    },
+    {
+        "text": "What we do see is that all three star\npairs seem to have a very similar",
+        "start": 474.63,
+        "duration": 4.56
+    },
+    {
+        "text": "variation in their brightness, which\nis assumed to be caused by one",
+        "start": 479.19,
+        "duration": 4.25
+    },
+    {
+        "text": "star passing in front of the other.\nIs it possible that all three stars are",
+        "start": 483.44,
+        "duration": 4.8
+    },
+    {
+        "text": "connected somewhere to the same source\nof electrical power and that the circuit",
+        "start": 488.24,
+        "duration": 4.56
+    },
+    {
+        "text": "has a similar resonant frequency for all\nof them? Until we are able to resolve the",
+        "start": 492.8,
+        "duration": 5.2
+    },
+    {
+        "text": "differences between each pair of stars,\nit is not possible to know which of",
+        "start": 498.0,
+        "duration": 4.31
+    },
+    {
+        "text": "these two scenarios is the more likely to have\noccurred. These types of unusual, almost miraculous",
+        "start": 502.31,
+        "duration": 6.88
+    },
+    {
+        "text": "star systems, are slowly building a\npicture of how stars might evolve, not",
+        "start": 509.19,
+        "duration": 5.2
+    },
+    {
+        "text": "just singly, but as pairs, or in this case up to\nsix stars, and shows that the interaction of",
+        "start": 514.39,
+        "duration": 6.97
+    },
+    {
+        "text": "the Birkeland currents together is an\nimportant aspect that must be considered.",
+        "start": 521.36,
+        "duration": 6.91
+    },
+    {
+        "text": "[Music]",
+        "start": 530.38,
+        "duration": 27.11
+    }
+]

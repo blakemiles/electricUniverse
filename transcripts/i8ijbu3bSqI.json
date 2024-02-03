@@ -1,0 +1,5052 @@
+[
+    {
+        "text": "[Music]",
+        "start": 0.0,
+        "duration": 3.149
+    },
+    {
+        "text": "[Music]",
+        "start": 12.34,
+        "duration": 9.7
+    },
+    {
+        "text": "he's expert at image acquisition and",
+        "start": 22.599,
+        "duration": 8.741
+    },
+    {
+        "text": "analysis we've talked a lot about common",
+        "start": 27.71,
+        "duration": 8.61
+    },
+    {
+        "text": "sense and common sense is essential to",
+        "start": 31.34,
+        "duration": 7.26
+    },
+    {
+        "text": "having keeping our feet on the ground",
+        "start": 36.32,
+        "duration": 7.32
+    },
+    {
+        "text": "and forming cogent understandings of the",
+        "start": 38.6,
+        "duration": 7.529
+    },
+    {
+        "text": "world that we live in but we know also",
+        "start": 43.64,
+        "duration": 4.379
+    },
+    {
+        "text": "that our senses are somewhat limited",
+        "start": 46.129,
+        "duration": 3.75
+    },
+    {
+        "text": "there's only so much that we can see",
+        "start": 48.019,
+        "duration": 3.93
+    },
+    {
+        "text": "with the eyes that we've grown in our",
+        "start": 49.879,
+        "duration": 3.991
+    },
+    {
+        "text": "bodies that we can touch with our hands",
+        "start": 51.949,
+        "duration": 5.581
+    },
+    {
+        "text": "and our are our five senses so science",
+        "start": 53.87,
+        "duration": 5.399
+    },
+    {
+        "text": "when it's properly functioning and",
+        "start": 57.53,
+        "duration": 4.68
+    },
+    {
+        "text": "serving common sense extends those",
+        "start": 59.269,
+        "duration": 6.721
+    },
+    {
+        "text": "senses into the realms beyond our",
+        "start": 62.21,
+        "duration": 8.34
+    },
+    {
+        "text": "ability to perceive - in that sense make",
+        "start": 65.99,
+        "duration": 7.89
+    },
+    {
+        "text": "visible that which is there but is",
+        "start": 70.55,
+        "duration": 6.599
+    },
+    {
+        "text": "invisible to our common senses and that",
+        "start": 73.88,
+        "duration": 6.029
+    },
+    {
+        "text": "is part of the expertise of our next",
+        "start": 77.149,
+        "duration": 6.301
+    },
+    {
+        "text": "speaker an important part of what p.m.",
+        "start": 79.909,
+        "duration": 8.611
+    },
+    {
+        "text": "re ro Battaglia is is accomplished at in",
+        "start": 83.45,
+        "duration": 8.419
+    },
+    {
+        "text": "1996 he was responsible for developing",
+        "start": 88.52,
+        "duration": 5.58
+    },
+    {
+        "text": "breaking essentially the world record",
+        "start": 91.869,
+        "duration": 5.1
+    },
+    {
+        "text": "form in a magnetic resonance imager II",
+        "start": 94.1,
+        "duration": 6.51
+    },
+    {
+        "text": "developing and essentially doubling the",
+        "start": 96.969,
+        "duration": 6.04
+    },
+    {
+        "text": "power of magnetic resonance with an 8",
+        "start": 100.61,
+        "duration": 6.45
+    },
+    {
+        "text": "Tesla MRI and I'm is going to share with",
+        "start": 103.009,
+        "duration": 7.171
+    },
+    {
+        "text": "us some of what he sees to add to our",
+        "start": 107.06,
+        "duration": 6.449
+    },
+    {
+        "text": "growing sense of the electric universe",
+        "start": 110.18,
+        "duration": 5.85
+    },
+    {
+        "text": "welcome professor Pierre Marie",
+        "start": 113.509,
+        "duration": 4.661
+    },
+    {
+        "text": "Robitaille",
+        "start": 116.03,
+        "duration": 5.319
+    },
+    {
+        "text": "[Applause]",
+        "start": 118.17,
+        "duration": 3.179
+    },
+    {
+        "text": "well thank you I would like to begin by",
+        "start": 123.73,
+        "duration": 6.07
+    },
+    {
+        "text": "thanking Dave Talbot for inviting me",
+        "start": 127.58,
+        "duration": 5.55
+    },
+    {
+        "text": "here and for providing scientists from",
+        "start": 129.8,
+        "duration": 5.22
+    },
+    {
+        "text": "different viewpoints the opportunity to",
+        "start": 133.13,
+        "duration": 5.76
+    },
+    {
+        "text": "address the scientific community it is a",
+        "start": 135.02,
+        "duration": 6.21
+    },
+    {
+        "text": "privilege to be here today I'll be",
+        "start": 138.89,
+        "duration": 4.34
+    },
+    {
+        "text": "speaking about the microwave background",
+        "start": 141.23,
+        "duration": 6.05
+    },
+    {
+        "text": "and as Steve tried to explain to you",
+        "start": 143.23,
+        "duration": 5.86
+    },
+    {
+        "text": "when you look at the microwave",
+        "start": 147.28,
+        "duration": 4.06
+    },
+    {
+        "text": "background if you're located on the",
+        "start": 149.09,
+        "duration": 4.53
+    },
+    {
+        "text": "earth you have signal from the earth",
+        "start": 151.34,
+        "duration": 6.96
+    },
+    {
+        "text": "itself the emissions of the oceans water",
+        "start": 153.62,
+        "duration": 7.25
+    },
+    {
+        "text": "around the earth and then you also have",
+        "start": 158.3,
+        "duration": 4.8
+    },
+    {
+        "text": "galactic emissions that are reaching the",
+        "start": 160.87,
+        "duration": 5.44
+    },
+    {
+        "text": "earth you have signals beyond the galaxy",
+        "start": 163.1,
+        "duration": 6.6
+    },
+    {
+        "text": "perhaps that that we get to see as well",
+        "start": 166.31,
+        "duration": 5.22
+    },
+    {
+        "text": "so there are many signals that are",
+        "start": 169.7,
+        "duration": 3.75
+    },
+    {
+        "text": "coming when you're at the earth but when",
+        "start": 171.53,
+        "duration": 4.77
+    },
+    {
+        "text": "you're at l2 the earth of course cannot",
+        "start": 173.45,
+        "duration": 4.64
+    },
+    {
+        "text": "hit the satellites that are at l2",
+        "start": 176.3,
+        "duration": 4.02
+    },
+    {
+        "text": "therefore you will not get a monopole at",
+        "start": 178.09,
+        "duration": 5.68
+    },
+    {
+        "text": "l2 and the only data if you want to call",
+        "start": 180.32,
+        "duration": 6.33
+    },
+    {
+        "text": "it data that you get at all - will be",
+        "start": 183.77,
+        "duration": 9.96
+    },
+    {
+        "text": "dominated by the galaxy before I begin",
+        "start": 186.65,
+        "duration": 10.02
+    },
+    {
+        "text": "to speak because I'm I'm in the College",
+        "start": 193.73,
+        "duration": 6.12
+    },
+    {
+        "text": "of Medicine I did want to speak just",
+        "start": 196.67,
+        "duration": 6.0
+    },
+    {
+        "text": "briefly about anchoring now in medicine",
+        "start": 199.85,
+        "duration": 6.03
+    },
+    {
+        "text": "what is anchoring anchoring is occurs",
+        "start": 202.67,
+        "duration": 5.52
+    },
+    {
+        "text": "when a patient comes to the hospital and",
+        "start": 205.88,
+        "duration": 6.15
+    },
+    {
+        "text": "if and he's gravely ill and we'll assume",
+        "start": 208.19,
+        "duration": 5.94
+    },
+    {
+        "text": "that he's gravely ill and what happens",
+        "start": 212.03,
+        "duration": 4.95
+    },
+    {
+        "text": "is a physician sees him and he decides",
+        "start": 214.13,
+        "duration": 6.99
+    },
+    {
+        "text": "on the diagnosis but the diagnosis is",
+        "start": 216.98,
+        "duration": 6.6
+    },
+    {
+        "text": "incorrect the next physician comes in",
+        "start": 221.12,
+        "duration": 3.869
+    },
+    {
+        "text": "sees them and doesn't do his own",
+        "start": 223.58,
+        "duration": 4.56
+    },
+    {
+        "text": "physical and follows the diagnosis of",
+        "start": 224.989,
+        "duration": 4.351
+    },
+    {
+        "text": "the first physician",
+        "start": 228.14,
+        "duration": 3.629
+    },
+    {
+        "text": "so eventually unfortunately our patient",
+        "start": 229.34,
+        "duration": 5.82
+    },
+    {
+        "text": "dies the doctors get sued they lose",
+        "start": 231.769,
+        "duration": 5.521
+    },
+    {
+        "text": "their license and of course the",
+        "start": 235.16,
+        "duration": 4.74
+    },
+    {
+        "text": "attorneys get to make lots of money",
+        "start": 237.29,
+        "duration": 5.669
+    },
+    {
+        "text": "but in what happens in physics when we",
+        "start": 239.9,
+        "duration": 4.35
+    },
+    {
+        "text": "anchor well that's a different problem",
+        "start": 242.959,
+        "duration": 3.451
+    },
+    {
+        "text": "because we're not in a position that",
+        "start": 244.25,
+        "duration": 3.54
+    },
+    {
+        "text": "somebody's going to lose their life over",
+        "start": 246.41,
+        "duration": 4.229
+    },
+    {
+        "text": "it at least we hope not",
+        "start": 247.79,
+        "duration": 4.91
+    },
+    {
+        "text": "but when physics makes an error",
+        "start": 250.639,
+        "duration": 5.541
+    },
+    {
+        "text": "it's much harder to rectify because you",
+        "start": 252.7,
+        "duration": 6.42
+    },
+    {
+        "text": "can anchor and it takes tremendous",
+        "start": 256.18,
+        "duration": 5.55
+    },
+    {
+        "text": "incentive to go back and recheck the",
+        "start": 259.12,
+        "duration": 5.34
+    },
+    {
+        "text": "assumptions so relative to the microwave",
+        "start": 261.73,
+        "duration": 4.62
+    },
+    {
+        "text": "background to recheck the assumptions",
+        "start": 264.46,
+        "duration": 3.87
+    },
+    {
+        "text": "you actually have to go all the way back",
+        "start": 266.35,
+        "duration": 5.039
+    },
+    {
+        "text": "to 1860 and deal with kirchoff's law of",
+        "start": 268.33,
+        "duration": 5.16
+    },
+    {
+        "text": "thermal emission now I will talk about",
+        "start": 271.389,
+        "duration": 7.861
+    },
+    {
+        "text": "that law on Sunday not now because it it",
+        "start": 273.49,
+        "duration": 8.46
+    },
+    {
+        "text": "in of itself is actually the most",
+        "start": 279.25,
+        "duration": 4.77
+    },
+    {
+        "text": "important talk I will give even though",
+        "start": 281.95,
+        "duration": 4.2
+    },
+    {
+        "text": "this one's on the background and the",
+        "start": 284.02,
+        "duration": 6.75
+    },
+    {
+        "text": "other one is on the Sun also because I'm",
+        "start": 286.15,
+        "duration": 8.34
+    },
+    {
+        "text": "in the College of Medicine it's you know",
+        "start": 290.77,
+        "duration": 6.09
+    },
+    {
+        "text": "I have to figure out how this works I'd",
+        "start": 294.49,
+        "duration": 4.14
+    },
+    {
+        "text": "like to dedicate this work to two",
+        "start": 296.86,
+        "duration": 4.26
+    },
+    {
+        "text": "physicians now the first is my father he",
+        "start": 298.63,
+        "duration": 5.52
+    },
+    {
+        "text": "just retired from medicine after more",
+        "start": 301.12,
+        "duration": 5.04
+    },
+    {
+        "text": "than 50 years I think 55 years as a",
+        "start": 304.15,
+        "duration": 3.87
+    },
+    {
+        "text": "physician he was a family practitioner",
+        "start": 306.16,
+        "duration": 5.63
+    },
+    {
+        "text": "he delivered over 800 babies in his life",
+        "start": 308.02,
+        "duration": 7.23
+    },
+    {
+        "text": "he also helped the Saiga Mach Indians in",
+        "start": 311.79,
+        "duration": 6.249
+    },
+    {
+        "text": "Northern Ontario and he lowered the",
+        "start": 315.25,
+        "duration": 4.56
+    },
+    {
+        "text": "infant mortality rate for the Saiga Mach",
+        "start": 318.039,
+        "duration": 3.63
+    },
+    {
+        "text": "First Nations both for the mothers and",
+        "start": 319.81,
+        "duration": 4.71
+    },
+    {
+        "text": "their babies he was one of the first",
+        "start": 321.669,
+        "duration": 5.131
+    },
+    {
+        "text": "Caucasian men to be named as an honorary",
+        "start": 324.52,
+        "duration": 8.34
+    },
+    {
+        "text": "Indian chief in North America the next",
+        "start": 326.8,
+        "duration": 9.17
+    },
+    {
+        "text": "whoops that's the mistake that we make",
+        "start": 332.86,
+        "duration": 6.09
+    },
+    {
+        "text": "okay I'll get it here the next person",
+        "start": 335.97,
+        "duration": 5.14
+    },
+    {
+        "text": "that I'd like to dedicate the talk to is",
+        "start": 338.95,
+        "duration": 5.76
+    },
+    {
+        "text": "dr. Ignaz Semmelweis now I dedicate it",
+        "start": 341.11,
+        "duration": 5.67
+    },
+    {
+        "text": "to him as well because he's got a lesson",
+        "start": 344.71,
+        "duration": 5.519
+    },
+    {
+        "text": "for us right so in ninth in 1847 he",
+        "start": 346.78,
+        "duration": 5.25
+    },
+    {
+        "text": "advocated the physicians wash their",
+        "start": 350.229,
+        "duration": 3.81
+    },
+    {
+        "text": "hands with chlorinated lime solutions to",
+        "start": 352.03,
+        "duration": 4.77
+    },
+    {
+        "text": "reduce the incidence of mortality from",
+        "start": 354.039,
+        "duration": 6.421
+    },
+    {
+        "text": "child bed fever and a physician saw this",
+        "start": 356.8,
+        "duration": 6.39
+    },
+    {
+        "text": "as an insult because they felt that you",
+        "start": 360.46,
+        "duration": 4.86
+    },
+    {
+        "text": "know they were already pretty clean even",
+        "start": 363.19,
+        "duration": 3.599
+    },
+    {
+        "text": "though they were going for the necropsy",
+        "start": 365.32,
+        "duration": 5.37
+    },
+    {
+        "text": "lab to delivering women and they were",
+        "start": 366.789,
+        "duration": 7.261
+    },
+    {
+        "text": "killing these mothers and he he actually",
+        "start": 370.69,
+        "duration": 5.789
+    },
+    {
+        "text": "documented when he got the doctors to",
+        "start": 374.05,
+        "duration": 4.5
+    },
+    {
+        "text": "wash their hands that the mortality",
+        "start": 376.479,
+        "duration": 4.44
+    },
+    {
+        "text": "rates would drop so the physicians",
+        "start": 378.55,
+        "duration": 3.869
+    },
+    {
+        "text": "rather than just listen to him and keep",
+        "start": 380.919,
+        "duration": 3.75
+    },
+    {
+        "text": "washing their hands decided that he had",
+        "start": 382.419,
+        "duration": 3.571
+    },
+    {
+        "text": "to be incorrect",
+        "start": 384.669,
+        "duration": 3.701
+    },
+    {
+        "text": "his papers and ideas were largely",
+        "start": 385.99,
+        "duration": 4.45
+    },
+    {
+        "text": "rejected there were only a few people of",
+        "start": 388.37,
+        "duration": 3.6
+    },
+    {
+        "text": "the European medical community that",
+        "start": 390.44,
+        "duration": 3.36
+    },
+    {
+        "text": "recognized the importance of what he was",
+        "start": 391.97,
+        "duration": 3.99
+    },
+    {
+        "text": "saying he's actually I think the father",
+        "start": 393.8,
+        "duration": 4.92
+    },
+    {
+        "text": "of hygienic methods and he unfortunately",
+        "start": 395.96,
+        "duration": 4.56
+    },
+    {
+        "text": "died in an insane asylum",
+        "start": 398.72,
+        "duration": 8.49
+    },
+    {
+        "text": "he was only 47 now I've published",
+        "start": 400.52,
+        "duration": 9.5
+    },
+    {
+        "text": "extensively on the microwave background",
+        "start": 407.21,
+        "duration": 6.96
+    },
+    {
+        "text": "and I list the papers here some of the",
+        "start": 410.02,
+        "duration": 6.07
+    },
+    {
+        "text": "important ones relative to the stalks of",
+        "start": 414.17,
+        "duration": 4.5
+    },
+    {
+        "text": "Steve and I are W map or radiological",
+        "start": 416.09,
+        "duration": 4.89
+    },
+    {
+        "text": "analysis of course the papers on the",
+        "start": 418.67,
+        "duration": 5.25
+    },
+    {
+        "text": "earth contribution the paper on water",
+        "start": 420.98,
+        "duration": 6.38
+    },
+    {
+        "text": "the the bottom one that's listed there",
+        "start": 423.92,
+        "duration": 8.28
+    },
+    {
+        "text": "then you also have this all will affect",
+        "start": 427.36,
+        "duration": 6.34
+    },
+    {
+        "text": "global warming whether you believe in",
+        "start": 432.2,
+        "duration": 2.88
+    },
+    {
+        "text": "global warming don't believe in global",
+        "start": 433.7,
+        "duration": 3.48
+    },
+    {
+        "text": "warming for us to understand how the",
+        "start": 435.08,
+        "duration": 3.99
+    },
+    {
+        "text": "oceans are actually emitting is an",
+        "start": 437.18,
+        "duration": 5.25
+    },
+    {
+        "text": "important problem and then there's",
+        "start": 439.07,
+        "duration": 5.91
+    },
+    {
+        "text": "another paper on Kobe where I did a full",
+        "start": 442.43,
+        "duration": 6.71
+    },
+    {
+        "text": "analysis of Kobe and one on plank",
+        "start": 444.98,
+        "duration": 4.16
+    },
+    {
+        "text": "now dr. Reuben ski who's the editor of",
+        "start": 449.74,
+        "duration": 7.42
+    },
+    {
+        "text": "progress in physics has been very kind",
+        "start": 455.36,
+        "duration": 4.53
+    },
+    {
+        "text": "to me he's taken many many papers and",
+        "start": 457.16,
+        "duration": 7.05
+    },
+    {
+        "text": "enabled me to publish my work in what I",
+        "start": 459.89,
+        "duration": 7.41
+    },
+    {
+        "text": "consider a very new journal and of",
+        "start": 464.21,
+        "duration": 5.25
+    },
+    {
+        "text": "course people say well Pierre why do you",
+        "start": 467.3,
+        "duration": 4.53
+    },
+    {
+        "text": "publish an in-progress in physics and",
+        "start": 469.46,
+        "duration": 4.53
+    },
+    {
+        "text": "that's because it's a proper vehicle for",
+        "start": 471.83,
+        "duration": 8.55
+    },
+    {
+        "text": "what I'm dealing with now now I also",
+        "start": 473.99,
+        "duration": 7.71
+    },
+    {
+        "text": "want to point out that there's some",
+        "start": 480.38,
+        "duration": 3.42
+    },
+    {
+        "text": "parallels between MRI and the microwave",
+        "start": 481.7,
+        "duration": 8.16
+    },
+    {
+        "text": "background studies so an MRI scientist",
+        "start": 483.8,
+        "duration": 7.71
+    },
+    {
+        "text": "is actually well suited to go through",
+        "start": 489.86,
+        "duration": 6.3
+    },
+    {
+        "text": "this stuff because what we do are almost",
+        "start": 491.51,
+        "duration": 7.95
+    },
+    {
+        "text": "similar there's only the sample that",
+        "start": 496.16,
+        "duration": 5.49
+    },
+    {
+        "text": "changes in magnetic resonance imaging",
+        "start": 499.46,
+        "duration": 4.89
+    },
+    {
+        "text": "it's fundamentally a thermal method we",
+        "start": 501.65,
+        "duration": 4.47
+    },
+    {
+        "text": "have t1 relaxation it's called the",
+        "start": 504.35,
+        "duration": 3.99
+    },
+    {
+        "text": "thermal relaxation constant that was",
+        "start": 506.12,
+        "duration": 4.92
+    },
+    {
+        "text": "named so by Felix Bloch most people have",
+        "start": 508.34,
+        "duration": 6.6
+    },
+    {
+        "text": "forgotten that name their frequency of",
+        "start": 511.04,
+        "duration": 7.36
+    },
+    {
+        "text": "observation is from VHF to UHF",
+        "start": 514.94,
+        "duration": 5.59
+    },
+    {
+        "text": "but the a Tesla that I built and new",
+        "start": 518.4,
+        "duration": 4.95
+    },
+    {
+        "text": "scanners are now at point four gigahertz",
+        "start": 520.53,
+        "duration": 5.79
+    },
+    {
+        "text": "so almost in the microwave their",
+        "start": 523.35,
+        "duration": 4.95
+    },
+    {
+        "text": "detection methods that we use are RF",
+        "start": 526.32,
+        "duration": 4.95
+    },
+    {
+        "text": "antennas and they're coupled to pre",
+        "start": 528.3,
+        "duration": 6.54
+    },
+    {
+        "text": "amplifiers and radiometers we display",
+        "start": 531.27,
+        "duration": 6.48
+    },
+    {
+        "text": "our results in spectral images now if",
+        "start": 534.84,
+        "duration": 3.99
+    },
+    {
+        "text": "you look at the microwave background",
+        "start": 537.75,
+        "duration": 4.44
+    },
+    {
+        "text": "again you have a thermal problem you",
+        "start": 538.83,
+        "duration": 6.89
+    },
+    {
+        "text": "have a maximum emission at 160 gigahertz",
+        "start": 542.19,
+        "duration": 5.82
+    },
+    {
+        "text": "of course",
+        "start": 545.72,
+        "duration": 4.15
+    },
+    {
+        "text": "Penzias and Wilson were at 4 gigahertz",
+        "start": 548.01,
+        "duration": 3.9
+    },
+    {
+        "text": "and their first experiments that's only",
+        "start": 549.87,
+        "duration": 5.04
+    },
+    {
+        "text": "we were we are now at point 4 in",
+        "start": 551.91,
+        "duration": 6.54
+    },
+    {
+        "text": "magnetic resonance the detection methods",
+        "start": 554.91,
+        "duration": 5.82
+    },
+    {
+        "text": "are very similar at low frequency we",
+        "start": 558.45,
+        "duration": 5.85
+    },
+    {
+        "text": "have in microwave experiments we have RF",
+        "start": 560.73,
+        "duration": 5.61
+    },
+    {
+        "text": "antenna coupled to preamplifiers again",
+        "start": 564.3,
+        "duration": 4.53
+    },
+    {
+        "text": "and radiometers and we display our",
+        "start": 566.34,
+        "duration": 8.19
+    },
+    {
+        "text": "results in spectra or images so just",
+        "start": 568.83,
+        "duration": 7.2
+    },
+    {
+        "text": "generally what are the requirements for",
+        "start": 574.53,
+        "duration": 3.18
+    },
+    {
+        "text": "having an image well there's basically",
+        "start": 576.03,
+        "duration": 3.81
+    },
+    {
+        "text": "two requirements through the two key",
+        "start": 577.71,
+        "duration": 3.24
+    },
+    {
+        "text": "requirements is you have to have",
+        "start": 579.84,
+        "duration": 3.09
+    },
+    {
+        "text": "resolution and you also have to have",
+        "start": 580.95,
+        "duration": 5.04
+    },
+    {
+        "text": "signal-to-noise and it takes signal to",
+        "start": 582.93,
+        "duration": 5.34
+    },
+    {
+        "text": "noise to make contrast it also takes",
+        "start": 585.99,
+        "duration": 5.19
+    },
+    {
+        "text": "signal to noise to get resolution if an",
+        "start": 588.27,
+        "duration": 4.95
+    },
+    {
+        "text": "image is noisy how can you tell if it",
+        "start": 591.18,
+        "duration": 4.71
+    },
+    {
+        "text": "contains any information and this is",
+        "start": 593.22,
+        "duration": 4.74
+    },
+    {
+        "text": "critical to anybody who believes that",
+        "start": 595.89,
+        "duration": 4.23
+    },
+    {
+        "text": "the microwave background anisotropy maps",
+        "start": 597.96,
+        "duration": 5.19
+    },
+    {
+        "text": "can be real for them to be real they",
+        "start": 600.12,
+        "duration": 5.19
+    },
+    {
+        "text": "have to be reproducible and none of",
+        "start": 603.15,
+        "duration": 5.07
+    },
+    {
+        "text": "these maps are ever reproducible so they",
+        "start": 605.31,
+        "duration": 5.13
+    },
+    {
+        "text": "pool the data and then the their",
+        "start": 608.22,
+        "duration": 4.8
+    },
+    {
+        "text": "differences are from averages - a year",
+        "start": 610.44,
+        "duration": 4.89
+    },
+    {
+        "text": "or in Planck now they're trying to pool",
+        "start": 613.02,
+        "duration": 5.67
+    },
+    {
+        "text": "a bunch of data so you can't take",
+        "start": 615.33,
+        "duration": 5.34
+    },
+    {
+        "text": "averages you have to look when you have",
+        "start": 618.69,
+        "duration": 4.5
+    },
+    {
+        "text": "a low signal-to-noise image as you do in",
+        "start": 620.67,
+        "duration": 4.95
+    },
+    {
+        "text": "medicine when we do functional imaging",
+        "start": 623.19,
+        "duration": 4.56
+    },
+    {
+        "text": "for instance we're gonna have quite low",
+        "start": 625.62,
+        "duration": 5.67
+    },
+    {
+        "text": "signal-to-noise sometimes in the cat 5",
+        "start": 627.75,
+        "duration": 5.27
+    },
+    {
+        "text": "you might have low signal to noise and",
+        "start": 631.29,
+        "duration": 4.14
+    },
+    {
+        "text": "how can we tell that the signal is real",
+        "start": 633.02,
+        "duration": 5.2
+    },
+    {
+        "text": "because it has to be reproducible so if",
+        "start": 635.43,
+        "duration": 4.74
+    },
+    {
+        "text": "you ever encountering somebody who's",
+        "start": 638.22,
+        "duration": 3.69
+    },
+    {
+        "text": "telling you the anisotropy maps are real",
+        "start": 640.17,
+        "duration": 4.38
+    },
+    {
+        "text": "just ask him for reproducibility he will",
+        "start": 641.91,
+        "duration": 4.65
+    },
+    {
+        "text": "never be able to deliver it because the",
+        "start": 644.55,
+        "duration": 6.59
+    },
+    {
+        "text": "galaxy is too variable",
+        "start": 646.56,
+        "duration": 4.58
+    },
+    {
+        "text": "now I want to show you an image that was",
+        "start": 651.15,
+        "duration": 6.72
+    },
+    {
+        "text": "done at the time that I did the a Tesla",
+        "start": 654.24,
+        "duration": 6.349
+    },
+    {
+        "text": "this is an image it's a clinical image",
+        "start": 657.87,
+        "duration": 6.03
+    },
+    {
+        "text": "from a human head is a sagittal sagittal",
+        "start": 660.589,
+        "duration": 6.311
+    },
+    {
+        "text": "slice and this is done with a",
+        "start": 663.9,
+        "duration": 4.47
+    },
+    {
+        "text": "conventional scanner it was a good",
+        "start": 666.9,
+        "duration": 3.72
+    },
+    {
+        "text": "scanner the image looks really bad and",
+        "start": 668.37,
+        "duration": 3.9
+    },
+    {
+        "text": "it's because I'm pushing the scanner",
+        "start": 670.62,
+        "duration": 3.06
+    },
+    {
+        "text": "right to its limit",
+        "start": 672.27,
+        "duration": 3.87
+    },
+    {
+        "text": "so I'm taking a very thin slice very",
+        "start": 673.68,
+        "duration": 4.86
+    },
+    {
+        "text": "little bit of the tissue and the matrix",
+        "start": 676.14,
+        "duration": 8.58
+    },
+    {
+        "text": "size is a 512 by 512 ya with only a two",
+        "start": 678.54,
+        "duration": 8.22
+    },
+    {
+        "text": "millimeter slice so when I do that",
+        "start": 684.72,
+        "duration": 3.75
+    },
+    {
+        "text": "there's still a little signal you can't",
+        "start": 686.76,
+        "duration": 3.51
+    },
+    {
+        "text": "get contrast anymore did you remember I",
+        "start": 688.47,
+        "duration": 3.77
+    },
+    {
+        "text": "told you to take signal to get contrast",
+        "start": 690.27,
+        "duration": 6.569
+    },
+    {
+        "text": "so this is a 512 by 512 and now here's",
+        "start": 692.24,
+        "duration": 7.21
+    },
+    {
+        "text": "an image from a Tesla and this is still",
+        "start": 696.839,
+        "duration": 4.351
+    },
+    {
+        "text": "a world-record today even though it was",
+        "start": 699.45,
+        "duration": 5.94
+    },
+    {
+        "text": "done for the year 2000 this was an image",
+        "start": 701.19,
+        "duration": 7.46
+    },
+    {
+        "text": "of 2000 points by 2000 and resolution",
+        "start": 705.39,
+        "duration": 7.44
+    },
+    {
+        "text": "same data same slice thickness a similar",
+        "start": 708.65,
+        "duration": 6.4
+    },
+    {
+        "text": "nutation angle everything is very",
+        "start": 712.83,
+        "duration": 6.42
+    },
+    {
+        "text": "comparable between these two images but",
+        "start": 715.05,
+        "duration": 6.42
+    },
+    {
+        "text": "the difference is of course I have more",
+        "start": 719.25,
+        "duration": 4.31
+    },
+    {
+        "text": "signal because I have an 8 Tesla scanner",
+        "start": 721.47,
+        "duration": 5.19
+    },
+    {
+        "text": "so this remains as I said a world record",
+        "start": 723.56,
+        "duration": 8.83
+    },
+    {
+        "text": "and resolution here's an expanded view",
+        "start": 726.66,
+        "duration": 11.01
+    },
+    {
+        "text": "of that so now what are the central",
+        "start": 732.39,
+        "duration": 6.99
+    },
+    {
+        "text": "issue is relative to understanding the",
+        "start": 737.67,
+        "duration": 3.84
+    },
+    {
+        "text": "microwave background well I think there",
+        "start": 739.38,
+        "duration": 3.72
+    },
+    {
+        "text": "are several the first is the early",
+        "start": 741.51,
+        "duration": 3.6
+    },
+    {
+        "text": "measurements did we have a right to",
+        "start": 743.1,
+        "duration": 4.08
+    },
+    {
+        "text": "assign the signal Penzias and Wilson to",
+        "start": 745.11,
+        "duration": 4.53
+    },
+    {
+        "text": "the universe could water have produced",
+        "start": 747.18,
+        "duration": 4.38
+    },
+    {
+        "text": "this signal and where is the water",
+        "start": 749.64,
+        "duration": 4.68
+    },
+    {
+        "text": "signal from the earth if if this if the",
+        "start": 751.56,
+        "duration": 4.14
+    },
+    {
+        "text": "microwave background signal really",
+        "start": 754.32,
+        "duration": 3.3
+    },
+    {
+        "text": "belongs to the universe where is the",
+        "start": 755.7,
+        "duration": 5.4
+    },
+    {
+        "text": "earth signal does that the 3 Kelvin",
+        "start": 757.62,
+        "duration": 5.67
+    },
+    {
+        "text": "temperature really have a real value or",
+        "start": 761.1,
+        "duration": 4.26
+    },
+    {
+        "text": "is the temperature really only apparent",
+        "start": 763.29,
+        "duration": 4.26
+    },
+    {
+        "text": "now this will be answered primarily in",
+        "start": 765.36,
+        "duration": 5.88
+    },
+    {
+        "text": "my talk on Sunday on kirchoff's law can",
+        "start": 767.55,
+        "duration": 5.55
+    },
+    {
+        "text": "we really see beyond the foreground of",
+        "start": 771.24,
+        "duration": 4.53
+    },
+    {
+        "text": "the galaxy into the universe and is",
+        "start": 773.1,
+        "duration": 5.609
+    },
+    {
+        "text": "there any real cosmological information",
+        "start": 775.77,
+        "duration": 5.37
+    },
+    {
+        "text": "in the anisotropy Maps the data",
+        "start": 778.709,
+        "duration": 4.471
+    },
+    {
+        "text": "processing produced the monopole Steve",
+        "start": 781.14,
+        "duration": 3.07
+    },
+    {
+        "text": "touched on the multi",
+        "start": 783.18,
+        "duration": 3.849
+    },
+    {
+        "text": "you touched on this as mankind truly",
+        "start": 784.21,
+        "duration": 4.53
+    },
+    {
+        "text": "sampled the first trillionth of a",
+        "start": 787.029,
+        "duration": 3.931
+    },
+    {
+        "text": "trillionth of a trillionth now of a",
+        "start": 788.74,
+        "duration": 8.46
+    },
+    {
+        "text": "second after the Big Bang so we'll begin",
+        "start": 790.96,
+        "duration": 8.4
+    },
+    {
+        "text": "just by a quick review of the Penzias",
+        "start": 797.2,
+        "duration": 7.259
+    },
+    {
+        "text": "and Wilson experiment and when they",
+        "start": 799.36,
+        "duration": 6.96
+    },
+    {
+        "text": "completed their experiment they reported",
+        "start": 804.459,
+        "duration": 4.44
+    },
+    {
+        "text": "immediately that they had a 3.5 Kelvin",
+        "start": 806.32,
+        "duration": 5.55
+    },
+    {
+        "text": "signal that was unexpected and there was",
+        "start": 808.899,
+        "duration": 7.671
+    },
+    {
+        "text": "a this excessive signal was isotropic",
+        "start": 811.87,
+        "duration": 7.409
+    },
+    {
+        "text": "unpolarized and free from seasonal",
+        "start": 816.57,
+        "duration": 6.37
+    },
+    {
+        "text": "variations now if you look at the way",
+        "start": 819.279,
+        "duration": 5.761
+    },
+    {
+        "text": "the horn worked",
+        "start": 822.94,
+        "duration": 4.649
+    },
+    {
+        "text": "you had a contamination from the horn",
+        "start": 825.04,
+        "duration": 4.44
+    },
+    {
+        "text": "the noise from the horn was only point 9",
+        "start": 827.589,
+        "duration": 5.851
+    },
+    {
+        "text": "Kelvin but they had the assigned 2.7 2.3",
+        "start": 829.48,
+        "duration": 6.62
+    },
+    {
+        "text": "Kelvin to an atmospheric contamination",
+        "start": 833.44,
+        "duration": 5.28
+    },
+    {
+        "text": "so the total signal that came in was six",
+        "start": 836.1,
+        "duration": 4.66
+    },
+    {
+        "text": "point seven now of course they could",
+        "start": 838.72,
+        "duration": 3.75
+    },
+    {
+        "text": "rotate this horn and that's how they",
+        "start": 840.76,
+        "duration": 3.449
+    },
+    {
+        "text": "determined the amount of signal that's",
+        "start": 842.47,
+        "duration": 3.66
+    },
+    {
+        "text": "coming from the atmosphere they could",
+        "start": 844.209,
+        "duration": 4.081
+    },
+    {
+        "text": "just rotate the horn and as they rotated",
+        "start": 846.13,
+        "duration": 4.44
+    },
+    {
+        "text": "the horn they can compensate for this",
+        "start": 848.29,
+        "duration": 4.53
+    },
+    {
+        "text": "atmospheric signal but what they don't",
+        "start": 850.57,
+        "duration": 4.83
+    },
+    {
+        "text": "compensate for is an oceanic signal",
+        "start": 852.82,
+        "duration": 4.95
+    },
+    {
+        "text": "that's pumping photons into the",
+        "start": 855.4,
+        "duration": 7.11
+    },
+    {
+        "text": "atmosphere they also say that this 2.3",
+        "start": 857.77,
+        "duration": 7.23
+    },
+    {
+        "text": "kelvin signal was due to absorption by",
+        "start": 862.51,
+        "duration": 5.49
+    },
+    {
+        "text": "oxygen in the atmosphere I think it had",
+        "start": 865.0,
+        "duration": 4.92
+    },
+    {
+        "text": "nothing to do with it nowhere in the",
+        "start": 868.0,
+        "duration": 5.16
+    },
+    {
+        "text": "Penzias and Wilson papers of 1965 can",
+        "start": 869.92,
+        "duration": 6.18
+    },
+    {
+        "text": "one find any discussion of water and",
+        "start": 873.16,
+        "duration": 7.5
+    },
+    {
+        "text": "where it might be expected to emit now",
+        "start": 876.1,
+        "duration": 7.26
+    },
+    {
+        "text": "of course they immediately say that a",
+        "start": 880.66,
+        "duration": 5.58
+    },
+    {
+        "text": "possible explanation is a sign is done",
+        "start": 883.36,
+        "duration": 5.52
+    },
+    {
+        "text": "by these cosmologists now what happens",
+        "start": 886.24,
+        "duration": 4.41
+    },
+    {
+        "text": "in Astrophysical Journal actually is",
+        "start": 888.88,
+        "duration": 5.22
+    },
+    {
+        "text": "that this interpretation by Daiki",
+        "start": 890.65,
+        "duration": 6.629
+    },
+    {
+        "text": "peoples and roll's and Wilkinson",
+        "start": 894.1,
+        "duration": 5.94
+    },
+    {
+        "text": "actually precede the dependence in",
+        "start": 897.279,
+        "duration": 5.041
+    },
+    {
+        "text": "Wilson publication so since when in",
+        "start": 900.04,
+        "duration": 5.31
+    },
+    {
+        "text": "science do we publish the finding after",
+        "start": 902.32,
+        "duration": 5.43
+    },
+    {
+        "text": "the interpretation you publish the",
+        "start": 905.35,
+        "duration": 4.41
+    },
+    {
+        "text": "finding first then you publish the",
+        "start": 907.75,
+        "duration": 5.52
+    },
+    {
+        "text": "interpretation so in the interpretation",
+        "start": 909.76,
+        "duration": 5.1
+    },
+    {
+        "text": "they say well could the universe be",
+        "start": 913.27,
+        "duration": 4.42
+    },
+    {
+        "text": "filled with microwave energy",
+        "start": 914.86,
+        "duration": 6.28
+    },
+    {
+        "text": "that behaves as a blackbody that gives",
+        "start": 917.69,
+        "duration": 6.96
+    },
+    {
+        "text": "us this blackbody signal the answer of",
+        "start": 921.14,
+        "duration": 10.41
+    },
+    {
+        "text": "course is no the assignment of a three",
+        "start": 924.65,
+        "duration": 8.9
+    },
+    {
+        "text": "points up five Kelvin temperature",
+        "start": 931.55,
+        "duration": 4.14
+    },
+    {
+        "text": "constitutes a violation of the laws of",
+        "start": 933.55,
+        "duration": 4.12
+    },
+    {
+        "text": "thermal emission and I will talk about",
+        "start": 935.69,
+        "duration": 4.74
+    },
+    {
+        "text": "that on Sunday because that in itself is",
+        "start": 937.67,
+        "duration": 5.82
+    },
+    {
+        "text": "quite detailed to explain but valid",
+        "start": 940.43,
+        "duration": 6.42
+    },
+    {
+        "text": "temperatures require a known solid no",
+        "start": 943.49,
+        "duration": 6.87
+    },
+    {
+        "text": "net conduction or convection or if you",
+        "start": 946.85,
+        "duration": 5.64
+    },
+    {
+        "text": "don't have a known solid you must be in",
+        "start": 950.36,
+        "duration": 3.89
+    },
+    {
+        "text": "thermal equilibrium with a rigid",
+        "start": 952.49,
+        "duration": 5.37
+    },
+    {
+        "text": "perfectly absorbing enclosure otherwise",
+        "start": 954.25,
+        "duration": 6.19
+    },
+    {
+        "text": "the temperature obtained may or may not",
+        "start": 957.86,
+        "duration": 3.72
+    },
+    {
+        "text": "be accurate",
+        "start": 960.44,
+        "duration": 3.96
+    },
+    {
+        "text": "so the universe is not in thermal",
+        "start": 961.58,
+        "duration": 5.69
+    },
+    {
+        "text": "equilibrium with an enclosure okay and",
+        "start": 964.4,
+        "duration": 5.94
+    },
+    {
+        "text": "especially if it's expanding it had no",
+        "start": 967.27,
+        "duration": 4.9
+    },
+    {
+        "text": "chance of ever becoming in thermal",
+        "start": 970.34,
+        "duration": 6.75
+    },
+    {
+        "text": "equilibrium a source which is not at",
+        "start": 972.17,
+        "duration": 7.53
+    },
+    {
+        "text": "three Kelvin can produce a signal if it",
+        "start": 977.09,
+        "duration": 5.31
+    },
+    {
+        "text": "sustains in addition to emission other",
+        "start": 979.7,
+        "duration": 4.73
+    },
+    {
+        "text": "means of contending with internal heat",
+        "start": 982.4,
+        "duration": 4.83
+    },
+    {
+        "text": "namely conduction and convection and",
+        "start": 984.43,
+        "duration": 5.08
+    },
+    {
+        "text": "this is by the way the reason that Max",
+        "start": 987.23,
+        "duration": 3.9
+    },
+    {
+        "text": "Planck said you cannot take a",
+        "start": 989.51,
+        "duration": 4.41
+    },
+    {
+        "text": "temperature of the Sun using thermal",
+        "start": 991.13,
+        "duration": 6.48
+    },
+    {
+        "text": "emission a source which is not at three",
+        "start": 993.92,
+        "duration": 6.75
+    },
+    {
+        "text": "Kelvin can produce a 3 Kelvin signal if",
+        "start": 997.61,
+        "duration": 6.0
+    },
+    {
+        "text": "it has an unexpected distribution of",
+        "start": 1000.67,
+        "duration": 5.1
+    },
+    {
+        "text": "energy within its degrees of freedom as",
+        "start": 1003.61,
+        "duration": 6.15
+    },
+    {
+        "text": "a result can water at 300 Kelvin produce",
+        "start": 1005.77,
+        "duration": 5.73
+    },
+    {
+        "text": "a signal with an apparent temperature of",
+        "start": 1009.76,
+        "duration": 4.86
+    },
+    {
+        "text": "3 Kelvin so I thought we'd start by just",
+        "start": 1011.5,
+        "duration": 5.67
+    },
+    {
+        "text": "looking assessing the situation here",
+        "start": 1014.62,
+        "duration": 4.14
+    },
+    {
+        "text": "we're sitting on the earth I think",
+        "start": 1017.17,
+        "duration": 4.64
+    },
+    {
+        "text": "there's quite a bit of water around us",
+        "start": 1018.76,
+        "duration": 6.15
+    },
+    {
+        "text": "actually this famous poem that many of",
+        "start": 1021.81,
+        "duration": 7.029
+    },
+    {
+        "text": "us learnt in grade school The Rime of",
+        "start": 1024.91,
+        "duration": 6.48
+    },
+    {
+        "text": "the Ancient Mariner reminds us water",
+        "start": 1028.839,
+        "duration": 5.24
+    },
+    {
+        "text": "water everywhere",
+        "start": 1031.39,
+        "duration": 2.689
+    },
+    {
+        "text": "water has often complicated microwave",
+        "start": 1034.589,
+        "duration": 5.171
+    },
+    {
+        "text": "background experiments so in their own",
+        "start": 1037.6,
+        "duration": 4.44
+    },
+    {
+        "text": "literature when you read their papers",
+        "start": 1039.76,
+        "duration": 4.02
+    },
+    {
+        "text": "you see that they're always having",
+        "start": 1042.04,
+        "duration": 3.27
+    },
+    {
+        "text": "trouble with water when they're doing",
+        "start": 1043.78,
+        "duration": 4.289
+    },
+    {
+        "text": "the experiments near the earth but they",
+        "start": 1045.31,
+        "duration": 6.0
+    },
+    {
+        "text": "dismiss all this for instance when dr.",
+        "start": 1048.069,
+        "duration": 4.261
+    },
+    {
+        "text": "Smith",
+        "start": 1051.31,
+        "duration": 3.6
+    },
+    {
+        "text": "was testing a Radiometer at Berkeley he",
+        "start": 1052.33,
+        "duration": 4.83
+    },
+    {
+        "text": "actually took the radiometer outside in",
+        "start": 1054.91,
+        "duration": 3.54
+    },
+    {
+        "text": "the parking lot and there was a cloud",
+        "start": 1057.16,
+        "duration": 3.72
+    },
+    {
+        "text": "that went overhead and he saw that he",
+        "start": 1058.45,
+        "duration": 4.86
+    },
+    {
+        "text": "got a signal from the cloud so he knew",
+        "start": 1060.88,
+        "duration": 4.83
+    },
+    {
+        "text": "his radiometer was working of course he",
+        "start": 1063.31,
+        "duration": 9.03
+    },
+    {
+        "text": "was sampling water at the time then rain",
+        "start": 1065.71,
+        "duration": 7.95
+    },
+    {
+        "text": "or Weiss",
+        "start": 1072.34,
+        "duration": 4.2
+    },
+    {
+        "text": "he noticed that whenever you're doing",
+        "start": 1073.66,
+        "duration": 5.37
+    },
+    {
+        "text": "microwave background experiments it's",
+        "start": 1076.54,
+        "duration": 4.65
+    },
+    {
+        "text": "very simple to do when there's oceans or",
+        "start": 1079.03,
+        "duration": 7.8
+    },
+    {
+        "text": "lakes nearby John Mather he commented in",
+        "start": 1081.19,
+        "duration": 8.37
+    },
+    {
+        "text": "his book that the people working in the",
+        "start": 1086.83,
+        "duration": 4.89
+    },
+    {
+        "text": "Atlantic Ocean had a very difficult time",
+        "start": 1089.56,
+        "duration": 3.69
+    },
+    {
+        "text": "getting microwave background",
+        "start": 1091.72,
+        "duration": 5.19
+    },
+    {
+        "text": "measurements done because the oceanic",
+        "start": 1093.25,
+        "duration": 6.45
+    },
+    {
+        "text": "Brut signals can the oceanic patterns",
+        "start": 1096.91,
+        "duration": 4.77
+    },
+    {
+        "text": "can produce signals that are very",
+        "start": 1099.7,
+        "duration": 7.77
+    },
+    {
+        "text": "similar to cosmic fluctuations and dr.",
+        "start": 1101.68,
+        "duration": 10.59
+    },
+    {
+        "text": "woody noticed that he sent up a balloon",
+        "start": 1107.47,
+        "duration": 6.93
+    },
+    {
+        "text": "and on the ground and during the ascent",
+        "start": 1112.27,
+        "duration": 4.2
+    },
+    {
+        "text": "they protected the antenna from",
+        "start": 1114.4,
+        "duration": 5.43
+    },
+    {
+        "text": "condensation and then they had a small",
+        "start": 1116.47,
+        "duration": 5.31
+    },
+    {
+        "text": "mirror to allow them to make sure that",
+        "start": 1119.83,
+        "duration": 4.38
+    },
+    {
+        "text": "there was no condensation inside their",
+        "start": 1121.78,
+        "duration": 4.56
+    },
+    {
+        "text": "horn well if condensation doesn't matter",
+        "start": 1124.21,
+        "duration": 4.92
+    },
+    {
+        "text": "why do you care right now we know that",
+        "start": 1126.34,
+        "duration": 6.57
+    },
+    {
+        "text": "condensation matters because dr. smut",
+        "start": 1129.13,
+        "duration": 6.03
+    },
+    {
+        "text": "when he went to Lima Peru with an",
+        "start": 1132.91,
+        "duration": 4.11
+    },
+    {
+        "text": "experiment and when he came down with",
+        "start": 1135.16,
+        "duration": 3.84
+    },
+    {
+        "text": "the plane he got condensation as",
+        "start": 1137.02,
+        "duration": 4.2
+    },
+    {
+        "text": "radiometers and they didn't work so what",
+        "start": 1139.0,
+        "duration": 3.57
+    },
+    {
+        "text": "did he do he took him apart",
+        "start": 1141.22,
+        "duration": 3.93
+    },
+    {
+        "text": "he took out all the water he dried him",
+        "start": 1142.57,
+        "duration": 4.5
+    },
+    {
+        "text": "up put him back together and all of a",
+        "start": 1145.15,
+        "duration": 3.29
+    },
+    {
+        "text": "sudden it worked",
+        "start": 1147.07,
+        "duration": 5.22
+    },
+    {
+        "text": "here's one from John Mather the effect",
+        "start": 1148.44,
+        "duration": 6.13
+    },
+    {
+        "text": "of air conduct condensing into the",
+        "start": 1152.29,
+        "duration": 4.89
+    },
+    {
+        "text": "antennas were seen when the second",
+        "start": 1154.57,
+        "duration": 4.59
+    },
+    {
+        "text": "window was open the valve which controls",
+        "start": 1157.18,
+        "duration": 4.47
+    },
+    {
+        "text": "the gas flow should have been rotated so",
+        "start": 1159.16,
+        "duration": 5.46
+    },
+    {
+        "text": "that all the gas has forced out through",
+        "start": 1161.65,
+        "duration": 6.69
+    },
+    {
+        "text": "the cone and the horn when the situation",
+        "start": 1164.62,
+        "duration": 5.64
+    },
+    {
+        "text": "was corrected emissions from the horn",
+        "start": 1168.34,
+        "duration": 5.13
+    },
+    {
+        "text": "were reduced and the cold helium has",
+        "start": 1170.26,
+        "duration": 5.64
+    },
+    {
+        "text": "cooled the surfaces on which the air had",
+        "start": 1173.47,
+        "duration": 4.47
+    },
+    {
+        "text": "condensed and the signal returned to",
+        "start": 1175.9,
+        "duration": 5.13
+    },
+    {
+        "text": "normal so he's telling you when I have",
+        "start": 1177.94,
+        "duration": 7.089
+    },
+    {
+        "text": "water there my signal was too high",
+        "start": 1181.03,
+        "duration": 6.359
+    },
+    {
+        "text": "now of course as Steve pointed out this",
+        "start": 1185.029,
+        "duration": 5.61
+    },
+    {
+        "text": "slide from one of my papers I am just",
+        "start": 1187.389,
+        "duration": 5.38
+    },
+    {
+        "text": "showing the structure of water and to",
+        "start": 1190.639,
+        "duration": 4.56
+    },
+    {
+        "text": "remind everybody that there's a there's",
+        "start": 1192.769,
+        "duration": 4.62
+    },
+    {
+        "text": "a hydrogen bond here and this is not at",
+        "start": 1195.199,
+        "duration": 4.77
+    },
+    {
+        "text": "all like a hydroxyl bond the energy of",
+        "start": 1197.389,
+        "duration": 4.47
+    },
+    {
+        "text": "this bond is about a hundred times the",
+        "start": 1199.969,
+        "duration": 3.66
+    },
+    {
+        "text": "energy of that one the force constant",
+        "start": 1201.859,
+        "duration": 5.1
+    },
+    {
+        "text": "the force constant in this bond that is",
+        "start": 1203.629,
+        "duration": 5.07
+    },
+    {
+        "text": "characterizing this bond if we look at",
+        "start": 1206.959,
+        "duration": 5.4
+    },
+    {
+        "text": "it as a simple harmonic oscillator the",
+        "start": 1208.699,
+        "duration": 6.03
+    },
+    {
+        "text": "force constant here is a hundred times",
+        "start": 1212.359,
+        "duration": 4.35
+    },
+    {
+        "text": "stronger than that one and that's a",
+        "start": 1214.729,
+        "duration": 5.37
+    },
+    {
+        "text": "great concern so if you look at it if",
+        "start": 1216.709,
+        "duration": 5.28
+    },
+    {
+        "text": "you look at the dot water dimer which we",
+        "start": 1220.099,
+        "duration": 4.26
+    },
+    {
+        "text": "know exists in that atmosphere now I'm",
+        "start": 1221.989,
+        "duration": 3.99
+    },
+    {
+        "text": "just taking the water dimer as an",
+        "start": 1224.359,
+        "duration": 4.02
+    },
+    {
+        "text": "example the water dimer you can find it",
+        "start": 1225.979,
+        "duration": 5.82
+    },
+    {
+        "text": "also in in in condensed water in in",
+        "start": 1228.379,
+        "duration": 5.13
+    },
+    {
+        "text": "liquid water if you look at the",
+        "start": 1231.799,
+        "duration": 3.09
+    },
+    {
+        "text": "structure of liquid water you'll see",
+        "start": 1233.509,
+        "duration": 5.28
+    },
+    {
+        "text": "dimers inside of it and if you compare",
+        "start": 1234.889,
+        "duration": 6.96
+    },
+    {
+        "text": "that if you look at this whoops I'm",
+        "start": 1238.789,
+        "duration": 10.43
+    },
+    {
+        "text": "sorry I did a boo-boo I will get there",
+        "start": 1241.849,
+        "duration": 12.2
+    },
+    {
+        "text": "so if you look on axis here in the dimer",
+        "start": 1249.219,
+        "duration": 8.97
+    },
+    {
+        "text": "these are these are this is a linear",
+        "start": 1254.049,
+        "duration": 7.93
+    },
+    {
+        "text": "these two these three atoms are all",
+        "start": 1258.189,
+        "duration": 6.04
+    },
+    {
+        "text": "arranged linearly there is libation",
+        "start": 1261.979,
+        "duration": 3.72
+    },
+    {
+        "text": "around this one but generally you can",
+        "start": 1264.229,
+        "duration": 3.39
+    },
+    {
+        "text": "assume that they're linear and if you do",
+        "start": 1265.699,
+        "duration": 4.95
+    },
+    {
+        "text": "that you can easily show that the energy",
+        "start": 1267.619,
+        "duration": 5.79
+    },
+    {
+        "text": "in system 1 divided by the energy in",
+        "start": 1270.649,
+        "duration": 4.53
+    },
+    {
+        "text": "system 2 will just be equal to the",
+        "start": 1273.409,
+        "duration": 4.08
+    },
+    {
+        "text": "ratios of their force constants now the",
+        "start": 1275.179,
+        "duration": 3.93
+    },
+    {
+        "text": "energy is related to their temperature",
+        "start": 1277.489,
+        "duration": 3.27
+    },
+    {
+        "text": "well since these force constants are",
+        "start": 1279.109,
+        "duration": 3.57
+    },
+    {
+        "text": "different by a factor of a hundred then",
+        "start": 1280.759,
+        "duration": 3.72
+    },
+    {
+        "text": "the emission that you'll get will be",
+        "start": 1282.679,
+        "duration": 3.87
+    },
+    {
+        "text": "different by a factor of 100 so instead",
+        "start": 1284.479,
+        "duration": 4.5
+    },
+    {
+        "text": "of getting 300k emission you get 3",
+        "start": 1286.549,
+        "duration": 9.21
+    },
+    {
+        "text": "Kelvin emission so remember if water is",
+        "start": 1288.979,
+        "duration": 8.88
+    },
+    {
+        "text": "a powerful absorber of microwaves then",
+        "start": 1295.759,
+        "duration": 4.23
+    },
+    {
+        "text": "by Stewarts law it's also a powerful",
+        "start": 1297.859,
+        "duration": 8.22
+    },
+    {
+        "text": "emitter now a little brief note on the",
+        "start": 1299.989,
+        "duration": 9.14
+    },
+    {
+        "text": "Coby satellite which Steve also covered",
+        "start": 1306.079,
+        "duration": 6.36
+    },
+    {
+        "text": "so the ferris horn was designed to",
+        "start": 1309.129,
+        "duration": 5.98
+    },
+    {
+        "text": "operate over a phenomenal range actually",
+        "start": 1312.439,
+        "duration": 6.511
+    },
+    {
+        "text": "from 30 to 3,000 gigahertz but no",
+        "start": 1315.109,
+        "duration": 6.54
+    },
+    {
+        "text": "microwave horn has ever claimed to cover",
+        "start": 1318.95,
+        "duration": 5.219
+    },
+    {
+        "text": "such a frequency range even 25 years",
+        "start": 1321.649,
+        "duration": 6.21
+    },
+    {
+        "text": "later the claim is unsupported by vast",
+        "start": 1324.169,
+        "duration": 6.36
+    },
+    {
+        "text": "knowledge of practical microwave antenna",
+        "start": 1327.859,
+        "duration": 5.341
+    },
+    {
+        "text": "design on earth it's an engineering",
+        "start": 1330.529,
+        "duration": 7.53
+    },
+    {
+        "text": "impossibility the COBE satellite as",
+        "start": 1333.2,
+        "duration": 7.439
+    },
+    {
+        "text": "Steve mentioned is positioned at an",
+        "start": 1338.059,
+        "duration": 8.22
+    },
+    {
+        "text": "altitude of 950 kilometers but the",
+        "start": 1340.639,
+        "duration": 8.821
+    },
+    {
+        "text": "shield the satellite itself or the horn",
+        "start": 1346.279,
+        "duration": 5.34
+    },
+    {
+        "text": "within the satellite which is located",
+        "start": 1349.46,
+        "duration": 5.64
+    },
+    {
+        "text": "here is is this shield it has nothing to",
+        "start": 1351.619,
+        "duration": 5.94
+    },
+    {
+        "text": "do with microwaves this is the shield",
+        "start": 1355.1,
+        "duration": 4.559
+    },
+    {
+        "text": "for thermal photons not microwaves",
+        "start": 1357.559,
+        "duration": 4.62
+    },
+    {
+        "text": "if it was a shield for microwaves it",
+        "start": 1359.659,
+        "duration": 7.681
+    },
+    {
+        "text": "should be properly shielded so here I",
+        "start": 1362.179,
+        "duration": 8.671
+    },
+    {
+        "text": "will for instance in this case what are",
+        "start": 1367.34,
+        "duration": 5.579
+    },
+    {
+        "text": "you having you're having photons coming",
+        "start": 1370.85,
+        "duration": 5.459
+    },
+    {
+        "text": "down from the earth below it and they're",
+        "start": 1372.919,
+        "duration": 4.89
+    },
+    {
+        "text": "coming up and they're hitting the shield",
+        "start": 1376.309,
+        "duration": 3.0
+    },
+    {
+        "text": "and they're diffracting against it and",
+        "start": 1377.809,
+        "duration": 2.97
+    },
+    {
+        "text": "they come to the top of the door and",
+        "start": 1379.309,
+        "duration": 3.06
+    },
+    {
+        "text": "they diffract right into this horn",
+        "start": 1380.779,
+        "duration": 3.9
+    },
+    {
+        "text": "notice that the horn the fierce horn has",
+        "start": 1382.369,
+        "duration": 5.341
+    },
+    {
+        "text": "a very smooth wall so because it has a",
+        "start": 1384.679,
+        "duration": 5.25
+    },
+    {
+        "text": "smooth wall and because it's broadband",
+        "start": 1387.71,
+        "duration": 7.5
+    },
+    {
+        "text": "it cannot be shielded for diffraction so",
+        "start": 1389.929,
+        "duration": 8.521
+    },
+    {
+        "text": "so it has no corrugated surface to",
+        "start": 1395.21,
+        "duration": 8.309
+    },
+    {
+        "text": "prevent diffraction so a horn a",
+        "start": 1398.45,
+        "duration": 7.319
+    },
+    {
+        "text": "narrowband horn in microwave that you",
+        "start": 1403.519,
+        "duration": 4.5
+    },
+    {
+        "text": "would use to prevent diffraction would",
+        "start": 1405.769,
+        "duration": 3.811
+    },
+    {
+        "text": "to have walls that look something like",
+        "start": 1408.019,
+        "duration": 4.38
+    },
+    {
+        "text": "this so now you see this corrugation and",
+        "start": 1409.58,
+        "duration": 5.4
+    },
+    {
+        "text": "these corrugations that are put in horns",
+        "start": 1412.399,
+        "duration": 5.52
+    },
+    {
+        "text": "they're very frequency specific that's",
+        "start": 1414.98,
+        "duration": 5.009
+    },
+    {
+        "text": "why these are narrowband horns you never",
+        "start": 1417.919,
+        "duration": 4.44
+    },
+    {
+        "text": "would make such a horn for a broadband",
+        "start": 1419.989,
+        "duration": 5.581
+    },
+    {
+        "text": "signal so unlike the fierce horn on Kobe",
+        "start": 1422.359,
+        "duration": 5.79
+    },
+    {
+        "text": "which is broad banded corrugated horns",
+        "start": 1425.57,
+        "duration": 5.16
+    },
+    {
+        "text": "are always narrow banded the geometry of",
+        "start": 1428.149,
+        "duration": 4.77
+    },
+    {
+        "text": "the corrugation is carefully calculated",
+        "start": 1430.73,
+        "duration": 4.11
+    },
+    {
+        "text": "to be effective over a very narrow",
+        "start": 1432.919,
+        "duration": 4.71
+    },
+    {
+        "text": "frequency range so there's no way that",
+        "start": 1434.84,
+        "duration": 4.469
+    },
+    {
+        "text": "Kobe satellite could have prevented",
+        "start": 1437.629,
+        "duration": 5.28
+    },
+    {
+        "text": "diffraction actually Wilkinson himself",
+        "start": 1439.309,
+        "duration": 5.82
+    },
+    {
+        "text": "who was a member of the Kobe team and",
+        "start": 1442.909,
+        "duration": 4.59
+    },
+    {
+        "text": "for which the W map satellite is named",
+        "start": 1445.129,
+        "duration": 5.191
+    },
+    {
+        "text": "after his death was worried that there",
+        "start": 1447.499,
+        "duration": 4.331
+    },
+    {
+        "text": "was diffraction in the",
+        "start": 1450.32,
+        "duration": 4.3
+    },
+    {
+        "text": "we data so one of the old their own key",
+        "start": 1451.83,
+        "duration": 4.819
+    },
+    {
+        "text": "members was worried about it",
+        "start": 1454.62,
+        "duration": 4.529
+    },
+    {
+        "text": "so the COBE satellite of course is",
+        "start": 1456.649,
+        "duration": 5.5
+    },
+    {
+        "text": "located just above a powerful source of",
+        "start": 1459.149,
+        "duration": 5.221
+    },
+    {
+        "text": "microwave emissions the oceans of the",
+        "start": 1462.149,
+        "duration": 6.111
+    },
+    {
+        "text": "earth clear signs of diffractions",
+        "start": 1464.37,
+        "duration": 6.51
+    },
+    {
+        "text": "diffraction exist in the kobe ferrous",
+        "start": 1468.26,
+        "duration": 4.659
+    },
+    {
+        "text": "data the data is too high at low",
+        "start": 1470.88,
+        "duration": 5.179
+    },
+    {
+        "text": "frequencies too low at high",
+        "start": 1472.919,
+        "duration": 6.841
+    },
+    {
+        "text": "so the Penzias and Wilson signal is very",
+        "start": 1476.059,
+        "duration": 7.391
+    },
+    {
+        "text": "likely to be produced by the earth now",
+        "start": 1479.76,
+        "duration": 6.649
+    },
+    {
+        "text": "we'll go through W map now I cover W map",
+        "start": 1483.45,
+        "duration": 7.349
+    },
+    {
+        "text": "and there's a lot of lessons in W map",
+        "start": 1486.409,
+        "duration": 6.911
+    },
+    {
+        "text": "which actually applies to all their",
+        "start": 1490.799,
+        "duration": 4.951
+    },
+    {
+        "text": "methodologies in trying to create a nice",
+        "start": 1493.32,
+        "duration": 6.209
+    },
+    {
+        "text": "atre P maps now as I mentioned w map is",
+        "start": 1495.75,
+        "duration": 9.63
+    },
+    {
+        "text": "sitting far out in space this is a",
+        "start": 1499.529,
+        "duration": 9.0
+    },
+    {
+        "text": "picture of the of the satellite and it's",
+        "start": 1505.38,
+        "duration": 6.509
+    },
+    {
+        "text": "it's sitting over here at l2 so in this",
+        "start": 1508.529,
+        "duration": 5.221
+    },
+    {
+        "text": "position well away from the earth",
+        "start": 1511.889,
+        "duration": 4.051
+    },
+    {
+        "text": "there's no way W map is getting a",
+        "start": 1513.75,
+        "duration": 4.59
+    },
+    {
+        "text": "monopole signal from the earth and W map",
+        "start": 1515.94,
+        "duration": 5.16
+    },
+    {
+        "text": "never saw a monopole signal it's unable",
+        "start": 1518.34,
+        "duration": 6.179
+    },
+    {
+        "text": "to by design but Planck should have been",
+        "start": 1521.1,
+        "duration": 6.689
+    },
+    {
+        "text": "able to see it but it because planck has",
+        "start": 1524.519,
+        "duration": 5.941
+    },
+    {
+        "text": "the capability capability to see an",
+        "start": 1527.789,
+        "duration": 5.311
+    },
+    {
+        "text": "absolute signal but they never reported",
+        "start": 1530.46,
+        "duration": 4.8
+    },
+    {
+        "text": "a monopole signal from l2 with the",
+        "start": 1533.1,
+        "duration": 4.709
+    },
+    {
+        "text": "planck satellite in fact for planck",
+        "start": 1535.26,
+        "duration": 5.34
+    },
+    {
+        "text": "analysis they use kobe ferris monopole",
+        "start": 1537.809,
+        "duration": 7.74
+    },
+    {
+        "text": "data in their analysis and that data of",
+        "start": 1540.6,
+        "duration": 8.16
+    },
+    {
+        "text": "course is more than is over 25 years old",
+        "start": 1545.549,
+        "duration": 7.051
+    },
+    {
+        "text": "now or nearly 25 years old they also are",
+        "start": 1548.76,
+        "duration": 5.49
+    },
+    {
+        "text": "worried that they have a lot of noise on",
+        "start": 1552.6,
+        "duration": 5.699
+    },
+    {
+        "text": "their lf-i and my problem is that",
+        "start": 1554.25,
+        "duration": 6.529
+    },
+    {
+        "text": "remember that this is a high tech device",
+        "start": 1558.299,
+        "duration": 6.09
+    },
+    {
+        "text": "now that we've got 25 years of high",
+        "start": 1560.779,
+        "duration": 6.851
+    },
+    {
+        "text": "technology we have a lot of noise coming",
+        "start": 1564.389,
+        "duration": 7.41
+    },
+    {
+        "text": "into the LF I but remember that Penzias",
+        "start": 1567.63,
+        "duration": 6.06
+    },
+    {
+        "text": "and Wilson also almost had no noise they",
+        "start": 1571.799,
+        "duration": 4.681
+    },
+    {
+        "text": "only had point 9 Kelvin attributed to",
+        "start": 1573.69,
+        "duration": 6.51
+    },
+    {
+        "text": "the instrument now SC showed here are",
+        "start": 1576.48,
+        "duration": 6.9
+    },
+    {
+        "text": "the five map here are five maps from W",
+        "start": 1580.2,
+        "duration": 4.95
+    },
+    {
+        "text": "map in each of the frequency",
+        "start": 1583.38,
+        "duration": 4.29
+    },
+    {
+        "text": "and of course we see this enormous",
+        "start": 1585.15,
+        "duration": 5.94
+    },
+    {
+        "text": "signal from from the galaxy okay",
+        "start": 1587.67,
+        "duration": 5.73
+    },
+    {
+        "text": "unfortunately you can't get around this",
+        "start": 1591.09,
+        "duration": 4.8
+    },
+    {
+        "text": "this signal is actually much much bigger",
+        "start": 1593.4,
+        "duration": 5.159
+    },
+    {
+        "text": "than this these are cleaned images where",
+        "start": 1595.89,
+        "duration": 5.46
+    },
+    {
+        "text": "they've already processed the data to",
+        "start": 1598.559,
+        "duration": 4.741
+    },
+    {
+        "text": "get rid of galactic signal out here",
+        "start": 1601.35,
+        "duration": 7.08
+    },
+    {
+        "text": "because it was so high the galactic",
+        "start": 1603.3,
+        "duration": 7.71
+    },
+    {
+        "text": "center this is a quote from their papers",
+        "start": 1608.43,
+        "duration": 5.37
+    },
+    {
+        "text": "the galactic center is a thousand times",
+        "start": 1611.01,
+        "duration": 5.46
+    },
+    {
+        "text": "brighter than fluctuations in the",
+        "start": 1613.8,
+        "duration": 7.02
+    },
+    {
+        "text": "microwave background and if you take if",
+        "start": 1616.47,
+        "duration": 6.709
+    },
+    {
+        "text": "you take the statement as real it's",
+        "start": 1620.82,
+        "duration": 5.07
+    },
+    {
+        "text": "impossible absolutely impossible to",
+        "start": 1623.179,
+        "duration": 4.601
+    },
+    {
+        "text": "remove the galactic foreground and",
+        "start": 1625.89,
+        "duration": 6.27
+    },
+    {
+        "text": "quantify any underlying signal so here's",
+        "start": 1627.78,
+        "duration": 7.05
+    },
+    {
+        "text": "an example from NMR so it's a",
+        "start": 1632.16,
+        "duration": 4.53
+    },
+    {
+        "text": "cosmologists really think that they can",
+        "start": 1634.83,
+        "duration": 3.66
+    },
+    {
+        "text": "do that they can come and help us in",
+        "start": 1636.69,
+        "duration": 5.97
+    },
+    {
+        "text": "medicine so here's an example where I",
+        "start": 1638.49,
+        "duration": 7.68
+    },
+    {
+        "text": "take a water signal an NMR signals out",
+        "start": 1642.66,
+        "duration": 6.899
+    },
+    {
+        "text": "so of course water is 110 molar so I'm",
+        "start": 1646.17,
+        "duration": 5.04
+    },
+    {
+        "text": "going to take a sample I'm going to make",
+        "start": 1649.559,
+        "duration": 4.861
+    },
+    {
+        "text": "a sample of water and I'm going to put a",
+        "start": 1651.21,
+        "duration": 5.52
+    },
+    {
+        "text": "little bit of a compound in it just",
+        "start": 1654.42,
+        "duration": 4.86
+    },
+    {
+        "text": "point one molar of this compound well",
+        "start": 1656.73,
+        "duration": 4.92
+    },
+    {
+        "text": "when I take the spectrum which is a in",
+        "start": 1659.28,
+        "duration": 5.16
+    },
+    {
+        "text": "here all you see is the water line okay",
+        "start": 1661.65,
+        "duration": 6.42
+    },
+    {
+        "text": "this is just water I can blow it up and",
+        "start": 1664.44,
+        "duration": 6.869
+    },
+    {
+        "text": "when I blow it up a factor of a hundred",
+        "start": 1668.07,
+        "duration": 7.23
+    },
+    {
+        "text": "I now see some resonances from this",
+        "start": 1671.309,
+        "duration": 6.421
+    },
+    {
+        "text": "compound now the resonances are not",
+        "start": 1675.3,
+        "duration": 5.1
+    },
+    {
+        "text": "below the water peak they're next to it",
+        "start": 1677.73,
+        "duration": 5.67
+    },
+    {
+        "text": "but for the microwave background they",
+        "start": 1680.4,
+        "duration": 5.73
+    },
+    {
+        "text": "are under the water peak the same it's",
+        "start": 1683.4,
+        "duration": 4.59
+    },
+    {
+        "text": "not water that they're looking at at l2",
+        "start": 1686.13,
+        "duration": 4.71
+    },
+    {
+        "text": "but it's a similar situation they're",
+        "start": 1687.99,
+        "duration": 5.49
+    },
+    {
+        "text": "sitting over here under a strong strong",
+        "start": 1690.84,
+        "duration": 4.98
+    },
+    {
+        "text": "microwave signal they got a little tiny",
+        "start": 1693.48,
+        "duration": 5.37
+    },
+    {
+        "text": "signal they have probably similar line",
+        "start": 1695.82,
+        "duration": 4.38
+    },
+    {
+        "text": "shapes they don't know what the line",
+        "start": 1698.85,
+        "duration": 4.2
+    },
+    {
+        "text": "shapes are it's absolutely impossible",
+        "start": 1700.2,
+        "duration": 7.31
+    },
+    {
+        "text": "for them to resolve these two signals",
+        "start": 1703.05,
+        "duration": 10.77
+    },
+    {
+        "text": "it's a physical impossibility so the",
+        "start": 1707.51,
+        "duration": 7.69
+    },
+    {
+        "text": "problem for the microwave background",
+        "start": 1713.82,
+        "duration": 3.69
+    },
+    {
+        "text": "studies is that the signal of interest",
+        "start": 1715.2,
+        "duration": 3.84
+    },
+    {
+        "text": "is exactly at the same",
+        "start": 1717.51,
+        "duration": 3.78
+    },
+    {
+        "text": "frequency as a contaminated galactic",
+        "start": 1719.04,
+        "duration": 6.27
+    },
+    {
+        "text": "signal in every single channel so under",
+        "start": 1721.29,
+        "duration": 5.79
+    },
+    {
+        "text": "these circumstances the Galactic",
+        "start": 1725.31,
+        "duration": 5.67
+    },
+    {
+        "text": "contamination of any magnitude cannot be",
+        "start": 1727.08,
+        "duration": 5.94
+    },
+    {
+        "text": "properly addressed how does one",
+        "start": 1730.98,
+        "duration": 4.02
+    },
+    {
+        "text": "distinguish the Galactic contamination",
+        "start": 1733.02,
+        "duration": 4.29
+    },
+    {
+        "text": "from a constitution made by a primordial",
+        "start": 1735.0,
+        "duration": 3.9
+    },
+    {
+        "text": "source so now you've got this this",
+        "start": 1737.31,
+        "duration": 4.56
+    },
+    {
+        "text": "enormous signal and you have the",
+        "start": 1738.9,
+        "duration": 5.46
+    },
+    {
+        "text": "primordial source I'm sorry and you have",
+        "start": 1741.87,
+        "duration": 5.31
+    },
+    {
+        "text": "now the primordial source this little",
+        "start": 1744.36,
+        "duration": 3.93
+    },
+    {
+        "text": "tiny signal",
+        "start": 1747.18,
+        "duration": 3.33
+    },
+    {
+        "text": "well actually very very tiny compared to",
+        "start": 1748.29,
+        "duration": 3.96
+    },
+    {
+        "text": "this this is really off scale right I do",
+        "start": 1750.51,
+        "duration": 4.08
+    },
+    {
+        "text": "have to use a slide here so I have an",
+        "start": 1752.25,
+        "duration": 5.91
+    },
+    {
+        "text": "analogy okay Paul and Mary may or may",
+        "start": 1754.59,
+        "duration": 5.52
+    },
+    {
+        "text": "not be real there's a bowl containing",
+        "start": 1758.16,
+        "duration": 4.71
+    },
+    {
+        "text": "six cups of water on the table how many",
+        "start": 1760.11,
+        "duration": 5.16
+    },
+    {
+        "text": "cups of water if any did Mary pour in",
+        "start": 1762.87,
+        "duration": 2.97
+    },
+    {
+        "text": "the bowl",
+        "start": 1765.27,
+        "duration": 4.61
+    },
+    {
+        "text": "that's the question they want to answer",
+        "start": 1765.84,
+        "duration": 4.04
+    },
+    {
+        "text": "all we really can tell is that there's a",
+        "start": 1770.51,
+        "duration": 7.63
+    },
+    {
+        "text": "bowl with water of the table that's as",
+        "start": 1773.52,
+        "duration": 11.25
+    },
+    {
+        "text": "bad as my jokes get now the situation is",
+        "start": 1778.14,
+        "duration": 10.02
+    },
+    {
+        "text": "further complicated with W map with 300",
+        "start": 1784.77,
+        "duration": 5.37
+    },
+    {
+        "text": "known point sources so now we've got a",
+        "start": 1788.16,
+        "duration": 3.6
+    },
+    {
+        "text": "whole bunch of point sources that we",
+        "start": 1790.14,
+        "duration": 3.87
+    },
+    {
+        "text": "have to take out of the map so now we've",
+        "start": 1791.76,
+        "duration": 4.86
+    },
+    {
+        "text": "got the Galactic contamination we got",
+        "start": 1794.01,
+        "duration": 4.47
+    },
+    {
+        "text": "the point sources and we got the",
+        "start": 1796.62,
+        "duration": 4.41
+    },
+    {
+        "text": "Galactic signal now for Planck",
+        "start": 1798.48,
+        "duration": 5.7
+    },
+    {
+        "text": "they've got 15,000 point sources we'll",
+        "start": 1801.03,
+        "duration": 5.61
+    },
+    {
+        "text": "try to put 15,000 point sources on this",
+        "start": 1804.18,
+        "duration": 4.08
+    },
+    {
+        "text": "image and you could basically build any",
+        "start": 1806.64,
+        "duration": 8.16
+    },
+    {
+        "text": "image you want so the problem for the",
+        "start": 1808.26,
+        "duration": 8.64
+    },
+    {
+        "text": "microwave background studies is that the",
+        "start": 1814.8,
+        "duration": 6.15
+    },
+    {
+        "text": "signal of interest is exactly at the",
+        "start": 1816.9,
+        "duration": 6.18
+    },
+    {
+        "text": "same frequency as the contaminated",
+        "start": 1820.95,
+        "duration": 4.2
+    },
+    {
+        "text": "Galactic and point source signals in",
+        "start": 1823.08,
+        "duration": 4.56
+    },
+    {
+        "text": "every single channel in reality there",
+        "start": 1825.15,
+        "duration": 4.47
+    },
+    {
+        "text": "are millions of microwave point sources",
+        "start": 1827.64,
+        "duration": 4.65
+    },
+    {
+        "text": "in the universe because every star",
+        "start": 1829.62,
+        "duration": 4.77
+    },
+    {
+        "text": "Kadeem it in the microwave and every",
+        "start": 1832.29,
+        "duration": 6.63
+    },
+    {
+        "text": "galaxy can these problems potentially",
+        "start": 1834.39,
+        "duration": 8.36
+    },
+    {
+        "text": "exists at every single point in the map",
+        "start": 1838.92,
+        "duration": 6.84
+    },
+    {
+        "text": "when one looks at the anisotropy maps",
+        "start": 1842.75,
+        "duration": 7.12
+    },
+    {
+        "text": "all the points matter even the points",
+        "start": 1845.76,
+        "duration": 6.31
+    },
+    {
+        "text": "with near zero signal",
+        "start": 1849.87,
+        "duration": 4.24
+    },
+    {
+        "text": "because they are contained in the",
+        "start": 1852.07,
+        "duration": 5.46
+    },
+    {
+        "text": "multiple analysis but the interfering",
+        "start": 1854.11,
+        "duration": 5.67
+    },
+    {
+        "text": "galactic signal can be greater than the",
+        "start": 1857.53,
+        "duration": 4.71
+    },
+    {
+        "text": "signal of interest by a very very large",
+        "start": 1859.78,
+        "duration": 4.71
+    },
+    {
+        "text": "amount because the signal of interest",
+        "start": 1862.24,
+        "duration": 5.13
+    },
+    {
+        "text": "can be close to zero that is why the",
+        "start": 1864.49,
+        "duration": 4.97
+    },
+    {
+        "text": "Galactic signal can be viewed as",
+        "start": 1867.37,
+        "duration": 4.41
+    },
+    {
+        "text": "contamination of a hundred a",
+        "start": 1869.46,
+        "duration": 7.66
+    },
+    {
+        "text": "thousandfold or more so this is shown",
+        "start": 1871.78,
+        "duration": 9.41
+    },
+    {
+        "text": "here you have your your map and your",
+        "start": 1877.12,
+        "duration": 6.33
+    },
+    {
+        "text": "resolving this in these multiples now",
+        "start": 1881.19,
+        "duration": 4.42
+    },
+    {
+        "text": "these are the poles that they really",
+        "start": 1883.45,
+        "duration": 4.44
+    },
+    {
+        "text": "care about in cosmology they don't care",
+        "start": 1885.61,
+        "duration": 4.02
+    },
+    {
+        "text": "about this map they care about this",
+        "start": 1887.89,
+        "duration": 2.37
+    },
+    {
+        "text": "stuff",
+        "start": 1889.63,
+        "duration": 3.45
+    },
+    {
+        "text": "but this stuff has positive and negative",
+        "start": 1890.26,
+        "duration": 4.86
+    },
+    {
+        "text": "contributions that means you're going",
+        "start": 1893.08,
+        "duration": 6.3
+    },
+    {
+        "text": "through zero right so all the points",
+        "start": 1895.12,
+        "duration": 6.06
+    },
+    {
+        "text": "even the points close to zero are",
+        "start": 1899.38,
+        "duration": 4.71
+    },
+    {
+        "text": "extremely important and you have no",
+        "start": 1901.18,
+        "duration": 6.57
+    },
+    {
+        "text": "signal to noise the entire Assembly of",
+        "start": 1904.09,
+        "duration": 7.8
+    },
+    {
+        "text": "laboratory experiments will say even in",
+        "start": 1907.75,
+        "duration": 7.26
+    },
+    {
+        "text": "medicine demonstrates that it is not",
+        "start": 1911.89,
+        "duration": 5.55
+    },
+    {
+        "text": "possible to extract a weak signal from a",
+        "start": 1915.01,
+        "duration": 5.34
+    },
+    {
+        "text": "powerful overline contaminant unless the",
+        "start": 1917.44,
+        "duration": 5.58
+    },
+    {
+        "text": "experiment has perfect knowledge of the",
+        "start": 1920.35,
+        "duration": 5.25
+    },
+    {
+        "text": "signal strength involved or the ability",
+        "start": 1923.02,
+        "duration": 5.13
+    },
+    {
+        "text": "to control the signal at the source it",
+        "start": 1925.6,
+        "duration": 6.27
+    },
+    {
+        "text": "is physically impossible to remove the",
+        "start": 1928.15,
+        "duration": 8.1
+    },
+    {
+        "text": "galactic foreground so how does the W's",
+        "start": 1931.87,
+        "duration": 7.5
+    },
+    {
+        "text": "map team do it because I've just said",
+        "start": 1936.25,
+        "duration": 5.1
+    },
+    {
+        "text": "it's impossible well they use different",
+        "start": 1939.37,
+        "duration": 4.65
+    },
+    {
+        "text": "methods over different years however the",
+        "start": 1941.35,
+        "duration": 6.78
+    },
+    {
+        "text": "methods have nothing that can salvage",
+        "start": 1944.02,
+        "duration": 9.63
+    },
+    {
+        "text": "the underlying problem so I just want to",
+        "start": 1948.13,
+        "duration": 7.5
+    },
+    {
+        "text": "highlight again what the maps really",
+        "start": 1953.65,
+        "duration": 4.74
+    },
+    {
+        "text": "look like so these are this is the five",
+        "start": 1955.63,
+        "duration": 6.45
+    },
+    {
+        "text": "channels down in the lower part of the",
+        "start": 1958.39,
+        "duration": 6.12
+    },
+    {
+        "text": "page of the slide and in the middle over",
+        "start": 1962.08,
+        "duration": 5.55
+    },
+    {
+        "text": "here you have these right the three on",
+        "start": 1964.51,
+        "duration": 6.45
+    },
+    {
+        "text": "the right the qw v and w band shown a",
+        "start": 1967.63,
+        "duration": 7.05
+    },
+    {
+        "text": "gift at lower resolution but here's what",
+        "start": 1970.96,
+        "duration": 6.53
+    },
+    {
+        "text": "they look like before they're cleaned",
+        "start": 1974.68,
+        "duration": 5.31
+    },
+    {
+        "text": "now do you see how much there was",
+        "start": 1977.49,
+        "duration": 4.57
+    },
+    {
+        "text": "galactic contamination before it's",
+        "start": 1979.99,
+        "duration": 4.62
+    },
+    {
+        "text": "cleaned see how it looks when they",
+        "start": 1982.06,
+        "duration": 3.88
+    },
+    {
+        "text": "present it",
+        "start": 1984.61,
+        "duration": 3.64
+    },
+    {
+        "text": "to us this is the this is what people",
+        "start": 1985.94,
+        "duration": 3.9
+    },
+    {
+        "text": "typically see they don't realize that",
+        "start": 1988.25,
+        "duration": 4.23
+    },
+    {
+        "text": "cube and actually has that much galaxies",
+        "start": 1989.84,
+        "duration": 4.95
+    },
+    {
+        "text": "in it and they don't even show the other",
+        "start": 1992.48,
+        "duration": 7.53
+    },
+    {
+        "text": "two because they're going to be red now",
+        "start": 1994.79,
+        "duration": 6.99
+    },
+    {
+        "text": "how do they get rid of the galactic",
+        "start": 2000.01,
+        "duration": 4.08
+    },
+    {
+        "text": "foreground well this is a great",
+        "start": 2001.78,
+        "duration": 5.01
+    },
+    {
+        "text": "experiment what you do is you break up",
+        "start": 2004.09,
+        "duration": 8.34
+    },
+    {
+        "text": "the signals in eleven regions some away",
+        "start": 2006.79,
+        "duration": 7.68
+    },
+    {
+        "text": "from the galaxy which you call region 0",
+        "start": 2012.43,
+        "duration": 5.28
+    },
+    {
+        "text": "and then eleven regions in the plane so",
+        "start": 2014.47,
+        "duration": 9.6
+    },
+    {
+        "text": "I guess twelve regions total so what do",
+        "start": 2017.71,
+        "duration": 9.54
+    },
+    {
+        "text": "they do well I now they're going to",
+        "start": 2024.07,
+        "duration": 5.61
+    },
+    {
+        "text": "they're gonna do some addition here",
+        "start": 2027.25,
+        "duration": 4.65
+    },
+    {
+        "text": "they've learned some algebra so what",
+        "start": 2029.68,
+        "duration": 6.6
+    },
+    {
+        "text": "they do is they take signal K and they",
+        "start": 2031.9,
+        "duration": 7.76
+    },
+    {
+        "text": "negate it and then they add it to ka",
+        "start": 2036.28,
+        "duration": 10.01
+    },
+    {
+        "text": "they negate Q they add V they add W now",
+        "start": 2039.66,
+        "duration": 9.67
+    },
+    {
+        "text": "this is what they did in region 4 now in",
+        "start": 2046.29,
+        "duration": 5.92
+    },
+    {
+        "text": "the adjacent region this is what they",
+        "start": 2049.33,
+        "duration": 4.95
+    },
+    {
+        "text": "did so you see that the coefficients are",
+        "start": 2052.21,
+        "duration": 3.99
+    },
+    {
+        "text": "completely different they're changing by",
+        "start": 2054.28,
+        "duration": 5.19
+    },
+    {
+        "text": "a factor of a thousand percent in two",
+        "start": 2056.2,
+        "duration": 6.24
+    },
+    {
+        "text": "regions adjacent to one another but the",
+        "start": 2059.47,
+        "duration": 5.25
+    },
+    {
+        "text": "reality is you're not allowed to negate",
+        "start": 2062.44,
+        "duration": 5.4
+    },
+    {
+        "text": "this signal all negations constitute a",
+        "start": 2064.72,
+        "duration": 5.01
+    },
+    {
+        "text": "violation of the laws of thermal",
+        "start": 2067.84,
+        "duration": 4.95
+    },
+    {
+        "text": "emission as they make a cool sky appear",
+        "start": 2069.73,
+        "duration": 7.8
+    },
+    {
+        "text": "warmer in the galaxy in addition one one",
+        "start": 2072.79,
+        "duration": 6.24
+    },
+    {
+        "text": "can be violating the third law of",
+        "start": 2077.53,
+        "duration": 3.72
+    },
+    {
+        "text": "thermodynamics because when one inverts",
+        "start": 2079.03,
+        "duration": 5.6
+    },
+    {
+        "text": "these signals he can mathematically",
+        "start": 2081.25,
+        "duration": 5.97
+    },
+    {
+        "text": "create negative temperatures which are",
+        "start": 2084.63,
+        "duration": 6.01
+    },
+    {
+        "text": "prohibited temperatures do not exist",
+        "start": 2087.22,
+        "duration": 6.33
+    },
+    {
+        "text": "below Absolute Zero just imagine if",
+        "start": 2090.64,
+        "duration": 6.0
+    },
+    {
+        "text": "there is no monopole at l2 now in",
+        "start": 2093.55,
+        "duration": 4.95
+    },
+    {
+        "text": "magnetic resonance I'll confess that we",
+        "start": 2096.64,
+        "duration": 3.9
+    },
+    {
+        "text": "can have negative temperatures because",
+        "start": 2098.5,
+        "duration": 4.17
+    },
+    {
+        "text": "we can have spin populations and invert",
+        "start": 2100.54,
+        "duration": 4.38
+    },
+    {
+        "text": "them so we can talk about negative",
+        "start": 2102.67,
+        "duration": 3.78
+    },
+    {
+        "text": "temperatures in our spins",
+        "start": 2104.92,
+        "duration": 7.29
+    },
+    {
+        "text": "they don't get to touch the galaxies so",
+        "start": 2106.45,
+        "duration": 7.95
+    },
+    {
+        "text": "here's what is happening now for region",
+        "start": 2112.21,
+        "duration": 4.41
+    },
+    {
+        "text": "zero look what they're doing each",
+        "start": 2114.4,
+        "duration": 5.04
+    },
+    {
+        "text": "channel is either positive as",
+        "start": 2116.62,
+        "duration": 5.1
+    },
+    {
+        "text": "choose to make it there's infinite",
+        "start": 2119.44,
+        "duration": 4.59
+    },
+    {
+        "text": "number of combinations we can all sit",
+        "start": 2121.72,
+        "duration": 5.19
+    },
+    {
+        "text": "down and come and take it some to add to",
+        "start": 2124.03,
+        "duration": 4.829
+    },
+    {
+        "text": "one and pick any numbers you want as",
+        "start": 2126.91,
+        "duration": 3.959
+    },
+    {
+        "text": "long as they add to one it's a valid",
+        "start": 2128.859,
+        "duration": 4.441
+    },
+    {
+        "text": "solution so what have they done it's",
+        "start": 2130.869,
+        "duration": 6.811
+    },
+    {
+        "text": "positive this term is negative okay then",
+        "start": 2133.3,
+        "duration": 6.99
+    },
+    {
+        "text": "they're negative again then positive but",
+        "start": 2137.68,
+        "duration": 5.189
+    },
+    {
+        "text": "look this I told you the data has to be",
+        "start": 2140.29,
+        "duration": 4.829
+    },
+    {
+        "text": "reproducible look at the coefficients",
+        "start": 2142.869,
+        "duration": 4.441
+    },
+    {
+        "text": "that they use for addition see how",
+        "start": 2145.119,
+        "duration": 3.871
+    },
+    {
+        "text": "they're changing over the years",
+        "start": 2147.31,
+        "duration": 4.83
+    },
+    {
+        "text": "this one has changed 43 percent that's a",
+        "start": 2148.99,
+        "duration": 6.0
+    },
+    {
+        "text": "big change in the same region just oh",
+        "start": 2152.14,
+        "duration": 4.64
+    },
+    {
+        "text": "and by the way the three year average",
+        "start": 2154.99,
+        "duration": 10.98
+    },
+    {
+        "text": "contains your one so when one inverts",
+        "start": 2156.78,
+        "duration": 11.26
+    },
+    {
+        "text": "the channels you're creating the",
+        "start": 2165.97,
+        "duration": 4.619
+    },
+    {
+        "text": "monopole the multiples you're creating",
+        "start": 2168.04,
+        "duration": 4.59
+    },
+    {
+        "text": "these negative temperatures and you are",
+        "start": 2170.589,
+        "duration": 5.431
+    },
+    {
+        "text": "in violation of thermodynamics so what",
+        "start": 2172.63,
+        "duration": 5.76
+    },
+    {
+        "text": "is the signal to noise in the M R in the",
+        "start": 2176.02,
+        "duration": 5.28
+    },
+    {
+        "text": "W map images so people see oh they see",
+        "start": 2178.39,
+        "duration": 4.92
+    },
+    {
+        "text": "these images oh my god this is a real",
+        "start": 2181.3,
+        "duration": 4.289
+    },
+    {
+        "text": "image we imaged the universe that's",
+        "start": 2183.31,
+        "duration": 3.93
+    },
+    {
+        "text": "because they don't really understand",
+        "start": 2185.589,
+        "duration": 7.621
+    },
+    {
+        "text": "what is an image so this is this famous",
+        "start": 2187.24,
+        "duration": 10.82
+    },
+    {
+        "text": "image after the removal of the galaxies",
+        "start": 2193.21,
+        "duration": 4.85
+    },
+    {
+        "text": "now here's the noise that they plot in",
+        "start": 2198.69,
+        "duration": 6.129
+    },
+    {
+        "text": "their paper so they give us a noise of",
+        "start": 2201.46,
+        "duration": 6.27
+    },
+    {
+        "text": "plus or minus a hundred micro Kelvin at",
+        "start": 2204.819,
+        "duration": 6.721
+    },
+    {
+        "text": "this resolution and we know that their",
+        "start": 2207.73,
+        "duration": 7.08
+    },
+    {
+        "text": "images I'm sorry we're at plus or minus",
+        "start": 2211.54,
+        "duration": 5.85
+    },
+    {
+        "text": "200 at this resolution these I can't",
+        "start": 2214.81,
+        "duration": 3.809
+    },
+    {
+        "text": "remember I don't think these are",
+        "start": 2217.39,
+        "duration": 5.58
+    },
+    {
+        "text": "identical resolutions but you can gather",
+        "start": 2218.619,
+        "duration": 6.031
+    },
+    {
+        "text": "from their data if you look at it",
+        "start": 2222.97,
+        "duration": 3.149
+    },
+    {
+        "text": "carefully they have signal-to-noise of",
+        "start": 2224.65,
+        "duration": 3.03
+    },
+    {
+        "text": "about two to one relative to the noise",
+        "start": 2226.119,
+        "duration": 3.781
+    },
+    {
+        "text": "of their instrument now I just want to",
+        "start": 2227.68,
+        "duration": 5.01
+    },
+    {
+        "text": "show you some some Mr images of things",
+        "start": 2229.9,
+        "duration": 5.31
+    },
+    {
+        "text": "or different images Wilson we won't say",
+        "start": 2232.69,
+        "duration": 4.56
+    },
+    {
+        "text": "they're all mr so what's the first one",
+        "start": 2235.21,
+        "duration": 3.359
+    },
+    {
+        "text": "right here I want you to guess this is a",
+        "start": 2237.25,
+        "duration": 3.66
+    },
+    {
+        "text": "2.1 signal-to-noise two to one",
+        "start": 2238.569,
+        "duration": 6.241
+    },
+    {
+        "text": "signal-to-noise image this is an actual",
+        "start": 2240.91,
+        "duration": 8.34
+    },
+    {
+        "text": "image probably of my head this one is of",
+        "start": 2244.81,
+        "duration": 6.06
+    },
+    {
+        "text": "importance to us here this is",
+        "start": 2249.25,
+        "duration": 5.55
+    },
+    {
+        "text": "an image of the moon and this one no one",
+        "start": 2250.87,
+        "duration": 5.79
+    },
+    {
+        "text": "will guess it's the image of my right",
+        "start": 2254.8,
+        "duration": 5.87
+    },
+    {
+        "text": "hand so when you have no signal-to-noise",
+        "start": 2256.66,
+        "duration": 6.74
+    },
+    {
+        "text": "guess what you don't have an image",
+        "start": 2260.67,
+        "duration": 6.22
+    },
+    {
+        "text": "unless it's reproducible and their image",
+        "start": 2263.4,
+        "duration": 9.16
+    },
+    {
+        "text": "is not reproducible so since the W map",
+        "start": 2266.89,
+        "duration": 7.98
+    },
+    {
+        "text": "images are not reproducible from year to",
+        "start": 2272.56,
+        "duration": 6.99
+    },
+    {
+        "text": "year this is seen in the need to take",
+        "start": 2274.87,
+        "duration": 7.08
+    },
+    {
+        "text": "different images at lower resolution",
+        "start": 2279.55,
+        "duration": 4.53
+    },
+    {
+        "text": "which you're not allowed to do when you",
+        "start": 2281.95,
+        "duration": 4.29
+    },
+    {
+        "text": "take a difference it has to be at the",
+        "start": 2284.08,
+        "duration": 4.2
+    },
+    {
+        "text": "same resolution because this makes",
+        "start": 2286.24,
+        "duration": 4.14
+    },
+    {
+        "text": "things look better than they really are",
+        "start": 2288.28,
+        "duration": 4.92
+    },
+    {
+        "text": "and their coefficients are changing from",
+        "start": 2290.38,
+        "duration": 7.83
+    },
+    {
+        "text": "year to year so here we have year one we",
+        "start": 2293.2,
+        "duration": 7.68
+    },
+    {
+        "text": "have the three year average now this",
+        "start": 2298.21,
+        "duration": 4.35
+    },
+    {
+        "text": "three year average actually contains",
+        "start": 2300.88,
+        "duration": 3.15
+    },
+    {
+        "text": "your one but when you take the",
+        "start": 2302.56,
+        "duration": 3.12
+    },
+    {
+        "text": "difference of these oh this does not",
+        "start": 2304.03,
+        "duration": 4.98
+    },
+    {
+        "text": "look too good because now you have to",
+        "start": 2305.68,
+        "duration": 5.61
+    },
+    {
+        "text": "degrade the resolution well when you",
+        "start": 2309.01,
+        "duration": 4.26
+    },
+    {
+        "text": "degrade the resolution you lower the",
+        "start": 2311.29,
+        "duration": 3.96
+    },
+    {
+        "text": "scale right this 30 doesn't mean",
+        "start": 2313.27,
+        "duration": 4.14
+    },
+    {
+        "text": "anything now because this is on a",
+        "start": 2315.25,
+        "duration": 4.41
+    },
+    {
+        "text": "different resolution see how big the",
+        "start": 2317.41,
+        "duration": 4.32
+    },
+    {
+        "text": "blocks are versus the tiny points here",
+        "start": 2319.66,
+        "duration": 4.17
+    },
+    {
+        "text": "you have to keep the resolution the same",
+        "start": 2321.73,
+        "duration": 5.04
+    },
+    {
+        "text": "so actually these two images don't agree",
+        "start": 2323.83,
+        "duration": 5.49
+    },
+    {
+        "text": "at all even though this image contains",
+        "start": 2326.77,
+        "duration": 6.63
+    },
+    {
+        "text": "that one so that gives you an idea how",
+        "start": 2329.32,
+        "duration": 4.65
+    },
+    {
+        "text": "bad it is",
+        "start": 2333.4,
+        "duration": 3.33
+    },
+    {
+        "text": "so to give it in a different perspective",
+        "start": 2333.97,
+        "duration": 7.38
+    },
+    {
+        "text": "I did a color difference map with the",
+        "start": 2336.73,
+        "duration": 8.28
+    },
+    {
+        "text": "resolution preserved so in this case now",
+        "start": 2341.35,
+        "duration": 6.42
+    },
+    {
+        "text": "I'm taking the three year average which",
+        "start": 2345.01,
+        "duration": 4.86
+    },
+    {
+        "text": "again contains year one and I subtracted",
+        "start": 2347.77,
+        "duration": 3.99
+    },
+    {
+        "text": "from year one do you see all the",
+        "start": 2349.87,
+        "duration": 4.29
+    },
+    {
+        "text": "leftover and I can blow it up for you",
+        "start": 2351.76,
+        "duration": 4.5
+    },
+    {
+        "text": "and you can see that there is a lot of",
+        "start": 2354.16,
+        "duration": 6.62
+    },
+    {
+        "text": "leftover and some of this signal is red",
+        "start": 2356.26,
+        "duration": 7.26
+    },
+    {
+        "text": "so the difference image indicates that",
+        "start": 2360.78,
+        "duration": 4.21
+    },
+    {
+        "text": "the data has nothing to do with",
+        "start": 2363.52,
+        "duration": 3.3
+    },
+    {
+        "text": "cosmology because these maps are not",
+        "start": 2364.99,
+        "duration": 4.98
+    },
+    {
+        "text": "stable from year to year let alone on a",
+        "start": 2366.82,
+        "duration": 6.24
+    },
+    {
+        "text": "cosmological time scale so if you have a",
+        "start": 2369.97,
+        "duration": 4.47
+    },
+    {
+        "text": "point that moves",
+        "start": 2373.06,
+        "duration": 3.87
+    },
+    {
+        "text": "remember we're measuring a signal that",
+        "start": 2374.44,
+        "duration": 4.44
+    },
+    {
+        "text": "is not supposed to have moved with the",
+        "start": 2376.93,
+        "duration": 4.38
+    },
+    {
+        "text": "universe they tell us as 13 billion",
+        "start": 2378.88,
+        "duration": 5.79
+    },
+    {
+        "text": "years old so it doesn't move",
+        "start": 2381.31,
+        "duration": 8.749
+    },
+    {
+        "text": "a year-to-year basis so in order to make",
+        "start": 2384.67,
+        "duration": 8.46
+    },
+    {
+        "text": "cosmological interpretation the W map",
+        "start": 2390.059,
+        "duration": 5.411
+    },
+    {
+        "text": "images must be perfectly stable from",
+        "start": 2393.13,
+        "duration": 5.04
+    },
+    {
+        "text": "year to year even fluctuations at the",
+        "start": 2395.47,
+        "duration": 6.48
+    },
+    {
+        "text": "level of a few pixels is disastrous and",
+        "start": 2398.17,
+        "duration": 6.06
+    },
+    {
+        "text": "it's a lot more than a few pixels",
+        "start": 2401.95,
+        "duration": 5.01
+    },
+    {
+        "text": "since the data must be stable on a",
+        "start": 2404.23,
+        "duration": 6.42
+    },
+    {
+        "text": "cosmological time scale so this is an",
+        "start": 2406.96,
+        "duration": 7.58
+    },
+    {
+        "text": "impossible experiment it cannot be done",
+        "start": 2410.65,
+        "duration": 7.38
+    },
+    {
+        "text": "now if you look they also give us new",
+        "start": 2414.54,
+        "duration": 5.89
+    },
+    {
+        "text": "analysis of the foreground and they",
+        "start": 2418.03,
+        "duration": 3.9
+    },
+    {
+        "text": "actually try to tell us well this",
+        "start": 2420.43,
+        "duration": 3.33
+    },
+    {
+        "text": "galactic signal I could break it into",
+        "start": 2421.93,
+        "duration": 3.869
+    },
+    {
+        "text": "free--free emission spinning dust",
+        "start": 2423.76,
+        "duration": 3.72
+    },
+    {
+        "text": "thermal dust it doesn't matter",
+        "start": 2425.799,
+        "duration": 6.631
+    },
+    {
+        "text": "it's all galaxies now the Planck",
+        "start": 2427.48,
+        "duration": 7.889
+    },
+    {
+        "text": "satellite I wrote a paper on the Planck",
+        "start": 2432.43,
+        "duration": 5.79
+    },
+    {
+        "text": "satellite which Steve talked about about",
+        "start": 2435.369,
+        "duration": 4.561
+    },
+    {
+        "text": "the conduction out of the four key",
+        "start": 2438.22,
+        "duration": 3.839
+    },
+    {
+        "text": "reference targets well when you have a",
+        "start": 2439.93,
+        "duration": 5.399
+    },
+    {
+        "text": "conductive path out of a blackbody it's",
+        "start": 2442.059,
+        "duration": 4.651
+    },
+    {
+        "text": "supposed to be a blackbody",
+        "start": 2445.329,
+        "duration": 3.961
+    },
+    {
+        "text": "it doesn't need to emit any photons to",
+        "start": 2446.71,
+        "duration": 4.5
+    },
+    {
+        "text": "get rid of its heat it can use",
+        "start": 2449.29,
+        "duration": 4.62
+    },
+    {
+        "text": "conduction so conduction is strictly",
+        "start": 2451.21,
+        "duration": 6.0
+    },
+    {
+        "text": "forbidden so if the satellite isn't even",
+        "start": 2453.91,
+        "duration": 6.63
+    },
+    {
+        "text": "designed properly the combination of",
+        "start": 2457.21,
+        "duration": 6.06
+    },
+    {
+        "text": "data collected at all of Planck's nine",
+        "start": 2460.54,
+        "duration": 5.329
+    },
+    {
+        "text": "frequencies this is a quote from them is",
+        "start": 2463.27,
+        "duration": 5.549
+    },
+    {
+        "text": "crucial to achieve the optimal",
+        "start": 2465.869,
+        "duration": 4.72
+    },
+    {
+        "text": "reconstruction of the foreground signal",
+        "start": 2468.819,
+        "duration": 4.201
+    },
+    {
+        "text": "in order to subtract them violate",
+        "start": 2470.589,
+        "duration": 4.891
+    },
+    {
+        "text": "thermodynamics and reveal the underlying",
+        "start": 2473.02,
+        "duration": 5.579
+    },
+    {
+        "text": "Cosmic Microwave Background so now we",
+        "start": 2475.48,
+        "duration": 7.2
+    },
+    {
+        "text": "have nine signals with Planck and now",
+        "start": 2478.599,
+        "duration": 5.671
+    },
+    {
+        "text": "we're going to play the subtraction game",
+        "start": 2482.68,
+        "duration": 3.81
+    },
+    {
+        "text": "with these guys I don't care how they",
+        "start": 2484.27,
+        "duration": 4.74
+    },
+    {
+        "text": "subtract it you cannot invert any of",
+        "start": 2486.49,
+        "duration": 4.77
+    },
+    {
+        "text": "these because these have real physical",
+        "start": 2489.01,
+        "duration": 6.53
+    },
+    {
+        "text": "meaning oh and we have our fifteen",
+        "start": 2491.26,
+        "duration": 7.349
+    },
+    {
+        "text": "thousand point sources now and they tell",
+        "start": 2495.54,
+        "duration": 5.549
+    },
+    {
+        "text": "us it's right for follow-up",
+        "start": 2498.609,
+        "duration": 6.331
+    },
+    {
+        "text": "characterization so here are my",
+        "start": 2501.089,
+        "duration": 5.431
+    },
+    {
+        "text": "conclusions",
+        "start": 2504.94,
+        "duration": 4.35
+    },
+    {
+        "text": "Penzias and Wilson are not allowed to",
+        "start": 2506.52,
+        "duration": 4.42
+    },
+    {
+        "text": "assign a temperature of three point five",
+        "start": 2509.29,
+        "duration": 4.14
+    },
+    {
+        "text": "Kelvin to their signal they don't know",
+        "start": 2510.94,
+        "duration": 4.02
+    },
+    {
+        "text": "the temperature because they don't know",
+        "start": 2513.43,
+        "duration": 5.19
+    },
+    {
+        "text": "that the source adheres to the condition",
+        "start": 2514.96,
+        "duration": 5.37
+    },
+    {
+        "text": "by which the laws of thermal emission",
+        "start": 2518.62,
+        "duration": 4.92
+    },
+    {
+        "text": "can be applied the applications of the",
+        "start": 2520.33,
+        "duration": 5.55
+    },
+    {
+        "text": "laws of thermal emission in obtaining a",
+        "start": 2523.54,
+        "duration": 4.53
+    },
+    {
+        "text": "real temperature requires that the",
+        "start": 2525.88,
+        "duration": 4.14
+    },
+    {
+        "text": "source be enclosed with a perfectly",
+        "start": 2528.07,
+        "duration": 5.1
+    },
+    {
+        "text": "absorbing enclosure or that it be a",
+        "start": 2530.02,
+        "duration": 7.89
+    },
+    {
+        "text": "solid and furthermore to have a thermal",
+        "start": 2533.17,
+        "duration": 7.59
+    },
+    {
+        "text": "spectrum you need a vibrational lattice",
+        "start": 2537.91,
+        "duration": 5.88
+    },
+    {
+        "text": "as you find in condensed matter and in",
+        "start": 2540.76,
+        "duration": 3.9
+    },
+    {
+        "text": "the BIGBANG",
+        "start": 2543.79,
+        "duration": 4.92
+    },
+    {
+        "text": "they will never be one as such the 3.5",
+        "start": 2544.66,
+        "duration": 6.84
+    },
+    {
+        "text": "Kelvin temperature is not real it's only",
+        "start": 2548.71,
+        "duration": 5.88
+    },
+    {
+        "text": "an apparent temperature and we have no",
+        "start": 2551.5,
+        "duration": 4.95
+    },
+    {
+        "text": "evidence that the measured signal",
+        "start": 2554.59,
+        "duration": 4.44
+    },
+    {
+        "text": "properly samples the entire energy",
+        "start": 2556.45,
+        "duration": 5.34
+    },
+    {
+        "text": "content of the source because if you",
+        "start": 2559.03,
+        "duration": 5.43
+    },
+    {
+        "text": "think of water water can put some energy",
+        "start": 2561.79,
+        "duration": 5.49
+    },
+    {
+        "text": "in the hydrogen bond it can put some in",
+        "start": 2564.46,
+        "duration": 5.73
+    },
+    {
+        "text": "the hydroxyl bond and we know from the",
+        "start": 2567.28,
+        "duration": 4.5
+    },
+    {
+        "text": "oceans that they can be a lot in",
+        "start": 2570.19,
+        "duration": 4.8
+    },
+    {
+        "text": "convection currents as so the",
+        "start": 2571.78,
+        "duration": 5.55
+    },
+    {
+        "text": "temperature assignment stands as a",
+        "start": 2574.99,
+        "duration": 4.23
+    },
+    {
+        "text": "violation of the laws of thermal",
+        "start": 2577.33,
+        "duration": 4.38
+    },
+    {
+        "text": "emission since Penzias and Wilson cannot",
+        "start": 2579.22,
+        "duration": 5.1
+    },
+    {
+        "text": "ascertain that this that the source of",
+        "start": 2581.71,
+        "duration": 4.74
+    },
+    {
+        "text": "their signal was devoid of the effects",
+        "start": 2584.32,
+        "duration": 5.07
+    },
+    {
+        "text": "of conduction and convection that is",
+        "start": 2586.45,
+        "duration": 5.16
+    },
+    {
+        "text": "that they properly sampled all the",
+        "start": 2589.39,
+        "duration": 4.14
+    },
+    {
+        "text": "degrees of freedom of the system in",
+        "start": 2591.61,
+        "duration": 6.15
+    },
+    {
+        "text": "which they're interested also relative",
+        "start": 2593.53,
+        "duration": 6.36
+    },
+    {
+        "text": "time of the monopole given the chemical",
+        "start": 2597.76,
+        "duration": 4.38
+    },
+    {
+        "text": "nature of the hydrogen bond and it's",
+        "start": 2599.89,
+        "duration": 4.92
+    },
+    {
+        "text": "proven ability to emit in this frequency",
+        "start": 2602.14,
+        "duration": 5.22
+    },
+    {
+        "text": "range we know that as Steve mentioned",
+        "start": 2604.81,
+        "duration": 4.83
+    },
+    {
+        "text": "from microwave ovens or submarine",
+        "start": 2607.36,
+        "duration": 4.68
+    },
+    {
+        "text": "commanders know it because as soon as",
+        "start": 2609.64,
+        "duration": 4.58
+    },
+    {
+        "text": "they break the surface of the sea",
+        "start": 2612.04,
+        "duration": 4.68
+    },
+    {
+        "text": "microwave is dead when they go",
+        "start": 2614.22,
+        "duration": 7.54
+    },
+    {
+        "text": "underwater that shows that the oceans",
+        "start": 2616.72,
+        "duration": 9.78
+    },
+    {
+        "text": "are very very powerful absorbers it is",
+        "start": 2621.76,
+        "duration": 7.14
+    },
+    {
+        "text": "certain that the monopole signal arises",
+        "start": 2626.5,
+        "duration": 4.68
+    },
+    {
+        "text": "from the oceans and that other water",
+        "start": 2628.9,
+        "duration": 4.83
+    },
+    {
+        "text": "containing bodies on our planet there is",
+        "start": 2631.18,
+        "duration": 7.08
+    },
+    {
+        "text": "no monopole at l2 this implies that the",
+        "start": 2633.73,
+        "duration": 6.78
+    },
+    {
+        "text": "earth cannot emit as much radiation in",
+        "start": 2638.26,
+        "duration": 4.2
+    },
+    {
+        "text": "these frequency bands as some might",
+        "start": 2640.51,
+        "duration": 5.31
+    },
+    {
+        "text": "believe that has consequences for those",
+        "start": 2642.46,
+        "duration": 5.04
+    },
+    {
+        "text": "who are interested in radiative balance",
+        "start": 2645.82,
+        "duration": 5.91
+    },
+    {
+        "text": "of the earth and everybody who's now",
+        "start": 2647.5,
+        "duration": 7.74
+    },
+    {
+        "text": "with global warming so it's important to",
+        "start": 2651.73,
+        "duration": 6.18
+    },
+    {
+        "text": "reassign the signal because humanity",
+        "start": 2655.24,
+        "duration": 5.46
+    },
+    {
+        "text": "cares about its proper assignment this",
+        "start": 2657.91,
+        "duration": 5.58
+    },
+    {
+        "text": "signal belongs to geophysics gnostic",
+        "start": 2660.7,
+        "duration": 5.899
+    },
+    {
+        "text": "cosmology now of course we do have",
+        "start": 2663.49,
+        "duration": 6.51
+    },
+    {
+        "text": "galactic signals source signals which we",
+        "start": 2666.599,
+        "duration": 5.531
+    },
+    {
+        "text": "also sample from the earth but we don't",
+        "start": 2670.0,
+        "duration": 5.01
+    },
+    {
+        "text": "care about those because they have no",
+        "start": 2672.13,
+        "duration": 4.709
+    },
+    {
+        "text": "meaning they have no meaning in",
+        "start": 2675.01,
+        "duration": 3.81
+    },
+    {
+        "text": "cosmology and they have no interest",
+        "start": 2676.839,
+        "duration": 4.351
+    },
+    {
+        "text": "relative to understanding the earth the",
+        "start": 2678.82,
+        "duration": 3.99
+    },
+    {
+        "text": "central signal that pen Justin Wilson",
+        "start": 2681.19,
+        "duration": 4.08
+    },
+    {
+        "text": "won the Nobel Prize for and that signal",
+        "start": 2682.81,
+        "duration": 4.08
+    },
+    {
+        "text": "is still tremendously important and",
+        "start": 2685.27,
+        "duration": 3.99
+    },
+    {
+        "text": "believe me I still believe they get",
+        "start": 2686.89,
+        "duration": 4.439
+    },
+    {
+        "text": "their Nobel Prize that was a great",
+        "start": 2689.26,
+        "duration": 4.41
+    },
+    {
+        "text": "discovery but the thing is it has been",
+        "start": 2691.329,
+        "duration": 5.191
+    },
+    {
+        "text": "miss assigned by others and now it has",
+        "start": 2693.67,
+        "duration": 5.189
+    },
+    {
+        "text": "to be reassigned and this is an example",
+        "start": 2696.52,
+        "duration": 5.39
+    },
+    {
+        "text": "of improper anchoring in physics",
+        "start": 2698.859,
+        "duration": 6.24
+    },
+    {
+        "text": "microwave signals come primarily from",
+        "start": 2701.91,
+        "duration": 6.55
+    },
+    {
+        "text": "our own galaxy and the the billions of",
+        "start": 2705.099,
+        "duration": 6.361
+    },
+    {
+        "text": "galaxies found in the universe the point",
+        "start": 2708.46,
+        "duration": 5.73
+    },
+    {
+        "text": "sources are innumerable this is relative",
+        "start": 2711.46,
+        "duration": 5.129
+    },
+    {
+        "text": "to the anisotropy Maps the microwave",
+        "start": 2714.19,
+        "duration": 5.58
+    },
+    {
+        "text": "anisotropy maps have no meaning and",
+        "start": 2716.589,
+        "duration": 6.391
+    },
+    {
+        "text": "science so it would beat it the",
+        "start": 2719.77,
+        "duration": 5.43
+    },
+    {
+        "text": "microwave anisotropy maps have no",
+        "start": 2722.98,
+        "duration": 4.5
+    },
+    {
+        "text": "physical meaning in science they",
+        "start": 2725.2,
+        "duration": 5.07
+    },
+    {
+        "text": "represent signal processing errors and",
+        "start": 2727.48,
+        "duration": 5.67
+    },
+    {
+        "text": "artifacts violations of thermodynamics",
+        "start": 2730.27,
+        "duration": 6.299
+    },
+    {
+        "text": "it is scientifically inappropriate to",
+        "start": 2733.15,
+        "duration": 5.939
+    },
+    {
+        "text": "negate some microwave signals and then",
+        "start": 2736.569,
+        "duration": 4.561
+    },
+    {
+        "text": "use those results to remove the",
+        "start": 2739.089,
+        "duration": 4.621
+    },
+    {
+        "text": "foreground this creates images with both",
+        "start": 2741.13,
+        "duration": 4.469
+    },
+    {
+        "text": "positive and negative signals or",
+        "start": 2743.71,
+        "duration": 4.05
+    },
+    {
+        "text": "temperatures something never found in",
+        "start": 2745.599,
+        "duration": 5.131
+    },
+    {
+        "text": "nature it constitutes at the minimum a",
+        "start": 2747.76,
+        "duration": 5.01
+    },
+    {
+        "text": "violation of the laws of radiation and",
+        "start": 2750.73,
+        "duration": 4.619
+    },
+    {
+        "text": "at worst a violation of the third law of",
+        "start": 2752.77,
+        "duration": 3.66
+    },
+    {
+        "text": "thermodynamics",
+        "start": 2755.349,
+        "duration": 4.531
+    },
+    {
+        "text": "once again multiples have no physical",
+        "start": 2756.43,
+        "duration": 7.47
+    },
+    {
+        "text": "meaning in science the anisotropy maps",
+        "start": 2759.88,
+        "duration": 6.6
+    },
+    {
+        "text": "are devoid of year-to-year stability",
+        "start": 2763.9,
+        "duration": 5.24
+    },
+    {
+        "text": "required of a signal of cosmological",
+        "start": 2766.48,
+        "duration": 6.119
+    },
+    {
+        "text": "importance as Steve also talked about",
+        "start": 2769.14,
+        "duration": 6.49
+    },
+    {
+        "text": "the axis of evil' so the axis of evil",
+        "start": 2772.599,
+        "duration": 4.861
+    },
+    {
+        "text": "which has been a subject of recent",
+        "start": 2775.63,
+        "duration": 4.469
+    },
+    {
+        "text": "discussion in cosmology is nothing more",
+        "start": 2777.46,
+        "duration": 5.67
+    },
+    {
+        "text": "than image processing artifacts which",
+        "start": 2780.099,
+        "duration": 4.861
+    },
+    {
+        "text": "arises from an attempt to",
+        "start": 2783.13,
+        "duration": 3.959
+    },
+    {
+        "text": "move the foreground and create the",
+        "start": 2784.96,
+        "duration": 4.95
+    },
+    {
+        "text": "multiples the Copernican principle",
+        "start": 2787.089,
+        "duration": 5.701
+    },
+    {
+        "text": "remains valid we do not live in a",
+        "start": 2789.91,
+        "duration": 5.55
+    },
+    {
+        "text": "geocentric universe so even though I",
+        "start": 2792.79,
+        "duration": 4.86
+    },
+    {
+        "text": "said the water signal comes from the",
+        "start": 2795.46,
+        "duration": 4.23
+    },
+    {
+        "text": "earth I'm not doing cosmology here I'm",
+        "start": 2797.65,
+        "duration": 3.33
+    },
+    {
+        "text": "just telling you the oceans are emitting",
+        "start": 2799.69,
+        "duration": 4.38
+    },
+    {
+        "text": "in the microwave we do not live in a",
+        "start": 2800.98,
+        "duration": 5.879
+    },
+    {
+        "text": "geocentric universe we have never seen",
+        "start": 2804.07,
+        "duration": 5.039
+    },
+    {
+        "text": "and will never see the first trillionth",
+        "start": 2806.859,
+        "duration": 4.081
+    },
+    {
+        "text": "of a trillionth of a trillionth of a",
+        "start": 2809.109,
+        "duration": 5.01
+    },
+    {
+        "text": "second after the Big Bang thank you very",
+        "start": 2810.94,
+        "duration": 5.419
+    },
+    {
+        "text": "much",
+        "start": 2814.119,
+        "duration": 2.24
+    },
+    {
+        "text": "[Applause]",
+        "start": 2819.96,
+        "duration": 3.179
+    },
+    {
+        "text": "[Music]",
+        "start": 2830.44,
+        "duration": 7.38
+    }
+]

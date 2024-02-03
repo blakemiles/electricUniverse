@@ -1,0 +1,5307 @@
+[
+    {
+        "text": "[Music]",
+        "start": 8.38,
+        "duration": 3.229
+    },
+    {
+        "text": "[Music]",
+        "start": 18.09,
+        "duration": 4.21
+    },
+    {
+        "text": "well it's a pleasure to be here this is",
+        "start": 22.74,
+        "duration": 7.75
+    },
+    {
+        "text": "my third time in about four years so",
+        "start": 25.72,
+        "duration": 6.75
+    },
+    {
+        "text": "it's a it's nice to be here take you",
+        "start": 30.49,
+        "duration": 4.02
+    },
+    {
+        "text": "guys for coming back for the break I'm",
+        "start": 32.47,
+        "duration": 4.41
+    },
+    {
+        "text": "sure you have a nice lunch and I will",
+        "start": 34.51,
+        "duration": 5.939
+    },
+    {
+        "text": "try to entertain you with comments so I",
+        "start": 36.88,
+        "duration": 6.179
+    },
+    {
+        "text": "will talk about reactions that actually",
+        "start": 40.449,
+        "duration": 5.401
+    },
+    {
+        "text": "occur or that we suspect actually",
+        "start": 43.059,
+        "duration": 10.68
+    },
+    {
+        "text": "occurred in comments okay all right the",
+        "start": 45.85,
+        "duration": 10.92
+    },
+    {
+        "text": "actual title that I decided to come up",
+        "start": 53.739,
+        "duration": 4.771
+    },
+    {
+        "text": "with it's actually bolted driven",
+        "start": 56.77,
+        "duration": 5.25
+    },
+    {
+        "text": "chemistry and dark cool involve",
+        "start": 58.51,
+        "duration": 5.82
+    },
+    {
+        "text": "electrochemistry as also it could also",
+        "start": 62.02,
+        "duration": 4.5
+    },
+    {
+        "text": "indicate maybe some plasma chemistry but",
+        "start": 64.33,
+        "duration": 4.74
+    },
+    {
+        "text": "in this particular case I'll be talking",
+        "start": 66.52,
+        "duration": 7.349
+    },
+    {
+        "text": "mostly about gas surface reactions are",
+        "start": 69.07,
+        "duration": 7.5
+    },
+    {
+        "text": "actually driven by voltage or electric",
+        "start": 73.869,
+        "duration": 6.511
+    },
+    {
+        "text": "fields all right so this is the unlike",
+        "start": 76.57,
+        "duration": 8.52
+    },
+    {
+        "text": "my talk I have about 36 37 slides so you",
+        "start": 80.38,
+        "duration": 7.17
+    },
+    {
+        "text": "can get a sense of where I am any point",
+        "start": 85.09,
+        "duration": 4.08
+    },
+    {
+        "text": "in a given time and this is where I'd be",
+        "start": 87.55,
+        "duration": 5.67
+    },
+    {
+        "text": "covering a big talking about charge",
+        "start": 89.17,
+        "duration": 7.619
+    },
+    {
+        "text": "separation be talking about electric",
+        "start": 93.22,
+        "duration": 7.379
+    },
+    {
+        "text": "feel such a pressure over here electric",
+        "start": 96.789,
+        "duration": 6.631
+    },
+    {
+        "text": "fields and how they actually move irons",
+        "start": 100.599,
+        "duration": 5.151
+    },
+    {
+        "text": "positive negative and I'll talk about",
+        "start": 103.42,
+        "duration": 7.41
+    },
+    {
+        "text": "dust grains voltage driven chemical",
+        "start": 105.75,
+        "duration": 7.84
+    },
+    {
+        "text": "reactions that we observe and finally I",
+        "start": 110.83,
+        "duration": 5.67
+    },
+    {
+        "text": "give a few examples of type of reactions",
+        "start": 113.59,
+        "duration": 4.65
+    },
+    {
+        "text": "they rewrite order actions that we",
+        "start": 116.5,
+        "duration": 5.49
+    },
+    {
+        "text": "suspect that might be happening okay all",
+        "start": 118.24,
+        "duration": 5.1
+    },
+    {
+        "text": "right so let me give you a reminder",
+        "start": 121.99,
+        "duration": 4.68
+    },
+    {
+        "text": "first why this topic and why is the",
+        "start": 123.34,
+        "duration": 5.399
+    },
+    {
+        "text": "context of this topic so this is one of",
+        "start": 126.67,
+        "duration": 4.259
+    },
+    {
+        "text": "the anomalies that we observe with the",
+        "start": 128.739,
+        "duration": 5.161
+    },
+    {
+        "text": "standard sublimation model that has been",
+        "start": 130.929,
+        "duration": 6.661
+    },
+    {
+        "text": "in place for the last 50 plus years we",
+        "start": 133.9,
+        "duration": 7.41
+    },
+    {
+        "text": "actually see that each it's a particular",
+        "start": 137.59,
+        "duration": 6.72
+    },
+    {
+        "text": "comment actually has its own personality",
+        "start": 141.31,
+        "duration": 5.28
+    },
+    {
+        "text": "and we know now that you know it has",
+        "start": 144.31,
+        "duration": 5.09
+    },
+    {
+        "text": "different features because it's",
+        "start": 146.59,
+        "duration": 6.58
+    },
+    {
+        "text": "composition is different okay",
+        "start": 149.4,
+        "duration": 7.64
+    },
+    {
+        "text": "the presence of ions and electrons near",
+        "start": 153.17,
+        "duration": 7.44
+    },
+    {
+        "text": "the nucleus has been shown to be there",
+        "start": 157.04,
+        "duration": 6.03
+    },
+    {
+        "text": "in a scale that is actually more than",
+        "start": 160.61,
+        "duration": 4.71
+    },
+    {
+        "text": "will be expected is photo ionization and",
+        "start": 163.07,
+        "duration": 4.56
+    },
+    {
+        "text": "I'll talk about that I talked about last",
+        "start": 165.32,
+        "duration": 5.3
+    },
+    {
+        "text": "time and also mentioning again this time",
+        "start": 167.63,
+        "duration": 7.01
+    },
+    {
+        "text": "there's this situation where we have",
+        "start": 170.62,
+        "duration": 6.52
+    },
+    {
+        "text": "what appears would be allowed outgassing",
+        "start": 174.64,
+        "duration": 6.51
+    },
+    {
+        "text": "a lot of boil tiles in the in the coma",
+        "start": 177.14,
+        "duration": 8.069
+    },
+    {
+        "text": "as a function of heliocentric distance",
+        "start": 181.15,
+        "duration": 6.61
+    },
+    {
+        "text": "it doesn't quite match so you see that",
+        "start": 185.209,
+        "duration": 4.521
+    },
+    {
+        "text": "there's something else going on I",
+        "start": 187.76,
+        "duration": 3.93
+    },
+    {
+        "text": "mentioned last time I mentioned this",
+        "start": 189.73,
+        "duration": 3.46
+    },
+    {
+        "text": "time as well",
+        "start": 191.69,
+        "duration": 3.0
+    },
+    {
+        "text": "active Jets in the dark side of the",
+        "start": 193.19,
+        "duration": 4.62
+    },
+    {
+        "text": "nucleus which are basically not exposed",
+        "start": 194.69,
+        "duration": 7.65
+    },
+    {
+        "text": "to Sun radiation sorry this is something",
+        "start": 197.81,
+        "duration": 5.61
+    },
+    {
+        "text": "that I talked before I'm not going to",
+        "start": 202.34,
+        "duration": 2.88
+    },
+    {
+        "text": "talk at this time but this is a point to",
+        "start": 203.42,
+        "duration": 4.59
+    },
+    {
+        "text": "keep in mind and the origin our common",
+        "start": 205.22,
+        "duration": 5.16
+    },
+    {
+        "text": "outburst is still that clear I think",
+        "start": 208.01,
+        "duration": 4.29
+    },
+    {
+        "text": "some of you actually mentioning and look",
+        "start": 210.38,
+        "duration": 3.48
+    },
+    {
+        "text": "at it from the electrical perspective as",
+        "start": 212.3,
+        "duration": 4.83
+    },
+    {
+        "text": "a capacitor and the presence of a large",
+        "start": 213.86,
+        "duration": 5.46
+    },
+    {
+        "text": "hydrogen gas cloud is something that I",
+        "start": 217.13,
+        "duration": 5.7
+    },
+    {
+        "text": "talked last about two times so I will",
+        "start": 219.32,
+        "duration": 9.51
+    },
+    {
+        "text": "not cover it this time right so I'm",
+        "start": 222.83,
+        "duration": 9.17
+    },
+    {
+        "text": "gonna start here by this work of",
+        "start": 228.83,
+        "duration": 5.969
+    },
+    {
+        "text": "warcraft where he basically proposed a",
+        "start": 232.0,
+        "duration": 6.76
+    },
+    {
+        "text": "model that they actually explained the",
+        "start": 234.799,
+        "duration": 7.47
+    },
+    {
+        "text": "rotation of galaxies and it is model he",
+        "start": 238.76,
+        "duration": 5.46
+    },
+    {
+        "text": "actually was very enough to actually",
+        "start": 242.269,
+        "duration": 6.241
+    },
+    {
+        "text": "consider the electrostatic force okay so",
+        "start": 244.22,
+        "duration": 7.14
+    },
+    {
+        "text": "here is basically a figure in this in",
+        "start": 248.51,
+        "duration": 5.82
+    },
+    {
+        "text": "this paper and what he concludes is that",
+        "start": 251.36,
+        "duration": 5.939
+    },
+    {
+        "text": "at the at the end of the day he said you",
+        "start": 254.33,
+        "duration": 6.81
+    },
+    {
+        "text": "need to have a charge of about ten to",
+        "start": 257.299,
+        "duration": 7.201
+    },
+    {
+        "text": "thirty first coulombs to actually",
+        "start": 261.14,
+        "duration": 8.07
+    },
+    {
+        "text": "explain the actual rotation on on the",
+        "start": 264.5,
+        "duration": 7.41
+    },
+    {
+        "text": "galaxy's that you see on top of gravity",
+        "start": 269.21,
+        "duration": 4.53
+    },
+    {
+        "text": "of course it says it's gravity but they",
+        "start": 271.91,
+        "duration": 2.819
+    },
+    {
+        "text": "were top of that you need to have a",
+        "start": 273.74,
+        "duration": 3.48
+    },
+    {
+        "text": "necessary force this how much colors you",
+        "start": 274.729,
+        "duration": 4.891
+    },
+    {
+        "text": "need but he goes beyond that he says",
+        "start": 277.22,
+        "duration": 6.24
+    },
+    {
+        "text": "that positive charge is actually located",
+        "start": 279.62,
+        "duration": 6.84
+    },
+    {
+        "text": "at the centre and the",
+        "start": 283.46,
+        "duration": 5.31
+    },
+    {
+        "text": "where you see the negative charge will",
+        "start": 286.46,
+        "duration": 4.7
+    },
+    {
+        "text": "be there and the periphery so we have a",
+        "start": 288.77,
+        "duration": 5.16
+    },
+    {
+        "text": "chat separation at this particular case",
+        "start": 291.16,
+        "duration": 7.3
+    },
+    {
+        "text": "now out I will extend this chat",
+        "start": 293.93,
+        "duration": 8.31
+    },
+    {
+        "text": "separation observe and apply the",
+        "start": 298.46,
+        "duration": 5.87
+    },
+    {
+        "text": "property of vitality in the universe",
+        "start": 302.24,
+        "duration": 4.799
+    },
+    {
+        "text": "okay which applies to different scales",
+        "start": 304.33,
+        "duration": 5.82
+    },
+    {
+        "text": "and I'm gonna be also brave to say that",
+        "start": 307.039,
+        "duration": 6.451
+    },
+    {
+        "text": "we will see the size of separation or",
+        "start": 310.15,
+        "duration": 6.1
+    },
+    {
+        "text": "charge even at the atomic level when we",
+        "start": 313.49,
+        "duration": 6.54
+    },
+    {
+        "text": "have a nucleus which is positively",
+        "start": 316.25,
+        "duration": 6.69
+    },
+    {
+        "text": "charged and the negative charge is",
+        "start": 320.03,
+        "duration": 5.1
+    },
+    {
+        "text": "actually an electric cloud that actually",
+        "start": 322.94,
+        "duration": 3.93
+    },
+    {
+        "text": "at the periphery or the surrounding of",
+        "start": 325.13,
+        "duration": 3.719
+    },
+    {
+        "text": "the nucleus so I beginning to see here",
+        "start": 326.87,
+        "duration": 4.2
+    },
+    {
+        "text": "where your custom is that this there's a",
+        "start": 328.849,
+        "duration": 3.711
+    },
+    {
+        "text": "fatality here there is a current",
+        "start": 331.07,
+        "duration": 3.84
+    },
+    {
+        "text": "basically this distribution is similar",
+        "start": 332.56,
+        "duration": 6.25
+    },
+    {
+        "text": "are different scales and so I again",
+        "start": 334.91,
+        "duration": 6.569
+    },
+    {
+        "text": "being brave again and I was you know I",
+        "start": 338.81,
+        "duration": 5.419
+    },
+    {
+        "text": "will say that perhaps this is also and",
+        "start": 341.479,
+        "duration": 5.97
+    },
+    {
+        "text": "maybe also supported by evidence that",
+        "start": 344.229,
+        "duration": 6.31
+    },
+    {
+        "text": "this is how in a solar system we also",
+        "start": 347.449,
+        "duration": 5.641
+    },
+    {
+        "text": "have chat separation and I think we will",
+        "start": 350.539,
+        "duration": 3.87
+    },
+    {
+        "text": "be talking about it at least in this",
+        "start": 353.09,
+        "duration": 3.66
+    },
+    {
+        "text": "community for quite some time that this",
+        "start": 354.409,
+        "duration": 4.621
+    },
+    {
+        "text": "is the kind of observation that we see",
+        "start": 356.75,
+        "duration": 8.82
+    },
+    {
+        "text": "so I'm going to stay with it and just",
+        "start": 359.03,
+        "duration": 9.479
+    },
+    {
+        "text": "note that also this you know charge",
+        "start": 365.57,
+        "duration": 5.099
+    },
+    {
+        "text": "neutrality but it doesn't really mean",
+        "start": 368.509,
+        "duration": 4.891
+    },
+    {
+        "text": "that for instance you know at the atomic",
+        "start": 370.669,
+        "duration": 5.671
+    },
+    {
+        "text": "level we have ions possibly negative so",
+        "start": 373.4,
+        "duration": 5.549
+    },
+    {
+        "text": "you can also have not necessarily in",
+        "start": 376.34,
+        "duration": 4.98
+    },
+    {
+        "text": "Chechen try it all the time so maybe you",
+        "start": 378.949,
+        "duration": 4.56
+    },
+    {
+        "text": "can apply in the reverse way maybe at a",
+        "start": 381.32,
+        "duration": 4.29
+    },
+    {
+        "text": "galactic level you might have galaxy's",
+        "start": 383.509,
+        "duration": 4.47
+    },
+    {
+        "text": "that would be you know overly negative",
+        "start": 385.61,
+        "duration": 4.02
+    },
+    {
+        "text": "charge the only positive charge that",
+        "start": 387.979,
+        "duration": 5.131
+    },
+    {
+        "text": "also happen based on the property of",
+        "start": 389.63,
+        "duration": 5.58
+    },
+    {
+        "text": "fatality that I'm applying to to these",
+        "start": 393.11,
+        "duration": 5.82
+    },
+    {
+        "text": "observation now here what I have is a",
+        "start": 395.21,
+        "duration": 6.57
+    },
+    {
+        "text": "cartoonish way an idealized charge",
+        "start": 398.93,
+        "duration": 5.28
+    },
+    {
+        "text": "separation that we have be occurring at",
+        "start": 401.78,
+        "duration": 4.59
+    },
+    {
+        "text": "the solar system so I put the Sun here",
+        "start": 404.21,
+        "duration": 4.949
+    },
+    {
+        "text": "as positive charge and then the end the",
+        "start": 406.37,
+        "duration": 4.109
+    },
+    {
+        "text": "periphery or there at the end of",
+        "start": 409.159,
+        "duration": 3.301
+    },
+    {
+        "text": "hemisphere which is actually a sphere",
+        "start": 410.479,
+        "duration": 4.021
+    },
+    {
+        "text": "it's not two dimensions I have here will",
+        "start": 412.46,
+        "duration": 3.69
+    },
+    {
+        "text": "be negative charge these are idealized",
+        "start": 414.5,
+        "duration": 5.099
+    },
+    {
+        "text": "but most likely what's gonna happen or",
+        "start": 416.15,
+        "duration": 4.53
+    },
+    {
+        "text": "was happy",
+        "start": 419.599,
+        "duration": 3.171
+    },
+    {
+        "text": "happening yes Electric electrochemistry",
+        "start": 420.68,
+        "duration": 8.609
+    },
+    {
+        "text": "is the charge we actually be not quite",
+        "start": 422.77,
+        "duration": 9.04
+    },
+    {
+        "text": "as idolized and this is being shown",
+        "start": 429.289,
+        "duration": 4.681
+    },
+    {
+        "text": "recently in the last few years when we",
+        "start": 431.81,
+        "duration": 3.78
+    },
+    {
+        "text": "talk about dual layers but I'm not doing",
+        "start": 433.97,
+        "duration": 3.509
+    },
+    {
+        "text": "this time but the charge would be a",
+        "start": 435.59,
+        "duration": 3.54
+    },
+    {
+        "text": "little bit intermingle so what we really",
+        "start": 437.479,
+        "duration": 3.481
+    },
+    {
+        "text": "want to look at is at the net charge",
+        "start": 439.13,
+        "duration": 4.08
+    },
+    {
+        "text": "with a net charge what is the net",
+        "start": 440.96,
+        "duration": 3.39
+    },
+    {
+        "text": "positive charge where is the net",
+        "start": 443.21,
+        "duration": 5.16
+    },
+    {
+        "text": "negative charge and I just want to",
+        "start": 444.35,
+        "duration": 6.33
+    },
+    {
+        "text": "highlight here is that we know for",
+        "start": 448.37,
+        "duration": 6.69
+    },
+    {
+        "text": "instance that the substructure of you",
+        "start": 450.68,
+        "duration": 6.209
+    },
+    {
+        "text": "call him I namely feel I like to call",
+        "start": 455.06,
+        "duration": 3.329
+    },
+    {
+        "text": "the electric fields good it's easy for",
+        "start": 456.889,
+        "duration": 4.5
+    },
+    {
+        "text": "me to understand the solar system level",
+        "start": 458.389,
+        "duration": 5.641
+    },
+    {
+        "text": "is not homogeneous it's actually quite",
+        "start": 461.389,
+        "duration": 5.941
+    },
+    {
+        "text": "complex and I based these comments on",
+        "start": 464.03,
+        "duration": 4.889
+    },
+    {
+        "text": "the oxidation the comments behave quite",
+        "start": 467.33,
+        "duration": 3.36
+    },
+    {
+        "text": "differently you can have the same",
+        "start": 468.919,
+        "duration": 7.171
+    },
+    {
+        "text": "comment on the same you know route and",
+        "start": 470.69,
+        "duration": 7.05
+    },
+    {
+        "text": "they were actually not follow the same",
+        "start": 476.09,
+        "duration": 4.02
+    },
+    {
+        "text": "behavior right so that means the idea",
+        "start": 477.74,
+        "duration": 5.04
+    },
+    {
+        "text": "electric field or the voltage",
+        "start": 480.11,
+        "duration": 4.799
+    },
+    {
+        "text": "differential being experienced by the",
+        "start": 482.78,
+        "duration": 4.62
+    },
+    {
+        "text": "comment along his path it's not the same",
+        "start": 484.909,
+        "duration": 6.871
+    },
+    {
+        "text": "every time so I think Scott dr. Scott",
+        "start": 487.4,
+        "duration": 7.65
+    },
+    {
+        "text": "mentioned my native flux ropes which me",
+        "start": 491.78,
+        "duration": 4.56
+    },
+    {
+        "text": "as electric fields and these are the",
+        "start": 495.05,
+        "duration": 4.17
+    },
+    {
+        "text": "fields are dynamic okay so that's part",
+        "start": 496.34,
+        "duration": 5.67
+    },
+    {
+        "text": "of the so structure that I see and what",
+        "start": 499.22,
+        "duration": 5.49
+    },
+    {
+        "text": "I want to highlight is that if we if",
+        "start": 502.01,
+        "duration": 3.87
+    },
+    {
+        "text": "this model is correct",
+        "start": 504.71,
+        "duration": 3.75
+    },
+    {
+        "text": "I think I'm mentioning this for the",
+        "start": 505.88,
+        "duration": 4.529
+    },
+    {
+        "text": "third time it is - correct what we",
+        "start": 508.46,
+        "duration": 4.829
+    },
+    {
+        "text": "should be able to see is that the net",
+        "start": 510.409,
+        "duration": 7.201
+    },
+    {
+        "text": "motion okay of positive and negative",
+        "start": 513.289,
+        "duration": 9.361
+    },
+    {
+        "text": "ions should be such that the positive",
+        "start": 517.61,
+        "duration": 7.56
+    },
+    {
+        "text": "ions would go from the Sun in a ready",
+        "start": 522.65,
+        "duration": 8.82
+    },
+    {
+        "text": "form upwards in this form so you see",
+        "start": 525.17,
+        "duration": 12.47
+    },
+    {
+        "text": "what the positive ions the Hylian plus",
+        "start": 531.47,
+        "duration": 8.76
+    },
+    {
+        "text": "protons and so on so forth even heavy",
+        "start": 537.64,
+        "duration": 4.15
+    },
+    {
+        "text": "metals they should actually have a",
+        "start": 540.23,
+        "duration": 6.21
+    },
+    {
+        "text": "tendency to move to the periphery or the",
+        "start": 541.79,
+        "duration": 6.63
+    },
+    {
+        "text": "hemisphere because that's what the",
+        "start": 546.44,
+        "duration": 3.839
+    },
+    {
+        "text": "negative charge is so it would be a",
+        "start": 548.42,
+        "duration": 3.69
+    },
+    {
+        "text": "natural tendency for the test for this",
+        "start": 550.279,
+        "duration": 4.441
+    },
+    {
+        "text": "particles to move in that direction now",
+        "start": 552.11,
+        "duration": 4.979
+    },
+    {
+        "text": "happening between allow happy mitosis",
+        "start": 554.72,
+        "duration": 4.109
+    },
+    {
+        "text": "now it's not a simple model but a net",
+        "start": 557.089,
+        "duration": 3.36
+    },
+    {
+        "text": "charge should be in that direction right",
+        "start": 558.829,
+        "duration": 4.231
+    },
+    {
+        "text": "and when you have positive charges",
+        "start": 560.449,
+        "duration": 4.2
+    },
+    {
+        "text": "moving in one direction the negative",
+        "start": 563.06,
+        "duration": 2.79
+    },
+    {
+        "text": "charges would like to follow especially",
+        "start": 564.649,
+        "duration": 3.54
+    },
+    {
+        "text": "electrons which are faster because the",
+        "start": 565.85,
+        "duration": 4.289
+    },
+    {
+        "text": "nice heavy they were also intermingle",
+        "start": 568.189,
+        "duration": 4.281
+    },
+    {
+        "text": "but you can also have of course",
+        "start": 570.139,
+        "duration": 5.671
+    },
+    {
+        "text": "electrons move along with the positive",
+        "start": 572.47,
+        "duration": 6.309
+    },
+    {
+        "text": "ions in that's in the same direction as",
+        "start": 575.81,
+        "duration": 4.379
+    },
+    {
+        "text": "well but the net charge should be the",
+        "start": 578.779,
+        "duration": 3.151
+    },
+    {
+        "text": "opposite so net charge I should be able",
+        "start": 580.189,
+        "duration": 4.231
+    },
+    {
+        "text": "to see electrons going or moving towards",
+        "start": 581.93,
+        "duration": 6.599
+    },
+    {
+        "text": "the Sun I'd like to to see that so this",
+        "start": 584.42,
+        "duration": 5.82
+    },
+    {
+        "text": "model should say that this is this",
+        "start": 588.529,
+        "duration": 3.261
+    },
+    {
+        "text": "what's happening",
+        "start": 590.24,
+        "duration": 3.99
+    },
+    {
+        "text": "it's not clear at this stage we know for",
+        "start": 591.79,
+        "duration": 4.539
+    },
+    {
+        "text": "instance up the positive ions definitely",
+        "start": 594.23,
+        "duration": 4.74
+    },
+    {
+        "text": "move rarely from the away from the Sun",
+        "start": 596.329,
+        "duration": 4.831
+    },
+    {
+        "text": "towards the preferred the hemisphere",
+        "start": 598.97,
+        "duration": 8.429
+    },
+    {
+        "text": "okay now how will post profile would",
+        "start": 601.16,
+        "duration": 8.25
+    },
+    {
+        "text": "look like based on the modeled edges",
+        "start": 607.399,
+        "duration": 6.0
+    },
+    {
+        "text": "survive mention here well this is this",
+        "start": 609.41,
+        "duration": 5.9
+    },
+    {
+        "text": "is a diagram that I have on the left",
+        "start": 613.399,
+        "duration": 5.461
+    },
+    {
+        "text": "readily radially constricted circles",
+        "start": 615.31,
+        "duration": 5.709
+    },
+    {
+        "text": "they specify distance and on the right",
+        "start": 618.86,
+        "duration": 4.979
+    },
+    {
+        "text": "here what I have here is a graph of",
+        "start": 621.019,
+        "duration": 4.17
+    },
+    {
+        "text": "voltage versus distance so how will it",
+        "start": 623.839,
+        "duration": 1.98
+    },
+    {
+        "text": "look like",
+        "start": 625.189,
+        "duration": 3.741
+    },
+    {
+        "text": "so if I just need to look at the",
+        "start": 625.819,
+        "duration": 5.731
+    },
+    {
+        "text": "positive across to the Sun or any beyond",
+        "start": 628.93,
+        "duration": 4.629
+    },
+    {
+        "text": "the surface of the Sun my voltage world",
+        "start": 631.55,
+        "duration": 4.56
+    },
+    {
+        "text": "would be arbitrarily positive and then",
+        "start": 633.559,
+        "duration": 6.061
+    },
+    {
+        "text": "as I see the distance I see this as a",
+        "start": 636.11,
+        "duration": 5.19
+    },
+    {
+        "text": "function of distance my voltage will",
+        "start": 639.62,
+        "duration": 5.759
+    },
+    {
+        "text": "drop okay so in I drug use by my hand",
+        "start": 641.3,
+        "duration": 5.729
+    },
+    {
+        "text": "and I think it's properly okay because",
+        "start": 645.379,
+        "duration": 3.871
+    },
+    {
+        "text": "this voltage drop is a gradual",
+        "start": 647.029,
+        "duration": 4.41
+    },
+    {
+        "text": "job oh it should be gradual gradual",
+        "start": 649.25,
+        "duration": 4.41
+    },
+    {
+        "text": "watch it drop and it's going to be is",
+        "start": 651.439,
+        "duration": 4.291
+    },
+    {
+        "text": "now gonna be beautiful",
+        "start": 653.66,
+        "duration": 3.349
+    },
+    {
+        "text": "okay it's not going to be nicely",
+        "start": 655.73,
+        "duration": 4.56
+    },
+    {
+        "text": "exponentially or pulling polynomial it's",
+        "start": 657.009,
+        "duration": 5.95
+    },
+    {
+        "text": "gonna be up and down and so I expect",
+        "start": 660.29,
+        "duration": 4.769
+    },
+    {
+        "text": "this this diagram this picture here this",
+        "start": 662.959,
+        "duration": 5.19
+    },
+    {
+        "text": "cartoon is probably okay and then when",
+        "start": 665.059,
+        "duration": 4.83
+    },
+    {
+        "text": "we go all the way to the periphery or",
+        "start": 668.149,
+        "duration": 4.11
+    },
+    {
+        "text": "the hemisphere well it would be we would",
+        "start": 669.889,
+        "duration": 5.221
+    },
+    {
+        "text": "have a more stable voltage differential",
+        "start": 672.259,
+        "duration": 4.291
+    },
+    {
+        "text": "now when I look at this voltage",
+        "start": 675.11,
+        "duration": 3.959
+    },
+    {
+        "text": "differential here then I don't need to",
+        "start": 676.55,
+        "duration": 5.61
+    },
+    {
+        "text": "have just just because of suppression of",
+        "start": 679.069,
+        "duration": 5.971
+    },
+    {
+        "text": "charge I don't need to have any motor",
+        "start": 682.16,
+        "duration": 5.279
+    },
+    {
+        "text": "EMF force or anything to explain the",
+        "start": 685.04,
+        "duration": 4.01
+    },
+    {
+        "text": "motion or higher",
+        "start": 687.439,
+        "duration": 3.721
+    },
+    {
+        "text": "electrons let me know I have a voltage",
+        "start": 689.05,
+        "duration": 4.42
+    },
+    {
+        "text": "differential here and electors will move",
+        "start": 691.16,
+        "duration": 6.179
+    },
+    {
+        "text": "towards a positive end and ions will",
+        "start": 693.47,
+        "duration": 6.33
+    },
+    {
+        "text": "move towards the negative end just so",
+        "start": 697.339,
+        "duration": 5.31
+    },
+    {
+        "text": "they like the chemical concept of motion",
+        "start": 699.8,
+        "duration": 4.979
+    },
+    {
+        "text": "of ions it's just a start but I cannot",
+        "start": 702.649,
+        "duration": 5.041
+    },
+    {
+        "text": "really explain it such a separation so I",
+        "start": 704.779,
+        "duration": 6.781
+    },
+    {
+        "text": "would need the engineers and so on to",
+        "start": 707.69,
+        "duration": 5.55
+    },
+    {
+        "text": "actually explain why is there such",
+        "start": 711.56,
+        "duration": 5.18
+    },
+    {
+        "text": "separation on the level of the universe",
+        "start": 713.24,
+        "duration": 6.93
+    },
+    {
+        "text": "galaxy solar system at some level okay",
+        "start": 716.74,
+        "duration": 7.21
+    },
+    {
+        "text": "that's something I can explain now let's",
+        "start": 720.17,
+        "duration": 5.13
+    },
+    {
+        "text": "take a look at the comet so I've been",
+        "start": 723.95,
+        "duration": 4.05
+    },
+    {
+        "text": "talking about the solar system so this",
+        "start": 725.3,
+        "duration": 4.26
+    },
+    {
+        "text": "is the Sun flat environment and",
+        "start": 728.0,
+        "duration": 3.24
+    },
+    {
+        "text": "periphery or the or the end of the",
+        "start": 729.56,
+        "duration": 4.32
+    },
+    {
+        "text": "hemisphere if I look at the if I take is",
+        "start": 731.24,
+        "duration": 5.01
+    },
+    {
+        "text": "I think I think of a comet as being a",
+        "start": 733.88,
+        "duration": 4.35
+    },
+    {
+        "text": "electrode so I go back to at the",
+        "start": 736.25,
+        "duration": 5.13
+    },
+    {
+        "text": "chemistry and say you know I take the",
+        "start": 738.23,
+        "duration": 5.1
+    },
+    {
+        "text": "comet as being negative charge electrode",
+        "start": 741.38,
+        "duration": 4.95
+    },
+    {
+        "text": "okay in a plasma environment it's that",
+        "start": 743.33,
+        "duration": 5.46
+    },
+    {
+        "text": "is both negative and positive charge",
+        "start": 746.33,
+        "duration": 4.56
+    },
+    {
+        "text": "depending on location or hillock hence",
+        "start": 748.79,
+        "duration": 5.46
+    },
+    {
+        "text": "its distance from the Sun then the the",
+        "start": 750.89,
+        "duration": 5.4
+    },
+    {
+        "text": "profile will look like this so this is",
+        "start": 754.25,
+        "duration": 3.9
+    },
+    {
+        "text": "the voltage profile over here we have",
+        "start": 756.29,
+        "duration": 4.53
+    },
+    {
+        "text": "voltage you have distance and in this",
+        "start": 758.15,
+        "duration": 6.3
+    },
+    {
+        "text": "model I have this the the center the",
+        "start": 760.82,
+        "duration": 4.8
+    },
+    {
+        "text": "center here is negative charge that",
+        "start": 764.45,
+        "duration": 4.139
+    },
+    {
+        "text": "would be my comment 67p or any other",
+        "start": 765.62,
+        "duration": 5.46
+    },
+    {
+        "text": "comment and because this is",
+        "start": 768.589,
+        "duration": 4.231
+    },
+    {
+        "text": "electrochemical model then I would have",
+        "start": 771.08,
+        "duration": 4.11
+    },
+    {
+        "text": "a layer of positive ions and they will",
+        "start": 772.82,
+        "duration": 4.29
+    },
+    {
+        "text": "have a layer or negative ions so the",
+        "start": 775.19,
+        "duration": 3.24
+    },
+    {
+        "text": "profile basically would look like this",
+        "start": 777.11,
+        "duration": 3.69
+    },
+    {
+        "text": "okay there would be a voltage drop from",
+        "start": 778.43,
+        "duration": 6.659
+    },
+    {
+        "text": "the surface to the plasma environment on",
+        "start": 780.8,
+        "duration": 6.39
+    },
+    {
+        "text": "the comment in this in this case is",
+        "start": 785.089,
+        "duration": 7.44
+    },
+    {
+        "text": "shown as a radical drop okay doesn't",
+        "start": 787.19,
+        "duration": 6.54
+    },
+    {
+        "text": "have to be that way but this is how",
+        "start": 792.529,
+        "duration": 3.81
+    },
+    {
+        "text": "showing is in this diagram and if there",
+        "start": 793.73,
+        "duration": 5.21
+    },
+    {
+        "text": "would be another gradual",
+        "start": 796.339,
+        "duration": 5.761
+    },
+    {
+        "text": "voltage drop at the end as we extend far",
+        "start": 798.94,
+        "duration": 6.67
+    },
+    {
+        "text": "away from the nucleus okay so again this",
+        "start": 802.1,
+        "duration": 5.46
+    },
+    {
+        "text": "voltage involve there will be electric",
+        "start": 805.61,
+        "duration": 3.66
+    },
+    {
+        "text": "fields present this is a non zero",
+        "start": 807.56,
+        "duration": 3.839
+    },
+    {
+        "text": "electric field and that would be enough",
+        "start": 809.27,
+        "duration": 5.879
+    },
+    {
+        "text": "to provide energy required for ions to",
+        "start": 811.399,
+        "duration": 6.69
+    },
+    {
+        "text": "move about collide and give rise to",
+        "start": 815.149,
+        "duration": 5.971
+    },
+    {
+        "text": "chemical reactions",
+        "start": 818.089,
+        "duration": 5.68
+    },
+    {
+        "text": "all right so that's a DC in the first",
+        "start": 821.12,
+        "duration": 5.23
+    },
+    {
+        "text": "part basically talk about how such",
+        "start": 823.769,
+        "duration": 4.771
+    },
+    {
+        "text": "separations give these two electric",
+        "start": 826.35,
+        "duration": 4.979
+    },
+    {
+        "text": "fields now I'm gonna go and talk about",
+        "start": 828.54,
+        "duration": 5.31
+    },
+    {
+        "text": "how the electric fields has been shown",
+        "start": 831.329,
+        "duration": 5.19
+    },
+    {
+        "text": "to provide the energy required for ions",
+        "start": 833.85,
+        "duration": 5.729
+    },
+    {
+        "text": "to well move about okay so what I'm",
+        "start": 836.519,
+        "duration": 4.26
+    },
+    {
+        "text": "gonna do here is just give you a few",
+        "start": 839.579,
+        "duration": 3.68
+    },
+    {
+        "text": "examples of",
+        "start": 840.779,
+        "duration": 5.61
+    },
+    {
+        "text": "studies that I already been done okay",
+        "start": 843.259,
+        "duration": 6.01
+    },
+    {
+        "text": "and this particular example here what I",
+        "start": 846.389,
+        "duration": 8.341
+    },
+    {
+        "text": "have is a graph that shows shows me here",
+        "start": 849.269,
+        "duration": 7.951
+    },
+    {
+        "text": "spectral density when in fear and here",
+        "start": 854.73,
+        "duration": 4.729
+    },
+    {
+        "text": "is the frequency of this magnetic field",
+        "start": 857.22,
+        "duration": 4.679
+    },
+    {
+        "text": "which shows that is between",
+        "start": 859.459,
+        "duration": 4.36
+    },
+    {
+        "text": "approximately two nano tell sort of",
+        "start": 861.899,
+        "duration": 3.451
+    },
+    {
+        "text": "probably fallen details I think we're",
+        "start": 863.819,
+        "duration": 4.621
+    },
+    {
+        "text": "talking about the solar solar system",
+        "start": 865.35,
+        "duration": 7.109
+    },
+    {
+        "text": "solar flux here and this many fields",
+        "start": 868.44,
+        "duration": 6.42
+    },
+    {
+        "text": "shows all different kind of oscillations",
+        "start": 872.459,
+        "duration": 5.69
+    },
+    {
+        "text": "but in this particular case it shows a",
+        "start": 874.86,
+        "duration": 6.089
+    },
+    {
+        "text": "frequency of falling nearly Hertz which",
+        "start": 878.149,
+        "duration": 4.211
+    },
+    {
+        "text": "is a little bit different from anything",
+        "start": 880.949,
+        "duration": 2.401
+    },
+    {
+        "text": "has been described before this",
+        "start": 882.36,
+        "duration": 3.959
+    },
+    {
+        "text": "corresponds to 67p and it basically",
+        "start": 883.35,
+        "duration": 6.06
+    },
+    {
+        "text": "shows is that this exactly feel in the",
+        "start": 886.319,
+        "duration": 5.94
+    },
+    {
+        "text": "order of final amps per meter square",
+        "start": 889.41,
+        "duration": 5.119
+    },
+    {
+        "text": "okay close to the nucleus",
+        "start": 892.259,
+        "duration": 6.901
+    },
+    {
+        "text": "another example here I have what is",
+        "start": 894.529,
+        "duration": 8.261
+    },
+    {
+        "text": "possibly be island flux versus distance",
+        "start": 899.16,
+        "duration": 8.609
+    },
+    {
+        "text": "from the Sun okay and why shows in this",
+        "start": 902.79,
+        "duration": 7.739
+    },
+    {
+        "text": "particular study is that what ice",
+        "start": 907.769,
+        "duration": 5.101
+    },
+    {
+        "text": "assumed to be water ions okay so",
+        "start": 910.529,
+        "duration": 4.68
+    },
+    {
+        "text": "actually in this particular paper what",
+        "start": 912.87,
+        "duration": 4.74
+    },
+    {
+        "text": "it shows is that you know based on the",
+        "start": 915.209,
+        "duration": 5.701
+    },
+    {
+        "text": "technique use is able to detect the ions",
+        "start": 917.61,
+        "duration": 5.789
+    },
+    {
+        "text": "you know the velocity that they come in",
+        "start": 920.91,
+        "duration": 4.429
+    },
+    {
+        "text": "is actually the speed as well direction",
+        "start": 923.399,
+        "duration": 3.99
+    },
+    {
+        "text": "but they don't really know what kind of",
+        "start": 925.339,
+        "duration": 5.021
+    },
+    {
+        "text": "our it is so they refer to another study",
+        "start": 927.389,
+        "duration": 6.781
+    },
+    {
+        "text": "that says okay around around the nucleus",
+        "start": 930.36,
+        "duration": 8.099
+    },
+    {
+        "text": "of Comet 67p we have a large number of",
+        "start": 934.17,
+        "duration": 8.159
+    },
+    {
+        "text": "ions that appear to be water based on",
+        "start": 938.459,
+        "duration": 7.531
+    },
+    {
+        "text": "spectroscopic data so based on these",
+        "start": 942.329,
+        "duration": 5.461
+    },
+    {
+        "text": "into relationship which is I think it's",
+        "start": 945.99,
+        "duration": 5.7
+    },
+    {
+        "text": "okay is fair academically it's fair",
+        "start": 947.79,
+        "duration": 5.28
+    },
+    {
+        "text": "but it doesn't really mean that is what",
+        "start": 951.69,
+        "duration": 3.99
+    },
+    {
+        "text": "it is out there okay but it's possible",
+        "start": 953.07,
+        "duration": 4.86
+    },
+    {
+        "text": "so I'm not gonna say it's not what it is",
+        "start": 955.68,
+        "duration": 5.73
+    },
+    {
+        "text": "but I just gonna give you a reminder",
+        "start": 957.93,
+        "duration": 7.17
+    },
+    {
+        "text": "that how the conclusion were came about",
+        "start": 961.41,
+        "duration": 4.64
+    },
+    {
+        "text": "okay",
+        "start": 965.1,
+        "duration": 3.03
+    },
+    {
+        "text": "it could be something else it could be",
+        "start": 966.05,
+        "duration": 3.63
+    },
+    {
+        "text": "all the boiler towels it's a la puerta",
+        "start": 968.13,
+        "duration": 5.94
+    },
+    {
+        "text": "67p there are also there so the",
+        "start": 969.68,
+        "duration": 6.04
+    },
+    {
+        "text": "important thing is that these these",
+        "start": 974.07,
+        "duration": 5.85
+    },
+    {
+        "text": "islands do have velocity okay and what",
+        "start": 975.72,
+        "duration": 5.4
+    },
+    {
+        "text": "do the kinetic energy come from",
+        "start": 979.92,
+        "duration": 3.51
+    },
+    {
+        "text": "especially since in the backyard space",
+        "start": 981.12,
+        "duration": 3.45
+    },
+    {
+        "text": "we're talking about very low",
+        "start": 983.43,
+        "duration": 2.52
+    },
+    {
+        "text": "temperatures okay",
+        "start": 984.57,
+        "duration": 6.24
+    },
+    {
+        "text": "so genetically speaking well they need",
+        "start": 985.95,
+        "duration": 6.66
+    },
+    {
+        "text": "to have energies coming from somewhere",
+        "start": 990.81,
+        "duration": 3.96
+    },
+    {
+        "text": "and so it's directed fields that provide",
+        "start": 992.61,
+        "duration": 5.4
+    },
+    {
+        "text": "the energy the energy in is given here",
+        "start": 994.77,
+        "duration": 5.16
+    },
+    {
+        "text": "there are two types we can see here the",
+        "start": 998.01,
+        "duration": 4.38
+    },
+    {
+        "text": "cold water irons 10 to 15 electron volts",
+        "start": 999.93,
+        "duration": 8.73
+    },
+    {
+        "text": "and hot is a very water ions 120 to",
+        "start": 1002.39,
+        "duration": 8.4
+    },
+    {
+        "text": "5,000 like the most this is tremendous",
+        "start": 1008.66,
+        "duration": 4.83
+    },
+    {
+        "text": "amount of energy in tennis I mean at",
+        "start": 1010.79,
+        "duration": 4.92
+    },
+    {
+        "text": "least at least for the chemical",
+        "start": 1013.49,
+        "duration": 3.42
+    },
+    {
+        "text": "perspective that we're talking about",
+        "start": 1015.71,
+        "duration": 5.55
+    },
+    {
+        "text": "here just to give you a background or",
+        "start": 1016.91,
+        "duration": 8.72
+    },
+    {
+        "text": "context if I want to ionize hydrogen",
+        "start": 1021.26,
+        "duration": 4.37
+    },
+    {
+        "text": "you know atomic hydrogen atom I just",
+        "start": 1026.78,
+        "duration": 5.34
+    },
+    {
+        "text": "only need thirteen point one with the",
+        "start": 1029.27,
+        "duration": 4.08
+    },
+    {
+        "text": "two point two electron volts",
+        "start": 1032.12,
+        "duration": 2.85
+    },
+    {
+        "text": "maybe a little bit more safe 14 electron",
+        "start": 1033.35,
+        "duration": 3.03
+    },
+    {
+        "text": "volts so you were talking about a very",
+        "start": 1034.97,
+        "duration": 3.57
+    },
+    {
+        "text": "large amount of energy okay",
+        "start": 1036.38,
+        "duration": 4.17
+    },
+    {
+        "text": "in my opinion this is good enough",
+        "start": 1038.54,
+        "duration": 4.98
+    },
+    {
+        "text": "already to actually strip our electrons",
+        "start": 1040.55,
+        "duration": 6.42
+    },
+    {
+        "text": "from the surface of the nucleus provided",
+        "start": 1043.52,
+        "duration": 4.89
+    },
+    {
+        "text": "the electric field is being experienced",
+        "start": 1046.97,
+        "duration": 3.93
+    },
+    {
+        "text": "on the surface of the on the nucleus of",
+        "start": 1048.41,
+        "duration": 5.48
+    },
+    {
+        "text": "course right now",
+        "start": 1050.9,
+        "duration": 5.43
+    },
+    {
+        "text": "why was discovery here this is very",
+        "start": 1053.89,
+        "duration": 5.86
+    },
+    {
+        "text": "interesting is that when you look at the",
+        "start": 1056.33,
+        "duration": 7.62
+    },
+    {
+        "text": "distance this part here when we go from",
+        "start": 1059.75,
+        "duration": 6.48
+    },
+    {
+        "text": "three point six to two astronomical",
+        "start": 1063.95,
+        "duration": 5.52
+    },
+    {
+        "text": "units distance or the comet 67p from the",
+        "start": 1066.23,
+        "duration": 4.98
+    },
+    {
+        "text": "from the Sun okay",
+        "start": 1069.47,
+        "duration": 6.18
+    },
+    {
+        "text": "the was called the water island flux so",
+        "start": 1071.21,
+        "duration": 6.99
+    },
+    {
+        "text": "in in in the terminology that's being",
+        "start": 1075.65,
+        "duration": 4.32
+    },
+    {
+        "text": "used on the model it's always outgassing",
+        "start": 1078.2,
+        "duration": 3.51
+    },
+    {
+        "text": "because it's always the gases coming out",
+        "start": 1079.97,
+        "duration": 4.05
+    },
+    {
+        "text": "from the nucleus which is not clear it's",
+        "start": 1081.71,
+        "duration": 4.14
+    },
+    {
+        "text": "verified definitely not clear anymore",
+        "start": 1084.02,
+        "duration": 4.73
+    },
+    {
+        "text": "okay",
+        "start": 1085.85,
+        "duration": 2.9
+    },
+    {
+        "text": "it's increases right so the number one x",
+        "start": 1089.11,
+        "duration": 7.12
+    },
+    {
+        "text": "increases but as a function of solar",
+        "start": 1092.09,
+        "duration": 8.01
+    },
+    {
+        "text": "flux okay it is in the case there is not",
+        "start": 1096.23,
+        "duration": 6.45
+    },
+    {
+        "text": "a linear relationship the expectation",
+        "start": 1100.1,
+        "duration": 4.59
+    },
+    {
+        "text": "could be is that you increase the solar",
+        "start": 1102.68,
+        "duration": 4.05
+    },
+    {
+        "text": "flux you'll be able to see more",
+        "start": 1104.69,
+        "duration": 4.44
+    },
+    {
+        "text": "sublimation and therefore you're gonna",
+        "start": 1106.73,
+        "duration": 5.58
+    },
+    {
+        "text": "have a great amount of bottles",
+        "start": 1109.13,
+        "duration": 6.36
+    },
+    {
+        "text": "well it's definitely not linear and in",
+        "start": 1112.31,
+        "duration": 4.98
+    },
+    {
+        "text": "my opinion there's all the factors",
+        "start": 1115.49,
+        "duration": 4.92
+    },
+    {
+        "text": "involved in here okay and I'll mention",
+        "start": 1117.29,
+        "duration": 7.86
+    },
+    {
+        "text": "that in other slides I was I think it's",
+        "start": 1120.41,
+        "duration": 6.68
+    },
+    {
+        "text": "happening here so here's another example",
+        "start": 1125.15,
+        "duration": 6.78
+    },
+    {
+        "text": "of again electron electron in this case",
+        "start": 1127.09,
+        "duration": 7.72
+    },
+    {
+        "text": "these lectures na+ ions that have been",
+        "start": 1131.93,
+        "duration": 3.96
+    },
+    {
+        "text": "detected in the coma",
+        "start": 1134.81,
+        "duration": 3.77
+    },
+    {
+        "text": "they also been detected near the nucleus",
+        "start": 1135.89,
+        "duration": 7.32
+    },
+    {
+        "text": "and these electrons also are was called",
+        "start": 1138.58,
+        "duration": 6.55
+    },
+    {
+        "text": "super thermal for hyper thermal which",
+        "start": 1143.21,
+        "duration": 3.18
+    },
+    {
+        "text": "means that they have a low kinetic",
+        "start": 1145.13,
+        "duration": 3.96
+    },
+    {
+        "text": "energy we're talking about hundreds a",
+        "start": 1146.39,
+        "duration": 6.33
+    },
+    {
+        "text": "few thousands electron volts of energy",
+        "start": 1149.09,
+        "duration": 6.57
+    },
+    {
+        "text": "of this electron so all this is being",
+        "start": 1152.72,
+        "duration": 4.26
+    },
+    {
+        "text": "all these energies being supplied by",
+        "start": 1155.66,
+        "duration": 3.87
+    },
+    {
+        "text": "electric fields this is a very all",
+        "start": 1156.98,
+        "duration": 4.41
+    },
+    {
+        "text": "actually slide I think I used it last",
+        "start": 1159.53,
+        "duration": 4.92
+    },
+    {
+        "text": "time and just to highlight here that at",
+        "start": 1161.39,
+        "duration": 5.01
+    },
+    {
+        "text": "a time we're talking about maybe a",
+        "start": 1164.45,
+        "duration": 6.51
+    },
+    {
+        "text": "hundred you know a flux of a hundred per",
+        "start": 1166.4,
+        "duration": 7.38
+    },
+    {
+        "text": "volume how do we elected fair value but",
+        "start": 1170.96,
+        "duration": 7.89
+    },
+    {
+        "text": "this number has changed now maybe 2,000",
+        "start": 1173.78,
+        "duration": 10.5
+    },
+    {
+        "text": "to 10,000 per per volume okay and I just",
+        "start": 1178.85,
+        "duration": 5.97
+    },
+    {
+        "text": "want to highlight",
+        "start": 1184.28,
+        "duration": 2.7
+    },
+    {
+        "text": "look at this potential here is a hundred",
+        "start": 1184.82,
+        "duration": 5.64
+    },
+    {
+        "text": "volts potential different observers in t",
+        "start": 1186.98,
+        "duration": 6.66
+    },
+    {
+        "text": "of the nucleus of 60p it's a large this",
+        "start": 1190.46,
+        "duration": 4.98
+    },
+    {
+        "text": "is very this is a lot I mean I don't",
+        "start": 1193.64,
+        "duration": 5.82
+    },
+    {
+        "text": "know from a chemical perspective is",
+        "start": 1195.44,
+        "duration": 7.92
+    },
+    {
+        "text": "Allah energy it's a long energy all",
+        "start": 1199.46,
+        "duration": 8.4
+    },
+    {
+        "text": "right and so again in the previous slide",
+        "start": 1203.36,
+        "duration": 8.79
+    },
+    {
+        "text": "we use an electron sensor and I'm for it",
+        "start": 1207.86,
+        "duration": 6.57
+    },
+    {
+        "text": "in ion sensor to detect directly I",
+        "start": 1212.15,
+        "duration": 3.42
+    },
+    {
+        "text": "really like that",
+        "start": 1214.43,
+        "duration": 4.679
+    },
+    {
+        "text": "we actually sensing these ions and in",
+        "start": 1215.57,
+        "duration": 6.419
+    },
+    {
+        "text": "this case we representing our work that",
+        "start": 1219.109,
+        "duration": 4.68
+    },
+    {
+        "text": "actually uses UPA mission spectroscopy",
+        "start": 1221.989,
+        "duration": 4.65
+    },
+    {
+        "text": "is a different technique and I I really",
+        "start": 1223.789,
+        "duration": 4.291
+    },
+    {
+        "text": "like the fact that you have different",
+        "start": 1226.639,
+        "duration": 3.571
+    },
+    {
+        "text": "techniques collaborating the same it's a",
+        "start": 1228.08,
+        "duration": 4.319
+    },
+    {
+        "text": "phenomena this is something that we do",
+        "start": 1230.21,
+        "duration": 5.279
+    },
+    {
+        "text": "here on planet earth frequently it's",
+        "start": 1232.399,
+        "duration": 4.801
+    },
+    {
+        "text": "very difficult to do this in space",
+        "start": 1235.489,
+        "duration": 4.02
+    },
+    {
+        "text": "because of limitations or instruments in",
+        "start": 1237.2,
+        "duration": 5.429
+    },
+    {
+        "text": "because of just massive scale distance",
+        "start": 1239.509,
+        "duration": 7.86
+    },
+    {
+        "text": "but with with the Rosetta probe we able",
+        "start": 1242.629,
+        "duration": 7.28
+    },
+    {
+        "text": "to see different instruments collaborate",
+        "start": 1247.369,
+        "duration": 5.64
+    },
+    {
+        "text": "similar phenomena and but it's not",
+        "start": 1249.909,
+        "duration": 5.35
+    },
+    {
+        "text": "beautiful data should be that way data",
+        "start": 1253.009,
+        "duration": 5.0
+    },
+    {
+        "text": "is not beautiful issues NASA sometimes I",
+        "start": 1255.259,
+        "duration": 5.4
+    },
+    {
+        "text": "sing example for instance where you have",
+        "start": 1258.009,
+        "duration": 4.6
+    },
+    {
+        "text": "different techniques do can the same",
+        "start": 1260.659,
+        "duration": 3.541
+    },
+    {
+        "text": "phenomena and the numbers of the kymaro",
+        "start": 1262.609,
+        "duration": 3.42
+    },
+    {
+        "text": "is totally different it's all different",
+        "start": 1264.2,
+        "duration": 5.279
+    },
+    {
+        "text": "off by 20% okay but that's that's fine",
+        "start": 1266.029,
+        "duration": 5.49
+    },
+    {
+        "text": "that's how it should be okay we need to",
+        "start": 1269.479,
+        "duration": 6.361
+    },
+    {
+        "text": "have more population sampling before you",
+        "start": 1271.519,
+        "duration": 7.59
+    },
+    {
+        "text": "actually reach conclusions more solidly",
+        "start": 1275.84,
+        "duration": 5.73
+    },
+    {
+        "text": "right now I think is we're gonna week",
+        "start": 1279.109,
+        "duration": 7.711
+    },
+    {
+        "text": "end now this is a different work and you",
+        "start": 1281.57,
+        "duration": 7.469
+    },
+    {
+        "text": "can actually see their citations over",
+        "start": 1286.82,
+        "duration": 4.859
+    },
+    {
+        "text": "here and I want to highlight I want you",
+        "start": 1289.039,
+        "duration": 3.87
+    },
+    {
+        "text": "I want you to bring out these this",
+        "start": 1291.679,
+        "duration": 3.75
+    },
+    {
+        "text": "highlight here in yellow okay",
+        "start": 1292.909,
+        "duration": 5.25
+    },
+    {
+        "text": "because 67p it was determined not to be",
+        "start": 1295.429,
+        "duration": 5.641
+    },
+    {
+        "text": "a very active comment okay but when you",
+        "start": 1298.159,
+        "duration": 6.84
+    },
+    {
+        "text": "were a distance or about 3.6 Salonika",
+        "start": 1301.07,
+        "duration": 6.329
+    },
+    {
+        "text": "units okay",
+        "start": 1304.999,
+        "duration": 6.9
+    },
+    {
+        "text": "this comment already show okay a lot of",
+        "start": 1307.399,
+        "duration": 6.63
+    },
+    {
+        "text": "activity illegal activity",
+        "start": 1311.899,
+        "duration": 7.89
+    },
+    {
+        "text": "a lot okay and this goes again against",
+        "start": 1314.029,
+        "duration": 7.35
+    },
+    {
+        "text": "the idea that everything occurs because",
+        "start": 1319.789,
+        "duration": 3.47
+    },
+    {
+        "text": "of sublimation souffle mentioned usually",
+        "start": 1321.379,
+        "duration": 4.35
+    },
+    {
+        "text": "thought not to be acted after three it's",
+        "start": 1323.259,
+        "duration": 4.061
+    },
+    {
+        "text": "a sonica units but here we're talking",
+        "start": 1325.729,
+        "duration": 7.231
+    },
+    {
+        "text": "about 3.6 okay so it's way beyond the",
+        "start": 1327.32,
+        "duration": 7.709
+    },
+    {
+        "text": "suit emission level but you still did we",
+        "start": 1332.96,
+        "duration": 3.929
+    },
+    {
+        "text": "see a lot of like our islands and and",
+        "start": 1335.029,
+        "duration": 4.38
+    },
+    {
+        "text": "being active around the nucleus so",
+        "start": 1336.889,
+        "duration": 4.441
+    },
+    {
+        "text": "something else is happening and what I",
+        "start": 1339.409,
+        "duration": 3.931
+    },
+    {
+        "text": "really suspect is happening is that this",
+        "start": 1341.33,
+        "duration": 3.929
+    },
+    {
+        "text": "is actually electrical activity I think",
+        "start": 1343.34,
+        "duration": 3.779
+    },
+    {
+        "text": "I mentioned back 2013 what I really did",
+        "start": 1345.259,
+        "duration": 3.201
+    },
+    {
+        "text": "not know that much",
+        "start": 1347.119,
+        "duration": 3.771
+    },
+    {
+        "text": "about comments but I suspected that I",
+        "start": 1348.46,
+        "duration": 4.92
+    },
+    {
+        "text": "said that if we really want to",
+        "start": 1350.89,
+        "duration": 4.59
+    },
+    {
+        "text": "differentiate between sublimation in",
+        "start": 1353.38,
+        "duration": 4.44
+    },
+    {
+        "text": "electrical activity we need to go far",
+        "start": 1355.48,
+        "duration": 4.35
+    },
+    {
+        "text": "away from the Sun but sublimation is not",
+        "start": 1357.82,
+        "duration": 3.86
+    },
+    {
+        "text": "in fact we need to remove that variable",
+        "start": 1359.83,
+        "duration": 4.32
+    },
+    {
+        "text": "and I think this is a particularly",
+        "start": 1361.68,
+        "duration": 4.72
+    },
+    {
+        "text": "simple way that there has been mostly",
+        "start": 1364.15,
+        "duration": 4.41
+    },
+    {
+        "text": "removed and we see still see a lot",
+        "start": 1366.4,
+        "duration": 7.47
+    },
+    {
+        "text": "activity and I think this is a very",
+        "start": 1368.56,
+        "duration": 8.55
+    },
+    {
+        "text": "important work they just came out this",
+        "start": 1373.87,
+        "duration": 7.05
+    },
+    {
+        "text": "year what we have here is example I",
+        "start": 1377.11,
+        "duration": 6.57
+    },
+    {
+        "text": "should work as an example of a limb let",
+        "start": 1380.92,
+        "duration": 5.07
+    },
+    {
+        "text": "me prove so we actually showing you is",
+        "start": 1383.68,
+        "duration": 4.35
+    },
+    {
+        "text": "IV characteristics both of you don't",
+        "start": 1385.99,
+        "duration": 3.42
+    },
+    {
+        "text": "know where it is I mean this I've this",
+        "start": 1388.03,
+        "duration": 6.45
+    },
+    {
+        "text": "is current and here will be voltage okay",
+        "start": 1389.41,
+        "duration": 9.81
+    },
+    {
+        "text": "so this is a V current voltage curve and",
+        "start": 1394.48,
+        "duration": 8.7
+    },
+    {
+        "text": "in this particular example why was done",
+        "start": 1399.22,
+        "duration": 7.46
+    },
+    {
+        "text": "is the setup row of actually two probes",
+        "start": 1403.18,
+        "duration": 7.17
+    },
+    {
+        "text": "extending out a particular distance for",
+        "start": 1406.68,
+        "duration": 6.01
+    },
+    {
+        "text": "each other and a voltage was applied",
+        "start": 1410.35,
+        "duration": 6.21
+    },
+    {
+        "text": "between these two probes in reference to",
+        "start": 1412.69,
+        "duration": 7.02
+    },
+    {
+        "text": "the to the reseller instrument and then",
+        "start": 1416.56,
+        "duration": 6.33
+    },
+    {
+        "text": "the current was measured between the two",
+        "start": 1419.71,
+        "duration": 5.31
+    },
+    {
+        "text": "probes okay it's go a long way approach",
+        "start": 1422.89,
+        "duration": 4.95
+    },
+    {
+        "text": "some of you might be familiar with it",
+        "start": 1425.02,
+        "duration": 9.09
+    },
+    {
+        "text": "and we see here as a function of his",
+        "start": 1427.84,
+        "duration": 8.55
+    },
+    {
+        "text": "sacred distance basically how far away",
+        "start": 1434.11,
+        "duration": 5.16
+    },
+    {
+        "text": "the copy was from the Sun and also as a",
+        "start": 1436.39,
+        "duration": 6.36
+    },
+    {
+        "text": "way as a function of commit committed",
+        "start": 1439.27,
+        "duration": 7.14
+    },
+    {
+        "text": "distance how far was the actual Rosetta",
+        "start": 1442.75,
+        "duration": 6.0
+    },
+    {
+        "text": "probe from the comet so in this",
+        "start": 1446.41,
+        "duration": 4.2
+    },
+    {
+        "text": "particular example we here we only see a",
+        "start": 1448.75,
+        "duration": 5.43
+    },
+    {
+        "text": "few nano amps of current okay especially",
+        "start": 1450.61,
+        "duration": 8.43
+    },
+    {
+        "text": "our positive bias what we see is that",
+        "start": 1454.18,
+        "duration": 7.13
+    },
+    {
+        "text": "this corresponds to the solar wind",
+        "start": 1459.04,
+        "duration": 5.01
+    },
+    {
+        "text": "because we actually seven thousand goes",
+        "start": 1461.31,
+        "duration": 5.29
+    },
+    {
+        "text": "away from the actual comment so the",
+        "start": 1464.05,
+        "duration": 5.4
+    },
+    {
+        "text": "solar wind has shows currents in an",
+        "start": 1466.6,
+        "duration": 7.47
+    },
+    {
+        "text": "under a branch okay if we move a little",
+        "start": 1469.45,
+        "duration": 8.22
+    },
+    {
+        "text": "bit closer in terms of discipline Sun in",
+        "start": 1474.07,
+        "duration": 7.57
+    },
+    {
+        "text": "much much closer to the azure comment",
+        "start": 1477.67,
+        "duration": 6.13
+    },
+    {
+        "text": "we see that this current actually",
+        "start": 1481.64,
+        "duration": 7.32
+    },
+    {
+        "text": "increases from five to all the way to 20",
+        "start": 1483.8,
+        "duration": 10.86
+    },
+    {
+        "text": "plus nano amps if we again move a little",
+        "start": 1488.96,
+        "duration": 8.49
+    },
+    {
+        "text": "bit closer to point seven five seven s",
+        "start": 1494.66,
+        "duration": 5.79
+    },
+    {
+        "text": "Omega units and still close still within",
+        "start": 1497.45,
+        "duration": 7.83
+    },
+    {
+        "text": "you know the coma of 67p we're seeing it",
+        "start": 1500.45,
+        "duration": 6.69
+    },
+    {
+        "text": "to a much larger increase about a",
+        "start": 1505.28,
+        "duration": 5.73
+    },
+    {
+        "text": "hundred nano amps and we're very close",
+        "start": 1507.14,
+        "duration": 7.38
+    },
+    {
+        "text": "to perihelion window we are far away you",
+        "start": 1511.01,
+        "duration": 6.69
+    },
+    {
+        "text": "know relatively speaking to 35 and 28",
+        "start": 1514.52,
+        "duration": 8.58
+    },
+    {
+        "text": "kilometers we see current about 15 micro",
+        "start": 1517.7,
+        "duration": 9.54
+    },
+    {
+        "text": "amps so we see why large increment of",
+        "start": 1523.1,
+        "duration": 6.12
+    },
+    {
+        "text": "current do all this means is that you",
+        "start": 1527.24,
+        "duration": 4.86
+    },
+    {
+        "text": "have a lot of electrons and a lot of",
+        "start": 1529.22,
+        "duration": 5.94
+    },
+    {
+        "text": "positive ions or in this case I guess",
+        "start": 1532.1,
+        "duration": 5.37
+    },
+    {
+        "text": "only we are measure on the electrons but",
+        "start": 1535.16,
+        "duration": 4.08
+    },
+    {
+        "text": "you could have to have both in the",
+        "start": 1537.47,
+        "duration": 6.68
+    },
+    {
+        "text": "vicinity of the nucleus okay today's",
+        "start": 1539.24,
+        "duration": 7.44
+    },
+    {
+        "text": "there is plenty of energy for these",
+        "start": 1544.15,
+        "duration": 5.29
+    },
+    {
+        "text": "elections there's plenty of ions",
+        "start": 1546.68,
+        "duration": 5.16
+    },
+    {
+        "text": "elections in the vicinity this is",
+        "start": 1549.44,
+        "duration": 5.34
+    },
+    {
+        "text": "obvious is gonna lead to collisions okay",
+        "start": 1551.84,
+        "duration": 5.31
+    },
+    {
+        "text": "and before I go to talk about chemical",
+        "start": 1554.78,
+        "duration": 4.29
+    },
+    {
+        "text": "collisions let me also mention the fact",
+        "start": 1557.15,
+        "duration": 3.45
+    },
+    {
+        "text": "that I've been talking about positive",
+        "start": 1559.07,
+        "duration": 3.32
+    },
+    {
+        "text": "ions and I'd be also talking about",
+        "start": 1560.6,
+        "duration": 5.97
+    },
+    {
+        "text": "electrons but there also was this",
+        "start": 1562.39,
+        "duration": 7.06
+    },
+    {
+        "text": "nanograins called clusters the actually",
+        "start": 1566.57,
+        "duration": 7.53
+    },
+    {
+        "text": "present so a 67p we have here we have",
+        "start": 1569.45,
+        "duration": 7.68
+    },
+    {
+        "text": "green energy the electron volts and here",
+        "start": 1574.1,
+        "duration": 5.58
+    },
+    {
+        "text": "we have sized and I just want I'm going",
+        "start": 1577.13,
+        "duration": 5.31
+    },
+    {
+        "text": "to concentrate on two types you can see",
+        "start": 1579.68,
+        "duration": 6.03
+    },
+    {
+        "text": "these columns over here this one for",
+        "start": 1582.44,
+        "duration": 6.15
+    },
+    {
+        "text": "instance about 50 nano nano meters and",
+        "start": 1585.71,
+        "duration": 5.79
+    },
+    {
+        "text": "you can actually see that we have this",
+        "start": 1588.59,
+        "duration": 4.47
+    },
+    {
+        "text": "much energy so we're talking about 10 to",
+        "start": 1591.5,
+        "duration": 3.78
+    },
+    {
+        "text": "the fourth electron volts so 10,000",
+        "start": 1593.06,
+        "duration": 5.52
+    },
+    {
+        "text": "maybe just a lot of energy involved I",
+        "start": 1595.28,
+        "duration": 5.46
+    },
+    {
+        "text": "wish you know involved with these",
+        "start": 1598.58,
+        "duration": 4.95
+    },
+    {
+        "text": "clusters so if we go a little smaller",
+        "start": 1600.74,
+        "duration": 7.47
+    },
+    {
+        "text": "size about fine and on the meters we see",
+        "start": 1603.53,
+        "duration": 6.24
+    },
+    {
+        "text": "that we're talking about a few hundred",
+        "start": 1608.21,
+        "duration": 5.69
+    },
+    {
+        "text": "it looks on both energy so nanoclusters",
+        "start": 1609.77,
+        "duration": 8.63
+    },
+    {
+        "text": "I also present now like I mentioned to",
+        "start": 1613.9,
+        "duration": 7.08
+    },
+    {
+        "text": "you they range from five hundred to ten",
+        "start": 1618.4,
+        "duration": 4.11
+    },
+    {
+        "text": "thousand of them before fitting the",
+        "start": 1620.98,
+        "duration": 4.95
+    },
+    {
+        "text": "upper 750 nanometers and from one to two",
+        "start": 1622.51,
+        "duration": 7.89
+    },
+    {
+        "text": "hundred four finally meters okay now in",
+        "start": 1625.93,
+        "duration": 10.29
+    },
+    {
+        "text": "in this work they have to settle within",
+        "start": 1630.4,
+        "duration": 8.01
+    },
+    {
+        "text": "a particular distance I don't recall",
+        "start": 1636.22,
+        "duration": 4.32
+    },
+    {
+        "text": "exactly baby was between he was not far",
+        "start": 1638.41,
+        "duration": 5.87
+    },
+    {
+        "text": "from from the nucleus and he please",
+        "start": 1640.54,
+        "duration": 7.59
+    },
+    {
+        "text": "oriented the probe towards the nucleus",
+        "start": 1644.28,
+        "duration": 7.12
+    },
+    {
+        "text": "and they begin to measure both positive",
+        "start": 1648.13,
+        "duration": 5.49
+    },
+    {
+        "text": "and negative ions and what they realize",
+        "start": 1651.4,
+        "duration": 5.7
+    },
+    {
+        "text": "is that the current find the Quint",
+        "start": 1653.62,
+        "duration": 6.06
+    },
+    {
+        "text": "detecting the positive ions they only",
+        "start": 1657.1,
+        "duration": 5.55
+    },
+    {
+        "text": "detect the negative ions so to be right",
+        "start": 1659.68,
+        "duration": 4.86
+    },
+    {
+        "text": "indicates basically argued that is just",
+        "start": 1662.65,
+        "duration": 3.63
+    },
+    {
+        "text": "an instrumental error which it could be",
+        "start": 1664.54,
+        "duration": 5.04
+    },
+    {
+        "text": "by way indicates to me is that I give me",
+        "start": 1666.28,
+        "duration": 4.86
+    },
+    {
+        "text": "an indication of ways the soft structure",
+        "start": 1669.58,
+        "duration": 4.8
+    },
+    {
+        "text": "or the electric fields around the",
+        "start": 1671.14,
+        "duration": 5.94
+    },
+    {
+        "text": "vicinity of 67p you need to be careful",
+        "start": 1674.38,
+        "duration": 6.18
+    },
+    {
+        "text": "with orientation okay if you take",
+        "start": 1677.08,
+        "duration": 4.89
+    },
+    {
+        "text": "thinking about the nuclear which is",
+        "start": 1680.56,
+        "duration": 3.18
+    },
+    {
+        "text": "negative charge I would suspect the",
+        "start": 1681.97,
+        "duration": 3.48
+    },
+    {
+        "text": "negative charge our electrodes would be",
+        "start": 1683.74,
+        "duration": 3.54
+    },
+    {
+        "text": "actually moving away readily from the",
+        "start": 1685.45,
+        "duration": 4.14
+    },
+    {
+        "text": "nucleus of 67p so if such a make sense",
+        "start": 1687.28,
+        "duration": 4.68
+    },
+    {
+        "text": "to me that you will read them you expect",
+        "start": 1689.59,
+        "duration": 4.82
+    },
+    {
+        "text": "them to to sense them but the positive",
+        "start": 1691.96,
+        "duration": 5.46
+    },
+    {
+        "text": "ion the net charge the net motion of",
+        "start": 1694.41,
+        "duration": 4.9
+    },
+    {
+        "text": "them should be in the early direction",
+        "start": 1697.42,
+        "duration": 3.57
+    },
+    {
+        "text": "and that's what we see a lot of protons",
+        "start": 1699.31,
+        "duration": 6.48
+    },
+    {
+        "text": "in protons heavy metal ions Killian you",
+        "start": 1700.99,
+        "duration": 7.35
+    },
+    {
+        "text": "know alpha particles they're all moving",
+        "start": 1705.79,
+        "duration": 4.17
+    },
+    {
+        "text": "towards the nucleus and actually they",
+        "start": 1708.34,
+        "duration": 3.15
+    },
+    {
+        "text": "could lie on the surface and they create",
+        "start": 1709.96,
+        "duration": 9.63
+    },
+    {
+        "text": "a lot of sputtering right so so",
+        "start": 1711.49,
+        "duration": 10.38
+    },
+    {
+        "text": "orientation is important and again is",
+        "start": 1719.59,
+        "duration": 4.29
+    },
+    {
+        "text": "this corroborates the fact or maybe the",
+        "start": 1721.87,
+        "duration": 4.86
+    },
+    {
+        "text": "fact the occupation that the electrons",
+        "start": 1723.88,
+        "duration": 5.55
+    },
+    {
+        "text": "come out of the nucleus and the positive",
+        "start": 1726.73,
+        "duration": 4.44
+    },
+    {
+        "text": "ions should be moving towards the",
+        "start": 1729.43,
+        "duration": 6.6
+    },
+    {
+        "text": "nucleus now I'm gonna move a little bit",
+        "start": 1731.17,
+        "duration": 7.29
+    },
+    {
+        "text": "to Lovejoy because I don't have it off",
+        "start": 1736.03,
+        "duration": 4.2
+    },
+    {
+        "text": "daily with 67p and what I want to",
+        "start": 1738.46,
+        "duration": 2.97
+    },
+    {
+        "text": "highlight here is the most of these",
+        "start": 1740.23,
+        "duration": 3.45
+    },
+    {
+        "text": "clusters which actually show allows",
+        "start": 1741.43,
+        "duration": 4.95
+    },
+    {
+        "text": "creation behavior okay this is also",
+        "start": 1743.68,
+        "duration": 3.629
+    },
+    {
+        "text": "certain people",
+        "start": 1746.38,
+        "duration": 2.369
+    },
+    {
+        "text": "the analysis of what this creation",
+        "start": 1747.309,
+        "duration": 4.08
+    },
+    {
+        "text": "behavior what this particles are it's",
+        "start": 1748.749,
+        "duration": 4.741
+    },
+    {
+        "text": "not clear most of these are actually see",
+        "start": 1751.389,
+        "duration": 4.951
+    },
+    {
+        "text": "is iron is in metal ions metal ions we",
+        "start": 1753.49,
+        "duration": 5.039
+    },
+    {
+        "text": "low ionization potential okay",
+        "start": 1756.34,
+        "duration": 5.459
+    },
+    {
+        "text": "the easy to remove electrons from and",
+        "start": 1758.529,
+        "duration": 5.97
+    },
+    {
+        "text": "because you have you have you have this",
+        "start": 1761.799,
+        "duration": 5.7
+    },
+    {
+        "text": "voltage friend is applied voltage around",
+        "start": 1764.499,
+        "duration": 4.53
+    },
+    {
+        "text": "the vicinity might be I think it's",
+        "start": 1767.499,
+        "duration": 4.17
+    },
+    {
+        "text": "dynamic you have you will see these",
+        "start": 1769.029,
+        "duration": 6.48
+    },
+    {
+        "text": "minerals being removed as you know from",
+        "start": 1771.669,
+        "duration": 5.161
+    },
+    {
+        "text": "the surface basically lectures are being",
+        "start": 1775.509,
+        "duration": 5.76
+    },
+    {
+        "text": "stripped out and then you have these",
+        "start": 1776.83,
+        "duration": 6.78
+    },
+    {
+        "text": "left out of it you're just basically",
+        "start": 1781.269,
+        "duration": 4.321
+    },
+    {
+        "text": "destroyed the structure the lattice",
+        "start": 1783.61,
+        "duration": 6.779
+    },
+    {
+        "text": "structure of the minerals electrons",
+        "start": 1785.59,
+        "duration": 7.289
+    },
+    {
+        "text": "going one direction you have the",
+        "start": 1790.389,
+        "duration": 3.78
+    },
+    {
+        "text": "positive ions going in the other",
+        "start": 1792.879,
+        "duration": 4.981
+    },
+    {
+        "text": "direction and what is very interesting",
+        "start": 1794.169,
+        "duration": 6.21
+    },
+    {
+        "text": "is that because of the size of these",
+        "start": 1797.86,
+        "duration": 5.189
+    },
+    {
+        "text": "clusters we can attribute that to solar",
+        "start": 1800.379,
+        "duration": 4.201
+    },
+    {
+        "text": "pressure because they're large",
+        "start": 1803.049,
+        "duration": 4.291
+    },
+    {
+        "text": "it's definitely but they actually motion",
+        "start": 1804.58,
+        "duration": 5.099
+    },
+    {
+        "text": "they actually been accelerated towards",
+        "start": 1807.34,
+        "duration": 6.12
+    },
+    {
+        "text": "solar wind speeds so they go from a few",
+        "start": 1809.679,
+        "duration": 6.72
+    },
+    {
+        "text": "electron balls or a few below a few I",
+        "start": 1813.46,
+        "duration": 6.75
+    },
+    {
+        "text": "say a few miles per second velocities to",
+        "start": 1816.399,
+        "duration": 7.74
+    },
+    {
+        "text": "about 300 to 320 50 minutes I think the",
+        "start": 1820.21,
+        "duration": 5.37
+    },
+    {
+        "text": "meters per second scuse me meter per",
+        "start": 1824.139,
+        "duration": 3.48
+    },
+    {
+        "text": "second which is the solar wind speed so",
+        "start": 1825.58,
+        "duration": 3.63
+    },
+    {
+        "text": "they're being celebrated by electric",
+        "start": 1827.619,
+        "duration": 5.9
+    },
+    {
+        "text": "fields right the fields are present now",
+        "start": 1829.21,
+        "duration": 4.309
+    },
+    {
+        "text": "and again I used that as evidence of the",
+        "start": 1833.58,
+        "duration": 6.819
+    },
+    {
+        "text": "electric strip in a model that I present",
+        "start": 1837.399,
+        "duration": 5.49
+    },
+    {
+        "text": "the last time and to me that model",
+        "start": 1840.399,
+        "duration": 4.53
+    },
+    {
+        "text": "actually explains why we see a lot of",
+        "start": 1842.889,
+        "duration": 5.071
+    },
+    {
+        "text": "lectures which are due to due to to this",
+        "start": 1844.929,
+        "duration": 4.85
+    },
+    {
+        "text": "model and not to photo in this session",
+        "start": 1847.96,
+        "duration": 3.9
+    },
+    {
+        "text": "because their meaning that many works",
+        "start": 1849.779,
+        "duration": 3.24
+    },
+    {
+        "text": "that have been talked about there",
+        "start": 1851.86,
+        "duration": 3.899
+    },
+    {
+        "text": "indicates that there's more electrons",
+        "start": 1853.019,
+        "duration": 3.73
+    },
+    {
+        "text": "that should be allowed by photo",
+        "start": 1855.759,
+        "duration": 2.4
+    },
+    {
+        "text": "intersections well we have electro",
+        "start": 1856.749,
+        "duration": 4.441
+    },
+    {
+        "text": "stripping here behavior and this has",
+        "start": 1858.159,
+        "duration": 4.59
+    },
+    {
+        "text": "been observed with the odd on all the",
+        "start": 1861.19,
+        "duration": 4.65
+    },
+    {
+        "text": "comments as well all right so let me",
+        "start": 1862.749,
+        "duration": 5.28
+    },
+    {
+        "text": "move to something more interesting as",
+        "start": 1865.84,
+        "duration": 4.77
+    },
+    {
+        "text": "voltage driven chemical reactions so I",
+        "start": 1868.029,
+        "duration": 4.711
+    },
+    {
+        "text": "set up the table so I show you for",
+        "start": 1870.61,
+        "duration": 3.63
+    },
+    {
+        "text": "instance that we have strands separation",
+        "start": 1872.74,
+        "duration": 3.99
+    },
+    {
+        "text": "we have electric fields which oppressive",
+        "start": 1874.24,
+        "duration": 4.049
+    },
+    {
+        "text": "which are accelerating electrons and",
+        "start": 1876.73,
+        "duration": 3.48
+    },
+    {
+        "text": "positive charge",
+        "start": 1878.289,
+        "duration": 3.871
+    },
+    {
+        "text": "so what do they do well I mean what",
+        "start": 1880.21,
+        "duration": 3.18
+    },
+    {
+        "text": "happens when you have all this together",
+        "start": 1882.16,
+        "duration": 3.03
+    },
+    {
+        "text": "well what you're gonna happen is you can",
+        "start": 1883.39,
+        "duration": 4.17
+    },
+    {
+        "text": "have collisions so let me let me briefly",
+        "start": 1885.19,
+        "duration": 5.97
+    },
+    {
+        "text": "tell you show you our model of a car",
+        "start": 1887.56,
+        "duration": 5.01
+    },
+    {
+        "text": "coalition is that you can have well",
+        "start": 1891.16,
+        "duration": 2.67
+    },
+    {
+        "text": "you're gonna have either gas gas",
+        "start": 1892.57,
+        "duration": 3.09
+    },
+    {
+        "text": "collisions or you're gonna have gas",
+        "start": 1893.83,
+        "duration": 3.54
+    },
+    {
+        "text": "surface collisions and that's what we",
+        "start": 1895.66,
+        "duration": 3.75
+    },
+    {
+        "text": "see so I want to talk about gas surface",
+        "start": 1897.37,
+        "duration": 3.9
+    },
+    {
+        "text": "collisions and now I'm not gonna talk",
+        "start": 1899.41,
+        "duration": 4.02
+    },
+    {
+        "text": "about gas gas gas gas collisions will",
+        "start": 1901.27,
+        "duration": 6.03
+    },
+    {
+        "text": "occur in the coma okay but the gas",
+        "start": 1903.43,
+        "duration": 5.73
+    },
+    {
+        "text": "surface collisions will come also in the",
+        "start": 1907.3,
+        "duration": 3.96
+    },
+    {
+        "text": "coma but in dust grains and on the",
+        "start": 1909.16,
+        "duration": 3.93
+    },
+    {
+        "text": "surface of the comet I think that's more",
+        "start": 1911.26,
+        "duration": 4.59
+    },
+    {
+        "text": "interesting so in this particular model",
+        "start": 1913.09,
+        "duration": 5.69
+    },
+    {
+        "text": "what we see is that the rate constant",
+        "start": 1915.85,
+        "duration": 5.61
+    },
+    {
+        "text": "which is associated it's associated with",
+        "start": 1918.78,
+        "duration": 4.57
+    },
+    {
+        "text": "a reaction cross section what I mean by",
+        "start": 1921.46,
+        "duration": 3.24
+    },
+    {
+        "text": "rational cross section I don't know if",
+        "start": 1923.35,
+        "duration": 3.92
+    },
+    {
+        "text": "you guys can see here but here we have a",
+        "start": 1924.7,
+        "duration": 6.57
+    },
+    {
+        "text": "cylinder which explains this particle",
+        "start": 1927.27,
+        "duration": 6.16
+    },
+    {
+        "text": "which is in motion and what we will do",
+        "start": 1931.27,
+        "duration": 4.62
+    },
+    {
+        "text": "is the moves in this direction provided",
+        "start": 1933.43,
+        "duration": 3.99
+    },
+    {
+        "text": "that you have all the particles in the",
+        "start": 1935.89,
+        "duration": 3.03
+    },
+    {
+        "text": "Byzantine well did we react",
+        "start": 1937.42,
+        "duration": 3.0
+    },
+    {
+        "text": "there would be a reaction so this is",
+        "start": 1938.92,
+        "duration": 2.91
+    },
+    {
+        "text": "what we call the cross section this is",
+        "start": 1940.42,
+        "duration": 3.36
+    },
+    {
+        "text": "the cross sectional area okay in the",
+        "start": 1941.83,
+        "duration": 3.66
+    },
+    {
+        "text": "kinetic the kinetic we basically talked",
+        "start": 1943.78,
+        "duration": 3.72
+    },
+    {
+        "text": "about the speed or reaction is being",
+        "start": 1945.49,
+        "duration": 7.92
+    },
+    {
+        "text": "controlled by this cross section now for",
+        "start": 1947.5,
+        "duration": 8.07
+    },
+    {
+        "text": "the reactions to occur for all for a",
+        "start": 1953.41,
+        "duration": 4.8
+    },
+    {
+        "text": "bomb to form okay you need to have the",
+        "start": 1955.57,
+        "duration": 4.14
+    },
+    {
+        "text": "right energy you also have the right",
+        "start": 1958.21,
+        "duration": 4.17
+    },
+    {
+        "text": "orientation but I guess I want to",
+        "start": 1959.71,
+        "duration": 4.44
+    },
+    {
+        "text": "highlight is in this in this in this",
+        "start": 1962.38,
+        "duration": 6.39
+    },
+    {
+        "text": "slide here is that the kinetics also",
+        "start": 1964.15,
+        "duration": 6.57
+    },
+    {
+        "text": "follow is called the Maxwell Boltzmann",
+        "start": 1968.77,
+        "duration": 4.71
+    },
+    {
+        "text": "distribution which as shown in this",
+        "start": 1970.72,
+        "duration": 5.1
+    },
+    {
+        "text": "graphic over here where I have the",
+        "start": 1973.48,
+        "duration": 4.32
+    },
+    {
+        "text": "number of particles as a function of",
+        "start": 1975.82,
+        "duration": 5.07
+    },
+    {
+        "text": "kinetic energy and only the particles",
+        "start": 1977.8,
+        "duration": 5.04
+    },
+    {
+        "text": "which are this end here had enough",
+        "start": 1980.89,
+        "duration": 4.89
+    },
+    {
+        "text": "kinetic energy for them to collide which",
+        "start": 1982.84,
+        "duration": 5.55
+    },
+    {
+        "text": "will lead to potentially a chemical bond",
+        "start": 1985.78,
+        "duration": 5.67
+    },
+    {
+        "text": "okay it didn't have enough energy mister",
+        "start": 1988.39,
+        "duration": 4.23
+    },
+    {
+        "text": "nothing's gonna happen it just bounced",
+        "start": 1991.45,
+        "duration": 3.39
+    },
+    {
+        "text": "off okay and you can see there is a",
+        "start": 1992.62,
+        "duration": 3.33
+    },
+    {
+        "text": "function of temperature if you increase",
+        "start": 1994.84,
+        "duration": 2.85
+    },
+    {
+        "text": "the temperature you also increase the",
+        "start": 1995.95,
+        "duration": 3.27
+    },
+    {
+        "text": "amount of particles available for",
+        "start": 1997.69,
+        "duration": 5.52
+    },
+    {
+        "text": "collision okay and there is a barrier",
+        "start": 1999.22,
+        "duration": 6.57
+    },
+    {
+        "text": "which we call the activation energy okay",
+        "start": 2003.21,
+        "duration": 7.02
+    },
+    {
+        "text": "so the this is based on temperature okay",
+        "start": 2005.79,
+        "duration": 6.42
+    },
+    {
+        "text": "show you here is",
+        "start": 2010.23,
+        "duration": 4.079
+    },
+    {
+        "text": "like I said the kinetics are based on",
+        "start": 2012.21,
+        "duration": 4.829
+    },
+    {
+        "text": "temperature this is Katie it refers to K",
+        "start": 2014.309,
+        "duration": 4.86
+    },
+    {
+        "text": "is the Boltzmann constant and T is",
+        "start": 2017.039,
+        "duration": 3.901
+    },
+    {
+        "text": "temperature in kelvins so you can see",
+        "start": 2019.169,
+        "duration": 4.86
+    },
+    {
+        "text": "here you also hear here so it is",
+        "start": 2020.94,
+        "duration": 9.02
+    },
+    {
+        "text": "connected okay now what do you biggest",
+        "start": 2024.029,
+        "duration": 11.22
+    },
+    {
+        "text": "I'll say challenges for chemists okay",
+        "start": 2029.96,
+        "duration": 7.78
+    },
+    {
+        "text": "after chemist husband is I've been the",
+        "start": 2035.249,
+        "duration": 4.14
+    },
+    {
+        "text": "fact that we use you see Allah chemicals",
+        "start": 2037.74,
+        "duration": 4.2
+    },
+    {
+        "text": "on our talents and our reactions occur",
+        "start": 2039.389,
+        "duration": 4.23
+    },
+    {
+        "text": "not only in commerce but also in space",
+        "start": 2041.94,
+        "duration": 3.27
+    },
+    {
+        "text": "and they cannot really explain it",
+        "start": 2043.619,
+        "duration": 3.66
+    },
+    {
+        "text": "because the temperature is not high",
+        "start": 2045.21,
+        "duration": 6.109
+    },
+    {
+        "text": "enough alright just not high enough so",
+        "start": 2047.279,
+        "duration": 6.39
+    },
+    {
+        "text": "if you only talk about you only look",
+        "start": 2051.319,
+        "duration": 5.05
+    },
+    {
+        "text": "about the temperature model okay and",
+        "start": 2053.669,
+        "duration": 4.381
+    },
+    {
+        "text": "what mean by temperature is only given",
+        "start": 2056.369,
+        "duration": 3.901
+    },
+    {
+        "text": "by say solar radiation you know that UV",
+        "start": 2058.05,
+        "duration": 5.599
+    },
+    {
+        "text": "light my photos will be enough energy or",
+        "start": 2060.27,
+        "duration": 8.339
+    },
+    {
+        "text": "I cannot think anything else in space",
+        "start": 2063.649,
+        "duration": 8.141
+    },
+    {
+        "text": "that can actually provide energy so if",
+        "start": 2068.609,
+        "duration": 5.49
+    },
+    {
+        "text": "you find way from stars questions well",
+        "start": 2071.79,
+        "duration": 3.93
+    },
+    {
+        "text": "you don't have a source of energy so",
+        "start": 2074.099,
+        "duration": 3.181
+    },
+    {
+        "text": "temperature is wrong but you see",
+        "start": 2075.72,
+        "duration": 3.179
+    },
+    {
+        "text": "chemical reactions so what's happening",
+        "start": 2077.28,
+        "duration": 4.109
+    },
+    {
+        "text": "here okay and this is what I want to",
+        "start": 2078.899,
+        "duration": 3.361
+    },
+    {
+        "text": "mention to you guys that you need to",
+        "start": 2081.389,
+        "duration": 1.98
+    },
+    {
+        "text": "have the right angle if you had the",
+        "start": 2082.26,
+        "duration": 3.319
+    },
+    {
+        "text": "right angle this no reaction well",
+        "start": 2083.369,
+        "duration": 6.331
+    },
+    {
+        "text": "there's a problem here okay but okay but",
+        "start": 2085.579,
+        "duration": 6.58
+    },
+    {
+        "text": "this can be solved because I just show",
+        "start": 2089.7,
+        "duration": 5.07
+    },
+    {
+        "text": "you that we have a lot of super thermal",
+        "start": 2092.159,
+        "duration": 6.21
+    },
+    {
+        "text": "electrons so the energy of required for",
+        "start": 2094.77,
+        "duration": 5.819
+    },
+    {
+        "text": "collisions to occur is actually be",
+        "start": 2098.369,
+        "duration": 5.341
+    },
+    {
+        "text": "giving out or provided or granted I see",
+        "start": 2100.589,
+        "duration": 5.911
+    },
+    {
+        "text": "well call it by the electric fields okay",
+        "start": 2103.71,
+        "duration": 4.74
+    },
+    {
+        "text": "which is due to stress separation so",
+        "start": 2106.5,
+        "duration": 3.869
+    },
+    {
+        "text": "electric fields give the kinetic energy",
+        "start": 2108.45,
+        "duration": 4.379
+    },
+    {
+        "text": "necessary food for ions in elections to",
+        "start": 2110.369,
+        "duration": 6.601
+    },
+    {
+        "text": "react and they accelerate obviously both",
+        "start": 2112.829,
+        "duration": 8.461
+    },
+    {
+        "text": "positive and negative particles we also",
+        "start": 2116.97,
+        "duration": 10.369
+    },
+    {
+        "text": "have surfaces okay in comments silicates",
+        "start": 2121.29,
+        "duration": 9.45
+    },
+    {
+        "text": "metallic organic surfaces that are",
+        "start": 2127.339,
+        "duration": 6.01
+    },
+    {
+        "text": "allowed there which provide or can",
+        "start": 2130.74,
+        "duration": 4.8
+    },
+    {
+        "text": "catalyze these reactions okay",
+        "start": 2133.349,
+        "duration": 3.74
+    },
+    {
+        "text": "and this is not temperature dependent",
+        "start": 2135.54,
+        "duration": 3.42
+    },
+    {
+        "text": "definitely that temperature dependence",
+        "start": 2137.089,
+        "duration": 3.611
+    },
+    {
+        "text": "so forget about temperature forget about",
+        "start": 2138.96,
+        "duration": 4.2
+    },
+    {
+        "text": "the fact that you in a in a cold area of",
+        "start": 2140.7,
+        "duration": 3.3
+    },
+    {
+        "text": "space because",
+        "start": 2143.16,
+        "duration": 2.63
+    },
+    {
+        "text": "have four actions I suppose you have",
+        "start": 2144.0,
+        "duration": 6.51
+    },
+    {
+        "text": "energy fields okay so we still apply",
+        "start": 2145.79,
+        "duration": 7.69
+    },
+    {
+        "text": "coalition theory because the particles",
+        "start": 2150.51,
+        "duration": 5.0
+    },
+    {
+        "text": "have kinetic energy but is given by",
+        "start": 2153.48,
+        "duration": 7.23
+    },
+    {
+        "text": "electric fields not solar radiation okay",
+        "start": 2155.51,
+        "duration": 7.93
+    },
+    {
+        "text": "so this this allows us to do chemistry",
+        "start": 2160.71,
+        "duration": 6.24
+    },
+    {
+        "text": "and not to worry about temperature I",
+        "start": 2163.44,
+        "duration": 6.0
+    },
+    {
+        "text": "think that's a very powerful situation",
+        "start": 2166.95,
+        "duration": 5.31
+    },
+    {
+        "text": "and I'm gonna end up my talk by talking",
+        "start": 2169.44,
+        "duration": 6.06
+    },
+    {
+        "text": "about a one particular type of reaction",
+        "start": 2172.26,
+        "duration": 4.74
+    },
+    {
+        "text": "the early rate right of the reaction",
+        "start": 2175.5,
+        "duration": 4.47
+    },
+    {
+        "text": "this is a gas surface reaction I will",
+        "start": 2177.0,
+        "duration": 6.15
+    },
+    {
+        "text": "talk about two cases and I just just to",
+        "start": 2179.97,
+        "duration": 7.26
+    },
+    {
+        "text": "remind you that we have particles those",
+        "start": 2183.15,
+        "duration": 6.51
+    },
+    {
+        "text": "particles in the in the comma c 7p",
+        "start": 2187.23,
+        "duration": 4.62
+    },
+    {
+        "text": "all different sizes so the reactions can",
+        "start": 2189.66,
+        "duration": 3.99
+    },
+    {
+        "text": "occur definite can occur over there I",
+        "start": 2191.85,
+        "duration": 6.18
+    },
+    {
+        "text": "say also current surface all right so",
+        "start": 2193.65,
+        "duration": 6.09
+    },
+    {
+        "text": "conditions necessary for for this",
+        "start": 2198.03,
+        "duration": 4.11
+    },
+    {
+        "text": "particular reaction which we talked",
+        "start": 2199.74,
+        "duration": 3.75
+    },
+    {
+        "text": "about the formation of deuterium",
+        "start": 2202.14,
+        "duration": 5.13
+    },
+    {
+        "text": "deuterium is a compound basically water",
+        "start": 2203.49,
+        "duration": 6.96
+    },
+    {
+        "text": "it's called but it just have one of the",
+        "start": 2207.27,
+        "duration": 5.4
+    },
+    {
+        "text": "hydrogen actually has a neutron so it's",
+        "start": 2210.45,
+        "duration": 6.15
+    },
+    {
+        "text": "a behavior we have again for the",
+        "start": 2212.67,
+        "duration": 7.97
+    },
+    {
+        "text": "previous work we have water ions okay",
+        "start": 2216.6,
+        "duration": 7.68
+    },
+    {
+        "text": "ice elevated between 120 to 800 electron",
+        "start": 2220.64,
+        "duration": 5.38
+    },
+    {
+        "text": "volts and we also have what's called",
+        "start": 2224.28,
+        "duration": 4.02
+    },
+    {
+        "text": "coal oil between 10 and 50 electron",
+        "start": 2226.02,
+        "duration": 6.66
+    },
+    {
+        "text": "volts so these are available potentially",
+        "start": 2228.3,
+        "duration": 7.86
+    },
+    {
+        "text": "a reservoir higher audio Tyrian this is",
+        "start": 2232.68,
+        "duration": 6.83
+    },
+    {
+        "text": "not collaborated this is just a",
+        "start": 2236.16,
+        "duration": 8.28
+    },
+    {
+        "text": "supposition okay I really it's not",
+        "start": 2239.51,
+        "duration": 7.63
+    },
+    {
+        "text": "really clear that the minerals on comet",
+        "start": 2244.44,
+        "duration": 5.43
+    },
+    {
+        "text": "67p are reaching to turn okay but this",
+        "start": 2247.14,
+        "duration": 5.25
+    },
+    {
+        "text": "work was done in the lab okay but we do",
+        "start": 2249.87,
+        "duration": 6.51
+    },
+    {
+        "text": "have know for instance this on the",
+        "start": 2252.39,
+        "duration": 6.03
+    },
+    {
+        "text": "theory which in solid organic matter is",
+        "start": 2256.38,
+        "duration": 4.59
+    },
+    {
+        "text": "being shown to be available in comments",
+        "start": 2258.42,
+        "duration": 5.07
+    },
+    {
+        "text": "but not see to 7p but you only need you",
+        "start": 2260.97,
+        "duration": 4.79
+    },
+    {
+        "text": "need to have these requirements which",
+        "start": 2263.49,
+        "duration": 5.94
+    },
+    {
+        "text": "potential available in common cmp to",
+        "start": 2265.76,
+        "duration": 6.94
+    },
+    {
+        "text": "show that that squeezed because come see",
+        "start": 2269.43,
+        "duration": 6.63
+    },
+    {
+        "text": "design p has a ratio corresponding to",
+        "start": 2272.7,
+        "duration": 7.04
+    },
+    {
+        "text": "this is a deuterium to hydrogen ratio",
+        "start": 2276.06,
+        "duration": 7.38
+    },
+    {
+        "text": "5.3 plus or minus 0.7 10 to the minus 4",
+        "start": 2279.74,
+        "duration": 9.0
+    },
+    {
+        "text": "okay this is extracted from deuterium",
+        "start": 2283.44,
+        "duration": 5.3
+    },
+    {
+        "text": "how to call this outgassing versus water",
+        "start": 2289.19,
+        "duration": 4.42
+    },
+    {
+        "text": "outgassing",
+        "start": 2292.74,
+        "duration": 3.42
+    },
+    {
+        "text": "but you also say due to information",
+        "start": 2293.61,
+        "duration": 4.35
+    },
+    {
+        "text": "versus white information because it's",
+        "start": 2296.16,
+        "duration": 3.21
+    },
+    {
+        "text": "not clear if these two species actually",
+        "start": 2297.96,
+        "duration": 4.62
+    },
+    {
+        "text": "are gassing or being formed in situ so",
+        "start": 2299.37,
+        "duration": 4.83
+    },
+    {
+        "text": "you take water you take the Tyrian and",
+        "start": 2302.58,
+        "duration": 4.11
+    },
+    {
+        "text": "you get a comparison if you want to look",
+        "start": 2304.2,
+        "duration": 3.87
+    },
+    {
+        "text": "at it in terms of something that makes",
+        "start": 2306.69,
+        "duration": 3.18
+    },
+    {
+        "text": "more sense we talked about liters per",
+        "start": 2308.07,
+        "duration": 5.01
+    },
+    {
+        "text": "second or being a being formed deuterium",
+        "start": 2309.87,
+        "duration": 6.39
+    },
+    {
+        "text": "about 12 liters per second versus 17",
+        "start": 2313.08,
+        "duration": 6.36
+    },
+    {
+        "text": "point seven thousand seventeen percent",
+        "start": 2316.26,
+        "duration": 5.07
+    },
+    {
+        "text": "thousand liters per second water that's",
+        "start": 2319.44,
+        "duration": 3.78
+    },
+    {
+        "text": "being formed per second okay these",
+        "start": 2321.33,
+        "duration": 4.83
+    },
+    {
+        "text": "numbers are being instructed on based on",
+        "start": 2323.22,
+        "duration": 6.06
+    },
+    {
+        "text": "spectroscopic data now in this",
+        "start": 2326.16,
+        "duration": 5.58
+    },
+    {
+        "text": "particular model and then we bore you",
+        "start": 2329.28,
+        "duration": 3.99
+    },
+    {
+        "text": "here little bit with chemistry here but",
+        "start": 2331.74,
+        "duration": 3.09
+    },
+    {
+        "text": "it's actually simple we have a surface",
+        "start": 2333.27,
+        "duration": 4.53
+    },
+    {
+        "text": "which is reaching the Tyrian you can see",
+        "start": 2334.83,
+        "duration": 3.9
+    },
+    {
+        "text": "the duty right here",
+        "start": 2337.8,
+        "duration": 3.84
+    },
+    {
+        "text": "okay so that represents this grain that",
+        "start": 2338.73,
+        "duration": 4.86
+    },
+    {
+        "text": "I talked to you about and if you have",
+        "start": 2341.64,
+        "duration": 5.93
+    },
+    {
+        "text": "water ions put the rice with the correct",
+        "start": 2343.59,
+        "duration": 8.13
+    },
+    {
+        "text": "energy then it will form a complex shown",
+        "start": 2347.57,
+        "duration": 7.39
+    },
+    {
+        "text": "over here okay and these complex which",
+        "start": 2351.72,
+        "duration": 5.03
+    },
+    {
+        "text": "is the intermediate species then",
+        "start": 2354.96,
+        "duration": 5.1
+    },
+    {
+        "text": "separates into a deal",
+        "start": 2356.75,
+        "duration": 10.06
+    },
+    {
+        "text": "Tirion iron and another pageant nearly",
+        "start": 2360.06,
+        "duration": 12.63
+    },
+    {
+        "text": "charged iron here okay now this is",
+        "start": 2366.81,
+        "duration": 6.99
+    },
+    {
+        "text": "something I already mentioned",
+        "start": 2372.69,
+        "duration": 5.16
+    },
+    {
+        "text": "now this can happen okay so it shouldn't",
+        "start": 2373.8,
+        "duration": 6.84
+    },
+    {
+        "text": "happen in the lab it should happen in a",
+        "start": 2377.85,
+        "duration": 8.16
+    },
+    {
+        "text": "lab okay and this is the the graph or",
+        "start": 2380.64,
+        "duration": 8.1
+    },
+    {
+        "text": "the image to prevent the graph we have",
+        "start": 2386.01,
+        "duration": 4.74
+    },
+    {
+        "text": "excess energy this is how much energy is",
+        "start": 2388.74,
+        "duration": 4.14
+    },
+    {
+        "text": "being bounced off from the from the",
+        "start": 2390.75,
+        "duration": 4.86
+    },
+    {
+        "text": "nucleus and here what I have is the",
+        "start": 2392.88,
+        "duration": 9.09
+    },
+    {
+        "text": "incident energy of the incoming ion so",
+        "start": 2395.61,
+        "duration": 8.1
+    },
+    {
+        "text": "let me see what it is you have a surface",
+        "start": 2401.97,
+        "duration": 4.62
+    },
+    {
+        "text": "which is made up Latin which has been",
+        "start": 2403.71,
+        "duration": 4.53
+    },
+    {
+        "text": "those with the Tyrians they have a",
+        "start": 2406.59,
+        "duration": 2.44
+    },
+    {
+        "text": "surface",
+        "start": 2408.24,
+        "duration": 4.75
+    },
+    {
+        "text": "we allow deuterium in here I have a gun",
+        "start": 2409.03,
+        "duration": 9.36
+    },
+    {
+        "text": "that projects water islands I'm heating",
+        "start": 2412.99,
+        "duration": 5.88
+    },
+    {
+        "text": "the surface",
+        "start": 2418.39,
+        "duration": 4.14
+    },
+    {
+        "text": "what irons also stop happening all the",
+        "start": 2418.87,
+        "duration": 5.58
+    },
+    {
+        "text": "different boiled tiles go to a mass",
+        "start": 2422.53,
+        "duration": 5.25
+    },
+    {
+        "text": "spectrometer so I know what they are and",
+        "start": 2424.45,
+        "duration": 5.88
+    },
+    {
+        "text": "so here is a graph that shows different",
+        "start": 2427.78,
+        "duration": 3.6
+    },
+    {
+        "text": "species the form",
+        "start": 2430.33,
+        "duration": 3.03
+    },
+    {
+        "text": "okay all the other species of form and",
+        "start": 2431.38,
+        "duration": 5.7
+    },
+    {
+        "text": "the one that we're actually looking at",
+        "start": 2433.36,
+        "duration": 6.81
+    },
+    {
+        "text": "what the interested in would be the one",
+        "start": 2437.08,
+        "duration": 6.66
+    },
+    {
+        "text": "in red which is so where we here so all",
+        "start": 2440.17,
+        "duration": 6.51
+    },
+    {
+        "text": "the species you feel actually formed in",
+        "start": 2443.74,
+        "duration": 5.1
+    },
+    {
+        "text": "the lab ok and so you make the",
+        "start": 2446.68,
+        "duration": 4.5
+    },
+    {
+        "text": "assumption that okay if the conditions",
+        "start": 2448.84,
+        "duration": 4.26
+    },
+    {
+        "text": "are giving in the lab if you look at the",
+        "start": 2451.18,
+        "duration": 3.3
+    },
+    {
+        "text": "comment the comment also has similar",
+        "start": 2453.1,
+        "duration": 3.96
+    },
+    {
+        "text": "condition it can happen doesn't mean",
+        "start": 2454.48,
+        "duration": 4.2
+    },
+    {
+        "text": "they're happening it can happen",
+        "start": 2457.06,
+        "duration": 4.56
+    },
+    {
+        "text": "all right but I like this approach even",
+        "start": 2458.68,
+        "duration": 5.01
+    },
+    {
+        "text": "though I you see that is a limitation",
+        "start": 2461.62,
+        "duration": 5.57
+    },
+    {
+        "text": "here but I like it because because is",
+        "start": 2463.69,
+        "duration": 6.66
+    },
+    {
+        "text": "lab work they can be repeated okay it",
+        "start": 2467.19,
+        "duration": 5.14
+    },
+    {
+        "text": "can be repeated now I'm almost at the",
+        "start": 2470.35,
+        "duration": 5.0
+    },
+    {
+        "text": "end here on my talk this is another",
+        "start": 2472.33,
+        "duration": 6.84
+    },
+    {
+        "text": "example this is for molecular oxygen it",
+        "start": 2475.35,
+        "duration": 5.86
+    },
+    {
+        "text": "follows a similar idea you have a",
+        "start": 2479.17,
+        "duration": 4.11
+    },
+    {
+        "text": "surface here but this surface now is",
+        "start": 2481.21,
+        "duration": 3.03
+    },
+    {
+        "text": "reaching oxygen",
+        "start": 2483.28,
+        "duration": 3.78
+    },
+    {
+        "text": "now that we know right we know silicates",
+        "start": 2484.24,
+        "duration": 5.16
+    },
+    {
+        "text": "we have hydroxy groups on a surface",
+        "start": 2487.06,
+        "duration": 4.44
+    },
+    {
+        "text": "we are also disallow oxides so that we",
+        "start": 2489.4,
+        "duration": 4.92
+    },
+    {
+        "text": "know is correct for this event P for",
+        "start": 2491.5,
+        "duration": 6.66
+    },
+    {
+        "text": "allowing on the comments and so we have",
+        "start": 2494.32,
+        "duration": 8.43
+    },
+    {
+        "text": "incoming water iron again interacts okay",
+        "start": 2498.16,
+        "duration": 8.87
+    },
+    {
+        "text": "with the surface its tracts the oxygen",
+        "start": 2502.75,
+        "duration": 11.57
+    },
+    {
+        "text": "okay eventually you get a subsequent",
+        "start": 2507.03,
+        "duration": 12.49
+    },
+    {
+        "text": "reaction that gives you molecular oxygen",
+        "start": 2514.32,
+        "duration": 7.24
+    },
+    {
+        "text": "okay this is a little more difficult for",
+        "start": 2519.52,
+        "duration": 7.32
+    },
+    {
+        "text": "me to understand okay but it can happen",
+        "start": 2521.56,
+        "duration": 6.42
+    },
+    {
+        "text": "all right",
+        "start": 2526.84,
+        "duration": 2.85
+    },
+    {
+        "text": "and again what I really like about this",
+        "start": 2527.98,
+        "duration": 5.31
+    },
+    {
+        "text": "is that the conditions are there",
+        "start": 2529.69,
+        "duration": 6.33
+    },
+    {
+        "text": "incoming citizen P is happening in the",
+        "start": 2533.29,
+        "duration": 6.52
+    },
+    {
+        "text": "lab okay we know that the water the",
+        "start": 2536.02,
+        "duration": 6.61
+    },
+    {
+        "text": "the water cations have enough energy",
+        "start": 2539.81,
+        "duration": 4.86
+    },
+    {
+        "text": "they did because did you know given by",
+        "start": 2542.63,
+        "duration": 3.41
+    },
+    {
+        "text": "the electric field so this can't happen",
+        "start": 2544.67,
+        "duration": 5.52
+    },
+    {
+        "text": "right this can definitely happen and",
+        "start": 2546.04,
+        "duration": 6.55
+    },
+    {
+        "text": "here's the evidence shown again this is",
+        "start": 2550.19,
+        "duration": 5.04
+    },
+    {
+        "text": "the energy of the incoming particles",
+        "start": 2552.59,
+        "duration": 4.25
+    },
+    {
+        "text": "they're being detected by mass",
+        "start": 2555.23,
+        "duration": 9.93
+    },
+    {
+        "text": "spectrometer here is a the amount of",
+        "start": 2556.84,
+        "duration": 10.48
+    },
+    {
+        "text": "energy would you put in the park of",
+        "start": 2565.16,
+        "duration": 3.87
+    },
+    {
+        "text": "hitting the surface again the surf in",
+        "start": 2567.32,
+        "duration": 4.71
+    },
+    {
+        "text": "this case is planning we oxygen so as",
+        "start": 2569.03,
+        "duration": 4.8
+    },
+    {
+        "text": "you can see in the lab this is idealized",
+        "start": 2572.03,
+        "duration": 4.41
+    },
+    {
+        "text": "this is not how I was expecting it is",
+        "start": 2573.83,
+        "duration": 4.86
+    },
+    {
+        "text": "happening in space but this is idolized",
+        "start": 2576.44,
+        "duration": 4.35
+    },
+    {
+        "text": "but it's a good start okay this is a",
+        "start": 2578.69,
+        "duration": 2.669
+    },
+    {
+        "text": "good start",
+        "start": 2580.79,
+        "duration": 2.819
+    },
+    {
+        "text": "and we actually see molecular oxygen",
+        "start": 2581.359,
+        "duration": 4.701
+    },
+    {
+        "text": "which is in black actually being formed",
+        "start": 2583.609,
+        "duration": 4.26
+    },
+    {
+        "text": "okay you can see there's a linear",
+        "start": 2586.06,
+        "duration": 3.67
+    },
+    {
+        "text": "connection between a the amount energy",
+        "start": 2587.869,
+        "duration": 5.401
+    },
+    {
+        "text": "that the incoming ion will have and the",
+        "start": 2589.73,
+        "duration": 6.42
+    },
+    {
+        "text": "energy that we it will come out okay so",
+        "start": 2593.27,
+        "duration": 5.03
+    },
+    {
+        "text": "it's a very interesting situation but",
+        "start": 2596.15,
+        "duration": 4.41
+    },
+    {
+        "text": "there are limitations for this model",
+        "start": 2598.3,
+        "duration": 4.96
+    },
+    {
+        "text": "okay so I just show you okay you know",
+        "start": 2600.56,
+        "duration": 4.41
+    },
+    {
+        "text": "you can have reactions in there the",
+        "start": 2603.26,
+        "duration": 4.2
+    },
+    {
+        "text": "collisions are there but there's",
+        "start": 2604.97,
+        "duration": 5.04
+    },
+    {
+        "text": "something that is there is contradicting",
+        "start": 2607.46,
+        "duration": 5.27
+    },
+    {
+        "text": "here so this is this is a piece",
+        "start": 2610.01,
+        "duration": 5.31
+    },
+    {
+        "text": "paragraph from the author's book",
+        "start": 2612.73,
+        "duration": 4.06
+    },
+    {
+        "text": "actually see here for instance he says",
+        "start": 2615.32,
+        "duration": 3.06
+    },
+    {
+        "text": "the whining ions in the extended",
+        "start": 2616.79,
+        "duration": 3.36
+    },
+    {
+        "text": "commissariat towards the nucleus here we",
+        "start": 2618.38,
+        "duration": 4.44
+    },
+    {
+        "text": "know that okay in the cross it's",
+        "start": 2620.15,
+        "duration": 5.07
+    },
+    {
+        "text": "actually dehydrated so where the water",
+        "start": 2622.82,
+        "duration": 5.22
+    },
+    {
+        "text": "molecules coming from so I really don't",
+        "start": 2625.22,
+        "duration": 6.389
+    },
+    {
+        "text": "understand that part okay because okay I",
+        "start": 2628.04,
+        "duration": 5.46
+    },
+    {
+        "text": "mean we are you know we are trying to",
+        "start": 2631.609,
+        "duration": 4.081
+    },
+    {
+        "text": "figure out what's happening but I think",
+        "start": 2633.5,
+        "duration": 3.93
+    },
+    {
+        "text": "it's best to start explaining where the",
+        "start": 2635.69,
+        "duration": 5.13
+    },
+    {
+        "text": "water is coming from first okay and then",
+        "start": 2637.43,
+        "duration": 5.429
+    },
+    {
+        "text": "once you understand what the water is",
+        "start": 2640.82,
+        "duration": 3.99
+    },
+    {
+        "text": "coming from okay you can say yeah we",
+        "start": 2642.859,
+        "duration": 4.171
+    },
+    {
+        "text": "have plenty of them and then we can",
+        "start": 2644.81,
+        "duration": 5.22
+    },
+    {
+        "text": "actually you know say that they are",
+        "start": 2647.03,
+        "duration": 4.68
+    },
+    {
+        "text": "actually hitting the surface or hitting",
+        "start": 2650.03,
+        "duration": 4.44
+    },
+    {
+        "text": "the surface of the nucleus or here the",
+        "start": 2651.71,
+        "duration": 4.26
+    },
+    {
+        "text": "surface of the different dust grains and",
+        "start": 2654.47,
+        "duration": 3.24
+    },
+    {
+        "text": "these reactions are occurring so there",
+        "start": 2655.97,
+        "duration": 4.26
+    },
+    {
+        "text": "are limitations to this model I would",
+        "start": 2657.71,
+        "duration": 4.379
+    },
+    {
+        "text": "suspect that the water molecules for",
+        "start": 2660.23,
+        "duration": 3.48
+    },
+    {
+        "text": "this to be explained and they can do it",
+        "start": 2662.089,
+        "duration": 3.991
+    },
+    {
+        "text": "in the many labs like actually do this",
+        "start": 2663.71,
+        "duration": 4.98
+    },
+    {
+        "text": "and I hope that they can go forward and",
+        "start": 2666.08,
+        "duration": 4.36
+    },
+    {
+        "text": "do it I do not have the",
+        "start": 2668.69,
+        "duration": 5.7
+    },
+    {
+        "text": "to do it myself I don't have high vacuum",
+        "start": 2670.44,
+        "duration": 7.159
+    },
+    {
+        "text": "equipment to do it",
+        "start": 2674.39,
+        "duration": 3.209
+    },
+    {
+        "text": "and I'm gonna end up by give you an",
+        "start": 2677.73,
+        "duration": 4.8
+    },
+    {
+        "text": "illustration or not only the model but",
+        "start": 2680.31,
+        "duration": 4.799
+    },
+    {
+        "text": "she's scientific limitations okay so",
+        "start": 2682.53,
+        "duration": 4.71
+    },
+    {
+        "text": "there's this work done on comment on",
+        "start": 2685.109,
+        "duration": 5.541
+    },
+    {
+        "text": "Lovejoy this using infrared spectroscopy",
+        "start": 2687.24,
+        "duration": 6.599
+    },
+    {
+        "text": "okay and look and let me show you this",
+        "start": 2690.65,
+        "duration": 6.459
+    },
+    {
+        "text": "so here's Lovejoy okay he is preparing",
+        "start": 2693.839,
+        "duration": 6.151
+    },
+    {
+        "text": "helium and prepare helium that the",
+        "start": 2697.109,
+        "duration": 7.401
+    },
+    {
+        "text": "experiment was done using radio waves",
+        "start": 2699.99,
+        "duration": 6.379
+    },
+    {
+        "text": "okay",
+        "start": 2704.51,
+        "duration": 5.5
+    },
+    {
+        "text": "post perihelion the experiment phosphor",
+        "start": 2706.369,
+        "duration": 5.891
+    },
+    {
+        "text": "helium was done using infrared",
+        "start": 2710.01,
+        "duration": 3.93
+    },
+    {
+        "text": "spectroscopy two very different",
+        "start": 2712.26,
+        "duration": 3.12
+    },
+    {
+        "text": "techniques okay",
+        "start": 2713.94,
+        "duration": 3.48
+    },
+    {
+        "text": "and so I mean you know it's difficult",
+        "start": 2715.38,
+        "duration": 5.61
+    },
+    {
+        "text": "for me to look at this data because I",
+        "start": 2717.42,
+        "duration": 10.939
+    },
+    {
+        "text": "have here production rates for deuterium",
+        "start": 2720.99,
+        "duration": 10.02
+    },
+    {
+        "text": "tertiary for water and they are looking",
+        "start": 2728.359,
+        "duration": 5.051
+    },
+    {
+        "text": "at the ratio over here and this is how",
+        "start": 2731.01,
+        "duration": 5.91
+    },
+    {
+        "text": "much it is versus the vienna standard",
+        "start": 2733.41,
+        "duration": 6.27
+    },
+    {
+        "text": "mean ocean water basically if you look",
+        "start": 2736.92,
+        "duration": 4.74
+    },
+    {
+        "text": "at the ocean on earth this is the ratio",
+        "start": 2739.68,
+        "duration": 5.1
+    },
+    {
+        "text": "they used you will see between deuterium",
+        "start": 2741.66,
+        "duration": 6.659
+    },
+    {
+        "text": "to water point in iron okay now if we",
+        "start": 2744.78,
+        "duration": 6.03
+    },
+    {
+        "text": "look at infrared data I see different",
+        "start": 2748.319,
+        "duration": 3.841
+    },
+    {
+        "text": "portion rates but let me have a",
+        "start": 2750.81,
+        "duration": 6.33
+    },
+    {
+        "text": "concentrate only on the vienna standard",
+        "start": 2752.16,
+        "duration": 7.86
+    },
+    {
+        "text": "mean ocean water to do Tyrael to water",
+        "start": 2757.14,
+        "duration": 8.55
+    },
+    {
+        "text": "ratio very different so point a 91.9 for",
+        "start": 2760.02,
+        "duration": 7.799
+    },
+    {
+        "text": "the authors went on and talked about",
+        "start": 2765.69,
+        "duration": 4.679
+    },
+    {
+        "text": "this you know they tell us whole",
+        "start": 2767.819,
+        "duration": 5.221
+    },
+    {
+        "text": "publication about this now these guys",
+        "start": 2770.369,
+        "duration": 4.351
+    },
+    {
+        "text": "are actually very honest and they",
+        "start": 2773.04,
+        "duration": 5.7
+    },
+    {
+        "text": "explain that how can we do this I mean",
+        "start": 2774.72,
+        "duration": 7.2
+    },
+    {
+        "text": "this is this is one technique to me",
+        "start": 2778.74,
+        "duration": 7.589
+    },
+    {
+        "text": "these apples and these oranges if you",
+        "start": 2781.92,
+        "duration": 6.63
+    },
+    {
+        "text": "want to do a comparison paper a helium",
+        "start": 2786.329,
+        "duration": 4.201
+    },
+    {
+        "text": "possibly Helio we need to we need to",
+        "start": 2788.55,
+        "duration": 4.23
+    },
+    {
+        "text": "fill the gaps over here we don't and the",
+        "start": 2790.53,
+        "duration": 3.96
+    },
+    {
+        "text": "authenticity was happening when we",
+        "start": 2792.78,
+        "duration": 4.53
+    },
+    {
+        "text": "allowed data that we see for either",
+        "start": 2794.49,
+        "duration": 6.31
+    },
+    {
+        "text": "astronomy cosmology for you",
+        "start": 2797.31,
+        "duration": 5.56
+    },
+    {
+        "text": "there's not enough at least from my",
+        "start": 2800.8,
+        "duration": 5.13
+    },
+    {
+        "text": "perspective as a training so the legal",
+        "start": 2802.87,
+        "duration": 5.4
+    },
+    {
+        "text": "chemist so I'm training I'm looking at",
+        "start": 2805.93,
+        "duration": 6.03
+    },
+    {
+        "text": "data and I need to have differing",
+        "start": 2808.27,
+        "duration": 4.8
+    },
+    {
+        "text": "instruments looking at the same thing",
+        "start": 2811.96,
+        "duration": 2.64
+    },
+    {
+        "text": "they agree okay",
+        "start": 2813.07,
+        "duration": 4.86
+    },
+    {
+        "text": "now I'm I'm satisfied but I don't see",
+        "start": 2814.6,
+        "duration": 7.47
+    },
+    {
+        "text": "that much happening in these fields",
+        "start": 2817.93,
+        "duration": 6.39
+    },
+    {
+        "text": "besides the Rosetta and when I look at",
+        "start": 2822.07,
+        "duration": 4.05
+    },
+    {
+        "text": "Rosetta I mean I read that maybe like 50",
+        "start": 2824.32,
+        "duration": 4.47
+    },
+    {
+        "text": "papers they all concentrate on the own",
+        "start": 2826.12,
+        "duration": 6.3
+    },
+    {
+        "text": "little field small little feel and so I",
+        "start": 2828.79,
+        "duration": 4.5
+    },
+    {
+        "text": "think that's the that's the biggest",
+        "start": 2832.42,
+        "duration": 4.92
+    },
+    {
+        "text": "problem that we see is that we and this",
+        "start": 2833.29,
+        "duration": 7.59
+    },
+    {
+        "text": "one for shown in cosmology we just don't",
+        "start": 2837.34,
+        "duration": 5.94
+    },
+    {
+        "text": "have enough there's not enough data out",
+        "start": 2840.88,
+        "duration": 5.04
+    },
+    {
+        "text": "there for us to begin to see the bigger",
+        "start": 2843.28,
+        "duration": 5.49
+    },
+    {
+        "text": "picture and so just to show you okay",
+        "start": 2845.92,
+        "duration": 6.09
+    },
+    {
+        "text": "look at the spread or the th water ratio",
+        "start": 2848.77,
+        "duration": 5.01
+    },
+    {
+        "text": "when you look at cichlid of all the",
+        "start": 2852.01,
+        "duration": 4.07
+    },
+    {
+        "text": "different reports this how it looks like",
+        "start": 2853.78,
+        "duration": 5.76
+    },
+    {
+        "text": "okay it's quite they say to be isn't",
+        "start": 2856.08,
+        "duration": 5.44
+    },
+    {
+        "text": "complete we need we need more data we",
+        "start": 2859.54,
+        "duration": 4.59
+    },
+    {
+        "text": "need more simple population to actually",
+        "start": 2861.52,
+        "duration": 5.19
+    },
+    {
+        "text": "come up with a conclusion so to finish",
+        "start": 2864.13,
+        "duration": 5.76
+    },
+    {
+        "text": "up take-home take-home points here like",
+        "start": 2866.71,
+        "duration": 4.41
+    },
+    {
+        "text": "to feel the pressing that we seen to",
+        "start": 2869.89,
+        "duration": 4.23
+    },
+    {
+        "text": "commence a Steven P these are used to",
+        "start": 2871.12,
+        "duration": 5.13
+    },
+    {
+        "text": "provide kinetic energy for irons any",
+        "start": 2874.12,
+        "duration": 4.71
+    },
+    {
+        "text": "lectures and I could give you an example",
+        "start": 2876.25,
+        "duration": 4.47
+    },
+    {
+        "text": "of gas surface reaction and the previous",
+        "start": 2878.83,
+        "duration": 4.98
+    },
+    {
+        "text": "talk I talked about actually plasma",
+        "start": 2880.72,
+        "duration": 5.73
+    },
+    {
+        "text": "reactions the corona discharge which",
+        "start": 2883.81,
+        "duration": 4.86
+    },
+    {
+        "text": "again can be occur because you have",
+        "start": 2886.45,
+        "duration": 5.64
+    },
+    {
+        "text": "electric fields and I'm just going to",
+        "start": 2888.67,
+        "duration": 5.61
+    },
+    {
+        "text": "end out here saying the crew meteorology",
+        "start": 2892.09,
+        "duration": 3.96
+    },
+    {
+        "text": "instrumentation is lacking it's nice",
+        "start": 2894.28,
+        "duration": 4.83
+    },
+    {
+        "text": "efficient we don't have enough well I",
+        "start": 2896.05,
+        "duration": 4.8
+    },
+    {
+        "text": "thank you for your attention this all I",
+        "start": 2899.11,
+        "duration": 3.8
+    },
+    {
+        "text": "have to say today",
+        "start": 2900.85,
+        "duration": 5.72
+    },
+    {
+        "text": "[Applause]",
+        "start": 2902.91,
+        "duration": 22.49
+    },
+    {
+        "text": "[Music]",
+        "start": 2906.57,
+        "duration": 20.89
+    },
+    {
+        "text": "you",
+        "start": 2925.4,
+        "duration": 2.06
+    }
+]

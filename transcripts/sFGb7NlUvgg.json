@@ -1,0 +1,3692 @@
+[
+    {
+        "text": "It's always a pleasure\nto be here and to see",
+        "start": 16.448,
+        "duration": 3.594
+    },
+    {
+        "text": "so many new faces and I wouldn't say\nold faces but longtime friends.",
+        "start": 20.067,
+        "duration": 6.792
+    },
+    {
+        "text": "Well, let's see.",
+        "start": 28.303,
+        "duration": 2.23
+    },
+    {
+        "text": "Last year I described\nfor you a model,",
+        "start": 30.558,
+        "duration": 6.623
+    },
+    {
+        "text": "mathematical model of\nthe Birkeland current,",
+        "start": 37.206,
+        "duration": 2.629
+    },
+    {
+        "text": "the cross-section of\nthe Birkeland current",
+        "start": 39.86,
+        "duration": 2.197
+    },
+    {
+        "text": "and what it looks like, how\nit counter-rotates inside",
+        "start": 42.082,
+        "duration": 2.728
+    },
+    {
+        "text": "and how it manages to go from\nthe Sun to the Earth, to Saturn",
+        "start": 44.835,
+        "duration": 4.691
+    },
+    {
+        "text": "and create the auroras\non those planets..",
+        "start": 49.551,
+        "duration": 3.625
+    },
+    {
+        "text": "And I thought maybe this year",
+        "start": 53.589,
+        "duration": 2.568
+    },
+    {
+        "text": "we take a look at the other end,\nnot the Aurora but the Sun end",
+        "start": 56.182,
+        "duration": 3.643
+    },
+    {
+        "text": "and talk a little bit\nabout the solar wind",
+        "start": 59.85,
+        "duration": 3.48
+    },
+    {
+        "text": "because Birkeland, when he came up with the\nidea of what the auroras were caused by,",
+        "start": 63.355,
+        "duration": 7.068
+    },
+    {
+        "text": "said they were corpuscles,",
+        "start": 70.448,
+        "duration": 3.777
+    },
+    {
+        "text": "electrical corpuscles that were\ncoming from the Sun to the Earth.",
+        "start": 74.25,
+        "duration": 3.53
+    },
+    {
+        "text": "Of course he was laughed\nat severely for that",
+        "start": 77.805,
+        "duration": 3.208
+    },
+    {
+        "text": "but we now know\nthat that is true.",
+        "start": 81.038,
+        "duration": 3.648
+    },
+    {
+        "text": "And astronomers, instead of calling it the\nBirkeland wind or giving him credit for it,",
+        "start": 84.711,
+        "duration": 5.374
+    },
+    {
+        "text": "they just call it\nthe solar wind.",
+        "start": 90.11,
+        "duration": 3.174
+    },
+    {
+        "text": "So it's a bunch of, essentially,\nprotons and electrons that",
+        "start": 93.309,
+        "duration": 3.714
+    },
+    {
+        "text": "come off the Sun\nin steady-state.",
+        "start": 97.428,
+        "duration": 2.359
+    },
+    {
+        "text": "Now I'm not talking about, of course,\nCMEs, coronal mass ejections or flares",
+        "start": 99.812,
+        "duration": 5.026
+    },
+    {
+        "text": "or any of the transient phenomena\nthat happened but the steady-state",
+        "start": 104.863,
+        "duration": 5.089
+    },
+    {
+        "text": "DC as Ben would say, currents that are\ncoming from the Sun as a normal thing.",
+        "start": 109.977,
+        "duration": 7.485
+    },
+    {
+        "text": "One might ask why the\nsolar wind is important",
+        "start": 119.401,
+        "duration": 3.643
+    },
+    {
+        "text": "and I think that Ben has\ndone a very good job",
+        "start": 123.069,
+        "duration": 4.099
+    },
+    {
+        "text": "of talking about why it's important that\nwe know what's coming off of the Sun.",
+        "start": 127.193,
+        "duration": 4.248
+    },
+    {
+        "text": "It's obviously a stream\nof charged particles",
+        "start": 131.466,
+        "duration": 3.618
+    },
+    {
+        "text": "that speeds up to about a\nmillion miles an hour.",
+        "start": 135.109,
+        "duration": 3.37
+    },
+    {
+        "text": "That's moving.",
+        "start": 138.504,
+        "duration": 1.656
+    },
+    {
+        "text": "And before it streams\npast the Earth.",
+        "start": 140.185,
+        "duration": 3.324
+    },
+    {
+        "text": "And disturbances\nin the solar wind",
+        "start": 143.534,
+        "duration": 2.601
+    },
+    {
+        "text": "pump energy into the Earth's\nradiation belts and polar regions.",
+        "start": 146.16,
+        "duration": 5.134
+    },
+    {
+        "text": "Space weather clearly,\nas Ben points out,",
+        "start": 151.849,
+        "duration": 3.435
+    },
+    {
+        "text": "can change the orbit of satellites, shorten\nmission lifetimes, create all sorts of havoc.",
+        "start": 155.309,
+        "duration": 6.011
+    },
+    {
+        "text": "The solar wind distorts the\nEarth's magnetic field",
+        "start": 162.199,
+        "duration": 3.567
+    },
+    {
+        "text": "and this causes current surges in transmission\nlines and pretty much we know this.",
+        "start": 165.791,
+        "duration": 5.501
+    },
+    {
+        "text": "So I'm not going to mention\nthose things again.",
+        "start": 171.317,
+        "duration": 3.275
+    },
+    {
+        "text": "What I'm going to talk about, I\nthink, I hope, for the first time,",
+        "start": 174.617,
+        "duration": 5.436
+    },
+    {
+        "text": "is some of the lesser known\nproperties of the solar wind",
+        "start": 180.378,
+        "duration": 3.733
+    },
+    {
+        "text": "and most importantly how\nwell those properties,",
+        "start": 184.136,
+        "duration": 4.664
+    },
+    {
+        "text": "those very subtle properties\nof the solar wind",
+        "start": 188.8,
+        "duration": 2.958
+    },
+    {
+        "text": "fit in exactly with Ralph\nJuergens' electric sun model.",
+        "start": 191.783,
+        "duration": 6.244
+    },
+    {
+        "text": "And so as I've said so many times before\nyou can't prove anything in science,",
+        "start": 198.432,
+        "duration": 5.043
+    },
+    {
+        "text": "you can disprove but\nyou can't prove it.",
+        "start": 203.5,
+        "duration": 2.073
+    },
+    {
+        "text": "But you can always add\nsupporting evidence.",
+        "start": 205.598,
+        "duration": 3.574
+    },
+    {
+        "text": "You can build that wall like the DA tries\nto build a wall of evidence that is",
+        "start": 209.197,
+        "duration": 6.23
+    },
+    {
+        "text": "insurmountable by the defense and\nthis is, \"no he really killed him\".",
+        "start": 215.452,
+        "duration": 4.051
+    },
+    {
+        "text": "This is what we're\ntrying to do here",
+        "start": 219.528,
+        "duration": 3.433
+    },
+    {
+        "text": "and that is to build that wall of\nevidence that says, \"you betcha!\".",
+        "start": 222.986,
+        "duration": 5.294
+    },
+    {
+        "text": "The Sun is electric.",
+        "start": 228.28,
+        "duration": 2.397
+    },
+    {
+        "text": "We don't know whether it's powered\ncompletely by electricity,",
+        "start": 230.702,
+        "duration": 3.216
+    },
+    {
+        "text": "we think it might be\nbut we don't know.",
+        "start": 233.943,
+        "duration": 2.086
+    },
+    {
+        "text": "But one thing we know for certain\nand that is that the effects,",
+        "start": 236.054,
+        "duration": 4.822
+    },
+    {
+        "text": "the major phenomenon that we\nsee on the surface of the sun,",
+        "start": 240.901,
+        "duration": 4.495
+    },
+    {
+        "text": "those phenomena are electric and i'd\nlike to show you in some detail",
+        "start": 245.827,
+        "duration": 4.884
+    },
+    {
+        "text": "what, why I say that\nand what's going on.",
+        "start": 250.736,
+        "duration": 3.574
+    },
+    {
+        "text": "So there are actually two\ndifferent types of solar winds.",
+        "start": 254.335,
+        "duration": 4.123
+    },
+    {
+        "text": "Perhaps some of you know that.",
+        "start": 258.483,
+        "duration": 2.301
+    },
+    {
+        "text": "And I'd like to explain the\nreasons why these properties",
+        "start": 261.419,
+        "duration": 3.784
+    },
+    {
+        "text": "are quite different\nfrom each other.",
+        "start": 265.228,
+        "duration": 2.5
+    },
+    {
+        "text": "The standard\nmainstream finds these",
+        "start": 268.046,
+        "duration": 4.046
+    },
+    {
+        "text": "observations to be quote\n\"enigmatic\" as always.",
+        "start": 272.117,
+        "duration": 3.582
+    },
+    {
+        "text": "They're not enigmatic,\nthey're very simple.",
+        "start": 275.699,
+        "duration": 2.634
+    },
+    {
+        "text": "Elegantly simple.",
+        "start": 278.358,
+        "duration": 2.03
+    },
+    {
+        "text": "I'd like to explain how the different\npoints of origin on the surface of the sun",
+        "start": 281.379,
+        "duration": 5.391
+    },
+    {
+        "text": "explain those differences between those two\ndifferent types of solar wind that we see.",
+        "start": 287.927,
+        "duration": 7.061
+    },
+    {
+        "text": "One of the things that, by\nthe way I should say that",
+        "start": 299.64,
+        "duration": 2.73
+    },
+    {
+        "text": "one of the things i want to\nshow you is a short video clip",
+        "start": 302.395,
+        "duration": 3.24
+    },
+    {
+        "text": "that Monty Childs was kind enough to\nlend to me from the SAFIRE project.",
+        "start": 305.66,
+        "duration": 6.135
+    },
+    {
+        "text": "That shows that the things\nthat I'm talking about here,",
+        "start": 311.82,
+        "duration": 3.148
+    },
+    {
+        "text": "as far as Juergens\nmodel is concerned,",
+        "start": 314.993,
+        "duration": 3.155
+    },
+    {
+        "text": "are being repeated here\non earth in Monty's lab.",
+        "start": 318.173,
+        "duration": 6.487
+    },
+    {
+        "text": "So the Juergens' sun model was\nproposed in the early 70's",
+        "start": 325.274,
+        "duration": 5.101
+    },
+    {
+        "text": "and today I'm trying to propose\na slight extension to that.",
+        "start": 330.4,
+        "duration": 4.36
+    },
+    {
+        "text": "And this, these proposals\nthat I'm trying to make",
+        "start": 334.785,
+        "duration": 3.38
+    },
+    {
+        "text": "are based on Juergens',\nRalph Juergens' work",
+        "start": 338.19,
+        "duration": 5.213
+    },
+    {
+        "text": "and also on something that I came up with\nand presented 3, 4 years ago called,",
+        "start": 343.428,
+        "duration": 4.958
+    },
+    {
+        "text": "I call it the transistor model\nof the sun because the sun..",
+        "start": 348.411,
+        "duration": 3.147
+    },
+    {
+        "text": "we'll talk about in a minute.",
+        "start": 351.583,
+        "duration": 1.597
+    },
+    {
+        "text": "But sun surface works very analogously\nto the way a PNP transistor works.",
+        "start": 353.205,
+        "duration": 5.443
+    },
+    {
+        "text": "And we'll see that in..\nbriefly at least.",
+        "start": 359.204,
+        "duration": 2.78
+    },
+    {
+        "text": "Anyway, again to state the\nobvious, we all probably know",
+        "start": 362.009,
+        "duration": 4.111
+    },
+    {
+        "text": "that the major three layers on\nthe Sun that are are important,",
+        "start": 366.145,
+        "duration": 4.717
+    },
+    {
+        "text": "and as you, if you come toward the Sun\nin the order in which you see them,",
+        "start": 370.887,
+        "duration": 5.551
+    },
+    {
+        "text": "would be the corona, the\nchromosphere and the photosphere.",
+        "start": 376.463,
+        "duration": 5.331
+    },
+    {
+        "text": "Now the corona is perhaps the\nmost beautiful thing in the sky.",
+        "start": 382.81,
+        "duration": 6.135
+    },
+    {
+        "text": "It is this colorful, it's..",
+        "start": 389.191,
+        "duration": 2.361
+    },
+    {
+        "text": "those are of course the same\ncolors that we see in the Aurora.",
+        "start": 391.577,
+        "duration": 4.55
+    },
+    {
+        "text": "And why, because\nit's the same thing.",
+        "start": 396.492,
+        "duration": 2.752
+    },
+    {
+        "text": "It is plasma in the glow mode.",
+        "start": 399.269,
+        "duration": 4.202
+    },
+    {
+        "text": "And it is the same sort of\nstuff, helium, hydrogen..",
+        "start": 403.496,
+        "duration": 4.351
+    },
+    {
+        "text": "mostly hydrogen,\nexcited electrically.",
+        "start": 407.872,
+        "duration": 4.684
+    },
+    {
+        "text": "Again, everything I say please ask\nyourself while I'm saying it,",
+        "start": 412.581,
+        "duration": 5.023
+    },
+    {
+        "text": "how does the.. how does the\nstandard model explain this?",
+        "start": 417.629,
+        "duration": 3.085
+    },
+    {
+        "text": "The standard model has no explanation for\nwhy a corona exists in the first place!",
+        "start": 420.739,
+        "duration": 7.008
+    },
+    {
+        "text": "If.. if the Sun is just a nuclear\nfurnace like a wood stove..",
+        "start": 427.747,
+        "duration": 3.944
+    },
+    {
+        "text": "My wood stove doesn't\nglow like that!",
+        "start": 431.716,
+        "duration": 2.934
+    },
+    {
+        "text": "And so clearly, everything that we\nobserve around the surface of the sun,",
+        "start": 434.675,
+        "duration": 6.602
+    },
+    {
+        "text": "including the corona, is\nelectrical in nature.",
+        "start": 441.302,
+        "duration": 3.013
+    },
+    {
+        "text": "Hm.. one other comment\nand that is that",
+        "start": 445.09,
+        "duration": 3.602
+    },
+    {
+        "text": "you can't see anything in the\nnight sky that isn't plasma.",
+        "start": 448.717,
+        "duration": 5.597
+    },
+    {
+        "text": "\"Oh yeah, I can see the Moon!\"",
+        "start": 454.814,
+        "duration": 2.72
+    },
+    {
+        "text": "But of course the moon is reflected\nsunlight and sunlight is plasma.",
+        "start": 457.559,
+        "duration": 4.915
+    },
+    {
+        "text": "The Sun, well all of\nlight that we see",
+        "start": 462.499,
+        "duration": 4.311
+    },
+    {
+        "text": "if you look at Jupiter through a\ntelescope or Saturn or any other planet,",
+        "start": 466.835,
+        "duration": 3.72
+    },
+    {
+        "text": "you're seeing reflected\nplasma light",
+        "start": 470.58,
+        "duration": 2.927
+    },
+    {
+        "text": "and the, we'll talk about the photosphere and\nwhere that light comes from in a minute.",
+        "start": 473.532,
+        "duration": 4.55
+    },
+    {
+        "text": "But the corona is pretty big thing,\nit extends out about 3 solar radii.",
+        "start": 478.107,
+        "duration": 6.188
+    },
+    {
+        "text": "If you look at half the\nwidth of that disk",
+        "start": 484.32,
+        "duration": 3.27
+    },
+    {
+        "text": "and then the 123, it takes you out\nabout the corner of that picture.",
+        "start": 487.615,
+        "duration": 4.607
+    },
+    {
+        "text": "And you can see, that's about\nthe extent of the corona.",
+        "start": 492.247,
+        "duration": 3.406
+    },
+    {
+        "text": "So it's large.",
+        "start": 495.913,
+        "duration": 1.943
+    },
+    {
+        "text": "The Sun is what, 865 thousand\nkilometers across, something like that?",
+        "start": 497.881,
+        "duration": 7.999
+    },
+    {
+        "text": "The chromosphere, the second layer\ngoing in, contains these spicules.",
+        "start": 507.261,
+        "duration": 6.925
+    },
+    {
+        "text": "Spicules.. we've all heard,\nyou know, the pines of Rome..",
+        "start": 514.211,
+        "duration": 4.108
+    },
+    {
+        "text": "Spicules are the\nfountains of the Sun.",
+        "start": 518.344,
+        "duration": 4.139
+    },
+    {
+        "text": "Not the fountains of Rome.",
+        "start": 522.508,
+        "duration": 2.097
+    },
+    {
+        "text": "But anyway, they have\ncertain characteristics.",
+        "start": 524.63,
+        "duration": 3.986
+    },
+    {
+        "text": "The spicules are really\ntowering fountains of electrons",
+        "start": 528.641,
+        "duration": 4.265
+    },
+    {
+        "text": "that come up out of the Sun and then\nback into the Sun again immediately",
+        "start": 532.931,
+        "duration": 4.726
+    },
+    {
+        "text": "if our assumption is correct.",
+        "start": 537.682,
+        "duration": 2.842
+    },
+    {
+        "text": "Juergens' assumption that the\nSun has a positive charge.",
+        "start": 540.549,
+        "duration": 3.07
+    },
+    {
+        "text": "Those electrons once spewed are very\nquickly brought back into the Sun again.",
+        "start": 543.644,
+        "duration": 5.266
+    },
+    {
+        "text": "That's what the spicules are.",
+        "start": 548.935,
+        "duration": 2.635
+    },
+    {
+        "text": "The photosphere is\nwhere the action is",
+        "start": 552.233,
+        "duration": 2.963
+    },
+    {
+        "text": "and that's what we're going\nto be talking about mostly.",
+        "start": 555.221,
+        "duration": 4.227
+    },
+    {
+        "text": "The, the photosphere\nconsists of these things",
+        "start": 560.239,
+        "duration": 2.755
+    },
+    {
+        "text": "that the astronomers called\nphotospheric granules.",
+        "start": 563.019,
+        "duration": 3.255
+    },
+    {
+        "text": "More proper name for\nthem is anode tufts.",
+        "start": 566.299,
+        "duration": 5.252
+    },
+    {
+        "text": "The anode tufts consist\nof plasma in the arc mode",
+        "start": 575.457,
+        "duration": 3.798
+    },
+    {
+        "text": "and I've heard all\nsorts, even my,",
+        "start": 579.28,
+        "duration": 2.592
+    },
+    {
+        "text": "one of my good friends thinks the Sun\nis liquid hydrogen or something..",
+        "start": 581.897,
+        "duration": 3.747
+    },
+    {
+        "text": "It better be pretty\nhot liquid because",
+        "start": 585.669,
+        "duration": 2.741
+    },
+    {
+        "text": "plasma in the arc mode puts out\na horrific amount of power.",
+        "start": 588.435,
+        "duration": 5.671
+    },
+    {
+        "text": "And as a matter of fact, but\nI should say this, those",
+        "start": 594.131,
+        "duration": 5.096
+    },
+    {
+        "text": "those granules come and\ngo with time, they grow,",
+        "start": 599.252,
+        "duration": 3.066
+    },
+    {
+        "text": "they get bright and they\nshrink and they go away.",
+        "start": 602.343,
+        "duration": 2.65
+    },
+    {
+        "text": "The power put out by the\nSun is really fantastic.",
+        "start": 605.018,
+        "duration": 4.835
+    },
+    {
+        "text": "That is to say, the the\nradiation from the sun,",
+        "start": 610.218,
+        "duration": 6.096
+    },
+    {
+        "text": "every square inch of the sun's surface\non average puts out 42,000 wats.",
+        "start": 616.339,
+        "duration": 9.985
+    },
+    {
+        "text": "If you can think of what\nabout a square mile..",
+        "start": 627.149,
+        "duration": 2.764
+    },
+    {
+        "text": "That's.. it's not, it's not boiling\nanything, it's arc mode plasma.",
+        "start": 630.357,
+        "duration": 6.064
+    },
+    {
+        "text": "The temperature of those\ngranular granules or tufts",
+        "start": 636.769,
+        "duration": 5.237
+    },
+    {
+        "text": "is about 6000 Kelvin,\nwhich is pretty..",
+        "start": 642.031,
+        "duration": 3.468
+    },
+    {
+        "text": "you wouldn't want to spend your summer\nvacation there but it's in relation to the..",
+        "start": 645.524,
+        "duration": 4.891
+    },
+    {
+        "text": "to the temperature\nof the lower corona,",
+        "start": 650.44,
+        "duration": 2.091
+    },
+    {
+        "text": "which is 2 million Kelvin, it's\nnot, it's a medium temperature.",
+        "start": 652.556,
+        "duration": 4.76
+    },
+    {
+        "text": "Anyway, the, there's a\npicture of the granules.",
+        "start": 657.903,
+        "duration": 5.421
+    },
+    {
+        "text": "That's a movie.",
+        "start": 663.649,
+        "duration": 1.504
+    },
+    {
+        "text": "If you look at it very carefully\nyou can see it moving.",
+        "start": 665.896,
+        "duration": 2.752
+    },
+    {
+        "text": "It's a real time motion\npicture of the granules.",
+        "start": 668.673,
+        "duration": 4.741
+    },
+    {
+        "text": "If you keep your eye on\none, especially near the..",
+        "start": 673.439,
+        "duration": 2.57
+    },
+    {
+        "text": "I think that white stuff in the center is\na bunch of spicules coming up through..",
+        "start": 676.009,
+        "duration": 3.87
+    },
+    {
+        "text": "I don't know, but I think\nthat's what it is.",
+        "start": 679.879,
+        "duration": 1.41
+    },
+    {
+        "text": "And you see the they're, they're\nall over the place let's see.",
+        "start": 681.289,
+        "duration": 6.636
+    },
+    {
+        "text": "There's some down here,\nthere's some over here,",
+        "start": 687.95,
+        "duration": 3.238
+    },
+    {
+        "text": "up here and of course a\nbunch of them here..",
+        "start": 691.213,
+        "duration": 2.618
+    },
+    {
+        "text": "If you keep your eyes on the",
+        "start": 693.856,
+        "duration": 5.581
+    },
+    {
+        "text": "granules themselves, you see\nthem shrinking away to nothing",
+        "start": 703.016,
+        "duration": 4.477
+    },
+    {
+        "text": "and the question is,\nwhy do they do that?",
+        "start": 707.518,
+        "duration": 3.17
+    },
+    {
+        "text": "Well, there's a typical\nsunspot and you might say,",
+        "start": 711.641,
+        "duration": 7.654
+    },
+    {
+        "text": "well what's a sunspot?",
+        "start": 719.32,
+        "duration": 2.022
+    },
+    {
+        "text": "Sunspots are where the\nphotospheric tufts are not.",
+        "start": 721.367,
+        "duration": 5.068
+    },
+    {
+        "text": "It's a region where the\nphotospheric tufts don't exist.",
+        "start": 726.46,
+        "duration": 5.868
+    },
+    {
+        "text": "And so there's been a good deal of work\ndone on the laboratory on anode tufts",
+        "start": 732.353,
+        "duration": 6.824
+    },
+    {
+        "text": "and we'll talk some about that.",
+        "start": 739.859,
+        "duration": 3.44
+    },
+    {
+        "text": "The main, well, focus, I would say, of\nJuergens' sun model is an anode tuft.",
+        "start": 743.324,
+        "duration": 9.232
+    },
+    {
+        "text": "How does the anode tuft work?",
+        "start": 752.581,
+        "duration": 1.731
+    },
+    {
+        "text": "That's one of the things I'd like\nto spend some time on this morning.",
+        "start": 754.337,
+        "duration": 3.727
+    },
+    {
+        "text": "There is of course the penumbra, that's\nthat orange ring that you can see.",
+        "start": 758.089,
+        "duration": 4.525
+    },
+    {
+        "text": "The dark inner area\nis called the umbra",
+        "start": 762.639,
+        "duration": 2.5
+    },
+    {
+        "text": "and the temperatures in the\numbra have been measured, well,",
+        "start": 765.139,
+        "duration": 3.617
+    },
+    {
+        "text": "just something in\nworth of 3000 Kelvin.",
+        "start": 768.781,
+        "duration": 3.348
+    },
+    {
+        "text": "So the umbra obviously is much\ncooler than the normal spots,",
+        "start": 772.154,
+        "duration": 6.299
+    },
+    {
+        "text": "I'm sory, the normal tufts which are the the\nyellow region around the outside there.",
+        "start": 780.302,
+        "duration": 5.527
+    },
+    {
+        "text": "Anyway, I said that Monty had sent me some\ninteresting pictures from from SAFIRE.",
+        "start": 786.948,
+        "duration": 7.427
+    },
+    {
+        "text": "There is one.",
+        "start": 794.4,
+        "duration": 1.503
+    },
+    {
+        "text": "Now the, the purple wine glass\nin the back is not real.",
+        "start": 795.928,
+        "duration": 3.385
+    },
+    {
+        "text": "Monty has not been drinking, that's\njust an aberration of the photograph.",
+        "start": 799.338,
+        "duration": 4.5
+    },
+    {
+        "text": "This was taken\ninside a bell jar.",
+        "start": 803.863,
+        "duration": 2.675
+    },
+    {
+        "text": "And he has managed, he and his team have\nmanaged to actually create anode tufts.",
+        "start": 806.563,
+        "duration": 5.565
+    },
+    {
+        "text": "The center / bright purple\nthing is a spherical halo,",
+        "start": 812.153,
+        "duration": 4.289
+    },
+    {
+        "text": "it's distorted some by the\nshape of the bell jar.",
+        "start": 816.467,
+        "duration": 3.552
+    },
+    {
+        "text": "It's pretty spherical\nand it's the anode",
+        "start": 820.019,
+        "duration": 2.791
+    },
+    {
+        "text": "and riding on top of that\nanode are anode tufts.",
+        "start": 822.835,
+        "duration": 4.607
+    },
+    {
+        "text": "And so, the major property\nof these anode Tufts",
+        "start": 827.467,
+        "duration": 5.346
+    },
+    {
+        "text": "is that they're made up\nof positive charges.",
+        "start": 832.838,
+        "duration": 2.851
+    },
+    {
+        "text": "And as such, you can think to yourself,\njust basic knowledge of electricity..",
+        "start": 835.714,
+        "duration": 5.735
+    },
+    {
+        "text": "If those things are each one\na group of positive charges",
+        "start": 841.474,
+        "duration": 5.091
+    },
+    {
+        "text": "then they don't like each other.",
+        "start": 846.59,
+        "duration": 1.657
+    },
+    {
+        "text": "They're going to be\nrepelling each other",
+        "start": 848.272,
+        "duration": 2.054
+    },
+    {
+        "text": "and so you see they're quite evenly\nspaced over the surface of the sphere.",
+        "start": 850.351,
+        "duration": 4.618
+    },
+    {
+        "text": "And as you'll see in a minute\nwhen Monty increases the current",
+        "start": 854.994,
+        "duration": 4.879
+    },
+    {
+        "text": "he increases the number of tufts and he\nincreases the brightness of the tufts",
+        "start": 859.898,
+        "duration": 3.981
+    },
+    {
+        "text": "and finally they turn into\nsomething in the arc mode",
+        "start": 863.904,
+        "duration": 2.682
+    },
+    {
+        "text": "just like we see on the\nsurface of the Sun.",
+        "start": 866.611,
+        "duration": 3.045
+    },
+    {
+        "text": "So the, as I said before,\nI think I said before,",
+        "start": 870.418,
+        "duration": 3.705
+    },
+    {
+        "text": "the main basis of the\nof the Juergens model",
+        "start": 874.148,
+        "duration": 7.778
+    },
+    {
+        "text": "is an analysis of those tufts",
+        "start": 881.951,
+        "duration": 2.556
+    },
+    {
+        "text": "so we're going to be thinking of travelling\nin a line, if you can visualize,",
+        "start": 884.532,
+        "duration": 4.95
+    },
+    {
+        "text": "from the purple surface there,\nthe surface of the anode,",
+        "start": 889.507,
+        "duration": 3.41
+    },
+    {
+        "text": "up through the tuft and\nthen out beyond the tuft.",
+        "start": 892.942,
+        "duration": 4.146
+    },
+    {
+        "text": "And let's think what, what\nwould we expect to see there.",
+        "start": 897.113,
+        "duration": 4.099
+    },
+    {
+        "text": "I'll tell you what Juergens expected to\nsee there and I think it's exactly what",
+        "start": 901.237,
+        "duration": 4.054
+    },
+    {
+        "text": "Monty is seeing and is going to\nsee in the SAFIRE experiment.",
+        "start": 905.316,
+        "duration": 4.57
+    },
+    {
+        "text": "Anyway, Juergens' electric\nsun model and there it is,",
+        "start": 911.459,
+        "duration": 4.618
+    },
+    {
+        "text": "you've seen that picture many times,\nevery time I talk, I think I show it.",
+        "start": 916.102,
+        "duration": 6.179
+    },
+    {
+        "text": "It's fairly complicated but let's take\nit one step at a time and I think,",
+        "start": 922.306,
+        "duration": 4.529
+    },
+    {
+        "text": "I think you can see\nwhat I'm saying.",
+        "start": 926.86,
+        "duration": 4.375
+    },
+    {
+        "text": "The upper one of the three\ngraphs there is a plot..",
+        "start": 931.26,
+        "duration": 6.712
+    },
+    {
+        "text": "well on all three of them the\nhorizontal axis is the radial distance,",
+        "start": 937.997,
+        "duration": 4.931
+    },
+    {
+        "text": "up from the surface of the sun, up through\nthe tuft and out into the corona.",
+        "start": 942.953,
+        "duration": 5.554
+    },
+    {
+        "text": "The top graph plots the\nvoltage that you would see",
+        "start": 949.134,
+        "duration": 5.279
+    },
+    {
+        "text": "if you had a voltmeter in your hand and\ncould have a ground someplace out in space",
+        "start": 954.438,
+        "duration": 4.764
+    },
+    {
+        "text": "and look at the various, the\nvoltage, the voltage varies",
+        "start": 959.227,
+        "duration": 2.997
+    },
+    {
+        "text": "as you come up out of the Sun through the\ntuft and then out the top of the tuft.",
+        "start": 962.249,
+        "duration": 4.776
+    },
+    {
+        "text": "On the left-hand margin of\nthe left-hand axis there,",
+        "start": 967.05,
+        "duration": 4.859
+    },
+    {
+        "text": "the vertical axis that's labeled\nenergy per unit charge, that's volts.",
+        "start": 971.909,
+        "duration": 4.53
+    },
+    {
+        "text": "Energy, that's what voltage is.",
+        "start": 976.464,
+        "duration": 2.746
+    },
+    {
+        "text": "A positive charge\nhas more energy",
+        "start": 979.235,
+        "duration": 2.906
+    },
+    {
+        "text": "if it's at a high voltage then\nif it's at a low-voltage.",
+        "start": 982.166,
+        "duration": 3.252
+    },
+    {
+        "text": "The analogy is, that's the cross-section\nof a mountain and the positive charge,",
+        "start": 985.443,
+        "duration": 6.911
+    },
+    {
+        "text": "the analogy there\nis a tennis ball.",
+        "start": 992.379,
+        "duration": 2.719
+    },
+    {
+        "text": "So suppose you threw a\ntennis ball on top of the..",
+        "start": 995.123,
+        "duration": 4.149
+    },
+    {
+        "text": "I'm sorry didn't I got ahead of myself here,\nno i didn't, I'm sorry, this is fine.",
+        "start": 999.922,
+        "duration": 6.239
+    },
+    {
+        "text": "I'm looking at the next slide.",
+        "start": 1006.186,
+        "duration": 1.626
+    },
+    {
+        "text": "I'm cheating on you guys.",
+        "start": 1007.837,
+        "duration": 1.515
+    },
+    {
+        "text": "The tennis ball thrown on\nthe top of the photosphere,",
+        "start": 1009.377,
+        "duration": 4.672
+    },
+    {
+        "text": "well if you throw a\nbunch of them there",
+        "start": 1014.074,
+        "duration": 3.739
+    },
+    {
+        "text": "and they begin to have a\nsort of a billiard game",
+        "start": 1017.838,
+        "duration": 2.097
+    },
+    {
+        "text": "at the top on that horizontal\nsurface of the photosphere,",
+        "start": 1019.96,
+        "duration": 2.92
+    },
+    {
+        "text": "if one of the tennis balls\ngoes too far to the left,",
+        "start": 1022.905,
+        "duration": 3.245
+    },
+    {
+        "text": "that is to say between\nthe axis and point A,",
+        "start": 1026.15,
+        "duration": 3.232
+    },
+    {
+        "text": "it will roll off down the hill\nwith increasing velocity.",
+        "start": 1029.407,
+        "duration": 3.175
+    },
+    {
+        "text": "Same thing if if one gets\nbounced over beyond point B.",
+        "start": 1032.607,
+        "duration": 4.494
+    },
+    {
+        "text": "Can you see point B there?",
+        "start": 1037.126,
+        "duration": 1.761
+    },
+    {
+        "text": "And gets onto that ski jump that\nI've labeled the chromosphere.",
+        "start": 1038.912,
+        "duration": 6.255
+    },
+    {
+        "text": "It will accelerate\noff to the right.",
+        "start": 1045.192,
+        "duration": 2.705
+    },
+    {
+        "text": "The second plot, the middle plot there\nif you can read it, the axis says,",
+        "start": 1049.166,
+        "duration": 7.673
+    },
+    {
+        "text": "the outward electrical field",
+        "start": 1056.839,
+        "duration": 3.119
+    },
+    {
+        "text": "which is force per unit charge\nlabeled in Volts per meter.",
+        "start": 1059.983,
+        "duration": 5.434
+    },
+    {
+        "text": "So the electric field, for those of\nyou who have learned any physics,",
+        "start": 1065.442,
+        "duration": 5.705
+    },
+    {
+        "text": "is the negative of the gradient of\nthe voltage, what I mean by that.",
+        "start": 1071.172,
+        "duration": 4.57
+    },
+    {
+        "text": "Well look at the voltage\nand if it's sloping,",
+        "start": 1075.767,
+        "duration": 2.915
+    },
+    {
+        "text": "if it's going down that's a negative\nslope like in the chromosphere.",
+        "start": 1078.707,
+        "duration": 3.716
+    },
+    {
+        "text": "That means that the electric field\nto produce that is positive,",
+        "start": 1082.448,
+        "duration": 3.625
+    },
+    {
+        "text": "it's the negative of\nwhat the slope does.",
+        "start": 1086.098,
+        "duration": 2.44
+    },
+    {
+        "text": "So we're, say, if you start at the\nvertical axis of the the upper plot,",
+        "start": 1088.563,
+        "duration": 5.729
+    },
+    {
+        "text": "you can see that the voltage is increasing\nas you move from the axis to point A.",
+        "start": 1094.317,
+        "duration": 4.324
+    },
+    {
+        "text": "So, the voltage in the middle of\nthe tuft is the highest voltage",
+        "start": 1098.666,
+        "duration": 4.345
+    },
+    {
+        "text": "that you're going to see\nin this whole area.",
+        "start": 1103.036,
+        "duration": 2.649
+    },
+    {
+        "text": "And to get up there, to get that\npositive slope on the voltage,",
+        "start": 1105.71,
+        "duration": 4.94
+    },
+    {
+        "text": "the electric field\nis, is negative.",
+        "start": 1110.675,
+        "duration": 4.791
+    },
+    {
+        "text": "Now it's, it's more\nnegative right at the axis",
+        "start": 1115.491,
+        "duration": 3.79
+    },
+    {
+        "text": "because the voltage curve\nis steepest there.",
+        "start": 1119.306,
+        "duration": 3.713
+    },
+    {
+        "text": "I don't know if you.. if you don't\nfollow me don't worry about it,",
+        "start": 1123.044,
+        "duration": 2.998
+    },
+    {
+        "text": "if you do you see what\nI'm talking about.",
+        "start": 1126.067,
+        "duration": 2.943
+    },
+    {
+        "text": "At the top of the photosphere\nwhere the voltage curve is flat",
+        "start": 1129.035,
+        "duration": 3.933
+    },
+    {
+        "text": "there is no electric\nfield, there is no force",
+        "start": 1132.993,
+        "duration": 2.732
+    },
+    {
+        "text": "on the tennis ball pushing\nhim one way or the other.",
+        "start": 1135.75,
+        "duration": 3.417
+    },
+    {
+        "text": "But if the tennis ball, i.e.\nthe positive charge,",
+        "start": 1139.545,
+        "duration": 3.649
+    },
+    {
+        "text": "gets over beyond point B,\nthere is a positive volt..",
+        "start": 1143.219,
+        "duration": 3.825
+    },
+    {
+        "text": "positive electric field and that will\ntend to accelerate it toward the right.",
+        "start": 1147.069,
+        "duration": 4.931
+    },
+    {
+        "text": "The bottom curve is nothing\nbut the resulting velocity.",
+        "start": 1152.937,
+        "duration": 4.336
+    },
+    {
+        "text": "So clearly, once you get..",
+        "start": 1157.59,
+        "duration": 2.761
+    },
+    {
+        "text": "think of all three plots,\nif you get at the point B",
+        "start": 1160.709,
+        "duration": 3.871
+    },
+    {
+        "text": "and slightly to the\nright of point B,",
+        "start": 1164.605,
+        "duration": 2.83
+    },
+    {
+        "text": "the force is positive,\nouter force is positive.",
+        "start": 1167.46,
+        "duration": 2.667
+    },
+    {
+        "text": "The electric field is positive\nand getting bigger and the,",
+        "start": 1170.152,
+        "duration": 5.866
+    },
+    {
+        "text": "and the force is maximum\nwhere the slope is steepest.",
+        "start": 1176.043,
+        "duration": 4.257
+    },
+    {
+        "text": "The skier is accelerating most rapidly\nat the steepest part of the ski jump.",
+        "start": 1180.325,
+        "duration": 5.862
+    },
+    {
+        "text": "And so the voltage, I'm\nsorry, the velocity",
+        "start": 1187.123,
+        "duration": 2.779
+    },
+    {
+        "text": "- the bottom curve, is\ncontinuing to increase it in..",
+        "start": 1189.927,
+        "duration": 5.592
+    },
+    {
+        "text": "the increase in velocity, the\nacceleration, is maximum at Point C.",
+        "start": 1195.519,
+        "duration": 5.834
+    },
+    {
+        "text": "Once you get beyond point D, there's\nno more force on the skier,",
+        "start": 1202.115,
+        "duration": 4.818
+    },
+    {
+        "text": "the tennis ball or the positive ion\nand so the velocity is constant.",
+        "start": 1206.958,
+        "duration": 5.772
+    },
+    {
+        "text": "But it's moving. It's fast.",
+        "start": 1212.755,
+        "duration": 2.586
+    },
+    {
+        "text": "Instead of talking about analogies\nlet me say it straight out.",
+        "start": 1216.436,
+        "duration": 3.995
+    },
+    {
+        "text": "A positive ion is accelerated\nby a voltage drop.",
+        "start": 1220.456,
+        "duration": 3.714
+    },
+    {
+        "text": "The higher the voltage drop, the\nhigher the resulting velocity.",
+        "start": 1224.44,
+        "duration": 4.491
+    },
+    {
+        "text": "It's like saying, if you\ndrop a rock from a height,",
+        "start": 1229.885,
+        "duration": 2.834
+    },
+    {
+        "text": "to drop it from one foot it will get to a\ncertain velocity when it hits the floor,",
+        "start": 1232.744,
+        "duration": 4.211
+    },
+    {
+        "text": "if you drop it from 10\nfeet it's going faster.",
+        "start": 1236.98,
+        "duration": 3.09
+    },
+    {
+        "text": "OK, that's all of this.",
+        "start": 1240.521,
+        "duration": 1.809
+    },
+    {
+        "text": "The red marking there\non the lower curve",
+        "start": 1242.355,
+        "duration": 4.864
+    },
+    {
+        "text": "just talks about the region of\nturbulence and that is as these,",
+        "start": 1247.244,
+        "duration": 4.517
+    },
+    {
+        "text": "as this stream of ions goes out into the\nlower corona, there are some collisions.",
+        "start": 1251.786,
+        "duration": 5.426
+    },
+    {
+        "text": "Collisions mean, that's\nwhat temperature is, right?",
+        "start": 1257.237,
+        "duration": 4.054
+    },
+    {
+        "text": "Most people, I think the\naverage person at least,",
+        "start": 1261.505,
+        "duration": 2.748
+    },
+    {
+        "text": "has a very poor idea about\nwhat's a temperature.",
+        "start": 1264.278,
+        "duration": 2.356
+    },
+    {
+        "text": "I know it's hot outside\nbut how, what is it?",
+        "start": 1266.659,
+        "duration": 4.007
+    },
+    {
+        "text": "It's a measure of the\nvibration of the atoms",
+        "start": 1270.896,
+        "duration": 3.339
+    },
+    {
+        "text": "in the stuff that you're talking\nabout the temperature of.",
+        "start": 1274.26,
+        "duration": 3.672
+    },
+    {
+        "text": "What's the temperature in space?",
+        "start": 1277.957,
+        "duration": 2.214
+    },
+    {
+        "text": "There's no temperature in space\nunless you're in a cloud of stuff.",
+        "start": 1280.196,
+        "duration": 4.373
+    },
+    {
+        "text": "You have, you have to talk\nabout the temperature of",
+        "start": 1284.594,
+        "duration": 3.998
+    },
+    {
+        "text": "whatever it is\nyou're dealing with.",
+        "start": 1288.617,
+        "duration": 2.669
+    },
+    {
+        "text": "Lastly, in the in the central curve\nthere, the electric field curve,",
+        "start": 1292.04,
+        "duration": 5.183
+    },
+    {
+        "text": "you'll see there's some blue areas\nand some salmon colored areas.",
+        "start": 1297.248,
+        "duration": 3.62
+    },
+    {
+        "text": "This is strictly from\nMaxwell's equations.",
+        "start": 1300.893,
+        "duration": 3.253
+    },
+    {
+        "text": "If you're going to have an\nincreasing electric field,",
+        "start": 1304.171,
+        "duration": 6.426
+    },
+    {
+        "text": "doesn't make any difference what\nthe sign of the electric field is,",
+        "start": 1310.622,
+        "duration": 2.823
+    },
+    {
+        "text": "if it's negative or positive,\nmakes no difference.",
+        "start": 1313.47,
+        "duration": 2.818
+    },
+    {
+        "text": "If the electric field is increasing,\nyou're in a region of plus charge",
+        "start": 1316.313,
+        "duration": 5.437
+    },
+    {
+        "text": "and you can see that's what\nhappens there right next to the,",
+        "start": 1321.775,
+        "duration": 3.411
+    },
+    {
+        "text": "the vertical axis\nin the middle plot.",
+        "start": 1325.211,
+        "duration": 3.054
+    },
+    {
+        "text": "So, that's the\npositive charge layer.",
+        "start": 1328.29,
+        "duration": 3.426
+    },
+    {
+        "text": "Where the photosphere, the\nvoltage is not changing,",
+        "start": 1331.741,
+        "duration": 4.098
+    },
+    {
+        "text": "there is no electric field\nso there is no charge.",
+        "start": 1335.839,
+        "duration": 3.507
+    },
+    {
+        "text": "And the little triangle out around,\nbetween points B, C and D,",
+        "start": 1339.997,
+        "duration": 4.817
+    },
+    {
+        "text": "the electric field is at first\nincreasing and then decreasing,",
+        "start": 1344.839,
+        "duration": 5.145
+    },
+    {
+        "text": "always in the same direction.",
+        "start": 1350.009,
+        "duration": 1.973
+    },
+    {
+        "text": "The outward force is\nstill positive outward",
+        "start": 1352.007,
+        "duration": 3.118
+    },
+    {
+        "text": "but that force is increasing for a while and\nthen decreasing for a while back to zero.",
+        "start": 1355.15,
+        "duration": 5.566
+    },
+    {
+        "text": "That's the famous double layer.",
+        "start": 1361.089,
+        "duration": 2.389
+    },
+    {
+        "text": "You're going to hear people in\nhere talk about double layers.",
+        "start": 1364.033,
+        "duration": 4.635
+    },
+    {
+        "text": "Hannes Alfven was famous for\ndouble layers, Irving Langmuir",
+        "start": 1368.693,
+        "duration": 5.176
+    },
+    {
+        "text": "got the Nobel Prize for his\nwork with double layers.",
+        "start": 1373.894,
+        "duration": 2.775
+    },
+    {
+        "text": "That's a double layer!",
+        "start": 1376.669,
+        "duration": 1.803
+    },
+    {
+        "text": "That's all it is,\nthat is what it is.",
+        "start": 1378.497,
+        "duration": 2.687
+    },
+    {
+        "text": "Why don't those positive\ncharges and negative charges",
+        "start": 1381.209,
+        "duration": 3.079
+    },
+    {
+        "text": "come together and\nneutralize each other?",
+        "start": 1384.313,
+        "duration": 2.205
+    },
+    {
+        "text": "Why do they stay separate?",
+        "start": 1386.543,
+        "duration": 2.893
+    },
+    {
+        "text": "Irving Langmuir found out.",
+        "start": 1389.461,
+        "duration": 2.427
+    },
+    {
+        "text": "That's why he got\nthe Nobel Prize.",
+        "start": 1391.913,
+        "duration": 2.455
+    },
+    {
+        "text": "There has to be a continual\ncurrent through that double layer",
+        "start": 1394.393,
+        "duration": 4.498
+    },
+    {
+        "text": "in order to keep it stable.",
+        "start": 1398.916,
+        "duration": 3.823
+    },
+    {
+        "text": "And the reason that the spicules",
+        "start": 1402.764,
+        "duration": 4.222
+    },
+    {
+        "text": "pull, fountain those electrons\nup through the chromosphere",
+        "start": 1407.74,
+        "duration": 4.824
+    },
+    {
+        "text": "is so that they can come back and\nsatisfy Langmuir's requirement",
+        "start": 1412.589,
+        "duration": 5.025
+    },
+    {
+        "text": "that that double layer has to\nhave electrons and positive ions.",
+        "start": 1417.979,
+        "duration": 5.274
+    },
+    {
+        "text": "So it all seems to work.",
+        "start": 1423.278,
+        "duration": 3.34
+    },
+    {
+        "text": "Langmuir's work, the double layer, Hannes\nAlfven's work and now Juergens' work.",
+        "start": 1427.378,
+        "duration": 5.298
+    },
+    {
+        "text": "All works the way it does and\nit's, it all, it all correlates.",
+        "start": 1433.248,
+        "duration": 6.62
+    },
+    {
+        "text": "Anyway I'd like to show you this,\ncourtesy of Monty, this short video clip.",
+        "start": 1440.218,
+        "duration": 8.792
+    },
+    {
+        "text": "The first thing you're going\nto see is a set of anode tufts",
+        "start": 1449.035,
+        "duration": 3.253
+    },
+    {
+        "text": "under very low\ncurrent excitation",
+        "start": 1452.313,
+        "duration": 2.795
+    },
+    {
+        "text": "and then the currents going\nto increase in strength",
+        "start": 1455.133,
+        "duration": 3.729
+    },
+    {
+        "text": "and the plasma tufts are going\nto go into the arc mode..",
+        "start": 1458.887,
+        "duration": 3.665
+    },
+    {
+        "text": "You'll see the photosphere,\nthere they are.",
+        "start": 1462.577,
+        "duration": 2.94
+    },
+    {
+        "text": "They don't like each other.",
+        "start": 1465.775,
+        "duration": 1.539
+    },
+    {
+        "text": "It's like a bunch of Kabuki\nWarriors pushing each other away.",
+        "start": 1467.339,
+        "duration": 3.425
+    },
+    {
+        "text": "They're both, they're all\npositive and they're all",
+        "start": 1470.789,
+        "duration": 3.998
+    },
+    {
+        "text": "looking for advantage\nand not finding any.",
+        "start": 1474.812,
+        "duration": 3.538
+    },
+    {
+        "text": "You might hear Monty's voice in the\nbackground if they have the audio on..",
+        "start": 1479.802,
+        "duration": 4.217
+    },
+    {
+        "text": "There's this increase\nof the current.",
+        "start": 1484.019,
+        "duration": 3.373
+    },
+    {
+        "text": "The tufts have begun to go\ninto that's, I know the word,",
+        "start": 1487.417,
+        "duration": 4.671
+    },
+    {
+        "text": "it is a high glow mode or..\nThat's arc mode.",
+        "start": 1492.113,
+        "duration": 4.15
+    },
+    {
+        "text": "You can see now, it's a better model\nthat you can see the sun spots,",
+        "start": 1498.437,
+        "duration": 5.247
+    },
+    {
+        "text": "sunspots are where\nthere are no tufts.",
+        "start": 1503.709,
+        "duration": 3.875
+    },
+    {
+        "text": "There's something that, he's got the excitation\nsuch that it looks like the chromosphere.",
+        "start": 1508.473,
+        "duration": 5.888
+    },
+    {
+        "text": "That little black thing in the bottom, I\nguess, Michael can tell me what it is.",
+        "start": 1515.687,
+        "duration": 4.832
+    },
+    {
+        "text": "Is this a spectroscopic probe\nor it's a probe of some sort?",
+        "start": 1520.544,
+        "duration": 2.9
+    },
+    {
+        "text": "There's the corona.",
+        "start": 1523.469,
+        "duration": 1.499
+    },
+    {
+        "text": "The ring around the\noutside is the cathode.",
+        "start": 1524.993,
+        "duration": 2.706
+    },
+    {
+        "text": "And, of course, in the model, in the\nSAFIRE model, you need a cathode.",
+        "start": 1527.724,
+        "duration": 4.903
+    },
+    {
+        "text": "But in real space of course there is a\ncathode, there is a virtual cathode.",
+        "start": 1532.652,
+        "duration": 4.551
+    },
+    {
+        "text": "But there's the, the corona.",
+        "start": 1537.228,
+        "duration": 2.016
+    },
+    {
+        "text": "The reason, the reason that the corona\nthere looks like it's only on one side",
+        "start": 1539.269,
+        "duration": 3.918
+    },
+    {
+        "text": "is because the, the anode\nis closer to the cathode",
+        "start": 1543.212,
+        "duration": 3.705
+    },
+    {
+        "text": "on that spot where\nyou get the corona.",
+        "start": 1546.942,
+        "duration": 2.006
+    },
+    {
+        "text": "If they were equally spaced you'd\nsee the corona all the way around.",
+        "start": 1548.973,
+        "duration": 3.386
+    },
+    {
+        "text": "Sorry for the hooky ending,",
+        "start": 1552.384,
+        "duration": 2.153
+    },
+    {
+        "text": "that's a, that's what\nStanley Kubrick used,",
+        "start": 1554.562,
+        "duration": 3.086
+    },
+    {
+        "text": "it's the end of 2001\nThe Space Odyssey,",
+        "start": 1557.673,
+        "duration": 3.346
+    },
+    {
+        "text": "but I really do believe that\nthat's, it is the beginning.",
+        "start": 1561.044,
+        "duration": 3.166
+    },
+    {
+        "text": "Okay, down to business.",
+        "start": 1564.21,
+        "duration": 2.145
+    },
+    {
+        "text": "There are two different types\nof solar wind and this diagram,",
+        "start": 1566.847,
+        "duration": 3.486
+    },
+    {
+        "text": "it looks complicated as all get-out\nbut it's not, it's very simple.",
+        "start": 1570.358,
+        "duration": 3.421
+    },
+    {
+        "text": "It, forget the nice\npicture of the Sun.",
+        "start": 1573.804,
+        "duration": 2.406
+    },
+    {
+        "text": "Just, it's there for eyewash.",
+        "start": 1576.21,
+        "duration": 2.068
+    },
+    {
+        "text": "This is a radial graph.",
+        "start": 1578.303,
+        "duration": 2.417
+    },
+    {
+        "text": "The farther out you\nget from the center,",
+        "start": 1580.745,
+        "duration": 3.748
+    },
+    {
+        "text": "it talks about the\nvelocity of the solar wind",
+        "start": 1584.518,
+        "duration": 2.841
+    },
+    {
+        "text": "so you can see that at latitudes,\nof, higher than 30 or so degrees",
+        "start": 1587.695,
+        "duration": 7.542
+    },
+    {
+        "text": "and actually lower than\nnegative 30 degrees,",
+        "start": 1595.262,
+        "duration": 4.43
+    },
+    {
+        "text": "the maximum velocity\nof the solar wind",
+        "start": 1599.717,
+        "duration": 3.636
+    },
+    {
+        "text": "is somewhere around 800\nkilometers per second.",
+        "start": 1603.378,
+        "duration": 3.762
+    },
+    {
+        "text": "Maybe they're here, it's more like\n600, they say it's about 800.",
+        "start": 1607.751,
+        "duration": 5.674
+    },
+    {
+        "text": "In the equatorial plane of the Sun you\nnotice that the diagram sort of collapses,",
+        "start": 1613.45,
+        "duration": 7.238
+    },
+    {
+        "text": "the maximum speed of solar\nwind is low, it's about 400.",
+        "start": 1620.713,
+        "duration": 4.384
+    },
+    {
+        "text": "This is a picture obviously, look at the\nupper left, from Ulysses, the Ulysses probe",
+        "start": 1625.557,
+        "duration": 5.862
+    },
+    {
+        "text": "- SWOOPS, that stands for \"Solar Wind\nObservation over the Poles of the Sun\".",
+        "start": 1631.444,
+        "duration": 7.729
+    },
+    {
+        "text": "You're kidding?",
+        "start": 1639.902,
+        "duration": 1.121
+    },
+    {
+        "text": "They didn't get over the poles!",
+        "start": 1641.048,
+        "duration": 1.419
+    },
+    {
+        "text": "You see the diagram stops there, they\ndon't know what's going on up there.",
+        "start": 1642.492,
+        "duration": 3.74
+    },
+    {
+        "text": "But they did get to\nabout 85 degrees or so.",
+        "start": 1646.257,
+        "duration": 2.894
+    },
+    {
+        "text": "But Ulysses, when it got to 85\ndegrees, it was way out beyond Jupiter",
+        "start": 1649.176,
+        "duration": 6.189
+    },
+    {
+        "text": "so this is not a\nclosed-in measurement.",
+        "start": 1655.39,
+        "duration": 2.985
+    },
+    {
+        "text": "And what is, the plot here is what they\nmeasure at about one astronomical unit,",
+        "start": 1658.4,
+        "duration": 9.422
+    },
+    {
+        "text": "which is where we are.",
+        "start": 1667.847,
+        "duration": 2.221
+    },
+    {
+        "text": "On the upper pole,\nwhat Ben was saying,",
+        "start": 1670.634,
+        "duration": 3.316
+    },
+    {
+        "text": "the the upper half of this\nis sort of tinged in red",
+        "start": 1673.975,
+        "duration": 3.924
+    },
+    {
+        "text": "and the lower half\nis tinged in blue",
+        "start": 1677.924,
+        "duration": 2.341
+    },
+    {
+        "text": "and you notice on the lower\nleft it says, the outward IMF.",
+        "start": 1680.29,
+        "duration": 4.09
+    },
+    {
+        "text": "Outward Interplanetary\nMagnetic Field",
+        "start": 1684.38,
+        "duration": 2.844
+    },
+    {
+        "text": "is coming from the north\nat this, at this point,",
+        "start": 1687.249,
+        "duration": 3.767
+    },
+    {
+        "text": "and then back in to the\nsouthern hemisphere.",
+        "start": 1691.041,
+        "duration": 3.336
+    },
+    {
+        "text": "But that's from NASA.",
+        "start": 1695.083,
+        "duration": 2.437
+    },
+    {
+        "text": "Anyway, the fast solar wind\ncomes from normal regions",
+        "start": 1697.837,
+        "duration": 4.38
+    },
+    {
+        "text": "from higher solar latitudes.",
+        "start": 1702.242,
+        "duration": 2.269
+    },
+    {
+        "text": "This is where we begin to divide into\ntwo different kinds of solar winds.",
+        "start": 1704.536,
+        "duration": 5.227
+    },
+    {
+        "text": "A fast wind is one that comes from\nthe, not in the equatorial region,",
+        "start": 1709.788,
+        "duration": 6.887
+    },
+    {
+        "text": "and it gets up to about 800\nkilometers per second.",
+        "start": 1716.7,
+        "duration": 7.149
+    },
+    {
+        "text": "The, it comes from normal\nregions, that is to say,",
+        "start": 1724.714,
+        "duration": 4.845
+    },
+    {
+        "text": "it comes out of the tops of the solar,\nof the photo.. photospheric tufts.",
+        "start": 1729.584,
+        "duration": 5.612
+    },
+    {
+        "text": "Out of the, out of\nthe anode tufts.",
+        "start": 1735.221,
+        "duration": 1.906
+    },
+    {
+        "text": "The slow solar wind comes from\nactive regions on the Sun's surface,",
+        "start": 1737.152,
+        "duration": 5.562
+    },
+    {
+        "text": "in other words sun spots.",
+        "start": 1743.111,
+        "duration": 1.576
+    },
+    {
+        "text": "Sunspots mainly are, they wander all over\nthe place but they're very often in,",
+        "start": 1744.712,
+        "duration": 6.601
+    },
+    {
+        "text": "generally in the what you'd say\nthe tropical zone of the Sun.",
+        "start": 1751.75,
+        "duration": 3.93
+    },
+    {
+        "text": "The near, near the equator.",
+        "start": 1755.705,
+        "duration": 4.074
+    },
+    {
+        "text": "So just to state it succinctly,",
+        "start": 1764.94,
+        "duration": 4.018
+    },
+    {
+        "text": "the fast solar wind emanates from regions\non the Sun where there are no sunspots,",
+        "start": 1768.983,
+        "duration": 4.912
+    },
+    {
+        "text": "generally at more than\n20 degrees latitude.",
+        "start": 1773.92,
+        "duration": 2.705
+    },
+    {
+        "text": "And it comes out of the tops\nof the photospheric tufts.",
+        "start": 1776.65,
+        "duration": 3.531
+    },
+    {
+        "text": "It approaches 800\nkilometers per second",
+        "start": 1780.975,
+        "duration": 3.364
+    },
+    {
+        "text": "and it gets to that maximum\nat about nine radii.",
+        "start": 1784.72,
+        "duration": 3.004
+    },
+    {
+        "text": "It's not too far out.",
+        "start": 1787.749,
+        "duration": 1.538
+    },
+    {
+        "text": "I used to think it\naccelerated beyond Jupiter.",
+        "start": 1789.312,
+        "duration": 2.696
+    },
+    {
+        "text": "It doesn't, not too much anyway.",
+        "start": 1792.033,
+        "duration": 2.04
+    },
+    {
+        "text": "Another interesting thing is, it's\nless dense, it carries fewer ions",
+        "start": 1795.116,
+        "duration": 5.696
+    },
+    {
+        "text": "than the slow solar wind.",
+        "start": 1800.837,
+        "duration": 2.109
+    },
+    {
+        "text": "So it goes faster but it carries, it's\nless dense, it carries less stuff.",
+        "start": 1803.303,
+        "duration": 5.305
+    },
+    {
+        "text": "Question is why?",
+        "start": 1810.767,
+        "duration": 2.193
+    },
+    {
+        "text": "Well, I would suggest,\nthis is the reason why.",
+        "start": 1814.111,
+        "duration": 3.27
+    },
+    {
+        "text": "There's that first\nvoltage curve again",
+        "start": 1817.406,
+        "duration": 3.639
+    },
+    {
+        "text": "and the purple is an area where there are\nexcited ions trying to leave the Sun.",
+        "start": 1821.07,
+        "duration": 6.779
+    },
+    {
+        "text": "Sun, remember, is positive, positive ions\ndon't like that, so they're out of here.",
+        "start": 1827.874,
+        "duration": 5.2
+    },
+    {
+        "text": "It's kind of like the cross-section\nof a dam at the end of a reservoir.",
+        "start": 1833.099,
+        "duration": 4.74
+    },
+    {
+        "text": "The reservoir is the purple\narea in the upper left",
+        "start": 1837.839,
+        "duration": 3.909
+    },
+    {
+        "text": "and so you can, I think\nyou can visualize that if",
+        "start": 1841.773,
+        "duration": 4.11
+    },
+    {
+        "text": "the most excitable, the most\nexcited, the most energetic",
+        "start": 1845.908,
+        "duration": 4.442
+    },
+    {
+        "text": "positive ion in that distance, in\nthat, close to the surface area,",
+        "start": 1850.375,
+        "duration": 6.783
+    },
+    {
+        "text": "is just higher than the voltage\nof the photospheric tuft,",
+        "start": 1857.183,
+        "duration": 5.244
+    },
+    {
+        "text": "some of those positive ions can trickle\nover the top of the dam, if you will,",
+        "start": 1862.452,
+        "duration": 4.998
+    },
+    {
+        "text": "and just down the.. get accelerated\ndown through the corona,",
+        "start": 1867.475,
+        "duration": 5.456
+    },
+    {
+        "text": "down through the chromosphere\ninto the lower corona.",
+        "start": 1872.956,
+        "duration": 3.807
+    },
+    {
+        "text": "It's sort of reasonable that there\nwouldn't be too much density in that.",
+        "start": 1878.612,
+        "duration": 6.388
+    },
+    {
+        "text": "It doesn't, not too many of these guys\nare able to make it over the top.",
+        "start": 1885.284,
+        "duration": 3.793
+    },
+    {
+        "text": "So although they drop far and they're going\nlike crazy when they hit the bottom,",
+        "start": 1889.102,
+        "duration": 5.306
+    },
+    {
+        "text": "there are not too many of them.",
+        "start": 1894.433,
+        "duration": 1.706
+    },
+    {
+        "text": "Because not many of them are able\nto get over the top of the tuft.",
+        "start": 1896.164,
+        "duration": 3.454
+    },
+    {
+        "text": "So that's the reason why the fast solar\nwind is fast but it's less dense,",
+        "start": 1899.643,
+        "duration": 3.586
+    },
+    {
+        "text": "at least that's what the\nJuergens' model says.",
+        "start": 1903.254,
+        "duration": 5.507
+    },
+    {
+        "text": "There's a sort of analogy.",
+        "start": 1909.785,
+        "duration": 1.585
+    },
+    {
+        "text": "That's Hoover Dam or part\nof its associated dams.",
+        "start": 1911.395,
+        "duration": 3.234
+    },
+    {
+        "text": "The Hoover Dam is\nup the road there.",
+        "start": 1914.654,
+        "duration": 1.954
+    },
+    {
+        "text": "A high-velocity,\nlow-density flow.",
+        "start": 1916.633,
+        "duration": 2.946
+    },
+    {
+        "text": "The water, not much water,\ngets over the dam there.",
+        "start": 1919.604,
+        "duration": 3.396
+    },
+    {
+        "text": "Even less would get over if you\nraised that wall a little bit",
+        "start": 1923.025,
+        "duration": 6.14
+    },
+    {
+        "text": "and that's my solar\ntransistor model.",
+        "start": 1929.19,
+        "duration": 2.56
+    },
+    {
+        "text": "This is kind of like the,",
+        "start": 1931.775,
+        "duration": 2.413
+    },
+    {
+        "text": "emitter, the base and the\ncollector of a PNP transistor.",
+        "start": 1934.213,
+        "duration": 4.246
+    },
+    {
+        "text": "If you raise the voltage on the\nbase you cut off the current.",
+        "start": 1938.484,
+        "duration": 5.389
+    },
+    {
+        "text": "So again, the velocity is\nhigh but the density is low.",
+        "start": 1943.898,
+        "duration": 6.323
+    },
+    {
+        "text": "There is some turbulence\nat the bottom",
+        "start": 1950.246,
+        "duration": 2.381
+    },
+    {
+        "text": "but it's intentional in\nthis hydraulic analogy.",
+        "start": 1952.652,
+        "duration": 2.515
+    },
+    {
+        "text": "You can see they put\nrocks along the bottom.",
+        "start": 1955.192,
+        "duration": 2.165
+    },
+    {
+        "text": "They're trying to aerate the\nwater before it gets past.",
+        "start": 1957.382,
+        "duration": 2.868
+    },
+    {
+        "text": "If you could take those rocks away and\nmake that a nice smooth concrete surface,",
+        "start": 1960.275,
+        "duration": 4.676
+    },
+    {
+        "text": "there wouldn't be any..",
+        "start": 1964.976,
+        "duration": 1.437
+    },
+    {
+        "text": "that would minimize the\nturbulence anyway.",
+        "start": 1966.438,
+        "duration": 3.174
+    },
+    {
+        "text": "How about the slow solar wind?",
+        "start": 1970.616,
+        "duration": 2.705
+    },
+    {
+        "text": "It emanates from the equatorial\nregion mainly, from sunspots.",
+        "start": 1973.655,
+        "duration": 4.775
+    },
+    {
+        "text": "The maximum velocity is about\n400 kilometers per second",
+        "start": 1980.502,
+        "duration": 5.877
+    },
+    {
+        "text": "and the ion density is more than 3\ntimes denser than the fast solar wind.",
+        "start": 1987.331,
+        "duration": 5.129
+    },
+    {
+        "text": "OK, so the slow\nsolar wind is slow",
+        "start": 1992.485,
+        "duration": 3.209
+    },
+    {
+        "text": "but it's got a lot\nof stuff in it.",
+        "start": 1995.719,
+        "duration": 2.579
+    },
+    {
+        "text": "My, sort of my thought analysis,\nmy memory crutch on this",
+        "start": 1998.323,
+        "duration": 5.935
+    },
+    {
+        "text": "is that the fast solar\nwind is like a sports car.",
+        "start": 2004.283,
+        "duration": 2.561
+    },
+    {
+        "text": "Goes like hell but it doesn't have\nmuch space for the groceries.",
+        "start": 2006.869,
+        "duration": 3.522
+    },
+    {
+        "text": "The slow solar wind's\nlike a dumptruck.",
+        "start": 2010.416,
+        "duration": 2.697
+    },
+    {
+        "text": "Goes slowly but boy\ncan it carry stuff!",
+        "start": 2013.138,
+        "duration": 3.031
+    },
+    {
+        "text": "So, the ion density is more than 3\ntimes denser than the fast solar wind.",
+        "start": 2016.581,
+        "duration": 5.316
+    },
+    {
+        "text": "So again the question is, why?",
+        "start": 2023.389,
+        "duration": 2.802
+    },
+    {
+        "text": "Well, is there an\nanalogy for this one?",
+        "start": 2026.75,
+        "duration": 2.928
+    },
+    {
+        "text": "Well, remember we said that\nthe slow solar wind emanates",
+        "start": 2029.996,
+        "duration": 4.883
+    },
+    {
+        "text": "from regions where there\nare lots of sunspots.",
+        "start": 2034.904,
+        "duration": 3.833
+    },
+    {
+        "text": "What's a sunspot?",
+        "start": 2038.933,
+        "duration": 1.858
+    },
+    {
+        "text": "Sunspot is a place where\nthere aren't any tufts.",
+        "start": 2040.816,
+        "duration": 3.478
+    },
+    {
+        "text": "The dam is gone.",
+        "start": 2044.613,
+        "duration": 1.981
+    },
+    {
+        "text": "Somebody put a hole in the dike",
+        "start": 2046.913,
+        "duration": 2.805
+    },
+    {
+        "text": "and there's nothing\nto prevent the water.",
+        "start": 2049.743,
+        "duration": 2.815
+    },
+    {
+        "text": "I used a, I'll show you a slide\nin a minute, that I used to show",
+        "start": 2052.583,
+        "duration": 5.977
+    },
+    {
+        "text": "this hydraulic analogy of the slow\nsolar wind and I chose a bad one.",
+        "start": 2058.585,
+        "duration": 5.767
+    },
+    {
+        "text": "The real analogy for\nthe slow solar wind,",
+        "start": 2064.377,
+        "duration": 2.87
+    },
+    {
+        "text": "and if I've done it right I would have\ngotten a photograph of the Mississippi River",
+        "start": 2067.731,
+        "duration": 4.339
+    },
+    {
+        "text": "right after Hurricane\nKatrina busted the dike.",
+        "start": 2072.095,
+        "duration": 4.878
+    },
+    {
+        "text": "So that the water in the\nMississippi isn't much higher,",
+        "start": 2076.998,
+        "duration": 3.002
+    },
+    {
+        "text": "that's what, 8 feet or so\nhigher than the ground",
+        "start": 2080.0,
+        "duration": 2.728
+    },
+    {
+        "text": "outside and when you break the\ndike, the water, the voltage drop,",
+        "start": 2082.753,
+        "duration": 5.195
+    },
+    {
+        "text": "the hydrostatic head, if you\nwish, is not very high.",
+        "start": 2087.973,
+        "duration": 4.353
+    },
+    {
+        "text": "So there's no really high velocity\nbut when that Dyke breaks,",
+        "start": 2092.351,
+        "duration": 3.981
+    },
+    {
+        "text": "wow is there a flow.",
+        "start": 2096.357,
+        "duration": 2.417
+    },
+    {
+        "text": "So it's again, the slow solar wind is a\nregion of high density, low velocity flow.",
+        "start": 2098.799,
+        "duration": 6.621
+    },
+    {
+        "text": "It's like a broken dike.",
+        "start": 2105.445,
+        "duration": 2.178
+    },
+    {
+        "text": "Anyway, that's another movie",
+        "start": 2109.806,
+        "duration": 3.554
+    },
+    {
+        "text": "and I've heard people decry\nthat that cannot happen;",
+        "start": 2113.916,
+        "duration": 4.25
+    },
+    {
+        "text": "\"Is that what you're seeing, don't\nbelieve your lying eyes, believe me.",
+        "start": 2118.191,
+        "duration": 4.17
+    },
+    {
+        "text": "I'm gonna tell you\nwhat happened.\"",
+        "start": 2122.386,
+        "duration": 1.951
+    },
+    {
+        "text": "No, that's what really\nhappens and that's a picture",
+        "start": 2124.362,
+        "duration": 2.901
+    },
+    {
+        "text": "of what the penumbral\nfilaments look like.",
+        "start": 2127.288,
+        "duration": 3.702
+    },
+    {
+        "text": "And it's kind of\ninteresting that..",
+        "start": 2131.015,
+        "duration": 2.561
+    },
+    {
+        "text": "I maintain and you\nthink of it yourself,",
+        "start": 2134.522,
+        "duration": 3.427
+    },
+    {
+        "text": "the umbra is a place where\nthere aren't any any tufts.",
+        "start": 2137.974,
+        "duration": 4.125
+    },
+    {
+        "text": "So if you look at a cross section\nof this thing, you can see tufts,",
+        "start": 2142.124,
+        "duration": 3.847
+    },
+    {
+        "text": "tufts, tufts, tufts, tufts, they're\nall pushing on each other, you know,",
+        "start": 2145.996,
+        "duration": 2.962
+    },
+    {
+        "text": "the samurai warriors, they\ndon't like each other..",
+        "start": 2148.983,
+        "duration": 2.525
+    },
+    {
+        "text": "But when it comes to the edge of the\nplace where there aren't any tufts,",
+        "start": 2151.533,
+        "duration": 3.728
+    },
+    {
+        "text": "these guys don't have anything to\nhold them back so they fall in.",
+        "start": 2155.286,
+        "duration": 4.883
+    },
+    {
+        "text": "And you can see\nthat's happening.",
+        "start": 2160.929,
+        "duration": 2.833
+    },
+    {
+        "text": "The reason I say you can see it\nhappen is, concentrate on the,",
+        "start": 2164.139,
+        "duration": 4.8
+    },
+    {
+        "text": "on the circular ring right on\nthe outside of the penumbra,",
+        "start": 2168.964,
+        "duration": 5.677
+    },
+    {
+        "text": "right between the yellow and the,\nwhat-is-it, ochre colored areas.",
+        "start": 2174.666,
+        "duration": 7.093
+    },
+    {
+        "text": "You can see that the regular\ntufts, the yellow area,",
+        "start": 2181.784,
+        "duration": 5.078
+    },
+    {
+        "text": "right near where the tufts are\nbreaking away, are going outward.",
+        "start": 2186.887,
+        "duration": 5.989
+    },
+    {
+        "text": "Can you see that?",
+        "start": 2192.901,
+        "duration": 1.672
+    },
+    {
+        "text": "When the tufts in the\npenumbra are going inward.",
+        "start": 2195.256,
+        "duration": 4.206
+    },
+    {
+        "text": "Sure they hate each other, they're both\npositive, groups of positive charges.",
+        "start": 2199.487,
+        "duration": 4.712
+    },
+    {
+        "text": "They're elbowing each other and so when\nthe group that is not being held back",
+        "start": 2204.224,
+        "duration": 7.072
+    },
+    {
+        "text": "by anything and just falls off,\nwhen it starts to flow, to move,",
+        "start": 2211.321,
+        "duration": 5.333
+    },
+    {
+        "text": "it's still pushing\non the other guys.",
+        "start": 2216.679,
+        "duration": 2.578
+    },
+    {
+        "text": "The space is opening up and so\nsome fall in and some fall away.",
+        "start": 2219.282,
+        "duration": 5.306
+    },
+    {
+        "text": "So there's, I think that that is\nproof, the fact that the yellow ones",
+        "start": 2225.453,
+        "duration": 4.601
+    },
+    {
+        "text": "actually move outward while the\nother ones are moving inward",
+        "start": 2230.079,
+        "duration": 3.56
+    },
+    {
+        "text": "when space opens up for\nthem to be able to move,",
+        "start": 2233.664,
+        "duration": 3.192
+    },
+    {
+        "text": "shows that what you're seeing\nis an electric reaction.",
+        "start": 2236.881,
+        "duration": 4.078
+    },
+    {
+        "text": "It's not a gravitational\nreaction,",
+        "start": 2240.984,
+        "duration": 3.714
+    },
+    {
+        "text": "at least I maintain it's not.",
+        "start": 2250.757,
+        "duration": 2.976
+    },
+    {
+        "text": "The analogy, of course, is\nthe calving of icebergs.",
+        "start": 2254.201,
+        "duration": 5.378
+    },
+    {
+        "text": "You get a glacier and you got the ocean\nor whatever that water is out there",
+        "start": 2260.055,
+        "duration": 5.57
+    },
+    {
+        "text": "and these things eventually\nbreak loose and fall in.",
+        "start": 2265.65,
+        "duration": 5.146
+    },
+    {
+        "text": "In this case this guy that's falling\nin, the process of falling in,",
+        "start": 2271.159,
+        "duration": 5.437
+    },
+    {
+        "text": "is not pushingon anything.",
+        "start": 2276.621,
+        "duration": 2.503
+    },
+    {
+        "text": "So there's no tendency for the tufts,\nif you will, the potential icebergs",
+        "start": 2279.149,
+        "duration": 6.749
+    },
+    {
+        "text": "there in the wall of the glacier, there's\nno tendency for them to move away.",
+        "start": 2285.923,
+        "duration": 4.091
+    },
+    {
+        "text": "Because nothing is\npushing on them.",
+        "start": 2290.039,
+        "duration": 2.566
+    },
+    {
+        "text": "Only gravity is pulling the\none down that's falling in.",
+        "start": 2292.63,
+        "duration": 4.125
+    },
+    {
+        "text": "This is not the case, so\nthis is a partial analogy.",
+        "start": 2296.78,
+        "duration": 3.431
+    },
+    {
+        "text": "It is sort of like, makes you think\nabout what is happening on the Sun.",
+        "start": 2300.236,
+        "duration": 5.004
+    },
+    {
+        "text": "But on the Sun, this guy that's falling\nis pushing back like crazy on the one",
+        "start": 2305.265,
+        "duration": 5.19
+    },
+    {
+        "text": "that he just came away\nfrom and he's moving back.",
+        "start": 2310.48,
+        "duration": 5.048
+    },
+    {
+        "text": "Here's again that picture and this\nis what I claim is happening.",
+        "start": 2320.424,
+        "duration": 4.587
+    },
+    {
+        "text": "Just look at the red dot,\ndotted line there for a second.",
+        "start": 2325.036,
+        "duration": 3.633
+    },
+    {
+        "text": "The voltage V2, the higher voltage is the\nvoltage of the, of the photospheric tuft.",
+        "start": 2328.67,
+        "duration": 6.721
+    },
+    {
+        "text": "V1 is the voltage of the umbra.",
+        "start": 2335.416,
+        "duration": 2.861
+    },
+    {
+        "text": "And ions in the umbra look up\nand they don't see anything.",
+        "start": 2338.302,
+        "duration": 6.046
+    },
+    {
+        "text": "They just ... it's outer space\nout there, that's the corona.",
+        "start": 2344.801,
+        "duration": 3.144
+    },
+    {
+        "text": "So they tend to fall\nalong that dotted path,",
+        "start": 2347.97,
+        "duration": 4.831
+    },
+    {
+        "text": "the dashed red curve is a voltage\nprofile taken up through an umbra.",
+        "start": 2352.826,
+        "duration": 5.395
+    },
+    {
+        "text": "And how many of them are there?",
+        "start": 2358.602,
+        "duration": 2.82
+    },
+    {
+        "text": "Zillions!",
+        "start": 2361.741,
+        "duration": 1.413
+    },
+    {
+        "text": "Because there's a lot of positive ions\ninside the Sun that would love to get out",
+        "start": 2363.179,
+        "duration": 4.885
+    },
+    {
+        "text": "and the only reason they can't all get\nout is because in a lot of there is the,",
+        "start": 2368.089,
+        "duration": 5.308
+    },
+    {
+        "text": "the photosphere granules\nthat the dam stops them.",
+        "start": 2373.422,
+        "duration": 4.825
+    },
+    {
+        "text": "But at an Umbra there\nis no dam wall.",
+        "start": 2378.272,
+        "duration": 4.256
+    },
+    {
+        "text": "That's d.a.m.",
+        "start": 2383.52,
+        "duration": 1.877
+    },
+    {
+        "text": "So they flood out voluminously but they\ndon't fall from such a high height.",
+        "start": 2386.281,
+        "duration": 6.719
+    },
+    {
+        "text": "They fall from V1 out to the low\nvoltage of the solar.. of the corona.",
+        "start": 2393.025,
+        "duration": 4.312
+    },
+    {
+        "text": "Whereas the fast solar wind\nions that come over the top,",
+        "start": 2397.362,
+        "duration": 3.05
+    },
+    {
+        "text": "they leak over the top of the dam and\ngo all the way down in front of it.",
+        "start": 2400.437,
+        "duration": 3.628
+    },
+    {
+        "text": "They fall from voltage V2 so the fast\nsolar wind comes over the top of the dam,",
+        "start": 2404.09,
+        "duration": 6.259
+    },
+    {
+        "text": "screams down that cor.. chromosphere, ski\njump if you will and fly out the bottom.",
+        "start": 2410.374,
+        "duration": 6.957
+    },
+    {
+        "text": "The slow solar wind,\nmany more of them",
+        "start": 2417.356,
+        "duration": 3.309
+    },
+    {
+        "text": "because they don't have to\njust trickle over the top.",
+        "start": 2420.69,
+        "duration": 3.003
+    },
+    {
+        "text": "They just go.",
+        "start": 2423.718,
+        "duration": 2.217
+    },
+    {
+        "text": "So the slow solar wind\nhas a lot of ions in it",
+        "start": 2425.96,
+        "duration": 3.196
+    },
+    {
+        "text": "but they're not going as fast\ncause they don't drop as far.",
+        "start": 2429.181,
+        "duration": 3.903
+    },
+    {
+        "text": "There is a side\nview of a sunspot.",
+        "start": 2434.711,
+        "duration": 2.852
+    },
+    {
+        "text": "What you're seeing of course,",
+        "start": 2438.032,
+        "duration": 1.654
+    },
+    {
+        "text": "if you listen to mainstream\nastronomers they say;",
+        "start": 2439.711,
+        "duration": 2.238
+    },
+    {
+        "text": "\"Well that's a magnetic field!\"",
+        "start": 2441.949,
+        "duration": 1.32
+    },
+    {
+        "text": "That's not the magnetic\nfiled, that's plasma!",
+        "start": 2443.269,
+        "duration": 2.32
+    },
+    {
+        "text": "You don't see magnetic fields,\nmagnetic fields are invisible.",
+        "start": 2445.614,
+        "duration": 2.946
+    },
+    {
+        "text": "So are electric fields,\nthey're invisible too.",
+        "start": 2448.585,
+        "duration": 2.385
+    },
+    {
+        "text": "But plasma, no,\nyou can see that,",
+        "start": 2450.995,
+        "duration": 2.465
+    },
+    {
+        "text": "and so you you're seeing there\nthe side view of a sunspot",
+        "start": 2453.485,
+        "duration": 3.922
+    },
+    {
+        "text": "and the plasma is pouring\nup out of that sun spot.",
+        "start": 2457.432,
+        "duration": 3.238
+    },
+    {
+        "text": "Over on the edge, on the lower right,\nthat's where, that's a normal tufts.",
+        "start": 2460.695,
+        "duration": 6.331
+    },
+    {
+        "text": "Here are they.",
+        "start": 2467.051,
+        "duration": 1.108
+    },
+    {
+        "text": "Stuff is still coming out\nbut much less of it.",
+        "start": 2468.159,
+        "duration": 3.895
+    },
+    {
+        "text": "So that's the reason why there's the\nslow, the voluminous slow solar wind",
+        "start": 2472.079,
+        "duration": 4.685
+    },
+    {
+        "text": "and the very fast but not very\nvoluminous fast solar wind.",
+        "start": 2476.789,
+        "duration": 7.373
+    },
+    {
+        "text": "There's the slide I wish\ni didn't put in there.",
+        "start": 2484.979,
+        "duration": 2.325
+    },
+    {
+        "text": "I should have shown a\npicture of a broken dike.",
+        "start": 2487.329,
+        "duration": 2.492
+    },
+    {
+        "text": "This is an interesting thing.",
+        "start": 2489.846,
+        "duration": 2.201
+    },
+    {
+        "text": "This is the reversing falls.",
+        "start": 2492.072,
+        "duration": 1.423
+    },
+    {
+        "text": "I think it's a\nnational monument.",
+        "start": 2493.52,
+        "duration": 1.801
+    },
+    {
+        "text": "Does anybody know where it is?",
+        "start": 2495.346,
+        "duration": 1.16
+    },
+    {
+        "text": "I think it's up in Montana or\nmaybe Idaho, I'm not sure.",
+        "start": 2496.531,
+        "duration": 5.293
+    },
+    {
+        "text": "But this is a, it's not a man-made\nthing, it's a natural thing.",
+        "start": 2501.849,
+        "duration": 5.064
+    },
+    {
+        "text": "It's the reversing falls and it converts a\nfraction of, or all, of the kinetic energy",
+        "start": 2506.938,
+        "duration": 7.582
+    },
+    {
+        "text": "that's coming down from the upper\nleft, into potential energy.",
+        "start": 2514.83,
+        "duration": 5.566
+    },
+    {
+        "text": "In other words it it's\ncoming down from the",
+        "start": 2520.421,
+        "duration": 3.022
+    },
+    {
+        "text": "upper left as a rather\nlarge volume of water.",
+        "start": 2523.468,
+        "duration": 4.374
+    },
+    {
+        "text": "When it hits this stagnant, stable,\nplacid pond into which this thing flows,",
+        "start": 2527.867,
+        "duration": 7.58
+    },
+    {
+        "text": "there's a collision of\nthose atoms of water.",
+        "start": 2535.472,
+        "duration": 3.173
+    },
+    {
+        "text": "Then there is, there's\na turbulence.",
+        "start": 2538.67,
+        "duration": 2.712
+    },
+    {
+        "text": "The electrical analogy of course is that\nyou've got a high-current coming down",
+        "start": 2541.781,
+        "duration": 5.044
+    },
+    {
+        "text": "hitting a place where\nthere are static ions.",
+        "start": 2546.85,
+        "duration": 4.34
+    },
+    {
+        "text": "And there's a collision\nand the kinetic energy",
+        "start": 2551.215,
+        "duration": 2.593
+    },
+    {
+        "text": "is turned back into potential\nenergy, higher voltage.",
+        "start": 2553.833,
+        "duration": 4.513
+    },
+    {
+        "text": "And so what you get,",
+        "start": 2558.671,
+        "duration": 1.828
+    },
+    {
+        "text": "the electrical analogy of that\nturbulent high bunch of water",
+        "start": 2560.524,
+        "duration": 5.463
+    },
+    {
+        "text": "is a concentration of positive ions\nright at the bottom of the ski-jump.",
+        "start": 2566.012,
+        "duration": 5.586
+    },
+    {
+        "text": "A concentration of positive ions is a\ngood place for an E-field to begin",
+        "start": 2572.257,
+        "duration": 4.919
+    },
+    {
+        "text": "and that E-field, I claim, is\nwhat accelerates the solar wind.",
+        "start": 2577.201,
+        "duration": 5.939
+    },
+    {
+        "text": "Here's a sort of a wrap-up slide\nthat shows, it shows it all.",
+        "start": 2590.934,
+        "duration": 3.964
+    },
+    {
+        "text": "You can see the photosphere, you can\nsee the sun spots there to the center,",
+        "start": 2594.923,
+        "duration": 4.431
+    },
+    {
+        "text": "to right of center..",
+        "start": 2599.379,
+        "duration": 1.775
+    },
+    {
+        "text": "And then coming out of that is a\ntremendous flow of slow solar wind.",
+        "start": 2601.179,
+        "duration": 4.49
+    },
+    {
+        "text": "At the chromosphere, there's collisions with\nthe stable static ions in the chromosphere",
+        "start": 2605.694,
+        "duration": 6.056
+    },
+    {
+        "text": "and in the corona even more so.",
+        "start": 2611.775,
+        "duration": 2.138
+    },
+    {
+        "text": "To the, to the left, so the\nmiddle left of the corona",
+        "start": 2615.253,
+        "duration": 5.408
+    },
+    {
+        "text": "you see one of the\nfamous coronal holes.",
+        "start": 2620.686,
+        "duration": 3.685
+    },
+    {
+        "text": "Coronal holes hooo, mystery.",
+        "start": 2624.814,
+        "duration": 2.025
+    },
+    {
+        "text": "There's nothing mysterious\nabout a coronal hole at all.",
+        "start": 2626.864,
+        "duration": 2.703
+    },
+    {
+        "text": "It's just above one\nof the normal posit..",
+        "start": 2629.592,
+        "duration": 2.047
+    },
+    {
+        "text": "normal places on the,\non the photosphere.",
+        "start": 2631.664,
+        "duration": 2.587
+    },
+    {
+        "text": "It's, the coronal hole is not\nwhere there's sun spots.",
+        "start": 2634.537,
+        "duration": 3.525
+    },
+    {
+        "text": "That's all it really is.",
+        "start": 2638.602,
+        "duration": 1.84
+    },
+    {
+        "text": "And so, what comes out\nof the coronal hole?",
+        "start": 2640.467,
+        "duration": 3.442
+    },
+    {
+        "text": "The fast solar wind!",
+        "start": 2643.934,
+        "duration": 2.427
+    },
+    {
+        "text": "Sure, where is it coming from?",
+        "start": 2646.386,
+        "duration": 1.624
+    },
+    {
+        "text": "It's coming from the tufts\nin the photosphere.",
+        "start": 2648.01,
+        "duration": 3.064
+    },
+    {
+        "text": "So it all makes sense.",
+        "start": 2651.581,
+        "duration": 3.565
+    },
+    {
+        "text": "It's elegantly simple.",
+        "start": 2655.43,
+        "duration": 2.99
+    },
+    {
+        "text": "Here is, I have to put this\nin because I think it's a,",
+        "start": 2660.511,
+        "duration": 4.117
+    },
+    {
+        "text": "it really says what\nI'd like to say.",
+        "start": 2664.653,
+        "duration": 1.941
+    },
+    {
+        "text": "This is by R.R. Grail,\nhe's a very well-known",
+        "start": 2666.619,
+        "duration": 3.153
+    },
+    {
+        "text": "or was a very well known\nsolar astronomer.",
+        "start": 2669.797,
+        "duration": 4.664
+    },
+    {
+        "text": "He said; \"Our results in\nmeasuring the solar wind",
+        "start": 2674.486,
+        "duration": 3.189
+    },
+    {
+        "text": "indicate that the acceleration of the solar\nwind is almost complete by ten solar radii,",
+        "start": 2677.7,
+        "duration": 4.39
+    },
+    {
+        "text": "much closer to the Sun that had\nbeen expected.\" Okay, good.",
+        "start": 2682.115,
+        "duration": 3.557
+    },
+    {
+        "text": "\"This suggests that the\nacceleration of the solar wind",
+        "start": 2685.697,
+        "duration": 4.45
+    },
+    {
+        "text": "and the heating of the solar corona\noccur in essentially the same region",
+        "start": 2690.172,
+        "duration": 7.137
+    },
+    {
+        "text": "and thus that the underlying\nmechanisms may be strongly linked.",
+        "start": 2698.087,
+        "duration": 5.407
+    },
+    {
+        "text": "They're not strongly linked,\nit's the same thing!",
+        "start": 2705.344,
+        "duration": 3.433
+    },
+    {
+        "text": "It's the same mechanism, there's only\none mechanism and that's what does it.",
+        "start": 2708.802,
+        "duration": 4.392
+    },
+    {
+        "text": "Juergens' model says it all.",
+        "start": 2713.559,
+        "duration": 3.311
+    },
+    {
+        "text": "And all of these properties of the fast solar\nwind, the slow solar wind, the densities..",
+        "start": 2717.673,
+        "duration": 4.903
+    },
+    {
+        "text": "are all explained by..\nOK, one sort of just,",
+        "start": 2722.601,
+        "duration": 5.217
+    },
+    {
+        "text": "I would call it a technical slide\nbut it's, it's the statistics.",
+        "start": 2728.699,
+        "duration": 4.262
+    },
+    {
+        "text": "What they say, statistics don't\nlie but statisticians do.",
+        "start": 2732.986,
+        "duration": 3.974
+    },
+    {
+        "text": "Here's the statistics\nso they don't lie.",
+        "start": 2736.985,
+        "duration": 2.848
+    },
+    {
+        "text": "The two columns are; one for the slow solar\nwind and one for the fast solar wind.",
+        "start": 2740.357,
+        "duration": 4.903
+    },
+    {
+        "text": "The first line is\nthe flow speed.",
+        "start": 2745.285,
+        "duration": 2.932
+    },
+    {
+        "text": "And you're talking about the\nvelocity of protons, VP.",
+        "start": 2748.646,
+        "duration": 5.209
+    },
+    {
+        "text": "And so the slow solar wind's highest velocity\nis around 400 kilometers per second,",
+        "start": 2754.448,
+        "duration": 4.384
+    },
+    {
+        "text": "by fast solar wind\nit's about 800.",
+        "start": 2758.857,
+        "duration": 1.939
+    },
+    {
+        "text": "I hope you guys in the\nback can read this.",
+        "start": 2760.821,
+        "duration": 2.73
+    },
+    {
+        "text": "The proton density however, in the slow\nsolar wind, is 10.7 per cubic centimeter.",
+        "start": 2764.614,
+        "duration": 7.902
+    },
+    {
+        "text": "In the fast solar wind it's 3.",
+        "start": 2772.863,
+        "duration": 2.582
+    },
+    {
+        "text": "So the fast solar wind is, contains\none-third less than the slow solar wind.",
+        "start": 2776.008,
+        "duration": 9.333
+    },
+    {
+        "text": "The proton temperature is, if you go down\nthere, it's a 2.3 times ten to the fifth.",
+        "start": 2785.366,
+        "duration": 9.051
+    },
+    {
+        "text": "It looks like you're comparing\n2.3 to 3.4 but you're not.",
+        "start": 2794.442,
+        "duration": 3.812
+    },
+    {
+        "text": "3.4 is multiplied by 10 to the fourth so\nit's kind of like comparing 3.4 to 23.",
+        "start": 2798.279,
+        "duration": 7.545
+    },
+    {
+        "text": "OK, so the fast solar wind,\nthat proton temperature is",
+        "start": 2806.627,
+        "duration": 4.869
+    },
+    {
+        "text": "much higher than the\nslow solar wind, why?",
+        "start": 2811.521,
+        "duration": 3.181
+    },
+    {
+        "text": "Because it's been through the mixmaster,\nit's been through the ski jump.",
+        "start": 2814.727,
+        "duration": 4.595
+    },
+    {
+        "text": "Then look at, and this is the last\nthing I will look at this page,",
+        "start": 2820.003,
+        "duration": 3.921
+    },
+    {
+        "text": "the electron temperature.",
+        "start": 2823.949,
+        "duration": 2.449
+    },
+    {
+        "text": "It's just the opposite.",
+        "start": 2826.423,
+        "duration": 1.547
+    },
+    {
+        "text": "The electron temperature is 1.3 in the\nsolar wind and 1.0 in the fast wind.",
+        "start": 2827.995,
+        "duration": 7.64
+    },
+    {
+        "text": "So the electrons don't\ntake part in this.",
+        "start": 2836.08,
+        "duration": 2.753
+    },
+    {
+        "text": "Why?",
+        "start": 2839.19,
+        "duration": 2.452
+    },
+    {
+        "text": "Because the electrons don't go over\nthe hill, they don't get excited.",
+        "start": 2842.193,
+        "duration": 4.273
+    },
+    {
+        "text": "That hill is a hill\nonly for positive ions.",
+        "start": 2846.491,
+        "duration": 3.766
+    },
+    {
+        "text": "If you want to know what happens to\nelectrons, you have to take that",
+        "start": 2850.282,
+        "duration": 3.752
+    },
+    {
+        "text": "cross-section of the of the\ndam and turn it upside down.",
+        "start": 2854.059,
+        "duration": 4.309
+    },
+    {
+        "text": "If you turn it upside down\nit looks like a saucepan.",
+        "start": 2858.393,
+        "duration": 3.028
+    },
+    {
+        "text": "So if electrons are coming into\nthe Sun from the lower corona,",
+        "start": 2861.446,
+        "duration": 4.083
+    },
+    {
+        "text": "they collect in the saucepan.",
+        "start": 2865.554,
+        "duration": 2.289
+    },
+    {
+        "text": "What's the saucepan?",
+        "start": 2868.565,
+        "duration": 1.498
+    },
+    {
+        "text": "It's the photospheric tuft.",
+        "start": 2870.088,
+        "duration": 2.172
+    },
+    {
+        "text": "The electrons come pouring in, happy as\nlarks, because they're coming downhill,",
+        "start": 2872.285,
+        "duration": 4.431
+    },
+    {
+        "text": "\"yeah here we are we're going\nto collect in the pan\"",
+        "start": 2876.741,
+        "duration": 2.651
+    },
+    {
+        "text": "and they build up and build up more and\nmore electrons and finally what do they do?",
+        "start": 2879.417,
+        "duration": 3.832
+    },
+    {
+        "text": "They neutralize the positive charges\nand they kill the photospheric tuft.",
+        "start": 2883.274,
+        "duration": 4.079
+    },
+    {
+        "text": "That's why the photospheric\ntufts disappear.",
+        "start": 2887.378,
+        "duration": 2.881
+    },
+    {
+        "text": "They fill up with\nincoming electrons.",
+        "start": 2891.233,
+        "duration": 2.563
+    },
+    {
+        "text": "Anyway there's more I can say about that\nbut I'm running out of the time here.",
+        "start": 2894.177,
+        "duration": 4.253
+    },
+    {
+        "text": "The only quantitatively\ndetermined force",
+        "start": 2898.455,
+        "duration": 3.071
+    },
+    {
+        "text": "capable of achieving a fast solar wind\nacceleration is the electric force.",
+        "start": 2901.551,
+        "duration": 5.714
+    },
+    {
+        "text": "And I did some work on this.",
+        "start": 2907.897,
+        "duration": 1.659
+    },
+    {
+        "text": "I won't bore you with\nthe mathematics but",
+        "start": 2909.581,
+        "duration": 2.95
+    },
+    {
+        "text": "I simply would say that my\nfinal result is step 3 there.",
+        "start": 2912.556,
+        "duration": 5.263
+    },
+    {
+        "text": "I've derived the electric field\nstrength necessary to accelerate",
+        "start": 2918.688,
+        "duration": 4.709
+    },
+    {
+        "text": "the fast solar wind to 800\nkilometers per second.",
+        "start": 2923.422,
+        "duration": 3.22
+    },
+    {
+        "text": "All sorts of people have tried\nto do that and have failed",
+        "start": 2927.444,
+        "duration": 3.713
+    },
+    {
+        "text": "to come up with a mechanism.",
+        "start": 2931.182,
+        "duration": 1.817
+    },
+    {
+        "text": "Remember, the corona is a\nnon collisional corona.",
+        "start": 2933.024,
+        "duration": 3.64
+    },
+    {
+        "text": "It's non-collisional plasma.",
+        "start": 2936.689,
+        "duration": 1.719
+    },
+    {
+        "text": "They don't bounce off each other,\nthey just increase in velocity.",
+        "start": 2938.433,
+        "duration": 5.714
+    },
+    {
+        "text": "And if you put a positive ion in an\nelectric field, it will do just that.",
+        "start": 2944.944,
+        "duration": 5.019
+    },
+    {
+        "text": "Well how strong this\nelectric field have to be?",
+        "start": 2949.988,
+        "duration": 2.431
+    },
+    {
+        "text": "There is the answer, less than seven\ntenths of a micro volt per meter.",
+        "start": 2952.444,
+        "duration": 6.344
+    },
+    {
+        "text": "At a distance of about three solar\nradii, the end of the corona.",
+        "start": 2959.335,
+        "duration": 4.185
+    },
+    {
+        "text": "Seven-tenths of a\nmicro volt per meter.",
+        "start": 2964.187,
+        "duration": 2.849
+    },
+    {
+        "text": "Monty, that's your next job.",
+        "start": 2967.528,
+        "duration": 2.459
+    },
+    {
+        "text": "Find out whether or not a\nglow mode plasma can support",
+        "start": 2970.012,
+        "duration": 5.799
+    },
+    {
+        "text": "an electric field of seven tenths\nof a micro volt per meter.",
+        "start": 2975.836,
+        "duration": 4.694
+    },
+    {
+        "text": "If it can, that's the answer.",
+        "start": 2980.53,
+        "duration": 2.401
+    },
+    {
+        "text": "OK",
+        "start": 2984.179,
+        "duration": 2.157
+    },
+    {
+        "text": "There's the advertisement.",
+        "start": 2989.629,
+        "duration": 1.42
+    },
+    {
+        "text": "That's my website.",
+        "start": 2991.074,
+        "duration": 2.047
+    },
+    {
+        "text": "If you go to electric-cosmos.org,\nyou'll get that.",
+        "start": 2993.146,
+        "duration": 4.502
+    },
+    {
+        "text": "The stuff in white at the lower right hand\nis a, you can, they are clickable links",
+        "start": 2997.673,
+        "duration": 6.568
+    },
+    {
+        "text": "and if you're interested in the gory\ndetails of the mathematics involved",
+        "start": 3004.266,
+        "duration": 4.358
+    },
+    {
+        "text": "in both, the first one is the Birkeland\nCurrent thing that I presented last year..",
+        "start": 3008.649,
+        "duration": 4.097
+    },
+    {
+        "text": "The second one is the solar\nsurface transistor action",
+        "start": 3012.771,
+        "duration": 3.162
+    },
+    {
+        "text": "that says what happens if you\nraise or lower the dam and",
+        "start": 3015.958,
+        "duration": 4.751
+    },
+    {
+        "text": "and, can you curtail\nthe fast solar wind..",
+        "start": 3020.734,
+        "duration": 2.94
+    },
+    {
+        "text": "Yeah, you can cut it off!",
+        "start": 3023.699,
+        "duration": 1.757
+    },
+    {
+        "text": "Just like cutting off a transistor,\nthe solar wind stopped for two days,",
+        "start": 3025.481,
+        "duration": 3.748
+    },
+    {
+        "text": "back about six or\neight years ago.",
+        "start": 3029.254,
+        "duration": 2.506
+    },
+    {
+        "text": "The third one is what I'm talking about\nnow, the solar wind acceleration.",
+        "start": 3032.04,
+        "duration": 4.745
+    },
+    {
+        "text": "So anyway, I won't\nbore you further.",
+        "start": 3037.856,
+        "duration": 5.095
+    },
+    {
+        "text": "Juergens' electric sun model explains\nwhy the plasma corona exists",
+        "start": 3044.668,
+        "duration": 4.109
+    },
+    {
+        "text": "and explains the\ntemperature profile",
+        "start": 3048.802,
+        "duration": 2.51
+    },
+    {
+        "text": "and I submit that my,\nwhat I've just told you,",
+        "start": 3051.337,
+        "duration": 3.125
+    },
+    {
+        "text": "the photospheric tufts are\nvariable electrical barriers",
+        "start": 3055.389,
+        "duration": 2.9
+    },
+    {
+        "text": "for positive ions attempting\nto escape from the Sun..",
+        "start": 3058.314,
+        "duration": 3.282
+    },
+    {
+        "text": "Explains why there are two very different\nsolar winds, one fast and one slow,",
+        "start": 3061.621,
+        "duration": 4.69
+    },
+    {
+        "text": "why the fast wind is faster\nand the slow wind is slower,",
+        "start": 3066.336,
+        "duration": 3.451
+    },
+    {
+        "text": "why the electron temperature\nis the same in both.",
+        "start": 3069.812,
+        "duration": 3.689
+    },
+    {
+        "text": "Because the electrons don't go through\nthat process, they're just there.",
+        "start": 3073.526,
+        "duration": 4.383
+    },
+    {
+        "text": "And besides, on the average\nthey're coming in.",
+        "start": 3077.934,
+        "duration": 3.328
+    },
+    {
+        "text": "Not that some don't\nleave, they do.",
+        "start": 3081.287,
+        "duration": 2.551
+    },
+    {
+        "text": "But they're not affected by\nthat, the shoot to shoot,",
+        "start": 3083.863,
+        "duration": 3.121
+    },
+    {
+        "text": "the ski jump and all the rest of that\nstuff that the positive ions are.",
+        "start": 3087.009,
+        "duration": 4.186
+    },
+    {
+        "text": "And it explains why tufts go away,\nbecause they fill up full of electrons..",
+        "start": 3091.22,
+        "duration": 4.604
+    },
+    {
+        "text": "And why the first solar wind\ncomes out of coronal holes..",
+        "start": 3095.849,
+        "duration": 4.03
+    },
+    {
+        "text": "And the stretching of sunspot\npunumbra is electrical.",
+        "start": 3100.318,
+        "duration": 3.635
+    },
+    {
+        "text": "Anyway, I think that only the\nelectric sun model can explain this.",
+        "start": 3104.27,
+        "duration": 5.051
+    },
+    {
+        "text": "Thank you!",
+        "start": 3109.821,
+        "duration": 3.513
+    }
+]
