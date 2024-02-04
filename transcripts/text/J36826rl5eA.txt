@@ -1,0 +1,867 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe,",
+    "start": 7.18,
+    "duration": 2.85
+  },
+  {
+    "text": "brought to you by\nThe Thunderbolts Project™",
+    "start": 10.06,
+    "duration": 2.31
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 12.4,
+    "duration": 3.5
+  },
+  {
+    "text": "In part one of\nthis presentation,",
+    "start": 17.23,
+    "duration": 2.27
+  },
+  {
+    "text": "Thunderbolts colleague Peter Mungo\nJupp began a provocative reassessment",
+    "start": 19.53,
+    "duration": 3.94
+  },
+  {
+    "text": "of the standard geological and\nanthropological timetables on planet Earth.",
+    "start": 23.5,
+    "duration": 5.16
+  },
+  {
+    "text": "We have proposed a radically\nalternative history for planet Earth",
+    "start": 28.69,
+    "duration": 3.98
+  },
+  {
+    "text": "and indeed our\nentire solar system.",
+    "start": 32.69,
+    "duration": 2.73
+  },
+  {
+    "text": "In relatively recent times, there was a\nchaotic period in the inner solar system,",
+    "start": 35.44,
+    "duration": 5.35
+  },
+  {
+    "text": "when planets approached one another close\nenough to exchange electromagnetic energy",
+    "start": 40.82,
+    "duration": 4.94
+  },
+  {
+    "text": "taking the form of\ninterplanetary lightning.",
+    "start": 45.78,
+    "duration": 3.0
+  },
+  {
+    "text": "One of these planets was Earth.",
+    "start": 48.81,
+    "duration": 2.01
+  },
+  {
+    "text": "Whose close encounter with\nVenus, the great comet,",
+    "start": 50.85,
+    "duration": 3.19
+  },
+  {
+    "text": "was recorded in ancient\ntexts around the world.",
+    "start": 54.07,
+    "duration": 2.82
+  },
+  {
+    "text": "In this scenario, in\nan era of prehistory,",
+    "start": 56.89,
+    "duration": 3.3
+  },
+  {
+    "text": "the Earth was bombarded with\ntremendous electromagnetic radiation.",
+    "start": 60.22,
+    "duration": 4.15
+  },
+  {
+    "text": "What effects did this have on our\nplanet and its living organisms?",
+    "start": 64.39,
+    "duration": 4.73
+  },
+  {
+    "text": "Most geologists and biologists work\nfrom a uniformitarian viewpoint,",
+    "start": 70.11,
+    "duration": 6.38
+  },
+  {
+    "text": "i.e. that's only small incremental\nchanges in the last thousands of years.",
+    "start": 76.7,
+    "duration": 5.75
+  },
+  {
+    "text": "One though has only to read\nClaude Schaeffer's works,",
+    "start": 82.94,
+    "duration": 4.64
+  },
+  {
+    "text": "the archaeologist in the Middle\nEast, to realize that many violent",
+    "start": 87.61,
+    "duration": 4.4
+  },
+  {
+    "text": "perturbations have occurred within\nthe last few thousand years.",
+    "start": 92.04,
+    "duration": 4.76
+  },
+  {
+    "text": "We're talking roughly no more than 8,000\nyears and if one is to believe historical",
+    "start": 96.82,
+    "duration": 5.59
+  },
+  {
+    "text": "and many of the myths as\nargued by Rens van der Sluijs,",
+    "start": 102.43,
+    "duration": 4.32
+  },
+  {
+    "text": "then continent-encompassing floods, earthquakes,\nvolcanoes, and massive electrical phenomena",
+    "start": 106.78,
+    "duration": 8.46
+  },
+  {
+    "text": "must have played a huge part in\naltering the carbon-14 isotope's",
+    "start": 115.27,
+    "duration": 5.71
+  },
+  {
+    "text": "concentration in living species.",
+    "start": 121.0,
+    "duration": 2.6
+  },
+  {
+    "text": "Also, dead carbon-13 from underground\nsources in huge volcanic eruptions",
+    "start": 123.6,
+    "duration": 6.91
+  },
+  {
+    "text": "must also falsify\ncarbon-14 ratios.",
+    "start": 130.54,
+    "duration": 5.11
+  },
+  {
+    "text": "The concept of dead\ncarbon contamination.",
+    "start": 135.67,
+    "duration": 2.99
+  },
+  {
+    "text": "Now, before we go on to the atomic\nclock mitochondrial DNA Theory,",
+    "start": 138.69,
+    "duration": 6.51
+  },
+  {
+    "text": "let's just touch on one of the last archaeological\nmodern science dating technologies.",
+    "start": 145.23,
+    "duration": 6.57
+  },
+  {
+    "text": "Electric spin resonance, uranium-\nthorium, thermoluminescence",
+    "start": 151.82,
+    "duration": 4.94
+  },
+  {
+    "text": "and optically\nstimulated resonance.",
+    "start": 156.79,
+    "duration": 2.88
+  },
+  {
+    "text": "How accurate are these other methodologies\nused in establishing chronology?",
+    "start": 159.69,
+    "duration": 5.84
+  },
+  {
+    "text": "Electric spin resonance and uranium-\nthorium series dating methods",
+    "start": 165.55,
+    "duration": 4.9
+  },
+  {
+    "text": "are secondary in the sense that they\nrely on measurements of isotopes",
+    "start": 170.48,
+    "duration": 5.44
+  },
+  {
+    "text": "and others not originally\npresent in the living body",
+    "start": 175.94,
+    "duration": 4.03
+  },
+  {
+    "text": "and the modeling of process\ntaking place after burial.",
+    "start": 180.0,
+    "duration": 4.13
+  },
+  {
+    "text": "For instance, thermo-luminescence and optically\nstimulated luminescence dating methods",
+    "start": 184.15,
+    "duration": 5.79
+  },
+  {
+    "text": "are applied to quartz grains in\nsediments containing skeletal remains",
+    "start": 189.96,
+    "duration": 5.93
+  },
+  {
+    "text": "but not directly on the bones.",
+    "start": 195.92,
+    "duration": 2.39
+  },
+  {
+    "text": "Again, these must be subject to interpretation\nof the environment at the time of inception.",
+    "start": 198.33,
+    "duration": 7.31
+  },
+  {
+    "text": "Brian notes that he found thermo-\nluminescence dating highly inaccurate",
+    "start": 205.66,
+    "duration": 4.84
+  },
+  {
+    "text": "with echoes of the Jinmium\naffair which we'll go into.",
+    "start": 210.52,
+    "duration": 3.79
+  },
+  {
+    "text": "When dating marine deposits, the laboratory\nresult was 20,000 years BP (Before Present).",
+    "start": 214.33,
+    "duration": 7.97
+  },
+  {
+    "text": "He maintains this cannot be accurate for the\ntime the shoreline was well out to sea.",
+    "start": 222.33,
+    "duration": 6.91
+  },
+  {
+    "text": "He also remarks that this technique\ncannot be considered accurate",
+    "start": 229.26,
+    "duration": 4.22
+  },
+  {
+    "text": "if the event that initially triggered the zeroing\nof the quartz particles occurred at night.",
+    "start": 233.51,
+    "duration": 6.5
+  },
+  {
+    "text": "It's light dependent",
+    "start": 240.03,
+    "duration": 1.5
+  },
+  {
+    "text": "In this case, it will not\nstart the clock ticking.",
+    "start": 241.56,
+    "duration": 3.56
+  },
+  {
+    "text": "He also notes serious age reversal\neffects with carbon dating.",
+    "start": 245.15,
+    "duration": 5.37
+  },
+  {
+    "text": "We have not always lived in\nan uniformitarian universe",
+    "start": 250.55,
+    "duration": 5.71
+  },
+  {
+    "text": "and what happens today may have been and\nmost probably was drastically different",
+    "start": 256.29,
+    "duration": 5.91
+  },
+  {
+    "text": "to our own relatively\ngeologically calm world.",
+    "start": 262.23,
+    "duration": 3.94
+  },
+  {
+    "text": "These methods too, could be\nsubject to gross error",
+    "start": 266.2,
+    "duration": 4.55
+  },
+  {
+    "text": "without knowing the physical, historical,\ngeological history of the site.",
+    "start": 270.78,
+    "duration": 5.4
+  },
+  {
+    "text": "Cataclysmic events have often shaped the\nEarth in only the last few thousand years.",
+    "start": 276.21,
+    "duration": 5.3
+  },
+  {
+    "text": "Our reliance on scientific\ndating demands caution.",
+    "start": 281.54,
+    "duration": 3.71
+  },
+  {
+    "text": "I touched on the Jinmium affair\nwith first declared the site is",
+    "start": 285.28,
+    "duration": 4.66
+  },
+  {
+    "text": "possibly 170,000 years before\npresent, using luminescence dating.",
+    "start": 289.94,
+    "duration": 7.03
+  },
+  {
+    "text": "But it was eventually found\nto be only 3,000 years old.",
+    "start": 297.0,
+    "duration": 5.16
+  },
+  {
+    "text": "Optical luminescence methods are highly\nsubject to contamination with Bowler,",
+    "start": 302.18,
+    "duration": 5.76
+  },
+  {
+    "text": "from Melbourne University, noting\nin his last studies of Lake Mungo",
+    "start": 307.97,
+    "duration": 4.62
+  },
+  {
+    "text": "that one lower level came up at a\nlater date than the higher one.",
+    "start": 312.62,
+    "duration": 4.34
+  },
+  {
+    "text": "Impossible?",
+    "start": 316.98,
+    "duration": 1.37
+  },
+  {
+    "text": "He declared this\nwas contamination",
+    "start": 318.37,
+    "duration": 2.56
+  },
+  {
+    "text": "but there are serious\nflaws for this method",
+    "start": 320.96,
+    "duration": 3.03
+  },
+  {
+    "text": "especially when water has, at some\nstage, washed through an area.",
+    "start": 324.0,
+    "duration": 5.34
+  },
+  {
+    "text": "In addition, it assumes\nzero crystal attachment",
+    "start": 329.37,
+    "duration": 4.28
+  },
+  {
+    "text": "when initially exposed to\nsunlight at its foundation.",
+    "start": 333.68,
+    "duration": 4.09
+  },
+  {
+    "text": "It depends on how it was formed\nand this is how to assume",
+    "start": 337.8,
+    "duration": 4.38
+  },
+  {
+    "text": "when the geologies was not\nthere at its inception.",
+    "start": 342.2,
+    "duration": 3.94
+  },
+  {
+    "text": "Similarly, electric spin, electron spin\nand uranium-thorium series methodologies,",
+    "start": 346.17,
+    "duration": 6.58
+  },
+  {
+    "text": "make many assumptions gleaned from our\nuniformitarian present-day world",
+    "start": 352.78,
+    "duration": 4.89
+  },
+  {
+    "text": "and make no speculation on\nconditions evident in the ice age",
+    "start": 357.69,
+    "duration": 5.17
+  },
+  {
+    "text": "where unknown factors\nwere probably at work.",
+    "start": 362.88,
+    "duration": 3.93
+  },
+  {
+    "text": "For instance, note the discrepancy between\nBowler and Thorne's work at Lake Mungo.",
+    "start": 366.83,
+    "duration": 5.93
+  },
+  {
+    "text": "One came to 40,000 years before\npresent, the other 60,000.",
+    "start": 372.79,
+    "duration": 5.83
+  },
+  {
+    "text": "A 20,000 year discrepancy.",
+    "start": 378.65,
+    "duration": 2.21
+  },
+  {
+    "text": "Carbon dating if it's not\nstandardized with dendrography,",
+    "start": 380.89,
+    "duration": 3.98
+  },
+  {
+    "text": "which only goes to 8,000\nyears, cannot be accurate.",
+    "start": 384.9,
+    "duration": 3.92
+  },
+  {
+    "text": "Remember, we're not doubting the\naccuracy of mass spectrometry used,",
+    "start": 388.84,
+    "duration": 4.36
+  },
+  {
+    "text": "only its universal application\nwithout time calibration controls.",
+    "start": 393.22,
+    "duration": 5.34
+  },
+  {
+    "text": "And finally we move on to the atomic clock-\nmitochondrial-DNA-phylogenetic theory.",
+    "start": 398.59,
+    "duration": 7.63
+  },
+  {
+    "text": "Aha!",
+    "start": 406.25,
+    "duration": 1.5
+  },
+  {
+    "text": "Is in fact mitochondrial DNA the atomic\nclock genetic scientists claim it to be?",
+    "start": 407.78,
+    "duration": 6.68
+  },
+  {
+    "text": "Eukaryote cells, that's mammal\nand other living cells,",
+    "start": 414.49,
+    "duration": 4.05
+  },
+  {
+    "text": "contain mitochondria within\nthe plasma of the cell",
+    "start": 418.57,
+    "duration": 4.12
+  },
+  {
+    "text": "but outside its nucleus.",
+    "start": 422.71,
+    "duration": 2.03
+  },
+  {
+    "text": "Amongst other functions, they are an\nenergy factory driving the cells.",
+    "start": 424.76,
+    "duration": 6.72
+  },
+  {
+    "text": "Curiously, they most closely\nresembled the bacteria Rickettsia",
+    "start": 431.51,
+    "duration": 5.45
+  },
+  {
+    "text": "and have many\nsimilar properties.",
+    "start": 436.98,
+    "duration": 2.45
+  },
+  {
+    "text": "What has become of great interest is the\nmitochondria's ability to transport,",
+    "start": 439.45,
+    "duration": 6.87
+  },
+  {
+    "text": "that's with the exceptions the\nfemale line to the next generation.",
+    "start": 446.35,
+    "duration": 4.57
+  },
+  {
+    "text": "The quality that excites interest is that\na certain portion of the genetic chain",
+    "start": 450.94,
+    "duration": 6.46
+  },
+  {
+    "text": "of the mitochondrial DNA, is subject\nto mutation in what is believed to be",
+    "start": 457.43,
+    "duration": 7.01
+  },
+  {
+    "text": "a constant rate\nwithin any species.",
+    "start": 464.46,
+    "duration": 3.7
+  },
+  {
+    "text": "Thus analysis of past generations should\nreveal the number of generations,",
+    "start": 468.19,
+    "duration": 6.54
+  },
+  {
+    "text": "noted at humans for 20\nyears per generation,",
+    "start": 474.76,
+    "duration": 3.42
+  },
+  {
+    "text": "and thus act as an atomic clock\nto peg the age of the specimen.",
+    "start": 478.18,
+    "duration": 6.25
+  },
+  {
+    "text": "Recently, an attempt was made to\nestimate the age of the human race",
+    "start": 484.46,
+    "duration": 4.68
+  },
+  {
+    "text": "using mitochondrial DNA.",
+    "start": 489.16,
+    "duration": 2.54
+  },
+  {
+    "text": "This material is inherited always\nfrom mother to children only",
+    "start": 491.7,
+    "duration": 6.32
+  },
+  {
+    "text": "and there are exceptions\nbut that's a distraction.",
+    "start": 498.04,
+    "duration": 3.81
+  },
+  {
+    "text": "By measuring the difference in\nmitochondrial DNA among many individuals,",
+    "start": 501.88,
+    "duration": 7.04
+  },
+  {
+    "text": "the age of the common\nmaternal ancestor of humanity",
+    "start": 508.95,
+    "duration": 4.74
+  },
+  {
+    "text": "was estimated at\nabout 200,000 years.",
+    "start": 513.71,
+    "duration": 4.73
+  },
+  {
+    "text": "Is this true?",
+    "start": 518.47,
+    "duration": 1.69
+  },
+  {
+    "text": "A problem is that rates of mutation\nare not known by direct measurement",
+    "start": 520.19,
+    "duration": 6.64
+  },
+  {
+    "text": "and are often computed based on\nassumed evolutionary timescales.",
+    "start": 526.85,
+    "duration": 5.67
+  },
+  {
+    "text": "Note that 'assumed\nevolutionary timescales.'",
+    "start": 532.54,
+    "duration": 4.76
+  },
+  {
+    "text": "As we have seen in the\nprevious work above,",
+    "start": 537.32,
+    "duration": 4.07
+  },
+  {
+    "text": "all these age estimates\ncould be greatly in error.",
+    "start": 541.42,
+    "duration": 3.72
+  },
+  {
+    "text": "In fact, many different rates of mutation\nare quoted by different biologists.",
+    "start": 545.16,
+    "duration": 6.31
+  },
+  {
+    "text": "It shouldn't be very\nhard explicitly",
+    "start": 551.49,
+    "duration": 2.85
+  },
+  {
+    "text": "to measure the rate of mutation of mitochondrial\nDNA to get a better estimate on this age.",
+    "start": 554.37,
+    "duration": 7.09
+  },
+  {
+    "text": "From royal lineages, for example,\none could find two individuals",
+    "start": 561.49,
+    "duration": 5.18
+  },
+  {
+    "text": "whose most recent common maternal\nancestor was, say, 1,000 years ago.",
+    "start": 566.69,
+    "duration": 5.53
+  },
+  {
+    "text": "One could then measure\nthe difference",
+    "start": 572.25,
+    "duration": 3.1
+  },
+  {
+    "text": "of the mitochondrial DNA of these\nindividuals to find its mutation rate.",
+    "start": 575.37,
+    "duration": 5.57
+  },
+  {
+    "text": "This scheme is attractive because it\ndoes not depend on radiometric dating",
+    "start": 580.97,
+    "duration": 5.56
+  },
+  {
+    "text": "or other assumptions about\nevolution or mutation rates.",
+    "start": 586.55,
+    "duration": 4.67
+  },
+  {
+    "text": "It is possible that in 1,000 years there\nwould be too little difference to measure.",
+    "start": 591.24,
+    "duration": 6.25
+  },
+  {
+    "text": "At least, this would give\nus some useful information.",
+    "start": 597.51,
+    "duration": 3.62
+  },
+  {
+    "text": "Now along this line, Parsons,\none of these researchers,",
+    "start": 601.13,
+    "duration": 5.65
+  },
+  {
+    "text": "has recently done some work to measure\nexplicitly the rate of substitution",
+    "start": 606.8,
+    "duration": 5.83
+  },
+  {
+    "text": "in the mitochondrial\nDNA control region.",
+    "start": 612.65,
+    "duration": 2.85
+  },
+  {
+    "text": "That's a narrow region where\na lot of mutation occurs",
+    "start": 615.53,
+    "duration": 4.18
+  },
+  {
+    "text": "and I'll read his summary,",
+    "start": 619.73,
+    "duration": 2.69
+  },
+  {
+    "text": "\"The rate and pattern of sequence substitutions\nin the mitochondrial DNA control region",
+    "start": 622.45,
+    "duration": 7.02
+  },
+  {
+    "text": "is of central importance to studies of\nhuman evolution and to forensic identity.",
+    "start": 629.49,
+    "duration": 5.92
+  },
+  {
+    "text": "Here, we report a\ndirect measurement",
+    "start": 635.44,
+    "duration": 2.71
+  },
+  {
+    "text": "of the intergenerational\nsubstitution rate in the human CR.\"",
+    "start": 638.18,
+    "duration": 5.3
+  },
+  {
+    "text": "Now, this is a way we can\nactually find the age.",
+    "start": 643.5,
+    "duration": 5.04
+  },
+  {
+    "text": "He compared these to what they\ncall 'phylogenetic analysis'",
+    "start": 648.57,
+    "duration": 4.85
+  },
+  {
+    "text": "that claim the use of mitochondrial\nDNA to ascertain the age",
+    "start": 653.45,
+    "duration": 6.07
+  },
+  {
+    "text": "of, let's say, a particular\nNeanderthal for instance.",
+    "start": 659.55,
+    "duration": 4.98
+  },
+  {
+    "text": "He found the observed\nsubstitution rate reported",
+    "start": 664.56,
+    "duration": 3.98
+  },
+  {
+    "text": "were very high compared to rates\ninferred from evolutionary studies.",
+    "start": 668.57,
+    "duration": 5.25
+  },
+  {
+    "text": "So, using so-called mitochondria\nDNA in fact, 20 times higher.",
+    "start": 673.85,
+    "duration": 5.08
+  },
+  {
+    "text": "\"Using our empirical rate to calibrate\nthe mitochondrial DNA molecular clock",
+    "start": 678.96,
+    "duration": 6.42
+  },
+  {
+    "text": "would result in an age of this\nmitochondrial DNA of only 6,500 years,",
+    "start": 685.4,
+    "duration": 7.44
+  },
+  {
+    "text": "clearly incompatible with the age of modern\nhumans (as estimated by evolutionary studies)",
+    "start": 692.87,
+    "duration": 7.96
+  },
+  {
+    "text": "...it remains\nimplausible to explain",
+    "start": 700.83,
+    "duration": 2.7
+  },
+  {
+    "text": "the known geographic distribution of\nmitochondrial DNA sequence variation",
+    "start": 703.56,
+    "duration": 7.33
+  },
+  {
+    "text": "by human migration that occurred\nonly in the last 6,500 years.\"",
+    "start": 710.91,
+    "duration": 6.72
+  },
+  {
+    "text": "In fact, the evolutionary\nmolecular clock,",
+    "start": 717.66,
+    "duration": 3.83
+  },
+  {
+    "text": "as measured by mitochondrial DNA,\nhas a long and troubled history.",
+    "start": 721.51,
+    "duration": 5.39
+  },
+  {
+    "text": "Hampered by a lack of empirically\nmeasured mutation rates,",
+    "start": 726.92,
+    "duration": 4.37
+  },
+  {
+    "text": "the evolutionary molecular clock\nresearchers have historically assumed",
+    "start": 731.32,
+    "duration": 5.34
+  },
+  {
+    "text": "mutation rates by dividing two\nspecies' genetic differences",
+    "start": 736.69,
+    "duration": 5.41
+  },
+  {
+    "text": "by their evolutionary\ntime of divergence,",
+    "start": 742.12,
+    "duration": 3.37
+  },
+  {
+    "text": "e.g. human-chimpanzee\ndivergence.",
+    "start": 745.51,
+    "duration": 3.44
+  },
+  {
+    "text": "Since the latter was inferred from the\nevolutionary age of silence in the fossil record",
+    "start": 748.97,
+    "duration": 6.44
+  },
+  {
+    "text": "which is basically not\nvery well understood,",
+    "start": 755.43,
+    "duration": 3.74
+  },
+  {
+    "text": "the evolutionary molecular clock amounted\nto a circle of evolutionary assumptions",
+    "start": 759.2,
+    "duration": 6.23
+  },
+  {
+    "text": "and never, never an independent\ntest of a species' time of origin.",
+    "start": 765.46,
+    "duration": 6.11
+  },
+  {
+    "text": "The advent of modern\nmolecular genetics",
+    "start": 771.6,
+    "duration": 2.91
+  },
+  {
+    "text": "has resulted in an increasing\nnumber of publications",
+    "start": 774.53,
+    "duration": 3.61
+  },
+  {
+    "text": "in which mutation rates in various species\nand in various genetic compartments",
+    "start": 778.16,
+    "duration": 6.47
+  },
+  {
+    "text": "have been empirically determined",
+    "start": 784.66,
+    "duration": 2.65
+  },
+  {
+    "text": "independent of the evolutionary age of\nsilence in the so-called fossil record.",
+    "start": 787.33,
+    "duration": 6.39
+  },
+  {
+    "text": "Using the mitochondrial\nmutation rates,",
+    "start": 793.75,
+    "duration": 3.27
+  },
+  {
+    "text": "predictions can now be made on how\nmuch mitochondrial DNA diversity",
+    "start": 797.05,
+    "duration": 6.33
+  },
+  {
+    "text": "should result after a specific\nnumber of years have elapsed.",
+    "start": 803.4,
+    "duration": 5.16
+  },
+  {
+    "text": "These studies represent an important\nand significant step forward",
+    "start": 808.56,
+    "duration": 5.24
+  },
+  {
+    "text": "in our understanding of the origin of\nhuman mitochondrial DNA differences.",
+    "start": 813.82,
+    "duration": 5.26
+  },
+  {
+    "text": "Though the mutation rate was measured\nonly in European individuals,",
+    "start": 819.1,
+    "duration": 4.76
+  },
+  {
+    "text": "predictions with this mutation\nrate on the 6,000 year time scale",
+    "start": 823.89,
+    "duration": 5.47
+  },
+  {
+    "text": "captured the mitochondrial\nDNA diversity.",
+    "start": 829.38,
+    "duration": 3.68
+  },
+  {
+    "text": "All non-African people groups\nincluding the major Eurasian groups",
+    "start": 833.09,
+    "duration": 5.89
+  },
+  {
+    "text": "and representatives of the\nnative peoples of the Americas.",
+    "start": 839.0,
+    "duration": 5.57
+  }
+]

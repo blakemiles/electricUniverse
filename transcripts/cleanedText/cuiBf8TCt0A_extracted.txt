@@ -1,0 +1,369 @@
+[Music]
+This is a short talk about yet another
+”here we go again” moment, when I came
+across an article in Scientific American from March
+2018, entitled, The Sun is Spitting Out Strange
+Patterns of Gamma Rays - and No One Knows Why.
+I did not know much about the subject,
+but I silently made a bet with myself
+that 1) The existing theory of gamma
+rays from the Sun would be based upon gravity and
+random motions, 2) The new improved data would
+completely contradict the predictions of that gravity
+model, 3) The article would bring in dark matter
+and a few quotes to the effect of “we are
+completely surprised by what we are
+seeing, maybe there's new physics here,”
+and 4) Of course nothing would be said
+about a possible electrical explanation. This 
+was admittedly a somewhat cynical wager,
+yet I did win the bet on all four accounts.
+I reviewed Don Scott and Hannes
+Alfven models of the Sun's electrical
+connections to its larger environment
+and I had some discussions with Wal
+Thornhill about the gamma-ray data.
+The Sun puts out very few gamma rays. It seems there
+are very few gamma rays in the entire universe,
+at least in comparison to the number
+of photons that we see with our eyes.
+Gamma rays are a type of light which is
+very, very energetic, billions of times
+more energetic than the photons
+of light that power photosynthesis
+and average biological processes. The 
+recent papers from 2018 and 2019
+summarize ten years of gamma ray data
+from the Sun taken by the Fermi
+Telescope. Let's see how well the
+Standard Model prediction stacks up
+against the published data. I made a little chart
+- on the left are the basic questions and then the
+Standard Model and the data. How 
+many gamma rays would we expect to
+see from the Sun? The Standard Model
+predicts a certain number that would be
+observed, the data shows we see anywhere
+from 10 to 100 times more than was
+predicted, based upon the energies.
+Where should we see the gamma rays come
+from? The Standard Model says that
+the rays should come from the Sunspot
+regions. What do we see? Well, the rays
+come from the entire disk, and also from
+around the Sun and also from above the poles of
+the Sun. What distribution of energies would we
+expect? The Standard Model says that the
+spectrum should be smooth, and weighted
+with very few high energy gamma rays. The
+data shows far too many high energy rays,
+and a clear gap in the 40 to 50 giga electron
+volt range. When during the solar cycle would we
+expect to see the gamma rays?
+Standard Model says there should be more
+gamma rays during solar maximum when there's
+more sunspots. The data shows just the opposite.
+And would we see gamma rays from solar flares?
+The Standard Model says no, and the data says yes.
+To quote a few of the authors and reviewers,
+Brian Fields, a particle astrophysicist from
+University of Illinois says, “It's amazing
+that we were so spectacularly wrong
+about something we should understand really well:
+the Sun.” Tim Linden a particle astrophysicist at
+Ohio State who helped analyze the data
+said, ”The forty to fifty giga electron volt
+dip just defies all logic.” And Mehr Un
+Nisa at Michigan State University said,
+”Analysis of nine years of data collected by Fermi-LAT
+from the Sun revealed a very bright steady emission
+of gamma rays at energies above 100 GeV that
+contradicted all theoretical expectations.”
+What is this standard cosmology model
+that is so spectacularly incorrect?
+It is a model built upon isolation and random
+destruction. This model says that our Sun, like every
+star, is energetically isolated from all other stars.
+It says that stars like ours cannot produce
+any gamma rays of their own from their surface,
+and hence any observed gamma rays coming
+from the Sun must be coming from somewhere else.
+In this model, if the Sun cannot make its
+own gamma rays then where can we look?
+The phenomenon to the rescue are cosmic
+rays. Cosmic rays are a bit of a mystery.
+We observe very high energy particles
+impacting the earth from all directions
+and we call these cosmic rays. They are
+known to come from pulsars, like the Crab
+Nebula, but that one clear observational
+fact is usually greatly downplayed
+in favor of the Standard Model
+description of cosmic rays, which says
+that they come from the most cataclysmic
+events imaginable, like dying exploding
+superstars and colliding black holes, and
+colliding and exploding magnetars and colliding,
+exploding galaxies. You get the picture.
+The Standard Model paints a picture
+of our isolated Sun in a sea of debris
+generated from random destruction.
+Occasionally a stray bullet from this mayhem
+will ricochet through a sunspot magnetic
+field and be flung towards the earth. As
+already said, every prediction of this model was
+incorrect. The data is fascinating. The solid circle
+in the middle is the disc of the
+photosphere; the outer dashed circle is
+the outer limit of where they collected the 
+data. Each dot is a gamma ray detected.
+The left two panels are from solar
+maximum when there's many sunspots
+and during which the previous model
+predicted there'd be more gamma rays.
+The right two panels are from solar minimum,
+where there are few sunspots and the
+previous model predicted there will be fewer 
+counts. I am struck by how little data there is.
+Over 10 years and we have only a few hundred data
+points? These solar gamma-ray events are very
+rare. I admit the telescope is very small
+and very far away from the Sun but still,
+compared to the gazillions of visible light
+photons coming off the Sun every second,
+gamma rays are rare events. How 
+might this data make more sense if
+we include electricity in our cosmology?
+If we pull back and look at the
+filaments of the interstellar medium,
+all stars and planets are very, very
+small specks on much larger filaments.
+The distance scales here are difficult
+to comprehend. Do you remember those
+comparisons, if the entire atom were the
+size of a football stadium, then the 
+nucleus would be a golf ball in the center?
+Those are the sort of sizes we need to
+imagine for stars in galactic filaments.
+I will try a metaphor, using cities here
+on Earth to understand the sizes
+involved with the filament model.
+Imagine the galactic filament is the
+high tension power lines connecting entire
+cities on Earth. If we zoom into one city,
+that is the region of the filament where our Sun 
+lives. Zoom in further to a football stadium in
+that city, that is the full body of our solar 
+system and then all the planets and the
+bright disk of the Sun what we usually
+think of as our solar system are all
+contained in that little golf ball 
+in the center of the stadium.
+From this, how then do we get 10 billion
+electron volt gamma-ray bursts?
+Does this mean that the galactic currents
+have this kind of voltage? No, not at all.
+Think about lightning on Earth and about
+the upward shooting sprites and elves.
+The Earth's global electric circuit only
+sustains a few hundred thousand volts
+between the ground and the upper cloud layers.
+Yet, in a strong thunderstorm, we see
+gamma rays corresponding to many millions 
+of volts. How do we explain this apparent
+contradiction? Where did the energy come from,
+since locally there is only a hundred thousand
+volts between the cloud and the ground?
+As Alfven pointed out, in a distributed
+electrical circuit, such as the
+electrical grid for a town,
+the energy from the entire grid can be released
+at one small point during an explosive breakdown.
+The transformer might only have a
+thousand volts across it, yet when it
+explodes, it releases electrons
+with millions of volts. How?
+Because the transformer is just a 
+small piece of a much larger circuit.
+The same explains how sprites and elves
+above storm clouds can send gamma rays
+out into space packed with billions of volts.
+If you read the existing literature
+about elves and sprites, the explanations
+are stuck on exactly this point. They are
+not including that the burst is part of
+the entire electrical circuit of the Earth.
+The same applies to the Sun. The surface
+of the Sun and the corona of the Sun are
+all connected to a much larger circuit that
+includes and reaches beyond our visible Sun.
+Explosive releases in the form of gamma rays
+can happen inside of that photosphere surface.
+They can happen above the surface,
+or even several radii away from the Sun,
+because the electrical body of the Sun
+extends out to the heliopause and is
+connected to a circuit that reaches to
+the neighboring stars. The filament model
+predicts that we should see at least
+some high energy events analogous to the
+strongest lightning on Earth. Studying 
+the Earth gamma rays will teach
+us how to better understand the Sun's electrical
+environment. What about the polar component? The
+authors say that there is a steady
+source of gamma rays coming from the
+polar regions of the Sun. In the Standard
+Model this is unexplainable, because the
+Standard Model says that above the
+poles are weak magnetic fields that are
+relatively straight. Hence, they would 
+be unable to bend cosmic rays.
+But in the electrical model, stars are
+connected through their poles to larger
+filaments that stretch for many light
+years, connecting multiple stars into one
+larger circuit. Charged particles flowing towards
+stars, would have a very long running distance
+along these smooth magnetic field lines and
+be capable of picking up very large energies.
+In the electrical model, we would expect
+to see a relatively constant source of
+high energy emissions coming from the polar
+regions, which is exactly what the data shows.
+The authors further describe an
+equatorial component of the data.
+I do not see that so clearly and I think
+maybe they are holding on to the
+Standard Model which says that there should
+be something special about the Sunspot region.
+It looks to me that the rays are coming from
+a sheath that surrounds the photosphere.
+It looks to me that the gamma rays are
+not at all limited to what we would call
+the surface of the Sun. The data 
+is spread out around the Sun.
+This region around the photosphere is
+where atoms become stripped of their
+outer electrons, which is usually
+interpreted as thermal heat. Contemporary
+astronomers look at the ions around the
+Sun and say that the corona must have an
+enormous heat and temperature of millions of 
+degrees. But this stripping of electrons could
+have an electrical, or even a chemical
+cause and not be related to anything,
+like temperature as we have defined it on our cold,
+wet planet. Remember, you can strip electrons off of
+water with a 5,000 degree oven or with
+a 9 Volt battery at room temperature.
+According to Don Scott's model which
+builds upon the model of Hannes Alfven,
+our star is powered primarily by a DC 
+current that flows into both poles of the Sun.
+This DC current also has a ripple, where the current
+rises and falls slightly over a 22-year cycle.
+This 22-year ripple in current is
+connected to the 22-year solar cycle
+where sunspots come and go and
+the polarity of the Sun's magnetic
+field flips. The 22-year cycle is not necessarily
+coming from the outside, nor coming only
+from the Sun, but is more likely a result
+of the interaction between the Sun and the
+larger filament. We can draw a simple graph of
+the electrical current powering the Sun. The
+blue wavy line represents this current
+feeding the Sun. The current does not go
+positive and negative like an AC current in your 
+house. The current is one-directional but has a
+strengthening and a weakening. In 
+other words an AC ripple on top of a
+predominant DC current. For example, the Sun might
+have a current oscillating between 10 billion and 11
+billion Amps. On the diagram I have circled in red 
+the maximum and minimum of the wave. Here the
+current to the Sun is steady - it does not 
+change much. We are in solar minimum.
+The magnetic field of the Sun is smoother.
+Now there is longer running room for
+particles to be accelerated towards and away from
+the Sun. We would expect higher gamma ray output.
+I have boxed in green the places where
+the current of the Sun is changing
+rapidly. Here we are in solar maximum.
+The magnetic field of the Sun is
+agitated by the quickly changing current.
+Electrons flowing towards the Sun at
+this time are caught up in the smaller circuits
+and cannot so easily reach gamma-ray energies.
+The electrical model agrees with the Fermi
+Telescope data. What about solar flares?
+according to the Standard Model, solar flares
+cannot reach the 100 GeV energies that are seen by
+the Fermi Telescope. Yet, several of the data points
+happened exactly during large solar flares. The
+authors are perplexed by this coincidence.
+I would again point to what we know
+about lightning on Earth. If the earth can
+produce gamma rays in electrical discharges,
+solar flares can easily reach
+hundreds of times those energies.
+What about the number of gamma rays we see?
+The Standard Model is short by a factor
+of about a hundred. Remember, 
+the Standard Model says that
+the gamma rays are only produced when a
+background flux of cosmic rays randomly
+interacts with the surface of the Sun.
+For this model to so clearly get the
+numbers wrong means to me that the gamma rays
+are simply not being produced in this way.
+This again is clearly better described
+by the filament model, where stars are
+fed by concentrated rivers of energy
+and not some random background.
+We will have to build out different
+solar electrical circuit models and see
+which circuits give the observed number of gamma 
+rays. Lastly, we can ask about the dramatic
+absence of gamma rays in the 40 to 50 GeV range.
+I do not have much to say about this one.
+Usually, when we see a missing energy
+range in an emission spectrum, we look
+for some specific process that would
+absorb just that energy. This energy is
+tantalizingly close to the mass of an
+iron atom which we know has a special
+place in nuclear transmutations.
+But I really think that this gap will
+point us to something that no one has
+yet imagined about basic solar physics.
+I can understand if you did not closely
+follow all my explanations. Like me, you
+probably had never before looked at
+gamma ray data from the Sun. So, you are
+still wrestling with the vocabulary
+and how pieces fit together.
+The existing model used by astrophysicists
+predicts everything incorrectly.
+But the journals and the reviewers cannot
+come out and say such a simple fact
+and instead must contort themselves around
+dark matter and possible new physics.
+I think some old physics, called electricity, can 
+help us think through this gamma-ray mystery.
+It seems to me that the electrical filament
+model of stars does a particularly good job
+of explaining why we see a hundred times
+more gamma rays than the random model
+and why there is a steady polar component.
+I also think the filament model
+explains the distribution of gamma rays
+in a sheath surrounding the photosphere.
+There's plenty of quantitative
+work to be flushed out in all this.
+I'd be happy to help someone tackle that.
+Thanks again to Wal and Don for
+helping me think through these ideas.
+[Music]

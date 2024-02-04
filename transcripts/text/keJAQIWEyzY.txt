@@ -1,0 +1,6912 @@
+[
+  {
+    "text": "In 2013 the SAFIRE\nproject was created.",
+    "start": 23.03,
+    "duration": 4.84
+  },
+  {
+    "text": "The objective was to replicate the Sun's\natmosphere in a laboratory on Earth.",
+    "start": 29.87,
+    "duration": 6.97
+  },
+  {
+    "text": "A lab was designed and built",
+    "start": 50.04,
+    "duration": 2.91
+  },
+  {
+    "text": "and at its heart was the\nSAFIRE plasma engine,",
+    "start": 52.97,
+    "duration": 4.19
+  },
+  {
+    "text": "the only one of its\nkind on the planet.",
+    "start": 58.59,
+    "duration": 3.13
+  },
+  {
+    "text": "Okay we can see you and Colin",
+    "start": 66.57,
+    "duration": 2.431
+  },
+  {
+    "text": "and you see me in the background\ntalking to you on the cell.",
+    "start": 69.026,
+    "duration": 3.404
+  },
+  {
+    "text": "Today, four years later the SAFIRE\nteam gives a tour of the lab,",
+    "start": 72.46,
+    "duration": 5.21
+  },
+  {
+    "text": "via the web to a scientific review panel\nscattered all over North America.",
+    "start": 77.69,
+    "duration": 5.83
+  },
+  {
+    "text": "Two things define SAFIRE:",
+    "start": 87.78,
+    "duration": 2.91
+  },
+  {
+    "text": "a unique premise,",
+    "start": 90.72,
+    "duration": 2.24
+  },
+  {
+    "text": "and a remarkably\npowerful methodology.",
+    "start": 92.99,
+    "duration": 3.54
+  },
+  {
+    "text": "The premise driving the project is the idea\nthat electricity plays an essential role",
+    "start": 96.56,
+    "duration": 6.03
+  },
+  {
+    "text": "in the functioning of\nthe Sun's atmosphere.",
+    "start": 102.61,
+    "duration": 2.89
+  },
+  {
+    "text": "The methodology used to build\nand run the SAFIRE lab",
+    "start": 110.51,
+    "duration": 4.11
+  },
+  {
+    "text": "comes from the world of\nengineering and manufacturing.",
+    "start": 114.65,
+    "duration": 4.06
+  },
+  {
+    "text": "It is a statistical procedure that\nallows for incredibly precise control",
+    "start": 118.74,
+    "duration": 6.09
+  },
+  {
+    "text": "over the design and\nmanaging of experiments.",
+    "start": 125.87,
+    "duration": 3.82
+  },
+  {
+    "text": "This combination of\npremise and methodology",
+    "start": 135.22,
+    "duration": 3.5
+  },
+  {
+    "text": "has yielded remarkable,\nif not startling results.",
+    "start": 138.75,
+    "duration": 5.05
+  },
+  {
+    "text": "In August of 2017 the SAFIRE team\npresented its most recent discoveries",
+    "start": 214.71,
+    "duration": 6.21
+  },
+  {
+    "text": "at the Electric Universe conference,\n”Future Science” in Phoenix Arizona",
+    "start": 220.93,
+    "duration": 6.01
+  },
+  {
+    "text": "You were just\nlistening to SAFIRE",
+    "start": 250.51,
+    "duration": 3.396
+  },
+  {
+    "text": "and that's just the beginning.",
+    "start": 254.42,
+    "duration": 2.65
+  },
+  {
+    "text": "So, SAFIRE has proven\nitself to be capable",
+    "start": 257.1,
+    "duration": 2.61
+  },
+  {
+    "text": "to contain, control and stabilize,\nhigh energy dense plasmas.",
+    "start": 259.73,
+    "duration": 5.42
+  },
+  {
+    "text": "And you're going to\nsee that tonight.",
+    "start": 265.17,
+    "duration": 2.396
+  },
+  {
+    "text": "We're seeing chemistry changes;",
+    "start": 267.591,
+    "duration": 2.059
+  },
+  {
+    "text": "we are slowing the\nspeed of light down;",
+    "start": 269.68,
+    "duration": 2.48
+  },
+  {
+    "text": "we're seeing variations in electron density,\ncomparable to the photosphere-heliosphere;",
+    "start": 272.18,
+    "duration": 5.03
+  },
+  {
+    "text": "and nuclear bombs.",
+    "start": 277.23,
+    "duration": 2.13
+  },
+  {
+    "text": "Electrical confinement\nof high-energy photons.",
+    "start": 279.98,
+    "duration": 4.09
+  },
+  {
+    "text": "These are just some\nof the things,",
+    "start": 284.1,
+    "duration": 2.16
+  },
+  {
+    "text": "and all of these things here, are due\nto charged plasma affecting matter",
+    "start": 286.28,
+    "duration": 4.63
+  },
+  {
+    "text": "of a different\nelectrical potential.",
+    "start": 290.94,
+    "duration": 2.71
+  },
+  {
+    "text": "So, this time I want to\ntake the opportunity,",
+    "start": 293.67,
+    "duration": 2.96
+  },
+  {
+    "text": "which is usually saved until the end of\nthe presentation, because time is short,",
+    "start": 296.66,
+    "duration": 3.96
+  },
+  {
+    "text": "to thank the other\nvery key members",
+    "start": 300.64,
+    "duration": 1.92
+  },
+  {
+    "text": "who are contributing so much\nthe success of this endeavor.",
+    "start": 302.585,
+    "duration": 3.195
+  },
+  {
+    "text": "So, first of all I like to thank\nScott and Bruce Mainwaring",
+    "start": 305.81,
+    "duration": 3.22
+  },
+  {
+    "text": "for their ongoing and unwavering\nfinancial and moral support.",
+    "start": 309.05,
+    "duration": 4.03
+  },
+  {
+    "text": "Dr. James Ryder for your insight, for an ear\nto hear, and with help herding the cats;",
+    "start": 313.11,
+    "duration": 6.95
+  },
+  {
+    "text": "and Dr. Lowell Morgan for\nyour amazing knowledge",
+    "start": 320.08,
+    "duration": 2.7
+  },
+  {
+    "text": "and insight into the\ncomplexities of plasma physics.",
+    "start": 322.81,
+    "duration": 3.3
+  },
+  {
+    "text": "Wal Thornhill for your work in the\nElectric Universe model in cosmology,",
+    "start": 326.13,
+    "duration": 4.37
+  },
+  {
+    "text": "and Dr. Donald Scott for your work in developing\na more mature model of the electric Sun.",
+    "start": 330.53,
+    "duration": 6.54
+  },
+  {
+    "text": "Jan Onderco for your hard\nwork in data acquisition.",
+    "start": 337.1,
+    "duration": 2.803
+  },
+  {
+    "text": "Leighton McMillan\nfor your hard work",
+    "start": 339.928,
+    "duration": 2.232
+  },
+  {
+    "text": "and the assistance in building\nSAFIRE in such a short time.",
+    "start": 342.19,
+    "duration": 3.12
+  },
+  {
+    "text": "Jason Lickver for your work in\nmechanical engineering and telemetry.",
+    "start": 345.33,
+    "duration": 3.97
+  },
+  {
+    "text": "I'd like to thank\nyou Susan Schirott",
+    "start": 349.32,
+    "duration": 2.52
+  },
+  {
+    "text": "for your untiring help in administration,\nfinance and legal matters,",
+    "start": 351.87,
+    "duration": 3.98
+  },
+  {
+    "text": "helping to make this project\ngo so much smoother.",
+    "start": 355.88,
+    "duration": 3.23
+  },
+  {
+    "text": "Tracey Childs for your\nongoing financial work",
+    "start": 359.13,
+    "duration": 3.02
+  },
+  {
+    "text": "and for always being an\nawesome woman in my life.",
+    "start": 362.18,
+    "duration": 3.42
+  },
+  {
+    "text": "Ben Ged Low for your work on the team\nand pulling this presentation together.",
+    "start": 366.18,
+    "duration": 4.3
+  },
+  {
+    "text": "And none of this would have started\nwithout you David Talbott,",
+    "start": 371.41,
+    "duration": 4.77
+  },
+  {
+    "text": "making that providential call to\npersuade me to take on this project.",
+    "start": 376.21,
+    "duration": 4.73
+  },
+  {
+    "text": "So now I would like to\nintroduce part of our team",
+    "start": 380.97,
+    "duration": 2.577
+  },
+  {
+    "text": "who are joining me tonight to assist\nin presenting our discoveries.",
+    "start": 383.572,
+    "duration": 3.562
+  },
+  {
+    "text": "Please welcome Dr. Michael\nClarage and Dr. Paul Anderson",
+    "start": 387.159,
+    "duration": 4.043
+  },
+  {
+    "text": "Research objectives:",
+    "start": 397.166,
+    "duration": 3.238
+  },
+  {
+    "text": "there's a lot of detail to it but\nfundamentally SAFIRE stands for:",
+    "start": 401.754,
+    "duration": 3.916
+  },
+  {
+    "text": "Stellar Atmospheric\nFunction In Regulation;",
+    "start": 405.695,
+    "duration": 2.36
+  },
+  {
+    "text": "the objective sounds\nway out, there",
+    "start": 408.08,
+    "duration": 2.729
+  },
+  {
+    "text": "but basically the contract says",
+    "start": 410.834,
+    "duration": 1.891
+  },
+  {
+    "text": "we’re to do everything we can\nto recreate a “Star in a Jar”",
+    "start": 412.75,
+    "duration": 3.484
+  },
+  {
+    "text": "and test the Electric Universe\nand test the electric Sun model.",
+    "start": 416.259,
+    "duration": 3.698
+  },
+  {
+    "text": "So, the technology we're going to use\nin SAFIRE or have been using in SAFIRE:",
+    "start": 420.669,
+    "duration": 4.364
+  },
+  {
+    "text": "We have Floating Potential,\nPlasma Potential, Plasma Density,",
+    "start": 425.058,
+    "duration": 4.136
+  },
+  {
+    "text": "Ion Current Density, Electron\nEnergy Distribution,",
+    "start": 429.219,
+    "duration": 2.375
+  },
+  {
+    "text": "Electron Temperature,\nMass Spectroscopy,",
+    "start": 431.619,
+    "duration": 2.13
+  },
+  {
+    "text": "Optical Spectroscopy,\nThermal Measurements,",
+    "start": 433.774,
+    "duration": 2.354
+  },
+  {
+    "text": "Infrared Thermography, Radio\nFrequency Measurements,",
+    "start": 436.153,
+    "duration": 2.857
+  },
+  {
+    "text": "Electromagnetic Measurements,\nScanning Electron Microscopy,",
+    "start": 439.035,
+    "duration": 2.819
+  },
+  {
+    "text": "Optical Microscopy,\nVoltage across the Plasma,",
+    "start": 441.879,
+    "duration": 2.73
+  },
+  {
+    "text": "Current across the Plasma,\nVoltage feeding the Plasma",
+    "start": 444.634,
+    "duration": 2.821
+  },
+  {
+    "text": "Current feeding the Plasma, and Video\nCapture of the Plasma Phenomena.",
+    "start": 447.48,
+    "duration": 4.347
+  },
+  {
+    "text": "And we're going to discuss each one\nof these with you in detail tonight;",
+    "start": 451.852,
+    "duration": 7.921
+  },
+  {
+    "text": "just kidding.",
+    "start": 464.748,
+    "duration": 1.444
+  },
+  {
+    "text": "What we will show you however,\nis how we use this technology",
+    "start": 466.77,
+    "duration": 4.685
+  },
+  {
+    "text": "to reveal some of the most startling\ndiscoveries we made this year instead.",
+    "start": 471.48,
+    "duration": 4.842
+  },
+  {
+    "text": "Now, Michael you're up.",
+    "start": 477.24,
+    "duration": 2.253
+  },
+  {
+    "text": "- I'm up;\n- Let's get started.",
+    "start": 479.518,
+    "duration": 2.238
+  },
+  {
+    "text": "Optical spectroscopy.\nSo, Jim Ryder said",
+    "start": 482.248,
+    "duration": 3.549
+  },
+  {
+    "text": "everything we know is from light",
+    "start": 485.822,
+    "duration": 2.391
+  },
+  {
+    "text": "I'll think about that",
+    "start": 488.238,
+    "duration": 1.37
+  },
+  {
+    "text": "but almost everything we know about\nthe Sun is definitely from light.",
+    "start": 489.633,
+    "duration": 4.447
+  },
+  {
+    "text": "And optical spectroscopy is a\nreally good friend, as a scientist.",
+    "start": 494.105,
+    "duration": 5.785
+  },
+  {
+    "text": "Every element emits very\ncharacteristic frequencies;",
+    "start": 499.89,
+    "duration": 6.352
+  },
+  {
+    "text": "a lot, you could imagine, like every\nspecies of bird has its own song,",
+    "start": 506.267,
+    "duration": 5.744
+  },
+  {
+    "text": "and you would never confuse a\nchickadee with a seagull, right?",
+    "start": 512.036,
+    "duration": 3.873
+  },
+  {
+    "text": "So, if you study these\nelements spectrographically,",
+    "start": 515.934,
+    "duration": 4.393
+  },
+  {
+    "text": "each one is quite unique,",
+    "start": 520.352,
+    "duration": 2.075
+  },
+  {
+    "text": "and we can learn a lot about\nwhat's going on for those atoms,",
+    "start": 523.349,
+    "duration": 5.546
+  },
+  {
+    "text": "by things like the relative\nheights of those spectral lines;",
+    "start": 528.92,
+    "duration": 4.76
+  },
+  {
+    "text": "the widths of those spectral lines;\nthe shape of those spectral lines.",
+    "start": 533.705,
+    "duration": 4.393
+  },
+  {
+    "text": "Here's three different discharge\nregimes in our plasma.",
+    "start": 539.36,
+    "duration": 4.045
+  },
+  {
+    "text": "On the left, you can see there's\nthe center anode, very bright",
+    "start": 543.43,
+    "duration": 3.41
+  },
+  {
+    "text": "and then around\nit is halo, okay.",
+    "start": 546.865,
+    "duration": 4.07
+  },
+  {
+    "text": "Those are double layers\nin a halo around that.",
+    "start": 550.96,
+    "duration": 2.403
+  },
+  {
+    "text": "In the middle panel you can see that\nthe double layer is gone, right?",
+    "start": 553.388,
+    "duration": 4.698
+  },
+  {
+    "text": "Just the center anode is there\nand on the right-hand panel",
+    "start": 558.111,
+    "duration": 3.166
+  },
+  {
+    "text": "we basically just cranked\nall the dials up to 11",
+    "start": 561.302,
+    "duration": 3.673
+  },
+  {
+    "text": "and that got a super\nhigh-powered discharge.",
+    "start": 565.0,
+    "duration": 3.591
+  },
+  {
+    "text": "You can see there, that's our\nspectrographic probe tip",
+    "start": 569.773,
+    "duration": 5.182
+  },
+  {
+    "text": "it's a fiber optic that we can move\naround anywhere we want in the chamber,",
+    "start": 574.98,
+    "duration": 3.98
+  },
+  {
+    "text": "to study what's going on.",
+    "start": 578.985,
+    "duration": 1.483
+  },
+  {
+    "text": "And so right there, that fiber-optic tip\nis looking right into the double layer.",
+    "start": 580.493,
+    "duration": 6.006
+  },
+  {
+    "text": "Okay it's not looking at the anode,\nit's looking at the double layer.",
+    "start": 586.524,
+    "duration": 3.742
+  },
+  {
+    "text": "The next one the\ndouble layer is gone",
+    "start": 590.291,
+    "duration": 3.216
+  },
+  {
+    "text": "so the probe tip is just looking\nat the general plasma discharge.",
+    "start": 593.532,
+    "duration": 4.501
+  },
+  {
+    "text": "And then the last one\nwe moved the probe,",
+    "start": 598.058,
+    "duration": 2.386
+  },
+  {
+    "text": "but it's looking at this super\nhigh power discharge.",
+    "start": 600.469,
+    "duration": 4.147
+  },
+  {
+    "text": "So, we'll just look at\none spectrographic line.",
+    "start": 607.27,
+    "duration": 3.232
+  },
+  {
+    "text": "This is like one note.",
+    "start": 610.527,
+    "duration": 1.348
+  },
+  {
+    "text": "One note being emitted\nby the hydrogen, okay.",
+    "start": 611.9,
+    "duration": 2.968
+  },
+  {
+    "text": "It's the 656 nanometer line,",
+    "start": 614.893,
+    "duration": 3.776
+  },
+  {
+    "text": "one of the most famous spectrographic\nlines in the universe.",
+    "start": 618.694,
+    "duration": 3.425
+  },
+  {
+    "text": "And we can measure\nthe width of that,",
+    "start": 622.144,
+    "duration": 2.351
+  },
+  {
+    "text": "and inside the double layer we see\nthe width is 0.12 nanometers, okay?",
+    "start": 624.52,
+    "duration": 6.178
+  },
+  {
+    "text": "That's pretty tiny; these are\npretty good instruments we have.",
+    "start": 630.723,
+    "duration": 3.4
+  },
+  {
+    "text": "We boosted the resolution spectrographically\nby about a factor of 4 or 5, just recently.",
+    "start": 634.639,
+    "duration": 5.543
+  },
+  {
+    "text": "So we're getting...\nit's good right?",
+    "start": 640.207,
+    "duration": 2.148
+  },
+  {
+    "text": "That's pretty good resolution.",
+    "start": 642.38,
+    "duration": 1.689
+  },
+  {
+    "text": "Then the double layer goes away.",
+    "start": 644.094,
+    "duration": 1.948
+  },
+  {
+    "text": "The width of that line, same\nline, hydrogen emission,",
+    "start": 646.067,
+    "duration": 4.116
+  },
+  {
+    "text": "the width goes down\nto 0.07 nanometers",
+    "start": 650.208,
+    "duration": 3.236
+  },
+  {
+    "text": "and then for the third one, the super-high\npower one, it jumps back up to 0.09.",
+    "start": 653.469,
+    "duration": 5.976
+  },
+  {
+    "text": "This made us super excited to be\nable to see this and measure this.",
+    "start": 659.47,
+    "duration": 4.213
+  },
+  {
+    "text": "Because one of the reasons these\nlines can change their shape like this,",
+    "start": 663.708,
+    "duration": 5.806
+  },
+  {
+    "text": "and get broader and more narrow,\nis the number of free electrons",
+    "start": 669.539,
+    "duration": 5.203
+  },
+  {
+    "text": "running around in the plasma",
+    "start": 674.767,
+    "duration": 2.535
+  },
+  {
+    "text": "and if there's a lot of free\nelectrons running around the plasma,",
+    "start": 677.327,
+    "duration": 3.844
+  },
+  {
+    "text": "you can kind of picture that they're\ncrashing into hydrogen atoms,",
+    "start": 681.196,
+    "duration": 3.375
+  },
+  {
+    "text": "and causing extra wobbles on top\nof the note that's being emitted,",
+    "start": 684.596,
+    "duration": 4.088
+  },
+  {
+    "text": "that tends to broaden\nthe line more, okay.",
+    "start": 688.709,
+    "duration": 3.208
+  },
+  {
+    "text": "That may seem like a small change, you\nknow, 0.05 nanometers from 0.12 to 0.07,",
+    "start": 692.324,
+    "duration": 6.912
+  },
+  {
+    "text": "but that represents like 50 to 100 times\nchange in the free electron density.",
+    "start": 699.261,
+    "duration": 7.895
+  },
+  {
+    "text": "So double layers have\nwithin them about 100 times",
+    "start": 707.181,
+    "duration": 4.226
+  },
+  {
+    "text": "more free electrons running\naround than not, okay.",
+    "start": 711.432,
+    "duration": 4.109
+  },
+  {
+    "text": "This is super exciting\nthat we can measure this.",
+    "start": 715.566,
+    "duration": 2.664
+  },
+  {
+    "text": "If you just stick in a probe into one\nplace, and you get one measurement,",
+    "start": 718.255,
+    "duration": 4.051
+  },
+  {
+    "text": "you're not necessarily so sure you can\nguarantee what you're looking at.",
+    "start": 722.331,
+    "duration": 3.801
+  },
+  {
+    "text": "But if you can measure\nchanges like this,",
+    "start": 726.157,
+    "duration": 2.758
+  },
+  {
+    "text": "then you have much more\nconfidence as a scientist,",
+    "start": 728.94,
+    "duration": 2.728
+  },
+  {
+    "text": "that you're actually observing\nsomething that you can talk about.",
+    "start": 731.693,
+    "duration": 2.602
+  },
+  {
+    "text": "And where do we see\ncomparable changes, you know,",
+    "start": 734.32,
+    "duration": 5.26
+  },
+  {
+    "text": "in free electron density?",
+    "start": 739.605,
+    "duration": 2.162
+  },
+  {
+    "text": "Well, we see those changes going from\nthe photosphere to the chromosphere,",
+    "start": 741.792,
+    "duration": 3.681
+  },
+  {
+    "text": "from the chromosphere to the corona\nout at the end of the heliopause.",
+    "start": 745.498,
+    "duration": 3.824
+  },
+  {
+    "text": "So, we're actually getting\ninto the realm where we have",
+    "start": 749.347,
+    "duration": 4.261
+  },
+  {
+    "text": "changing conditions in our chamber,\nand the ability to measure them,",
+    "start": 753.633,
+    "duration": 3.695
+  },
+  {
+    "text": "that are also going\non in our star.",
+    "start": 757.353,
+    "duration": 2.58
+  },
+  {
+    "text": "That summarizes that.",
+    "start": 769.505,
+    "duration": 1.643
+  },
+  {
+    "text": "Yeah, it’s too early to stop.",
+    "start": 771.173,
+    "duration": 1.61
+  },
+  {
+    "text": "Do you think it's too early?\nI think it's too early to stop.",
+    "start": 772.808,
+    "duration": 1.716
+  },
+  {
+    "text": "I think they're just\nabsorbing right now.",
+    "start": 774.549,
+    "duration": 2.143
+  },
+  {
+    "text": "So we'll just take a\nbreath and keep going?",
+    "start": 776.717,
+    "duration": 2.057
+  },
+  {
+    "text": "Sure you can take a\nbreath, I'll keep going.",
+    "start": 778.799,
+    "duration": 1.555
+  },
+  {
+    "text": "Okay.",
+    "start": 780.379,
+    "duration": 1.0
+  },
+  {
+    "text": "It’s not always this\nmuch fun in the lab.",
+    "start": 785.029,
+    "duration": 2.205
+  },
+  {
+    "text": "Some more yelling and screaming\ngoing on, things like this.",
+    "start": 787.259,
+    "duration": 3.89
+  },
+  {
+    "text": "So, the next section is where we get\ninto the fun part: statistics, okay.",
+    "start": 791.174,
+    "duration": 5.396
+  },
+  {
+    "text": "But it's really,\nreally important,",
+    "start": 796.595,
+    "duration": 1.657
+  },
+  {
+    "text": "because Design Of Experiments\n(DOE), actually is the mainstay.",
+    "start": 798.277,
+    "duration": 2.736
+  },
+  {
+    "text": "It's the foundation of the\nwork that we're doing,",
+    "start": 801.038,
+    "duration": 1.816
+  },
+  {
+    "text": "because in science today there's a\nlot of stuff that's in question,",
+    "start": 802.879,
+    "duration": 3.05
+  },
+  {
+    "text": "and we're not going to be subject\nto those kinds of questions.",
+    "start": 805.954,
+    "duration": 2.804
+  },
+  {
+    "text": "So we impose what's called\nDesign of Experiments",
+    "start": 808.783,
+    "duration": 3.027
+  },
+  {
+    "text": "and Dr. Paul Anderson is going to take you\nthrough what we've been doing with SAFIRE",
+    "start": 811.835,
+    "duration": 4.723
+  },
+  {
+    "text": "and I think you're going to be amazed\nabout some of the findings with them,",
+    "start": 816.583,
+    "duration": 4.0
+  },
+  {
+    "text": "all right. Thank You, Monty.",
+    "start": 820.608,
+    "duration": 2.041
+  },
+  {
+    "text": "So just as Monty said,",
+    "start": 824.061,
+    "duration": 2.046
+  },
+  {
+    "text": "we want to investigate some basic plasma\nphysics that is occurring in our chamber.",
+    "start": 826.132,
+    "duration": 5.991
+  },
+  {
+    "text": "The first thing we did,\nwas in looking at our chamber,",
+    "start": 832.647,
+    "duration": 3.65
+  },
+  {
+    "text": "was that we wanted to\ntame the plasma, okay.",
+    "start": 836.322,
+    "duration": 2.939
+  },
+  {
+    "text": "And I'm going to show you first a video\nhere, of the plasma as we know it now.",
+    "start": 839.286,
+    "duration": 5.868
+  },
+  {
+    "text": "We can move the cathodes as you can\nsee, we can stabilize double layers,",
+    "start": 845.179,
+    "duration": 4.052
+  },
+  {
+    "text": "we can change the double layers\nas a function of distance.",
+    "start": 849.256,
+    "duration": 2.61
+  },
+  {
+    "text": "At the same time we can also change gas\nconcentration and type of gas in there.",
+    "start": 851.891,
+    "duration": 4.578
+  },
+  {
+    "text": "It wasn't always that pretty;",
+    "start": 856.494,
+    "duration": 2.547
+  },
+  {
+    "text": "some of our initial plasmas were\npretty dirty, very unstable.",
+    "start": 859.066,
+    "duration": 4.566
+  },
+  {
+    "text": "If you look at a lot of old plasma literature\nbefore they even named it a plasma,",
+    "start": 864.22,
+    "duration": 4.34
+  },
+  {
+    "text": "they commented on how difficult it was to\ncontain this energy, and understand it.",
+    "start": 868.585,
+    "duration": 5.588
+  },
+  {
+    "text": "So, these are some of\nour initial discharges.",
+    "start": 875.129,
+    "duration": 2.309
+  },
+  {
+    "text": "Lots of impurities on some of the\nmaterials that we use for the anode;",
+    "start": 877.463,
+    "duration": 4.452
+  },
+  {
+    "text": "striking different discharges;",
+    "start": 881.94,
+    "duration": 2.902
+  },
+  {
+    "text": "a lot of instabilities\nin the plasma.",
+    "start": 884.867,
+    "duration": 2.078
+  },
+  {
+    "text": "And what we wanted, we eventually\nwanted it to look like this. Right?",
+    "start": 886.97,
+    "duration": 3.748
+  },
+  {
+    "text": "This is a very simple plasma,",
+    "start": 890.743,
+    "duration": 2.305
+  },
+  {
+    "text": "which entails a simple anode on\nthe left, and a cathode on right,",
+    "start": 893.073,
+    "duration": 5.843
+  },
+  {
+    "text": "and this is\nbasically a 1D plasma",
+    "start": 898.941,
+    "duration": 2.649
+  },
+  {
+    "text": "where you're striking a discharge\nbetween these two electrodes.",
+    "start": 901.6,
+    "duration": 3.07
+  },
+  {
+    "text": "You can adjust the gas pressure,\nthe gas type in this,",
+    "start": 904.695,
+    "duration": 2.702
+  },
+  {
+    "text": "as well as the\nvoltage in this system.",
+    "start": 907.422,
+    "duration": 2.264
+  },
+  {
+    "text": "Fairly straightforward.",
+    "start": 909.711,
+    "duration": 1.742
+  },
+  {
+    "text": "This is a top view of SAFIRE;",
+    "start": 912.08,
+    "duration": 2.238
+  },
+  {
+    "text": "it's not as straightforward\nas the plasma tube.",
+    "start": 914.343,
+    "duration": 2.458
+  },
+  {
+    "text": "This is looking down on SAFIRE\nfrom Monty's model here,",
+    "start": 916.826,
+    "duration": 3.842
+  },
+  {
+    "text": "and as Monty listed previously,\nall the instruments that we have,",
+    "start": 921.176,
+    "duration": 4.349
+  },
+  {
+    "text": "we have them there\nfor a reason,",
+    "start": 925.55,
+    "duration": 1.577
+  },
+  {
+    "text": "and every single run we use all the\ncontrol instrumentation for the chamber",
+    "start": 927.152,
+    "duration": 5.444
+  },
+  {
+    "text": "as well as driving all the\ndetection that Monty mentioned.",
+    "start": 932.621,
+    "duration": 4.331
+  },
+  {
+    "text": "So there's a number\nof detectors on here",
+    "start": 936.977,
+    "duration": 2.166
+  },
+  {
+    "text": "as well as the fundamental\ncontrol of the chamber.",
+    "start": 939.168,
+    "duration": 2.8
+  },
+  {
+    "text": "So, through a lot of data\nacquisition and controlling,",
+    "start": 941.993,
+    "duration": 3.443
+  },
+  {
+    "text": "we're able to now control that plasma\nchamber and carry out experiments.",
+    "start": 945.461,
+    "duration": 4.592
+  },
+  {
+    "text": "So, one of the first things we had\nto confront is how to drive it",
+    "start": 951.101,
+    "duration": 4.237
+  },
+  {
+    "text": "and understanding the gas input like this\nis just one aspect of the gas input here.",
+    "start": 955.363,
+    "duration": 4.392
+  },
+  {
+    "text": "This is the gas and\nvacuum control system.",
+    "start": 959.78,
+    "duration": 2.261
+  },
+  {
+    "text": "We also had to\nunderstand our SOPs,",
+    "start": 962.066,
+    "duration": 2.088
+  },
+  {
+    "text": "to implement safety procedures\nwhen you're working with",
+    "start": 964.179,
+    "duration": 2.325
+  },
+  {
+    "text": "2,000 liters of hydrogen at\nhigh temperature, right?",
+    "start": 966.529,
+    "duration": 3.475
+  },
+  {
+    "text": "So, we had a number\nof things to control,",
+    "start": 970.029,
+    "duration": 2.459
+  },
+  {
+    "text": "in addition to wanting\nto control the plasma.",
+    "start": 972.513,
+    "duration": 2.622
+  },
+  {
+    "text": "So, we looked in a literature and we\ntalked about it and we said okay,",
+    "start": 975.16,
+    "duration": 3.385
+  },
+  {
+    "text": "well learning to drive this, let's\nconcentrate on plasma experiments",
+    "start": 978.57,
+    "duration": 4.134
+  },
+  {
+    "text": "that are well documented and that's\nwhy we came up with Paschen’s law.",
+    "start": 982.729,
+    "duration": 3.672
+  },
+  {
+    "text": "We decided to choose\nPaschen’s law to understand",
+    "start": 986.426,
+    "duration": 2.506
+  },
+  {
+    "text": "the plasma ignition in\nthe SAFIRE apparatus.",
+    "start": 988.957,
+    "duration": 3.935
+  },
+  {
+    "text": "So, Paschen’s law describes a point of current\nflow at a particular electric potential",
+    "start": 992.917,
+    "duration": 4.466
+  },
+  {
+    "text": "through an ionizable gas, or gas\nbetween two electrodes, okay.",
+    "start": 997.408,
+    "duration": 4.794
+  },
+  {
+    "text": "So, fundamentally we have two\nelectrodes, positive and negative;",
+    "start": 1003.75,
+    "duration": 4.674
+  },
+  {
+    "text": "you have a gas, you have a\ncertain pressure of that gas,",
+    "start": 1008.449,
+    "duration": 3.179
+  },
+  {
+    "text": "usually conducted under vacuum,",
+    "start": 1011.653,
+    "duration": 2.04
+  },
+  {
+    "text": "and you have a distance between those\nelectrodes and you strike a voltage",
+    "start": 1013.718,
+    "duration": 4.617
+  },
+  {
+    "text": "and there's no current flow initially,\nuntil you get to a certain point",
+    "start": 1018.36,
+    "duration": 3.527
+  },
+  {
+    "text": "where that voltage can overcome\nionized gas and conduct a current.",
+    "start": 1021.912,
+    "duration": 3.652
+  },
+  {
+    "text": "Now, when that occurs,\n(there) is a certain voltage.",
+    "start": 1025.589,
+    "duration": 3.431
+  },
+  {
+    "text": "Okay, so we decided\nto do that in SAFIRE.",
+    "start": 1029.02,
+    "duration": 3.63
+  },
+  {
+    "text": "So, this is a classic\nPaschen curve in hydrogen.",
+    "start": 1032.675,
+    "duration": 3.909
+  },
+  {
+    "text": "The other gases also have other\ncurves that are very similar.",
+    "start": 1036.609,
+    "duration": 3.163
+  },
+  {
+    "text": "They exhibit the same minimum;",
+    "start": 1039.797,
+    "duration": 2.205
+  },
+  {
+    "text": "so if you notice here in the\ngraph, or X-axis here,",
+    "start": 1042.027,
+    "duration": 6.051
+  },
+  {
+    "text": "being a term of PD,\npressure and distance.",
+    "start": 1048.103,
+    "duration": 5.281
+  },
+  {
+    "text": "Notice it's in a\nlogarithmic scale.",
+    "start": 1053.409,
+    "duration": 3.213
+  },
+  {
+    "text": "So, it's a reduced variable, you have\nboth pressure and distance in one axis.",
+    "start": 1056.647,
+    "duration": 6.856
+  },
+  {
+    "text": "In our Y-axis, we have our voltage\nthat we strike to obtain a discharge.",
+    "start": 1063.528,
+    "duration": 5.545
+  },
+  {
+    "text": "So, if you go ahead and do a bunch of plots at\ndifferent pressures at different distances,",
+    "start": 1069.098,
+    "duration": 4.024
+  },
+  {
+    "text": "you'll end up falling on a curve\nlike this for your electrodes.",
+    "start": 1073.147,
+    "duration": 3.799
+  },
+  {
+    "text": "So, what we did in SAFIRE we went\nahead and did a SAFIRE apparatus",
+    "start": 1078.009,
+    "duration": 4.396
+  },
+  {
+    "text": "with a spherical anode and our two cathodes\nat various distances, equidistant.",
+    "start": 1082.43,
+    "duration": 5.105
+  },
+  {
+    "text": "As much as we wanted to vary both\nof them, we kept them constant.",
+    "start": 1087.56,
+    "duration": 3.68
+  },
+  {
+    "text": "And we discovered already SAFIRE\nis acting very differently",
+    "start": 1091.265,
+    "duration": 3.733
+  },
+  {
+    "text": "than a typical plasma\ndischarge apparatus.",
+    "start": 1095.023,
+    "duration": 2.808
+  },
+  {
+    "text": "We had to use a modified version of\nPaschen's curve which you see there,",
+    "start": 1097.856,
+    "duration": 3.789
+  },
+  {
+    "text": "of the law, and we also found that the gamma\nterm which is in that lower denominator,",
+    "start": 1101.67,
+    "duration": 6.37
+  },
+  {
+    "text": "in the denominator, that did\nadjust with different distances,",
+    "start": 1108.04,
+    "duration": 3.787
+  },
+  {
+    "text": "and so that's something\nnew that we're exploring,",
+    "start": 1111.852,
+    "duration": 2.1
+  },
+  {
+    "text": "and we hope to get a\npublication out of this.",
+    "start": 1113.977,
+    "duration": 2.584
+  },
+  {
+    "text": "So you'll notice that\nalready we have a departure",
+    "start": 1117.174,
+    "duration": 3.207
+  },
+  {
+    "text": "from regular plasma physics in a\nregular anode-cathode discharge;",
+    "start": 1120.406,
+    "duration": 5.377
+  },
+  {
+    "text": "say a discharge tube.",
+    "start": 1125.808,
+    "duration": 1.275
+  },
+  {
+    "text": "Another reason why we did this\nis, okay we ignited the plasma,",
+    "start": 1127.108,
+    "duration": 3.872
+  },
+  {
+    "text": "but what is the\nmorphology of the plasma,",
+    "start": 1131.005,
+    "duration": 2.269
+  },
+  {
+    "text": "what does it look like at\nthese various settings?",
+    "start": 1133.299,
+    "duration": 3.752
+  },
+  {
+    "text": "So it's kind of an experiment with\nkilling two birds with one stone,",
+    "start": 1137.076,
+    "duration": 3.746
+  },
+  {
+    "text": "in that we determine the\nignition characteristics,",
+    "start": 1140.847,
+    "duration": 2.347
+  },
+  {
+    "text": "which we needed to\ncontrol the plasma,",
+    "start": 1143.219,
+    "duration": 2.109
+  },
+  {
+    "text": "and we also explored the\nmorphology of the plasma.",
+    "start": 1145.353,
+    "duration": 4.265
+  },
+  {
+    "text": "So, that was a very powerful\nthing: we were able to pursue",
+    "start": 1149.643,
+    "duration": 3.934
+  },
+  {
+    "text": "some various regimes and then\nestablish our Design Of Experiments.",
+    "start": 1153.602,
+    "duration": 5.088
+  },
+  {
+    "text": "So, we discovered that\nthe configuration",
+    "start": 1159.286,
+    "duration": 2.92
+  },
+  {
+    "text": "is a significant departure\nfrom typical plasma apparatus,",
+    "start": 1162.231,
+    "duration": 2.612
+  },
+  {
+    "text": "that you may have from its\ntypical anode and cathode.",
+    "start": 1164.868,
+    "duration": 3.506
+  },
+  {
+    "text": "So then we went into the\nDesign Of Experiments.",
+    "start": 1168.399,
+    "duration": 2.608
+  },
+  {
+    "text": "We decided on where we're going to look,\nwhat kind of plasma regimes we want,",
+    "start": 1171.032,
+    "duration": 3.78
+  },
+  {
+    "text": "because ultimately we want to dial\nin stability for experiments.",
+    "start": 1174.837,
+    "duration": 3.372
+  },
+  {
+    "text": "There's no use in doing\nexperiments for double layers",
+    "start": 1178.234,
+    "duration": 2.206
+  },
+  {
+    "text": "if they appear for one\nmicrosecond and then go away.",
+    "start": 1180.465,
+    "duration": 2.439
+  },
+  {
+    "text": "We wanted them nice and stable.",
+    "start": 1182.929,
+    "duration": 2.265
+  },
+  {
+    "text": "Now to obtain stability\nin any system,",
+    "start": 1185.219,
+    "duration": 2.826
+  },
+  {
+    "text": "whether it's in SAFIRE or whether\nit's in your kitchen, baking bread",
+    "start": 1188.07,
+    "duration": 3.555
+  },
+  {
+    "text": "we, need reproducible results.",
+    "start": 1191.65,
+    "duration": 1.592
+  },
+  {
+    "text": "But that only comes from\nunderstanding your factors;",
+    "start": 1193.267,
+    "duration": 2.361
+  },
+  {
+    "text": "factor is another\nword for variable.",
+    "start": 1195.653,
+    "duration": 2.287
+  },
+  {
+    "text": "So, to understand those factors and\nvariables, you need more experiments, right?",
+    "start": 1197.965,
+    "duration": 4.415
+  },
+  {
+    "text": "Traditionally this is called\nthe Edisonian approach:",
+    "start": 1202.39,
+    "duration": 2.632
+  },
+  {
+    "text": "you have more factors, you do more\nexperiments, you get more data.",
+    "start": 1205.047,
+    "duration": 3.514
+  },
+  {
+    "text": "The problem with that is, that just\nbecause you do more experiments,",
+    "start": 1208.586,
+    "duration": 3.074
+  },
+  {
+    "text": "you might not be\nincreasing the resolution.",
+    "start": 1211.67,
+    "duration": 2.42
+  },
+  {
+    "text": "In other words, the\nsignal-to-noise.",
+    "start": 1214.09,
+    "duration": 1.906
+  },
+  {
+    "text": "The signal-to-noise that\nyou're looking for;",
+    "start": 1216.021,
+    "duration": 1.699
+  },
+  {
+    "text": "you need to increase that\nsignal from the noise,",
+    "start": 1217.73,
+    "duration": 1.919
+  },
+  {
+    "text": "so you get reproducible results,\nand you know you're stable.",
+    "start": 1219.674,
+    "duration": 3.176
+  },
+  {
+    "text": "And what Design Of Experiments\ndoes, it's a methodology.",
+    "start": 1222.875,
+    "duration": 3.347
+  },
+  {
+    "text": "It increases the resolution,",
+    "start": 1226.247,
+    "duration": 2.951
+  },
+  {
+    "text": "but also it decreases the number\nof experiments you have to do.",
+    "start": 1229.223,
+    "duration": 3.738
+  },
+  {
+    "text": "So, I urge many of you who are\nexperimentalists, or who are curious,",
+    "start": 1232.986,
+    "duration": 3.607
+  },
+  {
+    "text": "to look up Design Of Experiments\nand to learn the techniques.",
+    "start": 1236.618,
+    "duration": 3.283
+  },
+  {
+    "text": "Because it is extremely valuable\nin both saving time and resources",
+    "start": 1239.926,
+    "duration": 3.888
+  },
+  {
+    "text": "and it greatly increases\nyour resolution.",
+    "start": 1243.839,
+    "duration": 2.361
+  },
+  {
+    "text": "Now, again I won't\ngo into why that is.",
+    "start": 1246.225,
+    "duration": 2.113
+  },
+  {
+    "text": "I discuss a little bit of it in my past\npresentation and you can read about it online,",
+    "start": 1248.363,
+    "duration": 3.721
+  },
+  {
+    "text": "but basically what you're doing\nis, you're conducting experiments",
+    "start": 1252.109,
+    "duration": 3.176
+  },
+  {
+    "text": "where you're making sure\nyour points are orthogonal.",
+    "start": 1255.31,
+    "duration": 2.666
+  },
+  {
+    "text": "So, in other words two factors\nare always opposite each other;",
+    "start": 1258.001,
+    "duration": 2.649
+  },
+  {
+    "text": "you're making things symmetric\nin your design space.",
+    "start": 1260.66,
+    "duration": 2.961
+  },
+  {
+    "text": "Just an example of what\nthat does for you:",
+    "start": 1263.646,
+    "duration": 2.801
+  },
+  {
+    "text": "on the on the right column here,\nyou can see the efficiency.",
+    "start": 1266.924,
+    "duration": 4.806
+  },
+  {
+    "text": "That's a measure of the\nexperimental variance.",
+    "start": 1271.755,
+    "duration": 3.032
+  },
+  {
+    "text": "You can actually calculate the\nvariance in your experiment,",
+    "start": 1274.812,
+    "duration": 4.229
+  },
+  {
+    "text": "prior to even doing\nexperiments with your design.",
+    "start": 1279.066,
+    "duration": 3.048
+  },
+  {
+    "text": "Now OFAT is stands for One\nFactor At a Time.",
+    "start": 1282.991,
+    "duration": 3.727
+  },
+  {
+    "text": "That's how traditional\nexperimentation is done;",
+    "start": 1286.743,
+    "duration": 2.69
+  },
+  {
+    "text": "that's how the Edisonian\napproach is done.",
+    "start": 1289.458,
+    "duration": 2.559
+  },
+  {
+    "text": "And so, you can see here, it's comparison\nbetween a traditional number of runs,",
+    "start": 1292.042,
+    "duration": 5.747
+  },
+  {
+    "text": "where you're kind of a shotgun\napproach to experimentation,",
+    "start": 1297.814,
+    "duration": 3.231
+  },
+  {
+    "text": "and what's called a\nfull factorial DOE.",
+    "start": 1301.07,
+    "duration": 2.08
+  },
+  {
+    "text": "There are many types of DOE’s out there, but\nthis is just the most basic taught DOE.",
+    "start": 1303.175,
+    "duration": 4.263
+  },
+  {
+    "text": "You can see that just with\nthree factors, right?",
+    "start": 1307.463,
+    "duration": 3.021
+  },
+  {
+    "text": "say pressure, type of gas, and\ndistance of the cathodes, right?",
+    "start": 1310.509,
+    "duration": 4.879
+  },
+  {
+    "text": "that's three factors, three\nvariables",
+    "start": 1315.413,
+    "duration": 2.104
+  },
+  {
+    "text": "with the number of runs for\nOFAT you need 16 runs,",
+    "start": 1317.542,
+    "duration": 2.912
+  },
+  {
+    "text": "that gives you a certain experimental\nvariance, or efficiency, of 2.",
+    "start": 1320.479,
+    "duration": 3.39
+  },
+  {
+    "text": "But you're half that number of\nruns with your full factorial DOE.",
+    "start": 1323.894,
+    "duration": 3.979
+  },
+  {
+    "text": "And as you get upwards, now you say, wow\n128 runs, that's still a lot of runs.",
+    "start": 1327.898,
+    "duration": 4.434
+  },
+  {
+    "text": "But as I said, there are other DOE formulations\nthat you can pursue to help with this,",
+    "start": 1332.357,
+    "duration": 5.901
+  },
+  {
+    "text": "to help decrease that number more and still\nmaintain that experimental efficiency,",
+    "start": 1338.283,
+    "duration": 4.548
+  },
+  {
+    "text": "without having to\ndo 512 experiments.",
+    "start": 1342.856,
+    "duration": 3.088
+  },
+  {
+    "text": "So, in a nutshell that's\nreally what DOE is.",
+    "start": 1345.969,
+    "duration": 3.04
+  },
+  {
+    "text": "We explored this first in phase\n1; this is our phase 1 setup.",
+    "start": 1349.034,
+    "duration": 4.916
+  },
+  {
+    "text": "Very simple; we had an anode in a\nbell jar surrounded by a cathode;",
+    "start": 1353.975,
+    "duration": 3.984
+  },
+  {
+    "text": "we had a voltmeter did add some other\ninstrumentation crammed in there.",
+    "start": 1357.984,
+    "duration": 4.136
+  },
+  {
+    "text": "But for the purposes of this,\nthis was a just a snapshot",
+    "start": 1362.145,
+    "duration": 3.389
+  },
+  {
+    "text": "of one of the bell jar\nexperiments with a small anode.",
+    "start": 1365.559,
+    "duration": 4.398
+  },
+  {
+    "text": "And really what we determined\nthrough Design Of Experiments",
+    "start": 1370.544,
+    "duration": 2.865
+  },
+  {
+    "text": "is these various regimes that\nthe plasma goes through.",
+    "start": 1373.434,
+    "duration": 2.805
+  },
+  {
+    "text": "So, we were already kind of dialing in\nthe anode, even in a small bell jar,",
+    "start": 1376.264,
+    "duration": 4.937
+  },
+  {
+    "text": "so logic would assume we could do\nthat when we scale up as well.",
+    "start": 1381.226,
+    "duration": 3.745
+  },
+  {
+    "text": "And actually it does, when\nyou use the right approach,",
+    "start": 1384.996,
+    "duration": 3.063
+  },
+  {
+    "text": "when you use Designs\nOf Experiments.",
+    "start": 1388.084,
+    "duration": 2.394
+  },
+  {
+    "text": "So, we're really happy\nwith our various regimes.",
+    "start": 1390.503,
+    "duration": 2.785
+  },
+  {
+    "text": "This is a snapshot of, I would say,\nthe main regimes we work with.",
+    "start": 1393.313,
+    "duration": 4.64
+  },
+  {
+    "text": "That's not to say that there\naren't others in between there.",
+    "start": 1397.978,
+    "duration": 4.143
+  },
+  {
+    "text": "So, I'll just go through here a\nlittle bit and show you close up.",
+    "start": 1402.146,
+    "duration": 6.275
+  },
+  {
+    "text": "I call this a dark\nquiescent phase;",
+    "start": 1408.446,
+    "duration": 3.016
+  },
+  {
+    "text": "this is right on the edge, very small\nchanges here, this is not stable.",
+    "start": 1411.487,
+    "duration": 4.914
+  },
+  {
+    "text": "Very small changes in either voltage or\ncurrent, can lead to this extinguishing.",
+    "start": 1416.426,
+    "duration": 5.085
+  },
+  {
+    "text": "But there is still a plasma layer\naround the edge of the anode.",
+    "start": 1422.265,
+    "duration": 3.477
+  },
+  {
+    "text": "Now as we increase our current,\nwe obtain what we call ”tufts”",
+    "start": 1425.767,
+    "duration": 3.293
+  },
+  {
+    "text": "These are anode tufts.",
+    "start": 1429.085,
+    "duration": 1.842
+  },
+  {
+    "text": "These have been\nexperimentally seen before,",
+    "start": 1430.952,
+    "duration": 2.514
+  },
+  {
+    "text": "but we can now control them,\nwe can control the number,",
+    "start": 1433.491,
+    "duration": 2.862
+  },
+  {
+    "text": "the concentration in a square area, and\nthey're always equidistant from each other.",
+    "start": 1436.378,
+    "duration": 4.518
+  },
+  {
+    "text": "As you increase the energy, and as you\nincrease the current in the system,",
+    "start": 1440.921,
+    "duration": 3.662
+  },
+  {
+    "text": "they start to grow in size\nand also squeeze together,",
+    "start": 1444.608,
+    "duration": 3.389
+  },
+  {
+    "text": "until you reach a point where\nthey actually start to coalesce.",
+    "start": 1448.022,
+    "duration": 3.883
+  },
+  {
+    "text": "And this is what we refer\nto as moving tufts.",
+    "start": 1451.93,
+    "duration": 3.713
+  },
+  {
+    "text": "This can also be adjusted in\nterms of pressure and current.",
+    "start": 1456.182,
+    "duration": 4.139
+  },
+  {
+    "text": "So, as these things start to\nmove, they actually spin more,",
+    "start": 1461.542,
+    "duration": 3.86
+  },
+  {
+    "text": "and eventually what comes into\nbeing is this double layer phase,",
+    "start": 1465.427,
+    "duration": 4.645
+  },
+  {
+    "text": "multiple double layers, that are controlled\nby current and gas pressure.",
+    "start": 1470.097,
+    "duration": 4.753
+  },
+  {
+    "text": "So this was probably the most\ndouble layers we obtained,",
+    "start": 1475.453,
+    "duration": 3.574
+  },
+  {
+    "text": "I would say, with a\nthree inch anode.",
+    "start": 1479.052,
+    "duration": 2.398
+  },
+  {
+    "text": "This is a 3-inch anode.",
+    "start": 1481.475,
+    "duration": 1.472
+  },
+  {
+    "text": "This is a 3-inch anode so those tufts, I\nthink we reached up to about 7 or 8 tufts",
+    "start": 1482.972,
+    "duration": 4.688
+  },
+  {
+    "text": "at least in the Design Of\nExperiments that we got.",
+    "start": 1487.685,
+    "duration": 2.479
+  },
+  {
+    "text": "Monty: “Yeah they're big”,",
+    "start": 1490.189,
+    "duration": 2.951
+  },
+  {
+    "text": "and they're stable",
+    "start": 1493.165,
+    "duration": 1.672
+  },
+  {
+    "text": "and also we have\nquiescent phase:",
+    "start": 1496.299,
+    "duration": 3.118
+  },
+  {
+    "text": "this looks familiar, doesn't it?",
+    "start": 1499.442,
+    "duration": 2.275
+  },
+  {
+    "text": "We even got some holes in that,",
+    "start": 1502.225,
+    "duration": 3.055
+  },
+  {
+    "text": "arising from something,\nwe don't know.",
+    "start": 1506.12,
+    "duration": 2.905
+  },
+  {
+    "text": "And that layer is\nfairly significant.",
+    "start": 1509.05,
+    "duration": 3.998
+  },
+  {
+    "text": "It stands off the\nsurface of the anode,",
+    "start": 1513.073,
+    "duration": 3.006
+  },
+  {
+    "text": "and we also have these asymmetric\ndouble layers that occur over time.",
+    "start": 1516.655,
+    "duration": 3.849
+  },
+  {
+    "text": "Time is also a factor, but we\nweren't able to quantify it yet",
+    "start": 1520.529,
+    "duration": 3.747
+  },
+  {
+    "text": "because what happens over\ntime, is your anode heats up.",
+    "start": 1524.301,
+    "duration": 3.057
+  },
+  {
+    "text": "Thermionic emission happens,\nit changes the properties",
+    "start": 1527.383,
+    "duration": 3.059
+  },
+  {
+    "text": "so that's the one factor that we\nhave to dial in a little bit more.",
+    "start": 1530.467,
+    "duration": 3.235
+  },
+  {
+    "text": "As we don't understand the effect\nof time on this anode yet,",
+    "start": 1533.727,
+    "duration": 3.509
+  },
+  {
+    "text": "but we know it affects it.",
+    "start": 1537.261,
+    "duration": 1.938
+  },
+  {
+    "text": "And also the Zeppelin high-intensity,\nkind of let it loose phase.",
+    "start": 1539.224,
+    "duration": 5.815
+  },
+  {
+    "text": "So, those are stable\nregimes, all right,",
+    "start": 1548.01,
+    "duration": 3.872
+  },
+  {
+    "text": "so to dial in the plasma, also we\nwant to work with different anodes,",
+    "start": 1551.907,
+    "duration": 4.312
+  },
+  {
+    "text": "different size anodes.",
+    "start": 1556.244,
+    "duration": 1.407
+  },
+  {
+    "text": "The top is a 1.5 cm [errata: inches, see 26:16]\nanode, the bottom is a 3-inch anode.",
+    "start": 1557.676,
+    "duration": 5.522
+  },
+  {
+    "text": "You'll notice that we're\nobtaining the same regimes;",
+    "start": 1563.223,
+    "duration": 2.975
+  },
+  {
+    "text": "a little bit different shapes, but for the\nmost part we're getting the same numbers,",
+    "start": 1566.223,
+    "duration": 4.367
+  },
+  {
+    "text": "and at proportionally\nthe same current.",
+    "start": 1570.615,
+    "duration": 4.002
+  },
+  {
+    "text": "And what do I mean\nby proportionately?",
+    "start": 1574.642,
+    "duration": 1.688
+  },
+  {
+    "text": "Well, when you're impinging a 1.5-inch\nanode compared to a 3-inch anode,",
+    "start": 1576.355,
+    "duration": 6.436
+  },
+  {
+    "text": "the current density is a\nlot higher on that, right?",
+    "start": 1582.816,
+    "duration": 2.727
+  },
+  {
+    "text": "So, we had to adjust our current density\nproperly to obtain the same response.",
+    "start": 1585.568,
+    "duration": 6.631
+  },
+  {
+    "text": "So, that's what we did in this experiment,\nand these are just some numbers.",
+    "start": 1592.224,
+    "duration": 3.138
+  },
+  {
+    "text": "If you want to have\nfun with the numbers,",
+    "start": 1595.387,
+    "duration": 2.114
+  },
+  {
+    "text": "we're calculating that we're getting\nabout 85 W/cm2 in the top discharge,",
+    "start": 1597.526,
+    "duration": 5.193
+  },
+  {
+    "text": "but you can see in the bottom\none, where we throw in 22 Amps,",
+    "start": 1602.744,
+    "duration": 3.687
+  },
+  {
+    "text": "we're getting a little bit less\nwattage there with the calculation,",
+    "start": 1606.95,
+    "duration": 3.318
+  },
+  {
+    "text": "but within error\nyou're almost there.",
+    "start": 1610.293,
+    "duration": 2.643
+  },
+  {
+    "text": "So we're tracking very well with scalability\nof the plasma between different sizes",
+    "start": 1612.961,
+    "duration": 5.601
+  },
+  {
+    "text": "and as you can see, the\ncurrent is the main driver,",
+    "start": 1619.34,
+    "duration": 3.299
+  },
+  {
+    "text": "that's what has to be adjusted.",
+    "start": 1622.664,
+    "duration": 3.737
+  },
+  {
+    "text": "Now you say here, I may say\nindications of a transformer.",
+    "start": 1627.179,
+    "duration": 3.624
+  },
+  {
+    "text": "Well that's only in a way.",
+    "start": 1630.828,
+    "duration": 1.41
+  },
+  {
+    "text": "That's why we have it in quotes right?\nTransformer.",
+    "start": 1632.263,
+    "duration": 2.269
+  },
+  {
+    "text": "So, as double layers form,",
+    "start": 1634.557,
+    "duration": 2.183
+  },
+  {
+    "text": "plasma resistance decreases and\ncurrent flow is less impeded.",
+    "start": 1636.765,
+    "duration": 3.745
+  },
+  {
+    "text": "Michael alluded to that earlier:",
+    "start": 1640.535,
+    "duration": 1.746
+  },
+  {
+    "text": "electrons are more intense or more\nconcentrated in these double layers.",
+    "start": 1642.306,
+    "duration": 4.052
+  },
+  {
+    "text": "Why is that?",
+    "start": 1646.383,
+    "duration": 1.435
+  },
+  {
+    "text": "We want to study some more.",
+    "start": 1648.532,
+    "duration": 2.009
+  },
+  {
+    "text": "But now is where we get\ninto our statistics.",
+    "start": 1650.566,
+    "duration": 6.107
+  },
+  {
+    "text": "What you see on the graph is\nan actual by predicted plot.",
+    "start": 1656.698,
+    "duration": 2.541
+  },
+  {
+    "text": "This is what comes out of\nDesign Of Experiments, okay?",
+    "start": 1659.264,
+    "duration": 3.239
+  },
+  {
+    "text": "It may just look like a straight line\nto you, but this is very powerful,",
+    "start": 1662.528,
+    "duration": 3.429
+  },
+  {
+    "text": "because what it enables you to\ndo is to predict things, okay?",
+    "start": 1665.982,
+    "duration": 3.469
+  },
+  {
+    "text": "So, the top graph here has,",
+    "start": 1670.264,
+    "duration": 3.066
+  },
+  {
+    "text": "as you can see on the Y-axis\nor the vertical axis",
+    "start": 1673.355,
+    "duration": 3.047
+  },
+  {
+    "text": "(thank you),",
+    "start": 1676.427,
+    "duration": 1.037
+  },
+  {
+    "text": "on a vertical axis you\nhave voltage actuals.",
+    "start": 1677.489,
+    "duration": 3.593
+  },
+  {
+    "text": "So that's the voltage\nwe actually measure",
+    "start": 1681.107,
+    "duration": 2.42
+  },
+  {
+    "text": "and what do you see here?",
+    "start": 1684.067,
+    "duration": 1.417
+  },
+  {
+    "text": "voltage predicted.",
+    "start": 1685.509,
+    "duration": 1.763
+  },
+  {
+    "text": "So, when you read papers\nscientific papers,",
+    "start": 1687.297,
+    "duration": 3.513
+  },
+  {
+    "text": "or any kind of reports that have prediction\nvalues, that's what they're referring to.",
+    "start": 1690.81,
+    "duration": 3.738
+  },
+  {
+    "text": "They're building a model and they're seeing\nhow well the model can predict the voltage,",
+    "start": 1694.573,
+    "duration": 3.714
+  },
+  {
+    "text": "or whatever response\nthey're studying.",
+    "start": 1698.312,
+    "duration": 3.332
+  },
+  {
+    "text": "So, we can look here that the equation\nof the line is pretty darn good,",
+    "start": 1701.669,
+    "duration": 4.683
+  },
+  {
+    "text": "considering the fact that we're\nworking with a plasma, okay?",
+    "start": 1706.377,
+    "duration": 2.955
+  },
+  {
+    "text": "it's R-Square\nvalue is about 0.92.",
+    "start": 1709.357,
+    "duration": 5.803
+  },
+  {
+    "text": "You look at the error, it's only plus\nor minus 10 Volts in that prediction.",
+    "start": 1715.185,
+    "duration": 4.367
+  },
+  {
+    "text": "We had a number of responses,\nor a number of observations",
+    "start": 1719.577,
+    "duration": 3.45
+  },
+  {
+    "text": "in this set of experiments,\n31 experiments.",
+    "start": 1723.052,
+    "duration": 3.094
+  },
+  {
+    "text": "So, we have sufficient\ndegrees of freedom,",
+    "start": 1726.171,
+    "duration": 2.746
+  },
+  {
+    "text": "when we're only looking at\nthree or four factors,",
+    "start": 1728.942,
+    "duration": 2.537
+  },
+  {
+    "text": "to determine which of\nthe factors do what.",
+    "start": 1731.504,
+    "duration": 2.612
+  },
+  {
+    "text": "We want to know, is pressure\na factor,",
+    "start": 1734.141,
+    "duration": 2.697
+  },
+  {
+    "text": "is the number of double layers\na factor, current, right?",
+    "start": 1736.863,
+    "duration": 2.871
+  },
+  {
+    "text": "And that's what this is, so you\ncan see here the green circle.",
+    "start": 1739.759,
+    "duration": 4.032
+  },
+  {
+    "text": "The parameter estimates are what\nyou'd back out of statistics.",
+    "start": 1743.816,
+    "duration": 3.486
+  },
+  {
+    "text": "That tells you the most\nimportant factor in your model,",
+    "start": 1747.327,
+    "duration": 2.895
+  },
+  {
+    "text": "and what is this telling us?",
+    "start": 1750.247,
+    "duration": 1.679
+  },
+  {
+    "text": "It’s telling us the pressure is\nactually a pretty darn important thing",
+    "start": 1751.951,
+    "duration": 2.642
+  },
+  {
+    "text": "in this Design Of Experiments.",
+    "start": 1754.618,
+    "duration": 1.579
+  },
+  {
+    "text": "So, your pressure is leading those\nsignificant changes in your voltage.",
+    "start": 1756.222,
+    "duration": 3.364
+  },
+  {
+    "text": "Kind of\nmakes sense, right?",
+    "start": 1759.611,
+    "duration": 1.563
+  },
+  {
+    "text": "Followed by your number\nof double layers.",
+    "start": 1761.199,
+    "duration": 2.205
+  },
+  {
+    "text": "Now double layers, and we're\nstruggling with this right now,",
+    "start": 1763.429,
+    "duration": 3.185
+  },
+  {
+    "text": "double layers can either be a response\nor it can also affect the system.",
+    "start": 1766.639,
+    "duration": 3.577
+  },
+  {
+    "text": "Just like V = IR, the typical\nOhm's law V = IR",
+    "start": 1770.241,
+    "duration": 5.918
+  },
+  {
+    "text": "what is your response and\nwhat is your factor?",
+    "start": 1776.184,
+    "duration": 2.71
+  },
+  {
+    "text": "It depends on how you set\nup your measurements,",
+    "start": 1778.919,
+    "duration": 2.388
+  },
+  {
+    "text": "and it depends on what\nyou're measuring.",
+    "start": 1781.332,
+    "duration": 2.749
+  },
+  {
+    "text": "So, our current though, is also an\nimportant factor, as you can see there:",
+    "start": 1784.106,
+    "duration": 3.262
+  },
+  {
+    "text": "parameter estimate of about 10,",
+    "start": 1787.393,
+    "duration": 2.119
+  },
+  {
+    "text": "but you see these other\nthings down here.",
+    "start": 1789.537,
+    "duration": 2.673
+  },
+  {
+    "text": "The pressure is multiplied by\nthe number of double layers",
+    "start": 1792.235,
+    "duration": 2.893
+  },
+  {
+    "text": "and the number of double layers\nis multiplied by current.",
+    "start": 1795.153,
+    "duration": 2.01
+  },
+  {
+    "text": "These are what's known as second-order interactions,\nhigher-order interactions right here.",
+    "start": 1797.188,
+    "duration": 4.323
+  },
+  {
+    "text": "And what that means is that\nthey also have an effect",
+    "start": 1801.536,
+    "duration": 2.665
+  },
+  {
+    "text": "and they're needed to\nexplain the model.",
+    "start": 1804.226,
+    "duration": 2.564
+  },
+  {
+    "text": "They're significant enough to\nbe needed to explain the model.",
+    "start": 1806.815,
+    "duration": 3.195
+  },
+  {
+    "text": "Actually I left this last one in\nhere; you see that 0.14 p value",
+    "start": 1810.035,
+    "duration": 3.655
+  },
+  {
+    "text": "p-value is a measure\nof statistic.",
+    "start": 1813.715,
+    "duration": 1.831
+  },
+  {
+    "text": "That one is below 0.05,",
+    "start": 1815.571,
+    "duration": 1.752
+  },
+  {
+    "text": "that means that that parameter is\nsignificant, it's real in a model.",
+    "start": 1817.348,
+    "duration": 3.842
+  },
+  {
+    "text": "You should definitely include it",
+    "start": 1821.2,
+    "duration": 1.692
+  },
+  {
+    "text": "so that one's 0.15-ish and so\nthat's not a significant factor.",
+    "start": 1822.917,
+    "duration": 3.549
+  },
+  {
+    "text": "I just left that in there,\njust so you could see,",
+    "start": 1826.491,
+    "duration": 2.48
+  },
+  {
+    "text": "but all the other ones are\nsignificant, they're below 0.05.",
+    "start": 1828.996,
+    "duration": 3.284
+  },
+  {
+    "text": "So, pressure exerts the largest\neffect, followed by double layers",
+    "start": 1832.305,
+    "duration": 3.648
+  },
+  {
+    "text": "and the second-order interactions\ndecrease that voltage response.",
+    "start": 1835.978,
+    "duration": 4.176
+  },
+  {
+    "text": "Again, what happens, what\ncan we do now with that?",
+    "start": 1841.407,
+    "duration": 3.677
+  },
+  {
+    "text": "That's just a bunch of numbers.",
+    "start": 1845.109,
+    "duration": 1.715
+  },
+  {
+    "text": "How do we visualize what\nhappens in a dynamic system?",
+    "start": 1846.849,
+    "duration": 3.136
+  },
+  {
+    "text": "And that's where modern software\nand modern computers come in,",
+    "start": 1850.01,
+    "duration": 3.1
+  },
+  {
+    "text": "because they enable us to do\nthese Designs Of Experiments.",
+    "start": 1853.11,
+    "duration": 1.897
+  },
+  {
+    "text": "So, as we create double layers,\nwhat you see here on this graph,",
+    "start": 1855.032,
+    "duration": 3.61
+  },
+  {
+    "text": "you have three factors which are\nyour X-axis which you can vary now.",
+    "start": 1858.667,
+    "duration": 5.02
+  },
+  {
+    "text": "We have a model that's\nabout 92% accurate,",
+    "start": 1863.712,
+    "duration": 3.618
+  },
+  {
+    "text": "and we also have a voltage, our\npredictive voltage in our system.",
+    "start": 1867.35,
+    "duration": 3.602
+  },
+  {
+    "text": "So as we change these factors we can\nobserve what happens through the voltage,",
+    "start": 1870.977,
+    "duration": 4.221
+  },
+  {
+    "text": "so if you keep your eyes on\nthe number of double layers",
+    "start": 1875.223,
+    "duration": 2.215
+  },
+  {
+    "text": "I'm going to increase the\nnumber of double layers here.",
+    "start": 1877.463,
+    "duration": 3.785
+  },
+  {
+    "text": "Now what happens to\nthe other curves?",
+    "start": 1881.273,
+    "duration": 2.872
+  },
+  {
+    "text": "There's slope changes right?",
+    "start": 1885.018,
+    "duration": 2.405
+  },
+  {
+    "text": "I'm going back and forth here.",
+    "start": 1888.28,
+    "duration": 1.777
+  },
+  {
+    "text": "So, if the slope changes, that means\nthat there's a second-order interaction.",
+    "start": 1890.082,
+    "duration": 4.476
+  },
+  {
+    "text": "There's a higher-order interaction\nbetween all these factors.",
+    "start": 1894.583,
+    "duration": 3.569
+  },
+  {
+    "text": "What it also means is that this model\nsays, that if we change our current,",
+    "start": 1898.919,
+    "duration": 5.562
+  },
+  {
+    "text": "or our pressure,\ndoes the voltage change?",
+    "start": 1904.506,
+    "duration": 3.54
+  },
+  {
+    "text": "No, it doesn't according\nto the model.",
+    "start": 1910.706,
+    "duration": 2.839
+  },
+  {
+    "text": "Now one statistician said",
+    "start": 1913.57,
+    "duration": 1.423
+  },
+  {
+    "text": "“all models are wrong,\nbut some are useful”.",
+    "start": 1915.018,
+    "duration": 2.694
+  },
+  {
+    "text": "So, that's where\nwe're at right now.",
+    "start": 1917.737,
+    "duration": 1.983
+  },
+  {
+    "text": "But you can also see\nsomething else.",
+    "start": 1919.745,
+    "duration": 1.748
+  },
+  {
+    "text": "You can see the unfortunate\narea here that says,",
+    "start": 1921.518,
+    "duration": 3.448
+  },
+  {
+    "text": "hey you've got to do more\nexperiments there.",
+    "start": 1924.991,
+    "duration": 1.812
+  },
+  {
+    "text": "That's a confidence interval,",
+    "start": 1926.828,
+    "duration": 1.563
+  },
+  {
+    "text": "it doesn't have enough data to give\nyou a smaller confidence interval.",
+    "start": 1928.416,
+    "duration": 3.832
+  },
+  {
+    "text": "So this curve could actually\ncome down a little bit",
+    "start": 1932.273,
+    "duration": 3.295
+  },
+  {
+    "text": "as long as it’s within\nthe confidence interval.",
+    "start": 1935.593,
+    "duration": 2.333
+  },
+  {
+    "text": "But that's the power of\nDesign Of Experiments:",
+    "start": 1937.951,
+    "duration": 1.706
+  },
+  {
+    "text": "you wouldn't be able\nto plot this out",
+    "start": 1939.682,
+    "duration": 1.395
+  },
+  {
+    "text": "if you were to do one factor at\na time in a shotgun approach.",
+    "start": 1941.102,
+    "duration": 3.365
+  },
+  {
+    "text": "So again, I changed\nanother factor here.",
+    "start": 1944.492,
+    "duration": 2.737
+  },
+  {
+    "text": "I decrease the current so you can see\nthe spread in the confidence interval",
+    "start": 1947.254,
+    "duration": 4.217
+  },
+  {
+    "text": "across all these guys here.",
+    "start": 1951.496,
+    "duration": 2.044
+  },
+  {
+    "text": "So we have a little\nbit more work to do.",
+    "start": 1953.565,
+    "duration": 2.916
+  },
+  {
+    "text": "That's the end of a kind of plasma,\nphysics, stability and spectroscopy.",
+    "start": 1960.846,
+    "duration": 5.084
+  },
+  {
+    "text": "I don't know; you feel\nlike keep it going,",
+    "start": 1965.94,
+    "duration": 1.7
+  },
+  {
+    "text": "or you want a question and\nanswer session for a little bit?",
+    "start": 1967.65,
+    "duration": 3.32
+  },
+  {
+    "text": "Okay, let's move on.",
+    "start": 1970.995,
+    "duration": 1.292
+  },
+  {
+    "text": "Monty: Let's move on,",
+    "start": 1972.312,
+    "duration": 2.137
+  },
+  {
+    "text": "well, predictions in thermodynamics,\nlike Paul was saying,",
+    "start": 1977.328,
+    "duration": 3.852
+  },
+  {
+    "text": "what did you say about models?",
+    "start": 1981.205,
+    "duration": 2.187
+  },
+  {
+    "text": "All models are wrong,\nsome are useful.",
+    "start": 1983.417,
+    "duration": 2.406
+  },
+  {
+    "text": "Yeah, all models are\nwrong, some are useful.",
+    "start": 1985.848,
+    "duration": 2.441
+  },
+  {
+    "text": "I stood up here two years\nago, we spent a lot of money",
+    "start": 1988.314,
+    "duration": 3.499
+  },
+  {
+    "text": "developing and designing SAFIRE,",
+    "start": 1991.838,
+    "duration": 2.587
+  },
+  {
+    "text": "predicting the kind of thermal\nresponses we get out of this.",
+    "start": 1994.45,
+    "duration": 2.964
+  },
+  {
+    "text": "Because we knew we had a lot\nof energy, of 180 kilowatts.",
+    "start": 1997.439,
+    "duration": 3.959
+  },
+  {
+    "text": "That’s what the design was\npredicting at the time,",
+    "start": 2001.423,
+    "duration": 4.523
+  },
+  {
+    "text": "and the thermodynamics model is based\non what's called total heat flux.",
+    "start": 2005.971,
+    "duration": 5.075
+  },
+  {
+    "text": "You heat up the core, okay?",
+    "start": 2011.071,
+    "duration": 1.731
+  },
+  {
+    "text": "And I'll show you a\npicture of that.",
+    "start": 2012.827,
+    "duration": 2.783
+  },
+  {
+    "text": "Well the thermal response\nis 120 degrees Celsius,",
+    "start": 2015.61,
+    "duration": 2.97
+  },
+  {
+    "text": "but basically we\nheat up the core",
+    "start": 2018.605,
+    "duration": 2.272
+  },
+  {
+    "text": "and we put an certain amount of\nenergy in there that heats up the gas",
+    "start": 2020.902,
+    "duration": 3.474
+  },
+  {
+    "text": "and other things are starting to\nrespond, but the final response,",
+    "start": 2024.401,
+    "duration": 3.475
+  },
+  {
+    "text": "based on the design, is a 110\ndegree chamber temperature,",
+    "start": 2027.901,
+    "duration": 3.55
+  },
+  {
+    "text": "and the temperature in and\naround the core here...",
+    "start": 2031.476,
+    "duration": 2.66
+  },
+  {
+    "text": "I think I can do this,",
+    "start": 2034.161,
+    "duration": 1.943
+  },
+  {
+    "text": "there it is.....",
+    "start": 2036.129,
+    "duration": 2.419
+  },
+  {
+    "text": "would be about 2500\ndegrees Celsius.",
+    "start": 2038.573,
+    "duration": 2.948
+  },
+  {
+    "text": "And this also is telling you\nhow fast the gas is moving.",
+    "start": 2041.546,
+    "duration": 3.248
+  },
+  {
+    "text": "It's moving quite slowly, and\nthat's what we were predicting.",
+    "start": 2044.819,
+    "duration": 3.081
+  },
+  {
+    "text": "Now the people who are working on this,\nwould be guys like Dr. Lowell Morgan,",
+    "start": 2047.925,
+    "duration": 3.893
+  },
+  {
+    "text": "Tommy Mello who actually\ndevelops the coding",
+    "start": 2051.843,
+    "duration": 3.655
+  },
+  {
+    "text": "for what's called\ncomputational fluid dynamics.",
+    "start": 2055.523,
+    "duration": 2.491
+  },
+  {
+    "text": "This is really high-end stuff,\nit's stuff that we use to develop",
+    "start": 2058.039,
+    "duration": 3.11
+  },
+  {
+    "text": "to do analysis on, rocket engines and\njet engines, and so many other things.",
+    "start": 2061.174,
+    "duration": 5.289
+  },
+  {
+    "text": "And we're very good\nat what we do.",
+    "start": 2066.488,
+    "duration": 3.292
+  },
+  {
+    "text": "This is how we kind\nof make a living.",
+    "start": 2069.805,
+    "duration": 2.245
+  },
+  {
+    "text": "However you're going to find out\nthat our predictions were wrong.",
+    "start": 2072.075,
+    "duration": 5.383
+  },
+  {
+    "text": "So, we did another model and this here,\nwhat you're going to look at here,",
+    "start": 2077.483,
+    "duration": 5.227
+  },
+  {
+    "text": "right in this area here,",
+    "start": 2082.735,
+    "duration": 2.392
+  },
+  {
+    "text": "this is our analysis of\nputting in one of our probes",
+    "start": 2085.841,
+    "duration": 4.688
+  },
+  {
+    "text": "and see what the kind of\nthermal response that we get,",
+    "start": 2090.554,
+    "duration": 2.756
+  },
+  {
+    "text": "and what the model is telling us is that\nthe temperatures of the gas,",
+    "start": 2093.32,
+    "duration": 2.733
+  },
+  {
+    "text": "just off and around the\nsurface of the anode,",
+    "start": 2096.078,
+    "duration": 1.748
+  },
+  {
+    "text": "should be around 2,300 to\n2,500 degrees Celsius:",
+    "start": 2097.851,
+    "duration": 2.972
+  },
+  {
+    "text": "well within the constraints or you might\nsay the operating limits of tungsten,",
+    "start": 2100.848,
+    "duration": 3.946
+  },
+  {
+    "text": "which is what the tips are made\nof, our Langmuir probe tips.",
+    "start": 2104.819,
+    "duration": 3.546
+  },
+  {
+    "text": "But what really happened, and\nyou want to watch this video.",
+    "start": 2109.904,
+    "duration": 5.009
+  },
+  {
+    "text": "Show you here, what you're\nlooking at here is the probe tip",
+    "start": 2117.027,
+    "duration": 4.453
+  },
+  {
+    "text": "and we're going to play this video\nand this is a very low-power plasma",
+    "start": 2122.075,
+    "duration": 4.397
+  },
+  {
+    "text": "[Laughter]",
+    "start": 2133.319,
+    "duration": 2.252
+  },
+  {
+    "text": "So, where you say,\n“now you see it,",
+    "start": 2135.596,
+    "duration": 5.838
+  },
+  {
+    "text": "and now you don't.”",
+    "start": 2142.743,
+    "duration": 1.708
+  },
+  {
+    "text": "Langmuir probes are about\n8,000 bucks a pop,",
+    "start": 2145.212,
+    "duration": 3.482
+  },
+  {
+    "text": "and I had to make a telephone\ncall because we pull it out.",
+    "start": 2149.44,
+    "duration": 4.832
+  },
+  {
+    "text": "Before I get into that, I just want to let\nyou know the actual power at that time",
+    "start": 2154.87,
+    "duration": 4.03
+  },
+  {
+    "text": "was 182 Watts, that's a 182\nWatt light bulb imagine, okay?",
+    "start": 2158.925,
+    "duration": 4.74
+  },
+  {
+    "text": "and we're going like,\nwhat is going on.",
+    "start": 2163.69,
+    "duration": 3.364
+  },
+  {
+    "text": "So when we opened up SAFIRE,\nwe discovered what was left,",
+    "start": 2167.079,
+    "duration": 4.526
+  },
+  {
+    "text": "and this is what the tip looked\nlike after it vaporized.",
+    "start": 2171.63,
+    "duration": 4.136
+  },
+  {
+    "text": "This is just the residual tungsten you\nsee here, on that kind of nodule.",
+    "start": 2175.791,
+    "duration": 4.695
+  },
+  {
+    "text": "That's what was left of it, and everyone\nwho knows anything about tungsten,",
+    "start": 2180.511,
+    "duration": 2.491
+  },
+  {
+    "text": "it takes about\n6,600º C to boil it.",
+    "start": 2183.027,
+    "duration": 3.618
+  },
+  {
+    "text": "To vaporize it, you\nneed more energy,",
+    "start": 2186.67,
+    "duration": 3.205
+  },
+  {
+    "text": "and in thermodynamics, some\nof you probably already know,",
+    "start": 2189.9,
+    "duration": 3.483
+  },
+  {
+    "text": "there's a time domain\nassociated with it.",
+    "start": 2193.408,
+    "duration": 1.357
+  },
+  {
+    "text": "How much heat is lost\nin the system as well.",
+    "start": 2194.79,
+    "duration": 3.094
+  },
+  {
+    "text": "So, it's not just 6,600 degrees;",
+    "start": 2197.909,
+    "duration": 2.873
+  },
+  {
+    "text": "if you're gonna\nvaporize it that quick,",
+    "start": 2200.807,
+    "duration": 2.372
+  },
+  {
+    "text": "it would typically point to temperatures\nthat are much higher than that,",
+    "start": 2203.204,
+    "duration": 4.817
+  },
+  {
+    "text": "not the 2,300 degrees\nwe predicted,",
+    "start": 2208.046,
+    "duration": 4.116
+  },
+  {
+    "text": "because you know the tungsten\nshould have heated up,",
+    "start": 2212.187,
+    "duration": 3.137
+  },
+  {
+    "text": "might have started glowing a little\nbit, but it should have lived in there.",
+    "start": 2215.349,
+    "duration": 2.847
+  },
+  {
+    "text": "Well, obviously it didn't, and",
+    "start": 2218.221,
+    "duration": 4.067
+  },
+  {
+    "text": "this is what a tip looks like\nat the top, before and after.",
+    "start": 2225.963,
+    "duration": 4.557
+  },
+  {
+    "text": "Now, the white stuff is alumina",
+    "start": 2232.115,
+    "duration": 2.044
+  },
+  {
+    "text": "and its melting temperature\nis about 3,600 degrees Celsius.",
+    "start": 2234.184,
+    "duration": 4.254
+  },
+  {
+    "text": "So, I made a call.",
+    "start": 2240.432,
+    "duration": 5.927
+  },
+  {
+    "text": "Actually, I should back up a little bit\nhere because I got a story to tell you.",
+    "start": 2246.384,
+    "duration": 3.908
+  },
+  {
+    "text": "I called a company,\na great company.",
+    "start": 2250.317,
+    "duration": 3.473
+  },
+  {
+    "text": "I'm not going to\nmention who it is.",
+    "start": 2254.48,
+    "duration": 2.625
+  },
+  {
+    "text": "We had gone into great\ndetail with them,",
+    "start": 2257.13,
+    "duration": 2.932
+  },
+  {
+    "text": "as to what kind of process\nwe were going to get.",
+    "start": 2260.087,
+    "duration": 1.799
+  },
+  {
+    "text": "And they said, “We have\nthe probe for you.”",
+    "start": 2261.911,
+    "duration": 2.42
+  },
+  {
+    "text": "And so we bought two of the\nprobes and we put the one in",
+    "start": 2264.356,
+    "duration": 4.609
+  },
+  {
+    "text": "and I showed him, he talked to me\nand I said, “this is what happened”",
+    "start": 2268.99,
+    "duration": 3.633
+  },
+  {
+    "text": "we showed them what was left of the\nprobe tip and he came back and said,",
+    "start": 2272.648,
+    "duration": 3.792
+  },
+  {
+    "text": "“Your plasma is too hot”.",
+    "start": 2276.465,
+    "duration": 1.987
+  },
+  {
+    "text": "I said, ”Really, you think”?",
+    "start": 2280.83,
+    "duration": 4.977
+  },
+  {
+    "text": "I said, ”You guys knew and\nunderstood the plasma we have,",
+    "start": 2285.832,
+    "duration": 3.783
+  },
+  {
+    "text": "and we went over this\nwith you guys in detail”",
+    "start": 2289.64,
+    "duration": 2.414
+  },
+  {
+    "text": "and I'm thinking, “What am\nI going to tell Scott?”",
+    "start": 2292.079,
+    "duration": 3.075
+  },
+  {
+    "text": "Then these guys say, “Let me know\nwhen you like to buy a new one”.",
+    "start": 2295.886,
+    "duration": 4.665
+  },
+  {
+    "text": "So, I called Scott\nand I told him,",
+    "start": 2301.309,
+    "duration": 1.829
+  },
+  {
+    "text": "”We just vaporized a Langmuir probe\nand we did it with only 182 Watts,",
+    "start": 2303.163,
+    "duration": 4.372
+  },
+  {
+    "text": "and we don't understand what's going on\nin SAFIRE; it shouldn't have done this.”",
+    "start": 2307.56,
+    "duration": 4.184
+  },
+  {
+    "text": "And Scott says, ”Wow, you\nknow what that means?”",
+    "start": 2311.769,
+    "duration": 6.053
+  },
+  {
+    "text": "I’m thinking, I\njust lost my job.",
+    "start": 2317.847,
+    "duration": 2.6
+  },
+  {
+    "text": "”Yeah it means that our\nthermodynamic modeling is wrong.”",
+    "start": 2321.329,
+    "duration": 3.841
+  },
+  {
+    "text": "I'm thinking “I'm\nout of my job”,",
+    "start": 2325.195,
+    "duration": 1.835
+  },
+  {
+    "text": "and he says,\n“Well, yes, maybe,",
+    "start": 2327.055,
+    "duration": 2.653
+  },
+  {
+    "text": "but what's amazing, it means that you have a\nlot of energy impinging on the probe tip.",
+    "start": 2329.733,
+    "duration": 4.25
+  },
+  {
+    "text": "You might have an effective\nway of boiling water”",
+    "start": 2334.008,
+    "duration": 2.703
+  },
+  {
+    "text": "and the he said, in his\ndeep voice “Do it again”.",
+    "start": 2336.736,
+    "duration": 5.731
+  },
+  {
+    "text": "I'm going nuts: the (probe) guy\njust said, my plasma is too hot.",
+    "start": 2344.197,
+    "duration": 4.488
+  },
+  {
+    "text": "The boss is saying, do it again",
+    "start": 2348.71,
+    "duration": 2.255
+  },
+  {
+    "text": "and I'm thinking I'm gonna have to\nspend another $8,000 on probes.",
+    "start": 2350.99,
+    "duration": 4.229
+  },
+  {
+    "text": "These things like eight thousand, I\nsaid eight thousand bucks a pop,",
+    "start": 2355.804,
+    "duration": 4.461
+  },
+  {
+    "text": "we got to get control\nover this thing.",
+    "start": 2361.063,
+    "duration": 2.747
+  },
+  {
+    "text": "Because otherwise you know we're going\nto burn through money pretty quick,",
+    "start": 2363.835,
+    "duration": 4.192
+  },
+  {
+    "text": "so we decide to make a new one.",
+    "start": 2370.906,
+    "duration": 2.056
+  },
+  {
+    "text": "Bigger, stronger.",
+    "start": 2372.987,
+    "duration": 1.583
+  },
+  {
+    "text": "I'll put higher pressure nitrogen\ninto the core and cool the core",
+    "start": 2374.57,
+    "duration": 3.504
+  },
+  {
+    "text": "and make all of it ceramic to\nwithstand the temperatures.",
+    "start": 2378.099,
+    "duration": 3.15
+  },
+  {
+    "text": "That's going to work,",
+    "start": 2381.274,
+    "duration": 1.705
+  },
+  {
+    "text": "so that's it.",
+    "start": 2384.765,
+    "duration": 1.207
+  },
+  {
+    "text": "That's the new and improved Langmuir\nprobe, much bigger, thicker tip",
+    "start": 2385.997,
+    "duration": 4.362
+  },
+  {
+    "text": "we figured that, since the\nplasma is so intense,",
+    "start": 2390.384,
+    "duration": 2.882
+  },
+  {
+    "text": "we don't have to worry\nabout the small wire.",
+    "start": 2393.291,
+    "duration": 1.714
+  },
+  {
+    "text": "We'll put something in thicker\nand even get some measurements.",
+    "start": 2395.03,
+    "duration": 2.537
+  },
+  {
+    "text": "What really happened... again.",
+    "start": 2397.592,
+    "duration": 3.349
+  },
+  {
+    "text": "So, I'm going to\nplay a video here,",
+    "start": 2403.536,
+    "duration": 2.05
+  },
+  {
+    "text": "and this is where we got some serious\nquestions and Lowell got involved.",
+    "start": 2405.611,
+    "duration": 4.85
+  },
+  {
+    "text": "Just watch what happens here:",
+    "start": 2410.486,
+    "duration": 2.14
+  },
+  {
+    "text": "this is a macro lens.",
+    "start": 2412.651,
+    "duration": 3.733
+  },
+  {
+    "text": "Everything looks wonderful\nand good; we're happy.",
+    "start": 2416.99,
+    "duration": 3.29
+  },
+  {
+    "text": "Adiós!",
+    "start": 2428.204,
+    "duration": 1.0
+  },
+  {
+    "text": "Yes, that’s what we said.",
+    "start": 2437.057,
+    "duration": 1.842
+  },
+  {
+    "text": "Well, we’ve lived so far; that's\ngood, let's just keep it going....",
+    "start": 2444.835,
+    "duration": 4.269
+  },
+  {
+    "text": "The motion I can see in the probe, is\nfrom the forces that are in the plasma",
+    "start": 2451.599,
+    "duration": 4.135
+  },
+  {
+    "text": "and then it really did\nsome amazing stuff.",
+    "start": 2457.178,
+    "duration": 4.05
+  },
+  {
+    "text": "So, we were happy,\nit actually survived",
+    "start": 2466.59,
+    "duration": 4.234
+  },
+  {
+    "text": "but the thermionic emissions\nwhich we're going to get into,",
+    "start": 2470.849,
+    "duration": 4.735
+  },
+  {
+    "text": "that's what you call\nthermionic emission.",
+    "start": 2475.609,
+    "duration": 2.163
+  },
+  {
+    "text": "That's not, you might say, the plasma;\nthe plasma has gone out by now,",
+    "start": 2477.797,
+    "duration": 3.649
+  },
+  {
+    "text": "so this is just a radiation.",
+    "start": 2481.471,
+    "duration": 1.649
+  },
+  {
+    "text": "This is like when you light\na tungsten light bulb.",
+    "start": 2483.145,
+    "duration": 3.396
+  },
+  {
+    "text": "This is what you get, so the\nradiation here just grows immensely.",
+    "start": 2486.566,
+    "duration": 4.75
+  },
+  {
+    "text": "We don't know right now\nwhy the color changes,",
+    "start": 2494.184,
+    "duration": 2.681
+  },
+  {
+    "text": "we know that we're obviously\ngetting other emissions in here,",
+    "start": 2496.89,
+    "duration": 2.277
+  },
+  {
+    "text": "probably from the tungsten, and this\nis happening in like nanoseconds.",
+    "start": 2499.192,
+    "duration": 5.541
+  },
+  {
+    "text": "So we go from this beautiful\nviolet color to these colors;",
+    "start": 2504.758,
+    "duration": 5.22
+  },
+  {
+    "text": "we don't know what this stuff is\nthat's flying around in there.",
+    "start": 2510.003,
+    "duration": 3.125
+  },
+  {
+    "text": "We think it could be copper\nand/or iron or whatever.",
+    "start": 2513.153,
+    "duration": 3.0
+  },
+  {
+    "text": "We were able to capture\nsome of these images,",
+    "start": 2516.178,
+    "duration": 2.649
+  },
+  {
+    "text": "but we would have to say that the\natmosphere in SAFIRE is somewhat hostile.",
+    "start": 2519.615,
+    "duration": 5.579
+  },
+  {
+    "text": "What was interesting is the\ncrater on the side of the anode.",
+    "start": 2531.817,
+    "duration": 3.579
+  },
+  {
+    "text": "So, we decided, well you know what,\nlet's take a closer look at this thing,",
+    "start": 2536.132,
+    "duration": 3.372
+  },
+  {
+    "text": "because we were still getting information\nback from the tip, which is good news",
+    "start": 2539.529,
+    "duration": 3.953
+  },
+  {
+    "text": "and so this is what tungsten looks like\nafter it's been machined with diamonds.",
+    "start": 2543.507,
+    "duration": 4.874
+  },
+  {
+    "text": "It has a kind of a sintered\nlook to it, a powdery look,",
+    "start": 2548.406,
+    "duration": 3.216
+  },
+  {
+    "text": "and this is what the tip looked like\nafter we pulled it out of the chamber.",
+    "start": 2552.32,
+    "duration": 3.671
+  },
+  {
+    "text": "So, we're seeing some cracking within the\nalumina a little bit; we weren't too concerned.",
+    "start": 2556.016,
+    "duration": 3.528
+  },
+  {
+    "text": "The bright blue color was\nkind of interesting,",
+    "start": 2559.569,
+    "duration": 2.954
+  },
+  {
+    "text": "but we had a closer\nlook at the tip,",
+    "start": 2562.548,
+    "duration": 2.252
+  },
+  {
+    "text": "and we were seeing the grinding\nmarks from the diamond wheel.",
+    "start": 2564.825,
+    "duration": 2.261
+  },
+  {
+    "text": "We didn't see any physical\ndeterioration of the tip,",
+    "start": 2567.111,
+    "duration": 2.724
+  },
+  {
+    "text": "and that was just\ngreat news for us.",
+    "start": 2569.86,
+    "duration": 1.94
+  },
+  {
+    "text": "And we thought, okay we've got something\nthat looks like it's going to survive;",
+    "start": 2571.825,
+    "duration": 4.161
+  },
+  {
+    "text": "and we took a look at the alumina and\nit looks like it will start to melt,",
+    "start": 2576.011,
+    "duration": 3.652
+  },
+  {
+    "text": "so we knew that the temperature was around\n3,600 degrees, maybe a little hotter,",
+    "start": 2579.688,
+    "duration": 4.304
+  },
+  {
+    "text": "but still in good shape.",
+    "start": 2584.017,
+    "duration": 1.489
+  },
+  {
+    "text": "And then what I did,",
+    "start": 2585.531,
+    "duration": 1.609
+  },
+  {
+    "text": "is I just took my pliers and\nwe changed the probe up;",
+    "start": 2587.894,
+    "duration": 2.744
+  },
+  {
+    "text": "we just retained and I put my\npliers and pull it out, and it crumbled.",
+    "start": 2590.663,
+    "duration": 4.238
+  },
+  {
+    "text": "If you know anything about tungsten\nit doesn't normally just crumble",
+    "start": 2595.884,
+    "duration": 3.638
+  },
+  {
+    "text": "and I thought well we you know\nwe've got a bit of a problem here",
+    "start": 2599.547,
+    "duration": 3.395
+  },
+  {
+    "text": "so I put it under\nthe microscope.",
+    "start": 2602.967,
+    "duration": 1.243
+  },
+  {
+    "text": "I looked at it and I said that\ndoesn't look like tungsten;",
+    "start": 2604.235,
+    "duration": 3.894
+  },
+  {
+    "text": "comparatively to the two, there's\nbeen a huge change in its structure,",
+    "start": 2608.154,
+    "duration": 3.558
+  },
+  {
+    "text": "but not on the outside.",
+    "start": 2611.737,
+    "duration": 1.37
+  },
+  {
+    "text": "The surface on the outside just\nlooked like it was when we put it in.",
+    "start": 2613.132,
+    "duration": 3.689
+  },
+  {
+    "text": "So, we started taking\na closer look at this",
+    "start": 2616.846,
+    "duration": 3.571
+  },
+  {
+    "text": "and it was like, what is\nall this white stuff.",
+    "start": 2620.442,
+    "duration": 2.935
+  },
+  {
+    "text": "And you can see the fracture in the\ntungsten is very sharp; it's very clean;",
+    "start": 2623.402,
+    "duration": 5.039
+  },
+  {
+    "text": "it's not like we've bent it\nor anything, it just broke.",
+    "start": 2628.466,
+    "duration": 3.238
+  },
+  {
+    "text": "So, we decided and this\none Paul got involved;",
+    "start": 2633.489,
+    "duration": 2.926
+  },
+  {
+    "text": "he says, listen I know some guys\non the University of Toronto;",
+    "start": 2636.44,
+    "duration": 2.923
+  },
+  {
+    "text": "let's get this thing and get some\nscanning electron microscopy done.",
+    "start": 2639.388,
+    "duration": 3.086
+  },
+  {
+    "text": "So, we did and I'm going over\nthe material in the tungsten.",
+    "start": 2642.499,
+    "duration": 3.212
+  },
+  {
+    "text": "If you know anything about materials,\nwhat you're looking at here,",
+    "start": 2645.736,
+    "duration": 4.553
+  },
+  {
+    "text": "well the black stuff,\ncould be contamination,",
+    "start": 2651.06,
+    "duration": 2.904
+  },
+  {
+    "text": "but the kind of geometrical\nshapes that you see there,",
+    "start": 2653.989,
+    "duration": 3.234
+  },
+  {
+    "text": "above that other stuff that\nlooks like shale, is tungsten.",
+    "start": 2657.248,
+    "duration": 2.632
+  },
+  {
+    "text": "It looks like it was\ngetting melted.",
+    "start": 2659.905,
+    "duration": 2.115
+  },
+  {
+    "text": "That shale isn't how\nit normally looks,",
+    "start": 2663.102,
+    "duration": 3.713
+  },
+  {
+    "text": "but this is on the\ninside of the tip.",
+    "start": 2666.84,
+    "duration": 2.234
+  },
+  {
+    "text": "On the outside of the tip it\nwasn't being affected at all.",
+    "start": 2669.106,
+    "duration": 3.412
+  },
+  {
+    "text": "Not at all.",
+    "start": 2673.839,
+    "duration": 1.022
+  },
+  {
+    "text": "When we did the scanning, when we did the\nSEM, it was coming back it was tungsten.",
+    "start": 2674.886,
+    "duration": 3.711
+  },
+  {
+    "text": "the molecular structure, the crystalline\nstructure, looked just like it should.",
+    "start": 2678.622,
+    "duration": 3.704
+  },
+  {
+    "text": "We looked inside and this is what\nwe found, and we found a lot more.",
+    "start": 2682.351,
+    "duration": 3.551
+  },
+  {
+    "text": "So, we took a look at the anode,",
+    "start": 2687.259,
+    "duration": 1.882
+  },
+  {
+    "text": "that big crater that\nwas left on the side.",
+    "start": 2689.166,
+    "duration": 1.797
+  },
+  {
+    "text": "There's some interesting stuff.",
+    "start": 2690.988,
+    "duration": 1.411
+  },
+  {
+    "text": "It was kind of like, okay there's an intense\nplasma discharge kind of steel material.",
+    "start": 2692.424,
+    "duration": 3.967
+  },
+  {
+    "text": "So, we thought okay,\nthis is kind of like,",
+    "start": 2696.416,
+    "duration": 2.685
+  },
+  {
+    "text": "you know, it's\nreally cool artwork.",
+    "start": 2699.126,
+    "duration": 2.254
+  },
+  {
+    "text": "We didn't see anything that was\nkind of, you know, too outrageous.",
+    "start": 2701.405,
+    "duration": 6.47
+  },
+  {
+    "text": "We saw this area here and I thought,\nwell let's take a closer look.",
+    "start": 2707.9,
+    "duration": 4.562
+  },
+  {
+    "text": "I don't know why, I\njust picked a spot,",
+    "start": 2712.487,
+    "duration": 3.046
+  },
+  {
+    "text": "and I thought what the\nheck is that nodule",
+    "start": 2716.104,
+    "duration": 2.247
+  },
+  {
+    "text": "at center of the top of that\nmountain that's in the crater here?",
+    "start": 2718.376,
+    "duration": 3.45
+  },
+  {
+    "text": "And this is what the scanning\nelectron microscopy showed up.",
+    "start": 2723.825,
+    "duration": 3.159
+  },
+  {
+    "text": "Now, if you know anything about this,\nwhen you have really bright spots in SEM,",
+    "start": 2727.009,
+    "duration": 4.673
+  },
+  {
+    "text": "it usually means you have really heavy\nmaterials in there, heavy elements,",
+    "start": 2731.707,
+    "duration": 3.651
+  },
+  {
+    "text": "and they start to emit.",
+    "start": 2735.383,
+    "duration": 3.41
+  },
+  {
+    "text": "So, now I'm going to\nhead back to Paul,",
+    "start": 2742.15,
+    "duration": 2.149
+  },
+  {
+    "text": "and he's going to go through SEM\nand tell you what we found.",
+    "start": 2744.324,
+    "duration": 4.654
+  },
+  {
+    "text": "Thank you, Monty.",
+    "start": 2749.003,
+    "duration": 1.48
+  },
+  {
+    "text": "So, scanning\nelectron microscopy.",
+    "start": 2751.836,
+    "duration": 2.874
+  },
+  {
+    "text": "There's also an additional\ntechnique on here:",
+    "start": 2755.05,
+    "duration": 2.866
+  },
+  {
+    "text": "energy dispersive spectroscopy",
+    "start": 2758.843,
+    "duration": 2.167
+  },
+  {
+    "text": "and what I'll do is I'll\nshow you a quick slide on",
+    "start": 2761.035,
+    "duration": 4.075
+  },
+  {
+    "text": "where that energy dispersive\nspectroscopy comes in.",
+    "start": 2765.135,
+    "duration": 2.72
+  },
+  {
+    "text": "I should have had a slide on the\nscanning electron microscope as well,",
+    "start": 2767.88,
+    "duration": 2.723
+  },
+  {
+    "text": "but if you picture just a regular\noptical microscope that you can find.",
+    "start": 2770.635,
+    "duration": 4.942
+  },
+  {
+    "text": "You look through the top and it\ngoes through a series of lenses;",
+    "start": 2776.217,
+    "duration": 3.593
+  },
+  {
+    "text": "the light comes up from the bottom,\nthrough your sample and you can see it.",
+    "start": 2779.835,
+    "duration": 3.715
+  },
+  {
+    "text": "And really the way SEM works, is that you\nreplace your eye with an electron source,",
+    "start": 2783.575,
+    "duration": 4.46
+  },
+  {
+    "text": "an electron gun that gets shot\nthrough a series of magnetic lenses,",
+    "start": 2788.06,
+    "duration": 5.356
+  },
+  {
+    "text": "which then hits your sample, which is\nmounted and again this happens in a vacuum,",
+    "start": 2793.441,
+    "duration": 4.413
+  },
+  {
+    "text": "and then a detector\nis off to the side",
+    "start": 2797.879,
+    "duration": 2.294
+  },
+  {
+    "text": "to detect the electrons I\nbounce off your sample.",
+    "start": 2800.198,
+    "duration": 3.361
+  },
+  {
+    "text": "So, not only do you get a secondary electron\nimage if you will, an emitted image,",
+    "start": 2803.584,
+    "duration": 4.721
+  },
+  {
+    "text": "but you also get other stuff\ncoming off of that as well.",
+    "start": 2808.33,
+    "duration": 3.097
+  },
+  {
+    "text": "So, if you have the right detectors\nin your electron microscope,",
+    "start": 2811.452,
+    "duration": 3.342
+  },
+  {
+    "text": "you can detect other things.",
+    "start": 2814.819,
+    "duration": 2.286
+  },
+  {
+    "text": "And in this case, energy\ndispersive microscopy,",
+    "start": 2817.13,
+    "duration": 4.001
+  },
+  {
+    "text": "is where the beam\nhits the material",
+    "start": 2821.156,
+    "duration": 2.267
+  },
+  {
+    "text": "and more of the inner core\nelectrons get excited,",
+    "start": 2823.448,
+    "duration": 3.968
+  },
+  {
+    "text": "and then relax back\nand emit the X-rays.",
+    "start": 2827.441,
+    "duration": 3.238
+  },
+  {
+    "text": "So, you see these characteristic X-rays,\nit’s just a depiction of an atom,",
+    "start": 2831.337,
+    "duration": 5.584
+  },
+  {
+    "text": "that electron gets excited, gets\nbumped off and then relaxes down",
+    "start": 2836.946,
+    "duration": 4.844
+  },
+  {
+    "text": "and emits that\ncharacteristic X-ray.",
+    "start": 2841.815,
+    "duration": 1.607
+  },
+  {
+    "text": "So, each element\nhas a fingerprint,",
+    "start": 2843.447,
+    "duration": 2.27
+  },
+  {
+    "text": "much like spectroscopy that\nMichael was speaking about.",
+    "start": 2845.742,
+    "duration": 3.629
+  },
+  {
+    "text": "It's another technique\nto look at elemental",
+    "start": 2849.396,
+    "duration": 3.102
+  },
+  {
+    "text": "quantities in materials\nin an electron microscope.",
+    "start": 2852.523,
+    "duration": 3.181
+  },
+  {
+    "text": "So, clean iron: this is\njust the iron anode.",
+    "start": 2855.729,
+    "duration": 2.521
+  },
+  {
+    "text": "We're going to look at both the iron\nanode, as well as the tungsten tip here.",
+    "start": 2858.275,
+    "duration": 3.831
+  },
+  {
+    "text": "So, what do you get\nfrom clean iron?",
+    "start": 2862.131,
+    "duration": 1.888
+  },
+  {
+    "text": "You get a slide here;\nthis is the probe tip.",
+    "start": 2864.044,
+    "duration": 4.088
+  },
+  {
+    "text": "You can adjust that to be a line graph, or\nan area; you can integrate over an area.",
+    "start": 2868.157,
+    "duration": 5.053
+  },
+  {
+    "text": "In this case, we were just looking to see\nwhat was there, so we did the probe tip.",
+    "start": 2873.235,
+    "duration": 3.649
+  },
+  {
+    "text": "And you can see that\nthe composition,",
+    "start": 2876.909,
+    "duration": 2.024
+  },
+  {
+    "text": "the oxygen comes from surface\noxygen absorbed on it.",
+    "start": 2878.958,
+    "duration": 2.949
+  },
+  {
+    "text": "You have your silicon\nand manganese as well,",
+    "start": 2881.932,
+    "duration": 3.086
+  },
+  {
+    "text": "which are impurities in your\niron, but mostly iron.",
+    "start": 2885.043,
+    "duration": 2.77
+  },
+  {
+    "text": "You can see there:\nalmost 98% iron.",
+    "start": 2887.838,
+    "duration": 2.274
+  },
+  {
+    "text": "And you get that from these\ncharacteristic X-ray energies.",
+    "start": 2890.137,
+    "duration": 3.496
+  },
+  {
+    "text": "These energies are in\nKilo Electron Volts,",
+    "start": 2893.658,
+    "duration": 2.722
+  },
+  {
+    "text": "and again each atom, each element has a\ncharacteristic series of frequencies",
+    "start": 2896.38,
+    "duration": 4.642
+  },
+  {
+    "text": "that it will emit at certain\nelectron impingement energy levels.",
+    "start": 2901.047,
+    "duration": 4.141
+  },
+  {
+    "text": "So, another clean iron spectrum.",
+    "start": 2905.784,
+    "duration": 3.252
+  },
+  {
+    "text": "We did a series of these, just to look,\nkind of get a feel for the average here.",
+    "start": 2909.061,
+    "duration": 4.28
+  },
+  {
+    "text": "In this case, there's a lot of oxygen on\nthis one, which is not too surprising.",
+    "start": 2913.366,
+    "duration": 4.373
+  },
+  {
+    "text": "Sometimes you get\nlots of oxygen.",
+    "start": 2917.764,
+    "duration": 2.118
+  },
+  {
+    "text": "So, going back to Monty's\noriginal optical spectroscope:",
+    "start": 2922.088,
+    "duration": 3.102
+  },
+  {
+    "text": "here you can see this nodule;",
+    "start": 2925.215,
+    "duration": 2.901
+  },
+  {
+    "text": "and the secondary electron image\nhere, you can see this lighting up.",
+    "start": 2928.141,
+    "duration": 3.901
+  },
+  {
+    "text": "It can either be\nheavier, it can also be",
+    "start": 2932.067,
+    "duration": 2.648
+  },
+  {
+    "text": "something that doesn't\nconduct electrons very well;",
+    "start": 2934.74,
+    "duration": 2.387
+  },
+  {
+    "text": "so it brightens a lot.",
+    "start": 2937.152,
+    "duration": 1.428
+  },
+  {
+    "text": "It can emit electrons;\nit charges.",
+    "start": 2938.605,
+    "duration": 3.174
+  },
+  {
+    "text": "So what Monty did actually, Monty\ndid all this microscopy here.",
+    "start": 2941.804,
+    "duration": 4.905
+  },
+  {
+    "text": "He put the probe actually\non that nodule first.",
+    "start": 2946.734,
+    "duration": 2.846
+  },
+  {
+    "text": "And what did we see?",
+    "start": 2949.58,
+    "duration": 1.62
+  },
+  {
+    "text": "We see some of these other elements here,\nnamely aluminum and oxygen, a lot more oxygen,",
+    "start": 2951.225,
+    "duration": 5.608
+  },
+  {
+    "text": "so that's kind of in line\nwith aluminum oxide.",
+    "start": 2956.858,
+    "duration": 2.962
+  },
+  {
+    "text": "It could be something\nfrom the probe.",
+    "start": 2959.82,
+    "duration": 2.167
+  },
+  {
+    "text": "It could be something, some dust particle\nfrom the probe that's embedded in there.",
+    "start": 2962.012,
+    "duration": 4.331
+  },
+  {
+    "text": "But there's also these\nother amounts in there.",
+    "start": 2966.368,
+    "duration": 1.861
+  },
+  {
+    "text": "We saw manganese before.",
+    "start": 2968.254,
+    "duration": 1.483
+  },
+  {
+    "text": "There’s titanium,\nthere's also cerium.",
+    "start": 2969.762,
+    "duration": 2.783
+  },
+  {
+    "text": "Cerium might be an impurity\nfrom that probe housing.",
+    "start": 2972.57,
+    "duration": 3.921
+  },
+  {
+    "text": "But then, when you increase\nyour magnification",
+    "start": 2977.075,
+    "duration": 2.468
+  },
+  {
+    "text": "and you go look at the morphology\nof the crater around this material,",
+    "start": 2979.568,
+    "duration": 3.529
+  },
+  {
+    "text": "it gets a little bit unusual,\nin that we are finding barium,",
+    "start": 2983.122,
+    "duration": 3.578
+  },
+  {
+    "text": "significant amounts of barium.",
+    "start": 2986.71,
+    "duration": 1.982
+  },
+  {
+    "text": "We also saw the other\nmaterials as well,",
+    "start": 2988.717,
+    "duration": 2.8
+  },
+  {
+    "text": "that you would associate with\nthe alumina from the probe tip,",
+    "start": 2991.542,
+    "duration": 5.043
+  },
+  {
+    "text": "but it's also dispersed\nin that crater.",
+    "start": 2996.61,
+    "duration": 2.34
+  },
+  {
+    "text": "But, nonetheless a lot of elements\nthere that weren't originally there.",
+    "start": 2999.953,
+    "duration": 3.991
+  },
+  {
+    "text": "Now, in the same way we can\nlook at the tungsten probe tip",
+    "start": 3004.483,
+    "duration": 4.691
+  },
+  {
+    "text": "and we look at the\nclean probe tip:",
+    "start": 3009.856,
+    "duration": 2.78
+  },
+  {
+    "text": "the aluminum, the silicon,\nprobably from the housing, right?",
+    "start": 3012.661,
+    "duration": 2.614
+  },
+  {
+    "text": "It’s got alumina around\nthe actual metal.",
+    "start": 3015.3,
+    "duration": 2.955
+  },
+  {
+    "text": "We also detect sodium\nand potassium.",
+    "start": 3020.549,
+    "duration": 3.237
+  },
+  {
+    "text": "I put in a question mark, because\nthat could come from contamination;",
+    "start": 3024.408,
+    "duration": 3.092
+  },
+  {
+    "text": "it could come from whatever\nthe preparation was.",
+    "start": 3027.51,
+    "duration": 3.427
+  },
+  {
+    "text": "And then we have ytterbium (Yb).",
+    "start": 3030.962,
+    "duration": 4.178
+  },
+  {
+    "text": "That was also a shoulder\npeak on a few of these.",
+    "start": 3035.15,
+    "duration": 3.231
+  },
+  {
+    "text": "So, it might be peak overlap, or it could\nbe real; we need higher resolution.",
+    "start": 3038.406,
+    "duration": 4.376
+  },
+  {
+    "text": "Then we start to see some other\nelements here, such as cobalt, tin.",
+    "start": 3043.393,
+    "duration": 5.346
+  },
+  {
+    "text": "Copper is probably from the cathode, but\nthis is the inside of the tungsten probe.",
+    "start": 3048.764,
+    "duration": 5.219
+  },
+  {
+    "text": "So, it could be contamination, or it\ncould be there from other mechanisms.",
+    "start": 3054.008,
+    "duration": 5.935
+  },
+  {
+    "text": "We don't know, we got\nto do more experiments.",
+    "start": 3059.968,
+    "duration": 2.515
+  },
+  {
+    "text": "Electron microscopy\nis very selective:",
+    "start": 3062.508,
+    "duration": 2.096
+  },
+  {
+    "text": "I spent many years doing\nelectron microscopy",
+    "start": 3064.629,
+    "duration": 2.363
+  },
+  {
+    "text": "and you can find anything you want in your\nsample, to make your professors happy.",
+    "start": 3067.017,
+    "duration": 4.499
+  },
+  {
+    "text": "Not that I did that, but\nI was very careful,",
+    "start": 3071.541,
+    "duration": 2.94
+  },
+  {
+    "text": "because that's exactly\nwhat they taught me.",
+    "start": 3074.506,
+    "duration": 1.744
+  },
+  {
+    "text": "They taught me, listen you don't just take\na few pictures, you got to take a lot.",
+    "start": 3076.275,
+    "duration": 2.706
+  },
+  {
+    "text": "You got to go through it, so that you're\nrepresenting your sample honestly.",
+    "start": 3079.006,
+    "duration": 4.255
+  },
+  {
+    "text": "And that's something\nthat we did:",
+    "start": 3083.286,
+    "duration": 2.92
+  },
+  {
+    "text": "we looked at a\nlot of parts of this.",
+    "start": 3086.231,
+    "duration": 1.688
+  },
+  {
+    "text": "We still need to\ndo more experiments;",
+    "start": 3087.944,
+    "duration": 2.159
+  },
+  {
+    "text": "one set of experiments\nis never enough,",
+    "start": 3090.128,
+    "duration": 1.67
+  },
+  {
+    "text": "especially when you're\ndoing elemental analysis.",
+    "start": 3091.823,
+    "duration": 2.364
+  },
+  {
+    "text": "So, obviously, we need\nsome more verification",
+    "start": 3094.212,
+    "duration": 2.421
+  },
+  {
+    "text": "and we got to think of where these\nimpurities could come from.",
+    "start": 3096.658,
+    "duration": 2.782
+  },
+  {
+    "text": "But looking back\nat this micrograph",
+    "start": 3099.465,
+    "duration": 2.483
+  },
+  {
+    "text": "you see that this area\nhere is sintered.",
+    "start": 3101.973,
+    "duration": 3.406
+  },
+  {
+    "text": "And as a reminder,\nlike Monty said,",
+    "start": 3105.404,
+    "duration": 2.325
+  },
+  {
+    "text": "the melting point of\ntungsten is around 3,600º C",
+    "start": 3107.754,
+    "duration": 4.871
+  },
+  {
+    "text": "- well, melting really.",
+    "start": 3114.508,
+    "duration": 1.812
+  },
+  {
+    "text": "Boiling is 6,600 right, yeah.",
+    "start": 3116.32,
+    "duration": 2.43
+  },
+  {
+    "text": "Now, our anode was\nonly at 1,000 C.",
+    "start": 3118.76,
+    "duration": 3.76
+  },
+  {
+    "text": "So, we have some temperature\ndisparities here.",
+    "start": 3122.53,
+    "duration": 3.211
+  },
+  {
+    "text": "We also have sintering\nof the material;",
+    "start": 3125.766,
+    "duration": 2.658
+  },
+  {
+    "text": "we have stress fractures\nhere, along the grain boundaries",
+    "start": 3128.449,
+    "duration": 4.6
+  },
+  {
+    "text": "and we have this weird sintered kind of\nexplosion from the inside of the matrix.",
+    "start": 3133.074,
+    "duration": 5.039
+  },
+  {
+    "text": "So, again: impurities maybe?",
+    "start": 3140.692,
+    "duration": 2.534
+  },
+  {
+    "text": "Calcium, aluminum could arise\nfrom alumina materials.",
+    "start": 3143.251,
+    "duration": 3.03
+  },
+  {
+    "text": "As far as we know there is no barium,\ncerium, titanium in the chamber.",
+    "start": 3146.306,
+    "duration": 4.687
+  },
+  {
+    "text": "You look at all the\nmaterials that go in;",
+    "start": 3151.018,
+    "duration": 2.269
+  },
+  {
+    "text": "the next step is looking at the\nprocessing of the materials we use.",
+    "start": 3153.312,
+    "duration": 3.458
+  },
+  {
+    "text": "Maybe there are impurities in the\nprocessing of materials that we use.",
+    "start": 3156.795,
+    "duration": 3.603
+  },
+  {
+    "text": "Highly likely not, because a lot\nof these materials are very pure.",
+    "start": 3160.423,
+    "duration": 3.827
+  },
+  {
+    "text": "So we know what’s in the chamber,\nwe know there are impurities.",
+    "start": 3164.275,
+    "duration": 3.325
+  },
+  {
+    "text": "What we see in this analysis, we see\nsomething that is not accounted for.",
+    "start": 3167.625,
+    "duration": 3.824
+  },
+  {
+    "text": "Now I'll go out on a limb here, I\nmean there's a lot of data out there,",
+    "start": 3171.474,
+    "duration": 4.031
+  },
+  {
+    "text": "and take it for face value in the Low\nEnergy Nuclear Reaction (LENR) community",
+    "start": 3175.53,
+    "duration": 5.761
+  },
+  {
+    "text": "that has done a number of\nstudies on transmutation.",
+    "start": 3181.316,
+    "duration": 3.572
+  },
+  {
+    "text": "A lot of the craters that they observe and\nthat they see transmutation occurring in,",
+    "start": 3184.913,
+    "duration": 5.569
+  },
+  {
+    "text": "have the same kind\nof characteristics.",
+    "start": 3190.507,
+    "duration": 2.343
+  },
+  {
+    "text": "They actually come out from\nthe lattice of the material.",
+    "start": 3192.875,
+    "duration": 3.854
+  },
+  {
+    "text": "Now they work a lot with palladium\nand platinum and noble metals",
+    "start": 3196.754,
+    "duration": 3.284
+  },
+  {
+    "text": "that are highly\nloaded with hydrogen.",
+    "start": 3200.063,
+    "duration": 2.061
+  },
+  {
+    "text": "So, they load these\nthings up with hydrogen",
+    "start": 3202.149,
+    "duration": 2.164
+  },
+  {
+    "text": "and then they observe these reactions that\noccur over time, and they're very minute.",
+    "start": 3204.338,
+    "duration": 4.158
+  },
+  {
+    "text": "Very small changes in the overall\nconcentration of materials.",
+    "start": 3208.521,
+    "duration": 3.937
+  },
+  {
+    "text": "Nonetheless they are real, because\nthey can pinpoint these craters,",
+    "start": 3212.483,
+    "duration": 3.31
+  },
+  {
+    "text": "they can analyze the materials they’re in,\nand they see these changes happening.",
+    "start": 3215.818,
+    "duration": 3.983
+  },
+  {
+    "text": "So, these are just a few select\npapers, recent ones that came out",
+    "start": 3219.826,
+    "duration": 4.139
+  },
+  {
+    "text": "with some transmutation reports.",
+    "start": 3223.99,
+    "duration": 3.664
+  },
+  {
+    "text": "Commercial enterprises have\nrepeated this as well.",
+    "start": 3228.333,
+    "duration": 3.287
+  },
+  {
+    "text": "Mitsubishi, and recently Toyota\nreplicated Mitsubishi studies",
+    "start": 3231.63,
+    "duration": 4.644
+  },
+  {
+    "text": "here with some of\ntheir R&D investment,",
+    "start": 3236.299,
+    "duration": 3.431
+  },
+  {
+    "text": "seeing that there's transmutation\nin certain complexes.",
+    "start": 3239.755,
+    "duration": 3.573
+  },
+  {
+    "text": "So, validation of results.",
+    "start": 3245.078,
+    "duration": 1.395
+  },
+  {
+    "text": "As I said, one data\nset isn't enough,",
+    "start": 3246.498,
+    "duration": 1.892
+  },
+  {
+    "text": "especially when you're dealing\nwith certain kinds of reactions.",
+    "start": 3248.4,
+    "duration": 4.259
+  },
+  {
+    "text": "At the University of Toronto\nI am going to follow up,",
+    "start": 3252.684,
+    "duration": 2.864
+  },
+  {
+    "text": "using laser ablation-inductively\ncoupled mass spectrometry.",
+    "start": 3255.573,
+    "duration": 4.451
+  },
+  {
+    "text": "So, that's pretty much the SEM.",
+    "start": 3260.049,
+    "duration": 3.656
+  },
+  {
+    "text": "But now instead of just doing a probe and\nlooking at the X-ray energies coming off",
+    "start": 3263.73,
+    "duration": 4.448
+  },
+  {
+    "text": "you're actually going to laser\nablate, or laser vaporize materials",
+    "start": 3268.203,
+    "duration": 4.847
+  },
+  {
+    "text": "that are in certain areas\nthat you highlight,",
+    "start": 3273.075,
+    "duration": 3.334
+  },
+  {
+    "text": "that is then analyzed with a mass spectrometer,\na very accurate mass spectrometer.",
+    "start": 3276.434,
+    "duration": 4.37
+  },
+  {
+    "text": "So, this is a technique that the Toyota\nfolks used to validate Mitsubishi's results",
+    "start": 3280.829,
+    "duration": 4.482
+  },
+  {
+    "text": "and will hopefully eventually return,\nand do augmented studies on,",
+    "start": 3285.336,
+    "duration": 4.395
+  },
+  {
+    "text": "not only the anode but possibly\nother parts of the reactor.",
+    "start": 3289.756,
+    "duration": 5.93
+  },
+  {
+    "text": "We're about to pause\nnow again, if we want.",
+    "start": 3297.809,
+    "duration": 4.0
+  },
+  {
+    "text": "Yeah, go ahead, yeah, sure,",
+    "start": 3303.587,
+    "duration": 3.727
+  },
+  {
+    "text": "you need the microphone,\nyou need the microphone.",
+    "start": 3307.339,
+    "duration": 3.603
+  },
+  {
+    "text": "“We know that in the Sun will happen,\nin the nuclear reaction that happen is,",
+    "start": 3311.396,
+    "duration": 4.576
+  },
+  {
+    "text": "hydrogen the main\nfuel in the top,",
+    "start": 3315.997,
+    "duration": 3.841
+  },
+  {
+    "text": "and reach a million degrees\nin the solar corona.",
+    "start": 3319.863,
+    "duration": 4.286
+  },
+  {
+    "text": "So, what do you aim,",
+    "start": 3324.174,
+    "duration": 2.635
+  },
+  {
+    "text": "what temperature do you aim\nto reach in the container.",
+    "start": 3326.834,
+    "duration": 4.09
+  },
+  {
+    "text": "What kind of container?",
+    "start": 3330.949,
+    "duration": 1.412
+  },
+  {
+    "text": "Is it going to be a\nmagnetic container,",
+    "start": 3332.386,
+    "duration": 1.825
+  },
+  {
+    "text": "like the one that they use,\nor are trying to use now?",
+    "start": 3334.236,
+    "duration": 2.192
+  },
+  {
+    "text": "We were actually going to\ntalk about that,",
+    "start": 3336.453,
+    "duration": 2.191
+  },
+  {
+    "text": "because the temperatures that we're seeing\nright now, there are two responses.",
+    "start": 3338.669,
+    "duration": 3.886
+  },
+  {
+    "text": "And why I was talking about\nthe thermodynamics,",
+    "start": 3342.58,
+    "duration": 2.29
+  },
+  {
+    "text": "is because right now, standard\nthermodynamics cannot",
+    "start": 3344.88,
+    "duration": 2.996
+  },
+  {
+    "text": "answer for why we're\ngetting some of these, for",
+    "start": 3347.901,
+    "duration": 2.541
+  },
+  {
+    "text": "what you would see, for what\nwe call, “thermal responses”.",
+    "start": 3350.467,
+    "duration": 3.738
+  },
+  {
+    "text": "So, think of your\nmicrowave at home.",
+    "start": 3354.23,
+    "duration": 2.336
+  },
+  {
+    "text": "In fact, the energy you are putting in there\nisn’t thermal, like a convection oven,",
+    "start": 3356.591,
+    "duration": 4.163
+  },
+  {
+    "text": "but you can still heat up\nmaterials that are in there.",
+    "start": 3360.779,
+    "duration": 2.473
+  },
+  {
+    "text": "So, the kind of energies that\nwe're going to be getting into,",
+    "start": 3363.277,
+    "duration": 2.229
+  },
+  {
+    "text": "we're going to be talking\nabout this very shortly,",
+    "start": 3365.531,
+    "duration": 2.745
+  },
+  {
+    "text": "would be analogous to\nthat kind of thing.",
+    "start": 3368.301,
+    "duration": 2.794
+  },
+  {
+    "text": "So temperature,...",
+    "start": 3371.12,
+    "duration": 2.151
+  },
+  {
+    "text": "... that's a whole discussion and\nwe can get into what temperature is",
+    "start": 3375.415,
+    "duration": 5.221
+  },
+  {
+    "text": "in the context of plasma physics,\nwhich isn't, you might say, standard,",
+    "start": 3380.661,
+    "duration": 7.103
+  },
+  {
+    "text": "thermal or black body radiation\nkind of responses that you got.",
+    "start": 3387.789,
+    "duration": 3.642
+  },
+  {
+    "text": "So, the temperatures that\nwe're seeing here, would be",
+    "start": 3391.456,
+    "duration": 3.039
+  },
+  {
+    "text": "looks like (they are) orders of\nmagnitude beyond what we predicted,",
+    "start": 3394.52,
+    "duration": 4.039
+  },
+  {
+    "text": "in layman's terms.",
+    "start": 3398.584,
+    "duration": 2.023
+  },
+  {
+    "text": "But in real terms",
+    "start": 3400.632,
+    "duration": 5.527
+  },
+  {
+    "text": "it's not a thermal\ntemperature in that context.",
+    "start": 3406.184,
+    "duration": 4.876
+  },
+  {
+    "text": "We're going to be\ngetting into this.",
+    "start": 3411.06,
+    "duration": 1.99
+  },
+  {
+    "text": "Okay, another question?",
+    "start": 3413.075,
+    "duration": 2.088
+  },
+  {
+    "text": "Well presumably, you were going to use\nyour probe to test different things,",
+    "start": 3416.543,
+    "duration": 5.858
+  },
+  {
+    "text": "but then your probe\ngot destroyed.",
+    "start": 3422.426,
+    "duration": 2.479
+  },
+  {
+    "text": "Does that mean you've\nbeen kind of sidetracked",
+    "start": 3424.93,
+    "duration": 2.412
+  },
+  {
+    "text": "into to figuring out what's\ngoing on to the probe,",
+    "start": 3427.367,
+    "duration": 1.652
+  },
+  {
+    "text": "before you get on to what you're\ngoing to use the probe for?",
+    "start": 3429.044,
+    "duration": 3.03
+  },
+  {
+    "text": "Well, obviously, you have\nto look at the failure mode",
+    "start": 3432.099,
+    "duration": 2.688
+  },
+  {
+    "text": "to determine what it is you're\ngoing to be doing next.",
+    "start": 3434.812,
+    "duration": 2.575
+  },
+  {
+    "text": "And we're already looking\nat that, so",
+    "start": 3437.412,
+    "duration": 2.278
+  },
+  {
+    "text": "we take a look at the actual time component\nthat it took in order for this to happen.",
+    "start": 3439.715,
+    "duration": 4.483
+  },
+  {
+    "text": "So, the amount of time it took for\nthe probe to see this much damage,",
+    "start": 3444.223,
+    "duration": 3.689
+  },
+  {
+    "text": "is about 15-20 seconds,",
+    "start": 3447.937,
+    "duration": 1.796
+  },
+  {
+    "text": "which if anybody who knows anything\nabout TIG (Tungsten Inert Gas) welding,",
+    "start": 3449.758,
+    "duration": 4.202
+  },
+  {
+    "text": "that's not a very long time,",
+    "start": 3453.985,
+    "duration": 1.658
+  },
+  {
+    "text": "because normally some of the arcs\nthat you get in TIG welders,",
+    "start": 3455.668,
+    "duration": 2.419
+  },
+  {
+    "text": "and this is type of\ntungsten we're using,",
+    "start": 3458.112,
+    "duration": 2.118
+  },
+  {
+    "text": "you could weld for half an\nhour, or maybe even an hour,",
+    "start": 3460.23,
+    "duration": 2.718
+  },
+  {
+    "text": "before you have to take\nthe tip out and grind it.",
+    "start": 3462.973,
+    "duration": 2.02
+  },
+  {
+    "text": "But we weren't seeing any\ndeterioration on the tip.",
+    "start": 3465.018,
+    "duration": 3.355
+  },
+  {
+    "text": "This is internal.",
+    "start": 3468.398,
+    "duration": 1.326
+  },
+  {
+    "text": "We got big questions here; this\nshouldn't be happening in that context.",
+    "start": 3469.749,
+    "duration": 3.689
+  },
+  {
+    "text": "So, those temperatures, in\nsome of the TIG welding,",
+    "start": 3473.463,
+    "duration": 3.055
+  },
+  {
+    "text": "the arc itself can\nreach 19,000 degrees.",
+    "start": 3476.543,
+    "duration": 3.385
+  },
+  {
+    "text": "So, [we could be seeing], the responses that\nwe're getting here are an indication of",
+    "start": 3481.599,
+    "duration": 5.413
+  },
+  {
+    "text": "much higher temperatures.",
+    "start": 3487.037,
+    "duration": 1.864
+  },
+  {
+    "text": "So now, what does that mean?",
+    "start": 3488.926,
+    "duration": 1.69
+  },
+  {
+    "text": "Well, we did get the tip\nand in we did get it out.",
+    "start": 3490.641,
+    "duration": 3.232
+  },
+  {
+    "text": "And it was in one piece, and\nwe were still getting data.",
+    "start": 3493.898,
+    "duration": 2.992
+  },
+  {
+    "text": "So, what we have to do now, is come\nup with a way to get a controller",
+    "start": 3496.915,
+    "duration": 4.269
+  },
+  {
+    "text": "that, as we move it down through those\ndouble layers, and back out again,",
+    "start": 3501.209,
+    "duration": 3.429
+  },
+  {
+    "text": "we can collect the data and bias the probe\nquickly, we are talking milliseconds,",
+    "start": 3504.663,
+    "duration": 4.039
+  },
+  {
+    "text": "and grab that data and get the heck\nout of Dodge before she gets smoked.",
+    "start": 3508.727,
+    "duration": 4.595
+  },
+  {
+    "text": "Okay, that's what we have to do,\nand that's not going to be easy,",
+    "start": 3513.347,
+    "duration": 3.329
+  },
+  {
+    "text": "because you get into floating potentials,\nand other types of technologies,",
+    "start": 3516.701,
+    "duration": 3.436
+  },
+  {
+    "text": "which to do that, there’s\ngoing to be some challenges.",
+    "start": 3520.162,
+    "duration": 3.069
+  },
+  {
+    "text": "One more?",
+    "start": 3523.256,
+    "duration": 0.966
+  },
+  {
+    "text": "Yeah, okay maybe one more.",
+    "start": 3526.079,
+    "duration": 2.818
+  },
+  {
+    "text": "It might be a quick question,\nmay not be long one.",
+    "start": 3530.47,
+    "duration": 3.754
+  },
+  {
+    "text": "It's really quick.",
+    "start": 3534.249,
+    "duration": 1.491
+  },
+  {
+    "text": "As a control, did you look\nat the probe by SEM before?",
+    "start": 3535.765,
+    "duration": 3.991
+  },
+  {
+    "text": "I know you looked after,\nbut did you look before?",
+    "start": 3539.781,
+    "duration": 2.647
+  },
+  {
+    "text": "Yeah, we have one shot of\nthe probe tip in there;",
+    "start": 3542.453,
+    "duration": 2.855
+  },
+  {
+    "text": "the standard tungsten,\nlike I showed.",
+    "start": 3545.333,
+    "duration": 2.657
+  },
+  {
+    "text": "No, I see tungsten;",
+    "start": 3550.71,
+    "duration": 1.596
+  },
+  {
+    "text": "we didn't show the\ngraph, but we did do it.",
+    "start": 3552.331,
+    "duration": 2.459
+  },
+  {
+    "text": "Yeah, we use different types\nof tungsten you can get,",
+    "start": 3557.264,
+    "duration": 2.78
+  },
+  {
+    "text": "with thorium and a bunch of other\ntypes of elements that are in there.",
+    "start": 3560.069,
+    "duration": 3.241
+  },
+  {
+    "text": "Though this was just\na pure tungsten tip.",
+    "start": 3563.31,
+    "duration": 2.783
+  },
+  {
+    "text": "So, I mean 99.5%\nor 99.9% tungsten.",
+    "start": 3566.118,
+    "duration": 4.718
+  },
+  {
+    "text": "Okay, let's move on.",
+    "start": 3570.861,
+    "duration": 1.639
+  },
+  {
+    "text": "So, now we're going to get into the\nmeasurement of the plasma and double layers.",
+    "start": 3572.525,
+    "duration": 3.963
+  },
+  {
+    "text": "Data that we were able to get\nfrom the probes once we got them",
+    "start": 3576.513,
+    "duration": 5.089
+  },
+  {
+    "text": "to a place we could use them.",
+    "start": 3581.627,
+    "duration": 1.895
+  },
+  {
+    "text": "So, we found quite by accident",
+    "start": 3583.547,
+    "duration": 2.348
+  },
+  {
+    "text": "what appeared to be a small voltage\ndrop, just off the surface of the anode",
+    "start": 3585.92,
+    "duration": 4.578
+  },
+  {
+    "text": "and according to our research\nobjectives, we were supposed to find.",
+    "start": 3590.523,
+    "duration": 5.705
+  },
+  {
+    "text": "But it wasn't much at all.",
+    "start": 3596.253,
+    "duration": 1.715
+  },
+  {
+    "text": "We saw initially about a 30 Volt\ndrop, just off the surface,",
+    "start": 3597.993,
+    "duration": 4.663
+  },
+  {
+    "text": "but it got us to thinking that maybe\nthe probe tip is just too long.",
+    "start": 3602.681,
+    "duration": 4.076
+  },
+  {
+    "text": "And so, these are\nthe double layers,",
+    "start": 3606.782,
+    "duration": 2.992
+  },
+  {
+    "text": "and this is not scaled properly,",
+    "start": 3609.799,
+    "duration": 2.894
+  },
+  {
+    "text": "but just to show\nyou how it works.",
+    "start": 3612.718,
+    "duration": 2.1
+  },
+  {
+    "text": "So the tungsten tip that you see\nthere, between the two red marks,",
+    "start": 3614.843,
+    "duration": 3.074
+  },
+  {
+    "text": "is the length of the tip\nthat's exposed to the plasma.",
+    "start": 3617.942,
+    "duration": 2.489
+  },
+  {
+    "text": "And that's actually what picks up\nthe electrical characteristics",
+    "start": 3620.456,
+    "duration": 3.57
+  },
+  {
+    "text": "of the plasma that's\nmeasuring it.",
+    "start": 3624.051,
+    "duration": 1.802
+  },
+  {
+    "text": "So, as you can see right here\nbetween the two red lines",
+    "start": 3625.878,
+    "duration": 2.884
+  },
+  {
+    "text": "there's a few double\nlayers that are in there.",
+    "start": 3628.787,
+    "duration": 2.683
+  },
+  {
+    "text": "And what happens\nin effect is that,",
+    "start": 3631.495,
+    "duration": 1.849
+  },
+  {
+    "text": "because the tip is long and it's\nmeasuring a few double layers,",
+    "start": 3633.369,
+    "duration": 3.166
+  },
+  {
+    "text": "we think what we get is more of an\naverage of what the voltage is.",
+    "start": 3636.56,
+    "duration": 3.417
+  },
+  {
+    "text": "It's measuring across those.",
+    "start": 3640.002,
+    "duration": 1.643
+  },
+  {
+    "text": "So, we decided well let's\njust shorten it down.",
+    "start": 3641.67,
+    "duration": 2.965
+  },
+  {
+    "text": "And so, we did,",
+    "start": 3644.66,
+    "duration": 1.525
+  },
+  {
+    "text": "and when we did, basically,\nthis is what we saw:",
+    "start": 3646.21,
+    "duration": 4.11
+  },
+  {
+    "text": "and the voltage drop here\nwas almost 300 Volts.",
+    "start": 3651.208,
+    "duration": 4.761
+  },
+  {
+    "text": "It was 270 Volts, I think\nor something wasn't it?",
+    "start": 3655.994,
+    "duration": 2.612
+  },
+  {
+    "text": "And the distance was\n0.03 millimeters.",
+    "start": 3658.631,
+    "duration": 5.336
+  },
+  {
+    "text": "It's really thin, okay?",
+    "start": 3665.3,
+    "duration": 2.999
+  },
+  {
+    "text": "But it's a very\npowerful double layer.",
+    "start": 3668.324,
+    "duration": 2.019
+  },
+  {
+    "text": "So, we've done the test a number of times and\nwe validated this particular measurement;",
+    "start": 3670.368,
+    "duration": 3.905
+  },
+  {
+    "text": "this sharp voltage drop.",
+    "start": 3674.298,
+    "duration": 1.392
+  },
+  {
+    "text": "The actual curve coming off of\nthe back, can vary a little bit,",
+    "start": 3675.715,
+    "duration": 3.063
+  },
+  {
+    "text": "but the sharp voltage\ndrop that you see here,",
+    "start": 3678.803,
+    "duration": 1.902
+  },
+  {
+    "text": "is typical of all the plots\nwe're seeing in SAFIRE.",
+    "start": 3680.73,
+    "duration": 2.512
+  },
+  {
+    "text": "So, we can confidently\nsay today,",
+    "start": 3683.267,
+    "duration": 2.129
+  },
+  {
+    "text": "in fact there is a sharp voltage\ndrop that Dr. Donald Scott predicted",
+    "start": 3685.421,
+    "duration": 3.629
+  },
+  {
+    "text": "and that is in fact\nwhat we're seeing here.",
+    "start": 3689.075,
+    "duration": 2.372
+  },
+  {
+    "text": "And it's pretty big.",
+    "start": 3691.472,
+    "duration": 1.572
+  },
+  {
+    "text": "So, with that, this is where\nMichael is going to take over,",
+    "start": 3693.829,
+    "duration": 3.018
+  },
+  {
+    "text": "because he was doing\nsome analysis on this",
+    "start": 3696.872,
+    "duration": 1.92
+  },
+  {
+    "text": "and this is getting into\nhis area of expertise.",
+    "start": 3698.817,
+    "duration": 2.95
+  },
+  {
+    "text": "You get all the fun stuff.",
+    "start": 3702.592,
+    "duration": 1.713
+  },
+  {
+    "text": "I do.",
+    "start": 3704.33,
+    "duration": 1.033
+  },
+  {
+    "text": "So, we can look at global\nproperties of the plasma,",
+    "start": 3706.03,
+    "duration": 5.702
+  },
+  {
+    "text": "the discharge,\nelectrical properties,",
+    "start": 3711.757,
+    "duration": 2.613
+  },
+  {
+    "text": "or we can also look at properties at\na particular point in the plasma.",
+    "start": 3714.395,
+    "duration": 5.152
+  },
+  {
+    "text": "So, what Monty just talked\nthrough with the Langmuir probe,",
+    "start": 3719.572,
+    "duration": 3.031
+  },
+  {
+    "text": "that's because we're trying to get measurements\nat particular points in the plasma.",
+    "start": 3722.628,
+    "duration": 4.489
+  },
+  {
+    "text": "But it's also worthwhile\nknowing and analyzing",
+    "start": 3727.142,
+    "duration": 2.632
+  },
+  {
+    "text": "what's going on with a\ndischarge as a whole.",
+    "start": 3729.799,
+    "duration": 2.953
+  },
+  {
+    "text": "So, here's plots of current and\nvoltage across the whole discharge",
+    "start": 3732.777,
+    "duration": 5.56
+  },
+  {
+    "text": "and you can see in the bottom\nsome pictures of what's going on",
+    "start": 3738.971,
+    "duration": 5.048
+  },
+  {
+    "text": "in the chamber at that point.",
+    "start": 3744.044,
+    "duration": 1.736
+  },
+  {
+    "text": "So, at Point A, we have a\npretty quiet discharge,",
+    "start": 3745.805,
+    "duration": 3.825
+  },
+  {
+    "text": "with a few anode tufts on there.",
+    "start": 3749.65,
+    "duration": 2.34
+  },
+  {
+    "text": "Then we crank up the current.",
+    "start": 3752.01,
+    "duration": 2.56
+  },
+  {
+    "text": "What happens?",
+    "start": 3754.59,
+    "duration": 1.423
+  },
+  {
+    "text": "The plasma responds by increasing\nthe voltage drop across the plasma,",
+    "start": 3756.038,
+    "duration": 5.212
+  },
+  {
+    "text": "and by creating a lot more\nof those little tufts,",
+    "start": 3761.27,
+    "duration": 3.69
+  },
+  {
+    "text": "and actually eventually\nsending them into motion.",
+    "start": 3764.99,
+    "duration": 3.02
+  },
+  {
+    "text": "Then at point B you can see\nthat red line shoot up again.",
+    "start": 3768.04,
+    "duration": 3.53
+  },
+  {
+    "text": "That's because we cranked\nthe current knob;",
+    "start": 3771.6,
+    "duration": 3.71
+  },
+  {
+    "text": "so, we pushed more current\nthrough the plasma.",
+    "start": 3775.33,
+    "duration": 3.52
+  },
+  {
+    "text": "And in response, you can see the voltage\ngoes up again across the plasma,",
+    "start": 3778.88,
+    "duration": 4.752
+  },
+  {
+    "text": "and we create a lot of double layers;\nsix or seven double layers there.",
+    "start": 3783.657,
+    "duration": 5.636
+  },
+  {
+    "text": "That wiggle in the blue line,\nwe don't know what that is yet.",
+    "start": 3790.911,
+    "duration": 3.372
+  },
+  {
+    "text": "That's not our power supply,\nso to be looked at later;",
+    "start": 3794.308,
+    "duration": 4.827
+  },
+  {
+    "text": "and I'm not actually going to talk much\nabout what happened at the end there.",
+    "start": 3799.16,
+    "duration": 4.12
+  },
+  {
+    "text": "We had a big release of energy, but I can't\ntalk much about what was going on there.",
+    "start": 3803.305,
+    "duration": 4.995
+  },
+  {
+    "text": "Okay, then you can also look at\nthe resistance across the chamber",
+    "start": 3810.18,
+    "duration": 4.51
+  },
+  {
+    "text": "and the power consumed by, or\ntransformed by the discharge.",
+    "start": 3814.69,
+    "duration": 6.269
+  },
+  {
+    "text": "So, the green Line is the resistance\nacross the whole discharge,",
+    "start": 3820.984,
+    "duration": 4.645
+  },
+  {
+    "text": "and the black line is the\npower consumed or transformed",
+    "start": 3825.654,
+    "duration": 3.587
+  },
+  {
+    "text": "and it's those same regimes,\nsame A, B, C and D.",
+    "start": 3829.266,
+    "duration": 5.454
+  },
+  {
+    "text": "So, the first thing that happened,\nwhen you created all the little tufts:",
+    "start": 3834.745,
+    "duration": 4.538
+  },
+  {
+    "text": "that green Line drops way down.",
+    "start": 3839.308,
+    "duration": 2.322
+  },
+  {
+    "text": "That's the resistance\nof the plasma.",
+    "start": 3841.63,
+    "duration": 1.848
+  },
+  {
+    "text": "It goes way down, when\nthose tufts are created",
+    "start": 3843.503,
+    "duration": 2.629
+  },
+  {
+    "text": "and there's that initial\nincrease in the power consumed.",
+    "start": 3846.157,
+    "duration": 3.278
+  },
+  {
+    "text": "Then, at point B they've\ncranked the current more,",
+    "start": 3850.04,
+    "duration": 2.959
+  },
+  {
+    "text": "the resistance goes down even more,\nas we're creating double layers",
+    "start": 3853.024,
+    "duration": 3.627
+  },
+  {
+    "text": "and the power consumption\ngoes way up.",
+    "start": 3856.676,
+    "duration": 2.654
+  },
+  {
+    "text": "So, the plasma is responding\nto how we're pushing it",
+    "start": 3859.36,
+    "duration": 5.53
+  },
+  {
+    "text": "and one of the ways, and we can repeat\nagain and we need to study more, is",
+    "start": 3864.915,
+    "duration": 4.697
+  },
+  {
+    "text": "it responds in ways to\nlower its resistance",
+    "start": 3869.637,
+    "duration": 3.888
+  },
+  {
+    "text": "and greatly increase the amount\nof power it can transform.",
+    "start": 3873.55,
+    "duration": 4.9
+  },
+  {
+    "text": "We designed SAFIRE to be able\nto vary voltage and current independently.",
+    "start": 3878.47,
+    "duration": 4.77
+  },
+  {
+    "text": "This particular run, we were\njust varying the current,",
+    "start": 3883.27,
+    "duration": 2.78
+  },
+  {
+    "text": "but no one knows yet, in a cosmological\nsetting, what the driver is.",
+    "start": 3886.08,
+    "duration": 5.61
+  },
+  {
+    "text": "Whether voltage primarily drives\nthings, or current drives things,",
+    "start": 3891.72,
+    "duration": 3.25
+  },
+  {
+    "text": "or some combination of them.",
+    "start": 3894.98,
+    "duration": 1.67
+  },
+  {
+    "text": "So, we have built in the flexibility\nto control them independently.",
+    "start": 3896.675,
+    "duration": 4.355
+  },
+  {
+    "text": "And this may seem\nlike basic research,",
+    "start": 3901.6,
+    "duration": 3.64
+  },
+  {
+    "text": "but it is, and it's\nso needed because,",
+    "start": 3905.27,
+    "duration": 3.612
+  },
+  {
+    "text": "even though we know double layers are\neverywhere, they're over our heads right now,",
+    "start": 3908.907,
+    "duration": 4.122
+  },
+  {
+    "text": "they're in the magnetosphere,\nthey're in solar flares etc.,",
+    "start": 3913.054,
+    "duration": 3.068
+  },
+  {
+    "text": "there's not that much known about how\nto write down the circuit diagram",
+    "start": 3916.147,
+    "duration": 4.593
+  },
+  {
+    "text": "for double layers in astronomy.",
+    "start": 3920.77,
+    "duration": 2.046
+  },
+  {
+    "text": "There is almost nothing\nknown about that.",
+    "start": 3922.841,
+    "duration": 2.093
+  },
+  {
+    "text": "So, this research\nthat we're doing here",
+    "start": 3924.959,
+    "duration": 2.161
+  },
+  {
+    "text": "is entirely done largely to help give\ndirection to future astrophysicists,",
+    "start": 3927.14,
+    "duration": 5.72
+  },
+  {
+    "text": "so they know what to look for in\nmagnetospheres and solar flares etc.",
+    "start": 3932.89,
+    "duration": 4.11
+  },
+  {
+    "text": "and how to interpret what they're seeing\nin terms of electrical circuitry.",
+    "start": 3937.01,
+    "duration": 4.196
+  },
+  {
+    "text": "This is absolutely\nfundamental, what we're doing.",
+    "start": 3941.231,
+    "duration": 4.661
+  },
+  {
+    "text": "So, let's switch then to the\npoint measurements, okay,",
+    "start": 3945.917,
+    "duration": 3.8
+  },
+  {
+    "text": "so now we're not talking about the\nglobal plasma, we're talking about",
+    "start": 3949.742,
+    "duration": 3.836
+  },
+  {
+    "text": "that point where the\nLangmuir probe is.",
+    "start": 3953.603,
+    "duration": 2.628
+  },
+  {
+    "text": "And we go up close, the left-hand\nside is close to the anode.",
+    "start": 3956.256,
+    "duration": 3.607
+  },
+  {
+    "text": "The anode actually starts at\nthe number 1, not at zero,",
+    "start": 3959.888,
+    "duration": 3.148
+  },
+  {
+    "text": "the surface of the anode,",
+    "start": 3963.061,
+    "duration": 1.365
+  },
+  {
+    "text": "and then we move\nout to the right",
+    "start": 3964.451,
+    "duration": 1.824
+  },
+  {
+    "text": "and we go out basically to\nthe end of the chamber.",
+    "start": 3966.3,
+    "duration": 2.489
+  },
+  {
+    "text": "The red X's are the floating\npotential, with our new probe.",
+    "start": 3968.814,
+    "duration": 3.796
+  },
+  {
+    "text": "That means you stick\na probe in there,",
+    "start": 3972.635,
+    "duration": 1.863
+  },
+  {
+    "text": "it's going to raise up to a certain\nelectrical potential on its own,",
+    "start": 3974.523,
+    "duration": 3.659
+  },
+  {
+    "text": "just from being\ninserted in the plasma.",
+    "start": 3978.207,
+    "duration": 1.933
+  },
+  {
+    "text": "We measure that, we move it out",
+    "start": 3980.15,
+    "duration": 2.298
+  },
+  {
+    "text": "and we take measurements,\nthat's the red line.",
+    "start": 3982.473,
+    "duration": 2.829
+  },
+  {
+    "text": "And you can see that it goes\nfrom 300 Volts down to zero.",
+    "start": 3985.327,
+    "duration": 3.664
+  },
+  {
+    "text": "Totally makes sense:\nwe had our anode of 300 Volts,",
+    "start": 3989.016,
+    "duration": 2.697
+  },
+  {
+    "text": "you move the probe all the way out to the\nend of the chamber, it goes down to zero.",
+    "start": 3991.738,
+    "duration": 4.34
+  },
+  {
+    "text": "Then the fun starts",
+    "start": 3996.47,
+    "duration": 2.164
+  },
+  {
+    "text": "and you can calculate other parameters in the\nplasma, like the electric field strength.",
+    "start": 3998.659,
+    "duration": 4.821
+  },
+  {
+    "text": "So, electric field strength is",
+    "start": 4003.48,
+    "duration": 3.026
+  },
+  {
+    "text": "how much your electrical\npotential changes with distance.",
+    "start": 4006.531,
+    "duration": 4.856
+  },
+  {
+    "text": "And so, if I had a chamber that\nhad a 300 Volt anode here,",
+    "start": 4011.412,
+    "duration": 4.518
+  },
+  {
+    "text": "and the end of the chamber, which was\na meter away, went down to zero,",
+    "start": 4015.94,
+    "duration": 3.861
+  },
+  {
+    "text": "you would say that the change in the\nelectric potential is 300 Volts per meter.",
+    "start": 4019.826,
+    "duration": 5.793
+  },
+  {
+    "text": "Okay, that's how you\ndescribe electric fields:",
+    "start": 4025.644,
+    "duration": 2.732
+  },
+  {
+    "text": "300 Volts per meter,\nis the change.",
+    "start": 4028.401,
+    "duration": 2.41
+  },
+  {
+    "text": "But what we found very\nclearly from this data,",
+    "start": 4030.836,
+    "duration": 3.177
+  },
+  {
+    "text": "and I'm sorry I didn't label\nthe vertical axis better,",
+    "start": 4034.038,
+    "duration": 2.68
+  },
+  {
+    "text": "but that green peak,\nthat's the electric field,",
+    "start": 4036.743,
+    "duration": 2.771
+  },
+  {
+    "text": "that peak has nothing to do\nwith those numbers on the left.",
+    "start": 4039.539,
+    "duration": 3.085
+  },
+  {
+    "text": "That green peak is at about 8,000 Volts\nper meter, not 300 Volts per meter,",
+    "start": 4042.649,
+    "duration": 6.349
+  },
+  {
+    "text": "which you might think, if you\njust looked at the rough numbers.",
+    "start": 4049.023,
+    "duration": 2.957
+  },
+  {
+    "text": "So, this is great because it's showing\nus that these discharge plasmas,",
+    "start": 4052.005,
+    "duration": 5.363
+  },
+  {
+    "text": "they have the ability to sustain within\nthem, much more intense regimes,",
+    "start": 4057.393,
+    "duration": 5.334
+  },
+  {
+    "text": "much more intensive is going\non than you would ever guess,",
+    "start": 4062.752,
+    "duration": 2.665
+  },
+  {
+    "text": "if you just were stepping back and\nlooking at your power supply, right?",
+    "start": 4065.442,
+    "duration": 3.343
+  },
+  {
+    "text": "If you look at your power\nsupply, you would never guess",
+    "start": 4068.81,
+    "duration": 2.329
+  },
+  {
+    "text": "that there was 8,000 Volts per\nmeter electric fields in there.",
+    "start": 4071.164,
+    "duration": 3.768
+  },
+  {
+    "text": "The black line is charge density,\nso these double layers exist",
+    "start": 4075.959,
+    "duration": 3.218
+  },
+  {
+    "text": "because charge is positive and negative\ncharges build up next to each other.",
+    "start": 4079.202,
+    "duration": 4.027
+  },
+  {
+    "text": "So, we can see we're starting to be able to\nmeasure those charge density fluctuations.",
+    "start": 4083.254,
+    "duration": 4.27
+  },
+  {
+    "text": "It's the left hand side\nthere, the black line",
+    "start": 4087.549,
+    "duration": 2.883
+  },
+  {
+    "text": "when it gets a little bit closer to\nthe anode, it drops way, way down.",
+    "start": 4090.457,
+    "duration": 4.37
+  },
+  {
+    "text": "I didn't include\nit on this graph.",
+    "start": 4094.852,
+    "duration": 1.688
+  },
+  {
+    "text": "I couldn't get that on there\nbut just so you know that",
+    "start": 4096.54,
+    "duration": 3.298
+  },
+  {
+    "text": "that black line drops way down,",
+    "start": 4099.863,
+    "duration": 2.669
+  },
+  {
+    "text": "if we get one fraction of a\nmillimeter closer to the anode.",
+    "start": 4102.557,
+    "duration": 3.383
+  },
+  {
+    "text": "And then the blue one is the\nresistance of the chamber.",
+    "start": 4105.965,
+    "duration": 2.552
+  },
+  {
+    "text": "So, since we have a designed a double\nprobe also, we didn't show you that one,",
+    "start": 4108.542,
+    "duration": 3.938
+  },
+  {
+    "text": "we can stick those\ntwo wires in there",
+    "start": 4112.505,
+    "duration": 2.356
+  },
+  {
+    "text": "and measure the resistance of the plasma\nacross that little gap between the two wires",
+    "start": 4114.886,
+    "duration": 5.869
+  },
+  {
+    "text": "and so you can see the resistance is basically\ninfinite, as you get closer to the anode,",
+    "start": 4120.78,
+    "duration": 4.667
+  },
+  {
+    "text": "drops to almost zero, climbs back\nup, falls back down and that last",
+    "start": 4125.472,
+    "duration": 5.192
+  },
+  {
+    "text": "rise at the end there\nof the resistance line,",
+    "start": 4130.689,
+    "duration": 2.657
+  },
+  {
+    "text": "I'm pretty sure, is heading back up to\nessentially, you know huge, huge numbers.",
+    "start": 4133.371,
+    "duration": 4.301
+  },
+  {
+    "text": "I love this graph.",
+    "start": 4137.697,
+    "duration": 2.617
+  },
+  {
+    "text": "I'm very proud that we\nwere able to make this,",
+    "start": 4140.339,
+    "duration": 1.593
+  },
+  {
+    "text": "because you don't often see so many\nplasma parameters, all taken together",
+    "start": 4141.957,
+    "duration": 5.746
+  },
+  {
+    "text": "and displayed together and, similar\nto what I was saying about",
+    "start": 4147.728,
+    "duration": 4.031
+  },
+  {
+    "text": "the overall plasma electrical\ncharacteristics is so needed for astronomy",
+    "start": 4151.784,
+    "duration": 4.022
+  },
+  {
+    "text": "so you can start making\ncircuit diagrams,",
+    "start": 4155.831,
+    "duration": 2.204
+  },
+  {
+    "text": "this sort of ability to see all these\ndifferent parameters in the plasma,",
+    "start": 4158.06,
+    "duration": 3.531
+  },
+  {
+    "text": "at the same time,\non the same graph,",
+    "start": 4161.616,
+    "duration": 2.213
+  },
+  {
+    "text": "is what we need in order to start\ndigging into what's going on,",
+    "start": 4163.854,
+    "duration": 3.545
+  },
+  {
+    "text": "what's the physics inside\nof this plasma here.",
+    "start": 4167.424,
+    "duration": 4.507
+  },
+  {
+    "text": "And since a lot of these results\nwere done pretty recently,",
+    "start": 4172.718,
+    "duration": 3.982
+  },
+  {
+    "text": "more analysis kept coming in the\nday, we were supposed to submit it.",
+    "start": 4176.725,
+    "duration": 3.077
+  },
+  {
+    "text": "Lowell gave me this graph,\nokay, I'll put this in there,",
+    "start": 4179.827,
+    "duration": 2.217
+  },
+  {
+    "text": "before we hit ”send”, he\nsends me another graph.",
+    "start": 4182.069,
+    "duration": 1.972
+  },
+  {
+    "text": "Okay, I'll put\nthis one in there.",
+    "start": 4184.066,
+    "duration": 1.724
+  },
+  {
+    "text": "This is the electron temperature",
+    "start": 4185.815,
+    "duration": 2.76
+  },
+  {
+    "text": "in the different areas, that plasma close,\nwe're getting close, to the anode, okay?",
+    "start": 4188.6,
+    "duration": 5.275
+  },
+  {
+    "text": "So it's going up and down;",
+    "start": 4193.9,
+    "duration": 2.264
+  },
+  {
+    "text": "see how, that close to the\nanode there, it's at 7.",
+    "start": 4196.189,
+    "duration": 2.991
+  },
+  {
+    "text": "Okay, that's Electronvolt,\n7 Electronvolt electrons.",
+    "start": 4199.18,
+    "duration": 5.15
+  },
+  {
+    "text": "That's pretty hot for\nearthly conditions.",
+    "start": 4205.06,
+    "duration": 2.15
+  },
+  {
+    "text": "If I had a jar of 7 Electronvolt electrons,",
+    "start": 4207.235,
+    "duration": 6.479
+  },
+  {
+    "text": "and you stuck your thermometer in there,\nit would read about 81,000 degrees.",
+    "start": 4213.739,
+    "duration": 4.578
+  },
+  {
+    "text": "That would be the effective\ncomparable temperature to it.",
+    "start": 4218.342,
+    "duration": 3.134
+  },
+  {
+    "text": "So, we have in SAFIRE tens of thousands\nof degree fluctuations in temperature",
+    "start": 4221.501,
+    "duration": 6.369
+  },
+  {
+    "text": "taking place over millimeters or centimeters,\nsafely, no one's being hurt, right?",
+    "start": 4227.895,
+    "duration": 6.66
+  },
+  {
+    "text": "Not yet, and we can control\nit, we can reproduce it,",
+    "start": 4234.58,
+    "duration": 3.136
+  },
+  {
+    "text": "and as we saw with the probes,",
+    "start": 4237.741,
+    "duration": 2.9
+  },
+  {
+    "text": "we're starting to see how\nto release that energy.",
+    "start": 4240.666,
+    "duration": 2.698
+  },
+  {
+    "text": "But we'll talk more about that very\nsoon; about the release of the energy.",
+    "start": 4243.389,
+    "duration": 3.97
+  },
+  {
+    "text": "Now, it's important to\npoint out that the team",
+    "start": 4248.052,
+    "duration": 2.805
+  },
+  {
+    "text": "does have a paper published\nfrom previous work.",
+    "start": 4250.882,
+    "duration": 2.54
+  },
+  {
+    "text": "This was written by Lowell\nMorgan and Montgomery Childs.",
+    "start": 4253.447,
+    "duration": 4.055
+  },
+  {
+    "text": "It was published in the Plasma Sources\nScience and Technology journal.",
+    "start": 4257.527,
+    "duration": 4.116
+  },
+  {
+    "text": "This looked at\nprevious discharges,",
+    "start": 4261.668,
+    "duration": 3.569
+  },
+  {
+    "text": "mostly from the point of how\nmuch light was being emitted.",
+    "start": 4265.262,
+    "duration": 4.222
+  },
+  {
+    "text": "So, a really good analysis\nby Lowell on this one.",
+    "start": 4269.509,
+    "duration": 3.284
+  },
+  {
+    "text": "One of the main\nconclusions from this,",
+    "start": 4272.818,
+    "duration": 2.81
+  },
+  {
+    "text": "we're trying to answer, how\ndo these double layers form.",
+    "start": 4275.653,
+    "duration": 2.703
+  },
+  {
+    "text": "Believe it or not, no one really knows\nhow these double layers form, okay.",
+    "start": 4278.381,
+    "duration": 3.109
+  },
+  {
+    "text": "it's pretty interesting;",
+    "start": 4281.515,
+    "duration": 1.595
+  },
+  {
+    "text": "Lowell's idea was, that the production\nof negative ions and electrons,",
+    "start": 4283.135,
+    "duration": 5.306
+  },
+  {
+    "text": "creates instabilities\nin the plasma,",
+    "start": 4288.466,
+    "duration": 2.526
+  },
+  {
+    "text": "which leads then to the\nsegregation of the charges.",
+    "start": 4291.017,
+    "duration": 2.899
+  },
+  {
+    "text": "If you want, we can certainly\nget you this paper,",
+    "start": 4293.941,
+    "duration": 2.527
+  },
+  {
+    "text": "that you can dig into\nhis analysis on that.",
+    "start": 4296.493,
+    "duration": 3.504
+  },
+  {
+    "text": "Again to remind people, I'm\nexcited by some of our results,",
+    "start": 4301.215,
+    "duration": 4.545
+  },
+  {
+    "text": "because we're seeing fluctuations\nin these parameters,",
+    "start": 4305.785,
+    "duration": 5.05
+  },
+  {
+    "text": "that are comparable to the sort of fluctuations\nwe need to have to be able to say, yes",
+    "start": 4311.501,
+    "duration": 5.864
+  },
+  {
+    "text": "we're looking at astronomical\nquantities here, comparable quantities.",
+    "start": 4317.39,
+    "duration": 4.004
+  },
+  {
+    "text": "We should just take a breath in,\nbefore getting into radiation.",
+    "start": 4324.065,
+    "duration": 4.325
+  },
+  {
+    "text": "So everybody breathe.",
+    "start": 4328.415,
+    "duration": 1.444
+  },
+  {
+    "text": "We were talking about the ITER,\nTokamak experiments, you know",
+    "start": 4333.184,
+    "duration": 5.525
+  },
+  {
+    "text": "and see the sheer amount of\nmoney that's going into them.",
+    "start": 4338.734,
+    "duration": 3.765
+  },
+  {
+    "text": "And it seems like we're trying to force\nnature to do something it doesn't want to do,",
+    "start": 4342.524,
+    "duration": 7.225
+  },
+  {
+    "text": "with these magnetic confinement\nfusion experiments.",
+    "start": 4349.774,
+    "duration": 3.522
+  },
+  {
+    "text": "And you know, you put another\n50 million dollars into it,",
+    "start": 4353.321,
+    "duration": 4.035
+  },
+  {
+    "text": "and then you get much stronger\nmagnetic fields to try,",
+    "start": 4357.381,
+    "duration": 3.609
+  },
+  {
+    "text": "and it still just doesn't work.",
+    "start": 4361.015,
+    "duration": 1.964
+  },
+  {
+    "text": "You can't make the plasma do it",
+    "start": 4363.004,
+    "duration": 1.736
+  },
+  {
+    "text": "and I don't know if you can\nsee it from the videos,",
+    "start": 4364.765,
+    "duration": 2.146
+  },
+  {
+    "text": "but we're in the lab\nworking on this plasma.",
+    "start": 4366.936,
+    "duration": 1.889
+  },
+  {
+    "text": "We're not actually driving it so hard,\nwe're not forcing nature to do anything.",
+    "start": 4368.85,
+    "duration": 6.103
+  },
+  {
+    "text": "That's certainly how I feel it.",
+    "start": 4374.978,
+    "duration": 1.702
+  },
+  {
+    "text": "It seems like, we turn it up\nand then the plasma responds,",
+    "start": 4376.705,
+    "duration": 4.329
+  },
+  {
+    "text": "and everybody's happy, we're not\nforcing anybody to do anything, right?",
+    "start": 4381.059,
+    "duration": 4.485
+  },
+  {
+    "text": "So, I feel that's one of the things that, it\nfeels to me like we're on the right track,",
+    "start": 4385.569,
+    "duration": 4.359
+  },
+  {
+    "text": "because it doesn't have that feeling of forcing\nsomething that nature doesn't want to do.",
+    "start": 4389.953,
+    "duration": 5.021
+  },
+  {
+    "text": "Plasmas are certainly Dr.\nMorgan's specialty.",
+    "start": 4395.76,
+    "duration": 4.007
+  },
+  {
+    "text": "We said, could you please,\ntake a look at this.",
+    "start": 4399.792,
+    "duration": 2.376
+  },
+  {
+    "text": "Take a look at why, what\nhappened to our tungsten probe.",
+    "start": 4402.193,
+    "duration": 3.736
+  },
+  {
+    "text": "Okay, from what you know, can\nyou please dig into this.",
+    "start": 4405.954,
+    "duration": 3.935
+  },
+  {
+    "text": "So, we spent some\ntime looking at that.",
+    "start": 4409.914,
+    "duration": 2.789
+  },
+  {
+    "text": "Radiation trapping.",
+    "start": 4412.728,
+    "duration": 1.712
+  },
+  {
+    "text": "So we're going to talk\nabout that really soon.",
+    "start": 4414.44,
+    "duration": 2.369
+  },
+  {
+    "text": "How to envision that.",
+    "start": 4416.834,
+    "duration": 1.324
+  },
+  {
+    "text": "So, I knew that biology had\ncomplicated chemistry.",
+    "start": 4418.183,
+    "duration": 4.096
+  },
+  {
+    "text": "Biochemistry, is\ncomplicated stuff, right?",
+    "start": 4422.304,
+    "duration": 2.635
+  },
+  {
+    "text": "Light and life, it has all these\nthings and I'm starting to realize:",
+    "start": 4424.964,
+    "duration": 3.667
+  },
+  {
+    "text": "plasma chemistry is really also equally\ncomplicated, and it makes me wonder about",
+    "start": 4428.656,
+    "duration": 4.995
+  },
+  {
+    "text": "what sort of chemistry\nis being done on stars.",
+    "start": 4433.676,
+    "duration": 5.708
+  },
+  {
+    "text": "It's really complicated stuff.",
+    "start": 4439.409,
+    "duration": 2.808
+  },
+  {
+    "text": "So, Lowell came back with... right,\nthis is not a result of thermodynamics.",
+    "start": 4442.242,
+    "duration": 5.181
+  },
+  {
+    "text": "traditional temperature\nthat melted this probe.",
+    "start": 4447.448,
+    "duration": 2.283
+  },
+  {
+    "text": "You have to look at radiation\nhydrodynamics which, he explained to us,",
+    "start": 4449.756,
+    "duration": 6.019
+  },
+  {
+    "text": "is really one of the most complicated\nareas in Applied Physics.",
+    "start": 4455.8,
+    "duration": 4.242
+  },
+  {
+    "text": "There's not much that you could\nsay is more complicated;",
+    "start": 4460.067,
+    "duration": 2.958
+  },
+  {
+    "text": "it's why Livermore and Los Alamos\nlabs always have the best computers,",
+    "start": 4463.05,
+    "duration": 5.826
+  },
+  {
+    "text": "because you need supercomputers\nto do these analyses.",
+    "start": 4469.498,
+    "duration": 3.539
+  },
+  {
+    "text": "I wrote down this\nquote from him that",
+    "start": 4473.062,
+    "duration": 2.338
+  },
+  {
+    "text": "”nuclear weapons have very little\nto do with nuclear physics",
+    "start": 4475.4,
+    "duration": 2.998
+  },
+  {
+    "text": "and a lot to do with\nradiation hydrogen dynamics”",
+    "start": 4478.423,
+    "duration": 3.865
+  },
+  {
+    "text": "Okay, let's talk about radiation trapping\nand slowing of the speed of light.",
+    "start": 4486.485,
+    "duration": 4.12
+  },
+  {
+    "text": "Imagine that this whole room\nis the SAFIRE chamber, okay.",
+    "start": 4490.63,
+    "duration": 6.014
+  },
+  {
+    "text": "The stage is the anode, and all\nof us are hydrogen atoms, okay.",
+    "start": 4496.669,
+    "duration": 5.697
+  },
+  {
+    "text": "And being hydrogen atoms, like we said that\nevery species of bird has its own song,",
+    "start": 4502.391,
+    "duration": 5.956
+  },
+  {
+    "text": "so we can all talk to each other, for all\nhydrogen atoms, we can exchange thoughts",
+    "start": 4508.372,
+    "duration": 4.283
+  },
+  {
+    "text": "and tell each other things and exchange\nphotons and energy, stuff like that;",
+    "start": 4512.68,
+    "duration": 4.913
+  },
+  {
+    "text": "and the anode is up here, and electrical\nenergy is being pushed out",
+    "start": 4518.212,
+    "duration": 5.986
+  },
+  {
+    "text": "to all of us, from\nthe stage here.",
+    "start": 4524.223,
+    "duration": 2.814
+  },
+  {
+    "text": "Okay, so you got the\npicture, right?",
+    "start": 4527.062,
+    "duration": 2.11
+  },
+  {
+    "text": "Now imagine that that\nwhole side of the room,",
+    "start": 4529.197,
+    "duration": 3.421
+  },
+  {
+    "text": "you're now all\nhelium atoms, Okay?",
+    "start": 4532.643,
+    "duration": 5.321
+  },
+  {
+    "text": "To the rest of us, that side\nof the room just went dark.",
+    "start": 4538.947,
+    "duration": 4.199
+  },
+  {
+    "text": "We can't see them anymore,\nwe can't hear them anymore,",
+    "start": 4543.171,
+    "duration": 3.515
+  },
+  {
+    "text": "because we are now on\ndifferent wavelengths.",
+    "start": 4546.711,
+    "duration": 2.408
+  },
+  {
+    "text": "We cannot exchange energy\nwith them anymore.",
+    "start": 4549.144,
+    "duration": 5.036
+  },
+  {
+    "text": "Okay, so we'll leave\nthem for a second.",
+    "start": 4554.18,
+    "duration": 1.95
+  },
+  {
+    "text": "We'll just focus on this side.",
+    "start": 4556.13,
+    "duration": 2.366
+  },
+  {
+    "text": "Electrical energy comes\noff of the stage",
+    "start": 4559.357,
+    "duration": 3.153
+  },
+  {
+    "text": "and let's imagine that it gets absorbed\nby two people on the front row, okay?",
+    "start": 4564.03,
+    "duration": 5.858
+  },
+  {
+    "text": "They hold on to it for a\nwhile, they get excited,",
+    "start": 4569.913,
+    "duration": 2.947
+  },
+  {
+    "text": "they're bubbly, they can't\nsit still in their seats;",
+    "start": 4572.885,
+    "duration": 2.328
+  },
+  {
+    "text": "they're getting all\nkind of pumped up,",
+    "start": 4575.238,
+    "duration": 1.805
+  },
+  {
+    "text": "but they hold onto the energy, hold onto\nthe excitement for a while; maybe 30 s.",
+    "start": 4577.068,
+    "duration": 4.615
+  },
+  {
+    "text": "While they're holding onto it,",
+    "start": 4581.708,
+    "duration": 1.738
+  },
+  {
+    "text": "two more people on the front\nrow get some of this energy.",
+    "start": 4583.471,
+    "duration": 2.973
+  },
+  {
+    "text": "They get all excited,",
+    "start": 4586.469,
+    "duration": 1.12
+  },
+  {
+    "text": "they can't sit in their seats they\ncan’t wait to tell somebody something.",
+    "start": 4587.614,
+    "duration": 3.318
+  },
+  {
+    "text": "After about thirty seconds, those first\ntwo people finally can turn around",
+    "start": 4590.957,
+    "duration": 3.955
+  },
+  {
+    "text": "and they communicate their\nexcitement to somebody behind them.",
+    "start": 4594.937,
+    "duration": 3.797
+  },
+  {
+    "text": "But then that person who gets that\nexcitement behind him in the second row,",
+    "start": 4598.759,
+    "duration": 4.021
+  },
+  {
+    "text": "they also have to hold\non to it for a while.",
+    "start": 4602.805,
+    "duration": 2.497
+  },
+  {
+    "text": "They can't just turn around and\ntell the person behind them.",
+    "start": 4605.327,
+    "duration": 3.508
+  },
+  {
+    "text": "So, there's this slow\nprogression of this excitement.",
+    "start": 4608.86,
+    "duration": 4.63
+  },
+  {
+    "text": "If it were a different scenario,\nif you weren't hydrogen",
+    "start": 4613.5,
+    "duration": 3.843
+  },
+  {
+    "text": "and I wasn't communicating to\nthis specific frequency of light,",
+    "start": 4617.368,
+    "duration": 4.256
+  },
+  {
+    "text": "which I'll mention soon, then\nas soon as you got excited,",
+    "start": 4621.649,
+    "duration": 4.02
+  },
+  {
+    "text": "you would just turn around and\ntalk to the person behind you.",
+    "start": 4625.694,
+    "duration": 2.339
+  },
+  {
+    "text": "As soon as you told, they\nwould just turn around",
+    "start": 4628.058,
+    "duration": 1.992
+  },
+  {
+    "text": "and tell the next\nperson behind them,",
+    "start": 4630.06,
+    "duration": 1.574
+  },
+  {
+    "text": "and that excitement would go out through\nthe hall at the speed of light, right out.",
+    "start": 4631.659,
+    "duration": 5.554
+  },
+  {
+    "text": "But that's not what happens.",
+    "start": 4637.238,
+    "duration": 1.673
+  },
+  {
+    "text": "There's a specific resonant\nfrequency that hydrogen has.",
+    "start": 4638.936,
+    "duration": 3.239
+  },
+  {
+    "text": "It's 122 nanometers;\nthat's pretty hot stuff.",
+    "start": 4642.2,
+    "duration": 4.142
+  },
+  {
+    "text": "That's the level of energy that we\nsee coming off of solar flares,",
+    "start": 4646.367,
+    "duration": 4.619
+  },
+  {
+    "text": "coronal loops, things like that.",
+    "start": 4651.011,
+    "duration": 2.725
+  },
+  {
+    "text": "That's how we see that\nlevel of intensity.",
+    "start": 4653.761,
+    "duration": 2.53
+  },
+  {
+    "text": "When hydrogen gets that, it\nholds on to it for a while.",
+    "start": 4656.316,
+    "duration": 3.106
+  },
+  {
+    "text": "In fact, it holds on to it\nthousands of times longer,",
+    "start": 4659.447,
+    "duration": 4.194
+  },
+  {
+    "text": "than it takes to just exchange the\ninformation with another hydrogen atom.",
+    "start": 4663.666,
+    "duration": 4.538
+  },
+  {
+    "text": "So it's that particular way\nthat hydrogen manifests",
+    "start": 4668.229,
+    "duration": 4.017
+  },
+  {
+    "text": "that slows down the speed of light, the\nprogression of light, by thousands of times,",
+    "start": 4672.271,
+    "duration": 6.105
+  },
+  {
+    "text": "and ends up building a huge\namount of energy in that region.",
+    "start": 4678.401,
+    "duration": 5.082
+  },
+  {
+    "text": "We didn't forget\nabout the helium’s.",
+    "start": 4683.508,
+    "duration": 2.046
+  },
+  {
+    "text": "So, the helium's they don't see\nanything going on over here.",
+    "start": 4685.579,
+    "duration": 3.211
+  },
+  {
+    "text": "It's dark, they can't\nhear anything,",
+    "start": 4688.8,
+    "duration": 2.516
+  },
+  {
+    "text": "and one of you gets the bright\nidea: let's build a probe",
+    "start": 4691.341,
+    "duration": 3.947
+  },
+  {
+    "text": "and we'll put it across\nthe aisle and we'll see.",
+    "start": 4695.313,
+    "duration": 2.544
+  },
+  {
+    "text": "So it's like a couple of guys go\nrunning back to the breakout room,",
+    "start": 4697.882,
+    "duration": 3.041
+  },
+  {
+    "text": "they take apart some\nof Ricky's paintings.",
+    "start": 4700.948,
+    "duration": 2.142
+  },
+  {
+    "text": "They get the wood frames,",
+    "start": 4703.115,
+    "duration": 1.455
+  },
+  {
+    "text": "they stick some dried sage that I saw\nover there on the table in that,",
+    "start": 4704.57,
+    "duration": 3.6
+  },
+  {
+    "text": "and two guys put the probe\nacross the center aisle",
+    "start": 4708.195,
+    "duration": 4.315
+  },
+  {
+    "text": "and it touches into that\nregion and bursts into flames.",
+    "start": 4712.535,
+    "duration": 3.83
+  },
+  {
+    "text": "Ashes fall on the floor.",
+    "start": 4716.39,
+    "duration": 2.112
+  },
+  {
+    "text": "So that's how they know: that look, we\ncouldn't see it, it wasn't visible to us,",
+    "start": 4718.527,
+    "duration": 4.777
+  },
+  {
+    "text": "but as soon as we put our\nprobe in there, it got fried.",
+    "start": 4723.329,
+    "duration": 4.655
+  },
+  {
+    "text": "That's radiation trapping and\nslowing down the speed of light.",
+    "start": 4729.071,
+    "duration": 3.531
+  },
+  {
+    "text": "That's what we have going\non in our chamber,",
+    "start": 4732.627,
+    "duration": 2.843
+  },
+  {
+    "text": "and that's my....",
+    "start": 4736.058,
+    "duration": 1.966
+  },
+  {
+    "text": "Now you know all about radiation\nhydrodynamics that you need to know.",
+    "start": 4738.049,
+    "duration": 3.975
+  },
+  {
+    "text": "How'd I do Lowell,\nwas that okay?",
+    "start": 4744.635,
+    "duration": 2.903
+  },
+  {
+    "text": "... yeah and you know what's interesting\nalso is that this whole arrangement is...",
+    "start": 4757.056,
+    "duration": 6.551
+  },
+  {
+    "text": "You could call it electrostatic.",
+    "start": 4763.632,
+    "duration": 2.148
+  },
+  {
+    "text": "We just have a battery, we\njust have 300 Volts.",
+    "start": 4765.805,
+    "duration": 4.31
+  },
+  {
+    "text": "So it's an electrostatic\nmachine we have.",
+    "start": 4770.14,
+    "duration": 2.085
+  },
+  {
+    "text": "So we have an electrostatic machine that can\ntrap photons, high-energy photons.",
+    "start": 4772.25,
+    "duration": 4.156
+  },
+  {
+    "text": "We have an electrostatic machine that\ncan slow down the speed of light.",
+    "start": 4776.431,
+    "duration": 3.057
+  },
+  {
+    "text": "We have an electrostatic\nmachine that can release",
+    "start": 4779.513,
+    "duration": 3.097
+  },
+  {
+    "text": "in an instant very large\nquantities of energy.",
+    "start": 4782.635,
+    "duration": 3.028
+  },
+  {
+    "text": "And we're controlling it.",
+    "start": 4785.688,
+    "duration": 3.355
+  },
+  {
+    "text": "We can predict how to\nget to these regimes.",
+    "start": 4789.068,
+    "duration": 2.46
+  },
+  {
+    "text": "This is a plot of the expected\ntemperature the probe tip would get to.",
+    "start": 4791.553,
+    "duration": 5.674
+  },
+  {
+    "text": "And so, you can see\nunder certain regimes,",
+    "start": 4797.252,
+    "duration": 3.056
+  },
+  {
+    "text": "which are the left and right axes there, of\nhydrogen density and electron temperature,",
+    "start": 4800.333,
+    "duration": 5.915
+  },
+  {
+    "text": "the red area there:\n10,000 degrees predicted.",
+    "start": 4806.273,
+    "duration": 3.796
+  },
+  {
+    "text": "When that poor probe goes\ninto the hydrogen section,",
+    "start": 4810.999,
+    "duration": 3.206
+  },
+  {
+    "text": "you could expect that much\nenergy to go into the probe,",
+    "start": 4814.23,
+    "duration": 3.568
+  },
+  {
+    "text": "raising it up to about\n10,000 degrees.",
+    "start": 4817.823,
+    "duration": 1.9
+  },
+  {
+    "text": "Now, does that explain\neverything we saw?",
+    "start": 4819.748,
+    "duration": 2.316
+  },
+  {
+    "text": "I don't know,",
+    "start": 4822.089,
+    "duration": 1.34
+  },
+  {
+    "text": "but it certainly is the right way\nto start analyzing this problem.",
+    "start": 4823.454,
+    "duration": 4.753
+  },
+  {
+    "text": "Monty: A lot going on this year",
+    "start": 4830.122,
+    "duration": 2.104
+  },
+  {
+    "text": "and we were really getting concerned\ntowards the end of the project,",
+    "start": 4832.251,
+    "duration": 3.134
+  },
+  {
+    "text": "whether or not we were\neven going to do this.",
+    "start": 4835.41,
+    "duration": 2.304
+  },
+  {
+    "text": "We started getting the analysis back,",
+    "start": 4837.739,
+    "duration": 1.903
+  },
+  {
+    "text": "and we sure were\ngetting really excited.",
+    "start": 4839.667,
+    "duration": 2.198
+  },
+  {
+    "text": "There was actually hope, even though\nthermodynamics can't resolve for these things,",
+    "start": 4841.89,
+    "duration": 4.872
+  },
+  {
+    "text": "radiation hydrodynamics can;\nplus a lot of other things.",
+    "start": 4846.787,
+    "duration": 3.915
+  },
+  {
+    "text": "So, we see ourselves as, now that\nSAFIRE, I would say, is stable,",
+    "start": 4850.727,
+    "duration": 6.626
+  },
+  {
+    "text": "we can get these stable plasmas,",
+    "start": 4857.378,
+    "duration": 2.026
+  },
+  {
+    "text": "we're now in a place where I would\nsay, with pretty good confidence,",
+    "start": 4859.429,
+    "duration": 3.897
+  },
+  {
+    "text": "that we can start to actually do a number of\nexperiments and get really good data back.",
+    "start": 4863.351,
+    "duration": 5.265
+  },
+  {
+    "text": "But these results are,\nin my view spectacular.",
+    "start": 4868.641,
+    "duration": 4.308
+  },
+  {
+    "text": "The chemistry changes:\n(we) don't know.",
+    "start": 4873.496,
+    "duration": 3.636
+  },
+  {
+    "text": "We shouldn't have barium\nin there, or titanium,",
+    "start": 4877.157,
+    "duration": 2.789
+  },
+  {
+    "text": "no idea where the\nstuff came from.",
+    "start": 4879.971,
+    "duration": 2.038
+  },
+  {
+    "text": "We can be guessing, but\nwe should find out.",
+    "start": 4882.632,
+    "duration": 2.45
+  },
+  {
+    "text": "Variations in electron density comparable to the\nphotosphere, heliosphere and nuclear bombs.",
+    "start": 4885.107,
+    "duration": 4.945
+  },
+  {
+    "text": "Those are the only places that we see\nthese kinds of intense, dense plasmas.",
+    "start": 4890.077,
+    "duration": 4.276
+  },
+  {
+    "text": "Electrical confinement\nof high-energy photons.",
+    "start": 4894.378,
+    "duration": 3.231
+  },
+  {
+    "text": "That's a lot.",
+    "start": 4897.634,
+    "duration": 1.453
+  },
+  {
+    "text": "And what we're saying here in effect is\nthat, and what Michael was talking about,",
+    "start": 4899.112,
+    "duration": 4.179
+  },
+  {
+    "text": "and the transformation characteristics\nof the plasma, the double layers,",
+    "start": 4903.316,
+    "duration": 3.792
+  },
+  {
+    "text": "those double layers, when Paul's talking\nabout second-order interactions,",
+    "start": 4907.133,
+    "duration": 3.921
+  },
+  {
+    "text": "what we're talking about, it's\nlike an audio feedback loop",
+    "start": 4911.079,
+    "duration": 3.431
+  },
+  {
+    "text": "that just keeps getting bigger and\nbigger except that in a double layer",
+    "start": 4914.535,
+    "duration": 4.078
+  },
+  {
+    "text": "it gets to a point that the\ndouble layer forms,",
+    "start": 4918.638,
+    "duration": 2.79
+  },
+  {
+    "text": "and the plasma now\nbecomes stable.",
+    "start": 4921.453,
+    "duration": 2.014
+  },
+  {
+    "text": "Up to that point, electrically you\ncan see a lot of activity,",
+    "start": 4923.492,
+    "duration": 5.112
+  },
+  {
+    "text": "but when the double layer forms,",
+    "start": 4928.629,
+    "duration": 2.045
+  },
+  {
+    "text": "it goes stable and\nit it's very robust.",
+    "start": 4930.699,
+    "duration": 4.1
+  },
+  {
+    "text": "So, it'd be like the\ndouble layer,",
+    "start": 4934.824,
+    "duration": 2.166
+  },
+  {
+    "text": "and I'm going to jump out\nhere a little bit too,",
+    "start": 4937.015,
+    "duration": 2.675
+  },
+  {
+    "text": "because I think we're\nreally at that place,",
+    "start": 4939.996,
+    "duration": 2.308
+  },
+  {
+    "text": "where we have our atmosphere\nin the Earth, 350 miles up.",
+    "start": 4942.329,
+    "duration": 4.617
+  },
+  {
+    "text": "Conventional science says, it is gravity\nthat holds our atmosphere here.",
+    "start": 4946.971,
+    "duration": 3.956
+  },
+  {
+    "text": "But mechanical engineering, I mean, we\nhave big machines that try to contain,",
+    "start": 4950.952,
+    "duration": 4.961
+  },
+  {
+    "text": "or get vacuums that aren’t\neven close to space vacuums.",
+    "start": 4957.46,
+    "duration": 3.344
+  },
+  {
+    "text": "What I'm trying to say in effect\nis that only 300-mile distance,",
+    "start": 4960.829,
+    "duration": 6.219
+  },
+  {
+    "text": "we've got a space vacuum that can\nsuck your eyeballs out of your house.",
+    "start": 4967.073,
+    "duration": 3.259
+  },
+  {
+    "text": "I mean, out of your head (it has\nbeen a long day), out of your head,",
+    "start": 4970.357,
+    "duration": 6.298
+  },
+  {
+    "text": "and yet there's no mechanical\ndevice retaining our atmosphere.",
+    "start": 4976.68,
+    "duration": 3.824
+  },
+  {
+    "text": "And what we are seeing, what\nwe forgot to mention actually,",
+    "start": 4980.529,
+    "duration": 2.984
+  },
+  {
+    "text": "is we do have a pressure\ndelta in SAFIRE.",
+    "start": 4983.538,
+    "duration": 3.195
+  },
+  {
+    "text": "That's a big deal because I think\nLangmuir predicted theoretically,",
+    "start": 4986.758,
+    "duration": 3.229
+  },
+  {
+    "text": "that we should see this.",
+    "start": 4990.012,
+    "duration": 1.237
+  },
+  {
+    "text": "I mean that's what Lowell is....",
+    "start": 4991.274,
+    "duration": 2.11
+  },
+  {
+    "text": "What we're saying in effect is,\nwhen we get a vacuum in a chamber,",
+    "start": 4994.614,
+    "duration": 3.443
+  },
+  {
+    "text": "a gas would fill this\nroom, or the chamber,",
+    "start": 4998.082,
+    "duration": 2.298
+  },
+  {
+    "text": "and the pressure in itself would\nbe equal throughout the chamber.",
+    "start": 5000.405,
+    "duration": 2.518
+  },
+  {
+    "text": "But when these double layers form,\nthat's not what's happening.",
+    "start": 5002.948,
+    "duration": 3.239
+  },
+  {
+    "text": "So, we do actually have\nhigher pressure",
+    "start": 5006.212,
+    "duration": 2.38
+  },
+  {
+    "text": "inside these double layers than\nwe do actually have outside,",
+    "start": 5008.617,
+    "duration": 3.836
+  },
+  {
+    "text": "in the greater\npart of the chamber.",
+    "start": 5012.478,
+    "duration": 1.799
+  },
+  {
+    "text": "So, you actually have\na plasma force field",
+    "start": 5014.302,
+    "duration": 2.789
+  },
+  {
+    "text": "that actually can contain\nthese molecules, these gases.",
+    "start": 5017.116,
+    "duration": 3.811
+  },
+  {
+    "text": "That's a big deal.",
+    "start": 5020.952,
+    "duration": 1.801
+  },
+  {
+    "text": "So, the core of\nSAFIRE is cooler.",
+    "start": 5022.778,
+    "duration": 4.656
+  },
+  {
+    "text": "The highest temperatures we thought\nwe saw was maybe around 1,000º C;",
+    "start": 5027.459,
+    "duration": 4.898
+  },
+  {
+    "text": "and obviously the temperatures,\nor the effective temperature,",
+    "start": 5032.382,
+    "duration": 3.778
+  },
+  {
+    "text": "or you might say, the response temperatures\nwe are getting with the probes,",
+    "start": 5036.17,
+    "duration": 2.852
+  },
+  {
+    "text": "are many orders above that.",
+    "start": 5039.047,
+    "duration": 1.642
+  },
+  {
+    "text": "Way, way, way above that.",
+    "start": 5040.714,
+    "duration": 1.74
+  },
+  {
+    "text": "So these are things that we're exploring\nwith SAFIRE and I think that's really it.",
+    "start": 5042.479,
+    "duration": 3.792
+  },
+  {
+    "text": "These questions we are going\nto leave on the screen here",
+    "start": 5046.296,
+    "duration": 2.987
+  },
+  {
+    "text": "and I guess we're open for\nquestions and answers.",
+    "start": 5049.308,
+    "duration": 2.812
+  },
+  {
+    "text": "[Applause]",
+    "start": 5052.13,
+    "duration": 19.82
+  },
+  {
+    "text": "Other way",
+    "start": 5092.42,
+    "duration": 1.09
+  },
+  {
+    "text": "that's good!",
+    "start": 5100.9,
+    "duration": 1.07
+  },
+  {
+    "text": "eighty-five",
+    "start": 5116.68,
+    "duration": 1.77
+  },
+  {
+    "text": "”So the temperature of the anode\nright now in the hydrogen is 600”",
+    "start": 5120.126,
+    "duration": 3.15
+  },
+  {
+    "text": "”It has been at 600, even though we had\nlike kilowatts going through there.",
+    "start": 5123.301,
+    "duration": 3.998
+  },
+  {
+    "text": "Yeah,\nthat's good.”",
+    "start": 5127.324,
+    "duration": 1.28
+  },
+  {
+    "text": "”..a lot hotter with\nthe nitrogen..”",
+    "start": 5128.629,
+    "duration": 3.111
+  },
+  {
+    "text": "Shortly after the 2017\nPhoenix conference,",
+    "start": 5138.109,
+    "duration": 3.277
+  },
+  {
+    "text": "the SAFIRE team discovered a\nunique process that initiates",
+    "start": 5141.411,
+    "duration": 4.126
+  },
+  {
+    "text": "and sustains the\nplasma double layers.",
+    "start": 5145.562,
+    "duration": 3.738
+  },
+  {
+    "text": "This was a major discovery,",
+    "start": 5151.321,
+    "duration": 2.654
+  },
+  {
+    "text": "because it is these\nplasma double layers",
+    "start": 5154.0,
+    "duration": 2.57
+  },
+  {
+    "text": "that produce both the extraordinarily\nhigh energy densities",
+    "start": 5156.595,
+    "duration": 4.022
+  },
+  {
+    "text": "and the electric field that contains\nthese energies within the plasma.",
+    "start": 5160.642,
+    "duration": 4.976
+  },
+  {
+    "text": "This new advancement in plasma\nscience demonstrates a process,",
+    "start": 5171.172,
+    "duration": 4.707
+  },
+  {
+    "text": "that consistently creates, contains\nand controls the plasma double layers",
+    "start": 5175.904,
+    "duration": 7.07
+  },
+  {
+    "text": "in stable exothermic\nplasma reactions.",
+    "start": 5182.999,
+    "duration": 3.357
+  },
+  {
+    "text": "Although the energies\nand densities",
+    "start": 5187.072,
+    "duration": 2.558
+  },
+  {
+    "text": "are comparable to the Sun's\nphotosphere and nuclear bombs,",
+    "start": 5189.655,
+    "duration": 3.563
+  },
+  {
+    "text": "the data shows no harmful side\neffects, such as radioactivity.",
+    "start": 5193.243,
+    "duration": 4.747
+  },
+  {
+    "text": "But the science of what is actually happening\nat the molecular and atomic levels",
+    "start": 5199.478,
+    "duration": 5.475
+  },
+  {
+    "text": "is not yet fully understood.",
+    "start": 5204.978,
+    "duration": 3.23
+  },
+  {
+    "text": "Understanding these reactions,\nwill give valuable insight",
+    "start": 5224.088,
+    "duration": 3.932
+  },
+  {
+    "text": "into the way the Sun's\natmosphere functions,",
+    "start": 5228.045,
+    "duration": 3.182
+  },
+  {
+    "text": "and provide the foundation by which these\nenergies can be beneficially harnessed",
+    "start": 5233.082,
+    "duration": 5.355
+  },
+  {
+    "text": "This research will be the\ntop priority of 2018.",
+    "start": 5242.379,
+    "duration": 4.407
+  }
+]

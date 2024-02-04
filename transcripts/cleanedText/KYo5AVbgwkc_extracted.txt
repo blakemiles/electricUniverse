@@ -1,0 +1,1083 @@
+So this is about Ptolemy, Belief
+Systems and other Dark Matters.
+Now, we're all here
+or watching online
+because we have an interest in the
+exploration and an explanation of the cosmos.
+Now when we think about the
+investigation of the cosmos
+we often focus on the capabilities
+and limitations of the instruments
+and the observational
+tools that we use.
+We lose track of the limitations
+that are imposed on us by
+possibly the greatest instrument, the most critical
+instrument involved in this exploratory process
+and that is of course
+the human mind itself.
+Now, unlike the instruments of
+our invention, the human mind
+really hasn't changed very much, if at all, since
+we took our first steps on this great journey.
+I often talk about how we have not
+really changed very much from
+our previous selves
+so many thousands of years
+ago when we huddled together,
+trying to figure out what populated
+the darkness beyond the campfire.
+And so we lose track of how the
+greatest challenge ahead of us
+is not really the precision of our
+mechanical or electronic instruments,
+It's the cumulative psychological
+and sociological and biological and
+evolutionary hindrances
+in our own mind.
+Now, I plan to talk about this
+for the next little while,
+but first I thought it would be
+instructive to open with a story.
+And this is the story of the
+clever king and the sage.
+Now once upon a time
+there was a clever king.
+In fact he was so clever
+that it was widely held
+that he was the most clever
+person in all the land.
+More clever than anyone
+had ever been before
+and probably more clever
+than anybody would ever be.
+And one day the clever King decided that
+he would devote all of his cleverness
+and all his kingly resources to
+enriching the lives of his subjects by
+discovering the secrets of the cosmos, the Sun,
+the stars, the Earth and even life itself.
+And so he collected all of the
+clever people in his land
+to help them in this great work.
+And for many years the King toiled
+with his hundreds of clever people
+in constructing the most amazing,
+sophisticated, complicated
+mechanism ever built.
+They poured all of their
+collective knowledge into it,
+all of their cleverness. Nothing
+was missed, no mistakes were made.
+And it was wrong.
+The magnificent
+machine, so complex,
+did not explain the cosmos, the Sun
+the Earth, the stars and life itself.
+It always gave something different
+than what the king could see.
+Something was wrong.
+So, he was so confident,
+he knew, he was certain
+in fact, that something
+little was missing.
+They had poured so much
+of their knowledge,
+so much of their cleverness into this machine.
+It had to be something incremental.
+So in frustration he looked
+for other clever people
+who could come and help him
+find his missing pieces.
+And finally he heard of
+a sage, and old wise man
+who had wandered through
+all of the kingdoms
+and was said to be as
+wise as time itself.
+So he summoned the sage to come before
+him and look upon his great work.
+And so the King explained,
+piece-by-piece,
+this incredibly complicated,
+beautiful machine.
+He's showing him how all of the cleverness
+all of the knowledge had gone into it.
+And the old wise man nodded and
+smiled and he blinked in wonder.
+Then said, my king I can tell that indeed
+you are the most clever person in the land,
+more clever than
+anyone who's come before,
+probably more clever than
+anybody will ever be..
+But, he said, I can
+immediately see
+what it is, where the missing pieces are
+that will complete your great work.
+The king was
+overjoyed, he was amazed.
+This is fantastic, he knew it done the
+right thing bringing in that sage, right?
+So he said; this is great, can you please
+tell me what the missing pieces are
+so that I complete
+this great work?
+And then wise man said;
+the pieces that are missing are all the things
+that you don't know that you don't know.
+Well, the king was dumbfounded,
+he sputtered in frustration,
+so how am I going to complete this great
+mechanism if I don't even know what I don't know?
+And the old sage nodded and smiled because now he
+knew the king was asking the right questions.
+And he said; my king when I first met you I knew
+you were the most clever person in all the land
+but now you're just a
+little bit wiser.
+Well I can't say the
+king took that very well
+but the moral of the story
+is that the clever man
+has complete confidence in the
+cleverness of his inventions
+and that complete knowledge
+is just a few pieces away,
+with just a little few more
+pieces to complete the picture.
+The wise man accepts
+and acknowledges that
+we can never really know
+what we don't know
+which means we can never be certain
+about anything we think we know
+and that, the pursuit of absolute
+certainty is probably a foolish goal anyway.
+Now there are a couple things
+i like about the story.
+One of them is this metaphor of this
+machine for conceptual frameworks.
+After all the system of differential equations
+is really just a mathematical machine.
+You crank away at it, sort of algorithmically, and
+answers and simulations come out the other side.
+And if it agrees, relatively well,
+with some subset of what we observe
+we get quite a bit of certainty
+[that] in its general use.
+And this ingrains some belief that
+it can be used in all conditions.
+Well, modeling
+mimics understanding.
+Now over the course
+of our history
+we've constructed various complicated
+ conceptual frameworks
+to try to understand the
+workings of the cosmos.
+Now, one of these very complicated
+conceptual frameworks
+can actually trace its lineage back
+to ancient Greece and Aristotle
+but it was actually perfected
+by Claudius Ptolemy.
+This is of course the geocentric
+model of the universe.
+This notion that the Sun and the
+planets revolved around the Earth.
+Now, Claudius Ptolemy was an observational
+astronomer and mathematician
+we actually don't know
+very much about his life
+except that he lived and worked
+in Alexandria about 150 AD.
+Now however, most of his
+work actually survives
+and foremost amongst
+this is the Almagest
+which is a treatise in 13 volumes that
+describe the motion of the Sun and the planets.
+And indeed the universe was
+conceived as a great mechanism.
+Nested planetary spheres comprised
+of a perfect crystalline substance
+called quintessence or ether.
+And the planets riding on
+the crystalline spheres.
+Now quintessence has a natural
+perfect circular motion
+and also it can never be
+experienced here on earth
+where we could only experience the normal
+elements of earth, air, fire and water.
+And now we have this
+notion arising
+of some disconnection between the
+physical nature of the heavens
+and what can be experienced here. We actually
+see this recurring in modern cosmology.
+We'll talk more about that later.
+Now one of the things that I like about this
+model, one of the things I find interesting
+is this creation of new physical
+entities and mechanisms
+to fill in our gaps
+in understanding.
+What we don't know, we populate
+with new physical entities
+and as our imaginings are modified and
+adapted to fit with what we observe
+then these imaginings are transmuted
+into an illusion of understanding.
+Now, probably Ptolemy's great
+innovation was the use of the equant
+and the use of the
+epicycle and deferent.
+Now through multiple
+spheres per planet
+and sophisticated use of
+epicycles and deferents,
+he was able to construct a
+very complicated system
+to predict the motion of
+the Sun and the planets.
+And here we see in this animation that
+through this use of epicycles and deferents
+he could model that back-and-forth
+wandering of the planets.
+And actually the Ptolemaic model
+was relatively satisfactory
+and from a mathematical
+perspective
+was probably one of the most outstanding
+achievements of the human mind.
+In fact it's very difficult to identify
+another scientific system of thought
+that was so successful in
+predicting for so long.
+For over 1400 years it dominated
+as our view of the cosmos.
+At least until the
+advent of Copernicus.
+Now, Nicholas Copernicus was originally
+educated in art and mathematics
+but when he became canon of
+the Frombork cathedral
+he traveled to Italy, ostensibly
+to study religious law.
+But what he really did was he
+dived headfirst into astronomy
+and he made full use of the books
+that were available at the time
+due to the advent, the recent
+advent of the printing press.
+Now we all know that Copernicus
+made that great leap
+and placing the Sun at
+the center of the cosmos
+and he was largely motivated by a
+sense of simplicity and elegance,
+the theme of this conference.
+But he was also, he also believed very strongly
+in Plato's notion of perfect circular motion.
+He abhorred Ptolemy's equant
+but because he was limited
+to circular motion
+he needed to use the
+epicycle and the deferent
+to make his model match
+what was observed.
+Now to a certain extent it was more simple
+and elegant than the Ptolemaic model
+but it's arguable whether it
+was really that much simpler
+and in fact in real practice it didn't
+really provide that much better prediction,
+if at all, than the
+Ptolemaic model.
+There's also something on
+the heretical side as well
+and Copernicus took great
+pains during his life
+not to actually
+broadcast these notions
+and is only, was only really published
+very shortly before his death in 1543.
+And he was right because
+in the oncoming years
+the church condemned the work and the book was
+added to the list of banned books in 1616.
+And so the geocentric
+model persisted,
+even in the face of fairly
+convincing contradictory evidence
+that was coming
+forth from Galileo.
+Now Galileo was working
+with the telescope
+which was just invented in 1609 making
+some really critical observations.
+Observations like moons around Jupiter
+and craters on the moon and sunspots,
+but his most critical observation of all
+was probably that of the phases of Venus.
+The phases of Venus, these observations
+were completely inconsistent
+with the geocentric
+notion of the universe.
+If the geocentric model was
+a scientific hypothesis
+it would have been
+disproven out of hand.
+And it's a wonderful example
+of how humans can ignore
+evidence that contradicts a
+strongly held belief system.
+Well, it is fair to say that life
+became uncomfortable for Galileo;
+inquisitions tend to do that,
+so he eventually recanted, was exiled
+and the geocentric model persisted.
+In the meantime Kepler was working away and
+did away with this notion of circular motion
+and developed a new empirical set of planetary
+laws of motion based on the ellipse.
+He sort of set the stage for
+true revolution in human thought.
+But it was the groundbreaking
+work, actually, of Isaac Newton
+that really did away with geocentrism
+as our dominant view of the cosmos.
+Now, Newton began his groundbreaking
+and amazingly broad range of work
+when the Scientific Revolution of
+the 17th century was in full swing.
+His new notions of gravity
+provided an exciting new
+explanatory framework for
+the motion of the planets.
+He established a unified earthly
+and heavenly system of mechanics.
+He was able to independently derive,
+mathematically derive, from first principles,
+Kepler's empirical laws
+of planetary motion.
+Now the power of Newton's system
+lay in its universality.
+It tied together the physical phenomena
+both earthly and heavenly into one system.
+There was no longer this separation between
+the physical nature of the heavens
+and what was on earth.
+And it's interesting that
+this separation, this,
+this connection between what happens in
+the heavens and what happens on earth
+has only been recently
+severed again.
+But more on that later.
+Now the way to Newton's power to this
+universality was through mathematics
+and the title of his book The Mathematical
+Principles Of Natural Philosophy
+sort of speaks for itself.
+It's embodied and inspired this notion
+that the universe could be reduced
+and accurately modeled through
+mathematical formulation.
+But Newton himself admitted
+that and if I can paraphrase,
+"he had found the laws
+but not the cause".
+He even though had
+not really describe
+the underlying physical principles
+as the cause behind gravity,
+he had established that this
+new system of the world
+was uniquely grounded
+in gravitational laws,
+and it's been immensely successful.
+It's Newtonian mechanics
+that launched rockets and satellites
+into orbit and put men on the Moon
+and our lack of understanding of what
+underlies the gravitational laws
+has in no way kept us from taking full
+advantage of its mathematical description.
+So again we've been lulled
+into a sense of understanding.
+Now with the advent
+of field theory
+inspired by the work of,
+Far.., I mean Michael Faraday,
+we did away with this mechanical
+notion of the universe
+and replaced it with more abstract
+notions of field of influence.
+Ultimately Clerk Maxwell
+mathematically codified
+Faraday's empirically derived
+laws of electromagnetism.
+Einstein applied field theory to a fairly
+major refurbishment of the gravitational laws
+in the general
+theory of relativity.
+And it's with the general
+theory of relativity
+that we turned our faces
+to the natural world
+we embraced a mythical, mathematical
+universe of space-time fabric
+and the smooth dance of
+gravitational fields.
+And where was electricity and
+magnetism in all of this?
+Well it was sort of banished
+from the cosmological stage
+with a vague promise that it
+might be unified later on.
+And so the earthly sphere became one of
+sparks and magnetism and vacuum tubes
+and Edison and Tesla and the electric
+and the electronic ages, swept over us.
+But in cosmology the mathematical
+perfection of gravity held sway.
+The heavenly sphere was one of pristine
+space-time fabric and singularities
+and infinitely perfect physical entities
+that could not be experienced here on earth.
+Sounds familiar.
+Now it's ironic that it said that Einstein
+kept a portrait of Michael Faraday in his study.
+It's ironic because Einstein's great
+achievement effectively removed
+electricity and magnetism from
+our exploration of the cosmos.
+And while we waited for the
+square peg of electromagnetism
+to be fit into the round
+hole of Einstein's theories
+over the next
+hundred or so years,
+there was a new complex, sophisticated
+mechanism developed and constructed
+to explain the
+workings of the cosmos
+and this is of course the
+lambda cold dark matter model.
+It's presently known as the
+standard model of cosmology.
+So, let's have a look at the
+lambda cold dark matter model
+to orient ourselves a little bit.
+Well, if you look it up in Wikipedia, it's
+a parameterization of Big Bang cosmology
+and cosmological constant lambda
+that's associated with dark energy.
+Dark energy and dark
+matter between the two
+comprise something like 96% of the matter
+and energy content of the universe.
+That other 4% that thin slice of the
+cosmological pie chart, as I like to say,
+is what we can observe and
+actually directly experience.
+So here we are again in
+a cosmological model
+where most of its material content
+is outside of our experience.
+It cannot be experienced
+here on earth.
+And I feel like we've taken, certain,
+to a certain extent a step backwards
+in fact dark energy is even sometimes
+referred to as quintessence.
+You might remember quintessence of the
+crystalline spheres in the Ptolemaic model.
+And I'm amazed not so much
+by how humans repeat history,
+but the level of
+detail that they do so.
+It's not just a repeat of the same sort of
+philosophical concept of the separation
+between the physical
+nature of Heaven and Earth.
+Actually reusing specific words again
+to fill in gaps in our understanding.
+Now it took over 1,500 years and the
+full force of the age of enlightenment
+to shatter those
+crystalline spheres.
+But here we are again.
+From the age of enlightenment to what
+I can only term the age of “endarkenment”.
+Dark energy, dark
+matter, black holes..
+OK, well, let's focus
+in on one of them.
+Let's look at dark.
+matter. Why dark matter?
+Dark matter, the need
+for dark matter
+arose in the late sixties and the early
+seventies from the work of Vera Rubin,
+who plotted gravitational, I mean,
+rotational curves like this.
+Curve A is the curve that we expected to see
+and curve B is what was actually observed.
+It implied that most of the mass,
+there was more mass density in the
+galaxy then we can actually observe.
+And Vera Rubin reckoned that there
+is something like about 6 times
+the dark mass in the galaxy
+than we can actually see.
+And very shortly after, it
+became quite common knowledge
+and became commonly accepted that Dark
+Matter constituted most of the galaxies' mass.
+Now, it's interesting because this whole
+thing is based on a fundamental assumption
+that gravity is the
+only force at work.
+The equation, the orbital velocity
+equation only uses gravitation
+as one of its parameters.
+So what if though, what if we
+don't know what we don't know
+what if there's something missing
+in that mathematical modeling?
+What if electricity and magnetism
+actually could play a role?
+What if this sort of line of reasoning was
+applied in a different field of science?
+Now I come from a biological
+background, as you heard
+and I remember in ecology class learning
+about the Lotka-Volterra equation.
+The Lotka-Volterra equation is a
+system of differential equations
+used to model the population dynamics
+of predator-prey pairs in ecosystems.
+It was famously used to model
+the population dynamics
+of lynx in arctic air
+in northern Canada.
+Now what if Lotka found, when
+he went out and measured,
+[think] actual population
+dynamics of lynx and hare that
+it didn't really agree
+with what his model showed.
+What if he had absolute certainty that
+his mathematical model was complete.
+Then what if he then
+{somemore what-if] questions,
+what if we then proposed that there
+was a hypothetical creature
+in the ecosystem that we can't see and
+left no impact on the environment,
+in fact its presence
+could only be detected
+through its influence on the population
+dynamics of the lynx and the hare.
+And what if he did a lot
+of super computer modeling
+to show that other predator-prey
+pairings in the world
+could actually be modeled and predicted
+if he just adjusted the placement
+and the relative density of this
+hypothetical creature that we can't see.
+Well it didn't actually play out that way
+because biologists have a very healthy
+respect for the incompleteness
+of their mathematical models.
+But you see the
+logical flaw here.
+Well, what if a similar
+sort of logical flaw
+has taken us to incorrect
+conclusions about dark matter?
+Well then we would expect
+to see discrepancies
+between what the cold dark matter
+model predicts and what we observe.
+That happens to be the case.
+There are actually
+a list of issues.
+There's the Dwarf
+Galaxy Problem.
+There is the Cuspy Halo
+or (Core/Cusp) problem.
+There's this issue with the Ratio of regular
+Matter to Dark Matter in some cases.
+There's a Dwarf Galaxy Pancake Problem
+which is actually fairly serious
+and we have a problem with, we
+don't have any Local Dark Matter.
+So we'll go through
+each of these in turn.
+Now, the dwarf galaxy problem is also
+referred to as the missing satellite problem.
+Now this stems from computer simulations
+in the cold dark matter model
+which predicts orders of magnitude
+more satellite dwarf galaxies
+than are actually observed.
+So, for example, there are about 11 satellite
+dwarf galaxies around the Milky Way
+but computer simulations, in one case
+for example, predicts more than 500
+so we're orders of magnitude away
+from what we actually observe.
+And then we have the
+cuspy halo problem
+and this refers to, again, computer
+simulations that predict
+the density distribution
+of dark matter in a galaxy.
+The mathematical computer
+simulations indicate that it's cuspy.
+By cuspy I mean, the
+dark matter distribution
+increases sharply to a peak
+at the center of the galaxy.
+Well when the usual mathematical derivations
+are done based on gravitational dynamics,
+the inferred dark matter distribution in
+galaxies is seen to be quite smooth. Smooth,
+maybe there's a bit of a core and
+the core and the core/cusp problem
+but it's actually a smooth
+profile, there are no cusps,
+there's no cuspy dark halos.
+This is also known as the
+small-scale cosmology crisis.
+Then there's the problem with the ratio
+of regular matter to dark matter.
+Recent studies of a
+galaxy sized cloud of gas,
+it's actually plasma,
+Virgo HI21, this is actually
+the bullet cluster,
+but in Virgo HI21, that the
+derived amount of dark matter
+is about a hundred times the amount
+of matter that we can observe
+and that's 10 times higher
+than it really should be.
+So this is a real disconnect between what
+the model predicts and what we observe.
+And now we have this
+pancake problem.
+This is observations
+in January of 2013,
+observers from Canada and
+France at the Keck Observatory
+were amazed to find
+that satellite galaxies
+were moving in unison
+around the Andromeda galaxy
+and they were in sort of
+a disk-like structure.
+A similar disk-like structure
+was found around the Milky Way.
+It's indicated that it's not unique
+to the Andromeda galaxy
+and we'll probably find
+more of them if we go looking.
+Now it's important to note that in the
+decades of cold dark matter modeling,
+satellite galaxies are always predicted to be
+oriented randomly around the larger galaxy.
+So this is clearly inconsistent with the
+predictions of the cold dark matter model
+and actually it puts me
+in mind a little bit
+of the observations of the
+phases of Venus by Galileo.
+These observations were
+clearly inconsistent
+with the predictions of
+the geocentric model,
+and in a very similar way the
+observation of this disk like-structure
+of satellite galaxies is completely
+inconsistent with the cold dark matter model,
+and yet the model persists.
+And finally we have the problem
+with no local dark matter.
+Now this story, actually the
+story is a bit of a tale,
+starts in 2012 with the report
+from a group of observers
+at the ESO's La Silla observatory
+headed by Christian Moni-Bidin.
+They mapped over 400 stars up to
+13,000 light-years away from the Sun
+and used this data to calculate the
+mass of matter in that volume of space.
+It was four times the volume of space
+than had ever been considered before.
+The intent was to compare the
+amount of observable matter
+versus the amount of matter that is derived
+gravitationally, through mathematical means,
+and compare the two and the discrepancy
+like we saw with Vera Rubin,
+discrepancy would indicate the
+amount of dark matter that's present.
+And what they found when
+they compared the two
+was that there is no need to
+invoke a dark-matter component.
+So there was no dark matter.
+Well this prompted an article
+in The New Scientist
+where they declared a
+dark-matter conundrum.
+Well about a month or so later
+there's a paper from another group
+headed by Bovy and Tremaine
+who took exception to one of the
+assumptions in this previous paper
+and it was an assumption that the rotational
+velocity of the stars in that region of space
+were constant as you moved away
+from the center of the galaxy.
+So they corrected for that
+and they also introduced
+their own assumptions
+about the mass distribution
+in that volume of space
+and what they found
+was actually, now,
+there was the amount of
+dark matter [the] model predicted,
+in fact just a little bit more
+just to be on the safe side.
+So, that elicited another
+article in The New Scientist
+where they claim that
+the crisis was averted.
+And there's a really interesting
+quote in this New Scientist paper
+that I like where they say,
+"the true believers of dark
+matter were never really worried".
+So I find it interesting the
+use of the term "true believers"
+and so the story ended
+for the New Scientist.
+But, if you follow that kind of
+literature and you track these issues,
+in 2014 Modi Boudin et al.
+published another paper
+finding that the mass distribution
+assumptions of Bovian Tremain
+actually were completely
+inconsistent with observational data;
+and that, when they corrected
+for a mass distribution
+that was consistent
+with observational data,
+and corrected for their own assumption
+about the rotational velocity of the stars,
+that in fact, again they found there was
+a negligible amount of dark matter.
+There really was no
+need for dark matter
+but.. So, crisis averted?
+No, not really!
+But there were no headlines,
+there's no follow-on story
+in The New Scientist,
+and the point of view of the New Scientist "Crisis
+averted" -- the world was safe for dark matter.
+But why "crisis"?
+I'm interested in the use
+of this word 'crisis'.
+I happen to live in the UK and
+next week we're going to vote
+to see if we stay
+in the EU or not.
+Now proponents of both sides
+present various crises
+that will ensue if we go one way
+or the other. If we leave the EU
+the national health system will suffer,
+the real estate in London will go down
+and foreign exchange and
+the UK pound will suffer.
+Or, if we stick with the UK we'll lose\sovereignty, we'll lose control of our destiny.
+So crisis on both sides.
+But why crisis with dark
+matter? I don't understand that.
+If we find that there's no
+such thing as dark matter
+it's not going to change the
+real estate prices in London,
+so I don't understand
+what the crisis is.
+Well it's a crisis in belief
+and when you have belief systems
+in science you've got trouble
+and belief systems come
+wrapped in certainty.
+When you have certainty, our
+rational mind ceases to play
+a primary function in
+our cognitive processes.
+But really, I can't say it
+better than Mark Twain;
+"it's not what you don't
+know that gets into trouble
+it's what you know for
+sure that just ain't so".
+And so we have a
+problem with certainty.
+And when it comes to certainty I
+really can't recommend a better book
+than this book by
+Robert A. Burton,
+On Being Certain or Believing
+You're Right Even When You're Not.
+And in it he covers a range of material
+about certainty and our sense of knowing.
+For instance a very interesting
+example, called the Challenger study.
+This pertains to how we remember things
+around dramatic events in our lives
+and when the Space
+Shuttle exploded
+dr. Ove Kneisser, psychologist and
+the father of cognitive psychology
+had 106 of his students
+record in their journals
+what they were doing at the time,
+what was happening, how they felt.
+All of the details they can remember
+when the event actually happened.
+And then he interviewed them
+two and a half years later.
+Now as you might expect, 25% of them got
+a lot of the details completely wrong.
+And at least half had a
+few details incorrect
+but what was really interesting
+was the reaction of some of the
+students to their handwritten notes.
+In the words of one of the
+students, "that's my handwriting
+but that's not what happened!"
+So the students had complete certainty
+over their sense of knowing
+even in the face of very
+convincing evidence,
+their own handwritten notes.
+Now Burton uses another
+example along these lines
+and it has to do with Cotard
+syndrome, this is dr. Cotard
+who described a syndrome in patients
+who develop a delusion of negation.
+Negation of their own existence, negation
+of limbs, that their limbs are putrefying
+and what's really interesting
+about the syndrome
+is the unshakable belief in these
+patients that they're dead.
+Now Burton describes
+one case, Miss B
+who came into the hospital with a very
+ severe case of viral encephalitis.
+While she was there she
+began to complain about
+things not feeling real
+and that she was dead.
+The hospital staff had her
+hold her hand to her heart
+so that she can feel her beating heart and she
+admitted she could feel her beating heart.
+But she argued that the
+beating of her heart
+was in no way evidence that she was
+alive when she was clearly dead.
+She was absolutely certain she was
+dead, all evidence to the contrary.
+So Burton uses Cotard's syndrome, the
+Challenger study, placebo effects
+to show that when there's a
+conflict between rational evidence
+and what we see with our own
+eyes, vs our feeling of knowing,
+our sense of rightness and correctness,
+that feeling wins out almost every time
+and he argues that there's some physiological
+basis to this feeling of knowing
+that is so powerful that it makes a rational
+thought seem, feel, wrong or irrelevant.
+And he felt that, he argued, that it
+had to do with the limbic system.
+Now the limbic system is associated
+with our primitive brain,
+it's the seat of strong emotions,
+fear and hatred and anger.
+In fact the amygdala controls
+all the strong emotions.
+The hippocampus plays a role in converting
+short-term memories into long-term memories.
+Burton describes a study,
+a cortical mapping study,
+where they stimulated regions
+of the temporal lobe
+associated with parts
+of our lymbic system.
+And he described patient
+responses where,
+if that particular part of the temporal lobe
+associated with limbic system was stimulated,
+they had a feeling of certainty.
+They had a feeling of certainty,
+a sense of knowing, a deja
+vu, a sense of familiar..
+a sense of familiarity
+in a strange environment.
+So, he argued that if it is
+possible to stimulate the brain
+and produce these primary
+feelings and knowing
+it's very much other, like other
+primary things like anger.
+And he argued that our feeling of
+certainty is actually closely associated
+with these primary
+feelings in our lymbic system.
+And it's not surprising that certainty
+is connected with the limbic system.
+Recent neurological research has shown
+that social threats and rewards
+evoke the same neuro-chemical responses
+as actual physical threats and rewards.
+A threat to our certainty
+evokes the same neurotransmitter
+response as an actual physical threat.
+So it would seem to be
+connected to the limbic system.
+So we have a number of issues,
+things that we are up against.
+Well, we don't know
+what we don't know
+but we always seem
+to forget that.
+We have certainty in
+what we think we know
+and it limits the
+acquisition of new knowledge.
+There's this myth of the
+rational objective mind
+where we're really under the control
+of our limbic system
+and what we really need to do is
+encourage the pursuit of uncertainty,
+but that's completely counter to
+our physiology in our evolution.
+So here we are,
+all of our beliefs and our
+biases and our blind spots
+trying to make shapes
+of the darkness
+and we construct stories that match
+the shapes that we think we see.
+So should we stop trying to discover what's
+out there, looking back in the darkness?
+I don't think we could even if we tried
+We're compelled to ask these basic questions
+like the clever king about the cosmos, the
+Sun, the Earth, the stars and life itself.
+But we're also compelled
+to construct stories,
+to help fill the gaps
+in our understanding,
+to give us satisfying answers
+however wrong they are,
+to answer those basic questions.
+So like any device that we use
+to investigate the cosmos,
+we need to understand the
+limitations of our own mind.
+When the device, when the instrument
+is giving us noisy or valid data,
+are we believing what we see
+or seeing what we believe?
+I would argue that dark matter is
+more of a manifestation of gray matter,
+so we end up seeing
+it everywhere we look.
+It's been shown that
+our rational mind
+cannot work independently
+of our threat-reward responses.
+We're under the sway of the
+limbic system like some
+great psychological
+schoolyard bully in our mind.
+Our ability to objectively observe is
+severely limited by our biases and beliefs,
+we know that!
+And yet we have this myth of
+the rational objective mind.
+We think we got it all figured out, just
+a few more pieces, we're almost there.
+But how can we, when we don't
+know what we don't know.
+Have we learned nothing
+from the clever King.
+Which reminds me, I haven't actually finished
+the story of the clever king and the sage.
+The sage learned that it was unwise to
+provoke a frustrated and angry king
+and he spent a few years learning even more
+wisdom in the King's dungeons, unfortunately.
+The King learned
+wisdom, over many years,
+because he discovered that he could
+never complete his great machine,
+and that it was probably based
+on faulty principles anyway.
+And so he learned that the
+sage was actually right.
+So he released the sage who
+was very ancient by that time
+and they together, in the remaining years,
+taught the clever people in the kingdom
+about the foolishness of certainty
+and the rich rewards of uncertainty.
+Now having said all that I have a
+few qualified certainties of my own.
+I'm only human after all
+and I'm encumbered with
+my own belief systems.
+So I believe that there is no
+matter and energy in the universe
+that cannot be experienced
+and experimented with here.
+We do not live in an island of normal
+matter in otherwise exotic universe.
+The darkness beyond the campfire
+is not inherently different,
+is just as yet unlit.
+That the universe is a manifestation of
+gravity and electricity and magnetism
+in a glorious interplay that we're only
+just now on the verge of glimpsing.
+And that in this quest we
+need to embrace uncertainty
+and allow ourselves only a
+qualified provisional understanding
+of what we think we see in the
+darkness beyond the campfire.
+Thank you!

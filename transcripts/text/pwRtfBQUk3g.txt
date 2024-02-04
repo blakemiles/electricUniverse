@@ -1,0 +1,642 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe,",
+    "start": 7.252,
+    "duration": 2.8
+  },
+  {
+    "text": "brought to you by The\nThunderbolts Project™",
+    "start": 10.077,
+    "duration": 2.222
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 12.324,
+    "duration": 2.338
+  },
+  {
+    "text": "Recent scientific reports highlight\nincreased scientific interest",
+    "start": 18.8,
+    "duration": 4.125
+  },
+  {
+    "text": "in a long enduring\nmystery on the Moon.",
+    "start": 22.95,
+    "duration": 2.546
+  },
+  {
+    "text": "For well over half a century,",
+    "start": 25.521,
+    "duration": 1.793
+  },
+  {
+    "text": "scientists on Earth have puzzled over the cause\nof occasional mysterious flashes of light",
+    "start": 27.339,
+    "duration": 4.739
+  },
+  {
+    "text": "seen on the lunar surface,",
+    "start": 32.103,
+    "duration": 1.804
+  },
+  {
+    "text": "or what is called\nTransient Lunar Phenomena.",
+    "start": 33.932,
+    "duration": 3.084
+  },
+  {
+    "text": "Reports on the nature\nof these light episodes",
+    "start": 37.041,
+    "duration": 2.505
+  },
+  {
+    "text": "range from a temporary increase\nin the brightness of a surface,",
+    "start": 39.57,
+    "duration": 3.683
+  },
+  {
+    "text": "to an apparent reddening of a surface\nwith no accompanying brightness,",
+    "start": 43.278,
+    "duration": 4.233
+  },
+  {
+    "text": "to other odd color changes\nsuch as blue, green or violet,",
+    "start": 47.536,
+    "duration": 4.577
+  },
+  {
+    "text": "and even an unaccounted\ndarkening of the lunar surface.",
+    "start": 52.138,
+    "duration": 3.641
+  },
+  {
+    "text": "In fact, reports of these\nmysterious light events on the Moon",
+    "start": 55.804,
+    "duration": 3.371
+  },
+  {
+    "text": "date back at least\nover 1,000 years.",
+    "start": 59.2,
+    "duration": 3.329
+  },
+  {
+    "text": "But for several decades,",
+    "start": 62.554,
+    "duration": 1.732
+  },
+  {
+    "text": "many astronomers were highly\nskeptical of the phenomena's existence.",
+    "start": 64.311,
+    "duration": 4.493
+  },
+  {
+    "text": "That is largely because the Moon has long\nbeen believed to be long geologically dead",
+    "start": 68.829,
+    "duration": 4.87
+  },
+  {
+    "text": "and no dramatic activity\nshould be seen today.",
+    "start": 73.724,
+    "duration": 3.263
+  },
+  {
+    "text": "But in recent years, statistical analyses\nhave indicated that the phenomena",
+    "start": 77.012,
+    "duration": 4.494
+  },
+  {
+    "text": "overwhelmingly\nseem to be genuine.",
+    "start": 81.531,
+    "duration": 2.622
+  },
+  {
+    "text": "Yet, there remains no consensus scientific\ntheory on the underlying mechanism.",
+    "start": 84.178,
+    "duration": 5.203
+  },
+  {
+    "text": "To date, most astronomers\nhave believed",
+    "start": 89.406,
+    "duration": 2.592
+  },
+  {
+    "text": "the phenomena either involves\nmeteoritic explosions or outgassing.",
+    "start": 92.023,
+    "duration": 5.012
+  },
+  {
+    "text": "However, some mainstream\nastronomers have also entertained",
+    "start": 97.06,
+    "duration": 3.696
+  },
+  {
+    "text": "that the phenomenon is\nelectrical in nature.",
+    "start": 100.781,
+    "duration": 2.562
+  },
+  {
+    "text": "As stated in a recent\nPhys.org report,",
+    "start": 103.368,
+    "duration": 2.828
+  },
+  {
+    "text": "\"Such flashes could also occur when electrically\ncharged particles of the solar wind",
+    "start": 106.221,
+    "duration": 5.114
+  },
+  {
+    "text": "react with moon dust.\"",
+    "start": 111.36,
+    "duration": 1.76
+  },
+  {
+    "text": "Recently, a team of scientists from\nthe JMU University in Bavaria, Germany,",
+    "start": 113.145,
+    "duration": 5.125
+  },
+  {
+    "text": "began operating a privately\nbuilt lunar telescope",
+    "start": 118.295,
+    "duration": 3.298
+  },
+  {
+    "text": "to try to gain a better understanding\nof Transient Lunar Phenomena.",
+    "start": 121.618,
+    "duration": 4.207
+  },
+  {
+    "text": "The images the team obtains will be compared\nwith those of the European Space Agency",
+    "start": 125.85,
+    "duration": 4.602
+  },
+  {
+    "text": "and may provide insights into the cause\nof the mysterious lights and flashes.",
+    "start": 130.477,
+    "duration": 5.018
+  },
+  {
+    "text": "From the Electric Universe perspective,\nTransient Lunar Phenomena may be important",
+    "start": 135.52,
+    "duration": 4.946
+  },
+  {
+    "text": "both in terms of the Moon and our solar\nsystem's current electrical environment,",
+    "start": 140.49,
+    "duration": 4.054
+  },
+  {
+    "text": "but also the stupendous electrical events\nthat may have shaped the Moon's surface.",
+    "start": 144.569,
+    "duration": 5.191
+  },
+  {
+    "text": "Today, planetary\nscientists do acknowledge",
+    "start": 149.785,
+    "duration": 2.433
+  },
+  {
+    "text": "that dramatic electrostatic\nevents occur on the Moon,",
+    "start": 152.243,
+    "duration": 3.024
+  },
+  {
+    "text": "even as the result of the Moon's\ninteraction with our own planet.",
+    "start": 155.292,
+    "duration": 3.615
+  },
+  {
+    "text": "As noted by NASA\nscientist Tim Stubbs,",
+    "start": 158.932,
+    "duration": 3.067
+  },
+  {
+    "text": "\"Earth's magnetotail extends well\nbeyond the orbit of the moon",
+    "start": 162.024,
+    "duration": 3.336
+  },
+  {
+    "text": "and, once a month, the\nmoon orbits through it.",
+    "start": 165.385,
+    "duration": 2.88
+  },
+  {
+    "text": "This can have consequences ranging from lunar\n'dust storms' to electrostatic discharges.\"",
+    "start": 168.29,
+    "duration": 5.925
+  },
+  {
+    "text": "In recent years, scientists have also entertained\nthat subsurface electrical sparking",
+    "start": 174.24,
+    "duration": 4.765
+  },
+  {
+    "text": "in permanently shadowed regions may\ncause the breakdown of lunar soil.",
+    "start": 179.03,
+    "duration": 4.689
+  },
+  {
+    "text": "Nevertheless, the\noutgassing hypothesis",
+    "start": 183.744,
+    "duration": 2.754
+  },
+  {
+    "text": "remains the preferred explanation among\nastronomers for Transient Lunar Phenomena.",
+    "start": 186.523,
+    "duration": 4.763
+  },
+  {
+    "text": "But there are several important clues that\npoint to the phenomena's electrical nature.",
+    "start": 191.311,
+    "duration": 4.416
+  },
+  {
+    "text": "If the light episodes are indeed\na form of electrical arcing,",
+    "start": 195.752,
+    "duration": 3.784
+  },
+  {
+    "text": "then we expect to see them most\ncommonly in high points of terrain,",
+    "start": 199.561,
+    "duration": 3.74
+  },
+  {
+    "text": "which electric arcs\nare always drawn to.",
+    "start": 203.326,
+    "duration": 2.784
+  },
+  {
+    "text": "In fact, many transient\nlunar phenomena",
+    "start": 206.135,
+    "duration": 2.478
+  },
+  {
+    "text": "are associated with the edges\nof so called lunar maria",
+    "start": 208.638,
+    "duration": 3.195
+  },
+  {
+    "text": "which planetary scientists believe\nare the sites of ancient volcanism.",
+    "start": 211.858,
+    "duration": 3.854
+  },
+  {
+    "text": "But an analog to the lunar phenomena may be\nthe bright plume seen flaring on comet nuclei,",
+    "start": 215.737,
+    "duration": 5.281
+  },
+  {
+    "text": "which comet scientists also\nroutinely interpret as \"outgassing\".",
+    "start": 221.043,
+    "duration": 4.399
+  },
+  {
+    "text": "Consider this close-up image of the\ncomet 67P, taken on July 3rd, 2016.",
+    "start": 225.467,
+    "duration": 5.91
+  },
+  {
+    "text": "The plume appeared suddenly when the\ncomet was over 500 million km from the Sun,",
+    "start": 231.402,
+    "duration": 5.006
+  },
+  {
+    "text": "a distance at which the sublimation\nof water ice is not expected at all.",
+    "start": 236.433,
+    "duration": 4.528
+  },
+  {
+    "text": "The lead author of a paper\non the phenomenon stated,",
+    "start": 240.986,
+    "duration": 2.828
+  },
+  {
+    "text": "\"We saw a bright plume of dust blowing\naway from the surface like a fountain...",
+    "start": 243.839,
+    "duration": 4.501
+  },
+  {
+    "text": "It lasted for roughly an hour, producing\naround 18 kg of dust every second.\"",
+    "start": 248.365,
+    "duration": 5.392
+  },
+  {
+    "text": "The team admitted they had no idea\nwhat could have powered the plume.",
+    "start": 253.782,
+    "duration": 3.799
+  },
+  {
+    "text": "The ESA website stated,",
+    "start": 257.606,
+    "duration": 2.018
+  },
+  {
+    "text": "\"Initially, scientists\nthought that the plume",
+    "start": 259.649,
+    "duration": 2.226
+  },
+  {
+    "text": "might have been surface ice\nevaporating in the sunlight.",
+    "start": 261.9,
+    "duration": 2.883
+  },
+  {
+    "text": "However, Rosetta's measurements showed there\nhad to be something more energetic going on",
+    "start": 264.808,
+    "duration": 4.769
+  },
+  {
+    "text": "to fling that amount\nof dust into space.\"",
+    "start": 269.602,
+    "duration": 2.849
+  },
+  {
+    "text": "The Electric Universe\nhas always proposed",
+    "start": 272.476,
+    "duration": 2.128
+  },
+  {
+    "text": "that comet activity is fundamentally\nelectrical discharge activity",
+    "start": 274.629,
+    "duration": 4.097
+  },
+  {
+    "text": "caused as the comet moves through plasma\nregions of varying electrical potential.",
+    "start": 278.751,
+    "duration": 5.099
+  },
+  {
+    "text": "Again, it is not a coincidence\nthat the plumes seen in this image",
+    "start": 283.875,
+    "duration": 3.773
+  },
+  {
+    "text": "appear to be focused at\nthe edge of a pit or crater",
+    "start": 287.673,
+    "duration": 2.881
+  },
+  {
+    "text": "which we do expect if it's\na form of electrical arcing.",
+    "start": 290.579,
+    "duration": 3.687
+  },
+  {
+    "text": "Another aspect of\nTransient Lunar Phenomena",
+    "start": 294.291,
+    "duration": 2.73
+  },
+  {
+    "text": "is the extraordinary events that\nshaped the surface of the Moon itself.",
+    "start": 297.046,
+    "duration": 4.157
+  },
+  {
+    "text": "For many decades, the Electric Universe has\nproposed that the massive cratering on the Moon",
+    "start": 301.228,
+    "duration": 5.134
+  },
+  {
+    "text": "was caused not by meteoritic\nimpacts over eons of time",
+    "start": 306.387,
+    "duration": 3.715
+  },
+  {
+    "text": "but by high-energy\nelectrical discharge",
+    "start": 310.127,
+    "duration": 2.508
+  },
+  {
+    "text": "in an epoch of planetary instability\nin the inner solar system.",
+    "start": 312.66,
+    "duration": 4.296
+  },
+  {
+    "text": "In fact, as far back\nas the mid 1960s,",
+    "start": 316.981,
+    "duration": 3.002
+  },
+  {
+    "text": "the amateur astronomer Brian J. Ford\nperformed plasma discharge experiments",
+    "start": 320.008,
+    "duration": 4.89
+  },
+  {
+    "text": "which reproduced the rate of highly\ncircular crater formation seen on the Moon.",
+    "start": 324.923,
+    "duration": 4.637
+  },
+  {
+    "text": "In the 1970s, the engineer Ralph\nJuergens performed a rigorous analysis",
+    "start": 329.585,
+    "duration": 4.739
+  },
+  {
+    "text": "which showed that\nthe lunar rills,",
+    "start": 334.348,
+    "duration": 2.075
+  },
+  {
+    "text": "which consistently show no internal\ndebris from collapsed lava tubes,",
+    "start": 336.448,
+    "duration": 4.061
+  },
+  {
+    "text": "which are improbably\nwide at up to 7 km,",
+    "start": 340.534,
+    "duration": 3.347
+  },
+  {
+    "text": "and which routinely become narrower\nat their so-called outflow ends,",
+    "start": 343.906,
+    "duration": 4.317
+  },
+  {
+    "text": "are not collapsed lava tubes as\nstandard theory has proposed for decades,",
+    "start": 348.248,
+    "duration": 4.379
+  },
+  {
+    "text": "but they are the features\nof electrical discharge.",
+    "start": 352.652,
+    "duration": 2.865
+  },
+  {
+    "text": "The notion of the Moon as an\nelectrically scarred body was the basis",
+    "start": 355.542,
+    "duration": 3.592
+  },
+  {
+    "text": "for an outrageous prediction offered by one\nof the great heretics of the 20th century,",
+    "start": 359.158,
+    "duration": 4.576
+  },
+  {
+    "text": "Dr. Immanuel Velikovsky.",
+    "start": 363.759,
+    "duration": 1.994
+  },
+  {
+    "text": "Well before the\nApollo space missions,",
+    "start": 365.778,
+    "duration": 2.633
+  },
+  {
+    "text": "Velikovsky predicted the discovery of\nremanent magnetization of moon rocks,",
+    "start": 368.436,
+    "duration": 4.845
+  },
+  {
+    "text": "a required lingering effect of\ntremendous \"lightning bolts\" from space.",
+    "start": 373.306,
+    "duration": 5.552
+  },
+  {
+    "text": "To the astonishment of planetary\nscientists, the prediction was confirmed.",
+    "start": 378.883,
+    "duration": 4.802
+  },
+  {
+    "text": "As stated in the 1971 paper, 'Determining the\norigins of lunar remanent crustal magnetism,'",
+    "start": 383.709,
+    "duration": 6.265
+  },
+  {
+    "text": "\"The discovery of lunar magnetic\nfields of crustal origin",
+    "start": 389.999,
+    "duration": 3.318
+  },
+  {
+    "text": "was a major scientific surprise\nof the Apollo program.\"",
+    "start": 393.342,
+    "duration": 3.61
+  },
+  {
+    "text": "The electrical origins of\nlunar geology enables us",
+    "start": 396.977,
+    "duration": 3.341
+  },
+  {
+    "text": "to make predictions for the ongoing\nstudy of lunar transient phenomena.",
+    "start": 400.343,
+    "duration": 4.387
+  },
+  {
+    "text": "Since the Moon has no atmosphere, we\nexpect electrical discharges to be diffuse",
+    "start": 404.755,
+    "duration": 4.987
+  },
+  {
+    "text": "with the glow seen\nover large areas.",
+    "start": 409.767,
+    "duration": 2.734
+  },
+  {
+    "text": "However, bright flashes will\ntypically occur at high points",
+    "start": 412.526,
+    "duration": 3.254
+  },
+  {
+    "text": "due to a sudden concentration\nof electrical discharge,",
+    "start": 415.805,
+    "duration": 2.897
+  },
+  {
+    "text": "which we see on earth in\nthe form of St. Elmo's fire.",
+    "start": 418.727,
+    "duration": 3.658
+  },
+  {
+    "text": "The pinched up rims of craters,\nthe craters' central peaks,",
+    "start": 422.41,
+    "duration": 4.126
+  },
+  {
+    "text": "and any high points of terrain,",
+    "start": 426.561,
+    "duration": 2.006
+  },
+  {
+    "text": "will be the consistent locations\nof bright transient flashes.",
+    "start": 428.592,
+    "duration": 4.182
+  },
+  {
+    "text": "The scarring events that formed these features\nappear to make them ideal lightning rods",
+    "start": 432.799,
+    "duration": 5.001
+  },
+  {
+    "text": "for much smaller scale\nelectrical activity today.",
+    "start": 437.825,
+    "duration": 3.507
+  },
+  {
+    "text": "Like every other body\nin the solar system,",
+    "start": 441.357,
+    "duration": 2.274
+  },
+  {
+    "text": "the Moon is subject to the\nelectrical input of the Sun.",
+    "start": 443.656,
+    "duration": 3.438
+  },
+  {
+    "text": "In fact, in recent years\nastronomical papers have proposed",
+    "start": 447.119,
+    "duration": 3.645
+  },
+  {
+    "text": "that the interactions of protons from the\nsolar wind with silicas in the lunar soil",
+    "start": 450.789,
+    "duration": 4.675
+  },
+  {
+    "text": "may be the source of the\nsurprising abundance of lunar water,",
+    "start": 455.489,
+    "duration": 3.495
+  },
+  {
+    "text": "and electrostatic dust\nlevitation on the Moon",
+    "start": 459.009,
+    "duration": 2.615
+  },
+  {
+    "text": "as well as many other\nairless bodies in space",
+    "start": 461.649,
+    "duration": 3.001
+  },
+  {
+    "text": "is now routinely acknowledged\nin astronomical literature.",
+    "start": 464.675,
+    "duration": 3.904
+  },
+  {
+    "text": "So it is with great confidence, we predict\nthat future scientific investigations",
+    "start": 468.604,
+    "duration": 4.539
+  },
+  {
+    "text": "into transient lunar phenomena",
+    "start": 473.168,
+    "duration": 1.827
+  },
+  {
+    "text": "will point not toward outgassing nor any\nother conventional geological process,",
+    "start": 475.02,
+    "duration": 4.854
+  },
+  {
+    "text": "but rather, they will continue to affirm\nthe electrical nature of the phenomena",
+    "start": 479.899,
+    "duration": 4.122
+  },
+  {
+    "text": "which predominate\nthe solar system",
+    "start": 484.046,
+    "duration": 2.001
+  },
+  {
+    "text": "and the universe as a whole.",
+    "start": 486.072,
+    "duration": 1.815
+  }
+]

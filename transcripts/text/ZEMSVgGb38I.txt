@@ -1,0 +1,952 @@
+[
+  {
+    "text": "Welcome to Space News from the Electric\nUniverse brought to you by the",
+    "start": 6.77,
+    "duration": 4.18
+  },
+  {
+    "text": "Thunderbolts Project™ at Thunderbolts.\ninfo",
+    "start": 10.95,
+    "duration": 5.35
+  },
+  {
+    "text": "[Music]",
+    "start": 20.5,
+    "duration": 5.1
+  },
+  {
+    "text": "Today, physicist Wal Thornhill is joining\nus to help us play catch up on a number",
+    "start": 26.12,
+    "duration": 5.74
+  },
+  {
+    "text": "of highly significant space science\nstories from the last few months. We now",
+    "start": 31.86,
+    "duration": 4.98
+  },
+  {
+    "text": "have a wellspring of a half-dozen or so\nextremely significant headlines relating",
+    "start": 36.84,
+    "duration": 6.66
+  },
+  {
+    "text": "to stars. These are discoveries that\nconfound or are irreconcilable with the",
+    "start": 43.5,
+    "duration": 6.39
+  },
+  {
+    "text": "standard ideas about the very nature of\nstars, including how stars form, where",
+    "start": 49.89,
+    "duration": 5.76
+  },
+  {
+    "text": "their energy comes from and why they\nsometimes explode as supernovae. Now of",
+    "start": 55.65,
+    "duration": 6.3
+  },
+  {
+    "text": "course the purpose of this series is not\nmerely to share space science headlines,",
+    "start": 61.95,
+    "duration": 4.47
+  },
+  {
+    "text": "but rather we like to use some of the\nmost significant discoveries today as an",
+    "start": 66.42,
+    "duration": 5.33
+  },
+  {
+    "text": "opportunity to illuminate what the\nElectric Universe Theory (EUT) is; what it",
+    "start": 71.75,
+    "duration": 5.68
+  },
+  {
+    "text": "actually proposes and how it explains\nspace discovery. As you know, if you",
+    "start": 77.43,
+    "duration": 5.01
+  },
+  {
+    "text": "followed the EU over the last couple of\ndecades, in many instances some of the",
+    "start": 82.44,
+    "duration": 5.19
+  },
+  {
+    "text": "most surprising space science\n”discoveries,” (I use that word in quotes)",
+    "start": 87.63,
+    "duration": 4.2
+  },
+  {
+    "text": "were actually explicitly predicted by\nthe Electric Universe. In fact, the first",
+    "start": 91.83,
+    "duration": 6.3
+  },
+  {
+    "text": "item we're going to discuss provides a\nbeautiful contrast between the",
+    "start": 98.13,
+    "duration": 4.59
+  },
+  {
+    "text": "predictions of Standard Theory versus\nthose of the Electric Universe. On",
+    "start": 102.72,
+    "duration": 4.18
+  },
+  {
+    "text": "February 20th of this year, the European\nSpace Agency issued a press release",
+    "start": 106.9,
+    "duration": 5.12
+  },
+  {
+    "text": "entitled ‘XMM-Newton reveals giant flare\nfrom a tiny star.’ It states “A star of",
+    "start": 112.02,
+    "duration": 7.56
+  },
+  {
+    "text": "about eight percent the Sun's mass has been\ncaught emitting an enormous ‘super flare’ of",
+    "start": 119.58,
+    "duration": 4.5
+  },
+  {
+    "text": "X-rays - a dramatic high-energy eruption\nthat poses a fundamental problem for",
+    "start": 124.08,
+    "duration": 5.42
+  },
+  {
+    "text": "astronomers, who did not think it\npossible on stars that small. The culprit",
+    "start": 129.5,
+    "duration": 4.87
+  },
+  {
+    "text": "is a kind of star called an L Dwarf.\nThis is a star with so little mass that",
+    "start": 134.37,
+    "duration": 5.16
+  },
+  {
+    "text": "it is only just above the boundary of\nactually being a star. If it had any less",
+    "start": 139.53,
+    "duration": 4.92
+  },
+  {
+    "text": "mass, it would not possess the internal\nconditions necessary to generate its own",
+    "start": 144.45,
+    "duration": 4.71
+  },
+  {
+    "text": "energy.” Well, that last sentence reveals\nan assumption that any star",
+    "start": 149.16,
+    "duration": 4.94
+  },
+  {
+    "text": "”generates” its own energy, which\nastronomers probably don't even realize",
+    "start": 154.1,
+    "duration": 4.24
+  },
+  {
+    "text": "is\nan assumption. However, the Electric",
+    "start": 158.34,
+    "duration": 3.06
+  },
+  {
+    "text": "Universe has always stated that stars\nare formed along, and are ultimately",
+    "start": 161.4,
+    "duration": 4.44
+  },
+  {
+    "text": "powered by, external Birkeland currents.\nThe ESA press release goes on to state",
+    "start": 165.84,
+    "duration": 5.58
+  },
+  {
+    "text": "”In a matter of minutes, the tiny star\nreleased more than ten times more energy",
+    "start": 171.42,
+    "duration": 5.76
+  },
+  {
+    "text": "of even the most intense flares suffered\nby the Sun.” Concluding on the real nature",
+    "start": 177.18,
+    "duration": 5.31
+  },
+  {
+    "text": "of the conundrum,\nthe press release states that this type",
+    "start": 182.49,
+    "duration": 3.27
+  },
+  {
+    "text": "of star “...has a low surface\ntemperature for a star... Astronomers did",
+    "start": 185.76,
+    "duration": 5.22
+  },
+  {
+    "text": "not think such a low temperature would\nbe capable of generating enough charged",
+    "start": 190.98,
+    "duration": 3.72
+  },
+  {
+    "text": "particles to feed so much energy into\nthe magnetic field. So the conundrum is:",
+    "start": 194.7,
+    "duration": 5.43
+  },
+  {
+    "text": "how a super flare is even possible on\nsuch a star.” and the lead author of a",
+    "start": 200.13,
+    "duration": 5.04
+  },
+  {
+    "text": "paper on this finding says “That's a good\nquestion.",
+    "start": 205.17,
+    "duration": 3.84
+  },
+  {
+    "text": "We just don't know - nobody knows.” So Wal,\nwe've talked about this discovery over",
+    "start": 209.01,
+    "duration": 5.91
+  },
+  {
+    "text": "the last couple of days and I think\nyou'll agree it's not actually accurate",
+    "start": 214.92,
+    "duration": 4.68
+  },
+  {
+    "text": "to say that “nobody knows how this\ntype of star would produce such an",
+    "start": 219.6,
+    "duration": 5.7
+  },
+  {
+    "text": "energetic flare.” That's right. For many\nyears, astronomers have been astonished",
+    "start": 225.3,
+    "duration": 6.84
+  },
+  {
+    "text": "by seemingly powerful outbursts from\nstars they have considered to be dying",
+    "start": 232.14,
+    "duration": 6.66
+  },
+  {
+    "text": "or dead and just cooling off and that is,\nthe infrared Red Dwarfs, the L Dwarfs",
+    "start": 238.8,
+    "duration": 8.07
+  },
+  {
+    "text": "and M Dwarfs and those kinds of\nstars. And the fundamental problem for",
+    "start": 246.87,
+    "duration": 4.98
+  },
+  {
+    "text": "astronomers is that they base their\ntheoretical expectations on the",
+    "start": 251.85,
+    "duration": 5.1
+  },
+  {
+    "text": "thermonuclear model, and the\nthermonuclear model has the energy",
+    "start": 256.95,
+    "duration": 5.0
+  },
+  {
+    "text": "developed by the thermonuclear reactions\nin a core gradually percolating to the",
+    "start": 261.95,
+    "duration": 5.95
+  },
+  {
+    "text": "surface over hundreds of thousands of\nyears. And the reason for that slow",
+    "start": 267.9,
+    "duration": 4.8
+  },
+  {
+    "text": "percolation of course is because they\nhave to find some means of reducing the",
+    "start": 272.7,
+    "duration": 4.56
+  },
+  {
+    "text": "radiation from the thermonuclear bomb at\nthe center of the star, to something",
+    "start": 277.26,
+    "duration": 4.8
+  },
+  {
+    "text": "which is merely shining in the visible\nspectrum and producing heat and light.",
+    "start": 282.06,
+    "duration": 4.89
+  },
+  {
+    "text": "Now Red Dwarfs hardly produce any\nheat and light; they're more like an",
+    "start": 286.95,
+    "duration": 4.89
+  },
+  {
+    "text": "old-fashioned\nbar-radiator, electric radiator. Of",
+    "start": 291.84,
+    "duration": 4.16
+  },
+  {
+    "text": "course it's rather ironic that that's\nprecisely the best model for the star,",
+    "start": 296.0,
+    "duration": 4.84
+  },
+  {
+    "text": "that it is an electric star under low\npower. Anyway, the problem that this last",
+    "start": 300.84,
+    "duration": 5.9
+  },
+  {
+    "text": "recorded one presented, is that its\noutburst was ten times stronger than the",
+    "start": 306.74,
+    "duration": 6.04
+  },
+  {
+    "text": "most powerful outburst from our own Sun,\nwhich is a main-sequence star and is",
+    "start": 312.78,
+    "duration": 4.47
+  },
+  {
+    "text": "supposed to be functioning at the peak\nof its performance. Once again, we have",
+    "start": 317.25,
+    "duration": 4.56
+  },
+  {
+    "text": "this fundamental belief in the idea that\na star is like a campfire in the sky, you",
+    "start": 321.81,
+    "duration": 7.19
+  },
+  {
+    "text": "know. It has to fuel itself, it burns\nitself up in these thermonuclear",
+    "start": 329.0,
+    "duration": 4.0
+  },
+  {
+    "text": "reactions in a hypothetical core. We\ndon't know anything about what is inside",
+    "start": 333.0,
+    "duration": 6.24
+  },
+  {
+    "text": "a star, because to begin with, there is no\nphysical theory of gravity. And so, the",
+    "start": 339.24,
+    "duration": 7.01
+  },
+  {
+    "text": "very idea of the accretion of stars\ngravitationally, to form something that",
+    "start": 346.25,
+    "duration": 3.81
+  },
+  {
+    "text": "can even produce thermonuclear reactions\nin the first place, is merely a",
+    "start": 350.06,
+    "duration": 5.97
+  },
+  {
+    "text": "complicated story that was invented at a\ntime when nuclear power was first",
+    "start": 356.03,
+    "duration": 5.83
+  },
+  {
+    "text": "discovered. And Eddington put forward a\nstory which is based on a gravitating",
+    "start": 361.86,
+    "duration": 5.42
+  },
+  {
+    "text": "ball of hydrogen gas and then assumed\nthat, somehow or another, that could",
+    "start": 367.28,
+    "duration": 5.65
+  },
+  {
+    "text": "initiate thermonuclear reactions in the\ncore of the star. We are dealing with a",
+    "start": 372.93,
+    "duration": 5.22
+  },
+  {
+    "text": "plasma, not a neutral gas. The Electric\nUniverse looks at brown dwarf stars not",
+    "start": 378.15,
+    "duration": 8.63
+  },
+  {
+    "text": "as failed stars at all.\nThere is no such thing as a failed star.",
+    "start": 386.78,
+    "duration": 3.81
+  },
+  {
+    "text": "In the case of the M Dwarfs, I wrote many\nyears ago now, that they are not actually",
+    "start": 390.59,
+    "duration": 6.25
+  },
+  {
+    "text": "dwarfs in size because all red stars are\ngigantic.",
+    "start": 396.84,
+    "duration": 4.91
+  },
+  {
+    "text": "For instance, Jupiter could quite easily\nbe a brown dwarf star, if it was taken",
+    "start": 401.75,
+    "duration": 6.15
+  },
+  {
+    "text": "out of the solar system and existed\nindependently. Its entire magnetosphere,",
+    "start": 407.9,
+    "duration": 6.46
+  },
+  {
+    "text": "which is huge, in fact at opposition it\nwould look the same size as the moon in",
+    "start": 414.36,
+    "duration": 4.83
+  },
+  {
+    "text": "the sky, if we could actually see it. You\ncan imagine that lit up and it glows red",
+    "start": 419.19,
+    "duration": 4.89
+  },
+  {
+    "text": "in the case of these\ndwarf stars, the energy is therefore",
+    "start": 424.08,
+    "duration": 5.64
+  },
+  {
+    "text": "being provided to the star from the\ngalaxy itself. Now all red dwarf stars,",
+    "start": 429.72,
+    "duration": 6.28
+  },
+  {
+    "text": "and all red stars for that matter, are\nunable to control the light output based",
+    "start": 436.0,
+    "duration": 6.36
+  },
+  {
+    "text": "on a variable power input. It's only the\nbright stars that can do that. So, if the",
+    "start": 442.36,
+    "duration": 5.07
+  },
+  {
+    "text": "power suddenly changes for any reason at\nall, the red star will change with it, and",
+    "start": 447.43,
+    "duration": 4.82
+  },
+  {
+    "text": "this is being observed with the red\ngiant Betelgeuse right now, which is",
+    "start": 452.25,
+    "duration": 4.36
+  },
+  {
+    "text": "puzzling astronomers at the other end of\nthe size scale in stars. That huge star",
+    "start": 456.61,
+    "duration": 6.14
+  },
+  {
+    "text": "is so big that we are actually able to\nsee the surface, not in great detail but",
+    "start": 462.75,
+    "duration": 6.81
+  },
+  {
+    "text": "in recent years, the star has been\nchanging in size, and even the redness or",
+    "start": 469.56,
+    "duration": 7.35
+  },
+  {
+    "text": "the light output from the star varies\nover its surface, which is what we should",
+    "start": 476.91,
+    "duration": 5.31
+  },
+  {
+    "text": "expect if it's being powered externally,\nbut not if it's being powered internally.",
+    "start": 482.22,
+    "duration": 4.86
+  },
+  {
+    "text": "The idea that the energy has to be\nstored by the star and generated by the",
+    "start": 487.08,
+    "duration": 6.33
+  },
+  {
+    "text": "star, once again, this view of stars as\nisolated objects; whereas the Electric",
+    "start": 493.41,
+    "duration": 5.22
+  },
+  {
+    "text": "Universe model points out the stars are lit.\nAnd all their characteristics are formed",
+    "start": 498.63,
+    "duration": 6.06
+  },
+  {
+    "text": "by the electric current they're\nreceiving from their environment; and if",
+    "start": 504.69,
+    "duration": 4.18
+  },
+  {
+    "text": "there's any change in that environment,\nthen the star will be variable in some",
+    "start": 508.87,
+    "duration": 4.2
+  },
+  {
+    "text": "fashion. Our own Sun for instance, shines\nsteadily both in the visible spectrum",
+    "start": 513.07,
+    "duration": 5.88
+  },
+  {
+    "text": "and in the radiant heat part of the\nspectrum, while its power input is",
+    "start": 518.95,
+    "duration": 6.5
+  },
+  {
+    "text": "changing, as can be seen in the X-rays. In\nX-rays our Sun is a variable star; it almost",
+    "start": 525.45,
+    "duration": 5.82
+  },
+  {
+    "text": "winks out at some point in that solar\ncycle and is quite bright in the maximum",
+    "start": 531.27,
+    "duration": 6.87
+  },
+  {
+    "text": "part of that cycle. A red star doesn't\nhave that luxury; it doesn't have a",
+    "start": 538.14,
+    "duration": 4.84
+  },
+  {
+    "text": "bright photosphere which acts like a\ntransistor action on the current. And so",
+    "start": 542.98,
+    "duration": 5.21
+  },
+  {
+    "text": "the red star, the only thing it can do is\nto suddenly eject material, charged",
+    "start": 548.19,
+    "duration": 5.17
+  },
+  {
+    "text": "material, in order to try and establish\nequilibrium again with its environment.",
+    "start": 553.36,
+    "duration": 4.34
+  },
+  {
+    "text": "In the case of a red star,\nsince the power is low, that comes out in",
+    "start": 557.7,
+    "duration": 5.13
+  },
+  {
+    "text": "the form of sudden outbursts. And those\noutbursts can be as powerful as a bright",
+    "start": 562.83,
+    "duration": 6.52
+  },
+  {
+    "text": "star, simply by the change in the input\npower. It's like a supernova where the",
+    "start": 569.35,
+    "duration": 7.59
+  },
+  {
+    "text": "circuit is suddenly broken and in that\ncase it's like opening a circuit breaker",
+    "start": 576.94,
+    "duration": 5.22
+  },
+  {
+    "text": "in an intercontinental transmission line.\nEnergy stored in the magnetic field of",
+    "start": 582.16,
+    "duration": 6.39
+  },
+  {
+    "text": "that long transmission line is suddenly\nreleased at the point where you've",
+    "start": 588.55,
+    "duration": 4.14
+  },
+  {
+    "text": "opened the switch, in this case a star.\nRed dwarfs flare, supernovae explode.",
+    "start": 592.69,
+    "duration": 5.69
+  },
+  {
+    "text": "They're both driven by the same process.\nVery good. In fact you just very nicely",
+    "start": 598.38,
+    "duration": 6.06
+  },
+  {
+    "text": "laid the foundations for the next story\nwe'll talk about, which I can tell you",
+    "start": 604.44,
+    "duration": 4.38
+  },
+  {
+    "text": "has garnered a tremendous amount of\nbehind-the-scenes discussion in the",
+    "start": 608.82,
+    "duration": 3.99
+  },
+  {
+    "text": "Electric Universe community. Late last\nyear a team of scientists published a",
+    "start": 612.81,
+    "duration": 4.81
+  },
+  {
+    "text": "paper on the “mysterious\ndisappearance” of a hundred stars, which",
+    "start": 617.62,
+    "duration": 4.32
+  },
+  {
+    "text": "they uncovered through a comparison of\nold data and new observations. A hundred",
+    "start": 621.94,
+    "duration": 4.86
+  },
+  {
+    "text": "stars apparently have literally vanished\nfrom the sky. The lead author of a paper",
+    "start": 626.8,
+    "duration": 4.95
+  },
+  {
+    "text": "on this finding stated, “Unless a star\ndirectly collapses into a black hole,",
+    "start": 631.75,
+    "duration": 4.56
+  },
+  {
+    "text": "there is no known physical process by\nwhich it could physically vanish. The",
+    "start": 636.31,
+    "duration": 4.74
+  },
+  {
+    "text": "implications of finding such objects\nextend from traditional astrophysics",
+    "start": 641.05,
+    "duration": 4.17
+  },
+  {
+    "text": "fields to the more exotic searches for\nevidence of technologically advanced",
+    "start": 645.22,
+    "duration": 4.16
+  },
+  {
+    "text": "civilizations.” This item has generated\nsome sensational headlines, which",
+    "start": 649.38,
+    "duration": 6.16
+  },
+  {
+    "text": "speculate that alien technologies could\nbe blocking the stars from view.",
+    "start": 655.54,
+    "duration": 4.2
+  },
+  {
+    "text": "Now I'm certainly not someone who is on\nprinciple allergic to theoretical",
+    "start": 659.74,
+    "duration": 5.03
+  },
+  {
+    "text": "discussions of the existence of alien\ncivilizations. But for a number of years",
+    "start": 664.77,
+    "duration": 5.83
+  },
+  {
+    "text": "my cynical observation has been that\nastronomers, and certainly popular",
+    "start": 670.6,
+    "duration": 5.42
+  },
+  {
+    "text": "science media, are more willing to\nentertain speculations about aliens than",
+    "start": 676.02,
+    "duration": 5.31
+  },
+  {
+    "text": "they are to give any meaningful\nattention to the principles of plasma",
+    "start": 681.33,
+    "duration": 3.81
+  },
+  {
+    "text": "cosmology and the Electric Universe.\nNow Wal, it happens that in 2007 you",
+    "start": 685.14,
+    "duration": 5.95
+  },
+  {
+    "text": "wrote your own peer-reviewed scientific\npaper on the electrical nature of stars",
+    "start": 691.09,
+    "duration": 4.83
+  },
+  {
+    "text": "and of supernovas, which was published in\nthe very prestigious IEEE",
+    "start": 695.92,
+    "duration": 4.83
+  },
+  {
+    "text": "Transactions on Plasma Science. Why don't\nyou explain, in your opinion, why alien",
+    "start": 700.75,
+    "duration": 5.43
+  },
+  {
+    "text": "technologies are not necessary to\nexplain the “disappearance” of these",
+    "start": 706.18,
+    "duration": 4.68
+  },
+  {
+    "text": "stars. That's right. In the case of\nelectric stars, they can be expected to",
+    "start": 710.86,
+    "duration": 6.51
+  },
+  {
+    "text": "suddenly disappear if their power is\nswitched off; just like any electric",
+    "start": 717.37,
+    "duration": 3.72
+  },
+  {
+    "text": "light.\nAs for the speculation about aliens",
+    "start": 721.09,
+    "duration": 3.24
+  },
+  {
+    "text": "doing it with something called a Dyson\nSphere, which is supposed to encompass",
+    "start": 724.33,
+    "duration": 4.74
+  },
+  {
+    "text": "the star at some distance and pick up\nall of the energy that it's radiating,",
+    "start": 729.07,
+    "duration": 4.47
+  },
+  {
+    "text": "shows that scientists making such a\nclaim have no idea how stars work. Stars",
+    "start": 733.54,
+    "duration": 6.09
+  },
+  {
+    "text": "pick up their power input, part of it at\nleast, from their environment. So, if you",
+    "start": 739.63,
+    "duration": 5.37
+  },
+  {
+    "text": "were to build a Dyson Sphere, even if\nthat were possible, you would not have a",
+    "start": 745.0,
+    "duration": 3.51
+  },
+  {
+    "text": "star any longer. Astronomers categorize\nstars by their brightness and color on",
+    "start": 748.51,
+    "duration": 6.45
+  },
+  {
+    "text": "what's known as the Hertzsprung-Russell\ndiagram; but it's not an evolutionary",
+    "start": 754.96,
+    "duration": 4.86
+  },
+  {
+    "text": "plot over billions of years of a star's\nprogression from youth to old age; it's",
+    "start": 759.82,
+    "duration": 5.73
+  },
+  {
+    "text": "simply a scatter diagram. But stars, in\nthe standard theory, are supposed to",
+    "start": 765.55,
+    "duration": 4.59
+  },
+  {
+    "text": "spend billions of years in more or less\nthe same location on that chart. Yet some",
+    "start": 770.14,
+    "duration": 4.53
+  },
+  {
+    "text": "have been seen to change their position\non their diagram in a few days or weeks.",
+    "start": 774.67,
+    "duration": 3.53
+  },
+  {
+    "text": "The fact that the overwhelming majority\nof stars shine so steadily, is",
+    "start": 778.2,
+    "duration": 4.69
+  },
+  {
+    "text": "unexplained by the thermonuclear model\nof stars. That hypothetical model is",
+    "start": 782.89,
+    "duration": 4.95
+  },
+  {
+    "text": "highly unstable, so the night sky should\nlook like the 4th of July. After more",
+    "start": 787.84,
+    "duration": 4.95
+  },
+  {
+    "text": "than 60 years and countless millions of\ndollars, scientists have not been able to",
+    "start": 792.79,
+    "duration": 3.63
+  },
+  {
+    "text": "produce fusion power like the Sun,\nbecause their fusion model and",
+    "start": 796.42,
+    "duration": 4.44
+  },
+  {
+    "text": "consequently their experiments, are\nhighly unstable. The fact that stars",
+    "start": 800.86,
+    "duration": 4.77
+  },
+  {
+    "text": "shine so steadily was one of the key\nfeatures that convinced the engineer",
+    "start": 805.63,
+    "duration": 3.57
+  },
+  {
+    "text": "Monty Childs that the electrical model\nof stars was one that made sense of the",
+    "start": 809.2,
+    "duration": 4.74
+  },
+  {
+    "text": "steadily shining stars and could be\ntested by engineers, and it's based on",
+    "start": 813.94,
+    "duration": 6.06
+  },
+  {
+    "text": "the transistor current control\neffect in the photospheric plasma,",
+    "start": 820.0,
+    "duration": 3.88
+  },
+  {
+    "text": "that maintains steady radiant energy\nmore than X-rays. The Sun is a variable",
+    "start": 823.88,
+    "duration": 4.47
+  },
+  {
+    "text": "star. Monty's successful implementation\nof the SAFIRE experiment proved the",
+    "start": 828.35,
+    "duration": 5.28
+  },
+  {
+    "text": "model: the experiment is very stable.\nAstrophysicists don't recognize clear",
+    "start": 833.63,
+    "duration": 6.18
+  },
+  {
+    "text": "electrical engineering evidence that the\nSun exhibits the features of an anode in",
+    "start": 839.81,
+    "duration": 4.98
+  },
+  {
+    "text": "a low pressure gas discharge. If we find\nit the smartest way to produce a tiny",
+    "start": 844.79,
+    "duration": 5.48
+  },
+  {
+    "text": "intense source of light in a searchlight,\nwhich is an electric arc equivalent, why",
+    "start": 850.27,
+    "duration": 5.35
+  },
+  {
+    "text": "would nature do it in any less efficient\nway? Remembering that stars are",
+    "start": 855.62,
+    "duration": 4.31
+  },
+  {
+    "text": "infinitesimal specks of dust in the\nvastness of space. While returning to the",
+    "start": 859.93,
+    "duration": 5.38
+  },
+  {
+    "text": "subject of stars that go supernova, you\nhave always argued against the belief",
+    "start": 865.31,
+    "duration": 4.74
+  },
+  {
+    "text": "that type 1a supernovae can be used as\n”standard candles” which have",
+    "start": 870.05,
+    "duration": 5.31
+  },
+  {
+    "text": "supposedly affirmed the acceleration of\nthe expansion of the universe. And so",
+    "start": 875.36,
+    "duration": 4.64
+  },
+  {
+    "text": "along those lines, a recent report on\nphys.org is extremely telling. It states",
+    "start": 880.0,
+    "duration": 7.02
+  },
+  {
+    "text": "”The most direct and strongest evidence\nfor the accelerating universe with dark",
+    "start": 887.02,
+    "duration": 4.42
+  },
+  {
+    "text": "energy is provided by the distance\nmeasurements using type 1a supernovae",
+    "start": 891.44,
+    "duration": 4.58
+  },
+  {
+    "text": "(SN 1a) for the galaxies at high redshift.\nThis result is based on the assumption that",
+    "start": 896.02,
+    "duration": 4.96
+  },
+  {
+    "text": "the corrected luminosity of SN 1a\nthrough the empirical",
+    "start": 900.98,
+    "duration": 3.71
+  },
+  {
+    "text": "standardization would not evolve with\nredshift. New observations and analysis",
+    "start": 904.69,
+    "duration": 5.23
+  },
+  {
+    "text": "made by a team of astronomers show\nhowever that this key assumption is most",
+    "start": 909.92,
+    "duration": 4.56
+  },
+  {
+    "text": "likely in error.” Now the report goes on\nto say “Other cosmological probes, such as",
+    "start": 914.48,
+    "duration": 6.21
+  },
+  {
+    "text": "the Cosmic Microwave Background (CMB) and\nbaryonic acoustic oscillations (BAO) ,are also",
+    "start": 920.69,
+    "duration": 4.53
+  },
+  {
+    "text": "known to provide some indirect and\ncircumstantial evidence for dark energy,",
+    "start": 925.22,
+    "duration": 4.25
+  },
+  {
+    "text": "but it was recently suggested that\ncosmic microwave background from the",
+    "start": 929.47,
+    "duration": 4.63
+  },
+  {
+    "text": "Planck mission, no longer supports the\nconcordance cosmological model which may",
+    "start": 934.1,
+    "duration": 4.97
+  },
+  {
+    "text": "require new physics.” So Wal, very simply,\nin your opinion, why are astronomers",
+    "start": 939.07,
+    "duration": 7.0
+  },
+  {
+    "text": "incorrect in their continued belief in\nthe expanding Big Bang universe? The very",
+    "start": 946.07,
+    "duration": 6.54
+  },
+  {
+    "text": "assumption they make, of course, is\nincorrect; that the standard or the",
+    "start": 952.61,
+    "duration": 4.71
+  },
+  {
+    "text": "corrected luminosity of SN 1a,\nthrough the empirical standardization,",
+    "start": 957.32,
+    "duration": 6.06
+  },
+  {
+    "text": "would not evolve with redshift. Because\nthe research of Halton Arp showed that",
+    "start": 963.38,
+    "duration": 5.64
+  },
+  {
+    "text": "the redshift does evolve, but not with\ndistance but with age. As for proposing",
+    "start": 969.02,
+    "duration": 7.17
+  },
+  {
+    "text": "new physics, this is the standard\nresponse every time fundamental ideas",
+    "start": 976.19,
+    "duration": 6.03
+  },
+  {
+    "text": "are being challenged by observations. But\nthe Electric Universe has shown that we",
+    "start": 982.22,
+    "duration": 6.24
+  },
+  {
+    "text": "were closer to the truth\nin cosmology more than a hundred years",
+    "start": 988.46,
+    "duration": 3.9
+  },
+  {
+    "text": "ago. What we need is not new physics but\na revisit of old physics.",
+    "start": 992.36,
+    "duration": 7.34
+  },
+  {
+    "text": "[Music]",
+    "start": 999.7,
+    "duration": 7.03
+  }
+]

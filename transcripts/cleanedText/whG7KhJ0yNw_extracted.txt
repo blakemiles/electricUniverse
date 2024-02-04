@@ -1,0 +1,270 @@
+[Music]
+New evidence from the Fermi National
+Accelerator Laboratory near Chicago
+seems to point to a subatomic particle, called
+a muon, behaving in a way that it should not. It
+is believed that every particle has
+what is called a magnetic moment;
+and this is essentially a sort of wobble.
+Each type of particle has a very precise
+value for this magnetic moment.
+When they ran their experiments, they
+discovered something rather curious.
+The muon seemed to be wobbling a lot
+more than the theory predicted.
+The scientists who discovered this think
+that the best explanation for this,
+is that the muon is being pushed around
+by types of matter and energy
+completely unknown to physics. The
+current model has remained largely
+unchanged in the last 50 years,
+and this small discovery could well shake
+the entire foundation that this is built on.
+Muons can be thought of as fat electrons as
+they are similar to a regular electron, but are
+200 times heavier and are also radioactively
+unstable, decaying in a mere millionth of a second
+into electrons and the elusive neutrino.
+In the experiments they sent the muons
+into a superconducting ring and this
+seemed to show that it was wobbling
+far more than it should. The wobble, they
+think, is related to the spin of the particle.
+The idea of spin was first discovered 
+in the 1920’s by Otto Stern
+and Walter Gerlach. They shot silver
+atoms through a varying magnetic field,
+and saw something that they couldn't
+explain. The silver atoms were neutral, so
+had an equal number of protons and electrons.
+They had expected to find one of two
+possible results. Number 1: the
+neutrality of the atoms would nullify
+any interactions with the magnetic field,
+and they would travel in a straight line.
+Number 2: if the atoms behaved like
+spheres that could also spin on their axes,
+then this angular momentum would interact
+with the surrounding magnetic field,
+producing a torque. Since each 
+atom would have a random spin,
+and hence torque, it would scatter 
+the atoms in all directions.
+What they discovered was actually none of these.
+When they examined the results, what they
+actually saw was, that there were two very
+distinct trajectories from the silver atoms.
+One group heading upwards and
+the other heading downwards.
+The experiment revealed that 
+particles that make up the atom,
+had previously unknown properties that
+were only revealed by the magnetic field.
+Since the atoms sort of behave like spinning balls
+of electric charge, this property was dubbed spin.
+From this point onwards particles would have
+three properties: mass, charge and spin.
+Through experiments it was determined that the spin
+property is a fixed quantity. The problem was that
+Schrodinger's equations did not take account of
+any spin and it would be Dirac who would come up
+with a mathematics that would bridge the
+gap and allow quantum mechanics to work with
+special relativity. The behavior of
+these particles is far more complex
+than a simple spinning sphere. In fact, it
+is fair to say that there is no useful
+metaphor for this property at all.
+In classical physics, the magnetic spin
+moment would be equal to a half multiplied
+by the ratio of its electric charge,
+to its mass, multiplied by its spin angular
+momentum. However, in quantum mechanics it all gets
+multiplied by a pre-factor which is called g. If the
+universe were purely quantum mechanical in nature
+g would equal 2 and this is exactly
+what Dirac had predicted.
+As you might be able to guess, g does not 
+equal 2. Scientists claim that this means that
+the universe is not just quantum mechanical.
+Instead, there are also fields that
+permeate the universe which are responsible
+for carrying the forces. So, these fields
+also interact with all the particles, meaning 
+g cannot be equal to 2. This value has
+been observed for electrons for a long period
+of time. As they have very little mass, they
+predominantly interact with the electromagnetic
+force. This in turn means that the g2 effects
+are dominated by the electromagnetic force
+and we can calculate the magnetic moment
+to 13 decimal places for the electron.
+The muon is a different case. It is unstable,
+but has over 200 times the mass of an electron.
+This makes its magnetic moment much
+smaller than the electron, and 
+this also means that they believe it
+interacts with the strong force much 
+more compared to the electron. It is
+here that the scientists have found a
+difference with what their equations predicted,
+and what is actually being measured. A
+rival team however would like to pour
+cold water on their findings and 
+are rushing to publish a paper that
+would in fact allow for this greater
+wobble to exist within the existing models,
+and no new models would be required. Their
+calculations also follow the rules of the Standard
+Model but they relied upon a totally different
+calculation with very different assumptions.
+This shows that the physicists cannot
+agree on exactly how the 17 existing
+standard model particles interact with muons,
+allowing for the different interpretations.
+At this stage it is important to take a little
+step back, and just examine the experiment, to
+understand what might be going on. Firstly,
+they generate muons by firing protons at a target.
+The collision is thought to release
+energy which gets turned into matter.
+It creates something called a pion, which
+almost immediately decays, forming a muon.
+This muon lasts for a short period,
+before decaying into an electron
+and some neutrino particles. We cannot see or
+measure pions. They are a theoretical particle.
+The same can be said for the neutrino.
+We can only detect the neutrinos by their
+interaction with other particles. If 
+we examine the muon, it presents a
+rather interesting case that seems to
+highlight many of the problems with
+particle physics today. It is essentially an
+electron which is thought to have more mass.
+This particle can only be made through
+collisions with other particles
+and more specifically, atoms. The Standard
+Model holds that there are protons and
+neutrons in the nucleus, held together by
+a force called the strong nuclear force.
+This stops the protons from flying away from each
+other and binds them into the nucleus. There is
+no order to their nucleus, and protons 
+and neutrons occupy random locations.
+And yet, radioactive decay will
+always result in the production
+of certain smaller components,
+irrespective of this randomness.
+The Structured Atom Model shows 
+us a different way of looking at this.
+Instead, there are no neutrons, 
+and there is no strong nuclear force.
+Protons are held in the nucleus by electrons.
+An electron and a proton pair is what we
+see as a neutron. If we add into this the idea of
+platonic solids and use a simple densest packing
+rule, we can now create complex atomic
+nuclei following a very simple set of rules.
+Even more remarkable is that this structure,
+and its instabilities in certain parts,
+perfectly matches and explains 
+why certain elements are unstable,
+and why they decay into specific products.
+So why is this relevant to muons?
+In the mainstream model electrons
+do not exist within the nucleus.
+The muon is produced by colliding a particle with
+an atom. We know that a neutron decays into an
+electron and a proton and an
+antineutrino, within about 15 minutes.
+Another clue comes from the fact that
+they are able to create muon atoms.
+Muonic hydrogen has the muon
+orbiting much closer to the hydrogen
+than a normal atom. There is also 
+a process called muon capture.
+Here a proton and a negative muon join,
+resulting in the production of a neutron
+and a neutrino and sometimes a gamma ray.
+The muon can be drawn in from the atomic
+orbital to form a neutron inside 
+the nucleus. This is actually
+being investigated for the application
+in radioactive waste disposal and this
+would allow them to transmute the radioactive
+element into something else. We must also
+consider what exactly mass is.
+If we examine the famous E=mc2
+equation, we understand from this
+that as particles travel at relativistic
+speeds, their mass will increase.
+Wal Thornhill pointed out that this
+is simply an interpretation of the observations
+from particle accelerators. Here they
+accelerate protons and electrons in an
+electric field and notice that they become less
+responsive to this field. If, as Wal 
+suggests, these particles are
+made up of smaller sub particles
+which also orbit around a central charge,
+then as the particles accelerate,
+their orbits will become more and more
+elliptical as more and more force is applied.
+This is used in the distortion of this
+orbit, rather than in the
+acceleration of the particle itself.
+So in the case of a muon, might 
+this still simply be an electron
+but in a different excited state? Meaning
+it does not respond to the electric
+field in the same way as an electron.
+Did the initial collision cause one of
+the internal electrons inside the nucleus,
+to be liberated in this excited state?
+This state is unstable and this energy is eventually
+released, and all that remains is the electron.
+Again, we must come back to the concept that there
+is something fundamentally wrong with particle
+physics. This is the tip of the iceberg, and the 
+fact that they see a discrepancy from their
+theoretical models with their observations,
+may indeed open up the avenue for them
+to explore an alternative to this
+particle zoo that they have created.
+Although, I wouldn't be surprised if they
+simply invent another member of this zoo
+to fix the problem. That being 
+said, there is still much work
+to do in finding a working alternative
+to all the phenomena we see.
+SAM is an excellent step in the right
+direction, but understandably their efforts are
+focused on the known atoms and
+explaining all the phenomena,
+before they then tackle the more exotic
+phenomena we see. They have already shown that in
+radioactive decay, there is no need
+for the neutrino, and a positron
+can be explained as an electron 
+moving into the nucleus of the atom.
+When you strip away what is actually
+observed in these experiments,
+there is room for a totally different
+interpretation of the data.
+Which may suggest a much simpler, more logical
+way in which mother nature works, and would
+remove Feynman's classical quote where he said,
+“The theory of quantum Electrodynamics describes
+nature as absurd from the point of view of common
+sense. And it fully agrees with experiment. So I
+hope you can accept nature as she is – Absurd.” 
+Instead, we should view mother nature
+in a logical hierarchical fashion
+where everything has a purpose,
+where less is more and in this case,
+the removal of the strong nuclear force,
+once more points to the electrical
+nature of mother nature.
+[Music]

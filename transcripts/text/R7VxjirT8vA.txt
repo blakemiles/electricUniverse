@@ -1,0 +1,932 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe,",
+    "start": 7.11,
+    "duration": 2.91
+  },
+  {
+    "text": "brought to you by The\nThunderbolts Project™",
+    "start": 10.05,
+    "duration": 2.36
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 12.43,
+    "duration": 3.47
+  },
+  {
+    "text": "Of all the planets in the inner\nsolar system, the planet Mars may pose",
+    "start": 18.67,
+    "duration": 4.31
+  },
+  {
+    "text": "the most tantalizing mysteries.",
+    "start": 22.98,
+    "duration": 2.63
+  },
+  {
+    "text": "In the early 1970s when the Mariner 9\nspacecraft captured the most detailed",
+    "start": 25.61,
+    "duration": 4.54
+  },
+  {
+    "text": "images of the planet to that time,\nscientists' ideas about Mars have needed",
+    "start": 30.15,
+    "duration": 4.31
+  },
+  {
+    "text": "constant revision.",
+    "start": 34.46,
+    "duration": 1.47
+  },
+  {
+    "text": "A planet that was thought to be\nlong geologically dead was",
+    "start": 35.93,
+    "duration": 3.25
+  },
+  {
+    "text": "engulfed in massive dust storms and its\nsurface revealed dramatic and unexpected",
+    "start": 39.18,
+    "duration": 4.28
+  },
+  {
+    "text": "scarring which remains\nmysterious to this day.",
+    "start": 43.46,
+    "duration": 4.22
+  },
+  {
+    "text": "For decades, the chief\nprincipals of The Thunderbolts Project",
+    "start": 47.75,
+    "duration": 2.82
+  },
+  {
+    "text": "have proposed that extraordinary events\nshaped the Martian surface.",
+    "start": 50.57,
+    "duration": 5.05
+  },
+  {
+    "text": "Events which they contend were\nrecorded in the myths",
+    "start": 55.62,
+    "duration": 2.05
+  },
+  {
+    "text": "and legends of ancient man.",
+    "start": 57.71,
+    "duration": 3.29
+  },
+  {
+    "text": "In part one of this two-part\npresentation, physicist",
+    "start": 61.0,
+    "duration": 2.5
+  },
+  {
+    "text": "Eugene Bagashov reopens\nthe Martian mysteries.",
+    "start": 63.53,
+    "duration": 3.5
+  },
+  {
+    "text": "In the following material, I'd\nlike to discuss some of the papers about",
+    "start": 67.05,
+    "duration": 3.78
+  },
+  {
+    "text": "Mars that has been released in recent\nyears in order to see if their results",
+    "start": 70.83,
+    "duration": 4.41
+  },
+  {
+    "text": "might be reinterpreted in the light of\nthe electric universe paradigm.",
+    "start": 75.24,
+    "duration": 4.5
+  },
+  {
+    "text": "So the first paper that I want to mention\ndiscusses the peculiar structure in the",
+    "start": 79.74,
+    "duration": 3.8
+  },
+  {
+    "text": "Martian equatorial region, called the\nMedusae Fossae Formation or MFF.",
+    "start": 83.54,
+    "duration": 6.0
+  },
+  {
+    "text": "The purpose of the paper essentially is to\nreport on the density measurements of",
+    "start": 89.54,
+    "duration": 3.85
+  },
+  {
+    "text": "this structure.",
+    "start": 93.39,
+    "duration": 1.86
+  },
+  {
+    "text": "To measure it, the team of researchers\nutilizes the altimetry data",
+    "start": 95.31,
+    "duration": 3.19
+  },
+  {
+    "text": "from Mars Orbiter Laser Altimeter\nexperiment, or MOLA, on board of the Mars",
+    "start": 98.55,
+    "duration": 4.85
+  },
+  {
+    "text": "Global Surveyor spacecraft and also some\nof the most recent models of the Martian",
+    "start": 103.4,
+    "duration": 5.07
+  },
+  {
+    "text": "gravitational field used by NASA Jet\nPropulsion Laboratory.",
+    "start": 108.47,
+    "duration": 4.1
+  },
+  {
+    "text": "The results that they get in\nthe end are pretty interesting.",
+    "start": 112.57,
+    "duration": 3.97
+  },
+  {
+    "text": "In particular, they report\nthat the density of MFF region should be",
+    "start": 116.61,
+    "duration": 3.11
+  },
+  {
+    "text": "quite low, only about 1,700\nkilograms per cubic meter.",
+    "start": 119.72,
+    "duration": 4.53
+  },
+  {
+    "text": "It is possible, they state, that\nsuch an unusually low density is",
+    "start": 124.25,
+    "duration": 3.96
+  },
+  {
+    "text": "the result of mixing\nof the rock with",
+    "start": 128.26,
+    "duration": 1.52
+  },
+  {
+    "text": "large amounts of ice,\nmore than 1/2 in volume.",
+    "start": 129.81,
+    "duration": 4.02
+  },
+  {
+    "text": "However, the problem with that assumption\nis that the previous radar scanning of",
+    "start": 133.83,
+    "duration": 4.26
+  },
+  {
+    "text": "the area, performed by MARSIS experiment\non board of the European Mars Express",
+    "start": 138.09,
+    "duration": 4.35
+  },
+  {
+    "text": "orbiter, rules out any significant\nconcentration of ice in the area.",
+    "start": 142.44,
+    "duration": 5.31
+  },
+  {
+    "text": "And it would also be hard\nto expect much ice in",
+    "start": 147.75,
+    "duration": 2.44
+  },
+  {
+    "text": "the equatorial region which on average\nreceives the most heating from the Sun.",
+    "start": 150.22,
+    "duration": 4.45
+  },
+  {
+    "text": "So the conclusion that the authors\narrived at is that the low density of",
+    "start": 154.67,
+    "duration": 4.45
+  },
+  {
+    "text": "Medusae Fossae Formation should be\nthe consequence of it being made of a",
+    "start": 159.12,
+    "duration": 4.23
+  },
+  {
+    "text": "highly porous rock.",
+    "start": 163.35,
+    "duration": 2.01
+  },
+  {
+    "text": "When compared to some of the\nminerals on Earth, it seems that",
+    "start": 165.41,
+    "duration": 3.44
+  },
+  {
+    "text": "the porosity of rock in MFF might range\nfrom about 18 to about 51 percent and it",
+    "start": 168.96,
+    "duration": 5.55
+  },
+  {
+    "text": "is not entirely clear how such a\npeculiar formation might have appeared",
+    "start": 174.51,
+    "duration": 3.75
+  },
+  {
+    "text": "in the first place.",
+    "start": 178.26,
+    "duration": 0.97
+  },
+  {
+    "text": "The authors suggest that\n\"the MFF was deposited by",
+    "start": 179.93,
+    "duration": 4.48
+  },
+  {
+    "text": "pyroclastic eruptions.\"",
+    "start": 184.43,
+    "duration": 1.9
+  },
+  {
+    "text": "But at the same time they are baffled by its\nhuge extent and total mass, noting that",
+    "start": 186.41,
+    "duration": 5.44
+  },
+  {
+    "text": "it is two orders of magnitude greater\nthan the largest pyroclastic deposits on",
+    "start": 191.85,
+    "duration": 4.53
+  },
+  {
+    "text": "earth which would make it the largest in\nthe whole solar system.",
+    "start": 196.38,
+    "duration": 4.12
+  },
+  {
+    "text": "I should add here that this area\ndoesn't seem to have any",
+    "start": 200.6,
+    "duration": 2.92
+  },
+  {
+    "text": "indications of volcanic activity even in\nthe past in the first place.",
+    "start": 203.55,
+    "duration": 4.01
+  },
+  {
+    "text": "It's quite removed from the hypothetical\nvolcanically active Tharsis region and",
+    "start": 207.56,
+    "duration": 4.63
+  },
+  {
+    "text": "even the hypothetical\nvolcano Olympus Mons.",
+    "start": 212.19,
+    "duration": 4.2
+  },
+  {
+    "text": "But of course, in the Electric\nUniverse not only volcanism might affect",
+    "start": 216.47,
+    "duration": 3.4
+  },
+  {
+    "text": "the geological processes but also the\nexternal electromagnetic influences.",
+    "start": 219.87,
+    "duration": 5.4
+  },
+  {
+    "text": "So perhaps the very appearance of the MFF\nand its low density and high porosity is",
+    "start": 225.27,
+    "duration": 4.68
+  },
+  {
+    "text": "somehow related to the possible\nplanetary wide catastrophes in the",
+    "start": 229.95,
+    "duration": 3.72
+  },
+  {
+    "text": "Martian past.",
+    "start": 233.67,
+    "duration": 1.35
+  },
+  {
+    "text": "For now, let's remember that thought and\ntake a look at some other",
+    "start": 235.03,
+    "duration": 2.99
+  },
+  {
+    "text": "recent papers.",
+    "start": 238.02,
+    "duration": 1.98
+  },
+  {
+    "text": "In particular, let's examine the\npaper released in February of",
+    "start": 240.02,
+    "duration": 3.64
+  },
+  {
+    "text": "2019 in the journal Science.",
+    "start": 243.68,
+    "duration": 2.08
+  },
+  {
+    "text": "Here the authors report the results of quite\na clever application of Curiosity rover",
+    "start": 246.06,
+    "duration": 5.13
+  },
+  {
+    "text": "telemetry data to measure the surface\ngravity in the Gale Crater where the",
+    "start": 251.19,
+    "duration": 3.86
+  },
+  {
+    "text": "rover is situated.",
+    "start": 255.07,
+    "duration": 1.96
+  },
+  {
+    "text": "Curiosity is equipped with accelerometers\nand gyroscopes that",
+    "start": 258.08,
+    "duration": 3.14
+  },
+  {
+    "text": "are normally used for navigation and\nattitude determination",
+    "start": 261.23,
+    "duration": 3.63
+  },
+  {
+    "text": "but the researchers have been able to\nuse the data from these instruments for",
+    "start": 264.86,
+    "duration": 4.23
+  },
+  {
+    "text": "the extraction of the\ngravitational acceleration.",
+    "start": 269.09,
+    "duration": 3.52
+  },
+  {
+    "text": "More than 700 data samples\nwere used, corrected for the possible",
+    "start": 272.86,
+    "duration": 3.64
+  },
+  {
+    "text": "interference from planetary rotation,\naltitude and pressure and such.",
+    "start": 276.5,
+    "duration": 4.9
+  },
+  {
+    "text": "What they got in the end was the gravitational\ngradient, that is the change of",
+    "start": 281.6,
+    "duration": 4.68
+  },
+  {
+    "text": "acceleration with height, that was\nsmaller than expected and they've been",
+    "start": 286.28,
+    "duration": 4.25
+  },
+  {
+    "text": "able to infer from that data the most\nprobable density of rock that Curiosity",
+    "start": 290.53,
+    "duration": 4.78
+  },
+  {
+    "text": "was traveling on top of.",
+    "start": 295.31,
+    "duration": 2.86
+  },
+  {
+    "text": "Now the most interesting part is\nthat the density of",
+    "start": 298.27,
+    "duration": 2.06
+  },
+  {
+    "text": "this rock was almost exactly the same as\nthe one reported for the MFF in previous",
+    "start": 300.37,
+    "duration": 4.96
+  },
+  {
+    "text": "paper, namely 1,680\nkilograms per cubic meter.",
+    "start": 305.33,
+    "duration": 5.32
+  },
+  {
+    "text": "And in the very same way they\nconclude that the reason for such a low",
+    "start": 310.65,
+    "duration": 3.85
+  },
+  {
+    "text": "density should be very high porosity of\nthe rock in Gale Crater, most likely",
+    "start": 314.5,
+    "duration": 4.9
+  },
+  {
+    "text": "around 40%.",
+    "start": 319.4,
+    "duration": 2.63
+  },
+  {
+    "text": "Even more so, they hypothesized\nthat the initial porosity",
+    "start": 322.09,
+    "duration": 2.32
+  },
+  {
+    "text": "might have been higher at the time of\nthe formation of Gale Crater and could",
+    "start": 324.43,
+    "duration": 4.23
+  },
+  {
+    "text": "have been as high as 55 to 70 percent.",
+    "start": 328.66,
+    "duration": 2.61
+  },
+  {
+    "text": "Now here I wish to mention that the Gale\nCrater is supposed to be an impact",
+    "start": 331.56,
+    "duration": 4.63
+  },
+  {
+    "text": "feature but what if it\nhas a different origin?",
+    "start": 336.19,
+    "duration": 3.12
+  },
+  {
+    "text": "Electric Universe paradigm brings\ninto light the possibility that such",
+    "start": 339.33,
+    "duration": 3.92
+  },
+  {
+    "text": "formations might occur during extremely\npowerful plasma discharges to the",
+    "start": 343.25,
+    "duration": 4.5
+  },
+  {
+    "text": "surfaces of planets during hypothetical\ncataclysmic events such as extreme solar",
+    "start": 347.75,
+    "duration": 5.0
+  },
+  {
+    "text": "flares and CMEs and/or close\nplanetary encounters.",
+    "start": 352.75,
+    "duration": 3.27
+  },
+  {
+    "text": "So in my opinion, it might be\nthe case that both Medusae Fossae",
+    "start": 357.11,
+    "duration": 3.86
+  },
+  {
+    "text": "formation and Gale Crater appeared on\nthe surface of Mars because of some sort",
+    "start": 360.97,
+    "duration": 4.3
+  },
+  {
+    "text": "of electric erosion processes.",
+    "start": 365.27,
+    "duration": 2.67
+  },
+  {
+    "text": "The fact that the density\nof rock in both of",
+    "start": 368.12,
+    "duration": 1.76
+  },
+  {
+    "text": "these formations is almost exactly the\nsame, indicates on possible similarity of",
+    "start": 369.94,
+    "duration": 4.77
+  },
+  {
+    "text": "their origin. Yet the MFF is thought to\nbe a result of some volcanic activity",
+    "start": 374.71,
+    "duration": 5.7
+  },
+  {
+    "text": "where the stuff essentially emerges from\ndown below and Gale Crater is thought to",
+    "start": 380.41,
+    "duration": 4.45
+  },
+  {
+    "text": "be the result of an impact event where\nthe stuff should have fallen down from",
+    "start": 384.86,
+    "duration": 3.69
+  },
+  {
+    "text": "above and it should be evident that the\nresult wouldn't look the same.",
+    "start": 388.55,
+    "duration": 5.33
+  },
+  {
+    "text": "Plus we have the 5.5 kilometer\ntall Mount Sharp",
+    "start": 393.88,
+    "duration": 3.51
+  },
+  {
+    "text": "sitting right in the center of\nGale Crater, the origins of which are",
+    "start": 397.91,
+    "duration": 2.73
+  },
+  {
+    "text": "still the subject of debate.",
+    "start": 400.64,
+    "duration": 3.3
+  },
+  {
+    "text": "Both the MFF and Gale Crater\nare located near the",
+    "start": 403.94,
+    "duration": 2.7
+  },
+  {
+    "text": "equator which is quite peculiar as this\nseems to be a special area on most",
+    "start": 406.94,
+    "duration": 4.71
+  },
+  {
+    "text": "occasions and might be significant in\nany type of plasma discharging events.",
+    "start": 411.65,
+    "duration": 5.13
+  },
+  {
+    "text": "In this regard, I keep thinking of similar\nequatorial anomalies on other bodies",
+    "start": 416.88,
+    "duration": 4.13
+  },
+  {
+    "text": "such as the Earth's equatorial plasma\nfountain, Jupiter's equatorial ionic",
+    "start": 421.01,
+    "duration": 5.1
+  },
+  {
+    "text": "ribbon, dark equatorial regions on Titan\nand Pluto, Iapetus’ equatorial ridge and others.",
+    "start": 426.11,
+    "duration": 7.36
+  },
+  {
+    "text": "On Mars, this area is doubly\ninteresting as it separates the low and",
+    "start": 433.67,
+    "duration": 4.26
+  },
+  {
+    "text": "flat northern hemisphere from the high\nand bumpy southern.",
+    "start": 437.93,
+    "duration": 4.77
+  },
+  {
+    "text": "And here I should mention the\nother paper that has been",
+    "start": 442.8,
+    "duration": 1.98
+  },
+  {
+    "text": "released in July of 2018.",
+    "start": 444.83,
+    "duration": 2.86
+  },
+  {
+    "text": "Here the authors compared data from various\nspacecraft and Rovers to study the",
+    "start": 447.88,
+    "duration": 4.48
+  },
+  {
+    "text": "chemistry of Martian dust with respect\nto the chemistry of the underlying soil.",
+    "start": 452.36,
+    "duration": 4.19
+  },
+  {
+    "text": "What they found was that the elemental\ncomposition of Martian dust is somewhat",
+    "start": 456.55,
+    "duration": 4.99
+  },
+  {
+    "text": "different from the composition of the\nsoil, at least on average.",
+    "start": 461.54,
+    "duration": 3.77
+  },
+  {
+    "text": "In particular, the dust seems\nto have a significantly",
+    "start": 465.31,
+    "duration": 3.41
+  },
+  {
+    "text": "higher content of chlorine and sulfur\nand not only that but their relative",
+    "start": 468.76,
+    "duration": 4.3
+  },
+  {
+    "text": "ratio on the dust all over the planet\nis also relatively constant.",
+    "start": 473.06,
+    "duration": 4.19
+  },
+  {
+    "text": "In terms of molar content,\nthe ratio of sulfur to",
+    "start": 477.25,
+    "duration": 2.93
+  },
+  {
+    "text": "chlorine seems to be\naround 3.7 globally.",
+    "start": 480.22,
+    "duration": 4.1
+  },
+  {
+    "text": "What's more important is that the\nresearchers identified an area on Mars",
+    "start": 484.38,
+    "duration": 4.46
+  },
+  {
+    "text": "where the soil itself has the same\nsulfur and chlorine content and that",
+    "start": 488.84,
+    "duration": 4.74
+  },
+  {
+    "text": "area is--Medusa Fossae Formation.",
+    "start": 493.58,
+    "duration": 2.91
+  },
+  {
+    "text": "So their conclusion is that it is the\nerosion of this formation that has",
+    "start": 496.57,
+    "duration": 4.42
+  },
+  {
+    "text": "filled the Martian atmosphere with most\nof its dust and eventually covered most",
+    "start": 500.99,
+    "duration": 4.5
+  },
+  {
+    "text": "of the planet with it.",
+    "start": 505.49,
+    "duration": 1.98
+  },
+  {
+    "text": "Given what I've noted above\non the potential importance",
+    "start": 507.48,
+    "duration": 3.36
+  },
+  {
+    "text": "of equatorial area during any kind of\nplasma discharging, in my opinion it is",
+    "start": 510.87,
+    "duration": 4.64
+  },
+  {
+    "text": "not impossible that this erosion might\nhave occurred electrically.",
+    "start": 515.51,
+    "duration": 4.56
+  },
+  {
+    "text": "I should note here that\nValles Marineris structure is",
+    "start": 520.07,
+    "duration": 2.65
+  },
+  {
+    "text": "also located in the equatorial region\nright to the east of Medusae Fossae Formation.",
+    "start": 522.74,
+    "duration": 4.9
+  },
+  {
+    "text": "Although I also have a",
+    "start": 527.64,
+    "duration": 1.75
+  },
+  {
+    "text": "suspicion that the erosion of\nMedusae Fossae formation",
+    "start": 529.46,
+    "duration": 3.06
+  },
+  {
+    "text": "might continue to this day in the form\nof much weaker discharge but so far I",
+    "start": 532.52,
+    "duration": 4.92
+  },
+  {
+    "text": "have no evidence to present\nin support of this idea.",
+    "start": 537.44,
+    "duration": 3.45
+  },
+  {
+    "text": "I believe, now it's a good\ntime to remember another item from the",
+    "start": 540.91,
+    "duration": 4.13
+  },
+  {
+    "text": "electric universe pool of ideas,\nnamely the statement that asteroids and",
+    "start": 545.04,
+    "duration": 4.08
+  },
+  {
+    "text": "comets might be the fragments of planets\ntorn away by electrical activity",
+    "start": 549.12,
+    "duration": 4.01
+  },
+  {
+    "text": "during catastrophic events in the past\nof the solar system.",
+    "start": 553.13,
+    "duration": 3.78
+  },
+  {
+    "text": "It has been known for some time\nthat pieces of Mars might",
+    "start": 556.91,
+    "duration": 3.12
+  },
+  {
+    "text": "even land on Earth.",
+    "start": 560.04,
+    "duration": 1.0
+  },
+  {
+    "text": "At the moment, there are at least\n227 meteorites identified",
+    "start": 562.04,
+    "duration": 3.48
+  },
+  {
+    "text": "as originating from Mars.",
+    "start": 565.74,
+    "duration": 1.68
+  },
+  {
+    "text": "It is supposed that these\nrocks received their initial",
+    "start": 567.52,
+    "duration": 2.72
+  },
+  {
+    "text": "velocity from another impactor that\nlands on Mars and throws them into",
+    "start": 570.32,
+    "duration": 3.85
+  },
+  {
+    "text": "interplanetary space, but what if the\nprocess of initial removal of the",
+    "start": 574.17,
+    "duration": 4.56
+  },
+  {
+    "text": "material is electric?",
+    "start": 578.73,
+    "duration": 2.01
+  },
+  {
+    "text": "In fact, some of the asteroids themselves\nin the solar system",
+    "start": 580.76,
+    "duration": 3.04
+  },
+  {
+    "text": "have recently been identified as\noriginating from Mars, well in line with",
+    "start": 583.84,
+    "duration": 4.64
+  },
+  {
+    "text": "the scenarios proposed by\nthe EU catastrophism.",
+    "start": 588.48,
+    "duration": 2.74
+  },
+  {
+    "text": "There is even strong evidence\nin favor of the hypothesis that",
+    "start": 591.22,
+    "duration": 4.13
+  },
+  {
+    "text": "Martian moons Phobos and Deimos\noriginate from Mars itself.",
+    "start": 595.35,
+    "duration": 4.94
+  },
+  {
+    "text": "Remembering the discussion above about\nthe low density of Gale Crater and",
+    "start": 600.29,
+    "duration": 4.0
+  },
+  {
+    "text": "Medusae Fossae rocks, I cannot miss the\nopportunity to speak about the densities",
+    "start": 604.29,
+    "duration": 4.73
+  },
+  {
+    "text": "of small bodies in the solar system.",
+    "start": 609.02,
+    "duration": 2.5
+  },
+  {
+    "text": "It is generally assumed that the average\ndensity of asteroids should be about",
+    "start": 611.85,
+    "duration": 3.81
+  },
+  {
+    "text": "2,000 kilograms per cubic meter which is\nnoticeably lower than the density of",
+    "start": 615.66,
+    "duration": 4.79
+  },
+  {
+    "text": "both Earth's and Mars’ crust and closer\nto the density of MFF and Gale Crater.",
+    "start": 620.45,
+    "duration": 5.16
+  },
+  {
+    "text": "The density of comets however, is even\ncouple of times lower than that, about",
+    "start": 625.61,
+    "duration": 4.81
+  },
+  {
+    "text": "800 kilograms per cubic meter.",
+    "start": 630.42,
+    "duration": 2.08
+  },
+  {
+    "text": "What is interesting however, is that the\nRosetta mission with its brave Philae",
+    "start": 632.55,
+    "duration": 4.46
+  },
+  {
+    "text": "lander have been able to determine that\nthe dust-to-ice ratio in the comet 67P",
+    "start": 637.01,
+    "duration": 5.06
+  },
+  {
+    "text": "nucleus, is much higher than was expected\nand the low density is the consequence",
+    "start": 642.07,
+    "duration": 5.23
+  },
+  {
+    "text": "of very high porosity.",
+    "start": 647.3,
+    "duration": 2.44
+  },
+  {
+    "text": "This, kind of, reminds of\nsomething else, right?",
+    "start": 649.76,
+    "duration": 3.13
+  },
+  {
+    "text": "My hypothesis with regards to that would be\nthat perhaps comets are the result of",
+    "start": 652.94,
+    "duration": 3.85
+  },
+  {
+    "text": "more violent types of discharges so that\nthe rock starts to partly boil or being",
+    "start": 656.79,
+    "duration": 5.01
+  },
+  {
+    "text": "transformed in some other way and\nbecomes more porous in the end.",
+    "start": 661.8,
+    "duration": 4.21
+  },
+  {
+    "text": "And such more energetic events would\nalso result in a more irregular orbits",
+    "start": 666.01,
+    "duration": 4.29
+  },
+  {
+    "text": "with higher semi-major axis distance,",
+    "start": 670.3,
+    "duration": 2.36
+  },
+  {
+    "text": "whereas asteroids might be the result of\nmilder type of discharges and therefore",
+    "start": 672.75,
+    "duration": 5.08
+  },
+  {
+    "text": "don't demonstrate such a high deviation\nfrom the planetary crust in terms of",
+    "start": 677.83,
+    "duration": 3.99
+  },
+  {
+    "text": "density and also don't move in such\neccentric orbits as comets do.",
+    "start": 681.82,
+    "duration": 5.25
+  },
+  {
+    "text": "So, taking into account the considerations\ngiven above, I would suggest to any",
+    "start": 687.07,
+    "duration": 4.17
+  },
+  {
+    "text": "experimenters trying to reproduce\ngeological formations in the plasma lab",
+    "start": 691.24,
+    "duration": 4.35
+  },
+  {
+    "text": "to pay more attention to the density of\nthe acquired structures and formations.",
+    "start": 695.59,
+    "duration": 4.46
+  },
+  {
+    "text": "Perhaps it might be possible to\nreproduce some of the more porous",
+    "start": 700.05,
+    "duration": 3.94
+  },
+  {
+    "text": "formations such as rock of the Medusae\nFossae formation, or even the more",
+    "start": 703.99,
+    "duration": 4.62
+  },
+  {
+    "text": "highly porous cometary rock.",
+    "start": 708.61,
+    "duration": 1.98
+  },
+  {
+    "text": "At the same time, I think\nthat the results of the",
+    "start": 710.76,
+    "duration": 2.77
+  },
+  {
+    "text": "ongoing sample return missions from\nasteroids such as Hayabusa2 and",
+    "start": 713.59,
+    "duration": 4.2
+  },
+  {
+    "text": "OSIRIS-REX, would show more evidence that\nthe asteroidal rock bears a striking",
+    "start": 717.79,
+    "duration": 4.62
+  },
+  {
+    "text": "resemblance to the typical planetary\ncrust composition.",
+    "start": 722.41,
+    "duration": 4.71
+  }
+]

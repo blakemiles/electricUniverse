@@ -1,0 +1,617 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe,",
+    "start": 7.046,
+    "duration": 2.952
+  },
+  {
+    "text": "brought to you by The\nThunderbolts Project™",
+    "start": 10.023,
+    "duration": 2.376
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 12.424,
+    "duration": 3.217
+  },
+  {
+    "text": "A new scientific paper attempts to explain\na mystery at our planet's South Pole.",
+    "start": 16.518,
+    "duration": 5.083
+  },
+  {
+    "text": "A team of investigators from\nthe British Antarctic Survey",
+    "start": 21.602,
+    "duration": 3.492
+  },
+  {
+    "text": "discovered a localized area where the Antarctic\nIce Sheet is melting surprisingly quickly.",
+    "start": 25.119,
+    "duration": 5.676
+  },
+  {
+    "text": "Using radar, they found that some of the ice\nin a 3 km thick layer appears to be missing.",
+    "start": 30.82,
+    "duration": 5.958
+  },
+  {
+    "text": "They have proposed that the heat\nsource causing the melting is",
+    "start": 36.779,
+    "duration": 3.701
+  },
+  {
+    "text": "\"unusually radioactive rocks\"",
+    "start": 40.505,
+    "duration": 2.504
+  },
+  {
+    "text": "combined with unusually hot\nwater from deep underground.",
+    "start": 43.034,
+    "duration": 4.055
+  },
+  {
+    "text": "Lead author Dr. Tom Jordan\nsays of the investigation,",
+    "start": 47.089,
+    "duration": 3.567
+  },
+  {
+    "text": "\"Our results were\nquite unexpected,",
+    "start": 50.681,
+    "duration": 2.312
+  },
+  {
+    "text": "as many people thought this region of\nAntarctica was made of ancient and cold rocks,",
+    "start": 53.018,
+    "duration": 4.871
+  },
+  {
+    "text": "which had little impact\non the ice sheet above.",
+    "start": 57.914,
+    "duration": 2.606
+  },
+  {
+    "text": "We show that even in the\nancient continental interior,",
+    "start": 60.521,
+    "duration": 3.53
+  },
+  {
+    "text": "the underlying geology can have a\nsignificant impact on the ice.",
+    "start": 64.076,
+    "duration": 4.396
+  },
+  {
+    "text": "But a clue to the actual cause of the\nanomalous ice melting might be found at the",
+    "start": 68.497,
+    "duration": 4.633
+  },
+  {
+    "text": "\"surprisingly hot poles of other\nplanets in our solar system.\"",
+    "start": 73.155,
+    "duration": 4.241
+  },
+  {
+    "text": "As we've pointed out\nin countless episodes,",
+    "start": 77.421,
+    "duration": 2.716
+  },
+  {
+    "text": "physicist Wal Thornhill made the seemingly\noutrageous yet successful prediction",
+    "start": 80.162,
+    "duration": 5.016
+  },
+  {
+    "text": "that the freezing cold\nNorth Pole of Saturn,",
+    "start": 85.203,
+    "duration": 2.363
+  },
+  {
+    "text": "which had been deprived of\nsunlight for more than a decade,",
+    "start": 87.591,
+    "duration": 3.094
+  },
+  {
+    "text": "would have a \"hot spot\" similar to\nthe one at the planet's South Pole.",
+    "start": 90.71,
+    "duration": 3.745
+  },
+  {
+    "text": "In 2007, a surprising warm spot was also\nfound at the South Pole of Neptune.",
+    "start": 94.48,
+    "duration": 6.015
+  },
+  {
+    "text": "The Electric Universe\ntheory has always stated",
+    "start": 100.52,
+    "duration": 2.592
+  },
+  {
+    "text": "that the Sun is primarily\nan electrical phenomenon",
+    "start": 103.137,
+    "duration": 2.974
+  },
+  {
+    "text": "and electric currents flowing\nfrom the Sun to planets",
+    "start": 106.136,
+    "duration": 3.181
+  },
+  {
+    "text": "has implications for many\natmospheric phenomena",
+    "start": 109.342,
+    "duration": 2.904
+  },
+  {
+    "text": "including the tremendous\nwinds of gas giant planets",
+    "start": 112.271,
+    "duration": 3.375
+  },
+  {
+    "text": "and also jet streams and\nweather patterns on Earth.",
+    "start": 115.671,
+    "duration": 3.384
+  },
+  {
+    "text": "In recent years, professor Dr. Donald Scott\nhas developed a model of the structure",
+    "start": 119.056,
+    "duration": 4.982
+  },
+  {
+    "text": "of a type of electric current\ncalled a 'Birkeland current'",
+    "start": 124.063,
+    "duration": 3.102
+  },
+  {
+    "text": "which can be identified visually\nby its unique counter rotation.",
+    "start": 127.19,
+    "duration": 4.461
+  },
+  {
+    "text": "Critically, this counter rotation has\nbeen seen at the poles of Saturn,",
+    "start": 131.676,
+    "duration": 4.332
+  },
+  {
+    "text": "Jupiter,",
+    "start": 136.033,
+    "duration": 1.527
+  },
+  {
+    "text": "Neptune,",
+    "start": 137.585,
+    "duration": 2.096
+  },
+  {
+    "text": "and in our own planet's Auroras.",
+    "start": 139.706,
+    "duration": 2.433
+  },
+  {
+    "text": "Of course, the question\nis speculative",
+    "start": 142.14,
+    "duration": 2.644
+  },
+  {
+    "text": "but we asked Dr. Scott if an\nincoming Birkeland current",
+    "start": 144.809,
+    "duration": 3.518
+  },
+  {
+    "text": "could be the cause of the anomalous\nice melting at the South Pole.",
+    "start": 148.352,
+    "duration": 3.712
+  },
+  {
+    "text": "It's always interesting how relatively\noften new \"surprising discoveries\"",
+    "start": 152.678,
+    "duration": 5.191
+  },
+  {
+    "text": "are being made that might be explained\nbetter by the Electric Universe ideas.",
+    "start": 157.894,
+    "duration": 4.807
+  },
+  {
+    "text": "Much better than by accepted models\nof whatever it is being observed",
+    "start": 162.726,
+    "duration": 4.066
+  },
+  {
+    "text": "and I'm just sort of amused by the\nway that classic standard scientists",
+    "start": 166.817,
+    "duration": 7.136
+  },
+  {
+    "text": "will lurch and grab on\nto whatever is nearby",
+    "start": 173.978,
+    "duration": 3.952
+  },
+  {
+    "text": "except they never think about looking up\nand say gosh, could it be electrical?",
+    "start": 177.955,
+    "duration": 5.483
+  },
+  {
+    "text": "And so, using radar to look down through\n3 km of ice, the British team found that",
+    "start": 183.439,
+    "duration": 6.326
+  },
+  {
+    "text": "some of the ice covered an area that's\ntwice the size of the City of London.",
+    "start": 189.79,
+    "duration": 3.936
+  },
+  {
+    "text": "Now, this is a pretty big\narea, pretty big volume.",
+    "start": 193.751,
+    "duration": 3.577
+  },
+  {
+    "text": "And that ice appeared to be missing,\nthere's a big hole in there.",
+    "start": 197.353,
+    "duration": 4.597
+  },
+  {
+    "text": "One explanation for the missing\nice, their explanation,",
+    "start": 201.975,
+    "duration": 3.199
+  },
+  {
+    "text": "was that there may be a radioactive rock deposit\nthere that is supplying heat from below.",
+    "start": 205.199,
+    "duration": 7.001
+  },
+  {
+    "text": "Now I guess it's certainly possible that\nthere's a radioactive rock deposit below",
+    "start": 212.225,
+    "duration": 4.073
+  },
+  {
+    "text": "where the ice has melted",
+    "start": 216.323,
+    "duration": 2.098
+  },
+  {
+    "text": "but the Antarctic ice pack has\nbeen growing in recent years",
+    "start": 218.446,
+    "duration": 3.871
+  },
+  {
+    "text": "while the Arctic ice\npack has been shrinking.",
+    "start": 222.342,
+    "duration": 3.08
+  },
+  {
+    "text": "So if there's any difference at all\nbetween the Arctic and the Antarctic",
+    "start": 225.447,
+    "duration": 3.61
+  },
+  {
+    "text": "then it seems as though the\nAntarctic is getting colder and",
+    "start": 229.082,
+    "duration": 3.732
+  },
+  {
+    "text": "that makes the melting of this ice\neven more anomalous, I guess.",
+    "start": 232.839,
+    "duration": 4.845
+  },
+  {
+    "text": "So and the question is,",
+    "start": 237.709,
+    "duration": 1.486
+  },
+  {
+    "text": "why is there a region deep down under the\nsouthern growing ice pack that's melting?",
+    "start": 239.22,
+    "duration": 5.174
+  },
+  {
+    "text": "Well, after, if you think about it a\nminute, we know that the polar regions,",
+    "start": 244.419,
+    "duration": 4.088
+  },
+  {
+    "text": "both north and south\nof the Earth,",
+    "start": 248.532,
+    "duration": 1.896
+  },
+  {
+    "text": "are regions where Birkeland currents\nare coming in from the Sun",
+    "start": 250.453,
+    "duration": 3.641
+  },
+  {
+    "text": "and they impinge down through\nthe Earth's magnetosphere.",
+    "start": 254.119,
+    "duration": 3.179
+  },
+  {
+    "text": "Several years ago, NASA said that the\namount of current was unexpectedly high,",
+    "start": 257.299,
+    "duration": 5.106
+  },
+  {
+    "text": "somewhere around\n650,000 amperes.",
+    "start": 262.43,
+    "duration": 3.544
+  },
+  {
+    "text": "Now, 650,000 amperes is a lot of, to put\nit in the vernacular, a lot of juice.",
+    "start": 265.975,
+    "duration": 6.437
+  },
+  {
+    "text": "It's a lot of electric\nenergy there.",
+    "start": 272.437,
+    "duration": 3.001
+  },
+  {
+    "text": "Amperes is not energy but it can\nproduce a great amount of heat.",
+    "start": 275.439,
+    "duration": 5.824
+  },
+  {
+    "text": "OK, that's fine but why should that produce\nmore melting at one pole than at the other?",
+    "start": 281.288,
+    "duration": 5.44
+  },
+  {
+    "text": "The answer may lie in the fact that\nthe northern Arctic polar region",
+    "start": 286.728,
+    "duration": 4.434
+  },
+  {
+    "text": "is a layer of ice floating\non top of a saltwater ocean.",
+    "start": 291.187,
+    "duration": 4.625
+  },
+  {
+    "text": "And salt water is an excellent electrical\nconductor, that's my main point.",
+    "start": 295.837,
+    "duration": 3.769
+  },
+  {
+    "text": "Ice is a good conductor and maybe\nit's not quite as good as salt water",
+    "start": 299.631,
+    "duration": 3.58
+  },
+  {
+    "text": "but it's a pretty\ngood conductor.",
+    "start": 303.236,
+    "duration": 1.878
+  },
+  {
+    "text": "Well, the difference in the\nSouth, in the Antarctic,",
+    "start": 305.139,
+    "duration": 3.092
+  },
+  {
+    "text": "is that the ice pack is sitting right down\na smack on top of a continent of Earth,",
+    "start": 308.256,
+    "duration": 6.647
+  },
+  {
+    "text": "Earth's material.",
+    "start": 314.928,
+    "duration": 1.433
+  },
+  {
+    "text": "There is a continent down there,\nthere's no Southern Ocean.",
+    "start": 316.386,
+    "duration": 3.529
+  },
+  {
+    "text": "Instead of where the Arctic Ocean\nis, there's an Antarctic continent.",
+    "start": 319.94,
+    "duration": 5.661
+  },
+  {
+    "text": "And the material that\nthe Earth is made of",
+    "start": 325.626,
+    "duration": 2.351
+  },
+  {
+    "text": "is generally not nearly as good an\nelectrical conductor as salt water or ice.",
+    "start": 327.978,
+    "duration": 4.573
+  },
+  {
+    "text": "So if you think about what's\ngoing on, if you consider the",
+    "start": 332.576,
+    "duration": 4.001
+  },
+  {
+    "text": "path that maybe a Birkeland current\nmight take as it comes in from the Sun,",
+    "start": 336.602,
+    "duration": 4.018
+  },
+  {
+    "text": "comes down through the magnetosphere\ndown vertically into the Earth.",
+    "start": 340.645,
+    "duration": 5.673
+  },
+  {
+    "text": "And by the way, we've got\nsome very nice video",
+    "start": 346.343,
+    "duration": 3.396
+  },
+  {
+    "text": "of the counter-rotating currents in the Aurora\nBorealis that is certainly supporting evidence",
+    "start": 349.764,
+    "duration": 6.764
+  },
+  {
+    "text": "that indeed that's what's happening\nso that Birkeland was quite right.",
+    "start": 356.553,
+    "duration": 3.582
+  },
+  {
+    "text": "Anyway, if that current comes down through the\nsnow and ice and then into Earth and rock.",
+    "start": 360.16,
+    "duration": 6.758
+  },
+  {
+    "text": "Now in the North it flows\nthrough ice and saltwater.",
+    "start": 366.943,
+    "duration": 2.82
+  },
+  {
+    "text": "Now each of these cases we can think of the\nelectrical properties of those two layers",
+    "start": 369.788,
+    "duration": 4.222
+  },
+  {
+    "text": "through which the current flows.",
+    "start": 374.035,
+    "duration": 1.712
+  },
+  {
+    "text": "Well, the current flows\nthrough one resistor of,",
+    "start": 375.772,
+    "duration": 3.02
+  },
+  {
+    "text": "if you think of those as\nlayers as being resistances,",
+    "start": 378.817,
+    "duration": 3.37
+  },
+  {
+    "text": "and the current and each of\nthose resistors is the same,",
+    "start": 382.212,
+    "duration": 3.193
+  },
+  {
+    "text": "the same amount of currents,\nthe same amount of amperes.",
+    "start": 385.43,
+    "duration": 2.467
+  },
+  {
+    "text": "The two resistors both have\nfairly low resistance values",
+    "start": 387.922,
+    "duration": 3.657
+  },
+  {
+    "text": "when at the South Pole one of the resistors,\nthe ice pack, has relatively low resistance.",
+    "start": 391.604,
+    "duration": 4.979
+  },
+  {
+    "text": "But the earth and the rock is a\nvery much higher resistance.",
+    "start": 396.608,
+    "duration": 3.373
+  },
+  {
+    "text": "So just to get technical\nfor a second,",
+    "start": 399.982,
+    "duration": 2.906
+  },
+  {
+    "text": "when electrical current flows through\ntwo resistors connected in series,",
+    "start": 402.913,
+    "duration": 4.531
+  },
+  {
+    "text": "energy is liberated\nin each resistor.",
+    "start": 407.469,
+    "duration": 2.879
+  },
+  {
+    "text": "The expression is familiar to many\npeople who had physics course.",
+    "start": 410.373,
+    "duration": 3.656
+  },
+  {
+    "text": "Power equals I²R.",
+    "start": 414.054,
+    "duration": 1.501
+  },
+  {
+    "text": "The I²R is the amount of electrical power\nthat's released in the resistor R.",
+    "start": 415.58,
+    "duration": 5.92
+  },
+  {
+    "text": "So the current is the\nsame in both resistors",
+    "start": 421.525,
+    "duration": 2.603
+  },
+  {
+    "text": "but the resistance of each of\nthese resistances is different.",
+    "start": 424.129,
+    "duration": 4.984
+  },
+  {
+    "text": "So the amount of heat, and\nthis is the punchline,",
+    "start": 429.114,
+    "duration": 2.576
+  },
+  {
+    "text": "the amount of heat produced\nin each of the two resistors",
+    "start": 431.691,
+    "duration": 3.531
+  },
+  {
+    "text": "depends linearly on their\nresistance values.",
+    "start": 435.247,
+    "duration": 3.421
+  },
+  {
+    "text": "So if the current, same\ncurrent flows through,",
+    "start": 438.693,
+    "duration": 3.416
+  },
+  {
+    "text": "one of the two resistors is the low\nresistance and one is a high resistance.",
+    "start": 442.134,
+    "duration": 3.945
+  },
+  {
+    "text": "The low resistor will not get very\nwarm but the high resistance one will.",
+    "start": 446.104,
+    "duration": 5.337
+  },
+  {
+    "text": "And so, Birkeland currents have been\npassing down into the Earth for millennia.",
+    "start": 451.466,
+    "duration": 5.196
+  },
+  {
+    "text": "So is that the cause\nof the hotspot?",
+    "start": 456.687,
+    "duration": 2.753
+  },
+  {
+    "text": "Maybe, but the thing that makes me think\nthat maybe it might indeed be correct,",
+    "start": 459.465,
+    "duration": 7.173
+  },
+  {
+    "text": "is that there is the difference\nbetween what happens at the two poles",
+    "start": 466.663,
+    "duration": 4.785
+  },
+  {
+    "text": "may well be explained by the difference between\nthe electrical properties of the paths,",
+    "start": 471.473,
+    "duration": 5.69
+  },
+  {
+    "text": "the two paths that the polar\nBirkeland currents have to take.",
+    "start": 477.188,
+    "duration": 3.323
+  },
+  {
+    "text": "At least it seems like a\nmore reasonable answer to me",
+    "start": 480.512,
+    "duration": 2.474
+  },
+  {
+    "text": "than just postulating and groping\naround and say, oh my god,",
+    "start": 483.011,
+    "duration": 2.49
+  },
+  {
+    "text": "what causes it must be a\nradioactive rock down there.",
+    "start": 485.526,
+    "duration": 3.242
+  }
+]

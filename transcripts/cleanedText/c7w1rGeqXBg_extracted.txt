@@ -1,0 +1,818 @@
+give a brief hypothesis fundamentally
+that the earth has been influenced by
+electrical discharge it's not the only
+thing that's been influenced by but how
+can we quantify that so with that
+background I'll have to talk about the
+geological effects of running water it's
+an important component of our past and
+it still is measured today electric
+discharges on dielectric media is
+something we can do in the lab and as
+you've seen in the past few talks
+electric discharges are scalable it's a
+fundamental aspect of these studies is
+that what we do in the lab if we have a
+source for it at the Galactic scale or
+at the earth scale it can occur and we
+can measure it you can't do that with
+water that's the only drawback to water
+you can only scale it a few orders of
+magnitude in the laboratory and the
+fractal analysis is a tool with which
+we'll use to to measure these items so
+I'll take you through how I measure some
+of these landforms and compared them to
+existing electric discharges so really
+what is water water flows all over the
+earth you can find many pictures of it
+we know we can measure it to measure
+what it actually does on the earth
+electrical discharges however a little
+bit different they have fractal patterns
+they're somewhat chaotic but also
+ordered in their discharge patterns I'll
+show a few other pictures from capture
+lightning they do a lot of great work
+with these Lichtenberg patterns in
+polyacrylic type resins and you get
+these beautiful dendritic patterns so we
+can actually measure these these items
+in the lab and we'll talk about that a
+little bit more so let's be honest how
+many of you flew here right you look
+over the earth you see some pretty
+perplexing landscapes and now we can
+view that on our laptops and we can
+measure things on our laptops okay and
+and myself as a chemist I'm a chemist
+I'm not a geologist but I understand the
+concepts behind some geology I was
+wondering if the current geological
+paradigm was missing something as I flew
+over the earth I saw these tremendous
+dendritic patterns and cratering and
+mountaintops right next to flood plains
+and other
+different topological features so I I
+was wondering okay we can talk all we
+want about other mechanisms but if we
+don't have a quantitative way to measure
+that no one will hear us so is there a
+quantitative relationship to various
+topological aspects of the earth and I
+believe there is and that's what fractal
+analysis will tell us I'm from New
+Jersey northern New Jersey it is more
+than Newark Airport there are some
+beautiful regions in New Jersey where I
+live there are a lot of granite outcrops
+a lot of very strange log backs that run
+from the north to the west or north
+northwest beautiful Lake Region that's
+about ten square miles there on Google
+terrain as we back out an order of
+magnitude we see some interesting
+aspects to to the topology we see our
+Appalachian Mountains here that run
+folded patterns supposedly these are
+ancient mountains that have been eroded
+away but right up butted against them
+are dendritic patterns and cavern of
+extensive canyons in central
+Pennsylvania formed by water presumably
+this butts up against the coast which
+has been thought to be a floodplain and
+there's beautiful Newark down there if
+you back out more on the East Coast it
+then comes up to the flood plains of the
+Mississippi region Ozarks are down here
+New Hampshire the Granite State granite
+outcrops everywhere fairly high
+mountains up there but again the
+Appalachians stretch down throughout
+Virginia and you have your Chesapeake
+Bay there so in terms of scaling when we
+back out from our small ten square mile
+aspect we see some very unique features
+at different scales we've already seen
+in the past number of presentations
+haven't been that many already that we
+we can assume at least for the
+hypothesis that the earth was bathed in
+equilibration of electrical energy from
+sun from the galaxy from other bodies we
+don't know that was the past that is an
+origins question that is a different
+conversation but what we can do is we
+can measure what's left over
+and we can see if we can draw any
+conclusions from that so in that sense
+this is a slide borrowed from from wall
+if the current is coming in on our
+galaxy we are just a very small subset
+of this again it goes back to scale
+michael Claridge showed that so well
+goes back to scale we are just a very
+very small speck of dust on one of these
+arms and if there is electric current
+flowing through these arms it is
+reasonable to assume that we've been
+influenced by that in the past again
+from walls presentation this is just a
+local hypothesized environment of the
+plasma solar system and where our
+incoming charge is coming from from our
+plasma pinch currents again look at the
+scale the Sun is still but a small speck
+on this overall space of things and then
+from a size scale from a NASA view our
+little blue dot of Earth here we are
+very small compared to the Sun so it's
+reasonable to expect that large changes
+in the sun's output could influence us
+dramatically now that we know were tied
+electrically to it
+we know that in recent years 1850s late
+1850s a tremendous corona affected
+telegraph lines blew out many of them if
+such a corona what happened these days
+we'd be in loads of trouble but we also
+have to realize that electrical effects
+are not the only effect many years of
+very hard work by very smart people have
+established certain aspects of fluvial
+erosion erosion by glaciers it does
+occur we can't deny that but on what
+scale what is the order of magnitude of
+a fluvial erosion versus a massive
+electric thunderbolt brought about by
+discharge across the Earth's atmosphere
+so these discharges do exhibit daya
+discharges cross dielectrics do exhibit
+fractal type patterns and what is a
+fractal many of you might be familiar
+with a Mandelbrot set it's a very fun
+whirlwind through YouTube if you zoom in
+and it goes and in Peet repeats to
+infinity no matter where you increase
+your magnification on this set that's a
+fractal it is the same as it is near as
+it is from far so discharges across
+dielectrics a dielectric being some sort
+of
+later exhibit these kind of fractal
+characteristics so again the capture
+lightning folks do this Marvis lee this
+is a discharge across polycarbonate and
+as if you zoom in to infinity you could
+theorize down to the single electron
+path in these dendritic patterns now
+interestingly enough when when fractal
+analysis started coming about Mandelbrot
+pioneered this in the 70s and the 80s
+published a book for fractal shorelines
+and shorelines were the first to be
+analyzed they did exam it's some sort of
+fractal characteristics in this case
+it's Chesapeake Bay we see our dendritic
+pattern here and also some could be
+brought about by flow of the rivers from
+rainfall from constant season changes
+but what are the main effects how much
+of an effect does the flooville erosion
+of a riverbed have versus an electrical
+origin can we quantify that so that's
+what we'll explore if you go walking
+down the street or in a on a muddy path
+and it rains the rain is going to fill
+in the path it's that simple
+we can see that every day so the
+hypothesis is what if the earth did
+experience these discharges which had a
+profound effect on the topology of the
+earth but now we're in under the
+influence of a quiescent state of rain
+snow erosion could these processes that
+had already sculpted the earth influence
+what we see in the rivers today now we
+do know that floovio erosion happens we
+can measure we've seen it in the earth
+these are pictures from Alaska where you
+see the snowfall actually freezing and
+then melting and carving river channels
+and then you have what's called Louvre
+eel fans towards the bottom as the water
+decreases its energy and dissipates as
+energy it spreads out so this can be
+measured but there are other places
+where it does not happen so clearly
+especially on Mars when you look at
+craters the last electric conference we
+had a wonderful tour of the Mars geology
+and the big discrepancy here is that
+these alluvial fans actually go downhill
+so it's the wrong direction this is the
+problem so this is the edge of the
+Victoria crater so we would expect these
+alluvial fans actually increase as your
+fluids run down to the bottom of the
+crater but that does not happen there
+must be another mechanism in place
+because it does not account for
+flooville creation of these dendritic
+patterns floovio patterns we know happen
+again Google Earth thank you so you can
+increase your magnification this is
+Canyon Lake down in Texas they had a
+river dam breach or not a river a lake
+breach and you can see what happened to
+the limestone the surrounding limestone
+region you can then pixelate that and
+visualize that and do some measurements
+on it it's fairly linear go straight
+downhill to the river where it feeds
+into the river we know it's a flu view
+pattern in the same way you can do that
+on a Great Mississippi or I'm sorry this
+is Mount st. Helens
+I'll get the Mississippi another slide
+the Mount st. Helens the eruption
+happened the pyroclastic flow flowed
+down to the near the lowest region you
+can also quantify that pixelate it and
+look at the flow of where it where it
+occurred it also had some side channels
+here that I forgot to put in now I get
+on to flooville patterns right this is
+like our Mossad down in Texas this has
+been dammed so this has restricted the
+flow of the river
+over the course of time and what we see
+in stark contrasts to an existing river
+flow is the dendritic pattern of
+occurring why does this occur because
+you're changing the base level the base
+level is an important fundamental aspect
+of geology that says well water's going
+to flow to the lowest level and if
+there's an erosive layer there it's
+going to eventually wrote it away and
+create a new base level if there is a
+level there that cannot be eroded away
+that will be your base level so my
+question is if this is an existing base
+level and this is the river how did
+these existing dendritic patterns form
+if you increase your base level it's
+going to fill in to what was already
+there but those should have already
+flowed from somewhere else into the base
+level of the river so it's kind of like
+a cat chasing its tail now and we're
+trying to figure out how to do
+found these factors in the same way you
+can look at the Mississippi floodplain
+this is a part of the Mississippi River
+here in terrain mode and you see
+extensive arrays of dendritic channels
+especially in the Ozark region rolling
+channels we have a rent driven through
+Missouri it's just constant constant up
+and down the problem here is if these
+were all flooville as a result of
+flooding they would also have the
+similar drainage pattern to a base level
+but they do not in the same way of this
+had a base level we would see the same
+dendritic patterns brought about by
+constant flooding of the Mississippi in
+the near pat and in your past we don't
+see that these dendritic patterns
+further do not drain to anywhere they
+are they're on their own so this begs
+the question what a brought brought
+about these dendritic patterns and how
+can we measure them in the differences
+between them and the fluvial patterns as
+I mentioned this concept of base level
+in reading through some of the basic
+textbooks on geology written by Tarbuck
+say if you take an introductory geology
+course over and over he says running
+water is a single most important agent
+sculpting the Earth's land surface that
+is a constant mantra of current geology
+and that's to be said because they have
+come up with hypotheses as to how this
+water erodes and some models that are
+validated by experimental research the
+major factors include your slope your
+bed your some suspended loads the types
+of materials your depth your width your
+physical barriers and your rainfall
+these can all be measured and modeled
+this is introducing the concept of
+design of experiments you have factors
+which you can control or at least
+monitor and then you have your responses
+including your sedimentation what's
+being brought down this slope by
+rainfall or some sort of flood that gets
+deposited on this new bedrock layer the
+river flow the flow rate the erosion
+rate how fast this sedimentary layer is
+deposited in the new area so all these
+factors can be measured and you can come
+up with models
+this in particulars from the Department
+of Agriculture a general technical
+report that people can use to measure
+stream characteristics and because of
+these extensive stream characteristics
+and also rivers this applies to rivers
+as well but it's not as many character
+classifications because it's pretty
+difficult to classify larger systems but
+uh but you can see that the larger
+slopes lead to straighter channels it's
+a very fundamental sense lower slopes
+lead to what's called meandering and
+stream capture so these guys can capture
+over here and then you can form other
+circular regions and that happens all
+the time along the floodplains and also
+Delta's where the river runs out to its
+current oceans and base levels so we
+have these pictures and we also can
+study what kind of erosion rates happen
+with different types of sit of gravel or
+base material but again it all goes back
+to a certain base level it all has to
+eventually flow to the lowest point
+where it can get to so right now 47 plus
+streams I think the the classification
+of rivers is around 30 what does that do
+for us for electrical discharges so now
+on to discharge is simplified in one
+slide so the charge build-up here if we
+have two plates powered by an electrical
+source we have an electric field that
+builds up across the dielectric the blue
+being a dielectric whether it be solid
+liquid gas eventually it's going to
+discharge if you get enough charge built
+up that's why capacitors eventually
+break the charge of cooler rates by
+discharging across the path the factors
+again we go back to the design of
+experiments and monitoring what we know
+in the system many things can influence
+how this discharges your electrode
+materials the type of electric the
+potential of electricity there the
+surface topology of these two electrodes
+surface morphology etc etc small points
+will increase the local electric field
+there now the response is what do you
+get out when this occurs much like a
+lightning bolt you get magnetic fields
+the current flow you get a full spectrum
+of light anywhere from x-rays to visible
+light you get heat manifested in heating
+up the local surroundings and possible
+nuclear interactions if it's strong
+enough and you have pinch effects it's a
+very very simplified version of
+discharges but it enables us to measure
+things in the laboratory so we can
+monitor our factors we can measure our
+responses and build models from them and
+because electricity is scalable we can
+assume that things scale up now a lot of
+work has been done on fractal analysis
+of dielectric discharges because this is
+very important for the wiring cable
+industry for those who make transformers
+and power supplies okay so early on you
+can see as early as 1990 1984 people
+have been doing work on the fractal
+dimensions of dielectric discharge and
+and fundamentally what they found is
+that they all possess a certain fractal
+dimension that's characteristic of the
+material so some of these include this
+is actually an internet picture of a
+discharge across a transformer unto the
+insulator but these are from the papers
+that I studied from cudos paper where he
+measured them and he then measured the
+diode the fractal properties of those
+items typically they were performed in
+high voltage discharges across solid
+plastics or gaseous medium so now it's
+quiz time some of you have seen this
+already so don't cheat so I can tell you
+there are three pictures here that I've
+pixelated and turned into a binary
+picture to illustrate the scalability of
+electricity assuming that the Grand
+Canyon was formed by electric discharge
+probably not the only thing it was
+formed by but let's just for the moment
+assume a certain part of it is try to
+match each letter with the particular
+picture I'll give you a minute here so
+we have orders of magnitude scale here
+centimeters from a polycarbonate
+discharge to meters of a discharge on
+cement and then kilometres for the
+canyon so everyone got their choices all
+right oh I heard some off how many
+people got be proud of yourselves how
+many people got it right
+just free cures all right okay
+it's it's not that easy when things are
+pixelated and you normalize everything
+so what you're doing is you're
+normalizing all of your particular
+topography only that which you can see
+in terms of what was formed by the
+discharge and we'll come back to that in
+just a moment so you can see here that
+scalability is in effect so I thought
+about how rivers are formed how
+discharges could affect the surface of
+the earth and I kind of dug it down to
+the main effects here so what this is
+cause it caused a diet this is a
+cause-and-effect Ishikawa diagram they
+call it we use this a lot to identify
+problems in industry or whatever we're
+working with so on the left here is
+riverbeds how are they formed well the
+hypothesis we know they're formed
+somewhat by floovio events but they
+could also be formed by electrical
+discharges ignore this for the moment
+technically you're not supposed to have
+characterization tools in with this
+diagram but I wanted to share this to
+run parallel with these so the floovio
+factors again the factors that influence
+the floovio erosion of rivers include
+the following you can have age
+consistent in sufficient rainfall etc
+you can read through these high slope
+slope slopes at Cognex dissolve low your
+suspended load all these factors and
+then what I did is I kind of assign
+categories color categories to those
+that are measurable and testable by what
+we can do in the lab or in the field
+also red which is not testable it fails
+the requirements to be a scientific
+study
+you cannot repeatably measure it and
+also historical accounts because there
+are a lot of historical accounts of
+certain electrical plasma discharge
+phenomenon which we now know so in terms
+of the rivers I don't know if this color
+is going to show up enough but but
+really what I saw and you know we can
+talk about this afterwards we disagree
+but really tectonics and pre-existing
+geology are the assumptions they're not
+testable but nearly everything for
+fluvial existing rivers can be measured
+but you can't measure that which has
+happening
+past so that automatically eliminates
+some aspects of this for electrical
+discharge we had a few different items
+here either a large solar outbursts or
+close earth encounters with various
+items you could probably come up with
+some other factors here right but for
+the most part we now know that there is
+evidence of current in space right we've
+talked about that a few times even in
+the popular press
+I shouldn't say popular but academic
+press there is measurement of electric
+current and scale Jets for coming from
+about galaxies so it does occur in space
+we can now use that as part of our
+toolbox to say electric current is
+scaleable we know what happens at the
+Galactic scale for one component of this
+jet we obtain for the first time a
+determination of lactic scale electric
+current and its direction this is an
+Astro fixes physics journal okay so
+that's encouraging
+so from a factor
+we know that compositional changes can
+affect how electric discharge occurs so
+you can see that all these things add in
+to electrical discharge making it
+somewhat of a feasible phenomenon we
+have some historical sources from the
+ancients and interplanetary distances
+being less than they were than presents
+I could be debated but but I do believe
+we have some historical accounts of that
+but anything that's inferred without any
+drawing on any references it's inferred
+breakdown in the atmosphere Thomas gold
+and some others have said that you need
+a flux of about greater than twenty
+Gauss to have that discharge occur
+across the earth so it could have
+happened in the past now for
+characterization the only things we're
+missing here
+anything that in terms of that draws on
+the past geologic time scales and non
+measured or kind of present is key to
+the past because we don't know if that
+riverbed was flowing as fast as it is
+now especially if we can't find the
+sediment load that it left over that's
+an important aspect
+so that's one way we can break down the
+problem trying to visualize it as to
+what factors are most important
+I mentioned measurement methods here so
+now we're going to get into what I
+looked at a fractal is a self-similar
+pattern in other words it's same as a
+nearer as they are nearer as they are
+from far very few things are perfectly
+self similar in nature that means if you
+increase your magnification all the way
+they look the same as you back out most
+of the time they're they're known as
+self a fine in other words they're
+scaled by different amounts in certain
+directions
+that's more the case with riverbeds but
+certain at certain of them can be are
+known to be self similar and there's
+some separate tests you can do that that
+I have not done yet now it's interesting
+in all the research with riverbeds is
+that it's really only confined river
+networks that exhibit self-efficacy
+regular flowing networks of rivers such
+as a Mississippi and other large river
+networks do not exhibit that so already
+we're looking at the landform
+confounding our analysis of this so the
+landform is dictating how the river
+flows so could we tested this similarity
+between these measured fractal
+dimensions of electric discharges and
+what we know in the lab with landforms
+that we know on the earth so taking it
+back to the to the picture think about
+the picture you can think about any
+picture here that has a hole and then
+rain or some sort of flow rate moving in
+it's going to be captured so measuring
+the fractal analysis of the earth as I
+mentioned Mandelbrot did a little bit of
+this in his book it's a great book I
+think a trendsetter there he did a lot
+of analysis of the coasts and now people
+are taking that into three dimensions
+and measuring some aspects of
+geomorphology most recent I came across
+a paper that I think is very powerful in
+that it studied ISO lines at varying
+altitudes and I'll show you what I mean
+by that in just a moment so basically
+they're taking fractal dimensions at
+varying altitudes on the whole Earth's
+surface because they have data for that
+I'll read you a little bit of this the
+quantitative analysis of natural relief
+represents an objective form of aiding
+in the visual interpretation of lands
+games as studies on coastlines River
+networks and global topography have
+shown still an open question is whether
+it clear relationships between the
+quantitative properties of landscapes
+and the dominant geomorphological
+main wind water that originated them can
+be established in this contribution we
+show that the geometry of topographic
+isolines is an appropriate appropriate
+observable to help disentangle such a
+relationship I haven't totally
+disentangle it but they're getting
+they're really into conclusions though
+as I found it's kind of surprising a
+more detailed inspections points to a
+relationship between the observed
+features and the geological processes
+that shape the planetary surface we
+suggest that the erosive action of a
+solid or viscous phase the erosion of a
+flowing liquid phase or its action
+through wave breaking and tectonics are
+geological agents which work towards
+increasing roughness increasing
+roughness in the landscape on the other
+hand agent scalding sediment deposition
+formation and pronounced smooth slopes
+or erosion through hydrostatic pressure
+glacials caused by large masses of
+liquid or ice represents smoothing
+agents is able to decrease the
+characteristic fractal dimension the
+rougher you are the higher the fractal
+dimension the smoother you are the lower
+the fractal dimension the problem I have
+with this is that they're referring to
+water doing the same thing that's how I
+interpret that so typically what they
+get on a map function of fractal
+dimension D as you can see that 1.8 from
+1 and you can see that mountains
+obviously are the highest fractal
+dimension ok drawn by the coastlines
+which are fairly smooth due to wave
+action and sediments on the layer and
+then your Intercontinental I guess sea
+floors and your trenches they also were
+able to resolve I'll go and draw some
+Cluj ins from this with the next graph
+but really a study of isoline so what
+basically what they're doing is they're
+measuring a box counting relationship so
+the measurement of your fractal
+dimension D is a relationship a
+logarithmic relationship with the number
+of boxes that they can fill into a
+certain area that's scaled the scaling
+factor being ADA
+so on this map of New Jersey okay
+another beautiful region the congleton
+preserve can fill in an area at a
+thousand meters say in height you can
+fill in that ISO line with a certain
+number of boxes count them you then do
+the same thing with a larger box
+larger area or the different ISO line a
+larger area of a different number of
+boxes you can then get a plot so this is
+from Baldessari's paper which I just
+showed you and you can see that at
+different elevations you have an
+increasing the level as you increase
+your elevation up to about 4,500 meters
+that D level is that slope of this line
+and interestingly below the C and right
+at sea level you have very low fractal
+dimensions brought about by flooville
+erosion so again the the the fractal
+dimension increases with your increasing
+height and elevation I think that says
+something about the mechanism of how
+these mountains were formed so what did
+I do in my spare time I took image J
+which is a microscopy analysis software
+a little bit worthy of a chart here I
+apologize but I took the fractal
+dimension by the box counting method
+typically between 1 and 2 the areas of
+each image was between 500 and thousand
+miles squared I was able to get a
+resolution of about one pixel per 125th
+of a mile so you may say okay well these
+are three-dimensional figures how can
+you project them in the 2d in some of
+the electrical studies they said that
+hey this is valid as long as this
+projection on a 2d plane has D values of
+1.7 so the color coded datasets are from
+flooville which are blue known
+electrical events from the laboratory
+and from literature papers and then
+unknown structures from terrain mode
+captures
+the image processing you can accomplish
+fairly readily requires a little bit of
+footwork to get rid of some of the roads
+and whatnot on Google Earth but you you
+binary you grayscale it than you binary
+it and you get this binary pattern which
+you can then do your analysis on but
+furthermore I skeletonize it because I
+knew we were dealing with different
+elevations so the pattern that this
+follows right can be of elevation of
+about 600 meters from the centre of this
+channel up to the side so a way to kind
+of normalize your overall patterning and
+distribute it to only the branched
+pattern is to skeletonize that so you
+can do that with your software so
+eventually what you're getting is only a
+skeletonized pixelated version of only
+the pattern and then you can measure
+your your box counting Mint through your
+box counting method your fractal
+dimension so here's a picture of
+Mississippi that was talking about
+numerous floodplains here can pixelated
+binary it you get a D value of 1.3 this
+is up in Newfoundland you're getting a
+value of about 1.7 even just with the
+standard binary image a lightning bolt
+again we're projecting this onto a 2d
+which is valid again about 1.3 and again
+this is limited resolution this is far
+away you can't get all the little
+dendrites that are coming off this so
+that's one aspect that I think the
+electrical analysis is missing and now
+we can't resolve all those fine
+dendrites except with some of the
+laboratory tests that I took so a little
+bit of statistics here so if you all
+remember your students t-test 95%
+confidence interval I'm confident that
+this is different than that what this is
+doing is because I have different values
+of population sets it's a different kind
+of students t-test so when I did that
+with just the straight pixelated version
+nothing was different and with the
+skeletonized version some differences
+that appear namely when you skeletonize
+the landforms you don't have that
+drastic of a drop in d value as opposed
+from your river values
+and indeed you get a very big
+significant difference with that
+skeletonized value because you're
+normalizing all the elevation and what
+happens here is the effluvia l've al you
+decreases to about the same value that
+Baldassare found in all the fluvial
+erosion studies between 1 and 1.2 your
+unknown structures that i measured on
+the earth are equivalent to electrical
+structures so statistically speaking the
+unknowns are more statistically
+dissimilar to flooville events than they
+are from electrical events in the
+laboratory so really what that
+skeletonized value is doing is it's
+normalizing the depth ok and we can say
+that these structures are self
+self-aligned these new values are fairly
+high enough to be cell to fine so really
+in conclusion the present data set
+limited right now only 33 counts i think
+i had i'm working on getting more is uh
+I think electrical patterns are better
+match towards our land forms and the
+flooville patterns but we have to
+realize that other data includes
+flooville erosion because rivers have
+been flowing for some time so we have to
+account for that we have to know the
+systems that we're measuring very well
+to account for the fact that some
+floovio Rochin may have occurred so it's
+consistent with the literature trend
+there's a lot to do there always is but
+really what do what effects do such
+discharges have on in the environment
+right I'm interested in shock induced
+changes that's something I do all the
+time what is what does that do to Rock
+and what does that do to populations of
+organisms around that if it did occur
+could that account for many mysterious
+losses of populations of ancient
+cultures was that do the temperature and
+also radioactive decay that was already
+mentioned earlier some profound
+implications on geological sciences here
+that we have to explore more so again
+hopefully that further augment that data
+set with more analysis and we'll have a
+better picture of what's going on I'd
+like to acknowledge a Michael and
+Montgomery also for their discussions
+got a copy right Google or so we won't
+get sued and if anyone wants to contact
+me there's my contact information you
+happy to take any questions Thanks
+you

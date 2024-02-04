@@ -1,0 +1,757 @@
+[
+  {
+    "text": "welcome to space news from the electric",
+    "start": 0.03,
+    "duration": 3.69
+  },
+  {
+    "text": "universe brought to you by the",
+    "start": 1.68,
+    "duration": 4.77
+  },
+  {
+    "text": "thunderbolts project at Thunderbolts dot",
+    "start": 3.72,
+    "duration": 7.02
+  },
+  {
+    "text": "info a new scientific paper describes an",
+    "start": 6.45,
+    "duration": 6.78
+  },
+  {
+    "text": "ongoing mystery astronomers are facing",
+    "start": 10.74,
+    "duration": 6.39
+  },
+  {
+    "text": "in the atmosphere of Venus in 2006 the",
+    "start": 13.23,
+    "duration": 6.42
+  },
+  {
+    "text": "European Space Agency's satellite Venus",
+    "start": 17.13,
+    "duration": 5.19
+  },
+  {
+    "text": "Express arrived at Venus and recorded",
+    "start": 19.65,
+    "duration": 4.95
+  },
+  {
+    "text": "the astonishing images of a twin cyclone",
+    "start": 22.32,
+    "duration": 5.789
+  },
+  {
+    "text": "above the planets South Pole for reasons",
+    "start": 24.6,
+    "duration": 5.579
+  },
+  {
+    "text": "that mainstream astronomers have yet to",
+    "start": 28.109,
+    "duration": 4.2
+  },
+  {
+    "text": "explain the structure of the so-called",
+    "start": 30.179,
+    "duration": 5.701
+  },
+  {
+    "text": "super storm constantly evolves and the",
+    "start": 32.309,
+    "duration": 5.551
+  },
+  {
+    "text": "vortex itself is thought to be a",
+    "start": 35.88,
+    "duration": 5.429
+  },
+  {
+    "text": "permanent feature however this puzzle",
+    "start": 37.86,
+    "duration": 5.4
+  },
+  {
+    "text": "may not be the greatest challenge the",
+    "start": 41.309,
+    "duration": 4.68
+  },
+  {
+    "text": "extraordinary Venusian atmosphere poses",
+    "start": 43.26,
+    "duration": 7.11
+  },
+  {
+    "text": "to planetary scientists scientists have",
+    "start": 45.989,
+    "duration": 7.861
+  },
+  {
+    "text": "found from spacecraft orbiting Venus for",
+    "start": 50.37,
+    "duration": 6.39
+  },
+  {
+    "text": "the last six years that there is an",
+    "start": 53.85,
+    "duration": 6.33
+  },
+  {
+    "text": "unexplained twin cyclone at the planet",
+    "start": 56.76,
+    "duration": 6.18
+  },
+  {
+    "text": "South Pole and various headlines are",
+    "start": 60.18,
+    "duration": 5.43
+  },
+  {
+    "text": "given to this Venus cyclone constantly",
+    "start": 62.94,
+    "duration": 4.859
+  },
+  {
+    "text": "changes in planets bizarre atmosphere",
+    "start": 65.61,
+    "duration": 5.28
+  },
+  {
+    "text": "scientists find Venus vortices go for",
+    "start": 67.799,
+    "duration": 5.401
+  },
+  {
+    "text": "chaotic multi-story strolls around the",
+    "start": 70.89,
+    "duration": 5.58
+  },
+  {
+    "text": "poles says another and a third says",
+    "start": 73.2,
+    "duration": 5.61
+  },
+  {
+    "text": "whirl winds wander around Venus's South",
+    "start": 76.47,
+    "duration": 5.009
+  },
+  {
+    "text": "Pole now there's a mystery that's been",
+    "start": 78.81,
+    "duration": 5.489
+  },
+  {
+    "text": "known for many years now about Venus's",
+    "start": 81.479,
+    "duration": 4.68
+  },
+  {
+    "text": "atmosphere and that is that it rotates",
+    "start": 84.299,
+    "duration": 3.96
+  },
+  {
+    "text": "60 times faster than the planet and",
+    "start": 86.159,
+    "duration": 4.561
+  },
+  {
+    "text": "there is no known driving mechanism that",
+    "start": 88.259,
+    "duration": 5.011
+  },
+  {
+    "text": "can perform this amazing feat now in the",
+    "start": 90.72,
+    "duration": 4.23
+  },
+  {
+    "text": "electric universe model of the solar",
+    "start": 93.27,
+    "duration": 4.26
+  },
+  {
+    "text": "system there is an input to all of the",
+    "start": 94.95,
+    "duration": 4.82
+  },
+  {
+    "text": "planets which it goes unrecognized by",
+    "start": 97.53,
+    "duration": 5.839
+  },
+  {
+    "text": "atmospheric scientists and that is the",
+    "start": 99.77,
+    "duration": 7.09
+  },
+  {
+    "text": "electrical input from the sun's circuit",
+    "start": 103.369,
+    "duration": 5.801
+  },
+  {
+    "text": "and when you have electricity being fed",
+    "start": 106.86,
+    "duration": 4.92
+  },
+  {
+    "text": "into a circuit it can drive motors and",
+    "start": 109.17,
+    "duration": 5.76
+  },
+  {
+    "text": "it can cause rotation now in the case of",
+    "start": 111.78,
+    "duration": 6.269
+  },
+  {
+    "text": "Venus it's obvious that something is",
+    "start": 114.93,
+    "duration": 6.0
+  },
+  {
+    "text": "driving that atmosphere 60 times faster",
+    "start": 118.049,
+    "duration": 4.89
+  },
+  {
+    "text": "than the planet and it's not coming from",
+    "start": 120.93,
+    "duration": 4.02
+  },
+  {
+    "text": "inside the planet even though it is",
+    "start": 122.939,
+    "duration": 4.831
+  },
+  {
+    "text": "super hot and it's not coming from the",
+    "start": 124.95,
+    "duration": 5.46
+  },
+  {
+    "text": "Sun because if you look at the outermost",
+    "start": 127.77,
+    "duration": 4.98
+  },
+  {
+    "text": "planets of the solar system you will",
+    "start": 130.41,
+    "duration": 4.41
+  },
+  {
+    "text": "find that the fastest winds in the solar",
+    "start": 132.75,
+    "duration": 4.23
+  },
+  {
+    "text": "system are on the outermost planet",
+    "start": 134.82,
+    "duration": 4.29
+  },
+  {
+    "text": "Neptune where winds have been clocked at",
+    "start": 136.98,
+    "duration": 4.2
+  },
+  {
+    "text": "a thousand kilometres an hour so there's",
+    "start": 139.11,
+    "duration": 4.2
+  },
+  {
+    "text": "obviously a driving mechanism that just",
+    "start": 141.18,
+    "duration": 4.35
+  },
+  {
+    "text": "doesn't feature in any theory or model",
+    "start": 143.31,
+    "duration": 6.33
+  },
+  {
+    "text": "of how planets atmospheres work and this",
+    "start": 145.53,
+    "duration": 6.0
+  },
+  {
+    "text": "has significance also for the earth and",
+    "start": 149.64,
+    "duration": 3.87
+  },
+  {
+    "text": "the discussions about climate change",
+    "start": 151.53,
+    "duration": 3.75
+  },
+  {
+    "text": "there's an energy input which isn't",
+    "start": 153.51,
+    "duration": 4.17
+  },
+  {
+    "text": "being factored in to the climate change",
+    "start": 155.28,
+    "duration": 6.24
+  },
+  {
+    "text": "argument the report states the vortex is",
+    "start": 157.68,
+    "duration": 5.64
+  },
+  {
+    "text": "never destroyed but it evolves",
+    "start": 161.52,
+    "duration": 3.93
+  },
+  {
+    "text": "continuously between morphologies or",
+    "start": 163.32,
+    "duration": 4.77
+  },
+  {
+    "text": "shapes the cause for the constant",
+    "start": 165.45,
+    "duration": 4.59
+  },
+  {
+    "text": "evolution remains a puzzle that the team",
+    "start": 168.09,
+    "duration": 4.02
+  },
+  {
+    "text": "still hopes to solve well the thing is",
+    "start": 170.04,
+    "duration": 4.1
+  },
+  {
+    "text": "that the fact that the morphology",
+    "start": 172.11,
+    "duration": 4.95
+  },
+  {
+    "text": "changes but the basic vortex is never",
+    "start": 174.14,
+    "duration": 5.71
+  },
+  {
+    "text": "destroyed is primary evidence for the",
+    "start": 177.06,
+    "duration": 5.07
+  },
+  {
+    "text": "fact that it is a twin filament electric",
+    "start": 179.85,
+    "duration": 4.92
+  },
+  {
+    "text": "current that is impinging on the Polar's",
+    "start": 182.13,
+    "duration": 5.73
+  },
+  {
+    "text": "of Venus the same type of phenomenon",
+    "start": 184.77,
+    "duration": 5.52
+  },
+  {
+    "text": "seen at Venus's South Pole is found",
+    "start": 187.86,
+    "duration": 4.62
+  },
+  {
+    "text": "elsewhere in the solar system and is a",
+    "start": 190.29,
+    "duration": 4.29
+  },
+  {
+    "text": "predictable feature of the electric",
+    "start": 192.48,
+    "duration": 5.85
+  },
+  {
+    "text": "universe in 2005 when scientists using",
+    "start": 194.58,
+    "duration": 6.0
+  },
+  {
+    "text": "the Keck Observatory discovered a warm",
+    "start": 198.33,
+    "duration": 4.52
+  },
+  {
+    "text": "vortex at the South Pole of Saturn",
+    "start": 200.58,
+    "duration": 4.53
+  },
+  {
+    "text": "Thornhill made a prediction that could",
+    "start": 202.85,
+    "duration": 4.09
+  },
+  {
+    "text": "only seemed preposterous from a",
+    "start": 205.11,
+    "duration": 4.74
+  },
+  {
+    "text": "conventional viewpoint he wrote the",
+    "start": 206.94,
+    "duration": 5.549
+  },
+  {
+    "text": "electric universe predicts experiment",
+    "start": 209.85,
+    "duration": 5.76
+  },
+  {
+    "text": "and Cruces that both poles should be hot",
+    "start": 212.489,
+    "duration": 7.681
+  },
+  {
+    "text": "not one hot and the other cold in 2008",
+    "start": 215.61,
+    "duration": 6.81
+  },
+  {
+    "text": "NASA's Cassini scientists were",
+    "start": 220.17,
+    "duration": 4.129
+  },
+  {
+    "text": "astonished to discover a mysterious",
+    "start": 222.42,
+    "duration": 5.37
+  },
+  {
+    "text": "hotspot at Saturn's North Pole this was",
+    "start": 224.299,
+    "duration": 5.5
+  },
+  {
+    "text": "astonishing because the freezing North",
+    "start": 227.79,
+    "duration": 4.53
+  },
+  {
+    "text": "Pole had been deprived of sunlight for",
+    "start": 229.799,
+    "duration": 5.361
+  },
+  {
+    "text": "over 12 years",
+    "start": 232.32,
+    "duration": 2.84
+  },
+  {
+    "text": "the interesting thing about the form of",
+    "start": 241.44,
+    "duration": 6.75
+  },
+  {
+    "text": "the tornadoes at both poles because",
+    "start": 245.04,
+    "duration": 6.18
+  },
+  {
+    "text": "earlier such a twin tornado was",
+    "start": 248.19,
+    "duration": 6.27
+  },
+  {
+    "text": "discovered at the north pole of Venus in",
+    "start": 251.22,
+    "duration": 6.33
+  },
+  {
+    "text": "2005 I wrote about Saturn saying that",
+    "start": 254.46,
+    "duration": 6.15
+  },
+  {
+    "text": "the hot South Pole would be found to be",
+    "start": 257.55,
+    "duration": 5.76
+  },
+  {
+    "text": "mirrored by the northern pole which had",
+    "start": 260.61,
+    "duration": 5.46
+  },
+  {
+    "text": "been in darkness for 14 years and that",
+    "start": 263.31,
+    "duration": 4.89
+  },
+  {
+    "text": "that would be a crucial test of the",
+    "start": 266.07,
+    "duration": 4.89
+  },
+  {
+    "text": "electrical power input model you see the",
+    "start": 268.2,
+    "duration": 5.52
+  },
+  {
+    "text": "power or the electrical connection",
+    "start": 270.96,
+    "duration": 5.1
+  },
+  {
+    "text": "of the Sun to the planets occurs",
+    "start": 273.72,
+    "duration": 4.92
+  },
+  {
+    "text": "generally at the poles in the Earth's",
+    "start": 276.06,
+    "duration": 4.98
+  },
+  {
+    "text": "case we see that in the form of Aurora's",
+    "start": 278.64,
+    "duration": 3.96
+  },
+  {
+    "text": "and when the Sun is particularly active",
+    "start": 281.04,
+    "duration": 4.56
+  },
+  {
+    "text": "you will see powerful Aurora's which",
+    "start": 282.6,
+    "duration": 6.24
+  },
+  {
+    "text": "extend down to lower latitudes also you",
+    "start": 285.6,
+    "duration": 5.16
+  },
+  {
+    "text": "will notice in Aurora's that the",
+    "start": 288.84,
+    "duration": 5.19
+  },
+  {
+    "text": "movement is remarkably changeable and",
+    "start": 290.76,
+    "duration": 4.95
+  },
+  {
+    "text": "sudden now this is the one of the",
+    "start": 294.03,
+    "duration": 4.59
+  },
+  {
+    "text": "features of the twinging cyclones at the",
+    "start": 295.71,
+    "duration": 4.86
+  },
+  {
+    "text": "poles of Venus now the other thing I",
+    "start": 298.62,
+    "duration": 4.65
+  },
+  {
+    "text": "pointed out in the earlier article was",
+    "start": 300.57,
+    "duration": 6.24
+  },
+  {
+    "text": "that when the twin vortex was discovered",
+    "start": 303.27,
+    "duration": 5.49
+  },
+  {
+    "text": "at the North Pole of Venus it had the",
+    "start": 306.81,
+    "duration": 5.07
+  },
+  {
+    "text": "same shape as would be expected from an",
+    "start": 308.76,
+    "duration": 5.85
+  },
+  {
+    "text": "electrical current connection to the",
+    "start": 311.88,
+    "duration": 4.89
+  },
+  {
+    "text": "pole of Venus now the reason I say that",
+    "start": 314.61,
+    "duration": 4.74
+  },
+  {
+    "text": "is that plasma cosmologists and plasma",
+    "start": 316.77,
+    "duration": 4.38
+  },
+  {
+    "text": "scientists know that electric currents",
+    "start": 319.35,
+    "duration": 4.5
+  },
+  {
+    "text": "flow in a plasma that is the thin",
+    "start": 321.15,
+    "duration": 4.98
+  },
+  {
+    "text": "conducting medium that occupies the",
+    "start": 323.85,
+    "duration": 4.56
+  },
+  {
+    "text": "entire solar system and the entire",
+    "start": 326.13,
+    "duration": 4.11
+  },
+  {
+    "text": "universe for that matter it is the",
+    "start": 328.41,
+    "duration": 3.87
+  },
+  {
+    "text": "conducting medium when an electric",
+    "start": 330.24,
+    "duration": 4.2
+  },
+  {
+    "text": "current flows through that medium you",
+    "start": 332.28,
+    "duration": 4.83
+  },
+  {
+    "text": "will get filaments formed and you've all",
+    "start": 334.44,
+    "duration": 4.8
+  },
+  {
+    "text": "seen that kind of thing in the novelty",
+    "start": 337.11,
+    "duration": 4.08
+  },
+  {
+    "text": "plasma balls and one of the things you",
+    "start": 339.24,
+    "duration": 3.63
+  },
+  {
+    "text": "notice about the plasma balls is that",
+    "start": 341.19,
+    "duration": 4.47
+  },
+  {
+    "text": "the current inside those spheres flows",
+    "start": 342.87,
+    "duration": 5.46
+  },
+  {
+    "text": "in filaments and that those filaments if",
+    "start": 345.66,
+    "duration": 4.62
+  },
+  {
+    "text": "you look closely at the ends of them",
+    "start": 348.33,
+    "duration": 4.47
+  },
+  {
+    "text": "appear to be twisting not only that they",
+    "start": 350.28,
+    "duration": 4.59
+  },
+  {
+    "text": "move about as if they're almost alive",
+    "start": 352.8,
+    "duration": 3.87
+  },
+  {
+    "text": "and this is one of the features",
+    "start": 354.87,
+    "duration": 3.99
+  },
+  {
+    "text": "mentioned in the report about the south",
+    "start": 356.67,
+    "duration": 5.58
+  },
+  {
+    "text": "polar vortexes on Venus because with six",
+    "start": 358.86,
+    "duration": 5.88
+  },
+  {
+    "text": "years of looking at the south polar",
+    "start": 362.25,
+    "duration": 6.21
+  },
+  {
+    "text": "vortex it's been shown that the movement",
+    "start": 364.74,
+    "duration": 7.17
+  },
+  {
+    "text": "is always of two centers two cyclones",
+    "start": 368.46,
+    "duration": 5.79
+  },
+  {
+    "text": "moving around and often connected by",
+    "start": 371.91,
+    "duration": 2.88
+  },
+  {
+    "text": "some",
+    "start": 374.25,
+    "duration": 2.28
+  },
+  {
+    "text": "kind of filament between the two and",
+    "start": 374.79,
+    "duration": 4.17
+  },
+  {
+    "text": "that that motion is chaotic so it has",
+    "start": 376.53,
+    "duration": 4.29
+  },
+  {
+    "text": "all the features of that you'd expect",
+    "start": 378.96,
+    "duration": 3.63
+  },
+  {
+    "text": "from the kinds of filaments you see in a",
+    "start": 380.82,
+    "duration": 4.86
+  },
+  {
+    "text": "globally plasma ball for continuous",
+    "start": 382.59,
+    "duration": 5.01
+  },
+  {
+    "text": "updates on space news from the electric",
+    "start": 385.68,
+    "duration": 5.22
+  },
+  {
+    "text": "universe stay tuned to Thunderbolts dot",
+    "start": 387.6,
+    "duration": 5.9
+  },
+  {
+    "text": "info",
+    "start": 390.9,
+    "duration": 2.6
+  }
+]

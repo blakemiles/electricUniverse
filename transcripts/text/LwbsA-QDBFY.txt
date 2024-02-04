@@ -1,0 +1,592 @@
+[
+  {
+    "text": "Welcome to Space News from the Electric Universe,",
+    "start": 7.35,
+    "duration": 2.81
+  },
+  {
+    "text": "brought to you by The Thunderbolts\nProject™ at Thunderbolts. info",
+    "start": 10.16,
+    "duration": 7.76
+  },
+  {
+    "text": "Hi, this is Andy Hall with Space News.\nI'm presenting part nine of my series",
+    "start": 19.52,
+    "duration": 5.2
+  },
+  {
+    "text": "Eye of the Storm, where we look at\nelectrical scarring on the Colorado Plateau.",
+    "start": 24.72,
+    "duration": 6.55
+  },
+  {
+    "text": "In the past few chapters of Eye of the\nStorm, we looked at surface conductive",
+    "start": 31.27,
+    "duration": 4.09
+  },
+  {
+    "text": "discharge in the landforms it creates.\nGround-to-ground surface conductive",
+    "start": 35.36,
+    "duration": 4.87
+  },
+  {
+    "text": "discharges formed river channels, fractured \nthe land with arc blasts, built mountains,",
+    "start": 40.23,
+    "duration": 5.29
+  },
+  {
+    "text": "ripped them apart, and induced electric\nwinds that competed in a global plasma",
+    "start": 45.52,
+    "duration": 4.64
+  },
+  {
+    "text": "storm on our ancient planet. We've \ndiscussed how surface conductive",
+    "start": 50.16,
+    "duration": 5.52
+  },
+  {
+    "text": "discharges match the description of \ndragons in myth; how they must be",
+    "start": 55.68,
+    "duration": 4.96
+  },
+  {
+    "text": "discharges from an alternating current,\nsuperimposed with the direct current",
+    "start": 60.64,
+    "duration": 4.08
+  },
+  {
+    "text": "bias that forces its path across\nEarth's surface electric field, blasting",
+    "start": 64.72,
+    "duration": 5.28
+  },
+  {
+    "text": "its way in fits and starts, as resonant\nfrequencies built and relaxed,",
+    "start": 70.0,
+    "duration": 4.32
+  },
+  {
+    "text": "bifurcating the current reactive power \nsurges. The electric field is from a buildup of",
+    "start": 74.32,
+    "duration": 5.76
+  },
+  {
+    "text": "charge on continental surfaces, due to\ncapacitance in the continental plates.",
+    "start": 80.08,
+    "duration": 5.03
+  },
+  {
+    "text": "We've discussed how such discharges\nemanate from beneath Earth's crust",
+    "start": 85.11,
+    "duration": 4.25
+  },
+  {
+    "text": "through a continental fringing field.\nCapacitance dictates there must also be",
+    "start": 89.36,
+    "duration": 5.6
+  },
+  {
+    "text": "charge built on the opposite side of a plate,\nwhich creates that potential difference.",
+    "start": 94.96,
+    "duration": 5.44
+  },
+  {
+    "text": "This doesn't mean one side of the continental\nplate is all positive and one side negative.",
+    "start": 100.4,
+    "duration": 5.2
+  },
+  {
+    "text": "Ionization of native materials generates\nplasma, which by definition is a mixture of",
+    "start": 105.6,
+    "duration": 5.6
+  },
+  {
+    "text": "positive and negative charge; but plasma\nself-organizes, producing regions of high intensity",
+    "start": 111.2,
+    "duration": 6.87
+  },
+  {
+    "text": "positive or negative bias,\nsurrounded by shells of weaker plasmas.",
+    "start": 118.07,
+    "duration": 5.04
+  },
+  {
+    "text": "Coherent structures evolve, as waves of\nenergy pass through at varying frequency,",
+    "start": 123.11,
+    "duration": 5.52
+  },
+  {
+    "text": "forming patterns of compression and\nrarefaction in the fashion that sonic",
+    "start": 128.63,
+    "duration": 4.09
+  },
+  {
+    "text": "vibrations produce cymatics. Potentials\noscillate between regions of high intensity,",
+    "start": 132.72,
+    "duration": 6.15
+  },
+  {
+    "text": "sometimes spiking to extreme levels from\nharmonic feedback and constructive interference",
+    "start": 138.87,
+    "duration": 5.13
+  },
+  {
+    "text": "in the manner of circuits, commonly \nreferred to as RLC circuits in electronics.",
+    "start": 144.0,
+    "duration": 5.44
+  },
+  {
+    "text": "It's the spiky surges that send sparks \nflying. We will now discuss the underbelly of",
+    "start": 149.44,
+    "duration": 6.32
+  },
+  {
+    "text": "North America from where these sparks originated\nand what we can infer about its features.",
+    "start": 155.76,
+    "duration": 6.96
+  },
+  {
+    "text": "In keeping with the ionic storm \nprotocol, we'll use Earth's geology,",
+    "start": 162.72,
+    "duration": 4.4
+  },
+  {
+    "text": "the planet Jupiter and the fractal self-\nsimilarities of charge diffusion as our living",
+    "start": 167.12,
+    "duration": 5.83
+  },
+  {
+    "text": "laboratory for evidence. As \ndiscussed in the previous chapters,",
+    "start": 172.95,
+    "duration": 5.45
+  },
+  {
+    "text": "river channels align with faults that are\ncracks in the earth caused by the intense",
+    "start": 178.4,
+    "duration": 4.32
+  },
+  {
+    "text": "heat, pressure, and charge depletion of an\narc blast from surface-conductive discharges.",
+    "start": 182.72,
+    "duration": 6.4
+  },
+  {
+    "text": "They are literally the dragon's footprint;\nbut not all dragon prints result in",
+    "start": 189.12,
+    "duration": 5.52
+  },
+  {
+    "text": "river channels. In some places, surface-\nconductive discharges created faults that were",
+    "start": 194.64,
+    "duration": 5.67
+  },
+  {
+    "text": "later buried, or somehow isolated from\nthe watershed, so no river resulted.",
+    "start": 200.31,
+    "duration": 6.48
+  },
+  {
+    "text": "The San Andreas Fault is one such beast.\nIt was created in the same discharge",
+    "start": 206.79,
+    "duration": 5.77
+  },
+  {
+    "text": "event that created the Colorado River.\nA resonant-frequency reactive discharge",
+    "start": 212.56,
+    "duration": 5.52
+  },
+  {
+    "text": "sent a filament of induced current\nnorthwest, while the mainline current of",
+    "start": 218.08,
+    "duration": 4.56
+  },
+  {
+    "text": "the Colorado filament turned 90 degrees\neast to the Colorado plateau. This",
+    "start": 222.64,
+    "duration": 5.59
+  },
+  {
+    "text": "filament is the San Andreas Fault system,\nextending from the Gulf of California",
+    "start": 228.23,
+    "duration": 5.13
+  },
+  {
+    "text": "along the western fringe of the\ncontinent, to the Juan de Fuca plate.",
+    "start": 233.36,
+    "duration": 4.4
+  },
+  {
+    "text": "The fault follows precisely a portion\nof continental plate boundaries,",
+    "start": 237.76,
+    "duration": 4.08
+  },
+  {
+    "text": "surrounding the Pacific known as the Ring of Fire.\nWhat this means is that the San Andreas",
+    "start": 241.84,
+    "duration": 6.95
+  },
+  {
+    "text": "Fault is the result of a surface-conductive\nbranch filament of the Colorado discharge,",
+    "start": 248.79,
+    "duration": 6.33
+  },
+  {
+    "text": "induced along the plate boundary.\nThis branch formed a parallel circuit",
+    "start": 255.12,
+    "duration": 5.2
+  },
+  {
+    "text": "with the Colorado River branch,\nthus forming a parallel RLC circuit.",
+    "start": 260.32,
+    "duration": 6.0
+  },
+  {
+    "text": "The parallel RLC circuit has a\ncharacteristic ability to amplify",
+    "start": 266.32,
+    "duration": 4.87
+  },
+  {
+    "text": "frequency, to the point of producing\nresonant frequency reactive power discharges,",
+    "start": 271.19,
+    "duration": 5.61
+  },
+  {
+    "text": "which is what we see along the Colorado River.\nNot all dragons are necessarily parallel",
+    "start": 276.8,
+    "duration": 6.48
+  },
+  {
+    "text": "circuits. So the Colorado San Andreas\nsystem has some exceptional features",
+    "start": 283.28,
+    "duration": 5.12
+  },
+  {
+    "text": "and may be unique, at least on Earth. The fact\nthat the San Andreas is a filament of current",
+    "start": 288.4,
+    "duration": 6.4
+  },
+  {
+    "text": "discharging along this path, can be demonstrated\nby looking at a real-life dragon in action.",
+    "start": 294.8,
+    "duration": 6.32
+  },
+  {
+    "text": "Of course, this means looking to Jupiter,\nwhere a similar circuit is in action",
+    "start": 301.12,
+    "duration": 4.32
+  },
+  {
+    "text": "right now. Capacitance forces a mere\nresponse to subsurface charge",
+    "start": 305.44,
+    "duration": 4.8
+  },
+  {
+    "text": "accumulation on the continental surface\nand in the atmosphere. So, the landscape",
+    "start": 310.24,
+    "duration": 5.36
+  },
+  {
+    "text": "and atmosphere reflect the ground currents.\nThis image of a long oval storm system",
+    "start": 315.6,
+    "duration": 5.76
+  },
+  {
+    "text": "on Jupiter has been presented before,\nin chapter 7 as an analog for the storm",
+    "start": 321.36,
+    "duration": 4.64
+  },
+  {
+    "text": "that created the san Joaquin Valley in\nCalifornia, and its ring of mountains,",
+    "start": 326.0,
+    "duration": 4.88
+  },
+  {
+    "text": "including the Sierra Nevada range. The red \nline traces the San Andreas Fault analog",
+    "start": 330.88,
+    "duration": 6.64
+  },
+  {
+    "text": "that exists beneath Jupiter's clouds in the\nsame geometry. It rides next to long, thin, dark",
+    "start": 337.52,
+    "duration": 6.64
+  },
+  {
+    "text": "filaments making French curves in the clouds.\nThese dark filaments are where low-level winds dive",
+    "start": 344.16,
+    "duration": 7.12
+  },
+  {
+    "text": "beneath higher shelf clouds, to feed the jet stream\nthat follows the discharge, creating the fault.",
+    "start": 351.28,
+    "duration": 6.32
+  },
+  {
+    "text": "Where it meets the branching Garlock Fault,\nit created a triangle of Venturi winds.",
+    "start": 357.6,
+    "duration": 6.15
+  },
+  {
+    "text": "Similar faults, or currents, are embedded in the\nSierra Range where you can see dark filaments in the",
+    "start": 363.75,
+    "duration": 6.0
+  },
+  {
+    "text": "cloud. In other words, you're seeing a dragon from\nabove, the jet stream being a charged plasma wind",
+    "start": 369.75,
+    "duration": 7.13
+  },
+  {
+    "text": "generated by induction along the path of the ground\ncurrent, which takes an identical path through",
+    "start": 376.88,
+    "duration": 5.2
+  },
+  {
+    "text": "the storm system that the San Andreas does,\ndue to the fractal symmetry of charge diffusion",
+    "start": 382.08,
+    "duration": 5.11
+  },
+  {
+    "text": "in similar circuits. Two \nsimilar circuits will create",
+    "start": 387.19,
+    "duration": 4.25
+  },
+  {
+    "text": "similar patterns of charge \ndiffusion; never exact, but",
+    "start": 391.44,
+    "duration": 3.92
+  },
+  {
+    "text": "similar, like fingerprints and snowflakes.\nBoth circuits create paths of current",
+    "start": 395.36,
+    "duration": 6.08
+  },
+  {
+    "text": "with capacitance and inductance that\nform self-similar diffusion patterns in",
+    "start": 401.44,
+    "duration": 4.08
+  },
+  {
+    "text": "the form of weather and discharge. The difference\nin size between Earth and Jupiter doesn't matter.",
+    "start": 405.52,
+    "duration": 6.79
+  },
+  {
+    "text": "The processes are all scalable, and \nthe difference in chemistry matters",
+    "start": 412.31,
+    "duration": 5.05
+  },
+  {
+    "text": "little, because the patterns are formed by charge\ndiffusion, which is regulated by the circuit.",
+    "start": 417.36,
+    "duration": 6.23
+  },
+  {
+    "text": "The circuit dictates the plasma behavior\nand arranges the chemistry to suit.",
+    "start": 423.59,
+    "duration": 5.69
+  },
+  {
+    "text": "One could say the circuit creates itself, like\nEscher's hand that draws a hand that draws itself.",
+    "start": 429.28,
+    "duration": 7.44
+  },
+  {
+    "text": "That's a big insight, by the \nway. I hope you noticed.",
+    "start": 436.72,
+    "duration": 4.24
+  },
+  {
+    "text": "As far as Jupiter is concerned, what \nthis means is there are crustal ground",
+    "start": 440.96,
+    "duration": 4.56
+  },
+  {
+    "text": "currents on Jupiter that form\ncircuits geometrically similar to",
+    "start": 445.52,
+    "duration": 3.04
+  },
+  {
+    "text": "certain ground currents on Earth.\nWe don't have any direct evidence for",
+    "start": 448.56,
+    "duration": 4.07
+  },
+  {
+    "text": "what constitutes ground on Jupiter,\nbut the evidence that ground currents",
+    "start": 452.63,
+    "duration": 3.93
+  },
+  {
+    "text": "are there, is in the shape and actions of the \nclouds. Capacitance between ground and",
+    "start": 456.56,
+    "duration": 4.4
+  },
+  {
+    "text": "atmosphere dictates the presence of ground\ncurrents, producing self-similar storms in",
+    "start": 460.96,
+    "duration": 4.63
+  },
+  {
+    "text": "feedback with currents in the atmosphere. Why\nEarth and Jupiter should have geometrically similar",
+    "start": 465.59,
+    "duration": 6.25
+  },
+  {
+    "text": "electrical circuits within their \ncrusts, may seem a ridiculous",
+    "start": 471.84,
+    "duration": 3.84
+  },
+  {
+    "text": "coincidence, if you accept the\nconsensus view on planetary formation.",
+    "start": 475.68,
+    "duration": 5.28
+  },
+  {
+    "text": "So don't. Planets are formed as drops and\nbubbles, spit out at bigger planets or stars.",
+    "start": 480.96,
+    "duration": 6.48
+  },
+  {
+    "text": "Drops and bubbles are fractal entities shaped\nby electrical bonding, surface tension that is.",
+    "start": 487.44,
+    "duration": 6.08
+  },
+  {
+    "text": "Or as I like to say, spherical capacitance.\nIt should be no surprise that complex",
+    "start": 493.52,
+    "duration": 5.67
+  },
+  {
+    "text": "fractal bubbles will also have\ncomplex fractal surface features.",
+    "start": 499.19,
+    "duration": 6.0
+  },
+  {
+    "text": "Fractals, being fractal, self-similar that is,\nand planets everywhere being drops and bubbles,",
+    "start": 505.19,
+    "duration": 6.89
+  },
+  {
+    "text": "they should all display similar features.\nBut you will not see the similarities, if",
+    "start": 512.08,
+    "duration": 5.19
+  },
+  {
+    "text": "you categorize and analyze them\nas solid or gaseous structures,",
+    "start": 517.27,
+    "duration": 4.56
+  },
+  {
+    "text": "or as thermodynamic or chemical entities, or as\ngravitational bodies caused by wiggly space-time.",
+    "start": 521.83,
+    "duration": 7.93
+  },
+  {
+    "text": "They only make sense if you analyze them as\ncircuits. Then it not only makes sense, it yields",
+    "start": 529.76,
+    "duration": 6.24
+  },
+  {
+    "text": "real useful knowledge, to see Earth and\nJupiter with nearly exact fractal symmetries.",
+    "start": 536.0,
+    "duration": 6.95
+  },
+  {
+    "text": "The presence of the San Andreas Fault also\nbetrays that the plate boundary hides a telluric,",
+    "start": 542.95,
+    "duration": 5.77
+  },
+  {
+    "text": "or subsurface current, formed by \ncharge accumulation beneath the plate",
+    "start": 548.72,
+    "duration": 4.79
+  },
+  {
+    "text": "in the fringing field along the plate's edge.\nWe'll now look at the evidence for this",
+    "start": 553.51,
+    "duration": 5.44
+  },
+  {
+    "text": "subsurface current. We can't see what's beneath\nthe crust, but we can make some assumptions,",
+    "start": 558.95,
+    "duration": 6.49
+  },
+  {
+    "text": "based on surface features.\nWe know subsurface currents",
+    "start": 565.44,
+    "duration": 4.32
+  },
+  {
+    "text": "must generate heat, given \nresistance in the ground. So, we cannot",
+    "start": 569.76,
+    "duration": 3.84
+  },
+  {
+    "text": "expect to find volcanoes and seismic activities\nconcentrated on these currents. And so we do.",
+    "start": 573.6,
+    "duration": 8.16
+  },
+  {
+    "text": "Charge collapses within and beneath the\ncontinental plates, because they present",
+    "start": 581.76,
+    "duration": 3.68
+  },
+  {
+    "text": "a sheet of dielectric matter to\nenergy flowing in and out of the earth.",
+    "start": 585.44,
+    "duration": 4.95
+  },
+  {
+    "text": "As charge connects beneath the plates,\nit migrates and concentrates at the plate",
+    "start": 590.39,
+    "duration": 4.88
+  },
+  {
+    "text": "boundaries. The fringing field at\nthe plate boundary is the reason.",
+    "start": 595.27,
+    "duration": 5.53
+  },
+  {
+    "text": "The transition from thick continental plate to\nthinner oceanic plate, or any cracks in the plate,",
+    "start": 600.8,
+    "duration": 6.88
+  },
+  {
+    "text": "creates a fringing field that provides better\nconnection for the pent-up charge beneath the plates",
+    "start": 607.68,
+    "duration": 5.2
+  },
+  {
+    "text": "to escape. But the potential still has to be\nlarge enough to make a spark to close the gap",
+    "start": 612.88,
+    "duration": 5.68
+  },
+  {
+    "text": "across the fringing field. And in the meantime\nthe fringing field accumulates charge.",
+    "start": 618.56,
+    "duration": 6.88
+  },
+  {
+    "text": "Filaments of current are induced along the length\nof the fringing fields at the plate boundaries",
+    "start": 625.44,
+    "duration": 5.6
+  },
+  {
+    "text": "by earth's magnetic and electric fields,\nforming circuits. You should notice that the plate",
+    "start": 631.04,
+    "duration": 6.64
+  },
+  {
+    "text": "boundaries connect in continuous, looping \ncircuits around the earth. To illustrate,",
+    "start": 637.68,
+    "duration": 6.64
+  },
+  {
+    "text": "one of the better examples is the Caribbean plate, or\nmore precisely, what I call the Caribbean current loop.",
+    "start": 644.32,
+    "duration": 16.43
+  },
+  {
+    "text": "[Music]",
+    "start": 660.75,
+    "duration": 11.29
+  }
+]

@@ -1,0 +1,787 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe,",
+    "start": 7.3,
+    "duration": 2.745
+  },
+  {
+    "text": "brought to you by The\nThunderbolts Project™",
+    "start": 10.07,
+    "duration": 2.338
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 12.433,
+    "duration": 3.558
+  },
+  {
+    "text": "For nearly half a century, the chief\nprincipals of The Thunderbolts Project",
+    "start": 16.618,
+    "duration": 4.333
+  },
+  {
+    "text": "have been presenting a scientific case for\nrelatively recent celestial catastrophes",
+    "start": 20.976,
+    "duration": 4.859
+  },
+  {
+    "text": "in the inner solar system,\nwithin human memory.",
+    "start": 25.86,
+    "duration": 3.58
+  },
+  {
+    "text": "These events were\nrecorded in the myths",
+    "start": 29.465,
+    "duration": 2.331
+  },
+  {
+    "text": "and storytelling of ancient\nman in prehistory.",
+    "start": 31.821,
+    "duration": 3.306
+  },
+  {
+    "text": "The dramas reverberating through generations\nand shaping the earliest civilizations.",
+    "start": 35.152,
+    "duration": 5.783
+  },
+  {
+    "text": "The catastrophes were\nelectromagnetic in nature.",
+    "start": 40.96,
+    "duration": 3.31
+  },
+  {
+    "text": "Planets seen in the earthly\nsky discharging electrically,",
+    "start": 44.295,
+    "duration": 4.143
+  },
+  {
+    "text": "the Thunderbolts of the gods.",
+    "start": 48.439,
+    "duration": 2.14
+  },
+  {
+    "text": "But what about more recent\ndisasters in the AD time periods?",
+    "start": 50.604,
+    "duration": 4.947
+  },
+  {
+    "text": "Disasters that also may have\nbeen triggered by fundamentally",
+    "start": 55.576,
+    "duration": 3.343
+  },
+  {
+    "text": "electromagnetic phenomena\nin the solar system.",
+    "start": 58.92,
+    "duration": 3.282
+  },
+  {
+    "text": "In recent episodes, Thunderbolts\ncolleague Peter Mungo Jupp",
+    "start": 62.227,
+    "duration": 4.286
+  },
+  {
+    "text": "has explored the voluminous evidence\nfor the electrical nature of comets.",
+    "start": 66.538,
+    "duration": 4.229
+  },
+  {
+    "text": "As Jupp has noted,",
+    "start": 70.792,
+    "duration": 1.609
+  },
+  {
+    "text": "it is an unlikely coincidence that\nmankind viewed comets for millennia",
+    "start": 72.426,
+    "duration": 4.672
+  },
+  {
+    "text": "as harbingers of\ndoom and destruction.",
+    "start": 77.099,
+    "duration": 2.666
+  },
+  {
+    "text": "In modern times, we witnessed the spectacular\ninfluence of a comet on a planet",
+    "start": 79.79,
+    "duration": 5.37
+  },
+  {
+    "text": "in Shoemaker-Levy 9's close\nencounter with Jupiter.",
+    "start": 85.185,
+    "duration": 3.328
+  },
+  {
+    "text": "In this episode, Jupp offers\nthe provocative conjecture",
+    "start": 88.538,
+    "duration": 3.741
+  },
+  {
+    "text": "that such an encounter between our\nown planet and a cometary intruder",
+    "start": 92.28,
+    "duration": 4.228
+  },
+  {
+    "text": "may have caused an AD disaster that caused the\ndeath of tens of millions of human beings,",
+    "start": 96.533,
+    "duration": 5.6
+  },
+  {
+    "text": "the so-called plague\nof Justinian.",
+    "start": 102.158,
+    "duration": 2.699
+  },
+  {
+    "text": "Thomas Short, writing in the 18th\ncentury, chronicled the many calamities",
+    "start": 105.397,
+    "duration": 5.556
+  },
+  {
+    "text": "that had decimated mankind\nover the last 4,000 years.",
+    "start": 110.978,
+    "duration": 6.022
+  },
+  {
+    "text": "Earthquakes, plagues, pestilence,\nincredibly overwhelming floods.",
+    "start": 117.025,
+    "duration": 7.729
+  },
+  {
+    "text": "But as you read through\nthis curious book",
+    "start": 124.779,
+    "duration": 3.83
+  },
+  {
+    "text": "you were intrigued by the number of\ncomets associated with these dramas",
+    "start": 128.634,
+    "duration": 7.758
+  },
+  {
+    "text": "unmatched in modern history.",
+    "start": 136.417,
+    "duration": 3.466
+  },
+  {
+    "text": "In the early century of the\npresent era, the Romans at one time",
+    "start": 139.908,
+    "duration": 3.83
+  },
+  {
+    "text": "counted 50 comets\nin their skies.",
+    "start": 143.739,
+    "duration": 3.267
+  },
+  {
+    "text": "This is unheard of today. With the skies\nover Rome at the end of a bloody era,",
+    "start": 147.031,
+    "duration": 5.854
+  },
+  {
+    "text": "that only in recent centuries\nhas become stabilized,",
+    "start": 152.91,
+    "duration": 3.084
+  },
+  {
+    "text": "can there be bones of\ntruth in this mythology?",
+    "start": 156.019,
+    "duration": 4.023
+  },
+  {
+    "text": "They're invariably connected\nto the major disasters",
+    "start": 160.067,
+    "duration": 3.504
+  },
+  {
+    "text": "and up until the 1800's mankind\nheld a fear of comets.",
+    "start": 163.596,
+    "duration": 7.037
+  },
+  {
+    "text": "What happened?",
+    "start": 170.658,
+    "duration": 1.507
+  },
+  {
+    "text": "Then the age of reason struck and incredibly,\nthe number of highly visible comets shrunk.",
+    "start": 172.19,
+    "duration": 6.782
+  },
+  {
+    "text": "Has something happened?",
+    "start": 178.997,
+    "duration": 1.472
+  },
+  {
+    "text": "Eventually, by the end of the 20th\ncentury, it became scientific dogma",
+    "start": 180.494,
+    "duration": 5.555
+  },
+  {
+    "text": "the Comets were dusty snowballs.",
+    "start": 186.074,
+    "duration": 3.519
+  },
+  {
+    "text": "How incredibly wrong this early\nscientific theory has been proven",
+    "start": 189.618,
+    "duration": 6.108
+  },
+  {
+    "text": "by modern science and its\nobservation of comets!",
+    "start": 195.751,
+    "duration": 4.569
+  },
+  {
+    "text": "So we've seen the dramatic effects comets\ncan have on at least Jupiter and the Sun.",
+    "start": 200.345,
+    "duration": 7.077
+  },
+  {
+    "text": "But what about the planets\nand particularly Earth?",
+    "start": 207.447,
+    "duration": 3.789
+  },
+  {
+    "text": "Have comets in the past had\ndramatic effects on Earth?",
+    "start": 211.261,
+    "duration": 4.077
+  },
+  {
+    "text": "And this is where we come to plague, war,\nflood, earthquakes, pestilence and famine.",
+    "start": 215.363,
+    "duration": 10.362
+  },
+  {
+    "text": "Has in fact the cosmos; in the form of\ncomets, the Sun, planets in disturbed motion,",
+    "start": 225.75,
+    "duration": 6.848
+  },
+  {
+    "text": "all the outer reaches of the universe;\naffected Earth and caused chaos?",
+    "start": 232.623,
+    "duration": 6.771
+  },
+  {
+    "text": "Has in fact this\noccurred on the Earth?",
+    "start": 239.419,
+    "duration": 3.531
+  },
+  {
+    "text": "Have comets caused the\ndemise of civilizations?",
+    "start": 242.975,
+    "duration": 4.912
+  },
+  {
+    "text": "Claude Schaeffer documented at least\nsix destructions of civilizations",
+    "start": 247.912,
+    "duration": 5.569
+  },
+  {
+    "text": "prior to the Christian era\nspanning at least 2,000 years.",
+    "start": 253.506,
+    "duration": 4.395
+  },
+  {
+    "text": "But did later lower scale calamities\nalso affect civilizations?",
+    "start": 257.926,
+    "duration": 5.271
+  },
+  {
+    "text": "I suspect yes.",
+    "start": 263.222,
+    "duration": 1.577
+  },
+  {
+    "text": "So now let's go the first of\nthese more recent deadly events.",
+    "start": 264.824,
+    "duration": 5.042
+  },
+  {
+    "text": "1500 years ago, a pungent plague\nnearly exterminated mankind.",
+    "start": 269.891,
+    "duration": 7.151
+  },
+  {
+    "text": "The Emperor Justinian from Constantinople\ngave his name to this empire wrecker.",
+    "start": 277.067,
+    "duration": 6.704
+  },
+  {
+    "text": "Thomas Short wrote, from 560 AD\na plague raged for 52 years",
+    "start": 284.589,
+    "duration": 6.689
+  },
+  {
+    "text": "the like of which has\nnever been seen before.",
+    "start": 291.303,
+    "duration": 4.236
+  },
+  {
+    "text": "Conventional wisdom maintains\nthis war by plague",
+    "start": 296.166,
+    "duration": 4.143
+  },
+  {
+    "text": "began in Ethiopia and was carrried by\nship-borne rats to Europe and beyond.",
+    "start": 300.334,
+    "duration": 5.543
+  },
+  {
+    "text": "And we don't forget with our new\nknowledge of bacteria and viruses",
+    "start": 305.902,
+    "duration": 4.196
+  },
+  {
+    "text": "being carried by vectors\nfar above the earth,",
+    "start": 310.123,
+    "duration": 4.236
+  },
+  {
+    "text": "this theory of deployment\nhas been questioned.",
+    "start": 314.384,
+    "duration": 3.629
+  },
+  {
+    "text": "Our pertinent scrutiny ask not only\nwhat caused this exterminating plague",
+    "start": 318.038,
+    "duration": 6.257
+  },
+  {
+    "text": "with its incredible and\nunmatched virulence",
+    "start": 324.32,
+    "duration": 4.029
+  },
+  {
+    "text": "but whether some parallel catastrophic\nevents had a similar foundational driver.",
+    "start": 328.374,
+    "duration": 7.964
+  },
+  {
+    "text": "How Deadly was the\nJustinian Plague?",
+    "start": 336.74,
+    "duration": 3.055
+  },
+  {
+    "text": "It was totally\nchaotic in nature.",
+    "start": 340.168,
+    "duration": 2.855
+  },
+  {
+    "text": "It's struck in many different seasons\nwith its virulence and invasiveness",
+    "start": 343.048,
+    "duration": 5.042
+  },
+  {
+    "text": "change from city to city",
+    "start": 348.115,
+    "duration": 2.51
+  },
+  {
+    "text": "and amongst every age group and gender\nit was ruthlessly indiscriminate",
+    "start": 350.65,
+    "duration": 5.099
+  },
+  {
+    "text": "and even if you survived,",
+    "start": 355.774,
+    "duration": 2.234
+  },
+  {
+    "text": "no immunity was guaranteed\nupon the next episode.",
+    "start": 358.635,
+    "duration": 4.897
+  },
+  {
+    "text": "Death was usually within three\ndays from multiple causes,",
+    "start": 363.557,
+    "duration": 3.925
+  },
+  {
+    "text": "buboes and high fever,\ncarbuncles and suicidal madness.",
+    "start": 367.507,
+    "duration": 5.997
+  },
+  {
+    "text": "But quick and immediate death.",
+    "start": 373.529,
+    "duration": 3.251
+  },
+  {
+    "text": "The mortality rate was horrific",
+    "start": 377.407,
+    "duration": 3.078
+  },
+  {
+    "text": "when compared to modern experiences\nof plague or any other pathology.",
+    "start": 380.51,
+    "duration": 5.547
+  },
+  {
+    "text": "Short says, for instance, than in ancient\nConstantinople, that's Istanbul,",
+    "start": 386.082,
+    "duration": 4.806
+  },
+  {
+    "text": "10,000 people died a day\nwhen the plague struck.",
+    "start": 390.913,
+    "duration": 5.11
+  },
+  {
+    "text": "Placing this dreadful scourge aside\nand examining parallel events,",
+    "start": 396.048,
+    "duration": 5.032
+  },
+  {
+    "text": "we find some remarkable\ncoincidences.",
+    "start": 401.105,
+    "duration": 4.281
+  },
+  {
+    "text": "During this plague period, no less than\n9 highly visible comets were seen.",
+    "start": 405.411,
+    "duration": 7.987
+  },
+  {
+    "text": "Weird, blood-colored flashing skies\nand strangely multiple suns",
+    "start": 413.399,
+    "duration": 6.081
+  },
+  {
+    "text": "often accompanied\nthis scenario.",
+    "start": 419.505,
+    "duration": 2.274
+  },
+  {
+    "text": "Also associated were 10 incredibly\ndestructive earthquake storms,",
+    "start": 421.804,
+    "duration": 7.203
+  },
+  {
+    "text": "for instance Antioch\n200,000 dead,",
+    "start": 429.032,
+    "duration": 3.579
+  },
+  {
+    "text": "and 7 worldwide mega famines.",
+    "start": 432.636,
+    "duration": 4.476
+  },
+  {
+    "text": "Accompanying this were totally\nchaotic and unseasonal weather",
+    "start": 437.137,
+    "duration": 5.959
+  },
+  {
+    "text": "with cataclysmic inundations\nby water, wind and temperatures.",
+    "start": 443.121,
+    "duration": 5.611
+  },
+  {
+    "text": "Now this stage, I emphasize,\nthese famines and other dramas",
+    "start": 448.757,
+    "duration": 4.534
+  },
+  {
+    "text": "were not normal occurrences.",
+    "start": 453.316,
+    "duration": 3.007
+  },
+  {
+    "text": "For instance on several occasion, Short\nnotes, the famines were so devastating",
+    "start": 456.348,
+    "duration": 6.085
+  },
+  {
+    "text": "that women horrifically ate or\nsold their own children to survive.",
+    "start": 462.458,
+    "duration": 7.076
+  },
+  {
+    "text": "In the widespread earthquakes\nwhole towns were swallowed up",
+    "start": 469.559,
+    "duration": 4.288
+  },
+  {
+    "text": "and lakes formed and cities burned.",
+    "start": 473.848,
+    "duration": 2.806
+  },
+  {
+    "text": "Was this perhaps from methane seepage\nor massive lightning storms plasmoids?",
+    "start": 476.679,
+    "duration": 6.636
+  },
+  {
+    "text": "Are these parallel\nevents associated?",
+    "start": 483.34,
+    "duration": 3.167
+  },
+  {
+    "text": "The possibility of an Electro-universe\nconnection should be considered.",
+    "start": 486.532,
+    "duration": 4.752
+  },
+  {
+    "text": "For instance, what drives\nthe virulence of bacteria?",
+    "start": 491.309,
+    "duration": 3.88
+  },
+  {
+    "text": "Stimulation of growth and degradation\nby ions, neutrons, electrons",
+    "start": 495.214,
+    "duration": 5.377
+  },
+  {
+    "text": "and the spectrum of electromagnetic\nradiation are claimed from various sources.",
+    "start": 500.616,
+    "duration": 6.711
+  },
+  {
+    "text": "That's what place do not only solar events\nhave to play in bacterial invasiveness",
+    "start": 507.352,
+    "duration": 7.016
+  },
+  {
+    "text": "but possibly of mankind's\nclassically dreaded Comet.",
+    "start": 514.393,
+    "duration": 6.078
+  },
+  {
+    "text": "Comets, although they travel fairly\nwell-defined elliptical orbits,",
+    "start": 520.496,
+    "duration": 4.466
+  },
+  {
+    "text": "are virtually\nundecoded phenomena.",
+    "start": 524.987,
+    "duration": 3.102
+  },
+  {
+    "text": "Some passed by the Sun\nharmlessly, some disintegrate",
+    "start": 528.114,
+    "duration": 4.84
+  },
+  {
+    "text": "and break into many sections,\nsuch as Shoemaker-Levy 9",
+    "start": 532.979,
+    "duration": 4.737
+  },
+  {
+    "text": "when it collided with Jupiter.\nOthers grazed by the Sun",
+    "start": 537.741,
+    "duration": 4.261
+  },
+  {
+    "text": "with little known effects. Whereas occasionally\nsome bury themselves into Sun",
+    "start": 542.027,
+    "duration": 6.022
+  },
+  {
+    "text": "and appear to translate to coronal\nmass ejections on the opposite side.",
+    "start": 548.074,
+    "duration": 6.494
+  },
+  {
+    "text": "The factors governing this seemingly, but\nprobably not, chaotic behavior is a mystery.",
+    "start": 554.593,
+    "duration": 7.34
+  },
+  {
+    "text": "Have we come to understand\nthey are negatively charged,",
+    "start": 562.792,
+    "duration": 3.822
+  },
+  {
+    "text": "somewhat like a mobile z-pinch?",
+    "start": 566.639,
+    "duration": 3.261
+  },
+  {
+    "text": "They must therefore interrelate\nto other electrets.",
+    "start": 569.925,
+    "duration": 4.317
+  },
+  {
+    "text": "But the methodology of this\nbehavior is merely speculation",
+    "start": 574.267,
+    "duration": 3.651
+  },
+  {
+    "text": "and certainly Shorts' novels\nshow anecdotal evidence",
+    "start": 577.919,
+    "duration": 5.904
+  },
+  {
+    "text": "and suggest just this\ninferred behavior",
+    "start": 583.848,
+    "duration": 3.462
+  },
+  {
+    "text": "of these 9 spectacular comets that\noccurred during the Justinian plague.",
+    "start": 587.335,
+    "duration": 6.149
+  },
+  {
+    "text": "Now equally we're satisfied\nthat earthquakes",
+    "start": 593.509,
+    "duration": 2.81
+  },
+  {
+    "text": "are shaped in some way\nby electrical phenomena.",
+    "start": 596.344,
+    "duration": 3.856
+  },
+  {
+    "text": "It's always been a puzzle to where\ndo an earthquake comes from.",
+    "start": 600.225,
+    "duration": 4.762
+  },
+  {
+    "text": "The energy comes from the stored\nelectric charge within the earth.",
+    "start": 605.012,
+    "duration": 3.722
+  },
+  {
+    "text": "If a discharge takes place\nbeneath the earth",
+    "start": 608.759,
+    "duration": 2.586
+  },
+  {
+    "text": "then you must get effects on\nthe surface that are felt",
+    "start": 611.37,
+    "duration": 3.068
+  },
+  {
+    "text": "and the earthquake is\none such consequence.",
+    "start": 614.463,
+    "duration": 3.896
+  },
+  {
+    "text": "- Right, so it's just like thunder\n- Underground, yes",
+    "start": 618.36,
+    "duration": 4.274
+  },
+  {
+    "text": "Finally, weather is more and more being\nseen as an electrical phenomena,",
+    "start": 622.659,
+    "duration": 6.34
+  },
+  {
+    "text": "certainly by EU advocates.",
+    "start": 629.0,
+    "duration": 2.624
+  },
+  {
+    "text": "In addition, chaos theory maintains that\noutside attractors establish a new harmonic.",
+    "start": 631.649,
+    "duration": 7.57
+  },
+  {
+    "text": "These constantly adjusting perhaps radically\nadjusting electromagnetic influences",
+    "start": 639.244,
+    "duration": 7.294
+  },
+  {
+    "text": "are the central cause of heavily\nchaotic unceasing and extreme weather",
+    "start": 646.563,
+    "duration": 6.963
+  },
+  {
+    "text": "such as floods.",
+    "start": 653.551,
+    "duration": 1.724
+  },
+  {
+    "text": "This in turn causes dramatic\nfamine and drought.",
+    "start": 655.3,
+    "duration": 4.171
+  },
+  {
+    "text": "From all these possibly related events\nShort quotes, \"two-thirds of all people died.\"",
+    "start": 659.496,
+    "duration": 7.253
+  },
+  {
+    "text": "This is a summary from one of his\nprimary sources, The Chronicle Magdeburg.",
+    "start": 666.774,
+    "duration": 5.367
+  },
+  {
+    "text": "This Justinian plague was preceded often by the\nappearance of several suns at the same time.",
+    "start": 672.166,
+    "duration": 7.406
+  },
+  {
+    "text": "Other times, the Sun was quite darkened.",
+    "start": 679.597,
+    "duration": 3.281
+  },
+  {
+    "text": "A comet appeared a whole year together\nadding forth its beams like swords.",
+    "start": 682.879,
+    "duration": 6.493
+  },
+  {
+    "text": "The heavens seemed all the flame\nand several other medias fell.",
+    "start": 689.397,
+    "duration": 5.491
+  },
+  {
+    "text": "Nowadays we automatically dismiss\nthis evidence from a bygone era",
+    "start": 694.913,
+    "duration": 6.081
+  },
+  {
+    "text": "as fanciful, exaggerated\nand primitive.",
+    "start": 701.019,
+    "duration": 4.023
+  },
+  {
+    "text": "But there's bigger questions\nhere. Could these cosmic dramas",
+    "start": 705.067,
+    "duration": 4.488
+  },
+  {
+    "text": "that influence weather\nalso be driving plagues,",
+    "start": 709.58,
+    "duration": 4.014
+  },
+  {
+    "text": "locusts, inundations, earthquakes\nand the very wars of mankind.",
+    "start": 713.619,
+    "duration": 6.665
+  },
+  {
+    "text": "And the big unanswered question, comets.",
+    "start": 721.428,
+    "duration": 3.286
+  },
+  {
+    "text": "Historically, always feared\nin man's history of legends.",
+    "start": 724.739,
+    "duration": 5.042
+  },
+  {
+    "text": "If a comet can hit\nJupiter, Shoemaker-Levy 9,",
+    "start": 730.394,
+    "duration": 4.754
+  },
+  {
+    "text": "or a comet can cause the\nSun to have a massive CME,",
+    "start": 735.149,
+    "duration": 5.685
+  },
+  {
+    "text": "could not they too be involved\nin this cosmic drama",
+    "start": 740.859,
+    "duration": 3.706
+  },
+  {
+    "text": "that affects weather,\nplague and earthquakes.",
+    "start": 744.59,
+    "duration": 4.839
+  },
+  {
+    "text": "Unanswered questions\nneeding more investigation.",
+    "start": 750.139,
+    "duration": 4.845
+  }
+]

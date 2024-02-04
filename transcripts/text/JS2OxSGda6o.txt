@@ -1,0 +1,467 @@
+[
+  {
+    "text": "Welcome to Space News\nfrom the Electric Universe,",
+    "start": 0.0,
+    "duration": 2.879
+  },
+  {
+    "text": "brought to you by The\nThunderbolts Project™ at",
+    "start": 2.904,
+    "duration": 2.571
+  },
+  {
+    "text": "Thunderbolts.info",
+    "start": 5.5,
+    "duration": 3.539
+  },
+  {
+    "text": "In part two of this presentation, physicist\nWal Thornhill continues his discussion",
+    "start": 9.634,
+    "duration": 4.779
+  },
+  {
+    "text": "of the recent discovery of the so-called\nshocking electric wind at the planet Venus.",
+    "start": 14.438,
+    "duration": 5.173
+  },
+  {
+    "text": "As described in the previous episode, the\nelectric wind is said to be sufficiently strong",
+    "start": 19.636,
+    "duration": 4.763
+  },
+  {
+    "text": "that it can strip an entire planet\nof all its water components.",
+    "start": 24.424,
+    "duration": 4.054
+  },
+  {
+    "text": "The co-author of a study on the\nDiscovery said of these findings,",
+    "start": 28.503,
+    "duration": 4.03
+  },
+  {
+    "text": "\"It's amazing and shocking. We never\ndreamt an electric wind can be so powerful",
+    "start": 32.558,
+    "duration": 4.814
+  },
+  {
+    "text": "that it can suck oxygen right out\nof an atmosphere into space.",
+    "start": 37.397,
+    "duration": 3.517
+  },
+  {
+    "text": "This is something that has\nto be on the checklist",
+    "start": 40.939,
+    "duration": 2.483
+  },
+  {
+    "text": "when we go looking for habitable\nplanets around other stars.\"",
+    "start": 43.447,
+    "duration": 3.626
+  },
+  {
+    "text": "But as Wal Thornhill explains, neither this\nnor countless other surprising discoveries",
+    "start": 47.098,
+    "duration": 5.728
+  },
+  {
+    "text": "has freed planetary scientists from their\nideas about the history of the solar system,",
+    "start": 52.851,
+    "duration": 4.757
+  },
+  {
+    "text": "including the notions of how life arose on\nEarth and could arise on other planets.",
+    "start": 57.633,
+    "duration": 5.461
+  },
+  {
+    "text": "I answered in detail in\nJune 2004 the question,",
+    "start": 63.767,
+    "duration": 3.953
+  },
+  {
+    "text": "why doesn't Venus have much water,\nin my article - Cassini's homecoming.",
+    "start": 67.745,
+    "duration": 5.386
+  },
+  {
+    "text": "It was written to coincide with that amazing\nspacecrafts' arrival at the rings-giant Saturn.",
+    "start": 73.156,
+    "duration": 6.177
+  },
+  {
+    "text": "The simple answer is that Venus hasn't been\naround long enough to lose an ocean of water",
+    "start": 79.358,
+    "duration": 4.826
+  },
+  {
+    "text": "so its puzzling heavy carbon dioxide atmosphere\nrequires a very different explanation.",
+    "start": 84.209,
+    "duration": 5.37
+  },
+  {
+    "text": "Likewise, it is nowhere admitted that,\naccording to the standard model,",
+    "start": 89.604,
+    "duration": 3.67
+  },
+  {
+    "text": "the Earth should not have oceans of water\neither, because hydrogen would have been",
+    "start": 93.299,
+    "duration": 4.067
+  },
+  {
+    "text": "blown out of the inner Solar System\nearly in the Sun's assumed career.",
+    "start": 97.391,
+    "duration": 3.916
+  },
+  {
+    "text": "However, all observations in the\nSpace Age saw the Solar System",
+    "start": 101.332,
+    "duration": 3.797
+  },
+  {
+    "text": "to be a blended family of odd\nbodies, each with their own story.",
+    "start": 105.154,
+    "duration": 4.926
+  },
+  {
+    "text": "Nothing is to be gained by\ntrying to force fit them",
+    "start": 110.08,
+    "duration": 2.867
+  },
+  {
+    "text": "to a centuries-old\nevolution-in-place theory,",
+    "start": 112.972,
+    "duration": 3.581
+  },
+  {
+    "text": "with all of the hypothetical collisional\ndrama occurring billions of years ago.",
+    "start": 116.578,
+    "duration": 4.711
+  },
+  {
+    "text": "That might make us feel safe, but\nit has nothing to do with science!",
+    "start": 121.314,
+    "duration": 3.975
+  },
+  {
+    "text": "Meanwhile, gravitational systems as presently\nunderstood, are inherently unstable.",
+    "start": 125.314,
+    "duration": 5.304
+  },
+  {
+    "text": "Something is seriously wrong!",
+    "start": 130.643,
+    "duration": 2.394
+  },
+  {
+    "text": "So, back to these electric winds, stripping\nplanets of oceans and atmospheres.",
+    "start": 133.062,
+    "duration": 4.988
+  },
+  {
+    "text": "Velikovsky's identification of Venus as an\nelectrically discharging comet was spot on.",
+    "start": 138.075,
+    "duration": 5.602
+  },
+  {
+    "text": "The problem of how comet that\nsize can end up in the most",
+    "start": 143.702,
+    "duration": 3.075
+  },
+  {
+    "text": "circular orbit of any of the\nplanets, has had to wait",
+    "start": 146.802,
+    "duration": 3.118
+  },
+  {
+    "text": "for the electric universe explanation of\nthe electrical nature of mass and gravity.",
+    "start": 149.945,
+    "duration": 5.224
+  },
+  {
+    "text": "It provides the essential feedback mechanism\nto establish and maintain clockwork stability.",
+    "start": 155.194,
+    "duration": 6.419
+  },
+  {
+    "text": "As a comet, Venus was\ndischarging massively",
+    "start": 161.638,
+    "duration": 3.609
+  },
+  {
+    "text": "as a cathode in the solar discharge\nand swiftly circularizing its orbit.",
+    "start": 165.272,
+    "duration": 4.84
+  },
+  {
+    "text": "As a planet, Venus still discharges five\ntimes more strongly than the Earth.",
+    "start": 170.137,
+    "duration": 5.281
+  },
+  {
+    "text": "The electrons leaving Venus drag along positive\noxygen ions to a degree that was unexpected.",
+    "start": 175.443,
+    "duration": 5.677
+  },
+  {
+    "text": "But the euphemism \"electric wind\" means\nan electric discharge, like an air ionizer.",
+    "start": 181.145,
+    "duration": 6.791
+  },
+  {
+    "text": "It's an electric current.",
+    "start": 187.961,
+    "duration": 2.028
+  },
+  {
+    "text": "This is confirmed by the\ntwisted magnetic flux ropes,",
+    "start": 189.989,
+    "duration": 4.2
+  },
+  {
+    "text": "known more correctly as Birkeland\ncurrents by plasma physicists,",
+    "start": 194.189,
+    "duration": 3.941
+  },
+  {
+    "text": "identified in the\ncometary tail of Venus.",
+    "start": 198.155,
+    "duration": 3.126
+  },
+  {
+    "text": "That tail still stretches to tickle\nthe Earth at inferior conjunction.",
+    "start": 201.306,
+    "duration": 4.492
+  },
+  {
+    "text": "That's a mechanism that\ndetermines the spacing of orbits.",
+    "start": 205.823,
+    "duration": 4.062
+  },
+  {
+    "text": "It's true that this gradual loss\nof atmosphere and water over eons",
+    "start": 209.91,
+    "duration": 4.046
+  },
+  {
+    "text": "poses a problem for life\non earth-like planets.",
+    "start": 213.981,
+    "duration": 3.218
+  },
+  {
+    "text": "It shows the folly of assuming,\nin typical geocentric fashion,",
+    "start": 217.224,
+    "duration": 4.381
+  },
+  {
+    "text": "that life in the Universe is to be found in a\nnarrow Goldilocks zone about a bright star.",
+    "start": 221.63,
+    "duration": 5.718
+  },
+  {
+    "text": "It's not a good\nsituation to be in,",
+    "start": 227.373,
+    "duration": 2.379
+  },
+  {
+    "text": "either for the establishment of\nlife or its long-term survival.",
+    "start": 229.777,
+    "duration": 4.466
+  },
+  {
+    "text": "The electric universe shows\ninstead that all stars",
+    "start": 234.268,
+    "duration": 2.992
+  },
+  {
+    "text": "are a form of low pressure electrical gas\ndischarge phenomenon in a galactic circuit.",
+    "start": 237.285,
+    "duration": 6.389
+  },
+  {
+    "text": "Red stars of all sizes are those that have\nexpanded their glowing plasma sheaths,",
+    "start": 243.699,
+    "duration": 5.173
+  },
+  {
+    "text": "in order to collect enough electrons\nfrom the interstellar plasma",
+    "start": 248.897,
+    "duration": 3.804
+  },
+  {
+    "text": "to satisfy their\ndischarge requirements.",
+    "start": 252.726,
+    "duration": 3.046
+  },
+  {
+    "text": "That's why red giants are\nobserved to expand and contract",
+    "start": 255.797,
+    "duration": 3.517
+  },
+  {
+    "text": "in response to changes in\ntheir electrical environment.",
+    "start": 259.339,
+    "duration": 3.212
+  },
+  {
+    "text": "But it's inside the glowing red\nspheres of brown dwarf stars",
+    "start": 262.576,
+    "duration": 4.698
+  },
+  {
+    "text": "that orbiting satellites find\nconditions best suited for life!",
+    "start": 267.299,
+    "duration": 3.81
+  },
+  {
+    "text": "Every square meter of each satellite's\nsurface receives the same radiant energy,",
+    "start": 271.134,
+    "duration": 4.93
+  },
+  {
+    "text": "there are no seasons.",
+    "start": 276.089,
+    "duration": 1.869
+  },
+  {
+    "text": "Most significantly recent observations\nshow, water and other molecules",
+    "start": 277.983,
+    "duration": 4.641
+  },
+  {
+    "text": "necessary for life are found in\nthe spectra of brown dwarfs,",
+    "start": 282.649,
+    "duration": 3.707
+  },
+  {
+    "text": "and those molecules will mist down on the\nsatellites, establishing oceans and atmospheres.",
+    "start": 286.381,
+    "duration": 5.602
+  },
+  {
+    "text": "Significantly, ferns are\nadapted to misting rain,",
+    "start": 292.008,
+    "duration": 3.355
+  },
+  {
+    "text": "and red light is the most\nconducive to photosynthesis.",
+    "start": 295.388,
+    "duration": 4.031
+  },
+  {
+    "text": "And water which is\nessential to life,",
+    "start": 299.419,
+    "duration": 2.633
+  },
+  {
+    "text": "is activated electrically by\ninfrared light or warmth.",
+    "start": 302.077,
+    "duration": 4.333
+  },
+  {
+    "text": "So, it makes sense that brown dwarfs should\nbe considered as the most likely candidates",
+    "start": 306.435,
+    "duration": 4.942
+  },
+  {
+    "text": "for cosmic wombs, not\nbright stars like the Sun.",
+    "start": 311.402,
+    "duration": 5.051
+  },
+  {
+    "text": "This raises many issues in the search\nfor life elsewhere in the Universe.",
+    "start": 316.478,
+    "duration": 4.315
+  },
+  {
+    "text": "Perhaps most important is that the\nsearch for extraterrestrial intelligence",
+    "start": 320.818,
+    "duration": 4.531
+  },
+  {
+    "text": "or SETI is doomed to failure\nbecause radio waves",
+    "start": 325.374,
+    "duration": 3.63
+  },
+  {
+    "text": "cannot penetrate the glowing\nplasma shell of a red star.",
+    "start": 329.029,
+    "duration": 4.103
+  },
+  {
+    "text": "And the chances of intelligent\nlife, happening to survive,",
+    "start": 333.157,
+    "duration": 3.123
+  },
+  {
+    "text": "being torn from its brown dwarf\nwomb in a capture event,",
+    "start": 336.305,
+    "duration": 3.613
+  },
+  {
+    "text": "like that suffered by the\nEarth and Mars, seems remote.",
+    "start": 339.943,
+    "duration": 3.714
+  },
+  {
+    "text": "In fact, Mars stands as mute testimony to\nthe devastation that we narrowly avoided.",
+    "start": 343.682,
+    "duration": 6.531
+  },
+  {
+    "text": "It is our closest relative in the Solar\nSystem and shared the same cosmic womb.",
+    "start": 350.238,
+    "duration": 5.73
+  },
+  {
+    "text": "This much is made remarkably clear by applying\na forensic approach to all of the evidence",
+    "start": 355.993,
+    "duration": 5.596
+  },
+  {
+    "text": "available from human observations\nof the skies over millennia.",
+    "start": 361.614,
+    "duration": 5.459
+  },
+  {
+    "text": "Of course, none of this information is\ndeducible from the narrow deductive",
+    "start": 367.098,
+    "duration": 4.155
+  },
+  {
+    "text": "perspective of a modern cosmology,\nwhich has no interest in history",
+    "start": 371.278,
+    "duration": 4.369
+  },
+  {
+    "text": "and denies any electrical involvement\nin the celestial mechanism.",
+    "start": 375.672,
+    "duration": 3.958
+  },
+  {
+    "text": "Thankfully, in this age of\ninstant global communication,",
+    "start": 379.655,
+    "duration": 4.316
+  },
+  {
+    "text": "we may not have to wait\ncenturies for a paradigm shift.",
+    "start": 383.996,
+    "duration": 4.352
+  },
+  {
+    "text": "For continuous updates on Space\nNews from the Electric Universe,",
+    "start": 390.118,
+    "duration": 4.079
+  },
+  {
+    "text": "stay tuned to",
+    "start": 394.222,
+    "duration": 1.008
+  },
+  {
+    "text": "Thunderbolts.info",
+    "start": 395.255,
+    "duration": 3.0
+  }
+]

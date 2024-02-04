@@ -1,0 +1,812 @@
+[
+    {
+        "text": "[Music]",
+        "start": 2.3,
+        "duration": 5.37
+    },
+    {
+        "text": "As many of you viewers of these\nThunderbolt videos are aware, in 2015 I",
+        "start": 11.84,
+        "duration": 5.19
+    },
+    {
+        "text": "was able to complete the derivation\nof a mathematical/physical model of a",
+        "start": 17.03,
+        "duration": 4.81
+    },
+    {
+        "text": "so-called force-free current, also\nsometimes called a field-aligned current.",
+        "start": 21.84,
+        "duration": 4.8
+    },
+    {
+        "text": "What motivated this project was my\nearlier interest in determining the",
+        "start": 26.64,
+        "duration": 4.08
+    },
+    {
+        "text": "exact shape of those electric plasma\ncurrents that flow from the Sun,",
+        "start": 30.72,
+        "duration": 5.04
+    },
+    {
+        "text": "the awesome distance of some 93 million\nmiles to supply power, to light up",
+        "start": 35.76,
+        "duration": 5.44
+    },
+    {
+        "text": "Earth's auroras. Christian Birkeland\npredicted the existence of these flows",
+        "start": 41.2,
+        "duration": 4.72
+    },
+    {
+        "text": "way back in 1908. Only when satellites\ndetected the magnetic signatures of",
+        "start": 45.92,
+        "duration": 5.11
+    },
+    {
+        "text": "electric currents in the auroras\nin 1973, was Birkeland's hypothesis",
+        "start": 51.03,
+        "duration": 5.84
+    },
+    {
+        "text": "irrefutably validated, though for another\ncouple of decades, many astronomers",
+        "start": 56.87,
+        "duration": 4.73
+    },
+    {
+        "text": "resisted the implications of his\ndiscovery and some still do. They don't",
+        "start": 61.6,
+        "duration": 4.0
+    },
+    {
+        "text": "like the idea of electricity up there.\nThe flows he discovered are now called",
+        "start": 65.6,
+        "duration": 4.72
+    },
+    {
+        "text": "Birkeland Currents in his honor. My \nmodel is described by a set of five",
+        "start": 70.32,
+        "duration": 5.52
+    },
+    {
+        "text": "equations that can be used to produce\nthree-dimensional images of both the internal,",
+        "start": 75.84,
+        "duration": 5.52
+    },
+    {
+        "text": "and the external, appearance and the\nworkings of a typical Birkeland Current.",
+        "start": 81.36,
+        "duration": 5.2
+    },
+    {
+        "text": "It's based on answering a very simple\nquestion, “If we have a moving plasma cloud",
+        "start": 86.56,
+        "duration": 5.76
+    },
+    {
+        "text": "consisting of positive and negative ions,\nprotons, electrons, and other particles",
+        "start": 92.32,
+        "duration": 4.79
+    },
+    {
+        "text": "such as neutral atoms in otherwise\ncompletely empty space, and we leave it",
+        "start": 97.11,
+        "duration": 5.36
+    },
+    {
+        "text": "absolutely alone - we don't touch it, what shape, what\nstructure, if any, will this stream attempt to take on?",
+        "start": 102.47,
+        "duration": 6.89
+    },
+    {
+        "text": "What forces will these moving charges\nimpose on each other, and how will they",
+        "start": 109.36,
+        "duration": 4.16
+    },
+    {
+        "text": "respond? What will the result be?”\nThe derivation is a fairly complex one",
+        "start": 113.52,
+        "duration": 4.72
+    },
+    {
+        "text": "that involves some fancy vector calculus,\nbut the structural shape that results is",
+        "start": 118.24,
+        "duration": 5.12
+    },
+    {
+        "text": "elegantly simple, and testable. It turns out that\nthe flow is essentially a cylindrical tube that",
+        "start": 123.36,
+        "duration": 6.95
+    },
+    {
+        "text": "contains plasma moving in co-axial,\nspiral, that is helical paths. As we get",
+        "start": 130.31,
+        "duration": 6.56
+    },
+    {
+        "text": "farther away from the central axis of the\nflow, the pitch angles of those spiral pathways",
+        "start": 136.87,
+        "duration": 6.0
+    },
+    {
+        "text": "gradually increase. This produces an\nintertwined internal structure that has several",
+        "start": 142.87,
+        "duration": 5.65
+    },
+    {
+        "text": "self-maintaining properties. Nothing leaks out of the\nresulting flow, for one. And this immediately explains",
+        "start": 148.52,
+        "duration": 7.32
+    },
+    {
+        "text": "why BC’s can maintain their integrity\nover distances of millions of miles, and",
+        "start": 155.84,
+        "duration": 6.0
+    },
+    {
+        "text": "now we think perhaps even millions of light \nyears. One of the unique properties of any",
+        "start": 161.84,
+        "duration": 5.03
+    },
+    {
+        "text": "Birkeland Current can be seen by viewing a\ncross-section of the structure of the model.",
+        "start": 166.87,
+        "duration": 5.05
+    },
+    {
+        "text": "This clearly shows counter-rotation.\nThere are clockwise flows at certain",
+        "start": 171.92,
+        "duration": 4.56
+    },
+    {
+        "text": "radial distances out from the center axis,\nand counterclockwise rotation at other",
+        "start": 176.48,
+        "duration": 5.83
+    },
+    {
+        "text": "distances. We have known for many\nyears that Birkeland Currents power the",
+        "start": 182.31,
+        "duration": 4.17
+    },
+    {
+        "text": "auroral displays we see in the night sky,\nbut were counter-rotating plasmas observed?",
+        "start": 186.48,
+        "duration": 5.28
+    },
+    {
+        "text": "It was quickly discovered that, yes counter-\nrotation is often seen in Earth's auroras.",
+        "start": 191.76,
+        "duration": 5.83
+    },
+    {
+        "text": "And it's also seen in NASA videos of the poles of\nseveral of the planets, especially Saturn and Jupiter.",
+        "start": 197.59,
+        "duration": 6.81
+    },
+    {
+        "text": "This is evidence that what we're saying is\ncorrect, that counter-rotation does exist in these",
+        "start": 204.4,
+        "duration": 5.75
+    },
+    {
+        "text": "Birkeland Currents. It seems that the\ncoaxial counter-rotation property is a",
+        "start": 210.15,
+        "duration": 5.53
+    },
+    {
+        "text": "unique property of Birkeland Currents. No\nother natural process that we are aware",
+        "start": 215.68,
+        "duration": 4.32
+    },
+    {
+        "text": "of produces it. So, in my mind the\nrace was on to find more examples.",
+        "start": 220.0,
+        "duration": 4.72
+    },
+    {
+        "text": "If you see coaxial counter-rotation\nanywhere, keep your eyes open for the",
+        "start": 224.72,
+        "duration": 4.32
+    },
+    {
+        "text": "Birkeland Current that causes it.\nBirkeland Currents can carry electrical",
+        "start": 229.04,
+        "duration": 4.08
+    },
+    {
+        "text": "charges in both directions, much like a\ncoaxial cable carries normal electrical",
+        "start": 233.12,
+        "duration": 5.03
+    },
+    {
+        "text": "currents, here on Earth. When we \npower up a light bulb, it takes two wires,",
+        "start": 238.15,
+        "duration": 5.13
+    },
+    {
+        "text": "one to carry charge from the voltage\nsource to the light, and another wire to",
+        "start": 243.28,
+        "duration": 4.23
+    },
+    {
+        "text": "carry those charges back to the ground\nterminal of the source, to complete the",
+        "start": 247.51,
+        "duration": 4.41
+    },
+    {
+        "text": "circuit as it's called. When charges\nare delivered to Earth by a Birkeland",
+        "start": 251.92,
+        "duration": 5.03
+    },
+    {
+        "text": "Current, they work their way down to the\nsurface from the top of the atmosphere.",
+        "start": 256.95,
+        "duration": 4.32
+    },
+    {
+        "text": "Quite often that journey results in the beautiful\nauroral lights. But sometimes also they create other",
+        "start": 261.27,
+        "duration": 6.01
+    },
+    {
+        "text": "visible discharges in the Earth's high\naltitude plasma, such as the so-called",
+        "start": 267.28,
+        "duration": 4.47
+    },
+    {
+        "text": "elves, sprites, and gnomes seen \nby the pilots of high-flying aircraft.",
+        "start": 271.75,
+        "duration": 5.29
+    },
+    {
+        "text": "Thinking about the now accepted fact\nthat Birkeland Currents power the auroras",
+        "start": 277.04,
+        "duration": 3.92
+    },
+    {
+        "text": "and recognizing that those auroras \noften exhibit coaxial counter-rotation,",
+        "start": 280.96,
+        "duration": 4.88
+    },
+    {
+        "text": "I wondered if the wind patterns high above\nEarth's poles also behaved in a similar way.",
+        "start": 285.84,
+        "duration": 6.24
+    },
+    {
+        "text": "There's an internet website\ncalled earth.nullschool.net",
+        "start": 292.08,
+        "duration": 4.08
+    },
+    {
+        "text": "that shows wind and water patterns\nin Earth's oceans and atmosphere.",
+        "start": 296.16,
+        "duration": 4.31
+    },
+    {
+        "text": "If you go to that site, you can click on the \nword “Earth” to bring up the menu and",
+        "start": 300.47,
+        "duration": 4.33
+    },
+    {
+        "text": "select “HD” - high def, and then pick “Mode”\nequals “Air”, “Animate” equals “Wind”, “Height”",
+        "start": 304.8,
+        "duration": 6.88
+    },
+    {
+        "text": "equals “10” hPa (hectopascals). This \nis at an altitude of approximately",
+        "start": 311.68,
+        "duration": 4.56
+    },
+    {
+        "text": "35 kilometers; that's the highest level\nthat the earth.null school gives us.",
+        "start": 316.24,
+        "duration": 5.84
+    },
+    {
+        "text": "Set “Overlay” to “Wind” and “Projection”\nto “O” and in the image click and drag the",
+        "start": 322.08,
+        "duration": 4.95
+    },
+    {
+        "text": "Earth's Northern hemisphere down to\nshow the North Pole. Then go over to the",
+        "start": 327.03,
+        "duration": 4.33
+    },
+    {
+        "text": "control line of the menu and change the\ndate, I think it's the second symbol, to",
+        "start": 331.36,
+        "duration": 4.88
+    },
+    {
+        "text": "Year 2022, Month of January – 01, and date – 08.\nIf you click on any wind flow, you will see",
+        "start": 336.24,
+        "duration": 7.51
+    },
+    {
+        "text": "its direction and velocity in the \nupper left. To close the menu click",
+        "start": 343.75,
+        "duration": 4.25
+    },
+    {
+        "text": "on the word “Earth” and you can see the whole Earth.\nHannes Alfven said that moving plasma,",
+        "start": 348.0,
+        "duration": 5.19
+    },
+    {
+        "text": "when it contacts neutral gas, can drag\nthe gas along with it. With that in mind",
+        "start": 353.19,
+        "duration": 5.37
+    },
+    {
+        "text": "and using the right-hand rule, point your right\nthumb in the direction of the axial current,",
+        "start": 358.56,
+        "duration": 5.04
+    },
+    {
+        "text": "and then your curved fingers will show the direction\nof the magnetic field and the moving plasma.",
+        "start": 363.6,
+        "duration": 5.76
+    },
+    {
+        "text": "Doing this, we see that the Birkeland\nCurrent's central axial current is moving",
+        "start": 369.36,
+        "duration": 4.24
+    },
+    {
+        "text": "positive charges up and out of the North Pole.\nIf you turn the Earth over by dragging the Pole",
+        "start": 373.6,
+        "duration": 6.4
+    },
+    {
+        "text": "with your mouse, you can see a similar,\nbut much weaker current emerging",
+        "start": 380.0,
+        "duration": 4.63
+    },
+    {
+        "text": "from the South Polar region. The \nEarth in its orbit is closest to the",
+        "start": 384.63,
+        "duration": 4.33
+    },
+    {
+        "text": "Sun in January. At that time its North\nPole is pointing away from the Sun. The",
+        "start": 388.96,
+        "duration": 5.28
+    },
+    {
+        "text": "Electric Universe model presumes the Sun\nis charged to a higher voltage than its",
+        "start": 394.24,
+        "duration": 4.72
+    },
+    {
+        "text": "surroundings and therefore, there will be\nan electric field radiating outward from it.",
+        "start": 398.96,
+        "duration": 4.72
+    },
+    {
+        "text": "With those facts in mind, we expected\nthat in January, there might be a strong",
+        "start": 403.68,
+        "duration": 4.48
+    },
+    {
+        "text": "inward current from the higher voltage neighbor-\nhood of the Sun entering the Earth's South Pole,",
+        "start": 408.16,
+        "duration": 5.84
+    },
+    {
+        "text": "and outward at the North Pole flowing away from\nthe Sun. Similarly, it was thought that in June",
+        "start": 414.0,
+        "duration": 5.68
+    },
+    {
+        "text": "there might be a slightly weaker current\ngoing into the North Pole and out the",
+        "start": 419.68,
+        "duration": 4.4
+    },
+    {
+        "text": "South Pole. Weaker because we're farther\naway from the Sun. Nothing even remotely",
+        "start": 424.08,
+        "duration": 4.55
+    },
+    {
+        "text": "akin to that was observed; that was \nnot seen at all. Well what was observed:",
+        "start": 428.63,
+        "duration": 5.77
+    },
+    {
+        "text": "monthly examinations were made by\nsampling the earth.nullschool.net",
+        "start": 434.4,
+        "duration": 4.63
+    },
+    {
+        "text": "website video images over a five-year\ntime span, June of 2014 through June of",
+        "start": 439.03,
+        "duration": 6.09
+    },
+    {
+        "text": "2019, and the important observed results\nwere actually two. The first was during",
+        "start": 445.12,
+        "duration": 6.56
+    },
+    {
+        "text": "the northern hemisphere summer;\nthat's called aphelion. Earth is as",
+        "start": 451.68,
+        "duration": 4.95
+    },
+    {
+        "text": "far from the Sun as it gets. Current enters \ninto both the North and South poles. Th",
+        "start": 456.63,
+        "duration": 6.89
+    },
+    {
+        "text": "The second thing that we observed was\nthat during the Northern hemisphere",
+        "start": 463.52,
+        "duration": 4.23
+    },
+    {
+        "text": "winter, that's called perihelion, Earth is closest\nto the Sun, current is directed out of both the",
+        "start": 467.75,
+        "duration": 7.44
+    },
+    {
+        "text": "North and South poles. What should we make \nof this? How do we interpret it? What's going on?",
+        "start": 475.19,
+        "duration": 6.4
+    },
+    {
+        "text": "From December through February, the\nNorthern hemisphere winter, perihelion,",
+        "start": 481.59,
+        "duration": 4.32
+    },
+    {
+        "text": "Earth is nearest the Sun and according\nto Electric Universe theory, it should be",
+        "start": 485.91,
+        "duration": 5.05
+    },
+    {
+        "text": "picking up positive charge in this\nhigher voltage region. But we see from",
+        "start": 490.96,
+        "duration": 4.72
+    },
+    {
+        "text": "our observations that the Birkeland\nCurrent is directed out of both",
+        "start": 495.68,
+        "duration": 4.32
+    },
+    {
+        "text": "hemispheres during this time. Earth \nis therefore losing positive charge",
+        "start": 500.0,
+        "duration": 5.59
+    },
+    {
+        "text": "via the Birkeland Current during this period.\nJust the opposite of what we might think.",
+        "start": 505.59,
+        "duration": 4.88
+    },
+    {
+        "text": "Six months later, a similar surprise \nawaited us. Earth in its elliptical orbit is",
+        "start": 510.47,
+        "duration": 4.97
+    },
+    {
+        "text": "farthest from the Sun then, at its aphelion, \naround the 4th of July and thus at its",
+        "start": 515.44,
+        "duration": 5.35
+    },
+    {
+        "text": "greatest orbital distance. The Sun's \nelectric field is producing a lower",
+        "start": 520.79,
+        "duration": 5.04
+    },
+    {
+        "text": "voltage neighborhood there.\nTherefore Earth ought to be dumping",
+        "start": 525.83,
+        "duration": 3.93
+    },
+    {
+        "text": "positive charge out into that lower\nvoltage neighborhood. But if we look at",
+        "start": 529.76,
+        "duration": 4.07
+    },
+    {
+        "text": "the nullschool.net site, it's clear that the Birkeland\nCurrent is dumping positive charge into Earth.",
+        "start": 533.83,
+        "duration": 7.05
+    },
+    {
+        "text": "Now, this unexpected behavior of the Sun-\nEarth BC was observed at every single",
+        "start": 540.88,
+        "duration": 4.63
+    },
+    {
+        "text": "one of the observed aphelion-perihelion times\nduring the five years we observed the site.",
+        "start": 545.51,
+        "duration": 6.41
+    },
+    {
+        "text": "What could the explanation be for what we \nobserved? After considering this apparent",
+        "start": 551.92,
+        "duration": 4.88
+    },
+    {
+        "text": "contradiction we came, after much thought, to the\nfollowing conclusion. There is no contradiction.",
+        "start": 556.8,
+        "duration": 5.92
+    },
+    {
+        "text": "There are two different processes going on.\nOne, Earth when it's closest to the Sun in",
+        "start": 562.72,
+        "duration": 5.76
+    },
+    {
+        "text": "January, is indeed collecting charge,\njust as the EU theory says it should.",
+        "start": 568.48,
+        "duration": 5.44
+    },
+    {
+        "text": "And it does this from all possible directions\nthrough the extremely large surface area",
+        "start": 573.92,
+        "duration": 5.12
+    },
+    {
+        "text": "of Earth's toroidal, that is to say\ndoughnut-shaped plasmasphere that",
+        "start": 579.04,
+        "duration": 4.08
+    },
+    {
+        "text": "completely surrounds the Earth. The\ncharges come from positive-charged",
+        "start": 583.12,
+        "duration": 4.15
+    },
+    {
+        "text": "interplanetary plasma through\nwhich the Earth is moving. And two,",
+        "start": 587.27,
+        "duration": 5.37
+    },
+    {
+        "text": "but during this same time we've observed\nthat the Birkeland Current stream that",
+        "start": 592.64,
+        "duration": 4.48
+    },
+    {
+        "text": "directly connects the Sun to Earth's poles,\nis removing positive charges from Earth.",
+        "start": 597.12,
+        "duration": 5.36
+    },
+    {
+        "text": "The Birkeland Current is acting like a\npipeline that carries charge directly",
+        "start": 602.48,
+        "duration": 4.08
+    },
+    {
+        "text": "out of two comparatively small cusps in\nEarth's magnetosphere near its poles,",
+        "start": 606.56,
+        "duration": 5.04
+    },
+    {
+        "text": "back towards the outer coronal region of the Sun.\nSo, both these processes are going on simultaneously.",
+        "start": 611.6,
+        "duration": 6.96
+    },
+    {
+        "text": "Therefore, this newly discovered\nBirkeland Current mechanism apparently",
+        "start": 618.56,
+        "duration": 3.51
+    },
+    {
+        "text": "works to stabilize Earth's net charge\nover the course of the year. It's a",
+        "start": 622.07,
+        "duration": 4.65
+    },
+    {
+        "text": "natural compensating negative feedback\nmechanism which tends to neutralize, or",
+        "start": 626.72,
+        "duration": 4.88
+    },
+    {
+        "text": "at least minimize, any seasonal variation in Earth's\nnet charge. The Birkeland Current supplies positive",
+        "start": 631.6,
+        "duration": 7.52
+    },
+    {
+        "text": "charge when Earth is losing it from its\nsurrounding plasma, because it's passing",
+        "start": 639.12,
+        "duration": 4.15
+    },
+    {
+        "text": "through the low voltage region, and then\nthe Birkeland Current removes the excess",
+        "start": 643.27,
+        "duration": 4.56
+    },
+    {
+        "text": "charge Earth is taking on while it's\npassing through the Sun's high voltage",
+        "start": 647.83,
+        "duration": 4.17
+    },
+    {
+        "text": "region and is collecting charge. This \ncounter-flow of charge, provided by",
+        "start": 652.0,
+        "duration": 4.56
+    },
+    {
+        "text": "the Birkeland Current that directly\nconnects the Sun to Earth, effectively",
+        "start": 656.56,
+        "duration": 4.16
+    },
+    {
+        "text": "counteracts any fluctuation in Earth's\ncharge that might otherwise perturb its",
+        "start": 660.72,
+        "duration": 4.64
+    },
+    {
+        "text": "orbital stability. The Birkeland Current\nalso provides a return path for all of",
+        "start": 665.36,
+        "duration": 4.71
+    },
+    {
+        "text": "the electric charge delivered here by\nCoronal Mass Ejections and the solar",
+        "start": 670.07,
+        "duration": 4.17
+    },
+    {
+        "text": "wind. It doesn't pile up on Earth. Where does \nit go? It goes back to the Birkeland Current.",
+        "start": 674.24,
+        "duration": 5.76
+    },
+    {
+        "text": "There are many instances of such\nautomatic negative stabilizing feedback",
+        "start": 680.0,
+        "duration": 3.6
+    },
+    {
+        "text": "mechanisms in astrophysics. An \nobvious one is the ability of a",
+        "start": 683.6,
+        "duration": 4.08
+    },
+    {
+        "text": "Birkeland Current to self-repair itself\nfrom any damage done by a perturbation",
+        "start": 687.68,
+        "duration": 5.04
+    },
+    {
+        "text": "in one or more of its current density components. \nAnyway, there are a variety of things",
+        "start": 692.72,
+        "duration": 4.79
+    },
+    {
+        "text": "that one can see by manipulating the\nmenu choices of this excellent website.",
+        "start": 697.51,
+        "duration": 5.13
+    },
+    {
+        "text": "One of the most informative is to get an\nimage on a date when the 10 hectopascal",
+        "start": 702.64,
+        "duration": 5.12
+    },
+    {
+        "text": "flow is quite regular, circular or at\nleast smooth. We can suggest one out of",
+        "start": 707.76,
+        "duration": 4.8
+    },
+    {
+        "text": "the bunch might be December 17 2014. That's \n2014-12-17. Then select a series of lower altitudes.",
+        "start": 712.56,
+        "duration": 9.12
+    },
+    {
+        "text": "Higher hectopascal pressure levels mean\nyou're going down, and the pressure in",
+        "start": 721.68,
+        "duration": 4.39
+    },
+    {
+        "text": "the atmosphere is getting larger. So, go\ndown to 70, 250 and go all the way down",
+        "start": 726.07,
+        "duration": 5.13
+    },
+    {
+        "text": "to the surface. Anyway, notice that the\nfarther down, the closer to the surface",
+        "start": 731.2,
+        "duration": 4.31
+    },
+    {
+        "text": "we get, the more chaotic, less smooth and\nregular, and slower, the patterns become.",
+        "start": 735.51,
+        "duration": 5.85
+    },
+    {
+        "text": "It makes sense because if you place\nthe mouse pointer over a wider, closely",
+        "start": 741.36,
+        "duration": 3.68
+    },
+    {
+        "text": "spaced faster wind flow, you can \nleft- click and measure its velocity.",
+        "start": 745.04,
+        "duration": 4.32
+    },
+    {
+        "text": "Generally the higher our altitude, the \nfaster and more regular the wind flows are.",
+        "start": 749.36,
+        "duration": 4.8
+    },
+    {
+        "text": "This demonstrates that the Birkeland\nCurrent which is quite well-formed as it",
+        "start": 754.16,
+        "duration": 3.84
+    },
+    {
+        "text": "comes through space, drives the flow at its\nhighest 10 hectopascal level, way up at the top.",
+        "start": 758.0,
+        "duration": 7.2
+    },
+    {
+        "text": "This flow frictionally drives the air at\nthe next lower level and so on. The",
+        "start": 765.2,
+        "duration": 4.24
+    },
+    {
+        "text": "lowest levels experience frictional\ncontact with the geographical surface",
+        "start": 769.44,
+        "duration": 4.24
+    },
+    {
+        "text": "features and this breaks up the smooth,\nalmost circular global flows, and reduces",
+        "start": 773.68,
+        "duration": 4.48
+    },
+    {
+        "text": "their velocities compared to what we see at the\nhigher levels. What this makes clear is that Earth's",
+        "start": 778.16,
+        "duration": 5.67
+    },
+    {
+        "text": "polar wind patterns are driven from\noutside electrically, and not by any",
+        "start": 783.83,
+        "duration": 4.89
+    },
+    {
+        "text": "surface or internal Earth-bound processes or\ndynamos - the favorite word of astronomers when",
+        "start": 788.72,
+        "duration": 6.55
+    },
+    {
+        "text": "they don't know what's going on. The \nmain outside source of these polar winds",
+        "start": 795.27,
+        "duration": 4.17
+    },
+    {
+        "text": "is quite obviously the varying strength\nand polarity, that is to say direction,",
+        "start": 799.44,
+        "duration": 5.76
+    },
+    {
+        "text": "of the Birkeland Current system of\nelectrically charged particles that it",
+        "start": 805.2,
+        "duration": 3.75
+    },
+    {
+        "text": "delivers here both to and from the Sun.\nIn other words, we now have undeniable",
+        "start": 808.95,
+        "duration": 5.68
+    },
+    {
+        "text": "scientific evidence of cause and effect.\nSolar Birkeland Currents cause patterns",
+        "start": 814.63,
+        "duration": 5.44
+    },
+    {
+        "text": "in the polar winds which affect\nthe weather on the planet.",
+        "start": 820.07,
+        "duration": 4.73
+    },
+    {
+        "text": "Yet another verification of the \nElectric Universe model of cosmology.",
+        "start": 824.8,
+        "duration": 4.37
+    },
+    {
+        "text": "[Music]",
+        "start": 829.17,
+        "duration": 32.47
+    }
+]

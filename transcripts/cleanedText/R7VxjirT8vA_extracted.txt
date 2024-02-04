@@ -1,0 +1,343 @@
+Welcome to Space News from
+the Electric Universe,
+brought to you by The
+Thunderbolts Project™
+at Thunderbolts.info
+Of all the planets in the inner
+solar system, the planet Mars may pose
+the most tantalizing mysteries.
+In the early 1970s when the Mariner 9
+spacecraft captured the most detailed
+images of the planet to that time,
+scientists' ideas about Mars have needed
+constant revision.
+A planet that was thought to be
+long geologically dead was
+engulfed in massive dust storms and its
+surface revealed dramatic and unexpected
+scarring which remains
+mysterious to this day.
+For decades, the chief
+principals of The Thunderbolts Project
+have proposed that extraordinary events
+shaped the Martian surface.
+Events which they contend were
+recorded in the myths
+and legends of ancient man.
+In part one of this two-part
+presentation, physicist
+Eugene Bagashov reopens
+the Martian mysteries.
+In the following material, I'd
+like to discuss some of the papers about
+Mars that has been released in recent
+years in order to see if their results
+might be reinterpreted in the light of
+the electric universe paradigm.
+So the first paper that I want to mention
+discusses the peculiar structure in the
+Martian equatorial region, called the
+Medusae Fossae Formation or MFF.
+The purpose of the paper essentially is to
+report on the density measurements of
+this structure.
+To measure it, the team of researchers
+utilizes the altimetry data
+from Mars Orbiter Laser Altimeter
+experiment, or MOLA, on board of the Mars
+Global Surveyor spacecraft and also some
+of the most recent models of the Martian
+gravitational field used by NASA Jet
+Propulsion Laboratory.
+The results that they get in
+the end are pretty interesting.
+In particular, they report
+that the density of MFF region should be
+quite low, only about 1,700
+kilograms per cubic meter.
+It is possible, they state, that
+such an unusually low density is
+the result of mixing
+of the rock with
+large amounts of ice,
+more than 1/2 in volume.
+However, the problem with that assumption
+is that the previous radar scanning of
+the area, performed by MARSIS experiment
+on board of the European Mars Express
+orbiter, rules out any significant
+concentration of ice in the area.
+And it would also be hard
+to expect much ice in
+the equatorial region which on average
+receives the most heating from the Sun.
+So the conclusion that the authors
+arrived at is that the low density of
+Medusae Fossae Formation should be
+the consequence of it being made of a
+highly porous rock.
+When compared to some of the
+minerals on Earth, it seems that
+the porosity of rock in MFF might range
+from about 18 to about 51 percent and it
+is not entirely clear how such a
+peculiar formation might have appeared
+in the first place.
+The authors suggest that
+"the MFF was deposited by
+pyroclastic eruptions."
+But at the same time they are baffled by its
+huge extent and total mass, noting that
+it is two orders of magnitude greater
+than the largest pyroclastic deposits on
+earth which would make it the largest in
+the whole solar system.
+I should add here that this area
+doesn't seem to have any
+indications of volcanic activity even in
+the past in the first place.
+It's quite removed from the hypothetical
+volcanically active Tharsis region and
+even the hypothetical
+volcano Olympus Mons.
+But of course, in the Electric
+Universe not only volcanism might affect
+the geological processes but also the
+external electromagnetic influences.
+So perhaps the very appearance of the MFF
+and its low density and high porosity is
+somehow related to the possible
+planetary wide catastrophes in the
+Martian past.
+For now, let's remember that thought and
+take a look at some other
+recent papers.
+In particular, let's examine the
+paper released in February of
+2019 in the journal Science.
+Here the authors report the results of quite
+a clever application of Curiosity rover
+telemetry data to measure the surface
+gravity in the Gale Crater where the
+rover is situated.
+Curiosity is equipped with accelerometers
+and gyroscopes that
+are normally used for navigation and
+attitude determination
+but the researchers have been able to
+use the data from these instruments for
+the extraction of the
+gravitational acceleration.
+More than 700 data samples
+were used, corrected for the possible
+interference from planetary rotation,
+altitude and pressure and such.
+What they got in the end was the gravitational
+gradient, that is the change of
+acceleration with height, that was
+smaller than expected and they've been
+able to infer from that data the most
+probable density of rock that Curiosity
+was traveling on top of.
+Now the most interesting part is
+that the density of
+this rock was almost exactly the same as
+the one reported for the MFF in previous
+paper, namely 1,680
+kilograms per cubic meter.
+And in the very same way they
+conclude that the reason for such a low
+density should be very high porosity of
+the rock in Gale Crater, most likely
+around 40%.
+Even more so, they hypothesized
+that the initial porosity
+might have been higher at the time of
+the formation of Gale Crater and could
+have been as high as 55 to 70 percent.
+Now here I wish to mention that the Gale
+Crater is supposed to be an impact
+feature but what if it
+has a different origin?
+Electric Universe paradigm brings
+into light the possibility that such
+formations might occur during extremely
+powerful plasma discharges to the
+surfaces of planets during hypothetical
+cataclysmic events such as extreme solar
+flares and CMEs and/or close
+planetary encounters.
+So in my opinion, it might be
+the case that both Medusae Fossae
+formation and Gale Crater appeared on
+the surface of Mars because of some sort
+of electric erosion processes.
+The fact that the density
+of rock in both of
+these formations is almost exactly the
+same, indicates on possible similarity of
+their origin. Yet the MFF is thought to
+be a result of some volcanic activity
+where the stuff essentially emerges from
+down below and Gale Crater is thought to
+be the result of an impact event where
+the stuff should have fallen down from
+above and it should be evident that the
+result wouldn't look the same.
+Plus we have the 5.5 kilometer
+tall Mount Sharp
+sitting right in the center of
+Gale Crater, the origins of which are
+still the subject of debate.
+Both the MFF and Gale Crater
+are located near the
+equator which is quite peculiar as this
+seems to be a special area on most
+occasions and might be significant in
+any type of plasma discharging events.
+In this regard, I keep thinking of similar
+equatorial anomalies on other bodies
+such as the Earth's equatorial plasma
+fountain, Jupiter's equatorial ionic
+ribbon, dark equatorial regions on Titan
+and Pluto, Iapetus’ equatorial ridge and others.
+On Mars, this area is doubly
+interesting as it separates the low and
+flat northern hemisphere from the high
+and bumpy southern.
+And here I should mention the
+other paper that has been
+released in July of 2018.
+Here the authors compared data from various
+spacecraft and Rovers to study the
+chemistry of Martian dust with respect
+to the chemistry of the underlying soil.
+What they found was that the elemental
+composition of Martian dust is somewhat
+different from the composition of the
+soil, at least on average.
+In particular, the dust seems
+to have a significantly
+higher content of chlorine and sulfur
+and not only that but their relative
+ratio on the dust all over the planet
+is also relatively constant.
+In terms of molar content,
+the ratio of sulfur to
+chlorine seems to be
+around 3.7 globally.
+What's more important is that the
+researchers identified an area on Mars
+where the soil itself has the same
+sulfur and chlorine content and that
+area is--Medusa Fossae Formation.
+So their conclusion is that it is the
+erosion of this formation that has
+filled the Martian atmosphere with most
+of its dust and eventually covered most
+of the planet with it.
+Given what I've noted above
+on the potential importance
+of equatorial area during any kind of
+plasma discharging, in my opinion it is
+not impossible that this erosion might
+have occurred electrically.
+I should note here that
+Valles Marineris structure is
+also located in the equatorial region
+right to the east of Medusae Fossae Formation.
+Although I also have a
+suspicion that the erosion of
+Medusae Fossae formation
+might continue to this day in the form
+of much weaker discharge but so far I
+have no evidence to present
+in support of this idea.
+I believe, now it's a good
+time to remember another item from the
+electric universe pool of ideas,
+namely the statement that asteroids and
+comets might be the fragments of planets
+torn away by electrical activity
+during catastrophic events in the past
+of the solar system.
+It has been known for some time
+that pieces of Mars might
+even land on Earth.
+At the moment, there are at least
+227 meteorites identified
+as originating from Mars.
+It is supposed that these
+rocks received their initial
+velocity from another impactor that
+lands on Mars and throws them into
+interplanetary space, but what if the
+process of initial removal of the
+material is electric?
+In fact, some of the asteroids themselves
+in the solar system
+have recently been identified as
+originating from Mars, well in line with
+the scenarios proposed by
+the EU catastrophism.
+There is even strong evidence
+in favor of the hypothesis that
+Martian moons Phobos and Deimos
+originate from Mars itself.
+Remembering the discussion above about
+the low density of Gale Crater and
+Medusae Fossae rocks, I cannot miss the
+opportunity to speak about the densities
+of small bodies in the solar system.
+It is generally assumed that the average
+density of asteroids should be about
+2,000 kilograms per cubic meter which is
+noticeably lower than the density of
+both Earth's and Mars’ crust and closer
+to the density of MFF and Gale Crater.
+The density of comets however, is even
+couple of times lower than that, about
+800 kilograms per cubic meter.
+What is interesting however, is that the
+Rosetta mission with its brave Philae
+lander have been able to determine that
+the dust-to-ice ratio in the comet 67P
+nucleus, is much higher than was expected
+and the low density is the consequence
+of very high porosity.
+This, kind of, reminds of
+something else, right?
+My hypothesis with regards to that would be
+that perhaps comets are the result of
+more violent types of discharges so that
+the rock starts to partly boil or being
+transformed in some other way and
+becomes more porous in the end.
+And such more energetic events would
+also result in a more irregular orbits
+with higher semi-major axis distance,
+whereas asteroids might be the result of
+milder type of discharges and therefore
+don't demonstrate such a high deviation
+from the planetary crust in terms of
+density and also don't move in such
+eccentric orbits as comets do.
+So, taking into account the considerations
+given above, I would suggest to any
+experimenters trying to reproduce
+geological formations in the plasma lab
+to pay more attention to the density of
+the acquired structures and formations.
+Perhaps it might be possible to
+reproduce some of the more porous
+formations such as rock of the Medusae
+Fossae formation, or even the more
+highly porous cometary rock.
+At the same time, I think
+that the results of the
+ongoing sample return missions from
+asteroids such as Hayabusa2 and
+OSIRIS-REX, would show more evidence that
+the asteroidal rock bears a striking
+resemblance to the typical planetary
+crust composition.

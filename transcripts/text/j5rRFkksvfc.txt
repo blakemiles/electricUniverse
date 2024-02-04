@@ -1,0 +1,1567 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe,",
+    "start": 6.886,
+    "duration": 2.925
+  },
+  {
+    "text": "brought to you by The\nThunderbolts Project™",
+    "start": 9.836,
+    "duration": 2.34
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 12.201,
+    "duration": 2.399
+  },
+  {
+    "text": "In the first three parts\nof this presentation,",
+    "start": 19.003,
+    "duration": 2.602
+  },
+  {
+    "text": "Thunderbolts contributor Andrew Hall has\nexplored the electrical nature of wind",
+    "start": 21.629,
+    "duration": 4.563
+  },
+  {
+    "text": "and powerful storms on planets throughout\nthe solar system including Earth.",
+    "start": 26.217,
+    "duration": 4.852
+  },
+  {
+    "text": "Of course, mainstream geology tells\nus that wind plays a significant role",
+    "start": 31.094,
+    "duration": 4.609
+  },
+  {
+    "text": "in shaping the\nlandscape of our planet,",
+    "start": 35.728,
+    "duration": 2.168
+  },
+  {
+    "text": "supposedly incrementally\nover countless eons of time.",
+    "start": 37.976,
+    "duration": 3.4
+  },
+  {
+    "text": "But, as Andrew has proposed\nin numerous past videos,",
+    "start": 41.844,
+    "duration": 3.283
+  },
+  {
+    "text": "the Earth's wind sheared\nlandscape reveals unique patterns",
+    "start": 45.152,
+    "duration": 3.667
+  },
+  {
+    "text": "which may have been produced by ionized\nshock waves in primordial electric storms.",
+    "start": 48.844,
+    "duration": 5.152
+  },
+  {
+    "text": "In part four of\nthis 10-part series,",
+    "start": 54.021,
+    "duration": 2.595
+  },
+  {
+    "text": "Andrew argues for a new perspective\non wind in Earth geology,",
+    "start": 56.64,
+    "duration": 4.425
+  },
+  {
+    "text": "not as a slow erosional force\nbut a short-lived and violent one.",
+    "start": 61.09,
+    "duration": 4.976
+  },
+  {
+    "text": "If you study Earth's surface\nand look at details in its form,",
+    "start": 66.854,
+    "duration": 4.031
+  },
+  {
+    "text": "there are obvious patterns:",
+    "start": 70.91,
+    "duration": 1.684
+  },
+  {
+    "text": "arcing patterns of mountain\nranges and island chains,",
+    "start": 72.619,
+    "duration": 3.88
+  },
+  {
+    "text": "strange swirls and looping\ncracks on the ocean floor,",
+    "start": 76.524,
+    "duration": 3.746
+  },
+  {
+    "text": "and on close inspection there's harmony\nin the shape of mountains and other terrain.",
+    "start": 80.295,
+    "duration": 3.957
+  },
+  {
+    "text": "Sometimes it's geometric with\ntriangles, arcs, and star patterns.",
+    "start": 84.277,
+    "duration": 4.159
+  },
+  {
+    "text": "But usually it's more\nfluid, like a crazy paisley.",
+    "start": 88.461,
+    "duration": 3.695
+  },
+  {
+    "text": "Consensus thought is, this is a\nresult of a series of unrelated events",
+    "start": 92.18,
+    "duration": 4.599
+  },
+  {
+    "text": "that occurred over\nbillions of years,",
+    "start": 96.804,
+    "duration": 1.793
+  },
+  {
+    "text": "driven by the slow churn of Earth's\ncrust subducting the continental plates",
+    "start": 98.622,
+    "duration": 4.285
+  },
+  {
+    "text": "and the constant wear of erosion.",
+    "start": 102.932,
+    "duration": 2.17
+  },
+  {
+    "text": "EU thinks it didn't\nhappen that way.",
+    "start": 105.127,
+    "duration": 2.71
+  },
+  {
+    "text": "We think it was\ncaused by electricity",
+    "start": 107.862,
+    "duration": 2.542
+  },
+  {
+    "text": "and the patterns we see make more sense\nif viewed in the context of our theory.",
+    "start": 110.429,
+    "duration": 5.53
+  },
+  {
+    "text": "The face of the Earth was\nshaped by three primary means:",
+    "start": 115.984,
+    "duration": 3.89
+  },
+  {
+    "text": "volcanic eruption,\nlightning, and wind.",
+    "start": 119.899,
+    "duration": 3.024
+  },
+  {
+    "text": "It occurred in primordial storms\nwhich ionized the atmosphere,",
+    "start": 122.948,
+    "duration": 3.554
+  },
+  {
+    "text": "charged the ground\nlike a battery,",
+    "start": 126.527,
+    "duration": 1.818
+  },
+  {
+    "text": "and discharged energy\nthe same way we see today:",
+    "start": 128.37,
+    "duration": 3.054
+  },
+  {
+    "text": "earthquakes, volcanoes and storms.",
+    "start": 131.449,
+    "duration": 2.384
+  },
+  {
+    "text": "Only these storms\nwere beyond biblical.",
+    "start": 133.858,
+    "duration": 3.15
+  },
+  {
+    "text": "They occurred before man arrived.",
+    "start": 137.033,
+    "duration": 2.609
+  },
+  {
+    "text": "What we are talking about today\nare the storms of creation,",
+    "start": 139.667,
+    "duration": 3.184
+  },
+  {
+    "text": "which shaped the\nface of the planet.",
+    "start": 142.876,
+    "duration": 2.131
+  },
+  {
+    "text": "Because wind played the biggest role in\nlaying and piling the sediments we live on,",
+    "start": 145.032,
+    "duration": 5.12
+  },
+  {
+    "text": "its effects are most visible.",
+    "start": 150.177,
+    "duration": 2.307
+  },
+  {
+    "text": "The evidence is in supersonic\nshockwaves imprinted on the land.",
+    "start": 152.509,
+    "duration": 4.977
+  },
+  {
+    "text": "Once you start recognizing the\ncharacteristics of wind-formed topography,",
+    "start": 157.511,
+    "duration": 4.642
+  },
+  {
+    "text": "it becomes almost\nimpossible to ignore.",
+    "start": 162.178,
+    "duration": 3.338
+  },
+  {
+    "text": "To identify wind direction,\nlook at mountains.",
+    "start": 165.541,
+    "duration": 3.274
+  },
+  {
+    "text": "Mountains, not volcanoes,",
+    "start": 168.84,
+    "duration": 2.414
+  },
+  {
+    "text": "are all essentially\nwind blown dunes.",
+    "start": 171.279,
+    "duration": 2.895
+  },
+  {
+    "text": "With exceptions for\nshifting wind conditions,",
+    "start": 174.199,
+    "duration": 3.333
+  },
+  {
+    "text": "a mountain's shape will show a\nwindward and leeward side like a dune.",
+    "start": 177.557,
+    "duration": 4.485
+  },
+  {
+    "text": "The leeward side is generally\nsteep and slab-sided",
+    "start": 182.067,
+    "duration": 3.67
+  },
+  {
+    "text": "and the windward side\ndips at a shallower slope.",
+    "start": 185.762,
+    "duration": 4.183
+  },
+  {
+    "text": "The windward side actually portrays\nthe shape of the wind itself,",
+    "start": 189.97,
+    "duration": 4.204
+  },
+  {
+    "text": "as pressure waves undulate across\nmoveable sands and mold them.",
+    "start": 194.199,
+    "duration": 4.71
+  },
+  {
+    "text": "If the wind reaches Mach speeds,",
+    "start": 198.934,
+    "duration": 2.931
+  },
+  {
+    "text": "standing shock waves reflect from\nany protrusion in the wind's path",
+    "start": 201.889,
+    "duration": 4.681
+  },
+  {
+    "text": "causing a sharp change\nin wind direction.",
+    "start": 206.595,
+    "duration": 3.049
+  },
+  {
+    "text": "Distinct patterns form at this\ncrease called shock diamonds,",
+    "start": 209.669,
+    "duration": 4.817
+  },
+  {
+    "text": "where the wind direction\nchanges abruptly.",
+    "start": 214.511,
+    "duration": 2.983
+  },
+  {
+    "text": "The reflected standing shock wave\nforms a fan-shaped interference pattern",
+    "start": 217.519,
+    "duration": 5.396
+  },
+  {
+    "text": "of compression and rarefaction.",
+    "start": 222.94,
+    "duration": 2.18
+  },
+  {
+    "text": "This pattern can be found on most mountain\nforms, including Cordillera mountain arcs,",
+    "start": 225.145,
+    "duration": 5.07
+  },
+  {
+    "text": "continental divides, lone \ninselbergs, and basin and range.",
+    "start": 230.24,
+    "duration": 4.236
+  },
+  {
+    "text": "Dust-laden supersonic winds\ndeposit their heavy cargo",
+    "start": 234.5,
+    "duration": 4.154
+  },
+  {
+    "text": "where the crease\nin the wind forms.",
+    "start": 238.679,
+    "duration": 2.259
+  },
+  {
+    "text": "A tetrahedron-shaped zone of\nrarefaction, or low pressure,",
+    "start": 240.963,
+    "duration": 4.794
+  },
+  {
+    "text": "develops at the root\nof the standing wave,",
+    "start": 245.782,
+    "duration": 2.952
+  },
+  {
+    "text": "it's called a \"separation bubble.\"",
+    "start": 248.759,
+    "duration": 2.729
+  },
+  {
+    "text": "Wind-born dust collects in this bubble as\nthe wind deflects upward with a shock wave.",
+    "start": 251.513,
+    "duration": 5.328
+  },
+  {
+    "text": "As material deposits\nin the separation bubble,",
+    "start": 256.866,
+    "duration": 3.426
+  },
+  {
+    "text": "it forms a new barrier\nto deflect the wind,",
+    "start": 260.317,
+    "duration": 2.748
+  },
+  {
+    "text": "which moves the standing shock\nreflection backwards into the wind.",
+    "start": 263.09,
+    "duration": 4.288
+  },
+  {
+    "text": "The separation bubble migrates\ninto the wind with the shock wave,",
+    "start": 267.403,
+    "duration": 4.429
+  },
+  {
+    "text": "causing new dust to\noverlay the old in layers",
+    "start": 271.857,
+    "duration": 3.333
+  },
+  {
+    "text": "that stack into the\ndirection of the wind.",
+    "start": 275.215,
+    "duration": 2.994
+  },
+  {
+    "text": "The shock wave is a discontinuity in\ndensity, temperature, and ionization.",
+    "start": 278.234,
+    "duration": 5.781
+  },
+  {
+    "text": "Remember, we're talking\nabout a primordial storm",
+    "start": 284.04,
+    "duration": 2.916
+  },
+  {
+    "text": "where much of the\natmosphere ionized.",
+    "start": 286.981,
+    "duration": 2.834
+  },
+  {
+    "text": "So, standing shock waves reflected\nfrom the ground back into the clouds",
+    "start": 289.84,
+    "duration": 4.545
+  },
+  {
+    "text": "providing a path for discharge.",
+    "start": 294.41,
+    "duration": 2.308
+  },
+  {
+    "text": "The separation bubble is not only a\npressure sink, which collects heavy matter,",
+    "start": 296.743,
+    "duration": 5.274
+  },
+  {
+    "text": "it is also a current sink,",
+    "start": 302.042,
+    "duration": 2.284
+  },
+  {
+    "text": "being the lowest potential region\nconnected to the high potential current",
+    "start": 304.351,
+    "duration": 3.793
+  },
+  {
+    "text": "in the reflected shock wave.",
+    "start": 308.169,
+    "duration": 2.077
+  },
+  {
+    "text": "It, therefore, draws current to bake,\ncompress, and fuse the deposited dust.",
+    "start": 310.271,
+    "duration": 5.652
+  },
+  {
+    "text": "It creates a distinct\npattern on the windward side.",
+    "start": 315.948,
+    "duration": 3.617
+  },
+  {
+    "text": "Dragon's teeth --",
+    "start": 319.59,
+    "duration": 1.527
+  },
+  {
+    "text": "triangular buttresses, or\nsometimes called flat-irons,",
+    "start": 321.142,
+    "duration": 4.3
+  },
+  {
+    "text": "formed by the sonic, ionized\nshockwaves of supersonic winds.",
+    "start": 325.467,
+    "duration": 4.301
+  },
+  {
+    "text": "They rise and fall in\namplitude and wavelength,",
+    "start": 329.793,
+    "duration": 3.777
+  },
+  {
+    "text": "and display harmonic frequency shifts,\nas well as many, many other features",
+    "start": 333.595,
+    "duration": 4.95
+  },
+  {
+    "text": "which can only be produced by the\nsonic effects of supersonic winds --",
+    "start": 338.57,
+    "duration": 4.293
+  },
+  {
+    "text": "please see the \"Arc Blast\" and \"Monocline\"\narticles previously published, for more details.",
+    "start": 342.888,
+    "duration": 6.507
+  },
+  {
+    "text": "Understanding how winds\nform these shock patterns",
+    "start": 349.42,
+    "duration": 3.373
+  },
+  {
+    "text": "and examining the result on the\nlandscape reveals a wealth of information.",
+    "start": 352.818,
+    "duration": 4.026
+  },
+  {
+    "text": "Let's consider this very\nsimple dune, called El Guaje,",
+    "start": 356.869,
+    "duration": 4.082
+  },
+  {
+    "text": "in the Sierra Oriental\nmountains of central Mexico.",
+    "start": 360.976,
+    "duration": 3.208
+  },
+  {
+    "text": "The shock patterns of triangles is\nvery apparent on its windward side.",
+    "start": 364.209,
+    "duration": 4.759
+  },
+  {
+    "text": "This next image is\nannotated to show El Guaje",
+    "start": 368.993,
+    "duration": 4.218
+  },
+  {
+    "text": "highlighting the four consecutively\nformed pressure ridges that are visible.",
+    "start": 373.236,
+    "duration": 4.673
+  },
+  {
+    "text": "The first is\nhighlighted in green",
+    "start": 377.934,
+    "duration": 2.449
+  },
+  {
+    "text": "and it's almost buried\nby later deposition,",
+    "start": 380.408,
+    "duration": 3.163
+  },
+  {
+    "text": "so only the tops of its\nbuttresses are exposed.",
+    "start": 383.596,
+    "duration": 3.824
+  },
+  {
+    "text": "The second is marked in yellow",
+    "start": 387.445,
+    "duration": 2.594
+  },
+  {
+    "text": "and is another small ridge caused\nby a period of weaker winds.",
+    "start": 390.064,
+    "duration": 4.373
+  },
+  {
+    "text": "It's also partially buried by\nthe third, and the largest ridge",
+    "start": 394.462,
+    "duration": 4.58
+  },
+  {
+    "text": "which obviously deposited\nmuch more material.",
+    "start": 399.067,
+    "duration": 3.999
+  },
+  {
+    "text": "Large triangular buttresses\nat one end of the large ridge",
+    "start": 403.091,
+    "duration": 3.815
+  },
+  {
+    "text": "shrink in amplitude with geometric\nprogression until they almost vanish.",
+    "start": 406.931,
+    "duration": 4.07
+  },
+  {
+    "text": "This indicates the jet-\nstream velocity transitioned",
+    "start": 411.026,
+    "duration": 3.548
+  },
+  {
+    "text": "from supersonic to near subsonic velocity\nalong the wind-front of this dune.",
+    "start": 414.599,
+    "duration": 5.356
+  },
+  {
+    "text": "The faster jet-stream region\nadvanced the growth of the dune,",
+    "start": 419.98,
+    "duration": 4.486
+  },
+  {
+    "text": "depositing material faster and\npushing the shock-wave into the wind.",
+    "start": 424.49,
+    "duration": 4.424
+  },
+  {
+    "text": "It advanced the ridge line at\nthe top of the page into the wind,",
+    "start": 428.939,
+    "duration": 4.764
+  },
+  {
+    "text": "shown by the violet arc,",
+    "start": 433.728,
+    "duration": 1.982
+  },
+  {
+    "text": "and built this portion of\nthe mountain thicker, taller,",
+    "start": 435.735,
+    "duration": 2.878
+  },
+  {
+    "text": "and with larger amplitude\nreflected shocks",
+    "start": 438.638,
+    "duration": 2.713
+  },
+  {
+    "text": "forming bigger\ntriangular buttresses.",
+    "start": 441.376,
+    "duration": 3.094
+  },
+  {
+    "text": "Each layer of the buttresses is\nformed by a new shock front",
+    "start": 444.495,
+    "duration": 3.283
+  },
+  {
+    "text": "from winds impinging\non the last layer.",
+    "start": 447.803,
+    "duration": 2.506
+  },
+  {
+    "text": "New shock fronts formed as the wind\ngusted, piling new layers on the old.",
+    "start": 450.334,
+    "duration": 5.518
+  },
+  {
+    "text": "A final diminishing wind\ncreated a final fourth shock front",
+    "start": 455.877,
+    "duration": 3.611
+  },
+  {
+    "text": "which deposited a small pressure ridge,\nshown in purple, on the foot of the mountain.",
+    "start": 459.513,
+    "duration": 5.671
+  },
+  {
+    "text": "The highlights obscure\nnatural features",
+    "start": 465.469,
+    "duration": 2.532
+  },
+  {
+    "text": "so please contrast\nthe annotated image",
+    "start": 468.026,
+    "duration": 3.07
+  },
+  {
+    "text": "with the first, naked image,\nto see the buttresses better.",
+    "start": 471.121,
+    "duration": 4.798
+  },
+  {
+    "text": "The winds that created these\nridges were like any storm,",
+    "start": 475.944,
+    "duration": 3.457
+  },
+  {
+    "text": "just quite a bit more violent.",
+    "start": 479.426,
+    "duration": 1.658
+  },
+  {
+    "text": "They stiffened as the storm\ngrew, reached a crescendo",
+    "start": 481.109,
+    "duration": 3.563
+  },
+  {
+    "text": "with electrically charged,\ngusting blasts at Mach speeds,",
+    "start": 484.697,
+    "duration": 3.968
+  },
+  {
+    "text": "and then ebbed away.",
+    "start": 488.69,
+    "duration": 1.548
+  },
+  {
+    "text": "Their formation precludes any notion\nthat the winds that created them",
+    "start": 490.263,
+    "duration": 4.912
+  },
+  {
+    "text": "were caused by a meteor or comet.",
+    "start": 495.2,
+    "duration": 2.592
+  },
+  {
+    "text": "A large impact might produce\nsupersonic, dust-laden winds,",
+    "start": 497.817,
+    "duration": 4.301
+  },
+  {
+    "text": "but they would crest\nwith the first shock wave",
+    "start": 502.143,
+    "duration": 2.854
+  },
+  {
+    "text": "and then dissipate,",
+    "start": 505.022,
+    "duration": 1.667
+  },
+  {
+    "text": "not slowly build to a crescendo\nas these mountain ridges do.",
+    "start": 506.714,
+    "duration": 5.596
+  },
+  {
+    "text": "Take a look at the surroundings\nof El Guaje ridge,",
+    "start": 512.335,
+    "duration": 3.356
+  },
+  {
+    "text": "and it becomes even more\napparent how it was made.",
+    "start": 515.716,
+    "duration": 3.073
+  },
+  {
+    "text": "It's part of a\nlarger structure --",
+    "start": 518.814,
+    "duration": 2.022
+  },
+  {
+    "text": "an oblong crater, it's 200 feet deeper\nin the center than outside the rim.",
+    "start": 520.86,
+    "duration": 5.624
+  },
+  {
+    "text": "The pressure ridges, including El\nGuaje, form the rim of the crater.",
+    "start": 526.509,
+    "duration": 5.618
+  },
+  {
+    "text": "It wasn't made by\nan oblong meteor.",
+    "start": 532.152,
+    "duration": 2.663
+  },
+  {
+    "text": "This is the result\nof a down-burst wind.",
+    "start": 534.839,
+    "duration": 3.111
+  },
+  {
+    "text": "The pressure ridges are\nthe rims of the crater,",
+    "start": 537.975,
+    "duration": 2.727
+  },
+  {
+    "text": "with triangular buttresses showing the\nwind direction as it blasted the Earth",
+    "start": 540.727,
+    "duration": 3.813
+  },
+  {
+    "text": "like a blowtorch,",
+    "start": 544.565,
+    "duration": 1.374
+  },
+  {
+    "text": "and blew out radially, depositing dust\nalong the standing shock waves it created.",
+    "start": 545.964,
+    "duration": 5.781
+  },
+  {
+    "text": "The outward blast is\ninterfered at the top end",
+    "start": 551.77,
+    "duration": 3.173
+  },
+  {
+    "text": "by two, round mountains\nformed by lightning discharge",
+    "start": 554.968,
+    "duration": 3.634
+  },
+  {
+    "text": "which altered the\nwind flow around them",
+    "start": 558.627,
+    "duration": 2.579
+  },
+  {
+    "text": "and disrupted the\nsymmetry of the crater.",
+    "start": 561.231,
+    "duration": 3.731
+  },
+  {
+    "text": "Taking another step back in altitude reveals\nthis entire mountain region in Mexico",
+    "start": 564.987,
+    "duration": 6.125
+  },
+  {
+    "text": "is shaped by a turbulent\nshear zone in the wind.",
+    "start": 571.137,
+    "duration": 3.396
+  },
+  {
+    "text": "These mountains were formed by uni-polar\nelectric winds screaming from the south,",
+    "start": 574.558,
+    "duration": 4.883
+  },
+  {
+    "text": "and mixing into plasma\nstorms along the shear zone",
+    "start": 579.466,
+    "duration": 3.372
+  },
+  {
+    "text": "with an opposite polarity wind\nscreaming from the other direction.",
+    "start": 582.863,
+    "duration": 4.219
+  },
+  {
+    "text": "It's eerily similar to the turbulent\nshear zones adjacent to the Great Red Spot",
+    "start": 587.107,
+    "duration": 4.85
+  },
+  {
+    "text": "on Jupiter,",
+    "start": 591.982,
+    "duration": 1.086
+  },
+  {
+    "text": "creating kinked circulations\nthat have a crab-claw shape.",
+    "start": 593.093,
+    "duration": 4.809
+  },
+  {
+    "text": "I call this mountain formation\nin Mexico -- the Mexican Kink.",
+    "start": 597.927,
+    "duration": 5.318
+  },
+  {
+    "text": "Turbulent winds fold back\nand forth to make these kinks,",
+    "start": 603.27,
+    "duration": 3.905
+  },
+  {
+    "text": "but they also fold up and\ndown and twist into tornadoes,",
+    "start": 607.2,
+    "duration": 4.483
+  },
+  {
+    "text": "blowing and sucking at the land.",
+    "start": 611.708,
+    "duration": 2.364
+  },
+  {
+    "text": "In turbulent zones, the\ndowndrafts form cyclones",
+    "start": 614.097,
+    "duration": 3.815
+  },
+  {
+    "text": "that are often stretched out-of-round into\noval, polygonal, and U-shaped structures.",
+    "start": 617.937,
+    "duration": 5.261
+  },
+  {
+    "text": "The winds are electric currents, so these\nturbulent kinks are semi-steady-state",
+    "start": 623.223,
+    "duration": 5.129
+  },
+  {
+    "text": "keep their form for a\nlong time, molding the land.",
+    "start": 628.377,
+    "duration": 3.683
+  },
+  {
+    "text": "Downdraft turbulence also means\nthere is updraft turbulence.",
+    "start": 632.085,
+    "duration": 5.042
+  },
+  {
+    "text": "So next to downdraft craters in Mexico\nare mountains formed by updrafts.",
+    "start": 637.152,
+    "duration": 5.269
+  },
+  {
+    "text": "An updraft wind will create a\ndome or ridge of layered deposit",
+    "start": 642.446,
+    "duration": 4.525
+  },
+  {
+    "text": "with a rim around it also,",
+    "start": 646.996,
+    "duration": 1.907
+  },
+  {
+    "text": "but the inflow to the updraft leaves the\ntriangular buttresses from shockwaves",
+    "start": 648.928,
+    "duration": 5.229
+  },
+  {
+    "text": "on the outside of the\nmountain, pointing inward.",
+    "start": 654.182,
+    "duration": 2.799
+  },
+  {
+    "text": "The updrafts deposit linear\nand lobe shaped mountains",
+    "start": 657.006,
+    "duration": 3.47
+  },
+  {
+    "text": "around and between\nthe downdraft craters.",
+    "start": 660.501,
+    "duration": 2.886
+  },
+  {
+    "text": "The turbulence is\nin a shear zone,",
+    "start": 663.412,
+    "duration": 2.397
+  },
+  {
+    "text": "so deposits occur in narrow\nlanes between conflicting winds.",
+    "start": 665.834,
+    "duration": 4.303
+  },
+  {
+    "text": "Updraft deposits are composed\nof more material than craters",
+    "start": 670.162,
+    "duration": 3.988
+  },
+  {
+    "text": "and have the triangular patterns of\nshock wave reflections on the flanks.",
+    "start": 674.175,
+    "duration": 4.343
+  },
+  {
+    "text": "As it relates to\nclouds on Jupiter,",
+    "start": 678.543,
+    "duration": 2.749
+  },
+  {
+    "text": "a long, rising column, like the one highlighted\nhere, would create such linear mountains.",
+    "start": 681.317,
+    "duration": 6.009
+  },
+  {
+    "text": "One can see the dark depths of the hole in the\nclouds from which the updraft column rises.",
+    "start": 687.351,
+    "duration": 5.406
+  },
+  {
+    "text": "The winds roll upward\nfrom the ground",
+    "start": 692.782,
+    "duration": 2.6
+  },
+  {
+    "text": "and curl over, leaving a broom-swept\nlinear ridge on the land below.",
+    "start": 695.407,
+    "duration": 4.679
+  },
+  {
+    "text": "The turbulent kinks\nare fractal forms,",
+    "start": 700.111,
+    "duration": 2.636
+  },
+  {
+    "text": "so taking another\nstep back in altitude",
+    "start": 702.772,
+    "duration": 2.583
+  },
+  {
+    "text": "reveals the fractal clab-claw\nshape emerging at a larger scale.",
+    "start": 705.38,
+    "duration": 4.245
+  },
+  {
+    "text": "The smaller feature with\nthe crater shown above",
+    "start": 709.65,
+    "duration": 2.772
+  },
+  {
+    "text": "is nested within this larger repetition\nof the wind pattern shown next,",
+    "start": 712.447,
+    "duration": 4.117
+  },
+  {
+    "text": "aligned along the same axis.",
+    "start": 716.589,
+    "duration": 2.75
+  },
+  {
+    "text": "Nested fractals are very evident\nin Jupiter's clouds as well.",
+    "start": 719.364,
+    "duration": 4.292
+  },
+  {
+    "text": "The similarity between Mexico's\nmountains and Jupiter's clouds",
+    "start": 723.681,
+    "duration": 3.22
+  },
+  {
+    "text": "is due to capacitance in\nthe planetary circuits.",
+    "start": 726.926,
+    "duration": 3.365
+  },
+  {
+    "text": "The strongest winds are vertical\nwinds driven by the electric field.",
+    "start": 730.316,
+    "duration": 4.331
+  },
+  {
+    "text": "Following is a sample of images taken\nfrom the southern leg of storm centers",
+    "start": 735.242,
+    "duration": 4.404
+  },
+  {
+    "text": "that molded South America,\nAustralia, Africa, and Eurasia.",
+    "start": 739.671,
+    "duration": 4.591
+  },
+  {
+    "text": "The winds pushed and pulled on\nthe land with electric force,",
+    "start": 744.287,
+    "duration": 3.834
+  },
+  {
+    "text": "literally molding it from wind action\nabove and volcanic action below.",
+    "start": 748.146,
+    "duration": 4.389
+  },
+  {
+    "text": "The fluid shapes are a dead giveaway\nfor magneto-hydro-dynamic forces.",
+    "start": 752.56,
+    "duration": 5.574
+  },
+  {
+    "text": "But deeper levels of\nevidence are there,",
+    "start": 758.159,
+    "duration": 2.588
+  },
+  {
+    "text": "in Mach speed sonic shock effects,\narcing effects, and sputtering effects",
+    "start": 760.772,
+    "duration": 5.15
+  },
+  {
+    "text": "that provide a holistic electric\npicture of everything that was happening.",
+    "start": 765.947,
+    "duration": 4.039
+  },
+  {
+    "text": "Look close at the following images\nand note patterns of stratification",
+    "start": 770.011,
+    "duration": 4.305
+  },
+  {
+    "text": "and liquid deformation evident\nfrom waves of heat and pressure.",
+    "start": 774.341,
+    "duration": 5.904
+  },
+  {
+    "text": "Turbulent winds lifting off the land, arcing\nacross the sky, and returning in downdrafts",
+    "start": 780.269,
+    "duration": 6.494
+  },
+  {
+    "text": "were filaments of plasma that varied\nin charge density in cross-section too.",
+    "start": 786.788,
+    "duration": 5.111
+  },
+  {
+    "text": "Take note how a tornado\nis a coaxial circuit",
+    "start": 791.924,
+    "duration": 4.1
+  },
+  {
+    "text": "with the outer wall of the tube being\nthe fastest, most dusty region,",
+    "start": 796.049,
+    "duration": 3.726
+  },
+  {
+    "text": "and the inner core\noften a clear draft.",
+    "start": 799.8,
+    "duration": 2.882
+  },
+  {
+    "text": "The plasma filaments\nof primordial storms",
+    "start": 802.707,
+    "duration": 3.166
+  },
+  {
+    "text": "varied in dust content, charge density,\nand velocity in cross-section as well.",
+    "start": 805.898,
+    "duration": 5.787
+  },
+  {
+    "text": "The result is stratification\nof mineral deposits vertically,",
+    "start": 811.71,
+    "duration": 4.262
+  },
+  {
+    "text": "where the rock morphology\nand mineral composition",
+    "start": 815.997,
+    "duration": 2.959
+  },
+  {
+    "text": "discretely change from\nthe core of the feature,",
+    "start": 818.98,
+    "duration": 2.654
+  },
+  {
+    "text": "to the walls of the feature and\nthen to the outer surroundings.",
+    "start": 821.659,
+    "duration": 3.657
+  },
+  {
+    "text": "It's a coaxial arrangement.",
+    "start": 825.34,
+    "duration": 3.241
+  },
+  {
+    "text": "The following images show where the\nstorm pulsed and ebbed with current,",
+    "start": 828.606,
+    "duration": 4.15
+  },
+  {
+    "text": "stratifying these layers of dust with\ndifferent composition from the inside-out,",
+    "start": 832.781,
+    "duration": 4.824
+  },
+  {
+    "text": "where the coaxial up-and-down draft\nwinds created domes and craters.",
+    "start": 837.63,
+    "duration": 5.724
+  },
+  {
+    "text": "Layerings of varying mineral\ncomposition are particularly evident",
+    "start": 843.379,
+    "duration": 4.035
+  },
+  {
+    "text": "where winds abruptly changed direction, from\nhorizontal to vertical at the rim of craters",
+    "start": 847.439,
+    "duration": 4.754
+  },
+  {
+    "text": "and the buttress\nflanks of mountains.",
+    "start": 852.218,
+    "duration": 2.007
+  },
+  {
+    "text": "There, charge densities\nin the shockwaves",
+    "start": 854.25,
+    "duration": 3.048
+  },
+  {
+    "text": "and the effects of magnetic\npinch were the greatest.",
+    "start": 857.323,
+    "duration": 3.728
+  },
+  {
+    "text": "The stratification of species\nwithin the electric winds of Jupiter",
+    "start": 861.076,
+    "duration": 4.206
+  },
+  {
+    "text": "matches the pattern of stratification\nin landforms here on earth.",
+    "start": 865.307,
+    "duration": 4.384
+  },
+  {
+    "text": "They are coherently layered from the\ninside-out of each turbulent kink, or vortex,",
+    "start": 869.716,
+    "duration": 5.922
+  },
+  {
+    "text": "unmixed by the turbulence,",
+    "start": 875.663,
+    "duration": 2.259
+  },
+  {
+    "text": "in accordance with charge densities in\ncurrents that are primarily moving up and down.",
+    "start": 877.947,
+    "duration": 6.487
+  },
+  {
+    "text": "That electromagnetic fields\nsort species and recombine them",
+    "start": 884.459,
+    "duration": 4.154
+  },
+  {
+    "text": "is predicted behavior in plasma.",
+    "start": 888.638,
+    "duration": 2.569
+  },
+  {
+    "text": "We use a multitude of techniques\nin manufacturing based on this fact.",
+    "start": 891.232,
+    "duration": 4.908
+  },
+  {
+    "text": "Different materials respond\nto magnetic fields differently.",
+    "start": 896.165,
+    "duration": 4.699
+  },
+  {
+    "text": "The electric field responds\nto charge density",
+    "start": 900.889,
+    "duration": 2.87
+  },
+  {
+    "text": "so shapes itself around conductive\nflows of material and vice-versa.",
+    "start": 903.784,
+    "duration": 4.012
+  },
+  {
+    "text": "The result is stratification, and it's apparent\nthe stratification in Earth's landscapes",
+    "start": 907.821,
+    "duration": 6.358
+  },
+  {
+    "text": "matches the stratification\nin Jupiter's winds.",
+    "start": 914.204,
+    "duration": 4.012
+  },
+  {
+    "text": "Some mountains do not conform\nto the wind-blown dune shape,",
+    "start": 918.241,
+    "duration": 4.752
+  },
+  {
+    "text": "exhibiting triangular buttresses\non both flanks of the mountain,",
+    "start": 923.018,
+    "duration": 3.948
+  },
+  {
+    "text": "or not conforming to the\nwindward/leeward angle of slope.",
+    "start": 926.991,
+    "duration": 4.066
+  },
+  {
+    "text": "This doesn't mean\nthey're not dunes,",
+    "start": 931.082,
+    "duration": 2.321
+  },
+  {
+    "text": "but indicates they were formed\nsubject to shifting, or competing winds.",
+    "start": 933.428,
+    "duration": 4.584
+  },
+  {
+    "text": "In some cases, mountains\nformed as sastrugi,",
+    "start": 938.037,
+    "duration": 4.302
+  },
+  {
+    "text": "or linear deposits\nparallel to the wind",
+    "start": 942.364,
+    "duration": 3.059
+  },
+  {
+    "text": "in the shear zone between channels\nof wind of different velocity.",
+    "start": 945.448,
+    "duration": 4.794
+  },
+  {
+    "text": "So, it's possible by looking at\nthe land to deduce wind patterns.",
+    "start": 950.267,
+    "duration": 5.375
+  },
+  {
+    "text": "Following this method of\nidentifying wind direction",
+    "start": 955.667,
+    "duration": 4.975
+  },
+  {
+    "text": "from triangular buttresses in the mountain\nranges and craters that are formed,",
+    "start": 960.667,
+    "duration": 5.032
+  },
+  {
+    "text": "the next image shows\nthe Colorado Plateau",
+    "start": 965.724,
+    "duration": 3.447
+  },
+  {
+    "text": "with wind formed pressure\nridges annotated by blue lines.",
+    "start": 969.196,
+    "duration": 4.383
+  },
+  {
+    "text": "These are pressure ridges\nformed perpendicular to the wind.",
+    "start": 973.604,
+    "duration": 3.819
+  },
+  {
+    "text": "Each line is drawn parallel\nto a pressure ridge,",
+    "start": 977.448,
+    "duration": 3.398
+  },
+  {
+    "text": "and perpendicular hash marks\nindicate the wind direction.",
+    "start": 980.871,
+    "duration": 3.753
+  },
+  {
+    "text": "The red lines on the map indicate pressure\nridges formed parallel to the wind,",
+    "start": 984.649,
+    "duration": 4.947
+  },
+  {
+    "text": "at shear zones between\nthe conflicting winds.",
+    "start": 989.62,
+    "duration": 3.679
+  },
+  {
+    "text": "This map provides one layer\nof dimension to the storm,",
+    "start": 993.324,
+    "duration": 3.963
+  },
+  {
+    "text": "the dimension of\nground level winds.",
+    "start": 997.312,
+    "duration": 3.09
+  },
+  {
+    "text": "But to add another layer, we can\nlook at the domes and craters",
+    "start": 1000.427,
+    "duration": 3.588
+  },
+  {
+    "text": "that formed by updraft\nand downdraft winds.",
+    "start": 1004.04,
+    "duration": 3.266
+  },
+  {
+    "text": "The red areas on this map are\nupdrafts, the yellow are downdrafts,",
+    "start": 1007.331,
+    "duration": 4.946
+  },
+  {
+    "text": "and blue are\nprecipitation footprints.",
+    "start": 1012.302,
+    "duration": 2.978
+  },
+  {
+    "text": "Adding this layer of information\nto the map of pressure ridges",
+    "start": 1015.305,
+    "duration": 3.993
+  },
+  {
+    "text": "produces a wind map of\nthe Colorado Plateau",
+    "start": 1019.323,
+    "duration": 3.221
+  },
+  {
+    "text": "and the Rocky Mountains\nthat looks like this.",
+    "start": 1022.569,
+    "duration": 2.88
+  },
+  {
+    "text": "Now to describe this storm.",
+    "start": 1025.474,
+    "duration": 2.077
+  },
+  {
+    "text": "There are two jet streams coming to\nthe Colorado Plateau from the north.",
+    "start": 1027.576,
+    "duration": 4.983
+  },
+  {
+    "text": "One poured through the Snake River\nValley, arcing east towards Yellowstone.",
+    "start": 1032.584,
+    "duration": 4.639
+  },
+  {
+    "text": "The other jet stream\nswept into the Great Basin",
+    "start": 1037.248,
+    "duration": 3.226
+  },
+  {
+    "text": "rippling Nevada with rows\nof windblown mountains.",
+    "start": 1040.499,
+    "duration": 3.216
+  },
+  {
+    "text": "There's an S-shaped range in central\nNevada that defines a center of rotation,",
+    "start": 1043.74,
+    "duration": 5.432
+  },
+  {
+    "text": "as this mesocyclone scraped the\nground like one incredible tornado.",
+    "start": 1049.197,
+    "duration": 4.48
+  },
+  {
+    "text": "It down-drafted into two streams.",
+    "start": 1053.702,
+    "duration": 2.929
+  },
+  {
+    "text": "One pressing down on the\nUnita Valley in Utah,",
+    "start": 1056.656,
+    "duration": 3.323
+  },
+  {
+    "text": "and the other sweeping northern Arizona\nforming much of the Mogollon Rim.",
+    "start": 1060.004,
+    "duration": 4.48
+  },
+  {
+    "text": "The Great Basin storm\nalso spun air south,",
+    "start": 1064.509,
+    "duration": 3.259
+  },
+  {
+    "text": "bypassing the rotation to help define\nthe Sierra Mountain arc,",
+    "start": 1067.793,
+    "duration": 3.648
+  },
+  {
+    "text": "and scoured the Owens,\nAmorgosa, and Death Valley.",
+    "start": 1071.466,
+    "duration": 4.381
+  },
+  {
+    "text": "The Sierras were formed by winds from\nthe west (not shown here on the map)",
+    "start": 1075.872,
+    "duration": 4.243
+  },
+  {
+    "text": "which pressed against\nthe Great Basin rotation",
+    "start": 1080.14,
+    "duration": 3.229
+  },
+  {
+    "text": "as the winds bypass south.",
+    "start": 1083.394,
+    "duration": 2.443
+  },
+  {
+    "text": "From the south, winds collected and\nthen split, forming the Mexican Kink",
+    "start": 1085.862,
+    "duration": 4.538
+  },
+  {
+    "text": "and the El Guaje mountain.",
+    "start": 1090.425,
+    "duration": 1.809
+  },
+  {
+    "text": "They reformed in a ground-hugging\nlaminar flow near Four Corners,",
+    "start": 1092.259,
+    "duration": 4.92
+  },
+  {
+    "text": "sweeping across Colorado,\nUtah, and northern Arizona,",
+    "start": 1097.204,
+    "duration": 3.928
+  },
+  {
+    "text": "laying the foundations\nof the Colorado Plateau.",
+    "start": 1101.157,
+    "duration": 3.253
+  },
+  {
+    "text": "The southern wind fed a multi-\nvortex cyclone over the plateau,",
+    "start": 1104.435,
+    "duration": 4.478
+  },
+  {
+    "text": "where it divided its path to\nfeed thunderstorm updrafts.",
+    "start": 1108.938,
+    "duration": 4.519
+  },
+  {
+    "text": "These winds threaded up and back down\nthrough mesocyclone-cyclone pairs",
+    "start": 1113.482,
+    "duration": 5.656
+  },
+  {
+    "text": "in looping currents\nlike lacing a shoe.",
+    "start": 1119.163,
+    "duration": 3.359
+  },
+  {
+    "text": "The updrafts are defined\nby San Rafael Swell in Utah",
+    "start": 1122.547,
+    "duration": 4.142
+  },
+  {
+    "text": "and Monument Valley and\nBlack Mesa in Arizona.",
+    "start": 1126.714,
+    "duration": 3.824
+  },
+  {
+    "text": "Winds from the south also circulated\nto the east over the Great Plains",
+    "start": 1130.563,
+    "duration": 4.112
+  },
+  {
+    "text": "to be sucked into the\ncyclone through thunderstorms",
+    "start": 1134.7,
+    "duration": 3.481
+  },
+  {
+    "text": "that built the eastern\nface of the Rockies.",
+    "start": 1138.206,
+    "duration": 3.145
+  },
+  {
+    "text": "These down-drafted, forming\nhuge craters in the mountains,",
+    "start": 1141.376,
+    "duration": 3.808
+  },
+  {
+    "text": "like San Luis Valley in Colorado.",
+    "start": 1145.209,
+    "duration": 3.373
+  },
+  {
+    "text": "Each of these features -- the\nGreat Basin mesocyclone,",
+    "start": 1148.607,
+    "duration": 4.102
+  },
+  {
+    "text": "the multi-vortex cyclone\nover the Colorado Plateau",
+    "start": 1152.734,
+    "duration": 3.733
+  },
+  {
+    "text": "with arching colonnades of\nmesocyclone-cyclone pairs",
+    "start": 1156.492,
+    "duration": 4.572
+  },
+  {
+    "text": "can be identified in the\nGreat Red Spot on Jupiter.",
+    "start": 1161.089,
+    "duration": 4.746
+  },
+  {
+    "text": "It's because the shapes\nand actions of the wind",
+    "start": 1165.86,
+    "duration": 3.135
+  },
+  {
+    "text": "are driven by the fractal process of\ncharge diffusion in the planetary circuit.",
+    "start": 1169.019,
+    "duration": 5.508
+  },
+  {
+    "text": "The difference in chemistry and\nthermodynamics of Jupiter's atmosphere",
+    "start": 1174.552,
+    "duration": 4.816
+  },
+  {
+    "text": "compared to Earth's doesn't\nmake much difference,",
+    "start": 1179.393,
+    "duration": 3.56
+  },
+  {
+    "text": "because circuits are the\nforcing mechanism of nature.",
+    "start": 1182.978,
+    "duration": 4.147
+  },
+  {
+    "text": "So this completes the view of\nwinds at the very eye of the storm.",
+    "start": 1187.15,
+    "duration": 3.522
+  },
+  {
+    "text": "The Colorado Plateau received the\nhottest plasma torching in North America.",
+    "start": 1190.697,
+    "duration": 4.744
+  },
+  {
+    "text": "Surrounding areas were also ravaged\nby storm but none so severely.",
+    "start": 1195.466,
+    "duration": 5.014
+  },
+  {
+    "text": "In fact, the whole Earth\nwas wrapped in storms.",
+    "start": 1200.505,
+    "duration": 2.77
+  },
+  {
+    "text": "So, we'll look closer at\nsome of those regions,",
+    "start": 1203.3,
+    "duration": 2.643
+  },
+  {
+    "text": "as well as more details on North\nAmerica in the next installment.",
+    "start": 1205.968,
+    "duration": 4.236
+  },
+  {
+    "text": "Thank you!",
+    "start": 1210.229,
+    "duration": 1.603
+  },
+  {
+    "text": "Stay tuned for part 5",
+    "start": 1212.446,
+    "duration": 3.285
+  }
+]

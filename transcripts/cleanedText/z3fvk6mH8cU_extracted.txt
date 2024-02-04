@@ -1,0 +1,397 @@
+Welcome to Space News from
+the Electric Universe,
+brought to you by The
+Thunderbolts Project™
+at Thunderbolts.info
+On this series, a clear picture of
+cosmic scale phenomena has emerged.
+Networks of filaments
+pervade space
+and are closely linked to the formation
+and evolution of stars and galaxies.
+The Electric Universe and Plasma
+Cosmology have always predicted
+that these filaments are in fact
+electrical Birkeland currents
+which light the stars and connect celestial
+bodies across vast cosmic distances.
+Recently, two separate
+teams of scientists,
+both of whom were attempting to resolve
+the so-called missing baryon problem,
+have published papers identifying
+vast intergalactic plasma filaments.
+In this episode, our
+guest Eugene Bagashov
+analyzes the significance of
+these independent findings.
+Eugene Bagashov: I would like to talk
+about two recently published papers
+discussing the large scale
+properties of cosmic plasma.
+What is interesting in this case is
+that both teams worked independently
+but ended up using the same
+methods and instruments.
+Somewhat encouraging is the fact that
+their conclusions are also very similar
+meaning that at least the
+technique is reproducible
+and, as far as the
+assumptions are correct,
+there have been no mistakes
+made in the process.
+Now that I've mentioned it,
+I personally have serious doubts
+about the assumptions themselves,
+so let us take a closer look at the
+picture presented by this research
+and see if we could make some
+alternative conclusions.
+The research addresses one of the key
+problems of observations of cosmic processes,
+the so-called missing
+baryon problem.
+It has been known for some time that if
+one considers the Big Bang cosmology,
+with its model for
+primordial nucleosynthesis,
+and at the same time look at the properties
+of the so-called Cosmic Microwave Background,
+one would get a figure for the matter
+content in the observable universe
+that is at least 30% too high
+with respect to the observations
+that is, if we directly sum up
+all the known mass content.
+I should note that this is not to be
+confused with dark matter problem
+that we've discussed in detail in
+some of the previous episodes.
+Dark matter was invented to solve
+the smaller scale problems
+with incorrect description
+of galactic rotation curves
+which roughly corresponds to spatial
+scales of 100,000 light years or so
+whereas in the case of missing baryons
+we're talking about intergalactic scales
+that are hundreds to
+thousands of times bigger.
+So in these two papers the researchers have
+tried to implement a new method of detection
+that potentially could solve
+the missing baryon problem
+capturing the yet unobserved
+fraction of matter
+and thus reconciling the observations
+with Big Bang hypothesis
+and hypothetical Cosmic
+Microwave Background.
+It is supposed in their work that one
+might observe the missing matter
+by looking for its emissions in consequence
+of the so-called Sunyaev-Zel'dovich effect.
+The effect is quite simple.
+Plainly put, when a low-energy photon
+encounters a high-energy charged particles,
+such as electron, it might interact
+with it and become more energetic.
+It is the so-called Inverse
+Compton scattering.
+So it is supposed that photons of the
+hypothesized Cosmic Microwave Background
+could also be scattered in such a way
+by the hot intergalactic plasma,
+thus increasing in energy and we might
+detect this more energetic signal
+on top of the supposed
+background radiation.
+Both research teams have
+devoted their efforts
+to looking for the electromagnetic
+signal of such sort.
+They've been looking at the
+data from Planck satellite
+in the frequency range from 30 to 857 gigahertz,
+that is microwave to far infrared range,
+for which the Planck research team have
+released the Compton scattering maps.
+They've compared these maps with the
+data from Sloan Digital Sky Survey
+to identify the actual sources of
+the signals received by Planck.
+The main attention was focused on
+the regions in-between galaxies
+where the contamination of the signal
+by the known sources, such as stars,
+is supposed to be minimal.
+The total sample used in the research
+included over a million of pairs of galaxies
+with average separation of
+about 30 million light-years.
+So what they found was a
+quite noticeable signal
+coming from the regions
+in-between galaxies.
+The authors conclude that these galaxies
+must be connected by the plasma filaments
+that are supposedly providing additional energy
+to the Cosmic Microwave Background photons,
+so in these areas we see a
+stronger signal from it.
+So the minimalistic conclusion that
+one might make from this research
+is that it confirms the existence
+of intergalactic plasma filaments
+which is of course no surprise from
+the Electric Universe perspective.
+The authors claim that the supposed
+density of those filaments
+is enough to solve the missing baryon problem
+in the standard cosmological scenario.
+Be that as it may, as
+I've noted before,
+for our purposes it might be productive to
+analyze the assumptions that have been made
+and see if their revision might
+provide additional insights.
+In order to do that, I would like to
+remember Pierre Marie Robitaille's work
+on Cosmic Microwave Background.
+In short, his independent
+research shows that the signal
+that is considered to be a
+Cosmic Microwave Background,
+might actually be generated
+by the Earth's oceans.
+These oceanic emissions are then
+scattered by the Earth's atmosphere
+and are thus apparently
+coming from all directions.
+The microwave background was also observed
+from low Earth orbit by COBE mission
+but, as Robitaille has shown, the
+signals received in this case
+resemble the ones that
+will be coming from Earth
+and undergoing diffraction on
+the edges of the horn-antennas.
+One has to remember that even at
+about 900 kilometers altitude,
+where the COBE satellite
+was positioned,
+the Earth still blocks more than the
+quarter of the whole celestial sphere.
+Planck satellite was positioned
+much farther than that,
+about 1.5 million kilometres from
+Earth, at the Lagrange L2 point.
+An independent analysis shows that it should
+detect virtually no microwaves from Earth,
+so there should be no
+Cosmic Microwave Background
+detected by Planck in
+Robitaille's theory.
+Contrary to that, the research
+team working on the Planck mission
+have claimed to have detected the
+microwave background signal.
+But Robitaille's analysis of
+the Planck's instrument layout
+seemed to indicate that its
+readings have been misinterpreted
+because of the flaws in the design of the
+reference loads onboard the satellite.
+These loads were supposed to be giving off
+thermal radiation at about 4 Kelvin temperature
+but because of the almost
+perfect heat conduction,
+allowed by the design
+of the instrument,
+the favorable way of transmitting heat
+and achieving thermal equilibrium
+was through conduction,
+not radiation,
+making the laws of thermal radiation
+inapplicable in this case.
+So according to Robitaille,
+Planck satellite reference loads
+were giving off near-zero
+thermal radiative signal
+and as the instrument was
+matching this near-zero signal
+to the signal received by the
+antenna pointed into space,
+which also yielded
+near-zero reading,
+the detector showed a good match
+and a strong output signal.
+I should note that there
+was another mission
+that supposedly observed Cosmic
+Microwave Background far from Earth.
+It was a Soviet experiment RELIKT-1
+on board of the Prognoz 9 spacecraft.
+It had an apogee of about
+700,000 kilometers
+from where it made observations
+of the background radiation
+as well as some
+other measurements.
+It would be interesting to hear Dr.
+Robitaille's comment on that.
+Anyway, if Robitaille's
+theory is correct,
+then of course Big Bang Theory
+loses one of its main arguments.
+Well, Big Bang contradicts
+all the known physics laws,
+namely the conservation laws and the
+causality, so it's not that big of a loss.
+But let us look at the findings outlined
+before, to see what the complete absence
+or at least the significant weakness of
+the Microwave Background would mean.
+First of all, the Compton scattering
+maps, used in aforementioned research,
+come from the combination of data
+from both the high frequency
+and low frequency instruments
+of the Planck satellite,
+and it was the low
+frequency instrument
+that supposedly detected the
+background signal in the first place.
+Now, let us imagine that we subtract this low
+frequency background signal from the map since,
+according to Robitaille's
+theory, it is false.
+This would leave us a lower
+near-zero background
+but the higher frequency part characteristic of
+the detected filaments would remain in place
+and become even stronger in comparison
+to the now lower baseline signal.
+It's as if one would look at
+Hawaiian mountain Mauna Kea
+after lowering the water line
+to the ocean floor level.
+The mountain would actually stand
+higher than the Mount Everest.
+Though if it is partly hidden by the so-to-speak
+background of the surrounding water,
+it would appear to be much
+less prominent as it does now.
+So if Robitaille is correct,
+their observations seem to show
+that the detected filaments
+are actually brighter
+than what would be
+expected otherwise.
+Now the question arises about the
+nature of the observed emissions.
+They might indeed be caused by
+the Sunyaev-Zel'dovich effect
+but now the initial
+low-energy photons
+would not come from a hypothetical
+remnant of the Big Bang
+but rather be produced
+by real objects
+such as dust, stars, galaxies
+and other plasma structures
+emitting electromagnetic waves
+over the whole spectral range.
+These emissions might not
+bear the thermal spectrum
+that is expected for the Cosmic Microwave
+Background in the Big Bang scenario.
+Moreover, if these background
+emissions would, on average,
+yield a lower photonic
+flux in the given range,
+then the model used
+by the authors
+would underestimate the density of
+the filaments and their temperature.
+There are other
+possibilities, of course.
+The registered photons might not
+result from some scattering process
+but actually be emitted by these
+plasma filaments themselves.
+In fact, in this case they could be subject
+to Regular, not Inverse, Compton effect
+and initially have a higher energy
+than that detected by Planck.
+They might give off some
+portion of their energy
+to the charged particles in the filaments
+and the colder surrounding plasma.
+This, of course, also leads to the
+conclusion that the detected filaments
+could be more dense and more energetic than
+what follows from the Big Bang interpretation.
+Then there is also a scenario in which
+these photons might be the result
+of the intergalactic currents that shape
+the filaments in the first place.
+The energy range of photons,
+that Planck was able to detect,
+corresponds to one
+milli-electron volts or so.
+So any of those photons could
+be emitted by an electron
+that was accelerated by one
+milli-volt of potential difference
+and here we assume that it has lost all
+of its energy to the outcoming photon.
+But in reality, this emission might represent
+only a tiny fraction of the electron energy.
+We don't really
+know any of that,
+and depending on the actual nature of the
+processes that lead to this emission,
+it might have very different
+directional distribution.
+The filaments described
+in the mentioned research
+are observed in the direction
+perpendicular to the line of sight.
+Maybe when observed head-on, looking into
+the filament like into a barrel of a gun,
+one would get completely
+different readings etc.
+Now the energy gained from
+the electric potential
+would also depend on the length
+of the acceleration path.
+So if one underestimates
+the filament density
+and thus overestimates
+the acceleration length,
+one would come with a smaller overall
+potential difference measure than otherwise.
+So, to conclude my notes on this subject,
+I would like to repeat two key points;
+Firstly, under any
+possible scenario,
+this research acknowledges the existence
+of intergalactic plasma filaments
+that make up a significant portion
+of the matter in the universe.
+And secondly, depending
+on the used assumptions,
+one might get dramatically different picture
+of the parameters of those filaments
+and draw different conclusions about the
+processes that take place in these regions.
+Outside the Big Bang framework, the filaments
+might demonstrate higher temperatures,
+higher plasma densities and significant
+electric current and potential values.
+For continuous updates on Space
+News from the Electric Universe,
+stay tuned to
+Thunderbolts.info

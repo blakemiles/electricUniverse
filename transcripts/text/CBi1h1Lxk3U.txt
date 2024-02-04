@@ -1,0 +1,682 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe,",
+    "start": 7.11,
+    "duration": 2.903
+  },
+  {
+    "text": "brought to you by The\nThunderbolts Project™",
+    "start": 10.038,
+    "duration": 2.348
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 12.411,
+    "duration": 3.314
+  },
+  {
+    "text": "The following presentation is an\nadaptation of the Mel Acheson,",
+    "start": 16.451,
+    "duration": 4.247
+  },
+  {
+    "text": "Thunderbolts Picture of the\nDay article, 'Back to Basics',",
+    "start": 20.699,
+    "duration": 3.612
+  },
+  {
+    "text": "the link to the article may be found\nin the description box of this video.",
+    "start": 24.336,
+    "duration": 3.919
+  },
+  {
+    "text": "Newton, Einstein, Darwin and the\nother early explorers of science,",
+    "start": 28.652,
+    "duration": 5.155
+  },
+  {
+    "text": "discovered the new world of\nfundamental laws of reality",
+    "start": 33.808,
+    "duration": 4.026
+  },
+  {
+    "text": "and the scientists will come\nafter them are mere colonists.",
+    "start": 37.859,
+    "duration": 4.009
+  },
+  {
+    "text": "Continuing this line of thought,",
+    "start": 41.869,
+    "duration": 2.128
+  },
+  {
+    "text": "John Horgan writes in the end of science\nthat the late comers have only two choices,",
+    "start": 44.022,
+    "duration": 5.172
+  },
+  {
+    "text": "to apply those fundamental discoveries in\nthe construction of derivative theories",
+    "start": 49.219,
+    "duration": 5.171
+  },
+  {
+    "text": "or \"...to pursue science in a\nspeculative post empirical mode",
+    "start": 54.415,
+    "duration": 5.052
+  },
+  {
+    "text": "that I call ironic science...",
+    "start": 59.492,
+    "duration": 2.28
+  },
+  {
+    "text": "Ironic science offers points of view,\nopinions, which are, at best, interesting,",
+    "start": 61.797,
+    "duration": 5.86
+  },
+  {
+    "text": "which provoke further a comment.",
+    "start": 67.682,
+    "duration": 2.013
+  },
+  {
+    "text": "But it doesn't\nconverge on the truth.",
+    "start": 69.72,
+    "duration": 2.724
+  },
+  {
+    "text": "It cannot achieve empirically verifiable\nsurprises that forced scientists",
+    "start": 72.469,
+    "duration": 5.189
+  },
+  {
+    "text": "to make substantial revisions in\ntheir basic description of reality.\"",
+    "start": 77.683,
+    "duration": 3.805
+  },
+  {
+    "text": "Horgan classifies most modern\ntheories as ironic science.",
+    "start": 81.513,
+    "duration": 4.577
+  },
+  {
+    "text": "Super string theory",
+    "start": 86.115,
+    "duration": 1.68
+  },
+  {
+    "text": "and the inflationary Big Bang,",
+    "start": 87.82,
+    "duration": 1.998
+  },
+  {
+    "text": "and punctuated equilibrium.",
+    "start": 89.843,
+    "duration": 2.364
+  },
+  {
+    "text": "This interesting opinion provokes me\nto make a couple of further comments",
+    "start": 92.232,
+    "duration": 4.412
+  },
+  {
+    "text": "a \"basic description\" of reality is not\nthe same thing as fundamental laws.",
+    "start": 96.669,
+    "duration": 6.006
+  },
+  {
+    "text": "Fundamental laws or generalities",
+    "start": 102.7,
+    "duration": 2.732
+  },
+  {
+    "text": "reality is concrete.",
+    "start": 105.457,
+    "duration": 2.449
+  },
+  {
+    "text": "A description of reality\nasserts among other things",
+    "start": 107.931,
+    "duration": 3.456
+  },
+  {
+    "text": "which fundamental law applies\nin which real situation.",
+    "start": 111.412,
+    "duration": 4.242
+  },
+  {
+    "text": "Between the laws and reality\nlies the description",
+    "start": 115.679,
+    "duration": 3.497
+  },
+  {
+    "text": "in which scientists select\nwhich laws to apply.",
+    "start": 119.201,
+    "duration": 3.189
+  },
+  {
+    "text": "The accepted description\nof reality in astronomy",
+    "start": 122.415,
+    "duration": 3.098
+  },
+  {
+    "text": "asserts that only the law of\ngravity applies in space.",
+    "start": 125.538,
+    "duration": 3.985
+  },
+  {
+    "text": "The law can be Newton's\nor it can be Einsteins,",
+    "start": 129.548,
+    "duration": 3.446
+  },
+  {
+    "text": "but it cannot be Darwin's\nlaw of evolution.",
+    "start": 133.019,
+    "duration": 2.696
+  },
+  {
+    "text": "A description of astronomical\nreality based on Darwin's law",
+    "start": 135.74,
+    "duration": 3.929
+  },
+  {
+    "text": "probably wouldn't make any sense.",
+    "start": 139.694,
+    "duration": 1.935
+  },
+  {
+    "text": "But the point is that one law\nis selected and another is not.",
+    "start": 141.654,
+    "duration": 4.043
+  },
+  {
+    "text": "Even the particle physicists who\nlately have invaded astronomy",
+    "start": 145.722,
+    "duration": 3.883
+  },
+  {
+    "text": "select only certain\nfundamental laws",
+    "start": 149.63,
+    "duration": 2.495
+  },
+  {
+    "text": "on which to construct their basic\ndescription of atomic reality.",
+    "start": 152.15,
+    "duration": 4.132
+  },
+  {
+    "text": "This business of selection is so\nsimple as to be not worth mentioning.",
+    "start": 156.307,
+    "duration": 4.738
+  },
+  {
+    "text": "But not mentioning it leads\nto not paying attention to it",
+    "start": 161.07,
+    "duration": 3.54
+  },
+  {
+    "text": "which leads to skipping over it\nin the occasional circumstance",
+    "start": 164.635,
+    "duration": 3.555
+  },
+  {
+    "text": "when it may be important.",
+    "start": 168.215,
+    "duration": 1.957
+  },
+  {
+    "text": "My next comment of course\nis that it's important now.",
+    "start": 170.197,
+    "duration": 3.718
+  },
+  {
+    "text": "Horrigan and the scientists he interviewed\nfor his book have overlooked a deeper irony.",
+    "start": 173.94,
+    "duration": 5.331
+  },
+  {
+    "text": "While the theories of ironic\nscience have been unable to",
+    "start": 179.296,
+    "duration": 3.883
+  },
+  {
+    "text": "\"achieve empirically\nverifiable surprises\".",
+    "start": 183.18,
+    "duration": 3.499
+  },
+  {
+    "text": "Experimental and observational\nscience has produced a flood of them.",
+    "start": 186.68,
+    "duration": 4.22
+  },
+  {
+    "text": "Nearly every discovery\nof the space age",
+    "start": 190.925,
+    "duration": 3.094
+  },
+  {
+    "text": "from the Van Allen radiation\nbelts around the earth",
+    "start": 194.044,
+    "duration": 3.095
+  },
+  {
+    "text": "to the high velocity\nwinds around Neptune",
+    "start": 197.164,
+    "duration": 2.679
+  },
+  {
+    "text": "has been pronounced\nas a surprise.",
+    "start": 199.868,
+    "duration": 2.301
+  },
+  {
+    "text": "And the surprises have been\nsurprising precisely because",
+    "start": 202.194,
+    "duration": 3.693
+  },
+  {
+    "text": "they haven't verified the prevailing\nbasic description of reality.",
+    "start": 205.912,
+    "duration": 4.263
+  },
+  {
+    "text": "One might think a reasonable\nplan in this circumstance",
+    "start": 210.2,
+    "duration": 3.549
+  },
+  {
+    "text": "would be to take a second look at the\nfundamental laws selected for one's description.",
+    "start": 213.75,
+    "duration": 5.284
+  },
+  {
+    "text": "One doesn't have to resort to anything as\nridiculous as consider in Darwin's law.",
+    "start": 219.059,
+    "duration": 5.279
+  },
+  {
+    "text": "For instance the laws of electromagnetism\nhave been lying around for over a century",
+    "start": 224.363,
+    "duration": 5.653
+  },
+  {
+    "text": "mostly ignored except by a\nfew electrical engineers",
+    "start": 230.041,
+    "duration": 4.136
+  },
+  {
+    "text": "because you \"can't get charged\nseparation in space\".",
+    "start": 234.202,
+    "duration": 3.774
+  },
+  {
+    "text": "The problem is that scientists\nare like the horse led to water,",
+    "start": 238.001,
+    "duration": 3.934
+  },
+  {
+    "text": "neither the failure of ironic science\nto achieve empirical surprises",
+    "start": 241.96,
+    "duration": 4.786
+  },
+  {
+    "text": "nor the failure of achieved empirical\nsurprises to verify the accepted description",
+    "start": 246.771,
+    "duration": 5.131
+  },
+  {
+    "text": "can force scientists to drink basic\nprovisions if they don't want to.",
+    "start": 251.927,
+    "duration": 4.591
+  },
+  {
+    "text": "Selection is the result\nof wanting to choose",
+    "start": 256.519,
+    "duration": 3.273
+  },
+  {
+    "text": "and if you want to\ndefend a theory",
+    "start": 259.817,
+    "duration": 1.991
+  },
+  {
+    "text": "you can always find\nexpedient excuses.",
+    "start": 261.833,
+    "duration": 3.208
+  },
+  {
+    "text": "Almost nothing outside the solar\nsystem and a lot of things inside it",
+    "start": 265.066,
+    "duration": 5.029
+  },
+  {
+    "text": "don't obey either Einstein's\nor Newton's law of gravity.",
+    "start": 270.12,
+    "duration": 3.954
+  },
+  {
+    "text": "e.g. The stars in the arms of spiral\ngalaxies revolving about the same velocity",
+    "start": 274.099,
+    "duration": 5.594
+  },
+  {
+    "text": "instead of slowing down with\ndistance as gravity predicts.",
+    "start": 279.718,
+    "duration": 4.011
+  },
+  {
+    "text": "To make these observations fit the\ngravitational description of reality",
+    "start": 283.754,
+    "duration": 4.776
+  },
+  {
+    "text": "astronomers have chosen to\nhedge the fundamental law",
+    "start": 288.555,
+    "duration": 3.598
+  },
+  {
+    "text": "with a thicket of ironic opinions and\npoints of view that are not empirical.",
+    "start": 292.178,
+    "duration": 5.373
+  },
+  {
+    "text": "There might be appropriately\nconfigured halos of unseen dark matter",
+    "start": 297.576,
+    "duration": 4.742
+  },
+  {
+    "text": "outside the galaxies that\nproduce the observed velocities.",
+    "start": 302.319,
+    "duration": 4.147
+  },
+  {
+    "text": "This avoids the necessity\nof questioning fundamentals,",
+    "start": 306.491,
+    "duration": 4.13
+  },
+  {
+    "text": "but it turns the basic\ndescription of reality",
+    "start": 310.646,
+    "duration": 3.351
+  },
+  {
+    "text": "into an imaginative fantasy\nthat is explanatory",
+    "start": 314.022,
+    "duration": 3.243
+  },
+  {
+    "text": "but neither verifiable\nnor falsifiable.",
+    "start": 317.29,
+    "duration": 3.544
+  },
+  {
+    "text": "Modern theories with\nappropriate adjustments",
+    "start": 320.859,
+    "duration": 3.202
+  },
+  {
+    "text": "can explain everything\nand anything",
+    "start": 324.086,
+    "duration": 2.622
+  },
+  {
+    "text": "just as psychoanalysis\nwith childhood trauma.",
+    "start": 326.709,
+    "duration": 3.62
+  },
+  {
+    "text": "The dark matter of the mind\ncan explain any behavior.",
+    "start": 330.354,
+    "duration": 4.218
+  },
+  {
+    "text": "However the point of science\nis not merely to explain,",
+    "start": 334.597,
+    "duration": 3.948
+  },
+  {
+    "text": "but to find out which explanation\nis actually the case.",
+    "start": 338.57,
+    "duration": 3.849
+  },
+  {
+    "text": "For that you need more than one\nexplanation from which to choose.",
+    "start": 342.444,
+    "duration": 4.685
+  },
+  {
+    "text": "This object might\nbe a black hole,",
+    "start": 347.154,
+    "duration": 2.876
+  },
+  {
+    "text": "that object might be dark matter,",
+    "start": 350.055,
+    "duration": 2.784
+  },
+  {
+    "text": "having disallowed competition from\nfundamentally different theories.",
+    "start": 352.864,
+    "duration": 4.501
+  },
+  {
+    "text": "There's no way to tell if those\nobjects might be something else.",
+    "start": 357.39,
+    "duration": 4.074
+  },
+  {
+    "text": "Verification alone is inadequate.",
+    "start": 361.489,
+    "duration": 2.633
+  },
+  {
+    "text": "You need to search for alternatives\nand to test them to gain reliability.",
+    "start": 364.147,
+    "duration": 4.952
+  },
+  {
+    "text": "Planting more hedges of ad-hoc hypotheses\naround the fundamental law of gravity",
+    "start": 369.124,
+    "duration": 5.35
+  },
+  {
+    "text": "may appeal to ironic scientists.",
+    "start": 374.499,
+    "duration": 2.554
+  },
+  {
+    "text": "But other scientists",
+    "start": 377.078,
+    "duration": 1.637
+  },
+  {
+    "text": "mostly outside astronomy are more\ninclined toward empirical results.",
+    "start": 378.74,
+    "duration": 5.148
+  },
+  {
+    "text": "The new field of plasma cosmology has\nadmitted Maxwell's laws of electromagnetism",
+    "start": 383.913,
+    "duration": 5.747
+  },
+  {
+    "text": "to the description of\nastronomical reality.",
+    "start": 389.685,
+    "duration": 3.074
+  },
+  {
+    "text": "The properties of electrical discharges\napplied to the phenomena of space",
+    "start": 392.784,
+    "duration": 4.592
+  },
+  {
+    "text": "by such pioneers as Birkeland,",
+    "start": 397.401,
+    "duration": 1.964
+  },
+  {
+    "text": "Langmuir",
+    "start": 399.39,
+    "duration": 1.672
+  },
+  {
+    "text": "and Alfvén explained the new\ndiscoveries without ironic fantasies.",
+    "start": 401.087,
+    "duration": 5.538
+  },
+  {
+    "text": "The revised description\nexpects the observations",
+    "start": 406.65,
+    "duration": 3.591
+  },
+  {
+    "text": "that are surprising to the\nstandard gravity only version.",
+    "start": 410.266,
+    "duration": 3.427
+  },
+  {
+    "text": "And this electrical description is\ndirectly verifiable in plasma labs.",
+    "start": 413.718,
+    "duration": 5.437
+  },
+  {
+    "text": "Dark matter and 10 dimensional\nsuper strings are not.",
+    "start": 419.18,
+    "duration": 4.227
+  },
+  {
+    "text": "The reality we think we see\nis constantly being revised",
+    "start": 423.432,
+    "duration": 4.023
+  },
+  {
+    "text": "by what we actually see of\na partially known reality.",
+    "start": 427.48,
+    "duration": 3.459
+  },
+  {
+    "text": "Usually the revisions\nare superficial,",
+    "start": 430.964,
+    "duration": 2.463
+  },
+  {
+    "text": "but there have been times\nin the history of thought",
+    "start": 433.452,
+    "duration": 2.65
+  },
+  {
+    "text": "when the revisions have\nreached to the basics.",
+    "start": 436.127,
+    "duration": 2.632
+  },
+  {
+    "text": "Plasma cosmology hasn't\ndiscovered a new fundamental law",
+    "start": 438.784,
+    "duration": 4.485
+  },
+  {
+    "text": "it merely replaces one law\n- gravity -",
+    "start": 443.294,
+    "duration": 3.098
+  },
+  {
+    "text": "with another\n- electromagnetism -",
+    "start": 446.417,
+    "duration": 2.512
+  },
+  {
+    "text": "but the effect on the basic\ndescription of astronomical reality",
+    "start": 448.954,
+    "duration": 4.078
+  },
+  {
+    "text": "is as great as if a new\nlaw had been discovered.",
+    "start": 453.057,
+    "duration": 3.444
+  },
+  {
+    "text": "We think we see an\nentirely new reality",
+    "start": 456.526,
+    "duration": 3.606
+  },
+  {
+    "text": "this shouldn't be a surprise!",
+    "start": 460.157,
+    "duration": 2.488
+  },
+  {
+    "text": "The Space Age has brought substantial\nrevisions in instrumentation",
+    "start": 462.67,
+    "duration": 3.984
+  },
+  {
+    "text": "allowing us to sense the entire\nelectromagnetic spectrum.",
+    "start": 466.679,
+    "duration": 3.835
+  },
+  {
+    "text": "From radio wavelengths\nto gamma wavelengths.",
+    "start": 470.539,
+    "duration": 3.48
+  },
+  {
+    "text": "For the first time\nin human history",
+    "start": 474.044,
+    "duration": 2.72
+  },
+  {
+    "text": "we are not restricted to an\nanthropocentric sensory viewpoint.",
+    "start": 476.789,
+    "duration": 4.607
+  },
+  {
+    "text": "The Space Age has also brought\nsubstantial revisions in location",
+    "start": 481.421,
+    "duration": 4.008
+  },
+  {
+    "text": "allowing us to sense the cosmos from\npositions off the Earth's surface.",
+    "start": 485.43,
+    "duration": 4.909
+  },
+  {
+    "text": "For the first time\nin human history,",
+    "start": 490.364,
+    "duration": 2.488
+  },
+  {
+    "text": "we are not restricted to a\ngeocentric positional viewpoint.",
+    "start": 492.877,
+    "duration": 3.887
+  },
+  {
+    "text": "We should expect these\nrevisions in basic viewpoint",
+    "start": 496.789,
+    "duration": 3.301
+  },
+  {
+    "text": "to be accompanied by a revision in the\nbasic description of the reality viewed.",
+    "start": 500.115,
+    "duration": 5.212
+  },
+  {
+    "text": "The ultimate irony would be that\nin the face of our liberation",
+    "start": 505.352,
+    "duration": 3.931
+  },
+  {
+    "text": "from an anthropocentric\nand geocentric viewpoint.",
+    "start": 509.308,
+    "duration": 3.085
+  },
+  {
+    "text": "We would be unable or unwilling\nto liberate ourselves",
+    "start": 512.418,
+    "duration": 3.787
+  },
+  {
+    "text": "from a traditional way of\nthinking about reality.",
+    "start": 516.23,
+    "duration": 3.469
+  }
+]

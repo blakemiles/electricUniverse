@@ -1,0 +1,1027 @@
+[
+  {
+    "text": "Welcome to the Electricity of Life,",
+    "start": 8.05,
+    "duration": 2.24
+  },
+  {
+    "text": "brought to you by The Thunderbolts\nProject™ at Thunderbolts.info",
+    "start": 10.29,
+    "duration": 5.06
+  },
+  {
+    "text": "In part 1 of this presentation, Dr.\nJerry Tennant introduced us to his",
+    "start": 15.35,
+    "duration": 4.75
+  },
+  {
+    "text": "extraordinary research into the complex\nelectrical circuitry of the human body.",
+    "start": 20.1,
+    "duration": 4.75
+  },
+  {
+    "text": "Since his own remarkable battle\nwith debilitating illness,",
+    "start": 24.85,
+    "duration": 4.0
+  },
+  {
+    "text": "Dr. Tennant has worked to develop a kind\nof map of this circuitry, illuminating",
+    "start": 28.85,
+    "duration": 4.66
+  },
+  {
+    "text": "its essential connection\nto physical well-being.",
+    "start": 33.51,
+    "duration": 2.92
+  },
+  {
+    "text": "In the previous episode, Dr.Tennant discussed the\nparticular significance of the circuitry connecting",
+    "start": 36.47,
+    "duration": 5.47
+  },
+  {
+    "text": "teeth to other regions of the body.",
+    "start": 41.94,
+    "duration": 2.61
+  },
+  {
+    "text": "The concept of illness arising from\nelectrical imbalances is, of course,",
+    "start": 44.55,
+    "duration": 3.98
+  },
+  {
+    "text": "unconventional in modern\nWestern medicine.",
+    "start": 48.53,
+    "duration": 2.93
+  },
+  {
+    "text": "However, the application of electromagnetic\ntherapies in healing is not new.",
+    "start": 51.46,
+    "duration": 5.25
+  },
+  {
+    "text": "In this conclusion, we asked Dr. Tennant\nto begin by discussing some of the",
+    "start": 56.71,
+    "duration": 4.61
+  },
+  {
+    "text": "earliest examples of the use of\nelectromagnetism as a physical remedy.",
+    "start": 61.32,
+    "duration": 5.13
+  },
+  {
+    "text": "Well, interesting question.",
+    "start": 66.65,
+    "duration": 1.01
+  },
+  {
+    "text": "If you go back in time, in the 1800's and early\n1900's, electromagnetic therapies of a variety",
+    "start": 67.76,
+    "duration": 8.32
+  },
+  {
+    "text": "of forms were commonplace.",
+    "start": 76.08,
+    "duration": 4.14
+  },
+  {
+    "text": "But that changed in about 1910 when Andrew\nCarnegie and John D. Rockefeller decided",
+    "start": 80.22,
+    "duration": 7.43
+  },
+  {
+    "text": "to become the major investors in the\npharmaceutical industry.",
+    "start": 87.65,
+    "duration": 4.6
+  },
+  {
+    "text": "And so they had a report written called the\n'Flexner Report' which they then took to Congress.",
+    "start": 92.35,
+    "duration": 7.24
+  },
+  {
+    "text": "At that time there were, I think, 13\nhomeopathic medical schools in this",
+    "start": 99.59,
+    "duration": 5.5
+  },
+  {
+    "text": "country and again, most physicians were\nusing some sort of electromagnetic therapies.",
+    "start": 105.09,
+    "duration": 5.0
+  },
+  {
+    "text": "Well, the Flexner Report got Congress to\nforbid the use of any federal money for",
+    "start": 110.09,
+    "duration": 7.18
+  },
+  {
+    "text": "anyone who said there was energy\nin the body, so that that closed",
+    "start": 117.27,
+    "duration": 4.34
+  },
+  {
+    "text": "the thirteen homeopathic medical schools\nand then, any physician who was using",
+    "start": 121.61,
+    "duration": 4.53
+  },
+  {
+    "text": "an electronic device to treat\npatients got put in jail.",
+    "start": 126.14,
+    "duration": 4.98
+  },
+  {
+    "text": "Well, that set up pretty much of a\nchilling effect and that's",
+    "start": 131.12,
+    "duration": 2.21
+  },
+  {
+    "text": "how our country stopped looking at\nenergy in the body and that was the case",
+    "start": 133.33,
+    "duration": 7.98
+  },
+  {
+    "text": "until Nixon went to China, saw some of\nthe people in his entourage undergo",
+    "start": 141.31,
+    "duration": 6.69
+  },
+  {
+    "text": "surgery with acupuncture and came back\nand told the NIH he wanted",
+    "start": 148.0,
+    "duration": 4.56
+  },
+  {
+    "text": "acupuncture to be part of\ntraditional medicine.",
+    "start": 152.56,
+    "duration": 3.45
+  },
+  {
+    "text": "But even though that was what\nthe NIH was instructed to do, the",
+    "start": 156.01,
+    "duration": 9.72
+  },
+  {
+    "text": "people who control medicine in this\ncountry basically continued to ignore it.",
+    "start": 165.73,
+    "duration": 4.02
+  },
+  {
+    "text": "So, for example, many states including my\nstate of Texas forbids the use of",
+    "start": 169.75,
+    "duration": 5.58
+  },
+  {
+    "text": "anything that's not standard\nof care medicine.",
+    "start": 175.33,
+    "duration": 2.82
+  },
+  {
+    "text": "So what is standard of care medicine?",
+    "start": 178.15,
+    "duration": 2.3
+  },
+  {
+    "text": "Well, a group of physicians and\ninsurance people and so forth sat around",
+    "start": 180.45,
+    "duration": 6.13
+  },
+  {
+    "text": "a table and said okay, if you make this\ndiagnosis you must treat it this way.",
+    "start": 186.58,
+    "duration": 5.36
+  },
+  {
+    "text": "And originally they said, these\nare going to be suggestions in order to",
+    "start": 191.94,
+    "duration": 4.48
+  },
+  {
+    "text": "improve the quality of care.",
+    "start": 196.42,
+    "duration": 2.28
+  },
+  {
+    "text": "But of course, that wasn't the plan.",
+    "start": 198.7,
+    "duration": 1.17
+  },
+  {
+    "text": "The plan was to make those\nthe law and so it has de facto",
+    "start": 199.88,
+    "duration": 5.0
+  },
+  {
+    "text": "become that so if you go to a\nphysician and the physician says you",
+    "start": 204.9,
+    "duration": 5.5
+  },
+  {
+    "text": "have this diagnosis and this diagnosis\ncode then the physician must treat you",
+    "start": 210.4,
+    "duration": 4.98
+  },
+  {
+    "text": "according to those guidelines.",
+    "start": 215.38,
+    "duration": 1.82
+  },
+  {
+    "text": "If he doesn't, he loses his license and he's\nconsidered guilty of malpractice de facto.",
+    "start": 217.2,
+    "duration": 3.78
+  },
+  {
+    "text": "So even if a physician knows that",
+    "start": 220.98,
+    "duration": 3.09
+  },
+  {
+    "text": "that's not going to harm you,\nthere's nothing to do about it.",
+    "start": 224.08,
+    "duration": 3.47
+  },
+  {
+    "text": "Even if the physician knows there's\na better way to treat you",
+    "start": 227.55,
+    "duration": 2.68
+  },
+  {
+    "text": "there's nothing to do about it.",
+    "start": 230.23,
+    "duration": 1.22
+  },
+  {
+    "text": "Even if 10 universities and medical\nschools have proven there's a better",
+    "start": 231.45,
+    "duration": 5.62
+  },
+  {
+    "text": "treatment, the physicians can't\nuse that until that committee says",
+    "start": 237.07,
+    "duration": 4.91
+  },
+  {
+    "text": "that it's become standard of care.",
+    "start": 241.98,
+    "duration": 2.68
+  },
+  {
+    "text": "Most people don't know that\nbut what that does then",
+    "start": 244.66,
+    "duration": 2.6
+  },
+  {
+    "text": "is, it puts the control of how\nmedical care is delivered in this",
+    "start": 247.26,
+    "duration": 4.06
+  },
+  {
+    "text": "country in the hands of the small group\nof people who make up the rules of",
+    "start": 251.32,
+    "duration": 6.44
+  },
+  {
+    "text": "standard of care and those are all slanted toward\npharmaceutical surgical medicine, you see.",
+    "start": 257.76,
+    "duration": 6.27
+  },
+  {
+    "text": "So that's why people like me have to say\nwell, everything that I say is using my",
+    "start": 265.33,
+    "duration": 7.17
+  },
+  {
+    "text": "Arizona MDH license and\nnot my Texas license.",
+    "start": 272.5,
+    "duration": 2.75
+  },
+  {
+    "text": "Because I'm not allowed in the\nstate of Texas to tell you what I'm",
+    "start": 275.25,
+    "duration": 5.34
+  },
+  {
+    "text": "telling you, I have to use my\nArizona license to do so.",
+    "start": 280.59,
+    "duration": 3.47
+  },
+  {
+    "text": "You know, medicine in this\ncountry is the most controlled, most",
+    "start": 284.16,
+    "duration": 3.64
+  },
+  {
+    "text": "supervised, most controlled business if\nyou please, of anything in the country.",
+    "start": 287.8,
+    "duration": 6.0
+  },
+  {
+    "text": "No other industry is more controlled\nthan the practice of medicine.",
+    "start": 293.8,
+    "duration": 4.71
+  },
+  {
+    "text": "The effort to push it into things that work\nis constantly being suppressed even to the",
+    "start": 298.52,
+    "duration": 6.67
+  },
+  {
+    "text": "place of physicians losing their\nlivelihood in order to prevent that.",
+    "start": 305.19,
+    "duration": 5.09
+  },
+  {
+    "text": "Now, even though medical schools, most medical\nschools now have a division of",
+    "start": 310.38,
+    "duration": 6.33
+  },
+  {
+    "text": "Integrative Medicine where they teach\nthis, it puts the physician in a very",
+    "start": 316.71,
+    "duration": 5.56
+  },
+  {
+    "text": "difficult position because the physician\ncomes out of medical school knowing that",
+    "start": 322.27,
+    "duration": 3.32
+  },
+  {
+    "text": "that's a useful thing to do but the\nstate medical boards won't allow it.",
+    "start": 325.59,
+    "duration": 4.56
+  },
+  {
+    "text": "It's a very difficult thing so what I have to do\nis, I practice as a private expressive association.",
+    "start": 330.15,
+    "duration": 6.97
+  },
+  {
+    "text": "So the Supreme Court has had\n72 different opinions given that",
+    "start": 337.13,
+    "duration": 7.06
+  },
+  {
+    "text": "says that legislators make laws to\nprotect the public but the people in a",
+    "start": 344.19,
+    "duration": 6.25
+  },
+  {
+    "text": "private group like a church group, a\nsports group and so forth are not the public.",
+    "start": 350.44,
+    "duration": 6.18
+  },
+  {
+    "text": "And that any private group may do",
+    "start": 356.63,
+    "duration": 2.87
+  },
+  {
+    "text": "anything they want to do as long as what\nthey do is not a clear and present",
+    "start": 359.5,
+    "duration": 4.22
+  },
+  {
+    "text": "danger that rises to the level\nof a substantive evil.",
+    "start": 363.72,
+    "duration": 4.35
+  },
+  {
+    "text": "You may not have ever\nwondered why don't the police arrest",
+    "start": 368.09,
+    "duration": 3.79
+  },
+  {
+    "text": "boxers because it's against the law to\ngo around slugging each other?",
+    "start": 371.88,
+    "duration": 4.36
+  },
+  {
+    "text": "Well, it's because boxing clubs are private\nexpressive associations as defined by the",
+    "start": 376.24,
+    "duration": 4.16
+  },
+  {
+    "text": "US Supreme Court and so even though\nboxing is a clear and present danger,",
+    "start": 380.4,
+    "duration": 4.56
+  },
+  {
+    "text": "it does not rise to the level of a\nsubstantive evil and so they don't get arrested.",
+    "start": 384.96,
+    "duration": 5.42
+  },
+  {
+    "text": "However, if religious people sexually\nassault their parishioners, that does",
+    "start": 390.38,
+    "duration": 7.25
+  },
+  {
+    "text": "rise to the level of a\nsubstantive evil, and therefore the",
+    "start": 397.63,
+    "duration": 3.3
+  },
+  {
+    "text": "police can go and arrest a priest, a rabbi\nor whatever for sexual abuse, you see.",
+    "start": 400.93,
+    "duration": 7.26
+  },
+  {
+    "text": "So for example that's the way I practice.\nI don't practice, my practice isn't open",
+    "start": 408.19,
+    "duration": 5.55
+  },
+  {
+    "text": "to the public in the sense that if you\nwant to come see me you must join my",
+    "start": 413.74,
+    "duration": 3.87
+  },
+  {
+    "text": "private expressive association to become\na member of my group and then I can tell",
+    "start": 417.61,
+    "duration": 5.16
+  },
+  {
+    "text": "you what's in the medical literature rather than\nhave to treat you with the standard care.",
+    "start": 422.77,
+    "duration": 5.23
+  },
+  {
+    "text": "If the health of living\ncells is governed by voltage then an",
+    "start": 428.0,
+    "duration": 3.62
+  },
+  {
+    "text": "obvious concern in modern society is the",
+    "start": 431.62,
+    "duration": 2.58
+  },
+  {
+    "text": "rapidly growing pervasiveness\nof wireless technologies.",
+    "start": 434.2,
+    "duration": 3.6
+  },
+  {
+    "text": "We asked Dr. Tennant to\nidentify some of the greatest",
+    "start": 437.82,
+    "duration": 2.74
+  },
+  {
+    "text": "obstacles we should be aware of today.",
+    "start": 440.56,
+    "duration": 1.94
+  },
+  {
+    "text": "Well, there's no doubt that we have all\nsorts of things that affect us.",
+    "start": 442.5,
+    "duration": 7.66
+  },
+  {
+    "text": "You know, for example, if I had you hold your\narm straight out and check the push down",
+    "start": 450.16,
+    "duration": 6.72
+  },
+  {
+    "text": "on it, you would be strong, and then if I\nhad you take a wristwatch with a battery",
+    "start": 456.88,
+    "duration": 4.77
+  },
+  {
+    "text": "in it and hold it right up against your chest\nand I pushed on your arm, you would go weak.",
+    "start": 461.65,
+    "duration": 4.51
+  },
+  {
+    "text": "So again, when we put electromagnetic\nenergy within our",
+    "start": 466.17,
+    "duration": 4.9
+  },
+  {
+    "text": "personal magnetic field, it weakens\nus, our particular frequencies weaken us.",
+    "start": 471.07,
+    "duration": 5.44
+  },
+  {
+    "text": "And so we're being bombarded with\nthat sort of thing all the time.",
+    "start": 476.51,
+    "duration": 4.52
+  },
+  {
+    "text": "Here's the bottom line\nof the whole thing.",
+    "start": 481.03,
+    "duration": 2.73
+  },
+  {
+    "text": "We are constantly wearing ourselves out,\nso you get new cells in the macula of your",
+    "start": 483.76,
+    "duration": 5.73
+  },
+  {
+    "text": "eye every 48 hours, the lining of your\nguts replaced every three days, the skin",
+    "start": 489.49,
+    "duration": 5.22
+  },
+  {
+    "text": "you're sitting in today is six weeks old,\nyour liver is eight weeks old, and your",
+    "start": 494.71,
+    "duration": 4.05
+  },
+  {
+    "text": "nervous system eight months old, so as\ncells wear out you have to make new ones.",
+    "start": 498.76,
+    "duration": 4.38
+  },
+  {
+    "text": "Or if the cells get damaged some way,",
+    "start": 503.14,
+    "duration": 2.04
+  },
+  {
+    "text": "you have to make new ones\nso chronic disease",
+    "start": 505.18,
+    "duration": 2.88
+  },
+  {
+    "text": "only occurs when you\nlose the ability to",
+    "start": 508.06,
+    "duration": 2.34
+  },
+  {
+    "text": "make new cells that work.",
+    "start": 510.4,
+    "duration": 2.4
+  },
+  {
+    "text": "Let me say that one more time,\nchronic disease only",
+    "start": 512.8,
+    "duration": 1.74
+  },
+  {
+    "text": "occurs when you lose the ability to make\nnew cells that work, which leads one to the",
+    "start": 514.54,
+    "duration": 4.92
+  },
+  {
+    "text": "question of, well, what's it take\nto make new cells that work?",
+    "start": 519.46,
+    "duration": 3.6
+  },
+  {
+    "text": "Well, first of all, where cells\nrun at minus 25 millivolts",
+    "start": 523.06,
+    "duration": 2.85
+  },
+  {
+    "text": "of energy it takes minus 50 millivolts\nto make a new cell, so you have to have",
+    "start": 525.91,
+    "duration": 4.98
+  },
+  {
+    "text": "the voltage, then you have to have\nall the parts it takes to make a cell.",
+    "start": 530.89,
+    "duration": 2.92
+  },
+  {
+    "text": "You know, if tornado blows your house\ndown, you can't build a house back",
+    "start": 533.81,
+    "duration": 5.07
+  },
+  {
+    "text": "with door knobs and bathroom tiles.",
+    "start": 538.88,
+    "duration": 3.33
+  },
+  {
+    "text": "You have to have everything it takes to make\na house and that's one of the big",
+    "start": 542.21,
+    "duration": 3.24
+  },
+  {
+    "text": "mistakes people make when they say,\nI'm trying to get well, and you say well,",
+    "start": 545.45,
+    "duration": 3.6
+  },
+  {
+    "text": "take this stuff!",
+    "start": 549.05,
+    "duration": 2.51
+  },
+  {
+    "text": "They come back later and you say well,\nare you still taking all this stuff?",
+    "start": 551.56,
+    "duration": 2.7
+  },
+  {
+    "text": "No, I just wanted to know what\nthing, what one thing works so I've just",
+    "start": 554.27,
+    "duration": 3.6
+  },
+  {
+    "text": "been taking one thing at a time.\nWell nothing works, you see what I'm",
+    "start": 557.87,
+    "duration": 3.84
+  },
+  {
+    "text": "saying, again, that concept of I want\nto know what works, won't work because",
+    "start": 561.71,
+    "duration": 5.61
+  },
+  {
+    "text": "you have to have everything it takes to\nmake a cell and that's the nutrition",
+    "start": 567.32,
+    "duration": 3.57
+  },
+  {
+    "text": "piece of course. So we have to have 50\nmillivolts of energy, we have to have all",
+    "start": 570.89,
+    "duration": 3.99
+  },
+  {
+    "text": "the parts it takes to make a cell, and we\nhave to get rid of any toxins that",
+    "start": 574.88,
+    "duration": 3.54
+  },
+  {
+    "text": "damage cells as fast as you make them.",
+    "start": 578.42,
+    "duration": 3.06
+  },
+  {
+    "text": "So if you don't do all three of those\nthings, you won't get well.",
+    "start": 581.48,
+    "duration": 5.01
+  },
+  {
+    "text": "One then goes in and looks\nat each of those",
+    "start": 586.49,
+    "duration": 1.89
+  },
+  {
+    "text": "so for example, the voltage piece; we're able\nto measure the voltages in the circuits",
+    "start": 588.38,
+    "duration": 6.99
+  },
+  {
+    "text": "using something similar to\nNakatani et al. methodology,",
+    "start": 595.37,
+    "duration": 3.03
+  },
+  {
+    "text": "but one of the important\nthings to understand is that it's well",
+    "start": 598.4,
+    "duration": 5.34
+  },
+  {
+    "text": "known in battery technology that if\nyou take a rechargeable battery and you",
+    "start": 603.74,
+    "duration": 4.44
+  },
+  {
+    "text": "drain it all the way to zero, it'll flip\nitself upside down, it flips the polarity.",
+    "start": 608.18,
+    "duration": 4.65
+  },
+  {
+    "text": "So if you take a battery upside down put it\nin a battery charger, it won't take a charge",
+    "start": 612.83,
+    "duration": 3.0
+  },
+  {
+    "text": "of course. So what we do is we go through\nand we can measure the polarity of every",
+    "start": 615.83,
+    "duration": 4.77
+  },
+  {
+    "text": "circuit in your body and figure out\nwhich ones are upside-down and those are",
+    "start": 620.6,
+    "duration": 4.35
+  },
+  {
+    "text": "the ones where you're going to be sick.\nBecause you don't have juice and they",
+    "start": 624.95,
+    "duration": 3.84
+  },
+  {
+    "text": "are low circuits that are trying to borrow\nvoltage from the next-door neighbors.",
+    "start": 628.79,
+    "duration": 4.47
+  },
+  {
+    "text": "But I like to say, the neighbors will give\nyou a cup of sugar now and then but they",
+    "start": 633.26,
+    "duration": 3.03
+  },
+  {
+    "text": "won't give you three meals a day.\nThere are two kinds of energy in the universe",
+    "start": 636.29,
+    "duration": 3.9
+  },
+  {
+    "text": "that I'm aware of, electromagnetic and\nthen scalar, and of course scalar has the",
+    "start": 640.19,
+    "duration": 5.19
+  },
+  {
+    "text": "ability to reverse the\npolarity back to normal.",
+    "start": 645.38,
+    "duration": 1.8
+  },
+  {
+    "text": "So we have a device that will do\nthat, called a bio transducer, and we",
+    "start": 647.18,
+    "duration": 6.12
+  },
+  {
+    "text": "simply can put it on one of the\nacupuncture spots in the body and all",
+    "start": 653.3,
+    "duration": 5.78
+  },
+  {
+    "text": "your batteries get turned back up.",
+    "start": 659.08,
+    "duration": 1.78
+  },
+  {
+    "text": "Of course, they're still discharged.",
+    "start": 660.86,
+    "duration": 2.76
+  },
+  {
+    "text": "Then we take the bio modulator\nwhich puts out a specific",
+    "start": 663.62,
+    "duration": 2.55
+  },
+  {
+    "text": "waveform and recharge your\nbatteries back up.",
+    "start": 666.17,
+    "duration": 4.26
+  },
+  {
+    "text": "Now your battery has power again\nand then the body never",
+    "start": 670.43,
+    "duration": 2.88
+  },
+  {
+    "text": "forgets how to repair itself, just that\nit has to have the power to do it, has to",
+    "start": 673.31,
+    "duration": 5.88
+  },
+  {
+    "text": "have the materials to do it.",
+    "start": 679.19,
+    "duration": 2.69
+  },
+  {
+    "text": "So no matter what's wrong with you,\nagain, you asked me",
+    "start": 681.88,
+    "duration": 2.05
+  },
+  {
+    "text": "about neurology, nephrology, cardiology,\nany of the -ologies.",
+    "start": 683.93,
+    "duration": 6.89
+  },
+  {
+    "text": "You treat them all the same way,\nbecause they're all sick",
+    "start": 690.82,
+    "duration": 2.47
+  },
+  {
+    "text": "for the same reason, they lost the\nability to make new cells that work",
+    "start": 693.29,
+    "duration": 4.22
+  },
+  {
+    "text": "and/or they lost the power to run.",
+    "start": 697.51,
+    "duration": 3.1
+  },
+  {
+    "text": "You can't have a heart that works if it's trying to\nrun on five millivolts instead of 25 millivolts, right?",
+    "start": 700.61,
+    "duration": 6.15
+  },
+  {
+    "text": "You can't have a macula\nin your eye that works.",
+    "start": 706.86,
+    "duration": 3.97
+  },
+  {
+    "text": "All macular degeneration is because you've lost\npower in the stomach circuit which is",
+    "start": 710.83,
+    "duration": 5.05
+  },
+  {
+    "text": "the power, the stomach circuit, acupuncture\ncircuit, is the power supply to the macula.",
+    "start": 715.88,
+    "duration": 3.66
+  },
+  {
+    "text": "So anytime somebody has\nmacular degeneration and you",
+    "start": 719.54,
+    "duration": 4.4
+  },
+  {
+    "text": "measure it, you always find\nthere's inadequate power and it's",
+    "start": 723.94,
+    "duration": 4.12
+  },
+  {
+    "text": "reversed the polarity in the stomach circuit\nwhereas glaucoma, the optic",
+    "start": 728.06,
+    "duration": 5.55
+  },
+  {
+    "text": "nerves are on a different circuit, it's on\nthe liver circuit and so every",
+    "start": 733.61,
+    "duration": 4.2
+  },
+  {
+    "text": "time you see a glaucoma patient and\nmeasure it, the liver circuit will have",
+    "start": 737.81,
+    "duration": 3.36
+  },
+  {
+    "text": "flipped its polarity.",
+    "start": 741.17,
+    "duration": 2.49
+  },
+  {
+    "text": "So how do you treat it, you flip the\npolarity back, charge the",
+    "start": 743.66,
+    "duration": 1.79
+  },
+  {
+    "text": "battery back up and then you figure",
+    "start": 745.45,
+    "duration": 1.87
+  },
+  {
+    "text": "out why did the battery lose its\ncharge in the first place.",
+    "start": 747.32,
+    "duration": 4.19
+  },
+  {
+    "text": "Well, there are five basic reasons.",
+    "start": 751.51,
+    "duration": 1.82
+  },
+  {
+    "text": "One is that you have to look at the\nthyroid hormone, because thyroid",
+    "start": 753.33,
+    "duration": 2.62
+  },
+  {
+    "text": "controls the voltage of every cell\nmembrane in the body, T3 controls the",
+    "start": 755.95,
+    "duration": 4.84
+  },
+  {
+    "text": "voltage of the cell membranes and the\nnumber of mitochondria, T2 controls the",
+    "start": 760.79,
+    "duration": 4.35
+  },
+  {
+    "text": "function of the mitochondria.",
+    "start": 765.14,
+    "duration": 1.83
+  },
+  {
+    "text": "So you always, let's say you don't have a\nthyroid hormon, your battery discharges to here.",
+    "start": 766.97,
+    "duration": 3.29
+  },
+  {
+    "text": "Now, if you put a scar across one\nof your circuits and it touches the",
+    "start": 770.26,
+    "duration": 4.26
+  },
+  {
+    "text": "fascia, it shorts it out like any other\nelectronic short, so wherever you have",
+    "start": 774.52,
+    "duration": 4.05
+  },
+  {
+    "text": "scars, that's gonna short out that circuit.\nSo many women have a C-section",
+    "start": 778.57,
+    "duration": 5.8
+  },
+  {
+    "text": "scar which goes right across\nthe stomach circuit.",
+    "start": 784.37,
+    "duration": 3.15
+  },
+  {
+    "text": "The spleen stomach circuit is\nthe entire reproductive system, the",
+    "start": 787.52,
+    "duration": 4.04
+  },
+  {
+    "text": "entire endocrine system, the thinking\npart of the brain, the macula of the eye.",
+    "start": 791.56,
+    "duration": 3.21
+  },
+  {
+    "text": "OK, so thyroid takes us down to here,\nscars take us down to here.",
+    "start": 794.77,
+    "duration": 5.04
+  },
+  {
+    "text": "Dental infections; since every circuit\ngoes through specific teeth if you have",
+    "start": 799.81,
+    "duration": 5.26
+  },
+  {
+    "text": "an infection in a tooth that acts like a\nresistor and drops the voltage.",
+    "start": 805.07,
+    "duration": 4.44
+  },
+  {
+    "text": "All right, dental infections\ntakes you down to here.",
+    "start": 809.51,
+    "duration": 2.3
+  },
+  {
+    "text": "Emotions are stored in the body's\nmagnetic fields as I discussed in my",
+    "start": 811.81,
+    "duration": 4.42
+  },
+  {
+    "text": "lecture to the Electric Universe and all\nof us have emotions, but if you have a",
+    "start": 816.23,
+    "duration": 4.83
+  },
+  {
+    "text": "wire and you put a magnetic field\naround, it blocks the full voltage, that's",
+    "start": 821.06,
+    "duration": 4.56
+  },
+  {
+    "text": "how emotions drop our voltage\nand make us sick.",
+    "start": 825.62,
+    "duration": 3.37
+  },
+  {
+    "text": "Thyroid, scars, dental infections,\nemotions, and finally toxins and now your",
+    "start": 828.99,
+    "duration": 5.53
+  },
+  {
+    "text": "batteries drain to zero and flip upside\ndown and there you go, you're sick.",
+    "start": 834.52,
+    "duration": 5.86
+  },
+  {
+    "text": "One of the problems with American medicine\nis that the scientists say, we have to",
+    "start": 840.38,
+    "duration": 3.95
+  },
+  {
+    "text": "isolate everything else and look at just this one\nthing to see if it's the cause of the disease.",
+    "start": 844.33,
+    "duration": 5.91
+  },
+  {
+    "text": "It almost never is.",
+    "start": 850.24,
+    "duration": 1.51
+  },
+  {
+    "text": "Almost all diseases are multifactorial.",
+    "start": 851.75,
+    "duration": 2.78
+  },
+  {
+    "text": "That's why we're having such a hard time in\nAmerican medicine, finding the cause",
+    "start": 854.63,
+    "duration": 3.66
+  },
+  {
+    "text": "because it's almost always several\ncauses that flip the voltage.",
+    "start": 858.29,
+    "duration": 5.97
+  },
+  {
+    "text": "Then, when you don't have\nvoltage, as voltage drops,",
+    "start": 864.26,
+    "duration": 2.4
+  },
+  {
+    "text": "oxygen drops because the amount of\noxygen that will dissolve in a liquid",
+    "start": 866.66,
+    "duration": 3.21
+  },
+  {
+    "text": "is dictated by the voltage of the liquid.\nWhen you lose voltage, you lose oxygen.",
+    "start": 869.87,
+    "duration": 3.95
+  },
+  {
+    "text": "When you lose oxygen, your metabolism\nbecomes inefficient, infections show up,",
+    "start": 873.82,
+    "duration": 6.04
+  },
+  {
+    "text": "and when you get to plus 30 millivolts\nyou have cancer, as simple as that.",
+    "start": 879.86,
+    "duration": 6.14
+  }
+]

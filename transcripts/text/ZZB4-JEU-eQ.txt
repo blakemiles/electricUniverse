@@ -1,0 +1,1262 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe",
+    "start": 7.149,
+    "duration": 2.864
+  },
+  {
+    "text": "brought to you by The\nThunderbolts Project™",
+    "start": 10.038,
+    "duration": 2.362
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 12.425,
+    "duration": 3.447
+  },
+  {
+    "text": "Throughout our solar system, on rocky\nplanets, moons, asteroids, and comets",
+    "start": 16.816,
+    "duration": 5.704
+  },
+  {
+    "text": "we see evidence for events never discussed\nin standard geological textbooks.",
+    "start": 22.545,
+    "duration": 5.215
+  },
+  {
+    "text": "We see carpets of highly circular,\ncleanly cut craters and crater chains,",
+    "start": 27.785,
+    "duration": 5.362
+  },
+  {
+    "text": "in defiance of the notion of periodic\nbombardments shaping these rocky topographies.",
+    "start": 33.172,
+    "duration": 5.57
+  },
+  {
+    "text": "We have suggested\nthat these features",
+    "start": 38.767,
+    "duration": 2.13
+  },
+  {
+    "text": "have been carved by high-energy\nelectrical discharges,",
+    "start": 40.922,
+    "duration": 3.474
+  },
+  {
+    "text": "a hypothesis supported by decades\nof laboratory experiments.",
+    "start": 44.421,
+    "duration": 4.432
+  },
+  {
+    "text": "On our own planet, we also see abundant\nevidence for the geological influences",
+    "start": 48.878,
+    "duration": 4.94
+  },
+  {
+    "text": "of a kind of cosmic lightning.",
+    "start": 53.843,
+    "duration": 2.092
+  },
+  {
+    "text": "In these episodes, we are considering\nthat the complex processes",
+    "start": 55.96,
+    "duration": 4.304
+  },
+  {
+    "text": "in electrical discharges\nmay help to explain",
+    "start": 60.289,
+    "duration": 2.488
+  },
+  {
+    "text": "the extraordinary geology\nof the American Southwest.",
+    "start": 62.802,
+    "duration": 3.61
+  },
+  {
+    "text": "In the previous Space News,\nThunderbolts contributor Andrew Hall",
+    "start": 66.437,
+    "duration": 4.118
+  },
+  {
+    "text": "proposed that a process known\nas sputtering discharge",
+    "start": 70.58,
+    "duration": 2.876
+  },
+  {
+    "text": "produced the amazing features in\nUtah's Canyonlands called the Arches.",
+    "start": 73.481,
+    "duration": 4.911
+  },
+  {
+    "text": "Today, Hall presents his case that\nthe same electrical processes",
+    "start": 78.417,
+    "duration": 4.441
+  },
+  {
+    "text": "produced countless of the\nspectacular, sharply cut features",
+    "start": 82.883,
+    "duration": 3.456
+  },
+  {
+    "text": "seen throughout the\nColorado Plateau.",
+    "start": 86.34,
+    "duration": 2.648
+  },
+  {
+    "text": "In Part 1 of\nSputtering Canyons,",
+    "start": 89.48,
+    "duration": 2.549
+  },
+  {
+    "text": "we discussed Arches National Monument\nand evidence it was formed",
+    "start": 92.054,
+    "duration": 4.014
+  },
+  {
+    "text": "by a complex sputtering\ndischarge process.",
+    "start": 96.093,
+    "duration": 2.907
+  },
+  {
+    "text": "That process involved a thermal spiking, barrier\ndischarge in a layer of wet sandstone.",
+    "start": 99.025,
+    "duration": 5.776
+  },
+  {
+    "text": "In Part 2, we'll take a broader look\nat some regions on the Colorado Plateau",
+    "start": 104.826,
+    "duration": 4.215
+  },
+  {
+    "text": "where similar sputtering\ndischarge took place.",
+    "start": 109.066,
+    "duration": 3.267
+  },
+  {
+    "text": "One of these is Monument Valley.",
+    "start": 112.358,
+    "duration": 2.04
+  },
+  {
+    "text": "Monument Valley was formed\nby sputtering discharge",
+    "start": 114.423,
+    "duration": 2.845
+  },
+  {
+    "text": "that almost completely etched a\nlayer of the original dome away.",
+    "start": 117.293,
+    "duration": 3.411
+  },
+  {
+    "text": "What is left are the lonely pinnacles\nand buttes iconic to Western movies.",
+    "start": 120.729,
+    "duration": 5.562
+  },
+  {
+    "text": "The reason these pinnacles\nand buttes are left standing,",
+    "start": 126.316,
+    "duration": 3.386
+  },
+  {
+    "text": "while the same layers of\nsandstone etched away around them,",
+    "start": 129.727,
+    "duration": 3.387
+  },
+  {
+    "text": "is due to preferential\nsputtering.",
+    "start": 133.139,
+    "duration": 2.086
+  },
+  {
+    "text": "Preferential sputtering is normally\nassociated with sputtering an alloyed metal",
+    "start": 135.25,
+    "duration": 4.753
+  },
+  {
+    "text": "where one element in the alloy\nsputters more efficiently,",
+    "start": 140.028,
+    "duration": 3.102
+  },
+  {
+    "text": "eroding away faster than the\nother alloy metal.",
+    "start": 143.155,
+    "duration": 3.466
+  },
+  {
+    "text": "In Monument Valley, the buttes and pinnacles\nleft standing were portions of the dome",
+    "start": 146.646,
+    "duration": 5.513
+  },
+  {
+    "text": "that resisted sputtering because of\na difference in charge density.",
+    "start": 152.184,
+    "duration": 4.132
+  },
+  {
+    "text": "They were like the inefficient\nalloy in the metal.",
+    "start": 156.935,
+    "duration": 3.572
+  },
+  {
+    "text": "The part of the dome that lifted\naway, did so when the wet layer --",
+    "start": 160.532,
+    "duration": 3.823
+  },
+  {
+    "text": "the icing in the layer cake --",
+    "start": 164.38,
+    "duration": 1.697
+  },
+  {
+    "text": "became a charged,\nhot ionized mud.",
+    "start": 166.102,
+    "duration": 2.463
+  },
+  {
+    "text": "A sheet of high charge density\ndeveloped at the base of the mud",
+    "start": 168.59,
+    "duration": 4.19
+  },
+  {
+    "text": "with an attraction\nto the clouds above --",
+    "start": 172.805,
+    "duration": 2.522
+  },
+  {
+    "text": "and like an electromagnet\npicks up a junk car --",
+    "start": 175.352,
+    "duration": 3.265
+  },
+  {
+    "text": "the storm's electric field lifted away the\noverburden to dissolve in electric winds.",
+    "start": 178.642,
+    "duration": 5.753
+  },
+  {
+    "text": "The buttes and pinnacles are remnants that\ndidn't have the same charge in their wet layer,",
+    "start": 184.42,
+    "duration": 5.428
+  },
+  {
+    "text": "so they didn't get pulled\naway by the electric field.",
+    "start": 189.873,
+    "duration": 3.024
+  },
+  {
+    "text": "The reason is: they were\nstruck by lightning.",
+    "start": 192.922,
+    "duration": 3.259
+  },
+  {
+    "text": "In the dark mode, drifting plasma\ncurrent that causes sputtering,",
+    "start": 196.206,
+    "duration": 4.219
+  },
+  {
+    "text": "there's always the\npotential to spark.",
+    "start": 200.45,
+    "duration": 2.42
+  },
+  {
+    "text": "Manufacturers are careful to avoid this\nbecause it will flaw the finished surface,",
+    "start": 202.895,
+    "duration": 5.227
+  },
+  {
+    "text": "it leaves imperfections.",
+    "start": 208.147,
+    "duration": 1.82
+  },
+  {
+    "text": "The pinnacles and buttes are\nthese types of imperfections.",
+    "start": 209.992,
+    "duration": 4.279
+  },
+  {
+    "text": "They were parts of the dome\nwhere an arc or many arcs struck",
+    "start": 214.296,
+    "duration": 3.615
+  },
+  {
+    "text": "and dissipated built-up charge.",
+    "start": 217.936,
+    "duration": 2.427
+  },
+  {
+    "text": "It altered the ground charge\nbeneath the strike zone",
+    "start": 220.388,
+    "duration": 3.407
+  },
+  {
+    "text": "so the electric field couldn't\npull the material away.",
+    "start": 223.82,
+    "duration": 3.179
+  },
+  {
+    "text": "Therefore, the buttes and pinnacles\nwere preferentially -- not sputtered.",
+    "start": 227.024,
+    "duration": 5.118
+  },
+  {
+    "text": "In the parlance of the\nsemiconductor industry,",
+    "start": 232.167,
+    "duration": 3.025
+  },
+  {
+    "text": "the charge layer was doped by the\npresence of water and minerals,",
+    "start": 235.217,
+    "duration": 3.863
+  },
+  {
+    "text": "which gave it an\nexcess of electrons.",
+    "start": 239.105,
+    "duration": 2.282
+  },
+  {
+    "text": "When lightning struck, it depleted the\ncharge and left an excess of \"holes,\"",
+    "start": 241.412,
+    "duration": 4.039
+  },
+  {
+    "text": "or the absence of electrons",
+    "start": 245.476,
+    "duration": 1.79
+  },
+  {
+    "text": "which canceled the attractive force\nof the sputtering discharge.",
+    "start": 247.291,
+    "duration": 3.832
+  },
+  {
+    "text": "The evidence for\nthis is manifold.",
+    "start": 251.148,
+    "duration": 2.569
+  },
+  {
+    "text": "To begin, consider the cap rock\nformations and spires found on buttes.",
+    "start": 253.742,
+    "duration": 5.356
+  },
+  {
+    "text": "Butte tops aren't flat.",
+    "start": 259.123,
+    "duration": 1.891
+  },
+  {
+    "text": "They generally have something like a\nstep pyramid, dome or pinnacle on top,",
+    "start": 261.039,
+    "duration": 4.651
+  },
+  {
+    "text": "which is where lightning\ndischarge struck most intensely.",
+    "start": 265.715,
+    "duration": 3.953
+  },
+  {
+    "text": "Notice in the images\nbelow the pyramidal caps.",
+    "start": 269.693,
+    "duration": 3.401
+  },
+  {
+    "text": "The rock below the caps is darkened\nsignificantly more than the adjacent stone.",
+    "start": 273.119,
+    "duration": 5.145
+  },
+  {
+    "text": "Not only is there black patina,",
+    "start": 278.289,
+    "duration": 2.528
+  },
+  {
+    "text": "but there is also more redness to the\nrock itself in streaks below the caps,",
+    "start": 280.842,
+    "duration": 4.405
+  },
+  {
+    "text": "with deep vertical fracturing.",
+    "start": 285.272,
+    "duration": 2.142
+  },
+  {
+    "text": "The charge depletion from lightning,\nand the subsequent recombination of",
+    "start": 287.439,
+    "duration": 4.623
+  },
+  {
+    "text": "the most severely depleted\nzones beneath where it struck,",
+    "start": 292.087,
+    "duration": 3.261
+  },
+  {
+    "text": "heated, shocked and hardened the rock\nmore in these areas than in others.",
+    "start": 295.373,
+    "duration": 4.467
+  },
+  {
+    "text": "The step pyramid structure or\nterracing on canyon walls and buttes",
+    "start": 300.34,
+    "duration": 4.77
+  },
+  {
+    "text": "is another evidence\nof sputtering.",
+    "start": 305.135,
+    "duration": 2.275
+  },
+  {
+    "text": "Each sedimentary layer has different\ncompositions of minerals and moisture,",
+    "start": 307.435,
+    "duration": 4.686
+  },
+  {
+    "text": "differentiating the dielectric\nproperty of each layer.",
+    "start": 312.146,
+    "duration": 3.81
+  },
+  {
+    "text": "The zone of charge depletion\nunder lightning strikes",
+    "start": 315.981,
+    "duration": 3.697
+  },
+  {
+    "text": "spreads out in a conical\ndiffusion pattern,",
+    "start": 319.703,
+    "duration": 3.189
+  },
+  {
+    "text": "but the cone is\nstepped or terraced",
+    "start": 322.917,
+    "duration": 2.317
+  },
+  {
+    "text": "because there is a step voltage\nacross each dielectric layer.",
+    "start": 325.259,
+    "duration": 4.316
+  },
+  {
+    "text": "Where there are towering cliffs\nwith sheer vertical walls,",
+    "start": 329.6,
+    "duration": 3.658
+  },
+  {
+    "text": "it's because a monolithic layer\nwith a consistent dielectric",
+    "start": 333.283,
+    "duration": 3.967
+  },
+  {
+    "text": "caused a single\nlarge voltage step.",
+    "start": 337.275,
+    "duration": 3.416
+  },
+  {
+    "text": "Where there is very hard rock,",
+    "start": 340.716,
+    "duration": 2.23
+  },
+  {
+    "text": "the edges we'll find are\ntorn in chunky blocks.",
+    "start": 342.971,
+    "duration": 3.394
+  },
+  {
+    "text": "The flat, smooth breaks are not the result\nof millions of years of erosion of any type --",
+    "start": 346.39,
+    "duration": 5.493
+  },
+  {
+    "text": "wind, rain, ice, exfoliation,\nor flowing water.",
+    "start": 351.908,
+    "duration": 4.59
+  },
+  {
+    "text": "Any of those actions would\nhave the opposite effect,",
+    "start": 356.523,
+    "duration": 3.377
+  },
+  {
+    "text": "roughening the surfaces\nand rounding the edges.",
+    "start": 359.925,
+    "duration": 3.569
+  },
+  {
+    "text": "These rocks have such smooth, flat faces,\nand sharp, angular, undercut edges",
+    "start": 363.519,
+    "duration": 5.916
+  },
+  {
+    "text": "because they were broken\nby mechanical shearing",
+    "start": 369.46,
+    "duration": 2.596
+  },
+  {
+    "text": "as the neighboring rock\nwas ripped away.",
+    "start": 372.081,
+    "duration": 2.57
+  },
+  {
+    "text": "Evidence of shearing is especially\nevident on monolithic walls.",
+    "start": 374.676,
+    "duration": 4.498
+  },
+  {
+    "text": "Sharp-edged breaks are everywhere,\nleaving smooth, flat faces,",
+    "start": 379.199,
+    "duration": 4.308
+  },
+  {
+    "text": "hardly roughened, or rounded\nby any act of erosion.",
+    "start": 383.532,
+    "duration": 3.285
+  },
+  {
+    "text": "Arching fissures are\nevidence of spalling,",
+    "start": 386.842,
+    "duration": 3.142
+  },
+  {
+    "text": "where the material\ntore away in flakes,",
+    "start": 390.009,
+    "duration": 2.607
+  },
+  {
+    "text": "cupped upward in the\ndirection of shear.",
+    "start": 392.641,
+    "duration": 2.919
+  },
+  {
+    "text": "The arches often show\nconcentric creases",
+    "start": 395.585,
+    "duration": 2.931
+  },
+  {
+    "text": "where flakes broke away in smaller\nsections deeper into the rock.",
+    "start": 398.541,
+    "duration": 4.255
+  },
+  {
+    "text": "One can see the same type of\nconcentric flaking in broken glass.",
+    "start": 402.821,
+    "duration": 5.117
+  },
+  {
+    "text": "In some places, the canyon walls\nhave that look of broken glass",
+    "start": 407.963,
+    "duration": 4.369
+  },
+  {
+    "text": "but in others it looks more like the\nbroken end of a brick of hard cheese.",
+    "start": 412.357,
+    "duration": 4.238
+  },
+  {
+    "text": "Perhaps a well-aged Parmesan --\nstiff, dry and flaky,",
+    "start": 416.62,
+    "duration": 4.691
+  },
+  {
+    "text": "but with a low shear strength.",
+    "start": 421.336,
+    "duration": 2.264
+  },
+  {
+    "text": "There is almost always a thin layer\nof hardened rock at the interface",
+    "start": 423.625,
+    "duration": 4.62
+  },
+  {
+    "text": "between each terrace.",
+    "start": 428.27,
+    "duration": 1.608
+  },
+  {
+    "text": "This is where charge accumulated at\nthe boundary layer of the strata",
+    "start": 429.903,
+    "duration": 4.007
+  },
+  {
+    "text": "and the current hardened the charged sheet\nof rock more so than the surroundings.",
+    "start": 433.935,
+    "duration": 6.353
+  },
+  {
+    "text": "Each dielectric layer spreads\ncharge to the interface of its layer,",
+    "start": 440.313,
+    "duration": 4.365
+  },
+  {
+    "text": "driven by the electric field, to balance\nthe voltage drop across that layer.",
+    "start": 444.703,
+    "duration": 4.862
+  },
+  {
+    "text": "So a charged sheet develops at\nthe interface of each layer,",
+    "start": 449.59,
+    "duration": 3.749
+  },
+  {
+    "text": "and a step voltage\nto the next layer,",
+    "start": 453.364,
+    "duration": 2.372
+  },
+  {
+    "text": "which creates a surface\ntension at the interface,",
+    "start": 455.761,
+    "duration": 3.116
+  },
+  {
+    "text": "which makes the\nrock hard and dense.",
+    "start": 458.902,
+    "duration": 2.298
+  },
+  {
+    "text": "What is sandwiched between is\noften loosely consolidated.",
+    "start": 461.225,
+    "duration": 4.11
+  },
+  {
+    "text": "Pinnacles in this region, Monument\nValley, occur in two different types.",
+    "start": 465.36,
+    "duration": 5.267
+  },
+  {
+    "text": "There are fulgurites, like the\nburnt shard of Agathla peak",
+    "start": 470.652,
+    "duration": 4.5
+  },
+  {
+    "text": "which are the direct\nresult of lightning",
+    "start": 475.177,
+    "duration": 2.426
+  },
+  {
+    "text": "striking the earth and boiling up the\ncrust in an electromagnetic blister.",
+    "start": 477.628,
+    "duration": 4.462
+  },
+  {
+    "text": "These types of pinnacles were discussed in\nLightning-Scarred Earth, parts 1 and 2.",
+    "start": 482.115,
+    "duration": 6.109
+  },
+  {
+    "text": "Sandstone pinnacles are\nwhere lightning struck",
+    "start": 488.249,
+    "duration": 3.491
+  },
+  {
+    "text": "and altered the charge\nin the rock beneath it,",
+    "start": 491.765,
+    "duration": 2.513
+  },
+  {
+    "text": "creating an electrical 'shadow'\nto sputtering discharge.",
+    "start": 494.303,
+    "duration": 3.825
+  },
+  {
+    "text": "They are literally the\nshadow of lightning strikes.",
+    "start": 498.153,
+    "duration": 3.574
+  },
+  {
+    "text": "Now, the footprint of a brief\nstrike, comparatively speaking,",
+    "start": 502.18,
+    "duration": 3.893
+  },
+  {
+    "text": "produces a narrow\ncone of protection.",
+    "start": 506.098,
+    "duration": 2.535
+  },
+  {
+    "text": "How the cone slopes and steps depends\non properties of the rock layers",
+    "start": 508.658,
+    "duration": 4.131
+  },
+  {
+    "text": "and the electric field potential,",
+    "start": 512.814,
+    "duration": 2.127
+  },
+  {
+    "text": "but more sustained,\nor potent striking",
+    "start": 514.966,
+    "duration": 2.505
+  },
+  {
+    "text": "begins to diffuse charge\ndepletion outward from the cone,",
+    "start": 517.496,
+    "duration": 4.142
+  },
+  {
+    "text": "forming nodes or star-like\nbreakouts, formed horizontally.",
+    "start": 521.663,
+    "duration": 4.965
+  },
+  {
+    "text": "Still larger accumulations of\nstrikes diffuse charge further,",
+    "start": 526.653,
+    "duration": 4.978
+  },
+  {
+    "text": "and these nodules break out into\n'wings' or dikes of charge depleted rock.",
+    "start": 531.656,
+    "duration": 5.482
+  },
+  {
+    "text": "The shadow footprint grows\nas arcing continues,",
+    "start": 538.131,
+    "duration": 4.377
+  },
+  {
+    "text": "elongating charge depleted\nzones into wedges",
+    "start": 542.509,
+    "duration": 3.47
+  },
+  {
+    "text": "with dikes growing out\nthe tips and edges.",
+    "start": 546.004,
+    "duration": 2.382
+  },
+  {
+    "text": "This is actually the beginning\nof a fractal dendrite,",
+    "start": 548.411,
+    "duration": 3.761
+  },
+  {
+    "text": "as lightning bombardment soaks\nthe charge from the ground",
+    "start": 552.197,
+    "duration": 3.424
+  },
+  {
+    "text": "diffusing outward in branches and creating\na depleted zone protected from sputtering.",
+    "start": 555.646,
+    "duration": 5.17
+  },
+  {
+    "text": "If the process were to continue before the\nsurrounding sputtered away completely,",
+    "start": 560.841,
+    "duration": 4.671
+  },
+  {
+    "text": "the dendrite nodules would grow and branch\nin ever smaller fractal repetitions,",
+    "start": 565.537,
+    "duration": 4.971
+  },
+  {
+    "text": "like branches of a tree.",
+    "start": 570.509,
+    "duration": 2.472
+  },
+  {
+    "text": "As adjacent rock is struck,",
+    "start": 573.006,
+    "duration": 2.363
+  },
+  {
+    "text": "the depleted zones connect into networks\nof wedges, ridges, and pinnacles.",
+    "start": 575.394,
+    "duration": 5.514
+  },
+  {
+    "text": "Generally, the pinnacles and buttes\nleft on a dome are layered flat,",
+    "start": 580.909,
+    "duration": 5.116
+  },
+  {
+    "text": "but in some areas\nbuttes display a dip,",
+    "start": 586.05,
+    "duration": 3.259
+  },
+  {
+    "text": "a slant to their slope,",
+    "start": 589.334,
+    "duration": 2.301
+  },
+  {
+    "text": "indicating horizontal winds\ninfluenced the deposition.",
+    "start": 591.66,
+    "duration": 4.102
+  },
+  {
+    "text": "Sputtering follows\nthe voltage gradient,",
+    "start": 595.787,
+    "duration": 2.749
+  },
+  {
+    "text": "and so carves away from the lightning\ndepleted zone in alignment with the strata",
+    "start": 598.561,
+    "duration": 5.164
+  },
+  {
+    "text": "because the voltage gradient\nfollows the dielectric layers,",
+    "start": 603.75,
+    "duration": 3.22
+  },
+  {
+    "text": "cutting at 90 degrees\nto the dip angle",
+    "start": 606.995,
+    "duration": 2.341
+  },
+  {
+    "text": "and leaving a straight-edged, non-\nvertical wall like this mountain.",
+    "start": 609.361,
+    "duration": 4.573
+  },
+  {
+    "text": "If this mountain were eroded by conventional\nnotions of wind rain and mass wasting,",
+    "start": 613.959,
+    "duration": 5.253
+  },
+  {
+    "text": "the rock would obey gravity\nand erode in a vertical wall.",
+    "start": 619.237,
+    "duration": 3.914
+  },
+  {
+    "text": "It's in details like this that\nprove electrical formation.",
+    "start": 623.176,
+    "duration": 4.21
+  },
+  {
+    "text": "What we see in the stepped\npyramids and terraced canyons",
+    "start": 627.411,
+    "duration": 3.551
+  },
+  {
+    "text": "is the result of two types of charge\ntransport in a solid-state matter.",
+    "start": 630.987,
+    "duration": 5.037
+  },
+  {
+    "text": "One is called drift ionization caused by\nthe external electric field of the storm,",
+    "start": 636.049,
+    "duration": 5.338
+  },
+  {
+    "text": "and the other is called\ndiffusion current",
+    "start": 641.412,
+    "duration": 2.508
+  },
+  {
+    "text": "caused by differences in charge density\nwithin the material of the dome itself.",
+    "start": 643.945,
+    "duration": 4.296
+  },
+  {
+    "text": "Drift current is the flow of charge created\nby the external electric field of the storm,",
+    "start": 648.266,
+    "duration": 5.073
+  },
+  {
+    "text": "which primarily drives the\nionized region downward,",
+    "start": 653.364,
+    "duration": 2.905
+  },
+  {
+    "text": "vertically through the\nlayers of sandstone.",
+    "start": 656.294,
+    "duration": 2.634
+  },
+  {
+    "text": "Drift currents obey Ohm's Law.",
+    "start": 658.953,
+    "duration": 2.878
+  },
+  {
+    "text": "Diffusion currents obey Fick's Law,\nwhich is related to Ohm's Law",
+    "start": 661.856,
+    "duration": 5.078
+  },
+  {
+    "text": "but accounts for\nvariations in charge density",
+    "start": 666.959,
+    "duration": 3.401
+  },
+  {
+    "text": "that causes ionization to migrate from\na region of high charge concentration",
+    "start": 670.385,
+    "duration": 4.457
+  },
+  {
+    "text": "to a region of lower\nconcentration.",
+    "start": 674.867,
+    "duration": 2.274
+  },
+  {
+    "text": "No external electric field is\nneeded for diffusion current",
+    "start": 677.166,
+    "duration": 4.39
+  },
+  {
+    "text": "because the difference in charge\nconcentrations creates a gradient",
+    "start": 681.581,
+    "duration": 3.95
+  },
+  {
+    "text": "between those regions that results\nin a local electric field.",
+    "start": 685.556,
+    "duration": 3.647
+  },
+  {
+    "text": "And that's what this\ndiffusion responds to.",
+    "start": 689.228,
+    "duration": 3.975
+  },
+  {
+    "text": "It's the primary process that\nmigrates charge horizontally --",
+    "start": 693.228,
+    "duration": 3.799
+  },
+  {
+    "text": "spreading through each\nlayer of sandstone.",
+    "start": 697.052,
+    "duration": 2.371
+  },
+  {
+    "text": "What gets carved away by sputtering\nleaves distinct scalloped edges",
+    "start": 699.448,
+    "duration": 4.359
+  },
+  {
+    "text": "in very dry, low\nconductivity material?",
+    "start": 703.832,
+    "duration": 2.846
+  },
+  {
+    "text": "The scalloping is a fractal\nphenomenon of electrical diffusion",
+    "start": 706.703,
+    "duration": 4.067
+  },
+  {
+    "text": "that repeats the scallop\nshape in ever larger scallops.",
+    "start": 710.795,
+    "duration": 3.82
+  },
+  {
+    "text": "In wetter environments, it's not as\napparent, or it may be totally absent,",
+    "start": 714.64,
+    "duration": 5.152
+  },
+  {
+    "text": "because water diffuses\ncharge more evenly,",
+    "start": 719.817,
+    "duration": 2.831
+  },
+  {
+    "text": "which creates smoother,\nrounder surfaces.",
+    "start": 722.673,
+    "duration": 3.376
+  },
+  {
+    "text": "Compelling evidence the scalloped and\nterraced walls are a result of charge diffusion",
+    "start": 726.074,
+    "duration": 5.08
+  },
+  {
+    "text": "is shown in this image, where the\narchetype of all fractal shapes emerges --",
+    "start": 731.179,
+    "duration": 4.671
+  },
+  {
+    "text": "the Mandelbrot Set.",
+    "start": 735.875,
+    "duration": 1.727
+  },
+  {
+    "text": "Although it's not a computer perfect rendition\nof the Mandelbrot Set, it's nearly so.",
+    "start": 737.627,
+    "duration": 5.197
+  },
+  {
+    "text": "It's a naturally generated fractal based\non the same mathematical relationships",
+    "start": 742.849,
+    "duration": 4.736
+  },
+  {
+    "text": "of iterating\nthree-dimensional motion",
+    "start": 747.61,
+    "duration": 2.439
+  },
+  {
+    "text": "that governs electrical charge diffusion\nin solid-state electronics.",
+    "start": 750.074,
+    "duration": 4.209
+  },
+  {
+    "text": "It appears on this canyon wall",
+    "start": 754.308,
+    "duration": 2.669
+  },
+  {
+    "text": "with nodes and vine-hair-like\nstructures growing outward",
+    "start": 757.002,
+    "duration": 3.744
+  },
+  {
+    "text": "in exactly the same formation and\norientation as the Mandelbrot Set does.",
+    "start": 760.771,
+    "duration": 5.487
+  },
+  {
+    "text": "The implication is obvious.",
+    "start": 766.283,
+    "duration": 2.389
+  },
+  {
+    "text": "The shape of the canyon walls, the\nterracing, the fractal repetition of form --",
+    "start": 768.697,
+    "duration": 4.891
+  },
+  {
+    "text": "everything known about\napplied physics dictates",
+    "start": 773.613,
+    "duration": 3.171
+  },
+  {
+    "text": "this is the result of electrical current\ndiffusion on a continent-scale semiconductor",
+    "start": 776.809,
+    "duration": 5.167
+  },
+  {
+    "text": "under the influence of a\ngigantic electric field.",
+    "start": 782.001,
+    "duration": 2.986
+  },
+  {
+    "text": "The physics is not\nonly laboratory proven,",
+    "start": 785.012,
+    "duration": 2.998
+  },
+  {
+    "text": "it's been used to make every\nsemiconductor device ever manufactured.",
+    "start": 788.035,
+    "duration": 4.391
+  },
+  {
+    "text": "In fact, geophysicists and\neven Hollywood CGI artists,",
+    "start": 792.451,
+    "duration": 4.193
+  },
+  {
+    "text": "simulate geologic forms like\nwatersheds and river systems,",
+    "start": 796.669,
+    "duration": 4.224
+  },
+  {
+    "text": "canyons and mountains,",
+    "start": 800.918,
+    "duration": 1.829
+  },
+  {
+    "text": "using the fractal geometry\nof electrical diffusion.",
+    "start": 802.772,
+    "duration": 4.087
+  },
+  {
+    "text": "So, what is being described here has\nbeen acknowledged by consensus science.",
+    "start": 806.884,
+    "duration": 4.946
+  },
+  {
+    "text": "The scientific conclusion that these landforms\nare the result of electrical diffusion",
+    "start": 811.855,
+    "duration": 5.07
+  },
+  {
+    "text": "caused by an intense electric\nfield influencing Earth's crust,",
+    "start": 816.95,
+    "duration": 3.625
+  },
+  {
+    "text": "in an event and the manner\nElectric Universe theorists",
+    "start": 820.6,
+    "duration": 3.272
+  },
+  {
+    "text": "have described since\nImmanuel Velikovsky",
+    "start": 823.897,
+    "duration": 2.731
+  },
+  {
+    "text": "is scientifically unavoidable.",
+    "start": 826.653,
+    "duration": 2.499
+  },
+  {
+    "text": "Yet avoid it they do --\nconsensus science, that is.",
+    "start": 829.177,
+    "duration": 3.903
+  },
+  {
+    "text": "To quote from a Wikipedia\narticle on diffusion,",
+    "start": 833.105,
+    "duration": 3.833
+  },
+  {
+    "text": "\"Analytical and numerical models\nthat solve the diffusion equation",
+    "start": 837.399,
+    "duration": 3.649
+  },
+  {
+    "text": "for different initial\nand boundary conditions",
+    "start": 841.049,
+    "duration": 3.239
+  },
+  {
+    "text": "have been popular for studying a wide\nvariety of changes to the Earth's surface.",
+    "start": 844.313,
+    "duration": 4.494
+  },
+  {
+    "text": "Diffusion has been used extensively in\nerosion studies of hillslope retreat,",
+    "start": 848.832,
+    "duration": 4.848
+  },
+  {
+    "text": "bluff erosion, fault scarp degradation,\nwave-cut terrace/shoreline retreat,",
+    "start": 853.705,
+    "duration": 5.386
+  },
+  {
+    "text": "alluvial channel incision, coastal\nshelf retreat, and delta progradation.",
+    "start": 859.116,
+    "duration": 5.981
+  },
+  {
+    "text": "Although the Earth's surface is not\nliterally diffusing in many of these cases,",
+    "start": 865.122,
+    "duration": 4.333
+  },
+  {
+    "text": "the process of diffusion\neffectively mimics",
+    "start": 869.48,
+    "duration": 2.895
+  },
+  {
+    "text": "the holistic changes that occur\nover decades to millennia.\"",
+    "start": 872.4,
+    "duration": 3.682
+  },
+  {
+    "text": "Let me just repeat\nthe last sentence.",
+    "start": 876.107,
+    "duration": 3.012
+  },
+  {
+    "text": "\"Although the Earth's surface is not\nliterally diffusing in many of these cases,",
+    "start": 879.397,
+    "duration": 3.96
+  },
+  {
+    "text": "the process of diffusion\neffectively mimics",
+    "start": 883.382,
+    "duration": 3.011
+  },
+  {
+    "text": "the holistic changes that occur\nover decades to millennia.\"",
+    "start": 886.418,
+    "duration": 3.243
+  },
+  {
+    "text": "So, what they're saying is they\nthink it's just a coincidence.",
+    "start": 889.686,
+    "duration": 3.533
+  },
+  {
+    "text": "Rather than conclude in a\nproper scientific fashion",
+    "start": 893.244,
+    "duration": 3.905
+  },
+  {
+    "text": "that electrical current diffusion has\na role in shaping the landscape,",
+    "start": 897.174,
+    "duration": 4.264
+  },
+  {
+    "text": "they conclude it's just\nan amazing coincidence.",
+    "start": 901.463,
+    "duration": 2.965
+  },
+  {
+    "text": "One hates to be critical to\nhard-working geophysicists",
+    "start": 904.453,
+    "duration": 4.19
+  },
+  {
+    "text": "but to have an empirically proven\nanswer staring you in the face",
+    "start": 908.668,
+    "duration": 3.549
+  },
+  {
+    "text": "and ignore it in favor of\na preferred narrative,",
+    "start": 912.242,
+    "duration": 2.916
+  },
+  {
+    "text": "is what a politician\ndoes, not a scientist.",
+    "start": 915.183,
+    "duration": 2.988
+  },
+  {
+    "text": "The idea that diffusion\n\"mimics the holistic changes",
+    "start": 918.196,
+    "duration": 4.035
+  },
+  {
+    "text": "that occur over decades to\nmillennia\" is really absurd.",
+    "start": 922.256,
+    "duration": 3.19
+  },
+  {
+    "text": "Diffusion is caused by charge transport\nfrom higher to lower concentrations.",
+    "start": 925.471,
+    "duration": 4.845
+  },
+  {
+    "text": "Conventional erosive forces of water, wind\nand ice act on the land from the outside in,",
+    "start": 930.341,
+    "duration": 5.507
+  },
+  {
+    "text": "not from the inside out.",
+    "start": 935.873,
+    "duration": 1.774
+  },
+  {
+    "text": "Diffusion is an\ninside-out process",
+    "start": 937.672,
+    "duration": 3.587
+  },
+  {
+    "text": "from the atomic level outward as\ncharges migrate from atom to atom.",
+    "start": 941.284,
+    "duration": 5.596
+  },
+  {
+    "text": "So there are notions\nthat violate physics",
+    "start": 946.905,
+    "duration": 3.013
+  },
+  {
+    "text": "but they call it a\ncoincidence instead.",
+    "start": 949.943,
+    "duration": 2.348
+  },
+  {
+    "text": "Fortunately, in the EU we\nlike to deal in truths.",
+    "start": 952.316,
+    "duration": 2.851
+  },
+  {
+    "text": "So in Part 3, we'll examine a few more\nexamples of sputtering canyon evidence.",
+    "start": 955.192,
+    "duration": 4.565
+  },
+  {
+    "text": "Thank you.",
+    "start": 959.782,
+    "duration": 1.304
+  }
+]

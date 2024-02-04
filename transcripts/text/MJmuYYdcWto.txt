@@ -1,0 +1,362 @@
+[
+  {
+    "text": "Welcome to Space News from the Electric Universe brought\nto you by the Thunderbolts Project™ at Thunderbolts.info",
+    "start": 6.74,
+    "duration": 9.5
+  },
+  {
+    "text": "[Music]",
+    "start": 18.55,
+    "duration": 12.28
+  },
+  {
+    "text": "Victory for one theory should\nmean defeat for its rival.",
+    "start": 30.83,
+    "duration": 5.02
+  },
+  {
+    "text": "A European Southern Observatory press\nrelease boasts, “Pulsating Star Mystery",
+    "start": 35.85,
+    "duration": 5.43
+  },
+  {
+    "text": "Solved” Cepheid variables\nare stars whose rates of",
+    "start": 41.28,
+    "duration": 4.11
+  },
+  {
+    "text": "pulsation vary with their\nluminosities: the brighter the star,",
+    "start": 45.39,
+    "duration": 4.11
+  },
+  {
+    "text": "the longer it takes to complete a\ncycle of variability. It’s called",
+    "start": 49.5,
+    "duration": 4.83
+  },
+  {
+    "text": "the period–luminosity relationship.\nBy timing the period of pulsation, the",
+    "start": 54.33,
+    "duration": 5.52
+  },
+  {
+    "text": "absolute luminosity of the star can\nbe calculated. By comparing that quantity",
+    "start": 59.85,
+    "duration": 5.45
+  },
+  {
+    "text": "with the star’s apparent brightness,\nthe star’s distance can be determined.",
+    "start": 65.3,
+    "duration": 5.31
+  },
+  {
+    "text": "Edwin Hubble’s discovery of Cepheids\nin the Andromeda galaxy in 1924 was",
+    "start": 70.61,
+    "duration": 4.81
+  },
+  {
+    "text": "the key to proving that the “spiral nebulae,”\nformerly thought to lie inside the",
+    "start": 75.42,
+    "duration": 5.01
+  },
+  {
+    "text": "Milky Way, were actually independent\ngalaxies far outside the Milky Way. Until",
+    "start": 80.43,
+    "duration": 6.24
+  },
+  {
+    "text": "now, two theories that predict properties\nof Cepheids have been in conflict.",
+    "start": 86.67,
+    "duration": 5.76
+  },
+  {
+    "text": "The press release explains: “Predictions\nof their masses derived from the theory of",
+    "start": 92.43,
+    "duration": 4.65
+  },
+  {
+    "text": "pulsating stars are\n20–30% less than",
+    "start": 97.08,
+    "duration": 4.05
+  },
+  {
+    "text": "predictions from the theory of the\nevolution of stars. This embarrassing",
+    "start": 101.13,
+    "duration": 4.98
+  },
+  {
+    "text": "discrepancy has been known since the 1960s.”\nThe newly discovered Cepheid is a member",
+    "start": 106.11,
+    "duration": 6.69
+  },
+  {
+    "text": "of a binary system in which the two stars pass\nin front of each other as seen from Earth.",
+    "start": 112.8,
+    "duration": 5.97
+  },
+  {
+    "text": "This configuration enables astronomers\nto measure not only variations in their",
+    "start": 118.77,
+    "duration": 4.34
+  },
+  {
+    "text": "luminosities but also their orbital\nvelocities. From these measurements,",
+    "start": 123.11,
+    "duration": 5.67
+  },
+  {
+    "text": "the stars’ masses can be determined\nwith unprecedented accuracy. The press",
+    "start": 128.78,
+    "duration": 5.04
+  },
+  {
+    "text": "release states, “The mass of the Cepheid\nis now known to about 1% and agrees",
+    "start": 133.82,
+    "duration": 5.22
+  },
+  {
+    "text": "exactly with predictions from the\ntheory of stellar pulsation. However,",
+    "start": 139.04,
+    "duration": 5.01
+  },
+  {
+    "text": "the larger mass predicted\nby stellar evolution theory",
+    "start": 144.05,
+    "duration": 3.6
+  },
+  {
+    "text": "was shown to be significantly in error.” Also\nsignificant is this last result is passed",
+    "start": 147.65,
+    "duration": 5.61
+  },
+  {
+    "text": "over without further comment.",
+    "start": 153.26,
+    "duration": 4.2
+  },
+  {
+    "text": "One can presume that the aforementioned\n“embarrassing discrepancy”",
+    "start": 157.46,
+    "duration": 3.72
+  },
+  {
+    "text": "has paralyzed advocates’ abilities\nfor critical thinking. The discrepancy can",
+    "start": 161.18,
+    "duration": 5.22
+  },
+  {
+    "text": "only be embarrassing for an\northodoxy of belief which admits,",
+    "start": 166.4,
+    "duration": 4.35
+  },
+  {
+    "text": "with false humility, that\nCepheids are “not fully understood.”",
+    "start": 170.75,
+    "duration": 4.34
+  },
+  {
+    "text": "The admission thinly hides the\nimplied obverse that Cepheids are",
+    "start": 175.09,
+    "duration": 4.36
+  },
+  {
+    "text": "“almost entirely understood,” a\nscientific conceit rightly deserving",
+    "start": 179.45,
+    "duration": 5.55
+  },
+  {
+    "text": "embarrassment. That the result\nconfirms the stellar pulsation theory",
+    "start": 185.0,
+    "duration": 5.55
+  },
+  {
+    "text": "necessitates that it falsifies\nthe stellar evolution theory. If",
+    "start": 190.55,
+    "duration": 5.04
+  },
+  {
+    "text": "astronomers were philosophically honest,\nthey would declare the theory nullified in",
+    "start": 195.59,
+    "duration": 4.35
+  },
+  {
+    "text": "accordance with Karl Popper’s\n1959 proposal of falsification",
+    "start": 199.94,
+    "duration": 4.89
+  },
+  {
+    "text": "as a criterion to distinguish a\nscientific theory from a pseudo-",
+    "start": 204.83,
+    "duration": 3.75
+  },
+  {
+    "text": "scientific one. Falsification\nwas to be a “convention”",
+    "start": 208.58,
+    "duration": 4.41
+  },
+  {
+    "text": "that required scientists to agree not to adjust\na theory to accommodate test results but,",
+    "start": 212.99,
+    "duration": 6.18
+  },
+  {
+    "text": "when falsified, to start over with\nsearches for alternative theories.",
+    "start": 219.17,
+    "duration": 5.64
+  },
+  {
+    "text": "Falsification is not a property of a theory\nthat justifies acquiescence in orthodoxy,",
+    "start": 224.81,
+    "duration": 5.07
+  },
+  {
+    "text": "but a convention that enables\nopportunities for discovery",
+    "start": 229.88,
+    "duration": 4.14
+  },
+  {
+    "text": "of new theories and the\noverthrow of conceptual",
+    "start": 234.02,
+    "duration": 3.54
+  },
+  {
+    "text": "monopolies. But in view of past perform-\nance, stellar evolution theory will simply",
+    "start": 237.56,
+    "duration": 5.58
+  },
+  {
+    "text": "be “adjusted.” A substantially different\ntheory will be put forward with the same name",
+    "start": 243.14,
+    "duration": 6.03
+  },
+  {
+    "text": "in order to maintain the\nillusion of continuity",
+    "start": 249.17,
+    "duration": 2.63
+  },
+  {
+    "text": "and the cumulativeness of conceptual\nprogress. The only continuity will be the tenure",
+    "start": 251.8,
+    "duration": 5.84
+  },
+  {
+    "text": "of advocates; the only cumulativeness\nwill be in their power and salaries.",
+    "start": 257.64,
+    "duration": 6.7
+  },
+  {
+    "text": "The conceptual claim is fraud-\nulent. In the Electric Universe,",
+    "start": 264.34,
+    "duration": 4.98
+  },
+  {
+    "text": "variations in luminosity are caused by\noscillations in the currents powering the",
+    "start": 269.32,
+    "duration": 4.59
+  },
+  {
+    "text": "stars and are likely “atmospheric” effects.\nMass is proportional to the charge on a body",
+    "start": 273.91,
+    "duration": 6.12
+  },
+  {
+    "text": "and may be unrelated to the oscillations\nunless they deposit or remove charge.",
+    "start": 280.03,
+    "duration": 6.0
+  },
+  {
+    "text": "The process is “hardly at all\nunderstood” and is an opportunity",
+    "start": 286.03,
+    "duration": 4.77
+  },
+  {
+    "text": "for discovery and development. When\nCepheids are used as indicators for the",
+    "start": 290.8,
+    "duration": 4.8
+  },
+  {
+    "text": "distances to nearby galaxies, a necessary\nassumption is that mass is invariant",
+    "start": 295.6,
+    "duration": 4.74
+  },
+  {
+    "text": "throughout the universe. But if \nmass varies with charge, each",
+    "start": 300.34,
+    "duration": 5.22
+  },
+  {
+    "text": "galaxy—and therefore each star in it—could \nhave a different charge distribution with respect",
+    "start": 305.56,
+    "duration": 5.1
+  },
+  {
+    "text": "to the intergalactic plasma. Each\ngalaxy could have an idiosyncratic",
+    "start": 310.66,
+    "duration": 5.3
+  },
+  {
+    "text": "period-luminosity relationship for Cepheids,\nrendering them unusable for determining",
+    "start": 315.96,
+    "duration": 5.47
+  },
+  {
+    "text": "distances to other galaxies. Halton \nArp’s discoveries of connections",
+    "start": 321.43,
+    "duration": 5.01
+  },
+  {
+    "text": "between high-redshift quasars and\nlow-redshift active galaxies have already",
+    "start": 326.44,
+    "duration": 4.95
+  },
+  {
+    "text": "brought “ultra-luminous” objects at\ngreat distances back to being “normally",
+    "start": 331.39,
+    "duration": 5.25
+  },
+  {
+    "text": "luminous” objects at much closer\ndistances. The objects may even be",
+    "start": 336.64,
+    "duration": 5.25
+  },
+  {
+    "text": "“under-luminous” and located at nearby\ndistances. With both redshift and Cepheids",
+    "start": 341.89,
+    "duration": 5.88
+  },
+  {
+    "text": "thrown into doubt, astronomers are left\nwith no reliable way to determine distances",
+    "start": 347.77,
+    "duration": 5.13
+  },
+  {
+    "text": "to galaxies. Astronomy is \nonce again open to new",
+    "start": 352.9,
+    "duration": 4.64
+  },
+  {
+    "text": "fundamental insights. The\nornate knowledge with which the",
+    "start": 357.54,
+    "duration": 3.54
+  },
+  {
+    "text": "Queen of the Sciences has \nproclaimed herself to be draped",
+    "start": 361.08,
+    "duration": 3.3
+  },
+  {
+    "text": "is turning out to the invisible. Perhaps\nshe should not have paraded herself so far",
+    "start": 364.38,
+    "duration": 5.01
+  },
+  {
+    "text": "down the street without an\nalternative theory at hand.",
+    "start": 369.39,
+    "duration": 4.91
+  },
+  {
+    "text": "[Music]",
+    "start": 375.1,
+    "duration": 15.22
+  }
+]

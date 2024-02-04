@@ -1,0 +1,552 @@
+[
+  {
+    "text": "Comet Siding Spring",
+    "start": 1.0,
+    "duration": 3.479
+  },
+  {
+    "text": "The discovery occurred on January 3rd, 2013 -",
+    "start": 8.75,
+    "duration": 4.129
+  },
+  {
+    "text": "a comet racing toward the inner Solar\nSystem, it just past the orbit of Jupiter.",
+    "start": 13.08,
+    "duration": 4.93
+  },
+  {
+    "text": "at the time of the discovery\nthe comet was 670 million miles",
+    "start": 18.01,
+    "duration": 6.46
+  },
+  {
+    "text": "from the Sun - that's about 7 times\nthe distance from the Earth to the",
+    "start": 24.47,
+    "duration": 5.44
+  },
+  {
+    "text": "Sun. So, why would a comet begin discharging\nin such a remote deep freeze? The first to",
+    "start": 29.91,
+    "duration": 9.54
+  },
+  {
+    "text": "observe the comet was Robert McNaught\nat the Siding Spring Observatory in",
+    "start": 39.45,
+    "duration": 4.22
+  },
+  {
+    "text": "Australia - that's the name, C/2013 A1\nSiding Spring. Calculations soon showed",
+    "start": 43.67,
+    "duration": 8.14
+  },
+  {
+    "text": "that the comets trajectory could bring\nit into a collision with the planet Mars,",
+    "start": 51.81,
+    "duration": 4.26
+  },
+  {
+    "text": "but whether the comet's arrival would lead\nto a collision with Mars, or a near",
+    "start": 56.07,
+    "duration": 4.439
+  },
+  {
+    "text": "collision, cameras on the surface of Mars\nand in orbit around the planet could",
+    "start": 60.509,
+    "duration": 4.95
+  },
+  {
+    "text": "record the event. And, that possibility\nprovoked excitement amongst comet",
+    "start": 65.459,
+    "duration": 4.971
+  },
+  {
+    "text": "investigators and planetary scientists\nexploring Mars and its environment.",
+    "start": 70.43,
+    "duration": 7.27
+  },
+  {
+    "text": "New calculations soon gave more precise\nfigures for the comet's trajectory.",
+    "start": 77.7,
+    "duration": 5.32
+  },
+  {
+    "text": "It would not collide with Mars, but approach\nthe planet within some 88,000 miles (well",
+    "start": 83.02,
+    "duration": 5.728
+  },
+  {
+    "text": "under half the distance from Earth to\nthe Moon). Under standard comet theory",
+    "start": 88.748,
+    "duration": 5.47
+  },
+  {
+    "text": "this would be a visitor from the\nconjectured Oort cloud, surrounding our",
+    "start": 94.218,
+    "duration": 4.14
+  },
+  {
+    "text": "Sun in a remote space. So, comet\nscientists expected that instruments on",
+    "start": 98.358,
+    "duration": 6.351
+  },
+  {
+    "text": "the surface of mars and in telescopes\norbiting mars would provide an",
+    "start": 104.709,
+    "duration": 4.601
+  },
+  {
+    "text": "unprecedented look at the\ningredients of an Oort Cloud comet.",
+    "start": 109.31,
+    "duration": 4.959
+  },
+  {
+    "text": "\"Comet Siding Spring - an Oort Clod\ncomet that may contain material from ",
+    "start": 115.069,
+    "duration": 4.581
+  },
+  {
+    "text": "the formation of the Solar System\nsome 4.6 billion years ago.\"",
+    "start": 119.65,
+    "duration": 5.299
+  },
+  {
+    "text": "Estimates place the size of the comet in\nunder a half mile in diameter, however",
+    "start": 124.949,
+    "duration": 6.101
+  },
+  {
+    "text": "that calculation was not based on direct\nobservation of the nucleus - it was",
+    "start": 131.05,
+    "duration": 4.77
+  },
+  {
+    "text": "derived initially from assumptions about\nwater production astronomers just",
+    "start": 135.82,
+    "duration": 4.93
+  },
+  {
+    "text": "assumed that the hydroxyl molecules\ninitially detected were created by water",
+    "start": 140.75,
+    "duration": 5.28
+  },
+  {
+    "text": "molecules from sublimating ices\ninteracting with ultraviolet light from",
+    "start": 146.03,
+    "duration": 4.96
+  },
+  {
+    "text": "the Sun. That would require heating at\nthe comet's surface up to the level",
+    "start": 150.99,
+    "duration": 4.889
+  },
+  {
+    "text": "necessary for surface ices to sublimate.\nIcy surfaces in Jupiter's deep freeze",
+    "start": 155.879,
+    "duration": 6.651
+  },
+  {
+    "text": "do not sublimate even close to the rate\nof water production that we observe",
+    "start": 162.53,
+    "duration": 4.409
+  },
+  {
+    "text": "with an active comet at such distances.\nThat's not a fact to be ignored, and keep",
+    "start": 166.939,
+    "duration": 7.051
+  },
+  {
+    "text": "in mind that laboratory experiments\ndecades ago had already demonstrated the",
+    "start": 173.99,
+    "duration": 5.13
+  },
+  {
+    "text": "production of hydroxyl electrochemically\nwith no contribution from water.",
+    "start": 179.12,
+    "duration": 6.26
+  },
+  {
+    "text": "For electrical theorists,\nthat's the overriding question:",
+    "start": 185.38,
+    "duration": 4.2
+  },
+  {
+    "text": "would electrochemistry play a role,",
+    "start": 189.58,
+    "duration": 2.05
+  },
+  {
+    "text": "possibly an indispensable role,\nin the encounter? ",
+    "start": 191.63,
+    "duration": 4.27
+  },
+  {
+    "text": "Well prior to its arrival at the Martian\norbit, the comet was ejecting dust at three",
+    "start": 195.9,
+    "duration": 5.309
+  },
+  {
+    "text": "times the rate projected by theory, and\nthe velocity at the ejected dust",
+    "start": 201.209,
+    "duration": 4.5
+  },
+  {
+    "text": "particles was more than double\nexpectation.",
+    "start": 205.709,
+    "duration": 4.101
+  },
+  {
+    "text": "That mystery has yet to be resolved.",
+    "start": 209.81,
+    "duration": 3.57
+  },
+  {
+    "text": "Of course, the electrical theorists were\nmost interested in any contribution of",
+    "start": 213.38,
+    "duration": 4.509
+  },
+  {
+    "text": "negative charge from the comet to the\nupper atmosphere of Mars.",
+    "start": 217.889,
+    "duration": 6.511
+  },
+  {
+    "text": "On its arrival at the Martian orbit,\nSiding Spring was traveling about",
+    "start": 224.4,
+    "duration": 3.869
+  },
+  {
+    "text": "35 miles per second and the effects of the\nplanet's entry into the tail of the",
+    "start": 228.269,
+    "duration": 4.571
+  },
+  {
+    "text": "comet were quite spectacular and almost\ninstantaneous explosion of electrons in",
+    "start": 232.84,
+    "duration": 5.83
+  },
+  {
+    "text": "the margin upper atmosphere.\nInvestigators speculated that this blast",
+    "start": 238.67,
+    "duration": 5.148
+  },
+  {
+    "text": "of electrons was due to ionization of\ncometary dust. The dust particles must",
+    "start": 243.818,
+    "duration": 5.071
+  },
+  {
+    "text": "have collided with air molecules from\nMars stripping away free electrons but,",
+    "start": 248.889,
+    "duration": 5.421
+  },
+  {
+    "text": "even at its surface, the Martian\natmosphere is well under 1% of",
+    "start": 254.31,
+    "duration": 3.759
+  },
+  {
+    "text": "the density of Earth's atmosphere and\nthe uppermost region, the ionosphere, of Mars",
+    "start": 258.069,
+    "duration": 5.14
+  },
+  {
+    "text": "is an extraordinarily rarefied layer.\nCould ionizing collisions actually explain",
+    "start": 263.209,
+    "duration": 6.38
+  },
+  {
+    "text": "the remarkable changes in electron\ndensity, a sudden doubling in the",
+    "start": 269.589,
+    "duration": 4.55
+  },
+  {
+    "text": "electron count? We can only pose the\nquestion here, since data is still",
+    "start": 274.139,
+    "duration": 4.971
+  },
+  {
+    "text": "sparse but electron densities in the\nvicinity of comets have puzzled",
+    "start": 279.11,
+    "duration": 4.988
+  },
+  {
+    "text": "scientists since the first encounter\nwith a comet in the mid 80's.",
+    "start": 284.098,
+    "duration": 4.622
+  },
+  {
+    "text": "That was when more than one probe reached\nComet Halley to find a density of",
+    "start": 288.72,
+    "duration": 4.33
+  },
+  {
+    "text": "negatively charged particles,\nforbidden by prevailing theory.",
+    "start": 293.05,
+    "duration": 5.4
+  },
+  {
+    "text": "Earlier theoretical challenges should not\nbe ignored when new discoveries bring",
+    "start": 298.45,
+    "duration": 5.119
+  },
+  {
+    "text": "similar challenges. Could the litany of\ncomet mysteries be due most fundamentally",
+    "start": 303.569,
+    "duration": 6.83
+  },
+  {
+    "text": "to a theoretical mistake, a failure to see\nthe electrical nature of these bodies?",
+    "start": 310.399,
+    "duration": 8.831
+  },
+  {
+    "text": "It was the most ambitious undertaking in\nthe history of comet science: the",
+    "start": 325.33,
+    "duration": 5.25
+  },
+  {
+    "text": "European Space Agency's Rosetta mission\nto Comet 67P Churyumov/Gerasimenko.",
+    "start": 330.58,
+    "duration": 7.109
+  },
+  {
+    "text": "The probe was launched on March 2, 2004\nbeginning a 10 year journey",
+    "start": 338.489,
+    "duration": 5.22
+  },
+  {
+    "text": "to 67P arriving at the comet in the\nsummer of 2014. Following orbital",
+    "start": 343.709,
+    "duration": 7.05
+  },
+  {
+    "text": "corrections from May through July 2014,\nthe Rosetta craft was placed in orbit",
+    "start": 350.759,
+    "duration": 4.95
+  },
+  {
+    "text": "around the 67P nucleus. Then, in August\nand September, onboard instruments began",
+    "start": 355.709,
+    "duration": 6.521
+  },
+  {
+    "text": "gathering data including the first\nmapping of the surface. It would orbit",
+    "start": 362.23,
+    "duration": 6.459
+  },
+  {
+    "text": "the comet nucleus for well over a year\nand the mission would include the",
+    "start": 368.689,
+    "duration": 4.231
+  },
+  {
+    "text": "anticipated touchdown of a lander named\nPhilae, on the surface of the comet.",
+    "start": 372.92,
+    "duration": 9.16
+  },
+  {
+    "text": "From the moment of Rosetta's arrival at 67P,",
+    "start": 382.08,
+    "duration": 3.319
+  },
+  {
+    "text": "investigators faced a succession of\nsurprises, all told, a challenge to every",
+    "start": 385.399,
+    "duration": 5.141
+  },
+  {
+    "text": "standard assumption about a comet as a\n'dirty snowball'. The unsolved mysteries",
+    "start": 390.54,
+    "duration": 6.56
+  },
+  {
+    "text": "included two distinct lobes joined as\none by an improbably narrow neck; no",
+    "start": 397.1,
+    "duration": 8.31
+  },
+  {
+    "text": "appreciable water ice, even in the most\nactive regions of the nucleus, for theory",
+    "start": 405.41,
+    "duration": 5.34
+  },
+  {
+    "text": "would require at the very least some hint\nof ice at the source of the comet's jets.",
+    "start": 410.75,
+    "duration": 5.239
+  },
+  {
+    "text": "The rudimentary molecular building blocks of\nthe Solar System billions of years ago -",
+    "start": 418.13,
+    "duration": 5.08
+  },
+  {
+    "text": "nowhere to be found. Though, confirming such\nstardust in comets was an original",
+    "start": 423.61,
+    "duration": 4.7
+  },
+  {
+    "text": "purpose of the mission. A rock-like surface,\npartially covered by dust, but so hard",
+    "start": 428.31,
+    "duration": 8.589
+  },
+  {
+    "text": "that the Philae lander bounced off the\nsurface and was nearly lost.",
+    "start": 436.899,
+    "duration": 6.481
+  },
+  {
+    "text": "Fields of rocky debris scattered across the\nsurface, all suggesting formative processes",
+    "start": 443.38,
+    "duration": 5.139
+  },
+  {
+    "text": "flatly disallowed by the standard\ntheory about of a 'dirty snowball'.",
+    "start": 448.519,
+    "duration": 6.591
+  },
+  {
+    "text": "Exposure of cliffs with well-defined terracing,\nbut no common orientation, just a jumble",
+    "start": 455.11,
+    "duration": 6.91
+  },
+  {
+    "text": "of segmented blocks (as if) carelessly\nthrown together. Pervasive small",
+    "start": 462.02,
+    "duration": 6.39
+  },
+  {
+    "text": "nodules that should not be there but\nare seen embedded in the surface relief",
+    "start": 468.41,
+    "duration": 4.49
+  },
+  {
+    "text": "wherever the hard surface is exposed.\nSo-called 'sand dunes' and wind-streaks in",
+    "start": 472.9,
+    "duration": 8.809
+  },
+  {
+    "text": "the regions of gathered dust with no\nwind available, in the extreme vacuum of",
+    "start": 481.709,
+    "duration": 4.951
+  },
+  {
+    "text": "space, to create them. A bizarre alignment of\nthe wind-streaks, north to south, but no",
+    "start": 486.66,
+    "duration": 7.29
+  },
+  {
+    "text": "reason given for this consistent\ndirectionality; baffling changes in the",
+    "start": 493.95,
+    "duration": 5.92
+  },
+  {
+    "text": "dust configurations during the period of\nobservation, something never expected and",
+    "start": 499.87,
+    "duration": 5.389
+  },
+  {
+    "text": "too (obviously) prohibited\nunder standard assumptions.",
+    "start": 505.259,
+    "duration": 5.44
+  },
+  {
+    "text": "Acceleration of voluminous dust away\nfrom the comet at velocities simply",
+    "start": 510.699,
+    "duration": 6.251
+  },
+  {
+    "text": "unachievable by mere sublimation of\nsurface volitiles; absence of any",
+    "start": 516.95,
+    "duration": 7.98
+  },
+  {
+    "text": "openings to the imagined pressure\nchambers beneath the surface, the supposed",
+    "start": 524.93,
+    "duration": 4.54
+  },
+  {
+    "text": "sources of the comet's jets. And, no\nenergy profiles of the jets that would",
+    "start": 529.47,
+    "duration": 6.13
+  },
+  {
+    "text": "be consistent with the theorized the\nexplosive release of pressurized gases.",
+    "start": 535.6,
+    "duration": 5.049
+  },
+  {
+    "text": "The confinement of the comet's jets in narrow\nfilaments, in stark contrast to the",
+    "start": 540.649,
+    "duration": 7.101
+  },
+  {
+    "text": "well-known explosive expansion of\npressurized gases in a vacuum.",
+    "start": 547.75,
+    "duration": 7.009
+  },
+  {
+    "text": "Enigmatic electromagnetic oscillations, or\nso-called sounds of the comet.",
+    "start": 554.759,
+    "duration": 5.37
+  },
+  {
+    "text": "A cloud of high-energy electrons close\nto the nucleus, though the presumed",
+    "start": 560.129,
+    "duration": 5.491
+  },
+  {
+    "text": "neutral body and neutral space gives no\nelectrodynamic basis for such charge",
+    "start": 565.62,
+    "duration": 5.389
+  },
+  {
+    "text": "separation. Abundances of molecular\noxygen, or O2, though this molecule is far",
+    "start": 571.009,
+    "duration": 7.77
+  },
+  {
+    "text": "too reactive to survive across the\nimagined epochs of Solar System evolution.",
+    "start": 578.779,
+    "duration": 4.52
+  },
+  {
+    "text": "Concentrations of hydroxyl ions and\nwater molecules in the coma with",
+    "start": 583.299,
+    "duration": 6.951
+  },
+  {
+    "text": "virtually no water on the surface to\naccount for them. From one comet visit to",
+    "start": 590.25,
+    "duration": 7.019
+  },
+  {
+    "text": "another, it seems that the\nmysteries have only deepened.",
+    "start": 597.269,
+    "duration": 4.091
+  },
+  {
+    "text": "But, the first requirement for progress in\nscience is to make sense of the",
+    "start": 605.02,
+    "duration": 4.519
+  },
+  {
+    "text": "surprises; if every major discovery comes as\na surprise, that pattern demands a new",
+    "start": 609.539,
+    "duration": 6.781
+  },
+  {
+    "text": "theoretical framework: comets are not\nwhat we thought ...",
+    "start": 616.32,
+    "duration": 6.019
+  },
+  {
+    "text": "In the review that follows, we will show detail\nby detail that the great surprises of",
+    "start": 622.339,
+    "duration": 5.651
+  },
+  {
+    "text": "comet science are, in fact, the\npredictions of an electric comet model.",
+    "start": 627.99,
+    "duration": 5.349
+  }
+]

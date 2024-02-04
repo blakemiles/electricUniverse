@@ -1,0 +1,822 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe,",
+    "start": 6.88,
+    "duration": 2.93
+  },
+  {
+    "text": "brought to you by The\nThunderbolts Project™",
+    "start": 9.83,
+    "duration": 2.34
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 12.2,
+    "duration": 2.4
+  },
+  {
+    "text": "A new scientific study has provided a\njolt of surprising data on what was",
+    "start": 18.67,
+    "duration": 5.18
+  },
+  {
+    "text": "thought to be the largest and\noldest impact crater on the Moon.",
+    "start": 23.85,
+    "duration": 3.89
+  },
+  {
+    "text": "The lunar South Pole Aitken basin is roughly\n2,500 kilometers in diameter and 13 kilometers",
+    "start": 27.74,
+    "duration": 6.76
+  },
+  {
+    "text": "deep, which makes it one of the largest so-called\nimpact craters in the entire solar system.",
+    "start": 34.5,
+    "duration": 6.03
+  },
+  {
+    "text": "Scientists had theorized that\nthe basin contain minerals from",
+    "start": 40.59,
+    "duration": 3.39
+  },
+  {
+    "text": "the moon's mantle, since a tremendous\nkinetic energy from the hypothetical",
+    "start": 43.98,
+    "duration": 3.66
+  },
+  {
+    "text": "impact would have pierced the lunar crust\nand brought the materials to the surface.",
+    "start": 47.64,
+    "duration": 4.86
+  },
+  {
+    "text": "However, a team of scientists studying\ndata from the Chinese spacecraft",
+    "start": 52.5,
+    "duration": 4.35
+  },
+  {
+    "text": "Chang'e 4's rover have found that in\nreality, the predominant mineral in the",
+    "start": 56.85,
+    "duration": 4.97
+  },
+  {
+    "text": "basin is common in\nthe lunar soil.",
+    "start": 61.82,
+    "duration": 2.86
+  },
+  {
+    "text": "Thus, they have not found the materials\nrequired of such a tremendous impact site.",
+    "start": 64.68,
+    "duration": 4.84
+  },
+  {
+    "text": "The co-author of a new scientific\nstudy published in the Geophysical",
+    "start": 69.52,
+    "duration": 3.88
+  },
+  {
+    "text": "Research Letters, says of the findings, \"We\nare not seeing the mantle materials at",
+    "start": 73.4,
+    "duration": 5.05
+  },
+  {
+    "text": "the landing site\nas expected.\"",
+    "start": 78.45,
+    "duration": 2.01
+  },
+  {
+    "text": "A Phys.org report on the discovery states,\n\"The new study complicates theories about how",
+    "start": 80.46,
+    "duration": 5.76
+  },
+  {
+    "text": "the oldest, largest crater on the Moon\nformed, adding to the body of knowledge",
+    "start": 86.22,
+    "duration": 4.07
+  },
+  {
+    "text": "about the Moon's history... The new study\ncomplicates the certainty of earlier",
+    "start": 90.29,
+    "duration": 4.84
+  },
+  {
+    "text": "findings and points toward a need for continued\nresearch on the far side's lunar surface...\"",
+    "start": 95.13,
+    "duration": 5.24
+  },
+  {
+    "text": "Of course, the complication of\nscientific theories is inevitable if",
+    "start": 100.39,
+    "duration": 4.97
+  },
+  {
+    "text": "only one theory is\nconsidered.",
+    "start": 105.39,
+    "duration": 2.15
+  },
+  {
+    "text": "A striking example of so-called settled\nscience, which was settled prematurely, is the",
+    "start": 107.56,
+    "duration": 5.69
+  },
+  {
+    "text": "question of how the\nMoon got its craters.",
+    "start": 113.28,
+    "duration": 1.97
+  },
+  {
+    "text": "As we entered the Space Age, the debate\namong geologists and astronomers had",
+    "start": 115.25,
+    "duration": 4.98
+  },
+  {
+    "text": "only considered two\nhypotheses: impacts and volcanism.",
+    "start": 120.24,
+    "duration": 5.25
+  },
+  {
+    "text": "After Apollo astronauts returned\nlunar samples to Earth,",
+    "start": 125.5,
+    "duration": 3.25
+  },
+  {
+    "text": "analysis revealed a tremendous portion\nof the material was composed of shocked",
+    "start": 128.81,
+    "duration": 4.25
+  },
+  {
+    "text": "and welded minerals.",
+    "start": 133.13,
+    "duration": 1.44
+  },
+  {
+    "text": "Thus, the impact origin of lunar craters became the\nconsensus scientific theory and remains so today.",
+    "start": 134.66,
+    "duration": 6.79
+  },
+  {
+    "text": "But like so much settled science, the dilemma was settled\nwithout the successful resolution of countless anomalies.",
+    "start": 141.47,
+    "duration": 7.01
+  },
+  {
+    "text": "Why the Moon is so heavily cratered is itself a\npuzzle which still demands a satisfactory answer.",
+    "start": 148.48,
+    "duration": 6.0
+  },
+  {
+    "text": "The Moon and some other bodies in\nthe solar system are so heavily cratered",
+    "start": 154.5,
+    "duration": 3.83
+  },
+  {
+    "text": "that astronomers invented a violent\nepoch called the late heavy bombardment,",
+    "start": 158.33,
+    "duration": 5.32
+  },
+  {
+    "text": "a period when disproportionate numbers\nof asteroids supposedly collided with",
+    "start": 163.65,
+    "duration": 4.04
+  },
+  {
+    "text": "planets in the\ninner solar system.",
+    "start": 167.69,
+    "duration": 2.02
+  },
+  {
+    "text": "One reason for the hypothesis is that\nisotopic dating of Moon rocks seems to",
+    "start": 169.76,
+    "duration": 4.97
+  },
+  {
+    "text": "imply that the so-called impacts caused\nrocks to melt over a relatively short time.",
+    "start": 174.73,
+    "duration": 5.7
+  },
+  {
+    "text": "But problems with the late heavy\nbombardment hypothesis abound, and",
+    "start": 180.43,
+    "duration": 3.85
+  },
+  {
+    "text": "mainstream science continues to debate where\nthe impacting bodies could have come from?",
+    "start": 184.28,
+    "duration": 5.28
+  },
+  {
+    "text": "Astronomers have long believed\nthat asteroids were the source of the",
+    "start": 189.56,
+    "duration": 3.29
+  },
+  {
+    "text": "hypothetical bombardment.",
+    "start": 192.85,
+    "duration": 1.55
+  },
+  {
+    "text": "However, in 2017, the scientific paper modeling\nthe historical flux of planetary impactors",
+    "start": 194.43,
+    "duration": 6.89
+  },
+  {
+    "text": "acknowledges that \"asteroids were\nprobably not responsible for the late",
+    "start": 201.32,
+    "duration": 4.62
+  },
+  {
+    "text": "heavy bombardment.",
+    "start": 205.94,
+    "duration": 1.62
+  },
+  {
+    "text": "The authors instead call on planetary\nmigration in the early solar system and",
+    "start": 207.57,
+    "duration": 4.58
+  },
+  {
+    "text": "propose that \"Comets and leftovers\nof the terrestrial planet formation",
+    "start": 212.15,
+    "duration": 4.44
+  },
+  {
+    "text": "provided additional, and probably dominant\nsource of impacts during early epochs.\"",
+    "start": 216.59,
+    "duration": 5.73
+  },
+  {
+    "text": "Unfortunately, mainstream\nscientists today seem unaware that a",
+    "start": 222.32,
+    "duration": 4.22
+  },
+  {
+    "text": "sound scientific foundation exists for\nan entirely different hypothesis of",
+    "start": 226.54,
+    "duration": 4.72
+  },
+  {
+    "text": "cratering on the Moon\nand other rocky bodies.",
+    "start": 231.26,
+    "duration": 3.21
+  },
+  {
+    "text": "In fact, in 1965, the amateur\nastronomer Brian J. Ford published his",
+    "start": 234.52,
+    "duration": 5.26
+  },
+  {
+    "text": "laboratory experiments suggesting that\ncraters on the Moon were carved by",
+    "start": 239.78,
+    "duration": 4.17
+  },
+  {
+    "text": "cosmic lightning bolts.",
+    "start": 243.95,
+    "duration": 1.53
+  },
+  {
+    "text": "In the cited experiments, Ford used\nthe spark machining",
+    "start": 245.49,
+    "duration": 3.85
+  },
+  {
+    "text": "apparatus to reproduce in miniature some\nof the most puzzling lunar features,",
+    "start": 249.38,
+    "duration": 4.34
+  },
+  {
+    "text": "including craters with central peaks,\nsmall craters preferentially perched on",
+    "start": 253.72,
+    "duration": 5.11
+  },
+  {
+    "text": "the high rims of larger craters,\nand craters strung-out in long chains.",
+    "start": 258.83,
+    "duration": 4.68
+  },
+  {
+    "text": "He also observed that the ratio\nof large to small craters on the Moon",
+    "start": 263.51,
+    "duration": 3.77
+  },
+  {
+    "text": "matched the ratio seen in electrical\narcing, and as with craters seen",
+    "start": 267.28,
+    "duration": 4.66
+  },
+  {
+    "text": "elsewhere in the solar system, Ford\nremarked on the mystery of their",
+    "start": 271.94,
+    "duration": 3.47
+  },
+  {
+    "text": "typical extreme circularity.",
+    "start": 275.41,
+    "duration": 2.12
+  },
+  {
+    "text": "He noted that over 90% of lunar craters cannot\nhave been produced by side-swiping impacts.",
+    "start": 277.59,
+    "duration": 5.95
+  },
+  {
+    "text": "So planetary scientists\nconcluded that the kinetic energy of an",
+    "start": 283.54,
+    "duration": 4.27
+  },
+  {
+    "text": "impactor must simply be converted into\npowerful surface explosions.",
+    "start": 287.81,
+    "duration": 3.72
+  },
+  {
+    "text": "However, highly circular craters are routinely\nproduced in the industrial process of",
+    "start": 291.53,
+    "duration": 6.35
+  },
+  {
+    "text": "electrical discharge machining.",
+    "start": 297.88,
+    "duration": 1.6
+  },
+  {
+    "text": "Many years before Ford's published\nexperiments and long before the Apollo",
+    "start": 299.53,
+    "duration": 4.93
+  },
+  {
+    "text": "missions to the Moon,\nDr. Immanuel Velikovsky had made the",
+    "start": 304.46,
+    "duration": 3.42
+  },
+  {
+    "text": "outrageous prediction that remanent\nmagnetism would be found in the lunar rocks.",
+    "start": 307.88,
+    "duration": 4.61
+  },
+  {
+    "text": "Astronomers had completely\nrejected the idea, since the Moon today",
+    "start": 312.49,
+    "duration": 4.12
+  },
+  {
+    "text": "has only a very weak magnetic field and\nis believed to have been geologically",
+    "start": 316.61,
+    "duration": 4.32
+  },
+  {
+    "text": "dead for a billion years.",
+    "start": 320.93,
+    "duration": 1.53
+  },
+  {
+    "text": "But Velikovsky based his prediction on\nhis hypothesis of recent planetary",
+    "start": 322.46,
+    "duration": 4.82
+  },
+  {
+    "text": "catastrophe, involving interplanetary\nlightning between celestial bodies.",
+    "start": 327.28,
+    "duration": 4.85
+  },
+  {
+    "text": "Of course, like several other outrageous\npredictions by Velikovsky, it was proven correct.",
+    "start": 332.13,
+    "duration": 5.0
+  },
+  {
+    "text": "Velikovsky's colleague, the\nengineer Ralph Juergens also provided a",
+    "start": 337.13,
+    "duration": 5.49
+  },
+  {
+    "text": "remarkable analysis which should have\nbeen included in the scientific debate",
+    "start": 342.62,
+    "duration": 3.93
+  },
+  {
+    "text": "on the Moon's history\nand geological features.",
+    "start": 346.55,
+    "duration": 2.93
+  },
+  {
+    "text": "One of the most puzzling\nfeatures of the Moon is the sinuous rille,",
+    "start": 349.49,
+    "duration": 3.98
+  },
+  {
+    "text": "which is a long and winding valley, usually\nwith steep walls and often emerging from a crater.",
+    "start": 353.47,
+    "duration": 6.03
+  },
+  {
+    "text": "This feature is pervasive on\nthe Moon at dramatically different scales.",
+    "start": 359.5,
+    "duration": 4.98
+  },
+  {
+    "text": "Prior to the Apollo missions,\nastronomers' early hypotheses suggested",
+    "start": 364.48,
+    "duration": 4.15
+  },
+  {
+    "text": "that the rilles were \"cracks\" on the\nMoon's surface.",
+    "start": 368.63,
+    "duration": 2.9
+  },
+  {
+    "text": "Later guesses included flowing water\nuntil scientists settled",
+    "start": 371.53,
+    "duration": 4.21
+  },
+  {
+    "text": "on flowing lava as\nthe agent.",
+    "start": 375.74,
+    "duration": 2.74
+  },
+  {
+    "text": "Today, the accepted theory is that the Moon's\nsinuous rilles were created either by",
+    "start": 378.49,
+    "duration": 4.03
+  },
+  {
+    "text": "lava flowing across the surface or\nbeneath the ground to form a \"lava",
+    "start": 382.52,
+    "duration": 4.76
+  },
+  {
+    "text": "tube,\" portions of which eventually collapsed.",
+    "start": 387.28,
+    "duration": 3.27
+  },
+  {
+    "text": "Juergens compared the respective\npoint-by-point requirements of various",
+    "start": 390.55,
+    "duration": 4.12
+  },
+  {
+    "text": "competing theories, versus the actual\nobserved characteristics of the rilles.",
+    "start": 394.68,
+    "duration": 5.09
+  },
+  {
+    "text": "Unlike planetary scientists, Juergens\nincluded among the possible agents,",
+    "start": 399.77,
+    "duration": 5.07
+  },
+  {
+    "text": "high-energy electrical discharge.",
+    "start": 404.84,
+    "duration": 2.68
+  },
+  {
+    "text": "On every evidentiary point, the\nelectrical discharge hypothesis is either",
+    "start": 407.52,
+    "duration": 4.86
+  },
+  {
+    "text": "permissible or predictable, and unlike\nevery competing hypothesis, in not a",
+    "start": 412.38,
+    "duration": 5.52
+  },
+  {
+    "text": "single instance does the evidence\npreclude electrical discharge as the",
+    "start": 417.9,
+    "duration": 4.44
+  },
+  {
+    "text": "cause of the rilles.",
+    "start": 422.34,
+    "duration": 1.04
+  },
+  {
+    "text": "Even prior to Juergens'investigation,\nseveral scientists had noted that",
+    "start": 423.38,
+    "duration": 4.65
+  },
+  {
+    "text": "flowing liquids, whether water or lava,\ncould not have caused the observed",
+    "start": 428.03,
+    "duration": 4.62
+  },
+  {
+    "text": "features of the lunar rilles,\nincluding the strings of craters along",
+    "start": 432.65,
+    "duration": 3.85
+  },
+  {
+    "text": "the rille's floors.",
+    "start": 436.5,
+    "duration": 1.17
+  },
+  {
+    "text": "These points are dramatically emphasized\nwhen we examine",
+    "start": 437.67,
+    "duration": 3.43
+  },
+  {
+    "text": "the Moon's famous Hadley Rille.",
+    "start": 441.1,
+    "duration": 2.3
+  },
+  {
+    "text": "Today, planetary scientists\nagree that the rille",
+    "start": 443.4,
+    "duration": 2.0
+  },
+  {
+    "text": "is a \"collapsed lava tube.\"",
+    "start": 445.4,
+    "duration": 2.07
+  },
+  {
+    "text": "However, the rille does not match the\nrequired characteristics of lava tubes",
+    "start": 447.9,
+    "duration": 4.65
+  },
+  {
+    "text": "on numerous points, most importantly the\ncollapsed areas of a lava tube will be",
+    "start": 452.55,
+    "duration": 5.25
+  },
+  {
+    "text": "rubble filled depressions.",
+    "start": 457.8,
+    "duration": 1.76
+  },
+  {
+    "text": "High-resolution images of the rille\nreveal no rubble and no collapsed tubes.",
+    "start": 459.57,
+    "duration": 4.74
+  },
+  {
+    "text": "It is simply an empty, sharply cut\nchannel which matches the expected",
+    "start": 464.82,
+    "duration": 4.77
+  },
+  {
+    "text": "characteristics of an electrical\n\"breakdown channel.\"",
+    "start": 469.59,
+    "duration": 3.92
+  },
+  {
+    "text": "Perhaps the greatest problem\nfor the volcanic hypothesis of",
+    "start": 473.57,
+    "duration": 2.95
+  },
+  {
+    "text": "lunar rilles is their\ntremendous length.",
+    "start": 476.52,
+    "duration": 3.26
+  },
+  {
+    "text": "On our own planet, the longest\nlava tube reaches only 65 km.",
+    "start": 479.78,
+    "duration": 4.53
+  },
+  {
+    "text": "That is about half the length\nof Hadley Rille, which is 130 km.",
+    "start": 484.31,
+    "duration": 5.18
+  },
+  {
+    "text": "However, the exact opposite should\nbe true.",
+    "start": 489.49,
+    "duration": 3.02
+  },
+  {
+    "text": "On Earth, the atmosphere is insulating,\nallowing lava to retain its heat.",
+    "start": 492.51,
+    "duration": 5.0
+  },
+  {
+    "text": "In the near-perfect vacuum of space, heat\nwill be much more rapidly radiated away.",
+    "start": 497.53,
+    "duration": 5.98
+  },
+  {
+    "text": "On our planet, as lava\nflows over distances no more than tens",
+    "start": 503.51,
+    "duration": 3.82
+  },
+  {
+    "text": "of kilometers, the cooling at the surface\ncauses a roof to form.",
+    "start": 507.33,
+    "duration": 4.04
+  },
+  {
+    "text": "It may then continue to flow\nas a tube beneath the surface.",
+    "start": 511.37,
+    "duration": 4.17
+  },
+  {
+    "text": "That is the only way the lava tubes\ncan achieve even their modest lengths.",
+    "start": 515.56,
+    "duration": 3.99
+  },
+  {
+    "text": "Consider then the most prominent\nlunar rille, called Schroeder's Valley, 185",
+    "start": 519.55,
+    "duration": 6.21
+  },
+  {
+    "text": "kilometers long and up to 10 kilometers\nwide, with its depth at points reaching",
+    "start": 525.76,
+    "duration": 5.55
+  },
+  {
+    "text": "up to 1,300 meters.",
+    "start": 531.31,
+    "duration": 2.21
+  },
+  {
+    "text": "Flowing lava, eating away surface material\nto cut a deep",
+    "start": 533.54,
+    "duration": 3.99
+  },
+  {
+    "text": "channel, would have to show up somewhere.",
+    "start": 537.53,
+    "duration": 1.99
+  },
+  {
+    "text": "We should see either breaches in the\ndeep walls or evidence of abundant outflow.",
+    "start": 539.53,
+    "duration": 5.01
+  },
+  {
+    "text": "Instead, the channel simply\ndwindles until it disappears.",
+    "start": 544.54,
+    "duration": 5.93
+  },
+  {
+    "text": "Curiously, the flow of rilles on\nthe Moon and other",
+    "start": 550.47,
+    "duration": 2.95
+  },
+  {
+    "text": "worlds isn’t limited to downhill, like\nlava and water-carved channels on Earth.",
+    "start": 553.42,
+    "duration": 4.5
+  },
+  {
+    "text": "All fluid erosion theories for\nSchroeder's Valley have chosen to ignore",
+    "start": 557.92,
+    "duration": 4.47
+  },
+  {
+    "text": "that the apparent mouth of the\n\"stream\" is on high ground, and the",
+    "start": 562.39,
+    "duration": 4.98
+  },
+  {
+    "text": "narrowest part of the\nchannel is on low ground.",
+    "start": 567.37,
+    "duration": 2.1
+  },
+  {
+    "text": "We also note that within\nSchroeder's Valley is a much more narrow",
+    "start": 569.5,
+    "duration": 4.38
+  },
+  {
+    "text": "secondary rille whose defining feature is\na chain of small craters.",
+    "start": 573.88,
+    "duration": 4.61
+  },
+  {
+    "text": "If the Moon was indeed ravaged by\nhigh-energy electrical",
+    "start": 578.49,
+    "duration": 4.65
+  },
+  {
+    "text": "discharge, nothing found in decades of lunar\nstudies is inconsistent with the hypothesis.",
+    "start": 583.14,
+    "duration": 6.17
+  },
+  {
+    "text": "This includes the discovery\nof glass spherules, chondrules and minerals",
+    "start": 589.31,
+    "duration": 4.67
+  },
+  {
+    "text": "formed at high temperatures, typically\nassociated with volcanic lightning found",
+    "start": 593.98,
+    "duration": 4.38
+  },
+  {
+    "text": "in abundance in the lunar soil.",
+    "start": 598.36,
+    "duration": 2.14
+  },
+  {
+    "text": "It includes the stunning disparity in\ncratering between the Moon's far side,",
+    "start": 600.57,
+    "duration": 3.82
+  },
+  {
+    "text": "which is massively cratered, and the\nEarth-facing near side, which is far less",
+    "start": 604.39,
+    "duration": 5.06
+  },
+  {
+    "text": "cratered, and with considerably less\ncrustal thickness, a disparity which",
+    "start": 609.45,
+    "duration": 4.6
+  },
+  {
+    "text": "calls to mind the equally baffling\nMartian hemispheric dichotomy, and",
+    "start": 614.05,
+    "duration": 4.02
+  },
+  {
+    "text": "similar dichotomies seen on many other\nrocky bodies, and it includes the many",
+    "start": 618.07,
+    "duration": 5.31
+  },
+  {
+    "text": "types of craters seen throughout the\nsolar system which are difficult or even",
+    "start": 623.38,
+    "duration": 4.26
+  },
+  {
+    "text": "impossible to explain\nthrough the impact hypothesis.",
+    "start": 627.64,
+    "duration": 3.87
+  },
+  {
+    "text": "From the aforementioned\npuzzle of smaller craters consistently",
+    "start": 631.54,
+    "duration": 3.51
+  },
+  {
+    "text": "appearing on the rims of larger craters,\nto crater chains, weird hexagonal craters,",
+    "start": 635.05,
+    "duration": 7.3
+  },
+  {
+    "text": "and craters with cleanly cut floors free\nof any ejecta from an explosive impact.",
+    "start": 642.35,
+    "duration": 4.71
+  },
+  {
+    "text": "As we've exhaustively outlined for seven\nyears on this series, all of these types",
+    "start": 647.06,
+    "duration": 6.15
+  },
+  {
+    "text": "of craters are routinely seen in\nexperiments with electrical discharge.",
+    "start": 653.21,
+    "duration": 4.32
+  },
+  {
+    "text": "In the early Space Age, the Moon was a\nsymbol of mankind overcoming his",
+    "start": 657.53,
+    "duration": 5.4
+  },
+  {
+    "text": "physical restriction to Planet Earth, as\nwell as extending the reach of his",
+    "start": 662.93,
+    "duration": 4.53
+  },
+  {
+    "text": "knowledge of the cosmos.",
+    "start": 667.46,
+    "duration": 1.97
+  },
+  {
+    "text": "Yet today, as in all of the theoretical\nSpace Sciences, we",
+    "start": 669.46,
+    "duration": 3.97
+  },
+  {
+    "text": "see an immense disconnect between\npopular theory and the revelations of",
+    "start": 673.43,
+    "duration": 4.83
+  },
+  {
+    "text": "discovery, a disconnect which can only be\nresolved by willingness to explore",
+    "start": 678.26,
+    "duration": 4.74
+  },
+  {
+    "text": "entirely new possibilities.",
+    "start": 683.0,
+    "duration": 2.55
+  },
+  {
+    "text": "More than half a century has passed\nsince the first footstep on the Moon.",
+    "start": 685.97,
+    "duration": 3.5
+  },
+  {
+    "text": "And the possibility still exists for a\n\"giant leap\" toward a truer understanding of",
+    "start": 689.47,
+    "duration": 6.28
+  },
+  {
+    "text": "the Moon's history and origins.",
+    "start": 695.75,
+    "duration": 2.98
+  }
+]

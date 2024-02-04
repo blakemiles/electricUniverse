@@ -1,0 +1,107 @@
+[
+  {
+    "text": "For thousands of years, we humans have\ngazed up at the sky and wondered,",
+    "start": 7.055,
+    "duration": 5.173
+  },
+  {
+    "text": "looked for messages, looked for\nkeys to deeper understanding.",
+    "start": 12.253,
+    "duration": 5.062
+  },
+  {
+    "text": "But perhaps the\ncosmos is laughing.",
+    "start": 19.144,
+    "duration": 3.246
+  },
+  {
+    "text": "Do we really see the universe as it\nis or as we thought it should be?",
+    "start": 22.39,
+    "duration": 5.075
+  },
+  {
+    "text": "Throughout the space-age,\nastonishment and surprise",
+    "start": 28.564,
+    "duration": 3.633
+  },
+  {
+    "text": "have been the hallmark\nof scientific progress.",
+    "start": 32.222,
+    "duration": 2.722
+  },
+  {
+    "text": "Everywhere we've looked, whether\nclose to Earth or in remote space,",
+    "start": 34.969,
+    "duration": 4.381
+  },
+  {
+    "text": "we've uncovered things\nforbidden by our theories.",
+    "start": 39.35,
+    "duration": 3.485
+  },
+  {
+    "text": "What we expected to\nfind, we've not found.",
+    "start": 42.86,
+    "duration": 3.129
+  },
+  {
+    "text": "And things beyond all expectation\nhave become commonplace.",
+    "start": 46.014,
+    "duration": 4.623
+  },
+  {
+    "text": "In science a surprise\nis always good news.",
+    "start": 52.375,
+    "duration": 3.594
+  },
+  {
+    "text": "It prods us to see things differently,\nto ask more pointed questions.",
+    "start": 55.969,
+    "duration": 4.64
+  },
+  {
+    "text": "One discovery in space\ninspires another,",
+    "start": 60.609,
+    "duration": 3.061
+  },
+  {
+    "text": "and beneath it all today is the\nencounter with the one thing",
+    "start": 63.695,
+    "duration": 3.364
+  },
+  {
+    "text": "our theories didn't allow --\nintense electromagnetism.",
+    "start": 67.084,
+    "duration": 4.605
+  },
+  {
+    "text": "Electrical and magnetic\nenergies in the vacuum of space",
+    "start": 71.689,
+    "duration": 3.646
+  },
+  {
+    "text": "beyond anything\nastronomers expected.",
+    "start": 75.36,
+    "duration": 2.604
+  },
+  {
+    "text": "That's what has happened as astronomers,\nphysicists, and planetary scientists,",
+    "start": 77.989,
+    "duration": 5.11
+  },
+  {
+    "text": "have come face to face with\nthe Electric Universe.",
+    "start": 83.099,
+    "duration": 4.552
+  },
+  {
+    "text": "Please join us in this journey to\nthe frontiers of discovery",
+    "start": 87.676,
+    "duration": 4.917
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 92.618,
+    "duration": 7.985
+  }
+]

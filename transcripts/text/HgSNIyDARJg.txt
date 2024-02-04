@@ -1,0 +1,637 @@
+[
+  {
+    "text": "[Music]",
+    "start": 1.74,
+    "duration": 7.06
+  },
+  {
+    "text": "While walking and talking with a friend who was\na mechanical engineer, he asked me, what is science?",
+    "start": 11.76,
+    "duration": 6.18
+  },
+  {
+    "text": "Great question, which eventually led us to\ntalking about what is lacking in today's science.",
+    "start": 18.66,
+    "duration": 5.52
+  },
+  {
+    "text": "I proposed that when an astronomer\nlooks at a beautiful nebula,",
+    "start": 25.02,
+    "duration": 5.16
+  },
+  {
+    "text": "the first question should be what is the\nfunction of that? But of course, that is not",
+    "start": 30.18,
+    "duration": 7.44
+  },
+  {
+    "text": "the first question most astronomers ask. This is\nthe crux of why astronomy is currently broken.",
+    "start": 37.62,
+    "duration": 6.54
+  },
+  {
+    "text": "Our first question should be, what function is\nthat serving? And yet that is never even asked.",
+    "start": 45.12,
+    "duration": 8.16
+  },
+  {
+    "text": "Hence, modern astronomy can never\nunderstand anything it is looking at.",
+    "start": 53.28,
+    "duration": 4.5
+  },
+  {
+    "text": "With a surprised smile he said, give me an\nexample [of] cosmological things having a function.",
+    "start": 60.06,
+    "duration": 6.72
+  },
+  {
+    "text": "I replied, did you know that the atmosphere\nabove our heads has seven or eight distinct",
+    "start": 67.98,
+    "duration": 5.16
+  },
+  {
+    "text": "layers before it meets the magnetosphere?\nAnd the magnetosphere itself has seven",
+    "start": 73.14,
+    "duration": 5.76
+  },
+  {
+    "text": "or eight layers and structures which\ncomplete the connection to the solar wind?",
+    "start": 78.9,
+    "duration": 3.96
+  },
+  {
+    "text": "It takes all these layers and structures\nto connect the solar wind to the Earth.",
+    "start": 84.18,
+    "duration": 5.1
+  },
+  {
+    "text": "That is the function of those layers. If those\nlayers were not present, then the solar wind",
+    "start": 89.82,
+    "duration": 6.6
+  },
+  {
+    "text": "would crash into the surface of the Earth\ncreating a mix of ceramic and molten glass.",
+    "start": 96.42,
+    "duration": 5.28
+  },
+  {
+    "text": "These layers are not an accident. One of their\npurposes is to allow organic life to exist on",
+    "start": 103.56,
+    "duration": 7.68
+  },
+  {
+    "text": "Earth. The presence of plants and animals is\na vital importance to the Earth, and hence to",
+    "start": 111.24,
+    "duration": 6.84
+  },
+  {
+    "text": "the solar system as a whole. To say that all\nof life on Earth is an accident, typifies how",
+    "start": 118.08,
+    "duration": 7.2
+  },
+  {
+    "text": "out of touch modern scientists are with reality.\nI feel the need to say that again: to say that",
+    "start": 125.28,
+    "duration": 7.44
+  },
+  {
+    "text": "all of life on Earth is an accident, typifies how\nout-of-touch modern scientists are with reality.",
+    "start": 132.72,
+    "duration": 6.72
+  },
+  {
+    "text": "Why would a planet have a magnetic body, and a\nplasma body, and a monoatomic body and a gaseous",
+    "start": 140.94,
+    "duration": 6.78
+  },
+  {
+    "text": "body? Why would the electric currents from the\nSun go into and out of the poles of the Earth?",
+    "start": 147.72,
+    "duration": 5.88
+  },
+  {
+    "text": "Answer. The energy of the Sun must be digested\nby the Earth. Outside our Earth is a world of",
+    "start": 154.56,
+    "duration": 7.74
+  },
+  {
+    "text": "almost inconceivable fire, rarified beyond our\nunderstanding, so energetic, most atoms cannot exist.",
+    "start": 162.3,
+    "duration": 10.08
+  },
+  {
+    "text": "One must come down into the sphere of a planet\nbefore the electron and the proton can settle",
+    "start": 172.98,
+    "duration": 5.46
+  },
+  {
+    "text": "down enough, to come together into even the first\nmolecules. And yet, here on the surface of the",
+    "start": 178.44,
+    "duration": 7.14
+  },
+  {
+    "text": "Earth, everything lives in a cool, wet world with\nrain and wood, and ice, and fish, rivers and fields.",
+    "start": 185.58,
+    "duration": 8.34
+  },
+  {
+    "text": "This is an enormous stepping down. This is a\ncondensation, more extreme than liquid into ice.",
+    "start": 194.76,
+    "duration": 7.2
+  },
+  {
+    "text": "The matter itself must be carefully brought,\nthrough stage after stage of cooling and",
+    "start": 202.8,
+    "duration": 6.96
+  },
+  {
+    "text": "solidifying. These functional layers are what\nis needed to convert the solar wind energy",
+    "start": 209.76,
+    "duration": 6.66
+  },
+  {
+    "text": "to be usable here on Earth. My engineering friend\nsaid, that's a very poetic way to describe things.",
+    "start": 217.74,
+    "duration": 8.04
+  },
+  {
+    "text": "I thought about it and responded. Yes, but it's\nalso the solution to an engineering problem.",
+    "start": 226.68,
+    "duration": 6.18
+  },
+  {
+    "text": "Where else have we seen the union of engineering\nsolutions with beauty? Oh, that's right. We see it",
+    "start": 235.02,
+    "duration": 6.72
+  },
+  {
+    "text": "everywhere here on Earth. Every butterfly wing,\nevery spider web, every musical instrument, every",
+    "start": 241.74,
+    "duration": 6.48
+  },
+  {
+    "text": "flower, every perfectly tuned car engine, all\nbuilt to solve a very practical problem and",
+    "start": 248.22,
+    "duration": 6.6
+  },
+  {
+    "text": "all beautiful. The Victorian idiot warmongers who\nhave forfeited their sex and the Darwin school",
+    "start": 254.82,
+    "duration": 7.74
+  },
+  {
+    "text": "flunkies, have somehow convinced many of us that\nlife is ugly and brutish and somehow makes sense,",
+    "start": 262.56,
+    "duration": 7.74
+  },
+  {
+    "text": "only if profits are kept up, and new territories\nare conquered. Nature always makes a profit, but",
+    "start": 270.3,
+    "duration": 7.5
+  },
+  {
+    "text": "not at the expense of itself, and somehow does\nit by maintaining a very high standard of beauty.",
+    "start": 277.8,
+    "duration": 6.12
+  },
+  {
+    "text": "If our current scientists are not trained in\nbeauty, they will forever miss the mark. Tell me",
+    "start": 285.24,
+    "duration": 6.12
+  },
+  {
+    "text": "your explanation of things; if it lacks beauty,\nthen I will know you are on the wrong track.",
+    "start": 291.36,
+    "duration": 4.68
+  },
+  {
+    "text": "The Electric Universe position helps with all\nthis. I am still at a bit of a loss how this is so.",
+    "start": 298.02,
+    "duration": 6.66
+  },
+  {
+    "text": "In 2010 I came across Wal Thornhill's work\non how supernovae make much more sense as an",
+    "start": 305.28,
+    "duration": 5.58
+  },
+  {
+    "text": "electrical phenomenon and that began my journey of\nseeing that including electricity in the models",
+    "start": 310.86,
+    "duration": 6.42
+  },
+  {
+    "text": "naturally paints the correct\npicture of a hierarchical universe.",
+    "start": 317.82,
+    "duration": 3.84
+  },
+  {
+    "text": "Maybe it's because electricity naturally\ntravels between larger and smaller worlds.",
+    "start": 322.86,
+    "duration": 5.28
+  },
+  {
+    "text": "Maybe it's the other way around, and people who\nfeel that we live in a living Universe are drawn",
+    "start": 328.86,
+    "duration": 6.24
+  },
+  {
+    "text": "to using electricity as a way of describing what\nthey see. For too long the progress of contemporary",
+    "start": 335.1,
+    "duration": 7.8
+  },
+  {
+    "text": "science has been made absurdly slow because we\nhave no idea what we're looking for. Whereas if",
+    "start": 342.9,
+    "duration": 7.68
+  },
+  {
+    "text": "we started with the idea that we live in a living\nUniverse which is a structured hierarchy, and that",
+    "start": 350.58,
+    "duration": 7.2
+  },
+  {
+    "text": "energy and influence must travel from the larger\nworlds into the smaller, and then again be brought",
+    "start": 357.78,
+    "duration": 6.48
+  },
+  {
+    "text": "up from the smaller back up to the larger, well\nthen the progress of science would go much faster.",
+    "start": 364.26,
+    "duration": 6.54
+  },
+  {
+    "text": "Instead of being surprised that our atmosphere has\nlayers, we would begin the research expecting such",
+    "start": 371.64,
+    "duration": 7.32
+  },
+  {
+    "text": "an arrangement. And we'd look for the role\nof electricity in maintaining these layers.",
+    "start": 378.96,
+    "duration": 5.58
+  },
+  {
+    "text": "A colleague of mine sent me this link about the\nACES II mission. Let's spend a little time looking",
+    "start": 385.74,
+    "duration": 7.32
+  },
+  {
+    "text": "at the mission. Here are some images of the flow\nof electric current around the solid, rocky Earth.",
+    "start": 393.06,
+    "duration": 7.92
+  },
+  {
+    "text": "The electric and magnetic body\nof the Earth is quite complex.",
+    "start": 402.24,
+    "duration": 3.9
+  },
+  {
+    "text": "It is important to change your thinking\nabout what is the body of the Earth.",
+    "start": 407.1,
+    "duration": 4.62
+  },
+  {
+    "text": "Because we all have received no training in how to\nuse our five senses, we generally believe that the",
+    "start": 412.38,
+    "duration": 6.6
+  },
+  {
+    "text": "body of the Earth is only the rock below our feet.\nBut this is only a part of the body of the Earth.",
+    "start": 418.98,
+    "duration": 8.4
+  },
+  {
+    "text": "Maybe we could call the rocky part the bones\nof the Earth. Around this solid core is a body",
+    "start": 427.98,
+    "duration": 6.84
+  },
+  {
+    "text": "just as complex and multi-layered as the\nrest of your body that surrounds your bones.",
+    "start": 434.82,
+    "duration": 6.0
+  },
+  {
+    "text": "Plasma has an amazing ability to segregate to form\nwalls, membranes, and tubes. The flow of electricity",
+    "start": 441.96,
+    "duration": 8.4
+  },
+  {
+    "text": "through this larger body of the Earth is just\nas segregated as the flow of blood in your veins.",
+    "start": 450.36,
+    "duration": 6.9
+  },
+  {
+    "text": "The plasma flows only where it is supposed to.\nAnd just like your arteries and veins, the plasma",
+    "start": 458.76,
+    "duration": 6.42
+  },
+  {
+    "text": "membranes are semi-permeable. The right things get\nin, the right things get out. And still, the whole",
+    "start": 465.18,
+    "duration": 7.2
+  },
+  {
+    "text": "system is highly pressurized and self-contained.\nLong before the mammalian circulatory system came",
+    "start": 472.38,
+    "duration": 8.52
+  },
+  {
+    "text": "to be, the Earth had solved all the problems\nof a self-contained circulatory system",
+    "start": 480.9,
+    "duration": 6.24
+  },
+  {
+    "text": "with semi-permeable membranes. Only it did so in\nthe realm of plasma, electricity and magnetism.",
+    "start": 487.86,
+    "duration": 6.84
+  },
+  {
+    "text": "Getting back to the ACES II\nMission, look at this image.",
+    "start": 496.38,
+    "duration": 3.3
+  },
+  {
+    "text": "The orange lines coming into and flowing away\nfrom the Earth are electric currents. The flows",
+    "start": 500.64,
+    "duration": 6.6
+  },
+  {
+    "text": "have an interesting double in-and-out structure.\nEnergy comes from far away, and then it goes",
+    "start": 507.24,
+    "duration": 6.78
+  },
+  {
+    "text": "back into the magnetosphere, and then it returns,\nand then it is sent back into the solar system.",
+    "start": 514.02,
+    "duration": 6.42
+  },
+  {
+    "text": "Most of this activity is along\nthe sunrise and sunset lines.",
+    "start": 521.94,
+    "duration": 4.14
+  },
+  {
+    "text": "if you pull back from the Earth, you will see that\nthere is only one sunrise and sunset because the",
+    "start": 527.16,
+    "duration": 6.12
+  },
+  {
+    "text": "shadow of the Earth remains fixed, while it is\nthe surface of the Earth that spins underneath",
+    "start": 533.28,
+    "duration": 5.76
+  },
+  {
+    "text": "that shadow. Along this shadow line electric\ncurrents flow both into and out of the Earth.",
+    "start": 539.04,
+    "duration": 6.72
+  },
+  {
+    "text": "We don't know what happens to this current\nclose to the Earth's surface, and this is the",
+    "start": 546.72,
+    "duration": 5.64
+  },
+  {
+    "text": "focus of the ACES II Mission: fly two [sounding rockets]\nthrough this lower region and collect data.",
+    "start": 552.36,
+    "duration": 6.0
+  },
+  {
+    "text": "While the mission is very exciting, it is\nhalf  a mission. It is half  a mission because",
+    "start": 560.34,
+    "duration": 5.28
+  },
+  {
+    "text": "it is not starting with the question\nof what is the function of the aurora?",
+    "start": 565.62,
+    "duration": 5.28
+  },
+  {
+    "text": "The aurora must transfer its energy to the\nbody of the Earth and must also translate the",
+    "start": 570.9,
+    "duration": 6.0
+  },
+  {
+    "text": "digested energy back up into the solar current.\nThe circuit does not just come down willy-nilly,",
+    "start": 576.9,
+    "duration": 6.54
+  },
+  {
+    "text": "make a right turn, and head back out to the\nmagnetosphere. End of story. The current is",
+    "start": 583.44,
+    "duration": 5.34
+  },
+  {
+    "text": "coming down to interact with the Earth and\nall that lives on the surface of the Earth.",
+    "start": 588.78,
+    "duration": 5.46
+  },
+  {
+    "text": "This is like breathing; this is like digestion.\nThe Earth is receiving solar energy and the",
+    "start": 595.2,
+    "duration": 6.18
+  },
+  {
+    "text": "Earth gives something back. This is physics, this\nis engineering. It is also permeated with beauty.",
+    "start": 601.38,
+    "duration": 7.5
+  },
+  {
+    "text": "Quite literally, solar energies enter into the\nEarth at sunrise. We all, animals and the",
+    "start": 610.38,
+    "duration": 7.56
+  },
+  {
+    "text": "plants and the lichen, all use this energy as we\nlive a day on this Earth. And when we lie down to",
+    "start": 617.94,
+    "duration": 7.44
+  },
+  {
+    "text": "sleep, something is taken back up into the solar\nwind current. The ACES II Mission needs to be",
+    "start": 625.38,
+    "duration": 7.32
+  },
+  {
+    "text": "paired with measurements of the electric currents\nand magnetic fields in the surface of the Earth.",
+    "start": 632.7,
+    "duration": 6.24
+  },
+  {
+    "text": "The aurora and surface of the Earth might be\nconnected directly, like a flashlight current",
+    "start": 639.84,
+    "duration": 6.3
+  },
+  {
+    "text": "flowing through a filament. The solar current\ncould flow directly into the body of the Earth,",
+    "start": 646.14,
+    "duration": 6.06
+  },
+  {
+    "text": "or the aurora might make a connection through\ninduction, like an AC Transformer where vibrations",
+    "start": 652.8,
+    "duration": 6.48
+  },
+  {
+    "text": "in the input current are communicated to\nthe receiving coil, but no electric charges",
+    "start": 659.28,
+    "duration": 5.22
+  },
+  {
+    "text": "flow from one to the other. My bet is that both\ninduction and transfer of matter are happening.",
+    "start": 664.5,
+    "duration": 6.78
+  },
+  {
+    "text": "This is the sort of question that needs to\nguide missions of this kind. I've been looking",
+    "start": 672.18,
+    "duration": 5.88
+  },
+  {
+    "text": "for updates on the mission since its successful\nNovember 21st launch, but cannot find anything yet.",
+    "start": 678.06,
+    "duration": 6.9
+  },
+  {
+    "text": "Millennia ago, the word ‘cosmos’ was used to\ndesignate a living whole. All ‘cosmoses’ are built on",
+    "start": 686.4,
+    "duration": 9.72
+  },
+  {
+    "text": "the same blueprint, the only difference being the\nsize and how physical laws manifest at that scale.",
+    "start": 696.12,
+    "duration": 7.26
+  },
+  {
+    "text": "You and I are each an example: citizen cosmoses\nthat live in the larger cosmos of the Earth.",
+    "start": 704.1,
+    "duration": 7.38
+  },
+  {
+    "text": "Planets are an example: citizen cosmoses that\nlive their life in the larger world of stars.",
+    "start": 712.74,
+    "duration": 7.08
+  },
+  {
+    "text": "Star is an example: a citizen cosmos of the larger\nbeings we call galaxies. Going the other direction,",
+    "start": 720.72,
+    "duration": 7.38
+  },
+  {
+    "text": "every plant and animal on Earth is composed of\ncells which are built on this same blueprint.",
+    "start": 728.1,
+    "duration": 7.5
+  },
+  {
+    "text": "A cosmos is born and dies, eats and eliminates. A\ncosmos has power to heal after injury or sickness.",
+    "start": 736.56,
+    "duration": 8.1
+  },
+  {
+    "text": "Coming back to the very start of this lecture, a\nnebula in our galaxy is not a cosmos. At least I",
+    "start": 746.76,
+    "duration": 7.5
+  },
+  {
+    "text": "don't think so. The nebula is an integral part of\na larger being or of an organ within our galaxy.",
+    "start": 754.26,
+    "duration": 8.46
+  },
+  {
+    "text": "Yes, galaxies have organs that perform specific\nfunctions. Like this beauty. What's the standard",
+    "start": 763.56,
+    "duration": 8.58
+  },
+  {
+    "text": "explanation of this? Oh, just another random\nexplosion crashing into pointless surrounding",
+    "start": 772.14,
+    "duration": 5.46
+  },
+  {
+    "text": "gases. What's a better explanation? This\nhighly structured object is doing something.",
+    "start": 777.6,
+    "duration": 7.62
+  },
+  {
+    "text": "Nature always links structure and function.\nSo, let's try to understand what it is doing.",
+    "start": 785.22,
+    "duration": 6.66
+  },
+  {
+    "text": "The Electric Universe paradigm somehow brings all\nof this into better focus. Electricity and light",
+    "start": 793.8,
+    "duration": 6.72
+  },
+  {
+    "text": "as the finest matters we know, permeate all levels\nof the universe. Electricity and light can organize,",
+    "start": 800.52,
+    "duration": 8.76
+  },
+  {
+    "text": "and manifest, at all levels large and small.\nAnd can travel between the large and the small.",
+    "start": 809.28,
+    "duration": 6.36
+  },
+  {
+    "text": "By comparison, I would say for example that gravity\nplays a very small role in the world of cells.",
+    "start": 816.36,
+    "duration": 7.02
+  },
+  {
+    "text": "If you believe that nothing in the universe is\nalive, that is a belief, not science. You have done",
+    "start": 826.14,
+    "duration": 7.56
+  },
+  {
+    "text": "precisely zero experiments to test your belief. If\nyou believe that stars are not conceived and born,",
+    "start": 833.7,
+    "duration": 8.1
+  },
+  {
+    "text": "that is based upon precisely zero experimental\nevidence. If you believe that love and yearning",
+    "start": 841.8,
+    "duration": 9.18
+  },
+  {
+    "text": "are not powerful forces for stars and galaxies and\ncells, okay, that is a belief. If you call yourself a",
+    "start": 850.98,
+    "duration": 9.6
+  },
+  {
+    "text": "scientist, it is time to grow up and admit that\nthese are beliefs based upon, you know not what.",
+    "start": 860.58,
+    "duration": 6.96
+  },
+  {
+    "text": "Perhaps you no longer trust your feelings and\ntrust only your instruments, made of metal and",
+    "start": 868.92,
+    "duration": 6.48
+  },
+  {
+    "text": "glass. An instrument made of metal and glass\nis not alive, and hence can only measure other",
+    "start": 875.4,
+    "duration": 8.04
+  },
+  {
+    "text": "things that are not alive. A living being\ncan only be sensed by another living being.",
+    "start": 883.44,
+    "duration": 7.5
+  },
+  {
+    "text": "One of us looks out and sees a dead\nuniverse, the other sees a living universe.",
+    "start": 892.8,
+    "duration": 6.18
+  },
+  {
+    "text": "Those who study the dead are always\nsurprised by the new findings,",
+    "start": 900.48,
+    "duration": 4.62
+  },
+  {
+    "text": "while those who study the living often\nhave an inkling of what we would find.",
+    "start": 906.3,
+    "duration": 6.3
+  },
+  {
+    "text": "[Music]",
+    "start": 918.98,
+    "duration": 25.9
+  }
+]

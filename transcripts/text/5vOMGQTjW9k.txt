@@ -1,0 +1,2817 @@
+[
+  {
+    "text": "Well, they say the planets are as the lore\nof God which moves in mysterious ways",
+    "start": 22.88,
+    "duration": 6.25
+  },
+  {
+    "text": "but apparently, I've got a bad\nthroat, something's concocted here.",
+    "start": 29.15,
+    "duration": 4.71
+  },
+  {
+    "text": "It won't silence me, no, but I've\ngot some medicinal knowledge here",
+    "start": 33.89,
+    "duration": 4.71
+  },
+  {
+    "text": "so we'll pop that\ndown for the moment.",
+    "start": 38.62,
+    "duration": 1.99
+  },
+  {
+    "text": "Instant fossilization.",
+    "start": 40.63,
+    "duration": 2.01
+  },
+  {
+    "text": "Now what a subject!",
+    "start": 42.67,
+    "duration": 1.62
+  },
+  {
+    "text": "Everyone's talked about planet\nconfigurations, of the damage they do.",
+    "start": 44.31,
+    "duration": 4.43
+  },
+  {
+    "text": "This could be one of the subjects, I think,\nwe should tap into far more than we do.",
+    "start": 48.75,
+    "duration": 4.79
+  },
+  {
+    "text": "But Instant Fossilisation...",
+    "start": 53.56,
+    "duration": 2.23
+  },
+  {
+    "text": "Now, around the world,",
+    "start": 59.08,
+    "duration": 2.76
+  },
+  {
+    "text": "living plants and animals have\nbeen petrified into solid rock",
+    "start": 61.87,
+    "duration": 4.73
+  },
+  {
+    "text": "in violent paroxysms of nature!",
+    "start": 66.63,
+    "duration": 2.4
+  },
+  {
+    "text": "Their end was agonizing\nand instantaneous",
+    "start": 69.04,
+    "duration": 4.02
+  },
+  {
+    "text": "as witnessed by their\ncontorted death throes.",
+    "start": 73.08,
+    "duration": 4.15
+  },
+  {
+    "text": "Now there are plant fossils\nand there are animal fossils.",
+    "start": 77.39,
+    "duration": 4.49
+  },
+  {
+    "text": "How do you turn\nthis piece of wood",
+    "start": 81.9,
+    "duration": 3.46
+  },
+  {
+    "text": "into this fossilized\npiece of wood",
+    "start": 86.69,
+    "duration": 3.28
+  },
+  {
+    "text": "which has high calcium, silicon,\nand other mineral content?",
+    "start": 90.0,
+    "duration": 4.95
+  },
+  {
+    "text": "Or even into this\nfossilized piece of wood",
+    "start": 94.95,
+    "duration": 4.84
+  },
+  {
+    "text": "which has very\nhigh iron content?",
+    "start": 99.81,
+    "duration": 3.06
+  },
+  {
+    "text": "I'm not going to the next slide.",
+    "start": 107.81,
+    "duration": 1.74
+  },
+  {
+    "text": "So let's look at four\nexamples of petrification",
+    "start": 109.58,
+    "duration": 3.52
+  },
+  {
+    "text": "and we will come to the\ndifference between petrification",
+    "start": 113.12,
+    "duration": 3.27
+  },
+  {
+    "text": "and just mere\nfossilization, soon.",
+    "start": 116.41,
+    "duration": 2.34
+  },
+  {
+    "text": "Here's some.",
+    "start": 118.77,
+    "duration": 1.97
+  },
+  {
+    "text": "Ammonites are like squids but in a\nshell, swimming along soft-bodied,",
+    "start": 121.96,
+    "duration": 7.19
+  },
+  {
+    "text": "and now we see them\nfossilized within this beach.",
+    "start": 129.18,
+    "duration": 4.58
+  },
+  {
+    "text": "They're associated with the Jurassic age\nand can be anything up to six foot across.",
+    "start": 134.89,
+    "duration": 5.64
+  },
+  {
+    "text": "So let's go, that's\nthe first example.",
+    "start": 142.03,
+    "duration": 2.65
+  },
+  {
+    "text": "Let's go to another one.",
+    "start": 144.7,
+    "duration": 0.96
+  },
+  {
+    "text": "I'd wanted you to actually see\nthe reality of these things.",
+    "start": 145.68,
+    "duration": 4.72
+  },
+  {
+    "text": "So these have come off\nthe tree on Lesbos",
+    "start": 150.42,
+    "duration": 4.45
+  },
+  {
+    "text": "And how do you explain this?",
+    "start": 155.15,
+    "duration": 1.74
+  },
+  {
+    "text": "They are all cut off.",
+    "start": 156.92,
+    "duration": 1.11
+  },
+  {
+    "text": "Not ripped apart, cut!",
+    "start": 158.06,
+    "duration": 2.59
+  },
+  {
+    "text": "And it's solid rock, solid rock.",
+    "start": 160.67,
+    "duration": 4.24
+  },
+  {
+    "text": "Amazing!",
+    "start": 165.36,
+    "duration": 1.63
+  },
+  {
+    "text": "That's example two.",
+    "start": 167.01,
+    "duration": 1.7
+  },
+  {
+    "text": "So this is the reality\nof petrification.",
+    "start": 168.73,
+    "duration": 4.35
+  },
+  {
+    "text": "Here's the next one.",
+    "start": 174.8,
+    "duration": 1.76
+  },
+  {
+    "text": "Here in the area and he was\nleveling that - kinda took maybe",
+    "start": 176.58,
+    "duration": 3.15
+  },
+  {
+    "text": "It took ten feet off the top and up and\nthe bulldozer operator looked behind even",
+    "start": 179.75,
+    "duration": 4.21
+  },
+  {
+    "text": "there were big bones sticking\nout everywhere he had been.",
+    "start": 183.99,
+    "duration": 3.04
+  },
+  {
+    "text": "Right and it's\nan incredible site.",
+    "start": 187.05,
+    "duration": 2.36
+  },
+  {
+    "text": "Now we're treating there roughly,\nI've got to think in terms of feet.",
+    "start": 189.44,
+    "duration": 3.88
+  },
+  {
+    "text": "Where it's about a 100 foot\nby about 80 foot something",
+    "start": 193.34,
+    "duration": 2.88
+  },
+  {
+    "text": "- About 125 by 100.",
+    "start": 196.25,
+    "duration": 1.52
+  },
+  {
+    "text": "- Yeah",
+    "start": 197.79,
+    "duration": 0.83
+  },
+  {
+    "text": "- This is a kind of ellipse",
+    "start": 198.64,
+    "duration": 1.13
+  },
+  {
+    "text": "and although this is a mammoth site, in actual\nfact there's a number of species in situ,",
+    "start": 199.8,
+    "duration": 4.75
+  },
+  {
+    "text": "isn't there?",
+    "start": 204.58,
+    "duration": 0.65
+  },
+  {
+    "text": "Right, the mammoth kind\nof dwarf everything else.",
+    "start": 205.25,
+    "duration": 2.72
+  },
+  {
+    "text": "That's what I love.",
+    "start": 207.99,
+    "duration": 3.47
+  },
+  {
+    "text": "Notice the layering\nof the limestone.",
+    "start": 211.49,
+    "duration": 1.88
+  },
+  {
+    "text": "I will come back to this anyway.",
+    "start": 213.39,
+    "duration": 2.21
+  },
+  {
+    "text": "This is a fourth example\nand this is my favorite.",
+    "start": 215.62,
+    "duration": 4.64
+  },
+  {
+    "text": "The northward... whoops, sorry!",
+    "start": 221.56,
+    "duration": 6.04
+  },
+  {
+    "text": "The northwest mineral\ngallery I've come to",
+    "start": 230.96,
+    "duration": 3.06
+  },
+  {
+    "text": "and you've got not only\npetrified trees to show us",
+    "start": 234.04,
+    "duration": 3.17
+  },
+  {
+    "text": "but some really interesting\nconcretations containing...",
+    "start": 237.23,
+    "duration": 4.75
+  },
+  {
+    "text": "you tell us about!",
+    "start": 242.0,
+    "duration": 1.35
+  },
+  {
+    "text": "Yes Peter, these, um,",
+    "start": 243.37,
+    "duration": 2.15
+  },
+  {
+    "text": "what you're going to see inside of the\nmuseum here are fossilized crabs.",
+    "start": 245.54,
+    "duration": 4.99
+  },
+  {
+    "text": "They're actually soft bodied fossils\nwhich are found inside of concretions.",
+    "start": 250.56,
+    "duration": 4.28
+  },
+  {
+    "text": "So when we say concretion, we'll\nbe talking about a round egg shaped rock",
+    "start": 254.87,
+    "duration": 5.94
+  },
+  {
+    "text": "and it's solid rock.",
+    "start": 260.84,
+    "duration": 1.57
+  },
+  {
+    "text": "- Yes",
+    "start": 262.44,
+    "duration": 0.75
+  },
+  {
+    "text": "And within that rock when you break\nthem open, there is a crab, right?",
+    "start": 263.22,
+    "duration": 4.57
+  },
+  {
+    "text": "And that crab is actually\nrock as well, is that right?",
+    "start": 267.81,
+    "duration": 3.19
+  },
+  {
+    "text": "- Yes",
+    "start": 271.03,
+    "duration": 0.68
+  },
+  {
+    "text": "Fossilized, so okay, sorry.",
+    "start": 271.74,
+    "duration": 2.0
+  },
+  {
+    "text": "Just want to make sure\nI understood.",
+    "start": 273.76,
+    "duration": 1.86
+  },
+  {
+    "text": "Yeah, well, concretions are, the most popular\nand known kind of concretion are round rocks.",
+    "start": 275.64,
+    "duration": 6.48
+  },
+  {
+    "text": "There are other kinds but the ones\nmost of us know are round rocks",
+    "start": 282.14,
+    "duration": 4.38
+  },
+  {
+    "text": "and they are, they often form\naround the nucleus of a fossil,",
+    "start": 286.54,
+    "duration": 3.49
+  },
+  {
+    "text": "a little bit of rock, a little,",
+    "start": 290.06,
+    "duration": 1.56
+  },
+  {
+    "text": "I mean a little bit of shell maybe, a\nlittle piece of leaf or something.",
+    "start": 291.64,
+    "duration": 4.27
+  },
+  {
+    "text": "- Yeah",
+    "start": 295.94,
+    "duration": 0.43
+  },
+  {
+    "text": "In this case we have\nthe whole crab.",
+    "start": 296.39,
+    "duration": 2.43
+  },
+  {
+    "text": "- Yeah",
+    "start": 298.84,
+    "duration": 0.61
+  },
+  {
+    "text": "And the crab has a\nlot of his anatomy,",
+    "start": 299.48,
+    "duration": 2.93
+  },
+  {
+    "text": "it's all right there, you'll be\nable to see his orifice,",
+    "start": 302.41,
+    "duration": 3.59
+  },
+  {
+    "text": "you can see the spikes on\nhis, his back, his claws.",
+    "start": 306.02,
+    "duration": 5.99
+  },
+  {
+    "text": "Right, you'll be\nable to see them",
+    "start": 312.03,
+    "duration": 1.56
+  },
+  {
+    "text": "down to the minute detail\nof the whole skeleton.",
+    "start": 313.61,
+    "duration": 2.37
+  },
+  {
+    "text": "- Yes",
+    "start": 316.0,
+    "duration": 1.33
+  },
+  {
+    "text": "So that's amazing, isn't it?",
+    "start": 319.87,
+    "duration": 1.74
+  },
+  {
+    "text": "So what do these petrified\norganic fossils,",
+    "start": 321.64,
+    "duration": 3.96
+  },
+  {
+    "text": "remember they were actually\nliving, have in common?",
+    "start": 325.61,
+    "duration": 3.0
+  },
+  {
+    "text": "Their end was instantaneous\nand dramatic.",
+    "start": 328.64,
+    "duration": 3.76
+  },
+  {
+    "text": "Their chemical\ncomposition changed,",
+    "start": 332.42,
+    "duration": 2.5
+  },
+  {
+    "text": "they changed from a carbon water\nbase to silicon whatever.",
+    "start": 334.94,
+    "duration": 4.12
+  },
+  {
+    "text": "But the unanswered question,",
+    "start": 339.09,
+    "duration": 1.78
+  },
+  {
+    "text": "what pungent force of nature\nchanged their chemical composition",
+    "start": 340.87,
+    "duration": 5.38
+  },
+  {
+    "text": "whilst they're in their death throes?",
+    "start": 346.28,
+    "duration": 2.7
+  },
+  {
+    "text": "Let's look for some answer.",
+    "start": 349.01,
+    "duration": 1.77
+  },
+  {
+    "text": "Now conventional geology counts time as a\nslowly moving tool that leached their bodies,",
+    "start": 350.81,
+    "duration": 7.43
+  },
+  {
+    "text": "all the chemicals are taken out,",
+    "start": 358.26,
+    "duration": 1.79
+  },
+  {
+    "text": "and replaced them, the carbon\nwith silicon and calcium.",
+    "start": 360.07,
+    "duration": 4.42
+  },
+  {
+    "text": "That's the conventional wisdom.",
+    "start": 364.51,
+    "duration": 1.82
+  },
+  {
+    "text": "But the rapid decay\nof biological matter,",
+    "start": 366.36,
+    "duration": 2.73
+  },
+  {
+    "text": "in my opinion, makes a\nnonsense of this theory.",
+    "start": 369.12,
+    "duration": 3.26
+  },
+  {
+    "text": "What then is the answer?",
+    "start": 372.4,
+    "duration": 2.05
+  },
+  {
+    "text": "Now let's go outside\nthe scientific square",
+    "start": 374.48,
+    "duration": 4.12
+  },
+  {
+    "text": "but before we do, I just want to get\nsome of these terminologies sorted out.",
+    "start": 378.63,
+    "duration": 7.85
+  },
+  {
+    "text": "There's fossilization,\nthere's petrification.",
+    "start": 387.41,
+    "duration": 3.88
+  },
+  {
+    "text": "Now, fossilization can preserve\ntissue and particularly bones.",
+    "start": 391.32,
+    "duration": 5.05
+  },
+  {
+    "text": "For instance Alaska and\nSiberia, Antarctica.",
+    "start": 396.39,
+    "duration": 4.37
+  },
+  {
+    "text": "The uh, within coal and the peat of\nSnow Mass Colorado is, when I visited,",
+    "start": 400.79,
+    "duration": 6.43
+  },
+  {
+    "text": "where they've got\nmastodonts and mammoths etc.",
+    "start": 407.24,
+    "duration": 3.68
+  },
+  {
+    "text": "There they're preserved, but they're\nnot actually changed to rock.",
+    "start": 410.94,
+    "duration": 3.74
+  },
+  {
+    "text": "Petrification is a subset",
+    "start": 414.71,
+    "duration": 3.73
+  },
+  {
+    "text": "where the original carbon-like material\nis either replaced or transmuted,",
+    "start": 418.47,
+    "duration": 5.66
+  },
+  {
+    "text": "remember that term transmuted,",
+    "start": 424.16,
+    "duration": 2.29
+  },
+  {
+    "text": "to different compounds of silicon,\ncalcium, iron, aluminum, etc.",
+    "start": 426.47,
+    "duration": 5.69
+  },
+  {
+    "text": "In other words,\nthey turn to rock.",
+    "start": 432.19,
+    "duration": 2.14
+  },
+  {
+    "text": "They're not just preserved.",
+    "start": 434.36,
+    "duration": 1.57
+  },
+  {
+    "text": "Now although fossilization generally is\nundoubtedly the result of cataclysmic events,",
+    "start": 435.96,
+    "duration": 7.35
+  },
+  {
+    "text": "as you know, we can read\nabout in Velikovsky etc.,",
+    "start": 443.34,
+    "duration": 4.15
+  },
+  {
+    "text": "petrification tends to\noccur either in a bolus",
+    "start": 447.49,
+    "duration": 3.79
+  },
+  {
+    "text": "such as we saw with Larry Agenbroad\nin South Dakota or along coastlines.",
+    "start": 451.3,
+    "duration": 5.5
+  },
+  {
+    "text": "Now I'm not sure how we can\nexplain this but let's try.",
+    "start": 456.82,
+    "duration": 3.71
+  },
+  {
+    "text": "So there you are.",
+    "start": 462.5,
+    "duration": 1.28
+  },
+  {
+    "text": "Petrification would seem to\nmagnify the catastrophic event",
+    "start": 463.8,
+    "duration": 3.71
+  },
+  {
+    "text": "and actually transmute\nelements and compounds.",
+    "start": 467.53,
+    "duration": 4.61
+  },
+  {
+    "text": "I suspect this is a result of\npowerful electromagnetic forces",
+    "start": 472.17,
+    "duration": 6.19
+  },
+  {
+    "text": "that have centralized\nin a certain area.",
+    "start": 478.39,
+    "duration": 2.78
+  },
+  {
+    "text": "They're not necessary\nover a broad area",
+    "start": 481.2,
+    "duration": 2.29
+  },
+  {
+    "text": "such as the normal catastrophe\nthat does fossilize things,",
+    "start": 483.51,
+    "duration": 3.41
+  },
+  {
+    "text": "but petrification tends\nto be in secluded areas.",
+    "start": 486.94,
+    "duration": 4.2
+  },
+  {
+    "text": "Not sure why but anyway.",
+    "start": 491.64,
+    "duration": 2.26
+  },
+  {
+    "text": "Often these,",
+    "start": 494.57,
+    "duration": 1.13
+  },
+  {
+    "text": "so there we go,",
+    "start": 495.73,
+    "duration": 1.0
+  },
+  {
+    "text": "we've got some examples here.",
+    "start": 496.76,
+    "duration": 1.67
+  },
+  {
+    "text": "There's the Hot Springs ones,\nRomsey Marsh in Australia,",
+    "start": 498.46,
+    "duration": 3.46
+  },
+  {
+    "text": "at the Jurassic Coast we saw before and\nDiamond Bay which you'll see later.",
+    "start": 501.94,
+    "duration": 5.41
+  },
+  {
+    "text": "OK, the causes of petrification.",
+    "start": 510.22,
+    "duration": 3.31
+  },
+  {
+    "text": "Now, I noted before,",
+    "start": 513.56,
+    "duration": 2.46
+  },
+  {
+    "text": "we should search in other places\napart from scientific endeavor.",
+    "start": 516.82,
+    "duration": 4.77
+  },
+  {
+    "text": "And mythology from Rens Van der\nSluijs to Dave and Wal, etc, etc,",
+    "start": 521.62,
+    "duration": 7.99
+  },
+  {
+    "text": "holds a lot of the key\nto this, in my opinion.",
+    "start": 529.63,
+    "duration": 2.88
+  },
+  {
+    "text": "They're witness to\ncatastrophic destruction.",
+    "start": 533.17,
+    "duration": 3.42
+  },
+  {
+    "text": "Now Georges Cuvier who visited the\nAmericas around about 1800 or so,",
+    "start": 536.61,
+    "duration": 5.37
+  },
+  {
+    "text": "around the time of the French Revolution\nand the American War of Independence,",
+    "start": 542.0,
+    "duration": 7.09
+  },
+  {
+    "text": "investigated a lot of",
+    "start": 549.97,
+    "duration": 1.78
+  },
+  {
+    "text": "apart from looking...",
+    "start": 551.78,
+    "duration": 1.33
+  },
+  {
+    "text": "He was a paleontologist.",
+    "start": 553.14,
+    "duration": 1.41
+  },
+  {
+    "text": "Apart from looking at bones\nand things like that,",
+    "start": 554.55,
+    "duration": 2.96
+  },
+  {
+    "text": "he was extremely interested in\nlocal or the Indian mythology.",
+    "start": 557.53,
+    "duration": 8.61
+  },
+  {
+    "text": "And Adrienne Meyer studied this a lot and\nfollowed up on Georges Cuvier's efforts",
+    "start": 567.15,
+    "duration": 6.83
+  },
+  {
+    "text": "and she advocates, as a lot of this\nmyth, Indian mythology talks about,",
+    "start": 574.0,
+    "duration": 5.51
+  },
+  {
+    "text": "the cosmic thunderbolt as the weapon of\nchoice in this megafauna destruction.",
+    "start": 579.54,
+    "duration": 5.71
+  },
+  {
+    "text": "Now let's just listen to this.",
+    "start": 585.28,
+    "duration": 2.59
+  },
+  {
+    "text": "Monstrous creature\npreyed upon early humans",
+    "start": 587.89,
+    "duration": 3.43
+  },
+  {
+    "text": "and that the Creator then wanted\nto make the Earth safe for,",
+    "start": 591.35,
+    "duration": 3.71
+  },
+  {
+    "text": "for the new human beings.",
+    "start": 595.08,
+    "duration": 2.02
+  },
+  {
+    "text": "So the Creator then killed them with\na sort of cosmic lightning bolts.",
+    "start": 597.12,
+    "duration": 4.43
+  },
+  {
+    "text": "Something beyond just\nordinary lightning.",
+    "start": 601.57,
+    "duration": 3.01
+  },
+  {
+    "text": "So it wasn't just as description\nof normal everyday?",
+    "start": 604.61,
+    "duration": 2.46
+  },
+  {
+    "text": "No!",
+    "start": 607.09,
+    "duration": 0.7
+  },
+  {
+    "text": "No, this was a massive\ndestruction of these creatures.",
+    "start": 607.81,
+    "duration": 3.68
+  },
+  {
+    "text": "And it's actual fact that did happen,\nthe megafauna are now extinct.",
+    "start": 611.51,
+    "duration": 3.16
+  },
+  {
+    "text": "They did, yes.",
+    "start": 614.69,
+    "duration": 1.59
+  },
+  {
+    "text": "And they're the, the early\ncolonists described",
+    "start": 616.31,
+    "duration": 4.8
+  },
+  {
+    "text": "the Americas as a land\nof, covered with bones.",
+    "start": 621.14,
+    "duration": 3.92
+  },
+  {
+    "text": "I mean, they were\neverywhere you went.",
+    "start": 625.08,
+    "duration": 1.99
+  },
+  {
+    "text": "There were skeletons emerging\nor partially petrified, yes.",
+    "start": 627.09,
+    "duration": 5.58
+  },
+  {
+    "text": "And apparently Georges\nCuvier came out.",
+    "start": 632.7,
+    "duration": 2.51
+  },
+  {
+    "text": "Georges Cuvier, the father\nof paleontology in Paris.",
+    "start": 635.24,
+    "duration": 2.95
+  },
+  {
+    "text": "He was extremely interested in the stories\nthat were told by the Native Americans",
+    "start": 638.21,
+    "duration": 6.06
+  },
+  {
+    "text": "because he was at that time developing\nhis theory of extinction and evolution",
+    "start": 644.29,
+    "duration": 6.3
+  },
+  {
+    "text": "which was quite different to, let's\nsay, Darwin and some of those.",
+    "start": 650.62,
+    "duration": 4.25
+  },
+  {
+    "text": "I mean, Darwin essentially was saying that\nit's taken millions of years to develop",
+    "start": 654.89,
+    "duration": 3.95
+  },
+  {
+    "text": "whereas Georges Cuvier was, more\nor less, saying something like",
+    "start": 658.86,
+    "duration": 3.71
+  },
+  {
+    "text": "number of extinctions\nhave occurred.",
+    "start": 662.59,
+    "duration": 2.01
+  },
+  {
+    "text": "He thought there must have\nbeen a series of catastrophes",
+    "start": 664.62,
+    "duration": 3.45
+  },
+  {
+    "text": "whether there were floods or\nvolcanic or something like that.",
+    "start": 668.1,
+    "duration": 4.12
+  },
+  {
+    "text": "I think he settled on floods but he was\nvery interested in the disaster scenarios",
+    "start": 672.24,
+    "duration": 6.07
+  },
+  {
+    "text": "that the Native Americans\nhad in their oral cultures",
+    "start": 679.25,
+    "duration": 3.72
+  },
+  {
+    "text": "explaining the\ndisappearance and mass...",
+    "start": 682.98,
+    "duration": 2.84
+  },
+  {
+    "text": "OK, so let's look at\na couple of these,",
+    "start": 689.22,
+    "duration": 3.68
+  },
+  {
+    "text": "there's here these mythologies\nfrom the Native Americans",
+    "start": 692.93,
+    "duration": 4.08
+  },
+  {
+    "text": "and here's one cited by Erdoes and\nOritz around about the Creator.",
+    "start": 697.04,
+    "duration": 4.33
+  },
+  {
+    "text": "We'll get to quote of what i said,",
+    "start": 701.4,
+    "duration": 2.1
+  },
+  {
+    "text": "the Lakota Nation had sent hunting\ntribes down here for many, many years.",
+    "start": 703.52,
+    "duration": 6.27
+  },
+  {
+    "text": "And they had a different interpretation\non what had caused the fossilizations",
+    "start": 709.82,
+    "duration": 6.49
+  },
+  {
+    "text": "of these great beasts.",
+    "start": 716.34,
+    "duration": 2.6
+  },
+  {
+    "text": "Karley repeats the traditions\nof the first Americans.",
+    "start": 718.97,
+    "duration": 5.1
+  },
+  {
+    "text": "The Creator sang a\nsong of destruction",
+    "start": 725.48,
+    "duration": 2.52
+  },
+  {
+    "text": "and set down fierce thunderbirds\nto wage a great battle",
+    "start": 728.02,
+    "duration": 3.6
+  },
+  {
+    "text": "against the humans and\nthe giant animals.",
+    "start": 731.64,
+    "duration": 3.0
+  },
+  {
+    "text": "They fought for a very long time",
+    "start": 736.27,
+    "duration": 2.71
+  },
+  {
+    "text": "because the evil humans and the\nanimals had become very powerful",
+    "start": 739.01,
+    "duration": 4.78
+  },
+  {
+    "text": "and neither could\ngain an advantage.",
+    "start": 743.82,
+    "duration": 2.51
+  },
+  {
+    "text": "Finally, at the\nheight of the battle",
+    "start": 746.75,
+    "duration": 2.14
+  },
+  {
+    "text": "the thunderbirds sent down their most\npowerful thunderbolts all at once.",
+    "start": 748.92,
+    "duration": 3.99
+  },
+  {
+    "text": "The fiery blast shook\nthe entire world",
+    "start": 752.93,
+    "duration": 2.77
+  },
+  {
+    "text": "toppling mountain ranges and setting\nforests and prairies ablaze.",
+    "start": 755.71,
+    "duration": 4.85
+  },
+  {
+    "text": "The flames lept up to the\nsky in all directions",
+    "start": 760.59,
+    "duration": 3.81
+  },
+  {
+    "text": "sparing only a few people\nat the highest peaks.",
+    "start": 764.43,
+    "duration": 3.35
+  },
+  {
+    "text": "It was so hot that the world's lakes\nboiled up and dried before their eyes.",
+    "start": 767.8,
+    "duration": 6.04
+  },
+  {
+    "text": "Even the rocks burned up red-hot",
+    "start": 773.87,
+    "duration": 2.7
+  },
+  {
+    "text": "and the giant animals and the\npeople burned up where they stood.",
+    "start": 776.59,
+    "duration": 4.01
+  },
+  {
+    "text": "A great flood followed and\nwhen the survivors went out,",
+    "start": 780.62,
+    "duration": 4.03
+  },
+  {
+    "text": "they found bleached bones of the giant\nanimals in mud and rocks all over the world.",
+    "start": 784.68,
+    "duration": 5.8
+  },
+  {
+    "text": "They're still found today\nin the Dakota badlands.",
+    "start": 790.5,
+    "duration": 3.32
+  },
+  {
+    "text": "But can we believe these bizarre\nstories of mass destruction?",
+    "start": 793.84,
+    "duration": 4.54
+  },
+  {
+    "text": "Mythology from the Lakota Nation tells us\nprecisely how this destruction happened",
+    "start": 798.4,
+    "duration": 5.94
+  },
+  {
+    "text": "and it was not so long ago.",
+    "start": 804.37,
+    "duration": 2.59
+  },
+  {
+    "text": "Now what event was\nthat, we're not sure.",
+    "start": 811.12,
+    "duration": 2.84
+  },
+  {
+    "text": "You know, you go back through the mass\ndestructions of the Velikovsky and Hesiod,",
+    "start": 813.99,
+    "duration": 5.6
+  },
+  {
+    "text": "you know, from around about 2000\nBC before right up to a 500 BC.",
+    "start": 819.62,
+    "duration": 6.51
+  },
+  {
+    "text": "So we can tie that in though with\na lot of the Greek mythology",
+    "start": 826.16,
+    "duration": 4.49
+  },
+  {
+    "text": "and Rens Van der Sluijs is very good at\nthat as are many of the people in the EU.",
+    "start": 830.67,
+    "duration": 6.19
+  },
+  {
+    "text": "So let's look at some of this,\nparticularly the Gorgons.",
+    "start": 836.88,
+    "duration": 5.87
+  },
+  {
+    "text": "Earthquakes and volcanoes routinely\nemit flashing transparent plasmoids",
+    "start": 842.75,
+    "duration": 6.57
+  },
+  {
+    "text": "emerging like giant bubbles\nout of the ground.",
+    "start": 849.35,
+    "duration": 4.42
+  },
+  {
+    "text": "These chaotic electromagnetic formations\ncome in many shapes and colors",
+    "start": 853.79,
+    "duration": 6.15
+  },
+  {
+    "text": "and can travel at supersonic speed while\nseamlessly passing through or alternatively",
+    "start": 859.96,
+    "duration": 7.68
+  },
+  {
+    "text": "boring through obstructions.",
+    "start": 867.67,
+    "duration": 3.42
+  },
+  {
+    "text": "Plasmoids reach far\nin destruction",
+    "start": 871.12,
+    "duration": 3.42
+  },
+  {
+    "text": "and according to Regan Buck, they burnt down\ncities and tunneled through mountains.",
+    "start": 874.57,
+    "duration": 7.29
+  },
+  {
+    "text": "And in great fear the ancients called\nthese ground emerging destroyers Gorgons.",
+    "start": 881.87,
+    "duration": 6.98
+  },
+  {
+    "text": "Hesiod was writing about\nthem around 900 BC.",
+    "start": 888.87,
+    "duration": 2.9
+  },
+  {
+    "text": "Stratification of\nrock under the sea.",
+    "start": 891.79,
+    "duration": 2.29
+  },
+  {
+    "text": "Now it seemed that the Gorgons may have been\nactive in Australian aboriginal mythology.",
+    "start": 894.11,
+    "duration": 7.22
+  },
+  {
+    "text": "Verbal records and dance traditions\nrecorded these demonic plasmoids",
+    "start": 901.35,
+    "duration": 5.39
+  },
+  {
+    "text": "at many sites and\nin various forms.",
+    "start": 906.77,
+    "duration": 3.67
+  },
+  {
+    "text": "Their Rainbow Serpent was responsible\nfor carving river systems",
+    "start": 910.46,
+    "duration": 4.69
+  },
+  {
+    "text": "as Lichtenberg scars on\nthe face of the Earth",
+    "start": 915.17,
+    "duration": 4.01
+  },
+  {
+    "text": "and even held responsible for\nbuilding mountains and forming lakes.",
+    "start": 919.21,
+    "duration": 7.04
+  },
+  {
+    "text": "Fantasy, you might ask?",
+    "start": 926.25,
+    "duration": 3.08
+  },
+  {
+    "text": "Well, I don't believe\nit was fantasy.",
+    "start": 931.06,
+    "duration": 2.95
+  },
+  {
+    "text": "Let's go to the next.",
+    "start": 934.73,
+    "duration": 1.48
+  },
+  {
+    "text": "So here we go.",
+    "start": 936.24,
+    "duration": 1.23
+  },
+  {
+    "text": "We're in search of the\ncauses of petrification.",
+    "start": 937.5,
+    "duration": 2.52
+  },
+  {
+    "text": "We've dealt a little\nbit about mythology.",
+    "start": 940.05,
+    "duration": 2.42
+  },
+  {
+    "text": "What about going to the scientific\nside of things and plasma physics?",
+    "start": 942.5,
+    "duration": 5.38
+  },
+  {
+    "text": "Anthony Peratt certainly is an advocate of\ngiant plasma discharges that shaped history.",
+    "start": 950.67,
+    "duration": 5.51
+  },
+  {
+    "text": "To him, this mythology could be\nsimulated in his laboratory.",
+    "start": 956.21,
+    "duration": 4.13
+  },
+  {
+    "text": "But what evidence do we have that electrical\nphenomena can cause elements to transmute?",
+    "start": 960.36,
+    "duration": 6.55
+  },
+  {
+    "text": "E.g. water, and I say water so\nthink about that, to calcium.",
+    "start": 966.93,
+    "duration": 6.13
+  },
+  {
+    "text": "What tool of nature fossilized these\nonce watery marine ammonites?",
+    "start": 973.08,
+    "duration": 4.92
+  },
+  {
+    "text": "The ones along the\nJurassic Coast.",
+    "start": 978.03,
+    "duration": 2.49
+  },
+  {
+    "text": "We have a powerful clue.",
+    "start": 982.86,
+    "duration": 2.47
+  },
+  {
+    "text": "Now there's two.",
+    "start": 985.35,
+    "duration": 0.98
+  },
+  {
+    "text": "There's Eric Milton and some work Wal did\nat the Telstra Laboratories years ago",
+    "start": 986.35,
+    "duration": 6.41
+  },
+  {
+    "text": "which gives you an indication of\nthe power of electrical discharge.",
+    "start": 992.78,
+    "duration": 5.69
+  },
+  {
+    "text": "Conversion of the wood to rock.",
+    "start": 998.49,
+    "duration": 3.95
+  },
+  {
+    "text": "Wal again demonstrates the creation of\nfulgurites by powerful electric discharge.",
+    "start": 1002.47,
+    "duration": 7.47
+  },
+  {
+    "text": "Here",
+    "start": 1044.52,
+    "duration": 1.86
+  },
+  {
+    "text": "There we go.",
+    "start": 1051.21,
+    "duration": 0.99
+  },
+  {
+    "text": "Right there in that\nlight, right there.",
+    "start": 1052.22,
+    "duration": 2.53
+  },
+  {
+    "text": "What is this, Wal?",
+    "start": 1054.77,
+    "duration": 1.78
+  },
+  {
+    "text": "This is a fulgurite.",
+    "start": 1056.58,
+    "duration": 1.82
+  },
+  {
+    "text": "It's fused silica which follows the path\nof the lightning or electrical discharge.",
+    "start": 1058.42,
+    "duration": 7.45
+  },
+  {
+    "text": "Which is how these\ntrees were petrified?",
+    "start": 1065.9,
+    "duration": 3.43
+  },
+  {
+    "text": "Further evidence\ncomes from Canada.",
+    "start": 1069.35,
+    "duration": 2.26
+  },
+  {
+    "text": "E.R. Milton describes his examination\nof a petrified tree trunk in Alberta.",
+    "start": 1071.63,
+    "duration": 7.38
+  },
+  {
+    "text": "The piece was pure\nclean silica inside.",
+    "start": 1079.03,
+    "duration": 3.95
+  },
+  {
+    "text": "It was coated with a rougher opaque\ncrust of partially fused sand.",
+    "start": 1083.01,
+    "duration": 5.3
+  },
+  {
+    "text": "The tree whose stump was petrified\nwas alive five years ago.",
+    "start": 1088.34,
+    "duration": 5.51
+  },
+  {
+    "text": "After the tree was cut down to\naccommodate the right of way",
+    "start": 1093.87,
+    "duration": 4.38
+  },
+  {
+    "text": "for a new power\ntransmission line,",
+    "start": 1098.28,
+    "duration": 2.6
+  },
+  {
+    "text": "an accidental break allowed\nthe live high-voltage wire",
+    "start": 1100.91,
+    "duration": 6.51
+  },
+  {
+    "text": "to contact several tree\nstumps in the ground.",
+    "start": 1107.45,
+    "duration": 3.9
+  },
+  {
+    "text": "The power was cut off\nwithin hours of the break.",
+    "start": 1111.37,
+    "duration": 2.85
+  },
+  {
+    "text": "All of the tree roots which contacted\nthe broken wire were fossilized.",
+    "start": 1114.74,
+    "duration": 5.91
+  },
+  {
+    "text": "Obviously, electricity can\nmetamorphize matter quickly.",
+    "start": 1120.67,
+    "duration": 6.57
+  },
+  {
+    "text": "Look at this!",
+    "start": 1130.74,
+    "duration": 1.55
+  },
+  {
+    "text": "A round about 67 foot long [this\nis Lesbos, again] solid rock",
+    "start": 1132.32,
+    "duration": 3.99
+  },
+  {
+    "text": "but it's amazing.",
+    "start": 1136.34,
+    "duration": 1.39
+  },
+  {
+    "text": "clearly a tree",
+    "start": 1137.76,
+    "duration": 1.29
+  },
+  {
+    "text": "See how this is actually\nstill wood, part of it.",
+    "start": 1140.09,
+    "duration": 3.55
+  },
+  {
+    "text": "But otherwise, it has\nbeen turned to rock.",
+    "start": 1143.67,
+    "duration": 3.87
+  },
+  {
+    "text": "A substance a bit like marble.",
+    "start": 1149.59,
+    "duration": 3.82
+  },
+  {
+    "text": "Here's another example.",
+    "start": 1162.66,
+    "duration": 1.45
+  },
+  {
+    "text": "Opal mines in Australia,\nWhite cliffs.",
+    "start": 1164.14,
+    "duration": 3.75
+  },
+  {
+    "text": "We're just going to go down one of the\nopal mines and see some interesting things.",
+    "start": 1170.25,
+    "duration": 4.71
+  },
+  {
+    "text": "These are essentially limestone caves\ncarved deep into the hillsides.",
+    "start": 1179.79,
+    "duration": 5.9
+  },
+  {
+    "text": "This is where they\nfind the opals.",
+    "start": 1185.72,
+    "duration": 2.72
+  },
+  {
+    "text": "But what really intrigues me are these\nLichtenberg figures you see in front of you.",
+    "start": 1188.46,
+    "duration": 5.95
+  },
+  {
+    "text": "I interpret these as telluric currents coming\ndeep from within the bowels of the Earth",
+    "start": 1195.4,
+    "duration": 6.56
+  },
+  {
+    "text": "and thrusting upwards under some\ndramatic geophysical crisis.",
+    "start": 1201.99,
+    "duration": 5.67
+  },
+  {
+    "text": "These are where the\nopals are found.",
+    "start": 1207.69,
+    "duration": 2.73
+  },
+  {
+    "text": "This current coming up through the\nEarth seems to have transmutated",
+    "start": 1211.8,
+    "duration": 4.12
+  },
+  {
+    "text": "the calcium into some\nsort of ferrous compound.",
+    "start": 1215.94,
+    "duration": 3.62
+  },
+  {
+    "text": "Notice all the red.",
+    "start": 1219.59,
+    "duration": 2.13
+  },
+  {
+    "text": "And at other times, under different\nconditions, it's formed opals.",
+    "start": 1222.23,
+    "duration": 6.0
+  },
+  {
+    "text": "And the opals we're interested in are these\nshells and various other forms of life.",
+    "start": 1228.26,
+    "duration": 6.74
+  },
+  {
+    "text": "They've been totally\nconverted and opalized.",
+    "start": 1235.03,
+    "duration": 3.53
+  },
+  {
+    "text": "Some scientists take this\nas a sign of very old age.",
+    "start": 1239.43,
+    "duration": 5.19
+  },
+  {
+    "text": "But are there other\nexplanations?",
+    "start": 1244.64,
+    "duration": 2.85
+  },
+  {
+    "text": "Let's continue our\ninvestigation.",
+    "start": 1247.51,
+    "duration": 2.43
+  },
+  {
+    "text": "Well with red colored rock pebbles scattered\nover miles and miles of countryside.",
+    "start": 1251.26,
+    "duration": 9.26
+  },
+  {
+    "text": "I suspect C.J. Ransom with experiments\nin creating concretations",
+    "start": 1260.54,
+    "duration": 5.9
+  },
+  {
+    "text": "in his laboratory may have been very\ninterested in these rounded pebbles.",
+    "start": 1266.46,
+    "duration": 5.74
+  },
+  {
+    "text": "They bear a remarkable resemblance\nto the Martian blueberries.",
+    "start": 1272.22,
+    "duration": 5.23
+  },
+  {
+    "text": "Is this yet again some evidence of a\nmajor electrical discharge event?",
+    "start": 1278.91,
+    "duration": 5.6
+  },
+  {
+    "text": "In fact, my colleague in the US has done\nexperiments on material like Martian soil",
+    "start": 1285.43,
+    "duration": 6.56
+  },
+  {
+    "text": "and he has created the\nblueberries that they found.",
+    "start": 1292.01,
+    "duration": 3.44
+  },
+  {
+    "text": "- OK",
+    "start": 1295.47,
+    "duration": 0.78
+  },
+  {
+    "text": "You know, he's done\nthat in the lab",
+    "start": 1296.28,
+    "duration": 2.18
+  },
+  {
+    "text": "and yet the blueberries themselves are a\nmystery at present to the planetologists",
+    "start": 1298.48,
+    "duration": 5.3
+  },
+  {
+    "text": "who are studying the\nsurface of Mars.",
+    "start": 1303.8,
+    "duration": 2.1
+  },
+  {
+    "text": "We can enlighten them.",
+    "start": 1305.92,
+    "duration": 2.16
+  },
+  {
+    "text": "Well it's interesting that you say that there\nare magnetic reversals found at the site",
+    "start": 1308.11,
+    "duration": 5.65
+  },
+  {
+    "text": "because that indicates a\nchange in electrical currents.",
+    "start": 1313.78,
+    "duration": 4.15
+  },
+  {
+    "text": "Basically you don't get a magnetic\nfield without an electric current.",
+    "start": 1317.95,
+    "duration": 3.46
+  },
+  {
+    "text": "- That's a precursor to",
+    "start": 1321.44,
+    "duration": 1.52
+  },
+  {
+    "text": "That, yeah, that's an indicator that we're\nlooking at an electrical phenomenon.",
+    "start": 1322.99,
+    "duration": 4.64
+  },
+  {
+    "text": "And at certain places,\nfor instance Lake Mungo,",
+    "start": 1327.65,
+    "duration": 3.53
+  },
+  {
+    "text": "because after a magnetic variation\nwhen the rock turns molten",
+    "start": 1331.21,
+    "duration": 5.63
+  },
+  {
+    "text": "it actually collects the\nsignal of the magnetic field.",
+    "start": 1336.86,
+    "duration": 3.59
+  },
+  {
+    "text": "It was found that a magnetic field was\nup to eight times what it is today.",
+    "start": 1340.47,
+    "duration": 4.63
+  },
+  {
+    "text": "That means a powerful\nelectric current flow.",
+    "start": 1345.13,
+    "duration": 3.71
+  },
+  {
+    "text": "Could that be a possible\nindicator of petrification here?",
+    "start": 1348.86,
+    "duration": 5.36
+  },
+  {
+    "text": "But what if.., here's\nanother question.",
+    "start": 1354.84,
+    "duration": 1.96
+  },
+  {
+    "text": "This is where we start to think\nhopefully a bit laterally",
+    "start": 1356.83,
+    "duration": 3.66
+  },
+  {
+    "text": "and I don't have a solution\nbut I'll propose a couple.",
+    "start": 1360.52,
+    "duration": 3.23
+  },
+  {
+    "text": "What about the medium the fossils\nwere actually embedded in?",
+    "start": 1363.77,
+    "duration": 3.68
+  },
+  {
+    "text": "And in the cases we're\ntalking here, it's water.",
+    "start": 1367.48,
+    "duration": 4.19
+  },
+  {
+    "text": "The ammonites, the crabs possibly,\nwell we would think so certainly etc.",
+    "start": 1371.69,
+    "duration": 6.67
+  },
+  {
+    "text": "They're in a bolus and it's\na volumetric disaster.",
+    "start": 1381.45,
+    "duration": 5.15
+  },
+  {
+    "text": "So if, let's have a\nthought about how,",
+    "start": 1386.63,
+    "duration": 4.12
+  },
+  {
+    "text": "if a crab is in water which it was,\nand the fishes were in water,",
+    "start": 1390.77,
+    "duration": 4.23
+  },
+  {
+    "text": "and the mammoths have\nfallen to watery pit.",
+    "start": 1395.03,
+    "duration": 3.42
+  },
+  {
+    "text": "Could the calcium\nchange to water?",
+    "start": 1398.47,
+    "duration": 5.96
+  },
+  {
+    "text": "Big question and certainly\nis contentious.",
+    "start": 1404.46,
+    "duration": 4.11
+  },
+  {
+    "text": "But if you look at the chemistry here,\nwe got H₂O, two elements, hydrogen and oxygen,",
+    "start": 1408.6,
+    "duration": 5.72
+  },
+  {
+    "text": "with a combination of 10 protons,\n2 hydrogen protons and 8 oxygen.",
+    "start": 1414.35,
+    "duration": 6.89
+  },
+  {
+    "text": "Calcium, the basic stuff of limestone is,\nhas a proton count of double that, twenty.",
+    "start": 1421.27,
+    "duration": 7.87
+  },
+  {
+    "text": "This is twice that of water.",
+    "start": 1429.67,
+    "duration": 2.04
+  },
+  {
+    "text": "All that is theoretically needed\nto convert the water to calcium",
+    "start": 1431.73,
+    "duration": 4.82
+  },
+  {
+    "text": "is an abundance of neutrons to match\nthe lack of ones in the hydrogen",
+    "start": 1436.58,
+    "duration": 4.82
+  },
+  {
+    "text": "which only has one\nproton but no neutrons.",
+    "start": 1441.42,
+    "duration": 3.48
+  },
+  {
+    "text": "Is that feasible?",
+    "start": 1444.93,
+    "duration": 1.68
+  },
+  {
+    "text": "You know, the chemistry's\nthere, I mean,",
+    "start": 1446.61,
+    "duration": 2.59
+  },
+  {
+    "text": "some people could look at H₂O as\nan isotope of calcium, possibly.",
+    "start": 1449.23,
+    "duration": 7.27
+  },
+  {
+    "text": "Russian studies of\nlightning discharges",
+    "start": 1456.52,
+    "duration": 3.07
+  },
+  {
+    "text": "have shown that neutrons are\npromulgated during a lightning storm.",
+    "start": 1459.62,
+    "duration": 6.22
+  },
+  {
+    "text": "So neutrons could be\ninvolved in this.",
+    "start": 1465.84,
+    "duration": 3.12
+  },
+  {
+    "text": "It's a possibility.",
+    "start": 1468.99,
+    "duration": 2.94
+  },
+  {
+    "text": "But something tells me if the\nfish and the crabs are in water,",
+    "start": 1471.96,
+    "duration": 5.99
+  },
+  {
+    "text": "and that's in rock later on,\nhow the hell did that happen?",
+    "start": 1477.98,
+    "duration": 4.48
+  },
+  {
+    "text": "And this, the water itself has been\ntransmuted together with the bodies.",
+    "start": 1482.48,
+    "duration": 6.35
+  },
+  {
+    "text": "And they have the periodic tables; hydrogen, helium,\nlithium, beryllium, boron, carbon, nitrogen, oxygen,",
+    "start": 1489.57,
+    "duration": 5.54
+  },
+  {
+    "text": "we know them all and\nhow close they are.",
+    "start": 1495.13,
+    "duration": 2.72
+  },
+  {
+    "text": "And only one, for instance, nitrogen\noxygen, only one proton away.",
+    "start": 1497.88,
+    "duration": 5.7
+  },
+  {
+    "text": "Silicon, the most abundant element\non Earth if I remember rightly,",
+    "start": 1503.61,
+    "duration": 4.49
+  },
+  {
+    "text": "they're all fairly\nclose together.",
+    "start": 1508.13,
+    "duration": 1.96
+  },
+  {
+    "text": "So there's a lot of scope and\nwe still don't understand",
+    "start": 1510.12,
+    "duration": 3.59
+  },
+  {
+    "text": "how elemental change can occur.",
+    "start": 1513.74,
+    "duration": 2.17
+  },
+  {
+    "text": "It certainly can do, though.",
+    "start": 1515.92,
+    "duration": 1.94
+  },
+  {
+    "text": "But how can it?",
+    "start": 1518.98,
+    "duration": 2.55
+  },
+  {
+    "text": "Plasmoid research by Matsumoto\nand a number of other people,",
+    "start": 1521.55,
+    "duration": 4.39
+  },
+  {
+    "text": "shows that when you put electrodes\ninto a certain solution,",
+    "start": 1525.97,
+    "duration": 5.3
+  },
+  {
+    "text": "the damaged electrodes can produce new\ntotally different elements in that solution",
+    "start": 1531.3,
+    "duration": 6.36
+  },
+  {
+    "text": "and also plasmoids.",
+    "start": 1537.68,
+    "duration": 2.25
+  },
+  {
+    "text": "Let's have a look at a\nlittle bit of this.",
+    "start": 1539.96,
+    "duration": 1.93
+  },
+  {
+    "text": "July the 19th, 2012, an\neruption occurred on the Sun.",
+    "start": 1541.92,
+    "duration": 4.91
+  },
+  {
+    "text": "A moderately powerful solar flare",
+    "start": 1546.86,
+    "duration": 4.23
+  },
+  {
+    "text": "exploded on the sun's lower\n.. sending out light and radiation.",
+    "start": 1551.12,
+    "duration": 5.86
+  },
+  {
+    "text": "Next came a CME which shot off\nto the right out into space",
+    "start": 1557.0,
+    "duration": 4.87
+  },
+  {
+    "text": "and then the Sun treated viewers to one\nof its dazzling magnetic displays.",
+    "start": 1561.9,
+    "duration": 7.05
+  },
+  {
+    "text": "A phenomenon known\nas coronal rain.",
+    "start": 1569.62,
+    "duration": 3.49
+  },
+  {
+    "text": "This is a little bit about\nthe Kimberley diamond region",
+    "start": 1574.45,
+    "duration": 3.29
+  },
+  {
+    "text": "where a giant Barramundi jumped out and\ncame back in on diamonds on either side.",
+    "start": 1577.77,
+    "duration": 6.41
+  },
+  {
+    "text": "Other icon of\nAustralian mythology,",
+    "start": 1584.2,
+    "duration": 3.27
+  },
+  {
+    "text": "the Rainbow Serpent.",
+    "start": 1587.49,
+    "duration": 2.27
+  },
+  {
+    "text": "The Rainbow Serpent is cited by the aboriginals\nas the creator of geological formations",
+    "start": 1589.79,
+    "duration": 7.41
+  },
+  {
+    "text": "such as rivers, mountain\nbuilding and gorge cutting.",
+    "start": 1597.22,
+    "duration": 4.23
+  },
+  {
+    "text": "But the other real question is,",
+    "start": 1601.48,
+    "duration": 2.0
+  },
+  {
+    "text": "could these very same\nprocesses create diamonds?",
+    "start": 1603.51,
+    "duration": 4.83
+  },
+  {
+    "text": "Plasmoid research in cold fusion\nsuggests that this might be replicated.",
+    "start": 1608.37,
+    "duration": 6.38
+  },
+  {
+    "text": "In laboratory experiments with various\nelectrodes immersed in different solutions,",
+    "start": 1614.78,
+    "duration": 6.01
+  },
+  {
+    "text": "we can witness cold fusion.",
+    "start": 1620.82,
+    "duration": 3.49
+  },
+  {
+    "text": "This creates new elements around\ndamaged parts of the electrode.",
+    "start": 1624.33,
+    "duration": 4.88
+  },
+  {
+    "text": "The electrical current flow forces mini\nplasmoids to emerge from these very electrodes.",
+    "start": 1629.23,
+    "duration": 7.39
+  },
+  {
+    "text": "Some quite curiously look\ntotally like comets.",
+    "start": 1636.65,
+    "duration": 4.07
+  },
+  {
+    "text": "With their tails and angled colored sampling.\n[This is very interesting to me at least.]",
+    "start": 1640.75,
+    "duration": 4.76
+  },
+  {
+    "text": "Claims by Wal Thornhill that\nelectrical phenomena are scalable",
+    "start": 1645.54,
+    "duration": 5.67
+  },
+  {
+    "text": "gives us pause to think.",
+    "start": 1651.23,
+    "duration": 2.03
+  },
+  {
+    "text": "The emerging plasmoids then leap and\nwander across sensitive gel plates.",
+    "start": 1653.28,
+    "duration": 6.47
+  },
+  {
+    "text": "Work from Matsumoto and others show how\nthey crater and form tracking lines.",
+    "start": 1659.78,
+    "duration": 5.96
+  },
+  {
+    "text": "In fact, they perform exactly as the legend\ntold to me by Aboriginal elder Murray Butcher.",
+    "start": 1665.77,
+    "duration": 7.13
+  },
+  {
+    "text": "He tells the story of\nthe wee Wagtail bird",
+    "start": 1672.92,
+    "duration": 3.61
+  },
+  {
+    "text": "that lept and darted along\nrivers, boring water holes.",
+    "start": 1676.55,
+    "duration": 4.94
+  },
+  {
+    "text": "He insists these are\nactually facts, not fiction.",
+    "start": 1681.51,
+    "duration": 4.5
+  },
+  {
+    "text": "Large plasmoids from\nvolcanoes and earthquakes,",
+    "start": 1686.04,
+    "duration": 3.79
+  },
+  {
+    "text": "these are other\nelectromagnetic phenomena,",
+    "start": 1689.85,
+    "duration": 2.89
+  },
+  {
+    "text": "have been shown to sculpt the Earth as\nthey bore and tunnel at great velocities.",
+    "start": 1692.77,
+    "duration": 6.06
+  },
+  {
+    "text": "They often convert to the\ntightly related tornado.",
+    "start": 1698.85,
+    "duration": 4.28
+  },
+  {
+    "text": "Even tsunamis are produced\nwhen giant plasmoids explode.",
+    "start": 1703.16,
+    "duration": 5.76
+  },
+  {
+    "text": "But the plasmoid's ability to create\nnew elements whilst emitting light,",
+    "start": 1709.45,
+    "duration": 5.48
+  },
+  {
+    "text": "is an area still at a pioneering\nstage of our understanding.",
+    "start": 1714.95,
+    "duration": 5.32
+  },
+  {
+    "text": "Where on Earth these major\nelectrical discharges came from,",
+    "start": 1724.15,
+    "duration": 5.58
+  },
+  {
+    "text": "that completely changed the\ngeology of the landscape?",
+    "start": 1729.75,
+    "duration": 4.63
+  },
+  {
+    "text": "And what's more, what could possibly\nhave caused the electrical fossilization",
+    "start": 1734.41,
+    "duration": 6.11
+  },
+  {
+    "text": "of not only giant wombats",
+    "start": 1740.55,
+    "duration": 2.17
+  },
+  {
+    "text": "but mammoths and other megafauna in\nthis period of the Earth's development?",
+    "start": 1742.74,
+    "duration": 6.93
+  },
+  {
+    "text": "Both of us agree that some\nform of Peratt instability",
+    "start": 1749.69,
+    "duration": 4.26
+  },
+  {
+    "text": "led to the final discharge\ncausing these geological effects",
+    "start": 1753.97,
+    "duration": 5.0
+  },
+  {
+    "text": "and I believe, electrical\nfossilization.",
+    "start": 1758.99,
+    "duration": 3.74
+  },
+  {
+    "text": "This is not only backed up by\nmythology, with petroglyph carvings",
+    "start": 1762.76,
+    "duration": 5.4
+  },
+  {
+    "text": "but also by a large\namount of mythology.",
+    "start": 1768.18,
+    "duration": 4.03
+  },
+  {
+    "text": "Not only Aboriginal, the North\nAmerican and around the world",
+    "start": 1772.22,
+    "duration": 4.42
+  },
+  {
+    "text": "from Zeus's thunderbolts, the\naboriginal lightning brothers.",
+    "start": 1776.67,
+    "duration": 5.59
+  },
+  {
+    "text": "Aboriginal mythology and tradition\nis all about cosmological warfare",
+    "start": 1783.03,
+    "duration": 7.03
+  },
+  {
+    "text": "in the plasma space.",
+    "start": 1790.08,
+    "duration": 2.43
+  },
+  {
+    "text": "Comets are mentioned, meteorites,\nplanets in disturbed motion,",
+    "start": 1792.53,
+    "duration": 6.54
+  },
+  {
+    "text": "great flashes of thunderbolts\nfrom outer space,",
+    "start": 1799.1,
+    "duration": 4.71
+  },
+  {
+    "text": "earthquakes, tsunamis\ncovering the land,",
+    "start": 1803.84,
+    "duration": 4.68
+  },
+  {
+    "text": "people going mad,\nhuge oral traditions.",
+    "start": 1808.55,
+    "duration": 5.21
+  },
+  {
+    "text": "But one thing is plain\nin Aboriginal mythology.",
+    "start": 1813.78,
+    "duration": 4.48
+  },
+  {
+    "text": "It's not myth, it's fact.",
+    "start": 1818.28,
+    "duration": 3.7
+  },
+  {
+    "text": "Every word that's breathed by these\noral traditions actually happened,",
+    "start": 1822.0,
+    "duration": 6.6
+  },
+  {
+    "text": "here in Australia.",
+    "start": 1828.62,
+    "duration": 2.79
+  },
+  {
+    "text": "I'll just pause\nthat for a second.",
+    "start": 1838.37,
+    "duration": 2.8
+  },
+  {
+    "text": "I hope I can go on with this.",
+    "start": 1841.19,
+    "duration": 1.72
+  },
+  {
+    "text": "This is Diamond Point Bay\nwhere I live, Victoria.",
+    "start": 1842.94,
+    "duration": 3.34
+  },
+  {
+    "text": "And the Australians spell it wrongly\nbut we won't worry about that.",
+    "start": 1846.3,
+    "duration": 3.55
+  },
+  {
+    "text": "See this big hole here.",
+    "start": 1849.87,
+    "duration": 2.78
+  },
+  {
+    "text": "This is where a giant wombat,",
+    "start": 1852.68,
+    "duration": 2.29
+  },
+  {
+    "text": "if you don't know what a\nwombat is, it's like a badger,",
+    "start": 1855.0,
+    "duration": 2.66
+  },
+  {
+    "text": "I think you have badgers\nhere, I'm not sure.",
+    "start": 1857.68,
+    "duration": 2.1
+  },
+  {
+    "text": "But it was the size\nof a Volkswagen.",
+    "start": 1859.8,
+    "duration": 1.95
+  },
+  {
+    "text": "It was fossilized, petrified.",
+    "start": 1861.78,
+    "duration": 3.07
+  },
+  {
+    "text": "And this amazing area\nit only came out last year.",
+    "start": 1864.87,
+    "duration": 4.16
+  },
+  {
+    "text": "But hopefully I can play this.",
+    "start": 1869.03,
+    "duration": 2.96
+  },
+  {
+    "text": "We might go on to the next one.",
+    "start": 1872.99,
+    "duration": 2.44
+  },
+  {
+    "text": "And home we go!",
+    "start": 1876.98,
+    "duration": 1.92
+  },
+  {
+    "text": "Electric fossilization\nand the Carolina Bays.",
+    "start": 1878.92,
+    "duration": 3.39
+  },
+  {
+    "text": "I decided to include\nthis because",
+    "start": 1882.34,
+    "duration": 2.66
+  },
+  {
+    "text": "you're finding out that\nit's again the possibility",
+    "start": 1885.02,
+    "duration": 3.88
+  },
+  {
+    "text": "of things that have happened that have\ntransmuted or created elements.",
+    "start": 1888.93,
+    "duration": 4.72
+  },
+  {
+    "text": "So I won't bore you with\nreading all that out.",
+    "start": 1893.67,
+    "duration": 2.51
+  },
+  {
+    "text": "Let's see some of\nthe guff about it.",
+    "start": 1896.21,
+    "duration": 2.48
+  },
+  {
+    "text": "This is Rick Firestone from\nBerkeley National Laboratories.",
+    "start": 1898.71,
+    "duration": 4.72
+  },
+  {
+    "text": "He ran the first\ncyclotron in the US",
+    "start": 1903.46,
+    "duration": 3.81
+  },
+  {
+    "text": "and is the current table\nof isotopes expert.",
+    "start": 1907.29,
+    "duration": 6.35
+  },
+  {
+    "text": "He knows his stuff.",
+    "start": 1913.67,
+    "duration": 1.45
+  },
+  {
+    "text": "Had to say about these\nmass destructions.",
+    "start": 1915.14,
+    "duration": 2.78
+  },
+  {
+    "text": "We discovered that there was\na parallel line of research",
+    "start": 1917.95,
+    "duration": 2.98
+  },
+  {
+    "text": "where they had been studying the\ndisappearance at that same time",
+    "start": 1920.94,
+    "duration": 3.63
+  },
+  {
+    "text": "of mammoths and bears and horses ...\nand bison.",
+    "start": 1924.59,
+    "duration": 6.13
+  },
+  {
+    "text": "All of these animals virtually\ndisappeared from just that region.",
+    "start": 1930.74,
+    "duration": 3.27
+  },
+  {
+    "text": "So it's kind of like a dress rehearsal\nfor what happened 13,000 years ago.",
+    "start": 1934.01,
+    "duration": 4.45
+  },
+  {
+    "text": "So he did a survey\nof the Carolina Bays",
+    "start": 1938.48,
+    "duration": 4.2
+  },
+  {
+    "text": "and the Carolina Bays, you'll\nsee about them in a moment,",
+    "start": 1942.69,
+    "duration": 3.15
+  },
+  {
+    "text": "but there are thousands of depressions\nall on the east coast of the US",
+    "start": 1945.86,
+    "duration": 4.72
+  },
+  {
+    "text": "and up into Canada, I believe, and\neven down this far in some cases.",
+    "start": 1950.6,
+    "duration": 5.07
+  },
+  {
+    "text": "But let's see what he found out.",
+    "start": 1955.7,
+    "duration": 2.7
+  },
+  {
+    "text": "The remarkable study of\nthe Carolina Bays system",
+    "start": 1959.87,
+    "duration": 3.57
+  },
+  {
+    "text": "by Berkeley nuclear\nphysicist Rick Firestone",
+    "start": 1963.46,
+    "duration": 3.89
+  },
+  {
+    "text": "stimulates even further speculation\non the production of diamonds.",
+    "start": 1967.37,
+    "duration": 5.51
+  },
+  {
+    "text": "The Carolina Bays is a vast system\nof shallow elliptical depressions",
+    "start": 1973.55,
+    "duration": 6.14
+  },
+  {
+    "text": "whose origin is\nhighly debatable.",
+    "start": 1979.71,
+    "duration": 2.91
+  },
+  {
+    "text": "Some claim meteorite storms, however their\nshallowness and lack of debris precludes this.",
+    "start": 1983.19,
+    "duration": 7.72
+  },
+  {
+    "text": "Others speculate windborne\ndramas from past eras.",
+    "start": 1990.94,
+    "duration": 5.89
+  },
+  {
+    "text": "However, plasmoids may be\ninvolved in the Bays production.",
+    "start": 1996.85,
+    "duration": 4.96
+  },
+  {
+    "text": "Importantly it should be noted",
+    "start": 2001.84,
+    "duration": 2.93
+  },
+  {
+    "text": "that Carolina Bays accompany and bank\nalong Lichtenberg river systems.",
+    "start": 2004.8,
+    "duration": 6.97
+  },
+  {
+    "text": "EU Theory suspects,\nLichtenberg river systems",
+    "start": 2011.8,
+    "duration": 4.37
+  },
+  {
+    "text": "are ancient electromagnetic\ndischarge lines along,",
+    "start": 2016.2,
+    "duration": 5.2
+  },
+  {
+    "text": "and I suspect, beneath\nthe Earth's surface.",
+    "start": 2021.42,
+    "duration": 3.35
+  },
+  {
+    "text": "So what did he conclude?",
+    "start": 2028.49,
+    "duration": 3.49
+  },
+  {
+    "text": "Well, he was laborious in a lot of these\nstudies, driving around hand and foot,",
+    "start": 2032.0,
+    "duration": 5.09
+  },
+  {
+    "text": "analyzing them and taking\nthings back to the laboratory.",
+    "start": 2037.12,
+    "duration": 3.1
+  },
+  {
+    "text": "But he found they contained large\nconcentrations of nano diamonds",
+    "start": 2040.24,
+    "duration": 5.29
+  },
+  {
+    "text": "and we're talking about\ncreating new elements here.",
+    "start": 2045.56,
+    "duration": 2.67
+  },
+  {
+    "text": "This is not outside of\nthese small craters.",
+    "start": 2048.25,
+    "duration": 3.72
+  },
+  {
+    "text": "It's actually within them.",
+    "start": 2051.99,
+    "duration": 1.46
+  },
+  {
+    "text": "Outside it’s totally different.",
+    "start": 2053.48,
+    "duration": 2.14
+  },
+  {
+    "text": "Nano diamonds, iridium, helium-3,\nfullerenes, that's Bucky Balls, carbon glass,",
+    "start": 2055.64,
+    "duration": 7.46
+  },
+  {
+    "text": "hollow spherules and\nmagnetic particles.",
+    "start": 2063.12,
+    "duration": 2.89
+  },
+  {
+    "text": "Could an electrical discharge\nor an emerging plasmoid",
+    "start": 2066.03,
+    "duration": 4.63
+  },
+  {
+    "text": "such as we saw with\nthe electrodes,",
+    "start": 2070.69,
+    "duration": 3.11
+  },
+  {
+    "text": "plasmoid instability\npossibly create diamonds?",
+    "start": 2074.8,
+    "duration": 3.37
+  },
+  {
+    "text": "And we're talking here\nabout transmutation.",
+    "start": 2078.2,
+    "duration": 2.63
+  },
+  {
+    "text": "So is this a vehicle of transmutation, if\nplasmoids did actually create the Carolina Bays?",
+    "start": 2080.84,
+    "duration": 7.77
+  },
+  {
+    "text": "Is this an indication of, they could\ndo other things like petrification?",
+    "start": 2088.63,
+    "duration": 5.08
+  },
+  {
+    "text": "And some backup stuff\nhere that I was curious.",
+    "start": 2095.08,
+    "duration": 4.27
+  },
+  {
+    "text": "I actually went to Calabria\nbut I couldn't find these.",
+    "start": 2099.38,
+    "duration": 2.69
+  },
+  {
+    "text": "See these round craters?",
+    "start": 2102.07,
+    "duration": 1.27
+  },
+  {
+    "text": "They were penciled in at this stage\naround about 1560 I think it was.",
+    "start": 2103.37,
+    "duration": 4.9
+  },
+  {
+    "text": "There were huge earthquakes\nkilling thousands upon thousands",
+    "start": 2108.3,
+    "duration": 4.23
+  },
+  {
+    "text": "and one of the things that happens with\nearthquakes and volcanoes, as we know,",
+    "start": 2112.55,
+    "duration": 4.76
+  },
+  {
+    "text": "plasmoids emerge out of\nthe Earth on mountains.",
+    "start": 2117.34,
+    "duration": 3.8
+  },
+  {
+    "text": "It's well documented",
+    "start": 2121.17,
+    "duration": 2.09
+  },
+  {
+    "text": "and these, they're so.",
+    "start": 2123.28,
+    "duration": 2.4
+  },
+  {
+    "text": "They're fairly similar to the\nCarolina Bays but in a smaller way.",
+    "start": 2125.7,
+    "duration": 3.95
+  },
+  {
+    "text": "So Louis Hissink, a geologist involved\nin diamond exploration in Australia,",
+    "start": 2129.67,
+    "duration": 8.6
+  },
+  {
+    "text": "said to me, he said you know,",
+    "start": 2138.29,
+    "duration": 2.86
+  },
+  {
+    "text": "some of the cherished theories\nwe hold may be quite wrong",
+    "start": 2141.17,
+    "duration": 3.79
+  },
+  {
+    "text": "and that's a typical EU\nstatement if I've ever heard one.",
+    "start": 2144.99,
+    "duration": 4.6
+  },
+  {
+    "text": "Get it right... Here's\nthe summary note.",
+    "start": 2149.62,
+    "duration": 2.46
+  },
+  {
+    "text": "Sort of dead and perish, they're actually\nliving at the time of fossilization.",
+    "start": 2152.08,
+    "duration": 4.23
+  },
+  {
+    "text": "They're instantaneously, you believe,\nfrozen if you like, in time.",
+    "start": 2156.31,
+    "duration": 4.53
+  },
+  {
+    "text": "Yes, what these fossils\ndramatically illustrate,",
+    "start": 2160.87,
+    "duration": 4.74
+  },
+  {
+    "text": "even though concretions with soft body\nfossils are found all over the world.",
+    "start": 2165.61,
+    "duration": 3.73
+  },
+  {
+    "text": "These will dramatically\nillustrate to you that",
+    "start": 2169.36,
+    "duration": 2.52
+  },
+  {
+    "text": "these are not creatures\nwhich are disarticulated.",
+    "start": 2171.9,
+    "duration": 3.08
+  },
+  {
+    "text": "They appear to have undergone no\nbreakdown and no decomposition.",
+    "start": 2175.0,
+    "duration": 4.72
+  },
+  {
+    "text": "They are in very lifelike positions and\nyou may have some of your own favorites",
+    "start": 2179.74,
+    "duration": 4.83
+  },
+  {
+    "text": "but some other examples of soft\nbodied fossils were found by,",
+    "start": 2184.6,
+    "duration": 4.85
+  },
+  {
+    "text": "that are in particular moments of life\nseemingly fossilized and turned to stone.",
+    "start": 2189.48,
+    "duration": 7.6
+  },
+  {
+    "text": "There was a plesiosaur that was\ngiving birth in Holtzmaden, Germany.",
+    "start": 2198.4,
+    "duration": 6.84
+  },
+  {
+    "text": "She was seemingly fossilized.",
+    "start": 2205.27,
+    "duration": 1.98
+  },
+  {
+    "text": "The famous paleontologists Charles\nWolcott also found concretions",
+    "start": 2207.28,
+    "duration": 4.01
+  },
+  {
+    "text": "which had specimens of jellyfish",
+    "start": 2211.32,
+    "duration": 3.4
+  },
+  {
+    "text": "which were actually dividing into\ntwo when they were fossilized.",
+    "start": 2214.74,
+    "duration": 4.44
+  },
+  {
+    "text": "So it is an instantaneous thing.",
+    "start": 2219.21,
+    "duration": 2.23
+  },
+  {
+    "text": "It would seemingly be so.",
+    "start": 2221.46,
+    "duration": 1.65
+  },
+  {
+    "text": "They display all of the kind of\ncharacteristics that you would expect",
+    "start": 2223.13,
+    "duration": 4.0
+  },
+  {
+    "text": "from an electrical discharge,\nformation of these types of stone orbs.",
+    "start": 2227.15,
+    "duration": 5.69
+  },
+  {
+    "text": "It's got the layering,\nit's got the,",
+    "start": 2232.87,
+    "duration": 2.6
+  },
+  {
+    "text": "it's got the equatorial\nbulge, if you like,",
+    "start": 2235.5,
+    "duration": 2.39
+  },
+  {
+    "text": "it's got the polar markings and",
+    "start": 2237.91,
+    "duration": 3.55
+  },
+  {
+    "text": "and it's wonderful because I think that\nthe work that C.J. Ransom is doing",
+    "start": 2241.48,
+    "duration": 5.03
+  },
+  {
+    "text": "kind of gives us an alternative unified\nview of how this type of geologic formation",
+    "start": 2246.53,
+    "duration": 8.58
+  },
+  {
+    "text": "which is really found all over the United\nStates, all over the world, could be,",
+    "start": 2255.13,
+    "duration": 4.56
+  },
+  {
+    "text": "could have been formed not by a patchwork\nof explanations depending on the area",
+    "start": 2259.71,
+    "duration": 5.64
+  },
+  {
+    "text": "but really we can see that the\nqualities that we see in concretions",
+    "start": 2265.37,
+    "duration": 4.58
+  },
+  {
+    "text": "in electrically formed, in\nelectrically formed stone.",
+    "start": 2269.98,
+    "duration": 5.39
+  },
+  {
+    "text": "That's Paulina West, by the way.",
+    "start": 2276.62,
+    "duration": 2.35
+  },
+  {
+    "text": "So here we are. Let's\nstart summing up now.",
+    "start": 2280.37,
+    "duration": 2.09
+  },
+  {
+    "text": "Here's a classic, a petrified fish turned\nto rock in rock, eating another fish.",
+    "start": 2282.49,
+    "duration": 6.99
+  },
+  {
+    "text": "Caught at a moment of death.",
+    "start": 2289.51,
+    "duration": 1.78
+  },
+  {
+    "text": "Quite staggering.",
+    "start": 2291.31,
+    "duration": 1.01
+  },
+  {
+    "text": "So let's sum up what\nwe've gone through.",
+    "start": 2292.34,
+    "duration": 2.55
+  },
+  {
+    "text": "Is instant fossilization\nan electrical phenomenon?",
+    "start": 2295.43,
+    "duration": 4.2
+  },
+  {
+    "text": "And I think we've, we can\nnever say positively",
+    "start": 2299.65,
+    "duration": 3.33
+  },
+  {
+    "text": "because we haven't\nactually seen it happen",
+    "start": 2303.01,
+    "duration": 1.63
+  },
+  {
+    "text": "but let's go through\nsome of the things.",
+    "start": 2304.65,
+    "duration": 1.7
+  },
+  {
+    "text": "Mythology states unequivocably\nthat plasmoids and...",
+    "start": 2306.37,
+    "duration": 5.24
+  },
+  {
+    "text": "I was talking to Rens Van\nder Sluijs the other day.",
+    "start": 2311.63,
+    "duration": 2.56
+  },
+  {
+    "text": "He's coming up with a lot of research\nhe's done in mythology that brings in",
+    "start": 2314.22,
+    "duration": 4.34
+  },
+  {
+    "text": "not only electrical\ndischarges such as Zeus",
+    "start": 2318.59,
+    "duration": 3.06
+  },
+  {
+    "text": "but plasmoid formation.",
+    "start": 2321.68,
+    "duration": 1.78
+  },
+  {
+    "text": "So I'm waiting to see on that.",
+    "start": 2323.48,
+    "duration": 2.34
+  },
+  {
+    "text": "But ...and celestial thunderbolts\ncause petrification.",
+    "start": 2325.85,
+    "duration": 4.46
+  },
+  {
+    "text": "C.J. Ransom and others have shown the ability\nof electrical discharge to form (concretions).",
+    "start": 2330.33,
+    "duration": 6.71
+  },
+  {
+    "text": "It would appear that the medium in\nwhich the petrification has occurred",
+    "start": 2338.18,
+    "duration": 3.93
+  },
+  {
+    "text": "has also dramatically changed and\nno one seems to get that bit.",
+    "start": 2342.13,
+    "duration": 4.48
+  },
+  {
+    "text": "That's so important to me.",
+    "start": 2346.63,
+    "duration": 1.44
+  },
+  {
+    "text": "You know, something's in rock.",
+    "start": 2348.1,
+    "duration": 1.8
+  },
+  {
+    "text": "How can it be in the\nmiddle of rock?",
+    "start": 2349.92,
+    "duration": 2.16
+  },
+  {
+    "text": "I mean, if that was molten they would\nhave just vaporized it, surely.",
+    "start": 2352.11,
+    "duration": 4.03
+  },
+  {
+    "text": "But it's not, it's intact.",
+    "start": 2356.17,
+    "duration": 1.96
+  },
+  {
+    "text": "And it's therefore, has the rock, has\nthe water turned to rock as well?",
+    "start": 2358.16,
+    "duration": 4.66
+  },
+  {
+    "text": "Big question to me anyway.",
+    "start": 2362.85,
+    "duration": 1.95
+  },
+  {
+    "text": "Elemental, a change occurs\nduring the process.",
+    "start": 2364.8,
+    "duration": 3.31
+  },
+  {
+    "text": "At some fossilization you\nget marginal change.",
+    "start": 2368.14,
+    "duration": 3.93
+  },
+  {
+    "text": "You certainly get mammoth bones\npreserved in muck and peat and ice.",
+    "start": 2372.09,
+    "duration": 6.1
+  },
+  {
+    "text": "But in, particularly in petrification\nit's turned to rock.",
+    "start": 2378.21,
+    "duration": 4.06
+  },
+  {
+    "text": "Elemental change,\ncompound change.",
+    "start": 2382.29,
+    "duration": 3.0
+  },
+  {
+    "text": "The change, and this\nis an important part,",
+    "start": 2385.31,
+    "duration": 2.96
+  },
+  {
+    "text": "is very rapid and theories that\nendorse long periods of transition,",
+    "start": 2388.29,
+    "duration": 6.43
+  },
+  {
+    "text": "the classic theories,",
+    "start": 2394.74,
+    "duration": 1.89
+  },
+  {
+    "text": "do not fit the fact\nthat biological matter",
+    "start": 2396.66,
+    "duration": 4.17
+  },
+  {
+    "text": "deteriorates very quickly if\nnot preserved by some means.",
+    "start": 2400.86,
+    "duration": 5.19
+  },
+  {
+    "text": "And that about sums\nit up, thank you!",
+    "start": 2406.07,
+    "duration": 3.16
+  }
+]

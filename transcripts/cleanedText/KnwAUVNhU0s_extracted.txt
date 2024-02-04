@@ -1,0 +1,1561 @@
+Gerald Pollack
+Weather and EZ Water ― An
+Intimate Role of Separated Charge
+So I am going to
+talk about water but
+I'm going to talk about
+water in a special context
+and that is in the context of something
+that's really important around here
+and really important where I
+come from and that is weather.
+And so, I want to talk
+about water and weather
+and I hope to demonstrate to you that
+something is really important about weather
+that we haven't realized before
+and that is electrical charge
+which fits nicely into the
+theme of this conference.
+And, I guess, a shorter title would be,
+should I bring an umbrella to work?
+Okay, so let me start
+with a few questions.
+So, here's a question.
+Sometimes above the water
+you see a single cloud.
+But that's weird because you know, the
+water is evaporating from everywhere
+so how come only one cloud
+when the vapor rises all over?
+Is there some attraction
+of moisture that comes
+and pulls the moisture into
+this cloud or something else?
+How do we understand this?
+How come there's not one broad
+cloud that exists over the water?
+Another one.
+Maybe you haven't
+thought about this
+but what keeps the cloud afloat?
+Cloud consists of
+water, water is heavy,
+cloud like this consists of, I
+could give you in kilograms,
+the weight and such but
+it's convenient to talk about the
+weight in terms of elephants.
+So, this is the equivalent of
+perhaps a thousand or so elephants.
+And how come the elephants
+don't fall on your head?
+Maybe it's a question that you haven't
+thought about but some people have.
+And then, you know, in
+Seattle where I live,
+we get a lot of rain and
+we see dark clouds.
+Sometimes they release the rain
+and other times they don't.
+And so, what gives, how
+come, what makes it rain
+and why sometimes
+does it not rain?
+So we're talking about water
+and water is something
+about which we know so.
+So I want to start from a few principles
+that have been developed over the past years
+and then go on from there to
+talk about how these principles
+can be applied to get a better
+understanding of weather.
+And it starts with this book
+that Don Scott mentioned
+and we uncovered a different phase of
+water beyond solid, liquid and vapor.
+And it's the basis, it comes from
+a lot of experiments that we did
+and I think rather
+straightforward interpretations.
+And I just want to give you a summary without
+presenting the evidence for what we found.
+So, we found that
+if there's water
+and the water sits next to a hydrophilic
+material in particular not hydrophobic
+but hydrophilic, water-loving,
+what happens is that the water transitions
+into a completely different structure.
+A layered structure, honeycomb kind
+of structure that builds in layers
+from here one after another
+and just keeps going on
+and in fact typically we find up
+to millions of molecular layers
+that undergo these
+transformations.
+We call them EZ or
+Exclusion Zone of water
+because we find experimentally
+that as these grow
+they push out all
+particles and solutes
+so it's rather pure substance that
+we get here that's solute free.
+And the structure looks
+something like this.
+It's a hexagonal or
+honeycomb kind of structure
+consisting of course
+of oxygen and hydrogen
+and unlike the structure of
+liquid water which sits out here.
+And it turns out it's
+not H₂O anymore.
+It's actually H₃O₂ - if you count the
+oxygens and hydrogens in the unit cell.
+This is what you get
+and it's not surprising because
+experimentally we found that this region
+has a net negative charge and
+this is negatively charged.
+To be neutral, it would have to be H₄0₂
+that is double H₂O that's neutral.
+It's negatively charged.
+If you wanted this to be neutral, you'd
+have to put one more proton in here
+to make it H₄0₂.
+So, negatively charged and
+the positive charges,
+complementary positive
+charges lie here in water
+and the reason is that,
+in order to build these
+what happens is the water molecule is
+breaking into its component parts into OH-
+which sits here and lines up to give
+you this structure and H+ protons.
+So this is negative
+and this is positive
+and what that does is to
+form a kind of battery.
+This is the hydrophilic
+surface, this is the water
+and this negatively charged, EZ, or we call
+it 'fourth phase of water' is sitting here
+and the complementary
+protons are sitting here.
+It's got potential energy
+just like a battery
+and in fact the energy to charge this
+comes from light, we found that.
+So, question is, how does this
+potential energy play into weather?
+Everybody's interested in the weather,
+nobody really understands it.
+And I think the answer
+is - profoundly.
+And I want to present to you some,
+well rather than really evidence,
+some of this is evidence and
+some of it is conjecture
+to give you perhaps some idea that
+differs from the conventional idea of
+what is responsible for weather.
+It's not with the watercycle and
+many of you have seen this before.
+Here's the atmosphere and the
+clouds and we have precipitation
+which could be water or
+it could be ice and snow
+and the groundwater flows down
+into the oceans and it evaporates
+and the evaporated water
+condenses and so on.
+And so, some of the water that exists,
+could be millions of years old.
+Same molecules that get
+recycled over and over.
+And so, we deal with ice and
+snow, we deal with snow-melt,
+evaporation, condensation
+and then precipitation.
+And that's what I
+want to talk about
+and I'd like to present you and argue
+that these are qualitatively different
+from what you think you have,
+what you might have learned.
+So, we're going to talk about
+this water cycle and weather
+and I want to talk first about water and
+ice which you saw on the upper left.
+Then evaporation, condensation,
+precipitation and then wind,
+something that many of us never really
+think about but it's certainly around.
+And, weather exotica.
+I'm not sure how much I'll
+get through but let's see.
+So, we start with water and ice.
+So you know about ice, you just basically
+take water and freeze it and you get ice.
+But it's not quite
+so clear as that.
+It turns out that this fourth
+phase that I mentioned to you
+is a necessary condition
+for the freezing of water.
+So we all think that when you freeze
+water you go from water to ice
+but what we found and is described in the
+book and I'll show you a few slides,
+is that water doesn't really
+transition directly to ice.
+It transitions to EZ whose structure
+is not so different from ice.
+It's not ice but not so
+different and then to ice.
+And if you melt the ice, you go
+from ice to EZ and then to water.
+So, the process of
+freezing differs.
+And the way it works is something like
+this, you start with the EZ structure,
+remember there are the these hexagonal
+sheets that pile on one another,
+and you may not
+have noticed it but
+each sheet is slightly displaced
+from the sheet behind it.
+It's displaced in such a way
+that the negative oxygen here
+lines up with the
+positive hydrogen here
+and so these are
+electrostatically attracted.
+The same here, so it's a stable
+structure, it sticks together.
+And what we found is that the
+ice forms as this EZ structure.
+Remember, you start, you go from
+water to EZ and then to ice.
+What happens is that you add protons,
+and I'll explain how in a moment,
+and these protons,
+positively charged,
+insinuate themselves between
+the two negative oxygens here
+and then there's a
+shift of planes
+so that the planes are no longer
+displaced from one another
+but they're actually in register and
+that's when the planes come apart
+so that the ice is less
+dense and the ice floats.
+And, you know, we're
+happy that ice floats
+because if it didn't float,
+if the ice were more dense
+and the ice began from the
+bottom and worked its way up
+then you'd have a real problem because
+creatures like this could be,
+maybe in cold climes, could be
+basically pushed out of the water
+and would obviously perish.
+So, we're lucky that the structure of ice
+is less dense than the structure of water.
+So, let me show
+you the evidence.
+Is it really necessary, is the EZ
+really necessary for ice formation?
+So, here's a simple experiment.
+What we do is, we take
+a droplet of water
+and we put it next to a
+hydrophilic material.
+This is one that
+we commonly use.
+It's called Nafion.
+And so, what we find is
+that next to the Nafion
+we have EZ water that forms and
+beneath this we have a cooling plate
+so basically this water is being
+cooled and eventually it turns to ice.
+But I want to demonstrate
+to you that it's the EZ
+where the ice formation
+is initiated.
+And that's shown here.
+And so, we're depicting this
+particular region over time
+and so here's a water drop and here's
+the piece of Nafion and remember the EZ
+is sitting right here and
+you see this bright spot.
+This bright spot shows the initial
+location of ice formation
+and later as ice formation occurs
+of course it moves into the water
+but it moves and penetrates down where
+the EZ is and you can see later
+it basically follows the EZ.
+So, the EZ is basically the
+first place to freeze.
+The freeze initiates in the
+EZ and that's the main point.
+And the way we think it does, and
+I'll show you evidence in a moment,
+is that you have the EZ here and
+remember negatively charged here
+and the protons here and
+gradually as the EZ builds up,
+more negative charge, you get
+more positive charge here.
+And when the positive
+charge gets dense enough,
+what happens is it
+moves into the lattice
+all the way to the most negative
+part and it forms here.
+And remember, EZ plus
+protons gives you ice
+and so we have the ice that forms
+right here and the process continues
+and gradually you get a whole bunch
+of ice starting with the EZ.
+Now to show you that this really happens,
+we have a setup that looks like this.
+So, here's a chamber.
+This is a thermoelectric cooler so this
+water then gets progressively cooler
+and we find that the cooler it
+gets the bigger the EZ gets
+and beyond that we just have water
+and we put pH sensitive dye.
+These are the dyes, you know, that
+change color just like litmus paper.
+Acid is one color, base is another color and
+here's what happens when freeze occurs.
+So here's the cooling
+plate, right.
+Here's this cooling plate.
+Here's the ice and here's the water
+that has yet to convert to ice.
+So, the green color
+is actually neutral
+and here in the ice the
+red color is very low pH.
+It means it's full of protons.
+So it shows that indeed, as the ice forms,
+a lot of protons enter into that region.
+So, ice formation
+involves protons.
+It's EZ, negatively charged,
+plus protons, give you ice.
+So we understand now that what happens is,
+you reduce the temperature, you get EZ,
+EZ builds up and all the protons that
+are sitting here rush into the EZ
+whose structure is a little bit different
+from ice and that converts to ice.
+So, what happens
+when the ice melts?
+Well, you might expect the
+opposite or the reverse process.
+So, the ice turns into EZ which
+then turns into - water.
+So do we really see EZ
+water when this melts?
+We did the experiment, put ice into
+a cuvette and allowed it to melt.
+And put the cuvette
+into a spectrometer
+which can measure the absorption
+of light at different wavelengths.
+And so we asked the question, does
+melting produce EZ water and protons?
+So, this is the absorption spectra of just
+melted ice, just melted water samples.
+And there are four
+different panels
+and the only difference between them
+is we used a different kind of water
+so this is de-ionized water,
+we use that to make the ice.
+Boiled de-ionized water,
+de-gassed de-ionized water.
+It doesn't really matter what
+kind of water you put in there,
+when you melt the ice you get
+a similar spectral pattern.
+In all cases, there's a big
+absorption peak at 270 nanometers
+and we know from our
+previous experience that
+the 270 nanometer absorption
+is the signature of EZ water.
+It's the defining feature.
+That water absorbs light in the UV region
+at 270 nanometers, ordinary water doesn't.
+So, we can conclude that as you
+take the ice and you melt the ice,
+the melted ice is EZ water.
+So, the melting is ice
+to EZ and then finally,
+after some time, the EZ
+converts to ordinary water.
+So, what about snow?
+Um well, it's pretty
+and I think all of you know that
+snow has hexagonal crystals
+and it's always been a kind of mystery
+as to why they should be hexagonal.
+But remember, the EZ is hexagonal
+and if snow grows from
+hexagonal kind of ordered water it makes
+total sense that the snowflake would
+But remember, the EZ is hexagonal
+and if snow grows from
+hexagonal kind of ordered water it makes
+total sense that the snowflake would
+actually be EZ, some
+construct of EZ water.
+And the fact that EZ
+water is negative
+means every snowflake
+should have negative charge
+and these snowflakes should stay apart
+from one another which basically they do,
+built from hexagonal EZ.
+So, we dealt with ice and snow
+and the fourth phase of water
+and I presented to you some features
+that are perhaps a lot different
+from what the conventional view
+is of freezing and melting.
+And now I would like
+to show you a video
+and this video is something that
+is on the Discovery Channel
+and it was based on my book
+'The Fourth Phase Of Water'
+and we made it, you might say, to Hollywood
+and I want to show you a five minute clip.
+The movie is called
+'The Fourth Phase'.
+It's done by a famous
+snowboarder Travis Rice.
+From when I was a kid I've
+always been intrigued with water
+and how we interact with it.
+Since then, traveling the world of snowboarding,
+the concept for this trip evolved
+to follow the hydrological
+cycle around the North Pacific
+really attempting to immerse oneself in the
+elements and see how this whole thing works.
+It's been incredible.
+As children, we're all
+motivated to find the truth.
+A child looks around and is
+learning truths all the time.
+We have this natural
+tendency to explore.
+I'm Gerald Pollack
+and I'm a professor of bioengineering at
+the University of Washington in Seattle.
+It can be really challenging to
+keep an open mind in these days.
+Scientists have become more hesitant
+to challenge perceived truth.
+"How are you doing?
+So, it's working?"
+There are some books
+that suggest that
+essentially we've kind of reached
+the limit of what there is to know.
+I'm shocked by this
+this perception.
+There are many aspects of
+water that we see every day
+and we don't really
+understand them.
+These are questions
+that need answers.
+We all learned that
+water has three phases;
+solid state,
+liquid state
+and also vapor state.
+However, you can't explain all the known
+properties of water with 3 phases alone.
+You need a fourth phase.
+What's the fourth phase?
+With an energetic input, water
+molecules undergo massive change.
+They become ordered,
+they acquire charge.
+All of this energy to create
+that order comes from light.
+We began with experiments
+to try to learn more.
+We noticed something that
+seemed almost magical.
+Every one of the tests
+that we did showed that
+this water was different
+from ordinary water.
+The individual molecules were actually
+linked together to form a hexagon,
+and then many hexagons.
+We can understand why
+snowflakes are hexagonal.
+They actually form from the
+fourth phase of water.
+After some time there seemed to be
+enough evidence to indicate that
+this was a distinctly
+different phase of water.
+You might ask, what
+implications it has for us?
+We're approximately
+two-thirds water.
+Most of the water inside of our cells,
+they're filled with fourth-phase water.
+This could be central to all of what
+goes on in the biology of the cell.
+This is going to lead the way to a better
+understanding of how cells function.
+I think part of the beauty
+of the fourth phase,
+especially as it relates,
+I guess, to this film,
+is the concept that not everything
+is as it appears to be.
+Leaving some space
+and open-mindedness
+for allowance of a shift in perspective
+on how you view the world is
+one of the most important
+things in my life.
+Being a scientist is
+a search for truth.
+We somehow need to change
+the system so that
+we're looking for ideas whose outcome has
+the capacity to really shake the earth
+and yield breakthroughs
+if not revolutions.
+You need to dig deeper and deeper
+in order to find the truth.
+Thank you.
+This was cool and I'm really shocked
+that these guys actually survive
+what they, what they
+do in the backcountry.
+OK, so I talked about water and ice
+and I've tried to demonstrate that
+the formation of ice and the melting of
+ice is different from what we think.
+And I want to talk about evaporation
+and the message is the same,
+it's not what we think.
+So, what do you think
+about evaporation?
+You probably think that you've
+got a glass of water, you know,
+and it's evaporating one
+molecule at a time.
+A molecule gets a kick of energy,
+of kinetic energy, and it comes up
+at least that's what I learned.
+And the reality is
+a lot different.
+So, let me start with this.
+This is taken at Starbucks
+and, you know, Seattle, Starbucks was born
+in Seattle so we drink a lot of coffee.
+And if you have a dark background you
+notice this is a hot latte, I think,
+and taken by my son.
+You notice something interesting,
+you can see the vapor.
+Now, if you can see the
+vapor, what does that mean?
+Well, you can see the vapor because
+the light is being scattered
+and you don't see a hell of a lot
+unless the scattering entity
+is at least on the order of
+the wavelength of light.
+Wavelength of light
+is half a micrometer.
+Well, it turns out that these are little tiny
+droplets in here that are tens of microns.
+Now, even one micrometer
+little droplet contains,
+you know, how many
+water molecules?
+You can do the arithmetic, it's something
+like a billion, on that order.
+So, there's something wrong with,
+appears to be wrong with the idea
+that the evaporative
+entity is one molecule,
+unless they come together above here and
+we know they don't because we've checked
+that where we've checked these
+when water is evaporating
+and we can check right just above
+the surface as this is emerging,
+it's no different from
+what you see here.
+So, that idea seems to be
+incompatible with basic physics.
+Well, another interesting feature
+is that it's not continuous.
+Look, it seems to be discrete.
+Now that's a surprise
+because most of us,
+we presume that the evaporative process is
+a continuous one, not only is it discrete
+but also it appears to come
+from one region of the water
+not necessarily from the
+entire surface simultaneously.
+Well, I have a lot of undergraduate
+students working in the lab
+and many of them don't do
+what I tell them to do.
+They have minds of their
+own and there was one guy,
+a Chinese student, we have
+a lot of them in Seattle,
+and he was curious and so he
+took a laser beam and he,
+what he did is to condense
+the beam into a plane
+and he wanted to get a cross-section
+of how one of these would look like.
+So, what do you think
+they look like?
+You might think,
+cross-section might,
+would look like kind of cotton
+or something like that,
+but doesn't.
+It looks like this.
+These are four different
+experiments and you can see,
+looking at let's say this one, that
+the bright area is scattering light.
+It means that's
+where the water is.
+In between that, the dark
+area is doing nothing.
+So it seems to be
+essentially empty.
+And I got to tell you that
+when I saw this for the first
+time I almost fell out of my seat
+because I couldn't believe that the evaporative
+entity had structure, just like this.
+It seemed inconceivable but, you know,
+after enough repeats of the experiment
+it was pretty clear
+that this was correct.
+So the first thing...
+Well, sorry it wasn't
+the first thing
+but we thought this is not
+created from nothing.
+This kind of
+pretzel-like structure.
+There must be something
+in the water
+that may be giving rise to this
+kind of pretzel-like structure.
+So, we raised the question, is there a
+corresponding structure in the water itself?
+I'm not sure if you can see it
+but I can see it on my screen.
+If you look into the warm
+water that you see here,
+and this picture was
+taken by my son,
+he was the artist of my book and I was
+really pleasantly surprised to see this.
+This one was at home, I think,
+not in Starbucks but...
+I can see it here,
+I hope you can.
+There's a mosaic structure.
+If you can't see it then
+take a look at this one.
+This is an experiment
+you could do yourself.
+So, this is a pan of warm water and
+it's illuminated not from above
+but at a glancing
+angle from the side.
+You might call that
+dark field illumination
+and you can see the same sort of
+structure, low angle illumination.
+And so, it looks like the
+warm water that's evaporating
+does contain some kind of structure
+as the previous slide showed as well.
+And we can also see it by
+using an infrared camera
+to look down at the warm water and
+you can see same sort of structures.
+There's no doubt that
+the structure is there.
+Well the usual interpretation
+when you use an infrared camera
+is that this region looks
+warmer than this region.
+In fact, conveniently they
+actually provide a scale for you
+so you can correlate the darkness
+with the equivalent temperature
+but it's not necessary that
+that's the only explanation.
+Another possible explanation is that these lines
+actually denote the presence of EZ water.
+Now why do I think so?
+Well it's because of older
+experiments that we did.
+Here's a piece of
+Nafion next to water
+and remember an EZ forms
+next to the water.
+And so the infrared camera is picking
+up the amount of infrared energy
+that's being radiated from that.
+The EZ is dark.
+That means it doesn't
+radiate a whole lot
+and the water beyond the EZ radiates, as you
+can see it's brighter, it radiates much more.
+So dark here, the EZ is dark and if we
+go back to the infrared image of this
+you have to ask the question,
+is it possible that the dark region
+here is actually EZ material?
+And we think it is because we've looked at
+the origin of these structures that form.
+And you can see little dots
+here just as they form.
+And these dots, we don't know whether
+they're little droplets or little bubbles
+but essentially it doesn't matter for us
+because what we found in our experiments
+is that if you have a droplet,
+this is the structure.
+If you have a bubble,
+this is a structure.
+And in both cases these are
+lined by layers of EZ material,
+just like onion skin and that's what
+holds it together for both of these.
+But inside you have a lot of protons and
+the protons are repelling each other,
+they're pushing out against the skin and
+that's what keeps it into a sphere.
+The difference is that in this case
+it's liquid, in this case it's a vapor.
+So we've learned in our experiments
+about these water droplets
+and since we don't really know if they are
+droplets or bubbles, we call them vesicles.
+And we do know that the vesicle
+structure looks like this
+and we do know that as they form
+before they enclose themselves,
+these positive charges tend to
+repel each other, they leak out.
+And so, the amount of
+negative charge here
+is always more than the
+amount of positive charge.
+So, these little vesicles, whether they're
+bubbles or droplets, have net negative charge.
+That's important.
+So, if you think about the possible
+explanation for these dark lines,
+remember I suggested, maybe
+they contain EZ material.
+Well, a possible way that
+they can contain EZ material
+is shown here that you have a lot of
+these vesicles that are stuck together
+and so, for example,
+this entire cluster here
+would represent what we see here consisting
+of a whole bunch of these stuck together.
+How are they stuck together?
+Well, we presume that they're
+actually glued by protons
+and so these are negatively charged
+and this is negatively charged.
+If you have protons between them, the protons
+will act as glue holding them together.
+Now this is not a
+wild speculation.
+It actually comes from
+Feynman, many years ago,
+who talked about negative, like
+charges that come together
+and he called it
+like-likes-like.
+Well, these negative
+charges like each other
+so they come together and he said
+the reason they come together
+doesn't violate any basic
+principles of physics.
+It's because opposite
+charges gather in between
+and so you might have positive charge
+which pulls this one and pulls this one.
+He said like-likes-like because
+of an intermediate of unlikes.
+And I think that's what happens
+and that's how you can imagine
+that these are actually glued
+together, negative charge here
+negative charge here, protons
+in-between holding it all together.
+There are many examples of this.
+I don't have time to present it.
+So, this is what, this is an oblique view
+that shows the same mosaic structure on top;
+but what this slide shows is that
+it's not just a surface layer,
+it actually extends downward.
+You can see the dark lines
+coming and extending downward
+and what that means is that these
+mosaic cells are actually mosaic tubes,
+they extend down into the water.
+And so, when we talk about evaporation we
+have a situation that looks like this.
+This is a kind of conclusion slide that we
+have these basically tubes that run down.
+They're not just on the surface.
+They run into the water and
+when sufficient charge gathers,
+they actually rise up like this
+and then they become vapor.
+And if you were to take a cross-section of
+this, it might look something like this.
+So, basically the vapor patterns that
+you see, especially in cross-section,
+come from liquid patterns
+that are down here.
+They simply rise up to give you this incredibly
+beautifully shaped vapor that we see.
+And you get clusters so you get one
+of these groups of tubes that rise,
+so this will be the first
+one then the next one
+and the next one and they're
+actually discrete events.
+But by the time you get up here, the
+droplets that make up these clusters
+eventually dissipate because you
+don't see any vapor up here.
+So they're basically
+dissipated into the air.
+And so, when you think
+about humid air,
+you can think about these
+negatively charged little droplets
+surrounded by positive charges which
+are known to occupy the atmosphere.
+However, if there's enough positive
+charge to glue these together
+and form clouds like this.
+In the atmosphere, the humidity disappears
+and it becomes clear instead of humid
+and then you can see a
+difference in your environment.
+So, if you have humid air,
+you can imagine looking through this humid air
+to some building that sits at some distance.
+And the building is not clear, it's
+fuzzy and the reason it's fuzzy
+is that the light that gets scattered from
+the building before it gets to your eye,
+it's scattered by numerous of these
+rather large little droplets
+that sit in the air as humidity.
+On the other hand,
+if the air is clear,
+if these little droplets have
+actually condensed into clouds,
+then you can see these
+buildings much more clearly.
+So, those of you who live on the East Coast,
+you know, Washington DC in summertime,
+buildings look like this but in the
+wintertime they may look like this.
+OK, so that's evaporation and the
+mechanism I've presented evidence to you
+that the mechanism is grossly
+different from what we think.
+OK, now what about condensation?
+So, you've got these droplets in the
+air, how do they condense into clouds?
+Why do we get a cloud
+to begin with?
+So, what we have in the atmosphere among
+other things are two principal constituents.
+One is these water vesicles
+that have a net negative charge
+and we have positive
+charges known,
+the atmosphere is known among atmospheric
+scientists to be net positive charge
+and somehow the positive charges are
+linked, nobody knows exactly how,
+to molecules in the air.
+So, we have negative charge
+and we have positive charge
+and so we come back to the Feynman
+like-likes-like mechanism,
+we have these vesicles of water
+that are suspended in the air
+and we have positive charge.
+If you add these together in the
+right quantity, you get a cloud
+because the positive charge brings these
+negatively charged vesicles together.
+So, a cloud may look
+something like this.
+Principally these negatively-charged
+vesicles and with enough positive charge
+these charges, these vesicles
+are actually linked together
+and they form these clusters
+that we call clouds.
+So question arises, what keeps
+clouds suspended in the sky?
+And I don't know, a lot of people have
+never thought about this question.
+Remember it's water, the
+water is pretty heavy.
+Well we know that
+clouds have charge.
+This is one example, probably not unknown
+to the Electric Universe people.
+We also know that the earth
+has an electric field.
+I mean, beyond the
+magnetic field.
+And the electric field runs perpendicular
+to the surface of the earth
+and it exists because there are positive
+charges up here in the ionosphere and beneath
+and because the earth has
+a net negative charge.
+By the way, the net negative
+charge may come from the EZ water
+that fills the surface of
+the earth and all greenery.
+So, this is the electric field
+at the surface of the earth.
+It is roughly a hundred
+volts per meter
+which means that my nose is 200
+volts relative to my toes.
+OK, good to remember.
+You know, it's easy.
+OK, so we have, what
+about floating clouds.
+So, the earth is negative
+and the cloud is negative
+and so doesn't take a rocket
+scientist to figure out that
+there's a repulsive
+force between them.
+But your reaction might
+be or may might not be,
+is that repulsive force really strong
+enough to keep the clouds suspended
+simply by repulsion?
+I want to give you two
+examples that demonstrate it.
+The first is this.
+You take an old-fashioned
+120-watt bulb
+and, you know, current is flowing
+through the tungsten filament.
+And suppose you could collect one second
+worth of charge flowing through it,
+just one second.
+And suppose, thought experiment,
+you could compress that to a point
+and you put that point down
+here of negative charge
+and you do the same thing up here
+and they're separated by one meter.
+So, the question I ask you is, you know
+that these are going to repel each other.
+This one can't go down
+but this one can go up.
+So, question is, how much
+weight do you need to put
+on this one in order to
+prevent it from going up, OK?
+So, I've asked this question.
+I got all kinds of answers from
+a gram to a ton or whatever
+and the right answer is about
+50,000 garbage trucks.
+Now, knowing that there are Boeing engineers
+here, the original thought was actually,
+it's something like
+5,000 Boeing 747s.
+But my son, the artist, couldn't
+draw a Boeing 747 stacked up
+so we wind up with garbage trucks and
+this is roughly the amount of weight.
+And even... So it, we're
+talking a huge force.
+Now, another example is this.
+So, you have a couple and the guy is lying
+here and the woman is suspended somehow.
+It doesn't really matter
+how she's suspended,
+you might think of a net or
+something that's keeping her away.
+Of course, they would like to join
+each other but she's suspended here.
+And suppose, this comes also
+from Feynman by the way,
+from his lectures except
+he has them vertical.
+I mean, standing instead
+of in this position.
+But suppose you're able to remove
+1% of the electrons from this guy
+and 1% of the electrons from this woman
+so she's positive, he's positive.
+They repel each other.
+He can't go down
+but she can go up.
+He doesn't want her to go up,
+he'd rather have her go...
+Well, so, so a question is,
+how much weight would you have to put on her
+back in order to prevent her from rising up?
+Anybody have a guess?
+How many garbage trucks.
+OK, so actually the number of garbage
+trucks is so large, the correct answer,
+remember according to Feynman
+is the weight of the earth.
+It's astonishing.
+So, main point.
+The force that is generated
+by charges is much larger
+even than people in the Electric Universe
+are, most of you are, I think, thinking.
+Huge forces.
+And so we come back to what
+keeps the clouds suspended?
+And I think what keeps them
+suspended is the fact that
+the clouds have a net negative charge and
+the earth has a net negative charge.
+So one suggestion is a repulsive
+force between these and these.
+That's why the clouds
+are sitting up there.
+And if the cloud has more negative
+charge then it's going to be higher
+and if it has less negative charge
+then it's going to be lower.
+It's a simple paradigm
+and that explains what atmospheric scientists
+have a really hard time explaining
+and that is clouds
+in different layers.
+So, simple explanation is that this cloud
+has a lot of negative charge so it's high.
+And this one has a moderate amount and
+this one has low negative charge.
+And so that's how
+they're suspended.
+Side issue is this,
+think about it.
+The earth is negative, the
+atmosphere is positive.
+We all know that positive attracts
+negative and so you'd expect that
+simply by virtue of the fact that this
+is positive and this is negative,
+they're going to stick together.
+Now imagine if they
+didn't stick together.
+Just think about the
+scenario for a moment.
+The earth is spinning, right, and
+typical velocity on the surface is,
+we're talking about something like
+two times the speed of a jet plane.
+So, it means if you went outside and the
+atmosphere was not stuck to the earth,
+there'd be a hurricane outside
+every time you walked out.
+So, I mean the atmosphere must
+somehow stick to the earth
+and this is perhaps a
+simple explanation that
+plus and minus cling and so the
+atmospheric clings to the earth.
+And in fact, if you think about it,
+a question that might be raised is,
+does clinging force explain what
+we know as atmospheric pressure?
+We think of the pressure arising from
+molecules pressing on each other
+but, you know, the atmosphere
+is not a pile of bricks.
+The molecules are a gas which means
+they hardly touch each other
+and you can go through various
+arguments to come up with an idea
+of how the atmosphere could
+actually press on the earth
+but a simple argument
+might be that
+the pressure comes from the
+plus sticking to the minus.
+And that prevents the
+blow-away scenario because
+there are big winds up here and if
+you just have stray molecules around
+and the wind comes, you might expect that
+we'd have no oxygen left to breathe.
+OK, so I talked about
+the condensation.
+Now what about precipitation?
+It does rain, although not
+too often around here.
+So, what causes the rain?
+Well, if you listen to
+the weather people,
+they'll talk about pressure and
+they'll talk about temperature
+and I don't know about you but
+I've never been able to understand
+how this combination of temperature
+and pressure could yield rain.
+So of course, another question that
+people here are likely to raise is,
+what about charge?
+There's somehow charge involved
+in weather and bringing rain.
+We know that there's
+charge there
+and I'd like to bring up the
+principle of induction.
+This is Faraday induction which I
+think is known to many of you.
+So if you have a positive
+charge sitting up here,
+if it's really far away doesn't do
+a whole lot but if it's closer,
+it'll begin to induce opposite charge
+down here and the closer it is,
+the larger the opposite
+charge that’s generated.
+It doesn't matter whether this
+charge is positive or negative.
+Basically the same thing occurs and this
+force is always attractive, that is,
+if you have the negative here you'll always have
+positive here and they attract one another.
+And I think this principle, this simple principle
+that we all know about is really critical.
+An example of it is here.
+You take a balloon and you
+rub it on your shirt.
+And notice same shirt as in the
+movie, it's the only shirt I own.
+Embarrassing moment.
+And you put it next to the faucet and
+the faucet bends quite appreciably.
+It's a fun thing to
+demonstrate for kids.
+And what's going on?
+Well, the balloon is charged
+by the triboelectric effect,
+rubbing on your
+shirt or your hair,
+induces opposite charge and the two are
+attracted and so the stream bends this way.
+So, we have the same
+principle going.
+We go back to the cloud
+and in the cloud,
+we have the negatively charged vesicles containing
+the water and we have positive charges.
+They come together to form a
+negatively charged cloud.
+And when positive charge, more
+positive charge lowers the cloud,
+right, it comes closer to here, there's an
+inductive force, positive here negative here.
+And this pulls the
+water from the cloud.
+It's a simple pulling
+force that can do that.
+So, I think a possibility is that
+precipitation occurs inductively.
+I'll go back to
+that in a moment.
+And what about wind?
+So, we know the wind occurs and
+we sometimes think that it's a fire
+of the Dragon that creates the wind,
+but, what creates the wind?
+We, you know, we don't know.
+Is it pressure gradients, which I think
+is what you'll read in the textbook.
+But it's kind of difficult to
+understand how you get a wind gust?
+Gust is pretty local and of course the
+gust can be powerful as you see here.
+And I think it's possible that charge
+gradients are responsible for wind.
+And why do I think so?
+So, here's diagram
+that you've seen.
+Here's the earth and here's the
+positive charge in the atmosphere
+and it's known from measurements that
+protons diminish with increasing altitude.
+So here you have the
+highest electric field,
+and it diminishes with
+increasing altitude.
+At night, It's very small, possibly
+because there's not much evaporation
+and the positive charges don't
+get into the atmosphere.
+During the daytime, it gets much
+higher and this is well known.
+This is not conjecture.
+So here is low electric field
+and here's high electric field.
+Now this is taken from
+a published paper
+and what we're seeing here is the electric field
+up high in different places on the earth.
+So, forget this one
+for the moment.
+That's integrated
+over all of them.
+Let's look at Africa and Europe
+and this is GMT so we see that the peak
+electric field in Africa and Europe
+occurs at 14.00 roughly GMT.
+So, this is in Africa and
+Europe roughly early afternoon.
+It's when the sun
+is the brightest.
+Sun is really shining and you see
+it's much bigger than in the evening.
+Look at the Americas.
+The peak occurs at about 21.00.
+It occurs later than here.
+Again, it corresponds to when the
+sun is really up high in the sky.
+And the difference between nighttime and
+daytime is huge, it is a factor of 10.
+There's a big difference
+between the two.
+So, think about it.
+The electric field is high
+here and it's low here.
+So, that means you've got a gradient:
+high electric field, low electric field.
+So, in this case you've got a lot of positive
+charges here and very few positive charges.
+Positive charges
+repel each other.
+They want to escape.
+Where are they going to go?
+Well, they're going to go this
+way and that gives you wind.
+And I think, with this,
+I don't have time,
+I think this can explain both the trade
+winds that blow from east to west
+and the prevailing westerlies or jet
+stream that flows from west to east.
+They occur, originate at the two
+different light / dark boundaries.
+That gives you wind.
+So, what about a gust of wind?
+Well, I think a gust of wind could
+occur with a local charge gradient
+depending on the plants and the
+structures that exist there.
+I think they, it's possible
+that the origin of wind
+comes from atmospheric
+charge gradients.
+Now what about exotic weather?
+Seattle is not like Phoenix.
+This is what it looks like
+in typical winter time
+and we get a fair amount of rain
+and people get caught downtown,
+you know, without their umbrellas
+and they rush to their cars.
+So, what's going on?
+Why, the question is, why in Seattle
+do we get a lot of rain in the winter
+whereas the summertime it's a bit like
+Phoenix although a little bit cooler.
+And remember, this is the mechanism
+that we've deduced for clouds.
+You need the humidity
+with negative charge
+and you need positive charge
+to bring these together.
+And of course you need enough
+positive charge to bring it together
+because if you have a trivial
+amount, it won't happen.
+So, think about the
+winter in Seattle, OK.
+Now, when it's
+winter in Seattle,
+in the summer the earth is tilted in such
+a way that in the southern hemisphere
+you got a lot of sunshine
+occuring, right?
+And this lot of sunshine builds positive
+charge way up into the atmosphere.
+We don't get it here
+but we get it here.
+Now, where does this
+charge want to go?
+Well, the charge wants
+to escape from here,
+the high atmospheric charge,
+so it goes this way.
+Meanwhile, you have the prevailing
+westerlies going this way
+and the two are combined to bring
+moisture into Seattle in the wintertime.
+And so, you're getting a lot of charge
+coming and the situation is like this.
+You have a cloud, charge comes, right,
+and the addition of more positive charge
+reduces the negativity
+so the cloud gets lower.
+And of course, sorry,
+a lot of these vesicles begin to be
+attracted to these positive charges.
+So the cloud begins to, the cloud, because
+of the positive charge begins to lower
+and because of additional positive charges these
+clouds can actually merge with one another
+so not only do they get lower but they
+get larger and this keeps happening.
+Gets lower and it reaches the point
+where you have an inductive force,
+the negative charge induces positive
+charge and that brings the rain.
+If it's low enough and it
+induces enough positive charge,
+the positive pulls the negatively
+charged vesicles and we get rain.
+The rain is actually
+pulled toward the earth.
+So, rain or no rain it's, I think,
+the cloud must lower sufficiently
+past the critical point of inductive
+inevitability, then it rains.
+It's sort of like an orgasm, you know,
+you're almost there and then you're there,
+if you will.
+Interesting scientific fact.
+Some guys, not this
+one, this one.
+Some guys used high-speed
+video to record rainfall
+and we all know, if you have
+a droplet that's falling,
+based on its size, and physical
+properties, you can compute the velocity.
+Well they measured the velocity and they
+found that it was up to ten times higher
+than you could imagine due to to
+the fall and so they concluded,
+this is published in Nature,
+they concluded that
+there's a pulling force that
+brings it to the earth.
+I need about three minutes, OK.
+Now, exotic weather.
+For the Australians who are here, I
+think, this comes from Australia.
+We have these thunderheads which
+can yield intense rainfalls
+and notice the
+curvature around here.
+If you think about the earth
+that's rotating, you know.
+If you're standing on the equator,
+it's rotating really fast.
+If you're standing up here,
+the speed is pretty slow.
+And so, there's a gradient
+along here which means,
+because this is always faster than
+this clouds will always rotate
+in the counterclockwise in the
+northern hemisphere we see here.
+So, if you think
+about a hurricane,
+so here's a cloud that
+has negative charge.
+It's moving in this direction
+at least initially
+because the trade winds
+push in this direction.
+But think about the atmosphere, the
+positively charged atmosphere.
+So, this cloud is moving in this direction,
+compressing all of these positive charges
+whereas behind it, it's already passed
+through, there's not much positivity left.
+It's left a swath where there
+shouldn't be positive charge.
+So, this negative charge is attracted
+to a lot of positive charges.
+The two will tend to combine and
+when they combine, what happens is,
+remember you get more positive
+charge with the negative,
+this part of the cloud descends.
+It releases its rain
+and it becomes clear.
+And this will be the
+eye of the hurricane.
+Meanwhile, the cloud is
+rotating in this direction
+for the reason I showed
+you in the last slide
+so you come to here and again the
+same thing happens with this region
+and so the eye becomes larger.
+And it starts curling around until you
+reach the state where a negative charge,
+right, induces positive charge
+and the ice sticks to this.
+And it keeps going and
+building like that
+and eventually you get a structure
+that looks something like this.
+This is a typical hurricane.
+And sometimes, you know, you
+can get one of these typhoon,
+not typhoons, but tornadoes
+and think about it.
+Again, we have the
+rotation occurring here
+and what keeps it all
+together is the first point
+and most of these particles
+here are negatively charged.
+So, you've got positive charge
+that keeps it all together
+by the like-likes-like
+mechanism.
+And by the way, you often see
+lightning discharges in these.
+So, it's kept together and because it's kept
+together this entire thing is rotating.
+You get fierce winds out here
+and because of the charges,
+the induction force pulls
+up refrigerators from here.
+So we get some idea of what is
+responsible for the tornado.
+So, I've gone quickly
+through the entire cycle.
+Evaporation, condensation,
+precipitation, ice and snow, and so on.
+And I'm suggesting to you that
+not only are the mechanisms
+different from what
+we've all learned
+but that central feature
+for all of this is charge.
+Negative charge and
+positive charge.
+So, I would leave you with,
+charge is absolutely critical
+and there's not a single weather
+forecast that I've ever seen
+that says hey, the charge in the
+atmosphere is such and such
+and because of the charge we may
+expect this kind of weather.
+So, I think one day if the atmospheric
+people begin to take into account
+that the universe is
+really electrical,
+we'll know whether to bring
+an umbrella to work.
+And before I end, I have to talk one slide
+about the Institute for Venture Science,
+because well, for a number
+of reasons including,
+the next speaker is
+deeply involved in it
+and Dave Talbott was also involved in getting
+this and Susan, getting this started
+and the Institute funds promising ideas
+that challenge conventional thinking.
+And we received more
+than 200 pre-proposals.
+They've all been reviewed and out of
+those 200 we picked a dozen or so
+that are extremely promising.
+And the people, those people are
+now drafting full proposals
+which we expect to receive in about, well,
+two weeks and this is a going concern.
+Of course, we're looking for donors
+and anybody who knows people of means
+who have done well and would
+like to give back to society,
+I think this is a really wonderful
+way of returning to society
+in a way that is meaningful.
+So, I end with the book.
+The book has become popular
+and a lot of the ideas and issues
+that led to the speculations,
+which is really what they
+are, that I presented to you,
+come from this book, where
+you'll find the evidence.
+Thank you very much!

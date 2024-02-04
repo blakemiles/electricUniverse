@@ -1,0 +1,422 @@
+Welcome to Space News from
+the Electric Universe,
+brought to you by The
+Thunderbolts Project™
+at Thunderbolts.info
+The Electric Universe theory
+proposes that electromagnetism, not
+gravity, is the predominant
+organizational force in the cosmos.
+In the Space Age, countless discoveries; from
+the networks of filaments connecting
+objects across vast cosmic distances, to
+the pervasive magnetism seen at all
+scales in the universe, to the structure
+and motions of galaxies themselves; are
+all better explained from an electrical,
+rather than gravity-centric, viewpoint.
+However, this is not to say that the
+Electric Universe denies gravity's existence.
+For more than 40 years, the
+leading proponent of the Electric
+Universe, physicist Wal Thornhill has
+worked on an explanation for gravity
+that actually links gravity
+and electromagnetism.
+In recent years, retired nuclear
+engineer Dr. Raymond Gallucci
+discovered Thornhill's electrical
+theory of gravity.
+Today, Dr. Gallucci presents the
+simple mathematical modelling he has
+performed to test the
+theory's plausibility.
+I first came across the EU
+Theory back in 2011 and I don't recall
+if I first came across the
+electromagnetic gravity theory at
+one of the early conferences or via the
+website but it doesn't really matter
+because I did come across Wal
+Thornhill's theory, I know he's presented
+it at the conferences and
+there's some videos of it.
+And given that there's 39
+orders of magnitude between the
+strengths of electromagnetic and
+gravitational forces, it makes one wonder
+just what's going on, plus the fact that
+electromagnetism can have a
+repulsive aspect as well, at
+least with coulombic forces.
+So EU Theory has asked
+the question: is it even conceivable that
+these two could somehow be related given
+such vast differences in their strengths?
+And the EU theory says yes.
+And so, my background is a nuclear
+engineer, I'm not up too much on
+electromagnetism so what I try to do
+with my papers is, I tend to take other
+people's theories and I try to look at them
+for plausibility from an independent aspect.
+And so I figured that
+maybe this electromagnetic gravity is
+something I could tackle without
+having, you know, too much electrical background.
+So I went ahead and gave it a try, and
+I'll just read, this is from the
+Holoscience.com website--Electric Gravity
+in an Electric Universe, and this is
+Wal's theory that gravity is due to
+radially oriented electrostatic dipoles
+inside Earth's protons,
+neutrons and electrons.
+The force between any two
+aligned electrostatic dipoles varies
+inversely as the fourth power of the
+distance between them and the combined
+force of similarly aligned electrostatic
+dipoles over a given surface is squared.
+The result is that the dipole-dipole
+force, which varies inversely as the
+fourth power between co-linear dipoles,
+becomes the familiar inverse square of
+gravity for extended bodies. The
+gravitational and inertial response of
+matter can be seen to be due to an
+identical cause. The puzzling extreme
+weakness of gravity, and again we're
+talking about 10 to the 39th power with
+electromagnetism or electrostatic force,
+is a measure of the minute distortion of
+subatomic particles in
+a gravitational field.
+And there's that nice diagram on
+the Holoscience and the Thunderbolts
+website, that shows the three atoms in a
+vertical line and the slight off-center
+of the charges of the protons and
+electrons which, EU Theory alleges, may be
+what gives rise to gravitation.
+Continuing with the EU theory on
+gravity, the 2,000-fold difference in
+mass of the proton and neutron in the
+nucleus versus that of the electron
+means that gravity will maintain charge
+polarization by offsetting the nucleus
+within each atom. And that's what's shown
+on the diagram. The mass of a body is an
+electrical variable--just like a proton
+in a particle accelerator. Therefore, the
+so-called gravitational constant, the G,
+with the peculiar dimensions of length
+cubed over mass times time
+squared is a variable!
+That's why G is so difficult to pin down.
+And so, that's just the background which
+I guess, anybody can find if they look
+under the electromagnetic gravity,
+slides from Wal Thornhill.
+So what I tried to do,
+and it's shown in my paper, is I took the
+diagram from the Electric Universe
+theory of the three atoms, I took three
+hydrogen atoms for simplicity and
+they're shown vertically on the EU website.
+I turned them horizontal, so I
+put them, I spaced them, I said: three
+hydrogen atoms of radius R are aligned
+and equally spaced, at distance of three R,
+R being the radius of the hydrogen
+atom from center to center.
+We are interested
+in a distortion on the leftmost, which is
+the reference atom, due to its two
+neighbors; that is the net electrical
+force from each neighbor's proton which
+is shown in the diagram as a gray circle,
+and the electron which is shown
+as a dotted orbit.
+This is a classical
+representation of the atom, it's not a
+quantum representation, it's
+the Bohr atom with the electron orbiting.
+On average, the electron spends half its
+time in each hemisphere, as it's going
+around in its orbit, in each of the
+neighbors, with the average position
+being along the alignment and it turns
+out, if you do the math, the distance is
+0.6366 R, so it's
+about almost 2/3 along the radius, i.e. it’s the
+average position when it's in
+each of these hemispheres.
+And again, that can be
+seen on the diagram.
+Both the reference
+proton and electron will be subject to
+six forces: attractive one of opposite
+charge, repulsive one of the same charge,
+and that's because on the diagram, you'll
+see that relative to the reference atom,
+I have two atoms that are to the right
+of it and each of those atoms has a
+proton, so that's two of the other forces,
+and then I've shown the average position
+of the electron in each hemisphere on those two
+atoms, and that comprises the other four positions.
+So I'm basically
+looking, I've taken what's a dynamic
+situation, I've tried to make it static
+so I could do some calcs.
+And I'm showing the reference atom,
+its electron, its proton being
+affected by
+basically, six other charges, two of those
+being the stationary protons, the other
+four being the average position of the
+rotating electrons in each
+hemisphere on the other two atoms.
+The vector sum of these six forces will
+constitute the net electrical force on
+the reference proton and electron and
+indicate the degree of distortion
+imposed on the reference atom
+from its two neighbors.
+Remember that the EU
+theory is that there is a distortion due
+to the presence of other atoms, and this
+very slight distortion is what accounts
+for the gravitational force.
+Based on symmetry, the center atom should
+experience no distortion, that's the atom,
+the hydrogen atom in the middle, it
+has two, one on each side of it, so it's a
+symmetric position, so it wouldn't experience
+anything in this diagram that I'm showing.
+The rightmost atom should
+experience the exact opposite distortion
+to the reference atom, my reference atom
+is the one in the far left and so the
+one on the far left and the one on the
+far right, I can analyze for
+either one of them being affected by the other two,
+and just for convenience, I worked on the left atom.
+So I did some
+trigonometry and I came up with this
+formula that shows the distance between
+the electron's position and
+the reference electron position and the
+position of each of the other average
+positions of the electrons
+in the other atoms.
+And after I've worked out that
+formula, and I had to do some
+calculations, and I set up a
+spreadsheet to analyze each of 360
+degrees as the electron on the reference
+atom goes around in its orbit at each of
+those three hundred and sixty degree
+positions, I calculated the distance
+between it and the other reference
+electrons and protons, and knowing those
+distances, I was then able to calculate
+the net force on that electron from each
+of those positions and do an averaging
+over time in order to get the, you know,
+the average net force on that electron
+to show whether or not there would be
+the distortion that is part of the
+Electric Universe theory.
+And I have a graph that shows this in
+the paper, after one performs all the
+calculations to derive the net force on
+the reference electron, which is a vector,
+so direction must also be addressed, it
+is, fortunately it's, I'm dealing in two
+dimensions, not three dimensions, I'm not
+looking at an electron cloud, I'm looking
+at electron in a circular orbit,
+again, the classical view.
+The results can be
+plotted as shown, they are presented in
+terms of the near, the closer hemisphere
+to the middle atom and the far sides, the
+farther hemisphere from the middle atom.
+For the electron as it circles the
+proton, to simplify the presentation, I
+scaled the results by 4 pi epsilon 0 over q
+squared, which I put everything relative
+to that and I set the radius of the atom
+equal to 1 for the purposes of scaling,
+so I could do my diagrams, and what I
+have here on the figure on the
+paper, it shows that when theta equals 0
+when the electron is in
+the same line as the three protons
+from its reference atom and the other
+two atoms, we have the reference electron
+at both the farthest and nearest
+positions to the neighborhood atoms.
+Here, the difference between the net forces, which
+is shown as a solid line in the diagram,
+is maximum and it's labeled there
+as the maximum location.
+This is also the only
+position where the directions of the two
+force vectors are exactly aligned.
+This difference decreases as the electron
+positions get closer, until they are
+equal at theta equals 90 degrees where
+the near and far side positions coincide.
+So on my diagram, if you put the electron
+that's orbiting the reference proton at
+the top or the bottom, it's the same
+distance from the other six electron
+positions and the two protons
+in the neighborhood atoms.
+I observe that the
+difference between the net force peaks
+at around theta equals 45 degrees, so
+when the reference electron is about 45
+degrees, either upwards or downwards from
+its nearest, nearest position to the
+other atom(s), that's when the difference
+between the net force directions is peak.
+Having said
+all this and shown the diagrams again,
+which one needs to look at to really
+understand this, the key observation is
+that over the entire orbit of the
+reference electron, the net force from
+the neighboring atoms is repulsive.
+This means that the electrons in the
+neighboring atoms push more on the
+reference electron than the protons in
+the neighboring atoms pull, so you
+don't have symmetric forces between
+pulling by the protons, the attractive
+forces between proton and electron, and
+the repulsive force between the other
+electrons and the reference electron,
+there is a difference between those two
+forces, and the net force is a repulsion.
+As a result, there should be some
+displacement of the electron orbit and
+distortion given the asymmetry between
+the forces acting on the two hemispheres
+away from the neighboring atoms and
+opposite to the direction in which the
+reference proton is pulled.
+The figure again, shown in the paper, this
+illustrates the effect on the orbit of
+the reference electron and what's
+shown in that figure where I had to
+scale it up because the distortion is
+very, it's on the order of like
+0.01% so I scaled it up a little so
+you could see it, it shows that the
+circular orbit of the electron and the
+reference proton actually gets pushed
+inward a little bit on the right side
+which is the side nearest to the other two atoms.
+So it's not a pure circle, it's
+a slightly flattened circle.
+Now, I also looked at the effect on the reference
+proton, because now we see that according
+to EU Theory, we're talking about a
+dipole being set up, so the electron is
+being displaced slightly in its orbit.
+Does the proton also get
+displaced a little bit?
+The net force from its
+neighbor atoms for the proton on the
+scaled metric is a pull, an attraction of
+about 0.02 scaling to a value of one.
+This exceeds the push on
+the reference electron over the entire
+far side of its orbit, but remains less
+than that over most of the near side of
+its orbit, with the amount by which the
+exceedance over most of the near side
+exceeds that over the
+far side, being greater.
+So while the reference electron
+has its orbit pushed away from the
+neighbor atoms, the reference proton
+actually experiences a pull towards them.
+So our reference, as shown in the diagram
+that Wal presents, clearly not only do
+we have the reference electron being
+pushed away slightly from its other
+atoms, we have the proton on the
+reference atom being pulled a little bit,
+so we have kind of a double distortion,
+in the setting up of the dipole, that
+might account for the gravitational
+force due to electro-magnetism.
+And so, it's not only the distortion
+of the electron but there's a slight
+distortion of the proton position, not as
+much because the proton is more massive.
+The reference hydrogen atom no longer is
+symmetric with a circular electron orbit
+about a centered proton; that thereby
+suggests the creation of an electric
+dipole which is what was postulated by
+Electric Universe theory.
+So I do have a caveat that I put in here,
+and the caveat basically is in my
+calculation, this is a very simple model,
+I assume that the electron's orbital
+speed is that of light.
+There are some references that show electron orbital
+speed dropping might be maybe 10% or 1%
+that of light, I don't think anybody
+really knows how fast the electron goes,
+certainly not in a quantum mechanical model;
+I mean, it's just a probability state, anyway.
+So this is again talking
+about the Bohr type of
+atom where you have the classical but, if
+the electron slows down enough, like down
+to 1% that of light, then the distortion
+would be off-scale in my model.
+So my simple model is valid so long as the speed
+of the electron is very close to that of light.
+So after injecting some
+mathematics, and this is my conclusion,
+greatly simplified--I have to admit, into
+EU Theory that gravity can be attributed
+to an electromagnetic effect, although
+almost inconceivably smaller, again, we're
+talking about that 10 to the 39th due to
+the distortion of atoms by their
+neighbors into electric dipoles.
+The possibility of an electromagnetically
+induced distortion to create an atomic
+dipole appears plausible.
+So again, my goal was to take the EU theory
+and try to do an independent math-
+physics calculation to see if it was at
+least plausible, and it turns out that
+it certainly is plausible, and that's
+what I was trying to show in my paper
+and I also was able to show the
+ratio of the displacements between the
+electron and proton around
+the orbit of about 1 to 10,000.
+So again, you've got
+much more distortion on the
+electron than the proton, but the
+distortion is about 1% of the Bohr
+radius itself, so the electron doesn't
+get distorted very much, and the proton
+is about a factor of 10,000 smaller, so
+we do have this very very small
+distortion that is postulated, but it may
+be enough to actually give rise to the
+gravitational force being the result of
+electromagnetic electrostatic forces in
+atoms themselves.

@@ -1,0 +1,278 @@
+[Music]
+We concluded the previous episode 
+with an overview of the vast evidence,
+accumulated by Halton Arp and others,
+and indicated by the initial images of the
+James Webb Space Telescope, that
+cosmological redshift is intrinsic, which
+thus falsifies the foundational axiom of
+Big Bang cosmology. I turn now to deal
+with the Webb first deep field, unveiled
+during a White House event on the 11th
+of July 2022. NASA's associated news
+release states, “Thousands of galaxies -
+including the faintest objects ever
+observed in the infrared - have appeared
+in Webb's View for the first time. This slice of the
+vast universe is approximately the size of a grain of
+sand held at arm's length by someone 
+on the ground. This deep field, taken by
+Webb's near infrared camera (NIRCam), is 
+a composite made from images at different
+wavelengths, totaling 12.5 hours - achieving depths at
+infrared wavelengths beyond the Hubble Space Telescope
+deepest fields, which took weeks.” In order to make sense
+of this image, we must take account of several matters.
+First, we know from the study of galaxies
+in our local universe that they come in
+a range of shapes, sizes, luminosities 
+and colors. At similar distances, some
+galaxies are smaller and some are larger.
+Some galaxies, especially dusty galaxies,
+appear redder, while others appear bluer. For a given
+size, some are more luminous and others less luminous.
+Astrophysicists expect variability among distant
+galaxies at every point in the Hubble flow.
+Secondly, the Webb first deep field is
+centered on a massive galaxy cluster
+surrounded by stretched-out, curved
+objects. In the Standard Model, these
+curved objects are distant galaxies that
+are gravitationally lensed, making them
+appear larger and brighter than they
+would be in the absence of that lensing.
+Of course, in the Electric Universe that
+effect is due to refraction through the
+neutrino-sea ether that is denser around
+that massive galaxy cluster than elsewhere.
+Thirdly, humans cannot see the
+wavelengths of infrared light that were
+used to construct the image. Instead,
+colors in the visible range that we can
+see, were assigned to the different filters and
+then combined to produce the composite image.
+The specified filters are circled in the assigned
+colors in the NASA graphic that you see on the screen.
+You can see that there is broad coverage
+in the range from 0.6 to 5 microns.
+Visible light extends down to about 0.7 microns. 
+As you would expect, NASA's image
+processing team assigned blue to the
+shortest or bluest wavelengths, green for
+still longer wavelengths, orange for even
+longer wavelengths, and finally red for
+the longest wavelengths in the image.
+Fourthly, for some of the small faint
+galaxies in the Webb first deep field
+image, or in the deep images released by
+the CEERS project, we do not necessarily
+know whether that small size in the
+image is due to the galaxy being physically
+smaller and closer, or larger and further away.
+Now, assigning a value to the distance of
+the galaxy or quasar, can be confusing.
+In the Standard Model, space has been
+continually expanding since the Big Bang,
+and the brief period of exponential
+expansion, referred to as inflation.
+That means that the distance traveled by
+light emitted from an object, increases
+due to the expansion of space, while the 
+light is traveling on its path to the observer.
+Moreover, the space already traversed by
+that light continues to expand, while the
+light continues to the observer. So, a galaxy that is
+one billion light years distant from Earth at the time its
+light is emitted, will be further away 
+by the time that light arrives at the
+telescope. The lookback time, or distance
+at the time the light was emitted, plus
+that additional distance arising from
+the expansion of space during the light’s
+travel time, is referred to as the quote
+’co-moving radial distance’ - the dotted
+line, marked ‘distance now’ on the graph,
+and can give a distance in light years
+that exceeds the age of the universe - 
+the horizontal blue line on the graph.
+The time that has elapsed since the
+light was emitted, is referred to as the
+lookback time, or light travel time, and
+is the value that is most commonly used
+to describe the distance of high- redshift objects.
+That is what is shown on the y-axis of the
+graph. Notice the declining slope of
+the ‘distance then’ line in this graph
+beyond a redshift of about three.
+In everyday life, we're used to the
+intuitive idea that the apparent size of
+objects - what astronomers refer to as
+their angular diameter – decreases, as 
+the distance to those objects increases.
+An object looks smaller as the distance to that
+object increases. In Standard Model cosmology,
+that relationship only holds until redshift reaches
+about Z=2. It's uncontroversial that in the expanding
+universe of the Big Bang, there's an
+optical effect that beyond a redshift of
+about Z=2 causes the apparent
+size of galaxies to increase with
+increasing redshift and distance. This
+effect is totally counter-intuitive, but
+is an inevitable consequence of Big Bang
+Theory. This effect occurs because in an
+expanding universe, the light we see from
+high-redshift galaxies, was emitted many
+billions of years ago, when the universe
+was much smaller and the emitting galaxy
+was much closer. In the time that the
+light has taken to travel the distance
+to our telescope, the space through
+which the light has traveled had
+continued to expand, reddening that light and
+reducing the amount that arrives per unit time.
+This leads to the counter-intuitive
+result that beyond a redshift of about
+Z=2, galaxies of the same size will appear larger,
+redder, and fainter as their redshift increases.
+Moreover, as several Japanese scientists
+have shown, some red spiral galaxies with
+a redshift in the range of Z=1 to 3 can
+imitate galaxies with a much higher redshift.
+Finally, and perhaps most importantly, it
+is essential to recognize that the Webb
+first deep field is not claiming to depict redshift.
+Redshift values for objects across the
+image are not yet publicly available.
+Nevertheless, given the way that colors
+are assigned in the image, averaged over
+the whole image, the colors in the image
+are a reasonable proxy for redshift.
+So, if the Big Bang Theory is correct
+then, averaged over the whole of the 
+Webb deep-field images, and putting aside
+obviously lensed objects, the faintest objects
+should be the reddest objects in the image.
+Further, the faintest and reddest galaxies should
+appear larger than less faint and less red galaxies.
+But this is not what the Webb's first
+deep field and the CEERS images show.
+Instead, it is plain on even a casual
+analysis of those images that, averaged
+over the whole image, the faintest
+objects are the smallest objects and
+that a large proportion of the faintest
+objects are rendered in blue.
+We're going to look at a portion of the
+image indicated by the white rectangle.
+The arrows point to examples of faint
+objects that have been rendered in blue.
+As we zoom and pan across the image,
+note that a clear majority of the faintest
+objects, all of them galaxies, are rendered 
+in blue. This is prima facie, a stunning
+contradiction of the Big Bang's foundational 
+premise. In the Electric Universe, space is not
+expanding. The universe is of unknown 
+age and unknown extent, possibly infinite.
+Following the observations and insights
+of Halton Arp, one way new galaxies are
+formed, is by ejection from active galactic
+nuclei [AGN], commencing life as very
+highly redshifted quasars that progress
+through quantized decreases in redshift,
+such that high redshift is an indication
+of the youthfulness of a galaxy.
+In the Electric Universe, we expect 
+to see galaxies that get smaller and
+fainter - some bluer, some redder - to the
+limits of the telescope's observational
+power. That is exactly what Webb's first
+deep field shows. I predict that deeper
+Webb images will further confirm that fact.
+In particular, I predict that when very
+deep Webb images are obtained with 
+many days or weeks of observation, the
+detection of additional faint galaxies
+will simply show more of the same.
+And it only gets worse for the Standard Model 
+theorists. According to Big Bang Theory, the
+earliest galaxies are the least evolved
+galaxies. They have not had time to
+evolve and grow by accreting further gas
+and dust from the intergalactic medium
+or through collisions, mergers, or 
+the cannibalizing of smaller galaxies.
+Overall, and putting aside the so-called
+’lensed’ objects for a moment, the reddest
+objects visible in the image should
+generally exhibit the least amount of
+smoothness and symmetric structure. Once 
+again, that is not what we see in this image.
+Instead, overall we repeatedly see
+smoothness and symmetric structure in
+the reddest objects, including especially
+the curved, so-called ‘lensed’, galaxies. The
+arrows in the image on the screen point
+to a selection of the reddest objects in
+this portion of the image that bear out that 
+contention. This fact is evident across the whole
+image. As for the red so-called ‘distant
+lensed galaxies’ of the Einstein Cross type,
+Halton Arp explains in an article on
+his official website titled, “Origins of
+Quasars and Galaxy Clusters”, that 
+two higher-redshift galaxies are found
+almost perfectly aligned across a lower- redshift galaxy
+on either side of it. He wrote, “This of course is the
+quintessential pattern of AGN’s ejected
+from a larger galaxy (often interpreted
+as gravitational lensing).” We see the red
+so-called ‘lensed objects’ with so much
+visible structure in them, because they are recently
+born and close to their low redshift parent. The
+universe that the Galileo of Palomar
+observed has biological overtones.
+We see families of galaxies and clusters in
+a small part of a universe of unknown size.
+Arp concluded that to prevent collapse
+in a non-expanding universe, gravity must
+be a repulsive force between celestial 
+bodies. Collisions are in fact avoided.
+I have explained elsewhere the electrical nature
+of repulsive gravity between celestial bodies.
+The infinities, beloved of mathematicians,
+disappear when the distance between the
+centers-of-mass of two bodies on a
+collision course, approaches zero.
+Nature must be explained by physics.
+Mathematics might describes the result.
+There are no collapsed-matter objects in
+the universe. No white dwarfs. No neutron
+stars, and definitely, no black holes. The 
+phenomena can only be understood in
+a balanced Electric Universe.
+It is impossible to overstate the
+significance of these facts. Facts that are plain for 
+anyone to see on the face of the image. In short,
+this one image, Webb's first deep
+field, falsifies the Big Bang. And
+given that the Webb Space Telescope
+has a vastly improved spectroscopic
+performance, we can expect the spectra
+of high-redshift objects will not match
+those expected from the story of heavy
+element production by successive
+generations of stars since a Big Bang.
+So-called ‘lensed galaxies’ - that is
+galaxies that do not appear as a result
+of refraction through a denser neutrino
+sea - are newborn high-redshift quasars.
+They are the infants of nearby galaxies.
+Their faintness would not allow us 
+to see them, much less their internal
+structure at cosmological distances.
+Being nearby, they will show anomalous
+super-luminal motion when viewed
+conventionally, billions of light years away.
+[Music]

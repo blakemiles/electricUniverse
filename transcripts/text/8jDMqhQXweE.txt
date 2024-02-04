@@ -1,0 +1,617 @@
+[
+  {
+    "text": "[Music]",
+    "start": 2.3,
+    "duration": 5.37
+  },
+  {
+    "text": "Our Milky Way is a vast structure containing millions\nof stars. It contains long-stretching spiral arms which",
+    "start": 11.28,
+    "duration": 7.28
+  },
+  {
+    "text": "connect to the center. At the heart \nof the Milky Way lies a vast bulge.",
+    "start": 18.56,
+    "duration": 4.87
+  },
+  {
+    "text": "At the core is an object of mystery that\nis connected to how the galaxy functions.",
+    "start": 23.43,
+    "duration": 5.29
+  },
+  {
+    "text": "The mainstream call this a black hole,\nassuming that somehow gravity is able to",
+    "start": 28.72,
+    "duration": 5.12
+  },
+  {
+    "text": "compress matter into a very small space.\nIn the Electric Universe we would",
+    "start": 33.84,
+    "duration": 4.96
+  },
+  {
+    "text": "consider this object to be a plasmoid,\npossibly similar to the ones Eric Lerner",
+    "start": 38.8,
+    "duration": 4.4
+  },
+  {
+    "text": "was able to produce in his experiments.\nThis would be a highly concentrated",
+    "start": 43.2,
+    "duration": 4.56
+  },
+  {
+    "text": "structure of plasma with intense electric and magnetic\nfields, compressing material into the torus and",
+    "start": 47.76,
+    "duration": 7.04
+  },
+  {
+    "text": "also streaming material out of the \npoles. Around this object sits a larger",
+    "start": 54.8,
+    "duration": 4.8
+  },
+  {
+    "text": "structure which stretches for about 700 light \nyears. It is a dense zone of activity called",
+    "start": 59.6,
+    "duration": 5.91
+  },
+  {
+    "text": "the central molecular zone. Here you will find\nalmost 80 percent of the entire galaxy's dense gas.",
+    "start": 65.51,
+    "duration": 7.13
+  },
+  {
+    "text": "It contains many dense molecular clouds\nthat would normally be expected to",
+    "start": 72.64,
+    "duration": 4.24
+  },
+  {
+    "text": "produce stars, but are instead devoid \nof any. On top of this, the material is not",
+    "start": 76.88,
+    "duration": 5.91
+  },
+  {
+    "text": "stationary, moving at supersonic speeds\nof hundreds of kilometers per second. By",
+    "start": 82.79,
+    "duration": 5.68
+  },
+  {
+    "text": "comparison, the Maggie filament we\nexamined in the last episode was moving",
+    "start": 88.47,
+    "duration": 4.17
+  },
+  {
+    "text": "at about 54 kilometers per second. If \ngravity was the only force shaping our",
+    "start": 92.64,
+    "duration": 5.6
+  },
+  {
+    "text": "galaxy, you would expect this central\nmolecular zone to be centered on the",
+    "start": 98.24,
+    "duration": 4.4
+  },
+  {
+    "text": "black hole. And yet, this is not the case.\nThe central molecular zone is offset;",
+    "start": 102.64,
+    "duration": 6.56
+  },
+  {
+    "text": "they are able to identify two large\nscale flows across this region, which",
+    "start": 109.2,
+    "duration": 4.55
+  },
+  {
+    "text": "suggests they represent one, or at most\ntwo, coherent streams of material.",
+    "start": 113.75,
+    "duration": 5.61
+  },
+  {
+    "text": "Scientists struggle to explain where the\ncentral molecular zone came from. Nor how",
+    "start": 119.36,
+    "duration": 4.56
+  },
+  {
+    "text": "it can maintain its structure. One \nmajor problem facing astronomers is",
+    "start": 123.92,
+    "duration": 4.47
+  },
+  {
+    "text": "that there is so much dust obscuring \nour view of the central molecular zone,",
+    "start": 128.39,
+    "duration": 4.09
+  },
+  {
+    "text": "making observations in the visible spectrum \nimpossible. Luckily, infrared, radio, X-rays and gamma",
+    "start": 132.48,
+    "duration": 7.04
+  },
+  {
+    "text": "rays can penetrate the dust.\nGamma rays are the highest energy",
+    "start": 139.52,
+    "duration": 4.79
+  },
+  {
+    "text": "particles; these are thought to be produced\nwhen cosmic rays crash into ordinary matter.",
+    "start": 144.31,
+    "duration": 5.69
+  },
+  {
+    "text": "When scientists mapped the gamma rays\ntowards the heart of the Milky Way, it",
+    "start": 150.0,
+    "duration": 4.0
+  },
+  {
+    "text": "revealed that something near the center of the galaxy\nappeared to be accelerating particles to speeds",
+    "start": 154.0,
+    "duration": 5.36
+  },
+  {
+    "text": "approaching that of light, which in turn was creating\nan abundance of cosmic rays and gamma rays, just",
+    "start": 159.36,
+    "duration": 6.87
+  },
+  {
+    "text": "outside the galactic center. At the \nsame time, something at the center",
+    "start": 166.23,
+    "duration": 4.08
+  },
+  {
+    "text": "of the galaxy seemed to be preventing\nlarge portions of cosmic rays from other",
+    "start": 170.31,
+    "duration": 4.81
+  },
+  {
+    "text": "parts of the universe from entering.\nScientists describe the effect as an",
+    "start": 175.12,
+    "duration": 4.24
+  },
+  {
+    "text": "invisible barrier wrapped around the galactic\ncenter, and maintains a significantly lower",
+    "start": 179.36,
+    "duration": 5.68
+  },
+  {
+    "text": "density of cosmic rays compared to the rest of\nthe galaxy. Something is allowing cosmic rays to",
+    "start": 185.04,
+    "duration": 5.91
+  },
+  {
+    "text": "escape from the center, but prevents them from\nentering. The scientists are at a loss to explain it.",
+    "start": 190.95,
+    "duration": 5.92
+  },
+  {
+    "text": "There may well be a simple ex-\nplanation for this behavior, but",
+    "start": 196.87,
+    "duration": 4.0
+  },
+  {
+    "text": "we will return to this in a short while.\nTwenty years ago, astronomers discovered a",
+    "start": 200.87,
+    "duration": 4.89
+  },
+  {
+    "text": "number of enigmatic radio-emitting\nfilaments near the galactic center.",
+    "start": 205.76,
+    "duration": 4.47
+  },
+  {
+    "text": "At the time they defied an explanation.\nThese filaments range from 10 to 100",
+    "start": 210.23,
+    "duration": 5.13
+  },
+  {
+    "text": "light years in length and are no\nmore than three light years across.",
+    "start": 215.36,
+    "duration": 4.15
+  },
+  {
+    "text": "Some of these filaments seem to be\nconnected to concentrated areas of",
+    "start": 219.51,
+    "duration": 3.36
+  },
+  {
+    "text": "thermal emissions, which likely\nidentified areas of star formation.",
+    "start": 222.87,
+    "duration": 5.05
+  },
+  {
+    "text": "They also detected upward streams\nwhich were non-thermal radio filaments.",
+    "start": 227.92,
+    "duration": 5.2
+  },
+  {
+    "text": "At the time they thought that these\ntwo processes were linked somehow.",
+    "start": 233.12,
+    "duration": 3.83
+  },
+  {
+    "text": "Wind forward nearly twenty years and new\nradio images reveal it in even more detail.",
+    "start": 236.95,
+    "duration": 5.84
+  },
+  {
+    "text": "Now they are able to see thousands of these \nfilaments. If we zoom in to where Sagittarius A is",
+    "start": 242.79,
+    "duration": 6.41
+  },
+  {
+    "text": "located, we can see it as what appears as the\nbrightly glowing eye at the bottom of the image.",
+    "start": 249.2,
+    "duration": 6.0
+  },
+  {
+    "text": "We can clearly see the large cloud structure\nthat lies to the side of Sagittarius A.",
+    "start": 255.2,
+    "duration": 5.12
+  },
+  {
+    "text": "We can also see smaller filaments that seem\nto stream in or away from Sagittarius A.",
+    "start": 260.32,
+    "duration": 5.59
+  },
+  {
+    "text": "You will also notice the much larger\nfilament that runs across the image and",
+    "start": 265.91,
+    "duration": 4.41
+  },
+  {
+    "text": "seems to bend around this structure.\nThe mainstream explanation for these",
+    "start": 270.32,
+    "duration": 4.56
+  },
+  {
+    "text": "vertical filaments is now that cosmic\nrays, streaming from the center of the",
+    "start": 274.88,
+    "duration": 4.0
+  },
+  {
+    "text": "galaxy, end up dragging the ambient magnetic\nfield, compressing it and illuminating it.",
+    "start": 278.88,
+    "duration": 6.24
+  },
+  {
+    "text": "What remarkable particles can move\nand compress an imaginary construct?",
+    "start": 285.12,
+    "duration": 6.07
+  },
+  {
+    "text": "What could cause something to glow in \nradio? This is generally an indication that",
+    "start": 291.19,
+    "duration": 5.05
+  },
+  {
+    "text": "electrons are undergoing acceleration.\nSo why would these filaments emit",
+    "start": 296.24,
+    "duration": 4.72
+  },
+  {
+    "text": "thermal radiation, and others not?\nIt is important to understand that we",
+    "start": 300.96,
+    "duration": 5.28
+  },
+  {
+    "text": "really do not understand what causes\nthermal emissions, nor that we can really",
+    "start": 306.24,
+    "duration": 4.72
+  },
+  {
+    "text": "label something as being hotter than\nsomething else, simply by looking at the",
+    "start": 310.96,
+    "duration": 3.92
+  },
+  {
+    "text": "radio emissions. Here is an example \nof an explanation for thermal emission.",
+    "start": 314.88,
+    "duration": 5.28
+  },
+  {
+    "text": "”The mechanism of radiation emissions is\nrelated to energy released as a result",
+    "start": 320.16,
+    "duration": 4.8
+  },
+  {
+    "text": "of oscillations or transitions of\nelectrons that constitute matter.",
+    "start": 324.96,
+    "duration": 4.4
+  },
+  {
+    "text": "\"A consideration to make is that when\nelectrons or other charged particles are",
+    "start": 329.36,
+    "duration": 4.32
+  },
+  {
+    "text": "exposed to an electric field, this will\nmake them flow along the field lines.",
+    "start": 333.68,
+    "duration": 4.79
+  },
+  {
+    "text": "This could cause smaller oscillations to\nbe removed, thereby de-thermalizing the",
+    "start": 338.47,
+    "duration": 4.65
+  },
+  {
+    "text": "particles, making it appear as if they are cooler.\nIf we are seeing the filaments glowing in",
+    "start": 343.12,
+    "duration": 6.32
+  },
+  {
+    "text": "radio, it does mean that there is an\nacceleration going on and I see two",
+    "start": 349.44,
+    "duration": 4.56
+  },
+  {
+    "text": "different mechanisms for this. The first\nis that they are being accelerated",
+    "start": 354.0,
+    "duration": 4.16
+  },
+  {
+    "text": "towards or away from the \ncenter due to an electric field.",
+    "start": 358.16,
+    "duration": 4.0
+  },
+  {
+    "text": "The second is that the particles are\nfollowing a helical path, causing a",
+    "start": 362.16,
+    "duration": 4.08
+  },
+  {
+    "text": "constant acceleration around the center.\nAs we see electrons, we are likely",
+    "start": 366.24,
+    "duration": 4.72
+  },
+  {
+    "text": "dealing with a plasma which is\nflowing along these filaments.",
+    "start": 370.96,
+    "duration": 4.4
+  },
+  {
+    "text": "Now what about that barrier that seems\nto prevent cosmic rays from entering, but",
+    "start": 375.36,
+    "duration": 4.16
+  },
+  {
+    "text": "serves to accelerate particles\nfrom within the center outwards?",
+    "start": 379.52,
+    "duration": 3.92
+  },
+  {
+    "text": "One alternative explanation for this\nmight be something that Hannes Alfven",
+    "start": 383.44,
+    "duration": 3.68
+  },
+  {
+    "text": "felt was a piece of the puzzle, that\nmainstream science continually ignored:",
+    "start": 387.12,
+    "duration": 4.79
+  },
+  {
+    "text": "the double layer. It was Langmuir who first discovered\nwhat is now termed as a double layer. A double",
+    "start": 391.91,
+    "duration": 6.17
+  },
+  {
+    "text": "layer is created in order to separate \nplasma from its environment.",
+    "start": 398.08,
+    "duration": 4.08
+  },
+  {
+    "text": "It can be considered analogous to a biological\ncell wall. Both streaming electrons, and ions can",
+    "start": 402.16,
+    "duration": 6.0
+  },
+  {
+    "text": "also be present within these. So \nhow could this explain the magical",
+    "start": 408.16,
+    "duration": 3.84
+  },
+  {
+    "text": "barrier? Cosmic rays are generally\nconsidered to be high energy protons or",
+    "start": 412.0,
+    "duration": 4.96
+  },
+  {
+    "text": "positively charged particles. So \nwhy might the core be deflecting",
+    "start": 416.96,
+    "duration": 4.48
+  },
+  {
+    "text": "these high energy particles, and yet\naccelerating any that reside within it?",
+    "start": 421.44,
+    "duration": 5.36
+  },
+  {
+    "text": "This could be explained if we consider\nthat the core of the galaxy is net",
+    "start": 426.8,
+    "duration": 4.0
+  },
+  {
+    "text": "positively charged or electron-deficient, similar\nto how we consider a star to be electron-deficient.",
+    "start": 430.8,
+    "duration": 7.28
+  },
+  {
+    "text": "The double layer that forms around\nthis would therefore contain a positive",
+    "start": 438.08,
+    "duration": 3.44
+  },
+  {
+    "text": "charge on the inside, and a negative one on\nthe outside. Any positive particles within the",
+    "start": 441.52,
+    "duration": 5.51
+  },
+  {
+    "text": "interior which have enough kinetic\nenergy to overcome the initial repulsion",
+    "start": 447.03,
+    "duration": 4.49
+  },
+  {
+    "text": "of the positive barrier, will then feel an acceleration\ntowards the negative edge of the double layer.",
+    "start": 451.52,
+    "duration": 6.0
+  },
+  {
+    "text": "The edge of the double layer is a\ndynamic zone which is constantly being",
+    "start": 457.52,
+    "duration": 4.07
+  },
+  {
+    "text": "replenished, as ions get neutralized,\nand neutral particles become ionized.",
+    "start": 461.59,
+    "duration": 5.53
+  },
+  {
+    "text": "The existence of this double layer may\nalso explain why we see the larger",
+    "start": 467.12,
+    "duration": 4.16
+  },
+  {
+    "text": "filament bending around this zone. If we \nexamine the wider image with many filaments,",
+    "start": 471.28,
+    "duration": 7.28
+  },
+  {
+    "text": "we see that they seem to be spread\nacross a wide area, and do not seem to",
+    "start": 478.56,
+    "duration": 4.31
+  },
+  {
+    "text": "congregate to the central point. How\ncould this be explained, and why does",
+    "start": 482.87,
+    "duration": 4.25
+  },
+  {
+    "text": "everything not connect to the central \nplasmoid? I think at this point it is important to",
+    "start": 487.12,
+    "duration": 4.72
+  },
+  {
+    "text": "consider that there are a number of\ndifferent models for how galaxies function,",
+    "start": 491.84,
+    "duration": 4.4
+  },
+  {
+    "text": "and probably none of them are entirely correct.\nAnthony Peratt's concept was that two",
+    "start": 496.24,
+    "duration": 5.12
+  },
+  {
+    "text": "intergalactic filaments would twist\ntogether and at a certain point along",
+    "start": 501.36,
+    "duration": 4.0
+  },
+  {
+    "text": "these filaments a double layer would form.\nThis would collect material along the",
+    "start": 505.36,
+    "duration": 4.64
+  },
+  {
+    "text": "double layer and compress the material in\nbetween the filaments as they moved closer.",
+    "start": 510.0,
+    "duration": 5.36
+  },
+  {
+    "text": "He never modeled this central area,\nbut referred to the work that Eric Lerner",
+    "start": 515.36,
+    "duration": 4.08
+  },
+  {
+    "text": "had done on plasmoids as one potential for this\ncentral area. This would mean that the plasmoid that",
+    "start": 519.44,
+    "duration": 5.92
+  },
+  {
+    "text": "formed at the center may not directly \nbe connected to the larger filaments, but",
+    "start": 525.36,
+    "duration": 4.47
+  },
+  {
+    "text": "instead, the two filaments would connect\nto multiple parts, and this in turn would",
+    "start": 529.83,
+    "duration": 5.29
+  },
+  {
+    "text": "stream in towards the central area.\nHalton Arp felt that galaxies were born",
+    "start": 535.12,
+    "duration": 5.04
+  },
+  {
+    "text": "from material ejected from active\ngalaxies, which later turned into",
+    "start": 540.16,
+    "duration": 4.23
+  },
+  {
+    "text": "companion galaxies, as they moved further\nfrom the parent. Here we could consider",
+    "start": 544.39,
+    "duration": 4.65
+  },
+  {
+    "text": "that these galaxies are already within a\nfilament and that as the material gets",
+    "start": 549.04,
+    "duration": 5.04
+  },
+  {
+    "text": "ejected into the larger filament, new connections\nare forged. Possibly this material is initially",
+    "start": 554.08,
+    "duration": 6.0
+  },
+  {
+    "text": "electron-deficient, so would draw streams\nof electrons towards it, which then later",
+    "start": 560.08,
+    "duration": 4.96
+  },
+  {
+    "text": "form the filaments that connect it.\nNow, it's equally possible that these",
+    "start": 565.04,
+    "duration": 4.96
+  },
+  {
+    "text": "vertical filaments are not part of any\nmechanism to connect to the galactic filament,",
+    "start": 570.0,
+    "duration": 5.51
+  },
+  {
+    "text": "but instead are filaments that are part\nof the internal structure of a galaxy.",
+    "start": 575.51,
+    "duration": 5.05
+  },
+  {
+    "text": "If we consider Hannes Alfven’s concept\nof a galaxy, he thought that there was a",
+    "start": 580.56,
+    "duration": 4.56
+  },
+  {
+    "text": "circuit which pushed material out along\nthe axis and back along the equator.",
+    "start": 585.12,
+    "duration": 6.71
+  },
+  {
+    "text": "There is much we still do not know and \nmany open questions that these images raise.",
+    "start": 592.0,
+    "duration": 5.27
+  },
+  {
+    "text": "What is clear, is that the more we look,\nthe more we see these filaments, both in",
+    "start": 597.27,
+    "duration": 5.12
+  },
+  {
+    "text": "the interior of our galaxy and spread throughout\nit, as well as between galaxies on a vast scale.",
+    "start": 602.39,
+    "duration": 6.88
+  },
+  {
+    "text": "This material is not dormant, but flows. Some \nfast, some slow, powering our Electric Universe.",
+    "start": 609.27,
+    "duration": 9.97
+  },
+  {
+    "text": "[Music]",
+    "start": 625.54,
+    "duration": 11.73
+  },
+  {
+    "text": "[Music]",
+    "start": 642.41,
+    "duration": 10.33
+  }
+]

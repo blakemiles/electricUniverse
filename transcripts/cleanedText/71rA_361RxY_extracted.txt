@@ -1,0 +1,753 @@
+Preparing to the today's talk was a bit
+of a challenge because we now have a
+worldwide audience and many viewers
+probably have never heard of the
+Electric Sun Model or the SAFIRE
+experiment. SAFIRE experiment is charged
+with the task of exploring the theory
+that our Sun, all stars, are electrically
+powered. To do this we have a chamber
+with a little ball in the middle,
+this is our little Sun. Then we fill the
+chamber with various gases, apply various
+voltages and create an electric plasma
+discharge. We then must design
+experiments and collect data and that
+data will be compared with the wealth of
+NASA, the European Space Agency, other
+agency, data and ideally SAFIRE
+experiments will replicate the type of
+measurements done of our Sun so that we
+can have an apples to apples discussion
+with their scientific cousins in these
+organizations. And if I do my job well
+we'll also be able to suggest new ways of
+looking at the existing satellite data
+that will highlight electrical aspects
+of the Sun. Designing experiments to
+prove scientific theories is difficult.
+There is no instruction manual for how
+to do it. I recall vividly my teachers
+who studied with the generation of
+Schroedinger and Durac trying to
+impress upon us young physicists that
+the data you collect in any experiment
+can be interpreted in many ways. And if one
+which is to create a new scientific
+model, as they had helped to create
+quantum mechanics, then you need to think
+big. And they were clear to tell us, the
+struggles you will end up facing will
+not only be scientific. You will also
+find yourself fighting political battles
+and sometimes even religious
+battles. To look at the difficulty of
+verifying new scientific models we can
+look at another instance in history
+where they were disagreements about the
+fundamental electrical nature of our
+universe. A short story about the vision
+of one scientist and the data he
+collected.
+In the late 1800's Kristian Birkeland
+had an intuition that the Earth and the
+Sun were electrically connected. Now this
+was not the prevailing idea at the time.
+The prevailing idea was that the Earth
+and the Sun were electrically isolated
+from each other. So we have two theories,
+on the one hand the Earth and Sun
+electrically connected, on the other, the
+Earth and the Sun electrically isolated.
+So how would you prove which theory is
+correct?
+Birkeland made many excursions into the
+Arctic regions of Norway and with hand
+held magnets he measured magnetic fields
+on the ground while the Northern Lights
+blazed over head. So on the left of this
+figure we have Birkeland's theory that
+the Sun and the Earth are electrically
+connected, in the middle
+a little schematic of a model, showing
+electrical connection between the Sun
+and the Earth and down the bottom there
+you can see Birkeland walking around the
+Arctic with his hand-held magnets. Now
+the data he collected on the ground
+actually matched his model and he took that
+as support of his theory. Now on the right
+hand side of this drawing you can see the
+prevailing idea of the time, no
+electrical connection between the Earth
+and the Sun and a well-known
+mathematician of the time
+created an elegant theory to show that
+all you needed was heat from the Sun and
+that would generate local convection
+currents above the Earth's poles and
+this then would generate the same exact
+compass measurements on the ground. And
+that second theory is the one that won
+out. Now the passage of a hundred years
+has somewhat blunted the story for you
+and me and we don't know anybody
+personally connected with it, just an
+anecdote in the history of science. But
+it bothers me and I often think well
+could those measurements taken beneath
+the Blazing Northern Lights could they
+really not tell us which theory was
+correct and the answer is no, they could
+not. As all too often happens the data
+works equally well in both models and
+one theory prevails
+usually more for social or philosophical
+reasons than scientific reasons and
+Birkeland never got to see his ideas
+accepted. The isolationists won out until
+about the nineteen seventies when
+satellite measurements were good enough
+to actually show that there are indeed
+electrical connections between the Earth
+and the Sun. You saw this earlier, this is
+one of the beautiful discharges from our
+chamber, we'll call this one the flower
+discharge and it's actually not
+spherical it's more disc shaped and it's
+not clear what the conditions are that
+produced this. So we're now at a time
+where there is the real possibility for
+a paradigm change in astronomy, enough
+data has been collected that probably
+future astronomers will grow up studying
+such concepts as electrical double
+layers, electric potential over large
+distances of space and cosmic Birkeland
+currents. The study of the Sun is a
+particularly fruitful area for studying
+electricity in space. Here is a short
+list of observations collected over many
+years by many different people in the EU
+community. Not to read them all, just to give
+you an idea that t'was quite a bit and
+with each within each one of these there
+are actually thousands of papers and
+conference proceedings so the good news
+is there's a lot of material for us to
+choose from.
+Now for the point of view of where we're
+at currently with SAFIRE here's a
+short list that I will be talking about,
+of specific areas to focus on. So I'll
+talk about each one of these in course.
+This is one of the,
+lot of us have seen this one, of the very
+confusing diagrams about the Sun, a plot
+of the Sun's temperature as a function
+of height above the sun's surface. So at 0
+height on the left hand side there in the
+photosphere about five thousand degrees
+and as we move away from the Sun the
+temperature increases in very specific
+jumps as you move away and then at a
+certain point the temperature shoots way
+up very quickly through the transition
+zone up to millions of degrees. Now with
+this, if the SAFIRE experiment sees
+something like this, in our Chamber,
+that's a major win for the electrical
+model of the Sun. And just to be clear, no one
+has yet flown a thermometer into the Sun.
+When you see statements about the sun's
+temperature like these, those statements
+are made by looking at light emitted
+from the Sun. Some of the light
+emitted from the Sun is in discrete
+spectral lines and scientists can use
+spectral lines to measure temperature.
+For example we might be measuring just
+one line from one element on the Sun, say
+neon or measuring one color of neon
+light from the Sun. And we can examine
+the details of how that line changes as
+you move away from the Sun so here's a
+short diagram to say what I mean here.
+You can imagine three different cases, in
+the top diagram this one here, the width
+of the line, the size of your spectral
+line is broadest close to the Sun and
+then it gets more narrow as you move
+away from the Sun and you, if you do if
+you're using line width to be a proxy or
+an estimation of temperature you would
+say, well things are cooling down as I
+move away from the Sun,
+sometimes that's called the campfire
+model that things get colder as you move
+away from the campfire. Now we can
+imagine a different case, this middle one
+here,
+where the width of the line stays the
+same as you move away from the Sun. Now
+if we saw that then we would say well by
+using line width as a measure of
+temperature, it stays the same as you
+move away from the Sun, OK, and then the
+last example, one down here which is more
+like our real Sun,
+the line widths increase as you move away and so
+again using this as a proxy for
+temperature you say, things must be
+getting hotter as we move away. So using
+this as just one principle, just one of
+the many principles we have at our
+disposal, we can look at some movie of
+some actual, the SAFIRE spectra which
+you saw earlier but I like watching it
+ok.
+Real-time, this is what it looks like..
+That's when all the USB ports blew up on
+the computers. Now there is a wealth of
+information as you could imagine
+in this spectral data, we can just choose
+one, one slice one snapshot from that and
+we can just choose one of the lines in
+one of the snapshots and we can look at
+that line from different points in the
+chamber so here's a picture of the
+chamber and you can see the center glow
+is the anode right this part
+here and then down here do you see these
+cylinders, those are fiber optics, that's
+what's collecting the light, collecting
+the light in the chamber and you can see
+how they point in different directions
+so one, you know, one we can point where we want,
+one just grazed the anode, one of looked at
+halfway out, maybe one looks towards the
+cathode, so this is a way that we were
+exploring that how, can we measure line
+widths and other properties at different
+points in the chamber. It actually was
+not obvious when we started out if it was
+even possible. So we can look at that again
+just one line, one spectral line.
+Here's a plot that shows just looking at,
+actually this is more than one line, several
+different lines and looking at their
+widths, so all the ones over here these
+are all red and these are blues. There are,
+these are blue spectral lines in our
+discharge and over here the reds like a
+rainbow, over here are red spectral lines
+in our discharge and you can see
+that
+here's like for example, you know, 12345
+different points up here, they have more
+width to them, so the vertical axis on
+this graph is how wide the line is, so
+this group here has more width to their
+lines than this group down here. So that
+was great so we verified yes, we can show
+that we can distinguish different line
+widths in different parts and then I went
+back and I said, wait a minute which
+which which groups are these, and this
+whole group up here was all from fiber
+optics looking at the anode or
+close to the anode. Sorry, backwards, this
+group down here was all looking at the
+anode, close to the anode, this group here
+was all looking away. So again, if we use
+this as a proxy for temperature which,
+I'll say it more later there's other
+ways to look at it, then we've got
+already here some kind of strange result
+where it looks like, even in our chamber,
+temperature might be might be higher as
+you move away from the center. Now here
+is, looking at one particular point, it's
+not only there's no there's another way
+that this we analyze the data it which
+is the shape of a line, not only how wide
+it is but the shape of it and it actually
+tells us a fair amount about the physics
+so for example if your line width, your
+line shape is fit by Gaussian statistics
+then you're probably looking more at
+temperature and indications of temperature.
+If your shape is fit more by a
+different kind of statistics, Lorentzian
+statistics, then you're probably looking
+more at electron density in the chamber.
+And so again, our job was to say well,
+can we measure these differences and yes
+we can measure these differences within
+our Chamber. Alright, moving onto the next
+item on the shortlist, coronal streamers.
+It's gonna be a movie of SOHO,
+ultraviolet data, so the Sun is in the
+center there
+these are coronal, called coronal streamers
+flying off. Now people at the Catania
+observatory in Italy, Ventura and Spadaro,
+they looked at these coronal streamers
+and they wanted to examine things like
+temperature, how does the temperature
+vary inside of these streamers. Ok so
+that white line there shows you like an
+example of where they were sampling data
+and they found some pretty strange
+results. Here's here's some of their data,
+they were using line width, the width of
+the spectral lines as a measure of
+temperature. What they found unexpectedly
+was that it depends upon what element
+you're looking at and so all of these
+upper plot points here these are all
+from oxygen atoms inside the streamer
+and as you move away from the Sun those
+oxygen atoms get hotter and hotter and
+hotter okay, these down here are all using
+the same method, looking at line width as a
+measure of temperature but for hydrogen.
+Hydrogen is a hundred times colder, this
+is a logarithmic plot. A hundred times
+colder and it gets cooler as you move
+away from the Sun. So, needless to say, there are
+unexpected results, and it's not at all
+clear what this, why this would come
+about. It also makes me wonder if we
+really can make such simple correlations
+between line width and temperature. Cause one
+person would say well clearly your
+oxygen is hotter than your hydrogen.
+Someone else might say well, you know what,
+maybe we don't really understand the
+connection between line width and
+temperature. I would be one of those
+people. It gets even better,
+now they're gonna look at
+that temperature profile as you cut
+across a single-streamer ok, so that line
+there shows slice perpendicular to the
+streamer we're gonna look at the data
+across that, look at that oxygen and
+hydrogens again. So here's a plot of
+the intensity as you cut across the
+streamer and that makes sense, it's,
+there's more intensity coming out of the
+streamer in the middle, right. Quiet,
+then it gets intense than it's quiet
+again. Now let's look at what happens if
+you look at the temperature of oxygen as
+we cut across. Well it is hotter outside
+the streamer, then it cools down in the
+streamer, and then it gets hot again,
+right. Look at hydrogen, just the opposite.
+It's cooler outside the streamer, the
+temperature goes up as you get inside
+the streamer and then it's cold again as
+you go on the other side. So these were
+extremely strange results. Now I think
+this is a, could be as a consequence of
+electrical activity on the Sun but again
+we have to design experiments that can
+verify this. This is one particularly beautiful
+discharge. So whether or not these
+discharge structures that we see, whether
+or not they correspond directly to
+photosphere granules, whether they
+correspond directly to coronal streamers
+ok, all this is yet to be established but
+the approach, again to emphasize, the
+approach of SAFIRE is that we need to
+mimic the types of measurements that are
+done
+of the Sun, OK. So we would use our fiber
+optics to look inside of these
+structures here, the same way that the
+people in Catania used the STO data and
+we'll see if we have measurements that
+correspond.
+Now we have the added benefit of having
+additional instruments, like for example
+a Langmuir probe which can measure the
+plasma characteristics, voltage potential,
+ion, electron temperatures, so we can take
+that data then and then suggest back
+to other people
+new ways they can look at the existing
+satellite data. So now given all this is
+how we gonna go to Monty and I say, Monty
+we need to be able to move the fiber
+optics across the anode tufts, the anode tufts
+are about two millimeters across, I need
+a positional fiber-optic that's down to
+about point O five millimeters, can you
+do that for me? And as you heard earlier
+today he comes back eventually and goes, yes I
+can do that for you can do it. And I
+asked Lowell, I say Lowell, do you think, can
+you look at the Boltzmann equation for
+our situation,
+see what you think that the temperature,
+the measured temperature of oxygen and
+hydrogen would be, do you think we
+would see the same sorts of things that
+we see around the Sun? OK, under the
+next item in the list, that was the first
+ionization potential anomaly. The first
+ionization potential anomaly is a well
+known but unexplained observation of our
+Sun and other stars and an analogy will
+help a lot here so imagine that you are
+throwing a very big party,
+hundreds of guests there from all walks
+of life some rich, some poor, some men,
+some women, married, not married and
+imagine that you notice a pattern, you
+notice that there's always the same set
+of 12 people that go outside and talk
+outside for a while. And amongst those 12
+it's a mix, some are young, some are old,
+some are married or not and they're not
+smoking, so what would they have in
+common,
+why do they go outside? So when you're
+thinking that over, now we can switch to
+the astronomical case, something happens
+very similar to this party example, to
+the chemical elements on the Sun and a
+certain group of elements are much more
+likely to be found outside the Sun than
+on the surface of the Sun. So for example
+on the photosphere we see about 35
+magnesium
+atoms for every million hydrogen atoms
+but in the solar wind leaving the Sun
+there are four times that many magnesium
+atoms. Another example, we see about forty
+seven iron atoms for every million
+hydrogen atoms on the photosphere but a
+solar flare might have a hundred times
+that much iron and for helium it's
+exactly the opposite,
+there are fewer helium atoms in
+energetic particle emissions from the
+Sun than there are in the photosphere so
+what makes these special, why do some of
+them tend to be found outside the Sun,
+why do some of the guests tend to go
+outside the party. So it seems that it
+all comes down to, how easy it is to pull
+an electron off of that element. Now if
+it's easy to pull an electron off of an
+element then we find more of that
+element outside the Sun like in solar
+flares or the solar wind and physicists
+have a name for how easy it is to pull
+an electron off of an atom, it's called the
+first ionization potential. So here's a
+plot of various chemical elements, the
+horizontal axis, horizontal axis here is
+how easy it is to pull off an electron,
+you can see over here on the left, about
+four volts is what you need to pull off
+the first electron off of potassium then
+there's a progression and when you get
+out to here like neon and helium it's
+really hard to pull off an electron off of
+those elements. And the vertical axis
+here shows is how much more likely it is to
+find that element outside the
+photosphere so you can see the elements
+on the left, the ones where it's easy to
+pull an electron off. Those are the ones
+that you find more abundant in emissions
+from the Sun and elements on the right
+with the higher ionization potential are
+less likely to be found outside the Sun.
+So going back to our analogy, we found a
+property that tells us why, might tell us,
+why these twelve people keep going
+outside the party.
+Now why this one property of first
+ionization potential should lead to all
+of this is not at all clear from the
+standard model of the Sun where you only
+get to use hot gases and magnetic fields.
+It is explainable from the electric Sun
+model but the main point is, we need to
+design an experiment that will measure
+it. So like NASA, we would use
+spectroscopy to remotely deduce the
+abundances of different elements close
+to our anode and like NASA we would use
+a mass spectrometer away from the anode
+to measure the elements far from the anode.
+So now I have more requests for
+Monty, Monty can we coat the anode in
+magnesium, magnesium has a low ionization
+potential then Paul if I give you
+fiber-optic data and mass spec data what
+other factors do you need that will give
+us good statistics on the DOE. So I
+hope you can start to see the
+flexibility of the SAFIRE chamber, that
+we can ask such a wide variety of
+questions and actually stand a good
+chance of running experiments to look at
+them in the laboratory. Next on the list.
+So sometimes it's important to step back
+and look at the forest, not the trees and
+as many have heard here, one of the
+outstanding features of the Sun is its
+discrete layers and their very very
+different properties. So here's a
+combination, on the right there the
+photosphere, we see a lot of that, then
+just just a hair's breadth hair's
+breadth above the photosphere is the
+chromosphere which if you look at it
+closely looks a lot like a fur coat with
+clouds floating over it, very strange. And
+then you move out a little bit more, the
+lower Corona, that's where you see all this
+incredible loops and x-ray emissions,
+lot of dynamic activity, pulling back further
+you see the upper Corona which again has
+a very different properties, these wispy hairy
+filaments that extend out for long long
+distances. Then there seems to be a long
+stretch where things don't change that
+much in the solar atmosphere, until you
+get to the heliosphere boundary and
+right now the Voyager satellites, as we
+know, are out there going through some
+boundary of some kind what it is, is now
+been thrown up into question, this is an
+artist's rendering of the Voyager
+satellites out of the boundary of the
+solar system. Now these probes are
+returning very interesting data, on the
+left it shows a plot of Voyager measuring
+the electron density as it's passing
+through the boundary, on the right is a
+plot of the density of positive ions as it's
+going through this boundary and the main
+point is these rapid fluctuations that
+we see at the boundary. Are these rapid
+fluctuations due to bow shocks and
+supersonic flows or we all know that
+these rapid fluctuations are actually
+a quite natural consequence of electrical
+double layers. So the Voyager data is
+taking place far out from the Sun right,
+so that's not us measuring close to our
+anode that's measuring us far away
+from the anode in our chamber. So again I
+could ask Monty, I need a Langmuir probe,
+it also has to have sub millimeter
+resolution cause I need to see the
+fluctuations in our chamber and compare
+them to the data we're getting back from
+Voyager and see if we see something
+similar.
+Next item
+It's coronal, I call it the coronal jolt. So,
+CME-s, coronal mass ejections, are
+spectacular emissions off the surface of
+the Sun, they're sometimes associated with
+the solar flare, a solar flare is an
+eruption that's very localized on the
+Sun, very small spatial location solar
+flare and one of the main unanswered
+questions about CME-s is still, are they
+large-scale events or are they
+small-scale events.
+Now the small scale camp says CMA-s start
+from a solar flare, they start from a
+very small part on the Sun which then
+blasts out and fills space around the
+Sun and goes away and that's how you get
+your CME and they have some data that
+supports their model. There is another
+camp that says no CME's are actually a
+large-scale event that the eruption that
+we see is taking place over such a large
+area there is no way that a single point
+on the Sun can lead to all that and this
+camp also has data to support their
+theory. So now we're gonna look at, so this
+is the Sun in UV extreme UV and I want
+you to look at the lower right side of
+it.
+Pulse,
+pulse, pulse can you see how that, the
+outer atmosphere, can I draw on this, the
+outer, we're looking here primarily
+you'll see it here, the outer atmosphere
+of the Sun and I want you to look for
+pulse down pulse down.. So it, that may look
+like not much going on but that is
+billions of cubic miles of plasma that
+is behaving all as a single unit over
+about 40 minutes so that's actually a
+very big unified action from the Sun,
+the coronal mass ejection is taking
+place on the far side of the Sun here, so
+we don't see the coronal mass ejection.
+We only see from the back side, we see
+the whole atmosphere of the Sun pulsing
+like that. So do we see something like
+this in SAFIRE, and yes we do and
+probably you've seen this a couple times
+over this weekend,
+this is our anode and then periodically
+there's a buildup of energy close to the
+anode, then it will release explosively
+and then the anode is notably dimmer
+afterwards ok, here's a little video
+which you saw already but it doesn't hurt to
+see it again,
+buildup,
+release and then dimmer.
+So once again the commissioning phase of
+SAFIRE exceeded our expectations, not
+only can we resolve high-speed plasma
+discharges from the anode but we already
+have data indicating a direct
+correlation with existing NASA data. And
+lastly, comets. As many people in EU
+community have said, there are many aspects
+about comets that only make sense if
+the electric Sun model is true. Here is a
+couple of photos of 67 P, so in
+conjunction with Franklin Anariba
+SAFIRE group working out some very
+specific experiments to examine the
+electric comet hypothesis. You saw this
+little while ago. This is one of the ways
+we're gonna examine it is to place different
+materials, possible materials on the end
+of our probe and then send those
+materials in various orbits around the
+anode. So that blue line is tracing out
+the orbit, just an example, sample orbit
+that we could send something on inside
+the chamber. This is one of the materials
+we're going to start with, more of this is
+again from Franklin's suggestions of type
+of material to start with and so for
+example, one set of experiments we could
+run, see on the left there, I have a
+column for what's the cometary feature
+that we are mimicking and in this case
+it's certain materials that we know are
+on comets, of course there's a lot of
+disagreement about how much of the
+materials are on comets, whether comets
+are ice, whether comets are primarily
+rocky but on the left camp column there
+you see various rocky elements that we'll
+start with. And in the middle, it's kinda what
+what's the SAFIRE example
+of that, well it's it's a piece of rock,
+like you can see there in the photograph,
+and then what will what kind of
+measurements will we make that will
+mimic existing measurements of outer
+space. And so for example, and there's a
+lot of detail to this if you saw Franklin's
+talk,
+he'd predict to see the certain
+gases, certain organic compounds coming
+out of this, and in particular, you know, if we
+see a increase concentration of water in
+our chamber, as we're zipping this rock
+around, then we know it's from
+electrochemistry and not from a dirty
+snowball. So that would be an example of
+how we could mimic existing data with a
+different model. Dustification. I think he
+made up that word. Dustification of the
+comet nucleus is also something we can
+look at. Here's a picture of 67 P so the
+fact that 67 P was rocky is not a
+surprise to EU theorists but the presence
+of dust, large amounts of dust, not so
+obvious. So if 67 P was blasted off of
+Mars, yes there would be a lot of dust
+created right, but it's so small the
+comet, would it really attract all of
+that just back to itself, you know, I
+don't think so.
+So how would we explain something like
+this where not only do we have a lot of
+dust, these lanes of dust throughout the
+comet, but if you blow that up it
+actually looks like it's been a dust
+landslide ok, so this begs the question,
+maybe dust is being continuously created
+on the comet, OK. So this is another thing
+we can do, we can, over the course of time,
+look for the type of dust if any that's
+created. Franklin Anariba thinks
+that the electric discharge will break
+down the larger silicates structures
+into smaller silicat dust but this
+remains to be seen through an experiment.
+And hopefully the folks at ESA will
+publish some data about 67 P's dust
+composition.
+Another example of how we can look at
+our situation to examine comets, we're
+going to look at all the properties
+around our little comets, electron
+density, the temperature, elemental
+analysis and so will you see here this
+sketch on the, on the right here, this is
+an analysis of the comet Hale-Bopp,
+it was the Swan telescope in 1979 I think 97,
+returned some UV images of Hale-Bopp and then
+if you use a certain reasonable
+assumptions about the nature of the coma
+around the comet and you compare your
+observed UV emissions to your model you
+get this, these interesting set of
+plots for the temperature. As you move
+away from the comets, so here
+according to this model,
+the temperature should drop as you move
+away from Hale-Bopp and then go up and
+then drop and go up etcetera.
+Now this is very reminiscent already of
+measurements that we are collecting
+inside the SAFIRE chamber, electrical
+double layers have a lot of these kind
+of oscillatory
+qualities to them where something is,
+like electron density, will go up and
+down up and down as you move away.
+And of course, the filaments. Here's a wonderful gallery,
+I love this, of its different filaments
+around 67P and I realized as I was
+listening to my introduction that we
+should, we should carve our little rocks
+into the same shapes as various comets
+and then see if we can replicate simply
+the morphology of the discharge around
+the comets.
+Alright so that's the end of my
+presentation, thank you very much for
+sticking with me, couple of meaty ideas out
+there, but it gives you a taste I think,
+of the SAFIRE chamber and how
+versatile it is. The number of different
+questions we can ask and actually take
+actual measurements to verify, so thank
+you very much and wanna explicitly thank the
+people who are making this experiment
+possible.

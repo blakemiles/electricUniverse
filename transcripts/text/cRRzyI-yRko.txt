@@ -1,0 +1,1157 @@
+[
+  {
+    "text": "welcome to space news from the electric",
+    "start": 0.03,
+    "duration": 3.69
+  },
+  {
+    "text": "universe brought to you by the",
+    "start": 1.65,
+    "duration": 4.62
+  },
+  {
+    "text": "thunderbolts project at Thunderbolts and",
+    "start": 3.72,
+    "duration": 6.6
+  },
+  {
+    "text": "dot info astronomers today are puzzling",
+    "start": 6.27,
+    "duration": 6.119
+  },
+  {
+    "text": "over the unexpected brightening of a",
+    "start": 10.32,
+    "duration": 4.56
+  },
+  {
+    "text": "recently discovered comment on October",
+    "start": 12.389,
+    "duration": 5.191
+  },
+  {
+    "text": "20th an observer in Japan noted that the",
+    "start": 14.88,
+    "duration": 5.28
+  },
+  {
+    "text": "brightness of comet x1 linear was over",
+    "start": 17.58,
+    "duration": 5.029
+  },
+  {
+    "text": "100 times greater than astronomers",
+    "start": 20.16,
+    "duration": 5.97
+  },
+  {
+    "text": "expectations on October 21st astronomers",
+    "start": 22.609,
+    "duration": 5.74
+  },
+  {
+    "text": "in New Mexico confirmed the surprising",
+    "start": 26.13,
+    "duration": 5.19
+  },
+  {
+    "text": "outburst other cometary displays have",
+    "start": 28.349,
+    "duration": 4.591
+  },
+  {
+    "text": "captured the world's attention in recent",
+    "start": 31.32,
+    "duration": 5.88
+  },
+  {
+    "text": "years in 2007 the periodic comet home",
+    "start": 32.94,
+    "duration": 7.2
+  },
+  {
+    "text": "17p stunned the science world when it",
+    "start": 37.2,
+    "duration": 5.039
+  },
+  {
+    "text": "abruptly brightened by a factor of about",
+    "start": 40.14,
+    "duration": 3.93
+  },
+  {
+    "text": "half a million making its coma",
+    "start": 42.239,
+    "duration": 4.291
+  },
+  {
+    "text": "temporarily the largest object in the",
+    "start": 44.07,
+    "duration": 3.32
+  },
+  {
+    "text": "solar system",
+    "start": 46.53,
+    "duration": 2.97
+  },
+  {
+    "text": "astronomers attribute these cometary",
+    "start": 47.39,
+    "duration": 4.419
+  },
+  {
+    "text": "outbursts to the sublimation of ices",
+    "start": 49.5,
+    "duration": 4.44
+  },
+  {
+    "text": "from solar heating but does this",
+    "start": 51.809,
+    "duration": 6.39
+  },
+  {
+    "text": "explanation fit with the facts why are",
+    "start": 53.94,
+    "duration": 6.869
+  },
+  {
+    "text": "we surprised when comets flare up",
+    "start": 58.199,
+    "duration": 5.13
+  },
+  {
+    "text": "unexpectedly I think the answer lies in",
+    "start": 60.809,
+    "duration": 5.13
+  },
+  {
+    "text": "the fact that we don't understand comets",
+    "start": 63.329,
+    "duration": 3.661
+  },
+  {
+    "text": "it's as simple as that",
+    "start": 65.939,
+    "duration": 4.051
+  },
+  {
+    "text": "the story of comets is associated with",
+    "start": 66.99,
+    "duration": 5.04
+  },
+  {
+    "text": "the story of the formation of the solar",
+    "start": 69.99,
+    "duration": 4.05
+  },
+  {
+    "text": "system and the story of the formation of",
+    "start": 72.03,
+    "duration": 3.93
+  },
+  {
+    "text": "the solar system is that once upon a",
+    "start": 74.04,
+    "duration": 5.49
+  },
+  {
+    "text": "time story dreamt up centuries ago which",
+    "start": 75.96,
+    "duration": 5.64
+  },
+  {
+    "text": "has merely been patched as new",
+    "start": 79.53,
+    "duration": 4.44
+  },
+  {
+    "text": "information comes to light you would",
+    "start": 81.6,
+    "duration": 4.62
+  },
+  {
+    "text": "have expected that close flybys of",
+    "start": 83.97,
+    "duration": 5.64
+  },
+  {
+    "text": "comets and the capture of material from",
+    "start": 86.22,
+    "duration": 5.55
+  },
+  {
+    "text": "the tail of a comet would have been",
+    "start": 89.61,
+    "duration": 4.32
+  },
+  {
+    "text": "sufficient evidence to make people",
+    "start": 91.77,
+    "duration": 5.22
+  },
+  {
+    "text": "consider some other alternative ideas",
+    "start": 93.93,
+    "duration": 6.509
+  },
+  {
+    "text": "but this hasn't happened so we continue",
+    "start": 96.99,
+    "duration": 6.12
+  },
+  {
+    "text": "to be surprised by comets now comets in",
+    "start": 100.439,
+    "duration": 5.46
+  },
+  {
+    "text": "the electrical model flare up simply",
+    "start": 103.11,
+    "duration": 4.98
+  },
+  {
+    "text": "because they are suddenly caused to",
+    "start": 105.899,
+    "duration": 4.141
+  },
+  {
+    "text": "discharge either by a sudden change in",
+    "start": 108.09,
+    "duration": 3.3
+  },
+  {
+    "text": "their environment brought about by",
+    "start": 110.04,
+    "duration": 3.48
+  },
+  {
+    "text": "charged particles from the Sun suddenly",
+    "start": 111.39,
+    "duration": 5.04
+  },
+  {
+    "text": "arriving or by a gradual change in",
+    "start": 113.52,
+    "duration": 5.73
+  },
+  {
+    "text": "voltage as the comet approaches the Sun",
+    "start": 116.43,
+    "duration": 5.039
+  },
+  {
+    "text": "or receipts from the Sun and that",
+    "start": 119.25,
+    "duration": 5.49
+  },
+  {
+    "text": "voltage is impressed across the interior",
+    "start": 121.469,
+    "duration": 5.851
+  },
+  {
+    "text": "of the comet because the comet in effect",
+    "start": 124.74,
+    "duration": 5.219
+  },
+  {
+    "text": "acts a bit like a capacitor and if you",
+    "start": 127.32,
+    "duration": 6.059
+  },
+  {
+    "text": "over stress a capacitor it explodes they",
+    "start": 129.959,
+    "duration": 3.661
+  },
+  {
+    "text": "can",
+    "start": 133.379,
+    "duration": 2.521
+  },
+  {
+    "text": "quite dangerous this is why capacitors",
+    "start": 133.62,
+    "duration": 4.199
+  },
+  {
+    "text": "have a voltage rating on them so this",
+    "start": 135.9,
+    "duration": 4.47
+  },
+  {
+    "text": "gives a very simple explanation for",
+    "start": 137.819,
+    "duration": 5.67
+  },
+  {
+    "text": "these flaring x' and so on of comets but",
+    "start": 140.37,
+    "duration": 5.759
+  },
+  {
+    "text": "it also explains why just recently an",
+    "start": 143.489,
+    "duration": 5.64
+  },
+  {
+    "text": "asteroid produced a coma and a tail as",
+    "start": 146.129,
+    "duration": 5.431
+  },
+  {
+    "text": "it swung around the Sun and asteroids",
+    "start": 149.129,
+    "duration": 4.5
+  },
+  {
+    "text": "are not supposed to produce cometary",
+    "start": 151.56,
+    "duration": 4.2
+  },
+  {
+    "text": "displays and the question there was how",
+    "start": 153.629,
+    "duration": 3.571
+  },
+  {
+    "text": "do you machine all this head you get",
+    "start": 155.76,
+    "duration": 3.119
+  },
+  {
+    "text": "this dust to come off the comet there's",
+    "start": 157.2,
+    "duration": 3.0
+  },
+  {
+    "text": "no good answer to that in the standard",
+    "start": 158.879,
+    "duration": 3.291
+  },
+  {
+    "text": "theory because that relies on",
+    "start": 160.2,
+    "duration": 5.039
+  },
+  {
+    "text": "evaporating sublimating ices and so on",
+    "start": 162.17,
+    "duration": 5.77
+  },
+  {
+    "text": "buried out of sight inside the comet",
+    "start": 165.239,
+    "duration": 5.34
+  },
+  {
+    "text": "nucleus I say out of sight because when",
+    "start": 167.94,
+    "duration": 5.19
+  },
+  {
+    "text": "you look at comets from images sent back",
+    "start": 170.579,
+    "duration": 5.13
+  },
+  {
+    "text": "by spacecraft flybys and so on beginning",
+    "start": 173.13,
+    "duration": 4.98
+  },
+  {
+    "text": "with Halle you see a surface which is",
+    "start": 175.709,
+    "duration": 5.041
+  },
+  {
+    "text": "extremely dark darker than soot there's",
+    "start": 178.11,
+    "duration": 4.95
+  },
+  {
+    "text": "no sign of ices generally there are some",
+    "start": 180.75,
+    "duration": 4.349
+  },
+  {
+    "text": "white spots but the question is what are",
+    "start": 183.06,
+    "duration": 4.019
+  },
+  {
+    "text": "those white spots they don't necessarily",
+    "start": 185.099,
+    "duration": 5.7
+  },
+  {
+    "text": "mean ices and you also see sculptured",
+    "start": 187.079,
+    "duration": 5.851
+  },
+  {
+    "text": "surfaces now if a body is just",
+    "start": 190.799,
+    "duration": 5.431
+  },
+  {
+    "text": "evaporating in sunlight you would expect",
+    "start": 192.93,
+    "duration": 5.52
+  },
+  {
+    "text": "to see a object that looks a bit like a",
+    "start": 196.23,
+    "duration": 4.56
+  },
+  {
+    "text": "melting ice cream or you would expect to",
+    "start": 198.45,
+    "duration": 5.3
+  },
+  {
+    "text": "see material coming off it in a cloud",
+    "start": 200.79,
+    "duration": 6.0
+  },
+  {
+    "text": "Comet ologists also struggle to explain",
+    "start": 203.75,
+    "duration": 5.68
+  },
+  {
+    "text": "the highly collimated Jets of material",
+    "start": 206.79,
+    "duration": 4.979
+  },
+  {
+    "text": "that sometimes explode from cometary",
+    "start": 209.43,
+    "duration": 7.05
+  },
+  {
+    "text": "surfaces what is seen from comets thin",
+    "start": 211.769,
+    "duration": 6.661
+  },
+  {
+    "text": "filamentary Jets and there's some good",
+    "start": 216.48,
+    "duration": 5.4
+  },
+  {
+    "text": "examples which are shown here now to get",
+    "start": 218.43,
+    "duration": 6.6
+  },
+  {
+    "text": "guests to expand in a filament requires",
+    "start": 221.88,
+    "duration": 7.68
+  },
+  {
+    "text": "a very finely machine nozzle so the",
+    "start": 225.03,
+    "duration": 6.539
+  },
+  {
+    "text": "suggestion that material is being shot",
+    "start": 229.56,
+    "duration": 4.62
+  },
+  {
+    "text": "from beneath the surface by expanding",
+    "start": 231.569,
+    "duration": 4.711
+  },
+  {
+    "text": "gases doesn't make much sense the",
+    "start": 234.18,
+    "duration": 4.41
+  },
+  {
+    "text": "standard explanation for these Jets is",
+    "start": 236.28,
+    "duration": 5.069
+  },
+  {
+    "text": "that material is being sublimated turned",
+    "start": 238.59,
+    "duration": 5.82
+  },
+  {
+    "text": "from solid ice to a gas beneath the",
+    "start": 241.349,
+    "duration": 5.851
+  },
+  {
+    "text": "surface it punches a hole in the surface",
+    "start": 244.41,
+    "duration": 5.609
+  },
+  {
+    "text": "and then emerges as a jet but these Jets",
+    "start": 247.2,
+    "duration": 4.2
+  },
+  {
+    "text": "should be misshapen",
+    "start": 250.019,
+    "duration": 3.06
+  },
+  {
+    "text": "instead of that we see highly collimated",
+    "start": 251.4,
+    "duration": 4.41
+  },
+  {
+    "text": "Jets ones that are obviously under the",
+    "start": 253.079,
+    "duration": 4.801
+  },
+  {
+    "text": "control of some external force to",
+    "start": 255.81,
+    "duration": 3.87
+  },
+  {
+    "text": "maintain their integrity over vast",
+    "start": 257.88,
+    "duration": 4.37
+  },
+  {
+    "text": "distances none of this fits any",
+    "start": 259.68,
+    "duration": 5.37
+  },
+  {
+    "text": "explanation involving just heat and an",
+    "start": 262.25,
+    "duration": 3.96
+  },
+  {
+    "text": "icy substance",
+    "start": 265.05,
+    "duration": 5.209
+  },
+  {
+    "text": "in the sunlight why is it assumed that",
+    "start": 266.21,
+    "duration": 6.299
+  },
+  {
+    "text": "the material that is sublimating from",
+    "start": 270.259,
+    "duration": 5.731
+  },
+  {
+    "text": "comets according to theory is water ice",
+    "start": 272.509,
+    "duration": 6.571
+  },
+  {
+    "text": "the answer is the hydroxyl radical it's",
+    "start": 275.99,
+    "duration": 5.13
+  },
+  {
+    "text": "an oxygen atom in a hydrogen atom are",
+    "start": 279.08,
+    "duration": 4.709
+  },
+  {
+    "text": "found in the comas of comets now the",
+    "start": 281.12,
+    "duration": 4.38
+  },
+  {
+    "text": "standard explanation for that is of",
+    "start": 283.789,
+    "duration": 3.511
+  },
+  {
+    "text": "course that the ultraviolet light from",
+    "start": 285.5,
+    "duration": 4.02
+  },
+  {
+    "text": "the Sun which is quite intense breaks up",
+    "start": 287.3,
+    "duration": 4.47
+  },
+  {
+    "text": "the water molecules into its constituent",
+    "start": 289.52,
+    "duration": 4.53
+  },
+  {
+    "text": "parts one of which is the hydroxyl",
+    "start": 291.77,
+    "duration": 5.25
+  },
+  {
+    "text": "radical the O H however ultraviolet",
+    "start": 294.05,
+    "duration": 5.339
+  },
+  {
+    "text": "light will split water up into positive",
+    "start": 297.02,
+    "duration": 4.649
+  },
+  {
+    "text": "ions it strips and electrons often",
+    "start": 299.389,
+    "duration": 4.351
+  },
+  {
+    "text": "leaves positively charged parts of the",
+    "start": 301.669,
+    "duration": 4.5
+  },
+  {
+    "text": "water molecule behind but some of the",
+    "start": 303.74,
+    "duration": 5.1
+  },
+  {
+    "text": "earliest observations of comet nuclei",
+    "start": 306.169,
+    "duration": 5.22
+  },
+  {
+    "text": "showed that very close to the comet",
+    "start": 308.84,
+    "duration": 4.47
+  },
+  {
+    "text": "nucleus and this was found at comet",
+    "start": 311.389,
+    "duration": 3.84
+  },
+  {
+    "text": "Halley there is an abundance about a",
+    "start": 313.31,
+    "duration": 3.99
+  },
+  {
+    "text": "hundred times anything that was expected",
+    "start": 315.229,
+    "duration": 4.741
+  },
+  {
+    "text": "of negative ions now negative ions are",
+    "start": 317.3,
+    "duration": 5.19
+  },
+  {
+    "text": "produced in an electric discharge from a",
+    "start": 319.97,
+    "duration": 4.8
+  },
+  {
+    "text": "cathode surface and this is what's been",
+    "start": 322.49,
+    "duration": 4.89
+  },
+  {
+    "text": "discovered cathode Jets also create",
+    "start": 324.77,
+    "duration": 5.519
+  },
+  {
+    "text": "highly collimated filaments all of these",
+    "start": 327.38,
+    "duration": 5.219
+  },
+  {
+    "text": "things fit the observations none of the",
+    "start": 330.289,
+    "duration": 5.761
+  },
+  {
+    "text": "standard theory fits the observations an",
+    "start": 332.599,
+    "duration": 5.281
+  },
+  {
+    "text": "opportunity to test the explicit",
+    "start": 336.05,
+    "duration": 4.26
+  },
+  {
+    "text": "predictions of the electric comet Theory",
+    "start": 337.88,
+    "duration": 5.279
+  },
+  {
+    "text": "came in 2005 with NASA's Deep Impact",
+    "start": 340.31,
+    "duration": 6.27
+  },
+  {
+    "text": "mission to comet Tempel 1 the test of a",
+    "start": 343.159,
+    "duration": 5.641
+  },
+  {
+    "text": "new hypothesis is successful prediction",
+    "start": 346.58,
+    "duration": 5.61
+  },
+  {
+    "text": "the more unexpected the better using the",
+    "start": 348.8,
+    "duration": 5.429
+  },
+  {
+    "text": "electrical model of cometary activity I",
+    "start": 352.19,
+    "duration": 4.62
+  },
+  {
+    "text": "predicted almost 4 years in advance that",
+    "start": 354.229,
+    "duration": 4.41
+  },
+  {
+    "text": "is when it was announced that the Deep",
+    "start": 356.81,
+    "duration": 3.87
+  },
+  {
+    "text": "Impact mission to comet Tempel 1 would",
+    "start": 358.639,
+    "duration": 4.56
+  },
+  {
+    "text": "produce two flashes a small flash before",
+    "start": 360.68,
+    "duration": 4.769
+  },
+  {
+    "text": "impact as the nucleus discharged to the",
+    "start": 363.199,
+    "duration": 4.111
+  },
+  {
+    "text": "projectile rather like the spark",
+    "start": 365.449,
+    "duration": 3.361
+  },
+  {
+    "text": "sometimes as you reach for a metal",
+    "start": 367.31,
+    "duration": 3.539
+  },
+  {
+    "text": "doorknob amongst other things I also",
+    "start": 368.81,
+    "duration": 4.05
+  },
+  {
+    "text": "predicted an unexpectedly energetic",
+    "start": 370.849,
+    "duration": 4.56
+  },
+  {
+    "text": "flash to follow the impact I wrote back",
+    "start": 372.86,
+    "duration": 5.1
+  },
+  {
+    "text": "then the energetic effects of the",
+    "start": 375.409,
+    "duration": 4.38
+  },
+  {
+    "text": "encounter should exceed that of a simple",
+    "start": 377.96,
+    "duration": 3.6
+  },
+  {
+    "text": "physical impact in the same way that was",
+    "start": 379.789,
+    "duration": 3.781
+  },
+  {
+    "text": "seen with Comet shoemaker-levy 9 at",
+    "start": 381.56,
+    "duration": 4.77
+  },
+  {
+    "text": "Jupiter after the event nasa expert",
+    "start": 383.57,
+    "duration": 4.68
+  },
+  {
+    "text": "Peter Schultz suggested that the initial",
+    "start": 386.33,
+    "duration": 4.41
+  },
+  {
+    "text": "flash indicates a layered structure for",
+    "start": 388.25,
+    "duration": 5.31
+  },
+  {
+    "text": "the comet and I quote my guess is there",
+    "start": 390.74,
+    "duration": 5.37
+  },
+  {
+    "text": "was soft layering on top the impact that",
+    "start": 393.56,
+    "duration": 4.169
+  },
+  {
+    "text": "went down and finally got in contact",
+    "start": 396.11,
+    "duration": 3.01
+  },
+  {
+    "text": "with Isis",
+    "start": 397.729,
+    "duration": 4.121
+  },
+  {
+    "text": "this ad-hoc hypothesis of unbelievably",
+    "start": 399.12,
+    "duration": 4.829
+  },
+  {
+    "text": "fragile outer layers is now treated as",
+    "start": 401.85,
+    "duration": 4.68
+  },
+  {
+    "text": "an observational fact a confirmation in",
+    "start": 403.949,
+    "duration": 4.351
+  },
+  {
+    "text": "the words of deep impact investigator",
+    "start": 406.53,
+    "duration": 4.5
+  },
+  {
+    "text": "Michael Ahern notably however the impact",
+    "start": 408.3,
+    "duration": 4.11
+  },
+  {
+    "text": "released very little water",
+    "start": 411.03,
+    "duration": 4.32
+  },
+  {
+    "text": "however when temple one was revisited by",
+    "start": 412.41,
+    "duration": 5.34
+  },
+  {
+    "text": "the Stardust spacecraft on February 15",
+    "start": 415.35,
+    "duration": 5.58
+  },
+  {
+    "text": "2011 the expected crater showed no sign",
+    "start": 417.75,
+    "duration": 5.19
+  },
+  {
+    "text": "of deep penetration the crater was",
+    "start": 420.93,
+    "duration": 4.23
+  },
+  {
+    "text": "almost indiscernible as if the impactor",
+    "start": 422.94,
+    "duration": 3.84
+  },
+  {
+    "text": "had hit solid rock or partially",
+    "start": 425.16,
+    "duration": 4.38
+  },
+  {
+    "text": "vaporized before impact once again the",
+    "start": 426.78,
+    "duration": 5.37
+  },
+  {
+    "text": "ad hoc explanations were weak by quote",
+    "start": 429.54,
+    "duration": 5.7
+  },
+  {
+    "text": "stuff went up and came back down and I",
+    "start": 432.15,
+    "duration": 5.489
+  },
+  {
+    "text": "quote again the crater partly healed",
+    "start": 435.24,
+    "duration": 5.31
+  },
+  {
+    "text": "itself presumably by some magical effect",
+    "start": 437.639,
+    "duration": 4.831
+  },
+  {
+    "text": "but a hard surface might have been",
+    "start": 440.55,
+    "duration": 3.72
+  },
+  {
+    "text": "anticipated both from the Comets",
+    "start": 442.47,
+    "duration": 3.63
+  },
+  {
+    "text": "appearance and much earlier evidence",
+    "start": 444.27,
+    "duration": 3.63
+  },
+  {
+    "text": "from radar returns from comet Encke II",
+    "start": 446.1,
+    "duration": 4.98
+  },
+  {
+    "text": "that implies a non-porous probably rock",
+    "start": 447.9,
+    "duration": 6.03
+  },
+  {
+    "text": "surface material this gets down to the",
+    "start": 451.08,
+    "duration": 5.43
+  },
+  {
+    "text": "fact that comets show a sculptured",
+    "start": 453.93,
+    "duration": 4.98
+  },
+  {
+    "text": "surface the puzzling erosion of an",
+    "start": 456.51,
+    "duration": 4.98
+  },
+  {
+    "text": "escarpment on comet Tempel 1 is simply",
+    "start": 458.91,
+    "duration": 4.47
+  },
+  {
+    "text": "explained by the tendency of a cathode",
+    "start": 461.49,
+    "duration": 4.14
+  },
+  {
+    "text": "spark machining to initiate on a sharp",
+    "start": 463.38,
+    "duration": 4.53
+  },
+  {
+    "text": "edge and electrically edge or sputter",
+    "start": 465.63,
+    "duration": 4.53
+  },
+  {
+    "text": "extremely fine material progressively",
+    "start": 467.91,
+    "duration": 4.89
+  },
+  {
+    "text": "back from the edge the extreme fineness",
+    "start": 470.16,
+    "duration": 4.439
+  },
+  {
+    "text": "of Comet dust was first remarked upon",
+    "start": 472.8,
+    "duration": 3.54
+  },
+  {
+    "text": "following the encounters with comet",
+    "start": 474.599,
+    "duration": 3.63
+  },
+  {
+    "text": "Halley because it wasn't expected of",
+    "start": 476.34,
+    "duration": 3.27
+  },
+  {
+    "text": "interstellar dust grains",
+    "start": 478.229,
+    "duration": 3.301
+  },
+  {
+    "text": "I suggest that the unexplained white",
+    "start": 479.61,
+    "duration": 3.75
+  },
+  {
+    "text": "spots which are observed to a favour",
+    "start": 481.53,
+    "duration": 4.949
+  },
+  {
+    "text": "such locations are active cathode arcs",
+    "start": 483.36,
+    "duration": 5.13
+  },
+  {
+    "text": "and there's prior evidence for this",
+    "start": 486.479,
+    "duration": 5.281
+  },
+  {
+    "text": "suggestion the prediction was made based",
+    "start": 488.49,
+    "duration": 4.83
+  },
+  {
+    "text": "on the electric universe that the",
+    "start": 491.76,
+    "duration": 4.25
+  },
+  {
+    "text": "outburst would be much more intense than",
+    "start": 493.32,
+    "duration": 5.099
+  },
+  {
+    "text": "would be expected from a purely",
+    "start": 496.01,
+    "duration": 5.71
+  },
+  {
+    "text": "mechanical impact and the discharge was",
+    "start": 498.419,
+    "duration": 6.18
+  },
+  {
+    "text": "so intense that the expected images that",
+    "start": 501.72,
+    "duration": 5.61
+  },
+  {
+    "text": "would be sent back of the comet crater",
+    "start": 504.599,
+    "duration": 4.621
+  },
+  {
+    "text": "just did an event rating these",
+    "start": 507.33,
+    "duration": 4.32
+  },
+  {
+    "text": "detectives were overloaded they just",
+    "start": 509.22,
+    "duration": 5.009
+  },
+  {
+    "text": "could not film the surface of the comet",
+    "start": 511.65,
+    "duration": 4.829
+  },
+  {
+    "text": "after the event the electrical model",
+    "start": 514.229,
+    "duration": 5.31
+  },
+  {
+    "text": "says that if you introduce an object",
+    "start": 516.479,
+    "duration": 4.351
+  },
+  {
+    "text": "which is at a completely different",
+    "start": 519.539,
+    "duration": 3.511
+  },
+  {
+    "text": "charged state to the comet itself then",
+    "start": 520.83,
+    "duration": 3.93
+  },
+  {
+    "text": "you will get an electrical outburst so",
+    "start": 523.05,
+    "duration": 3.42
+  },
+  {
+    "text": "there was a large amount of electrical",
+    "start": 524.76,
+    "duration": 4.98
+  },
+  {
+    "text": "energy involved also a few splatter",
+    "start": 526.47,
+    "duration": 5.85
+  },
+  {
+    "text": "highly conductive copper vaporized",
+    "start": 529.74,
+    "duration": 3.17
+  },
+  {
+    "text": "copper",
+    "start": 532.32,
+    "duration": 2.66
+  },
+  {
+    "text": "near a charged object than the other",
+    "start": 532.91,
+    "duration": 3.99
+  },
+  {
+    "text": "jets that happen to be on the surface of",
+    "start": 534.98,
+    "duration": 4.35
+  },
+  {
+    "text": "that object at the time will suddenly",
+    "start": 536.9,
+    "duration": 4.65
+  },
+  {
+    "text": "concentrate in the area of high",
+    "start": 539.33,
+    "duration": 5.1
+  },
+  {
+    "text": "conductivity so I also predicted that",
+    "start": 541.55,
+    "duration": 5.22
+  },
+  {
+    "text": "the Jets would move the ones that",
+    "start": 544.43,
+    "duration": 4.68
+  },
+  {
+    "text": "existed before and that was also borne",
+    "start": 546.77,
+    "duration": 5.88
+  },
+  {
+    "text": "out for continuous updates on space news",
+    "start": 549.11,
+    "duration": 6.36
+  },
+  {
+    "text": "from the electric universe stay tuned to",
+    "start": 552.65,
+    "duration": 6.68
+  },
+  {
+    "text": "Thunderbolts dot info",
+    "start": 555.47,
+    "duration": 3.86
+  }
+]

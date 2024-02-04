@@ -1,0 +1,587 @@
+[
+  {
+    "text": "You've just entered the\ntheater of an alien sky.",
+    "start": 12.653,
+    "duration": 3.429
+  },
+  {
+    "text": "If the words and images seem strange\nto you, there's a reason for this.",
+    "start": 16.107,
+    "duration": 5.161
+  },
+  {
+    "text": "Our world was once a\nvastly different place.",
+    "start": 21.293,
+    "duration": 4.35
+  },
+  {
+    "text": "To experience this won't hurt you,\nand there is nothing to fear.",
+    "start": 25.668,
+    "duration": 5.874
+  },
+  {
+    "text": "Archetype & Symbol\nIs a unified approach possible?",
+    "start": 37.64,
+    "duration": 5.04
+  },
+  {
+    "text": "In these Discourses, our goal has been to\nidentify the cross-cultural patterns of",
+    "start": 44.61,
+    "duration": 4.949
+  },
+  {
+    "text": "world mythology and religious\nsymbolism, the Archetypes.",
+    "start": 49.559,
+    "duration": 4.881
+  },
+  {
+    "text": "With these deepest patterns\nas a starting point, our goal",
+    "start": 54.44,
+    "duration": 3.46
+  },
+  {
+    "text": "has been to show how they arose under the\ninfluence of extraordinary natural events.",
+    "start": 57.9,
+    "duration": 6.55
+  },
+  {
+    "text": "Extraordinary events in the\nancient sky, events not occurring today",
+    "start": 64.45,
+    "duration": 5.75
+  },
+  {
+    "text": "can only mean that a\nfundamental assumption",
+    "start": 70.2,
+    "duration": 3.579
+  },
+  {
+    "text": "guiding the theoretical\nsciences is mistaken.",
+    "start": 73.804,
+    "duration": 3.716
+  },
+  {
+    "text": "You can call this\n'the uniformity principle.'",
+    "start": 77.52,
+    "duration": 2.94
+  },
+  {
+    "text": "Simply put, it declares that\nthe present is the key to",
+    "start": 80.46,
+    "duration": 4.07
+  },
+  {
+    "text": "the past, as today so before.",
+    "start": 84.57,
+    "duration": 2.889
+  },
+  {
+    "text": "So astronomers typically draw on computer\nsimulations to represent the dynamic",
+    "start": 87.46,
+    "duration": 6.71
+  },
+  {
+    "text": "motions of planets and\nmoons in ancient times.",
+    "start": 94.17,
+    "duration": 4.29
+  },
+  {
+    "text": "All they need to do is run\ntheir simulations in reverse.",
+    "start": 98.46,
+    "duration": 5.08
+  },
+  {
+    "text": "Of course, if the underlined\nconditions in the solar",
+    "start": 103.54,
+    "duration": 2.94
+  },
+  {
+    "text": "system have changed, then it should go\nwithout saying that the present could",
+    "start": 106.5,
+    "duration": 4.86
+  },
+  {
+    "text": "not be the key to the past, in which case\ncomputer simulations of ancient",
+    "start": 111.36,
+    "duration": 5.31
+  },
+  {
+    "text": "conditions are simply\ninstruments of self-deception.",
+    "start": 116.67,
+    "duration": 4.87
+  },
+  {
+    "text": "Based on systematic research\nover more than 40 years, we've",
+    "start": 121.559,
+    "duration": 5.011
+  },
+  {
+    "text": "challenged every idea derived\nfrom modern assumptions.",
+    "start": 126.57,
+    "duration": 3.99
+  },
+  {
+    "text": "It was explicit ancient evidence\nthat led us to describe",
+    "start": 130.569,
+    "duration": 4.581
+  },
+  {
+    "text": "a gathering of planets close\nto Earth in ancient times.",
+    "start": 135.15,
+    "duration": 4.36
+  },
+  {
+    "text": "Our line of reasoning began\nwith a prehistoric mother goddess,",
+    "start": 139.539,
+    "duration": 6.581
+  },
+  {
+    "text": "then led us upward to the first mythical\nimages inspired by a planetary gathering",
+    "start": 146.12,
+    "duration": 6.459
+  },
+  {
+    "text": "we've called the \npolar configuration.",
+    "start": 152.579,
+    "duration": 2.911
+  },
+  {
+    "text": "From that starting point, we could follow\nthe configuration's dynamic evolution",
+    "start": 155.53,
+    "duration": 4.91
+  },
+  {
+    "text": "over time, observing its direct impact\non commemorative practices and ancient",
+    "start": 160.44,
+    "duration": 5.95
+  },
+  {
+    "text": "storytelling on every\nhabitable continent.",
+    "start": 166.39,
+    "duration": 4.139
+  },
+  {
+    "text": "By immersing ourselves in the\nancient evidence, we exposed the",
+    "start": 170.53,
+    "duration": 4.709
+  },
+  {
+    "text": "substructure of myth-making globally,\nwhen unstable planets extremely close to",
+    "start": 175.239,
+    "duration": 5.7
+  },
+  {
+    "text": "Earth were seen as divine\nrulers of the sky.",
+    "start": 180.939,
+    "duration": 3.59
+  },
+  {
+    "text": "The ancient sky worshipers are in\nfact the most compelling witnesses to",
+    "start": 184.529,
+    "duration": 5.561
+  },
+  {
+    "text": "events that inspired every mythic\narchetype we've now documented,",
+    "start": 190.09,
+    "duration": 5.36
+  },
+  {
+    "text": "a unified and testable \nreconstruction.",
+    "start": 195.45,
+    "duration": 4.079
+  },
+  {
+    "text": "From this radical vantage point, we've\nasked entirely new questions.",
+    "start": 199.53,
+    "duration": 4.95
+  },
+  {
+    "text": "Why did every culture on\nEarth celebrate the towering",
+    "start": 204.48,
+    "duration": 2.95
+  },
+  {
+    "text": "god at the center and\nsummit of the sky, a power",
+    "start": 207.43,
+    "duration": 4.699
+  },
+  {
+    "text": "said to have presided\nover a lost Golden Age?",
+    "start": 212.154,
+    "duration": 4.386
+  },
+  {
+    "text": "What are the first creation\nstories telling us?",
+    "start": 216.54,
+    "duration": 5.97
+  },
+  {
+    "text": "What's meant by the repeated\ninsistence that the",
+    "start": 222.51,
+    "duration": 3.539
+  },
+  {
+    "text": "creator himself brought forth a shining\nhome of the gods in primeval times?",
+    "start": 226.06,
+    "duration": 5.539
+  },
+  {
+    "text": "Or the seemingly ludicrous location of\nthat dwelling at the celestial Pole?",
+    "start": 231.599,
+    "duration": 5.88
+  },
+  {
+    "text": "Or the god's subsequent fall\nfrom his primordial position?",
+    "start": 237.479,
+    "duration": 5.021
+  },
+  {
+    "text": "In these stories we also meet a\nlarger caste of ancestral gods and",
+    "start": 242.529,
+    "duration": 5.67
+  },
+  {
+    "text": "goddesses, a divine mother, a central star\nof light and life magically radiating",
+    "start": 248.199,
+    "duration": 7.141
+  },
+  {
+    "text": "her divine essence to the theater of the\ngods, or the subsequent attack of a chaos",
+    "start": 255.34,
+    "duration": 6.48
+  },
+  {
+    "text": "monster or Medusa figure seeking to\ndestroy the created world, or the",
+    "start": 261.82,
+    "duration": 6.27
+  },
+  {
+    "text": "paradoxical identity of this very\nmonster as the terrible aspect",
+    "start": 268.09,
+    "duration": 5.34
+  },
+  {
+    "text": "of the original love goddess, or a\nwarrior hero magically born to rescue",
+    "start": 273.43,
+    "duration": 6.18
+  },
+  {
+    "text": "the world from unpredictable chaos\npowers, or a cosmic mountain rising from",
+    "start": 279.61,
+    "duration": 6.18
+  },
+  {
+    "text": "the abyss to support the divine\nhabitation above, or the Great Wheel",
+    "start": 285.79,
+    "duration": 6.81
+  },
+  {
+    "text": "turning in the sky, the most revered\nsymbol of the sovereign god, the goddess",
+    "start": 292.6,
+    "duration": 5.67
+  },
+  {
+    "text": "and the Warrior in their\nprimeval conjunction.",
+    "start": 298.27,
+    "duration": 3.25
+  },
+  {
+    "text": "Though the stories have come\ndown to us in diverse forms, the",
+    "start": 301.52,
+    "duration": 5.15
+  },
+  {
+    "text": "transformative realization is the\ndiscovery that different words and",
+    "start": 306.67,
+    "duration": 4.62
+  },
+  {
+    "text": "different mythic interpretations point to\nthe same archetypal substructure of",
+    "start": 311.29,
+    "duration": 5.19
+  },
+  {
+    "text": "world mythology and symbolism.",
+    "start": 316.48,
+    "duration": 3.04
+  },
+  {
+    "text": "In the end, we've learned,\nit's this underlying unity",
+    "start": 319.52,
+    "duration": 3.2
+  },
+  {
+    "text": "that opens the door to a mind-altering\nshift in perception, the realization that",
+    "start": 322.72,
+    "duration": 5.25
+  },
+  {
+    "text": "our cosmic environment\nhas radically changed.",
+    "start": 327.97,
+    "duration": 3.46
+  },
+  {
+    "text": "What has come down to us as\nelusive fragments can then be seen as",
+    "start": 331.43,
+    "duration": 4.94
+  },
+  {
+    "text": "echoes of an alien sky, still\nhaunting us from the past.",
+    "start": 336.37,
+    "duration": 5.17
+  },
+  {
+    "text": "The surprising truth today\nis that a massive library of known",
+    "start": 341.54,
+    "duration": 3.86
+  },
+  {
+    "text": "archetypes can now be named, though not a\nsingle archetype has ever been explained",
+    "start": 345.4,
+    "duration": 6.12
+  },
+  {
+    "text": "in conventional terms,\nnot a single one.",
+    "start": 351.52,
+    "duration": 3.96
+  },
+  {
+    "text": "Yes, we've all seen various claims to\nhave explained one archetype or another,",
+    "start": 355.48,
+    "duration": 4.8
+  },
+  {
+    "text": "but then, when we investigate, we discover\nthat no proposed explanation has",
+    "start": 360.28,
+    "duration": 4.92
+  },
+  {
+    "text": "actually met the acid test.",
+    "start": 365.2,
+    "duration": 2.38
+  },
+  {
+    "text": "No one has identified a natural\ncondition under which the archetype",
+    "start": 367.63,
+    "duration": 4.65
+  },
+  {
+    "text": "would be explicitly expected.",
+    "start": 372.28,
+    "duration": 3.19
+  },
+  {
+    "text": "In contrast to this state of\nthings, we've named many",
+    "start": 375.47,
+    "duration": 3.47
+  },
+  {
+    "text": "dozens of widely distributed archetypes,\nall inseparately connected to each",
+    "start": 378.97,
+    "duration": 5.22
+  },
+  {
+    "text": "other and all suggesting a concrete but\nextraordinary cause in natural",
+    "start": 384.19,
+    "duration": 5.64
+  },
+  {
+    "text": "experience, which means that the events\nfrom which the ancient myths arose",
+    "start": 389.83,
+    "duration": 5.309
+  },
+  {
+    "text": "are not occurring today.",
+    "start": 395.139,
+    "duration": 2.341
+  },
+  {
+    "text": "In this new paradigm, no\narchetype lies outside a",
+    "start": 397.489,
+    "duration": 3.29
+  },
+  {
+    "text": "plausible explanation and every\narchetype leads to a larger, inseparably",
+    "start": 400.78,
+    "duration": 5.52
+  },
+  {
+    "text": "connected, complex of themes.",
+    "start": 406.3,
+    "duration": 2.18
+  },
+  {
+    "text": "The universal myth of an original\nparadise or golden age leads invariably",
+    "start": 408.52,
+    "duration": 5.76
+  },
+  {
+    "text": "to memories of a founding \nKing, the first",
+    "start": 414.28,
+    "duration": 3.02
+  },
+  {
+    "text": "in the line of Kings presiding over the\ngolden age, but then we meet the",
+    "start": 417.31,
+    "duration": 5.43
+  },
+  {
+    "text": "outrageous identity of that luminary as\nan ancient Sun god seen in the sky",
+    "start": 422.74,
+    "duration": 4.889
+  },
+  {
+    "text": "before the present Sun and then, even\nmore outrageous is the explicit identity",
+    "start": 427.629,
+    "duration": 6.361
+  },
+  {
+    "text": "of that primeval sun as the\nnow remote planet Saturn.",
+    "start": 433.99,
+    "duration": 5.51
+  },
+  {
+    "text": "And still more outrageous\nis the location of the improbable power",
+    "start": 439.55,
+    "duration": 4.579
+  },
+  {
+    "text": "at the celestial Pole, a location never\nvisited by any planet in our sky today.",
+    "start": 444.129,
+    "duration": 6.741
+  },
+  {
+    "text": "Hence the logical question, how could a\nconcrete, highly coherent, set of ideas",
+    "start": 450.87,
+    "duration": 7.03
+  },
+  {
+    "text": "arise to find direct and obvious\nobservation at every turn?",
+    "start": 457.9,
+    "duration": 5.61
+  },
+  {
+    "text": "Of course, the reasonable\nanswer is that the coherence",
+    "start": 463.51,
+    "duration": 2.96
+  },
+  {
+    "text": "is due to a human experience as yet\nunrecognized, not imagination, conjuring",
+    "start": 466.479,
+    "duration": 6.511
+  },
+  {
+    "text": "worlds never experienced.",
+    "start": 472.99,
+    "duration": 1.93
+  },
+  {
+    "text": "In all of this, we see that it's the\ntraditions closest to the original human",
+    "start": 481.69,
+    "duration": 5.1
+  },
+  {
+    "text": "experience that leads us to the\nmost extraordinary story elements.",
+    "start": 486.79,
+    "duration": 5.72
+  },
+  {
+    "text": "Here we confront the\ndescent of the world into",
+    "start": 492.51,
+    "duration": 3.792
+  },
+  {
+    "text": "chaos and darkness,\nthe attack of a fiery",
+    "start": 496.327,
+    "duration": 3.363
+  },
+  {
+    "text": "serpent or dragon, the heaven-altering\nwars of the gods, and most significantly,",
+    "start": 499.69,
+    "duration": 6.78
+  },
+  {
+    "text": "the Earth-shaking power of the cosmic\nthunderbolt--weapon simply out of this",
+    "start": 506.47,
+    "duration": 6.09
+  },
+  {
+    "text": "world with no similarity to lightning in\ntoday's sky but perfectly matching the",
+    "start": 512.56,
+    "duration": 6.06
+  },
+  {
+    "text": "complex morphology of\nhigh-energy electric",
+    "start": 518.62,
+    "duration": 3.745
+  },
+  {
+    "text": "discharge in the\nplasma laboratory.",
+    "start": 522.39,
+    "duration": 3.11
+  },
+  {
+    "text": "Suddenly, a revolutionary\nscientific interpretation enters the",
+    "start": 525.5,
+    "duration": 4.7
+  },
+  {
+    "text": "picture, shifting the attention to new\nfields of evidence--all confirming the",
+    "start": 530.2,
+    "duration": 5.34
+  },
+  {
+    "text": "same underlying story, \nand of course the",
+    "start": 535.54,
+    "duration": 3.23
+  },
+  {
+    "text": "end of the story is just as \nextraordinary as the rest, the renewal of",
+    "start": 538.78,
+    "duration": 4.62
+  },
+  {
+    "text": "celestial order within a\nradically transformed world.",
+    "start": 543.4,
+    "duration": 5.11
+  },
+  {
+    "text": "But just consider the\nbig picture implications.",
+    "start": 548.51,
+    "duration": 2.99
+  },
+  {
+    "text": "From beginning to end, the\nancient narrative affirms",
+    "start": 551.5,
+    "duration": 4.0
+  },
+  {
+    "text": "that today's sky bears no connection\nto the primeval sky under which the",
+    "start": 555.5,
+    "duration": 5.06
+  },
+  {
+    "text": "myth-making phase of \nhuman history arose.",
+    "start": 560.56,
+    "duration": 3.88
+  },
+  {
+    "text": "And what distinguishes that environment,\nabove all else, is the pervasive impact",
+    "start": 564.44,
+    "duration": 5.18
+  },
+  {
+    "text": "of an extraordinary planetary system,\nhighly electrified, as we shall next",
+    "start": 569.62,
+    "duration": 6.21
+  },
+  {
+    "text": "demonstrate, and provoking all of\nhumanity to entirely new forms of",
+    "start": 575.83,
+    "duration": 4.98
+  },
+  {
+    "text": "cultural expression.",
+    "start": 580.81,
+    "duration": 2.41
+  }
+]

@@ -1,0 +1,4637 @@
+[
+  {
+    "text": "Wow! Does a year\npass by quickly.",
+    "start": 17.302,
+    "duration": 3.68
+  },
+  {
+    "text": "Last time I stood up here\nwe were showing you pre-models,",
+    "start": 22.752,
+    "duration": 7.81
+  },
+  {
+    "text": "computer-aided design models of SAFIRE,\nwhere we thought we were going to go.",
+    "start": 30.587,
+    "duration": 5.04
+  },
+  {
+    "text": "And tonight, we're going to show you\nwhere we've come and how we got there.",
+    "start": 35.652,
+    "duration": 7.094
+  },
+  {
+    "text": "So, I'm not sure how fast I'll\ngo through the presentation;",
+    "start": 42.771,
+    "duration": 5.474
+  },
+  {
+    "text": "I think I have what 600 slides.",
+    "start": 48.27,
+    "duration": 3.467
+  },
+  {
+    "text": "No, not that many, but there's lots of\ncolorful ones. We're going to get into some",
+    "start": 52.158,
+    "duration": 7.984
+  },
+  {
+    "text": "of the hard core engineering that goes\ninto designing a machine of this nature",
+    "start": 60.277,
+    "duration": 5.368
+  },
+  {
+    "text": "and some of the questions that the team had\nto address for us to get where we are.",
+    "start": 65.67,
+    "duration": 6.931
+  },
+  {
+    "text": "So SAFIRE: Stellar Atmospheric\nFunction in Regulation Experiment.",
+    "start": 73.339,
+    "duration": 5.895
+  },
+  {
+    "text": "It's a test of the Electric\nSun Model and this model,",
+    "start": 79.636,
+    "duration": 6.313
+  },
+  {
+    "text": "we see here are we going...",
+    "start": 87.694,
+    "duration": 2.794
+  },
+  {
+    "text": "OK, this is the overview...",
+    "start": 92.115,
+    "duration": 4.284
+  },
+  {
+    "text": "Here we go.",
+    "start": 97.724,
+    "duration": 1.23
+  },
+  {
+    "text": "The Electric Sun Model.",
+    "start": 99.902,
+    "duration": 2.978
+  },
+  {
+    "text": "I was asked back in 2011",
+    "start": 103.213,
+    "duration": 2.241
+  },
+  {
+    "text": "[I'm just going to give you a really quick\noverview for some of you that are new]",
+    "start": 105.479,
+    "duration": 4.914
+  },
+  {
+    "text": "by the EU and by individuals\nto examine this model.",
+    "start": 111.425,
+    "duration": 4.556
+  },
+  {
+    "text": "And what I did is I compared it\nto the contemporary model",
+    "start": 116.608,
+    "duration": 5.325
+  },
+  {
+    "text": "and I discovered that there is a lot of\ndisparities with the contemporary model",
+    "start": 121.958,
+    "duration": 4.221
+  },
+  {
+    "text": "and came to the conclusion that, at least\nat this time here, it's not testable.",
+    "start": 126.204,
+    "duration": 4.793
+  },
+  {
+    "text": "But during this, I used a statistical\nevaluation tool called Design of Experiments,",
+    "start": 131.338,
+    "duration": 8.336
+  },
+  {
+    "text": "which you can apply to filter through\nhypotheses or different models",
+    "start": 139.699,
+    "duration": 4.785
+  },
+  {
+    "text": "to determine whether they\ncan be tested or not.",
+    "start": 144.509,
+    "duration": 3.773
+  },
+  {
+    "text": "So that's really the first couple of\nyears, and I came to the conclusion",
+    "start": 149.616,
+    "duration": 3.713
+  },
+  {
+    "text": "that I think that the Electric Universe\nModel is based on the principle",
+    "start": 153.33,
+    "duration": 4.293
+  },
+  {
+    "text": "of charged plasma affecting matter\nof a different electrical potential.",
+    "start": 157.648,
+    "duration": 3.843
+  },
+  {
+    "text": "And I came to that conclusion finally after\nScott Mainwaring had given me a book,",
+    "start": 161.516,
+    "duration": 6.808
+  },
+  {
+    "text": "written by Crookes, where he had a\ncathode at one end of a small jar",
+    "start": 168.943,
+    "duration": 4.882
+  },
+  {
+    "text": "and an anode at the other end\nand had rubies in the center.",
+    "start": 173.85,
+    "duration": 3.211
+  },
+  {
+    "text": "And when he lit it up, the\nruby started to fluoresce",
+    "start": 177.086,
+    "duration": 4.367
+  },
+  {
+    "text": "and radiate, is what he called it,\nwhat we call plasma discharge.",
+    "start": 181.478,
+    "duration": 3.48
+  },
+  {
+    "text": "But the rubies themselves were not part of\nthe circuit they were just in the plasma",
+    "start": 184.983,
+    "duration": 4.251
+  },
+  {
+    "text": "and what it indicates is that there's\ncertain elements that we know now",
+    "start": 189.259,
+    "duration": 3.855
+  },
+  {
+    "text": "do not want to climb or fall to the\nelectric potential of its environment,",
+    "start": 193.139,
+    "duration": 3.652
+  },
+  {
+    "text": "when that happens that's when you\nend up with a plasma discharge.",
+    "start": 196.816,
+    "duration": 3.308
+  },
+  {
+    "text": "And it was based on that that I came to\nconclusion that we may be able to test this.",
+    "start": 200.149,
+    "duration": 5.226
+  },
+  {
+    "text": "So Phase 1 was a proof of concept,\nand it was really just to see",
+    "start": 206.789,
+    "duration": 4.673
+  },
+  {
+    "text": "if we could shake it out\nand see if it worked.",
+    "start": 211.494,
+    "duration": 1.723
+  },
+  {
+    "text": "Can we go in and recreate\nthese things and can we",
+    "start": 213.242,
+    "duration": 2.626
+  },
+  {
+    "text": "introduce some instrumentation\nto do some measurements?",
+    "start": 215.893,
+    "duration": 3.07
+  },
+  {
+    "text": "Because the data and instrumentation\nto measure what's going on in plasmas is",
+    "start": 218.988,
+    "duration": 6.609
+  },
+  {
+    "text": "extremely weak. There's not much information\nabout it, and we're going to get into that.",
+    "start": 226.097,
+    "duration": 4.671
+  },
+  {
+    "text": "And we did test it.",
+    "start": 230.793,
+    "duration": 2.031
+  },
+  {
+    "text": "And we discovered\nthat it would work.",
+    "start": 233.911,
+    "duration": 2.022
+  },
+  {
+    "text": "(video Clip Narrator) * We\nadjust pressure, voltage,",
+    "start": 235.958,
+    "duration": 2.116
+  },
+  {
+    "text": "but I'm gonna introduce some more helium\nright now first, just a little bit more,",
+    "start": 238.099,
+    "duration": 2.641
+  },
+  {
+    "text": "* current, and time.",
+    "start": 240.765,
+    "duration": 1.749
+  },
+  {
+    "text": "* Time is also a key element.",
+    "start": 242.539,
+    "duration": 2.053
+  },
+  {
+    "text": "* When the proper combination\nof these factors is arrived at,",
+    "start": 244.617,
+    "duration": 3.555
+  },
+  {
+    "text": "the plasma\nspontaneously ignites.",
+    "start": 248.197,
+    "duration": 2.443
+  },
+  {
+    "text": "* A glow discharge\nforms in the chamber",
+    "start": 256.291,
+    "duration": 2.99
+  },
+  {
+    "text": "Look, look! Look at the emissions\ncoming off. Look how bright it becomes.",
+    "start": 262.305,
+    "duration": 3.826
+  },
+  {
+    "text": "* We adjust the various parameters to\nobtain a variety of plasma regimes.",
+    "start": 266.156,
+    "duration": 4.914
+  },
+  {
+    "text": "Look, Look, Look, Look,\nLook, Look, Look",
+    "start": 272.051,
+    "duration": 2.822
+  },
+  {
+    "text": "* What we are observing\nhas no clear precedent.",
+    "start": 275.242,
+    "duration": 2.754
+  },
+  {
+    "text": "* We are seeing things\nwe did not expect.",
+    "start": 278.021,
+    "duration": 2.812
+  },
+  {
+    "text": "Look at the pressure changes!",
+    "start": 280.858,
+    "duration": 1.75
+  },
+  {
+    "text": "Nice, nice. Look at the spin!",
+    "start": 283.767,
+    "duration": 2.933
+  },
+  {
+    "text": "And that was just the initial...",
+    "start": 291.038,
+    "duration": 2.618
+  },
+  {
+    "text": "Afterwards, we were able to control\nthe plasma, and these are some of the",
+    "start": 294.046,
+    "duration": 5.099
+  },
+  {
+    "text": "plasma phenomena that we observed,\nand we were starting to measure.",
+    "start": 299.17,
+    "duration": 4.826
+  },
+  {
+    "text": "And these double layers, we\nended up finding that we had 2, 3, 4, 20...",
+    "start": 305.275,
+    "duration": 9.639
+  },
+  {
+    "text": "These aren't disks.",
+    "start": 315.224,
+    "duration": 2.525
+  },
+  {
+    "text": "These are spherical discharges.",
+    "start": 317.774,
+    "duration": 3.222
+  },
+  {
+    "text": "Plasma has a unique characteristic where it is\ntranslucent as you look through the center of it.",
+    "start": 321.021,
+    "duration": 4.122
+  },
+  {
+    "text": "And it looks like it's a\ndisk, but in fact it's not.",
+    "start": 325.168,
+    "duration": 2.386
+  },
+  {
+    "text": "What you're looking at\nactually are spheres.",
+    "start": 327.579,
+    "duration": 2.418
+  },
+  {
+    "text": "And then we end up looking at things\nthat had certain types of perturbations,",
+    "start": 330.022,
+    "duration": 4.178
+  },
+  {
+    "text": "but what we thought and looked at the\ngeometry here was quite remarkable",
+    "start": 334.225,
+    "duration": 3.926
+  },
+  {
+    "text": "with the hexagonal-type formation,\nand this is all moving.",
+    "start": 338.176,
+    "duration": 4.998
+  },
+  {
+    "text": "This is not static.",
+    "start": 343.199,
+    "duration": 1.844
+  },
+  {
+    "text": "Further to this, as\nsome of you know,",
+    "start": 346.479,
+    "duration": 3.235
+  },
+  {
+    "text": "we saw a dark or an extremely intense\nion cloud build up around the core,",
+    "start": 349.739,
+    "duration": 7.261
+  },
+  {
+    "text": "this is very common for what\nwe see happening in SAFIRE.",
+    "start": 357.025,
+    "duration": 3.204
+  },
+  {
+    "text": "And when it did, it would\nblow off into the chamber.",
+    "start": 360.254,
+    "duration": 5.238
+  },
+  {
+    "text": "And when that happened, it would often release\npower surges of over 10 million watts.",
+    "start": 365.517,
+    "duration": 7.812
+  },
+  {
+    "text": "Now what we did is we limited the power to\n1800 watts, and we don't understand this,",
+    "start": 373.354,
+    "duration": 4.437
+  },
+  {
+    "text": "but these are the things that we are going\nto now investigate in Phase 2, and...",
+    "start": 377.816,
+    "duration": 4.403
+  },
+  {
+    "text": "this is what you're going to\nbe introduced to tonight.",
+    "start": 382.577,
+    "duration": 4.79
+  },
+  {
+    "text": "This is kind of a panoramic\nshot of the lab.",
+    "start": 388.208,
+    "duration": 4.921
+  },
+  {
+    "text": "What you're looking at in the center\nthere is the chamber, which can, uh,",
+    "start": 393.154,
+    "duration": 4.537
+  },
+  {
+    "text": "it's about 3 cubic meters.",
+    "start": 397.716,
+    "duration": 1.768
+  },
+  {
+    "text": "It's about 7 feet long, and\nit's about 4 feet in diameter.",
+    "start": 399.509,
+    "duration": 4.925
+  },
+  {
+    "text": "And we're going to go and explore the\nengineering that went behind this.",
+    "start": 404.459,
+    "duration": 4.791
+  },
+  {
+    "text": "But what's behind this?\nThis is SAFCON.",
+    "start": 409.275,
+    "duration": 2.721
+  },
+  {
+    "text": "Everybody in the team, we\nhave to come up with a name,",
+    "start": 412.021,
+    "duration": 2.657
+  },
+  {
+    "text": "let's call it the control\nroom, and nobody liked that.",
+    "start": 414.703,
+    "duration": 2.666
+  },
+  {
+    "text": "So we said okay, well let's really...\nthey came up with the name SAFCON.",
+    "start": 417.394,
+    "duration": 4.267
+  },
+  {
+    "text": "So, this is SAFCON.",
+    "start": 421.686,
+    "duration": 1.434
+  },
+  {
+    "text": "And this is kind of a again a panoramic view\nhere; it's not complete in this picture of",
+    "start": 423.145,
+    "duration": 6.426
+  },
+  {
+    "text": "where the main control for gas, vacuum,\ndata acquisition, and in real time",
+    "start": 429.603,
+    "duration": 5.582
+  },
+  {
+    "text": "we get to monitor what's going on\nwith all the systems in the chamber.",
+    "start": 435.312,
+    "duration": 4.602
+  },
+  {
+    "text": "Now there are two things that we're\ngoing to talk about tonight.",
+    "start": 439.939,
+    "duration": 3.315
+  },
+  {
+    "text": "One of them is systems, which is the\nchamber itself to maintain its stability",
+    "start": 443.279,
+    "duration": 5.121
+  },
+  {
+    "text": "so that it's a stable\nexperimental environment.",
+    "start": 448.425,
+    "duration": 3.406
+  },
+  {
+    "text": "And the other is the data that we get back\nfrom the instruments like the Langmuir probe,",
+    "start": 451.856,
+    "duration": 4.76
+  },
+  {
+    "text": "optical spectroscopy, mass\nspectroscopy, and other things.",
+    "start": 456.641,
+    "duration": 3.665
+  },
+  {
+    "text": "So, you're not\nlooking at the Sun.",
+    "start": 461.697,
+    "duration": 3.946
+  },
+  {
+    "text": "This is the result of the first\ndischarge from SAFIRE PHASE 2.",
+    "start": 466.405,
+    "duration": 5.087
+  },
+  {
+    "text": "And this is what happened.",
+    "start": 471.937,
+    "duration": 1.774
+  },
+  {
+    "text": "And so, we believe now\nthat it is scalable.",
+    "start": 473.736,
+    "duration": 5.108
+  },
+  {
+    "text": "Well, we know it's scalable.",
+    "start": 478.869,
+    "duration": 2.475
+  },
+  {
+    "text": "So the SAFIRE environment: we know that\nthe plasma itself is extremely intense.",
+    "start": 483.389,
+    "duration": 5.37
+  },
+  {
+    "text": "We know that it's extremely hot.",
+    "start": 488.759,
+    "duration": 2.708
+  },
+  {
+    "text": "And one of the things that\nhappen in a plasma discharge,",
+    "start": 491.492,
+    "duration": 3.117
+  },
+  {
+    "text": "one of the characteristics of a plasma\nis what we call radiation emissions.",
+    "start": 494.61,
+    "duration": 3.837
+  },
+  {
+    "text": "And radiation emissions is the thing\nthat you feel when you walk outside,",
+    "start": 498.472,
+    "duration": 4.594
+  },
+  {
+    "text": "and you feel the hot Phoenix sun\nafter if you've been in the shade.",
+    "start": 503.091,
+    "duration": 3.772
+  },
+  {
+    "text": "And those emissions in SAFIRE, they\ntravel at the speed of light,",
+    "start": 506.888,
+    "duration": 3.927
+  },
+  {
+    "text": "and they impinge on the\nsurface of the chamber.",
+    "start": 510.84,
+    "duration": 2.618
+  },
+  {
+    "text": "Now, I didn't think that this would be\na big deal when we first started out",
+    "start": 513.483,
+    "duration": 3.728
+  },
+  {
+    "text": "because it's such a big chamber; it weighs\nalmost 2,000 pounds; it's stainless steel;",
+    "start": 517.236,
+    "duration": 4.257
+  },
+  {
+    "text": "and I found out that was\nactually was not the case.",
+    "start": 521.518,
+    "duration": 4.603
+  },
+  {
+    "text": "This is just a small graph to show you\nthe different types of radiation.",
+    "start": 526.494,
+    "duration": 3.644
+  },
+  {
+    "text": "The complete spectrum, you go right\nfrom what they call non-thermal,",
+    "start": 530.163,
+    "duration": 5.304
+  },
+  {
+    "text": "thermal, optical, broken bands, gamma\nrays, x-rays, and ultraviolet.",
+    "start": 535.492,
+    "duration": 4.256
+  },
+  {
+    "text": "The stuff that we feel predominately\nare within the kind of the infrared",
+    "start": 539.773,
+    "duration": 3.641
+  },
+  {
+    "text": "to ultraviolet range when\nwe walk out in the Sun.",
+    "start": 543.439,
+    "duration": 2.99
+  },
+  {
+    "text": "But SAFIRE'S going to experience many of\nthese because it's an ionizing plasma.",
+    "start": 546.454,
+    "duration": 5.068
+  },
+  {
+    "text": "And this is what happens\nto the chamber.",
+    "start": 552.18,
+    "duration": 2.254
+  },
+  {
+    "text": "So when this radiation hits the surface of\nthe chamber, some of it is reflected back.",
+    "start": 554.459,
+    "duration": 5.434
+  },
+  {
+    "text": "But in our case, because we\nhave a certain type of finish,",
+    "start": 559.918,
+    "duration": 3.554
+  },
+  {
+    "text": "a lot of this energy is\nabsorbed into that material,",
+    "start": 563.497,
+    "duration": 4.265
+  },
+  {
+    "text": "and there's transmitted radiation\nthat comes off the outside.",
+    "start": 567.787,
+    "duration": 4.336
+  },
+  {
+    "text": "So, if you think about your engine,\nit's got gas burning on the inside,",
+    "start": 573.662,
+    "duration": 4.015
+  },
+  {
+    "text": "and you feel the heat migrating through\nthe engine; it gets extremely hot.",
+    "start": 577.702,
+    "duration": 3.69
+  },
+  {
+    "text": "And so you have this thermal conductance\nwithin the material itself.",
+    "start": 581.417,
+    "duration": 5.915
+  },
+  {
+    "text": "So in engineering: we had to take a look\nat what we call potential failure modes--",
+    "start": 588.307,
+    "duration": 5.998
+  },
+  {
+    "text": "the melting of o-rings (is it going to get\ntoo hot?), thermal stresses on viewports,",
+    "start": 594.33,
+    "duration": 5.659
+  },
+  {
+    "text": "thermal expansion of materials causing\nstress, thermal effect on cameras,",
+    "start": 600.014,
+    "duration": 4.439
+  },
+  {
+    "text": "electrical discharge, erosion of\nmaterials, deposition of materials.",
+    "start": 604.478,
+    "duration": 4.469
+  },
+  {
+    "text": "When you have a plasma, an ionizing\nplasma, we watch things get vaporized.",
+    "start": 608.972,
+    "duration": 6.544
+  },
+  {
+    "text": "And when we say vaporized, these\nare like happening in seconds.",
+    "start": 615.541,
+    "duration": 4.409
+  },
+  {
+    "text": "So, you can have something that's metal,\nand it's no longer there.",
+    "start": 619.95,
+    "duration": 5.688
+  },
+  {
+    "text": "So you've got to be careful about\nhow much energy is in this chamber,",
+    "start": 625.663,
+    "duration": 4.692
+  },
+  {
+    "text": "and you've got to have, you\nknow, good control over it.",
+    "start": 630.38,
+    "duration": 3.711
+  },
+  {
+    "text": "So potential failure modes: what\ntemperatures are we dealing with;",
+    "start": 635.157,
+    "duration": 3.482
+  },
+  {
+    "text": "how long will it take to\nreach these temperatures;",
+    "start": 638.639,
+    "duration": 2.563
+  },
+  {
+    "text": "how do we limit thermal\nheating in the chamber;",
+    "start": 641.227,
+    "duration": 2.958
+  },
+  {
+    "text": "what are the thermal\nlimitations of the gaskets;",
+    "start": 644.21,
+    "duration": 2.745
+  },
+  {
+    "text": "how do we limit the thermal\nheating of the viewports;",
+    "start": 646.98,
+    "duration": 3.174
+  },
+  {
+    "text": "what are the effects of\nthermal expansion...",
+    "start": 650.179,
+    "duration": 3.015
+  },
+  {
+    "text": "Potential failure\nmodes, and it goes on.",
+    "start": 654.018,
+    "duration": 5.039
+  },
+  {
+    "text": "And the list becomes endless because\nonce you have this radiation in here",
+    "start": 659.082,
+    "duration": 4.126
+  },
+  {
+    "text": "it's like putting a very hot, let's say,\ntungsten light bulb inside a shoe box,",
+    "start": 663.233,
+    "duration": 6.348
+  },
+  {
+    "text": "and that heat and that energy's got nowhere\nto go, and it will cause a fire.",
+    "start": 669.606,
+    "duration": 4.615
+  },
+  {
+    "text": "Molecular solubility: well,\nwe're using hydrogen.",
+    "start": 675.411,
+    "duration": 3.283
+  },
+  {
+    "text": "What about the polymer\nhoses that we're using?",
+    "start": 678.719,
+    "duration": 2.492
+  },
+  {
+    "text": "Well, they're designed\nto handle the hydrogen.",
+    "start": 681.236,
+    "duration": 2.447
+  },
+  {
+    "text": "Well, what happens if the\npolymer hose starts to heat up?",
+    "start": 683.708,
+    "duration": 2.867
+  },
+  {
+    "text": "Well,, it opens up the molecular\nstructure of the polymer holes,",
+    "start": 686.6,
+    "duration": 2.711
+  },
+  {
+    "text": "the hydrogen starts to migrate through, and\nmaybe you get hydrogen embrittlement,",
+    "start": 689.336,
+    "duration": 3.298
+  },
+  {
+    "text": "and then you, you break a hose.",
+    "start": 692.659,
+    "duration": 1.667
+  },
+  {
+    "text": "It doesn't sound like a big deal, but if you've got\npressurized hydrogen moving into the chamber,",
+    "start": 694.351,
+    "duration": 4.955
+  },
+  {
+    "text": "and you've got a very hot anode, it might\ncause some consternation amongst the team.",
+    "start": 699.331,
+    "duration": 6.447
+  },
+  {
+    "text": "Lowell said, ah, I said \"Can \nwe expect an explosion?\"",
+    "start": 706.231,
+    "duration": 3.272
+  },
+  {
+    "text": "And he said, \"Well, if we\ndo, it won't be very big.\"",
+    "start": 709.528,
+    "duration": 2.731
+  },
+  {
+    "text": "Now you have to understand with\nLowell, what his background is,",
+    "start": 712.284,
+    "duration": 3.908
+  },
+  {
+    "text": "because he used to work at Los Alamos and \nLawrence Livermore Labs, and nuclear weapons,",
+    "start": 716.217,
+    "duration": 4.545
+  },
+  {
+    "text": "So...",
+    "start": 720.787,
+    "duration": 1.022
+  },
+  {
+    "text": "So I asked him, I said, \"Are we talking about\none megaton or 70 megatons?",
+    "start": 721.834,
+    "duration": 5.29
+  },
+  {
+    "text": "You know, or are we just gonna\nbecome like cosmic dust?\"",
+    "start": 727.149,
+    "duration": 3.18
+  },
+  {
+    "text": "So, we have what we call a system, it's\ncalled Open Issues and Project Tracking.",
+    "start": 730.354,
+    "duration": 4.181
+  },
+  {
+    "text": "And that means that every single person\non the team has a responsibility to,",
+    "start": 734.56,
+    "duration": 5.663
+  },
+  {
+    "text": "if you think that it's a problem, it's a\nproblem unless we know that it isn't.",
+    "start": 740.248,
+    "duration": 3.841
+  },
+  {
+    "text": "It's broken unless we\nknow that it's fixed.",
+    "start": 744.114,
+    "duration": 1.977
+  },
+  {
+    "text": "It's not gonna work unless\nwe know that it does.",
+    "start": 746.116,
+    "duration": 2.07
+  },
+  {
+    "text": "It's kind of a, you might\nconsider it a negative approach,",
+    "start": 748.211,
+    "duration": 2.832
+  },
+  {
+    "text": "but in the automotive industry we would do the\nsame thing with your braking system on your car.",
+    "start": 751.068,
+    "duration": 5.03
+  },
+  {
+    "text": "As an engineer, we would say, would you be\nhappy if your brakes worked most of the time?",
+    "start": 756.123,
+    "duration": 6.303
+  },
+  {
+    "text": "Or do you, because I got accused\nof being a perfectionist one time,",
+    "start": 763.706,
+    "duration": 3.397
+  },
+  {
+    "text": "and that's the way I\nanswered them back.",
+    "start": 767.128,
+    "duration": 1.483
+  },
+  {
+    "text": "And I said well, you know, if I'm\ndesigning your braking system,",
+    "start": 768.636,
+    "duration": 2.116
+  },
+  {
+    "text": "do you want them to work most of the\ntime, 90% of the time, 99% of the time?",
+    "start": 770.777,
+    "duration": 4.079
+  },
+  {
+    "text": "And what I I discovered is that people want\ntheir brakes to work even if the pads are gone.",
+    "start": 774.881,
+    "duration": 4.576
+  },
+  {
+    "text": "So, we look at where a system is going to fail,\nand if we can eliminate the failure modes,",
+    "start": 779.482,
+    "duration": 5.027
+  },
+  {
+    "text": "then we have a reasonable\nconfidence that it's going to work.",
+    "start": 784.509,
+    "duration": 4.694
+  },
+  {
+    "text": "So, there are\nthousands of issues.",
+    "start": 790.552,
+    "duration": 2.396
+  },
+  {
+    "text": "And each person on the team is\nassigned, they're a champion.",
+    "start": 792.973,
+    "duration": 3.327
+  },
+  {
+    "text": "We identify what the\ntask or the issue is.",
+    "start": 796.325,
+    "duration": 4.172
+  },
+  {
+    "text": "The team discusses it\namongst ourselves.",
+    "start": 800.522,
+    "duration": 2.41
+  },
+  {
+    "text": "We come up with recommendations.\nThe person can pursue it",
+    "start": 802.957,
+    "duration": 2.662
+  },
+  {
+    "text": "and then come back maybe a day\nor two later a week or a month",
+    "start": 805.644,
+    "duration": 2.488
+  },
+  {
+    "text": "and say OK, this is what I found,\nand maybe they are stuck on it.",
+    "start": 808.157,
+    "duration": 3.388
+  },
+  {
+    "text": "But, the approach is that if any\nmember of the team has an issue,",
+    "start": 811.57,
+    "duration": 3.211
+  },
+  {
+    "text": "the whole team has an issue",
+    "start": 814.806,
+    "duration": 1.371
+  },
+  {
+    "text": "because if they're\nstuck, we're all stuck.",
+    "start": 816.202,
+    "duration": 3.004
+  },
+  {
+    "text": "So, we tracked through every single\nissue that we can think of.",
+    "start": 819.516,
+    "duration": 4.397
+  },
+  {
+    "text": "And that brings us to\nComputational Fluid Dynamics.",
+    "start": 824.49,
+    "duration": 2.889
+  },
+  {
+    "text": "And it's a big word, and it's a\nscience and engineering that is used",
+    "start": 827.404,
+    "duration": 5.784
+  },
+  {
+    "text": "from designs of kettles,",
+    "start": 833.213,
+    "duration": 2.716
+  },
+  {
+    "text": "to rockets, fighter aircraft.",
+    "start": 835.954,
+    "duration": 6.744
+  },
+  {
+    "text": "And it covers a wide range\nof things in thermodynamics,",
+    "start": 843.983,
+    "duration": 3.718
+  },
+  {
+    "text": "and it includes radiation\nemissions, that's light emissions.",
+    "start": 847.735,
+    "duration": 3.69
+  },
+  {
+    "text": "It means fluids\nas well as gases.",
+    "start": 851.45,
+    "duration": 2.792
+  },
+  {
+    "text": "So, gases fall under the same kinds of laws and principles\nin our calculations as what liquids do.",
+    "start": 854.267,
+    "duration": 7.461
+  },
+  {
+    "text": "So, CFD is a\nsoftware solid modeler.",
+    "start": 862.235,
+    "duration": 3.048
+  },
+  {
+    "text": "It uses proven applied\nmathematical equations,",
+    "start": 865.308,
+    "duration": 3.098
+  },
+  {
+    "text": "algorithms to evaluate the\neffects of various interacting",
+    "start": 868.431,
+    "duration": 3.868
+  },
+  {
+    "text": "and non-interacting factors affecting\nfluids, gases, and materials.",
+    "start": 872.324,
+    "duration": 3.923
+  },
+  {
+    "text": "So think about when they designed\nthe radiator of your car,",
+    "start": 876.272,
+    "duration": 2.925
+  },
+  {
+    "text": "they know that, as a radiator\nheats up, it's going to expand.",
+    "start": 879.222,
+    "duration": 3.158
+  },
+  {
+    "text": "And if it didn't let it expand,\nit's gonna break; it's gonna leak.",
+    "start": 882.405,
+    "duration": 3.317
+  },
+  {
+    "text": "So, you want to understand the materials and the\neffects of the heat on these kinds of materials.",
+    "start": 885.747,
+    "duration": 5.517
+  },
+  {
+    "text": "And the same thing\nhappens in SAFIRE.",
+    "start": 891.289,
+    "duration": 2.578
+  },
+  {
+    "text": "And you can do all these\ncalculations at once",
+    "start": 894.313,
+    "duration": 2.31
+  },
+  {
+    "text": "with some of the most\nadvanced solid modelers.",
+    "start": 896.648,
+    "duration": 2.997
+  },
+  {
+    "text": "So as I said before,\nat the beginning,",
+    "start": 900.211,
+    "duration": 2.988
+  },
+  {
+    "text": "I didn't think that thermal radiation\nwas going to be too much of an effect,",
+    "start": 903.224,
+    "duration": 3.519
+  },
+  {
+    "text": "cause the thing weighs\nabout 2,000 pounds.",
+    "start": 906.768,
+    "duration": 2.088
+  },
+  {
+    "text": "It's a lot of steel there, and I\nthought okay we can fire it up,",
+    "start": 908.881,
+    "duration": 1.92
+  },
+  {
+    "text": "and that's not going to\nbe like a small bell jar.",
+    "start": 910.826,
+    "duration": 2.192
+  },
+  {
+    "text": "We can run it for maybe, you\nknow, a number of hours.",
+    "start": 913.043,
+    "duration": 3.036
+  },
+  {
+    "text": "But what I discovered in my\ninitial calculations is that,",
+    "start": 916.104,
+    "duration": 3.899
+  },
+  {
+    "text": "even at 30 kilowatts, because you need\nmore power it's a bigger chamber,",
+    "start": 920.551,
+    "duration": 4.111
+  },
+  {
+    "text": "we would get maybe half an hour out of the\nchamber before things started to melt.",
+    "start": 924.687,
+    "duration": 4.331
+  },
+  {
+    "text": "And if we allow the chamber and\nthe energy to go beyond that,",
+    "start": 929.043,
+    "duration": 4.45
+  },
+  {
+    "text": "maybe up to 80 kilowatts,\nor even 165 kilowatts,",
+    "start": 933.518,
+    "duration": 4.918
+  },
+  {
+    "text": "which it has the capability of\ndoing because it's a big chamber,",
+    "start": 938.461,
+    "duration": 2.903
+  },
+  {
+    "text": "we might get half an hour before it\nheats up to 500 degrees Celsius.",
+    "start": 941.389,
+    "duration": 5.758
+  },
+  {
+    "text": "And when you see something\nthat's red hot,",
+    "start": 947.445,
+    "duration": 4.786
+  },
+  {
+    "text": "that would be in the range of\naround 5-600 degrees Celsius,",
+    "start": 952.256,
+    "duration": 3.399
+  },
+  {
+    "text": "and that's where\nthings start to melt.",
+    "start": 955.68,
+    "duration": 1.864
+  },
+  {
+    "text": "And that's a big problem. We can't\nrun, you can't run an experiment.",
+    "start": 957.569,
+    "duration": 2.744
+  },
+  {
+    "text": "So what you're looking at here is a\ncalculation is called \"total heat flux,\"",
+    "start": 960.338,
+    "duration": 3.183
+  },
+  {
+    "text": "and you're going to kind of get a kind of a\nbasic 101 engineering thing on, on this.",
+    "start": 963.546,
+    "duration": 4.994
+  },
+  {
+    "text": "And I discovered\nsomething that EU might find",
+    "start": 968.565,
+    "duration": 3.386
+  },
+  {
+    "text": "very useful on the heating of\nthe cores of planets and moons,",
+    "start": 971.976,
+    "duration": 4.135
+  },
+  {
+    "text": "but this here is showing you the\nanode in the center of the chamber,",
+    "start": 976.28,
+    "duration": 4.08
+  },
+  {
+    "text": "and as time goes on, how\nradiation emissions",
+    "start": 981.186,
+    "duration": 5.209
+  },
+  {
+    "text": "impinge on the surfaces of the\nmaterials and the chamber itself.",
+    "start": 986.42,
+    "duration": 4.94
+  },
+  {
+    "text": "Now, the core plasma, remember the core\nplasma we figure is around 3,000 degrees,",
+    "start": 993.527,
+    "duration": 5.985
+  },
+  {
+    "text": "but the radiation is leaving\nat the speed of light",
+    "start": 999.537,
+    "duration": 2.805
+  },
+  {
+    "text": "and is traveling through the atmosphere\nin the chamber because it's in a vacuum",
+    "start": 1002.367,
+    "duration": 3.529
+  },
+  {
+    "text": "even faster than it travels\nthrough our atmosphere on earth.",
+    "start": 1005.921,
+    "duration": 3.193
+  },
+  {
+    "text": "So there's nothing to slow it\ndown; there's nothing to stop it.",
+    "start": 1009.139,
+    "duration": 3.777
+  },
+  {
+    "text": "So, the static results,",
+    "start": 1012.941,
+    "duration": 2.682
+  },
+  {
+    "text": "that was Dr. Lowell\nMorgan's calculations.",
+    "start": 1016.315,
+    "duration": 3.186
+  },
+  {
+    "text": "So he came out and he said, \"Well, it looks like it's\ngoing to heat up to about 521 degrees Celsius,\"",
+    "start": 1019.526,
+    "duration": 5.086
+  },
+  {
+    "text": "and I was coming up with numbers\nof around 535 degrees Celsius,",
+    "start": 1024.637,
+    "duration": 4.187
+  },
+  {
+    "text": "then I contacted some friends that\nwe're doing some work with NASA",
+    "start": 1028.849,
+    "duration": 3.689
+  },
+  {
+    "text": "and some aerospace\ndown in the Carolinas",
+    "start": 1032.563,
+    "duration": 2.815
+  },
+  {
+    "text": "and they were saying maybe\n550 degrees Celsius.",
+    "start": 1035.403,
+    "duration": 3.398
+  },
+  {
+    "text": "So we have a problem.",
+    "start": 1038.826,
+    "duration": 1.878
+  },
+  {
+    "text": "So what this is is some\nof the calculations.",
+    "start": 1041.871,
+    "duration": 2.357
+  },
+  {
+    "text": "This is just really a return graph,\nI'm going to show you some other",
+    "start": 1044.253,
+    "duration": 3.078
+  },
+  {
+    "text": "more graphical representations of the results\nthat the calculations came out with,",
+    "start": 1047.356,
+    "duration": 4.56
+  },
+  {
+    "text": "but it meant we\nhave a big problem.",
+    "start": 1051.941,
+    "duration": 2.117
+  },
+  {
+    "text": "And it meant that I had to\nmake a telephone call to Scott",
+    "start": 1054.083,
+    "duration": 3.525
+  },
+  {
+    "text": "and say that if we ran the chamber,\nwe could run it for about 10 minutes",
+    "start": 1057.633,
+    "duration": 3.682
+  },
+  {
+    "text": "before you see kind of a\nmelting thing on the floor,",
+    "start": 1061.34,
+    "duration": 2.727
+  },
+  {
+    "text": "and that's the end of SAFIRE.",
+    "start": 1064.092,
+    "duration": 2.206
+  },
+  {
+    "text": "What this is here, you have\nstatic results, which means",
+    "start": 1067.399,
+    "duration": 3.934
+  },
+  {
+    "text": "this is going to be the maximum temperature the\nchamber will come to, and it will stabilize.",
+    "start": 1071.358,
+    "duration": 4.61
+  },
+  {
+    "text": "The next as you see right here\nit's kind of migrating along,",
+    "start": 1075.993,
+    "duration": 3.276
+  },
+  {
+    "text": "you see the graph drops\ndown, it comes back up,",
+    "start": 1079.294,
+    "duration": 2.537
+  },
+  {
+    "text": "that's giving us the time domain and how\nlong it will take the chamber to heat.",
+    "start": 1081.856,
+    "duration": 4.095
+  },
+  {
+    "text": "And we came up with approximately\nthe same number, about 30 minutes.",
+    "start": 1085.976,
+    "duration": 4.064
+  },
+  {
+    "text": "So then I thought, okay well, I don't\nwant to call Scott yet and say",
+    "start": 1090.461,
+    "duration": 4.934
+  },
+  {
+    "text": "\"It's over!\"",
+    "start": 1095.42,
+    "duration": 1.967
+  },
+  {
+    "text": "So, I thought, well,\nmaybe we can cool it.",
+    "start": 1097.412,
+    "duration": 2.439
+  },
+  {
+    "text": "So, we'll wrap some\nwater around it,",
+    "start": 1099.876,
+    "duration": 1.877
+  },
+  {
+    "text": "OK, some hoses or whatever we need\nto do so we can cool the chamber.",
+    "start": 1101.778,
+    "duration": 3.578
+  },
+  {
+    "text": "But as you can see here the analysis is showing us\nthat well where the hoses are it's nice and cool,",
+    "start": 1105.381,
+    "duration": 3.545
+  },
+  {
+    "text": "but right where the\ncenter of the chamber is,",
+    "start": 1108.951,
+    "duration": 2.04
+  },
+  {
+    "text": "which is where the\nmost of the heat is,",
+    "start": 1111.016,
+    "duration": 1.423
+  },
+  {
+    "text": "it's going to be too complicated for\nus to get anything effective in there.",
+    "start": 1112.464,
+    "duration": 3.577
+  },
+  {
+    "text": "And what you're looking at from the green to\nthe red is what we call a thermal gradient,",
+    "start": 1116.066,
+    "duration": 4.466
+  },
+  {
+    "text": "and it's too steep. You just\ndon't do that to materials",
+    "start": 1120.557,
+    "duration": 2.869
+  },
+  {
+    "text": "without causing a lot\nof stress and problems.",
+    "start": 1123.451,
+    "duration": 3.134
+  },
+  {
+    "text": "So I'm thinking, \"Well, how do\nwe cool engines?",
+    "start": 1126.61,
+    "duration": 4.883
+  },
+  {
+    "text": "What if we blew some air on it?\"",
+    "start": 1132.216,
+    "duration": 2.162
+  },
+  {
+    "text": "So, I started to do\nsome analysis, and",
+    "start": 1134.403,
+    "duration": 4.773
+  },
+  {
+    "text": "I thought, \"Well, what\nif we put a fan on it,",
+    "start": 1139.539,
+    "duration": 2.388
+  },
+  {
+    "text": "and we suck the air down through\na shroud along the surface,",
+    "start": 1141.952,
+    "duration": 4.231
+  },
+  {
+    "text": "and we got some sort\nof laminar flow?\"",
+    "start": 1146.208,
+    "duration": 2.147
+  },
+  {
+    "text": "And laminar flow falls under\nComputational Fluid Dynamics,",
+    "start": 1148.38,
+    "duration": 3.097
+  },
+  {
+    "text": "and this is the kind of math that they\nuse to do wing design on aircraft.",
+    "start": 1151.502,
+    "duration": 4.252
+  },
+  {
+    "text": "You know, how much laminar flow, how\nwell will the air actually stick",
+    "start": 1155.779,
+    "duration": 4.126
+  },
+  {
+    "text": "to the surface to\nlift the aircraft up.",
+    "start": 1159.93,
+    "duration": 2.29
+  },
+  {
+    "text": "And air's a very effective\nway to get rid of heat;",
+    "start": 1162.245,
+    "duration": 2.455
+  },
+  {
+    "text": "you use it in your\nradiators in your car.",
+    "start": 1164.725,
+    "duration": 2.021
+  },
+  {
+    "text": "So, it looked promising.",
+    "start": 1166.771,
+    "duration": 2.223
+  },
+  {
+    "text": "And I thought okay,",
+    "start": 1169.61,
+    "duration": 2.27
+  },
+  {
+    "text": "what we could also work out here is\nthe flow of air over the surfaces.",
+    "start": 1172.5,
+    "duration": 5.499
+  },
+  {
+    "text": "So, we can effectively predict how the\nwinds or the air is going to flow",
+    "start": 1178.024,
+    "duration": 4.921
+  },
+  {
+    "text": "over the surfaces to be more effective in\ncooling it -- more effective, more efficient.",
+    "start": 1182.97,
+    "duration": 5.501
+  },
+  {
+    "text": "And this is some of the thermal\ndistribution, and it's a lot more even.",
+    "start": 1190.668,
+    "duration": 4.251
+  },
+  {
+    "text": "So, we're not getting\n500 degrees now.",
+    "start": 1194.944,
+    "duration": 1.943
+  },
+  {
+    "text": "Now, if I can get a fan to pull\nair over the surface,",
+    "start": 1196.912,
+    "duration": 3.957
+  },
+  {
+    "text": "we can bring the chamber into stability\nof around 100 degrees Celsius.",
+    "start": 1200.894,
+    "duration": 4.419
+  },
+  {
+    "text": "Now that's something\nwe can work with.",
+    "start": 1205.338,
+    "duration": 1.976
+  },
+  {
+    "text": "It's still going to boil water,",
+    "start": 1207.339,
+    "duration": 1.465
+  },
+  {
+    "text": "but the worst case scenario\nis about 100 degrees Celsius.",
+    "start": 1208.829,
+    "duration": 2.582
+  },
+  {
+    "text": "Its not going to melt gaskets; yes, you\ncould fry eggs on it, but it's workable.",
+    "start": 1211.436,
+    "duration": 6.497
+  },
+  {
+    "text": "So then I thought,\n\"Well, I need a fan.\"",
+    "start": 1219.759,
+    "duration": 3.379
+  },
+  {
+    "text": "And that big blue thing is the\nfan that we came up with.",
+    "start": 1223.709,
+    "duration": 3.71
+  },
+  {
+    "text": "I told Scott that, yes\nwe have a solution,",
+    "start": 1227.419,
+    "duration": 2.331
+  },
+  {
+    "text": "but what I didn't tell him at the\ntime is just how big a fan we needed.",
+    "start": 1229.775,
+    "duration": 3.557
+  },
+  {
+    "text": "And so he thought okay, this is good,\nso we're going to keep moving ahead.",
+    "start": 1233.357,
+    "duration": 3.883
+  },
+  {
+    "text": "And the fan actually will suck\nabout 14,000 cubic feet per minute",
+    "start": 1237.265,
+    "duration": 5.504
+  },
+  {
+    "text": "at a pressure of about 2 inches of 2\natmospheres, oh uh, not 2 atmospheres,",
+    "start": 1242.794,
+    "duration": 6.028
+  },
+  {
+    "text": "but 2 inches of water, which basically\nwould suck the air out of this room,",
+    "start": 1248.847,
+    "duration": 4.193
+  },
+  {
+    "text": "all the air out of this room here, oh,\nI would say approximately 30 seconds.",
+    "start": 1253.065,
+    "duration": 5.668
+  },
+  {
+    "text": "So keep your hands and feet in\nat all times.",
+    "start": 1260.924,
+    "duration": 4.152
+  },
+  {
+    "text": "I mean that's me standing there, I don't what\nI'm doing, I'm looking at something, I guess.",
+    "start": 1265.101,
+    "duration": 5.101
+  },
+  {
+    "text": "So then we looked at the\noutside, that looked good,",
+    "start": 1271.901,
+    "duration": 2.659
+  },
+  {
+    "text": "so let's take a\nlook at the inside,",
+    "start": 1274.585,
+    "duration": 1.481
+  },
+  {
+    "text": "because that's where the\nreal nasty environment is.",
+    "start": 1276.091,
+    "duration": 3.0
+  },
+  {
+    "text": "And what we can model now, very\naccurately, is what these conditions are.",
+    "start": 1279.116,
+    "duration": 4.741
+  },
+  {
+    "text": "And the conditions is showing you with\nthe little arrows, it's showing you,",
+    "start": 1283.882,
+    "duration": 3.404
+  },
+  {
+    "text": "those arrows are showing the effects of\nbuoyancy so as hot air heats it rises.",
+    "start": 1287.311,
+    "duration": 4.74
+  },
+  {
+    "text": "And so effectively what those arrow are\nshowing you that it's going to rise,",
+    "start": 1292.076,
+    "duration": 3.828
+  },
+  {
+    "text": "and it's giving you a velocity\nof how fast is the gas rising.",
+    "start": 1295.929,
+    "duration": 3.272
+  },
+  {
+    "text": "And so this is gas, this is\nnot radiation emissions.",
+    "start": 1299.226,
+    "duration": 4.262
+  },
+  {
+    "text": "The radiation emissions are passing\nthrough the gas at the speed of light,",
+    "start": 1303.513,
+    "duration": 3.222
+  },
+  {
+    "text": "but then there's the gas in the\nchamber, and how fast is it moving?",
+    "start": 1306.76,
+    "duration": 2.801
+  },
+  {
+    "text": "OK, do we have any kind of\nconvection motion happening in here?",
+    "start": 1309.586,
+    "duration": 3.773
+  },
+  {
+    "text": "And it's actually quite\nstable, if you look at it.",
+    "start": 1313.384,
+    "duration": 2.582
+  },
+  {
+    "text": "The velocity is\nactually not that high.",
+    "start": 1315.991,
+    "duration": 3.7
+  },
+  {
+    "text": " ",
+    "start": 1323.799,
+    "duration": 1.455
+  },
+  {
+    "text": "So what we're looking at here, I took a\ncross-section, and we're just kind of",
+    "start": 1325.279,
+    "duration": 3.12
+  },
+  {
+    "text": "moving down through the chamber to the\ncore, which is where the anode is.",
+    "start": 1328.4,
+    "duration": 4.114
+  },
+  {
+    "text": "And it looks like a heck of a\nfire that's in there, and it is,",
+    "start": 1332.539,
+    "duration": 3.122
+  },
+  {
+    "text": "but the velocity\nis very, very low.",
+    "start": 1335.693,
+    "duration": 1.947
+  },
+  {
+    "text": "We're talking .0005\nmeters per second.",
+    "start": 1337.665,
+    "duration": 5.512
+  },
+  {
+    "text": "So, it means the gas is\nnot moving very quickly,",
+    "start": 1343.202,
+    "duration": 2.317
+  },
+  {
+    "text": "which is good for us,\nbecause it means that,",
+    "start": 1345.544,
+    "duration": 2.26
+  },
+  {
+    "text": "you know, gravity is going to have a\nlimited effect on the plasma discharge,",
+    "start": 1347.829,
+    "duration": 3.872
+  },
+  {
+    "text": "if that makes any sense.",
+    "start": 1351.726,
+    "duration": 1.669
+  },
+  {
+    "text": "OK, the gas is very\nstable inside.",
+    "start": 1353.42,
+    "duration": 2.908
+  },
+  {
+    "text": "And this is just actually\nlooking down into the core.",
+    "start": 1358.493,
+    "duration": 3.8
+  },
+  {
+    "text": "So, this here is the effect of\nwhat's called \"total heat flux.\"",
+    "start": 1362.335,
+    "duration": 4.224
+  },
+  {
+    "text": "It's how you can heat up a\nbody using electricity.",
+    "start": 1366.584,
+    "duration": 4.401
+  },
+  {
+    "text": "So, I'm just going to digress here from\nSAFIRE just to talk about a possibility",
+    "start": 1371.01,
+    "duration": 4.679
+  },
+  {
+    "text": "that the EU might want to consider, because\nin the course of doing this analysis,",
+    "start": 1375.714,
+    "duration": 4.451
+  },
+  {
+    "text": "it occurred to me that we\nuse this tool all the time,",
+    "start": 1380.19,
+    "duration": 4.533
+  },
+  {
+    "text": "and it means that the center\nof the anode might be around,",
+    "start": 1384.748,
+    "duration": 5.187
+  },
+  {
+    "text": "let's say, 2500 degrees Celsius,",
+    "start": 1389.96,
+    "duration": 3.122
+  },
+  {
+    "text": "but the surface temperature of the anode\nwas almost one order of magnitude cooler.",
+    "start": 1393.107,
+    "duration": 4.904
+  },
+  {
+    "text": "I thought, \"Well now\nwhat is going on?",
+    "start": 1398.036,
+    "duration": 1.935
+  },
+  {
+    "text": "Like, you know, I'm going to heat it up,\nit should be just kind of uniform heat.\"",
+    "start": 1399.996,
+    "duration": 3.986
+  },
+  {
+    "text": "But in the analysis what it showed\nis that the radiation emissions",
+    "start": 1404.007,
+    "duration": 3.034
+  },
+  {
+    "text": "leaving the surface of the anode\nare leaving at the speed of light,",
+    "start": 1407.066,
+    "duration": 4.205
+  },
+  {
+    "text": "but it takes a lot more time for\nthe heat to migrate from the core",
+    "start": 1411.296,
+    "duration": 4.903
+  },
+  {
+    "text": "through that very dense material\nthat we call the anode.",
+    "start": 1416.224,
+    "duration": 3.504
+  },
+  {
+    "text": "So if you think about it, you don't need\ngravity to heat the core of a planet or a moon,",
+    "start": 1419.926,
+    "duration": 6.601
+  },
+  {
+    "text": "and this is very effective\nmechanism to do this.",
+    "start": 1426.552,
+    "duration": 2.734
+  },
+  {
+    "text": "And it does answer for why you can\nhave hot cores in planets or moons,",
+    "start": 1429.311,
+    "duration": 4.27
+  },
+  {
+    "text": "that really by now, in my opinion, if\nthe result is as they say they are,",
+    "start": 1433.606,
+    "duration": 3.613
+  },
+  {
+    "text": "should be frozen rocks,\nand they're not.",
+    "start": 1437.244,
+    "duration": 1.903
+  },
+  {
+    "text": "And even with bodies that are\neven smaller than our own moon",
+    "start": 1439.172,
+    "duration": 2.7
+  },
+  {
+    "text": "might have hot cores\nand volcanic activity.",
+    "start": 1441.897,
+    "duration": 3.183
+  },
+  {
+    "text": "Just a consideration for the\nEU, but it's something that",
+    "start": 1445.105,
+    "duration": 3.052
+  },
+  {
+    "text": "appears to me that\nmight have some legs.",
+    "start": 1448.182,
+    "duration": 4.24
+  },
+  {
+    "text": "So, it's just another kind of a\n3-D view of the core.",
+    "start": 1452.779,
+    "duration": 5.546
+  },
+  {
+    "text": "It's fun doing this work\nbecause its really pretty.",
+    "start": 1460.524,
+    "duration": 2.874
+  },
+  {
+    "text": "This is stuff you could put on\nt-shirts, you know.",
+    "start": 1464.207,
+    "duration": 3.391
+  },
+  {
+    "text": "So this again, what we're\nlooking at is the radiation",
+    "start": 1467.964,
+    "duration": 3.532
+  },
+  {
+    "text": "and the effects of the radiation\non components like the cathodes,",
+    "start": 1471.529,
+    "duration": 3.416
+  },
+  {
+    "text": "because we're like we have large\ncathods, and you'll see them tonight.",
+    "start": 1474.97,
+    "duration": 2.902
+  },
+  {
+    "text": "They are 3 feet in diameter.",
+    "start": 1477.897,
+    "duration": 1.556
+  },
+  {
+    "text": "They're very thick copper, and\nwhat we have to identify now is",
+    "start": 1479.478,
+    "duration": 2.933
+  },
+  {
+    "text": "whether or not they're going to\nmelt, or they're going to expand,",
+    "start": 1482.436,
+    "duration": 2.113
+  },
+  {
+    "text": "and what kind of changes can\nwe see occur in the chamber",
+    "start": 1484.574,
+    "duration": 3.285
+  },
+  {
+    "text": "without it going\ninto a failure mode.",
+    "start": 1487.884,
+    "duration": 2.317
+  },
+  {
+    "text": "And this is really\nwhat it's showing you.",
+    "start": 1490.233,
+    "duration": 2.046
+  },
+  {
+    "text": "The green means that its\ncool, the red mean it's hot,",
+    "start": 1492.304,
+    "duration": 3.336
+  },
+  {
+    "text": "and the little arrows\nshow you the direction",
+    "start": 1495.665,
+    "duration": 3.118
+  },
+  {
+    "text": "that the air is moving or the\ngas moving in the chamber.",
+    "start": 1498.808,
+    "duration": 3.772
+  },
+  {
+    "text": "This here is the results.",
+    "start": 1504.088,
+    "duration": 4.3
+  },
+  {
+    "text": "So the maximum\ntemperature that we got",
+    "start": 1509.356,
+    "duration": 2.176
+  },
+  {
+    "text": "from radiation is about\n600° Celsius for the copper,",
+    "start": 1511.707,
+    "duration": 2.729
+  },
+  {
+    "text": "and that's well within\ncopper's ability to handle.",
+    "start": 1514.461,
+    "duration": 3.296
+  },
+  {
+    "text": "It's going to get hot, but\nit's not going to melt.",
+    "start": 1517.782,
+    "duration": 3.454
+  },
+  {
+    "text": "But when things heat\nup they expand.",
+    "start": 1524.935,
+    "duration": 2.651
+  },
+  {
+    "text": "And if you're holding\nsomething too rigid,",
+    "start": 1528.269,
+    "duration": 3.377
+  },
+  {
+    "text": "and it's wanting to expand, well,\nthat's when you start to break things.",
+    "start": 1531.671,
+    "duration": 3.632
+  },
+  {
+    "text": "So, we can take the\ninformation that we've got,",
+    "start": 1535.328,
+    "duration": 3.173
+  },
+  {
+    "text": "and the results that we got from\nthe Computational Fluid Dynamics,",
+    "start": 1538.526,
+    "duration": 3.396
+  },
+  {
+    "text": "and read that directly into what's\ncalled Finite Element Analysis.",
+    "start": 1541.947,
+    "duration": 4.493
+  },
+  {
+    "text": "And that really deals with the structure,\nof the strength of materials.",
+    "start": 1547.012,
+    "duration": 4.003
+  },
+  {
+    "text": "It's used in building buildings and\ncars and virtually every kind of thing",
+    "start": 1551.04,
+    "duration": 3.664
+  },
+  {
+    "text": "you can think of that\nundergoes any kind of stress.",
+    "start": 1554.729,
+    "duration": 3.0
+  },
+  {
+    "text": "So, if you take your hand on\nyour desk tonight,",
+    "start": 1557.754,
+    "duration": 3.18
+  },
+  {
+    "text": "and you just put your fingers on the\nedge, and you push your hand down,",
+    "start": 1560.959,
+    "duration": 3.994
+  },
+  {
+    "text": "you're going to get what's\ncalled \"displacement.\"",
+    "start": 1564.978,
+    "duration": 3.0
+  },
+  {
+    "text": "If you feel your muscles stretching,\nthis is what we would call \"stress.\"",
+    "start": 1568.44,
+    "duration": 4.278
+  },
+  {
+    "text": "So things can displace like the wings on an aircraft,",
+    "start": 1572.743,
+    "duration": 4.231
+  },
+  {
+    "text": "but the stresses are within its\nlimits so they don't break off.",
+    "start": 1576.999,
+    "duration": 3.951
+  },
+  {
+    "text": "And this is basically\nwhat FEA does.",
+    "start": 1581.523,
+    "duration": 2.682
+  },
+  {
+    "text": "And you can apply\nthermal forces.",
+    "start": 1584.23,
+    "duration": 5.657
+  },
+  {
+    "text": "And what this is showing us is the effects of the\nradiation emissions on the SAFIRE viewports.",
+    "start": 1590.189,
+    "duration": 6.132
+  },
+  {
+    "text": "OK now, if I was paying for this,\nwhere, these are SAFIRE viewports.",
+    "start": 1596.346,
+    "duration": 3.534
+  },
+  {
+    "text": "Now if anyone knows anything\nabout vacuum chambers,",
+    "start": 1599.88,
+    "duration": 2.28
+  },
+  {
+    "text": "these are really are not\ncheap viewports, OK.",
+    "start": 1602.16,
+    "duration": 2.689
+  },
+  {
+    "text": "And you don't wanna be blowing\nthem out of your chamber",
+    "start": 1604.874,
+    "duration": 2.31
+  },
+  {
+    "text": "because you've subjecting\nthem to extremely high stresses.",
+    "start": 1607.209,
+    "duration": 3.616
+  },
+  {
+    "text": "And what this is saying in effect as long as\nwe've got air moving over top of the surface,",
+    "start": 1610.85,
+    "duration": 3.903
+  },
+  {
+    "text": "we can keep it cool down to a point\nwhere we can effectively use them",
+    "start": 1614.778,
+    "duration": 3.17
+  },
+  {
+    "text": "without blowing the\nthe viewports out of the chamber.",
+    "start": 1617.973,
+    "duration": 4.167
+  },
+  {
+    "text": "But what about the cathode?",
+    "start": 1622.595,
+    "duration": 1.65
+  },
+  {
+    "text": "Well, you come up with some ideas.\nYou want a nice flat disk.",
+    "start": 1624.27,
+    "duration": 3.09
+  },
+  {
+    "text": "The team we all agreed that a nice flat disk\ncould be the most effective way to do this,",
+    "start": 1627.385,
+    "duration": 5.062
+  },
+  {
+    "text": "but you gotta hold\nthat disk up somehow.",
+    "start": 1632.472,
+    "duration": 2.967
+  },
+  {
+    "text": "And this was the first concept.",
+    "start": 1635.464,
+    "duration": 2.632
+  },
+  {
+    "text": "And this here what you're looking\nat is kind of a pie shape section",
+    "start": 1638.121,
+    "duration": 3.703
+  },
+  {
+    "text": "out of that round, that cathode\nthat you'll see very soon.",
+    "start": 1641.849,
+    "duration": 4.631
+  },
+  {
+    "text": "And what it's showing you is the\nstresses due to thermal forces.",
+    "start": 1646.892,
+    "duration": 4.899
+  },
+  {
+    "text": "And you can see...",
+    "start": 1651.816,
+    "duration": 3.384
+  },
+  {
+    "text": " ",
+    "start": 1655.2,
+    "duration": 3.137
+  },
+  {
+    "text": "OK, you see right in this area here, the\nstresses are 370, 372.9 megapascals.",
+    "start": 1658.919,
+    "duration": 10.758
+  },
+  {
+    "text": "Now that may not mean\nmuch to most of you,",
+    "start": 1669.702,
+    "duration": 2.587
+  },
+  {
+    "text": "but what it does say is that it's about\n400% beyond what copper can handle.",
+    "start": 1672.314,
+    "duration": 4.699
+  },
+  {
+    "text": "It means that the copper is\ngoing to, because the expansion",
+    "start": 1677.038,
+    "duration": 3.406
+  },
+  {
+    "text": "due to the deformation\nthat we see here,",
+    "start": 1680.469,
+    "duration": 2.548
+  },
+  {
+    "text": "that cathode under these temperatures\nis going to grow about half an inch.",
+    "start": 1683.042,
+    "duration": 4.594
+  },
+  {
+    "text": "So how do we how do we let it\ngrow half an inch without,",
+    "start": 1687.661,
+    "duration": 3.395
+  },
+  {
+    "text": "you know, the support\nstructure breaking,",
+    "start": 1691.081,
+    "duration": 2.375
+  },
+  {
+    "text": "because it can't\nhold it anymore?",
+    "start": 1693.481,
+    "duration": 3.783
+  },
+  {
+    "text": " ",
+    "start": 1697.914,
+    "duration": 1.81
+  },
+  {
+    "text": " ",
+    "start": 1700.279,
+    "duration": 3.315
+  },
+  {
+    "text": " ",
+    "start": 1704.905,
+    "duration": 2.03
+  },
+  {
+    "text": "OK, so what we say, well look,",
+    "start": 1708.007,
+    "duration": 2.159
+  },
+  {
+    "text": "let's, let's think of some concepts\nthat come out of aircraft.",
+    "start": 1710.191,
+    "duration": 3.006
+  },
+  {
+    "text": "Well if there, if the, if the wings on an\naircraft are stiff, actually they break off.",
+    "start": 1713.222,
+    "duration": 4.033
+  },
+  {
+    "text": "And when you take off in a big airliner\nnowadays you can see the wings moving up.",
+    "start": 1717.28,
+    "duration": 3.86
+  },
+  {
+    "text": "If they didn't, all those\nstresses would be so severe,",
+    "start": 1721.14,
+    "duration": 3.198
+  },
+  {
+    "text": "they would actually crack and fracture, and\nbreak off, and that's not a good thing.",
+    "start": 1724.363,
+    "duration": 4.268
+  },
+  {
+    "text": "So, what we're going to do with\nSAFIRE, or what we did, is",
+    "start": 1728.656,
+    "duration": 3.839
+  },
+  {
+    "text": "we want to let it grow.\nLet it grow.",
+    "start": 1732.52,
+    "duration": 2.335
+  },
+  {
+    "text": "So, in this case here, you know,\nwe just put a small joint in here.",
+    "start": 1734.88,
+    "duration": 5.878
+  },
+  {
+    "text": "I don't know how well you can\nsee it on the big screen,",
+    "start": 1740.783,
+    "duration": 2.128
+  },
+  {
+    "text": "but there's a joint in here, and\nit's gonna let the cathode grow.",
+    "start": 1742.936,
+    "duration": 3.921
+  },
+  {
+    "text": "And it's not going to put stresses\non the structure in here,",
+    "start": 1746.882,
+    "duration": 5.205
+  },
+  {
+    "text": "but the stresses that you can see here\nwere actually supporting the cathode",
+    "start": 1752.112,
+    "duration": 4.475
+  },
+  {
+    "text": "are 77 megapascals, which is about\n300% below what copper can handle.",
+    "start": 1756.612,
+    "duration": 7.845
+  },
+  {
+    "text": "So, we're in good shape.",
+    "start": 1764.925,
+    "duration": 2.077
+  },
+  {
+    "text": "And I have enough experience with this\nto know that it's going to work.",
+    "start": 1767.027,
+    "duration": 5.443
+  },
+  {
+    "text": "OK.",
+    "start": 1772.495,
+    "duration": 1.023
+  },
+  {
+    "text": " ",
+    "start": 1774.146,
+    "duration": 1.564
+  },
+  {
+    "text": " ",
+    "start": 1775.71,
+    "duration": 2.5
+  },
+  {
+    "text": "OK. So Systems.",
+    "start": 1780.44,
+    "duration": 1.612
+  },
+  {
+    "text": "Systems Design and Engineering.",
+    "start": 1782.234,
+    "duration": 3.0
+  },
+  {
+    "text": "If you have a computer, you\nhave a computer system.",
+    "start": 1788.74,
+    "duration": 4.403
+  },
+  {
+    "text": "You have chips, and you\nhave wires, you have fans,",
+    "start": 1793.168,
+    "duration": 2.572
+  },
+  {
+    "text": "and you have cooling systems\nwithin that computer.",
+    "start": 1795.765,
+    "duration": 2.587
+  },
+  {
+    "text": "And that system itself is hooked into a network\ncalled the Internet, and we have systems.",
+    "start": 1798.377,
+    "duration": 4.707
+  },
+  {
+    "text": "And with this particular machine, we\nhave to start breaking those systems out",
+    "start": 1803.109,
+    "duration": 6.854
+  },
+  {
+    "text": "into something that's actually going\nto work for us in a laboratory.",
+    "start": 1809.988,
+    "duration": 3.49
+  },
+  {
+    "text": "So the main control panel, data feedback and\ncapture, this is in SAFCON, video feedback.",
+    "start": 1813.503,
+    "duration": 6.844
+  },
+  {
+    "text": "OK, we need to see what's going on\nin the chamber. We have a couple,",
+    "start": 1820.372,
+    "duration": 3.247
+  },
+  {
+    "text": "you know, we have one wide angle camera;\nwe've got a high-resolution video camera",
+    "start": 1823.644,
+    "duration": 4.349
+  },
+  {
+    "text": "that you're going to see some\nof the results from tonight.",
+    "start": 1828.018,
+    "duration": 2.823
+  },
+  {
+    "text": "A main data vacuum, and controls raceway,\nso we got to bring all the controls",
+    "start": 1830.866,
+    "duration": 4.614
+  },
+  {
+    "text": "and other things across from the\nchamber into the control room,",
+    "start": 1835.505,
+    "duration": 3.479
+  },
+  {
+    "text": "and the main power supply.",
+    "start": 1839.009,
+    "duration": 2.652
+  },
+  {
+    "text": "And we have deionized\nwater cooling system;",
+    "start": 1842.042,
+    "duration": 3.014
+  },
+  {
+    "text": "the reason why we use deionized\nwater is due to its resistivity,",
+    "start": 1845.081,
+    "duration": 3.233
+  },
+  {
+    "text": "and we'll talk about\nthat a little bit.",
+    "start": 1848.339,
+    "duration": 1.908
+  },
+  {
+    "text": "And then of course you\nhave the main chamber.",
+    "start": 1850.272,
+    "duration": 1.935
+  },
+  {
+    "text": "This is just a quick\nkind of overview",
+    "start": 1852.232,
+    "duration": 2.747
+  },
+  {
+    "text": "of what SAFIRE was modeled\nan engineered to be,",
+    "start": 1855.004,
+    "duration": 3.75
+  },
+  {
+    "text": "and the pictures you're going\nto see is really a replica",
+    "start": 1858.779,
+    "duration": 2.823
+  },
+  {
+    "text": "of what has been modeled here\nover the course of the year.",
+    "start": 1861.627,
+    "duration": 4.321
+  },
+  {
+    "text": "So, we have the gimbal.",
+    "start": 1867.435,
+    "duration": 1.564
+  },
+  {
+    "text": "You saw that last year in the model; you're\ngoing to see the real thing tonight.",
+    "start": 1869.024,
+    "duration": 4.002
+  },
+  {
+    "text": "The chamber door, mass spectrometer, and\nremote data data acquisition junction,",
+    "start": 1873.051,
+    "duration": 4.893
+  },
+  {
+    "text": "that's kind of uh, you'll see\nsome interesting things there.",
+    "start": 1877.969,
+    "duration": 3.894
+  },
+  {
+    "text": "Anode isolation chamber.",
+    "start": 1882.218,
+    "duration": 2.106
+  },
+  {
+    "text": "Actually, that was Scott\nMainwaring's idea.",
+    "start": 1884.349,
+    "duration": 1.863
+  },
+  {
+    "text": "He says, \"Monty, so what if we just--\n'cause that chamber's so big it's going",
+    "start": 1886.237,
+    "duration": 3.261
+  },
+  {
+    "text": "to take you days to suck it down\nand get the vacuum that you want--",
+    "start": 1889.523,
+    "duration": 2.927
+  },
+  {
+    "text": "if we want to change the anode out, we're going\nto lose three days every time we do that.\"",
+    "start": 1892.45,
+    "duration": 4.016
+  },
+  {
+    "text": "And so we designed\nan isolation chamber",
+    "start": 1896.491,
+    "duration": 4.507
+  },
+  {
+    "text": "where we could pull the\nanode back, close the gate valve,",
+    "start": 1901.023,
+    "duration": 4.161
+  },
+  {
+    "text": "save the chamber, and switch out\nthe anode. And this happened,",
+    "start": 1905.209,
+    "duration": 5.124
+  },
+  {
+    "text": "I don't know how long it took us,\nbecause we did this, maybe 20 minutes,",
+    "start": 1910.358,
+    "duration": 4.023
+  },
+  {
+    "text": "and put a new one in and brought\nit back into the chamber.",
+    "start": 1914.406,
+    "duration": 3.561
+  },
+  {
+    "text": "Recirculation Recirculation pumps, air cooling,\ncryogenic vacuum, and a lot of other systems.",
+    "start": 1918.015,
+    "duration": 8.393
+  },
+  {
+    "text": "What you're looking at here is the\nmain gas and vacuum control systems.",
+    "start": 1926.886,
+    "duration": 6.886
+  },
+  {
+    "text": "And the point of the\npresentation tonight",
+    "start": 1933.797,
+    "duration": 2.166
+  },
+  {
+    "text": "is not just to show you SAFIRE\nand some of the results",
+    "start": 1935.988,
+    "duration": 3.013
+  },
+  {
+    "text": "but the effort and the amount of work\ninvolved with the whole SAFIRE team",
+    "start": 1939.026,
+    "duration": 4.893
+  },
+  {
+    "text": "to get to what you're\ngoing to see tonight.",
+    "start": 1943.944,
+    "duration": 3.119
+  },
+  {
+    "text": "And what you're looking at here is really\nthe mains gas and vacuum schematic.",
+    "start": 1947.088,
+    "duration": 4.855
+  },
+  {
+    "text": "And everybody on the team\ncontributes to this.",
+    "start": 1951.968,
+    "duration": 3.026
+  },
+  {
+    "text": "The questions: well,\nwhere's it going to fail?",
+    "start": 1955.019,
+    "duration": 1.689
+  },
+  {
+    "text": "What kind of gas we're using?",
+    "start": 1956.733,
+    "duration": 1.198
+  },
+  {
+    "text": "What direction is the gas\ngoing through the valve?",
+    "start": 1957.956,
+    "duration": 2.891
+  },
+  {
+    "text": "Is the valve designed\nto go one way?",
+    "start": 1960.872,
+    "duration": 1.554
+  },
+  {
+    "text": "Is it more effective if\nit goes the other way?",
+    "start": 1962.451,
+    "duration": 2.371
+  },
+  {
+    "text": "What about an emergency stop?",
+    "start": 1964.847,
+    "duration": 1.903
+  },
+  {
+    "text": "What if Lowell's right, you know,\nand we need the big red button?",
+    "start": 1966.775,
+    "duration": 3.685
+  },
+  {
+    "text": "What happens? How do\nwe deal with that?",
+    "start": 1970.485,
+    "duration": 2.406
+  },
+  {
+    "text": "Do we need to have nitrogen\nflood into the chamber",
+    "start": 1972.916,
+    "duration": 1.778
+  },
+  {
+    "text": "to assure that in fact we've got\na safe and secure shut down?",
+    "start": 1974.719,
+    "duration": 3.498
+  },
+  {
+    "text": "We would like to be on the\nevening news, but not for,",
+    "start": 1978.242,
+    "duration": 4.569
+  },
+  {
+    "text": "because we've all become cosmic dust.",
+    "start": 1982.836,
+    "duration": 5.598
+  },
+  {
+    "text": "So, we start to model\nthese things up.",
+    "start": 1989.417,
+    "duration": 1.998
+  },
+  {
+    "text": "So, we take the schematic and we say, okay\nwhat's it gotta to look like in real life?",
+    "start": 1991.44,
+    "duration": 3.829
+  },
+  {
+    "text": "And we have new members on our\nteam this year, Jason Lickver,",
+    "start": 1995.294,
+    "duration": 4.228
+  },
+  {
+    "text": "and he was my engineering manager\nwith another company that I had.",
+    "start": 1999.547,
+    "duration": 4.713
+  },
+  {
+    "text": "And so we start to\ndesign these systems.",
+    "start": 2005.147,
+    "duration": 2.86
+  },
+  {
+    "text": "We take the schematic, which\nis really the engineering,",
+    "start": 2008.032,
+    "duration": 2.652
+  },
+  {
+    "text": "and that's going to translate into\ndrawings and parts and bills of materials,",
+    "start": 2010.709,
+    "duration": 3.885
+  },
+  {
+    "text": "and with SAFIRE we figure there's at least\nover 40,000 components, give or take.",
+    "start": 2014.619,
+    "duration": 8.487
+  },
+  {
+    "text": "That doesn't even include the\nparts inside the computers.",
+    "start": 2023.78,
+    "duration": 3.225
+  },
+  {
+    "text": "So this is a model, these are\n3-D models.",
+    "start": 2027.03,
+    "duration": 3.946
+  },
+  {
+    "text": "And we're not at the Iron Man stage\nwhere we're talking to the computer,",
+    "start": 2031.001,
+    "duration": 4.256
+  },
+  {
+    "text": "but it's really getting\nquite advanced.",
+    "start": 2035.282,
+    "duration": 2.223
+  },
+  {
+    "text": "We can take materials like this here;\nwe can know what the stresses are,",
+    "start": 2037.53,
+    "duration": 2.824
+  },
+  {
+    "text": "read that data into an analysis software",
+    "start": 2040.379,
+    "duration": 4.326
+  },
+  {
+    "text": "and determine whether or not it's\nstrong enough, its properties.",
+    "start": 2044.73,
+    "duration": 4.462
+  },
+  {
+    "text": "So, what you're looking at is\na 3-D model,",
+    "start": 2049.217,
+    "duration": 2.83
+  },
+  {
+    "text": "but it understands all the mass\nproperties of every single component",
+    "start": 2052.072,
+    "duration": 3.4
+  },
+  {
+    "text": "that are in this model.",
+    "start": 2055.497,
+    "duration": 1.443
+  },
+  {
+    "text": "This isn't just a rendering.",
+    "start": 2056.965,
+    "duration": 1.815
+  },
+  {
+    "text": "This is where\nengineering is today.",
+    "start": 2058.805,
+    "duration": 2.029
+  },
+  {
+    "text": "So now, we're going\nto create drawings.",
+    "start": 2060.859,
+    "duration": 2.173
+  },
+  {
+    "text": "Things that people could actually use\nto buy materials and start to build,",
+    "start": 2063.057,
+    "duration": 4.758
+  },
+  {
+    "text": "and this is, uh, just a drawing\nof the control panel itself,",
+    "start": 2068.5,
+    "duration": 6.108
+  },
+  {
+    "text": "the typical balloons. And then, we get\ninto things like bills of materials,",
+    "start": 2074.633,
+    "duration": 8.057
+  },
+  {
+    "text": "and all the parts and components, and\nfittings and ferrules, and nuts and bolts.",
+    "start": 2082.715,
+    "duration": 5.488
+  },
+  {
+    "text": "And each part has to be ordered.",
+    "start": 2088.228,
+    "duration": 1.974
+  },
+  {
+    "text": "And you have to\nidentify a vendor.",
+    "start": 2090.227,
+    "duration": 1.799
+  },
+  {
+    "text": "And you have to\nidentify the lead time",
+    "start": 2092.051,
+    "duration": 1.708
+  },
+  {
+    "text": "so we get the parts on the floor\nin time so we can build it.",
+    "start": 2093.784,
+    "duration": 3.109
+  },
+  {
+    "text": "So, what you're looking\nat here is purchasing.",
+    "start": 2096.918,
+    "duration": 2.638
+  },
+  {
+    "text": "And I asked Jano last year if\nhe'd be interested in helping out in",
+    "start": 2099.581,
+    "duration": 4.868
+  },
+  {
+    "text": "the purchasing side of things,\nand he's never done it before.",
+    "start": 2104.474,
+    "duration": 3.248
+  },
+  {
+    "text": "I have a lot of experience\nin this with my other companies,",
+    "start": 2107.747,
+    "duration": 2.812
+  },
+  {
+    "text": "and he thought well maybe, maybe it's calling the\ncompany up saying. \"I'd like to buy this part.\"",
+    "start": 2110.584,
+    "duration": 4.124
+  },
+  {
+    "text": "What he discovered was, what I didn't\ntell him is, there's this many pieces,",
+    "start": 2114.733,
+    "duration": 5.01
+  },
+  {
+    "text": "and you're going to have to identify who\nthe vendor is, lead times, pricing,",
+    "start": 2119.768,
+    "duration": 4.209
+  },
+  {
+    "text": "you gotta to get quotes, and just follow up\nat when are the parts going to hit the floor,",
+    "start": 2124.002,
+    "duration": 4.655
+  },
+  {
+    "text": "and you really kind of have to\nhave the view that the vendor's",
+    "start": 2128.682,
+    "duration": 2.67
+  },
+  {
+    "text": "not really going to tell you the\ntruth about the price or delivery,",
+    "start": 2131.377,
+    "duration": 3.777
+  },
+  {
+    "text": "and they're not gonna\ndeliver on time,",
+    "start": 2135.765,
+    "duration": 2.048
+  },
+  {
+    "text": "and when they do, it may not\neven be the right part.",
+    "start": 2137.838,
+    "duration": 3.433
+  },
+  {
+    "text": "So, this is the Jano's creation.",
+    "start": 2142.822,
+    "duration": 3.004
+  },
+  {
+    "text": "And he had worked\non MRP systems,",
+    "start": 2146.976,
+    "duration": 2.341
+  },
+  {
+    "text": "but we all agreed that that probably\nwasn't necessary for SAFIRE,",
+    "start": 2149.342,
+    "duration": 3.186
+  },
+  {
+    "text": "little did I say anything, we\nhave a very limited budget,",
+    "start": 2152.553,
+    "duration": 2.774
+  },
+  {
+    "text": "but it really did deserve a full-blown,\nyou know, materials purchasing system.",
+    "start": 2155.352,
+    "duration": 7.702
+  },
+  {
+    "text": "There's a lot of components.",
+    "start": 2163.376,
+    "duration": 2.397
+  },
+  {
+    "text": "So, there were times\nthat when, Jano,",
+    "start": 2166.431,
+    "duration": 3.262
+  },
+  {
+    "text": "I'd call him up and I could see his\neyes were like two little black dots,",
+    "start": 2169.718,
+    "duration": 4.157
+  },
+  {
+    "text": "but he hadn't run out the door yet, so I\nknew there was still hope, and he survived.",
+    "start": 2173.9,
+    "duration": 6.075
+  },
+  {
+    "text": " ",
+    "start": 2181.498,
+    "duration": 1.0
+  },
+  {
+    "text": "So there he is, Jano's our control,\nscience, data acquisition guy.",
+    "start": 2183.269,
+    "duration": 6.297
+  },
+  {
+    "text": "He's the guy that is going to be\nresponsible and is responsible",
+    "start": 2189.591,
+    "duration": 3.253
+  },
+  {
+    "text": "for collecting all the data from\nall the different instruments",
+    "start": 2192.869,
+    "duration": 3.045
+  },
+  {
+    "text": "and bringing them in and\ncoalescing, you might say,",
+    "start": 2195.939,
+    "duration": 2.721
+  },
+  {
+    "text": "and synchronizing the data\nfrom all the instruments.",
+    "start": 2198.685,
+    "duration": 2.601
+  },
+  {
+    "text": "And so here we are at a lab, and\nhe's probably looking at...",
+    "start": 2201.311,
+    "duration": 4.638
+  },
+  {
+    "text": "So, we have to wire it up.",
+    "start": 2210.793,
+    "duration": 2.561
+  },
+  {
+    "text": "And we have to do checks, and\nvacuum checks, and leak tests.",
+    "start": 2219.019,
+    "duration": 4.054
+  },
+  {
+    "text": "And then, we have fabrication.",
+    "start": 2226.423,
+    "duration": 2.496
+  },
+  {
+    "text": "Now, some say, well you know the\npanel had to be fabricated,",
+    "start": 2229.18,
+    "duration": 3.174
+  },
+  {
+    "text": "and I didn't know how to split the\npresentation up into different,",
+    "start": 2232.379,
+    "duration": 3.555
+  },
+  {
+    "text": "into the different\naspects, so, you know,",
+    "start": 2235.959,
+    "duration": 2.363
+  },
+  {
+    "text": "the panel did have to be fabricated,\nbut when we think of a fabrication,",
+    "start": 2238.347,
+    "duration": 3.105
+  },
+  {
+    "text": "we're thinking more on the lines of, you\nknow, machining and building and welding.",
+    "start": 2241.477,
+    "duration": 6.141
+  },
+  {
+    "text": "That's really cool to see\nhow things are made.",
+    "start": 2251.13,
+    "duration": 3.305
+  },
+  {
+    "text": "So, when we go to fabricate things,",
+    "start": 2274.448,
+    "duration": 2.412
+  },
+  {
+    "text": "ultimately you have to\nget the raw materials,",
+    "start": 2276.885,
+    "duration": 2.075
+  },
+  {
+    "text": "and you have to get the parts,\nand they have to be machined,",
+    "start": 2278.96,
+    "duration": 3.09
+  },
+  {
+    "text": "and they go on big boring mills, and they\ngo, you have to drill holes in them,",
+    "start": 2282.075,
+    "duration": 3.944
+  },
+  {
+    "text": "and you have to prepare the holes for\nthe feed through and the flanges",
+    "start": 2286.044,
+    "duration": 2.872
+  },
+  {
+    "text": "and the glass and all the different\nparts, and this is what it takes to,",
+    "start": 2288.941,
+    "duration": 3.224
+  },
+  {
+    "text": "just in the fabrication level.",
+    "start": 2292.19,
+    "duration": 1.974
+  },
+  {
+    "text": "And there's a lot of parts.",
+    "start": 2294.189,
+    "duration": 1.682
+  },
+  {
+    "text": "And they all have to fit\ntogether, the first time.",
+    "start": 2295.896,
+    "duration": 2.833
+  },
+  {
+    "text": "So, what we're doing\nhere right now,",
+    "start": 2299.431,
+    "duration": 3.079
+  },
+  {
+    "text": "we're welding the\nflanges into the chamber,",
+    "start": 2303.2,
+    "duration": 4.885
+  },
+  {
+    "text": "and we're checking the welds.",
+    "start": 2308.307,
+    "duration": 2.544
+  },
+  {
+    "text": "I'll just like the audio\ncarry out here for a second.",
+    "start": 2312.975,
+    "duration": 2.94
+  },
+  {
+    "text": " ",
+    "start": 2315.94,
+    "duration": 1.837
+  },
+  {
+    "text": "If you have one pin hole,",
+    "start": 2325.524,
+    "duration": 2.08
+  },
+  {
+    "text": "you no longer have a stable\nvacuum in your chamber.",
+    "start": 2328.185,
+    "duration": 3.762
+  },
+  {
+    "text": "And normally when you\nbuild a machine this complex,",
+    "start": 2332.391,
+    "duration": 3.474
+  },
+  {
+    "text": "you're going to\nhave vacuum leaks.",
+    "start": 2335.89,
+    "duration": 1.903
+  },
+  {
+    "text": "And we do, at this stage.",
+    "start": 2337.818,
+    "duration": 1.468
+  },
+  {
+    "text": "We've got some work to do.",
+    "start": 2339.311,
+    "duration": 1.731
+  },
+  {
+    "text": "We may have to go\nand discover,",
+    "start": 2341.067,
+    "duration": 1.84
+  },
+  {
+    "text": "we may discover that there's a pin\nhole someplace in one of these welds.",
+    "start": 2342.932,
+    "duration": 3.585
+  },
+  {
+    "text": "And we'll have to come back and we'll have\nto plug that weld.",
+    "start": 2346.542,
+    "duration": 5.775
+  },
+  {
+    "text": "And then we take delivery.",
+    "start": 2354.67,
+    "duration": 2.627
+  },
+  {
+    "text": "It's welded up.",
+    "start": 2357.979,
+    "duration": 1.664
+  },
+  {
+    "text": "And this is at Venture\nMachine and DMI Precision.",
+    "start": 2360.321,
+    "duration": 6.484
+  },
+  {
+    "text": "We have moved SAFIRE from a laboratory in\nMississauga to another lab in Mississauga,",
+    "start": 2366.83,
+    "duration": 5.909
+  },
+  {
+    "text": "because basically\nwe ran out of room.",
+    "start": 2372.764,
+    "duration": 2.556
+  },
+  {
+    "text": "And this is the power supply.",
+    "start": 2376.241,
+    "duration": 3.289
+  },
+  {
+    "text": "It's a big boy, but it's DC, we have\nextremely low for the electrical people,",
+    "start": 2381.157,
+    "duration": 4.371
+  },
+  {
+    "text": "we have extremely low ripple, which\nmeans that the DC power is very clean,",
+    "start": 2385.553,
+    "duration": 4.533
+  },
+  {
+    "text": "which is a requirement of the\nElectric Universe Model,",
+    "start": 2390.111,
+    "duration": 4.512
+  },
+  {
+    "text": "because nature expresses\nelectricity in DC form not AC,",
+    "start": 2394.648,
+    "duration": 4.76
+  },
+  {
+    "text": "although it may be that\nthere's responses.",
+    "start": 2399.433,
+    "duration": 4.328
+  },
+  {
+    "text": "I'm digressing here, but we take\ndelivery, and we're making preparations.",
+    "start": 2404.947,
+    "duration": 6.119
+  },
+  {
+    "text": "And part of the\npreparations of course is,",
+    "start": 2412.134,
+    "duration": 2.562
+  },
+  {
+    "text": "well, if we've got a scratch on\nthe surface that's got a gasket,",
+    "start": 2414.721,
+    "duration": 3.515
+  },
+  {
+    "text": "it's got to be polished out.",
+    "start": 2418.261,
+    "duration": 2.77
+  },
+  {
+    "text": "And the surface, well, this is Scott, and he\noffered his assistance, free of charge.",
+    "start": 2421.056,
+    "duration": 6.094
+  },
+  {
+    "text": "And he asked me, \n\"Do you got a job for me?\"",
+    "start": 2427.175,
+    "duration": 4.424
+  },
+  {
+    "text": "And I just had the job, and I said,\n\"Here's a stone; it's a very fine stone.",
+    "start": 2431.624,
+    "duration": 5.22
+  },
+  {
+    "text": "You see this big lip\nacross the chamber here?",
+    "start": 2436.869,
+    "duration": 2.413
+  },
+  {
+    "text": "Well, if you see any imperfections, see\nif you can you can pull those out,",
+    "start": 2439.307,
+    "duration": 3.817
+  },
+  {
+    "text": "because every imperfection means that's\nwhere we're going to have a gas leak.\"",
+    "start": 2443.149,
+    "duration": 2.878
+  },
+  {
+    "text": "I just let you know Scott, we don't\nhave any leaks in the chamber door.",
+    "start": 2446.052,
+    "duration": 4.333
+  },
+  {
+    "text": "And this is Leighton MacMillan. He's\non the team as well. He's not with us,",
+    "start": 2453.77,
+    "duration": 4.396
+  },
+  {
+    "text": "but everything has to be\ncleaned with alcohol and",
+    "start": 2458.191,
+    "duration": 4.38
+  },
+  {
+    "text": "prepared before you start putting the\ngaskets and the copper rings together.",
+    "start": 2462.596,
+    "duration": 4.631
+  },
+  {
+    "text": "This here is the new anode base.",
+    "start": 2469.124,
+    "duration": 4.406
+  },
+  {
+    "text": "What you're looking at is the\nbulkhead, services through the anode,",
+    "start": 2474.382,
+    "duration": 5.566
+  },
+  {
+    "text": "because at this time around we\nwant to be able to bring other,",
+    "start": 2479.973,
+    "duration": 3.436
+  },
+  {
+    "text": "we want to cool the anode, ok,",
+    "start": 2483.434,
+    "duration": 2.222
+  },
+  {
+    "text": "we want to be able to\nmake sure that we didn't",
+    "start": 2485.681,
+    "duration": 3.072
+  },
+  {
+    "text": "see some of the failures\nthat we saw in Phase 1.",
+    "start": 2488.778,
+    "duration": 3.572
+  },
+  {
+    "text": "So, what you're seeing here is a heat\nexchanger, and we have water coming up,",
+    "start": 2492.903,
+    "duration": 4.08
+  },
+  {
+    "text": "and we actually can, using a particular\ntaper, we can take a new anode",
+    "start": 2497.008,
+    "duration": 5.108
+  },
+  {
+    "text": "and shove it in there like\nyou do in a drill press,",
+    "start": 2502.291,
+    "duration": 2.802
+  },
+  {
+    "text": "and with a small screw\nretain the anode.",
+    "start": 2505.118,
+    "duration": 3.067
+  },
+  {
+    "text": "We know from the Computational Fluid\nDynamics, the thermodynamics,",
+    "start": 2508.21,
+    "duration": 4.229
+  },
+  {
+    "text": "that the temperatures are going to\nreach about 1,600 degrees Celsius.",
+    "start": 2512.44,
+    "duration": 3.381
+  },
+  {
+    "text": "So, you've got composites that are in\nthere, those plastics are going to melt.",
+    "start": 2515.846,
+    "duration": 4.238
+  },
+  {
+    "text": "So, we have to get\nthat heat away.",
+    "start": 2520.109,
+    "duration": 3.585
+  },
+  {
+    "text": "So, we're starting to\nassemble the anode.",
+    "start": 2524.726,
+    "duration": 5.298
+  },
+  {
+    "text": "Actually the anode base,\nthe receiving base.",
+    "start": 2533.356,
+    "duration": 3.236
+  },
+  {
+    "text": "And this is the anode\nisolation chamber",
+    "start": 2539.153,
+    "duration": 2.657
+  },
+  {
+    "text": "with it pulled back where we\ncan actually put the anode in.",
+    "start": 2541.835,
+    "duration": 3.319
+  },
+  {
+    "text": "And what you're looking at\nhere, actually, is this good?",
+    "start": 2545.179,
+    "duration": 6.55
+  },
+  {
+    "text": "Yeah. This is the\nbig gate valve.",
+    "start": 2551.769,
+    "duration": 2.344
+  },
+  {
+    "text": "So right now, the chamber can be in\nvacuum, we close this gate valve,",
+    "start": 2554.138,
+    "duration": 4.982
+  },
+  {
+    "text": "and well we close it first,",
+    "start": 2559.145,
+    "duration": 3.036
+  },
+  {
+    "text": "we pull the anode first, we\nbetter pull the anode out first.",
+    "start": 2563.195,
+    "duration": 4.689
+  },
+  {
+    "text": "OK, then we close the gate valve, and then\nwe open up the isolation chamber here,",
+    "start": 2568.101,
+    "duration": 5.492
+  },
+  {
+    "text": "so that we can get to the anode and replace\nit, or do whatever kind of work that we want.",
+    "start": 2573.618,
+    "duration": 5.321
+  },
+  {
+    "text": "Then we close it back up,\nopen up the gate valve,",
+    "start": 2578.964,
+    "duration": 2.669
+  },
+  {
+    "text": "and we can bring the anode\nback into the chamber.",
+    "start": 2581.658,
+    "duration": 2.133
+  },
+  {
+    "text": "And it works pretty slick.",
+    "start": 2583.816,
+    "duration": 2.0
+  },
+  {
+    "text": "This is a cathode.",
+    "start": 2591.644,
+    "duration": 1.807
+  },
+  {
+    "text": "This is one cathode.",
+    "start": 2593.881,
+    "duration": 1.481
+  },
+  {
+    "text": "There's a coffee cup, but\nkinda give you some scale.",
+    "start": 2595.725,
+    "duration": 3.391
+  },
+  {
+    "text": "I didn't mean to leave the coffee cup\nthere, but I see that it's there, and",
+    "start": 2599.141,
+    "duration": 3.901
+  },
+  {
+    "text": "it's 3 feet in diameter, and the\ncopper's about 3/8 of an inch thick.",
+    "start": 2603.067,
+    "duration": 4.279
+  },
+  {
+    "text": "And the rings on the\nback are for support,",
+    "start": 2607.371,
+    "duration": 2.328
+  },
+  {
+    "text": "because you get that kind of heat as you\nknow, with metals it'll start to warp.",
+    "start": 2609.699,
+    "duration": 4.021
+  },
+  {
+    "text": "So, we have to have structural\nintegrity as well.",
+    "start": 2613.745,
+    "duration": 3.23
+  },
+  {
+    "text": "And this is the\ninside of SAFIRE.",
+    "start": 2617.367,
+    "duration": 3.551
+  },
+  {
+    "text": "We have a cathodes, the\nanode, instrumentation ports,",
+    "start": 2626.094,
+    "duration": 4.684
+  },
+  {
+    "text": "and we're going to be looking\nat some other things,",
+    "start": 2630.803,
+    "duration": 3.351
+  },
+  {
+    "text": "and just take you for a tour.",
+    "start": 2634.179,
+    "duration": 5.303
+  },
+  {
+    "text": "So Systems.",
+    "start": 2640.813,
+    "duration": 2.048
+  },
+  {
+    "text": "We're going to go\nback to systems here.",
+    "start": 2642.886,
+    "duration": 2.779
+  },
+  {
+    "text": "And systems is how you get everything\nto talk and work together.",
+    "start": 2645.69,
+    "duration": 4.303
+  },
+  {
+    "text": "Electrical, vacuum, water cooling\nsystems, there are a lot of systems.",
+    "start": 2650.018,
+    "duration": 6.091
+  },
+  {
+    "text": "There are primary vacuum systems;\nthere are secondary vacuum systems;",
+    "start": 2656.944,
+    "duration": 3.812
+  },
+  {
+    "text": "there's low vacuum and high vacuum;\nthere is high voltage systems,",
+    "start": 2660.781,
+    "duration": 4.218
+  },
+  {
+    "text": "medium voltage systems, and low\nvoltage systems used for controls.",
+    "start": 2665.024,
+    "duration": 3.885
+  },
+  {
+    "text": "There are data\nacquisition systems,",
+    "start": 2668.934,
+    "duration": 1.997
+  },
+  {
+    "text": "computer numerically controlled-servo systems, air cooling systems.",
+    "start": 2670.956,
+    "duration": 5.555
+  },
+  {
+    "text": " ",
+    "start": 2680.129,
+    "duration": 3.09
+  },
+  {
+    "text": "Yes! And there are primary pneumatic\nsystems, secondary pneumatic systems,",
+    "start": 2685.265,
+    "duration": 4.182
+  },
+  {
+    "text": "gate valves switches, normally open,\nnormally closed, indicators lights,",
+    "start": 2689.472,
+    "duration": 4.485
+  },
+  {
+    "text": "red lights, green lights, pumps, valves, sensors,\nburst systems, exhaust systems, compressors,",
+    "start": 2693.982,
+    "duration": 4.95
+  },
+  {
+    "text": "gas systems, diffusing\nsystems, gas analyzing system,",
+    "start": 2698.957,
+    "duration": 4.118
+  },
+  {
+    "text": "and an emergency stop big red button\nin case one of the systems fails.",
+    "start": 2703.903,
+    "duration": 5.523
+  },
+  {
+    "text": "And I think that's it.",
+    "start": 2710.147,
+    "duration": 2.011
+  },
+  {
+    "text": "So it's complex.",
+    "start": 2713.067,
+    "duration": 2.018
+  },
+  {
+    "text": "This is the main vacuum pump, and it\nsucks, big time.",
+    "start": 2715.11,
+    "duration": 5.483
+  },
+  {
+    "text": "It will It will take the chamber\ndown to 10 minus 3 or 2...3,",
+    "start": 2720.618,
+    "duration": 7.761
+  },
+  {
+    "text": "10 minus 2 in about 15 minutes.",
+    "start": 2729.164,
+    "duration": 3.487
+  },
+  {
+    "text": "OK, if anybody knows about,\nanything about vacuum pumps,",
+    "start": 2733.136,
+    "duration": 3.249
+  },
+  {
+    "text": "this is from Oerlikon;\nit's a particular pump.",
+    "start": 2736.41,
+    "duration": 4.164
+  },
+  {
+    "text": "The nice thing about this pump is\nthat all you have to cool is water,",
+    "start": 2740.599,
+    "duration": 4.651
+  },
+  {
+    "text": "because you got your\nwater cooling system,",
+    "start": 2745.275,
+    "duration": 1.35
+  },
+  {
+    "text": "but you've got nitrogen cooling and\ndiffusion line, what's that all about?",
+    "start": 2746.65,
+    "duration": 3.791
+  },
+  {
+    "text": "Well, what that's about, is if\nyou take a look at the middle,",
+    "start": 2750.466,
+    "duration": 2.767
+  },
+  {
+    "text": "it says nitrogen cooling\nand diffusion line,",
+    "start": 2753.258,
+    "duration": 2.95
+  },
+  {
+    "text": "it allows us to run hydrogen in the\nchamber, evacuate the hydrogen out,",
+    "start": 2756.233,
+    "duration": 4.372
+  },
+  {
+    "text": "and it allows us to introduce nitrogen\ninto the exhaust so that it's not dangerous.",
+    "start": 2760.63,
+    "duration": 4.775
+  },
+  {
+    "text": "You see?",
+    "start": 2765.43,
+    "duration": 1.127
+  },
+  {
+    "text": "So part of that, is part of the\nmass spectrometers measuring",
+    "start": 2766.582,
+    "duration": 4.327
+  },
+  {
+    "text": "what the hydrogen content\nis in the exhaust,",
+    "start": 2770.934,
+    "duration": 2.256
+  },
+  {
+    "text": "so we don't end up with dangerous fumes\ncoming out the exhaust system of the chamber.",
+    "start": 2773.215,
+    "duration": 3.864
+  },
+  {
+    "text": "Nice pump, expensive pump, it's\na really good pump.",
+    "start": 2777.104,
+    "duration": 3.375
+  },
+  {
+    "text": "It's a dry pump by the way.",
+    "start": 2781.075,
+    "duration": 2.196
+  },
+  {
+    "text": "Now, that's important because we don't\nwant any hydrocarbons in the chamber",
+    "start": 2783.296,
+    "duration": 3.993
+  },
+  {
+    "text": "other than what we\nwant to put in there.",
+    "start": 2787.314,
+    "duration": 1.661
+  },
+  {
+    "text": "We don't want oil bleeding back\nthrough the pump into the chamber,",
+    "start": 2789.0,
+    "duration": 3.976
+  },
+  {
+    "text": "which we think we may have\nhad a problem Phase 1.",
+    "start": 2793.001,
+    "duration": 3.647
+  },
+  {
+    "text": "So, we're not gonna look\nat the cryogenic pump.",
+    "start": 2796.942,
+    "duration": 4.503
+  },
+  {
+    "text": "We hear the word \"cryogenic\"\nand really what it means",
+    "start": 2801.47,
+    "duration": 2.864
+  },
+  {
+    "text": "is you bring things down to\na very cold temperature,",
+    "start": 2804.359,
+    "duration": 3.006
+  },
+  {
+    "text": "just a few degrees above absolute\nzero, and it condenses the gas,",
+    "start": 2807.39,
+    "duration": 4.539
+  },
+  {
+    "text": "and by doing that we can bring the chamber pressure down even lower.",
+    "start": 2811.954,
+    "duration": 5.626
+  },
+  {
+    "text": "Down, theoretically we should be\nable to get down to 10 minus 7,",
+    "start": 2818.136,
+    "duration": 4.206
+  },
+  {
+    "text": "but I think operationally in order for us to\nevacuate all the impurities that are in the chamber,",
+    "start": 2822.367,
+    "duration": 4.55
+  },
+  {
+    "text": "because we need to do that if we're\ngoing to do good mass and optical",
+    "start": 2826.942,
+    "duration": 3.895
+  },
+  {
+    "text": "and spectral analysis, we need to\nmake sure the chamber's clean.",
+    "start": 2830.862,
+    "duration": 5.753
+  },
+  {
+    "text": "And there's really not many things\nin the way of moving parts,",
+    "start": 2837.722,
+    "duration": 4.075
+  },
+  {
+    "text": "it basically uses helium to bring\nthe the the cryo-pump down.",
+    "start": 2841.822,
+    "duration": 5.502
+  },
+  {
+    "text": "I mean the temperature of the pump\ndown to a place where it condenses the gas.",
+    "start": 2847.349,
+    "duration": 5.85
+  },
+  {
+    "text": "We have, if you can see here,",
+    "start": 2855.816,
+    "duration": 2.621
+  },
+  {
+    "text": "part of what's going on here,",
+    "start": 2859.579,
+    "duration": 2.765
+  },
+  {
+    "text": "we also need to measure...",
+    "start": 2864.442,
+    "duration": 2.106
+  },
+  {
+    "text": "In the system, when we talk\nabout systems we have one,",
+    "start": 2871.739,
+    "duration": 3.945
+  },
+  {
+    "text": "what we call a thermal\nvac pressure sensor,",
+    "start": 2875.709,
+    "duration": 3.071
+  },
+  {
+    "text": "because we need to monitor the pressure of\nthis system before we actually turn it on.",
+    "start": 2879.058,
+    "duration": 5.224
+  },
+  {
+    "text": "So, this is the feedback\nthat goes back to SAFCON.",
+    "start": 2884.307,
+    "duration": 2.611
+  },
+  {
+    "text": "This is just one.",
+    "start": 2886.943,
+    "duration": 1.897
+  },
+  {
+    "text": "We got the cooling\nsystem, of course,",
+    "start": 2891.062,
+    "duration": 2.581
+  },
+  {
+    "text": "and we have to make sure that the\nwater that's going into the center of",
+    "start": 2893.668,
+    "duration": 4.011
+  },
+  {
+    "text": "SAFIRE is deionized water.",
+    "start": 2897.704,
+    "duration": 3.134
+  },
+  {
+    "text": "It doesn't have any\nminerals in it",
+    "start": 2900.863,
+    "duration": 2.574
+  },
+  {
+    "text": "because the plasma, the anode\nis charged at 5,000 volts.",
+    "start": 2903.462,
+    "duration": 5.282
+  },
+  {
+    "text": "So, we can use water\nas long as it......um.....",
+    "start": 2908.769,
+    "duration": 5.317
+  },
+  {
+    "text": "So, we have to deionize the\nwater. And the temperatures,",
+    "start": 2921.33,
+    "duration": 3.536
+  },
+  {
+    "text": "we need to keep them low; so, we\nuse a re-circulation system,",
+    "start": 2924.891,
+    "duration": 3.151
+  },
+  {
+    "text": "because we can't afford to just bring\nfresh water in and deionize it.",
+    "start": 2928.067,
+    "duration": 4.087
+  },
+  {
+    "text": "Deionized water will not\nconduct electricity.",
+    "start": 2932.179,
+    "duration": 2.778
+  },
+  {
+    "text": "So, you can use water\nto cool things down",
+    "start": 2934.982,
+    "duration": 2.491
+  },
+  {
+    "text": "as long as it doesn't have\nany mineral content in it.",
+    "start": 2937.498,
+    "duration": 2.943
+  },
+  {
+    "text": "And so, we have a high pressure\npump and manifold system to",
+    "start": 2941.51,
+    "duration": 4.321
+  },
+  {
+    "text": "distribute the cooled water out\nto the various characteristics,",
+    "start": 2945.856,
+    "duration": 6.112
+  },
+  {
+    "text": "or you might say parts of the\nchamber, to keep them cool.",
+    "start": 2951.993,
+    "duration": 3.733
+  },
+  {
+    "text": "And we have a deionizer that actually monitors\nthe resistivity of the water as well.",
+    "start": 2956.855,
+    "duration": 6.454
+  },
+  {
+    "text": "This will give you an indication\nof the complexities of SAFIRE,",
+    "start": 2964.56,
+    "duration": 3.319
+  },
+  {
+    "text": "to make something\nlike this work.",
+    "start": 2967.904,
+    "duration": 2.379
+  },
+  {
+    "text": "Primary Plasma\nMeasurement Instruments",
+    "start": 2972.267,
+    "duration": 2.502
+  },
+  {
+    "text": "Well, we've covered this before.",
+    "start": 2974.769,
+    "duration": 2.347
+  },
+  {
+    "text": "This is showing the equipment that we have\neither on the floor or it's on route.",
+    "start": 2977.505,
+    "duration": 4.845
+  },
+  {
+    "text": "So Langmuir probe.",
+    "start": 2982.375,
+    "duration": 1.596
+  },
+  {
+    "text": "It took us about eight months to work out\nwith a Langmuir probe manufacturer",
+    "start": 2984.429,
+    "duration": 5.406
+  },
+  {
+    "text": "to get the right kind of\nprobe manufactured for SAFIRE.",
+    "start": 2989.86,
+    "duration": 3.867
+  },
+  {
+    "text": "These probes are approximately 6 feet\ntall, and they're very, very sensitive.",
+    "start": 2993.752,
+    "duration": 7.993
+  },
+  {
+    "text": "The section here is\nmade of alumina,",
+    "start": 3002.379,
+    "duration": 7.947
+  },
+  {
+    "text": "which is like a very\nfragile material,",
+    "start": 3010.351,
+    "duration": 3.388
+  },
+  {
+    "text": "but it's extremely good when it comes\nto extremely nasty, hot environments.",
+    "start": 3013.739,
+    "duration": 5.489
+  },
+  {
+    "text": "And of course in the past, you've\nseen the optical",
+    "start": 3019.253,
+    "duration": 3.238
+  },
+  {
+    "text": "spectrometer that we've been using to\nget some of the signatures that we got,",
+    "start": 3022.516,
+    "duration": 3.53
+  },
+  {
+    "text": "and of course the mass\nspectrometer itself.",
+    "start": 3026.071,
+    "duration": 2.874
+  },
+  {
+    "text": "Now, the mass spec is probably one of the more\nimportant pieces of equipment in SAFIRE",
+    "start": 3037.657,
+    "duration": 7.351
+  },
+  {
+    "text": "because it tells us what we've got as\na constituent gas inside the chamber.",
+    "start": 3045.033,
+    "duration": 5.05
+  },
+  {
+    "text": "And it'll measure all the\nelements, every 500 milliseconds,",
+    "start": 3050.108,
+    "duration": 4.443
+  },
+  {
+    "text": "and return that\ninformation back to us.",
+    "start": 3054.576,
+    "duration": 2.476
+  },
+  {
+    "text": "So, we know that when the chamber has got\nhydrogen in it, or if it's got argon,",
+    "start": 3057.077,
+    "duration": 5.17
+  },
+  {
+    "text": "or some other gas, or if we end up\nwith some strange species, as some,",
+    "start": 3062.272,
+    "duration": 5.283
+  },
+  {
+    "text": "we indicated at last\nyear's conference.",
+    "start": 3067.58,
+    "duration": 3.234
+  },
+  {
+    "text": "But what we did this time\nis we said look, you know,",
+    "start": 3071.112,
+    "duration": 2.701
+  },
+  {
+    "text": "we want to measure in different\nregions in the chamber;",
+    "start": 3073.838,
+    "duration": 1.909
+  },
+  {
+    "text": "we want to measure right down near the\nanode; we want to measure the exhaust gas;",
+    "start": 3075.772,
+    "duration": 3.96
+  },
+  {
+    "text": "and so we have a system by which\nwith just a flip of a switch",
+    "start": 3079.757,
+    "duration": 3.187
+  },
+  {
+    "text": "we can sample any area\nof SAFIRE at any time.",
+    "start": 3082.969,
+    "duration": 3.755
+  },
+  {
+    "text": "And this is what\ngoes on in SAFCON.",
+    "start": 3088.375,
+    "duration": 1.911
+  },
+  {
+    "text": "This is what goes on\nin the control room.",
+    "start": 3090.311,
+    "duration": 2.142
+  },
+  {
+    "text": "Data Acquisition and\nSystems Control.",
+    "start": 3092.478,
+    "duration": 2.941
+  },
+  {
+    "text": " ",
+    "start": 3097.681,
+    "duration": 1.227
+  },
+  {
+    "text": "And no scientific experiment would really be\ncomplete unless you had a rats nest of wires,",
+    "start": 3098.933,
+    "duration": 5.754
+  },
+  {
+    "text": "and communication, and pressure systems,\nand pressure and data acquisition, I mean.",
+    "start": 3104.712,
+    "duration": 8.035
+  },
+  {
+    "text": "So, this is Leighton, and\nhe is building, the,",
+    "start": 3112.772,
+    "duration": 2.176
+  },
+  {
+    "text": "I guess really might say, the\nnervous system of SAFIRE.",
+    "start": 3114.973,
+    "duration": 3.562
+  },
+  {
+    "text": "And diagnostics, we\nhave to troubleshoot.",
+    "start": 3120.454,
+    "duration": 3.144
+  },
+  {
+    "text": "And all this information\ncomes back to SAFCON.",
+    "start": 3130.82,
+    "duration": 2.693
+  },
+  {
+    "text": "So, we know if there's\nsomething getting in trouble;",
+    "start": 3133.538,
+    "duration": 2.876
+  },
+  {
+    "text": "we know if we got a pressure\nleak, over pressure.",
+    "start": 3136.439,
+    "duration": 3.295
+  },
+  {
+    "text": "So, the main power supply,\nas I said before,",
+    "start": 3141.268,
+    "duration": 3.734
+  },
+  {
+    "text": "it has a capability of delivering\n200 kilowatts now, DC, clean.",
+    "start": 3145.027,
+    "duration": 6.138
+  },
+  {
+    "text": "We can control the voltage, and\nwe can control the current.",
+    "start": 3151.19,
+    "duration": 3.53
+  },
+  {
+    "text": "And you'll see what happens when\nwe didn't control the current.",
+    "start": 3154.745,
+    "duration": 5.566
+  },
+  {
+    "text": " ",
+    "start": 3161.614,
+    "duration": 1.0
+  },
+  {
+    "text": "I think this is Joel giving me a lecture;\nJano's listening intently.",
+    "start": 3162.639,
+    "duration": 6.023
+  },
+  {
+    "text": "And this is just before we\nstart to do the fire up of SAFIRE,",
+    "start": 3168.687,
+    "duration": 3.942
+  },
+  {
+    "text": "which you are going to see\nin just a few minutes here.",
+    "start": 3172.654,
+    "duration": 3.332
+  },
+  {
+    "text": "Now for the EU, Don Scott and I've\ntalked back and forth a little bit",
+    "start": 3179.39,
+    "duration": 3.773
+  },
+  {
+    "text": "about the low energy discharges.",
+    "start": 3183.188,
+    "duration": 2.412
+  },
+  {
+    "text": "We can go from 0\nup to 5,000 volts,",
+    "start": 3185.625,
+    "duration": 3.857
+  },
+  {
+    "text": "and we can go from 0 up to\n35 amps or better actually,",
+    "start": 3189.507,
+    "duration": 3.815
+  },
+  {
+    "text": "but we have some work to\ndo to get it refined.",
+    "start": 3193.347,
+    "duration": 2.886
+  },
+  {
+    "text": "We have a lot of work to do.",
+    "start": 3196.258,
+    "duration": 1.53
+  },
+  {
+    "text": "We just fired up SAFIRE for\nthe first time last week.",
+    "start": 3197.813,
+    "duration": 3.581
+  },
+  {
+    "text": "The Gimbal,",
+    "start": 3203.897,
+    "duration": 1.37
+  },
+  {
+    "text": "As some of you know, it's a\nprimary instrument to use",
+    "start": 3207.926,
+    "duration": 2.754
+  },
+  {
+    "text": "to move a variety of instruments\nfreely through the SAFIRE chamber.",
+    "start": 3210.705,
+    "duration": 3.132
+  },
+  {
+    "text": "It's CNC computer\nnumerically controlled;",
+    "start": 3213.862,
+    "duration": 2.127
+  },
+  {
+    "text": "we have position accuracy to\nalmost a thousandth of an inch,",
+    "start": 3216.014,
+    "duration": 3.074
+  },
+  {
+    "text": "which means we can move\nthe Langmuir probe",
+    "start": 3219.113,
+    "duration": 1.936
+  },
+  {
+    "text": "through some of the double\nlayers that we've seen,",
+    "start": 3221.074,
+    "duration": 1.791
+  },
+  {
+    "text": "and start to examine\npossibly Birkeland Currents,",
+    "start": 3222.89,
+    "duration": 2.846
+  },
+  {
+    "text": "and diagnose what's\nactually going on there.",
+    "start": 3225.761,
+    "duration": 2.329
+  },
+  {
+    "text": "Maybe we get some answers as to\nwhy there is charge separation.",
+    "start": 3228.115,
+    "duration": 4.026
+  },
+  {
+    "text": "Optical spectroscopy,\nLangmuir probe measurements,",
+    "start": 3234.578,
+    "duration": 3.127
+  },
+  {
+    "text": "and other instruments can be\nadded and put into the gimbal.",
+    "start": 3237.73,
+    "duration": 4.229
+  },
+  {
+    "text": "And here it is here.",
+    "start": 3243.216,
+    "duration": 2.867
+  },
+  {
+    "text": "So, last year was a model, and\nnow you see the real thing.",
+    "start": 3246.108,
+    "duration": 3.889
+  },
+  {
+    "text": "And this will give an indication here,\nI think it should start the movie,",
+    "start": 3250.022,
+    "duration": 4.336
+  },
+  {
+    "text": "yes, how smoothly\nthe gimbal works.",
+    "start": 3254.383,
+    "duration": 5.343
+  },
+  {
+    "text": "So, it's like a long needle and we can\nbring the needle down into the plasma;",
+    "start": 3259.751,
+    "duration": 4.389
+  },
+  {
+    "text": "we can move it anywhere we want.",
+    "start": 3264.165,
+    "duration": 2.381
+  },
+  {
+    "text": "And we can use it\nusing a joystick,",
+    "start": 3267.123,
+    "duration": 1.905
+  },
+  {
+    "text": "or we can pre-program different\ntypes of motions that are in there,",
+    "start": 3269.053,
+    "duration": 3.754
+  },
+  {
+    "text": "or different motions\nthat we can move.",
+    "start": 3272.832,
+    "duration": 6.003
+  },
+  {
+    "text": "If we wanted to move a comet around,\nlet's say the anode itself,",
+    "start": 3278.86,
+    "duration": 2.761
+  },
+  {
+    "text": "we wanted to move out towards the cathode\nand measure at the anode at the same time.",
+    "start": 3281.646,
+    "duration": 4.728
+  },
+  {
+    "text": "There are two gimbals on SAFIRE,",
+    "start": 3286.399,
+    "duration": 2.487
+  },
+  {
+    "text": "and the patent was just filed\non Friday, yesterday actually.",
+    "start": 3292.464,
+    "duration": 3.865
+  },
+  {
+    "text": "So, that's pretty cool.",
+    "start": 3297.884,
+    "duration": 1.801
+  },
+  {
+    "text": "And this is all within the year.",
+    "start": 3305.468,
+    "duration": 2.545
+  },
+  {
+    "text": "So, we've been busy.",
+    "start": 3309.275,
+    "duration": 3.596
+  },
+  {
+    "text": "It's pretty tall.",
+    "start": 3315.784,
+    "duration": 1.757
+  },
+  {
+    "text": "The gimbal standing\nwould be right now,",
+    "start": 3318.48,
+    "duration": 2.383
+  },
+  {
+    "text": "I guess from where it's mounted, it'd\nprobably be close to 7 feet.",
+    "start": 3320.888,
+    "duration": 4.171
+  },
+  {
+    "text": "And now we're going to start up.",
+    "start": 3331.346,
+    "duration": 2.601
+  },
+  {
+    "text": "Ben [Ged Low] was kind enough to edit this\nnext video we're going to see",
+    "start": 3336.936,
+    "duration": 4.149
+  },
+  {
+    "text": "because there are certain\nthings that occurred,",
+    "start": 3341.11,
+    "duration": 3.544
+  },
+  {
+    "text": "and this is the startup\nof SAFIRE Phase 2.",
+    "start": 3344.679,
+    "duration": 5.49
+  },
+  {
+    "text": "Take the voltage down!",
+    "start": 3428.515,
+    "duration": 1.745
+  },
+  {
+    "text": "Kill it! Kill it!",
+    "start": 3434.976,
+    "duration": 2.582
+  },
+  {
+    "text": "OK, so that was the first day.",
+    "start": 3442.284,
+    "duration": 3.423
+  },
+  {
+    "text": "And what I had forgot\nwas a little thing",
+    "start": 3445.905,
+    "duration": 4.392
+  },
+  {
+    "text": "that Don Scott and a couple\nof us had talked about.",
+    "start": 3450.322,
+    "duration": 3.871
+  },
+  {
+    "text": "Instead of limiting the current on the\nfirst discharge, I was limiting the voltage.",
+    "start": 3454.218,
+    "duration": 5.083
+  },
+  {
+    "text": "So, I was thinking, \"OK, well, we just want\nto get enough voltage to get it ignited.\"",
+    "start": 3459.326,
+    "duration": 3.895
+  },
+  {
+    "text": "But I should have actually\nlimited the current.",
+    "start": 3463.246,
+    "duration": 2.786
+  },
+  {
+    "text": "Now, what's missing out of this film here,\nwell actually, what I should say is",
+    "start": 3466.057,
+    "duration": 3.832
+  },
+  {
+    "text": "what you actually saw at the very end was\nwhat we call a \"plasma flow discharge\"",
+    "start": 3469.914,
+    "duration": 6.142
+  },
+  {
+    "text": "and it resembles something like\nthe Death Star out of Star Wars.",
+    "start": 3476.081,
+    "duration": 4.238
+  },
+  {
+    "text": "OK, and what it does is an extremely intense ion\ndischarge to wherever it's going and its focus.",
+    "start": 3480.344,
+    "duration": 6.25
+  },
+  {
+    "text": "Well, what you don't know,\nwhat you didn't hear,",
+    "start": 3486.619,
+    "duration": 2.507
+  },
+  {
+    "text": "was actually the power supply\nwas maxing out of 200 kilowatts",
+    "start": 3489.151,
+    "duration": 3.412
+  },
+  {
+    "text": "and the amount of energy\nwas impinging on a,",
+    "start": 3492.588,
+    "duration": 2.249
+  },
+  {
+    "text": "I thought the chamber of the time,\nbut it was a screw this big.",
+    "start": 3494.862,
+    "duration": 3.961
+  },
+  {
+    "text": "And what happened was I started,\nyou didn't see it in the video,",
+    "start": 3498.848,
+    "duration": 4.662
+  },
+  {
+    "text": "but I started to see all\nthe stuff flying off, OK.",
+    "start": 3503.535,
+    "duration": 3.526
+  },
+  {
+    "text": "And it was actually\nvaporizing the screw.",
+    "start": 3507.086,
+    "duration": 3.909
+  },
+  {
+    "text": "I thought it was drilling a hole\nin the side of the chamber.",
+    "start": 3511.289,
+    "duration": 3.163
+  },
+  {
+    "text": "So, Ben was kind enough to remove some\nof the colloquialisms I was using",
+    "start": 3514.477,
+    "duration": 4.036
+  },
+  {
+    "text": "prior to him saying \"shut it off\" because\nit was about 30 seconds in there that Joel",
+    "start": 3518.538,
+    "duration": 4.625
+  },
+  {
+    "text": "because we didn't actually\nhave you know the main control",
+    "start": 3523.188,
+    "duration": 2.743
+  },
+  {
+    "text": "actually hooked up inside\nSAFCON at the time.",
+    "start": 3525.956,
+    "duration": 2.418
+  },
+  {
+    "text": "It was Joel sitting out and\nstanding out by the power supply",
+    "start": 3528.399,
+    "duration": 2.72
+  },
+  {
+    "text": "listening to us to please\nturn it up or down,",
+    "start": 3531.144,
+    "duration": 2.812
+  },
+  {
+    "text": "and we're all screaming inside because\nwe're freaking out because we thought",
+    "start": 3533.981,
+    "duration": 4.235
+  },
+  {
+    "text": "we were just going to smoke a new hole in\nSAFIRE, and we haven't even got it started yet.",
+    "start": 3538.241,
+    "duration": 4.364
+  },
+  {
+    "text": "So, Day 2, we learned\na few things.",
+    "start": 3542.63,
+    "duration": 3.942
+  },
+  {
+    "text": "We're going to see if we can control the\ncurrent this time and not let it eat",
+    "start": 3546.597,
+    "duration": 3.87
+  },
+  {
+    "text": "as much power as it would like. And so\nwhat you're going to see next was Day 2.",
+    "start": 3550.492,
+    "duration": 6.039
+  },
+  {
+    "text": "And that was Day 2.",
+    "start": 3629.463,
+    "duration": 2.195
+  },
+  {
+    "text": "So, we thought that\nwas pretty cool too.",
+    "start": 3637.188,
+    "duration": 2.399
+  },
+  {
+    "text": "We thought okay we've got some good news. And \nnow we can go to the conference and",
+    "start": 3639.612,
+    "duration": 4.936
+  },
+  {
+    "text": "tell everyone actually\nit works, which is great.",
+    "start": 3646.825,
+    "duration": 4.963
+  },
+  {
+    "text": "Capabilities",
+    "start": 3651.813,
+    "duration": 4.133
+  },
+  {
+    "text": "Should we stop to talk now?",
+    "start": 3657.869,
+    "duration": 2.119
+  },
+  {
+    "text": "Should we talk about\ncapabilities?",
+    "start": 3660.013,
+    "duration": 1.665
+  },
+  {
+    "text": "I'm going to fily through these\nquickly because I'm getting that",
+    "start": 3661.703,
+    "duration": 2.325
+  },
+  {
+    "text": "OK I've been up here long enough\nand I might be boring you guys.",
+    "start": 3664.053,
+    "duration": 3.834
+  },
+  {
+    "text": "You're good?",
+    "start": 3668.483,
+    "duration": 2.054
+  },
+  {
+    "text": "OK, OK.",
+    "start": 3670.704,
+    "duration": 1.561
+  },
+  {
+    "text": "Well, because now that\nwe've got SAFIRE fired up,",
+    "start": 3672.528,
+    "duration": 3.944
+  },
+  {
+    "text": "the real work, hard work, science work,\nelucidating cause and effect, starts.",
+    "start": 3677.107,
+    "duration": 6.802
+  },
+  {
+    "text": "That's when the Design\nof Experiments starts.",
+    "start": 3683.909,
+    "duration": 2.38
+  },
+  {
+    "text": "And we can start to ask some of the\nquestions that we have been longing",
+    "start": 3686.314,
+    "duration": 4.724
+  },
+  {
+    "text": "to get some answers to\nfor a very long time.",
+    "start": 3691.063,
+    "duration": 3.261
+  },
+  {
+    "text": "So the capabilities.",
+    "start": 3694.349,
+    "duration": 1.315
+  },
+  {
+    "text": "So it has the ability to form a variety\nof spherical plasma discharges.",
+    "start": 3695.689,
+    "duration": 3.922
+  },
+  {
+    "text": "And what I will say now I can't\nget into some of the details",
+    "start": 3699.636,
+    "duration": 4.109
+  },
+  {
+    "text": "but we do have full control over all\naspects of the plasma discharge",
+    "start": 3703.77,
+    "duration": 5.179
+  },
+  {
+    "text": "according to Paschen's Law.",
+    "start": 3708.974,
+    "duration": 1.578
+  },
+  {
+    "text": "If you look into that, we can control\neverything now as a variable for us.",
+    "start": 3710.577,
+    "duration": 4.319
+  },
+  {
+    "text": "Now, that's never been\ndone before, ever.",
+    "start": 3714.921,
+    "duration": 3.109
+  },
+  {
+    "text": "It can move instruments freely\nthrough the plasma atmosphere.",
+    "start": 3720.855,
+    "duration": 3.301
+  },
+  {
+    "text": "It can do synchronous and\nsimultaneous measurements.",
+    "start": 3724.181,
+    "duration": 3.641
+  },
+  {
+    "text": "We're down to\npicoseconds, by the way.",
+    "start": 3727.847,
+    "duration": 2.164
+  },
+  {
+    "text": "So, we can synchronize all the measurements\nthat we're taking into picoseconds.",
+    "start": 3730.036,
+    "duration": 4.349
+  },
+  {
+    "text": "That should be really important for\nus because, as we move forward,",
+    "start": 3734.726,
+    "duration": 4.32
+  },
+  {
+    "text": "there are certain events that happen very\nquickly, and we can capture those events.",
+    "start": 3739.071,
+    "duration": 3.928
+  },
+  {
+    "text": "And we can synchronize all the rest of the\ninstruments and do graphical overlay,",
+    "start": 3743.024,
+    "duration": 4.44
+  },
+  {
+    "text": "and we can see the\nhistory or what",
+    "start": 3747.489,
+    "duration": 2.299
+  },
+  {
+    "text": "what was occurring in the chamber before\nit actually led up to that event.",
+    "start": 3749.813,
+    "duration": 3.5
+  },
+  {
+    "text": "This is very important for us to do the\nkind of diagnostics that we need to.",
+    "start": 3753.338,
+    "duration": 4.357
+  },
+  {
+    "text": "High-resolution video, materials testing,\nmaterial deposition, erosion test,",
+    "start": 3760.872,
+    "duration": 5.986
+  },
+  {
+    "text": "Langmuir probe analysis, optical\nspectroscopy, mass spectroscopy,",
+    "start": 3766.883,
+    "duration": 4.611
+  },
+  {
+    "text": "near-ultraviolet light measurements,\ninfrared measurements, polarimetry,",
+    "start": 3771.519,
+    "duration": 4.792
+  },
+  {
+    "text": "Design of Experiments\nmethodology.",
+    "start": 3776.336,
+    "duration": 3.163
+  },
+  {
+    "text": "And Questions, questions\nthat we have:",
+    "start": 3780.477,
+    "duration": 4.76
+  },
+  {
+    "text": "Why do ions and electrons not\nrecombine in a double layer?",
+    "start": 3788.179,
+    "duration": 5.286
+  },
+  {
+    "text": "Why does ionized hydrogen not go\nback to a stable hydrogen atom",
+    "start": 3795.467,
+    "duration": 4.102
+  },
+  {
+    "text": "when it's in a double layer?",
+    "start": 3799.594,
+    "duration": 2.533
+  },
+  {
+    "text": "What is the mechanism, what's the\nprocess, why is it staying like this?",
+    "start": 3802.152,
+    "duration": 3.702
+  },
+  {
+    "text": "Why are double layers\nin SAFIRE quasi-stable?",
+    "start": 3805.879,
+    "duration": 2.954
+  },
+  {
+    "text": "So, why do we form these spheres,\nand they're quite stable?",
+    "start": 3808.858,
+    "duration": 5.373
+  },
+  {
+    "text": "We don't know. We don't\nknow why they form;",
+    "start": 3814.256,
+    "duration": 2.166
+  },
+  {
+    "text": "we have some ideas but we don't\nknow the mechanisms and processes.",
+    "start": 3816.447,
+    "duration": 3.381
+  },
+  {
+    "text": "We can recreate them because we\nunderstand what leads up to them",
+    "start": 3819.853,
+    "duration": 2.988
+  },
+  {
+    "text": "but we don't understand\nthe physics.",
+    "start": 3822.866,
+    "duration": 2.361
+  },
+  {
+    "text": "Why do we get the huge energy\nsurges over 10 megawatts?",
+    "start": 3825.252,
+    "duration": 4.32
+  },
+  {
+    "text": "Maybe it has to do with\nthe paper that Lowell...",
+    "start": 3832.658,
+    "duration": 4.379
+  },
+  {
+    "text": "my name is on the paper too,\nI edited some of the things",
+    "start": 3837.442,
+    "duration": 3.14
+  },
+  {
+    "text": "but Lowell really is the\nmaster of that paper",
+    "start": 3840.607,
+    "duration": 2.555
+  },
+  {
+    "text": "on ion-electron trapping\nin these double layers.",
+    "start": 3843.187,
+    "duration": 3.38
+  },
+  {
+    "text": "And this may be an answer to why the\nSun's photosphere is so intense;",
+    "start": 3846.592,
+    "duration": 5.477
+  },
+  {
+    "text": "maybe why, that's why, there appears to be\nfusion occurring in the Sun's photosphere.",
+    "start": 3852.07,
+    "duration": 5.044
+  },
+  {
+    "text": "Are we getting transformation of elements?\nGood question.",
+    "start": 3857.645,
+    "duration": 3.415
+  },
+  {
+    "text": "Are we getting more\nenergy out than in?",
+    "start": 3861.085,
+    "duration": 2.102
+  },
+  {
+    "text": "We could ask that\nquestion all the time.",
+    "start": 3863.212,
+    "duration": 1.354
+  },
+  {
+    "text": "We think now we may be able to\nanswer some of these things.",
+    "start": 3864.591,
+    "duration": 2.735
+  },
+  {
+    "text": "What does the voltage gradient\nlook like before SAFIRE fires?",
+    "start": 3867.351,
+    "duration": 3.344
+  },
+  {
+    "text": "We can confirm right now that there is a\nvoltage gradient in SAFIRE in Phase 2",
+    "start": 3870.72,
+    "duration": 5.2
+  },
+  {
+    "text": "before it actually ignites.",
+    "start": 3875.945,
+    "duration": 2.007
+  },
+  {
+    "text": "But we can now go and\nmeasure that gradient.",
+    "start": 3877.977,
+    "duration": 2.745
+  },
+  {
+    "text": "We may even be able to, we may even be\nable to measure the voltage gradient",
+    "start": 3880.747,
+    "duration": 7.01
+  },
+  {
+    "text": "before it actually does an intense stream\nplasma discharge to a particular point.",
+    "start": 3887.782,
+    "duration": 6.569
+  },
+  {
+    "text": "This is the thing that leads\nup to lightning bolts.",
+    "start": 3895.236,
+    "duration": 4.185
+  },
+  {
+    "text": "What's actually the\nenvironment around there,",
+    "start": 3899.689,
+    "duration": 2.857
+  },
+  {
+    "text": "that lightning bolt, before you actually\nsee a lightning bolt or plasma discharge.",
+    "start": 3902.571,
+    "duration": 4.885
+  },
+  {
+    "text": "So, is the voltage gradient, as an example,\nit is uniform throughout the chamber?",
+    "start": 3907.623,
+    "duration": 5.962
+  },
+  {
+    "text": "We can measure these things now:",
+    "start": 3913.61,
+    "duration": 2.091
+  },
+  {
+    "text": "x-rays, neutrons, gamma\nrays, and much more.",
+    "start": 3915.733,
+    "duration": 6.118
+  },
+  {
+    "text": "And that's really it\nfor this presentation.",
+    "start": 3922.253,
+    "duration": 5.317
+  },
+  {
+    "text": "So, we will leave you with this.",
+    "start": 3927.595,
+    "duration": 2.64
+  },
+  {
+    "text": "What I'm going to do\nright now is invite",
+    "start": 3932.04,
+    "duration": 2.669
+  },
+  {
+    "text": "some of the like, really the people\nthat have been involved in SAFIRE.",
+    "start": 3934.734,
+    "duration": 3.721
+  },
+  {
+    "text": "People that you don't really hear about\nup to the stage, introduce you to them,",
+    "start": 3938.48,
+    "duration": 4.51
+  },
+  {
+    "text": "and then I guess we're going to do a\nquestion-and-answer with just the core team.",
+    "start": 3943.015,
+    "duration": 4.86
+  },
+  {
+    "text": "So, thank you! It's\nbeen a privilege.",
+    "start": 3947.9,
+    "duration": 4.53
+  }
+]

@@ -1,0 +1,472 @@
+[
+  {
+    "text": "”Although its effects can be measured with\nprecision, nobody knows what gravity is.",
+    "start": 12.59,
+    "duration": 7.21
+  },
+  {
+    "text": "It is also the only force man cannot yet control.\nDespite the law it is supposed to follow,",
+    "start": 19.8,
+    "duration": 8.21
+  },
+  {
+    "text": "it often simply does not. Even here on Earth, let alone\nfurther out in space, gravity is full of anomalies.” So",
+    "start": 28.01,
+    "duration": 11.47
+  },
+  {
+    "text": "said Dwardu Cardona, an old world electrical engineer,\na towering intellect, major author, and good friend.",
+    "start": 39.48,
+    "duration": 10.5
+  },
+  {
+    "text": "Globular clusters are a particularly difficult\nproblem for a gravity-only cosmology.",
+    "start": 49.98,
+    "duration": 7.28
+  },
+  {
+    "text": "According to current understanding of gravitational\ndynamics, they should not be where we see them, and their",
+    "start": 57.26,
+    "duration": 8.14
+  },
+  {
+    "text": "spheroidal configuration defies the expectations of\nStandard Theory. Not to mention that they sometimes form",
+    "start": 65.4,
+    "duration": 8.64
+  },
+  {
+    "text": "a ring-like crown around the axis on each side of a\ngalactic plane. Quote, “A globular cluster is a spheroidal",
+    "start": 74.04,
+    "duration": 10.52
+  },
+  {
+    "text": "conglomeration of stars. Globular clusters are bound\ntogether by gravity, with a higher concentration of",
+    "start": 84.56,
+    "duration": 9.28
+  },
+  {
+    "text": "stars toward their centers. They can contain anywhere\nfrom tens of thousands to many millions of member stars.",
+    "start": 93.84,
+    "duration": 9.77
+  },
+  {
+    "text": "The origin of globular clusters and their role\nin galactic evolution are unclear.” End quote.",
+    "start": 103.61,
+    "duration": 9.78
+  },
+  {
+    "text": "Today cosmologists continue to wrestle with\nproblems posed by exotic structures in space.",
+    "start": 113.39,
+    "duration": 8.58
+  },
+  {
+    "text": "These appear to mock Newton's elementary laws. In their\nattempt to account for unexpected galactic motions,",
+    "start": 121.97,
+    "duration": 11.31
+  },
+  {
+    "text": "astrophysicists have invoked invisible entities and\nagencies: black holes, dark matter, and dark energy,",
+    "start": 133.28,
+    "duration": 9.0
+  },
+  {
+    "text": "which are imagined to be far more powerful than anything\nactually observed. In stepping out on this lily pad, they",
+    "start": 142.28,
+    "duration": 9.52
+  },
+  {
+    "text": "have even speculated that as much as 99\npercent of the matter in the universe is dark,",
+    "start": 151.8,
+    "duration": 8.64
+  },
+  {
+    "text": "and can be measured only by apparent gravitational \neffects. Because dark matter and dark energy",
+    "start": 160.44,
+    "duration": 7.79
+  },
+  {
+    "text": "can't be detected, they are a reusable blank \ncheck. A blank check that conventional",
+    "start": 168.23,
+    "duration": 9.31
+  },
+  {
+    "text": "theorists can use to postpone the bankruptcy\nof a thoroughly falsified paradigm.",
+    "start": 177.54,
+    "duration": 7.5
+  },
+  {
+    "text": "It was this resort to unknown matter\nthat caused the notable astronomer Halton",
+    "start": 185.04,
+    "duration": 5.82
+  },
+  {
+    "text": "Arp to observe in his book “Seeing Red”\nthat quote, “... past 90 percent it begins to",
+    "start": 190.86,
+    "duration": 7.5
+  },
+  {
+    "text": "make observations irrelevant.” End quote. \nYou think? I would posit that, past 50 percent or",
+    "start": 198.36,
+    "duration": 8.87
+  },
+  {
+    "text": "less, would be a more realistic intellectual barrier.\nArp: “Please don't tell me the emperor is naked.”",
+    "start": 207.23,
+    "duration": 9.61
+  },
+  {
+    "text": "In stark plain language, astronomers and astrophysicists\nthat believe this, should stop taking money from public",
+    "start": 216.84,
+    "duration": 8.66
+  },
+  {
+    "text": "institutions and get a real job making some valid\ncontribution to society. Flipping burgers would be a major",
+    "start": 225.5,
+    "duration": 9.87
+  },
+  {
+    "text": "upgrade in terms of service to mankind. With our own\ngalaxy, the Milky Way, globular clusters or spheroidal",
+    "start": 235.37,
+    "duration": 10.33
+  },
+  {
+    "text": "configurations of stars such as M15, are included as a part\nof the difficulty. By what mechanical magic does gravity",
+    "start": 245.7,
+    "duration": 10.49
+  },
+  {
+    "text": "hold millions of stars together as a sphere, rather than\nthe familiar disk of more feasible gravitational orbits and",
+    "start": 256.19,
+    "duration": 10.15
+  },
+  {
+    "text": "models? Gravitational spherical configurations\nof stars simply ‘hanging in space’ are absurd.",
+    "start": 266.34,
+    "duration": 9.44
+  },
+  {
+    "text": "Orbits around a center of mass just\ndon't work either for a globular cluster.",
+    "start": 275.78,
+    "duration": 7.24
+  },
+  {
+    "text": "There would be orbital chaos. Think about it.\nThe problem is heightened by the fact",
+    "start": 283.02,
+    "duration": 8.39
+  },
+  {
+    "text": "that M15 is one of about 150 known globular\nclusters associated with the Milky Way.",
+    "start": 291.41,
+    "duration": 8.55
+  },
+  {
+    "text": "Strictly speaking, they are not a part \nof our galaxy, as traditionally defined.",
+    "start": 299.96,
+    "duration": 7.0
+  },
+  {
+    "text": "Rather they appear close to the core of the galaxy as a\nkind of halo above and below the center plane of galactic",
+    "start": 306.96,
+    "duration": 9.95
+  },
+  {
+    "text": "rotation. Yet, astrophysicists rarely\nacknowledge the dynamical problems this creates.",
+    "start": 316.91,
+    "duration": 7.53
+  },
+  {
+    "text": "Theory states that clusters above the\nplane must move on orbital paths around",
+    "start": 324.44,
+    "duration": 6.58
+  },
+  {
+    "text": "the center of the dynamic system as a whole.\nAnd, in completing an orbit, each will",
+    "start": 331.02,
+    "duration": 6.78
+  },
+  {
+    "text": "intersect the galactic plane twice. Such\norbits for a three-dimensional structure",
+    "start": 337.8,
+    "duration": 6.0
+  },
+  {
+    "text": "would have orbits crisscrossing and even\nin reverse. There would be numerous flyby",
+    "start": 343.8,
+    "duration": 7.33
+  },
+  {
+    "text": "interactions that would induce tidal distortions and\ndisrupt the cluster. Of course, another concern is that the",
+    "start": 351.13,
+    "duration": 8.87
+  },
+  {
+    "text": "structure of the halo could neither be formed nor\nmaintained. The problem was noted by physicist",
+    "start": 360.0,
+    "duration": 9.78
+  },
+  {
+    "text": "C. Johnson of the University of Chicago.\nQuote, “It is almost like physicists have",
+    "start": 369.78,
+    "duration": 6.6
+  },
+  {
+    "text": "been assuming globular clusters just\nhover there like a swarm of bees. But",
+    "start": 376.38,
+    "duration": 7.02
+  },
+  {
+    "text": "that wouldn't happen. They could NOT \njust follow elliptical orbits above or below",
+    "start": 383.4,
+    "duration": 5.82
+  },
+  {
+    "text": "the galactic plane. Basic gravitational\ntheory insists that their elliptical",
+    "start": 389.22,
+    "duration": 5.52
+  },
+  {
+    "text": "paths pass through the Galactic Plane,\nbecause the two halves of any path must",
+    "start": 394.74,
+    "duration": 6.12
+  },
+  {
+    "text": "be on opposite sides of that Plane.” End quote.\nJohnson suggests that something is",
+    "start": 400.86,
+    "duration": 8.27
+  },
+  {
+    "text": "missing and not a small piece of the puzzle.\nQuote, “It would appear that either our",
+    "start": 409.13,
+    "duration": 7.15
+  },
+  {
+    "text": "understanding of the laws of physics is sadly\nlacking, or our understanding of the geometry of",
+    "start": 416.28,
+    "duration": 7.62
+  },
+  {
+    "text": "the situation is greatly in error. The commonly accepted\nview of a Halo of ancient, stable Globular Clusters",
+    "start": 423.9,
+    "duration": 9.06
+  },
+  {
+    "text": "hovering around the core of the Galaxy, like a swarm of\nbees, is just not something compatible with our current",
+    "start": 432.96,
+    "duration": 8.22
+  },
+  {
+    "text": "understanding of the laws of physics.\nClearly, further research is necessary.” End quote.",
+    "start": 441.18,
+    "duration": 7.62
+  },
+  {
+    "text": "And thereby Johnson illustrates the real problem.\nIt is not more research that is needed,",
+    "start": 448.8,
+    "duration": 7.2
+  },
+  {
+    "text": "but an open-minded paradigm shift\nto Electric Universe construction.",
+    "start": 456.0,
+    "duration": 6.18
+  },
+  {
+    "text": "But heaven save us from that. Anything \nbut that. Apparently the favorite prayer of",
+    "start": 462.18,
+    "duration": 8.06
+  },
+  {
+    "text": "astrophysicists would be quote “Dear God.\nPlease don't bring a paradigm shift during my tenure.”",
+    "start": 470.24,
+    "duration": 8.67
+  },
+  {
+    "text": "The solution of course is that galaxies\nare electrical structures whereby the",
+    "start": 478.91,
+    "duration": 6.0
+  },
+  {
+    "text": "various components revolve around the\nminor axis, never crossing the central",
+    "start": 484.91,
+    "duration": 5.65
+  },
+  {
+    "text": "plane. The same quandary applies to the\nrelative motions of stars within each",
+    "start": 490.56,
+    "duration": 6.6
+  },
+  {
+    "text": "cluster. And while Johnson accurately\ndescribes the gravitational dynamic, the",
+    "start": 497.16,
+    "duration": 6.53
+  },
+  {
+    "text": "rule he applies is a formula for chaos.\nAs any gravitational simulation will",
+    "start": 503.69,
+    "duration": 6.9
+  },
+  {
+    "text": "clearly demonstrate, it would quickly\nlead to some stars being accelerated out",
+    "start": 510.59,
+    "duration": 6.61
+  },
+  {
+    "text": "of the system, while others would lose\nenergy and fall to an orbit closer in.",
+    "start": 517.2,
+    "duration": 6.18
+  },
+  {
+    "text": "Over time, the globular clusters would largely just\nevaporate, shrink and condense down to ... what?",
+    "start": 523.38,
+    "duration": 10.2
+  },
+  {
+    "text": "But, from the Electric Universe vantage\npoint, it is not unthinkable that the",
+    "start": 533.58,
+    "duration": 5.58
+  },
+  {
+    "text": "stars of globular clusters are just\nhanging there with respect to the",
+    "start": 539.16,
+    "duration": 5.46
+  },
+  {
+    "text": "cluster's own center of gravity and any\ncluster plane that may be derived or defined.",
+    "start": 544.62,
+    "duration": 7.92
+  },
+  {
+    "text": "In the Electric Universe model of stellar \ncomposition and energy, stars are",
+    "start": 552.54,
+    "duration": 5.82
+  },
+  {
+    "text": "concentrations of highly positively\ncharged material. For globular clusters,",
+    "start": 558.36,
+    "duration": 6.12
+  },
+  {
+    "text": "such a collection of stars with no other\nexternal distorting forces in play, might",
+    "start": 564.48,
+    "duration": 6.24
+  },
+  {
+    "text": "indeed become a stable ‘ball-of-stars’ formation.\nIn fact, the new view of the universe provides",
+    "start": 570.72,
+    "duration": 7.61
+  },
+  {
+    "text": "many examples of star-sized masses, even \ngalactic clusters in symmetrical arrangements that",
+    "start": 578.33,
+    "duration": 9.06
+  },
+  {
+    "text": "gravitational theorists never dreamt of, including\npolar alignments. And as for the spheroidal form of",
+    "start": 587.39,
+    "duration": 10.27
+  },
+  {
+    "text": "globular clusters, the cosmic electricians in the\nElectric Universe paradigm suggest that the best",
+    "start": 597.66,
+    "duration": 7.56
+  },
+  {
+    "text": "analogy may come from something as unfamiliar to\nastronomers as ball lightning, whatever enigmatic material",
+    "start": 605.22,
+    "duration": 9.0
+  },
+  {
+    "text": "that is composed of. But that is a different\nanomaly subject. I offer another analogy: Mainstream",
+    "start": 614.22,
+    "duration": 9.14
+  },
+  {
+    "text": "cosmologists are playing in a children's sandbox instead\nof on the beach. Our ponderous university and tenure",
+    "start": 623.36,
+    "duration": 8.56
+  },
+  {
+    "text": "system is suffering from all but paralyzing arthritic\ninertia. I know, I have talked with some of them and they",
+    "start": 631.92,
+    "duration": 9.35
+  },
+  {
+    "text": "say they teach what they have been taught and \ncannot teach what they haven't learned or don't know.",
+    "start": 641.27,
+    "duration": 7.33
+  },
+  {
+    "text": "I suggest, given the past track record of institutionalized\nscience, this may border on being a cop-out and being",
+    "start": 648.6,
+    "duration": 10.2
+  },
+  {
+    "text": "intellectually irresponsible. There is no independent\nglobal agency that is looking at the big picture and",
+    "start": 658.8,
+    "duration": 9.18
+  },
+  {
+    "text": "alerting the university science departments that, given\nthe nature and history of scientific revolutions (which",
+    "start": 667.98,
+    "duration": 8.22
+  },
+  {
+    "text": "are always vigorously opposed and overdue),\nit is time to consider a paradigm change.",
+    "start": 676.2,
+    "duration": 7.87
+  },
+  {
+    "text": "Time to explore alternate thinking, and\nseek and invite serious challengers to",
+    "start": 684.07,
+    "duration": 7.43
+  },
+  {
+    "text": "present their arguments. Usually, any \none professor that might raise the alarm,",
+    "start": 691.5,
+    "duration": 5.89
+  },
+  {
+    "text": "gets marginalized. Just like a heretic\nin a religious organization. Hmm...",
+    "start": 697.39,
+    "duration": 8.15
+  },
+  {
+    "text": "Halton Arp certainly suffered this fate.\nOf course institutional science is a",
+    "start": 705.54,
+    "duration": 7.44
+  },
+  {
+    "text": "religion, just organized differently from most of\nthe others. The word ‘religion’ comes from ‘roots’,",
+    "start": 712.98,
+    "duration": 7.14
+  },
+  {
+    "text": "meaning to bind together with logic or reason.\nThus I call what we have now, by the term",
+    "start": 720.12,
+    "duration": 7.52
+  },
+  {
+    "text": "’scientism’ which is a very powerful force\nthat, in the pertinent area of origins",
+    "start": 727.64,
+    "duration": 6.69
+  },
+  {
+    "text": "and unfolding of the universe, prevails over\nthose based on sacred writings and mythology.",
+    "start": 734.33,
+    "duration": 8.41
+  },
+  {
+    "text": "But this popularly supported \ndominance doesn't make it right.",
+    "start": 742.74,
+    "duration": 5.52
+  },
+  {
+    "text": "The solution is, guess what,\nintellectual responsibility.",
+    "start": 748.26,
+    "duration": 8.81
+  },
+  {
+    "text": "[Music]",
+    "start": 762.53,
+    "duration": 21.21
+  }
+]

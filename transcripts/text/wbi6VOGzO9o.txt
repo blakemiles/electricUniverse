@@ -1,0 +1,277 @@
+[
+  {
+    "text": "The theme is \"Future Science,\"",
+    "start": 5.567,
+    "duration": 1.913
+  },
+  {
+    "text": "and this will be our sixth annual conference\nAugust 17 to 20 in Phoenix, Arizona.",
+    "start": 7.505,
+    "duration": 6.354
+  },
+  {
+    "text": "Perhaps you already know that\nthe Electric Universe paradigm",
+    "start": 13.884,
+    "duration": 3.589
+  },
+  {
+    "text": "is gaining greater\ntraction year by year.",
+    "start": 17.498,
+    "duration": 2.79
+  },
+  {
+    "text": "Who could deny today that\nthe vastness of space",
+    "start": 20.313,
+    "duration": 3.002
+  },
+  {
+    "text": "is animated by a life-like sea of\ncharged particles called plasma?",
+    "start": 23.34,
+    "duration": 5.009
+  },
+  {
+    "text": "Well, the plasma universe\nis an electric universe,",
+    "start": 28.349,
+    "duration": 3.401
+  },
+  {
+    "text": "and that's a far cry from the electrically\nsterile cosmos of standard theory",
+    "start": 31.775,
+    "duration": 5.463
+  },
+  {
+    "text": "throughout the 20th century.",
+    "start": 37.263,
+    "duration": 2.166
+  },
+  {
+    "text": "When we speak of future science,\nwe mean science minus the fiction",
+    "start": 39.96,
+    "duration": 4.802
+  },
+  {
+    "text": "-- no Big Bang, no dark matter, no black\nhole singularities, no neutron stars,",
+    "start": 44.787,
+    "duration": 6.888
+  },
+  {
+    "text": "no thermalnuclear core of the Sun, no planets\non clockwork orbits for billions of years",
+    "start": 51.7,
+    "duration": 6.542
+  },
+  {
+    "text": "and few, if any, dirty\nsnowball comets.",
+    "start": 58.267,
+    "duration": 4.213
+  },
+  {
+    "text": "The Electric Universe movement is a\nreconsideration of fundamentals in the sciences.",
+    "start": 63.034,
+    "duration": 5.396
+  },
+  {
+    "text": "Independent research is converged\non a series of electrical findings.",
+    "start": 68.455,
+    "duration": 4.51
+  },
+  {
+    "text": "The confidence driving this movement\ncomes from the demonstrable power",
+    "start": 72.99,
+    "duration": 4.919
+  },
+  {
+    "text": "of the electric force acting on planetary,\nstellar, and galactic evolution.",
+    "start": 77.934,
+    "duration": 5.8
+  },
+  {
+    "text": "No subatomic domain and no corner of the\nremote universe is free from this influence:",
+    "start": 83.759,
+    "duration": 6.342
+  },
+  {
+    "text": "the electric force,",
+    "start": 90.126,
+    "duration": 1.766
+  },
+  {
+    "text": "the long overlooked underpinning\nof the natural world.",
+    "start": 91.917,
+    "duration": 4.433
+  },
+  {
+    "text": "EU2017 will include a roster of experts on\nnaturally-occurring electrical phenomena.",
+    "start": 96.35,
+    "duration": 7.461
+  },
+  {
+    "text": "Our first recommendation\nto you is, don't be late!",
+    "start": 103.836,
+    "duration": 4.063
+  },
+  {
+    "text": "The first highlight\nwill be a talk",
+    "start": 108.05,
+    "duration": 2.063
+  },
+  {
+    "text": "by the internationally recognized expert\non electrified water, Dr. Gerald Pollack.",
+    "start": 110.138,
+    "duration": 5.77
+  },
+  {
+    "text": "Dr. Pollack will report on the\nsurprising role of separated charge",
+    "start": 116.582,
+    "duration": 4.938
+  },
+  {
+    "text": "in the organization of\nglobal weather systems.",
+    "start": 121.545,
+    "duration": 3.585
+  },
+  {
+    "text": "Then will come our conference\nkeynote speaker, Dr. James Ryder.",
+    "start": 126.294,
+    "duration": 4.13
+  },
+  {
+    "text": "Before his retirement in 2011, Dr. Ryder\nserved as a Vice-president at Lockheed Martin",
+    "start": 130.449,
+    "duration": 6.275
+  },
+  {
+    "text": "and as head of the company's\nAdvanced Technology Center.",
+    "start": 136.749,
+    "duration": 3.457
+  },
+  {
+    "text": "Dr. Ryder is currently Chairman of the Board\nof the International Science Foundation",
+    "start": 140.904,
+    "duration": 4.54
+  },
+  {
+    "text": "which funds the SAFIRE project and advises\non scientific aspects of the experiment.",
+    "start": 145.469,
+    "duration": 6.382
+  },
+  {
+    "text": "Dr. Ryder's update will help to\nset the tone of the conference,",
+    "start": 152.946,
+    "duration": 4.237
+  },
+  {
+    "text": "in particular the anticipated report on\nSAFIRE by Project Director Monty Childs.",
+    "start": 157.208,
+    "duration": 6.34
+  },
+  {
+    "text": "Our Chief Science Adviser, Wal Thornhill,\nwill outline a vision for the future,",
+    "start": 165.182,
+    "duration": 5.29
+  },
+  {
+    "text": "science incrementally discovering\none surprise at a time -",
+    "start": 170.497,
+    "duration": 4.537
+  },
+  {
+    "text": "The Electric Universe.",
+    "start": 175.059,
+    "duration": 1.753
+  },
+  {
+    "text": "And retired Professor of Electrical\nEngineering, Donald Scott,",
+    "start": 177.074,
+    "duration": 4.286
+  },
+  {
+    "text": "will review recent findings that now confirm\nthe presence of Birkeland currents in space.",
+    "start": 181.385,
+    "duration": 7.196
+  },
+  {
+    "text": "The environment through which the earth\nitself moves is not electrically neutral.",
+    "start": 188.938,
+    "duration": 6.085
+  },
+  {
+    "text": "Add to this electrified mix the\ncontribution of Ben Davidson,",
+    "start": 195.771,
+    "duration": 4.429
+  },
+  {
+    "text": "founder of the\nSuspicious0bservers group.",
+    "start": 200.225,
+    "duration": 2.768
+  },
+  {
+    "text": "Ben will speak on the interdisciplinary\nimplications of the electrical paradigm,",
+    "start": 203.018,
+    "duration": 4.897
+  },
+  {
+    "text": "ranging across such diverse\nfields as space science,",
+    "start": 207.94,
+    "duration": 3.765
+  },
+  {
+    "text": "earthquake prediction, biomedical\nengineering, and new energy prospects.",
+    "start": 211.73,
+    "duration": 6.214
+  },
+  {
+    "text": "Of special interest, we will also be devoting a\nfull day to the Immanuel Velikovsky Controversy,",
+    "start": 219.235,
+    "duration": 5.754
+  },
+  {
+    "text": "one of the most critical scientific\ndebates of the 20th century.",
+    "start": 225.014,
+    "duration": 3.983
+  },
+  {
+    "text": "Suppression of Velikovsky's\nwork continued for decades",
+    "start": 229.022,
+    "duration": 3.833
+  },
+  {
+    "text": "and the core issues raised still\nhaunt scientific discourse today.",
+    "start": 232.88,
+    "duration": 5.26
+  },
+  {
+    "text": "Contributors to this discussion will include the\npeople closest to the controversy in recent years.",
+    "start": 238.165,
+    "duration": 6.942
+  },
+  {
+    "text": "More than 15 additional experts will be\ncontributing as speakers and panelists.",
+    "start": 246.417,
+    "duration": 5.579
+  },
+  {
+    "text": "Key themes will include\nthe electricity of life,",
+    "start": 252.021,
+    "duration": 4.539
+  },
+  {
+    "text": "electrical scars of\nplanetary violence,",
+    "start": 256.585,
+    "duration": 3.503
+  },
+  {
+    "text": "and the impact of planetary catastrophe\non the ancient civilizations.",
+    "start": 260.113,
+    "duration": 5.536
+  },
+  {
+    "text": "We invite you to join us in this three and a\nhalf day exploration of the Electric Universe.",
+    "start": 266.451,
+    "duration": 6.409
+  },
+  {
+    "text": "That's EU2017 in Phoenix,\nArizona, August 17 to 20.",
+    "start": 272.885,
+    "duration": 7.981
+  }
+]

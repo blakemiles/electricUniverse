@@ -1,0 +1,547 @@
+[
+  {
+    "text": "In our very first jointly published article some 40\nyears ago, Dave Talbott emphasized the theoretical",
+    "start": 4.61,
+    "duration": 12.97
+  },
+  {
+    "text": "scientific importance of anomalous\nmythological motifs. Quote “Ancient",
+    "start": 17.58,
+    "duration": 5.03
+  },
+  {
+    "text": "statements appearing to contradict\nelementary experience or logic are key",
+    "start": 22.61,
+    "duration": 4.39
+  },
+  {
+    "text": "to discovery.” End of quote. The ancient\ntestimony and artwork surrounding the",
+    "start": 27.0,
+    "duration": 5.04
+  },
+  {
+    "text": "divine thunderbolt is anomalous from\nA to Z and impossible to square with",
+    "start": 32.04,
+    "duration": 4.08
+  },
+  {
+    "text": "present reality. Far from being a fairy\ntale deriving from our ancestors",
+    "start": 36.12,
+    "duration": 4.68
+  },
+  {
+    "text": "experience of a terrestrial thunderstorm,\nthe Thunderbolt was a heaven-spanning",
+    "start": 40.8,
+    "duration": 4.56
+  },
+  {
+    "text": "structure of awe-inspiring splendor and\nstupendous power, one which likely",
+    "start": 45.36,
+    "duration": 4.67
+  },
+  {
+    "text": "endured for generations and played a\npivotal role in all ancient mythologies.",
+    "start": 50.03,
+    "duration": 4.63
+  },
+  {
+    "text": "Creation itself, according to numerous\ntraditional accounts of the event, traced",
+    "start": 54.66,
+    "duration": 4.86
+  },
+  {
+    "text": "to the primordial coupling of a\nthunderbolt and the mother goddess.",
+    "start": 59.52,
+    "duration": 3.6
+  },
+  {
+    "text": "Thanks to numerous variations upon\nthis globally attested mytheme, the",
+    "start": 63.12,
+    "duration": 4.56
+  },
+  {
+    "text": "catastrophic events in question can be\nreconstructed in great detail shedding",
+    "start": 67.68,
+    "duration": 4.68
+  },
+  {
+    "text": "much light on the historical evolution\nof the polar configuration and the",
+    "start": 72.36,
+    "duration": 3.6
+  },
+  {
+    "text": "thunderbolt's manifold forms.\nPerhaps the most famous example of this",
+    "start": 75.96,
+    "duration": 4.79
+  },
+  {
+    "text": "archetypal mythological theme is \nthe lurid tale told by Euripides in the",
+    "start": 80.75,
+    "duration": 4.21
+  },
+  {
+    "text": "opening lines of the Bacchae, wherein Zeus couples\nwith Semele in the form of a fiery thunderbolt. Quote,",
+    "start": 84.96,
+    "duration": 6.97
+  },
+  {
+    "text": "“Semele brought to bed by the lightning-\nfire.” End of quote. According to",
+    "start": 91.93,
+    "duration": 5.45
+  },
+  {
+    "text": "Greek tradition, the thunderbolt not only\nimpregnated the maiden thereby producing",
+    "start": 97.38,
+    "duration": 4.32
+  },
+  {
+    "text": "Dionysus, it killed her instantly.\nNow here is a most peculiar idea, in",
+    "start": 101.7,
+    "duration": 6.72
+  },
+  {
+    "text": "what sense is it possible to understand\na thunderbolt as an impregnating or",
+    "start": 108.42,
+    "duration": 4.01
+  },
+  {
+    "text": "fertilizing force? A vestigial remnant of\nthis archaic theme is evident in the",
+    "start": 112.43,
+    "duration": 5.53
+  },
+  {
+    "text": "legendary stories that grew up around\nAlexander the Great. In Plutarch's life",
+    "start": 117.96,
+    "duration": 4.79
+  },
+  {
+    "text": "of Alexander the conniving Olympias, the\nMacedonian general's mother, is said to",
+    "start": 122.75,
+    "duration": 5.7
+  },
+  {
+    "text": "have been visited by a thunderbolt on\nthe eve of her wedding night. Quote, “The",
+    "start": 128.45,
+    "duration": 4.86
+  },
+  {
+    "text": "night before the consummation of their\nmarriage, she dreamed that there was a",
+    "start": 133.31,
+    "duration": 3.67
+  },
+  {
+    "text": "crash of thunder, that her womb was\nstruck by a thunderbolt, and that there",
+    "start": 136.98,
+    "duration": 4.44
+  },
+  {
+    "text": "followed a blinding flash from which\na great sheet of flame blazed up and",
+    "start": 141.42,
+    "duration": 4.44
+  },
+  {
+    "text": "spread far and wide before it finally died\naway.” Strange as it must seem to modern",
+    "start": 145.86,
+    "duration": 5.7
+  },
+  {
+    "text": "readers, analogous traditions will be\nfound around the globe. The Norse thunder",
+    "start": 151.56,
+    "duration": 4.38
+  },
+  {
+    "text": "god Thor, much like Zeus, was celebrated\nfor his prodigious powers of fertility.",
+    "start": 155.94,
+    "duration": 4.57
+  },
+  {
+    "text": "Thus it is that Thor's thunderbolt\nMjolnir served as a fructifying talisman,",
+    "start": 160.51,
+    "duration": 5.8
+  },
+  {
+    "text": "hence the famous passage in the Eddic\npoem, Thrym's Song, wherein it is stated,",
+    "start": 166.31,
+    "duration": 5.17
+  },
+  {
+    "text": "quote, “Bring the hammer the bride to wed,\nplace Mjolnir in the maiden's lap.”",
+    "start": 171.48,
+    "duration": 7.44
+  },
+  {
+    "text": "As Hilda Davidson documented in her\ncompendium of Norse lore, such ideas hark",
+    "start": 178.92,
+    "duration": 5.52
+  },
+  {
+    "text": "back to ancient conceptions of\nthe thunderbolt as an impregnor or",
+    "start": 184.44,
+    "duration": 3.29
+  },
+  {
+    "text": "fecundator, survivors of which persist well into\nmodern times. Thor himself was frequently invoked at",
+    "start": 187.73,
+    "duration": 7.21
+  },
+  {
+    "text": "weddings, the gods thunderbolt forming\na familiar accouterment of many a",
+    "start": 194.94,
+    "duration": 3.84
+  },
+  {
+    "text": "bridegroom's attire. Quote, “In certain\nparts of Norway and Sweden, it continued",
+    "start": 198.78,
+    "duration": 5.52
+  },
+  {
+    "text": "to be the custom for a bridegroom to\nbear an ax at the wedding long after",
+    "start": 204.3,
+    "duration": 3.9
+  },
+  {
+    "text": "Thor was forgotten; the weapon was said to give\nhim mastery, and also to ensure a fruitful union.”",
+    "start": 208.2,
+    "duration": 7.08
+  },
+  {
+    "text": "It will be noted that Thor's thunderbolt\nwas here conceptualized as an ax rather",
+    "start": 215.28,
+    "duration": 4.2
+  },
+  {
+    "text": "than a hammer. Very similar ideas are\nattested in ancient Lithuanian where",
+    "start": 219.48,
+    "duration": 4.92
+  },
+  {
+    "text": "Perkunas's thunderbolt axes were commonly\nregarded as agents promoting fertility.",
+    "start": 224.4,
+    "duration": 4.75
+  },
+  {
+    "text": "Quote, “In Lithuania, the ax as a\nlife-stimulating symbol, is laid under",
+    "start": 229.15,
+    "duration": 5.14
+  },
+  {
+    "text": "the bed of a woman in labor; or the sill\nto be crossed by the newlywed couple...",
+    "start": 234.29,
+    "duration": 4.14
+  },
+  {
+    "text": "During sowing, axes were thrown into the field.” End\nof quote. Here too, it is obvious that no farmer in",
+    "start": 238.43,
+    "duration": 7.69
+  },
+  {
+    "text": "his right mind would ever view the fiery\nthunderbolt as a life-stimulating",
+    "start": 246.12,
+    "duration": 3.42
+  },
+  {
+    "text": "talisman. Hence the profound puzzle\npresented by these widespread belief",
+    "start": 249.54,
+    "duration": 4.61
+  },
+  {
+    "text": "systems. Analogous conceptions \nare found already in ancient India.",
+    "start": 254.15,
+    "duration": 4.14
+  },
+  {
+    "text": "Witness the following hymn from the Rig\nVeda dedicated to the thunder god Parjanya.",
+    "start": 258.29,
+    "duration": 5.46
+  },
+  {
+    "text": "Quote, “The winds blow forth; the lightning\nbolts fly. The plants shoot up; the sun",
+    "start": 263.75,
+    "duration": 6.85
+  },
+  {
+    "text": "swells. Refreshment arises for all\ncreation, when Parjanya aids the earth",
+    "start": 270.6,
+    "duration": 5.28
+  },
+  {
+    "text": "with his semen... (Parjanya) come nearby with\nthis thundering, pouring down the waters as",
+    "start": 275.88,
+    "duration": 6.12
+  },
+  {
+    "text": "the lord, our father. Roar! Thunder! Set an \nembryo!” Here the thunder god is implored to",
+    "start": 282.0,
+    "duration": 6.96
+  },
+  {
+    "text": "inseminate mother Earth and implant an embryo in\nher womb. Perhaps the earliest attested example of",
+    "start": 288.96,
+    "duration": 6.54
+  },
+  {
+    "text": "this archetypal motif is to be found in\nSpell 148 from the Egyptian Coffin Texts,",
+    "start": 295.5,
+    "duration": 4.86
+  },
+  {
+    "text": "circa 2000 BC. There it is reported\nthat a thunderbolt or meteor fell from",
+    "start": 300.36,
+    "duration": 5.64
+  },
+  {
+    "text": "heaven and impregnated Isis. The fall of \nthe thunderbolt resulted in Horus being",
+    "start": 306.0,
+    "duration": 4.86
+  },
+  {
+    "text": "implanted within its mother's womb. Quote,\n”Isis wakes pregnant with the seed of her",
+    "start": 310.86,
+    "duration": 5.52
+  },
+  {
+    "text": "brother Osiris.” End of quote. I.e., Horus\nhimself, the soon to be king of the gods.",
+    "start": 316.38,
+    "duration": 6.72
+  },
+  {
+    "text": "To return to the question posed at\nthe outset of this inquiry, how is it",
+    "start": 323.1,
+    "duration": 4.68
+  },
+  {
+    "text": "possible to understand the ancient tradition of\nthe thunderbolt as impregnor or fertilizing agent?",
+    "start": 327.78,
+    "duration": 6.35
+  },
+  {
+    "text": "One can search the world's corpus of\nscholarly books devoted to ancient myth,",
+    "start": 334.13,
+    "duration": 4.03
+  },
+  {
+    "text": "and never find even the first glimmerings of an\nanswer to this question. Horus's identification with",
+    "start": 338.16,
+    "duration": 5.4
+  },
+  {
+    "text": "the planet Mars provides the all-\nimportant clue. As I have documented",
+    "start": 343.56,
+    "duration": 4.13
+  },
+  {
+    "text": "elsewhere, Mars is everywhere identified as\na meteor-like object that fell from heaven.",
+    "start": 347.69,
+    "duration": 5.41
+  },
+  {
+    "text": "The Babylonian God Nergal for example,\nexpressly identified with the red planet,",
+    "start": 353.1,
+    "duration": 4.5
+  },
+  {
+    "text": "was invoked as “miqit isatu”, denoting the ”fall of\nfire” from heaven. Equally telling is the fact that the",
+    "start": 357.6,
+    "duration": 8.21
+  },
+  {
+    "text": "same phrase is employed to describe ”lightning”\nor “meteor.” Analogous conceptions were associated",
+    "start": 365.81,
+    "duration": 6.91
+  },
+  {
+    "text": "with the planet Mars in the New World\nwhere the Skidi Pawnee explicitly",
+    "start": 372.72,
+    "duration": 4.19
+  },
+  {
+    "text": "likened the Morning Star to a falling meteor.\nQuote, “Now they sang of the origin",
+    "start": 376.91,
+    "duration": 5.17
+  },
+  {
+    "text": "of the Morning Star itself that they\nthought had come from a meteor.” End of",
+    "start": 382.08,
+    "duration": 3.83
+  },
+  {
+    "text": "quote. The same basic idea is evident in\nthe Skiddy belief that, quote “The power",
+    "start": 385.91,
+    "duration": 4.69
+  },
+  {
+    "text": "of the Morning Star is the fire- impelling stone.”\nWe know the Skiddy Morning Star was explicitly",
+    "start": 390.6,
+    "duration": 5.87
+  },
+  {
+    "text": "identified with the planet Mars. Granted that\nMars was indeed conceptualized as a meteor-like",
+    "start": 396.47,
+    "duration": 6.43
+  },
+  {
+    "text": "celestial body by indigenous peoples\naround the globe, how does this finding",
+    "start": 402.9,
+    "duration": 4.5
+  },
+  {
+    "text": "help us understand the archaic and\nseemingly universal belief system,",
+    "start": 407.4,
+    "duration": 3.54
+  },
+  {
+    "text": "whereby a thunderbolt meteor impregnated\nVenus, and thereby sparked creation?",
+    "start": 410.94,
+    "duration": 6.06
+  },
+  {
+    "text": "According to the historical\nreconstruction offered here, the myth in",
+    "start": 417.0,
+    "duration": 3.53
+  },
+  {
+    "text": "question encodes the close approach of\nthe planet Mars to Venus during one of",
+    "start": 420.53,
+    "duration": 4.5
+  },
+  {
+    "text": "the most spectacular phases of the polar configuration.\nMoving from outside the general vicinity",
+    "start": 425.03,
+    "duration": 6.43
+  },
+  {
+    "text": "of Venus, the red planet seemed to fall\nlike a meteor into the center of Venus.",
+    "start": 431.46,
+    "duration": 5.4
+  },
+  {
+    "text": "In reality, Mars was then on an orbit\nbetween Venus and the Earth and appeared",
+    "start": 436.86,
+    "duration": 4.61
+  },
+  {
+    "text": "like a tiny orb at Venus's belly. Looking \nup from Earth, Mars appeared to be",
+    "start": 441.47,
+    "duration": 5.16
+  },
+  {
+    "text": "nestled within the body of Venus. As \nthe red planet appeared to enter the",
+    "start": 446.63,
+    "duration": 4.75
+  },
+  {
+    "text": "visual outlines of the much larger Venus,\nit was conceptualized as impregnating it.",
+    "start": 451.38,
+    "duration": 5.15
+  },
+  {
+    "text": "Or alternatively as implanting an embryo\nwithin the mother goddess's womb. Hence",
+    "start": 456.53,
+    "duration": 5.77
+  },
+  {
+    "text": "we would understand the Egyptian\ntradition of a heaven-sent thunderbolt",
+    "start": 462.3,
+    "duration": 3.23
+  },
+  {
+    "text": "impregnating Isis-Venus. The Vedic\ntradition of the thunder god Parjanya",
+    "start": 465.53,
+    "duration": 4.38
+  },
+  {
+    "text": "implanting an embryo in the belly of \nthe mother goddess, finds a similar",
+    "start": 469.91,
+    "duration": 3.49
+  },
+  {
+    "text": "explanation. So too we would understand\nthe mythological role of Thor's",
+    "start": 473.4,
+    "duration": 4.44
+  },
+  {
+    "text": "thunderbolt as fertilizing force or as\nlocated within the mother goddess's",
+    "start": 477.84,
+    "duration": 4.13
+  },
+  {
+    "text": "belly. Such traditions encode the\nextraordinary conjunction of Mars and",
+    "start": 481.97,
+    "duration": 4.56
+  },
+  {
+    "text": "Venus, the sacred marriage that sparked \ncreation. It goes without saying that the",
+    "start": 486.53,
+    "duration": 6.19
+  },
+  {
+    "text": "planetary scenario outlined by Dave\nTalbott and myself requires that Mars",
+    "start": 492.72,
+    "duration": 4.37
+  },
+  {
+    "text": "formally appeared in front of Venus,\nan impossibility in the present sky,",
+    "start": 497.09,
+    "duration": 4.35
+  },
+  {
+    "text": "whereupon the red planet always moves \non an outer orbit far removed from Venus.",
+    "start": 501.44,
+    "duration": 5.43
+  },
+  {
+    "text": "Yet, as we have emphasized again and again throughout\nthis series of videos, it is the so-called “impossible",
+    "start": 506.87,
+    "duration": 6.18
+  },
+  {
+    "text": "situations” that are the key to discovery,\nas they would never occur to terrestrial",
+    "start": 513.05,
+    "duration": 4.21
+  },
+  {
+    "text": "sky watchers around the globe, without the stimulus\nprovided by the natural events reconstructed here.",
+    "start": 517.26,
+    "duration": 6.12
+  },
+  {
+    "text": "And the fact that Mars's placement\nwithin Venus is impossible given the",
+    "start": 523.38,
+    "duration": 4.13
+  },
+  {
+    "text": "current arrangement of the solar\nsystem, actually serves to make the",
+    "start": 527.51,
+    "duration": 3.79
+  },
+  {
+    "text": "reconstructed planetary configuration\nthe decisive test case in evaluating the",
+    "start": 531.3,
+    "duration": 5.4
+  },
+  {
+    "text": "predictive power of the present\nhistorical reconstruction against that",
+    "start": 536.7,
+    "duration": 3.48
+  },
+  {
+    "text": "postulated by orthodox science. We \nrest our case, confident that our",
+    "start": 540.18,
+    "duration": 5.27
+  },
+  {
+    "text": "understanding of recent Earth history\nwill be vindicated in the coming decades.",
+    "start": 545.45,
+    "duration": 4.38
+  },
+  {
+    "text": "[Music]",
+    "start": 549.83,
+    "duration": 3.25
+  },
+  {
+    "text": "[Music]",
+    "start": 556.73,
+    "duration": 22.16
+  }
+]

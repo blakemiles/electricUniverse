@@ -1,0 +1,492 @@
+[
+  {
+    "text": "[Music]",
+    "start": 2.3,
+    "duration": 5.37
+  },
+  {
+    "text": "Some of the largest stars in the Universe are also some\nof the strangest. Conventional science would have us",
+    "start": 11.75,
+    "duration": 5.6
+  },
+  {
+    "text": "believe that these stars are near the\nend of their life. And yet they show some",
+    "start": 17.35,
+    "duration": 4.57
+  },
+  {
+    "text": "features that we also find in young stars.\nThey claim that these stars will expel",
+    "start": 21.92,
+    "duration": 4.96
+  },
+  {
+    "text": "vast amounts of material which will\neventually form a planetary nebula.",
+    "start": 26.88,
+    "duration": 5.04
+  },
+  {
+    "text": "And now they have discovered a star\nwhich is not only ejecting material in",
+    "start": 31.92,
+    "duration": 3.76
+  },
+  {
+    "text": "this manner, but also an expanding ring system\nand also ejecting large blobs of plasma.",
+    "start": 35.68,
+    "duration": 6.8
+  },
+  {
+    "text": "In the Electric Universe, these stars are\ndeprived of electrons, which forces the",
+    "start": 42.48,
+    "duration": 4.64
+  },
+  {
+    "text": "outer plasma sheath to expand. A \nplanetary nebula is not the remnants",
+    "start": 47.12,
+    "duration": 4.4
+  },
+  {
+    "text": "of a dying star, but instead are the\nstructures that the star is connected to,",
+    "start": 51.52,
+    "duration": 4.96
+  },
+  {
+    "text": "which are being lit up in glow mode due to a pinching\nvent which is taking place around the star itself.",
+    "start": 56.48,
+    "duration": 6.55
+  },
+  {
+    "text": "We know that what is termed as a young\nstar can eject vast amounts of material",
+    "start": 63.03,
+    "duration": 4.4
+  },
+  {
+    "text": "from the jets. But this process also\nseems to happen with the larger, in",
+    "start": 67.43,
+    "duration": 4.81
+  },
+  {
+    "text": "quotes, ‘dying stars’. At the same time,\nwe also see the formation of a ring system",
+    "start": 72.24,
+    "duration": 5.28
+  },
+  {
+    "text": "around new stars, which is often\ninterpreted as an accretion disk from",
+    "start": 77.52,
+    "duration": 4.23
+  },
+  {
+    "text": "which planets may form. The same may also \nappear to happen with these supposed older stars,",
+    "start": 81.75,
+    "duration": 6.72
+  },
+  {
+    "text": "but now they call it a dust torus. In \nthe Electric Universe, stars undergo a",
+    "start": 88.47,
+    "duration": 6.09
+  },
+  {
+    "text": "process whereby they become electrically \nstressed. There is an imbalance between the",
+    "start": 94.56,
+    "duration": 5.19
+  },
+  {
+    "text": "incoming charges and those flowing away.\nIn order to deal with this, some of its",
+    "start": 99.75,
+    "duration": 5.13
+  },
+  {
+    "text": "charge material can be ejected. This \ncan happen as a CME or in extreme",
+    "start": 104.88,
+    "duration": 5.51
+  },
+  {
+    "text": "cases, large planet-sized chunks of plasma can be\nejected. In the most extreme case, the star itself",
+    "start": 110.39,
+    "duration": 6.97
+  },
+  {
+    "text": "will split into two equal, and sometimes unequal,\nparts. There is much observational evidence to",
+    "start": 117.36,
+    "duration": 6.79
+  },
+  {
+    "text": "show that those latter cases occur right\nafter a sudden flaring or brightening event.",
+    "start": 124.15,
+    "duration": 6.48
+  },
+  {
+    "text": "V-Hydrae is what is called a carbon star.\nThese are luminous red giant stars. These",
+    "start": 130.63,
+    "duration": 6.01
+  },
+  {
+    "text": "stars contain atmospheres where\nthere is more carbon than oxygen.",
+    "start": 136.64,
+    "duration": 4.31
+  },
+  {
+    "text": "The two elements combine in the upper\nlayers of the star, forming carbon monoxide.",
+    "start": 140.95,
+    "duration": 5.28
+  },
+  {
+    "text": "This leaves the carbon atoms free to\nform other carbon compounds, giving the",
+    "start": 146.23,
+    "duration": 4.57
+  },
+  {
+    "text": "star a sooty atmosphere and a strikingly ruby red\nappearance. This characteristic is not limited to",
+    "start": 150.8,
+    "duration": 7.04
+  },
+  {
+    "text": "massive stars, as dwarf stars are also known to be\ncarbon stars. When astronomers developed the spectral",
+    "start": 157.84,
+    "duration": 7.03
+  },
+  {
+    "text": "classification of carbon stars, they had considerable\ndifficulty when trying to correlate the spectra to the",
+    "start": 164.87,
+    "duration": 6.57
+  },
+  {
+    "text": "stars’ effective temperatures. The trouble was that\nthe atmospheric carbon was hiding the absorption lines",
+    "start": 171.44,
+    "duration": 7.12
+  },
+  {
+    "text": "normally used as temperature indicators for the \nstars. Back in 1981, astronomers detected very",
+    "start": 178.56,
+    "duration": 7.03
+  },
+  {
+    "text": "fast outflows from this star. Recently they\nhave detected not just the jet-like flow,",
+    "start": 185.59,
+    "duration": 6.49
+  },
+  {
+    "text": "but that this flow consisted of compact\nplasma blobs ejected at high speeds, but",
+    "start": 192.08,
+    "duration": 5.68
+  },
+  {
+    "text": "also a slowly expanding set of six rings.\nThe fact that they observe the star",
+    "start": 197.76,
+    "duration": 6.0
+  },
+  {
+    "text": "ejecting huge blobs of plasma on a very regular basis,\nis not easily explained in the mainstream model,",
+    "start": 203.76,
+    "duration": 7.11
+  },
+  {
+    "text": "and would require a companion star which\npassed through the outer envelope of the",
+    "start": 210.87,
+    "duration": 4.25
+  },
+  {
+    "text": "star, pulling away material from the star and ejecting\nit outwards. The star is around 2,000 light years",
+    "start": 215.12,
+    "duration": 6.88
+  },
+  {
+    "text": "away from us. Not only is it a carbon star,\nbut it is a semi-regular variable star. It pulsates",
+    "start": 222.0,
+    "duration": 6.72
+  },
+  {
+    "text": "with a period of 530 days and its brightness\nvaries by about one to two magnitudes.",
+    "start": 228.72,
+    "duration": 6.48
+  },
+  {
+    "text": "On top of this, it also has another\ndimming cycle which occurs every",
+    "start": 235.2,
+    "duration": 5.67
+  },
+  {
+    "text": "6,160 days and causes its brightness\nto drop below magnitude 12.",
+    "start": 240.87,
+    "duration": 5.92
+  },
+  {
+    "text": "This periodicity might suggest that there is a cyclic\nresonant circuit effect, complete with overtones.",
+    "start": 246.79,
+    "duration": 7.69
+  },
+  {
+    "text": "Through visible observations, they were\nable to determine that it might have a",
+    "start": 254.48,
+    "duration": 3.75
+  },
+  {
+    "text": "companion, but due to the large\nseparation between the components, the",
+    "start": 258.23,
+    "duration": 4.17
+  },
+  {
+    "text": "physical connection of this pair is\nstill considered provisional, until",
+    "start": 262.4,
+    "duration": 4.32
+  },
+  {
+    "text": "sufficient radial velocity and proper motion data\nare available. This companion is also not responsible",
+    "start": 266.72,
+    "duration": 6.64
+  },
+  {
+    "text": "for the ejection of the plasma blobs. It\nis too far away for that to be the case.",
+    "start": 273.36,
+    "duration": 5.27
+  },
+  {
+    "text": "Recent data has suggested that the star might\nhave yet another companion, much closer in.",
+    "start": 278.63,
+    "duration": 6.56
+  },
+  {
+    "text": "Direct observational evidence is hard\nto come by in these types of stars.",
+    "start": 285.19,
+    "duration": 4.56
+  },
+  {
+    "text": "They are large, very luminous stars which\nare surrounded by a dusty envelope.",
+    "start": 289.75,
+    "duration": 5.29
+  },
+  {
+    "text": "This makes it very difficult to\ndetect nearby stellar companions.",
+    "start": 295.04,
+    "duration": 3.92
+  },
+  {
+    "text": "Some binaries have been inferred\nby radial velocity measurements.",
+    "start": 298.96,
+    "duration": 4.23
+  },
+  {
+    "text": "This method looks for a wobble in the motion\nof stars around a common center of mass.",
+    "start": 303.19,
+    "duration": 5.84
+  },
+  {
+    "text": "This causes the star to sometimes move a\nlittle towards us, and sometimes away from us,",
+    "start": 309.03,
+    "duration": 5.29
+  },
+  {
+    "text": "thereby altering its radial velocity.\nThe problem with these larger stars is",
+    "start": 314.32,
+    "duration": 5.2
+  },
+  {
+    "text": "that they are believed to have strong variability\nintrinsic to their pulsating atmosphere.",
+    "start": 319.52,
+    "duration": 6.32
+  },
+  {
+    "text": "Instead, they turn to a technique\ncalled deep ultraviolet observations.",
+    "start": 325.84,
+    "duration": 4.63
+  },
+  {
+    "text": "Carbon stars are thought to be cool objects.\nThe companions are likely a more normal",
+    "start": 330.47,
+    "duration": 5.44
+  },
+  {
+    "text": "star and therefore hotter. In their\nanalysis they determined that V-Hydrae",
+    "start": 335.91,
+    "duration": 4.49
+  },
+  {
+    "text": "had the highest far ultraviolet flux.\nThis they took as evidence of a",
+    "start": 340.4,
+    "duration": 4.88
+  },
+  {
+    "text": "companion and they then linked this with\nthe eruptions they saw to determine it",
+    "start": 345.28,
+    "duration": 5.04
+  },
+  {
+    "text": "had a periodicity of eight and a half years.\nThis is around half of the 6,160 day dimming cycle.",
+    "start": 350.32,
+    "duration": 8.56
+  },
+  {
+    "text": "So, more likely the ejection mechanism is\nconnected to the changes in the current",
+    "start": 358.88,
+    "duration": 4.87
+  },
+  {
+    "text": "from the cyclic resonance circuit effect.\nWhat if the UV excess was in fact",
+    "start": 363.75,
+    "duration": 5.77
+  },
+  {
+    "text": "evidence of something else going on in the star \nitself? That this process is what is causing the",
+    "start": 369.52,
+    "duration": 5.92
+  },
+  {
+    "text": "ejection of material and will eventually lead to\nthe transformation of the entire surroundings?",
+    "start": 375.44,
+    "duration": 6.24
+  },
+  {
+    "text": "In the case of a super red giant, we \nhave a star which is electron deficient;",
+    "start": 381.68,
+    "duration": 5.51
+  },
+  {
+    "text": "it expands its outer envelope to increase\nthe surface area for electron capture.",
+    "start": 387.19,
+    "duration": 5.28
+  },
+  {
+    "text": "The UV excess we see may be associated\nwith the fact that the plasma sheath has",
+    "start": 392.47,
+    "duration": 4.65
+  },
+  {
+    "text": "expanded far enough, causing an increase in the\nelectric field and hence giving the electrons a longer",
+    "start": 397.12,
+    "duration": 6.48
+  },
+  {
+    "text": "period of acceleration whereby they collide\nwith other neutral atoms, ionizing them,",
+    "start": 403.6,
+    "duration": 5.84
+  },
+  {
+    "text": "creating an avalanche process\nthrough more and more collisions.",
+    "start": 409.44,
+    "duration": 4.64
+  },
+  {
+    "text": "These types of stars struggle to \ndeal with sudden electrical stressing",
+    "start": 414.08,
+    "duration": 4.72
+  },
+  {
+    "text": "and the simplest way for them to \ndeal with this is to discharge matter.",
+    "start": 418.8,
+    "duration": 4.16
+  },
+  {
+    "text": "Going back to our example of a young\nstar with its outflows and the ring",
+    "start": 422.96,
+    "duration": 4.23
+  },
+  {
+    "text": "system. Rather than considering them as young stars,\nmaybe a better classification is a star undergoing",
+    "start": 427.19,
+    "duration": 6.81
+  },
+  {
+    "text": "extreme electrical stress. The same mechanism is \nwhat is causing all of these observations of V-Hydrae.",
+    "start": 434.0,
+    "duration": 7.19
+  },
+  {
+    "text": "The way these stars manage sudden changes in\nelectrical input, is to discharge charged matter.",
+    "start": 441.19,
+    "duration": 6.81
+  },
+  {
+    "text": "This initially starts in the equatorial\nregion forming a torus, or series of",
+    "start": 448.0,
+    "duration": 4.8
+  },
+  {
+    "text": "rings. As the toroidal magnetization\nbuilds, it may reach a critical point",
+    "start": 452.8,
+    "duration": 5.44
+  },
+  {
+    "text": "after which an instability occurs.\nThis switches its behavior to force it",
+    "start": 458.24,
+    "duration": 4.88
+  },
+  {
+    "text": "to start ejecting material out of the polar\nregions instead. These are the jets and the ejected",
+    "start": 463.12,
+    "duration": 6.56
+  },
+  {
+    "text": "material we see from these types of stars,\nand are also the same mechanism that",
+    "start": 469.68,
+    "duration": 4.63
+  },
+  {
+    "text": "drives the ejection from active galaxies. If we\nexamine the rings, you might notice something rather",
+    "start": 474.31,
+    "duration": 6.72
+  },
+  {
+    "text": "interesting. The rings are not equally\nspaced, but it would appear that the",
+    "start": 481.03,
+    "duration": 4.65
+  },
+  {
+    "text": "rings further out, are much further apart than\nthose close by. If these rings were simply ejected",
+    "start": 485.68,
+    "duration": 6.4
+  },
+  {
+    "text": "material from the star, this material should\nslow down as it moves away from the star,",
+    "start": 492.08,
+    "duration": 6.16
+  },
+  {
+    "text": "and we would expect to see the rings get\ncloser together as they move further away.",
+    "start": 498.24,
+    "duration": 4.63
+  },
+  {
+    "text": "The only reason that they will be\ngetting further apart, is if they are",
+    "start": 502.87,
+    "duration": 3.69
+  },
+  {
+    "text": "being accelerated away from the star.\nThis would make sense if the star had a",
+    "start": 506.56,
+    "duration": 4.96
+  },
+  {
+    "text": "radial electric field, driving away the plasma.\nA similar thing is also observed with",
+    "start": 511.52,
+    "duration": 5.84
+  },
+  {
+    "text": "the blobs of plasma ejected by the star.\nThey initially appeared to move at a",
+    "start": 517.36,
+    "duration": 4.15
+  },
+  {
+    "text": "steady speed, then suddenly underwent an \nacceleration. This star may well hold the clues to",
+    "start": 521.51,
+    "duration": 6.88
+  },
+  {
+    "text": "understanding the process that occurs when a star\nundergoes a sudden change in its incoming current,",
+    "start": 528.39,
+    "duration": 6.33
+  },
+  {
+    "text": "while at the same time being starved of a ready supply\nof electrons. The formation of both rings and jets is",
+    "start": 534.72,
+    "duration": 6.79
+  },
+  {
+    "text": "an indication of a star that is undergoing\na significant change to its electrical load.",
+    "start": 541.51,
+    "duration": 7.88
+  },
+  {
+    "text": "[Music]",
+    "start": 555.23,
+    "duration": 27.18
+  }
+]

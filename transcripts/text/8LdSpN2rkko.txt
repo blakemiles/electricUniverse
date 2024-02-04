@@ -1,0 +1,737 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe,",
+    "start": 7.11,
+    "duration": 2.91
+  },
+  {
+    "text": "brought to you by The\nThunderbolts Project™",
+    "start": 10.05,
+    "duration": 2.36
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 12.43,
+    "duration": 3.47
+  },
+  {
+    "text": "NASA's Juno mission to\nthe gas giant Jupiter",
+    "start": 18.64,
+    "duration": 2.99
+  },
+  {
+    "text": "has provided data\nthat could rewrite",
+    "start": 21.75,
+    "duration": 1.83
+  },
+  {
+    "text": "much of planetary science.",
+    "start": 23.6,
+    "duration": 1.65
+  },
+  {
+    "text": "According to NASA scientists,\nthe conventional theoretical models",
+    "start": 25.27,
+    "duration": 4.43
+  },
+  {
+    "text": "on the planet’s auroras,\nits atmosphere, its interior",
+    "start": 29.73,
+    "duration": 2.89
+  },
+  {
+    "text": "and its magnetic field\nhave found no support",
+    "start": 32.64,
+    "duration": 4.0
+  },
+  {
+    "text": "at all in the mission’s findings.",
+    "start": 36.67,
+    "duration": 1.98
+  },
+  {
+    "text": "The consistent theme in all of the surprises\nis the extraordinary and conventionally",
+    "start": 38.68,
+    "duration": 5.53
+  },
+  {
+    "text": "unexpected electromagnetic\nenergies the spacecraft detected.",
+    "start": 44.23,
+    "duration": 3.07
+  },
+  {
+    "text": "In this episode, Thunderbolts\nPicture of the Day",
+    "start": 47.32,
+    "duration": 2.94
+  },
+  {
+    "text": "Managing Editor Stephen Smith\noffers a succinct overview",
+    "start": 50.29,
+    "duration": 3.69
+  },
+  {
+    "text": "of the most significant discoveries\nfrom this historic mission.",
+    "start": 54.0,
+    "duration": 3.96
+  },
+  {
+    "text": "NASA launched the Juno mission\nto Jupiter on August 5th, 2011.",
+    "start": 58.99,
+    "duration": 4.54
+  },
+  {
+    "text": "After travelling out\npast the orbit of Mars,",
+    "start": 63.6,
+    "duration": 2.54
+  },
+  {
+    "text": "the spacecraft returned\nfor a gravity assist from Earth",
+    "start": 66.17,
+    "duration": 3.21
+  },
+  {
+    "text": "on October 9, 2013, and then\nheaded out to deep space.",
+    "start": 69.4,
+    "duration": 5.39
+  },
+  {
+    "text": "Although Juno was invisible\nto the naked eye,",
+    "start": 74.82,
+    "duration": 2.76
+  },
+  {
+    "text": "its arrival allowed scientists\na unique opportunity.",
+    "start": 77.61,
+    "duration": 4.34
+  },
+  {
+    "text": "Since it was only 600 km\nabove Earth, NASA was able",
+    "start": 81.98,
+    "duration": 4.69
+  },
+  {
+    "text": "to track its passage through\nEarth's electric field using",
+    "start": 86.7,
+    "duration": 2.73
+  },
+  {
+    "text": "the Van Allen probes.",
+    "start": 89.45,
+    "duration": 3.0
+  },
+  {
+    "text": "Formally known as the\nRadiation Belt Storm Probes,",
+    "start": 92.48,
+    "duration": 3.41
+  },
+  {
+    "text": "the Van Allen satellites were\nlaunched in an effort to understand",
+    "start": 95.91,
+    "duration": 3.85
+  },
+  {
+    "text": "how the Sun and\nnear-Earth's space interact.",
+    "start": 99.78,
+    "duration": 2.92
+  },
+  {
+    "text": "They do this by interpreting\nthe behavior of",
+    "start": 102.71,
+    "duration": 3.02
+  },
+  {
+    "text": "Earth's radiation belts\nand the way that high speed",
+    "start": 105.76,
+    "duration": 3.22
+  },
+  {
+    "text": "electrons and ions, otherwise known as plasma,\nare guided or confined by magnetic fields.",
+    "start": 109.01,
+    "duration": 6.51
+  },
+  {
+    "text": "The two spacecraft are in highly\neccentric orbits, passing each other",
+    "start": 116.24,
+    "duration": 4.4
+  },
+  {
+    "text": "and dipping in and out\nof the belts many times,",
+    "start": 120.66,
+    "duration": 3.39
+  },
+  {
+    "text": "allowing them to understand and\ndisregard effects of their own",
+    "start": 124.08,
+    "duration": 4.49
+  },
+  {
+    "text": "presences in orbit as well as\nfiltering out spatial anomalies.",
+    "start": 128.59,
+    "duration": 5.24
+  },
+  {
+    "text": "It was the small electrical effects\nof the Juno probe on the belts",
+    "start": 133.85,
+    "duration": 4.8
+  },
+  {
+    "text": "that allowed the Van Allen mission\nto see it passing by.",
+    "start": 138.67,
+    "duration": 3.5
+  },
+  {
+    "text": "Plasma is often described\nas the fourth state of matter.",
+    "start": 142.19,
+    "duration": 4.36
+  },
+  {
+    "text": "However, since observations\nconfirm that it makes up",
+    "start": 146.57,
+    "duration": 2.82
+  },
+  {
+    "text": "more than 99% of the universe, it\nshould be reckoned the first state.",
+    "start": 149.42,
+    "duration": 4.33
+  },
+  {
+    "text": "It is only been in the\nlast one hundred years",
+    "start": 153.77,
+    "duration": 3.49
+  },
+  {
+    "text": "that scientists have given\ncredence to the possibility",
+    "start": 157.3,
+    "duration": 2.69
+  },
+  {
+    "text": "that we might be living in a dynamic\nsolar system where electricity",
+    "start": 160.01,
+    "duration": 4.5
+  },
+  {
+    "text": "plays an important role.",
+    "start": 164.53,
+    "duration": 2.25
+  },
+  {
+    "text": "It is evident that the Sun's\nelectric field extends for",
+    "start": 166.8,
+    "duration": 2.66
+  },
+  {
+    "text": "billions of kilometers influencing\nthe planets in their motions",
+    "start": 169.48,
+    "duration": 4.37
+  },
+  {
+    "text": "as well as how they interact\nwith each other.",
+    "start": 173.88,
+    "duration": 2.39
+  },
+  {
+    "text": "Since plasma is a charged substance in motion,\nit generates an electric current.",
+    "start": 177.28,
+    "duration": 5.4
+  },
+  {
+    "text": "An electric current flowing through plasma\ncreates a magnetic sheath along its axis.",
+    "start": 182.74,
+    "duration": 6.56
+  },
+  {
+    "text": "If enough current passes through the circuit,\nthe plasma sheath will glow,",
+    "start": 189.32,
+    "duration": 4.28
+  },
+  {
+    "text": "sometimes creating a number of\nsheaths within it.",
+    "start": 193.63,
+    "duration": 2.72
+  },
+  {
+    "text": "The sheath is called a double layer.",
+    "start": 196.37,
+    "duration": 2.65
+  },
+  {
+    "text": "According to Electric Sun theory,\nan electric field focused on the Sun",
+    "start": 199.04,
+    "duration": 5.04
+  },
+  {
+    "text": "accelerates charged particles,\nthe faster they move, the stronger the field.",
+    "start": 204.11,
+    "duration": 4.66
+  },
+  {
+    "text": "However, the interplanetary electric\nfield is extremely weak.",
+    "start": 208.79,
+    "duration": 4.78
+  },
+  {
+    "text": "No instrument is yet able to measure the\nvoltage differential across 100 meters",
+    "start": 213.59,
+    "duration": 4.63
+  },
+  {
+    "text": "but the solar wind acceleration over\nits tens of millions of kilometers",
+    "start": 218.25,
+    "duration": 5.69
+  },
+  {
+    "text": "does confirm that the Sun\nhas an electric field.",
+    "start": 223.96,
+    "duration": 4.1
+  },
+  {
+    "text": "The Van Allen detector showed that over time,\nthe capabilities of future space missions",
+    "start": 228.09,
+    "duration": 6.0
+  },
+  {
+    "text": "will increase; taking detailed measurements\nof interplanetary electric fields",
+    "start": 234.11,
+    "duration": 4.11
+  },
+  {
+    "text": "may not be so far off after all.",
+    "start": 238.25,
+    "duration": 3.26
+  },
+  {
+    "text": "Juno entered orbit around\nJupiter on July 4th, 2016.",
+    "start": 241.54,
+    "duration": 4.66
+  },
+  {
+    "text": "Jupiter is the largest planet.",
+    "start": 246.22,
+    "duration": 2.97
+  },
+  {
+    "text": "It is so large that all the other planets\ncould fit comfortably inside it.",
+    "start": 249.22,
+    "duration": 4.54
+  },
+  {
+    "text": "Jupiter rotates in 9.9 hours,\ncausing its diameter to be",
+    "start": 253.78,
+    "duration": 4.65
+  },
+  {
+    "text": "9,275 kilometers more than the distance between\nits poles and this is due to centrifugal force.",
+    "start": 258.46,
+    "duration": 7.78
+  },
+  {
+    "text": "Since there are radiation belts\naround Jupiter similar to the",
+    "start": 266.26,
+    "duration": 3.0
+  },
+  {
+    "text": "Van Allen belts that surround Earth,",
+    "start": 269.28,
+    "duration": 3.39
+  },
+  {
+    "text": "but thousands of times greater in strength,\nJuno's electronics are",
+    "start": 272.69,
+    "duration": 4.5
+  },
+  {
+    "text": "housed within a titanium shell so that the\nenergetic particles trapped around Jupiter",
+    "start": 277.22,
+    "duration": 5.09
+  },
+  {
+    "text": "won't interfere with its systems.",
+    "start": 282.34,
+    "duration": 2.18
+  },
+  {
+    "text": "As previously reported, Jupiter's moon\nIo dissipates more than 2 trillion watts",
+    "start": 284.54,
+    "duration": 5.86
+  },
+  {
+    "text": "as it revolves through Jupiter's\nelectromagnetic fields.",
+    "start": 290.43,
+    "duration": 4.42
+  },
+  {
+    "text": "The electric charge flow creates lightning\nin the planet's upper atmosphere",
+    "start": 294.88,
+    "duration": 4.38
+  },
+  {
+    "text": "as well as intense aurorae\nat the poles.",
+    "start": 299.28,
+    "duration": 2.51
+  },
+  {
+    "text": "Recently, mission scientists announced\nthat Jupiter is even more electrically",
+    "start": 301.81,
+    "duration": 4.95
+  },
+  {
+    "text": "active than they predicted.",
+    "start": 306.78,
+    "duration": 0.99
+  },
+  {
+    "text": "Instead of a 5-Gauss magnetic field,\nJupiter measured levels as high as 9 Gauss",
+    "start": 307.8,
+    "duration": 6.35
+  },
+  {
+    "text": "and this is compared to\nEarth's 0.5-Gauss field.",
+    "start": 314.17,
+    "duration": 3.92
+  },
+  {
+    "text": "The field is also quite irregular,\nsuggesting to astrophysicists",
+    "start": 318.12,
+    "duration": 4.97
+  },
+  {
+    "text": "that there might be a non-conformity\nin Jupiter's core.",
+    "start": 323.12,
+    "duration": 3.62
+  },
+  {
+    "text": "According to a mission team\nmember Jack Connerney,",
+    "start": 326.75,
+    "duration": 4.61
+  },
+  {
+    "text": "\"Jupiter's magnetic field is\nspatially complex, and there were",
+    "start": 331.38,
+    "duration": 3.84
+  },
+  {
+    "text": "deficits of up to 2 gauss elsewhere.",
+    "start": 335.25,
+    "duration": 2.93
+  },
+  {
+    "text": "We may need many more orbits\nto resolve this.\"",
+    "start": 338.21,
+    "duration": 5.27
+  },
+  {
+    "text": "Conventional theories assume that\nthe universe is electrically neutral,",
+    "start": 343.88,
+    "duration": 3.64
+  },
+  {
+    "text": "so when observations confirm electrical activity,\nlocalized phenomena are invoked.",
+    "start": 347.95,
+    "duration": 5.11
+  },
+  {
+    "text": "So called 'tidal forces' and 'volcanoes'\nare said to cause the activity on Io,",
+    "start": 353.09,
+    "duration": 6.25
+  },
+  {
+    "text": "rather than the several million amperes\ncharge flow between it and Jupiter.",
+    "start": 359.37,
+    "duration": 4.57
+  },
+  {
+    "text": "In the case of Jupiter's rings,\ncharges detected in the ring plane",
+    "start": 363.96,
+    "duration": 4.71
+  },
+  {
+    "text": "were said to be caused by sunlight shadow rather than\nby an electric circuit between Jupiter and the Sun.",
+    "start": 368.72,
+    "duration": 6.83
+  },
+  {
+    "text": "According to a 2008 press release from JPL,\nJupiter's rings are electrically charged.",
+    "start": 375.57,
+    "duration": 7.45
+  },
+  {
+    "text": "However, astronomers proposed that Jupiter's\nmoon Io is kneaded like dough by Jupiter's gravity",
+    "start": 383.05,
+    "duration": 5.86
+  },
+  {
+    "text": "causing charged particles to be ejected\nby its volcanic plumes.",
+    "start": 388.91,
+    "duration": 4.84
+  },
+  {
+    "text": "The ion flow is an electric\ncircuit, to and from Jupiter.",
+    "start": 393.78,
+    "duration": 5.03
+  },
+  {
+    "text": "More than 8 years ago, TPOD addressed\nIo's 'volcanic plumes'.",
+    "start": 398.84,
+    "duration": 6.35
+  },
+  {
+    "text": "It was shown that they're actually\nplasma discharges from the moon to the gas giant.",
+    "start": 405.22,
+    "duration": 4.75
+  },
+  {
+    "text": "Some planetary scientists have begun\nto acknowledge an electrical connection",
+    "start": 409.99,
+    "duration": 4.58
+  },
+  {
+    "text": "after Io's footprint was seen in\nJupiter's polar aurora.",
+    "start": 414.6,
+    "duration": 3.96
+  },
+  {
+    "text": "All four of Jupiter's largest moons\nwere discovered to leave their marks",
+    "start": 418.58,
+    "duration": 3.54
+  },
+  {
+    "text": "in the aurora, in the shape of tails\nflowing within the plasma column.",
+    "start": 422.15,
+    "duration": 5.23
+  },
+  {
+    "text": "Later, when NASA launched New Horizons\non a mission to study Pluto,",
+    "start": 427.41,
+    "duration": 4.46
+  },
+  {
+    "text": "the plumes of Tvashtar, a gigantic\nvolcano supposedly, were found to be",
+    "start": 431.87,
+    "duration": 5.98
+  },
+  {
+    "text": "filamentary in structure with indications that\nthey are actually coronal arc discharges from",
+    "start": 437.87,
+    "duration": 6.0
+  },
+  {
+    "text": "electric hotspots,\nlinking Io with Jupiter.",
+    "start": 443.9,
+    "duration": 3.65
+  },
+  {
+    "text": "One of Juno's most important discovery\nwas that Jupiter's atmospheric bands are",
+    "start": 447.57,
+    "duration": 4.59
+  },
+  {
+    "text": "deeper than previously thought.",
+    "start": 452.19,
+    "duration": 2.36
+  },
+  {
+    "text": "Those cloud bands cannot be\npenetrated by visible light.",
+    "start": 454.58,
+    "duration": 3.43
+  },
+  {
+    "text": "However, microwave detectors allow Juno to see\nas deep as mission coordinators want to look.",
+    "start": 458.03,
+    "duration": 6.0
+  },
+  {
+    "text": "The satellite is currently searching\na little over 400 kilometers",
+    "start": 464.05,
+    "duration": 4.09
+  },
+  {
+    "text": "below the surface of the cloud tops, and\nas mentioned in other pictures of the day,",
+    "start": 468.17,
+    "duration": 5.45
+  },
+  {
+    "text": "the slight differences in layers suggest\nthat they are dynamic and constantly evolving.",
+    "start": 473.64,
+    "duration": 5.26
+  },
+  {
+    "text": "During the same flyby while\nobserving Jupiter's aurorae,",
+    "start": 479.22,
+    "duration": 4.1
+  },
+  {
+    "text": "Juno's electromagnetic data began to\ndiverge from what NASA team members predicted.",
+    "start": 483.34,
+    "duration": 5.28
+  },
+  {
+    "text": "It was nuch stronger.",
+    "start": 488.65,
+    "duration": 1.24
+  },
+  {
+    "text": "Jupiter's magnetic field is far more\ncomplex than they previously assumed.",
+    "start": 489.91,
+    "duration": 4.13
+  },
+  {
+    "text": "That flow of electric charge\ncauses aurorae at the poles.",
+    "start": 494.06,
+    "duration": 3.99
+  },
+  {
+    "text": "Since Jupiter is\nobviously electrical,",
+    "start": 498.08,
+    "duration": 3.18
+  },
+  {
+    "text": "the basic physics of charged\nobjects in motion",
+    "start": 501.29,
+    "duration": 3.13
+  },
+  {
+    "text": "generating electromagnetism\nshould be the focus of study.",
+    "start": 504.43,
+    "duration": 3.88
+  },
+  {
+    "text": "Jupiter's magnetosphere is so powerful\nthat it extends for nearly 650 million km",
+    "start": 508.33,
+    "duration": 6.35
+  },
+  {
+    "text": "reaching even beyond Saturn's orbit.",
+    "start": 514.7,
+    "duration": 2.01
+  },
+  {
+    "text": "The most energetic of the trapped\nelectrons in its magnetosphere",
+    "start": 516.74,
+    "duration": 4.06
+  },
+  {
+    "text": "emit radio frequencies.",
+    "start": 520.82,
+    "duration": 2.05
+  },
+  {
+    "text": "In 1955, that radiation led to the discovery\nthat Jupiter has a magnetic field.",
+    "start": 522.9,
+    "duration": 4.82
+  },
+  {
+    "text": "It should be noted however, that the\nmaverick scientist Immanuel Velikovsky",
+    "start": 527.75,
+    "duration": 4.99
+  },
+  {
+    "text": "predicted the electric field of Jupiter\nin October of 1953.",
+    "start": 532.76,
+    "duration": 5.11
+  },
+  {
+    "text": "As mentioned, rotating charged bodies\nproduce dipolar electromagnetic fields.",
+    "start": 537.89,
+    "duration": 5.46
+  },
+  {
+    "text": "Whenever there are regions\nof opposite charge,",
+    "start": 543.37,
+    "duration": 2.84
+  },
+  {
+    "text": "double layers form and\nelectric fields develop.",
+    "start": 546.24,
+    "duration": 3.57
+  },
+  {
+    "text": "An electric field, no matter how weak,\naccelerates charged particles.",
+    "start": 549.83,
+    "duration": 4.93
+  },
+  {
+    "text": "This could explain why the\natmospheric bands are so deep.",
+    "start": 554.78,
+    "duration": 3.18
+  },
+  {
+    "text": "Jupiter's electric field accelerates\nplasmas at different rates.",
+    "start": 557.99,
+    "duration": 3.98
+  },
+  {
+    "text": "Rather than a theoretical liquid\nmetallic dynamo inside Jupiter,",
+    "start": 562.0,
+    "duration": 4.85
+  },
+  {
+    "text": "it is more probable that the planet is acting\naccording to other well-known principles of physics.",
+    "start": 566.88,
+    "duration": 5.12
+  },
+  {
+    "text": "Rotating charged bodies produce\ndipolar electromagnetic fields,",
+    "start": 572.03,
+    "duration": 4.38
+  },
+  {
+    "text": "whether they are gas giants\nor rocky planets.",
+    "start": 576.44,
+    "duration": 2.38
+  },
+  {
+    "text": "Why some planets like Earth and\nMercury possess magnetic fields",
+    "start": 579.25,
+    "duration": 3.46
+  },
+  {
+    "text": "while Venus and Mars do not,\ndemands further investigation.",
+    "start": 582.74,
+    "duration": 3.73
+  },
+  {
+    "text": "However, the basic physics of charged\nobjects in motion is not debated.",
+    "start": 586.5,
+    "duration": 5.35
+  },
+  {
+    "text": "What is debated by Electric Universe\nadvocates is what drives the Jovian powerhouse.",
+    "start": 592.88,
+    "duration": 5.39
+  },
+  {
+    "text": "According to a recent press release,",
+    "start": 598.3,
+    "duration": 2.4
+  },
+  {
+    "text": "\"...convection currents...stir the interior\nand produce the swirling clouds and storms...",
+    "start": 600.72,
+    "duration": 5.14
+  },
+  {
+    "text": "they are strong enough to generate Jupiter's\nmagnetic field by a process called dynamo action.\"",
+    "start": 605.88,
+    "duration": 5.45
+  },
+  {
+    "text": "Dynamos were described more than a century ago\nand fluid dynamic equations are inadequate when",
+    "start": 611.86,
+    "duration": 6.93
+  },
+  {
+    "text": "electromagnetism and plasma\nenvironments are considered.",
+    "start": 618.81,
+    "duration": 3.15
+  },
+  {
+    "text": "Using models that are kinetic in nature,\nwith activity limited to induction of",
+    "start": 621.99,
+    "duration": 5.17
+  },
+  {
+    "text": "the movement of solid matter, solves\nnone of the enigmas Jupiter presents.",
+    "start": 627.18,
+    "duration": 5.78
+  }
+]

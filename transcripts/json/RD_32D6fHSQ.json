@@ -1,0 +1,1267 @@
+[
+    {
+        "text": "an electronic circuit on the other end",
+        "start": 10.88,
+        "duration": 6.51
+    },
+    {
+        "text": "usually incorporates some device that is",
+        "start": 13.61,
+        "duration": 6.99
+    },
+    {
+        "text": "enables the circuit to amplify that is",
+        "start": 17.39,
+        "duration": 5.01
+    },
+    {
+        "text": "to say a very small change in one",
+        "start": 20.6,
+        "duration": 4.38
+    },
+    {
+        "text": "variable over here creates a very large",
+        "start": 22.4,
+        "duration": 5.22
+    },
+    {
+        "text": "change in a variable over there and one",
+        "start": 24.98,
+        "duration": 4.5
+    },
+    {
+        "text": "of the typical things that we add to an",
+        "start": 27.62,
+        "duration": 3.99
+    },
+    {
+        "text": "electric circuit in order to make it",
+        "start": 29.48,
+        "duration": 4.17
+    },
+    {
+        "text": "into an electronic circuit is a",
+        "start": 31.61,
+        "duration": 4.949
+    },
+    {
+        "text": "transistor I maintain the surface of the",
+        "start": 33.65,
+        "duration": 5.61
+    },
+    {
+        "text": "Sun exhibits the properties of a",
+        "start": 36.559,
+        "duration": 4.861
+    },
+    {
+        "text": "transistor is it a transistor no of",
+        "start": 39.26,
+        "duration": 6.96
+    },
+    {
+        "text": "course not but this presentation of mine",
+        "start": 41.42,
+        "duration": 6.029
+    },
+    {
+        "text": "that I'd like to show you this morning",
+        "start": 46.22,
+        "duration": 6.0
+    },
+    {
+        "text": "it came to me when I saw an analogy at",
+        "start": 47.449,
+        "duration": 6.651
+    },
+    {
+        "text": "least I think I saw an analogy between",
+        "start": 52.22,
+        "duration": 5.689
+    },
+    {
+        "text": "two things and I firmly believe that",
+        "start": 54.1,
+        "duration": 6.91
+    },
+    {
+        "text": "important discoveries breakthroughs in",
+        "start": 57.909,
+        "duration": 4.991
+    },
+    {
+        "text": "science are made by somebody who can",
+        "start": 61.01,
+        "duration": 4.98
+    },
+    {
+        "text": "look at an area over here and an area",
+        "start": 62.9,
+        "duration": 5.579
+    },
+    {
+        "text": "over there and recognize recognize",
+        "start": 65.99,
+        "duration": 6.6
+    },
+    {
+        "text": "similarities between those two disparate",
+        "start": 68.479,
+        "duration": 6.81
+    },
+    {
+        "text": "areas of science and if you can",
+        "start": 72.59,
+        "duration": 5.459
+    },
+    {
+        "text": "recognize a similarity between a problem",
+        "start": 75.289,
+        "duration": 4.981
+    },
+    {
+        "text": "that's been solved over here and one",
+        "start": 78.049,
+        "duration": 3.661
+    },
+    {
+        "text": "that hasn't been solved will be there",
+        "start": 80.27,
+        "duration": 3.51
+    },
+    {
+        "text": "maybe you can use those techniques over",
+        "start": 81.71,
+        "duration": 5.22
+    },
+    {
+        "text": "here and get some progress I hope I know",
+        "start": 83.78,
+        "duration": 7.07
+    },
+    {
+        "text": "that for example Hannes Alfven did that",
+        "start": 86.93,
+        "duration": 8.369
+    },
+    {
+        "text": "he was a Swedish engineer and they were",
+        "start": 90.85,
+        "duration": 6.759
+    },
+    {
+        "text": "having all sorts of problems on the on",
+        "start": 95.299,
+        "duration": 4.74
+    },
+    {
+        "text": "the high voltage DC transmission lines",
+        "start": 97.609,
+        "duration": 5.851
+    },
+    {
+        "text": "in Sweden and this is an example of one",
+        "start": 100.039,
+        "duration": 5.82
+    },
+    {
+        "text": "of those disasters one pole to switch",
+        "start": 103.46,
+        "duration": 3.719
+    },
+    {
+        "text": "over here one pole of the switch over",
+        "start": 105.859,
+        "duration": 4.44
+    },
+    {
+        "text": "there the switch is wide open but the",
+        "start": 107.179,
+        "duration": 6.811
+    },
+    {
+        "text": "current says I ain't stopping and so you",
+        "start": 110.299,
+        "duration": 5.46
+    },
+    {
+        "text": "got this arc and it's a sort of",
+        "start": 113.99,
+        "duration": 4.32
+    },
+    {
+        "text": "self-sustaining arc eventually it'll",
+        "start": 115.759,
+        "duration": 5.25
+    },
+    {
+        "text": "blow itself out and when it does it will",
+        "start": 118.31,
+        "duration": 5.64
+    },
+    {
+        "text": "probably create an explosion which in",
+        "start": 121.009,
+        "duration": 5.581
+    },
+    {
+        "text": "many instances killed people blew up",
+        "start": 123.95,
+        "duration": 5.699
+    },
+    {
+        "text": "buildings and was a major disaster",
+        "start": 126.59,
+        "duration": 5.64
+    },
+    {
+        "text": "Alf Ian was able to find out what the",
+        "start": 129.649,
+        "duration": 5.341
+    },
+    {
+        "text": "cause was the cause was energy stored in",
+        "start": 132.23,
+        "duration": 4.86
+    },
+    {
+        "text": "the magnetic field around the",
+        "start": 134.99,
+        "duration": 3.43
+    },
+    {
+        "text": "transmission line and one",
+        "start": 137.09,
+        "duration": 4.72
+    },
+    {
+        "text": "when the circuit refused to to open that",
+        "start": 138.42,
+        "duration": 6.0
+    },
+    {
+        "text": "inductive sort of like a a water hammer",
+        "start": 141.81,
+        "duration": 4.95
+    },
+    {
+        "text": "in a hydraulic system there was an",
+        "start": 144.42,
+        "duration": 5.69
+    },
+    {
+        "text": "explosion and the disaster occurred",
+        "start": 146.76,
+        "duration": 7.02
+    },
+    {
+        "text": "Althea said well that kind of arcing",
+        "start": 150.11,
+        "duration": 5.76
+    },
+    {
+        "text": "there is sort of similar to the",
+        "start": 153.78,
+        "duration": 5.19
+    },
+    {
+        "text": "prominence arcing and that we see on the",
+        "start": 155.87,
+        "duration": 6.07
+    },
+    {
+        "text": "Sun and when that prominence expands",
+        "start": 158.97,
+        "duration": 6.59
+    },
+    {
+        "text": "like that arc and breaks we have a",
+        "start": 161.94,
+        "duration": 6.72
+    },
+    {
+        "text": "mission of stuff which is called a CME a",
+        "start": 165.56,
+        "duration": 5.47
+    },
+    {
+        "text": "coronal mass ejection",
+        "start": 168.66,
+        "duration": 4.5
+    },
+    {
+        "text": "as long as it's up there by the Sun we",
+        "start": 171.03,
+        "duration": 4.05
+    },
+    {
+        "text": "don't worry about it too much if it",
+        "start": 173.16,
+        "duration": 4.17
+    },
+    {
+        "text": "happens in Sweden near Eric village we",
+        "start": 175.08,
+        "duration": 6.54
+    },
+    {
+        "text": "do so but nevertheless the the response",
+        "start": 177.33,
+        "duration": 6.72
+    },
+    {
+        "text": "of the the causes of this",
+        "start": 181.62,
+        "duration": 5.73
+    },
+    {
+        "text": "it was Alfie Enfield the same cause",
+        "start": 184.05,
+        "duration": 6.9
+    },
+    {
+        "text": "magnetic field energy that caused the",
+        "start": 187.35,
+        "duration": 5.84
+    },
+    {
+        "text": "the problems with the transmission line",
+        "start": 190.95,
+        "duration": 6.42
+    },
+    {
+        "text": "well I'm trying to convince you that an",
+        "start": 193.19,
+        "duration": 7.45
+    },
+    {
+        "text": "analogy exists between our Sun which is",
+        "start": 197.37,
+        "duration": 6.51
+    },
+    {
+        "text": "our local star which we all know pretty",
+        "start": 200.64,
+        "duration": 4.86
+    },
+    {
+        "text": "much looks like this if you look at it",
+        "start": 203.88,
+        "duration": 5.07
+    },
+    {
+        "text": "through a backyard telescope you see",
+        "start": 205.5,
+        "duration": 6.299
+    },
+    {
+        "text": "that that's the photosphere occasionally",
+        "start": 208.95,
+        "duration": 6.33
+    },
+    {
+        "text": "you see some some sunspots if you've got",
+        "start": 211.799,
+        "duration": 5.641
+    },
+    {
+        "text": "a good enough telescope you can see some",
+        "start": 215.28,
+        "duration": 4.679
+    },
+    {
+        "text": "structure around the usually around the",
+        "start": 217.44,
+        "duration": 4.98
+    },
+    {
+        "text": "limbs but you can't see anything else",
+        "start": 219.959,
+        "duration": 4.171
+    },
+    {
+        "text": "and so you conclude well that's the",
+        "start": 222.42,
+        "duration": 4.65
+    },
+    {
+        "text": "surface of the Sun well it's not the",
+        "start": 224.13,
+        "duration": 4.62
+    },
+    {
+        "text": "surface of the Sun because there are",
+        "start": 227.07,
+        "duration": 5.79
+    },
+    {
+        "text": "other things above that layer and this",
+        "start": 228.75,
+        "duration": 5.94
+    },
+    {
+        "text": "is what we typically see in photos here",
+        "start": 232.86,
+        "duration": 4.379
+    },
+    {
+        "text": "it gives us all the light and the",
+        "start": 234.69,
+        "duration": 7.2
+    },
+    {
+        "text": "electromagnetic radiation we receive but",
+        "start": 237.239,
+        "duration": 7.021
+    },
+    {
+        "text": "it's not the top surface the Sun surface",
+        "start": 241.89,
+        "duration": 5.22
+    },
+    {
+        "text": "really has three main layers and there",
+        "start": 244.26,
+        "duration": 3.449
+    },
+    {
+        "text": "they are",
+        "start": 247.11,
+        "duration": 3.48
+    },
+    {
+        "text": "this is a sketch you can see the curved",
+        "start": 247.709,
+        "duration": 5.611
+    },
+    {
+        "text": "surface of the Sun is the yellow the",
+        "start": 250.59,
+        "duration": 5.34
+    },
+    {
+        "text": "earth is in here to scale by the way it",
+        "start": 253.32,
+        "duration": 4.62
+    },
+    {
+        "text": "shows how small the earth is in",
+        "start": 255.93,
+        "duration": 3.899
+    },
+    {
+        "text": "comparison to the Sun there's the",
+        "start": 257.94,
+        "duration": 3.78
+    },
+    {
+        "text": "photosphere that's that layer that we",
+        "start": 259.829,
+        "duration": 5.251
+    },
+    {
+        "text": "that surface that we see and by the way",
+        "start": 261.72,
+        "duration": 5.4
+    },
+    {
+        "text": "and I'm not going to continually bug you",
+        "start": 265.08,
+        "duration": 2.91
+    },
+    {
+        "text": "with this but",
+        "start": 267.12,
+        "duration": 3.0
+    },
+    {
+        "text": "at every step along the line of my talk",
+        "start": 267.99,
+        "duration": 4.38
+    },
+    {
+        "text": "here there should be a question in the",
+        "start": 270.12,
+        "duration": 4.71
+    },
+    {
+        "text": "back of your mind how does the standard",
+        "start": 272.37,
+        "duration": 4.829
+    },
+    {
+        "text": "model explain that and I'm not gonna",
+        "start": 274.83,
+        "duration": 4.589
+    },
+    {
+        "text": "continually poke at them but I think you",
+        "start": 277.199,
+        "duration": 4.741
+    },
+    {
+        "text": "should keep that in mind the standard",
+        "start": 279.419,
+        "duration": 4.231
+    },
+    {
+        "text": "model I'll say it once that I will do it",
+        "start": 281.94,
+        "duration": 2.19
+    },
+    {
+        "text": "again",
+        "start": 283.65,
+        "duration": 2.82
+    },
+    {
+        "text": "has no explanation for why the",
+        "start": 284.13,
+        "duration": 5.52
+    },
+    {
+        "text": "chromosphere exists the chromosphere is",
+        "start": 286.47,
+        "duration": 6.3
+    },
+    {
+        "text": "this set of spicules or spikes and stick",
+        "start": 289.65,
+        "duration": 6.6
+    },
+    {
+        "text": "up we can see them during a total",
+        "start": 292.77,
+        "duration": 5.76
+    },
+    {
+        "text": "eclipse of the Sun and of course above",
+        "start": 296.25,
+        "duration": 4.02
+    },
+    {
+        "text": "that is the vast corona",
+        "start": 298.53,
+        "duration": 6.09
+    },
+    {
+        "text": "that we all know about this photosphere",
+        "start": 300.27,
+        "duration": 6.119
+    },
+    {
+        "text": "has sun spots the chromosphere has",
+        "start": 304.62,
+        "duration": 4.44
+    },
+    {
+        "text": "spicules and the corona has these the",
+        "start": 306.389,
+        "duration": 5.481
+    },
+    {
+        "text": "shape has caps and striations and",
+        "start": 309.06,
+        "duration": 6.75
+    },
+    {
+        "text": "filaments if we look at the photosphere",
+        "start": 311.87,
+        "duration": 6.669
+    },
+    {
+        "text": "close up to a really good telescope we",
+        "start": 315.81,
+        "duration": 5.97
+    },
+    {
+        "text": "see that it has a granularity to it the",
+        "start": 318.539,
+        "duration": 6.391
+    },
+    {
+        "text": "astronomers call those granules",
+        "start": 321.78,
+        "duration": 7.259
+    },
+    {
+        "text": "well my hero Ralf jürgens took a look at",
+        "start": 324.93,
+        "duration": 7.739
+    },
+    {
+        "text": "that and he said that to me looks like a",
+        "start": 329.039,
+        "duration": 6.391
+    },
+    {
+        "text": "plasma plasma cells and so he then",
+        "start": 332.669,
+        "duration": 4.5
+    },
+    {
+        "text": "investigated what a real plasma",
+        "start": 335.43,
+        "duration": 3.39
+    },
+    {
+        "text": "discharge looks like in the laboratory",
+        "start": 337.169,
+        "duration": 4.56
+    },
+    {
+        "text": "and what the structure of it was he",
+        "start": 338.82,
+        "duration": 6.719
+    },
+    {
+        "text": "concluded that these cells were really",
+        "start": 341.729,
+        "duration": 6.541
+    },
+    {
+        "text": "what we'll talk about is anode Tufts",
+        "start": 345.539,
+        "duration": 5.13
+    },
+    {
+        "text": "it's a tough thing that's seen in the",
+        "start": 348.27,
+        "duration": 4.489
+    },
+    {
+        "text": "laboratory if you have a good enough",
+        "start": 350.669,
+        "duration": 3.99
+    },
+    {
+        "text": "microscope and you can look at the anode",
+        "start": 352.759,
+        "duration": 5.141
+    },
+    {
+        "text": "very closely if you look closely at this",
+        "start": 354.659,
+        "duration": 6.121
+    },
+    {
+        "text": "picture you'll see that between the the",
+        "start": 357.9,
+        "duration": 4.829
+    },
+    {
+        "text": "anode Tufts between the granules there's",
+        "start": 360.78,
+        "duration": 4.259
+    },
+    {
+        "text": "our black channels that permeate and run",
+        "start": 362.729,
+        "duration": 4.591
+    },
+    {
+        "text": "and separate the Tufts and within those",
+        "start": 365.039,
+        "duration": 4.5
+    },
+    {
+        "text": "channels can you see the tiny little",
+        "start": 367.32,
+        "duration": 4.349
+    },
+    {
+        "text": "white dots I don't know if they if you",
+        "start": 369.539,
+        "duration": 5.451
+    },
+    {
+        "text": "can see it or not those are the spicules",
+        "start": 371.669,
+        "duration": 6.901
+    },
+    {
+        "text": "so the question arises well what are",
+        "start": 374.99,
+        "duration": 5.739
+    },
+    {
+        "text": "wire why is that stuff there what is",
+        "start": 378.57,
+        "duration": 3.839
+    },
+    {
+        "text": "what are the spicules do do they how do",
+        "start": 380.729,
+        "duration": 6.5
+    },
+    {
+        "text": "they contribute to the action the Tufts",
+        "start": 382.409,
+        "duration": 8.25
+    },
+    {
+        "text": "come and go over periods of like a min",
+        "start": 387.229,
+        "duration": 6.571
+    },
+    {
+        "text": "minutes hours perhaps a day but",
+        "start": 390.659,
+        "duration": 5.66
+    },
+    {
+        "text": "more than that these toughs they are",
+        "start": 393.8,
+        "duration": 5.519
+    },
+    {
+        "text": "plasma and they are in the arc mode you",
+        "start": 396.319,
+        "duration": 4.53
+    },
+    {
+        "text": "know there's three modes of plasma arc",
+        "start": 399.319,
+        "duration": 3.901
+    },
+    {
+        "text": "glow and dark current this is the",
+        "start": 400.849,
+        "duration": 6.091
+    },
+    {
+        "text": "powerful arc mode and that's why all of",
+        "start": 403.22,
+        "duration": 6.3
+    },
+    {
+        "text": "the heat and light could radiator from",
+        "start": 406.94,
+        "duration": 5.37
+    },
+    {
+        "text": "this area the temperature though is",
+        "start": 409.52,
+        "duration": 6.209
+    },
+    {
+        "text": "about 6,000 Kelvin which is it's pretty",
+        "start": 412.31,
+        "duration": 5.25
+    },
+    {
+        "text": "hot I wouldn't want to be there but it's",
+        "start": 415.729,
+        "duration": 5.22
+    },
+    {
+        "text": "as far as temperatures of plasma is",
+        "start": 417.56,
+        "duration": 5.579
+    },
+    {
+        "text": "concerned and certainly temperatures of",
+        "start": 420.949,
+        "duration": 4.351
+    },
+    {
+        "text": "the Sun's corona are concerned it's very",
+        "start": 423.139,
+        "duration": 4.49
+    },
+    {
+        "text": "cool",
+        "start": 425.3,
+        "duration": 2.329
+    },
+    {
+        "text": "there's the plasma discharge that out",
+        "start": 427.759,
+        "duration": 6.541
+    },
+    {
+        "text": "that Jurgens looked at in the in the day",
+        "start": 429.77,
+        "duration": 8.16
+    },
+    {
+        "text": "so in the beginning of the 20th century",
+        "start": 434.3,
+        "duration": 5.64
+    },
+    {
+        "text": "even in it back in the 19th century",
+        "start": 437.93,
+        "duration": 4.949
+    },
+    {
+        "text": "people were very concerned about the the",
+        "start": 439.94,
+        "duration": 5.279
+    },
+    {
+        "text": "cathode and what was the structure of",
+        "start": 442.879,
+        "duration": 5.07
+    },
+    {
+        "text": "the charge layers and and voltages and",
+        "start": 445.219,
+        "duration": 5.311
+    },
+    {
+        "text": "forces at the cathode they did they paid",
+        "start": 447.949,
+        "duration": 4.59
+    },
+    {
+        "text": "relatively little attention to the anode",
+        "start": 450.53,
+        "duration": 6.569
+    },
+    {
+        "text": "the the Tufts are represented by this",
+        "start": 452.539,
+        "duration": 7.56
+    },
+    {
+        "text": "anode globe which we see notice that the",
+        "start": 457.099,
+        "duration": 5.91
+    },
+    {
+        "text": "thing is this structure this plasma cell",
+        "start": 460.099,
+        "duration": 6.391
+    },
+    {
+        "text": "the anode blow is separated by a small",
+        "start": 463.009,
+        "duration": 6.78
+    },
+    {
+        "text": "distance from the anode itself in the",
+        "start": 466.49,
+        "duration": 6.39
+    },
+    {
+        "text": "electric star the ectric sky excuse me",
+        "start": 469.789,
+        "duration": 6.66
+    },
+    {
+        "text": "the electric Sun model the anode itself",
+        "start": 472.88,
+        "duration": 7.71
+    },
+    {
+        "text": "is the body of the Sun here are the the",
+        "start": 476.449,
+        "duration": 7.131
+    },
+    {
+        "text": "Tufts and then right connected to and",
+        "start": 480.59,
+        "duration": 6.0
+    },
+    {
+        "text": "emanating at a further distance from the",
+        "start": 483.58,
+        "duration": 5.709
+    },
+    {
+        "text": "Sun itself is this positive column the",
+        "start": 486.59,
+        "duration": 4.65
+    },
+    {
+        "text": "positive column is another cell of",
+        "start": 489.289,
+        "duration": 7.321
+    },
+    {
+        "text": "plasma it's in the glow mode and has",
+        "start": 491.24,
+        "duration": 7.91
+    },
+    {
+        "text": "certain properties that we'll discuss",
+        "start": 496.61,
+        "duration": 6.419
+    },
+    {
+        "text": "but the typical sunspot there is a",
+        "start": 499.15,
+        "duration": 7.449
+    },
+    {
+        "text": "typical sunspot you can see the the",
+        "start": 503.029,
+        "duration": 8.01
+    },
+    {
+        "text": "Tufts around here in the penumbra of the",
+        "start": 506.599,
+        "duration": 9.031
+    },
+    {
+        "text": "Sun sunspot the Tufts look elongated and",
+        "start": 511.039,
+        "duration": 7.831
+    },
+    {
+        "text": "in the middle of the the Umbra the dark",
+        "start": 515.63,
+        "duration": 5.75
+    },
+    {
+        "text": "part of the sunspot there are no Tufts",
+        "start": 518.87,
+        "duration": 5.7
+    },
+    {
+        "text": "so bear that in mind a sunspot is a",
+        "start": 521.38,
+        "duration": 4.36
+    },
+    {
+        "text": "place where",
+        "start": 524.57,
+        "duration": 5.06
+    },
+    {
+        "text": "there are no tufts there is no tufting",
+        "start": 525.74,
+        "duration": 7.26
+    },
+    {
+        "text": "so what well we'll see the chromosphere",
+        "start": 529.63,
+        "duration": 6.399
+    },
+    {
+        "text": "is that a bunch of spicules here's an",
+        "start": 533.0,
+        "duration": 4.44
+    },
+    {
+        "text": "example it looks like a prominence",
+        "start": 536.029,
+        "duration": 5.131
+    },
+    {
+        "text": "beginning here that's about 2000 3000",
+        "start": 537.44,
+        "duration": 6.69
+    },
+    {
+        "text": "5000 kilometers high the Sun of course",
+        "start": 541.16,
+        "duration": 4.739
+    },
+    {
+        "text": "is like eight hundred thousand",
+        "start": 544.13,
+        "duration": 4.26
+    },
+    {
+        "text": "kilometers across so it's a relatively",
+        "start": 545.899,
+        "duration": 7.231
+    },
+    {
+        "text": "thin zone the chromosphere it's",
+        "start": 548.39,
+        "duration": 6.06
+    },
+    {
+        "text": "generally h-alpha",
+        "start": 553.13,
+        "duration": 3.87
+    },
+    {
+        "text": "if you have that's H alpha is a spectral",
+        "start": 554.45,
+        "duration": 4.949
+    },
+    {
+        "text": "line right in the middle of the visual",
+        "start": 557.0,
+        "duration": 7.16
+    },
+    {
+        "text": "it's a in the red red the deep red color",
+        "start": 559.399,
+        "duration": 7.38
+    },
+    {
+        "text": "there's the spicule is about that that",
+        "start": 564.16,
+        "duration": 8.17
+    },
+    {
+        "text": "high it's usually full of entry you can",
+        "start": 566.779,
+        "duration": 8.25
+    },
+    {
+        "text": "see the streaks it's not just a uniform",
+        "start": 572.33,
+        "duration": 6.33
+    },
+    {
+        "text": "glowing as fingers and there's a reason",
+        "start": 575.029,
+        "duration": 6.021
+    },
+    {
+        "text": "for that and it's well known plasma a",
+        "start": 578.66,
+        "duration": 5.94
+    },
+    {
+        "text": "property of global plasma that they",
+        "start": 581.05,
+        "duration": 8.11
+    },
+    {
+        "text": "usually filament seen only during",
+        "start": 584.6,
+        "duration": 6.75
+    },
+    {
+        "text": "eclipses again I ask the question why is",
+        "start": 589.16,
+        "duration": 4.739
+    },
+    {
+        "text": "it there it changes shape depending on",
+        "start": 591.35,
+        "duration": 5.22
+    },
+    {
+        "text": "the weather it's a time of active Sun or",
+        "start": 593.899,
+        "duration": 5.971
+    },
+    {
+        "text": "or quiet Sun this is what it looks like",
+        "start": 596.57,
+        "duration": 5.79
+    },
+    {
+        "text": "during the quiet Sun this is what it",
+        "start": 599.87,
+        "duration": 4.74
+    },
+    {
+        "text": "looks like during the active Sun the",
+        "start": 602.36,
+        "duration": 3.9
+    },
+    {
+        "text": "active Sun is a time when there are a",
+        "start": 604.61,
+        "duration": 6.539
+    },
+    {
+        "text": "lot of sunspots the quiet Sun there are",
+        "start": 606.26,
+        "duration": 6.949
+    },
+    {
+        "text": "much fewer sunspots",
+        "start": 611.149,
+        "duration": 5.371
+    },
+    {
+        "text": "you can see here one thing not really",
+        "start": 613.209,
+        "duration": 5.051
+    },
+    {
+        "text": "germane to what I'm saying but you can",
+        "start": 616.52,
+        "duration": 6.689
+    },
+    {
+        "text": "see the magnetic fields that are are",
+        "start": 618.26,
+        "duration": 7.019
+    },
+    {
+        "text": "also filamentous what you're not looking",
+        "start": 623.209,
+        "duration": 3.241
+    },
+    {
+        "text": "at the magnetic fields by the way",
+        "start": 625.279,
+        "duration": 2.701
+    },
+    {
+        "text": "astronomers say that all the time that's",
+        "start": 626.45,
+        "duration": 3.68
+    },
+    {
+        "text": "not true magnetic fields are invisible",
+        "start": 627.98,
+        "duration": 6.479
+    },
+    {
+        "text": "what you see like here is plasma which",
+        "start": 630.13,
+        "duration": 10.75
+    },
+    {
+        "text": "is surrounding currents in in that",
+        "start": 634.459,
+        "duration": 8.341
+    },
+    {
+        "text": "follow the magnetic field so it's the",
+        "start": 640.88,
+        "duration": 3.84
+    },
+    {
+        "text": "magnetic fields they're a current",
+        "start": 642.8,
+        "duration": 4.71
+    },
+    {
+        "text": "follows the magnetic field and lights up",
+        "start": 644.72,
+        "duration": 7.23
+    },
+    {
+        "text": "the plasma so we can see it here's the",
+        "start": 647.51,
+        "duration": 6.87
+    },
+    {
+        "text": "big one of the biggest problems facing",
+        "start": 651.95,
+        "duration": 4.57
+    },
+    {
+        "text": "modernist solar astronomy",
+        "start": 654.38,
+        "duration": 4.66
+    },
+    {
+        "text": "and that's this Sun temperature profile",
+        "start": 656.52,
+        "duration": 7.319
+    },
+    {
+        "text": "this the if the Sun is a just a furnace",
+        "start": 659.04,
+        "duration": 6.63
+    },
+    {
+        "text": "that burns hydrogen it turns it into",
+        "start": 663.839,
+        "duration": 4.951
+    },
+    {
+        "text": "helium much like a wood furnace turns",
+        "start": 665.67,
+        "duration": 7.2
+    },
+    {
+        "text": "wood and carbon and oxygen you know as",
+        "start": 668.79,
+        "duration": 6.6
+    },
+    {
+        "text": "you get farther away from that furnace",
+        "start": 672.87,
+        "duration": 4.98
+    },
+    {
+        "text": "you should get less radiation you should",
+        "start": 675.39,
+        "duration": 4.74
+    },
+    {
+        "text": "so the temperature should go down and as",
+        "start": 677.85,
+        "duration": 4.01
+    },
+    {
+        "text": "you begin to go away",
+        "start": 680.13,
+        "duration": 4.59
+    },
+    {
+        "text": "right here that's exactly what does",
+        "start": 681.86,
+        "duration": 5.02
+    },
+    {
+        "text": "happen but all of a sudden there's an",
+        "start": 684.72,
+        "duration": 4.679
+    },
+    {
+        "text": "anomaly and the farther you get away",
+        "start": 686.88,
+        "duration": 4.7
+    },
+    {
+        "text": "from this stove the hotter it gets",
+        "start": 689.399,
+        "duration": 4.741
+    },
+    {
+        "text": "temperature goes up until finally when",
+        "start": 691.58,
+        "duration": 4.509
+    },
+    {
+        "text": "you get out here at the top of the",
+        "start": 694.14,
+        "duration": 5.16
+    },
+    {
+        "text": "spicules the temperature shoots up to",
+        "start": 696.089,
+        "duration": 7.731
+    },
+    {
+        "text": "like a million Kelvin now that is not",
+        "start": 699.3,
+        "duration": 8.37
+    },
+    {
+        "text": "how how can you get a high temperature",
+        "start": 703.82,
+        "duration": 8.26
+    },
+    {
+        "text": "like that I would I was here when the",
+        "start": 707.67,
+        "duration": 6.06
+    },
+    {
+        "text": "the temperature of the photosphere is",
+        "start": 712.08,
+        "duration": 3.92
+    },
+    {
+        "text": "only about six or seven thousand Kelvin",
+        "start": 713.73,
+        "duration": 5.0
+    },
+    {
+        "text": "good question and I will endeavour to",
+        "start": 716.0,
+        "duration": 6.0
+    },
+    {
+        "text": "say why",
+        "start": 718.73,
+        "duration": 3.27
+    }
+]

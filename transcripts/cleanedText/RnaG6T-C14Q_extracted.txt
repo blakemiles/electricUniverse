@@ -1,0 +1,834 @@
+When I concocted this title I kind of realized
+that what makes the world go round but what's the
+world? What I really meant is the Earth.
+And that's something that we don't often
+think about, the driving force that makes
+the Earth rotate and in fact all of this
+came from the book that David
+mentioned, The Fourth Phase of Water.
+I think some of you have heard the
+presentations on the fourth phase of
+water. We all know three phases of water,
+we know solid, liquid and vapor.
+The book presented evidence that
+there's actually a fourth phase of water
+and there are few properties of that
+phase that actually gave rise to what I
+want to talk about today. Let me just
+begin by mentioning some of those
+properties. The first one is that
+when water, and you can see the water,
+I think there is a, let's see..
+So this is water that you see here and
+next to the water is some kind of
+hydrophilic surface and what we found is
+that when water meets the hydrophilic
+surface it builds this huge zone, this is
+not one or two molecular layers, but up
+to millions of molecular layers of water
+that actually changes its properties
+amazingly. And we call this, because the
+properties are so different, we call it
+the fourth phase of water. And one of the
+features that it has is that it's got
+negative charge and the region
+beyond that has positive charge.
+We call it the fourth phase and
+sometimes we call that the exclusion
+zone because we found that this zone
+excludes practically everything from it,
+just like ice. It moves out into the region
+of ordinary bulk water. So because this
+region is negatively charged and this
+region is positively charged you can
+actually put on electrode in here
+and electrode in here and extract
+current from it. So that's one of the
+interesting features of this. Another
+interesting feature is where the energy
+comes from, to build this zone of
+water and to separate the charge. It
+comes from light. This was rather a
+surprise to us but we found that if you
+expose the water to light, what happens
+is this exclusion zone, EZ, exclusion
+zone, fourth phase of water builds and
+the charges separate so we found it
+really interesting that light, sunlight
+for example, is the energy that drives
+the buildup of this phase of water.
+Now,
+when you think about it, this has
+led to a lot of thinking about the
+consequences of this. And what are the
+consequences that I'm going to be
+talking about is the rotation of the
+earth. I know it's impossible to think of
+any linkage between what I showed you a
+moment ago and the Earth's rotation but
+I bet that a lot of people here don't
+really think about what makes the earth
+turn. Maybe you do, I'm not sure. Most
+of my colleagues don't think about, oh
+you know, it just turns it spins, right,
+it started spinning from day one and it
+just keeps spinning. But when you think about
+it, you know, most things that spinned runned
+down. There are energy losses and it just
+doesn't keep going forever and when we
+think of the Eartth, you know, something may
+have set it spinning five billion
+years ago or something. You can imagine
+something spinning for maybe a few times
+or a few years or even a few hundred
+years but a thousand years, a million
+years,
+a billion years.. Can it really keep going
+on that initial energy? Is inertia
+enough to keep it going? So we started
+thinking about that, or I started thinking
+about that and so where I wanna get to toward
+the end of this talk, and I'll give you a
+punch line, is that I'm going to suggest
+to you that the wind, blowing over the
+earth, is actually what's responsible,
+at least hypothetically as speculation, for
+keeping the earth rotating. In that of
+course the question arises, well okay
+so I'm suggesting that the wind is
+responsible but what gives rise to the
+wind? That's another topic that I had
+bet not too many people have thought
+about and I'm going to be suggesting to
+you that the wind actually comes from
+charge gradients, lateral gradients of
+charge- particularly positive charge in
+the atmosphere. So that's where I'm going.
+And the way I'm gonna do it, I'm gonna answer a
+series of questions and the list is here.
+First of all when we think of charges,
+charges can exert force, repulsions and
+attractions and I think most of us, maybe
+with the exception of the people here in
+this audience, don't really think of
+charges as having really powerful
+forces. We think you know, we touch
+something, we get a shock and ok but we
+don't think of really strong forces so
+the first question is well
+ok well, how strong are charged forces
+if you got a plus and a plus near one
+another. Is it weak, is it strong?
+Next question. Where on earth do
+charges, where on the earth
+do charges hang out? OK and I want to talk about
+the earth itself and the atmosphere and
+the charges that we find there and the
+next question which you could have
+surmised is, are there really gradients of
+charge that we can identify and and then,
+can charge gradients really drive the
+prevailing winds and if so, can the
+prevailing winds spins the earth?
+OK so first question, how powerful are
+charged forces? Well one of the phenomena that got me started
+is something shown by our previous
+speaker Don Scott in one of his books
+and and that is,
+if you put a proton next to an
+electron, let's say at a distance d between
+them, there are actually 2 forces that you
+can think of. The first one is the
+obvious one which is the attraction- the
+electrostatic force but also, since the
+two have mass, there's a gravitational
+force and the question is ok, which one
+is stronger and by how much. I'm sure
+most of you will of course guess that the
+electrostatic force is larger than the
+gravitational force but by how much?
+So that's a question and
+the answer turns out to be, ten to
+the 38th. It's not trivial it's a huge
+amount but I think most of us don't really
+understand what ten to the 38 really
+means. We can understand 10 times or a
+hundred times or a million times but
+ten to the 38th.. Ten to the 38th is
+something like this schematic shown here.
+If you take a proton on the upper left
+and consider that diameter of the proton,
+okay, and then consider another distance
+if you look at, next to the last panel
+there, you see the solar system and if
+you take the distance from the Sun to
+the edge of the solar system,
+take the ratio of that distance to the
+diameter of a proton, that's only a mere
+ten to the nineteenth. We need ten to the
+38th!
+So you know, we're talking about
+the ratio of the size of a proton to the
+distance between, between us and some
+distant galaxy. That's ten to the 38th.
+To give you some idea about how strong
+the forces are, the electrostatic forces
+compared to gravitational forces. OK
+here's another example, you take two
+copper balls sitting on top of one
+another and you start removing electrons
+from each one of them. That of course
+leaves the two copper balls positively
+charged. And so the question is well,
+how many electrons do you need to remove so that
+the top 1 levitates? OK and I dunno
+maybe you know the answer to that, it turns
+out the answer is, one in 10 to the
+seventh. In other words only one in ten
+million approximately, electrons need to
+be removed so that this ball, because of
+repulsion, starts levitating. A really
+small force. Another example. You take a
+light bulb, take one of the old fashioned
+hundred twenty watt light bulbs and you
+know the current goes through the
+filament, right, and if you could suppose
+you could capture electrons and capture,
+let's say, one seconds worth of electrons
+running through that filament. And
+suppose you could take that and compress
+it into just like a sort of a nucleus of
+positive charges, you compress it into a
+dot and you put one one of those dots
+down at the bottom resting on the ground
+and the other one one metre higher. And
+so question is, in order to prevent the
+levitation to keep it where it is, how
+much weight would you have to put on that?
+Anybody want to take a guess? Lots. OK, thank you!
+The answer is 50,000 fully-loaded
+garbage trucks!
+I would have shown jumbo jets, 20 actually, there are
+5,000 fully loaded seven forty sevens
+but my son, the artist, couldn't draw
+them. OK and here is finally not to belabor
+the point but it's an important point,
+consider this. Suppose you, you're lying
+down and somebody is lying
+suspended let's say 1 meter above you
+okay, and you remove one percent of her
+electrons, she's got a lot of electrons and
+protons, you remove one percent of her
+electrons and 1% of the electrons of the
+person below, they're one metre apart and
+of course both of them become positively
+charged so instead of coming together
+which they might like they're actually
+coming apart and the same question, how
+much weight would you need to put on top of
+the upper person in order to prevent
+the levitation?
+A guess, lots! OK how much is lots? Right, the
+Earth.
+The weight of the Earth. And this is not
+my calculation, you'll see it in
+Feynman's lectures. He calculated it, I
+guess he knows how to calculate. So, in
+other words the point of these
+somewhat repetitious slides is that charge
+forces can be astonishing and if we
+don't take into account the force
+exerted by those charges we're missing
+something
+and probably we're missing something
+really important. OK so one question is
+well okay, so charged forces can be
+astonishing but to do that you need to
+separate, you need to have separated
+charges and the question is, can
+substances really bear net charge? OK and
+the answer I'm gonna say is yes, although
+chemist will generally say that no, they
+can't bear net charge because
+everything tends toward neutrality but
+here's an experiment from last week.
+Here's an electrolyzer and some of you
+may know this electrolyzer, it
+produces so-called health promoting
+water. If you drink, it separates the
+water into negatively charged and
+positively charged, but they don't tell
+you it's negatively or positively
+charged. It's high pH or low pH and if you
+would have drink a low pH water you'd spit
+it out because it's awful, kills bacteria.
+But if you drink the high pH water, pH
+10.5, 11.5, something like that, it tastes
+delicious and there is a lot of evidence
+that it actually is, is good for your
+health. And you find in Japan for example,
+this kind of water is,
+if you have any kind of
+gastrointestinal problem you go into a
+clinic and I am told by my colleague in Japan
+that first thing they do is they put you
+on this alkaline water and the
+government pays for it. So it's got
+something. Anyway this has nothing to do
+with the health benefits of this water
+but you can take the water and you can
+as you see on the left side, you can fill a
+couple of beakers with it and
+what we did is, we took a simple
+voltmeter and we put one probe in the high
+pH and one probe in the low pH
+and voila! Half a volt between those
+and a half of volt sustained easily
+for an hour. That's as far as we we
+went. So yes, you can have sustained
+charge in vessels of something.
+This is water. Here's another example.
+This one is kind of cool if you if
+you've seen it, this is.. well you start
+start with some beaker of water sitting
+on the top and so here is the.. so you start
+with the water and then what happens is
+that the water goes in, divides into two
+columns and the water drips into both, it
+passes through this ring and it passes
+through this ring, by the way this is
+called the Kelvin water dropper experiment
+done by Lord Kelvin, okay. And the
+drips go through these and these collect
+in this container and these collect in
+this container and what happens is that,
+well you know, they they drop into
+there and after a while the charge seems
+to build up in some way and and then you
+get a zap you get a discharge between
+those two electrodes. It's audible, you
+can see it, it's really astonishing and
+if you look, I mean, and even before the
+zap, if you stop the flow, these two
+containers will sustain charges and one's
+got negative and one's got positive and these
+charges can be amazing if you look at
+the drops falling into the beaker after
+a lot of water has got, not enough to
+discharge but quite a bit and it looks
+like this. So at the bottom is
+the cup and you can see these traces,
+these traces are actually falling
+droplets of water, they should fall into
+the cup but the cup has so much charge
+and the following droplet is the same
+charge that they get repelled, you can
+see these traces going upward.
+So it means that the charge forces can
+easily defy gravity. So we're talking
+about really strong forces. Now the point
+is, substances can bear charge and
+charge forces can be huge. So I've
+answered the first question- how powerful
+are charged forces and the answer is
+much more than most of us think, extreme!
+Next question is ok, where on the earth
+do charges hang out? And it's known, it's
+well known that there is an electric
+field. I remember when I was told that
+there is, and I come from a different
+field I don't know what most of you
+people have known since childhood and
+a Russian colleague of mine who was
+working in my laboratory one day just
+happens to ask me if I knew
+anything about the earth's electric
+field and I said, what are you talking
+about, you mean magnetic field? No,
+electric field and he said, you don't
+know about it? And it was kind of amazing,
+he said he grew up in Russia,
+of contemporary age and he said, every
+middle school student knew about the
+electric field of the earth and and and
+the negative charge on the face of the
+earth and I guess in this country we we
+don't learn that or at least these we didn't
+learn that. But anyway it's well known, in
+the text books, especially the text books
+from fifty to hundred years ago, the
+electric field is about a hundred volts
+pro meter at the surface of the earth
+and there must be therefore some
+negative charge on the earth and positive
+charge somewhere up there. So essentially
+the point is that the earth somehow
+bears negative charge and again back to
+the health issue, some of you may know
+that it's now advocated by people in
+alternative health or any kind of health
+to just walk barefoot on the beach.
+If you walk barefoot on the beach you're
+basically soaking up the electric charge,
+negative electric charge from the earth
+and you need that charge, the body needs
+negative electric charge to thrive.
+That's a different issue, I don't wanna go
+into it. So it's called earthing or
+grounding,
+depending on where you come from and in,
+in Japan and some of the other Asian
+countries mud baths are pretty common
+and mud baths are said to have healing
+properties and and I think the the
+reason for this has to do with
+connecting to the negative earth. OK, so
+question is now where does this negative
+charge come from? The standard
+interpretation, again if you read
+Feynman's lectures, volume 2 chapter 9,
+lightning. This is commonly thought to
+give rise to the negative charge on the
+earth. We don't get that much lightning
+at least in Seattle, maybe here in
+Phoenix there there's more but around
+the earth there are
+huge numbers of discharges and so it's
+possible that the lightning comb strikes
+the earth, brings negative charge and the
+earth can't rid itself of that negative
+charge rapidly enough and therefore it
+accumulates a negative, net negative
+charge. That's one idea. Another idea is
+that it may come from the Earth's water
+and this, as you can see, came from the
+work that we had done to produce the
+book that I mention. If you have EZ
+water down, the earth is of course
+filled with water and if much of that is
+the fourth phase or EZ water, it bears
+negative charge, you see. That could be
+another source of this negative charge
+and interestingly the Sun builds this
+EZ and negative charge so, so we have
+some sort of relationship with with the
+Sun. Essentially
+we have the Sun beating on the earth and
+we have negative charge that, that builds
+and if the Earth is highly conductive, as
+many investigators think, then these
+charges would be all around and
+fill the subsurface of the earth with
+net negative charge. So ok, there's the
+negative charge and you might say well,
+where do the corresponding positive
+charges lodge? They're initially together
+with water but many of these protons
+evaporate into the air, so we have a
+negative and the positive. And the
+positive ones, along with negatives which
+actually form clouds, the positive ones
+are rising up into the air and as they
+rise up into the air we have a situation
+that looks like this. The earth is
+negative and then you have positive
+charges that begin rising up as you see
+here. Close to the earth there's a high
+concentration of positive charges
+because those charges are attracted to
+the negativity of the earth but as you
+get higher up, the protons,
+or hydroium ions, tend to repel one
+another and they rise vertically and
+begin to spread out. You have positive
+charges in the atmosphere and negative
+charges on the Earth. If you think
+about that plus and minus, you have situation
+like this and you know, basic
+electrostatics tells you that the
+positive charges are clinging to the
+negative charges and so the atmosphere
+clings to the Earth and question that
+arises well, you know, if the atmosphere
+clings to the earth it exerts pressure on
+the earth, does this explain atmospheric
+pressure? The prevailing pressure
+mechanism is fraught with several
+paradoxes. You know, we think of pressure
+arising from the weight of the air, you
+know, so the weight of the air is pressing down
+on us and if you are on top of Mount
+Everest there's less air and
+it's pressing less on you.. But if you think
+about that, if you think about, we have a gas
+up there and question is, well we
+define a gas as, you have molecules and they don't
+stick together, they actually bounce
+around and hardly interact with one
+another and so. If they don't interact
+except very rarely then is it, can we easily
+imagine how they press on the earth? Or why,
+when you are higher up you have less pressure?
+It's possible but it, kind of, when you think
+about it, those isolated air molecules
+not clinging to the earth the way I
+suggested to you by just sort of hanging
+out there, it leads to the spectacle of
+you know, there's a lot of winds up there and why
+doesn't the atmosphere just blow away?
+Don't know if you ever thought about
+that. Okay here's another paradox about
+the atmosphere and the way we think
+about the atmosphere and we are ignoring
+the positive charges that I told you
+about. Well you know, the atmosphere is a
+mixture of gases, it's not just nitrogen
+and oxygen, a whole bunch of other other
+gases. So among them argon is about 1
+percent, it's actually quite a lot of
+argon that we have in the air and co2 of
+course causing apparently, maybe if you,
+depending on your belief system, a lot of
+problems. Now but argon is the densest of all
+and so if argon is the densest of all
+you think after all these years that you
+might have a situation like this. So
+you know, if density really matters we're
+fraught with a serious problem.
+OK, so we got positive charges in the
+atmosphere and negative charges on the
+earth and so it's possible I think, that
+atmospheric pressure may arise from the
+positive charges attracting to the
+negative earth and pressing down. Quite,
+quite simple.
+OK, where do these charges hang out in the
+earth and in the atmosphere. Next
+question, do you, are there are
+substantial charge gradients, differences
+of charge that we can imagine? And
+the answer I suggest you is yes, they're
+both vertical gradients and lateral
+gradients, the lateral ones being the
+ones going to be focused on at the
+moment but the first is, you know, I
+mentioned to you that the protons
+diminish with increasing altitude. That's,
+that's shown on the two panels there now,
+suppose you put a test charge, the red
+one, down near the surface of the earth, a
+lot of positive charges there. And you'll
+detect the high electric field and if you
+put the test charge higher up, there are
+fewer positive charges there and the
+electric field will diminish. So, the
+field strength diminishes with
+increasing altitude and that's well known.
+Well reported, this is nothing
+controversial. The field strength also
+increases with sunshine. This is the
+interesting part that maybe some people
+are unaware but there is enough evidence
+for this, so if the positive charges
+are caused by evaporation from the
+Earth's water then nighttime there's not
+much evaporation. The charges should be
+fairly low
+in altitude and during the daytime
+when you have ample sunshine creating
+evaporation, those positive charges
+should rise way up, right. So there
+should be a big difference between
+daytime and nighttime and so therefore
+the electric field, which depends on all that
+charge, should vary with the time of day.
+So if you have for example in the middle of
+the day you are to see a lot of electric field
+when you're measuring up, well up above the earth
+and at night time it wanes so it
+waxes and wanes. And the evidence for that
+is right here. So this is a plot, a
+bit complicated but on the apscise you
+have time and if you look right in the
+middle at twelve o'clock that's noontime
+GMT that would be Greenwich ok, in
+England, and the electric field that was
+measured, up in the air.
+Look at the oscilation, so first look at
+the middle one, Africa and Europe and you
+can see that the peak occurs roughly 2-3
+p.m. around around Europe, just when the
+Sun is kind of, has been around for a
+while high in the sky, maximum
+evaporation, all those positive charges
+high so you can see that the electric
+field there is very high. Now look to the
+right and you can see the US- that
+occurs six or so hours later during our
+afternoon so you can see that during,
+it doesn't matter where
+you are,
+during the nighttime the electric field
+is low and during the daytime it's high.
+And look at the differences between them,
+look at the Americas- the blue one. You can
+see that during the daytime the electric
+field is ten times, ten times higher than
+it is at night, it's a huge difference that,
+I think, many people are unaware of.
+So there's a great big difference
+between day and night and you can see
+that there is a gradient, when night
+meets day there's a gradient,
+and also on the other side, the upper
+right of the figure there's another
+gradient, there is a morning gradient and
+there is an evening gradient. Big, huge
+lateral gradient of positive charge. So
+do substantial charge gradients exist?
+Both vertically and horizontally. OK now,
+can those charge gradients drive the
+prevailing wind? So think about it.
+Seattle, on the left you know, we're
+snoozing and snoring and, you know, we
+haven't really gotten there yet and New
+York is beginning to be bathed in
+sunshine and if it's bathed in sunshine
+those positive charges are rising up
+into the atmosphere. But at night time
+there are very few of those, so there's a lateral
+gradient, those charges repel one another,
+they want to get away from one another,
+where do they go? Well they're gonna go
+to the left in this and if the
+charges are moving, the charges are at
+least dragging the air with them
+because these charges are either protons
+or more likely hydronium ions
+and they're either dragging the air or
+they may be attached to the air, bound for
+example to electronegative oxygens or
+nitrogens. So the air is going to move
+also and if the air are moves basically we
+have wind. So I believe that charge
+gradients can create wind, especially the
+large gradients with powerful forces
+that we're talking about. So there's the morning
+boundary and the evening boundary and I
+think those give rise to something
+interesting and characteristic. Here's the
+morning boundary ok again,
+New York has received its sunshine and
+Seattle, with the space near, is still
+dark and we have this charge gradient,
+charges in the morning, the charges are
+beginning to rise up and there's going
+to be a wind that goes across that
+gradient toward Seattle. OK now, it's also,
+this is also shown on the next slide. Now
+sorry, this one's a little complicated
+too so let me explain. So, this is
+the surface of the earth
+spread out so we have night time in the
+center and we have morning on the right
+side and evening on the left side. Now
+start on the right side and morning and
+remember that's just what I was talking
+about the wind is blowing from the east
+toward the west and it's not a strong
+wind because the charges on the right
+side are just beginning to rise up, there are
+not so many and it causes a wind, you might
+call it the morning wind and the wind
+blows from east to west and that's known
+as the trade wind. Trade wind blows
+gently that's what got Columbus to the,
+to the New World.
+Now look at the other side, look at, this
+is, the left side is the evening, ok, and
+by the evening, mid-afternoon,
+late afternoon the charges are way up
+high and the gradient is in the opposite
+direction,
+it blows from late afternoon toward the
+evening so it blows from west to east
+and anybody who's flown knows that there
+is a wind that blows continuously up
+high, it's called the jet stream that flows
+from west to east and it's pretty strong,
+a hundred, 200 miles per hour so if you fly
+to New York it's quicker than if you fly
+from New York to Seattle or
+Los Angeles. So, I think we can understand,
+this high wind is going to be stronger,
+this high westerly wind is gonna be
+stronger than the low easterly wind
+because there are many many more charges
+by late afternoon, by mid-afternoon to
+late afternoon. So I think those two
+gradients, from
+morning, the morning gradient and the
+evening gradient could perhaps
+adequately explain why we have trade
+winds and jetstream.
+Question was, can charge gradients drive
+the prevailing wind and I've shown you
+some evidence suggesting that maybe that
+could be the case. OK now, can the prevailing
+wind spin the Earth?
+Well if you think about it you really
+don't need a whole lot to, you have a
+wind that's blowing at 100 or a two hundred
+miles an hour, actually you know the
+earth is spinning itself right,
+it's spinning at, sorry what is it
+roughly, I think 1,200 miles miles per
+hour compared to the reference frame of
+the cosmos and the wind is going, the
+jet stream is going a hundred or two
+hundred miles per hour faster. So it's
+like the jet stream is blowing and it
+could be blowing the earth and the earth
+can't quite keep up so it's a little bit
+slower and that's why we have a
+jetstream relative to the earth that's a
+hundred or two hundred miles per hour
+faster. So I think it's possible that, we
+don't need this tall piece, this is
+obviously just illustrative but all you
+need is a gradience and something rubbing
+on the earth or rubbing
+on some protrusions. The advantage of this
+kind of wind mechanism is that so, the
+rotation of the earth now no longer
+depends on the inertia. As I said,
+maybe you think differently but it's
+difficult for me to imagine that
+inertia could keep us going
+for 5 billion years. It's a, it's a lot of
+time. And also the sun's energy is the
+ultimate driver because remember, the
+sun's energy is what splits the charge
+in the water which gives rise to the
+positive charge and so it all comes back
+to the energy from the Sun and so the
+conclusion from this is that the reason
+the Sun, the reason the Earth keeps
+spinning is, it gets energy from the Sun
+to make it spin. It just doesn't do it.
+It's known that the rotation speed of
+the earth is not constant. It fluctuates
+even by the day. If the earth turned by
+inertia, there shouldn't be fluctuations.
+There are fluctuations and so this can
+explain it. So the question is, can the
+prevailing winds spin the earth and
+I think the answer is possibly, perhaps that
+could be. Finally the last few slides as
+a sort of extra. So I'm suggesting to you
+that there's charge flow around the
+earth, right. Charge flow, wind and I want
+to touch on magnetic fields because
+charge flow, current, magnetic fields,
+they're kind of tied together and
+with those charges constantly, like jet
+stream, constantly flowing around the
+Earth, basically, oops sorry, basically we
+have a current that's flowing around
+the earth. So think of a current now
+flowing around the Earth from west to
+east and think about what we know from
+basic electrostatics and
+dynamics- if we have a current flow going
+this way we have a magnetic field using
+the right hand rule as shown here.
+Now think about applying this rule to
+the Earth. So, the horizontal arrows- that's
+the wind, that's the jet stream that
+blows constantly around the earth, it's
+a current, the current is flowing
+around the earth and if you have a
+current flowing that way then those
+thicker lines show the magnetic field. So
+it's possible that you can actually get
+magnetic field occurring just from those
+charged gradients creating current that
+flows around the earth. So it's possible,
+I mean we like to think that the Earth's
+magnetic field comes somewhere from the
+core of the earth but you know, nobody's
+ever been there to make that measurement
+and it's kind of odd that, you know,
+you got a magnet sitting there but the
+angle of the magnet keeps changing, which it
+does, sometimes even flips.. That's that's
+not, so I mean we're really not sure that
+the magnetic field arises from the
+core of the earth and I'm suggesting to
+you that it's possible that the Earth's
+magnetic field arises externally and
+not internally. So, I draw some
+conclusions and I don't really mean
+that they're conclusions, I mean they are
+speculations. I've shown you very little
+evidence, I have shown you just a few
+ideas that have stemmed largely from the
+book that I've produced and the ideas
+that went into it and a bit of
+evidence but mostly just logical
+sequences. The first, the first one is not
+a, is well known and we all should know
+that charges can exert enormous forces.
+Sometimes we attribute phenomena to
+gravitational forces, for example
+settling in a beaker of water with some
+particles, we think of gravitation but
+that beaker of water contains enormous
+numbers of charges. The charge forces
+outweigh the gravitational forces
+enormously, remember ten to the 38th. The
+earth bears negative charge, again,
+there's a lot of evidence for that,
+evidence starting more than a
+hundred years ago and continuing, it's
+just that, it's not really well known. The
+atmospheric scientists know that the
+atmosphere is full of positive charge.
+Oddly it doesn't seem to me, I've
+never seen anybody make the suggestion
+that plus attracts minus, that atmosphere
+attracts earth. It seems almost a
+no-brainer,
+one has to calculate how much force but
+seems like a really simple and easy
+interpretation of atmospheric pressure
+that the atmosphere clings to the earth
+because plus and minus attract. It's the sun's
+energy that builds that atmospheric
+positivity through evaporation. At night
+there's not much evaporation, not much
+atmospheric positivity and because
+of the regions between sunshine and
+darkness you have lateral charge
+gradients and remember how strong the
+force of those charges can be and
+so that inevitably drives winds and winds
+create friction and the question is
+whether that friction is sufficient to
+create the earth's, and keep it, spinning
+and giving us day and night. And it's
+possible that those charges may actually
+create the Earth's magnetic field. So I
+guess I would like to conclude with the
+fact that the universe or at least the Earth
+around us is indeed Electric as I know
+many of the people here would like to
+think and also the point is that, you
+know, alternative theories can sometimes
+make sense and I, I am with one example
+of an alternative theory, this, this is an
+alternative theory for global warming
+and the rise of the sea
+suggesting
+alternative mechanism and thank you for
+listening!

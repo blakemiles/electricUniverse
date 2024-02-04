@@ -1,0 +1,728 @@
+Solar Gravitation and Solar Plasma
+Wave Propagation Interaction
+Dr. Ed Dowdye was a popular
+speaker at the 2012 EU
+and he's back.
+An electrical engineer with degrees
+in mathematics and physics formerly of NASA,
+the originator of the
+extinction shift principle,
+which challenges the general and
+special theories of relativity,
+let's welcome Dr. Dowdye to the
+stage to challenge us a bit.
+The title of this is a continuation
+of what I have done before
+and this talk, we talked about
+Solar Gravitational Gradient
+interacts indirectly with
+Electromagnetic Waves propagating
+in the solar plasma limb.
+And when I say the gravitational
+gradient, for an example,
+we know very well that when you
+put up satellites in a deep space
+you put atomic clocks
+on-board these systems,
+in order for the GPS
+system to work properly,
+then each one of these platforms
+that are orbiting about the Earth
+has to be timed, a time reference
+has to be onboard the system
+in order for when you receive
+a pulse in your vehicle
+when you're moving on the ground or in
+the air you know your exact location
+because when you receive that
+information from the GPS systems
+they time-tag it.
+And the clock running
+onboard the satellite
+has to run at the same
+rate as that on Earth.
+But the problem here is, when
+you put these systems in space,
+the gravitational gradient
+acts on the atomic clock;
+and actually the clock on Earth will actually
+run at a slower rate than the one in space.
+So let's talk about this.
+So in the next 19 minutes, I'm just
+going to give you a split on this.
+So I'm going to go to the next slide
+here which is similar to this slide.
+My title is actually the Solar Gravitational
+Gradient acting on Electromagnetic Waves.
+It turns out that the solar
+gravitational gradient
+interacts directly with
+the solar plasma limb,
+but the solar plasma limb interacts
+directly with the electromagnetic waves
+However, the gravitational
+gradient, the first one,
+interacts indirectly with
+the electromagnetic waves.
+So, that's the gist of what
+I'm talking about here.
+And there's enormous
+evidence for that
+and relativity, the people who support
+relativity, are fighting against this.
+So let's go on to next one.
+Here's a picture of what I
+mean in the first two slides.
+See, you have the solar
+limb of the Sun
+and it turns out that the solar limb
+of the Sun contains hot plasma gases.
+We've been talking about plasma
+all day here and partly yesterday.
+The plasma is actually
+totally ionized,
+ionized at the Sun.
+The ionized limb of
+the Sun is such that
+the particles in this limb
+ripped off all the electron clouds.
+So you have only nuclei,
+positive and negative nuclei.
+So it's actually a plasma
+about 5,000º to 6,000º C.
+And it turns out that
+that plasma limb
+is being acted on by the
+gravitational gradient of the Sun.
+And it has a
+gravitational profile,
+and when light propagates
+through that or
+microwaves, or whatever
+wave propagates through it,
+you can determine the path of the
+waves propagating through that.
+And there's a calculation
+that allows you to get that.
+And what happens, this plasma limb of the Sun
+acts directly on the electromagnetic waves
+propagating along the
+minimum energy path.
+It turns out that you
+send your students,
+you get your students’ assignment in
+undergraduate and graduate classes
+and you guys you know this, because
+I'm preaching to the choir here,
+you talk about the minimum
+energy path, or the least-time path for waves
+propagating in an atmosphere, or some
+medium, along a minimum energy path.
+And it would be defined by the
+gravitational gradient field of the Sun.
+And it turns out that the gravitational
+gradient field of the Sun
+interacts only indirectly with
+the electromagnetic waves.
+So it's going and we see what
+we're talking about here.
+Here we find out, if you go above
+the Sun or solar limb in space,
+going above that solar limb
+as long as you're in the limb
+there's bending taking
+place in the limb.
+But above that several of even
+a fraction of a solar radius
+or many solar radii above it,
+it turns out that electromagnetic waves
+propagates in the plasma free space,
+the space where you have no
+plasma at all, there is no bending.
+And these light rays are going
+along a straight line pair
+So the next slide, continuing on,
+Showing a picture again you have
+the solar limb and it turns out,
+you have the Sun, the radius of the Sun
+proximately, what is it, 600 or 650,000 km radius.
+So actually what happens above
+the solar limb and beyond that,
+engulfing almost all the
+planets orbiting about the Sun,
+there is an electron profile
+that's known as the solar wind.
+I want to talk about
+that later on, very briefly,
+because we only
+have very [little] time here.
+So what's happening if you
+have a satellite system,
+a system moving down,
+if I can have a pointer,
+and I'll point to you what
+is meant. I point here,
+going down, let's say you
+have a system moving down,
+a satellite system moving down,
+it could be the Earth or planet
+moving from here on down.
+What happened, this system
+contains antennas on board.
+And the antennas are such that
+they're spread apart
+so you can have a wide beam;
+what is called a wide-beam interferometer,
+a wide-beam interferometer system.
+And this system will detect the rays
+of light coming from a distant source
+and this distant
+source is so far over here
+that these rays are almost
+parallel to one another.
+And what happens when
+one of those rays interacts
+with the solar plasma of the Sun,
+there's bending that takes place.
+And in a star, like the Sun, that has one
+solar mass and (is) one solar radius,
+will bend 1.75 arc seconds.
+So that's just bending
+down 1.750 arc seconds okay,
+and those at the other
+side of the Sun would bend up.
+So it turns out, that it's bending
+such that the Sun acts like a lens.
+And it acts pretty much
+like a lens here,
+if you go far enough away from
+that, way out here someplace,
+these rays will come together
+and come to a focus.
+But that's a long distance,
+let's talk about that later on.
+But what's taking place here, you can
+detect the bending: this one would bend up
+and this one would bend down, but in
+the middle here there is no field.
+And so this information is
+coming from this distant source.
+It could be a radio source,
+or some satellite system,
+or a distant quasar system that
+is emitting actual microwaves,
+these rays are noticed to bend.
+And the astrophysicists have
+measured always this 1.75 arc seconds.
+However, there has been no
+information up here at all, or down here.
+That means the bending always take
+place at the plasma limb of the Sun.
+That is in itself a direct
+violation of General Relativity.
+And there's enormous evidence for
+that and I'll show you, the evidence
+this can take
+place after this.
+Let's take a look at what we
+mean by gravitational gradient.
+If you look at the gravitational
+gradient of the Earth
+in comparison to
+that of the Sun.
+If you look at the
+Sun for an example,
+if you are just above
+the surface of the Sun,
+there is a gravitational potential, a
+very strong gravitational potential.
+And if you’re over here up above,
+you go to 0.38 Astronomical Units (AU)
+and 0.72 AU there you have
+Mercury and you have Venus,
+and at 1.0 AU there's
+the planet Earth.
+On the Earth's surface it turns out that
+the gravitational potential of the Sun
+is almost a factor of 14 times greater than that
+of the gravitational potential of the Earth.
+But that is the gravitational
+potential of the Sun;
+this yellow line indicates the
+gravitational potential of the Sun.
+However, that little box where
+you have the Earth 1.00 AU
+if I blow that box up.
+I have the planet Earth here
+and you calculate what is known as the
+gravitational potential of the Earth.
+The green line represents the
+gravitational potential of the Earth,
+but down below you
+have, blown up in this box,
+the gravitational potential of the Sun,
+indicated by the yellow line down below,
+that's 14 times greater
+than that of the [Earth].
+But it's not the gravitational
+potential that we are concerned about;
+we are concerned about the gravitational
+gradient, not the gravitational potential.
+The gravitational
+gradient is the key here.
+So let's take a look
+at this next slide.
+If you note the gravitational
+potential of the Sun and the Earth
+at any given point in space
+the Sun always wins over.
+But the gravitational potential
+gradient, that’s a different story.
+But you have the Sun, the
+gravitational potential of the Sun,
+is equal to approximately
+14.14 times that of the
+gravitational potential of the Earth.
+That's key, keep that in mind.
+Next we look at
+the gravitational potential gradient.
+If you calculate the
+gravitational potential gradient,
+what you have to do is take
+the first derivative of the Sun,
+the gravitational potential
+of the Sun along its Z axis,
+and Z coming from the Sun where you
+have the radius of the Sun is 1 AU,
+the radius of the orbit
+of the Earth is 1 AU,
+if you look at that
+at the Earth, right?
+you'll find that that is much smaller
+than the gravitational potential of Earth
+along a radial path which
+is the radius of the Earth.
+So that's significant
+because you find that
+why is it that atomic
+clocks run slower,
+when you put the atomic
+clock in space, than on Earth.
+It turns out the moon has a profound
+effect on the Earth's tidal effect.
+The tidal effect causes the waters
+to stand up on a hill (slope) when
+the moon passes
+above the Earth.
+It is the moon that wins over, when it comes
+to gravitational gradient of the moon,
+(it) is greater than the
+gravitational gradient of the Sun.
+However, the gravitational gradient
+of the Earth is far more than that.
+So, going on to the next slide, I'm going to try
+to sum this up in the next ten minutes.
+So, making a picture short,
+taking the Sun, the gravitational
+gradient plasma limb of the Sun,
+you'll find that history
+for the last 100 years now,
+the scientists have been able to
+measure light-bending of the stars
+in the gravitational
+limb of the Sun.
+But if relativity were factual,
+according to General Relativity,
+light-bending should be everywhere
+where you have gravitation.
+But that is not the case.
+The scientists who
+support relativity,
+this is bad news for them.
+They don't want you
+to know about this.
+So this next slide,
+this is the prediction
+of General Relativity.
+Relativity says there's
+bending at the limb of Sun.
+At the limb of the Sun you have
+1.75 arc seconds bending,
+but above that, if you go a radius
+or twice the solar radius above that,
+the bending should
+be one-half of that.
+In other words it is one half of 1.75 seconds,
+or possibly 0.85 arc seconds.
+And above that, 3 solar radii
+above that, it's 1/3
+and then you get 1/4, 1/5 and so
+forth, that's General Relativity.
+But what happens here is that
+relativity fails this experiment.
+So you take the great
+General Relativity equation
+which is the light
+bending or 4GM/Rc²,
+that is the bending predicted
+by General Relativity,
+and in units of a radians.
+You can convert that to arc seconds, but
+2π radians is 360º and 1º is 3600 arc seconds.
+You work out the mathematics: that first
+equation will get you 1.755 arc seconds.
+But you take the Earth and the Sun, the mass of
+the Sun and let that be M,
+and no matter what the
+potential, what the
+density of that mass happens to be,
+using Gauss’s law, you should
+get exactly the same bending.
+So using Gauss’s method, you can find
+a lot of objects out in
+deep space where relativity has failed.
+And going forth, we can use the principle of
+reciprocity and the principle of Gauss
+showing these two
+principles that are in textbooks
+all over planet now.
+We teach this stuff in
+astrophysics and general physics,
+undergraduate physics, the
+students are learning this stuff;
+however they're not tying it down to the
+failure of General Relativity. They keep that silent.
+So this is our job, to point
+this out to these guys.
+You point out the
+failure of relativity.
+So going forth and summarizing
+what I just talked about:
+you have three different masses,
+if these masses
+are the same,
+they could be more dense,
+enclosed within a Gaussian sphere,
+they come up with the same light bending and
+the optical reciprocity is illustrated here.
+So let me move fast, and this summarizes what
+I just talked about in the previous slide.
+So I’m just going to move forth
+if I'd ever summarize this
+in the next couple of days if
+you want a summary on this.
+So let's look at this, summarizing
+again the principle of reciprocity
+what we just talked about.
+If you have bending of a star,
+and so you have a star that is a
+distance beyond the mass that's
+responsible for light bending,
+and you observe at the
+telescope you should not see,
+according to General Relativity, you
+will not see a point light source.
+In other words, you should
+see bending all around.
+And this is looking at
+it in two dimensions;
+looking at in two dimensions you see
+the bending for light coming from the star
+bending up and then going
+down to the telescope.
+The light beam could also
+go in the other direction
+and go down first and then
+bend up toward the telescope.
+If that happens according to the
+prediction of General Relativity,
+the observer should
+see an Einstein ring.
+And the Einstein ring should be visible
+in the time you have this picture.
+So let's go forth and
+take toll of what we have here.
+I decided to put in picture an
+animation of what actually takes place.
+When you have a distant light
+source out in deep space,
+and that light source could
+be a red light source,
+and where you have photons of light,
+or wave packets coming from light,
+(if you don't need the word
+’photon’, we can use ‘wave packets’),
+or we can use just ‘emissions’ of optical
+waves coming from a red light source.
+And if in the center between that
+light source and our telescope,
+there is some object
+in the center,
+that according to General Relativity
+could cause bending of light,
+that light should be reflected
+or amplified, or actually magnified,
+by the massive light
+source halfway in between,
+and the observers should see
+in that case an Einstein ring.
+And down below, just below the
+observer and his telescope,
+this is what the observer
+should be seeing in his telescope.
+He should see a red
+ring around that red X,
+instead of seeing a
+point light source.
+So let me move on and try to
+summarize this as we go past.
+The main key here is the gravitational light
+bending as a function of the impact parameter
+in plasma free vacuum space.
+This is the main thing we
+want to talk about here.
+So what I did, we talked about the light
+bending as a function of the impact parameter.
+The smallest impact parameters you can have
+would be the exact radius of the Sun.
+So I can go to 2 solar radius,
+or I can go to 3 solar radius,
+or 4 solar radius,
+or 5 solar radius.
+If you go on beyond, the light
+bending should get less and less.
+So let's take a look and
+see what we have here.
+So you take a look at what the reality
+tells us. For the last 100 years of observation,
+we have observed virtually no
+bending at all of a star light,
+beyond the solar limb of the Sun.
+So you go back and look
+at relativity again,
+relativity predicts bending, whether you
+are at the solar rim or beyond the solar rim:
+However, the
+reality tells us this:
+the impact parameter, beyond the Sun
+there is no bending whatsoever.
+Here relativity has a problem.
+so looking at this, summarizing
+what we are seeing in the picture,
+the solar limb of the
+Sun causes 1.75 seconds of bending,
+while there's no
+bending above that.
+So if we take a look at the light bending,
+as reality tells us, in deep space
+modern astronomy shouldn’t
+tbe able to explain this at all.
+So we have 2R, 3R or 4R, nR,
+there should be a bending always,
+according to General Relativity.
+So, and going back again
+what we talked about,
+if the Sun bends light rays,
+and it has always been the dream of some
+astrophysicists to go into deep space
+and take a spacecraft and travel
+out and find a point in space
+where the Sun bends light
+rays and they come to a point.
+It turns out that you take the 1.75
+arcsec and the radius of the Sun
+and go out beyond in space, you should
+go at least 550 AU
+that is 550 times the
+orbital radius of Earth.
+And that's not likely right now, because
+of the space program we have right now.
+It's not a silent isn't it maybe
+in sometime in the future
+I'm not going to be here,
+maybe my kids or your kids.
+We need some of you guys
+younger than I am. You will be here.
+So that's not
+going to happen right now.
+So here is the data.
+For the past couple of years
+I have managed to publish some papers
+in a refereed journal, calculating the impact
+parameter at the solar radius.
+You calculate a minimum
+energy path; you find
+then an equation that
+will tell you at one solar radius
+what the bending would be.
+And I come up with the very same
+equation as General Relativity,
+but it has nothing to do with
+General Relativity at all.
+So let's go forth  and I might try to summarize
+this in the next 5 minutes and I'm done.
+There's a principle known
+as the Shapiro Delay
+and Shapiro was a scientists
+who used Mariner satellites
+that were put up by the government,
+and they used microwave transmission
+in communication with
+these Mariners satellites.
+And we had orbited
+around Venus.
+There are some orbiting
+satellites around Venus
+and when I was at NASA
+I had a neodymium YAG laser
+and one of my
+projects got canceled.
+These guys took my laser and used
+it at the astronomical observatory
+to try to hit Venus with that
+microwave neodymium YAG laser.
+I had this 1,000
+milli Joule YAG laser,
+and people wouldn't come in my lab
+because they were afraid this energy
+would burn a hole through.
+They used the same laser to cut steel.
+So I was working in this lab
+and my boss told me if I had an accident that
+they just would take the body and do away it.
+So this guy didn't
+care about me at all.
+So I had this laser,
+this guy took the laser and tried to
+hit Venus with this laser beam, right?
+And what happened, you can
+always hit these planets
+with a microwave beam, right?
+It turns out when you go past the Sun and try
+to hit a planet out in the solar system,
+what happens, they found out that
+microwaves will always have a delay.
+When you get close to the Sun the delay
+would be on the order of a millisecond.
+That's a drastic mistake.
+What happens, it turns out that this delay
+is a function of the microwave frequency
+however, for shorter wavelengths
+or microwave links at higher
+frequencies you get more delay.
+So let's go forth and to summarize this picture,
+I'm gonna summarize this, and then I will be done.
+What happens with the microwave, you'll
+get a delay, with the Shapiro effect.
+However, microwaves that came in the limb
+of the Sun, you'll get light-bending
+This is what happens
+with microwaves.
+The question here is, if Einstein is correct
+then, where are the Einstein Rings?
+If you have many stars out in
+the star-filled skies at night,
+you see all these stars right?
+And many of those stars are
+pretty much like our Sun.
+So as we know, all these stars have
+a plasma rim associated with it.
+And if there is (any) light
+bending whatsoever,
+we should see Einstein
+rings all over the sky.
+It's not here, it's not there,
+so the question is, where are they.
+So reality tells us that light rays
+are passing by these stars in deep space
+where there's no plasma.
+So there's no bending
+of the light at all.
+So let's go forth  and
+I'll just skip this part
+about the mathematics and you can
+see me, this is on my website,
+so you can go to the
+mathematics that I calculated
+the solar minimum-energy
+path and the light bending,
+coming up with this equation that general
+relativity used. Just a derivation
+of the same equation of
+relativity, without relativity.
+This is bad news
+for those guys.
+So here's the major event that's going on at the
+center of our galaxy known as Sagittarius A
+this device, whatever
+this thing is,
+is estimated at about four million
+times the mass of the solar system.
+So what happens is, there’s
+orbiting stars about this thing,
+about 17 some stars orbiting about
+this thing all along Kepler paths.
+This has been observed for the
+last, probably 20 years now.
+And this star, S2 is
+now on its second orbit,
+almost a perfect elliptical
+path about this thing,
+where the red X is. There’s
+this super massive object there
+and there's no light bending
+in this thing at all.
+This is bad news for relativity;
+so what (would) happen if relativity were
+factual? This is what you should see.
+You should see light amplification
+or light scattering
+somewhere around,
+according to the textbooks.
+if relativity were actually the case, this
+Sagittarius A should look pretty much like that.
+You don't see this.
+So therefore, where (are) the Einstein
+rings and where is the scattering?
+You don't see it and this
+is what's in the textbook:
+a star orbiting about a black hole
+should be amplified when it
+passes behind the black hole.
+You don't see that,
+you see it in the textbooks,
+but you don't see it in space and
+you don't see it in cosmology.
+This is what you do see.
+This is what you see, here you
+see no bending whatsoever.
+So, summarizing what I just
+talked about all this stuff,
+let's this finish up, just skip
+over to the summary and conclusion.
+And in conclusion you
+have the light scattering
+and light bending according
+to General Relativity
+and all these things here.
+Let's just summarize
+and then I finish. In summary
+the gravitational gradient field of the Sun
+acts only indirectly on the plasma limb of the Sun,
+and there is no bending
+whatsoever outside of that.
+And you take a look at all electromagnetic
+waves propagating (in space) free of plasma,
+there’s no bending whatsoever.
+Even Einstein
+said in his own words,
+quoting Einstein, he said
+if the velocity of light does depend
+on the velocity of the light
+source, then all my theories are wrong.
+So I'm quoting him right now [reads the German text],
+”If the velocity of light is even only a tiny bit dependent on the velocity
+of the light source, then my whole theory is wrong”. That’s what he said.
+I just use his own words, okay?
+And this is Einstein, okay?
+This is it.

@@ -1,0 +1,590 @@
+my title is visual intuition and the
+ancient sky by subtitle complexity
+theory and plasma cosmology I'm going to
+beg the graces of those who know more
+about complexity theory and cellular
+automata than I do and they will help us
+through this the most difficult part of
+my presentation this is the defining
+image the squatter man will you've seen
+it before we'll see him again these are
+more familiar images to you already the
+squatter man in petroglyphs this is Kai
+anta a defining image that will come up
+later all around the world and more in
+Arizona so you see how global and this
+is hard to see but it's in our the state
+we're in if anyone knows who drew this
+I'd be deeply appreciative I came across
+it through parot images on Google which
+led me to ancient destructions calm we
+see here marvelously we see here Stone
+Age man and woman gazing at squatter man
+configuration in the sky after having
+made a petroglyph about it likewise what
+is above it in the polar configuration
+after having made another petroglyph of
+it so I'm going to tantalize you with
+something very strange this will be the
+subject of my exposition of the walk of
+work of stephen wolfram author of a new
+kind of science 2000
+and it's very strange isn't it I will go
+over it later but I just want you to
+look at this image particularly at this
+just hold that image
+my thesis complexity theory is a
+powerful natural a light of plasma
+cosmology both tell us that in
+reconstructing the sequence of events in
+the ancient sky we have to imagine
+watching images unfold in a sequence a
+story the events and images are often
+too complex to be predictable both tell
+us that visual intuition will be an
+indispensible guide and even in many
+cases a form of proof will see if I make
+this thesis clear to you or not
+Galileo looking rather feisty don't you
+think now now laches soon gave us the
+popular version of Galileo's famous
+statement the book of nature is written
+in mathematics since that simplification
+which we are more familiar with than the
+original is not really the whole of what
+Galileo was said in one splendid long
+sentence of Italian prose I'll read you
+a translation of that sentence nature
+does not appear in it but philosophy and
+the universe do philosophy is written in
+that great book which ever is before our
+eyes I mean the universe but we cannot
+understand it if we do not first learn
+the language and grasp the symbols in
+which it is written the book is written
+in mathematical language and the symbols
+are triangles circles and other
+geometrical figures without whose help
+it is impossible to comprehend a single
+word of it without which one wanders in
+vain through a dark labyrinth
+16:23 sagittal array the essayer no my
+theme will be partly the mathematics
+bashing which we've already seen
+however I want to come back to Galileo
+in the end and show him to be a good guy
+- all right but for the moment let us
+note that for him mathematics meant a
+geometry indeed classical Euclidean
+geometry and he is certainly emphatic
+without knowing that geometry you can't
+read a single word in the book of nature
+that does seem to be excessive still
+we'll come back to him as a good guy now
+here is Stephen Wolfram and here is the
+first statement about how mathematics
+can be superseded complemented augmented
+replaced various possibilities by other
+procedures which require more visual
+intuition this and many subsequent
+quotes are taken from an excellent thing
+online quick takes on some ideas and
+discoveries in a new kind of science
+written by Wolfram his book on 846 pages
+with 300 pages of fine print footnotes
+is perhaps complex but he knows the
+relation of simplicity to complexity and
+on his various website pages he'll give
+you the whole book in one single page
+summary and he'll give you quick takes
+here's a quick take he will make the
+very quick take and then explain it
+mathematical equations do not capture
+many of nature's most essential
+mechanisms for more than three centuries
+we're talking Galileo - now mathematical
+equations and methods such as calculus
+have been taken as the foundation for
+the exact sciences there have been many
+profound successes but a great many
+important and obvious phenomena in
+nature remain unexplained especially
+ones where more complex forms or
+behavior are observed
+now two other familiar faces more
+familiar than Wolfram's perhaps uh
+Talbot and Thornhill weighing in on
+mathematics astrophysicists are not
+trained in electrodynamics or plasma
+discharge phenomena such things would
+render their gravitational models
+obsolete they continue to rely on gas
+and magnetized fluid physics that is
+mathematically well-mannered uncritical
+application of mathematical models will
+lead to whimsical and unstable
+descriptions of nature so Wolfram's
+exposition of his use of cellular
+automata and his claim that through them
+we can also study similar phenomena in
+nature is what I will now explore in the
+most technical part of my presentation
+so here is a cellular automaton and here
+is the progression of it and I'm going
+to explain both images carefully but
+first the quote cellular automata are
+examples of simple programs that work by
+having the color of each cell in
+successive rows be determined by the
+same simple rule so let's see the
+example here is the second cell in a
+checkerboard like this in which the top
+line is as it were the initial state and
+each line lower down is a subsequent
+state of evolution of the cellular
+automaton the evolution is contingent on
+the rules for each of these eight boxes
+let's look at this one if the cell the
+central cell is white and flanked by
+both White's left and right then in the
+next stage it will be white if white but
+flanked by white on the
+left and black on the right again black
+and so forth with each of these
+evolutions now Wolfram took 255 cellular
+automata of this kind all of them have
+rules exactly as simple as each other
+and they lead to very different kinds of
+developments as you go from stage to
+stage from horizontal level to
+horizontal level down the checkerboard
+with the rules above a simple pattern is
+produced here is the simple pattern
+evolving by these rules based on chapter
+2 the crucial experiment and a new kind
+of science these images of cellular
+automata illustrates some of the core
+discoveries of nks and I add the two
+images above or rule 90 in Wolfram set
+of 255 rules I hope you fasten to your
+seat belt because if this page is
+unclear you will only get more complex
+alright but we perhaps will have time
+for questions
+rule 90 produces an intricate yet
+ultimately regular pattern look at this
+isn't that lovely
+it's a pattern it's in fact fractal to
+the beauty of fractals
+that's rule 90 a different rule just as
+simple producing a different pattern
+which is getting on the left striated
+into bands and on the right complex the
+wielder Wolfram as discovered and argues
+in a new kind of science that certain
+simple rules can produce patterns and
+behavior of immense complexity above his
+rule 30 it soon becomes complex above
+and at a hundred steps it appears very
+complex indeed below can you see how
+striated bands are here but this is
+other random isn't it well it only gets
+worse if if for you randomness is bad at
+a thousand steps rule 30 pardon pike
+typo appears to have patterns in the
+bands on the left and to be random to
+the right of those bands if one started
+with only one step 1000 here one could
+not reconstruct the simple rule that
+generated it one would not guess that
+the rule was simple and to look ahead to
+the grand thesis suppose that this whole
+evolution is like some phenomenon in
+nature which you observe part of so say
+you observe only this part like there
+that's all you can see would you ever be
+able to reconstruct the simple rule that
+generated it would you be able to guess
+that the rules that generated it were
+simple rule 10 is in a different
+category of rules from those generating
+either Panem's or randomness there's
+rule 110 as it evolves a complex pattern
+emerges on the right and it continues to
+morph into similar patterns at different
+shapes none quite the same as the
+pattern preceding it a mysterious
+statement we sent about to illustrate
+here is it's Elementary
+rule 110 here is the opening sequence of
+steps so far it's just not so clear
+what's going to happen is it
+but this is the image I began with and
+asked you to hold that image rule 10 at
+250 steps I would gladly have given you
+it at a thousand steps but it seemed a
+bit too much memory so we have the
+patterning of striations we have here
+something that seems to be monochrome
+one of the possibilities he sort of
+cellular automata when he was a boy
+wonder in his 20s into four categories
+when they turn random sorry when they
+turn monochrome when they turn patterned
+when they turn random and when they turn
+what he calls complex this evolution is
+visibly something that in which each
+phase of it resembles earlier phases but
+is not the same it's what I call the
+Canadian phenomenon you look similar but
+somehow different so can you see that we
+are are I've sees this as a pattern
+where I cease this is a pattern this
+pattern resembles that but is neither
+the same scale nor precisely the same
+shape so we could watch this unfold a
+long time perhaps forever and would
+still not be able to predict the
+patterns in advance that is the
+essential point of his take on the word
+complexity now we've gotten through the
+worst and most technical part what I
+shall now do is juxtaposed statements
+from a new kind of science taking
+Stephen Wolfram as a case among many
+fine laborers in complexity theory I
+don't want to make him the sole star
+that's been a problem with his reception
+with you and I'm not interested in that
+problem but many complexity theory
+people would make similar statements
+likewise I'm going to take Talbot and
+Thornhill and
+representative of many fine workers and
+quite distinctive in their own
+contribution and I'm gonna juxtapose
+statements on a few topics mathematics
+complexity and time so you can see the
+how they might be powerful natural
+allies with their similar views on these
+topics and others views on mathematics
+for the new kind of science thinking in
+terms of programs rather than equations
+opens up a new kind of science
+mathematical equations correspond to
+particular kinds of rules computer
+programs can embody far more general
+rules the electric universe uncritical
+application of mathematical models will
+lead to whimsical and unstable
+descriptions of nature a quote you heard
+from me before all right views on
+complexity new kind of science even
+extremely simple programs can produce
+behavior of immense complexity that's
+what we saw in rule 110 everyday
+experience tends to make one think that
+it is difficult to get complex behavior
+and that to do so requires complicated
+underlying rules the discovery now that
+simple programs can produce immense
+complexity forces a major shift in
+scientific intuition
+I love his choice of that words by the
+way it's from the Latin to a or which
+means to look at intuition is just
+looking deeply at alright electric
+universe although plasma behavior
+follows simple or electric magnetic laws
+the resulting complexity continues to
+astonish the specialists who study it
+plasma can self-organize into cells of
+differing electrical characteristics I
+included that last sentence because
+self-organizing is another term in
+complexity theory which came naturally
+to the the pen of the authors of
+electric universe it's part of the
+language we now speak really views on
+time through the third of the three
+topics I mention a new kind of science
+time may have a fundamentally different
+nature from space the standard
+mathematical formulation of relativity
+theory suggests that despite our
+everyday impression time should be
+viewed as a fourth dimension much like
+space a new kind of science suggests
+however the time as we perceive it may
+instead emerge from an underlying
+process that makes it quite different
+from space electric universe Einstein
+redefined Newtonian gravity by placing
+it in a metaphysical framework he
+combined the three measurable physical
+dimensions of space with the matter of
+mathematical dimension that cannot be
+measured by a ruler time the claimed
+success of Einsteins thought experiments
+encouraged mathematicians to follow his
+lead and they have dominated physics and
+cosmology ever since this skeptical
+attitude towards what Einstein did will
+I take it warm the heart of all who
+attend Natural Philosophy Alliance
+meetings we're going to really relax
+because I'm going to tell you stories
+all right to prepare the ground here's
+the last sentence of a new kind of
+science and a quote from a poet placed
+by the authors of the electric universe
+at the top of the second page of that
+book last sentence of a new kind of
+science all the wonders of the universe
+can in effect be captured by simple
+rules but there can be no way to know
+all the consequences of
+these rules except in effect just to
+watch and see how they unfold to a or to
+watch and see quote on second page of
+the electric universe a quote I deeply
+love the universe is made of stories not
+of atoms Muriel Rukeyser by the way I
+have another quote and I think it's
+quite head who was cited earlier the
+event is the unit of things real if
+that's not by apply head please correct
+me but it's a philosopher saying what a
+poet says here now I'm gonna tell you an
+unpredictable story one of the great
+serendipitous moments in the history of
+science I like to think perhaps
+Christmas tree Christmas tree meets
+Talbots chain of arrows chain of arrows
+all right
+this is the story some of you may have
+heard it in a simplified version I am
+privileged to have received it from the
+horse's mouth they've taught in an email
+of this week earlier and I asked him to
+tell me the story of parrot at a meeting
+where he said what are those and Petra M
+Talbot said petroglyphs and did this the
+first version I heard of it was per at
+thought well these are my plasma shapes
+what are they doing out there in
+petroglyphs but here's dave's telling of
+the story we'd invited Tony to our
+conference in September 2000 at a
+gathering of speakers the next day after
+the conference Tony was inspired to go
+to the whiteboard and to draw some
+plasma images let's go back there's the
+whiteboard there are the plasma images
+then he drew out the chain of arrows
+which he called the Christmas tree upper
+left form and the attached I said Tony
+you've just drawn the chain of arrows an
+image I directed walls attention to only
+a few days before the conference Tony
+asked how the form evolved I told him it
+began with twin filaments up the polar
+axis dividing into a stack of embedded
+cones that emergently emerged eventually
+as a stack of Tauruses called the ladder
+of heaven and backbone of the sky Tony
+said that's how the Perret instability
+evolved the name given to the
+configuration by his coworkers when he
+returned home he asked me for the rock
+art images and the first image I sent
+him was the Chi Yenta petroglyph because
+I had no doubt he would recognize it
+that was the squatter man from chi ant
+Arizona really just across the border in
+northern Arizona from northern
+New Mexico the moment Tony saw it his
+life was changed he had no doubt
+whatsoever that it was an intense plasma
+instability and he immediately
+identified the parts for me Dave
+attached this picture to you can call
+these Christmas trees arrows or cones
+they are either going up to or coming
+down from a red disc that would be Mars
+then his attention immediately shifted
+to cataloging rock art images and on
+numerous occasions afterwards
+Tony confirmed to me that he had
+absolutely confirmed the formations I'd
+reconstructed saying that he could also
+demonstrate conclusively in due course
+that they involved planets as the anodes
+and cathodes in the discharge
+configuration that's the end of the
+story as Dave tobot emailed it to me in
+titling it the story in a nutshell so
+now the story takes on a dramatic global
+life / @ assembles a team to look at
+rock art all around the world and to put
+a GPS on each to see where it's pointing
+well all that team is modernist anthony
+von der Sluis AKA wrens there he is with
+the great pyramids is backdrop there he
+is in Mongolia so what does the team
+come up with
+well I'm going to give you three
+examples of rock art juxtaposed to
+photographs by Tony I think we're doing
+well on time because I'm coming to an
+end which will be familiar to many of
+you and this is just to confirm that
+this global wandering team did indeed
+find rock art images corresponding to
+what you'll see as photographs
+3-dimensional of Tony's figures
+generated in a lab and then a schematic
+drawing of them and there again we saw
+this at the beginning this is the
+Cayenne pipette rogue laughs which they
+first sent to Tony so that would be the
+squatter man I'm going to show you two
+more and Tony and his written work says
+he has a total of 84 some plasma shapes
+in rock art so a second would be first
+the schematic diagram of a stacked torus
+and second that image four miles west of
+here in petroglyph national monument
+Rinconada
+support your local petroglyph so one two
+three four five six stacks one two three
+four five six
+sometimes they're five sometimes they're
+4 6 is very common and we needn't go
+into the details of the schematic
+diagram you've seen it before you'll
+probably see it again finally defining
+image further the tipping point the
+virus rod the Hindu word for the great
+Thunderbolt which Indra wields at which
+one fine recent translator Stanley
+Lombardo used in his translation of
+hesiod theogony for the great
+thunderbolt which is use wheel
+here is the three-dimensional photograph
+in peratt's lab here is the try dental
+shape at both ends of the Thunderbolt or
+of those Trident of Poseidon and here is
+the hand the grasp it of a God my own
+specialty is Pinder and in a poem a
+victory ode for a young boxer from
+southern Italy whose town had a
+lightning bolt on its coins Pinder leads
+to that coinage at the climax of the
+poem by speaking of Zeus's primeval
+victory the pattern for all olympic
+victories where he overcame the titans
+and python with the bolt as he says
+grasped by the hand of fire that is the
+hand of fire the problem now for us is
+the Tonys story is about things that
+appeared in the sky that are not there
+now the story is not finished until we
+can say how they disappeared how they as
+we might say disintegrated how amping up
+the language it collapsed catastrophic
+way that is the story rensef said
+himself to tell and he does so purely
+through the language of myths around the
+world in the fourth of the four volumes
+of its recently published magnum opus
+traditional cosmology the global
+mythology of creation and destruction
+volume 4 is entitled sorry pardon the
+typo disintegration and its subsections
+are disruption disconnection dispersion
+inversion departure periodization and
+eschaton the last thing so you can read
+that volume right now so we return to
+Galileo this is
+my last slide and here Galileo is
+Galileo is showing the Doge of Venice
+his telescope too bad the dogs they
+didn't use his power to keep Galileo out
+of the hands of the forces of the Pope
+and ultimately of life-long house arrest
+I'm going to summarize with two more
+quotes from a new kind of science simple
+computer experiments reveal a vast world
+of new phenomena in their times wolfram
+goes on telescopes revealed vast worlds
+that had never been seen before through
+the ideas of a new kind of science
+computer experiments now also reveal a
+vast new world in many ways more diverse
+and surprising even in the world seen in
+astronomy and you know this from
+Thunderbolt of the gods the new data
+Galileo
+great lots of time the new data
+Galileo collected in his first few weeks
+of telescopic observation overthrew the
+Ptolemaic view of the universe have you
+accepted for more than a thousand years
+so I'm going to conclude with an
+anecdote from two weeks ago three weeks
+ago at Bard College where I teach and
+we're I'm delighted to say all of the
+500 freshmen in our Freshman Seminar are
+required to read not otto Plato and
+Shakespeare Dante and Virgil but Galileo
+as the last reading and if suddenly
+occurred to me in class as a way of its
+saying that what Galileo saw and did
+with what he saw can be compared to
+something happening in the world today
+and I chose tony peratt
+as an example Galileo I told them made
+his telescope looked through it saw the
+imperfect surface of the
+it's valets as know this is ruggedness
+and was compelled to tell the world of
+what he saw and in so doing to overthrow
+the Assumption by which the Western
+world had lived for almost two thousand
+years given it by Aristotle consolidated
+by Ptolemy namely that the moon and
+everything above it the planets and the
+stars fear are perfect they can have no
+irregularities either of motion or of
+surface that worldview had to be
+overthrown Galileo had to tell people
+that any of them the doji of Venice or
+you can look through that telescope and
+see the imperfections of the surface of
+the Moon
+likewise Stephen Wolfram felt he needed
+to tell the world after looking at rule
+110 that simple that highly complex
+behavior so complex that it's continued
+evolution cannot be predicted it just
+has to be watched unfolding can be
+generated on a computer and cellular
+automata and you can see by the mode of
+its generation that that complexity came
+from very simple rules against all our
+intuition finally Tony Moran saw in his
+lab the shapes that kept morphing from
+one to another as he added more current
+then he saw those rock art forms as Walt
+had seen from Dave six years earlier and
+was compelled to tell the world all
+three of them that the sky that ancient
+man
+saw the ancient sky was not the same as
+we see today that is overthrowing a
+still dominant assumption and the seers
+of those plasma shapes and petroglyphs
+have felt compelled to tell the world it
+was not so the ancient sky was different
+thank you

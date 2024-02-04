@@ -1,0 +1,527 @@
+[
+  {
+    "text": "Albert Einstein is a cultural phenomenon. He has enjoyed\nscientific celebrity status for decades. He also has a lot of",
+    "start": 12.67,
+    "duration": 6.81
+  },
+  {
+    "text": "critics, although you don't hear too much about them from\nPopular Science sources. Ironically, I sometimes wonder if he",
+    "start": 19.48,
+    "duration": 6.28
+  },
+  {
+    "text": "would be more sympathetic to his detractors if\nhe were still around today. And I say that in all",
+    "start": 25.76,
+    "duration": 5.16
+  },
+  {
+    "text": "seriousness. “I am no Einstein” he once joked\nin response to the adulation that began in his",
+    "start": 30.92,
+    "duration": 6.31
+  },
+  {
+    "text": "lifetime. According to Wikipedia – yes, I know - the\nGerman-born theoretical physicist is widely ranked among the",
+    "start": 37.23,
+    "duration": 6.53
+  },
+  {
+    "text": "greatest scientists of all time. Despite his cult-hero status \nhowever, growing numbers do not even regard him as a",
+    "start": 43.76,
+    "duration": 6.31
+  },
+  {
+    "text": "scientist, let alone great. The clue is in the two words\n‘theoretical physics’. This rests almost entirely on",
+    "start": 50.07,
+    "duration": 7.12
+  },
+  {
+    "text": "mathematical modeling, unlike classical\nscience which emphasizes experimentation and",
+    "start": 57.19,
+    "duration": 5.25
+  },
+  {
+    "text": "observation. Quote, “As far as the laws of mathematics refer\nto reality, they are not certain; and as far as they are",
+    "start": 62.44,
+    "duration": 6.92
+  },
+  {
+    "text": "certain, they do not refer to reality.” Close quote,\nAlbert Einstein. To summarize this philosophical",
+    "start": 69.36,
+    "duration": 7.04
+  },
+  {
+    "text": "viewpoint, one common among critics of Einstein and apparently\nEinstein himself, ”Math should be ancillary, not dominant.”",
+    "start": 76.4,
+    "duration": 7.6
+  },
+  {
+    "text": "Making science subservient to mathematics is putting the\ncart before the horse, let alone hubristic. Just think",
+    "start": 84.0,
+    "duration": 6.28
+  },
+  {
+    "text": "epicycles, where the mathematical model can make accurate\npredictions up to a point, yet fail to reflect the underlying",
+    "start": 90.28,
+    "duration": 6.24
+  },
+  {
+    "text": "reality. Heavier-than-air flight was also considered impossible\na little over 100 years ago, and they had the math to prove",
+    "start": 96.52,
+    "duration": 7.72
+  },
+  {
+    "text": "it. The importance of mathematics is not denied. Again, the\npoint is that the math should follow the science, rather than",
+    "start": 104.24,
+    "duration": 6.44
+  },
+  {
+    "text": "building the science on idealized mathematical models\nand selectively interpreting data to fit. Furthermore,",
+    "start": 110.68,
+    "duration": 7.56
+  },
+  {
+    "text": "current models rely on three variables to balance the equations\n- equivocations, some might say - dark matter and dark",
+    "start": 118.24,
+    "duration": 6.36
+  },
+  {
+    "text": "energy are the oft-cited Achilles heel of pop science.\nThey remain undetected after decades of searching",
+    "start": 124.6,
+    "duration": 5.92
+  },
+  {
+    "text": "despite allegedly comprising roughly 90% of the universe. Those\nwho pretend there isn't any debate to be had on the dominant",
+    "start": 130.52,
+    "duration": 7.35
+  },
+  {
+    "text": "role of mathematics and science have a problem. But don't\ntake my word for it. Quote “Physics is mathematical not",
+    "start": 137.87,
+    "duration": 7.33
+  },
+  {
+    "text": "because we know so much about the physical world,\nbut because we know so little. End quote, Bertrand",
+    "start": 145.2,
+    "duration": 6.2
+  },
+  {
+    "text": "Russell. Quote, “Today’s scientists have\nsubstituted mathematics for experiments,",
+    "start": 151.4,
+    "duration": 5.64
+  },
+  {
+    "text": "and they wander off through equation after equation,\nand eventually build a structure which has no relation to",
+    "start": 157.04,
+    "duration": 5.0
+  },
+  {
+    "text": "reality.” End quote, Nicola Tesla. Oh, and here is\nanother one from Einstein himself, quote, “Since the",
+    "start": 162.04,
+    "duration": 8.64
+  },
+  {
+    "text": "mathematicians have invaded the theory of relativity,\nI do not understand it myself anymore.” End",
+    "start": 170.68,
+    "duration": 6.76
+  },
+  {
+    "text": "quote. Even if you think Einstein had his tongue planted\nfirmly in his cheek at the time, I would suggest that many a",
+    "start": 177.44,
+    "duration": 6.07
+  },
+  {
+    "text": "true word is spoken in jest. Philosophical issues aside,\nStephen Crothers has done a fine job exposing the flaws",
+    "start": 183.51,
+    "duration": 6.44
+  },
+  {
+    "text": "and leaps of faith in so much math-based\ncosmology. A preeminent mathematician, he",
+    "start": 189.95,
+    "duration": 4.92
+  },
+  {
+    "text": "is counted among the most competent critics of \ngeneral relativity, the Big Bang and black holes et al.",
+    "start": 194.87,
+    "duration": 5.69
+  },
+  {
+    "text": "Quote, “Hawking was a pop scientist who ipso facto contributed\nnothing of value to science. Einstein was the first pop",
+    "start": 200.56,
+    "duration": 7.92
+  },
+  {
+    "text": "scientist; promoted sometime or another\nby that other entertainer, Charlie",
+    "start": 208.48,
+    "duration": 3.75
+  },
+  {
+    "text": "Chaplin. Hawking and the Einstein cult have ruined physics\nand astronomy, turning them into circus freak shows.” Science",
+    "start": 212.23,
+    "duration": 6.72
+  },
+  {
+    "text": "cannot just wait until they all disappear. Whilst they\nare active, they are ruining young minds entering science,",
+    "start": 218.95,
+    "duration": 5.25
+  },
+  {
+    "text": "to be caught up in the same rat race, producing more pop\nscientists. The cycle must be broken.” End quote, Stephen",
+    "start": 224.2,
+    "duration": 7.87
+  },
+  {
+    "text": "Crothers. Too bad that, for the time being at least, complex\nand esoteric math shield so much institutional science from",
+    "start": 232.07,
+    "duration": 6.85
+  },
+  {
+    "text": "robust scrutiny. Quote, “If you can't explain \nit simply, you don't understand it well",
+    "start": 238.92,
+    "duration": 6.95
+  },
+  {
+    "text": "enough.” End quote, Albert Einstein. Isaac Newton\nadmitted he did not understand the mechanism behind",
+    "start": 245.87,
+    "duration": 8.0
+  },
+  {
+    "text": "gravity and had to settle for describing it mathematically.\nQuote, “But hitherto I have not been able to discover the cause",
+    "start": 253.87,
+    "duration": 6.96
+  },
+  {
+    "text": "of those properties of gravity from phenomena,\nand I frame no hypotheses.” End quote, Isaac",
+    "start": 260.83,
+    "duration": 7.77
+  },
+  {
+    "text": "Newton. Einstein solved this problem by factoring in time\nas an additional dimension, the fourth dimension resulting",
+    "start": 268.6,
+    "duration": 6.59
+  },
+  {
+    "text": "in alleged spacetime curvature. But has he effectively\nreplaced a mathematical description with a mathematical",
+    "start": 275.19,
+    "duration": 6.62
+  },
+  {
+    "text": "abstraction? Quote, “There is no model of the theory of\ngravitation today, other than the mathematical form.” End quote",
+    "start": 282.84,
+    "duration": 7.48
+  },
+  {
+    "text": "Richard Feynman. In classrooms today, Einstein’s solution is\nsometimes illustrated by rolling balls around on suspended",
+    "start": 290.32,
+    "duration": 8.28
+  },
+  {
+    "text": "blankets with the smaller balls being attracted to the\nlarger mass in the middle, as if falling into the well of",
+    "start": 298.6,
+    "duration": 5.87
+  },
+  {
+    "text": "spacetime. This self-evidently relies on gravity as\nits own explanation. It's a classic case of circular",
+    "start": 304.47,
+    "duration": 7.25
+  },
+  {
+    "text": "reasoning. Time dilation is often cited as conclusive\nevidence for special relativity. But could bias confirmation",
+    "start": 311.72,
+    "duration": 6.8
+  },
+  {
+    "text": "be the significant factor here? In 1972 Hafele and Keating\nperformed experiments that purported to confirm special",
+    "start": 318.52,
+    "duration": 8.51
+  },
+  {
+    "text": "relativity. The evidence was derived from the differences\nin time recorded by cesium clocks transported in aircraft",
+    "start": 327.03,
+    "duration": 6.37
+  },
+  {
+    "text": "moving east and west. However, the results have\nbeen contested. Louis Essen for example, the",
+    "start": 333.4,
+    "duration": 6.2
+  },
+  {
+    "text": "inventor of the atomic clock, published an article in which\nhe discussed the inadequate accuracy of the experiments.",
+    "start": 339.6,
+    "duration": 6.24
+  },
+  {
+    "text": "Essen concluded that the theory was no more than a\nbunch of contradictory assumptions, together with actual",
+    "start": 345.84,
+    "duration": 6.07
+  },
+  {
+    "text": "mistakes. It is important to add a caveat to the above.\nWhen time contraction and length dilation can be observed, it",
+    "start": 351.91,
+    "duration": 6.72
+  },
+  {
+    "text": "doesn't necessarily lend credence to the fantastical\nspacetime framework. Quote, “Poincare’s advancement of",
+    "start": 358.63,
+    "duration": 7.4
+  },
+  {
+    "text": "Lorentz's ether is mathematically indistinguishable\nfrom ‘Special Relativity,’ while being utterly opposed",
+    "start": 366.03,
+    "duration": 5.41
+  },
+  {
+    "text": "to Minkowski's diagrams and formalization \nof ’isotropic constancy’ found in the",
+    "start": 371.44,
+    "duration": 4.0
+  },
+  {
+    "text": "spacetime metaphysics regime.” End quote, Anti- \nRelativity.com. GPS is often cited as conclusive",
+    "start": 375.44,
+    "duration": 8.12
+  },
+  {
+    "text": "proof for general relativity but this is a fallacy too. but\nAccording to this 1996 paper published by the GPS joint program",
+    "start": 383.56,
+    "duration": 7.63
+  },
+  {
+    "text": "office, quote, “The operational control system (OCS) of the\nGlobal Positioning System (GPS) does not include the rigorous",
+    "start": 391.19,
+    "duration": 8.56
+  },
+  {
+    "text": "transformations between coordinate systems that Einstein's\ngeneral theory of reality would seem to require.” End",
+    "start": 399.75,
+    "duration": 7.53
+  },
+  {
+    "text": "quote. Adjustments are made, but this is because clocks at\nhigh altitude tick faster resulting from variations in air",
+    "start": 407.28,
+    "duration": 6.6
+  },
+  {
+    "text": "density, not gravity. The air is denser closer to the Earth's\nsurface. Atomic clocks are also sensitive to temperature",
+    "start": 413.88,
+    "duration": 6.99
+  },
+  {
+    "text": "and pressure changes in their orbit. In addition to\ndark matter and dark energy, black holes are also talked",
+    "start": 420.87,
+    "duration": 7.04
+  },
+  {
+    "text": "about today as if they were real. Consensus scientists\nwho describe them as one of the most successful",
+    "start": 427.91,
+    "duration": 4.84
+  },
+  {
+    "text": "predictions of relativity choose to ignore the fact that\nEinstein dismissed the idea. In a 1939 paper from the Annals",
+    "start": 432.75,
+    "duration": 6.97
+  },
+  {
+    "text": "of Mathematics, he concluded that the black hole hypothesis\nwas not convincing and the phenomena did not exist in the",
+    "start": 439.72,
+    "duration": 6.24
+  },
+  {
+    "text": "real world. The paper is now hidden behind a\npaywall, but there is also a reference to it at",
+    "start": 445.96,
+    "duration": 5.79
+  },
+  {
+    "text": "History.com. Bizarrely, theoretical physicists\ndescribe black holes as points with zero",
+    "start": 451.75,
+    "duration": 4.97
+  },
+  {
+    "text": "volume, infinite density, and infinite mass. Think about that.\nDoes this concept sound credible, or more like another",
+    "start": 456.72,
+    "duration": 6.96
+  },
+  {
+    "text": "mathematical abstraction? Claims that a black\nhole has been pictured for the first time at the",
+    "start": 463.68,
+    "duration": 5.23
+  },
+  {
+    "text": "center of Galaxy M87 are at best contentious. The\nstraightforward plasma focus approach makes more sense on every",
+    "start": 468.91,
+    "duration": 7.56
+  },
+  {
+    "text": "level. Einstein coined the term “spooky action\nat a distance,” latterly referred to as “quantum",
+    "start": 476.47,
+    "duration": 6.65
+  },
+  {
+    "text": "entanglement.” It seems that one particle knows something\nabout another particle instantaneously over a vast",
+    "start": 483.12,
+    "duration": 6.19
+  },
+  {
+    "text": "distance. This phenomenon is problematic because it breaks\nthe speed of light barrier, supposedly the upper speed limit",
+    "start": 489.31,
+    "duration": 6.32
+  },
+  {
+    "text": "of the universe. Because it contradicts special\nrelativity, Einstein was compelled to issue a traffic",
+    "start": 495.63,
+    "duration": 6.45
+  },
+  {
+    "text": "violation. Quote, “I cannot seriously believe in it because\nthe theory cannot be reconciled with the idea that physics",
+    "start": 502.08,
+    "duration": 6.28
+  },
+  {
+    "text": "should represent a reality in time and space,\nfree from spooky action at a distance.”",
+    "start": 508.36,
+    "duration": 4.88
+  },
+  {
+    "text": "End quote, Albert Einstein in a letter to Max Born 1947. \nSAD - Spooky Action at a Distance - has been",
+    "start": 513.24,
+    "duration": 8.55
+  },
+  {
+    "text": "confirmed post Einstein. As a result,\nwe have seen numerous attempts to",
+    "start": 521.79,
+    "duration": 4.6
+  },
+  {
+    "text": "reconcile it with SR - Special Relativity - by the mathematical\nmysticism known as quantum physics. Quantum superposition",
+    "start": 526.39,
+    "duration": 7.33
+  },
+  {
+    "text": "conjectures that particles can exist in\ndifferent states simultaneously. Much",
+    "start": 533.72,
+    "duration": 4.2
+  },
+  {
+    "text": "like the criminal who claimed to be at home\nwhen he was seen robbing a store. Science",
+    "start": 537.92,
+    "duration": 3.76
+  },
+  {
+    "text": "fiction can't hold a candle to it. That much\nis certain. But I'll take a step back. I'm",
+    "start": 541.68,
+    "duration": 4.76
+  },
+  {
+    "text": "not saying quantum physics is entirely without\nmerit, just that it's highly speculative too.",
+    "start": 546.44,
+    "duration": 5.39
+  },
+  {
+    "text": "To be fair to Einstein, he was a modest man and a reluctant\nhero. The truth is that others ran with his ideas,",
+    "start": 551.83,
+    "duration": 7.0
+  },
+  {
+    "text": "and ran, and ran. Today they are still\nrunning around like dogs sniffing each other's",
+    "start": 558.83,
+    "duration": 5.44
+  },
+  {
+    "text": "butts. Typical of this breed is the British Professor Dr. Brian\nCox who made the seamless transition from pop star to",
+    "start": 564.27,
+    "duration": 6.53
+  },
+  {
+    "text": "pop scientist. He was a keyboard player\nwith D:Ream in the '90s. They had a UK number",
+    "start": 570.8,
+    "duration": 5.24
+  },
+  {
+    "text": "one hit with “Things Can Only Get Better.”\nI'm not saying Cox is any worse than any",
+    "start": 576.04,
+    "duration": 4.23
+  },
+  {
+    "text": "of the other talking heads paraded on television today. But\nthings really don't seem to be getting any better. Daring to",
+    "start": 580.27,
+    "duration": 6.0
+  },
+  {
+    "text": "question relativity remains an anathema, and doing \nso is liable to draw comparisons with flat earth",
+    "start": 586.27,
+    "duration": 6.09
+  },
+  {
+    "text": "quackery. Cox is the UK's answer to\nAmerica's Neil deGrasse Tyson. Several",
+    "start": 592.36,
+    "duration": 5.15
+  },
+  {
+    "text": "luminaries regard him as the best man to front \nBBC scientific programming moving forward.",
+    "start": 597.51,
+    "duration": 5.21
+  },
+  {
+    "text": "Which reminds me of Fred Hoyle’s famous words. Another former\nRoyal Astronomer, Hoyle was critical of peer review and the",
+    "start": 602.72,
+    "duration": 6.16
+  },
+  {
+    "text": "graduate school system and their abject failure to encourage\nindependent thinking. Prophetically, he summed it up: “The",
+    "start": 608.88,
+    "duration": 7.16
+  },
+  {
+    "text": "road ahead is hammered out!” Quote, “Unthinking\nrespect for authority is the greatest enemy of truth.”",
+    "start": 616.04,
+    "duration": 7.08
+  },
+  {
+    "text": "End quote, Albert Einstein. A famous line from\nShakespeare's Twelfth Night seems apposite: “Some",
+    "start": 623.12,
+    "duration": 7.15
+  },
+  {
+    "text": "are born great, some achieve greatness, and some have greatness\nthrust upon them.” I submit that Einstein belongs in the",
+    "start": 630.27,
+    "duration": 6.8
+  },
+  {
+    "text": "latter category. He was more victim than genius at a time\nwhen science took a wrong turn and mathematical modeling",
+    "start": 637.07,
+    "duration": 5.73
+  },
+  {
+    "text": "began to take precedence over traditional \nempiricism. Doubt is supposed to be at",
+    "start": 642.8,
+    "duration": 5.0
+  },
+  {
+    "text": "the heart of good science. The funny thing is though,\nwhile Einstein's fan club hang on almost every word he",
+    "start": 647.8,
+    "duration": 4.76
+  },
+  {
+    "text": "uttered, they ignored his many doubts. \nThe last word belongs to him, but",
+    "start": 652.56,
+    "duration": 6.51
+  },
+  {
+    "text": "quote, “You can imagine that I look back\non my life's work with calm satisfaction.",
+    "start": 659.07,
+    "duration": 4.32
+  },
+  {
+    "text": "But from nearby it looks quite different. There is not a\nsingle concept of which I'm convinced that it will stand firm,",
+    "start": 663.39,
+    "duration": 5.88
+  },
+  {
+    "text": "and I feel uncertain whether I'm in general on\nthe right track”. End quote. Albert Einstein.",
+    "start": 669.27,
+    "duration": 7.21
+  },
+  {
+    "text": "[Music]",
+    "start": 676.48,
+    "duration": 14.47
+  }
+]

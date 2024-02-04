@@ -1,0 +1,2702 @@
+[
+  {
+    "text": "welcome to space news from the electric",
+    "start": 0.03,
+    "duration": 3.659
+  },
+  {
+    "text": "universe brought to you by the",
+    "start": 1.65,
+    "duration": 4.8
+  },
+  {
+    "text": "thunderbolts project at Thunderbolts dot",
+    "start": 3.689,
+    "duration": 7.891
+  },
+  {
+    "text": "info it is a great paradox in comet",
+    "start": 6.45,
+    "duration": 7.559
+  },
+  {
+    "text": "science we are told that a comet nucleus",
+    "start": 11.58,
+    "duration": 5.55
+  },
+  {
+    "text": "is a ball of ice or dirty snowball or",
+    "start": 14.009,
+    "duration": 5.61
+  },
+  {
+    "text": "icy fluff ball it accreted billions of",
+    "start": 17.13,
+    "duration": 4.909
+  },
+  {
+    "text": "years ago in the solar system's infancy",
+    "start": 19.619,
+    "duration": 5.041
+  },
+  {
+    "text": "comets are said to sublimate ices as",
+    "start": 22.039,
+    "duration": 4.691
+  },
+  {
+    "text": "they move toward the Sun and solar",
+    "start": 24.66,
+    "duration": 4.439
+  },
+  {
+    "text": "warming is responsible for much cometary",
+    "start": 26.73,
+    "duration": 4.889
+  },
+  {
+    "text": "activity including the energetic Jets",
+    "start": 29.099,
+    "duration": 5.011
+  },
+  {
+    "text": "and the production of the familiar coma",
+    "start": 31.619,
+    "duration": 5.431
+  },
+  {
+    "text": "entail more recently as the required",
+    "start": 34.11,
+    "duration": 5.31
+  },
+  {
+    "text": "ices have not been observed on comet",
+    "start": 37.05,
+    "duration": 4.86
+  },
+  {
+    "text": "nuclei scientists and science media have",
+    "start": 39.42,
+    "duration": 4.47
+  },
+  {
+    "text": "taken to referring to comets as quote",
+    "start": 41.91,
+    "duration": 4.86
+  },
+  {
+    "text": "deep-fried ice cream insisting that the",
+    "start": 43.89,
+    "duration": 5.28
+  },
+  {
+    "text": "body of ice must be present but is",
+    "start": 46.77,
+    "duration": 5.28
+  },
+  {
+    "text": "buried under an outer crust if his",
+    "start": 49.17,
+    "duration": 5.13
+  },
+  {
+    "text": "reasoning leaves unexplained countless",
+    "start": 52.05,
+    "duration": 4.62
+  },
+  {
+    "text": "puzzles and comets science for instance",
+    "start": 54.3,
+    "duration": 4.829
+  },
+  {
+    "text": "it is an unresolved mystery how a",
+    "start": 56.67,
+    "duration": 5.31
+  },
+  {
+    "text": "so-called ball of ice deep-fried or",
+    "start": 59.129,
+    "duration": 5.43
+  },
+  {
+    "text": "otherwise can survive an extremely close",
+    "start": 61.98,
+    "duration": 4.59
+  },
+  {
+    "text": "approach to the Sun as we see with",
+    "start": 64.559,
+    "duration": 5.701
+  },
+  {
+    "text": "occasional sungrazer comets in 2011 the",
+    "start": 66.57,
+    "duration": 4.68
+  },
+  {
+    "text": "Comet Lovejoy",
+    "start": 70.26,
+    "duration": 3.06
+  },
+  {
+    "text": "astonished astronomers when the comet",
+    "start": 71.25,
+    "duration": 4.89
+  },
+  {
+    "text": "nucleus somehow survived intact after",
+    "start": 73.32,
+    "duration": 6.0
+  },
+  {
+    "text": "one hour in the Sun's corona also",
+    "start": 76.14,
+    "duration": 5.49
+  },
+  {
+    "text": "unresolved is the question of how comets",
+    "start": 79.32,
+    "duration": 4.56
+  },
+  {
+    "text": "begin producing evidence of water in",
+    "start": 81.63,
+    "duration": 4.559
+  },
+  {
+    "text": "their comas and vast distances from the",
+    "start": 83.88,
+    "duration": 4.86
+  },
+  {
+    "text": "Sun much too far to explain through",
+    "start": 86.189,
+    "duration": 4.921
+  },
+  {
+    "text": "solar heating such was the case with the",
+    "start": 88.74,
+    "duration": 5.699
+  },
+  {
+    "text": "comet 67p whose apparent water output as",
+    "start": 91.11,
+    "duration": 5.189
+  },
+  {
+    "text": "well as the production of an amazing",
+    "start": 94.439,
+    "duration": 4.531
+  },
+  {
+    "text": "abundance of rich molecules was first",
+    "start": 96.299,
+    "duration": 4.561
+  },
+  {
+    "text": "detected while still hundreds of",
+    "start": 98.97,
+    "duration": 4.14
+  },
+  {
+    "text": "millions of kilometres from the Sun and",
+    "start": 100.86,
+    "duration": 5.06
+  },
+  {
+    "text": "countless other enduring puzzles abound",
+    "start": 103.11,
+    "duration": 6.24
+  },
+  {
+    "text": "we asked the question can the science of",
+    "start": 105.92,
+    "duration": 5.739
+  },
+  {
+    "text": "electrochemistry provide the answer to",
+    "start": 109.35,
+    "duration": 5.79
+  },
+  {
+    "text": "many Comet mysteries dr. franklin",
+    "start": 111.659,
+    "duration": 6.331
+  },
+  {
+    "text": "anariba a specialist in electrochemistry",
+    "start": 115.14,
+    "duration": 4.5
+  },
+  {
+    "text": "was a featured speaker at the",
+    "start": 117.99,
+    "duration": 3.36
+  },
+  {
+    "text": "Thunderbolts project's international",
+    "start": 119.64,
+    "duration": 5.1
+  },
+  {
+    "text": "conference the tipping point in 2013 dr.",
+    "start": 121.35,
+    "duration": 5.699
+  },
+  {
+    "text": "anariba is also scheduled to speak at",
+    "start": 124.74,
+    "duration": 5.47
+  },
+  {
+    "text": "the forthcoming 2015 conference",
+    "start": 127.049,
+    "duration": 5.981
+  },
+  {
+    "text": "path of discovery taking place June 25th",
+    "start": 130.21,
+    "duration": 5.7
+  },
+  {
+    "text": "to 29th in Phoenix Arizona we now",
+    "start": 133.03,
+    "duration": 6.42
+  },
+  {
+    "text": "present you in full dr. anariba z-- 2013",
+    "start": 135.91,
+    "duration": 6.36
+  },
+  {
+    "text": "talk commentary electrochemistry a",
+    "start": 139.45,
+    "duration": 5.16
+  },
+  {
+    "text": "transcript of the talk may be found in",
+    "start": 142.27,
+    "duration": 6.18
+  },
+  {
+    "text": "the description box of this video ok so",
+    "start": 144.61,
+    "duration": 6.12
+  },
+  {
+    "text": "what I want to do here is try to give",
+    "start": 148.45,
+    "duration": 5.76
+  },
+  {
+    "text": "you an illustration of what can happen",
+    "start": 150.73,
+    "duration": 6.66
+  },
+  {
+    "text": "actually in comets so as you can see the",
+    "start": 154.21,
+    "duration": 5.43
+  },
+  {
+    "text": "time of my my talk here is cometary",
+    "start": 157.39,
+    "duration": 4.83
+  },
+  {
+    "text": "electrochemistry and actually that's the",
+    "start": 159.64,
+    "duration": 4.05
+  },
+  {
+    "text": "only thing that's new here is the term",
+    "start": 162.22,
+    "duration": 3.33
+  },
+  {
+    "text": "when you look at the leadership for",
+    "start": 163.69,
+    "duration": 3.84
+  },
+  {
+    "text": "instance you see the astro",
+    "start": 165.55,
+    "duration": 4.68
+  },
+  {
+    "text": "electrochemistry actually is this plenty",
+    "start": 167.53,
+    "duration": 3.51
+  },
+  {
+    "text": "of material air",
+    "start": 170.23,
+    "duration": 3.51
+  },
+  {
+    "text": "I sure do chemistry means that allowed",
+    "start": 171.04,
+    "duration": 4.71
+  },
+  {
+    "text": "the reactions that happen in space",
+    "start": 173.74,
+    "duration": 4.47
+  },
+  {
+    "text": "I actually driven by a potential",
+    "start": 175.75,
+    "duration": 5.4
+  },
+  {
+    "text": "difference in addition I came across a",
+    "start": 178.21,
+    "duration": 5.79
+  },
+  {
+    "text": "series of Russian scientists who",
+    "start": 181.15,
+    "duration": 6.54
+  },
+  {
+    "text": "actually proposed that electricity in",
+    "start": 184.0,
+    "duration": 6.99
+  },
+  {
+    "text": "the nucleus of comets can actually drive",
+    "start": 187.69,
+    "duration": 6.3
+  },
+  {
+    "text": "that the icing process of say water of",
+    "start": 190.99,
+    "duration": 5.1
+  },
+  {
+    "text": "methane so those ideas and their new",
+    "start": 193.99,
+    "duration": 6.05
+  },
+  {
+    "text": "ways new here is the idea that you have",
+    "start": 196.09,
+    "duration": 7.34
+  },
+  {
+    "text": "electrochemistry or electricity driving",
+    "start": 200.04,
+    "duration": 6.1
+  },
+  {
+    "text": "chemical reactions either in the nucleus",
+    "start": 203.43,
+    "duration": 4.51
+  },
+  {
+    "text": "of the comments or in the comments or",
+    "start": 206.14,
+    "duration": 3.24
+  },
+  {
+    "text": "the comments that's what's nice and",
+    "start": 207.94,
+    "duration": 3.87
+  },
+  {
+    "text": "that's what I want to talk about and I",
+    "start": 209.38,
+    "duration": 3.84
+  },
+  {
+    "text": "figured that most of you don't know who",
+    "start": 211.81,
+    "duration": 4.05
+  },
+  {
+    "text": "I am and so I just wanted to point here",
+    "start": 213.22,
+    "duration": 4.8
+  },
+  {
+    "text": "the fact that I live in Singapore",
+    "start": 215.86,
+    "duration": 4.17
+  },
+  {
+    "text": "I've been work living working there for",
+    "start": 218.02,
+    "duration": 4.95
+  },
+  {
+    "text": "4 years and I think some of you I think",
+    "start": 220.03,
+    "duration": 6.36
+  },
+  {
+    "text": "I talked to being there before alright",
+    "start": 222.97,
+    "duration": 5.01
+  },
+  {
+    "text": "so this is the outline of my talk it's",
+    "start": 226.39,
+    "duration": 3.09
+  },
+  {
+    "text": "going to be brief and I'm gonna keep it",
+    "start": 227.98,
+    "duration": 3.45
+  },
+  {
+    "text": "simple because of the audience is very",
+    "start": 229.48,
+    "duration": 5.4
+  },
+  {
+    "text": "diverse tell you a little bit about what",
+    "start": 231.43,
+    "duration": 5.13
+  },
+  {
+    "text": "is electrochemistry why is the",
+    "start": 234.88,
+    "duration": 3.36
+  },
+  {
+    "text": "composition or comets and how the",
+    "start": 236.56,
+    "duration": 4.14
+  },
+  {
+    "text": "combination of these two concepts can",
+    "start": 238.24,
+    "duration": 5.01
+  },
+  {
+    "text": "actually allow us to provide with a you",
+    "start": 240.7,
+    "duration": 6.24
+  },
+  {
+    "text": "know it's like a framework of reactors",
+    "start": 243.25,
+    "duration": 5.85
+  },
+  {
+    "text": "happening in comments I'll also mention",
+    "start": 246.94,
+    "duration": 6.48
+  },
+  {
+    "text": "the other chemical model in question the",
+    "start": 249.1,
+    "duration": 6.12
+  },
+  {
+    "text": "question about cyanide production and",
+    "start": 253.42,
+    "duration": 5.189
+  },
+  {
+    "text": "how the model can explain this and I",
+    "start": 255.22,
+    "duration": 5.88
+  },
+  {
+    "text": "just make a 1 prediction if this model",
+    "start": 258.609,
+    "duration": 3.841
+  },
+  {
+    "text": "is correct there should be one",
+    "start": 261.1,
+    "duration": 2.21
+  },
+  {
+    "text": "observation that which",
+    "start": 262.45,
+    "duration": 5.12
+  },
+  {
+    "text": "to see in the future okay so what is",
+    "start": 263.31,
+    "duration": 5.76
+  },
+  {
+    "text": "very interesting for a chemistry",
+    "start": 267.57,
+    "duration": 4.86
+  },
+  {
+    "text": "standpoint is that energy in a way",
+    "start": 269.07,
+    "duration": 5.55
+  },
+  {
+    "text": "electricity it's kind of freeing nature",
+    "start": 272.43,
+    "duration": 4.739
+  },
+  {
+    "text": "this is a very good example here and you",
+    "start": 274.62,
+    "duration": 4.41
+  },
+  {
+    "text": "probably know this this is a zinc",
+    "start": 277.169,
+    "duration": 5.551
+  },
+  {
+    "text": "material and here we have a copper and",
+    "start": 279.03,
+    "duration": 5.94
+  },
+  {
+    "text": "once we connect this to what's going to",
+    "start": 282.72,
+    "duration": 3.75
+  },
+  {
+    "text": "happen is that electrons that are",
+    "start": 284.97,
+    "duration": 4.02
+  },
+  {
+    "text": "actually in the zinc we actually go in",
+    "start": 286.47,
+    "duration": 4.62
+  },
+  {
+    "text": "direction of the copper now electrons",
+    "start": 288.99,
+    "duration": 2.34
+  },
+  {
+    "text": "going",
+    "start": 291.09,
+    "duration": 2.01
+  },
+  {
+    "text": "flowing in a particular direction is",
+    "start": 291.33,
+    "duration": 3.42
+  },
+  {
+    "text": "electricity this happens in",
+    "start": 293.1,
+    "duration": 4.64
+  },
+  {
+    "text": "spontaneously so nature I should give us",
+    "start": 294.75,
+    "duration": 5.19
+  },
+  {
+    "text": "free energy the energy that you need to",
+    "start": 297.74,
+    "duration": 3.79
+  },
+  {
+    "text": "spend is in how you arrange these",
+    "start": 299.94,
+    "duration": 4.89
+  },
+  {
+    "text": "materials so that's that's the main",
+    "start": 301.53,
+    "duration": 6.3
+  },
+  {
+    "text": "concept here now another concept I want",
+    "start": 304.83,
+    "duration": 5.339
+  },
+  {
+    "text": "to I want to be pouring here is this in",
+    "start": 307.83,
+    "duration": 4.05
+  },
+  {
+    "text": "electrochemistry if you have this",
+    "start": 310.169,
+    "duration": 3.301
+  },
+  {
+    "text": "particular self which is suitable take",
+    "start": 311.88,
+    "duration": 3.81
+  },
+  {
+    "text": "cell as a function of time what's going",
+    "start": 313.47,
+    "duration": 4.83
+  },
+  {
+    "text": "to happen is the zinc material will",
+    "start": 315.69,
+    "duration": 5.039
+  },
+  {
+    "text": "actually dissolve it give us of the",
+    "start": 318.3,
+    "duration": 5.369
+  },
+  {
+    "text": "electron and a same time dielectric come",
+    "start": 320.729,
+    "duration": 4.41
+  },
+  {
+    "text": "from the atom they actually covers a",
+    "start": 323.669,
+    "duration": 5.821
+  },
+  {
+    "text": "higher right so in the negative side in",
+    "start": 325.139,
+    "duration": 7.681
+  },
+  {
+    "text": "a negative region of the particular cell",
+    "start": 329.49,
+    "duration": 6.15
+  },
+  {
+    "text": "you get the solution and on the positive",
+    "start": 332.82,
+    "duration": 5.31
+  },
+  {
+    "text": "region here in the copper you're going",
+    "start": 335.64,
+    "duration": 4.74
+  },
+  {
+    "text": "to get a accumulation of material this",
+    "start": 338.13,
+    "duration": 4.23
+  },
+  {
+    "text": "material comes in because this is this",
+    "start": 340.38,
+    "duration": 4.05
+  },
+  {
+    "text": "copper here is in solution this is a",
+    "start": 342.36,
+    "duration": 4.26
+  },
+  {
+    "text": "copper solution right but any other",
+    "start": 344.43,
+    "duration": 3.989
+  },
+  {
+    "text": "material be attractive because in this",
+    "start": 346.62,
+    "duration": 3.299
+  },
+  {
+    "text": "region you're going to have extra",
+    "start": 348.419,
+    "duration": 2.941
+  },
+  {
+    "text": "electrons so they'll be attracted to it",
+    "start": 349.919,
+    "duration": 3.181
+  },
+  {
+    "text": "will capture this electrons and the",
+    "start": 351.36,
+    "duration": 3.72
+  },
+  {
+    "text": "material we accumulate so a key point",
+    "start": 353.1,
+    "duration": 3.51
+  },
+  {
+    "text": "here is that you have active electrons",
+    "start": 355.08,
+    "duration": 3.089
+  },
+  {
+    "text": "you're going to have this solution on",
+    "start": 356.61,
+    "duration": 2.97
+  },
+  {
+    "text": "the negative region you can have",
+    "start": 358.169,
+    "duration": 2.881
+  },
+  {
+    "text": "accumulation of material in the positive",
+    "start": 359.58,
+    "duration": 3.51
+  },
+  {
+    "text": "region that's the key part in this slide",
+    "start": 361.05,
+    "duration": 5.13
+  },
+  {
+    "text": "now energy like I said before is",
+    "start": 363.09,
+    "duration": 5.16
+  },
+  {
+    "text": "naturally storing metals we can harness",
+    "start": 366.18,
+    "duration": 4.26
+  },
+  {
+    "text": "it it's not difficult to harness it we",
+    "start": 368.25,
+    "duration": 3.33
+  },
+  {
+    "text": "actually do it all the time",
+    "start": 370.44,
+    "duration": 2.49
+  },
+  {
+    "text": "the example this is a batteries",
+    "start": 371.58,
+    "duration": 5.1
+  },
+  {
+    "text": "batteries is its energy right this is",
+    "start": 372.93,
+    "duration": 5.7
+  },
+  {
+    "text": "story in the only difference here is how",
+    "start": 376.68,
+    "duration": 5.06
+  },
+  {
+    "text": "is a range that's it",
+    "start": 378.63,
+    "duration": 3.11
+  },
+  {
+    "text": "another concept that I want to introduce",
+    "start": 381.96,
+    "duration": 4.29
+  },
+  {
+    "text": "here in this slide is the idea having",
+    "start": 383.55,
+    "duration": 5.52
+  },
+  {
+    "text": "inner electrodes here show you active",
+    "start": 386.25,
+    "duration": 4.38
+  },
+  {
+    "text": "electrons they actually the electrode",
+    "start": 389.07,
+    "duration": 4.74
+  },
+  {
+    "text": "itself actually dissolves accumulates",
+    "start": 390.63,
+    "duration": 5.76
+  },
+  {
+    "text": "and in this particular example here I'll",
+    "start": 393.81,
+    "duration": 3.21
+  },
+  {
+    "text": "say that",
+    "start": 396.39,
+    "duration": 3.17
+  },
+  {
+    "text": "have electrodes which actually provide",
+    "start": 397.02,
+    "duration": 4.769
+  },
+  {
+    "text": "only the surface with the",
+    "start": 399.56,
+    "duration": 3.97
+  },
+  {
+    "text": "electrochemical reaction occurs good",
+    "start": 401.789,
+    "duration": 5.34
+  },
+  {
+    "text": "example these are carbon gold palladium",
+    "start": 403.53,
+    "duration": 5.099
+  },
+  {
+    "text": "platinum for instance because there are",
+    "start": 407.129,
+    "duration": 4.35
+  },
+  {
+    "text": "no reactive materials right now this",
+    "start": 408.629,
+    "duration": 4.5
+  },
+  {
+    "text": "will come handy when you think about the",
+    "start": 411.479,
+    "duration": 4.171
+  },
+  {
+    "text": "nuclear of comment interactions actually",
+    "start": 413.129,
+    "duration": 5.13
+  },
+  {
+    "text": "occurring in that particular case in",
+    "start": 415.65,
+    "duration": 5.639
+  },
+  {
+    "text": "location now I know some of you have",
+    "start": 418.259,
+    "duration": 5.521
+  },
+  {
+    "text": "know began to chemistry the chemist is",
+    "start": 421.289,
+    "duration": 4.201
+  },
+  {
+    "text": "actually a very difficult subject so",
+    "start": 423.78,
+    "duration": 3.93
+  },
+  {
+    "text": "what I'll do here is I'm going to tell",
+    "start": 425.49,
+    "duration": 4.019
+  },
+  {
+    "text": "you what is the main concept of",
+    "start": 427.71,
+    "duration": 3.329
+  },
+  {
+    "text": "electrochemistry it's very simple you",
+    "start": 429.509,
+    "duration": 3.361
+  },
+  {
+    "text": "can have a reduction in oxidation",
+    "start": 431.039,
+    "duration": 4.141
+  },
+  {
+    "text": "reaction here's an example of an",
+    "start": 432.87,
+    "duration": 4.799
+  },
+  {
+    "text": "oxidation reaction which occurs in a",
+    "start": 435.18,
+    "duration": 4.169
+  },
+  {
+    "text": "negative charge region and I'm doing",
+    "start": 437.669,
+    "duration": 3.361
+  },
+  {
+    "text": "this on purpose because the terminology",
+    "start": 439.349,
+    "duration": 2.761
+  },
+  {
+    "text": "that we use electrochemistry is",
+    "start": 441.03,
+    "duration": 2.34
+  },
+  {
+    "text": "different from physicists and engineers",
+    "start": 442.11,
+    "duration": 4.44
+  },
+  {
+    "text": "in terms of cathode and anode so in the",
+    "start": 443.37,
+    "duration": 4.949
+  },
+  {
+    "text": "negative charge region you have the say",
+    "start": 446.55,
+    "duration": 4.109
+  },
+  {
+    "text": "for instance I add some of our atom it",
+    "start": 448.319,
+    "duration": 4.47
+  },
+  {
+    "text": "gives up three electrons and you get an",
+    "start": 450.659,
+    "duration": 4.741
+  },
+  {
+    "text": "iron right these electrons over here if",
+    "start": 452.789,
+    "duration": 4.021
+  },
+  {
+    "text": "you're able to push them in a particular",
+    "start": 455.4,
+    "duration": 4.59
+  },
+  {
+    "text": "direction is what give us a current and",
+    "start": 456.81,
+    "duration": 5.699
+  },
+  {
+    "text": "the reduction will actually occur in the",
+    "start": 459.99,
+    "duration": 3.75
+  },
+  {
+    "text": "positive region",
+    "start": 462.509,
+    "duration": 3.69
+  },
+  {
+    "text": "yeah good example here two protons plus",
+    "start": 463.74,
+    "duration": 3.899
+  },
+  {
+    "text": "two electrons will give you a hydrogen",
+    "start": 466.199,
+    "duration": 3.96
+  },
+  {
+    "text": "gas all right so now this is the basic",
+    "start": 467.639,
+    "duration": 3.75
+  },
+  {
+    "text": "electric current this is what cannot",
+    "start": 470.159,
+    "duration": 3.06
+  },
+  {
+    "text": "survive to carry at this point well well",
+    "start": 471.389,
+    "duration": 4.62
+  },
+  {
+    "text": "do now is talk about comments why is the",
+    "start": 473.219,
+    "duration": 6.031
+  },
+  {
+    "text": "compositional comments well now we know",
+    "start": 476.009,
+    "duration": 6.871
+  },
+  {
+    "text": "the comments are actually formed by",
+    "start": 479.25,
+    "duration": 6.539
+  },
+  {
+    "text": "several minerals kind of minerals this",
+    "start": 482.88,
+    "duration": 4.17
+  },
+  {
+    "text": "is a good example over here this is",
+    "start": 485.789,
+    "duration": 3.6
+  },
+  {
+    "text": "olivine associated walk this means that",
+    "start": 487.05,
+    "duration": 3.479
+  },
+  {
+    "text": "you probably associated with high",
+    "start": 489.389,
+    "duration": 3.53
+  },
+  {
+    "text": "temperatures maybe with lightning and",
+    "start": 490.529,
+    "duration": 4.95
+  },
+  {
+    "text": "this is just various forms of olivine",
+    "start": 492.919,
+    "duration": 4.571
+  },
+  {
+    "text": "and while pinpoint to you is the fact",
+    "start": 495.479,
+    "duration": 4.141
+  },
+  {
+    "text": "that they have the rich in transition",
+    "start": 497.49,
+    "duration": 4.26
+  },
+  {
+    "text": "metals so this issue metals are",
+    "start": 499.62,
+    "duration": 3.57
+  },
+  {
+    "text": "important in actor chemistry because",
+    "start": 501.75,
+    "duration": 3.9
+  },
+  {
+    "text": "either they provide a surface or they",
+    "start": 503.19,
+    "duration": 4.199
+  },
+  {
+    "text": "provide electrons that easy to reduce an",
+    "start": 505.65,
+    "duration": 2.4
+  },
+  {
+    "text": "oxidized",
+    "start": 507.389,
+    "duration": 2.721
+  },
+  {
+    "text": "they have various oxidation states",
+    "start": 508.05,
+    "duration": 4.2
+  },
+  {
+    "text": "another point about the people in here",
+    "start": 510.11,
+    "duration": 4.359
+  },
+  {
+    "text": "is it is all silicates silicon and",
+    "start": 512.25,
+    "duration": 5.61
+  },
+  {
+    "text": "oxygen silicon oxygen a very abundant",
+    "start": 514.469,
+    "duration": 7.551
+  },
+  {
+    "text": "oxygen is a very rich lecture or atom",
+    "start": 517.86,
+    "duration": 6.9
+  },
+  {
+    "text": "electron rich which can also provide the",
+    "start": 522.02,
+    "duration": 4.059
+  },
+  {
+    "text": "lectures to provide current",
+    "start": 524.76,
+    "duration": 4.43
+  },
+  {
+    "text": "provided you have a potential difference",
+    "start": 526.079,
+    "duration": 6.801
+  },
+  {
+    "text": "another example is vision height",
+    "start": 529.19,
+    "duration": 6.73
+  },
+  {
+    "text": "associated with Mars and moon meteorites",
+    "start": 532.88,
+    "duration": 7.17
+  },
+  {
+    "text": "again very reaching iron Cuba Knights",
+    "start": 535.92,
+    "duration": 7.919
+  },
+  {
+    "text": "copper iron and sulfur form in liquid",
+    "start": 540.05,
+    "duration": 7.27
+  },
+  {
+    "text": "water this has been found in comets this",
+    "start": 543.839,
+    "duration": 4.921
+  },
+  {
+    "text": "is very interesting because that means",
+    "start": 547.32,
+    "duration": 4.009
+  },
+  {
+    "text": "the very complex chemistry going on here",
+    "start": 548.76,
+    "duration": 6.199
+  },
+  {
+    "text": "also rich in in iron",
+    "start": 551.329,
+    "duration": 7.421
+  },
+  {
+    "text": "another decision made at that have been",
+    "start": 554.959,
+    "duration": 7.231
+  },
+  {
+    "text": "found in the nuclei of comets are",
+    "start": 558.75,
+    "duration": 6.06
+  },
+  {
+    "text": "titanium vanadium in the form of nitrous",
+    "start": 562.19,
+    "duration": 5.079
+  },
+  {
+    "text": "platinum Ozma vitinho toxin malignant",
+    "start": 564.81,
+    "duration": 3.45
+  },
+  {
+    "text": "just to mention a few",
+    "start": 567.269,
+    "duration": 4.171
+  },
+  {
+    "text": "so you can see is very complex the",
+    "start": 568.26,
+    "duration": 5.34
+  },
+  {
+    "text": "compensation for electrochemical points",
+    "start": 571.44,
+    "duration": 4.98
+  },
+  {
+    "text": "complex in comments in the comment or",
+    "start": 573.6,
+    "duration": 4.979
+  },
+  {
+    "text": "comments this is the several gases that",
+    "start": 576.42,
+    "duration": 5.25
+  },
+  {
+    "text": "we identified carbon monoxide carbon",
+    "start": 578.579,
+    "duration": 6.621
+  },
+  {
+    "text": "dioxide series of oxides with nitrogen",
+    "start": 581.67,
+    "duration": 6.81
+  },
+  {
+    "text": "software oxides hydroxyl and I left our",
+    "start": 585.2,
+    "duration": 5.41
+  },
+  {
+    "text": "oxygen a night a molecular molecular",
+    "start": 588.48,
+    "duration": 4.41
+  },
+  {
+    "text": "oxygen molecular nitrogen so did you",
+    "start": 590.61,
+    "duration": 6.78
+  },
+  {
+    "text": "find all this compounds in comets that",
+    "start": 592.89,
+    "duration": 6.449
+  },
+  {
+    "text": "will tell you already that this is very",
+    "start": 597.39,
+    "duration": 3.75
+  },
+  {
+    "text": "complex chemistry going on here in",
+    "start": 599.339,
+    "duration": 3.421
+  },
+  {
+    "text": "addition to that you find organic",
+    "start": 601.14,
+    "duration": 7.1
+  },
+  {
+    "text": "molecules methane cyanide meth no eating",
+    "start": 602.76,
+    "duration": 6.6
+  },
+  {
+    "text": "anything",
+    "start": 608.24,
+    "duration": 4.539
+  },
+  {
+    "text": "ether ammonia carbonates D so again the",
+    "start": 609.36,
+    "duration": 5.16
+  },
+  {
+    "text": "level of complexity is beginning to get",
+    "start": 612.779,
+    "duration": 6.091
+  },
+  {
+    "text": "more higher I would say and more complex",
+    "start": 614.52,
+    "duration": 6.24
+  },
+  {
+    "text": "organic molecules I'd be identifying in",
+    "start": 618.87,
+    "duration": 5.01
+  },
+  {
+    "text": "comments I mean let's use natural for",
+    "start": 620.76,
+    "duration": 5.72
+  },
+  {
+    "text": "instance vinegar or acetic acid",
+    "start": 623.88,
+    "duration": 4.35
+  },
+  {
+    "text": "amorphous carbon you can think about",
+    "start": 626.48,
+    "duration": 5.38
+  },
+  {
+    "text": "charcoal polycyclic hydrocarbons with",
+    "start": 628.23,
+    "duration": 5.82
+  },
+  {
+    "text": "very important in in in agriculture for",
+    "start": 631.86,
+    "duration": 4.229
+  },
+  {
+    "text": "instance people who you know the work",
+    "start": 634.05,
+    "duration": 3.39
+  },
+  {
+    "text": "and culture they always talk about P",
+    "start": 636.089,
+    "duration": 3.451
+  },
+  {
+    "text": "ages because they control basically the",
+    "start": 637.44,
+    "duration": 6.829
+  },
+  {
+    "text": "pH and in soils for instance and",
+    "start": 639.54,
+    "duration": 7.2
+  },
+  {
+    "text": "surprisingly dry soon this is an amino",
+    "start": 644.269,
+    "duration": 6.461
+  },
+  {
+    "text": "acid so how can this motor work twelve",
+    "start": 646.74,
+    "duration": 5.73
+  },
+  {
+    "text": "artists of chemistry I'm talking about",
+    "start": 650.73,
+    "duration": 3.57
+  },
+  {
+    "text": "the composition comment so how can we",
+    "start": 652.47,
+    "duration": 4.47
+  },
+  {
+    "text": "apply this major chemical model here is",
+    "start": 654.3,
+    "duration": 6.42
+  },
+  {
+    "text": "a cartoon and it's not up to scale as",
+    "start": 656.94,
+    "duration": 5.02
+  },
+  {
+    "text": "you can see",
+    "start": 660.72,
+    "duration": 3.76
+  },
+  {
+    "text": "thusly we have the Sun and here we have",
+    "start": 661.96,
+    "duration": 3.93
+  },
+  {
+    "text": "the solar wind which are called the",
+    "start": 664.48,
+    "duration": 3.06
+  },
+  {
+    "text": "proton flux because that's mostly the",
+    "start": 665.89,
+    "duration": 2.79
+  },
+  {
+    "text": "composition even though there is no",
+    "start": 667.54,
+    "duration": 3.18
+  },
+  {
+    "text": "electrons in there and here we have",
+    "start": 668.68,
+    "duration": 5.13
+  },
+  {
+    "text": "nuclear a nucleus da steel ion plasma",
+    "start": 670.72,
+    "duration": 5.46
+  },
+  {
+    "text": "tail in a coma this is what this is what",
+    "start": 673.81,
+    "duration": 4.26
+  },
+  {
+    "text": "we see right this is the typical",
+    "start": 676.18,
+    "duration": 4.2
+  },
+  {
+    "text": "observation for comments so why am i",
+    "start": 678.07,
+    "duration": 5.07
+  },
+  {
+    "text": "proposing here is this paradigm or this",
+    "start": 680.38,
+    "duration": 6.42
+  },
+  {
+    "text": "model can be true if we show that we",
+    "start": 683.14,
+    "duration": 6.63
+  },
+  {
+    "text": "have a potential difference in this",
+    "start": 686.8,
+    "duration": 6.0
+  },
+  {
+    "text": "particular case making the Sun the",
+    "start": 689.77,
+    "duration": 4.86
+  },
+  {
+    "text": "positive region because of that or the",
+    "start": 692.8,
+    "duration": 5.46
+  },
+  {
+    "text": "other protons and of the solar wind and",
+    "start": 694.63,
+    "duration": 5.22
+  },
+  {
+    "text": "the nuke the nickels would be the",
+    "start": 698.26,
+    "duration": 3.449
+  },
+  {
+    "text": "negative region now if you're able to",
+    "start": 699.85,
+    "duration": 5.22
+  },
+  {
+    "text": "show this then you can apply with our",
+    "start": 701.709,
+    "duration": 5.701
+  },
+  {
+    "text": "fear and to chemical model so this is",
+    "start": 705.07,
+    "duration": 4.079
+  },
+  {
+    "text": "the key part I think this is why it's",
+    "start": 707.41,
+    "duration": 3.45
+  },
+  {
+    "text": "going to take us a lot of time in the",
+    "start": 709.149,
+    "duration": 3.391
+  },
+  {
+    "text": "future try to show that there's a",
+    "start": 710.86,
+    "duration": 3.33
+  },
+  {
+    "text": "potential difference here you can do it",
+    "start": 712.54,
+    "duration": 7.2
+  },
+  {
+    "text": "indirectly now in detail how is this one",
+    "start": 714.19,
+    "duration": 7.95
+  },
+  {
+    "text": "going to work well we work at the",
+    "start": 719.74,
+    "duration": 5.099
+  },
+  {
+    "text": "following way here is a electrical",
+    "start": 722.14,
+    "duration": 4.86
+  },
+  {
+    "text": "negative region which is can be the",
+    "start": 724.839,
+    "duration": 4.711
+  },
+  {
+    "text": "nucleus right because it's rich in",
+    "start": 727.0,
+    "duration": 6.3
+  },
+  {
+    "text": "minerals with silicates and to set your",
+    "start": 729.55,
+    "duration": 6.33
+  },
+  {
+    "text": "meadows and here it would be the solar",
+    "start": 733.3,
+    "duration": 6.06
+  },
+  {
+    "text": "wind which surrounds the nucleus as the",
+    "start": 735.88,
+    "duration": 7.14
+  },
+  {
+    "text": "comet approaches the Sun okay so what we",
+    "start": 739.36,
+    "duration": 5.099
+  },
+  {
+    "text": "need to do here like I said before is to",
+    "start": 743.02,
+    "duration": 3.24
+  },
+  {
+    "text": "have a potential difference if this is",
+    "start": 744.459,
+    "duration": 5.311
+  },
+  {
+    "text": "the case this would drive any reaction I",
+    "start": 746.26,
+    "duration": 5.88
+  },
+  {
+    "text": "saw you know the key part here is that",
+    "start": 749.77,
+    "duration": 4.77
+  },
+  {
+    "text": "the potential difference is big enough",
+    "start": 752.14,
+    "duration": 4.11
+  },
+  {
+    "text": "to drive there any reaction that you",
+    "start": 754.54,
+    "duration": 5.0
+  },
+  {
+    "text": "want we do this in a lab all the time",
+    "start": 756.25,
+    "duration": 6.959
+  },
+  {
+    "text": "now this potential difference is going",
+    "start": 759.54,
+    "duration": 5.68
+  },
+  {
+    "text": "to create a current flow from the",
+    "start": 763.209,
+    "duration": 5.851
+  },
+  {
+    "text": "nucleus towards the the positive region",
+    "start": 765.22,
+    "duration": 7.369
+  },
+  {
+    "text": "which is the solar wind while doing so",
+    "start": 769.06,
+    "duration": 6.93
+  },
+  {
+    "text": "you can see the comet why because what",
+    "start": 772.589,
+    "duration": 4.631
+  },
+  {
+    "text": "happens is you have this flow of",
+    "start": 775.99,
+    "duration": 3.81
+  },
+  {
+    "text": "electrons the electrons gonna collide",
+    "start": 777.22,
+    "duration": 4.95
+  },
+  {
+    "text": "with some of the electricity on these",
+    "start": 779.8,
+    "duration": 5.039
+  },
+  {
+    "text": "molecules say for instance carbon",
+    "start": 782.17,
+    "duration": 5.909
+  },
+  {
+    "text": "monoxide right so the electro there's",
+    "start": 784.839,
+    "duration": 7.141
+  },
+  {
+    "text": "been driven from the nucleus towards the",
+    "start": 788.079,
+    "duration": 6.931
+  },
+  {
+    "text": "positive region we go to the comarca",
+    "start": 791.98,
+    "duration": 3.78
+  },
+  {
+    "text": "live with some of",
+    "start": 795.01,
+    "duration": 3.0
+  },
+  {
+    "text": "gasses it's going to excite electrons",
+    "start": 795.76,
+    "duration": 4.41
+  },
+  {
+    "text": "first we'll see concealed carbon",
+    "start": 798.01,
+    "duration": 4.85
+  },
+  {
+    "text": "monoxide to a higher energy State",
+    "start": 800.17,
+    "duration": 5.97
+  },
+  {
+    "text": "we need the case down it is going to",
+    "start": 802.86,
+    "duration": 5.08
+  },
+  {
+    "text": "give off energy this energy is the one",
+    "start": 806.14,
+    "duration": 3.36
+  },
+  {
+    "text": "we see in terms of you know in the",
+    "start": 807.94,
+    "duration": 3.87
+  },
+  {
+    "text": "visible range right so the intensity of",
+    "start": 809.5,
+    "duration": 3.75
+  },
+  {
+    "text": "the coma and the colour of the coma",
+    "start": 811.81,
+    "duration": 5.37
+  },
+  {
+    "text": "would depend on what kind of gas is",
+    "start": 813.25,
+    "duration": 6.42
+  },
+  {
+    "text": "being excited right so it depends on the",
+    "start": 817.18,
+    "duration": 5.82
+  },
+  {
+    "text": "abundance now what kind of reactions can",
+    "start": 819.67,
+    "duration": 6.39
+  },
+  {
+    "text": "we have on the nucleus and if I get it",
+    "start": 823.0,
+    "duration": 4.29
+  },
+  {
+    "text": "will be a complex of some of you because",
+    "start": 826.06,
+    "duration": 2.91
+  },
+  {
+    "text": "this is chemistry but I will keep it",
+    "start": 827.29,
+    "duration": 4.05
+  },
+  {
+    "text": "simple here we know that iron two-plus",
+    "start": 828.97,
+    "duration": 4.02
+  },
+  {
+    "text": "for instance exists in these minerals",
+    "start": 831.34,
+    "duration": 4.56
+  },
+  {
+    "text": "right it's a really iron but if you have",
+    "start": 832.99,
+    "duration": 4.83
+  },
+  {
+    "text": "a potential difference thermodynamic",
+    "start": 835.9,
+    "duration": 3.96
+  },
+  {
+    "text": "squeaking this is possible you can give",
+    "start": 837.82,
+    "duration": 4.35
+  },
+  {
+    "text": "up an electron this electron means",
+    "start": 839.86,
+    "duration": 4.92
+  },
+  {
+    "text": "current the same for manganese and so on",
+    "start": 842.17,
+    "duration": 5.37
+  },
+  {
+    "text": "so forth even you can even have",
+    "start": 844.78,
+    "duration": 4.2
+  },
+  {
+    "text": "manganese right with some of the other",
+    "start": 847.54,
+    "duration": 3.51
+  },
+  {
+    "text": "water vapour or gases that can be in the",
+    "start": 848.98,
+    "duration": 3.42
+  },
+  {
+    "text": "coma you can have more complex",
+    "start": 851.05,
+    "duration": 2.52
+  },
+  {
+    "text": "structures you can find you can find",
+    "start": 852.4,
+    "duration": 4.41
+  },
+  {
+    "text": "solids manganese oxide for instance and",
+    "start": 853.57,
+    "duration": 4.95
+  },
+  {
+    "text": "again you get current some of the",
+    "start": 856.81,
+    "duration": 4.08
+  },
+  {
+    "text": "silicate material that I show you I cook",
+    "start": 858.52,
+    "duration": 4.47
+  },
+  {
+    "text": "the a part of the mineral can react with",
+    "start": 860.89,
+    "duration": 4.29
+  },
+  {
+    "text": "protons from the solar wind and you can",
+    "start": 862.99,
+    "duration": 3.63
+  },
+  {
+    "text": "get some of hydroxides I mean the",
+    "start": 865.18,
+    "duration": 3.54
+  },
+  {
+    "text": "possibilities are endless right because",
+    "start": 866.62,
+    "duration": 3.3
+  },
+  {
+    "text": "we all know exactly what's really",
+    "start": 868.72,
+    "duration": 3.27
+  },
+  {
+    "text": "happening there the point here is you",
+    "start": 869.92,
+    "duration": 7.64
+  },
+  {
+    "text": "can get current and you can get material",
+    "start": 871.99,
+    "duration": 5.57
+  },
+  {
+    "text": "what happens when the part of the sorry",
+    "start": 877.65,
+    "duration": 3.97
+  },
+  {
+    "text": "on the positive side I can envision only",
+    "start": 879.58,
+    "duration": 3.78
+  },
+  {
+    "text": "one type of reaction and it is the",
+    "start": 881.62,
+    "duration": 5.25
+  },
+  {
+    "text": "formation of hydrogen gas that's it all",
+    "start": 883.36,
+    "duration": 8.58
+  },
+  {
+    "text": "right okay so in more detail if we have",
+    "start": 886.87,
+    "duration": 7.2
+  },
+  {
+    "text": "you if we have a common here this is a",
+    "start": 891.94,
+    "duration": 6.17
+  },
+  {
+    "text": "cartoon this model can actually explain",
+    "start": 894.07,
+    "duration": 7.14
+  },
+  {
+    "text": "the plasma formation of the coma right",
+    "start": 898.11,
+    "duration": 5.62
+  },
+  {
+    "text": "depending again on put or the abundance",
+    "start": 901.21,
+    "duration": 4.53
+  },
+  {
+    "text": "of all these gases maybe all the gases",
+    "start": 903.73,
+    "duration": 4.68
+  },
+  {
+    "text": "are left up so for instance if you have",
+    "start": 905.74,
+    "duration": 5.7
+  },
+  {
+    "text": "80 % light abundance you get one",
+    "start": 908.41,
+    "duration": 4.65
+  },
+  {
+    "text": "particular color but again tensity",
+    "start": 911.44,
+    "duration": 3.75
+  },
+  {
+    "text": "if you have oxygen a higher abundance",
+    "start": 913.06,
+    "duration": 4.83
+  },
+  {
+    "text": "80% the color of the coma and intensive",
+    "start": 915.19,
+    "duration": 4.59
+  },
+  {
+    "text": "the coma is going to be different well",
+    "start": 917.89,
+    "duration": 2.94
+  },
+  {
+    "text": "let me see if I can finish this up soon",
+    "start": 919.78,
+    "duration": 3.6
+  },
+  {
+    "text": "the plasma tail can be explained by the",
+    "start": 920.83,
+    "duration": 4.56
+  },
+  {
+    "text": "formation of ions the plasma tails most",
+    "start": 923.38,
+    "duration": 4.14
+  },
+  {
+    "text": "positive ions you can explain here in",
+    "start": 925.39,
+    "duration": 3.51
+  },
+  {
+    "text": "addition to the",
+    "start": 927.52,
+    "duration": 3.39
+  },
+  {
+    "text": "the dust tail can be explained by the",
+    "start": 928.9,
+    "duration": 5.64
+  },
+  {
+    "text": "formation of these solids oxides",
+    "start": 930.91,
+    "duration": 6.15
+  },
+  {
+    "text": "hydroxides in addition to that also some",
+    "start": 934.54,
+    "duration": 6.66
+  },
+  {
+    "text": "chunks of minerals and most importantly",
+    "start": 937.06,
+    "duration": 6.66
+  },
+  {
+    "text": "here is a I wanna start talking about",
+    "start": 941.2,
+    "duration": 3.96
+  },
+  {
+    "text": "and thinking about this particular model",
+    "start": 943.72,
+    "duration": 3.18
+  },
+  {
+    "text": "I predicted the formation of hydrogen",
+    "start": 945.16,
+    "duration": 2.46
+  },
+  {
+    "text": "gas",
+    "start": 946.9,
+    "duration": 2.1
+  },
+  {
+    "text": "even before I read the literature",
+    "start": 947.62,
+    "duration": 3.72
+  },
+  {
+    "text": "because I have no background on comets",
+    "start": 949.0,
+    "duration": 4.95
+  },
+  {
+    "text": "and was able to see here is that I was",
+    "start": 951.34,
+    "duration": 3.72
+  },
+  {
+    "text": "it was very exciting",
+    "start": 953.95,
+    "duration": 3.6
+  },
+  {
+    "text": "he's a help Bob for instance comment a",
+    "start": 955.06,
+    "duration": 4.17
+  },
+  {
+    "text": "hydrogen cloud was actually observed",
+    "start": 957.55,
+    "duration": 3.09
+  },
+  {
+    "text": "very large hydrogen cloud",
+    "start": 959.23,
+    "duration": 6.33
+  },
+  {
+    "text": "so this mod also explains that now how",
+    "start": 960.64,
+    "duration": 6.33
+  },
+  {
+    "text": "can we know it is he like to connect a",
+    "start": 965.56,
+    "duration": 3.12
+  },
+  {
+    "text": "Prosecco hang on in comments there was",
+    "start": 966.97,
+    "duration": 3.15
+  },
+  {
+    "text": "this particular exhibition four years",
+    "start": 968.68,
+    "duration": 4.5
+  },
+  {
+    "text": "ago silent information and not dust",
+    "start": 970.12,
+    "duration": 4.77
+  },
+  {
+    "text": "formation so what happened here is this",
+    "start": 973.18,
+    "duration": 4.49
+  },
+  {
+    "text": "in the standard model whenever you have",
+    "start": 974.89,
+    "duration": 6.42
+  },
+  {
+    "text": "sublimation of a gas dust will always",
+    "start": 977.67,
+    "duration": 5.08
+  },
+  {
+    "text": "form because the idea is that you have a",
+    "start": 981.31,
+    "duration": 4.44
+  },
+  {
+    "text": "dirty ball or dirty ice ice wall right",
+    "start": 982.75,
+    "duration": 5.49
+  },
+  {
+    "text": "so sublimation of say water will",
+    "start": 985.75,
+    "duration": 3.9
+  },
+  {
+    "text": "actually bring out formation against",
+    "start": 988.24,
+    "duration": 3.81
+  },
+  {
+    "text": "excuse me of particles in this case we",
+    "start": 989.65,
+    "duration": 5.31
+  },
+  {
+    "text": "don't see that so how can we how can we",
+    "start": 992.05,
+    "duration": 5.49
+  },
+  {
+    "text": "explain this electrochemistry two",
+    "start": 994.96,
+    "duration": 4.8
+  },
+  {
+    "text": "different ways one way is the standards",
+    "start": 997.54,
+    "duration": 3.99
+  },
+  {
+    "text": "of chemistry where their action actually",
+    "start": 999.76,
+    "duration": 4.68
+  },
+  {
+    "text": "occurs in the nucleus right you know I",
+    "start": 1001.53,
+    "duration": 4.35
+  },
+  {
+    "text": "was able to see for instance and I'm",
+    "start": 1004.44,
+    "duration": 4.5
+  },
+  {
+    "text": "rushing here because of time was able to",
+    "start": 1005.88,
+    "duration": 6.87
+  },
+  {
+    "text": "see here is that I mean amines I should",
+    "start": 1008.94,
+    "duration": 5.28
+  },
+  {
+    "text": "precursor for signed affirmation",
+    "start": 1012.75,
+    "duration": 4.32
+  },
+  {
+    "text": "provided you have acidic conditions in",
+    "start": 1014.22,
+    "duration": 5.46
+  },
+  {
+    "text": "the presence of protons so that in the",
+    "start": 1017.07,
+    "duration": 5.94
+  },
+  {
+    "text": "solar wind is it's a it's makes it",
+    "start": 1019.68,
+    "duration": 7.77
+  },
+  {
+    "text": "amenable viable so this is a methylamine",
+    "start": 1023.01,
+    "duration": 6.84
+  },
+  {
+    "text": "we have a glycine a more complex it",
+    "start": 1027.45,
+    "duration": 3.6
+  },
+  {
+    "text": "means well so as you have these",
+    "start": 1029.85,
+    "duration": 3.06
+  },
+  {
+    "text": "structures they're in a coma and the",
+    "start": 1031.05,
+    "duration": 4.76
+  },
+  {
+    "text": "nucleus you can get you can get cyanide",
+    "start": 1032.91,
+    "duration": 4.98
+  },
+  {
+    "text": "and I'm going to skip this like ago I",
+    "start": 1035.81,
+    "duration": 4.0
+  },
+  {
+    "text": "just gonna make sure very quick is that",
+    "start": 1037.89,
+    "duration": 4.44
+  },
+  {
+    "text": "this is a way that you can actually do",
+    "start": 1039.81,
+    "duration": 4.8
+  },
+  {
+    "text": "experiments on the lab you can actually",
+    "start": 1042.33,
+    "duration": 4.23
+  },
+  {
+    "text": "have those gases in this container here",
+    "start": 1044.61,
+    "duration": 3.33
+  },
+  {
+    "text": "you have two electrodes tungsten and",
+    "start": 1046.56,
+    "duration": 4.08
+  },
+  {
+    "text": "soon still you apply a potential and you",
+    "start": 1047.94,
+    "duration": 3.84
+  },
+  {
+    "text": "carry the reaction what you have the",
+    "start": 1050.64,
+    "duration": 2.97
+  },
+  {
+    "text": "reaction you apply electric field you",
+    "start": 1051.78,
+    "duration": 3.48
+  },
+  {
+    "text": "push it into a mass spectrometer and you",
+    "start": 1053.61,
+    "duration": 4.11
+  },
+  {
+    "text": "can detect the product and this work has",
+    "start": 1055.26,
+    "duration": 7.5
+  },
+  {
+    "text": "been done already by",
+    "start": 1057.72,
+    "duration": 7.02
+  },
+  {
+    "text": "Navaro Gonzalez in national university",
+    "start": 1062.76,
+    "duration": 6.51
+  },
+  {
+    "text": "of Mexico he was trying to simulate time",
+    "start": 1064.74,
+    "duration": 6.03
+  },
+  {
+    "text": "to simulate the reactions in the",
+    "start": 1069.27,
+    "duration": 5.22
+  },
+  {
+    "text": "atmosphere of Titan and that's what he",
+    "start": 1070.77,
+    "duration": 7.16
+  },
+  {
+    "text": "did so this is elect in 1967 work by",
+    "start": 1074.49,
+    "duration": 5.67
+  },
+  {
+    "text": "Matthew see in Matthews I think was",
+    "start": 1077.93,
+    "duration": 3.79
+  },
+  {
+    "text": "mentioned yesterday that this particular",
+    "start": 1080.16,
+    "duration": 3.39
+  },
+  {
+    "text": "experiment will actually give you amino",
+    "start": 1081.72,
+    "duration": 3.6
+  },
+  {
+    "text": "acids but this particular experiment",
+    "start": 1083.55,
+    "duration": 3.81
+  },
+  {
+    "text": "also give you if you have a combination",
+    "start": 1085.32,
+    "duration": 3.57
+  },
+  {
+    "text": "of methane in ammonium once you give you",
+    "start": 1087.36,
+    "duration": 5.07
+  },
+  {
+    "text": "sign our articles if you have a coronal",
+    "start": 1088.89,
+    "duration": 5.13
+  },
+  {
+    "text": "discharge and this has been done this",
+    "start": 1092.43,
+    "duration": 3.53
+  },
+  {
+    "text": "experimental data you'll also get",
+    "start": 1094.02,
+    "duration": 6.39
+  },
+  {
+    "text": "hydrocarbons in Sinai importantly if you",
+    "start": 1095.96,
+    "duration": 6.97
+  },
+  {
+    "text": "simulate lightning in nitrogen and",
+    "start": 1100.41,
+    "duration": 3.18
+  },
+  {
+    "text": "methane",
+    "start": 1102.93,
+    "duration": 2.25
+  },
+  {
+    "text": "you also get had the carpets in silence",
+    "start": 1103.59,
+    "duration": 3.78
+  },
+  {
+    "text": "so there's two possibilities here and I",
+    "start": 1105.18,
+    "duration": 6.39
+  },
+  {
+    "text": "got a few more slides I think to go here",
+    "start": 1107.37,
+    "duration": 5.73
+  },
+  {
+    "text": "what I'm going to show you here briefly",
+    "start": 1111.57,
+    "duration": 3.5
+  },
+  {
+    "text": "is that you can have a reversibility",
+    "start": 1113.1,
+    "duration": 6.48
+  },
+  {
+    "text": "between CO and in alcohols CO and",
+    "start": 1115.07,
+    "duration": 9.34
+  },
+  {
+    "text": "alcohols Co and alcohols and methane so",
+    "start": 1119.58,
+    "duration": 6.78
+  },
+  {
+    "text": "there's no direct connection between CO",
+    "start": 1124.41,
+    "duration": 5.07
+  },
+  {
+    "text": "and in cyanide which I was looking for",
+    "start": 1126.36,
+    "duration": 5.25
+  },
+  {
+    "text": "it's a two-step process you can have the",
+    "start": 1129.48,
+    "duration": 5.1
+  },
+  {
+    "text": "reduction of CL into into into methane",
+    "start": 1131.61,
+    "duration": 6.57
+  },
+  {
+    "text": "and then this can be - you know maybe",
+    "start": 1134.58,
+    "duration": 5.55
+  },
+  {
+    "text": "electrical discharge form cyanide this",
+    "start": 1138.18,
+    "duration": 3.57
+  },
+  {
+    "text": "is the two-step process I didn't find",
+    "start": 1140.13,
+    "duration": 4.14
+  },
+  {
+    "text": "one voice directly and this is the last",
+    "start": 1141.75,
+    "duration": 4.41
+  },
+  {
+    "text": "slide here so please bear with me I got",
+    "start": 1144.27,
+    "duration": 3.6
+  },
+  {
+    "text": "17 minutes I think I got one minute left",
+    "start": 1146.16,
+    "duration": 3.9
+  },
+  {
+    "text": "this is a soccer ball tomogram some of",
+    "start": 1147.87,
+    "duration": 3.21
+  },
+  {
+    "text": "you have never seen this before",
+    "start": 1150.06,
+    "duration": 2.61
+  },
+  {
+    "text": "alright so let me see if I can I can",
+    "start": 1151.08,
+    "duration": 4.44
+  },
+  {
+    "text": "help you out follow it this is a graph",
+    "start": 1152.67,
+    "duration": 5.67
+  },
+  {
+    "text": "of voltage in this direction and current",
+    "start": 1155.52,
+    "duration": 4.23
+  },
+  {
+    "text": "in this direction I did I didn't write",
+    "start": 1158.34,
+    "duration": 3.48
+  },
+  {
+    "text": "it here mine my negligence this is",
+    "start": 1159.75,
+    "duration": 4.86
+  },
+  {
+    "text": "current this is voltage if you start up",
+    "start": 1161.82,
+    "duration": 5.07
+  },
+  {
+    "text": "voltage a and I give you the direction",
+    "start": 1164.61,
+    "duration": 4.65
+  },
+  {
+    "text": "over here this is you know you have two",
+    "start": 1166.89,
+    "duration": 4.14
+  },
+  {
+    "text": "electrodes and you have a solution for",
+    "start": 1169.26,
+    "duration": 4.41
+  },
+  {
+    "text": "instance or you have gases if you if you",
+    "start": 1171.03,
+    "duration": 6.27
+  },
+  {
+    "text": "go from voltage a voltage B and you have",
+    "start": 1173.67,
+    "duration": 7.11
+  },
+  {
+    "text": "chemicals in his system you be able to",
+    "start": 1177.3,
+    "duration": 5.4
+  },
+  {
+    "text": "see sort of reduction process here so",
+    "start": 1180.78,
+    "duration": 4.17
+  },
+  {
+    "text": "whatever chemical it is it will gain an",
+    "start": 1182.7,
+    "duration": 4.35
+  },
+  {
+    "text": "electron or several electrons and you",
+    "start": 1184.95,
+    "duration": 5.28
+  },
+  {
+    "text": "move it all the way to bowl touch B and",
+    "start": 1187.05,
+    "duration": 5.67
+  },
+  {
+    "text": "then if you reverse it right whatever",
+    "start": 1190.23,
+    "duration": 4.14
+  },
+  {
+    "text": "compound you you form here by the",
+    "start": 1192.72,
+    "duration": 3.27
+  },
+  {
+    "text": "reduction process we",
+    "start": 1194.37,
+    "duration": 4.38
+  },
+  {
+    "text": "oxidize and it make sure you get to this",
+    "start": 1195.99,
+    "duration": 5.069
+  },
+  {
+    "text": "point so here you have a reduction",
+    "start": 1198.75,
+    "duration": 4.17
+  },
+  {
+    "text": "oxidation this is a typical typical",
+    "start": 1201.059,
+    "duration": 5.461
+  },
+  {
+    "text": "soccer ball time entry process now how",
+    "start": 1202.92,
+    "duration": 6.18
+  },
+  {
+    "text": "can you supply to comments well if you",
+    "start": 1206.52,
+    "duration": 5.039
+  },
+  {
+    "text": "this is the the sound here's the idea",
+    "start": 1209.1,
+    "duration": 4.98
+  },
+  {
+    "text": "about the comment a little bit and this",
+    "start": 1211.559,
+    "duration": 4.051
+  },
+  {
+    "text": "is the direction come if you go in this",
+    "start": 1214.08,
+    "duration": 3.45
+  },
+  {
+    "text": "reaction for instance as the comet",
+    "start": 1215.61,
+    "duration": 4.08
+  },
+  {
+    "text": "approaches the Sun you should be able to",
+    "start": 1217.53,
+    "duration": 5.82
+  },
+  {
+    "text": "see a reaction why every reaction would",
+    "start": 1219.69,
+    "duration": 5.7
+  },
+  {
+    "text": "that be depends on the composition as",
+    "start": 1223.35,
+    "duration": 4.829
+  },
+  {
+    "text": "the comment departs the Sun you should",
+    "start": 1225.39,
+    "duration": 4.38
+  },
+  {
+    "text": "be able to see another type of reaction",
+    "start": 1228.179,
+    "duration": 4.651
+  },
+  {
+    "text": "if it is reversible you should be the",
+    "start": 1229.77,
+    "duration": 6.21
+  },
+  {
+    "text": "reversibility here but okay maybe it's",
+    "start": 1232.83,
+    "duration": 4.92
+  },
+  {
+    "text": "not reversible but you should be able to",
+    "start": 1235.98,
+    "duration": 3.6
+  },
+  {
+    "text": "see a reaction here and no interaction",
+    "start": 1237.75,
+    "duration": 3.42
+  },
+  {
+    "text": "here so this is the prediction that I",
+    "start": 1239.58,
+    "duration": 6.27
+  },
+  {
+    "text": "make a good example here is going",
+    "start": 1241.17,
+    "duration": 7.62
+  },
+  {
+    "text": "between amino and in cyanide right I",
+    "start": 1245.85,
+    "duration": 4.59
+  },
+  {
+    "text": "don't know if NASA had to make these",
+    "start": 1248.79,
+    "duration": 3.06
+  },
+  {
+    "text": "reservations but this should be",
+    "start": 1250.44,
+    "duration": 4.32
+  },
+  {
+    "text": "something that you occur all right so",
+    "start": 1251.85,
+    "duration": 4.53
+  },
+  {
+    "text": "this is the last slide here thank you",
+    "start": 1254.76,
+    "duration": 3.419
+  },
+  {
+    "text": "for your time and well basically saying",
+    "start": 1256.38,
+    "duration": 3.48
+  },
+  {
+    "text": "here is that this is a illustration this",
+    "start": 1258.179,
+    "duration": 3.241
+  },
+  {
+    "text": "is still not a theory",
+    "start": 1259.86,
+    "duration": 2.819
+  },
+  {
+    "text": "this is just an illustration because I",
+    "start": 1261.42,
+    "duration": 4.07
+  },
+  {
+    "text": "don't have four weeks to work on this",
+    "start": 1262.679,
+    "duration": 5.521
+  },
+  {
+    "text": "but it seems to be the distance to",
+    "start": 1265.49,
+    "duration": 4.66
+  },
+  {
+    "text": "chemical model while you have provided",
+    "start": 1268.2,
+    "duration": 4.2
+  },
+  {
+    "text": "you have I said I repeat the voltage",
+    "start": 1270.15,
+    "duration": 5.1
+  },
+  {
+    "text": "difference can account for the hydrogen",
+    "start": 1272.4,
+    "duration": 5.25
+  },
+  {
+    "text": "gas formation the plasma and the coma",
+    "start": 1275.25,
+    "duration": 5.73
+  },
+  {
+    "text": "does tale information and the ionized",
+    "start": 1277.65,
+    "duration": 5.37
+  },
+  {
+    "text": "plasma that you see do you see there and",
+    "start": 1280.98,
+    "duration": 4.65
+  },
+  {
+    "text": "actually these are and also any other",
+    "start": 1283.02,
+    "duration": 4.8
+  },
+  {
+    "text": "reaction that doesn't involve dust dust",
+    "start": 1285.63,
+    "duration": 4.2
+  },
+  {
+    "text": "formation and this model can actually",
+    "start": 1287.82,
+    "duration": 6.08
+  },
+  {
+    "text": "allow us to predict based on the",
+    "start": 1289.83,
+    "duration": 6.599
+  },
+  {
+    "text": "reversibility of electrochemical systems",
+    "start": 1293.9,
+    "duration": 5.35
+  },
+  {
+    "text": "what will happen well thank you for your",
+    "start": 1296.429,
+    "duration": 5.061
+  },
+  {
+    "text": "time",
+    "start": 1299.25,
+    "duration": 2.24
+  },
+  {
+    "text": "for continuous updates on space news",
+    "start": 1306.08,
+    "duration": 5.44
+  },
+  {
+    "text": "from the electric universe stay tuned to",
+    "start": 1308.73,
+    "duration": 6.65
+  },
+  {
+    "text": "Thunderbolts dot info",
+    "start": 1311.52,
+    "duration": 3.86
+  }
+]

@@ -1,0 +1,667 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe,",
+    "start": 7.141,
+    "duration": 2.88
+  },
+  {
+    "text": "brought to you by\nThe Thunderbolts Project™",
+    "start": 10.046,
+    "duration": 2.377
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 12.448,
+    "duration": 3.272
+  },
+  {
+    "text": "New scientific reports are again\nconfirming the electrical nature",
+    "start": 16.482,
+    "duration": 4.064
+  },
+  {
+    "text": "of one of the most mysterious\nphenomena in the cosmos ― the comet.",
+    "start": 20.571,
+    "duration": 4.289
+  },
+  {
+    "text": "For more than a decade",
+    "start": 24.885,
+    "duration": 1.534
+  },
+  {
+    "text": "scientists have puzzled over the\nspectacular display of Comet McNaught.",
+    "start": 26.444,
+    "duration": 4.364
+  },
+  {
+    "text": "In the winter of 2007, the object\ndazzled observers on Earth",
+    "start": 30.809,
+    "duration": 4.405
+  },
+  {
+    "text": "when it became the brightest\ncomet in over 40 years",
+    "start": 35.239,
+    "duration": 3.215
+  },
+  {
+    "text": "and the second\nbrightest since 1935.",
+    "start": 38.479,
+    "duration": 2.801
+  },
+  {
+    "text": "The more scientists have\nlearned about Comet McNaught,",
+    "start": 41.305,
+    "duration": 3.108
+  },
+  {
+    "text": "the more it has confounded\nconventional comet theory.",
+    "start": 44.438,
+    "duration": 3.5
+  },
+  {
+    "text": "In 2007, as the comet\nwas passing near Mars,",
+    "start": 47.963,
+    "duration": 3.911
+  },
+  {
+    "text": "the Ulysses spacecraft made the\ncompletely unexpected discovery",
+    "start": 51.899,
+    "duration": 3.838
+  },
+  {
+    "text": "that the solar wind velocity\ndramatically decelerated",
+    "start": 55.738,
+    "duration": 3.513
+  },
+  {
+    "text": "as it encountered the\ncomet's ion tail.",
+    "start": 59.276,
+    "duration": 2.523
+  },
+  {
+    "text": "At that distance from the Sun the solar\nwind is typically about 700 km/sec,",
+    "start": 61.824,
+    "duration": 5.721
+  },
+  {
+    "text": "but inside the ion tail of the\ncomet it was only 350 km/sec.",
+    "start": 67.57,
+    "duration": 5.463
+  },
+  {
+    "text": "Space science professor Michael\nCombi said of the discovery,",
+    "start": 73.058,
+    "duration": 3.604
+  },
+  {
+    "text": "\"This was very surprising to me.",
+    "start": 76.687,
+    "duration": 2.257
+  },
+  {
+    "text": "Way past the orbit of Mars, the solar wind\nfelt a disturbance of this little comet.",
+    "start": 78.969,
+    "duration": 5.729
+  },
+  {
+    "text": "It will be a serious challenge for us\ntheoreticians and computer modelers",
+    "start": 84.723,
+    "duration": 4.354
+  },
+  {
+    "text": "to figure out the physics.\"",
+    "start": 89.102,
+    "duration": 1.755
+  },
+  {
+    "text": "And today, scientists continuing to study comet\nMcNaught have reported another discovery",
+    "start": 90.882,
+    "duration": 6.017
+  },
+  {
+    "text": "that stunningly confirms\nthe electric comet theory,",
+    "start": 96.9,
+    "duration": 3.288
+  },
+  {
+    "text": "that is that the material in the comet's\ndust tail is \"electrically charged\".",
+    "start": 100.213,
+    "duration": 5.331
+  },
+  {
+    "text": "The team was attempting to learn\nabout the extraordinary dust tail,",
+    "start": 105.569,
+    "duration": 3.442
+  },
+  {
+    "text": "specifically the structured\nbands of dust or striations",
+    "start": 109.036,
+    "duration": 3.791
+  },
+  {
+    "text": "which did not disperse\nin the \"vacuum of space\"",
+    "start": 112.828,
+    "duration": 3.208
+  },
+  {
+    "text": "but stretched for over 100\nmillion miles behind the comet.",
+    "start": 116.061,
+    "duration": 3.837
+  },
+  {
+    "text": "Previously, the great comet of 1744 was said to\nhave presented the same mystery in its time",
+    "start": 119.899,
+    "duration": 5.858
+  },
+  {
+    "text": "when it produced six tails which\nwere observed from Earth.",
+    "start": 125.782,
+    "duration": 3.251
+  },
+  {
+    "text": "Today, almost three\ncenturies later,",
+    "start": 129.058,
+    "duration": 2.787
+  },
+  {
+    "text": "scientists utilizing a new\nimage processing technique",
+    "start": 131.87,
+    "duration": 3.104
+  },
+  {
+    "text": "are able to study the formation of the\nstriations in McNaught's dust tail.",
+    "start": 134.999,
+    "duration": 4.327
+  },
+  {
+    "text": "What they have found was\ncompletely unexpected.",
+    "start": 139.351,
+    "duration": 3.198
+  },
+  {
+    "text": "Planetary scientist Oliver Price who developed\nthe technique said of the investigation,",
+    "start": 142.55,
+    "duration": 5.333
+  },
+  {
+    "text": "\"My supervisor and I noticed weird goings-on\nin the images of these striations,",
+    "start": 147.908,
+    "duration": 4.867
+  },
+  {
+    "text": "a disruption in the\notherwise clean lines.",
+    "start": 152.8,
+    "duration": 3.077
+  },
+  {
+    "text": "I set out to investigate what might have\nhappened to create this weird effect.\"",
+    "start": 155.902,
+    "duration": 4.346
+  },
+  {
+    "text": "As reported on phys.org, these\nso-called weird effects were,",
+    "start": 160.273,
+    "duration": 4.898
+  },
+  {
+    "text": "\"Located at the heliospheric current sheet,\na boundary where the magnetic orientation,",
+    "start": 165.196,
+    "duration": 5.594
+  },
+  {
+    "text": "or polarity, of the electrified\nsolar wind changes directions.",
+    "start": 170.815,
+    "duration": 4.079
+  },
+  {
+    "text": "This puzzled scientists because while\nthey have long known the comet's ion tail",
+    "start": 174.919,
+    "duration": 4.751
+  },
+  {
+    "text": "is affected by the solar wind,",
+    "start": 179.695,
+    "duration": 1.568
+  },
+  {
+    "text": "they had never seen the solar\nwind impact dust tails before.\"",
+    "start": 181.288,
+    "duration": 3.769
+  },
+  {
+    "text": "\"Dust in McNaught's tail ― roughly\nthe size of cigarette smoke ―",
+    "start": 185.082,
+    "duration": 3.935
+  },
+  {
+    "text": "is too heavy, the scientists thought,\nfor the solar wind to push around.\"",
+    "start": 189.042,
+    "duration": 4.301
+  },
+  {
+    "text": "This electrical interaction between\nthe heliospheric current sheet",
+    "start": 193.368,
+    "duration": 3.991
+  },
+  {
+    "text": "and the comet's dust tail is summarized\nby planetary scientist Geraint Jones,",
+    "start": 197.36,
+    "duration": 4.762
+  },
+  {
+    "text": "\"It's like the striation's feathers are\nruffled when it crosses the current sheet.",
+    "start": 202.147,
+    "duration": 4.266
+  },
+  {
+    "text": "If you picture a wing with lots of\nfeathers, as the wing crosses the sheet,",
+    "start": 206.438,
+    "duration": 4.246
+  },
+  {
+    "text": "lighter ends of the feathers\nget bent out of shape.",
+    "start": 210.685,
+    "duration": 2.87
+  },
+  {
+    "text": "For us, this is strong evidence that\nthe dust is electrically charged,",
+    "start": 213.58,
+    "duration": 4.109
+  },
+  {
+    "text": "and that the solar wind is affecting\nthe motion of that dust.\"",
+    "start": 217.714,
+    "duration": 3.439
+  },
+  {
+    "text": "The Phys.org report concludes\nof the team's findings,",
+    "start": 221.178,
+    "duration": 3.222
+  },
+  {
+    "text": "\"... it was a surprise for\nthem to see the solar wind",
+    "start": 224.425,
+    "duration": 2.718
+  },
+  {
+    "text": "affect larger dust grains\nlike those in McNaught's tail--",
+    "start": 227.168,
+    "duration": 3.085
+  },
+  {
+    "text": "about 100 times bigger than the dust seen\nejected from around Jupiter and Saturn--",
+    "start": 230.278,
+    "duration": 4.526
+  },
+  {
+    "text": "because they're that much heavier\nfor the solar wind to push around.\"",
+    "start": 234.829,
+    "duration": 3.725
+  },
+  {
+    "text": "It has always been the Electric Universe\nposition that most comet activity",
+    "start": 238.579,
+    "duration": 4.4
+  },
+  {
+    "text": "is the result of the comet moving through\nregions of changing electric potential.",
+    "start": 243.004,
+    "duration": 4.664
+  },
+  {
+    "text": "The reason comet activity tends to\nincrease as it moves closer to the Sun",
+    "start": 247.669,
+    "duration": 4.049
+  },
+  {
+    "text": "is not due to sublimation of\ninvisible hypothetical water ice.",
+    "start": 251.719,
+    "duration": 4.76
+  },
+  {
+    "text": "Indeed, every comet nucleus imaged to\ndate has appeared rocky and desiccated.",
+    "start": 256.48,
+    "duration": 5.171
+  },
+  {
+    "text": "Comets spend most of their time in the\nfarther reaches of the solar system",
+    "start": 261.676,
+    "duration": 3.875
+  },
+  {
+    "text": "where plasma charge density\nis low. The comet moves slowly",
+    "start": 265.576,
+    "duration": 4.354
+  },
+  {
+    "text": "and its charge will normally easily\ncome into balance with that region.",
+    "start": 269.955,
+    "duration": 3.776
+  },
+  {
+    "text": "But as it approaches the Sun,",
+    "start": 273.756,
+    "duration": 1.944
+  },
+  {
+    "text": "the nucleus moves at a furious speed through\nregions of increasing charge density",
+    "start": 275.725,
+    "duration": 4.843
+  },
+  {
+    "text": "and varying electrical characteristics.",
+    "start": 280.569,
+    "duration": 2.549
+  },
+  {
+    "text": "The comet's surface charge and internal\npolarization developed in deep space",
+    "start": 283.143,
+    "duration": 4.952
+  },
+  {
+    "text": "respond to the new environment\nby forming cathode jets",
+    "start": 288.12,
+    "duration": 3.492
+  },
+  {
+    "text": "and a visible plasma\nsheath or coma.",
+    "start": 291.637,
+    "duration": 2.732
+  },
+  {
+    "text": "The jets flare up and the comet may\nshed and grow anew several tails.",
+    "start": 294.37,
+    "duration": 5.052
+  },
+  {
+    "text": "In fact, the negative charge\nin Comet McNaught's ion tail",
+    "start": 299.447,
+    "duration": 3.81
+  },
+  {
+    "text": "would have attracted\nsolar wind protons,",
+    "start": 303.282,
+    "duration": 2.599
+  },
+  {
+    "text": "the obvious explanation for the deceleration\nof the solar wind as it met the comet.",
+    "start": 305.906,
+    "duration": 5.526
+  },
+  {
+    "text": "Comets can also suddenly brighten\nwhen moving away from the Sun",
+    "start": 311.457,
+    "duration": 3.996
+  },
+  {
+    "text": "or even explode when moving through any sudden\ndramatic change of electrical potential",
+    "start": 315.478,
+    "duration": 5.131
+  },
+  {
+    "text": "such as when encountering a CME from the\nSun or even the magnetosphere of a planet.",
+    "start": 320.634,
+    "duration": 5.375
+  },
+  {
+    "text": "In fact, on two occasions\nin modern times,",
+    "start": 326.034,
+    "duration": 2.782
+  },
+  {
+    "text": "when astronomers have been able to anticipate\na comet's close encounter with a planet,",
+    "start": 328.841,
+    "duration": 4.437
+  },
+  {
+    "text": "Shoemaker Levy 9 at Jupiter in 1994\nand Siding Spring at Mars in 2014,",
+    "start": 333.279,
+    "duration": 6.249
+  },
+  {
+    "text": "the electromagnetic effects produced by\nthe encounters were vastly more energetic",
+    "start": 339.553,
+    "duration": 5.306
+  },
+  {
+    "text": "than anything comet scientists\nhad thought possible.",
+    "start": 344.86,
+    "duration": 3.319
+  },
+  {
+    "text": "Comet jets may be the clearest example of\nelectrical discharge we've observed on a comet.",
+    "start": 348.18,
+    "duration": 5.783
+  },
+  {
+    "text": "Standard comet theory has failed\ncompletely to predict or explain",
+    "start": 353.988,
+    "duration": 4.55
+  },
+  {
+    "text": "the actual form and behaviors of the\ncollimated jets of dust and gas",
+    "start": 358.563,
+    "duration": 4.415
+  },
+  {
+    "text": "seen exploding off of comets.",
+    "start": 363.003,
+    "duration": 2.082
+  },
+  {
+    "text": "This problem confronted scientists\non NASA's Stardust mission",
+    "start": 365.11,
+    "duration": 3.836
+  },
+  {
+    "text": "when its spacecraft\napproached the comet Wild 2.",
+    "start": 368.971,
+    "duration": 3.04
+  },
+  {
+    "text": "An official NASA report describes\nthe conundrum as follows,",
+    "start": 372.036,
+    "duration": 3.938
+  },
+  {
+    "text": "\"The team predicted the jets would\nshoot up for a short distance,",
+    "start": 375.999,
+    "duration": 3.689
+  },
+  {
+    "text": "and then be dispersed into\na halo around Wild 2.",
+    "start": 379.689,
+    "duration": 3.318
+  },
+  {
+    "text": "Instead, some super-speedy\njets remained intact,",
+    "start": 383.032,
+    "duration": 3.971
+  },
+  {
+    "text": "like blasts of water from\na powerful garden hose.\"",
+    "start": 387.028,
+    "duration": 3.785
+  },
+  {
+    "text": "An obvious problem is, the comparison of\ncomet jets to the blasts of a garden hose",
+    "start": 390.838,
+    "duration": 5.391
+  },
+  {
+    "text": "is completely inappropriate.",
+    "start": 396.254,
+    "duration": 1.846
+  },
+  {
+    "text": "In the so called vacuum of space,\nwhat mechanism collimates the jets",
+    "start": 398.125,
+    "duration": 5.141
+  },
+  {
+    "text": "causing them to not disperse as\ncomet scientists had predicted?",
+    "start": 403.291,
+    "duration": 3.907
+  },
+  {
+    "text": "An ad hoc theory some comet\nscientists have proposed",
+    "start": 407.223,
+    "duration": 3.662
+  },
+  {
+    "text": "is that so-called apertures or\nnozzles on the comet nucleus",
+    "start": 410.91,
+    "duration": 3.639
+  },
+  {
+    "text": "act as the \"hose\" through which the\njet passes preventing its dispersal.",
+    "start": 414.574,
+    "duration": 5.209
+  },
+  {
+    "text": "However, such features\nremain elusive.",
+    "start": 419.808,
+    "duration": 3.387
+  },
+  {
+    "text": "This is acknowledged in the\n2012 scientific paper",
+    "start": 423.22,
+    "duration": 3.502
+  },
+  {
+    "text": "'Cometary Jet Collimation\nWithout Physical Confinement'",
+    "start": 426.747,
+    "duration": 3.471
+  },
+  {
+    "text": "which states,",
+    "start": 430.243,
+    "duration": 1.034
+  },
+  {
+    "text": "\"Contemporary models postulate\nthat these jets collimate",
+    "start": 431.302,
+    "duration": 3.371
+  },
+  {
+    "text": "when the expanding gases and dust pass\nthrough a physical aperture or nozzle.",
+    "start": 434.698,
+    "duration": 4.539
+  },
+  {
+    "text": "However, recent high-resolution\nspacecraft observations",
+    "start": 439.238,
+    "duration": 4.07
+  },
+  {
+    "text": "fail to detect such apertures\non cometary surfaces.",
+    "start": 443.333,
+    "duration": 3.704
+  },
+  {
+    "text": "Recent high-resolution images of comet\nnuclei revealed that the gas and dust",
+    "start": 447.062,
+    "duration": 4.621
+  },
+  {
+    "text": "expelled by the comet is organized\ninto narrow plumes or jets...\"",
+    "start": 451.708,
+    "duration": 4.435
+  },
+  {
+    "text": "\"Furthermore, these models do\nnot explain why cometary jets",
+    "start": 456.168,
+    "duration": 3.83
+  },
+  {
+    "text": "appear to be directed normal to the\nlocal gravitational potential.",
+    "start": 459.999,
+    "duration": 3.891
+  },
+  {
+    "text": "This is especially puzzling\nbecause the jet velocity,",
+    "start": 463.915,
+    "duration": 3.307
+  },
+  {
+    "text": "typically 300 m/sec\nfar from the comet,",
+    "start": 467.247,
+    "duration": 3.275
+  },
+  {
+    "text": "greatly exceeds the escape\nvelocity of only about 1 m/sec.\"",
+    "start": 470.547,
+    "duration": 4.798
+  },
+  {
+    "text": "In stark contrast, more\nthan a century ago,",
+    "start": 475.37,
+    "duration": 3.54
+  },
+  {
+    "text": "one of the pioneers of\nelectrical experimentalism,",
+    "start": 478.935,
+    "duration": 3.05
+  },
+  {
+    "text": "the Norwegian physicist\nKristian Birkeland",
+    "start": 482.01,
+    "duration": 2.461
+  },
+  {
+    "text": "successfully emulated cometary jets\nfrom a cathode in a vacuum tube.",
+    "start": 484.496,
+    "duration": 4.856
+  },
+  {
+    "text": "Birkeland wrote,",
+    "start": 489.377,
+    "duration": 1.396
+  },
+  {
+    "text": "\"From a cathode of graphite there\ncame long, steady pencils of light,",
+    "start": 490.798,
+    "duration": 4.249
+  },
+  {
+    "text": "which greatly resembled the so-called\neruptions or jets in comets.\"",
+    "start": 495.072,
+    "duration": 4.878
+  },
+  {
+    "text": "And today, the experimental approach\nto the Electric Universe continues,",
+    "start": 499.975,
+    "duration": 4.876
+  },
+  {
+    "text": "as we see in this home experiment by\nThunderbolts colleague Jacob Gable",
+    "start": 504.876,
+    "duration": 4.05
+  },
+  {
+    "text": "who stunningly emulates\ncometary jets of gas and dust",
+    "start": 508.951,
+    "duration": 3.656
+  },
+  {
+    "text": "through simple electrical discharge\nin a makeshift vacuum chamber.",
+    "start": 512.632,
+    "duration": 4.311
+  },
+  {
+    "text": "The comet remains one of the most significant\ncelestial objects for scientific investigation",
+    "start": 516.968,
+    "duration": 5.673
+  },
+  {
+    "text": "and it remains one of\nthe clearest evidences",
+    "start": 522.666,
+    "duration": 2.892
+  },
+  {
+    "text": "that we live in an\nElectric Universe.",
+    "start": 525.583,
+    "duration": 3.173
+  }
+]

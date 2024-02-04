@@ -1,0 +1,1152 @@
+[
+    {
+        "text": "I want to start by asking your question",
+        "start": 13.28,
+        "duration": 8.85
+    },
+    {
+        "text": "how can liquids behave like an ionized",
+        "start": 17.83,
+        "duration": 9.91
+    },
+    {
+        "text": "gas plasma okay the answer I think is",
+        "start": 22.13,
+        "duration": 7.469
+    },
+    {
+        "text": "the plasma behavior depends on the",
+        "start": 27.74,
+        "duration": 3.96
+    },
+    {
+        "text": "motion of charged particles which are",
+        "start": 29.599,
+        "duration": 3.601
+    },
+    {
+        "text": "free to move in response to",
+        "start": 31.7,
+        "duration": 4.74
+    },
+    {
+        "text": "electromagnetic forces so if the liquid",
+        "start": 33.2,
+        "duration": 6.15
+    },
+    {
+        "text": "is partially ionized than the charged",
+        "start": 36.44,
+        "duration": 4.889
+    },
+    {
+        "text": "particles in the liquid ought to",
+        "start": 39.35,
+        "duration": 4.47
+    },
+    {
+        "text": "experience similar forces and the liquid",
+        "start": 41.329,
+        "duration": 5.311
+    },
+    {
+        "text": "will behaviors sort of similarly to the",
+        "start": 43.82,
+        "duration": 6.66
+    },
+    {
+        "text": "ionized particles in the gas so what",
+        "start": 46.64,
+        "duration": 5.039
+    },
+    {
+        "text": "we're going to do is to look at three",
+        "start": 50.48,
+        "duration": 3.39
+    },
+    {
+        "text": "examples of partially ionized liquids",
+        "start": 51.679,
+        "duration": 4.921
+    },
+    {
+        "text": "and compare their behavior to plasma",
+        "start": 53.87,
+        "duration": 6.18
+    },
+    {
+        "text": "behavior in space so the structure of",
+        "start": 56.6,
+        "duration": 5.189
+    },
+    {
+        "text": "the talk first of all we'll examine the",
+        "start": 60.05,
+        "duration": 3.899
+    },
+    {
+        "text": "floating water bridge excuse me",
+        "start": 61.789,
+        "duration": 4.561
+    },
+    {
+        "text": "and the various attempts to explain it",
+        "start": 63.949,
+        "duration": 5.701
+    },
+    {
+        "text": "without using plasma behavior then we'll",
+        "start": 66.35,
+        "duration": 5.22
+    },
+    {
+        "text": "compare it to the way plasma behaves in",
+        "start": 69.65,
+        "duration": 4.53
+    },
+    {
+        "text": "space we'll find that some of the",
+        "start": 71.57,
+        "duration": 4.62
+    },
+    {
+        "text": "puzzling features of the floating water",
+        "start": 74.18,
+        "duration": 4.439
+    },
+    {
+        "text": "bridge can be explained by using plasma",
+        "start": 76.19,
+        "duration": 5.94
+    },
+    {
+        "text": "behavior and the second half of the talk",
+        "start": 78.619,
+        "duration": 5.79
+    },
+    {
+        "text": "will then use the same plasma behavior",
+        "start": 82.13,
+        "duration": 5.04
+    },
+    {
+        "text": "and professor Pollux easy layers in",
+        "start": 84.409,
+        "duration": 6.301
+    },
+    {
+        "text": "water to offer an explanation of unusual",
+        "start": 87.17,
+        "duration": 6.269
+    },
+    {
+        "text": "fluid flows in plant roots and blood",
+        "start": 90.71,
+        "duration": 6.089
+    },
+    {
+        "text": "vessels so we're starting off with a",
+        "start": 93.439,
+        "duration": 4.951
+    },
+    {
+        "text": "floating water bridge now you've already",
+        "start": 96.799,
+        "duration": 3.39
+    },
+    {
+        "text": "seen this a couple of times already",
+        "start": 98.39,
+        "duration": 4.5
+    },
+    {
+        "text": "courtesy of Professor and Elmer",
+        "start": 100.189,
+        "duration": 6.36
+    },
+    {
+        "text": "Fuchs who made the film so the floating",
+        "start": 102.89,
+        "duration": 5.969
+    },
+    {
+        "text": "water bridge forms between two beakers",
+        "start": 106.549,
+        "duration": 5.191
+    },
+    {
+        "text": "of pure water when a large potential",
+        "start": 108.859,
+        "duration": 5.491
+    },
+    {
+        "text": "difference of about 15 thousand volts or",
+        "start": 111.74,
+        "duration": 5.669
+    },
+    {
+        "text": "above is applied between them and here",
+        "start": 114.35,
+        "duration": 5.299
+    },
+    {
+        "text": "you can see two features of the bridge",
+        "start": 117.409,
+        "duration": 4.621
+    },
+    {
+        "text": "there's a nearly cylindrical tube of",
+        "start": 119.649,
+        "duration": 4.601
+    },
+    {
+        "text": "water 1 to 2 millimeters in diameter",
+        "start": 122.03,
+        "duration": 5.67
+    },
+    {
+        "text": "between the beakers and the tube can be",
+        "start": 124.25,
+        "duration": 5.429
+    },
+    {
+        "text": "stretched up to about 25 millimeters",
+        "start": 127.7,
+        "duration": 4.98
+    },
+    {
+        "text": "long and the bridge is like a tightrope",
+        "start": 129.679,
+        "duration": 5.521
+    },
+    {
+        "text": "it doesn't sag as you would expect it to",
+        "start": 132.68,
+        "duration": 4.71
+    },
+    {
+        "text": "under its own weight even when it's",
+        "start": 135.2,
+        "duration": 6.0
+    },
+    {
+        "text": "stretched out to 25 millimeters now this",
+        "start": 137.39,
+        "duration": 6.45
+    },
+    {
+        "text": "film also by Elmer Fuchs shows that the",
+        "start": 141.2,
+        "duration": 4.38
+    },
+    {
+        "text": "water is rotating",
+        "start": 143.84,
+        "duration": 4.02
+    },
+    {
+        "text": "the films in slow motion because the",
+        "start": 145.58,
+        "duration": 3.93
+    },
+    {
+        "text": "rotation is actually too fast to see",
+        "start": 147.86,
+        "duration": 4.71
+    },
+    {
+        "text": "with a naked eye so folks have shown",
+        "start": 149.51,
+        "duration": 5.01
+    },
+    {
+        "text": "that water in the bridge is separated",
+        "start": 152.57,
+        "duration": 5.55
+    },
+    {
+        "text": "into an annulus and an inner core and",
+        "start": 154.52,
+        "duration": 6.36
+    },
+    {
+        "text": "the circular annulus is the part that's",
+        "start": 158.12,
+        "duration": 6.57
+    },
+    {
+        "text": "rotating in laser light shown in from",
+        "start": 160.88,
+        "duration": 4.89
+    },
+    {
+        "text": "the end of the bridge",
+        "start": 164.69,
+        "duration": 4.26
+    },
+    {
+        "text": "you can see that the light is curving",
+        "start": 165.77,
+        "duration": 5.49
+    },
+    {
+        "text": "around the rotating annulus part and",
+        "start": 168.95,
+        "duration": 4.23
+    },
+    {
+        "text": "avoiding the core in the middle so it",
+        "start": 171.26,
+        "duration": 3.72
+    },
+    {
+        "text": "gives you some indication of that shape",
+        "start": 173.18,
+        "duration": 5.13
+    },
+    {
+        "text": "I'm talking about now folks also found",
+        "start": 174.98,
+        "duration": 5.25
+    },
+    {
+        "text": "that the annulus and core each carry",
+        "start": 178.31,
+        "duration": 4.35
+    },
+    {
+        "text": "water along the bridge but in opposite",
+        "start": 180.23,
+        "duration": 4.98
+    },
+    {
+        "text": "directions so that's quite extraordinary",
+        "start": 182.66,
+        "duration": 4.71
+    },
+    {
+        "text": "really water is flowing in both",
+        "start": 185.21,
+        "duration": 7.29
+    },
+    {
+        "text": "directions at the same time now not only",
+        "start": 187.37,
+        "duration": 7.26
+    },
+    {
+        "text": "water earth but charge flows across the",
+        "start": 192.5,
+        "duration": 5.82
+    },
+    {
+        "text": "bridge as well now charge flowing in",
+        "start": 194.63,
+        "duration": 5.55
+    },
+    {
+        "text": "opposite directions is an electric",
+        "start": 198.32,
+        "duration": 5.37
+    },
+    {
+        "text": "current by using pH dyes fuchs has shown",
+        "start": 200.18,
+        "duration": 5.43
+    },
+    {
+        "text": "that the bridge transports charge or",
+        "start": 203.69,
+        "duration": 3.87
+    },
+    {
+        "text": "current from one beaker to the other and",
+        "start": 205.61,
+        "duration": 4.59
+    },
+    {
+        "text": "here we can see charge regions adjacent",
+        "start": 207.56,
+        "duration": 5.179
+    },
+    {
+        "text": "to the terminals boiling off as it were",
+        "start": 210.2,
+        "duration": 6.66
+    },
+    {
+        "text": "charged during an experiment and at the",
+        "start": 212.739,
+        "duration": 6.041
+    },
+    {
+        "text": "end of the experiment you can see the",
+        "start": 216.86,
+        "duration": 5.46
+    },
+    {
+        "text": "difference in pH and the Meekers now",
+        "start": 218.78,
+        "duration": 6.06
+    },
+    {
+        "text": "Armstrong back in 1893 who is the guy",
+        "start": 222.32,
+        "duration": 4.32
+    },
+    {
+        "text": "who first discovered the floating water",
+        "start": 224.84,
+        "duration": 3.96
+    },
+    {
+        "text": "bridge the experiment was in for Kaufman",
+        "start": 226.64,
+        "duration": 4.65
+    },
+    {
+        "text": "for about a hundred years Armstrong",
+        "start": 228.8,
+        "duration": 4.29
+    },
+    {
+        "text": "found that the annulus is positively",
+        "start": 231.29,
+        "duration": 5.07
+    },
+    {
+        "text": "charged and the core is negative so",
+        "start": 233.09,
+        "duration": 4.92
+    },
+    {
+        "text": "there we can see how we can get a",
+        "start": 236.36,
+        "duration": 4.64
+    },
+    {
+        "text": "current flowing across the bridge",
+        "start": 238.01,
+        "duration": 5.28
+    },
+    {
+        "text": "positive charge in one direction and",
+        "start": 241.0,
+        "duration": 3.7
+    },
+    {
+        "text": "negative charge in the other is",
+        "start": 243.29,
+        "duration": 4.699
+    },
+    {
+        "text": "equivalent to a current in one direction",
+        "start": 244.7,
+        "duration": 7.05
+    },
+    {
+        "text": "so to summarize a floating water bridge",
+        "start": 247.989,
+        "duration": 6.401
+    },
+    {
+        "text": "is a stiff cylindrical tube with an",
+        "start": 251.75,
+        "duration": 5.94
+    },
+    {
+        "text": "annulus and call structure there's",
+        "start": 254.39,
+        "duration": 5.73
+    },
+    {
+        "text": "simultaneous bi-directional flow of",
+        "start": 257.69,
+        "duration": 5.19
+    },
+    {
+        "text": "water and charge across the bridge and",
+        "start": 260.12,
+        "duration": 5.73
+    },
+    {
+        "text": "the annulus is rotating very fast around",
+        "start": 262.88,
+        "duration": 6.39
+    },
+    {
+        "text": "the core what's more the annulus is",
+        "start": 265.85,
+        "duration": 8.04
+    },
+    {
+        "text": "positive and the core is negative so",
+        "start": 269.27,
+        "duration": 5.54
+    },
+    {
+        "text": "researchers",
+        "start": 273.89,
+        "duration": 2.51
+    },
+    {
+        "text": "approached the analysis of the floating",
+        "start": 274.81,
+        "duration": 3.359
+    },
+    {
+        "text": "water bridge from both the classical and",
+        "start": 276.4,
+        "duration": 5.13
+    },
+    {
+        "text": "the quantum directions the principle of",
+        "start": 278.169,
+        "duration": 5.521
+    },
+    {
+        "text": "the classic EHD approach is that",
+        "start": 281.53,
+        "duration": 4.38
+    },
+    {
+        "text": "electric stress causes the axial tension",
+        "start": 283.69,
+        "duration": 3.38
+    },
+    {
+        "text": "in the bridge",
+        "start": 285.91,
+        "duration": 3.66
+    },
+    {
+        "text": "according to Taylor electrodynamic",
+        "start": 287.07,
+        "duration": 4.87
+    },
+    {
+        "text": "currents are assumed to be so small that",
+        "start": 289.57,
+        "duration": 5.93
+    },
+    {
+        "text": "magnetic induction effect can be ignored",
+        "start": 291.94,
+        "duration": 6.21
+    },
+    {
+        "text": "Bertram and Sowell expanded on Taylor's",
+        "start": 295.5,
+        "duration": 4.75
+    },
+    {
+        "text": "analysis but without achieving complete",
+        "start": 298.15,
+        "duration": 5.1
+    },
+    {
+        "text": "success they stated although the",
+        "start": 300.25,
+        "duration": 4.95
+    },
+    {
+        "text": "quantitative agreement between theory",
+        "start": 303.25,
+        "duration": 4.02
+    },
+    {
+        "text": "and experiment is not as close as one",
+        "start": 305.2,
+        "duration": 5.1
+    },
+    {
+        "text": "might like using surface transport as an",
+        "start": 307.27,
+        "duration": 4.649
+    },
+    {
+        "text": "adjustable parameter it brings them into",
+        "start": 310.3,
+        "duration": 2.28
+    },
+    {
+        "text": "agreement",
+        "start": 311.919,
+        "duration": 3.301
+    },
+    {
+        "text": "sounds great isn't it but the problem",
+        "start": 312.58,
+        "duration": 3.809
+    },
+    {
+        "text": "with that is that the adjustable",
+        "start": 315.22,
+        "duration": 3.48
+    },
+    {
+        "text": "parameter is completely arbitrary its",
+        "start": 316.389,
+        "duration": 4.771
+    },
+    {
+        "text": "values chosen to make the equations work",
+        "start": 318.7,
+        "duration": 5.43
+    },
+    {
+        "text": "it's not a measured value from the",
+        "start": 321.16,
+        "duration": 4.74
+    },
+    {
+        "text": "experiment well of course you can make",
+        "start": 324.13,
+        "duration": 3.33
+    },
+    {
+        "text": "it work if you can choose any value you",
+        "start": 325.9,
+        "duration": 4.01
+    },
+    {
+        "text": "like so there's something missing",
+        "start": 327.46,
+        "duration": 4.89
+    },
+    {
+        "text": "why'd Amana lies the water bridge in",
+        "start": 329.91,
+        "duration": 4.42
+    },
+    {
+        "text": "terms of the Maxwell pressure pencil in",
+        "start": 332.35,
+        "duration": 5.46
+    },
+    {
+        "text": "a dielectric fluid he assumed deionized",
+        "start": 334.33,
+        "duration": 5.25
+    },
+    {
+        "text": "water throughout because the need for",
+        "start": 337.81,
+        "duration": 4.59
+    },
+    {
+        "text": "deionized water is evidently necessary",
+        "start": 339.58,
+        "duration": 4.77
+    },
+    {
+        "text": "to prevent conductivity effects from",
+        "start": 342.4,
+        "duration": 3.75
+    },
+    {
+        "text": "masking the insulating dielectric",
+        "start": 344.35,
+        "duration": 3.96
+    },
+    {
+        "text": "effects in other words his analysis only",
+        "start": 346.15,
+        "duration": 4.29
+    },
+    {
+        "text": "worked with a dielectric but the",
+        "start": 348.31,
+        "duration": 3.87
+    },
+    {
+        "text": "presence of charge and the beakers after",
+        "start": 350.44,
+        "duration": 3.75
+    },
+    {
+        "text": "an experiment shows that the water does",
+        "start": 352.18,
+        "duration": 4.77
+    },
+    {
+        "text": "become partially ionized this obviously",
+        "start": 354.19,
+        "duration": 6.86
+    },
+    {
+        "text": "casts doubt on widens analysis",
+        "start": 356.95,
+        "duration": 4.1
+    },
+    {
+        "text": "you",
+        "start": 366.74,
+        "duration": 2.06
+    },
+    {
+        "text": "so what's missing what's missing from",
+        "start": 370.449,
+        "duration": 5.561
+    },
+    {
+        "text": "the LRC's is that they don't account for",
+        "start": 373.94,
+        "duration": 4.32
+    },
+    {
+        "text": "the annulus and course structure all the",
+        "start": 376.01,
+        "duration": 4.98
+    },
+    {
+        "text": "bi-directional flow or the fast rotation",
+        "start": 378.26,
+        "duration": 5.85
+    },
+    {
+        "text": "of the annulus now I suggest that these",
+        "start": 380.99,
+        "duration": 5.31
+    },
+    {
+        "text": "may introduce additional electromagnetic",
+        "start": 384.11,
+        "duration": 3.96
+    },
+    {
+        "text": "effects which haven't been taken into",
+        "start": 386.3,
+        "duration": 3.839
+    },
+    {
+        "text": "account because as we know the water is",
+        "start": 388.07,
+        "duration": 4.71
+    },
+    {
+        "text": "charged will therefore compare the",
+        "start": 390.139,
+        "duration": 3.961
+    },
+    {
+        "text": "floating water bridge with another",
+        "start": 392.78,
+        "duration": 3.03
+    },
+    {
+        "text": "filamentary structure in which an",
+        "start": 394.1,
+        "duration": 3.78
+    },
+    {
+        "text": "electromagnetic effects dominate the",
+        "start": 395.81,
+        "duration": 5.7
+    },
+    {
+        "text": "behavior here's a picture of plasma",
+        "start": 397.88,
+        "duration": 10.8
+    },
+    {
+        "text": "behavior in space now Rogoff and others",
+        "start": 401.51,
+        "duration": 9.96
+    },
+    {
+        "text": "have described plasma as the fourth",
+        "start": 408.68,
+        "duration": 5.459
+    },
+    {
+        "text": "state of matter the other three of",
+        "start": 411.47,
+        "duration": 5.36
+    },
+    {
+        "text": "course are solids liquids and gases",
+        "start": 414.139,
+        "duration": 5.371
+    },
+    {
+        "text": "plasmas are estimated to constitute over",
+        "start": 416.83,
+        "duration": 6.88
+    },
+    {
+        "text": "99% of the visible universe and plasma",
+        "start": 419.51,
+        "duration": 6.69
+    },
+    {
+        "text": "as you all know is often described as an",
+        "start": 423.71,
+        "duration": 5.55
+    },
+    {
+        "text": "ionized gas but as Alphen said whilst",
+        "start": 426.2,
+        "duration": 5.249
+    },
+    {
+        "text": "this is technically true it doesn't",
+        "start": 429.26,
+        "duration": 4.35
+    },
+    {
+        "text": "reflect the complexity of the behavior",
+        "start": 431.449,
+        "duration": 4.28
+    },
+    {
+        "text": "of plasma under the influence of",
+        "start": 433.61,
+        "duration": 5.13
+    },
+    {
+        "text": "electromagnetic forces normal gases",
+        "start": 435.729,
+        "duration": 6.211
+    },
+    {
+        "text": "simply can't do what a plasma does",
+        "start": 438.74,
+        "duration": 6.33
+    },
+    {
+        "text": "plasma can transmit an electric current",
+        "start": 441.94,
+        "duration": 5.92
+    },
+    {
+        "text": "in a defined filament without affecting",
+        "start": 445.07,
+        "duration": 5.01
+    },
+    {
+        "text": "the surrounding plasma as we see here in",
+        "start": 447.86,
+        "duration": 5.79
+    },
+    {
+        "text": "the Cygnus loop the plasma rearranges",
+        "start": 450.08,
+        "duration": 5.7
+    },
+    {
+        "text": "itself to form what is effectively an",
+        "start": 453.65,
+        "duration": 4.68
+    },
+    {
+        "text": "insulated cable around the current path",
+        "start": 455.78,
+        "duration": 5.069
+    },
+    {
+        "text": "and so the bulk plasma the rest of the",
+        "start": 458.33,
+        "duration": 5.37
+    },
+    {
+        "text": "plasma in space isn't affected and the",
+        "start": 460.849,
+        "duration": 4.32
+    },
+    {
+        "text": "way it does this is by forming a",
+        "start": 463.7,
+        "duration": 4.32
+    },
+    {
+        "text": "rotating cylinder of adjacent layers of",
+        "start": 465.169,
+        "duration": 4.861
+    },
+    {
+        "text": "positive and negative charge on the",
+        "start": 468.02,
+        "duration": 4.89
+    },
+    {
+        "text": "outside of the current this filamentary",
+        "start": 470.03,
+        "duration": 4.62
+    },
+    {
+        "text": "arrangement is known as a berkland",
+        "start": 472.91,
+        "duration": 5.49
+    },
+    {
+        "text": "current now the behavior of the berkland",
+        "start": 474.65,
+        "duration": 5.16
+    },
+    {
+        "text": "current is governed by Maxwell's",
+        "start": 478.4,
+        "duration": 3.03
+    },
+    {
+        "text": "equations of the Lorentz force law",
+        "start": 479.81,
+        "duration": 3.51
+    },
+    {
+        "text": "applied to the individual charged",
+        "start": 481.43,
+        "duration": 4.68
+    },
+    {
+        "text": "particles in the filament essentially",
+        "start": 483.32,
+        "duration": 4.65
+    },
+    {
+        "text": "each and every particle has to follow",
+        "start": 486.11,
+        "duration": 4.98
+    },
+    {
+        "text": "the magnetic field lines where it is but",
+        "start": 487.97,
+        "duration": 5.85
+    },
+    {
+        "text": "it also by moving it modifies the same",
+        "start": 491.09,
+        "duration": 5.699
+    },
+    {
+        "text": "magnetic field lines so according to",
+        "start": 493.82,
+        "duration": 5.37
+    },
+    {
+        "text": "both alpha and peratt's the net result",
+        "start": 496.789,
+        "duration": 3.231
+    },
+    {
+        "text": "of this",
+        "start": 499.19,
+        "duration": 3.229
+    },
+    {
+        "text": "interaction is a result is a spiraling",
+        "start": 500.02,
+        "duration": 4.56
+    },
+    {
+        "text": "filamentary pattern in which the",
+        "start": 502.419,
+        "duration": 3.75
+    },
+    {
+        "text": "circularity of the paths of the",
+        "start": 504.58,
+        "duration": 3.75
+    },
+    {
+        "text": "particles is dependent on their radial",
+        "start": 506.169,
+        "duration": 4.891
+    },
+    {
+        "text": "distance from the central axis of the",
+        "start": 508.33,
+        "duration": 4.86
+    },
+    {
+        "text": "filament so here you can see a diagram",
+        "start": 511.06,
+        "duration": 5.25
+    },
+    {
+        "text": "with three examples chosen at random the",
+        "start": 513.19,
+        "duration": 5.25
+    },
+    {
+        "text": "further you are from the centre of the",
+        "start": 516.31,
+        "duration": 6.089
+    },
+    {
+        "text": "current the more rate more circular the",
+        "start": 518.44,
+        "duration": 6.12
+    },
+    {
+        "text": "path you have to follow so strongly",
+        "start": 522.399,
+        "duration": 6.301
+    },
+    {
+        "text": "helical and the outside layers so the",
+        "start": 524.56,
+        "duration": 5.79
+    },
+    {
+        "text": "charged particles always follow the",
+        "start": 528.7,
+        "duration": 3.57
+    },
+    {
+        "text": "magnetic field line direction at their",
+        "start": 530.35,
+        "duration": 3.69
+    },
+    {
+        "text": "location and this explains the",
+        "start": 532.27,
+        "duration": 3.21
+    },
+    {
+        "text": "alternative name for a birth length",
+        "start": 534.04,
+        "duration": 4.44
+    },
+    {
+        "text": "current as a field aligned current the",
+        "start": 535.48,
+        "duration": 5.01
+    },
+    {
+        "text": "field aligned direction is the most",
+        "start": 538.48,
+        "duration": 3.84
+    },
+    {
+        "text": "efficient direction for current to",
+        "start": 540.49,
+        "duration": 3.96
+    },
+    {
+        "text": "traveling through a magnetic field and",
+        "start": 542.32,
+        "duration": 3.889
+    },
+    {
+        "text": "that's because the Lorentz force law",
+        "start": 544.45,
+        "duration": 4.259
+    },
+    {
+        "text": "effectively imposes an electrical",
+        "start": 546.209,
+        "duration": 5.411
+    },
+    {
+        "text": "resistance on motion transverse to the",
+        "start": 548.709,
+        "duration": 5.25
+    },
+    {
+        "text": "magnetic field that means the resistance",
+        "start": 551.62,
+        "duration": 4.68
+    },
+    {
+        "text": "is lowest in the direction parallel to",
+        "start": 553.959,
+        "duration": 5.19
+    },
+    {
+        "text": "the magnetic field therefore the current",
+        "start": 556.3,
+        "duration": 5.19
+    },
+    {
+        "text": "is in a fourth free configuration when",
+        "start": 559.149,
+        "duration": 5.88
+    },
+    {
+        "text": "it's field line one other effects",
+        "start": 561.49,
+        "duration": 6.0
+    },
+    {
+        "text": "important here the outer paths are",
+        "start": 565.029,
+        "duration": 4.591
+    },
+    {
+        "text": "strongly helical and that means that the",
+        "start": 567.49,
+        "duration": 3.839
+    },
+    {
+        "text": "outer layers are rotating around the",
+        "start": 569.62,
+        "duration": 3.9
+    },
+    {
+        "text": "axis of the filament and that in turn",
+        "start": 571.329,
+        "duration": 4.471
+    },
+    {
+        "text": "generates more electromagnetic forces",
+        "start": 573.52,
+        "duration": 4.59
+    },
+    {
+        "text": "and they are an essential part of the",
+        "start": 575.8,
+        "duration": 6.75
+    },
+    {
+        "text": "stability of the berkland current so the",
+        "start": 578.11,
+        "duration": 6.66
+    },
+    {
+        "text": "summarized berkland current plasma",
+        "start": 582.55,
+        "duration": 3.9
+    },
+    {
+        "text": "behavior means that a berkland current",
+        "start": 584.77,
+        "duration": 3.39
+    },
+    {
+        "text": "has a form of annulus and called",
+        "start": 586.45,
+        "duration": 4.53
+    },
+    {
+        "text": "structure it has bi-directional flows",
+        "start": 588.16,
+        "duration": 5.82
+    },
+    {
+        "text": "because of current of opposite charge",
+        "start": 590.98,
+        "duration": 5.64
+    },
+    {
+        "text": "particles and it also has rotation of",
+        "start": 593.98,
+        "duration": 4.95
+    },
+    {
+        "text": "the outer layer that sounds a bit like",
+        "start": 596.62,
+        "duration": 3.839
+    },
+    {
+        "text": "the missing bits of the floating water",
+        "start": 598.93,
+        "duration": 3.98
+    },
+    {
+        "text": "region now",
+        "start": 600.459,
+        "duration": 2.451
+    }
+]

@@ -1,0 +1,1364 @@
+It's always a pleasure
+to be here and to see
+so many new faces and I wouldn't say
+old faces but longtime friends.
+Well, let's see.
+Last year I described
+for you a model,
+mathematical model of
+the Birkeland current,
+the cross-section of
+the Birkeland current
+and what it looks like, how
+it counter-rotates inside
+and how it manages to go from
+the Sun to the Earth, to Saturn
+and create the auroras
+on those planets..
+And I thought maybe this year
+we take a look at the other end,
+not the Aurora but the Sun end
+and talk a little bit
+about the solar wind
+because Birkeland, when he came up with the
+idea of what the auroras were caused by,
+said they were corpuscles,
+electrical corpuscles that were
+coming from the Sun to the Earth.
+Of course he was laughed
+at severely for that
+but we now know
+that that is true.
+And astronomers, instead of calling it the
+Birkeland wind or giving him credit for it,
+they just call it
+the solar wind.
+So it's a bunch of, essentially,
+protons and electrons that
+come off the Sun
+in steady-state.
+Now I'm not talking about, of course,
+CMEs, coronal mass ejections or flares
+or any of the transient phenomena
+that happened but the steady-state
+DC as Ben would say, currents that are
+coming from the Sun as a normal thing.
+One might ask why the
+solar wind is important
+and I think that Ben has
+done a very good job
+of talking about why it's important that
+we know what's coming off of the Sun.
+It's obviously a stream
+of charged particles
+that speeds up to about a
+million miles an hour.
+That's moving.
+And before it streams
+past the Earth.
+And disturbances
+in the solar wind
+pump energy into the Earth's
+radiation belts and polar regions.
+Space weather clearly,
+as Ben points out,
+can change the orbit of satellites, shorten
+mission lifetimes, create all sorts of havoc.
+The solar wind distorts the
+Earth's magnetic field
+and this causes current surges in transmission
+lines and pretty much we know this.
+So I'm not going to mention
+those things again.
+What I'm going to talk about, I
+think, I hope, for the first time,
+is some of the lesser known
+properties of the solar wind
+and most importantly how
+well those properties,
+those very subtle properties
+of the solar wind
+fit in exactly with Ralph
+Juergens' electric sun model.
+And so as I've said so many times before
+you can't prove anything in science,
+you can disprove but
+you can't prove it.
+But you can always add
+supporting evidence.
+You can build that wall like the DA tries
+to build a wall of evidence that is
+insurmountable by the defense and
+this is, "no he really killed him".
+This is what we're
+trying to do here
+and that is to build that wall of
+evidence that says, "you betcha!".
+The Sun is electric.
+We don't know whether it's powered
+completely by electricity,
+we think it might be
+but we don't know.
+But one thing we know for certain
+and that is that the effects,
+the major phenomenon that we
+see on the surface of the sun,
+those phenomena are electric and i'd
+like to show you in some detail
+what, why I say that
+and what's going on.
+So there are actually two
+different types of solar winds.
+Perhaps some of you know that.
+And I'd like to explain the
+reasons why these properties
+are quite different
+from each other.
+The standard
+mainstream finds these
+observations to be quote
+"enigmatic" as always.
+They're not enigmatic,
+they're very simple.
+Elegantly simple.
+I'd like to explain how the different
+points of origin on the surface of the sun
+explain those differences between those two
+different types of solar wind that we see.
+One of the things that, by
+the way I should say that
+one of the things i want to
+show you is a short video clip
+that Monty Childs was kind enough to
+lend to me from the SAFIRE project.
+That shows that the things
+that I'm talking about here,
+as far as Juergens
+model is concerned,
+are being repeated here
+on earth in Monty's lab.
+So the Juergens' sun model was
+proposed in the early 70's
+and today I'm trying to propose
+a slight extension to that.
+And this, these proposals
+that I'm trying to make
+are based on Juergens',
+Ralph Juergens' work
+and also on something that I came up with
+and presented 3, 4 years ago called,
+I call it the transistor model
+of the sun because the sun..
+we'll talk about in a minute.
+But sun surface works very analogously
+to the way a PNP transistor works.
+And we'll see that in..
+briefly at least.
+Anyway, again to state the
+obvious, we all probably know
+that the major three layers on
+the Sun that are are important,
+and as you, if you come toward the Sun
+in the order in which you see them,
+would be the corona, the
+chromosphere and the photosphere.
+Now the corona is perhaps the
+most beautiful thing in the sky.
+It is this colorful, it's..
+those are of course the same
+colors that we see in the Aurora.
+And why, because
+it's the same thing.
+It is plasma in the glow mode.
+And it is the same sort of
+stuff, helium, hydrogen..
+mostly hydrogen,
+excited electrically.
+Again, everything I say please ask
+yourself while I'm saying it,
+how does the.. how does the
+standard model explain this?
+The standard model has no explanation for
+why a corona exists in the first place!
+If.. if the Sun is just a nuclear
+furnace like a wood stove..
+My wood stove doesn't
+glow like that!
+And so clearly, everything that we
+observe around the surface of the sun,
+including the corona, is
+electrical in nature.
+Hm.. one other comment
+and that is that
+you can't see anything in the
+night sky that isn't plasma.
+"Oh yeah, I can see the Moon!"
+But of course the moon is reflected
+sunlight and sunlight is plasma.
+The Sun, well all of
+light that we see
+if you look at Jupiter through a
+telescope or Saturn or any other planet,
+you're seeing reflected
+plasma light
+and the, we'll talk about the photosphere and
+where that light comes from in a minute.
+But the corona is pretty big thing,
+it extends out about 3 solar radii.
+If you look at half the
+width of that disk
+and then the 123, it takes you out
+about the corner of that picture.
+And you can see, that's about
+the extent of the corona.
+So it's large.
+The Sun is what, 865 thousand
+kilometers across, something like that?
+The chromosphere, the second layer
+going in, contains these spicules.
+Spicules.. we've all heard,
+you know, the pines of Rome..
+Spicules are the
+fountains of the Sun.
+Not the fountains of Rome.
+But anyway, they have
+certain characteristics.
+The spicules are really
+towering fountains of electrons
+that come up out of the Sun and then
+back into the Sun again immediately
+if our assumption is correct.
+Juergens' assumption that the
+Sun has a positive charge.
+Those electrons once spewed are very
+quickly brought back into the Sun again.
+That's what the spicules are.
+The photosphere is
+where the action is
+and that's what we're going
+to be talking about mostly.
+The, the photosphere
+consists of these things
+that the astronomers called
+photospheric granules.
+More proper name for
+them is anode tufts.
+The anode tufts consist
+of plasma in the arc mode
+and I've heard all
+sorts, even my,
+one of my good friends thinks the Sun
+is liquid hydrogen or something..
+It better be pretty
+hot liquid because
+plasma in the arc mode puts out
+a horrific amount of power.
+And as a matter of fact, but
+I should say this, those
+those granules come and
+go with time, they grow,
+they get bright and they
+shrink and they go away.
+The power put out by the
+Sun is really fantastic.
+That is to say, the the
+radiation from the sun,
+every square inch of the sun's surface
+on average puts out 42,000 wats.
+If you can think of what
+about a square mile..
+That's.. it's not, it's not boiling
+anything, it's arc mode plasma.
+The temperature of those
+granular granules or tufts
+is about 6000 Kelvin,
+which is pretty..
+you wouldn't want to spend your summer
+vacation there but it's in relation to the..
+to the temperature
+of the lower corona,
+which is 2 million Kelvin, it's
+not, it's a medium temperature.
+Anyway, the, there's a
+picture of the granules.
+That's a movie.
+If you look at it very carefully
+you can see it moving.
+It's a real time motion
+picture of the granules.
+If you keep your eye on
+one, especially near the..
+I think that white stuff in the center is
+a bunch of spicules coming up through..
+I don't know, but I think
+that's what it is.
+And you see the they're, they're
+all over the place let's see.
+There's some down here,
+there's some over here,
+up here and of course a
+bunch of them here..
+If you keep your eyes on the
+granules themselves, you see
+them shrinking away to nothing
+and the question is,
+why do they do that?
+Well, there's a typical
+sunspot and you might say,
+well what's a sunspot?
+Sunspots are where the
+photospheric tufts are not.
+It's a region where the
+photospheric tufts don't exist.
+And so there's been a good deal of work
+done on the laboratory on anode tufts
+and we'll talk some about that.
+The main, well, focus, I would say, of
+Juergens' sun model is an anode tuft.
+How does the anode tuft work?
+That's one of the things I'd like
+to spend some time on this morning.
+There is of course the penumbra, that's
+that orange ring that you can see.
+The dark inner area
+is called the umbra
+and the temperatures in the
+umbra have been measured, well,
+just something in
+worth of 3000 Kelvin.
+So the umbra obviously is much
+cooler than the normal spots,
+I'm sory, the normal tufts which are the the
+yellow region around the outside there.
+Anyway, I said that Monty had sent me some
+interesting pictures from from SAFIRE.
+There is one.
+Now the, the purple wine glass
+in the back is not real.
+Monty has not been drinking, that's
+just an aberration of the photograph.
+This was taken
+inside a bell jar.
+And he has managed, he and his team have
+managed to actually create anode tufts.
+The center / bright purple
+thing is a spherical halo,
+it's distorted some by the
+shape of the bell jar.
+It's pretty spherical
+and it's the anode
+and riding on top of that
+anode are anode tufts.
+And so, the major property
+of these anode Tufts
+is that they're made up
+of positive charges.
+And as such, you can think to yourself,
+just basic knowledge of electricity..
+If those things are each one
+a group of positive charges
+then they don't like each other.
+They're going to be
+repelling each other
+and so you see they're quite evenly
+spaced over the surface of the sphere.
+And as you'll see in a minute
+when Monty increases the current
+he increases the number of tufts and he
+increases the brightness of the tufts
+and finally they turn into
+something in the arc mode
+just like we see on the
+surface of the Sun.
+So the, as I said before,
+I think I said before,
+the main basis of the
+of the Juergens model
+is an analysis of those tufts
+so we're going to be thinking of travelling
+in a line, if you can visualize,
+from the purple surface there,
+the surface of the anode,
+up through the tuft and
+then out beyond the tuft.
+And let's think what, what
+would we expect to see there.
+I'll tell you what Juergens expected to
+see there and I think it's exactly what
+Monty is seeing and is going to
+see in the SAFIRE experiment.
+Anyway, Juergens' electric
+sun model and there it is,
+you've seen that picture many times,
+every time I talk, I think I show it.
+It's fairly complicated but let's take
+it one step at a time and I think,
+I think you can see
+what I'm saying.
+The upper one of the three
+graphs there is a plot..
+well on all three of them the
+horizontal axis is the radial distance,
+up from the surface of the sun, up through
+the tuft and out into the corona.
+The top graph plots the
+voltage that you would see
+if you had a voltmeter in your hand and
+could have a ground someplace out in space
+and look at the various, the
+voltage, the voltage varies
+as you come up out of the Sun through the
+tuft and then out the top of the tuft.
+On the left-hand margin of
+the left-hand axis there,
+the vertical axis that's labeled
+energy per unit charge, that's volts.
+Energy, that's what voltage is.
+A positive charge
+has more energy
+if it's at a high voltage then
+if it's at a low-voltage.
+The analogy is, that's the cross-section
+of a mountain and the positive charge,
+the analogy there
+is a tennis ball.
+So suppose you threw a
+tennis ball on top of the..
+I'm sorry didn't I got ahead of myself here,
+no i didn't, I'm sorry, this is fine.
+I'm looking at the next slide.
+I'm cheating on you guys.
+The tennis ball thrown on
+the top of the photosphere,
+well if you throw a
+bunch of them there
+and they begin to have a
+sort of a billiard game
+at the top on that horizontal
+surface of the photosphere,
+if one of the tennis balls
+goes too far to the left,
+that is to say between
+the axis and point A,
+it will roll off down the hill
+with increasing velocity.
+Same thing if if one gets
+bounced over beyond point B.
+Can you see point B there?
+And gets onto that ski jump that
+I've labeled the chromosphere.
+It will accelerate
+off to the right.
+The second plot, the middle plot there
+if you can read it, the axis says,
+the outward electrical field
+which is force per unit charge
+labeled in Volts per meter.
+So the electric field, for those of
+you who have learned any physics,
+is the negative of the gradient of
+the voltage, what I mean by that.
+Well look at the voltage
+and if it's sloping,
+if it's going down that's a negative
+slope like in the chromosphere.
+That means that the electric field
+to produce that is positive,
+it's the negative of
+what the slope does.
+So we're, say, if you start at the
+vertical axis of the the upper plot,
+you can see that the voltage is increasing
+as you move from the axis to point A.
+So, the voltage in the middle of
+the tuft is the highest voltage
+that you're going to see
+in this whole area.
+And to get up there, to get that
+positive slope on the voltage,
+the electric field
+is, is negative.
+Now it's, it's more
+negative right at the axis
+because the voltage curve
+is steepest there.
+I don't know if you.. if you don't
+follow me don't worry about it,
+if you do you see what
+I'm talking about.
+At the top of the photosphere
+where the voltage curve is flat
+there is no electric
+field, there is no force
+on the tennis ball pushing
+him one way or the other.
+But if the tennis ball, i.e.
+the positive charge,
+gets over beyond point B,
+there is a positive volt..
+positive electric field and that will
+tend to accelerate it toward the right.
+The bottom curve is nothing
+but the resulting velocity.
+So clearly, once you get..
+think of all three plots,
+if you get at the point B
+and slightly to the
+right of point B,
+the force is positive,
+outer force is positive.
+The electric field is positive
+and getting bigger and the,
+and the force is maximum
+where the slope is steepest.
+The skier is accelerating most rapidly
+at the steepest part of the ski jump.
+And so the voltage, I'm
+sorry, the velocity
+- the bottom curve, is
+continuing to increase it in..
+the increase in velocity, the
+acceleration, is maximum at Point C.
+Once you get beyond point D, there's
+no more force on the skier,
+the tennis ball or the positive ion
+and so the velocity is constant.
+But it's moving. It's fast.
+Instead of talking about analogies
+let me say it straight out.
+A positive ion is accelerated
+by a voltage drop.
+The higher the voltage drop, the
+higher the resulting velocity.
+It's like saying, if you
+drop a rock from a height,
+to drop it from one foot it will get to a
+certain velocity when it hits the floor,
+if you drop it from 10
+feet it's going faster.
+OK, that's all of this.
+The red marking there
+on the lower curve
+just talks about the region of
+turbulence and that is as these,
+as this stream of ions goes out into the
+lower corona, there are some collisions.
+Collisions mean, that's
+what temperature is, right?
+Most people, I think the
+average person at least,
+has a very poor idea about
+what's a temperature.
+I know it's hot outside
+but how, what is it?
+It's a measure of the
+vibration of the atoms
+in the stuff that you're talking
+about the temperature of.
+What's the temperature in space?
+There's no temperature in space
+unless you're in a cloud of stuff.
+You have, you have to talk
+about the temperature of
+whatever it is
+you're dealing with.
+Lastly, in the in the central curve
+there, the electric field curve,
+you'll see there's some blue areas
+and some salmon colored areas.
+This is strictly from
+Maxwell's equations.
+If you're going to have an
+increasing electric field,
+doesn't make any difference what
+the sign of the electric field is,
+if it's negative or positive,
+makes no difference.
+If the electric field is increasing,
+you're in a region of plus charge
+and you can see that's what
+happens there right next to the,
+the vertical axis
+in the middle plot.
+So, that's the
+positive charge layer.
+Where the photosphere, the
+voltage is not changing,
+there is no electric field
+so there is no charge.
+And the little triangle out around,
+between points B, C and D,
+the electric field is at first
+increasing and then decreasing,
+always in the same direction.
+The outward force is
+still positive outward
+but that force is increasing for a while and
+then decreasing for a while back to zero.
+That's the famous double layer.
+You're going to hear people in
+here talk about double layers.
+Hannes Alfven was famous for
+double layers, Irving Langmuir
+got the Nobel Prize for his
+work with double layers.
+That's a double layer!
+That's all it is,
+that is what it is.
+Why don't those positive
+charges and negative charges
+come together and
+neutralize each other?
+Why do they stay separate?
+Irving Langmuir found out.
+That's why he got
+the Nobel Prize.
+There has to be a continual
+current through that double layer
+in order to keep it stable.
+And the reason that the spicules
+pull, fountain those electrons
+up through the chromosphere
+is so that they can come back and
+satisfy Langmuir's requirement
+that that double layer has to
+have electrons and positive ions.
+So it all seems to work.
+Langmuir's work, the double layer, Hannes
+Alfven's work and now Juergens' work.
+All works the way it does and
+it's, it all, it all correlates.
+Anyway I'd like to show you this,
+courtesy of Monty, this short video clip.
+The first thing you're going
+to see is a set of anode tufts
+under very low
+current excitation
+and then the currents going
+to increase in strength
+and the plasma tufts are going
+to go into the arc mode..
+You'll see the photosphere,
+there they are.
+They don't like each other.
+It's like a bunch of Kabuki
+Warriors pushing each other away.
+They're both, they're all
+positive and they're all
+looking for advantage
+and not finding any.
+You might hear Monty's voice in the
+background if they have the audio on..
+There's this increase
+of the current.
+The tufts have begun to go
+into that's, I know the word,
+it is a high glow mode or..
+That's arc mode.
+You can see now, it's a better model
+that you can see the sun spots,
+sunspots are where
+there are no tufts.
+There's something that, he's got the excitation
+such that it looks like the chromosphere.
+That little black thing in the bottom, I
+guess, Michael can tell me what it is.
+Is this a spectroscopic probe
+or it's a probe of some sort?
+There's the corona.
+The ring around the
+outside is the cathode.
+And, of course, in the model, in the
+SAFIRE model, you need a cathode.
+But in real space of course there is a
+cathode, there is a virtual cathode.
+But there's the, the corona.
+The reason, the reason that the corona
+there looks like it's only on one side
+is because the, the anode
+is closer to the cathode
+on that spot where
+you get the corona.
+If they were equally spaced you'd
+see the corona all the way around.
+Sorry for the hooky ending,
+that's a, that's what
+Stanley Kubrick used,
+it's the end of 2001
+The Space Odyssey,
+but I really do believe that
+that's, it is the beginning.
+Okay, down to business.
+There are two different types
+of solar wind and this diagram,
+it looks complicated as all get-out
+but it's not, it's very simple.
+It, forget the nice
+picture of the Sun.
+Just, it's there for eyewash.
+This is a radial graph.
+The farther out you
+get from the center,
+it talks about the
+velocity of the solar wind
+so you can see that at latitudes,
+of, higher than 30 or so degrees
+and actually lower than
+negative 30 degrees,
+the maximum velocity
+of the solar wind
+is somewhere around 800
+kilometers per second.
+Maybe they're here, it's more like
+600, they say it's about 800.
+In the equatorial plane of the Sun you
+notice that the diagram sort of collapses,
+the maximum speed of solar
+wind is low, it's about 400.
+This is a picture obviously, look at the
+upper left, from Ulysses, the Ulysses probe
+- SWOOPS, that stands for "Solar Wind
+Observation over the Poles of the Sun".
+You're kidding?
+They didn't get over the poles!
+You see the diagram stops there, they
+don't know what's going on up there.
+But they did get to
+about 85 degrees or so.
+But Ulysses, when it got to 85
+degrees, it was way out beyond Jupiter
+so this is not a
+closed-in measurement.
+And what is, the plot here is what they
+measure at about one astronomical unit,
+which is where we are.
+On the upper pole,
+what Ben was saying,
+the the upper half of this
+is sort of tinged in red
+and the lower half
+is tinged in blue
+and you notice on the lower
+left it says, the outward IMF.
+Outward Interplanetary
+Magnetic Field
+is coming from the north
+at this, at this point,
+and then back in to the
+southern hemisphere.
+But that's from NASA.
+Anyway, the fast solar wind
+comes from normal regions
+from higher solar latitudes.
+This is where we begin to divide into
+two different kinds of solar winds.
+A fast wind is one that comes from
+the, not in the equatorial region,
+and it gets up to about 800
+kilometers per second.
+The, it comes from normal
+regions, that is to say,
+it comes out of the tops of the solar,
+of the photo.. photospheric tufts.
+Out of the, out of
+the anode tufts.
+The slow solar wind comes from
+active regions on the Sun's surface,
+in other words sun spots.
+Sunspots mainly are, they wander all over
+the place but they're very often in,
+generally in the what you'd say
+the tropical zone of the Sun.
+The near, near the equator.
+So just to state it succinctly,
+the fast solar wind emanates from regions
+on the Sun where there are no sunspots,
+generally at more than
+20 degrees latitude.
+And it comes out of the tops
+of the photospheric tufts.
+It approaches 800
+kilometers per second
+and it gets to that maximum
+at about nine radii.
+It's not too far out.
+I used to think it
+accelerated beyond Jupiter.
+It doesn't, not too much anyway.
+Another interesting thing is, it's
+less dense, it carries fewer ions
+than the slow solar wind.
+So it goes faster but it carries, it's
+less dense, it carries less stuff.
+Question is why?
+Well, I would suggest,
+this is the reason why.
+There's that first
+voltage curve again
+and the purple is an area where there are
+excited ions trying to leave the Sun.
+Sun, remember, is positive, positive ions
+don't like that, so they're out of here.
+It's kind of like the cross-section
+of a dam at the end of a reservoir.
+The reservoir is the purple
+area in the upper left
+and so you can, I think
+you can visualize that if
+the most excitable, the most
+excited, the most energetic
+positive ion in that distance, in
+that, close to the surface area,
+is just higher than the voltage
+of the photospheric tuft,
+some of those positive ions can trickle
+over the top of the dam, if you will,
+and just down the.. get accelerated
+down through the corona,
+down through the chromosphere
+into the lower corona.
+It's sort of reasonable that there
+wouldn't be too much density in that.
+It doesn't, not too many of these guys
+are able to make it over the top.
+So although they drop far and they're going
+like crazy when they hit the bottom,
+there are not too many of them.
+Because not many of them are able
+to get over the top of the tuft.
+So that's the reason why the fast solar
+wind is fast but it's less dense,
+at least that's what the
+Juergens' model says.
+There's a sort of analogy.
+That's Hoover Dam or part
+of its associated dams.
+The Hoover Dam is
+up the road there.
+A high-velocity,
+low-density flow.
+The water, not much water,
+gets over the dam there.
+Even less would get over if you
+raised that wall a little bit
+and that's my solar
+transistor model.
+This is kind of like the,
+emitter, the base and the
+collector of a PNP transistor.
+If you raise the voltage on the
+base you cut off the current.
+So again, the velocity is
+high but the density is low.
+There is some turbulence
+at the bottom
+but it's intentional in
+this hydraulic analogy.
+You can see they put
+rocks along the bottom.
+They're trying to aerate the
+water before it gets past.
+If you could take those rocks away and
+make that a nice smooth concrete surface,
+there wouldn't be any..
+that would minimize the
+turbulence anyway.
+How about the slow solar wind?
+It emanates from the equatorial
+region mainly, from sunspots.
+The maximum velocity is about
+400 kilometers per second
+and the ion density is more than 3
+times denser than the fast solar wind.
+OK, so the slow
+solar wind is slow
+but it's got a lot
+of stuff in it.
+My, sort of my thought analysis,
+my memory crutch on this
+is that the fast solar
+wind is like a sports car.
+Goes like hell but it doesn't have
+much space for the groceries.
+The slow solar wind's
+like a dumptruck.
+Goes slowly but boy
+can it carry stuff!
+So, the ion density is more than 3
+times denser than the fast solar wind.
+So again the question is, why?
+Well, is there an
+analogy for this one?
+Well, remember we said that
+the slow solar wind emanates
+from regions where there
+are lots of sunspots.
+What's a sunspot?
+Sunspot is a place where
+there aren't any tufts.
+The dam is gone.
+Somebody put a hole in the dike
+and there's nothing
+to prevent the water.
+I used a, I'll show you a slide
+in a minute, that I used to show
+this hydraulic analogy of the slow
+solar wind and I chose a bad one.
+The real analogy for
+the slow solar wind,
+and if I've done it right I would have
+gotten a photograph of the Mississippi River
+right after Hurricane
+Katrina busted the dike.
+So that the water in the
+Mississippi isn't much higher,
+that's what, 8 feet or so
+higher than the ground
+outside and when you break the
+dike, the water, the voltage drop,
+the hydrostatic head, if you
+wish, is not very high.
+So there's no really high velocity
+but when that Dyke breaks,
+wow is there a flow.
+So it's again, the slow solar wind is a
+region of high density, low velocity flow.
+It's like a broken dike.
+Anyway, that's another movie
+and I've heard people decry
+that that cannot happen;
+"Is that what you're seeing, don't
+believe your lying eyes, believe me.
+I'm gonna tell you
+what happened."
+No, that's what really
+happens and that's a picture
+of what the penumbral
+filaments look like.
+And it's kind of
+interesting that..
+I maintain and you
+think of it yourself,
+the umbra is a place where
+there aren't any any tufts.
+So if you look at a cross section
+of this thing, you can see tufts,
+tufts, tufts, tufts, tufts, they're
+all pushing on each other, you know,
+the samurai warriors, they
+don't like each other..
+But when it comes to the edge of the
+place where there aren't any tufts,
+these guys don't have anything to
+hold them back so they fall in.
+And you can see
+that's happening.
+The reason I say you can see it
+happen is, concentrate on the,
+on the circular ring right on
+the outside of the penumbra,
+right between the yellow and the,
+what-is-it, ochre colored areas.
+You can see that the regular
+tufts, the yellow area,
+right near where the tufts are
+breaking away, are going outward.
+Can you see that?
+When the tufts in the
+penumbra are going inward.
+Sure they hate each other, they're both
+positive, groups of positive charges.
+They're elbowing each other and so when
+the group that is not being held back
+by anything and just falls off,
+when it starts to flow, to move,
+it's still pushing
+on the other guys.
+The space is opening up and so
+some fall in and some fall away.
+So there's, I think that that is
+proof, the fact that the yellow ones
+actually move outward while the
+other ones are moving inward
+when space opens up for
+them to be able to move,
+shows that what you're seeing
+is an electric reaction.
+It's not a gravitational
+reaction,
+at least I maintain it's not.
+The analogy, of course, is
+the calving of icebergs.
+You get a glacier and you got the ocean
+or whatever that water is out there
+and these things eventually
+break loose and fall in.
+In this case this guy that's falling
+in, the process of falling in,
+is not pushingon anything.
+So there's no tendency for the tufts,
+if you will, the potential icebergs
+there in the wall of the glacier, there's
+no tendency for them to move away.
+Because nothing is
+pushing on them.
+Only gravity is pulling the
+one down that's falling in.
+This is not the case, so
+this is a partial analogy.
+It is sort of like, makes you think
+about what is happening on the Sun.
+But on the Sun, this guy that's falling
+is pushing back like crazy on the one
+that he just came away
+from and he's moving back.
+Here's again that picture and this
+is what I claim is happening.
+Just look at the red dot,
+dotted line there for a second.
+The voltage V2, the higher voltage is the
+voltage of the, of the photospheric tuft.
+V1 is the voltage of the umbra.
+And ions in the umbra look up
+and they don't see anything.
+They just ... it's outer space
+out there, that's the corona.
+So they tend to fall
+along that dotted path,
+the dashed red curve is a voltage
+profile taken up through an umbra.
+And how many of them are there?
+Zillions!
+Because there's a lot of positive ions
+inside the Sun that would love to get out
+and the only reason they can't all get
+out is because in a lot of there is the,
+the photosphere granules
+that the dam stops them.
+But at an Umbra there
+is no dam wall.
+That's d.a.m.
+So they flood out voluminously but they
+don't fall from such a high height.
+They fall from V1 out to the low
+voltage of the solar.. of the corona.
+Whereas the fast solar wind
+ions that come over the top,
+they leak over the top of the dam and
+go all the way down in front of it.
+They fall from voltage V2 so the fast
+solar wind comes over the top of the dam,
+screams down that cor.. chromosphere, ski
+jump if you will and fly out the bottom.
+The slow solar wind,
+many more of them
+because they don't have to
+just trickle over the top.
+They just go.
+So the slow solar wind
+has a lot of ions in it
+but they're not going as fast
+cause they don't drop as far.
+There is a side
+view of a sunspot.
+What you're seeing of course,
+if you listen to mainstream
+astronomers they say;
+"Well that's a magnetic field!"
+That's not the magnetic
+filed, that's plasma!
+You don't see magnetic fields,
+magnetic fields are invisible.
+So are electric fields,
+they're invisible too.
+But plasma, no,
+you can see that,
+and so you you're seeing there
+the side view of a sunspot
+and the plasma is pouring
+up out of that sun spot.
+Over on the edge, on the lower right,
+that's where, that's a normal tufts.
+Here are they.
+Stuff is still coming out
+but much less of it.
+So that's the reason why there's the
+slow, the voluminous slow solar wind
+and the very fast but not very
+voluminous fast solar wind.
+There's the slide I wish
+i didn't put in there.
+I should have shown a
+picture of a broken dike.
+This is an interesting thing.
+This is the reversing falls.
+I think it's a
+national monument.
+Does anybody know where it is?
+I think it's up in Montana or
+maybe Idaho, I'm not sure.
+But this is a, it's not a man-made
+thing, it's a natural thing.
+It's the reversing falls and it converts a
+fraction of, or all, of the kinetic energy
+that's coming down from the upper
+left, into potential energy.
+In other words it it's
+coming down from the
+upper left as a rather
+large volume of water.
+When it hits this stagnant, stable,
+placid pond into which this thing flows,
+there's a collision of
+those atoms of water.
+Then there is, there's
+a turbulence.
+The electrical analogy of course is that
+you've got a high-current coming down
+hitting a place where
+there are static ions.
+And there's a collision
+and the kinetic energy
+is turned back into potential
+energy, higher voltage.
+And so what you get,
+the electrical analogy of that
+turbulent high bunch of water
+is a concentration of positive ions
+right at the bottom of the ski-jump.
+A concentration of positive ions is a
+good place for an E-field to begin
+and that E-field, I claim, is
+what accelerates the solar wind.
+Here's a sort of a wrap-up slide
+that shows, it shows it all.
+You can see the photosphere, you can
+see the sun spots there to the center,
+to right of center..
+And then coming out of that is a
+tremendous flow of slow solar wind.
+At the chromosphere, there's collisions with
+the stable static ions in the chromosphere
+and in the corona even more so.
+To the, to the left, so the
+middle left of the corona
+you see one of the
+famous coronal holes.
+Coronal holes hooo, mystery.
+There's nothing mysterious
+about a coronal hole at all.
+It's just above one
+of the normal posit..
+normal places on the,
+on the photosphere.
+It's, the coronal hole is not
+where there's sun spots.
+That's all it really is.
+And so, what comes out
+of the coronal hole?
+The fast solar wind!
+Sure, where is it coming from?
+It's coming from the tufts
+in the photosphere.
+So it all makes sense.
+It's elegantly simple.
+Here is, I have to put this
+in because I think it's a,
+it really says what
+I'd like to say.
+This is by R.R. Grail,
+he's a very well-known
+or was a very well known
+solar astronomer.
+He said; "Our results in
+measuring the solar wind
+indicate that the acceleration of the solar
+wind is almost complete by ten solar radii,
+much closer to the Sun that had
+been expected." Okay, good.
+"This suggests that the
+acceleration of the solar wind
+and the heating of the solar corona
+occur in essentially the same region
+and thus that the underlying
+mechanisms may be strongly linked.
+They're not strongly linked,
+it's the same thing!
+It's the same mechanism, there's only
+one mechanism and that's what does it.
+Juergens' model says it all.
+And all of these properties of the fast solar
+wind, the slow solar wind, the densities..
+are all explained by..
+OK, one sort of just,
+I would call it a technical slide
+but it's, it's the statistics.
+What they say, statistics don't
+lie but statisticians do.
+Here's the statistics
+so they don't lie.
+The two columns are; one for the slow solar
+wind and one for the fast solar wind.
+The first line is
+the flow speed.
+And you're talking about the
+velocity of protons, VP.
+And so the slow solar wind's highest velocity
+is around 400 kilometers per second,
+by fast solar wind
+it's about 800.
+I hope you guys in the
+back can read this.
+The proton density however, in the slow
+solar wind, is 10.7 per cubic centimeter.
+In the fast solar wind it's 3.
+So the fast solar wind is, contains
+one-third less than the slow solar wind.
+The proton temperature is, if you go down
+there, it's a 2.3 times ten to the fifth.
+It looks like you're comparing
+2.3 to 3.4 but you're not.
+3.4 is multiplied by 10 to the fourth so
+it's kind of like comparing 3.4 to 23.
+OK, so the fast solar wind,
+that proton temperature is
+much higher than the
+slow solar wind, why?
+Because it's been through the mixmaster,
+it's been through the ski jump.
+Then look at, and this is the last
+thing I will look at this page,
+the electron temperature.
+It's just the opposite.
+The electron temperature is 1.3 in the
+solar wind and 1.0 in the fast wind.
+So the electrons don't
+take part in this.
+Why?
+Because the electrons don't go over
+the hill, they don't get excited.
+That hill is a hill
+only for positive ions.
+If you want to know what happens to
+electrons, you have to take that
+cross-section of the of the
+dam and turn it upside down.
+If you turn it upside down
+it looks like a saucepan.
+So if electrons are coming into
+the Sun from the lower corona,
+they collect in the saucepan.
+What's the saucepan?
+It's the photospheric tuft.
+The electrons come pouring in, happy as
+larks, because they're coming downhill,
+"yeah here we are we're going
+to collect in the pan"
+and they build up and build up more and
+more electrons and finally what do they do?
+They neutralize the positive charges
+and they kill the photospheric tuft.
+That's why the photospheric
+tufts disappear.
+They fill up with
+incoming electrons.
+Anyway there's more I can say about that
+but I'm running out of the time here.
+The only quantitatively
+determined force
+capable of achieving a fast solar wind
+acceleration is the electric force.
+And I did some work on this.
+I won't bore you with
+the mathematics but
+I simply would say that my
+final result is step 3 there.
+I've derived the electric field
+strength necessary to accelerate
+the fast solar wind to 800
+kilometers per second.
+All sorts of people have tried
+to do that and have failed
+to come up with a mechanism.
+Remember, the corona is a
+non collisional corona.
+It's non-collisional plasma.
+They don't bounce off each other,
+they just increase in velocity.
+And if you put a positive ion in an
+electric field, it will do just that.
+Well how strong this
+electric field have to be?
+There is the answer, less than seven
+tenths of a micro volt per meter.
+At a distance of about three solar
+radii, the end of the corona.
+Seven-tenths of a
+micro volt per meter.
+Monty, that's your next job.
+Find out whether or not a
+glow mode plasma can support
+an electric field of seven tenths
+of a micro volt per meter.
+If it can, that's the answer.
+OK
+There's the advertisement.
+That's my website.
+If you go to electric-cosmos.org,
+you'll get that.
+The stuff in white at the lower right hand
+is a, you can, they are clickable links
+and if you're interested in the gory
+details of the mathematics involved
+in both, the first one is the Birkeland
+Current thing that I presented last year..
+The second one is the solar
+surface transistor action
+that says what happens if you
+raise or lower the dam and
+and, can you curtail
+the fast solar wind..
+Yeah, you can cut it off!
+Just like cutting off a transistor,
+the solar wind stopped for two days,
+back about six or
+eight years ago.
+The third one is what I'm talking about
+now, the solar wind acceleration.
+So anyway, I won't
+bore you further.
+Juergens' electric sun model explains
+why the plasma corona exists
+and explains the
+temperature profile
+and I submit that my,
+what I've just told you,
+the photospheric tufts are
+variable electrical barriers
+for positive ions attempting
+to escape from the Sun..
+Explains why there are two very different
+solar winds, one fast and one slow,
+why the fast wind is faster
+and the slow wind is slower,
+why the electron temperature
+is the same in both.
+Because the electrons don't go through
+that process, they're just there.
+And besides, on the average
+they're coming in.
+Not that some don't
+leave, they do.
+But they're not affected by
+that, the shoot to shoot,
+the ski jump and all the rest of that
+stuff that the positive ions are.
+And it explains why tufts go away,
+because they fill up full of electrons..
+And why the first solar wind
+comes out of coronal holes..
+And the stretching of sunspot
+punumbra is electrical.
+Anyway, I think that only the
+electric sun model can explain this.
+Thank you!

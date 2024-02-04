@@ -1,0 +1,558 @@
+Good afternoon everyone. Current scientific
+theories of the atom are hypothesizing that the
+nucleus is made up of a chaotic blob of protons 
+and neutrons. There is no known structure for
+the nucleus. Quantum mechanics states that it is impossible
+to show a true shape for the nucleus, but instead relies on
+mathematics to express the atom and its non-
+deterministic nature. Is it possible that there is a structure
+to the nucleus of the atom? In this presentation,
+I will make precisely that attempt and show you how
+this structure, with its particular rules and mechanics,
+are responsible for the periodicity and the grouping of the
+Periodic Table of the Elements. My goal today is to
+take you from this two-dimensional solar system model of
+the atom with no structuring whatsoever (as we can
+see on this side) and I want to take you to a logical
+threedimensional structure of the atom. The proton-electron
+model that was adhered to until the acceptance of the
+neutrons in about 1933 has been taken as a base 
+for that. Now, before I continue, I would like
+to draw everybody's attention to the disclaimer of this
+presentation: “We are all agreed that your theory is crazy. The
+question which divides us, is whether it's crazy
+enough to have a chance of being correct.” Niels
+Bohr. The presentation is made up of the following: 1 -
+Current understanding of the model. We'll take you through a
+short history lesson there, and then we will go 
+into 2. Proposal for the Structured Atom model.
+The third part will be to touch upon 3. implications 
+of this model, and [finally] 4. we will state our
+conclusions. Our journey begins in the early 1800s when
+John Dalton was doing his research. Dalton used relative
+atomic weights and published a table of
+relative atomic weights. So, we have the first
+rudimentary form of a Periodic Table of the 
+Elements. For example, Dalton found that
+12 g of carbon could react with 16 g of
+oxygen to form the compound that we now call
+carbon monoxide. Or with 32 g of oxygen to form carbon dioxide.
+The ratio of oxygen masses - 32 to 16 – simplifies to 2:1.
+At some point, it was discovered that certain elements have
+common properties and that there was a periodicity to the
+elements. In 1864 John Newland described
+a law of octaves. He observed periodicity
+according to the relative atomic weight and identified some
+new elements such as germanium. His concept however was not
+recognized by the Society of Chemists until 1887.
+After becoming a teacher in 1867, Mendeleev
+wrote a definitive text book of his time,
+”Principles of Chemistry” in two volumes, 1868 to
+1870. It was written as he was preparing a textbook
+for his course. This is when he made his most important
+discovery. As he attempted to classify the elements according
+to their chemical properties, he noticed patterns that led
+him to postulate his periodic table. Mendeleev claims to have
+envisioned the complete arrangement of the elements in a dream,
+quote, “I saw in a dream a table where all
+the elements fell into place as required.
+Awakening, I immediately wrote it down on a piece of 
+paper. Only in one place did a correction later appear
+necessary.” I would like to point out here in his periodic
+table the purple elements like helium, neon, argon
+krypton etc. which were totally unknown. And here we see
+for example the germanium. By looking at these empty spots,
+we were able to pinpoint where the next
+element should be and that's how we found
+them. J.J. Thomson performed his cathode ray
+experiments in 1897. If a gas sample is introduced
+into the region between two charged plates, which we can
+see on the bottom here, a current flow can be observed,
+suggesting that the atoms have been broken down into
+charged constituents. The source of these charged
+particles is a heated cathode which causes the atoms of
+the sample to ionize. These were known as cathode rays at
+the time. In 1897 Thomson set out to prove
+the cathode rays produced from the cathode
+were a stream of negative negatively charged particles
+called electrons. From Maxwell's theory he knew that charged
+particles could be deflected in a magnetic field which is
+shown just about here. So, depending on the polarity, the
+electrons went up or down. Because of the bending
+of the path of the emitted electron in the
+cathode tube experiment, it became clear that it had to
+be a charged particle, negative in nature because it was
+pushed by the north south magnetic field
+that has been put into the electron beam
+path. Through his work science was introduced to a whole
+new discovery namely the electron. Through his work
+the result was a model for the atom that acknowledged electrons
+and the fact that they can be taken away from the atom,
+leaving a positively charged atom. The discovery of
+these subatomic corpuscules overturned the notion that
+atoms are indivisible. The best description
+at the time was that it would resemble a plum
+pudding, where the electrons resemble the distributed
+plum throughout the pudding which is depicted here. He was
+honored with the Nobel Prize in physics in 1906.
+When Chadwick famously discovered
+the neutron, it caused a debate that was finally more or
+less settled at the 7th Solvay Conference in Brussels,
+Belgium in 1933. The only alternative to
+neutrons was the existence of nuclear electrons
+which would counteract some of the proton charges
+of the nucleus. Since by then it was known that
+the nuclei had about twice the mass than could be
+accounted for if they were simply assembled from hydrogen
+nuclei, meaning protons. But how these nuclear
+electrons could be trapped in the nucleus was still a
+mystery. This is when and where it was decided, at the Solvay
+Conference, that a neutron is not a combination of a proton
+and electron, but rather a fundamental particle
+without an electrostatic charge, meaning it is
+neutral. Hence the name neutron. After the acceptance
+of the neutron, which was very much influenced
+by the need to make quantum mechanics work, we basically
+end up with our current understanding, in essence at
+least, of the atom. An atom has several key
+attributes that are observed: a positively charged
+nucleus (the nucleus is depicted here) - the nucleus is made
+up of positive protons and neutral neutrons - the red and the
+green if you will, red - green. The electrons do however
+not fall into the nucleus which is still a little bit of a
+mystery. And the ratio of the neutrons, protons,
+and the outer electrons, on average is one on one on
+one. Note that current nuclear physics explains the
+nucleus in quantum-mechanical terms. In a nucleus
+occupying a certain energetic state, each nucleon is set to
+occupy a range of locations. To refresh everybody's mind, here
+is what the current Periodic Table of the Elements looks like.
+We see there is a periodicity, in groupings, in the
+list of elements. The periodicity goes from the
+left to the right, and the groupings go from top to
+bottom. The term ‘element’ is used for atoms with a given
+number of protons regardless of whether or not they are
+ionized or chemically bonded. For example hydrogen 
+in water. In short, the number of protons and the
+outer electrons determine the element. When all this
+is taken into account, the current understanding of the
+atoms and the elements is very poor, to say the least.
+If this is all that is offered after a century of research and
+untold amounts of resources having been poured
+into technological projects based on this,
+then I would feel disappointed in fact. This is what 
+drove me to study the atom and the elements. The
+disappointment of in truth a highly disputable
+model that asks us to believe certain things in
+order to make it work, could simply not satisfy my 
+need to know. Throughout the years, my personal
+lesson was that the whole basics was wrong. This started
+for me around 2006 and ever since the model has been slowly
+growing and maturing. The strong force, which is seen at
+the first bullet point, is a postulated force. It simply
+was needed in order to explain how the protons would stick
+together in the nucleus. So, any good model should be based on
+observations and logic. Only after that comes the understanding
+of the whole, or the narrative if you will. The Structured
+Atom Model has the following key features. It shows 
+a logical construction of the atom in accordance
+with observations. It explains why the atom has a positive
+nucleus with negative electrons around it. It explains
+why the electrons do not fall into the positive nucleus.
+It explains in a logical manner how chemistry arises. It
+explains the periodicity of the Periodic Table of the Elements
+and, still an open question, why do electrons and protons
+not annihilate each other? Still unanswered.
+SAM is a new model. No, yes, take your
+pick. Let's see. This model is still very much in
+development and despite some efforts to the question
+as to why the proton and electron do not annihilate each
+other is still unanswered, the only thing I would like
+to add is that the observation would indicate that
+perhaps the proton and the electron are made up of smaller
+organizations. The model right now does not rule this out nor
+deny it. In fact, I think this is a beautiful example of how
+we can cooperate [coming] from different disciplines to find
+the answer to this question. For the model itself, it is not
+essential to have this question answered because it goes
+beyond the scope of the organization of the nucleus. The
+observation is still there regardless of the answer
+to the question. There has to be an organization
+to the nucleus of the atom. There's simply too
+many hints and leads that cannot be ignored that
+point to this to be true. When we try to find an
+answer to how the nucleus of the atom is organized, we
+can find no real answers at all. Only that the nucleus is
+made up of neutrons and protons. How these fit together
+is officially still a mystery. This presentation
+will offer evidence that the nucleus is structured,
+and we'll point out how this is the case, with its 
+regularities and rules, and what principles are in
+effect. At about 2008, I found a correlation of the
+geometry of the spheres; it's called spherical geometry.
+You'll be surprised how little can be found on that.
+When we reach the number seven, we
+reach lithium. It's called a pentagonal bipyramid with a fancy 
+word, and in 2010 I understood that carbon corresponded
+with the icosahedron, or rather 12 spheres.
+In 2012, I found basically an entire structure of the
+nucleus and how it functions. Ever since I have been a
+student myself of this model and I can find correlation after
+correlation. Some of these I hope to share with you here.
+The model in short comes down to this. We have a
+duality, which is depicted here on this slide that we call
+a proton-electron pair that has the electrostatic force
+acting between them and this force is the causal
+factor for the principle of the densest packing
+that creates geometric shapes. These geometric shapes
+are integrated in a specific order and number, and they
+create all the elements. During the next
+slides I will try to show you how that is the
+case. So, when we go into the structure of the atom model,
+I would like to point out these postulations/observations that
+the model is based upon. There's only one fundamental
+force: the electrostatic force. The atom must have a
+definitive organization which is responsible
+for all the attributes of a particular element.
+The neutron is not a fundamental particle, it's a 
+composite of a proton- electron, but is redefined as a
+connection between a nuclear electron and its surrounding
+protons. A stable element must have a stable nucleus. There can
+be no movement without any cause in the structure
+of the nucleus. A sphere, or a proton, must always
+be part of one of the three identified geometrical
+structures, namely the tetrahedron, the pentagonal
+bipyramid or the icosahedron. The depictions will come in
+a little bit. The inner structure of the atomic nucleus
+dictates the outer electron structure, or rather the orbitals. So,
+here we reach the “New” neutron. This is a schematic view of it.
+In the center we can see how the neutron is redefined.
+Instead of being a fundamental particle, we have an electron
+in the center, with two neighboring protons.
+This is a stable structure. The charge of the electron in
+the center is divided over the protons. This binds the
+protons into a rigid connection, if you will. It resembles the
+nucleus and is a stable configuration. The second electron, to
+make the whole neutral again, is simply booted out. It's placed
+in orbit which is about 100,000 times the radius of the
+nucleus. On the left we can see schematically how the
+free neutron decay occurs. At the bottom we can see
+an intimately connected proton and electron, meaning
+there is no more energy in that system. It does decay however,
+into the top depiction of basically a hydrogen atom - a
+proton and electron at a distance. On the bottom
+right, we can see what happens when we go into a
+triangular configuration which is depicted by helium-3.
+There's simply no room for more than one nuclear
+electron - they're too close to each other. The other two which
+are depicted in the green here are simply booted out again.
+But to balance the whole, being three protons and three
+electrons, above that we see how we end up with a helium-3
+with only one nuclear electron taking its resting
+position in the center of the three protons, or at least
+it is seeking out that point. So, in classical terms we are left
+with only one neutron, two protons, and two outer electrons.
+I would like to point out a paper done by Carl
+Johnson (actually more than one paper) and it's called
+”Statistical Analysis of Isotope Masses.” This
+analysis of the precise NIST data seems to indicate
+that there is no energy which exists within any atomic
+nuclei to account for the existence of any Pi mesons or the
+necessary binding energy of any neutrons, or of any
+ultra powerful strong force, or any neutrinos for that
+matter. This research has resulted in a far simpler and more
+logical description of atomic nuclei. It also entirely complies
+with the known laws of science. No unseen
+strong nuclear force - which allegedly
+works at an inverse fifth power of distance, except then it
+also reverses in effect at really short dimensions - is either
+necessary or represented by any energy source. I would like
+to invite everybody who is very interested in this topic to
+try and seek out those papers - quite profound. Here we see
+the building blocks of the model. From left to right we can
+identify them. First, we see the Platonic solids.
+On the bottom we see the spherical geometry. Spherical
+geometry is not like the so-called hard (?) geometry which uses
+points and lines in a two-dimensional depiction. Here we can
+see how the Platonic shapes are actually
+created by using spheres. In this case the
+protons, and as Plato already said, the atoms must be made
+up of geometrical shapes. This picture here was taken last
+year, sitting at a curb at the Grand Canyon, and I would
+like to point out this gentleman with the red hat, James
+Sorensen. Ever since we met, James has been participating
+in this model by creating software code that led to a
+threedimensional Atom Builder. We can actually recreate
+on the computer the several elements. The pictures you see
+during this presentation are taken from
+that particular Atom Builder. The model has
+already proven to be crucial for further 
+continuation. On the left we see the basic building
+blocks. The first one would be hydrogen, the second one would
+be deuterium, the third one would be helium-3, the fourth is
+helium-4. This one is the so-called pentagonal bipyramid
+which equates to lithium, the first true element that
+we have in the periodic table. Even the name implies this,
+because lith, lithium, meaning stone, stone-like and the
+last one represents carbon. Here we see some
+essential tools that we used to develop the
+model. Nothing fancy, nothing expensive. The magnets that
+we can see on the bottom here are used as a valuable tool
+because they mimic the central attraction force that is also
+there in the atomic nucleus. This beautifully mimics densest
+packing, or rather the electrostatic force.
+Treated properly, they will show you the correct structure of the
+elements. Everybody can do this. Here we see the platonic
+solids again, created using spheres for the so-called
+spherical geometry. Take note that the cube and the dodecahedron
+are not stable. They can easily be distorted, in contrast to
+the other three. So, the cube is not stable; the tetrahedron
+is stable; he icosahedron is stable; the dodecahedron is not
+stable; and the octahedron is stable. The proton geometrical
+structure cannot exist on its own, nor can an electron structure
+be on its own. They need each other. They need each
+other in order to be in equilibrium. Only one on its
+own cannot be, the other one on its own cannot be, together they
+can be. They are in equilibrium. All the protons that we have
+in this model must belong to [one of] three geometrical
+structures, as I said, the tetrahedron here, the pentagonal
+bipyramid represented by lithium, and the icosahedron represented
+by carbon. On the left we have the electron structures
+which is an octahedron and a dodecahedron.
+On the bottom here I show how they exactly fit together.
+The icosahedron is the most complete of the platonic
+solids, meaning there is no bigger geometrical shape
+that can fit into a sphere, i.e. there is no
+bigger geometrical structure. The combination of
+protons and electrons pull towards their shared common center
+of that icosahedron. This is the primary argument for the
+applicability of the densest packing principle.
+Carbon embodies the icosahedron with its 20 triangular
+facets. (Let me see if this is right, right). Carbon embodies
+this icosahedron with its 20 triangular facets. The 20 triangles
+correspond to the number of electrons necessary to reach
+the noble gaseous state. With carbon, as is depicted
+here, not all the triangular facets of the nucleus are
+occupied, meaning there are positive spots left on the nucleus
+that can still react. In the green, we can see where an electron
+would be, and where there is no green yet, like here, or here,
+there’s still positive charge left. So, on the left we see
+a carbon with only six inner electrons. On the right we have
+a carbon with the six inner electrons and the six outer 
+electrons. However, take note not all the spots are green,
+meaning there's still chemical reactivity left.
+This is basically the fundamental principle as to why
+chemistry is happening. When we take a look at the
+noble gas configuration, we have the same nucleus,
+however, there are (like shown on the right) extra protons. These
+extra protons also imply there are extra electrons, and in the
+case of neon, we get the first complete nucleus whereby all
+the spots are occupied. Hence, we reached the noble gaseous
+state. It's important to notice that this
+icosahedron of the carbon - which is still
+depicted here - has 20 triangular surfaces. So we get 10
+inner electrons, and 10 outer electrons. Together they will
+occupy no more positive charge, no more negative charge,
+no more reactivity and again [we have] the noble gaseous
+state. The main structure of the atom, or the backbone of the
+nucleus, is made up of the icosahedron or, as determined in
+this model, a carbon nuclet, whereby nuclet
+refers to the identified geometrical shape of the
+protons. Each geometrical shape or nuclet has a center of
+attraction that is created and shared by the protons that
+are part of that nuclet. The geometrical structures
+are connected to each other by sharing no proton as
+shown on the first image. Here the main structure of
+the atom is therefore a collection of the connected
+carbon nuclets that adhere to a doubling mechanism.
+We tried to depict this in the rest of the pictures here. We go
+from one carbon nuclet, to two carbon nuclets,
+to four carbon nuclets, to eight carbon nuclets.
+This triangle, as you can see, is everywhere on the
+nucleus of the atom. This is most important: all the proton
+structures will always have only triangular surface areas.
+This is when it is stable. So, this triangular area is where
+an electron would find its resting spot or at
+least balance out and try to find that position.
+Here we see how the periodicity of the periodic table is
+a result of these geometrical shapes. What we see here
+highlighted is the carbon group in the periodic table.
+The carbon belongs there, silicon belongs
+there, germanium belongs there. When we go 
+to shapes, we get this picture. On the left
+we see carbon made up of 12 nucleons or protons. In the 
+center we see silicon which is 28 in total. However, on the left
+we see the same recurring carbon nuclet which is where all
+the reactivity or the chemistry is. On the right we see the
+green. Every time we see green, it resembles a neutralized
+spot, meaning that part of the atom or the nucleus
+does not participate anymore. When we reach germanium,
+which is made up of 70 nucleons or protons, we can see that
+basically the whole atom is neutralized. And again the same
+recurring carbon nuclet. The numbers still add up. So, when
+we see in this model these numbers here they correspond
+exactly to the element. Another example is the alkali
+metal group, lithium, sodium and potassium. When we try and
+take a look at those shapes, we get the following picture. On
+the left we see lithium with seven particles in
+the pentagonal bipyramid. In the center we get
+sodium - 23 particles. Again, the only active part
+of the atom is the red part here and to the left the
+neutralized part. On the right is potassium- 39.
+The whole atom is neutralized except for that lithium nuclet.
+A final example would be the noble gases. So, we've taken neon,
+argon, krypton. When we take a look at the shapes, we get the
+following picture. Everything is completely green - only
+neutral endings as I call them - and we see neon with 22
+in this case. Neon has 20, 21, 22 as stable isotopes, chosen
+22 here. Argon with 38 here, and krypton with 80 here. And this
+keeps on recurring, this keeps repeating.
+The cycle of eight. Here we see how the periodicity of
+the periodic table of the elements is the result of these
+geometrical shapes. So the valence factor, or rather how
+many connections we can make with a certain element,
+we can see that the carbon is usually taught to us as being
+a plus 4 or a minus 4. The nitrogen being a minus
+3, the oxygen minus 2, the fluorine minus 1. We can
+see the number of green increasing. Meaning 
+every time a pair is added, that part of the atom is
+neutralized. And the valence factor is dropping by one.
+When we continue, we reach neon, completely neutral. Sodium
+however, is plus 1 represented by the lithium nuclet again,
+as we saw in the previous example. Magnesium simply has
+two of those. Aluminum is a little bit more complex, it has
+a lithium nuclet or geometrical shape and on the right side
+we see the yellow, which represents a beryllium
+nuclet, just a little bit heavier than the
+lithium. After that comes silicon. Silicon again is +4 or -4
+and +2. But we see, just as above, the carbon nuclet. And here
+the active carbon nuclet, on the right side the atom again
+is neutralized. This keeps repeating and repeating and
+repeating - the periodicity of the Periodic Table of the Elements.
+Carbon 14. Most commonly known example I would say,
+carbon 14 is radioactive for approximately 5,000
+years or something to that effect, and actually we
+see the densest packing at work. In the center is a general
+depiction found on Wikipedia for example, how an electron is
+booted out, or in this case over here, we see how a neutron decays
+into a proton and an electron. They also talk about neutrinos and
+anti-neutrinos, but we leave them out for the moment.
+On the right side here, according to the new model, we can see
+carbon-14. In the center we have the same carbon nuclet that
+was blue just a moment ago. We have on the top one extra
+neutron and at the bottom one extra neutron, meaning it's
+a proton plus an electron to bind them together. When they
+come close, they decay. Meaning the two are together now
+and there's only one electron needed, or rather actually
+there's only room for one electron. So this second electron
+is booted out, as we can see here. It takes its place in
+the orbit, therefore we reach the next element. So, you could
+say in classical terms, that the numbers are six protons,
+six electrons and eight neutrons becoming seven
+protons, seven electrons, and seven neutrons. That's
+the decay. If we talk the new model, we actually 
+have over here 14 protons with eight inner
+electrons (the six of the carbon plus the two of
+the loose neutrons) and the six outer electrons
+that have always been there and it decays to the bottom
+to again 14 protons, seven inner electrons and seven outer
+electrons. This is the so-called beta minus decay.
+Now, our current research still focuses very
+much on these structures and we're trying to create a
+corresponding periodic table of the elements. Not so
+much that the current one is wrong, but there are
+some improvements to be made. Half the elements still
+have to be created in the Atom Builder that was mentioned 
+before. We're not there yet, it's quite complex because of
+the number of possibilities that arise due to the doubling 
+factor. So, we are currently for example looking
+at the possibility of the existence of elements halfway
+the periodic table of the elements that have not yet been
+discovered. I'm not talking about the real heavy elements
+I'm talking about elements halfway the periodic table, close
+to iron, close to copper, close to silver, gold etc. Nature 
+tends to skip these steps not so much because it cannot
+be done, but because the combination of two to make the fusion
+happen usually we get a helium nucleus or an alpha particle
+which combine. An alpha particle consists of four of these
+protons, but to create that missing element in between,
+we need a deuterium to act on that. Just on chance-based
+and the abundancy of certain elements makes it almost
+impossible. Besides that, we are not even aware that there
+might be something missing. It is my belief that ultimately
+these elements will be either discovered or created and I
+hope, I think, might actually validate this model in the
+future. We can see here how it basically resembles a tree-like
+structure and where this doubling effect is coming on.
+So, this is like a stem, two branches which go into
+another two branches and another two branches, or rather
+four. Interesting to note over here there's a collision.
+The two branches basically touch each other and that
+happens just about where the stable elements lead and bismuth,
+which are the most stable last elements in the periodic
+table, from that point on all the elements are radioactive. I
+believe that due to that coming together of the branches is where
+it breaks. The bottom basically breaks up and the atom
+is split in two. I think we all know what that leads
+to. This theory is still far from complete - it
+provides actually opportunities for everybody to
+participate in this advancement. There are limitations to
+specific fields of science due to limited understanding of
+the atom I believe - in general and the elements specifically.
+The atoms affect just about everything. In fact, I would like
+to challenge the scientific community to either point out these
+flaws and provide the next answer, or a clue or an error, or
+validate a proposed model. This is something I think we
+should all agree on. All that is presented here today
+has been done without any professional support and
+represents a few creative minds working together.
+I can only imagine what we could achieve
+as a collective. We see here a screenshot
+basically of the Atom Builder that has been created. Again,
+James Sorensen has been most important in this. He has been able
+to convert the model that I have in this rudimentary form into
+this Atom Builder and we can see some of that here. Anybody
+who is interested in this and learning more about this,
+I would like to invite to the breakout room. We have a beautiful
+setup and we have lots of examples. We have magnets you can
+use and create and play with. I would like to summarize the new
+atomic model as follows. We have a duality
+that we call a proton-electron pair with the
+electrostatic force acting between them. This force is the
+causal mechanism for the principle of densest packing that
+creates geometrical shapes. These geometrical shapes
+in a specific order sequence and number create all the
+elements. The model shows to observe nature and properties
+of the atom and explains the reason why the nucleus of
+the atom is positively charged, why the outer
+electrons stay at range and do not fall into the
+nucleus and addresses a causal factor for chemistry.
+In fact, physics and chemistry are kind of separated, exactly
+where the atom is. In this case the physical model goes
+straight into chemistry and there are many, many more
+implications and consequences - too many
+to mention today. There are some potential
+implications and I named some here.
+We have plasma physics, astrophysics,
+cosmology. I think we can reach a far
+better understanding of the nuclear
+structure. Better understanding of chemistry,
+nuclear fusion and fission. Maybe even smaller nanotechnology.
+Radiometric dating - which is, to say the least,
+quite controversial - and transmutations and
+perhaps, as I mentioned, new elements. To conclude with
+the thanks. Many people to thank, but a few persons
+in particular: Susan Schirott, Mark Span, Jean
+Hafner for your EU support - unwavering I
+would say. James Sorensen – special. He made the Atom Builder
+and a website and that will become in the end I hope a tool that
+we can use for educational purposes. Jan Emming for the
+text editing and his unwavering support as well. Karen
+Elkins with graphical representations and feedback. And I would
+like to conclude there. Unfortunately, I cannot show you an
+animation, but again I would like to invite you
+to the breakout room where we have some lovely
+animations going and I would like to
+thank you for your attention.
+[Applause]
+[Music]

@@ -1,0 +1,447 @@
+[
+  {
+    "text": "Welcome to Space News from the Electric",
+    "start": 0.0,
+    "duration": 9.719
+  },
+  {
+    "text": "Universe, brought to you by The\nThunderbolts Project at Thunderbolts.info.",
+    "start": 9.719,
+    "duration": 4.771
+  },
+  {
+    "text": "A groundbreaking new scientific\nreport provides dramatic confirmation of",
+    "start": 14.49,
+    "duration": 7.049
+  },
+  {
+    "text": "our planet's dynamic electrical\nenvironment and the Earth-Sun connection.",
+    "start": 21.539,
+    "duration": 4.56
+  },
+  {
+    "text": "Phys.org recently reported that the\nEuropean Space Agency SWARM mission has",
+    "start": 26.099,
+    "duration": 5.221
+  },
+  {
+    "text": "discovered, \"Supersonic plasma jets\nhigh up in our atmosphere\" that can push",
+    "start": 31.32,
+    "duration": 4.89
+  },
+  {
+    "text": "temperatures up to almost 10,000 degrees\nCelsius. Attempting to provide historical",
+    "start": 36.21,
+    "duration": 5.07
+  },
+  {
+    "text": "context for the discovery, the report\nstates, \"The theory that there are huge",
+    "start": 41.28,
+    "duration": 5.16
+  },
+  {
+    "text": "electric currents, powered by solar wind\nand guided through the ionosphere by",
+    "start": 46.44,
+    "duration": 4.349
+  },
+  {
+    "text": "Earth's magnetic field, was postulated\nmore than a century ago by Norwegian",
+    "start": 50.789,
+    "duration": 4.321
+  },
+  {
+    "text": "scientist Kristian Birkeland. While much\nis known about these current systems,",
+    "start": 55.11,
+    "duration": 4.44
+  },
+  {
+    "text": "recent observations... have revealed that\nthey are associated with large",
+    "start": 59.55,
+    "duration": 3.75
+  },
+  {
+    "text": "electrical fields.\" In fact, in recent\nyears the term \"Birkeland current\" has",
+    "start": 63.3,
+    "duration": 5.79
+  },
+  {
+    "text": "appeared with increasing regularity in\nmainstream scientific literature. Today,",
+    "start": 69.09,
+    "duration": 5.099
+  },
+  {
+    "text": "professor Donald Scott discusses his own\noriginal modeling of a Birkeland current",
+    "start": 74.189,
+    "duration": 4.621
+  },
+  {
+    "text": "structure and he explores the\nsignificance of this new discovery from",
+    "start": 78.81,
+    "duration": 3.87
+  },
+  {
+    "text": "the Electric Universe perspective. SWARM\nis a constellation of three satellites",
+    "start": 82.68,
+    "duration": 5.49
+  },
+  {
+    "text": "designed to look at the geomagnetic field\nof Earth. They wanted to put some decent",
+    "start": 88.17,
+    "duration": 5.879
+  },
+  {
+    "text": "sensors, better sensors than had ever\nbeen flown before, I guess, up, and to",
+    "start": 94.049,
+    "duration": 5.131
+  },
+  {
+    "text": "investigate what exactly the properties\nof the of the Earth's geomagnetic field",
+    "start": 99.18,
+    "duration": 5.82
+  },
+  {
+    "text": "were. It's encouraging that this recent\narticle about SWARM not only mentions",
+    "start": 105.0,
+    "duration": 5.07
+  },
+  {
+    "text": "the phrase Birkeland current several\ntimes but it also talks about electric",
+    "start": 110.07,
+    "duration": 4.74
+  },
+  {
+    "text": "fields. Well that's a word that almost\nnever gets mentioned in the",
+    "start": 114.81,
+    "duration": 4.769
+  },
+  {
+    "text": "establishment literature but it's\ngetting to be fairly well-known that",
+    "start": 119.579,
+    "duration": 3.33
+  },
+  {
+    "text": "electrical energy does indeed come from\nthe sun to Earth in large tube-like",
+    "start": 122.909,
+    "duration": 5.371
+  },
+  {
+    "text": "conduits that have, over the years, become\nknown as Birkeland currents.",
+    "start": 128.28,
+    "duration": 4.84
+  },
+  {
+    "text": "The establishment usually only talks\nabout magnetic and gravitational fields",
+    "start": 133.12,
+    "duration": 3.929
+  },
+  {
+    "text": "but the all-important term \"Electric\nCurrent\" usually has been missing. This",
+    "start": 137.049,
+    "duration": 5.281
+  },
+  {
+    "text": "latest SWARM article makes it appear that\nthe establishment may have been quietly",
+    "start": 142.33,
+    "duration": 5.579
+  },
+  {
+    "text": "listening to our ideas. Now of course,\nthey're never going to give us credit",
+    "start": 147.909,
+    "duration": 4.14
+  },
+  {
+    "text": "for it, they will now claim that they discovered\neverything and they will try to ignore the",
+    "start": 152.049,
+    "duration": 4.621
+  },
+  {
+    "text": "existence of our prior claims but I\nthink it's our duty, to ourselves and",
+    "start": 156.67,
+    "duration": 5.64
+  },
+  {
+    "text": "that actually to posterity, to stake out\nthose claims and say exactly what we",
+    "start": 162.31,
+    "duration": 5.22
+  },
+  {
+    "text": "have said, in the past, about things\nlike Birkeland currents. I will say that",
+    "start": 167.53,
+    "duration": 5.25
+  },
+  {
+    "text": "my model, which I hasten to say, is an\nextension of the work of some other",
+    "start": 172.78,
+    "duration": 4.799
+  },
+  {
+    "text": "folks such as Hannes Alfven, who won the\nNobel Prize in physics, and Anthony Peratt",
+    "start": 177.579,
+    "duration": 5.791
+  },
+  {
+    "text": "and a fellow with a name Stig Lundquist, who\nactually started the work on this",
+    "start": 183.37,
+    "duration": 4.649
+  },
+  {
+    "text": "model back in 1950. That model\npredicts most, if not all, of what the",
+    "start": 188.019,
+    "duration": 5.161
+  },
+  {
+    "text": "SWARM release refers to as their\ndiscoveries. It makes me a little bit",
+    "start": 193.18,
+    "duration": 4.47
+  },
+  {
+    "text": "worried about whether they have ever\nheard of some of the people. Certainly",
+    "start": 197.65,
+    "duration": 4.23
+  },
+  {
+    "text": "they had never heard of me but, you think,\nthey might have heard of Hannes Alfven and",
+    "start": 201.88,
+    "duration": 4.079
+  },
+  {
+    "text": "Tony Peratt and of course Kristian\nBirkeland. But anyway, in 2015, the",
+    "start": 205.959,
+    "duration": 5.791
+  },
+  {
+    "text": "scientific journal \"Progress In Physics\"\npublished an article of mine in which I",
+    "start": 211.75,
+    "duration": 5.459
+  },
+  {
+    "text": "included the quantitative derivation of this\nmodel. I finished it off, where Lundquist",
+    "start": 217.209,
+    "duration": 4.951
+  },
+  {
+    "text": "started it, and then I ended up\ndeveloping the equations that describe",
+    "start": 222.16,
+    "duration": 4.829
+  },
+  {
+    "text": "the physical structure of the Birkeland\nCurrent. Those equations must be interpreted to",
+    "start": 226.989,
+    "duration": 5.61
+  },
+  {
+    "text": "follow, they follow up on what those\nequations predict about what the model",
+    "start": 232.599,
+    "duration": 4.381
+  },
+  {
+    "text": "must look like. Lundquist, in spite of my\ngiving him credit for coming up with",
+    "start": 236.98,
+    "duration": 4.289
+  },
+  {
+    "text": "some of those equations; he never, like I\nguess most mathematicians don't,",
+    "start": 241.269,
+    "duration": 4.891
+  },
+  {
+    "text": "interpreted what those equations\npredicted for what the Birkeland current",
+    "start": 246.16,
+    "duration": 5.13
+  },
+  {
+    "text": "would look like and how it would act. But\nthe model, as I developed it, shows",
+    "start": 251.29,
+    "duration": 5.61
+  },
+  {
+    "text": "the presence of electrical currents that\nflow in spiral paths in opposite",
+    "start": 256.9,
+    "duration": 5.85
+  },
+  {
+    "text": "directions, those things were in that\nSWARM article. Oppositely directed",
+    "start": 262.75,
+    "duration": 4.47
+  },
+  {
+    "text": "currents, yes, and the Birkeland current\nitself is made up of a set of and this is,",
+    "start": 267.22,
+    "duration": 5.76
+  },
+  {
+    "text": "I think, the important point. The Birkeland\nCurrent is a set of concentric counter-",
+    "start": 272.98,
+    "duration": 6.6
+  },
+  {
+    "text": "rotating cylinders of electrical current\nand magnetic fields. And the currents and",
+    "start": 279.58,
+    "duration": 6.21
+  },
+  {
+    "text": "the fields are at all points in those\nBirkeland currents parallel, they're",
+    "start": 285.79,
+    "duration": 5.67
+  },
+  {
+    "text": "aligned. When you align the currents with\nthe magnetic fields, the internal",
+    "start": 291.46,
+    "duration": 5.34
+  },
+  {
+    "text": "stresses on the Birkeland current\nrelax and go to zero and that's what,",
+    "start": 296.8,
+    "duration": 4.74
+  },
+  {
+    "text": "that's the single property that makes\nthose Birkeland currents able to go over",
+    "start": 301.54,
+    "duration": 5.13
+  },
+  {
+    "text": "tremendous distances, mean, we know they\ngo from the Sun to the Earth, and that's",
+    "start": 306.67,
+    "duration": 5.52
+  },
+  {
+    "text": "93 million miles. Well that's, that's\nnothing, that's a, that's a child's foot-",
+    "start": 312.19,
+    "duration": 4.62
+  },
+  {
+    "text": "step for, compared to the astronomical\ndistances in light years. Some of these,",
+    "start": 316.81,
+    "duration": 5.31
+  },
+  {
+    "text": "so-called, jets from galaxies and they extend\nover and those currents don't come apart,",
+    "start": 322.12,
+    "duration": 6.18
+  },
+  {
+    "text": "they don't spread out like that, like a\ngarden hose will end up in a bunch of",
+    "start": 328.3,
+    "duration": 3.99
+  },
+  {
+    "text": "droplets sprinkling over your lawn. They\nhang right together in collinear",
+    "start": 332.29,
+    "duration": 5.73
+  },
+  {
+    "text": "alignment and that's, that's the reason\nthey do. The formal name for a Birkeland",
+    "start": 338.02,
+    "duration": 5.76
+  },
+  {
+    "text": "Current, really, is a field-aligned\ncurrent. It's a force free current",
+    "start": 343.78,
+    "duration": 5.88
+  },
+  {
+    "text": "because the fields are aligned. Anyhow, the\nSWARM article says, \"Each satellite",
+    "start": 349.66,
+    "duration": 5.19
+  },
+  {
+    "text": "has an (electrical) electric field\ninstrument positioned at the front to",
+    "start": 354.85,
+    "duration": 4.62
+  },
+  {
+    "text": "measure plasma density, drift and\nvelocity.\" Well if that's indeed the truth,",
+    "start": 359.47,
+    "duration": 3.87
+  },
+  {
+    "text": "then I would think they should have\nmeasured some kind of concentric counter-",
+    "start": 363.34,
+    "duration": 3.66
+  },
+  {
+    "text": "rotation because the counter rotation is\nthe prime property, as far as I'm concerned,",
+    "start": 367.0,
+    "duration": 5.55
+  },
+  {
+    "text": "on the Birkeland current. But either they\nhaven't observed it or, if they did",
+    "start": 372.55,
+    "duration": 4.41
+  },
+  {
+    "text": "observe it, they neglected to mention\nit. Maybe because they don't know why it",
+    "start": 376.96,
+    "duration": 3.69
+  },
+  {
+    "text": "occurs. It's well known that the Earth\nhas a geomagnetic field. It's less well",
+    "start": 380.65,
+    "duration": 6.42
+  },
+  {
+    "text": "known, but it's equally true, that the\nEarth and many of the planets also have",
+    "start": 387.07,
+    "duration": 5.61
+  },
+  {
+    "text": "their own electric field\nand the electric field that emanates",
+    "start": 392.68,
+    "duration": 4.97
+  },
+  {
+    "text": "either to or from Earth is a very\npowerful electric field. The Earth is, and",
+    "start": 397.65,
+    "duration": 6.84
+  },
+  {
+    "text": "most of the planets I think are, also\nelectrically charged. If",
+    "start": 404.49,
+    "duration": 5.55
+  },
+  {
+    "text": "you sit down and analyze what that\nphrase means, supersonic plasma jets,",
+    "start": 410.04,
+    "duration": 5.16
+  },
+  {
+    "text": "plasma is a word that defines a\ncloud-like collection of charges, you know,",
+    "start": 415.2,
+    "duration": 5.37
+  },
+  {
+    "text": "plus ions, negative electrons, all going\nalong and they're traveling along in a",
+    "start": 420.57,
+    "duration": 6.27
+  },
+  {
+    "text": "cloud-like formation and a jet\nis a moving stream. It's a flow. So a",
+    "start": 426.84,
+    "duration": 6.6
+  },
+  {
+    "text": "flow of charge. Well that's the\ndefinition of an electric current but we",
+    "start": 433.44,
+    "duration": 6.63
+  },
+  {
+    "text": "already knew this. That's, that's what\nBirkeland himself, back in the early",
+    "start": 440.07,
+    "duration": 4.41
+  },
+  {
+    "text": "nineteen hundreds, said was going on.\nThat's what they laughed at him for saying.",
+    "start": 444.48,
+    "duration": 4.38
+  },
+  {
+    "text": "For continuous updates on Space News\nfrom the Electric Universe, stay tuned to",
+    "start": 448.86,
+    "duration": 6.51
+  },
+  {
+    "text": "Thunderbolts.info",
+    "start": 455.37,
+    "duration": 3.83
+  }
+]

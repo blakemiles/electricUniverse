@@ -1,0 +1,952 @@
+[
+  {
+    "text": "Welcome to Space News from the Electric",
+    "start": 0.0,
+    "duration": 1.949
+  },
+  {
+    "text": "Universe brought to you by The",
+    "start": 1.949,
+    "duration": 2.041
+  },
+  {
+    "text": "Thunderbolts Project at Thunderbolts.info.",
+    "start": 3.99,
+    "duration": 2.49
+  },
+  {
+    "text": "Quantum experiments have long",
+    "start": 6.48,
+    "duration": 5.07
+  },
+  {
+    "text": "demonstrated that subatomic particles",
+    "start": 11.55,
+    "duration": 2.07
+  },
+  {
+    "text": "somehow know about each other instantly",
+    "start": 13.62,
+    "duration": 2.309
+  },
+  {
+    "text": "and at great distances. Institutional",
+    "start": 15.929,
+    "duration": 3.331
+  },
+  {
+    "text": "science utilizes terms such as \"quantum",
+    "start": 19.26,
+    "duration": 2.25
+  },
+  {
+    "text": "entanglement\" and \"spooky action\" to",
+    "start": 21.51,
+    "duration": 2.25
+  },
+  {
+    "text": "describe the phenomena. But the Electric",
+    "start": 23.76,
+    "duration": 2.609
+  },
+  {
+    "text": "Universe theory offers a very different",
+    "start": 26.369,
+    "duration": 2.191
+  },
+  {
+    "text": "perspective. The speed of light limit to",
+    "start": 28.56,
+    "duration": 2.76
+  },
+  {
+    "text": "communication imposed by the Theory of",
+    "start": 31.32,
+    "duration": 2.1
+  },
+  {
+    "text": "Relativity is not a universal speed",
+    "start": 33.42,
+    "duration": 2.67
+  },
+  {
+    "text": "limit. Physicist  Wal Thornhill  describes",
+    "start": 36.09,
+    "duration": 2.67
+  },
+  {
+    "text": "how this can be observed in our own",
+    "start": 38.76,
+    "duration": 1.65
+  },
+  {
+    "text": "celestial neighborhood. He writes: \"If",
+    "start": 40.41,
+    "duration": 2.969
+  },
+  {
+    "text": "gravity traveled at the slow speed of",
+    "start": 43.379,
+    "duration": 1.95
+  },
+  {
+    "text": "light, the Earth would be pulled to where",
+    "start": 45.329,
+    "duration": 1.71
+  },
+  {
+    "text": "the Sun appears in the sky and not the",
+    "start": 47.039,
+    "duration": 2.011
+  },
+  {
+    "text": "Sun's real position in space.",
+    "start": 49.05,
+    "duration": 2.43
+  },
+  {
+    "text": "This would result in a slingshot effect",
+    "start": 51.48,
+    "duration": 2.13
+  },
+  {
+    "text": "and toss planets out of the solar system",
+    "start": 53.61,
+    "duration": 2.339
+  },
+  {
+    "text": "in short order. Observations of close",
+    "start": 55.949,
+    "duration": 3.36
+  },
+  {
+    "text": "binary stars where the effect would be",
+    "start": 59.309,
+    "duration": 1.8
+  },
+  {
+    "text": "extreme and quickly noticeable show that",
+    "start": 61.109,
+    "duration": 2.281
+  },
+  {
+    "text": "gravity must operate at a speed in",
+    "start": 63.39,
+    "duration": 2.22
+  },
+  {
+    "text": "excess of 20 billion times the speed of",
+    "start": 65.61,
+    "duration": 2.85
+  },
+  {
+    "text": "light to prevent spiraling orbits. The",
+    "start": 68.46,
+    "duration": 3.0
+  },
+  {
+    "text": "Sun and the Earth have instantaneous",
+    "start": 71.46,
+    "duration": 1.8
+  },
+  {
+    "text": "information about their locations.\" In",
+    "start": 73.26,
+    "duration": 3.48
+  },
+  {
+    "text": "this Space News episode Nicholas",
+    "start": 76.74,
+    "duration": 2.34
+  },
+  {
+    "text": "Sykes elaborates the fundamental",
+    "start": 79.08,
+    "duration": 1.92
+  },
+  {
+    "text": "differences in this regard between the",
+    "start": 81.0,
+    "duration": 1.83
+  },
+  {
+    "text": "Electric Universe and standard cosmology.",
+    "start": 82.83,
+    "duration": 2.76
+  },
+  {
+    "text": "In my Thunderbolts' Space News video, \"Are",
+    "start": 85.59,
+    "duration": 5.099
+  },
+  {
+    "text": "the Dominoes Falling?\", it was argued that",
+    "start": 90.689,
+    "duration": 2.881
+  },
+  {
+    "text": "since the gravitational attraction",
+    "start": 93.57,
+    "duration": 1.71
+  },
+  {
+    "text": "between the Sun and the Earth must",
+    "start": 95.28,
+    "duration": 2.79
+  },
+  {
+    "text": "operate almost instantaneously or else",
+    "start": 98.07,
+    "duration": 3.479
+  },
+  {
+    "text": "the Earth and the other planets would be",
+    "start": 101.549,
+    "duration": 2.011
+  },
+  {
+    "text": "slung out of their orbits. This fact was,",
+    "start": 103.56,
+    "duration": 3.059
+  },
+  {
+    "text": "irreconcilable with the dictate of the",
+    "start": 106.619,
+    "duration": 2.82
+  },
+  {
+    "text": "Theory of Relativity that the fastest",
+    "start": 109.439,
+    "duration": 2.491
+  },
+  {
+    "text": "possible messenger between one point and",
+    "start": 111.93,
+    "duration": 3.09
+  },
+  {
+    "text": "another was light or, to be more accurate,",
+    "start": 115.02,
+    "duration": 2.91
+  },
+  {
+    "text": "the electromagnetic radiation of which",
+    "start": 117.93,
+    "duration": 3.66
+  },
+  {
+    "text": "visible light might be a component. This",
+    "start": 121.59,
+    "duration": 4.139
+  },
+  {
+    "text": "is because if the supposedly fastest",
+    "start": 125.729,
+    "duration": 2.73
+  },
+  {
+    "text": "possible messenger between the Sun and",
+    "start": 128.459,
+    "duration": 2.761
+  },
+  {
+    "text": "the Earth travels at the speed of light,",
+    "start": 131.22,
+    "duration": 2.4
+  },
+  {
+    "text": "then the gravitational attraction that",
+    "start": 133.62,
+    "duration": 3.24
+  },
+  {
+    "text": "exists between the Sun and the Earth",
+    "start": 136.86,
+    "duration": 2.01
+  },
+  {
+    "text": "could not be messaged between them any",
+    "start": 138.87,
+    "duration": 2.97
+  },
+  {
+    "text": "faster than light can travel between",
+    "start": 141.84,
+    "duration": 2.19
+  },
+  {
+    "text": "them. Since it is known that light takes",
+    "start": 144.03,
+    "duration": 3.87
+  },
+  {
+    "text": "8.3 minutes approximately to",
+    "start": 147.9,
+    "duration": 2.91
+  },
+  {
+    "text": "travel from the Sun to the Earth, it",
+    "start": 150.81,
+    "duration": 2.58
+  },
+  {
+    "text": "would have to be presumed that the",
+    "start": 153.39,
+    "duration": 2.01
+  },
+  {
+    "text": "gravitational attraction is messaged from",
+    "start": 155.4,
+    "duration": 2.82
+  },
+  {
+    "text": "the Sun to the Earth and vice versa",
+    "start": 158.22,
+    "duration": 2.4
+  },
+  {
+    "text": "within a period of time",
+    "start": 160.62,
+    "duration": 2.43
+  },
+  {
+    "text": "no shorter than 8.3",
+    "start": 163.05,
+    "duration": 1.92
+  },
+  {
+    "text": "minutes also.",
+    "start": 164.97,
+    "duration": 1.409
+  },
+  {
+    "text": "However, such a deduction must inevitably",
+    "start": 166.379,
+    "duration": 3.121
+  },
+  {
+    "text": "bear with it the conclusion that the",
+    "start": 169.5,
+    "duration": 3.09
+  },
+  {
+    "text": "Earth is actually being attracted to",
+    "start": 172.59,
+    "duration": 2.67
+  },
+  {
+    "text": "some point in space that was the",
+    "start": 175.26,
+    "duration": 1.949
+  },
+  {
+    "text": "location of the Sun's center of gravity",
+    "start": 177.209,
+    "duration": 2.28
+  },
+  {
+    "text": "8.3 minutes of time in the past, rather",
+    "start": 179.489,
+    "duration": 3.961
+  },
+  {
+    "text": "than where that center of gravity",
+    "start": 183.45,
+    "duration": 1.83
+  },
+  {
+    "text": "actually is when the Earth experiences",
+    "start": 185.28,
+    "duration": 2.97
+  },
+  {
+    "text": "the attraction. But that conclusion bears",
+    "start": 188.25,
+    "duration": 3.54
+  },
+  {
+    "text": "with it a number of fatal contradictions.",
+    "start": 191.79,
+    "duration": 2.55
+  },
+  {
+    "text": "Contradiction Number One:",
+    "start": 194.34,
+    "duration": 2.31
+  },
+  {
+    "text": "let us regard the planetary orbits of",
+    "start": 196.65,
+    "duration": 2.699
+  },
+  {
+    "text": "the solar system as circular, which we may",
+    "start": 199.349,
+    "duration": 2.911
+  },
+  {
+    "text": "do without prejudice to the argument. A",
+    "start": 202.26,
+    "duration": 2.67
+  },
+  {
+    "text": "centripetal force upon the orbiting",
+    "start": 204.93,
+    "duration": 2.1
+  },
+  {
+    "text": "Earth must be orthogonal to the motion",
+    "start": 207.03,
+    "duration": 2.37
+  },
+  {
+    "text": "of the planet.",
+    "start": 209.4,
+    "duration": 1.11
+  },
+  {
+    "text": "However, the gravitational force",
+    "start": 210.51,
+    "duration": 2.07
+  },
+  {
+    "text": "transmitted from the Sun to the Earth at",
+    "start": 212.58,
+    "duration": 3.12
+  },
+  {
+    "text": "the speed of light will, when it reaches",
+    "start": 215.7,
+    "duration": 2.64
+  },
+  {
+    "text": "the Earth, be displaced from the path it",
+    "start": 218.34,
+    "duration": 2.85
+  },
+  {
+    "text": "would have taken if the force had",
+    "start": 221.19,
+    "duration": 2.07
+  },
+  {
+    "text": "operated instantaneously. It is no longer",
+    "start": 223.26,
+    "duration": 2.55
+  },
+  {
+    "text": "orthogonal to the Earth's orbit hence is",
+    "start": 225.81,
+    "duration": 3.209
+  },
+  {
+    "text": "no longer centripetal and would",
+    "start": 229.019,
+    "duration": 2.64
+  },
+  {
+    "text": "influence the planet over an",
+    "start": 231.659,
+    "duration": 1.741
+  },
+  {
+    "text": "astronomically short time to leave the",
+    "start": 233.4,
+    "duration": 2.64
+  },
+  {
+    "text": "orbit, yet this does not happen.",
+    "start": 236.04,
+    "duration": 2.25
+  },
+  {
+    "text": "Contradiction Nmber Two: there is no",
+    "start": 238.29,
+    "duration": 3.69
+  },
+  {
+    "text": "time lapse term in Copernicus' or",
+    "start": 241.98,
+    "duration": 3.179
+  },
+  {
+    "text": "Kepler's equations for their observed",
+    "start": 245.159,
+    "duration": 2.61
+  },
+  {
+    "text": "planetary orbits, which do not therefore",
+    "start": 247.769,
+    "duration": 2.64
+  },
+  {
+    "text": "anticipate any time lapse such as",
+    "start": 250.409,
+    "duration": 2.94
+  },
+  {
+    "text": "gravitational attraction functioning as",
+    "start": 253.349,
+    "duration": 2.73
+  },
+  {
+    "text": "slowly as the speed of light would",
+    "start": 256.079,
+    "duration": 2.011
+  },
+  {
+    "text": "necessitate. Neither is there a",
+    "start": 258.09,
+    "duration": 3.06
+  },
+  {
+    "text": "time-lapse term in Newton's Third Law,",
+    "start": 261.15,
+    "duration": 2.549
+  },
+  {
+    "text": "which we interpret as",
+    "start": 263.699,
+    "duration": 1.981
+  },
+  {
+    "text": "\"Action and reaction are equal and",
+    "start": 265.68,
+    "duration": 2.459
+  },
+  {
+    "text": "opposite.\" In a Newtonian heliocentric",
+    "start": 268.139,
+    "duration": 3.571
+  },
+  {
+    "text": "system, we understand the forces of",
+    "start": 271.71,
+    "duration": 2.489
+  },
+  {
+    "text": "attraction that the primary and its",
+    "start": 274.199,
+    "duration": 2.31
+  },
+  {
+    "text": "satellite exert upon one another to be",
+    "start": 276.509,
+    "duration": 2.611
+  },
+  {
+    "text": "equal and opposite. A reaction that was",
+    "start": 279.12,
+    "duration": 4.019
+  },
+  {
+    "text": "caused by an action 8.3 minutes",
+    "start": 283.139,
+    "duration": 3.421
+  },
+  {
+    "text": "beforehand, in the case of the Earth and",
+    "start": 286.56,
+    "duration": 2.37
+  },
+  {
+    "text": "the Sun, would no longer be the opposite",
+    "start": 288.93,
+    "duration": 2.91
+  },
+  {
+    "text": "that the law describes. The effect of",
+    "start": 291.84,
+    "duration": 3.06
+  },
+  {
+    "text": "this can be seen from my diagram of the",
+    "start": 294.9,
+    "duration": 2.28
+  },
+  {
+    "text": "Sun as the reference point or frame of",
+    "start": 297.18,
+    "duration": 2.82
+  },
+  {
+    "text": "reference for an orbiting Earth. The",
+    "start": 300.0,
+    "duration": 3.75
+  },
+  {
+    "text": "issue is very well dealt with in the",
+    "start": 303.75,
+    "duration": 1.83
+  },
+  {
+    "text": "Thunderbolts Forum of October the 22nd",
+    "start": 305.58,
+    "duration": 2.94
+  },
+  {
+    "text": "2016, in which reference was made to work",
+    "start": 308.52,
+    "duration": 3.78
+  },
+  {
+    "text": "by Tom Van Flandern, in which Sir Arthur",
+    "start": 312.3,
+    "duration": 3.33
+  },
+  {
+    "text": "Eddington was quoted: \"As having exposed,",
+    "start": 315.63,
+    "duration": 2.849
+  },
+  {
+    "text": "by 1920, the issue in terms of the couple,",
+    "start": 318.479,
+    "duration": 3.961
+  },
+  {
+    "text": "which a lightspeed gravity between Sun",
+    "start": 322.44,
+    "duration": 3.06
+  },
+  {
+    "text": "and Earth would exert.\" This is the same",
+    "start": 325.5,
+    "duration": 3.09
+  },
+  {
+    "text": "argument as I am using, employing a",
+    "start": 328.59,
+    "duration": 1.829
+  },
+  {
+    "text": "slightly different viewpoint. I have not",
+    "start": 330.419,
+    "duration": 2.821
+  },
+  {
+    "text": "actually read this work before my video",
+    "start": 333.24,
+    "duration": 2.13
+  },
+  {
+    "text": "was produced. It is left to others to",
+    "start": 335.37,
+    "duration": 2.82
+  },
+  {
+    "text": "account for the fact that Eddington",
+    "start": 338.19,
+    "duration": 2.159
+  },
+  {
+    "text": "became a great proponent for Einsteinian",
+    "start": 340.349,
+    "duration": 2.491
+  },
+  {
+    "text": "relativity, in spite of his work on this",
+    "start": 342.84,
+    "duration": 3.06
+  },
+  {
+    "text": "issue. The connection then between the",
+    "start": 345.9,
+    "duration": 2.97
+  },
+  {
+    "text": "Sun and the planets should be envisaged",
+    "start": 348.87,
+    "duration": 2.34
+  },
+  {
+    "text": "as an ether tightrope. In the current EU",
+    "start": 351.21,
+    "duration": 4.29
+  },
+  {
+    "text": "Model, the ether of space is understood",
+    "start": 355.5,
+    "duration": 2.639
+  },
+  {
+    "text": "as Wal Thornhill describes it \"to",
+    "start": 358.139,
+    "duration": 2.881
+  },
+  {
+    "text": "consist of a plenum of neutrinos.\" In our",
+    "start": 361.02,
+    "duration": 3.75
+  },
+  {
+    "text": "experience a rope may carrier a transverse",
+    "start": 364.77,
+    "duration": 2.429
+  },
+  {
+    "text": "wave caused by moving one end of the",
+    "start": 367.199,
+    "duration": 2.25
+  },
+  {
+    "text": "rope,",
+    "start": 369.449,
+    "duration": 0.75
+  },
+  {
+    "text": "perhaps from one side to the other or",
+    "start": 370.199,
+    "duration": 2.161
+  },
+  {
+    "text": "perhaps up and down. After some time that",
+    "start": 372.36,
+    "duration": 3.0
+  },
+  {
+    "text": "transverse wave motion will reach the",
+    "start": 375.36,
+    "duration": 2.82
+  },
+  {
+    "text": "other end of the rope.",
+    "start": 378.18,
+    "duration": 1.44
+  },
+  {
+    "text": "However, if the rope is made of barely",
+    "start": 379.62,
+    "duration": 2.729
+  },
+  {
+    "text": "extendable material and if one end is",
+    "start": 382.349,
+    "duration": 2.551
+  },
+  {
+    "text": "tugged, that tug will be felt at the",
+    "start": 384.9,
+    "duration": 2.88
+  },
+  {
+    "text": "other end, very much faster, almost by",
+    "start": 387.78,
+    "duration": 2.94
+  },
+  {
+    "text": "comparison, of the time the tug is made.",
+    "start": 390.72,
+    "duration": 2.43
+  },
+  {
+    "text": "This comparison may be likened to the",
+    "start": 393.15,
+    "duration": 3.239
+  },
+  {
+    "text": "relationship between the transmission of",
+    "start": 396.389,
+    "duration": 2.4
+  },
+  {
+    "text": "light",
+    "start": 398.789,
+    "duration": 0.751
+  },
+  {
+    "text": "by transverse electromagnetic wave and",
+    "start": 399.54,
+    "duration": 3.87
+  },
+  {
+    "text": "the very much faster gravitational",
+    "start": 403.41,
+    "duration": 2.16
+  },
+  {
+    "text": "attraction between two massive bodies.",
+    "start": 405.57,
+    "duration": 2.55
+  },
+  {
+    "text": "Electromagnetic radiation is by its",
+    "start": 408.12,
+    "duration": 3.75
+  },
+  {
+    "text": "nature transverse but gravitational",
+    "start": 411.87,
+    "duration": 3.09
+  },
+  {
+    "text": "attraction or, indeed if it is so",
+    "start": 414.96,
+    "duration": 2.28
+  },
+  {
+    "text": "interpreted repulsion, is longitudinal.",
+    "start": 417.24,
+    "duration": 2.94
+  },
+  {
+    "text": "Kepler's and Newton's laws may be",
+    "start": 420.18,
+    "duration": 3.18
+  },
+  {
+    "text": "thought to assume any time factor to be",
+    "start": 423.36,
+    "duration": 2.91
+  },
+  {
+    "text": "so vanishingly small that it can be",
+    "start": 426.27,
+    "duration": 2.46
+  },
+  {
+    "text": "neglected",
+    "start": 428.73,
+    "duration": 0.57
+  },
+  {
+    "text": "altogether. The EU Model of gravitation",
+    "start": 429.3,
+    "duration": 3.24
+  },
+  {
+    "text": "requires an almost instantenaity",
+    "start": 432.54,
+    "duration": 2.79
+  },
+  {
+    "text": "condition too, though that almost is not",
+    "start": 435.33,
+    "duration": 3.18
+  },
+  {
+    "text": "claimed to be collapsed into absolute",
+    "start": 438.51,
+    "duration": 2.19
+  },
+  {
+    "text": "instantenaity. There is, after all, the",
+    "start": 440.7,
+    "duration": 3.03
+  },
+  {
+    "text": "possibility of a correction of planetary",
+    "start": 443.73,
+    "duration": 2.94
+  },
+  {
+    "text": "orbits that start to go astray by extra",
+    "start": 446.67,
+    "duration": 3.51
+  },
+  {
+    "text": "Newtonian electrical attractions and",
+    "start": 450.18,
+    "duration": 2.22
+  },
+  {
+    "text": "repulsions for Newtonian physics does",
+    "start": 452.4,
+    "duration": 2.73
+  },
+  {
+    "text": "not account for the orbital stability",
+    "start": 455.13,
+    "duration": 1.71
+  },
+  {
+    "text": "that is observed or the small",
+    "start": 456.84,
+    "duration": 2.82
+  },
+  {
+    "text": "corrections that are from, time to time,",
+    "start": 459.66,
+    "duration": 1.8
+  },
+  {
+    "text": "manifest. Such corrections, however,",
+    "start": 461.46,
+    "duration": 3.78
+  },
+  {
+    "text": "could not prevent the first-order steady",
+    "start": 465.24,
+    "duration": 2.85
+  },
+  {
+    "text": "propulsion out of any orbit that a",
+    "start": 468.09,
+    "duration": 2.4
+  },
+  {
+    "text": "lightspeed gravity would inevitably",
+    "start": 470.49,
+    "duration": 2.07
+  },
+  {
+    "text": "produce. There are many other arguments",
+    "start": 472.56,
+    "duration": 4.05
+  },
+  {
+    "text": "against Einsteinian relativity, some of",
+    "start": 476.61,
+    "duration": 2.73
+  },
+  {
+    "text": "which declare that the great story of",
+    "start": 479.34,
+    "duration": 2.04
+  },
+  {
+    "text": "the ether drift experiments of the last",
+    "start": 481.38,
+    "duration": 2.22
+  },
+  {
+    "text": "century is commonly misreported. The",
+    "start": 483.6,
+    "duration": 4.14
+  },
+  {
+    "text": "light exceeding speed of gravity by far",
+    "start": 487.74,
+    "duration": 2.37
+  },
+  {
+    "text": "is but one more falling domino",
+    "start": 490.11,
+    "duration": 3.0
+  },
+  {
+    "text": "collapsing a credible Theory of",
+    "start": 493.11,
+    "duration": 2.73
+  },
+  {
+    "text": "Relativity.",
+    "start": 495.84,
+    "duration": 2.19
+  },
+  {
+    "text": "For continuous updates on Space News",
+    "start": 498.03,
+    "duration": 2.37
+  },
+  {
+    "text": "from the Electric Universe stay tuned to",
+    "start": 500.4,
+    "duration": 2.85
+  },
+  {
+    "text": "Thunderbolts.info",
+    "start": 503.25,
+    "duration": 6.68
+  }
+]

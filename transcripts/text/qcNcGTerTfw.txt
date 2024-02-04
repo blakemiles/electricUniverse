@@ -1,0 +1,832 @@
+[
+  {
+    "text": "SYMBOLS OF AN ALIEN SKY",
+    "start": 2.96,
+    "duration": 4.12
+  },
+  {
+    "text": "Episode 4\nTHE ELECTRIC COMET - Best Evidence",
+    "start": 8.66,
+    "duration": 4.219
+  },
+  {
+    "text": "Presented by\nTHE THUNDERBOLTS PROJECT™",
+    "start": 13.759,
+    "duration": 4.177
+  },
+  {
+    "text": "What is a comet?",
+    "start": 27.588,
+    "duration": 1.472
+  },
+  {
+    "text": "To answer that question we've\ncontrasted the common scientific view",
+    "start": 29.085,
+    "duration": 4.816
+  },
+  {
+    "text": "with new evidence that\nchallenges that view.",
+    "start": 33.926,
+    "duration": 2.995
+  },
+  {
+    "text": "The new evidence directs\nour attention to the",
+    "start": 36.946,
+    "duration": 2.644
+  },
+  {
+    "text": "Electrical behavior of comets,",
+    "start": 39.59,
+    "duration": 2.43
+  },
+  {
+    "text": "almost entirely ignored through\nthe course of the space age.",
+    "start": 42.02,
+    "duration": 4.508
+  },
+  {
+    "text": "Of course, theoretical\nissues will always arise",
+    "start": 46.553,
+    "duration": 3.498
+  },
+  {
+    "text": "when facts and interpretations\nare intermingled.",
+    "start": 50.076,
+    "duration": 3.344
+  },
+  {
+    "text": "But, when a theoretical\ninterpretation masquerades as fact,",
+    "start": 53.445,
+    "duration": 4.13
+  },
+  {
+    "text": "that is a violation of the first\nprinciple of scientific investigation.",
+    "start": 57.6,
+    "duration": 5.004
+  },
+  {
+    "text": "For many decades, it's been\nheld that a comet is a leftover",
+    "start": 62.629,
+    "duration": 4.014
+  },
+  {
+    "text": "from the primordial formative\nphase of the solar system.",
+    "start": 66.668,
+    "duration": 3.689
+  },
+  {
+    "text": "That phase is typically\ncounted in billions of years,",
+    "start": 70.382,
+    "duration": 3.683
+  },
+  {
+    "text": "and more often than not, the comet\ntheory will be stated as fact",
+    "start": 74.09,
+    "duration": 4.523
+  },
+  {
+    "text": "simply because the idea is\npopular in the scientific media.",
+    "start": 78.638,
+    "duration": 4.451
+  },
+  {
+    "text": "And so we read that...\n\"Comets are often referred to as 'dirty snowballs'.",
+    "start": 83.114,
+    "duration": 5.477
+  },
+  {
+    "text": "They are left over from the formation of\nstars and planets billions of years ago\".",
+    "start": 88.616,
+    "duration": 6.998
+  },
+  {
+    "text": "This popular message blurred a crucial\ndistinction between what is known",
+    "start": 95.639,
+    "duration": 5.562
+  },
+  {
+    "text": "- the undisputed facts -\n and a theoretical supposition.",
+    "start": 101.226,
+    "duration": 4.774
+  },
+  {
+    "text": "So, we're told a story ...",
+    "start": 106.025,
+    "duration": 2.358
+  },
+  {
+    "text": "\"Comets are basically dusty snowballs\nwhich orbit the Sun. They are made of ices,",
+    "start": 108.408,
+    "duration": 6.646
+  },
+  {
+    "text": "such as water, carbon dioxide, ammonia\nand methane, mixed with dust.",
+    "start": 115.079,
+    "duration": 5.382
+  },
+  {
+    "text": "These materials came from the time when\nthe solar system was formed\".",
+    "start": 120.486,
+    "duration": 5.627
+  },
+  {
+    "text": "In this case, the faith in a theory\nis ironic, since no fact about comets",
+    "start": 126.138,
+    "duration": 5.548
+  },
+  {
+    "text": "has even remotely substantiated a\ncomet's origins billions of years ago.",
+    "start": 131.711,
+    "duration": 5.144
+  },
+  {
+    "text": "And, there are dozens of reasons\nnot to believe that idea.",
+    "start": 136.88,
+    "duration": 4.485
+  },
+  {
+    "text": "So, it's encouraging to see a sliver of doubt\nnow creeping into official comet science.",
+    "start": 141.39,
+    "duration": 6.537
+  },
+  {
+    "text": "We see it, for example, in the\nscience magazine Sky and Telescope:",
+    "start": 147.952,
+    "duration": 4.863
+  },
+  {
+    "text": "formation in the solar system\nabout 4.6 billion years ago\".",
+    "start": 157.378,
+    "duration": 6.438
+  },
+  {
+    "text": "'Suspected'.",
+    "start": 164.957,
+    "duration": 1.763
+  },
+  {
+    "text": "That's a refreshing use of language\nactually describing the present situation.",
+    "start": 166.745,
+    "duration": 5.441
+  },
+  {
+    "text": "Always remember that today's textbook theory\nof comets arose prior to the space age.",
+    "start": 172.211,
+    "duration": 5.918
+  },
+  {
+    "text": "And where interpretations differ,\nthe first reference should be",
+    "start": 178.154,
+    "duration": 4.205
+  },
+  {
+    "text": "the factual bedrock of comet science,\nnot theoretical suppositions.",
+    "start": 182.391,
+    "duration": 6.117
+  },
+  {
+    "text": "With this in mind, we offer here a\ncomparative analysis of two models:",
+    "start": 188.797,
+    "duration": 6.669
+  },
+  {
+    "text": "1) the standard model; and\n2) the electrical model.",
+    "start": 195.491,
+    "duration": 5.308
+  },
+  {
+    "text": "Both models are sufficiently explicit to\ninvite a wide range of scientific tests",
+    "start": 200.8,
+    "duration": 6.069
+  },
+  {
+    "text": "where the inherent predictions\nof the two models",
+    "start": 206.894,
+    "duration": 3.237
+  },
+  {
+    "text": "can be readily compared\nto objective findings.",
+    "start": 210.156,
+    "duration": 4.285
+  },
+  {
+    "text": "Standard Model of Comets",
+    "start": 215.109,
+    "duration": 3.812
+  },
+  {
+    "text": "The standard model, largely\nunchanged since the 1950's,",
+    "start": 219.548,
+    "duration": 4.365
+  },
+  {
+    "text": "sees comets as a window to the\nformation of the solar system.",
+    "start": 223.938,
+    "duration": 4.26
+  },
+  {
+    "text": "Here these bodies are composed\nof the primeval matter",
+    "start": 228.223,
+    "duration": 3.666
+  },
+  {
+    "text": "from which the Sun and\nthe planets formed,",
+    "start": 231.914,
+    "duration": 2.91
+  },
+  {
+    "text": "perhaps holding keys to\nthe origins of life.",
+    "start": 234.849,
+    "duration": 4.102
+  },
+  {
+    "text": "A comet is a dirty chunk of ice,",
+    "start": 238.976,
+    "duration": 3.149
+  },
+  {
+    "text": "and it's visible displays are\ndue to warming by the Sun,",
+    "start": 242.15,
+    "duration": 4.308
+  },
+  {
+    "text": "such that vaporized water ice and other\nvolatiles erupt as jets from the surface.",
+    "start": 246.483,
+    "duration": 7.349
+  },
+  {
+    "text": "As we found in our first\nelectric comet documentary,",
+    "start": 253.857,
+    "duration": 3.729
+  },
+  {
+    "text": "the standard model did not fare well\nin the course of the space age.",
+    "start": 257.611,
+    "duration": 4.068
+  },
+  {
+    "text": "Taken as a whole, the failure is confirmed\nby the direct testimony of leading",
+    "start": 261.704,
+    "duration": 5.248
+  },
+  {
+    "text": "comet investigators as they confronted\na continuing stream of surprises.",
+    "start": 266.977,
+    "duration": 5.748
+  },
+  {
+    "text": "Together, these surprises\nadd dramatic support for",
+    "start": 272.75,
+    "duration": 3.482
+  },
+  {
+    "text": "an alternative perspective\n- an electric model.",
+    "start": 276.257,
+    "duration": 4.548
+  },
+  {
+    "text": "Electric Model of Comets",
+    "start": 282.141,
+    "duration": 3.748
+  },
+  {
+    "text": "The electric model starts with the\nevident electric field of the Sun,",
+    "start": 287.199,
+    "duration": 5.74
+  },
+  {
+    "text": "a massive electric potential across\nthe volume of the heliosphere.",
+    "start": 292.964,
+    "duration": 5.467
+  },
+  {
+    "text": "In this view, comets possess\naccumulated charge.",
+    "start": 298.456,
+    "duration": 3.76
+  },
+  {
+    "text": "And they move on distinctly\nelliptical orbits -",
+    "start": 302.241,
+    "duration": 4.474
+  },
+  {
+    "text": "that means, they periodically plunge\nthrough the Sun's electric field,",
+    "start": 306.74,
+    "duration": 5.286
+  },
+  {
+    "text": "and as they enter regions of different\ncharge these bodies discharge electrically.",
+    "start": 312.051,
+    "duration": 6.418
+  },
+  {
+    "text": "To place this summary in it's historical\ncontext, the door must stay open to a new",
+    "start": 318.494,
+    "duration": 6.067
+  },
+  {
+    "text": "(and perhaps unsettling) truth\nabout planetary history.",
+    "start": 324.595,
+    "duration": 5.467
+  },
+  {
+    "text": "When we observe planetary\nmotions today,",
+    "start": 330.087,
+    "duration": 3.578
+  },
+  {
+    "text": "we see highly stable and\npredictable orbits,",
+    "start": 333.69,
+    "duration": 3.493
+  },
+  {
+    "text": "as if the planets had moved\nthis way for a billion years.",
+    "start": 337.208,
+    "duration": 4.462
+  },
+  {
+    "text": "But, it has not always been so.",
+    "start": 341.695,
+    "duration": 3.091
+  },
+  {
+    "text": "Our confidence on this point comes from\nthe consistency of global testimony.",
+    "start": 345.698,
+    "duration": 6.225
+  },
+  {
+    "text": "It seems that every\nculture on Earth",
+    "start": 351.948,
+    "duration": 2.424
+  },
+  {
+    "text": "preserved vivid memories of\nworld altering catastrophe.",
+    "start": 354.397,
+    "duration": 3.982
+  },
+  {
+    "text": "And the agent most\ncommonly cited is a comet.",
+    "start": 358.404,
+    "duration": 3.842
+  },
+  {
+    "text": "Irrespective of\ndifferences in language,",
+    "start": 362.271,
+    "duration": 3.411
+  },
+  {
+    "text": "the cultures describe a monstrous\nform attacking the world.",
+    "start": 365.707,
+    "duration": 4.22
+  },
+  {
+    "text": "And these descriptions consistently use\nthe local words and symbols for a comet.",
+    "start": 369.952,
+    "duration": 6.095
+  },
+  {
+    "text": "Well, this is ground\nwe've already covered,",
+    "start": 376.072,
+    "duration": 2.574
+  },
+  {
+    "text": "but we cannot afford to ignore a\nconsistent and global human pattern,",
+    "start": 378.671,
+    "duration": 4.479
+  },
+  {
+    "text": "no matter how challenging to\nconventional opinion today.",
+    "start": 383.175,
+    "duration": 3.874
+  },
+  {
+    "text": "Converging human testimony from around\nthe world assures us that Solar System's",
+    "start": 387.05,
+    "duration": 5.485
+  },
+  {
+    "text": "history was punctuated by episodes of\ninstability and interplanetary violence.",
+    "start": 392.56,
+    "duration": 6.641
+  },
+  {
+    "text": "Comets, asteroids and\nmeteors originated in",
+    "start": 399.226,
+    "duration": 4.478
+  },
+  {
+    "text": "the electrical excavation of surface\nmaterial from planets and moons.",
+    "start": 403.729,
+    "duration": 5.002
+  },
+  {
+    "text": "As we've documented in earlier episodes\nof this series, the most notable",
+    "start": 408.756,
+    "duration": 5.589
+  },
+  {
+    "text": "players in these events were our two\nclosest planetary neighbors today:",
+    "start": 414.37,
+    "duration": 4.795
+  },
+  {
+    "text": "the planet Venus",
+    "start": 419.19,
+    "duration": 2.443
+  },
+  {
+    "text": "and the planet Mars.",
+    "start": 421.658,
+    "duration": 2.174
+  },
+  {
+    "text": "For this reason, our reconsideration\nof comet theory requires",
+    "start": 423.857,
+    "duration": 5.14
+  },
+  {
+    "text": "that we address the worldwide\nmemories of planetary upheaval.",
+    "start": 429.022,
+    "duration": 4.865
+  },
+  {
+    "text": "Comets are not\nwhat we've been taught.",
+    "start": 433.912,
+    "duration": 2.506
+  },
+  {
+    "text": "Yet, recent investigations of\ncomets can take us directly",
+    "start": 436.443,
+    "duration": 4.038
+  },
+  {
+    "text": "to this extraordinary\nconclusion.",
+    "start": 440.506,
+    "duration": 2.418
+  },
+  {
+    "text": "Standard Model of Comets",
+    "start": 442.949,
+    "duration": 4.55
+  },
+  {
+    "text": "One of the most telling milestones\nin the history of comet science",
+    "start": 447.927,
+    "duration": 4.484
+  },
+  {
+    "text": "was the Deep Impact Mission\nto Comet Tempel 1.",
+    "start": 452.436,
+    "duration": 3.662
+  },
+  {
+    "text": "But, here is a\nremarkable dilemma.",
+    "start": 456.123,
+    "duration": 2.764
+  },
+  {
+    "text": "As occurred in all prior\nvisits to comets,",
+    "start": 458.912,
+    "duration": 2.754
+  },
+  {
+    "text": "no appreciable water ice was seen on\nthe surface of this active comet.",
+    "start": 461.691,
+    "duration": 5.324
+  },
+  {
+    "text": "From the first disclosures of dry\ncometary surfaces, theorists speculated",
+    "start": 467.04,
+    "duration": 5.426
+  },
+  {
+    "text": "that such surfaces simply hid the icy,\nwatery content beneath the surface.",
+    "start": 472.491,
+    "duration": 5.927
+  },
+  {
+    "text": "Then, in response to solar warming,\nsubsurface pockets of water vapor formed,",
+    "start": 478.443,
+    "duration": 5.356
+  },
+  {
+    "text": "exploding through the crust\nto create the observed jets.",
+    "start": 483.824,
+    "duration": 4.997
+  },
+  {
+    "text": "Of course, the envisioned rupture of the\nsurface would expose the presumed ice below.",
+    "start": 490.963,
+    "duration": 5.856
+  },
+  {
+    "text": "But, as occurred in\nall visits to comets,",
+    "start": 496.844,
+    "duration": 2.741
+  },
+  {
+    "text": "no detection of Tempel 1\nsubsurface ice was ever reported.",
+    "start": 499.61,
+    "duration": 5.249
+  },
+  {
+    "text": "Nevertheless, mission scientists\ntell us that infrared readings",
+    "start": 504.884,
+    "duration": 5.046
+  },
+  {
+    "text": "did detect substantial water\nice in the ejecta cloud.",
+    "start": 509.955,
+    "duration": 4.767
+  },
+  {
+    "text": "\"Though ice was not observed on the surface in the impact region,\nstrong absorptions near 3 µm (micrometer) due to water ice are\ndetected in IR measurements of the ejecta from the impact event.\"",
+    "start": 514.747,
+    "duration": 9.823
+  },
+  {
+    "text": "The enigma deserves investigation.",
+    "start": 524.57,
+    "duration": 2.897
+  },
+  {
+    "text": "What happened at the surface and below\nthe surface at the moment of impact?",
+    "start": 527.492,
+    "duration": 5.247
+  },
+  {
+    "text": "Most NASA scientists interpreted the\nfast-moving cloud as vaporized silicates.",
+    "start": 532.764,
+    "duration": 5.921
+  },
+  {
+    "text": "The cloud was self-luminous at an\nestimated 1000º to 2000º Kelvin,",
+    "start": 538.71,
+    "duration": 6.767
+  },
+  {
+    "text": "and the low angle of the impact and\nblast propelled ejecta downrange.",
+    "start": 545.502,
+    "duration": 6.193
+  },
+  {
+    "text": "The infrared readings of the ejecta\noccurred about 3 seconds after impact",
+    "start": 554.099,
+    "duration": 5.005
+  },
+  {
+    "text": "as the cloud came into the\nview of the infrared camera.",
+    "start": 559.129,
+    "duration": 3.704
+  },
+  {
+    "text": "These readings show what NASA scientists\ndescribe as a narrow beam of water.",
+    "start": 562.858,
+    "duration": 5.471
+  },
+  {
+    "text": "This water column was easily distinguished\nfrom the rapidly moving dust cloud",
+    "start": 568.354,
+    "duration": 5.098
+  },
+  {
+    "text": "and was very close to vertical\ndirectly over the impact site.",
+    "start": 573.477,
+    "duration": 4.647
+  },
+  {
+    "text": "That's a bizarre contrast to the\ntrajectory of the dust cloud.",
+    "start": 578.149,
+    "duration": 5.889
+  },
+  {
+    "text": "\"The highly collimated water ice-rich component\ncorresponds to a low-velocity, high-angle (i.e.,\nnear vertical), ejecta cloud above the impact.\"",
+    "start": 586.69,
+    "duration": 8.088
+  },
+  {
+    "text": "How did a vertical column of water\nget instantaneously separated from",
+    "start": 594.803,
+    "duration": 4.731
+  },
+  {
+    "text": "an explosion of dust, heated to over\n1,000ºK and propelled downrange.",
+    "start": 599.559,
+    "duration": 6.144
+  },
+  {
+    "text": "The Electric Comet model\noffers an answer.",
+    "start": 605.728,
+    "duration": 3.837
+  },
+  {
+    "text": "The heated silicate cloud\nwould be ionized (a plasma),",
+    "start": 609.59,
+    "duration": 4.647
+  },
+  {
+    "text": "a conductive pathway for an\nexplosive electric discharge.",
+    "start": 614.262,
+    "duration": 4.757
+  },
+  {
+    "text": "The evidence indicates the discharge occurred\nbetween a negatively charged nucleus",
+    "start": 619.044,
+    "duration": 5.404
+  },
+  {
+    "text": "and a surrounding region\nof positive charge.",
+    "start": 624.473,
+    "duration": 3.709
+  },
+  {
+    "text": "An abundance of hydrogen ions gathered at,\nor close, to the surface of the nucleus",
+    "start": 628.207,
+    "duration": 5.662
+  },
+  {
+    "text": "would provide the necessary\nconditions for two things:",
+    "start": 633.894,
+    "duration": 3.577
+  },
+  {
+    "text": "first, an instantaneous electrical\nbreakdown, or discharge, on impact;",
+    "start": 637.497,
+    "duration": 5.323
+  },
+  {
+    "text": "and second, an equally instantaneous\nelectrochemical response to the discharge.",
+    "start": 642.845,
+    "duration": 6.345
+  },
+  {
+    "text": "Consider what is already known\nfrom laboratory experiments.",
+    "start": 649.215,
+    "duration": 5.109
+  },
+  {
+    "text": "In a condition of electrical breakdown\nhydrogen ions from the solar wind,",
+    "start": 654.349,
+    "duration": 5.283
+  },
+  {
+    "text": "combining with the\noxygen and silicates",
+    "start": 659.657,
+    "duration": 2.722
+  },
+  {
+    "text": "can produce an abundance\nof hydroxyl, and/or water.",
+    "start": 662.404,
+    "duration": 3.84
+  },
+  {
+    "text": "This very process has\nbeen proposed",
+    "start": 666.269,
+    "duration": 2.492
+  },
+  {
+    "text": "to explain the enigmatic\nwater on the planet Mercury.",
+    "start": 668.786,
+    "duration": 4.217
+  },
+  {
+    "text": "\"...Oxygen-containing surface rocks could release water\nthrough sputtering by protons from the solar wind.\"",
+    "start": 673.028,
+    "duration": 9.27
+  },
+  {
+    "text": "The Electric Comet models suggest that\nthe detected column of water directly",
+    "start": 682.629,
+    "duration": 5.169
+  },
+  {
+    "text": "over the impact site occurred along\nthe path of an electric discharge,",
+    "start": 687.798,
+    "duration": 5.052
+  },
+  {
+    "text": "and that always means roughly\nperpendicular to the surface.",
+    "start": 692.875,
+    "duration": 3.648
+  },
+  {
+    "text": "Water created explosively,\nelectrochemically, in the ejecta -",
+    "start": 696.548,
+    "duration": 5.364
+  },
+  {
+    "text": "even if no water lay beneath the\ndry surface of comet Tempel 1.",
+    "start": 701.937,
+    "duration": 5.802
+  },
+  {
+    "text": "This intriguing answer takes us\ndeeper into the infrared readings.",
+    "start": 707.764,
+    "duration": 5.963
+  },
+  {
+    "text": "The conventional model\npredicted that comet water ice",
+    "start": 713.752,
+    "duration": 3.712
+  },
+  {
+    "text": "would contain substantial\nquantities of dust.",
+    "start": 717.489,
+    "duration": 3.087
+  },
+  {
+    "text": "This dust content would be\nexpected to show up as refractory",
+    "start": 720.601,
+    "duration": 4.163
+  },
+  {
+    "text": "particles in the ice of the\ncollimated ejecta plume.",
+    "start": 724.789,
+    "duration": 4.02
+  },
+  {
+    "text": "But amazingly, the ice particles\nthemselves were free of dust.",
+    "start": 728.834,
+    "duration": 4.711
+  },
+  {
+    "text": "\"These pristine materials consist of very fine grained (~1 ± 1 µm)\nwater ice particles, which are free from refractory impurities.\"",
+    "start": 733.57,
+    "duration": 7.949
+  },
+  {
+    "text": "It seems the instruments measured\nvirgin water, water freshly formed,",
+    "start": 741.97,
+    "duration": 4.712
+  },
+  {
+    "text": "as one would expect from the\ninstantaneous electrochemistry",
+    "start": 746.707,
+    "duration": 4.102
+  },
+  {
+    "text": "of water production from\nhydrated silicates.",
+    "start": 750.834,
+    "duration": 3.251
+  },
+  {
+    "text": "This very point is emphasized in a\nrecent analysis by Dr. Franklin Anariba,",
+    "start": 754.11,
+    "duration": 5.537
+  },
+  {
+    "text": "a specialist in electrochemistry at the\nSingapore University of Technology and Design.",
+    "start": 759.672,
+    "duration": 6.591
+  },
+  {
+    "text": "\"Data from the infrared readings of the impact ejecta suggest that the\nexplosive event may have triggered electrochemical production of water\nalong an electric discharge pathway directly over the impact site.\"",
+    "start": 766.288,
+    "duration": 10.601
+  },
+  {
+    "text": "Allow this possibility into discussions\nof comet science, in particular,",
+    "start": 777.089,
+    "duration": 4.916
+  },
+  {
+    "text": "the unsolved mysteries of missing\nwater and water creation by comets,",
+    "start": 782.03,
+    "duration": 5.079
+  },
+  {
+    "text": "and the picture\nchanges dramatically.",
+    "start": 787.134,
+    "duration": 3.084
+  },
+  {
+    "text": "\"The question that must be asked is whether the water\ndetected in infrared readings of the Deep Impact ejecta\nwas the byproduct of electrochemical reactions...\"",
+    "start": 790.789,
+    "duration": 9.14
+  },
+  {
+    "text": "\"...driven by a potential difference between the comet and the solar flux:\nvaporized silicates transacting with a concentration of hydrogen ions\nfrom the Sun, localized on or around the nucleus.\"",
+    "start": 799.929,
+    "duration": 11.707
+  },
+  {
+    "text": "When we follow this possibility, the\nmissing water on the surface of Temple 1",
+    "start": 812.056,
+    "duration": 4.945
+  },
+  {
+    "text": "becomes an affirmation of\nthe Electric Comet model.",
+    "start": 817.026,
+    "duration": 4.119
+  },
+  {
+    "text": " ",
+    "start": 840.541,
+    "duration": 4.992
+  },
+  {
+    "text": "Thunderbolts.info",
+    "start": 846.058,
+    "duration": 4.219
+  }
+]

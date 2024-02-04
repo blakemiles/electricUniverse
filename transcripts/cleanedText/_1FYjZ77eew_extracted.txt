@@ -1,0 +1,711 @@
+I want to introduce dr. jerry Pollak
+from the University of Washington where
+he's a professor of bioengineering for
+the past 10 years he has been looking at
+electrical structures in water as his
+presentation last year was extremely
+compelling and I I'm hoping that he'll
+review some of that territory as he also
+brings us some of his new work and and
+brings us up to speed on what he's doing
+and the implications of his work for the
+future so please welcome to the stage
+dr. Pollock well thanks thanks David
+actually I got a prop here they gave me
+some water but but the topic the topic
+of the day is not water I love to talk
+about water it's so interesting it's so
+full of charges and it fits so well with
+with the electric universe but I want to
+talk about something else today I want
+to talk about the Institute for venture
+science a few of you may remember I
+don't know how many of you are new or
+not new and we talked about this last
+year at the meeting and this is really a
+kind of progress report though I will
+start with some rationale for those of
+you who were not here because the first
+thing you may be wondering is what
+what's the Institute for venture science
+and what's venture science and why
+bother with all this so what I want to
+do today the agenda is as follows first
+of all is it really true as martin lopez
+Cordura says in his recent book that
+this is the twilight of the scientific
+age I'm not sure how you feel about that
+but
+okay and and and then the issue of is
+there really a chronic decline in
+science as we see it compared to say a
+hundred years ago with the Einsteins and
+the plunks and people like that is the
+chronic decline curable and how can the
+Institute for ventures science bring a
+cure to this this syndrome and I want to
+tell you the current status of the
+Institute for venture science okay so we
+start with an idea an idea that you may
+have and the idea is a let's a round
+earth idea so you come up with this
+brilliant idea that the earth is round
+and everybody around you knows for sure
+that the earth is flat you think well
+you know this is a pretty cool idea and
+it's it's awfully important that the
+earth is round and the question is if
+you if you do this today if you were to
+come up with this idea what chance would
+you have with this revolutionary idea to
+gain some traction again some success
+you might think you might think an idea
+as compelling as this would would have
+attract a lot of interest and perhaps
+trigger some kind of revolution but you
+know if recent experience is a guide it
+doesn't happen that way because we
+haven't seen a whole lot of revolutions
+in the past 30 or 40 or 50 years
+so consider think about the number of
+revolutions that we've had since let's
+say 1970 or so that's a pretty arbitrary
+date now what I'm asking you to think
+about is in terms of revolutions we're
+talking about a conceptual revolution
+we're not talking about technological
+revolutions which are supported by
+industry and there have been quite a few
+of those I mean everything related to
+the Internet and and such that's not
+what I'm talking about I'm talking about
+a conceptual revolution some new idea
+that has never really been considered
+before that that changes our outlook of
+the world and I'm looking at realized
+revenue
+you read in New York Times or even Wall
+Street Journal it tells you about the
+new promising drug that has the capacity
+to cure cancer it has the capacity it's
+promised but is not realized you hardly
+ever come they hardly ever come to the
+realization so what I'm talking about is
+something like for example the splitting
+of the atom but that's a conceptual
+revolution that was 70 years ago another
+one is this structure of DNA that was
+1953 so that was I think 60 61 years ago
+and it led to all kinds of interesting
+things about the human genome and such
+and and and so that that's what I mean
+by conceptual revolutions a new concept
+that changed our ability and led to so
+many new technologies in the future so I
+ask you to think for a moment how many
+modern conceptual realized revolutions
+can you think of I give you 30 seconds
+you're having a difficult time yes okay
+now I know that some of you can actually
+think of one or two I asked this
+question to many people and I get a
+blank look that's the response I think
+there has been one and I'll mention it
+later I think only one that I know of
+and it's in the medical sciences will
+come to that a bit later but you know
+the editors of science in their hundred
+25th anniversary edition in 2005 decided
+to do exactly that
+they tracked the revolutions that have
+occurred in science from the time of the
+Greeks to 2005 and this was done in a
+kind of fold-out page that well it was
+kind of like a played Playboy fold-out
+page except the pictures were less
+interesting
+you know the picture of Einstein and and
+what he did and Max Planck and so on so
+I I conducted an exercise I made two
+lists
+I took the names of people and what they
+contributed from 2005 back 40 years and
+I did the same thing a century ago from
+1905 back 40 years and this is a
+sampling of the of the old list now I
+bet you that everybody in the audience
+knows every single one or almost every
+one I took the full list in fact and I
+gave it to many peoples scientists and
+non-scientists and almost everybody was
+able to identify almost everybody on the
+list no question and then I took the
+modern list and here's again this is a
+random sampling from about 15 different
+people how many of you can identify zero
+of these people okay something is
+something is the matter here how come
+now we're talking about from 1965 right
+so we're talking extending back half
+century you know so you might say well
+some of this stuff you know just takes a
+lot of time for revolutions to a car you
+know but since we know that political
+revolutions can take place overnight
+practically how come it takes 50 years
+for this to happen something is is
+something is different it really is true
+that there are very few revolutions that
+have occurred these people actually have
+done important things
+Kary Mullis for example was involved in
+developing the pcr method of amplifying
+DNA it was not exactly a conceptual
+revolution it was a a technological
+revolution and another of these
+scientists figured out how to culture
+stem cells which made possible a lot of
+interesting experiments but they're not
+really the kinds of the kinds of
+discoveries that are comparable to
+Einstein or plunk or Curie or what have
+you okay so so why why challenge
+conventional thinking with revolutionary
+ideas aren't we making great progress
+we're making huge progress the number of
+papers that are published exceed the
+number of papers ever published in
+history it's a it's amazing how many but
+the question is you know what are we
+really
+what new understanding we do we have
+from all of that that knowledge of
+course we advance through revolutions
+this is just a few examples but the
+problem now is that revolutions are
+really sparse there's something wrong
+something is going on we had lots of
+revolutions a hundred years ago but it's
+really hard to really hard to identify a
+revolution in in the past year so why so
+few revolutions well there's no
+revolutionary ideas challenge the status
+quo and these threaten the the
+stakeholders in the prevailing paradigm
+and threaten the grant reviewers and you
+know what happens when people get
+threatened they respond and so most
+scientists understand that if you if you
+threaten the these stakeholders you have
+to be careful and particularly in the
+institutions that I deal with all the
+time the National Institutes of Health
+and the National Science Foundation most
+most scientists with revolutionary ideas
+keep it secret they don't apply once
+they apply they know they won't get the
+money and also they develop a reputation
+as being the kind of person who you stay
+away from so some revolutionary a change
+is suppressed as a result I think
+largely of the institutions that we have
+that fund science is a modern science
+made the tree of knowledge may look
+something like this but the modern
+dwelling place of most science is up
+here at the periphery of the of the Tree
+of Knowledge this this place is is safe
+you don't shake the tree you don't pull
+off a big limb and it's non-disruptive
+so everybody's happy
+you know a lot of papers are being
+published the news releases press
+releases from every institution show
+great progress and real promise for the
+future but not many revolutions so the
+revolutionary progress comes when a limb
+when someone discovers that you know one
+of these limbs is not really as sound as
+we expect and you prune the limb and and
+come up with some brand new growth and
+so one example of that that is very
+familiar here is the heliocentric solar
+system once that happened then
+everything changed this was a new a new
+limb on the on the tree of knowledge
+another one in the medical realm is the
+one by Semmelweis who found out that if
+you wash your hands before you deliver
+babies or conduct surgery the patient is
+more likely to survive and of course he
+was brushed aside and he died insane
+from all the pressure that that was that
+was put upon him so the new growth is
+really what we're looking for and which
+gives you a revolutionary advance it's
+kind of like a you know you look at
+something and this looks great it's
+obviously this is a rectangle but you
+know you look at it from another
+direction and it's a different reality a
+different a fresh perspective teaches
+you something different so today this is
+the issue we have a huge amount of money
+that is put into science if you add up
+just in the US the National Institutes
+of Health and the National Science
+Foundation it's approximately 40 billion
+dollars if you add defense and such it's
+probably up to hundred billion dollars
+just in the u.s. it's a lot of money but
+very few revolutions and if you compare
+that to a hundred years ago almost no
+money there was some
+it's that kind of paradox isn't it I'm
+glad there's some humor in this but
+something something is wrong here
+because we got a lot of input but no
+output a lot of promise but no no real
+revolutions so why is this the case well
+I I kind of alluded to it you can think
+of a few few ideas maybe maybe a
+scientists are stupider than they were a
+hundred years ago it could be you know
+the environment is having some real
+negative impact on us
+maybe we're eating the wrong food or the
+electromagnetic pollution or something
+so that I guess that that's one idea we
+hope that the the increase of stupidity
+is somehow compensated by the larger
+numbers doing it maybe maybe the
+problems are harder I don't know but
+I've seen no evidence that the problems
+are harder now than then they were a
+hundred years ago or another another
+possibility as well everything is
+already known therefore you know there's
+nothing to know no revolutions to occur
+and I know what you folks think about
+that so I think that there what I
+alluded to before is it's the culture of
+science today that is is the culprit
+the emphasis the emphasis on
+productivity producing lots of papers
+competing to get into the prestigious
+journals and such and and so it's a
+culture where power is really important
+that power is given to the experts and
+power is given to the vested interests
+we need money to do a research the
+experts are the ones who decide whether
+the revolutionaries get the money or
+don't get the money this is not a system
+to encourage radical thinking and fresh
+ideas so you come up with a fresh idea
+and the typical response from the
+establishment is something like this you
+know you're proposing what
+yuck so this is this is the kind of you
+know I think many of you have been there
+this is this is the kind of response
+what I've discovered is that there
+actually are plenty of round earth ideas
+out there I I study water but I've been
+in several different fields during my my
+career and I used to think the first
+field that I entered which was actually
+cardiac cell electrophysiology I kind of
+started in biology and I thought I
+thought they were their prevailing views
+but there were challenging views out
+there and nobody took them seriously and
+I thought this is a problem and then I
+entered into cell biology and I saw the
+same problem and then I entered into
+muscle contraction and I saw the same
+problem a theory that has been around
+since 1954 believed by everybody but the
+evidence is so clearly against it and
+the people who have evidence against
+have no ability to make any inroads
+against the establishment so I came to
+realize that this is true in numerous
+fields I think the people around here
+some of you may believe it's true and
+the electric universe area but this is
+endemic it's it's just all over all over
+science usually what happens is the
+response that I've seen among many
+people is the response to around earth
+idea and the Flat Earth environment well
+if the idea isn't good
+it would have been discovered earlier
+and everybody would know it's true and
+blah blah blah and so your idea can't be
+any good because obviously that hasn't
+happened the case closed just to give
+you a couple of ideas of of some of the
+when I think are kind of interesting
+ideas out there of course the the energy
+idea tapping energy from the environment
+starts way back from from Tesla but
+there was a particular invention that I
+came across which kind of interesting
+because it it
+it capitalizes on the Earth's electric
+field and it's looks something like this
+it looks complicated but the principle
+is really simple if these are balloons
+way up and they're actually there to
+suspend a metallic ring and since the
+electric the electrical potential in the
+atmosphere is something like a hundred
+volts per meter you have a potential
+difference between this metallic ring
+and ground and if you put a motor in
+between the potential difference between
+here and here is enough to drive that
+motor and there were a lot of
+electrostatic motors that ran on low
+current high voltage many years ago and
+are still being developed and can
+produce on the order of 75 to 100 watts
+of mechanical energy which is you know
+pretty pretty substantial and these have
+not really seen the light of day and
+here's another example this is a lifter
+and some of you know about lifters it's
+just a u-turn you you have one electrode
+here this aluminum foil and the and the
+other electrode is a wire up at the top
+which you can barely see you put a
+potential difference of ten thousand
+volts between them and this lifts up we
+have one in my laboratory it lifts up
+easily to a meter is just putting the
+potential difference of 10,000 volts
+that's all and you get lifting as a
+result of that my estimate is that
+nobody knows how it works of course we
+have some ideas but this is the kind of
+thing that you'd seem it would seem to
+to demand some development and some
+understanding but I bet many of you have
+never heard of these lifters and in the
+area of health also my favorite is
+always this one that it's it's a book
+that's called the doctor who cures
+cancer and this is Amelia ravit who died
+about 10 years ago the age of a hundred
+and he had the reputation of if if
+someone was really sick and cancer and
+they were just about gone they go to
+Ravi ji and Ravi T was able to do this
+is
+a quote from the guy who was the
+retiring president of the Sloan
+Kettering Cancer Research Center which
+is the most perhaps the most
+distinguished one in in the u.s. in New
+York and he said that quote on the back
+I don't know how he does it but people
+walk in dead and walk out alive
+I come into contact with a lot of people
+who deal with alternative health and I'm
+amazed by the the by the progress that
+these people have made and and the
+ability of these people to actually cure
+people with cancer who can't be cured by
+the standard chemotherapy radiation
+surgery that's been used effectively for
+50 years just mine or technological
+improvements so another area that that
+that needs to be dealt with with new
+fresh information and fresh ideas so
+problems remain unsolved they want the
+two I mentioned Plus understanding how
+our brains work and Alzheimer's disease
+function dysfunction combating global
+warming if you believe in it or
+establishing that it's not true which
+some colleagues I just spoke at NASA
+there's a big group of people who are
+absolutely certain that there's no
+warming this needs to be straightened
+out
+eliminated starvation and many others
+okay so I've given you the background
+I've given you the problems and I've
+given you some maybe some evidence about
+that new book I mentioned that the
+decline of the twilight of the
+scientific age we're not producing what
+we used to produce in science so we
+decided to see if we can do something
+about it and we decided to put together
+a foundation that funds promising ideas
+that challenge conventional thinking now
+obviously we have no we have no building
+or no this is just a sort of dream for
+the future we call it we call it the
+Institute for venture science or IV s
+and this institute is a funding a
+see it funds promising ideas that
+challenge conventional views and there
+are a few twists to it and I want to
+tell you about it that I think make it
+will make it operate effectively so how
+will we foster the kind of revolutionary
+advance that we know is missing now we
+need it we need it badly to solve our
+problems so the first is that we invite
+groundbreaking proposals it doesn't
+matter what field anybody who has an
+earth-shaking idea around earth idea and
+the Flat Earth environment send it to us
+and we of course put it through a
+vetting process and I won't go into
+detail about the the initial entry we
+don't want flaky proposals obviously we
+want substantial ones we asked the Flat
+Earth people to please tell us what's
+wrong with this round earth proposal and
+you can guess how scathing their review
+is going to be we know that okay so you
+have the round earth applicant and you
+have a bunch of Flat Earth people
+feeding back and saying this is the
+biggest I ever it but give us
+some reasons why you think it's not
+right
+and so we establish a debate between the
+two and the people who listen to this
+debate are outside the field they don't
+care whether the earth is round they may
+care but they have no bias as to whether
+the earth is round or whether the earth
+is flat they want to listen they want to
+hear how well this applicant can defend
+himself against those tigers and lions
+and and then what happens is we make
+judgment as to how well they did and how
+important their subject is it's the
+product of those two that determines
+their score we fund the selected
+proposals liberally because you know
+people who venture into the real unknown
+they need often they need substantial
+funds and they need to have
+the confidence that they're going to be
+funded for some years at least otherwise
+it's too risky to go into there are
+human issues that need to be taken into
+into account now here's the key I
+haven't told you the real key the real
+key is next the real key is that we fund
+multiple groups pursuing the same theme
+so we get the rounders idea we fund the
+rounders idea and we try to identify
+around the world 10 or 12 different
+groups who also think that the earth
+might be round but they're using
+different techniques to to to check it
+and so what what that does is it creates
+a critical mass you know it's it's easy
+it's easy to dismiss one person as a
+crackpot oh you know stay stay away from
+that person because their ideas are
+really weird then you'll never get
+anywhere but when a dozen groups come to
+the the annual meeting of the shape of
+the Earth Society and hey what's going
+on here there are a dozen groups
+reporting that the the earth is round
+instead of flat then they have to pay
+attention so the single one is dismissed
+but the multiplicity is really the
+critical factor that can make a
+difference and that can bring
+revolutions you know if if the round
+earth really has the goods within two or
+three or four years people will it'll be
+obvious that that the evidence for this
+is convincing and I think within a few
+years there'll be a phase transition a
+new way of thinking revolution on the
+other hand if the rounder if people
+don't really have the evidence and the
+earth is flat they don't have to defend
+themselves and then we'll know for sure
+that the earth is flat but we'll be more
+certain of it so either way the
+investment is good investment because
+both sides are put on the same platform
+to debate and then we learn which one is
+correct and I think many of these will
+lead to two revolutions okay so how do
+we do this well we have a funding goal
+and the funding goal is it's sort of
+arbitrary but we think of an endowment
+an endowment say on the order of ten
+billion dollars and from that endowment
+we could use the interest which at 5% is
+something like well 500 million dollars
+now for five hundred million dollars if
+you think of that each project let's say
+arbitrarily gets 1 million dollars per
+year just arbitrarily some need less
+others may need more that's enough to
+fund 50 revolutionary ideas time say 10
+labs per idea simultaneously now it
+sounds like a lot of bucks but it's less
+than one percent of the u.s. annual
+research budget this annual budget less
+than one percent and for that we
+anticipate out of this will come
+multiple revolutions and the present
+course has produced almost no
+revolutions at much higher annual budget
+so if you think about what happens you
+get revolutions and from revolutions you
+get fresh insight about the workings of
+the world new solutions to all the
+problems that plague the world and a
+bright future and for those who are you
+know more practically minded think about
+what revolutions can do every revolution
+every new concept leads to many new
+technologies inevitably and economic
+revitalization and again a bright future
+so if you think about about the the
+prospects what what this can bring and
+think about well how do you get people
+to donate we're looking for private
+donors it's very easy to to donate to
+something like the Gates Foundation
+which by the way is right around the
+corner from us this guy was actually the
+boss of my son when he was young so Bill
+Gates formed the Gates Foundation and
+you know if you put in money to the
+Gates Foundation or other foundations
+they do good and you all know that Gates
+Foundation has been making real progress
+producing vaccines that some of us think
+are good and
+others think our not so good and
+producing sanitary conditions and
+toilets and such so so so people are
+tempted to donate now what's different
+about us is we promise something beyond
+that it's a kind of amplification effect
+you put in a small amount of money and
+you can get potentially huge dividends
+out of it I just give you one example so
+you know a few few scientists were
+playing around with with impurities and
+semiconductor materials about 60 70
+years ago and that of that came
+transistors and diodes and photo diodes
+and they'll digital cameras and solar
+cells and integrated circuits
+microprocessors laptops smartphones
+basically everything we do today came
+from a discovery of physicists and the
+engineers working at the fundamental
+level and that's what we're talking
+about funding some capsule of an idea
+and who knows what that can lead to it's
+unpredictable but it can be awfully big
+now there are quite a few billionaires
+out there some of you know that many of
+them signed the Giving Pledge that was
+suggested by by Bill Gates which means
+that ultimately many many people will be
+donating a large or substantial amount
+of various charities many want to give
+back to society and many want to to
+leave a legacy they want to be
+remembered Bill Gates
+I would guess wants to be remembered not
+for being the richest guy in the world
+but for having founded the Gates
+Foundation which did many good things so
+so that's an idea and of course if
+someone is willing to donate a couple of
+billion bucks it's possible that this
+could be part of the legacy now why can
+we make this happen well I think we have
+a we assembled a very interesting and
+capable
+group of people so let me tell you about
+our advisory panel the people who we ask
+for advice and they come back and give
+us advice and I've just read to you to
+give you some idea of the distinction of
+these people and Michael Crosby was the
+executive director of the National
+Science Board which runs the NSF he also
+was a vice chancellor of a university
+Peter Katonah was the president of the
+Whitaker Foundation which funds funded
+bioengineering John Strauss was the CFO
+of the Howard Hughes Medical Institute
+and he's been president of four
+universities I guess they didn't like
+him so much Alexander Coyne avala was
+the is is was the rector of Kazan
+University in Russia that's the third
+ranked university in all of Russia and
+was also the head of a large chemical
+Institute and for those of you
+interested in homeopathy he has
+brilliant results now that can explain
+how this really works Barry Marshall you
+may not recognize his name Nobel
+laureate from Western Australia he's a
+guy who I think was responsible for one
+of the few revolutions that is finding
+out that ulcers were not necessarily
+caused by worrying but by bacteria he
+had a difficult time of it and maybe you
+know that eventually he swallowed the
+bacteria he got an ulcer and they cured
+himself with an antibiotic and then they
+gave him a Nobel Prize astonied Petrovic
+is a was the rector and just retired
+Ljubljana University and a member of the
+National Science Board Doug Randall and
+Don Miller is a guy who I know in
+Seattle and he was chief of
+cardiovascular surgery and also a
+well-known philosopher of science very
+deep understanding of the scientific
+processes so that's the advisory panel
+and the core group or the executive
+staff I think is a group or committed
+with complementary skills and you may
+know some because there are some people
+are floating around here and that James
+Ryder who used to be the vice president
+of Lockheed Martin and Frank Costanzo
+who's around here today
+and who's been a senior-level political
+adviser and has turned around
+many businesses Susan she wrote you know
+was an HMO executive and and myself and
+and so I think with the devotion of this
+executive staff and the advisory panel I
+think we have a chance to to make it
+happen the website is under construction
+and we hope that it will be up and you
+can look at it within the next few weeks
+that's really our starting point
+something that we need in order to
+launch realistically the campaign to to
+get funded so the Institute for venture
+science we're talking about unthinkable
+ideas today and received wisdom tomorrow
+thank you
+you

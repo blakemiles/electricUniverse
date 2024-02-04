@@ -1,0 +1,752 @@
+[
+  {
+    "text": "You've just entered the\ntheater of an alien sky.",
+    "start": 12.784,
+    "duration": 3.313
+  },
+  {
+    "text": "If the words and images seem strange\nto you there's a reason for this,",
+    "start": 16.78,
+    "duration": 4.766
+  },
+  {
+    "text": "our world was once a\nvastly different place.",
+    "start": 21.571,
+    "duration": 4.526
+  },
+  {
+    "text": "To experience this\nwon't hurt you",
+    "start": 26.122,
+    "duration": 2.405
+  },
+  {
+    "text": "and there is nothing to fear.",
+    "start": 28.552,
+    "duration": 2.142
+  },
+  {
+    "text": "Before the Counting of Time",
+    "start": 34.801,
+    "duration": 6.405
+  },
+  {
+    "text": "In previous episodes\nof this series,",
+    "start": 45.419,
+    "duration": 2.832
+  },
+  {
+    "text": "we've claimed that the\nfirst civilizations arose",
+    "start": 48.276,
+    "duration": 2.936
+  },
+  {
+    "text": "under the influence of\nextraordinary natural events.",
+    "start": 51.237,
+    "duration": 3.499
+  },
+  {
+    "text": "But these events including phases\nof overwhelming catastrophe",
+    "start": 57.72,
+    "duration": 4.214
+  },
+  {
+    "text": "remain largely\nunrecognized today.",
+    "start": 61.959,
+    "duration": 3.352
+  },
+  {
+    "text": "In supporting this extraordinary\nclaim, we've offered global evidence",
+    "start": 66.37,
+    "duration": 4.157
+  },
+  {
+    "text": "suggesting an ancient gathering\nof planets close to Earth.",
+    "start": 70.552,
+    "duration": 3.658
+  },
+  {
+    "text": "We've called this planetary\nassembly The Polar Configuration",
+    "start": 74.235,
+    "duration": 3.904
+  },
+  {
+    "text": "due to its alignment with the\nrotational axis of the Earth.",
+    "start": 78.164,
+    "duration": 3.99
+  },
+  {
+    "text": "Documentation supporting a\nreconstruction of the configuration",
+    "start": 82.179,
+    "duration": 4.116
+  },
+  {
+    "text": "comes down to us from\ncultures the world over,",
+    "start": 86.32,
+    "duration": 2.885
+  },
+  {
+    "text": "we see the events reflected\nin the rise of kingship,",
+    "start": 89.23,
+    "duration": 3.503
+  },
+  {
+    "text": "the emergence of the\nfirst writing systems,",
+    "start": 92.758,
+    "duration": 2.747
+  },
+  {
+    "text": "of monumental construction,",
+    "start": 95.53,
+    "duration": 1.992
+  },
+  {
+    "text": "and the great national\nwars of expansion,",
+    "start": 97.547,
+    "duration": 2.944
+  },
+  {
+    "text": "all explicitly linked to\nintensely remembered events",
+    "start": 100.516,
+    "duration": 4.11
+  },
+  {
+    "text": "when planets appeared\nto battle in the sky",
+    "start": 104.651,
+    "duration": 2.8
+  },
+  {
+    "text": "as clouds of celestial\ndebris shrouded the Earth",
+    "start": 107.476,
+    "duration": 3.379
+  },
+  {
+    "text": "and great volumes of dust and\nrock fell upon our planet.",
+    "start": 110.88,
+    "duration": 4.801
+  },
+  {
+    "text": "We've called this human memory \"The\nOne Story Told Around The World.\"",
+    "start": 116.088,
+    "duration": 4.552
+  },
+  {
+    "text": "The universal tradition takes us back to an\nage of planetary gods and celestial wonders,",
+    "start": 120.665,
+    "duration": 5.893
+  },
+  {
+    "text": "the universal source of the world's\narchetypal myths and symbols.",
+    "start": 126.583,
+    "duration": 5.093
+  },
+  {
+    "text": "And so we've claimed that\nthere could be no archetypes",
+    "start": 131.701,
+    "duration": 3.032
+  },
+  {
+    "text": "without the implied\nglobal experience.",
+    "start": 134.758,
+    "duration": 2.562
+  },
+  {
+    "text": "It's the common experience that gives\nthe archetypes both their context",
+    "start": 137.345,
+    "duration": 4.442
+  },
+  {
+    "text": "and their concrete\ndetail the world over.",
+    "start": 141.812,
+    "duration": 3.427
+  },
+  {
+    "text": "We now know that since the dawn\nof the great civilizations,",
+    "start": 145.264,
+    "duration": 3.464
+  },
+  {
+    "text": "memories of fear-inspiring catastrophe\npervaded all of human activity,",
+    "start": 148.753,
+    "duration": 4.858
+  },
+  {
+    "text": "an outpouring of imagination\nand pervasive fear,",
+    "start": 153.636,
+    "duration": 3.667
+  },
+  {
+    "text": "doomsday anxiety",
+    "start": 157.328,
+    "duration": 1.904
+  },
+  {
+    "text": "showed its face in every\nculture that followed.",
+    "start": 159.257,
+    "duration": 4.348
+  },
+  {
+    "text": "And above all else, this body of\nmagical and ritual practices",
+    "start": 163.63,
+    "duration": 4.435
+  },
+  {
+    "text": "sought to deflect or to forestall the\nreturn of remembered catastrophe.",
+    "start": 168.09,
+    "duration": 5.717
+  },
+  {
+    "text": "Our historical argument is drawn upon\nevidence left by the great civilizations",
+    "start": 174.91,
+    "duration": 5.468
+  },
+  {
+    "text": "starting with the appearance\nof formal writing systems.",
+    "start": 180.41,
+    "duration": 4.78
+  },
+  {
+    "text": "But there is also a layer\nof prehistoric evidence",
+    "start": 185.747,
+    "duration": 3.071
+  },
+  {
+    "text": "and this archaeological layer can\nhelp us to visualize celestial events",
+    "start": 188.843,
+    "duration": 4.738
+  },
+  {
+    "text": "before the appearance\nof any written records.",
+    "start": 193.606,
+    "duration": 3.618
+  },
+  {
+    "text": "This prehistoric evidence directs\nour attention to the human response",
+    "start": 197.249,
+    "duration": 4.63
+  },
+  {
+    "text": "in the very midst\nof a deadly threat,",
+    "start": 201.904,
+    "duration": 2.159
+  },
+  {
+    "text": "in other words, contemporaneous with\nEarth-threatening catastrophe.",
+    "start": 204.088,
+    "duration": 4.023
+  },
+  {
+    "text": "Here we're not dealing just with a\ncompulsion to reenact celestial dramas",
+    "start": 208.136,
+    "duration": 4.893
+  },
+  {
+    "text": "but something more\nimmediate and more urgent,",
+    "start": 213.054,
+    "duration": 2.645
+  },
+  {
+    "text": "refuge.",
+    "start": 215.724,
+    "duration": 1.203
+  },
+  {
+    "text": "Human beings either seeking shelter\nfrom anticipated catastrophe",
+    "start": 216.952,
+    "duration": 4.77
+  },
+  {
+    "text": "or desperate to find refuge from\ncatastrophe already under way.",
+    "start": 221.747,
+    "duration": 4.822
+  },
+  {
+    "text": "Seen from this more\nradical perspective,",
+    "start": 226.594,
+    "duration": 2.766
+  },
+  {
+    "text": "today's common picture\nof a prehistoric world",
+    "start": 229.385,
+    "duration": 3.086
+  },
+  {
+    "text": "takes on nuances that archeologists\nappear to have missed.",
+    "start": 232.496,
+    "duration": 4.454
+  },
+  {
+    "text": "Critical lines of evidence converge to\nsuggest a human retreat into caves.",
+    "start": 237.14,
+    "duration": 5.781
+  },
+  {
+    "text": "Or alternately to find refuge in\ncrudely constructed stone enclosures",
+    "start": 243.207,
+    "duration": 5.508
+  },
+  {
+    "text": "or earthen mounds",
+    "start": 248.74,
+    "duration": 2.909
+  },
+  {
+    "text": "as defenses against rock and celestial\ndebris falling from the sky.",
+    "start": 251.674,
+    "duration": 6.561
+  },
+  {
+    "text": "To appreciate the\nperspective offered here,",
+    "start": 259.882,
+    "duration": 2.81
+  },
+  {
+    "text": "we need only allow for\nthe implied urgency,",
+    "start": 262.717,
+    "duration": 3.499
+  },
+  {
+    "text": "and that's a consideration virtually never\nincluded in standard treatments of prehistory.",
+    "start": 266.241,
+    "duration": 5.803
+  },
+  {
+    "text": "What was on the minds of\nthose who entered caves",
+    "start": 272.069,
+    "duration": 2.851
+  },
+  {
+    "text": "or raised giant stone dolmens\nor great mounds of earth,",
+    "start": 274.945,
+    "duration": 3.749
+  },
+  {
+    "text": "seemingly with no clear\nmotive to account for them.",
+    "start": 278.719,
+    "duration": 3.007
+  },
+  {
+    "text": "How much of this activity might be\nexplained in terms of perilous events",
+    "start": 281.751,
+    "duration": 4.891
+  },
+  {
+    "text": "once occurring in the sky\nbut not occurring today.",
+    "start": 286.667,
+    "duration": 4.885
+  },
+  {
+    "text": "Such events could only mean that the\npresent cannot be the key to the past,",
+    "start": 292.75,
+    "duration": 5.675
+  },
+  {
+    "text": "and a fundamental premise of\nmodern science must be corrected.",
+    "start": 298.45,
+    "duration": 5.273
+  },
+  {
+    "text": "From this vantage point,\ncertain features stand out.",
+    "start": 303.748,
+    "duration": 3.532
+  },
+  {
+    "text": "The urgency is endlessly reflected in\nthe crude architecture of the dolmens",
+    "start": 307.305,
+    "duration": 4.92
+  },
+  {
+    "text": "that punctuate ancient landscapes\nacross the British Isles",
+    "start": 312.25,
+    "duration": 3.809
+  },
+  {
+    "text": "and Northern Europe, all the\nway to Russia and Korea",
+    "start": 316.084,
+    "duration": 4.507
+  },
+  {
+    "text": "and even with counterparts\nin North America.",
+    "start": 320.616,
+    "duration": 3.597
+  },
+  {
+    "text": "Such structures are\nreadily distinguished",
+    "start": 324.539,
+    "duration": 2.452
+  },
+  {
+    "text": "from the more ambitious and more\nobviously skillful architecture",
+    "start": 327.016,
+    "duration": 3.771
+  },
+  {
+    "text": "that followed with the emergence\nof the great civilisations",
+    "start": 330.812,
+    "duration": 3.164
+  },
+  {
+    "text": "of Egypt and Mesopotamia.",
+    "start": 334.001,
+    "duration": 2.962
+  },
+  {
+    "text": "How significant for example",
+    "start": 338.613,
+    "duration": 2.041
+  },
+  {
+    "text": "are the repeated indications of\ninterruption and incompletion?",
+    "start": 340.679,
+    "duration": 4.93
+  },
+  {
+    "text": "In numerous instances as if a\nmassive undertaking was begun",
+    "start": 345.61,
+    "duration": 5.0
+  },
+  {
+    "text": "but ended in tragedy and\nwas never finished.",
+    "start": 350.635,
+    "duration": 4.217
+  },
+  {
+    "text": "That should not surprise us if these\nundertakings occurred in the presence",
+    "start": 357.031,
+    "duration": 4.605
+  },
+  {
+    "text": "of the very catastrophe that all\nancient communities most feared.",
+    "start": 361.661,
+    "duration": 5.041
+  },
+  {
+    "text": "In many instances, a partial seemingly\nirrational raised roof draws our attention,",
+    "start": 366.727,
+    "duration": 6.046
+  },
+  {
+    "text": "entirely out of proportion\nto its support.",
+    "start": 372.798,
+    "duration": 3.027
+  },
+  {
+    "text": "Indeed the massive stone roofs are\ncommonly the most imposing structure.",
+    "start": 375.85,
+    "duration": 4.96
+  },
+  {
+    "text": "Has any historian or\narcheologist ever explained",
+    "start": 380.835,
+    "duration": 3.704
+  },
+  {
+    "text": "this human investment\nacross the vast region?",
+    "start": 384.564,
+    "duration": 4.341
+  },
+  {
+    "text": "When you see the undertaking as\na defense against falling rock,",
+    "start": 390.191,
+    "duration": 4.506
+  },
+  {
+    "text": "the mystery of human\nmotivation instantly vanishes.",
+    "start": 394.722,
+    "duration": 4.579
+  },
+  {
+    "text": "Other considerations also\nenter this picture.",
+    "start": 399.444,
+    "duration": 3.04
+  },
+  {
+    "text": "The apparent role of celestial\ncatastrophe will not permit us",
+    "start": 402.517,
+    "duration": 3.966
+  },
+  {
+    "text": "to ignore the implied context of\nextended deprivation and nostalgia",
+    "start": 406.508,
+    "duration": 4.98
+  },
+  {
+    "text": "as we can see in the conditions\nportrayed on the walls of caves.",
+    "start": 411.513,
+    "duration": 4.039
+  },
+  {
+    "text": "In the catastrophic\nenvironment suggested here,",
+    "start": 415.577,
+    "duration": 3.052
+  },
+  {
+    "text": "what might the paintings of human\nhunting and abundant game be telling us?",
+    "start": 418.654,
+    "duration": 4.757
+  },
+  {
+    "text": "A familiar phrase from American\nIndian tradition comes to mind,",
+    "start": 423.436,
+    "duration": 4.477
+  },
+  {
+    "text": "the happy hunting ground.",
+    "start": 427.938,
+    "duration": 1.935
+  },
+  {
+    "text": "Not an illogical phrase if the actual\ncondition was one of profound nostalgia.",
+    "start": 429.898,
+    "duration": 5.732
+  },
+  {
+    "text": "Were the artist painting on\nwalls of caves and rocky cliffs",
+    "start": 435.655,
+    "duration": 3.948
+  },
+  {
+    "text": "nostalgically remembering\nsomething lost?",
+    "start": 439.628,
+    "duration": 3.531
+  },
+  {
+    "text": "Psychologists know well that\nin a state of deep deprivation",
+    "start": 443.184,
+    "duration": 3.929
+  },
+  {
+    "text": "the mind will become increasingly\nobsessed with what is missing",
+    "start": 447.138,
+    "duration": 3.601
+  },
+  {
+    "text": "or what has been taken away.",
+    "start": 450.764,
+    "duration": 1.951
+  },
+  {
+    "text": "That point was made explicit in\nan army experiment years ago.",
+    "start": 452.74,
+    "duration": 4.031
+  },
+  {
+    "text": "When placed on a narrow diet\nof nothing but potatoes,",
+    "start": 456.796,
+    "duration": 3.274
+  },
+  {
+    "text": "those participating in the experiment\nbegan to dream nostalgically",
+    "start": 460.095,
+    "duration": 4.444
+  },
+  {
+    "text": "of the missing diet.",
+    "start": 464.564,
+    "duration": 1.78
+  },
+  {
+    "text": "Perhaps of steak dinner, their\nfavorite beer or her apple pie.",
+    "start": 466.369,
+    "duration": 4.289
+  },
+  {
+    "text": "In this case we have\ntwo different themes,",
+    "start": 471.238,
+    "duration": 2.541
+  },
+  {
+    "text": "humans retreating to caves",
+    "start": 473.804,
+    "duration": 2.184
+  },
+  {
+    "text": "and their nostalgic\nremembrances,",
+    "start": 476.013,
+    "duration": 2.547
+  },
+  {
+    "text": "both pointing in precisely\nthe same direction.",
+    "start": 478.585,
+    "duration": 4.001
+  },
+  {
+    "text": "Look again at the prehistoric paintings on\nthe cave walls across Europe and beyond,",
+    "start": 483.598,
+    "duration": 5.024
+  },
+  {
+    "text": "the hunting scenes and\nthe abundant game.",
+    "start": 488.646,
+    "duration": 2.733
+  },
+  {
+    "text": "Could we entertain the possibility\nthat these scenes actually celebrate",
+    "start": 491.405,
+    "duration": 4.393
+  },
+  {
+    "text": "a community life no longer\navailable but actively remembered?",
+    "start": 495.823,
+    "duration": 4.849
+  },
+  {
+    "text": "Why such pervasive nostalgia if nothing\nhad been taken away by natural events?",
+    "start": 500.697,
+    "duration": 5.634
+  },
+  {
+    "text": "With that concrete question in front\nof us, additional questions arise.",
+    "start": 506.356,
+    "duration": 5.185
+  },
+  {
+    "text": "Is it possible to identify such an\nexperience in the thematic links",
+    "start": 512.254,
+    "duration": 4.491
+  },
+  {
+    "text": "of the cave dwellers to the emerging\ncivilizations that followed?",
+    "start": 516.77,
+    "duration": 4.682
+  },
+  {
+    "text": "Or is there a connection to the\nexplosion of monumental construction",
+    "start": 521.635,
+    "duration": 4.292
+  },
+  {
+    "text": "launched almost simultaneously\nin Egypt and Mesopotamia?",
+    "start": 525.952,
+    "duration": 4.667
+  },
+  {
+    "text": "Since Napoleon first stood in awe\nof the wonder of the Great Pyramid,",
+    "start": 530.644,
+    "duration": 5.07
+  },
+  {
+    "text": "scientific commentary was taken over by\nquestions of technology and architecture",
+    "start": 535.739,
+    "duration": 5.588
+  },
+  {
+    "text": "but have we missed something?",
+    "start": 541.352,
+    "duration": 2.396
+  },
+  {
+    "text": "In the conditions of the time, what was\nthe role of human urgency or protection,",
+    "start": 543.773,
+    "duration": 5.908
+  },
+  {
+    "text": "in particular, the protection\nof kings and royal families.",
+    "start": 550.649,
+    "duration": 4.726
+  },
+  {
+    "text": "And how might our picture\nof the ancient world,",
+    "start": 555.4,
+    "duration": 3.44
+  },
+  {
+    "text": "the rise of kingship itself,",
+    "start": 558.865,
+    "duration": 2.844
+  },
+  {
+    "text": "or the explosion of\nmilitary conquests",
+    "start": 561.734,
+    "duration": 2.841
+  },
+  {
+    "text": "be changed when seen in the light\nof an Earth-threatening sky?",
+    "start": 564.6,
+    "duration": 4.896
+  },
+  {
+    "text": "Answering such questions will require us to\nsee the ancient monuments in a new light.",
+    "start": 569.655,
+    "duration": 6.096
+  },
+  {
+    "text": "And the Great Pyramid becomes something\nmore than an enchanting monument",
+    "start": 575.776,
+    "duration": 4.571
+  },
+  {
+    "text": "standing out on the\nancient landscape,",
+    "start": 580.372,
+    "duration": 2.475
+  },
+  {
+    "text": "more than just a dark chamber\nfor practicing magical rites,",
+    "start": 582.872,
+    "duration": 3.797
+  },
+  {
+    "text": "or recording hieroglyphic\nprayers to the gods,",
+    "start": 586.694,
+    "duration": 2.717
+  },
+  {
+    "text": "or charting a sky map to guide the\nmythic ascent of deceased kings.",
+    "start": 589.436,
+    "duration": 4.568
+  },
+  {
+    "text": "Of course, such motives\nare well documented",
+    "start": 594.029,
+    "duration": 2.899
+  },
+  {
+    "text": "but could there be\nmore to the story?",
+    "start": 596.953,
+    "duration": 4.028
+  },
+  {
+    "text": "What was on the minds of those who invested\nvast resources in urgent construction?",
+    "start": 601.203,
+    "duration": 5.421
+  },
+  {
+    "text": "In the following episodes, we'll\nconsider a new perspective,",
+    "start": 606.649,
+    "duration": 3.756
+  },
+  {
+    "text": "one in which all of the\nancient motives converge",
+    "start": 610.43,
+    "duration": 3.042
+  },
+  {
+    "text": "as a testament to\nremembered catastrophe.",
+    "start": 613.497,
+    "duration": 3.447
+  },
+  {
+    "text": "In particular, a desperation\nfor protection",
+    "start": 616.969,
+    "duration": 3.64
+  },
+  {
+    "text": "against unpredictable rains\nof rocky debris from the sky",
+    "start": 620.634,
+    "duration": 5.006
+  },
+  {
+    "text": "to which we shall add a noteworthy\nemphasis on the planet",
+    "start": 625.824,
+    "duration": 3.959
+  },
+  {
+    "text": "repeatedly named as the\nsource of falling stone,",
+    "start": 629.808,
+    "duration": 3.613
+  },
+  {
+    "text": "the planet Mars.",
+    "start": 633.446,
+    "duration": 5.182
+  }
+]

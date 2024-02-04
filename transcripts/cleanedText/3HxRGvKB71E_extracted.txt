@@ -1,0 +1,355 @@
+Welcome to Space News from
+the Electric Universe,
+brought to you by The
+Thunderbolts Project™
+at Thunderbolts.info
+Today we delve more deeply into a
+highly promising ongoing investigation
+in the Electric
+Universe community.
+In the previous episode, physicist Eugene
+Bagashov introduced the analysis
+he and several others in
+the community have conducted
+into the evidence for the pervasiveness
+of a type of electric current,
+called a Birkeland current
+within or nearby our
+cosmic neighborhood.
+Of course when electric currents can't
+be directly measured by space probes,
+the task of inferring their
+existence in space is complicated.
+Eugene and his colleagues have
+followed Dr. Donald Scott's model
+of the structure of
+a Birkeland current.
+In Part 2 of this
+four-part presentation,
+Eugene outlines in finer detail what he
+and his colleagues have found to date.
+In the previous video, we've discussed Dr. Scott's
+model for cylindrical Birkeland currents
+and have hypothesized that one major
+example of such a structure around us
+might be represented by
+the so-called local chimney;
+perhaps with more localized sub
+filaments on smaller scales inside it.
+But at the same time, at least one argument
+against such an idea might be made.
+If these are indeed strong electric
+currents, why don't we actually see them?
+In particular, where is any
+synchrotron radiation from them?
+And moreover, if there are strong
+magnetic fields in this structure,
+why can't we observe
+them in some way?
+The answer to the first
+part of that question
+lies in the fact that these are most
+likely force-free field-aligned currents,
+just as the ones analyzed
+in Dr. Scott's works.
+What that means is that
+the electric currents
+are in all points of this structure
+parallel to the magnetic fields.
+So this is a minimal energy configuration
+with little to no electromagnetic stress
+and therefore as the charged particles
+are not accelerated by the magnetic fields
+but rather move right along them,
+no significant synchrotron
+radiation is being produced.
+This is just a plasma current
+in dark mode and that's it.
+The second part of the
+question is a bit trickier.
+At first we should consider the main method
+of detection of magnetic fields in space.
+It rests on the so-called Faraday
+effect, or Faraday rotation.
+Without getting into the
+physical reason for that effect,
+as it is slightly complicated,
+we might just say
+that the Faraday effect
+causes the rotation of the
+plane of polarization of light.
+That is the directions in which
+the electric and magnetic field
+of an electromagnetic
+wave are oscillating.
+And for it to happen, we should have
+some medium in a magnetic field in it.
+The effect is only valid for the
+component of the magnetic field
+that is parallel to the direction
+of propagation of the wave.
+But the most important property
+of that effect in our context
+is that it is reversed, if one
+reverses either the field direction
+or the direction of
+propagation of light.
+So, if we now consider again the structure
+of the Birkeland current filament
+as follows from
+Dr. Scott's model,
+what we see is the cylindrical
+shells where each consecutive shell
+has the magnetic field that is reversed
+with respect to the previous one,
+which would mean that
+indeed any such shell
+would change the polarization
+of light to some degree.
+But as the light enters the next
+shell with an opposite magnetic field,
+we get the opposite change which effectively
+eliminates any change that took place
+as light passed through
+both of these layers.
+In that way we might argue that any
+Faraday effect would be virtually absent
+and the best we might count on is seeing
+some much weaker background magnetic field
+that the filament as a
+whole is spiraling around.
+Well, let's assume then that we can't
+directly detect the currents themselves,
+then what can we detect to at
+least recognize their presence?
+One of the possibilities here might be
+represented by plasma refraction of light,
+that is bending of light when it
+interacts with the charged particles
+that carry the current itself.
+Previously the works of
+Dr. Gupta and Dr. Dowdye
+have shown that the bending of light in plasma
+might alter the trajectory of light rays,
+and among other things, imitate the
+hypothetical gravitational lensing of light.
+It might be expected therefore
+that the areas with higher current density in
+the Galactic neighborhood of the solar system
+might also impact the measurements of
+the direction of propagation of light.
+In general, any inhomogeneity
+in plasma distribution
+would introduce various errors if
+not properly taking into account.
+Let's look at some
+examples of that.
+One well-known technique of the distance
+estimates to the nearby stars and clusters
+is the parallax method.
+So, the parallax method is based on the
+idea that as the Earth moves around the Sun,
+we might observe the same star
+at slightly different angles,
+as our own position
+and space changes.
+From this angular difference one may geometrically
+determine the distance to the star,
+or in principle any other object.
+This angle is usually very small
+as the stars are very far from us.
+The largest parallax angle is
+obviously observed for the nearest star,
+Proxima Centauri,
+as it apparently moves in the sky
+the most as we proceed in our orbit.
+And even that angle is only
+about 0.76 angular seconds;
+that is about two
+tenthousandths of a degree.
+However, the precision of modern observational
+methods based on space telescopes
+in principle allows us to measure parallax
+angles as small as about 10 micro arc seconds,
+which corresponds to distances of
+tens of thousands of light-years.
+But let us now
+consider the situation
+when the space between us
+and the star is not empty,
+but rather filled
+with refracting plasma.
+In this case, the reading of the
+parallax angle might be distorted,
+and the parallax determination of
+the distance would be erroneous.
+One of the famous examples of that is
+the so-called Pleiades distance problem.
+So, according to modern astronomy
+it is possible to determine the
+distance to Pleiades cluster
+at least in two different ways.
+First, one might do that by
+looking at smaller stars in it
+in infrared wavelengths,
+determine their brightness, or correctly
+speaking, the absolute magnitude,
+and then compare that to the apparent
+brightness or apparent magnitude
+and get the distance measurement.
+Applied to Pleiades, this procedure would
+return a result of about 435 light-years.
+And second, one might utilize the
+current theory of stellar operation
+and estimate the mass from
+the surface temperature.
+Then, if we're looking at some
+binary star system in that cluster,
+we might track their orbits.
+Since before we
+estimate their masses,
+we might find the real size of
+the orbit from Kepler's laws
+and thus find the distance to them
+from simple geometrical considerations.
+In that way, the distance to the cluster
+was estimated to be about 430 lightyears.
+But the problem appeared when these estimates
+were compared to parallax measurements,
+especially the ones performed
+by the Hipparcos satellite.
+The satellite did measure the
+parallax angle of the cluster,
+but the according distance turned
+out to be only about 385 light-years.
+Moreover, some later
+analyses have shown
+that Hipparcos systematically gives smaller
+distances for many other stellar clusters.
+The later measurements made by the Hubble Space
+Telescope and radio telescopes from Earth,
+using the very long baseline
+interferometry method,
+seem to discount
+Hipparcos data also.
+And, finally, the new Gaia satellite essentially
+using the same technique as Hipparcos,
+has also acquired the result which
+is inconsistent with Hipparcos.
+This seems to have
+ended the debate,
+basically meaning that something
+is wrong with Hipparcos itself.
+Although one could argue that the
+difference could have been caused by
+different statistical
+processing of the results.
+In particular Hipparcos data was
+analyzed using a weighted mean
+of parallaxes for different
+stars in the cluster,
+when there seems to be a correlation between
+distances and distance errors for stars in it.
+The later estimates were
+made using an unweighted mean
+for separate stars
+in the cluster.
+Another source of
+discrepancy could have been
+the various methods of
+measuring the parallax itself.
+Hipparcos and Gaia were measuring the
+so-called absolute or direct parallax,
+whereas Hubble and radio
+telescopes from Earth
+have been measuring the so-called
+relative or differential parallax,
+basically taking some distant objects
+right behind Pleiades as a reference point.
+So we might assume that the
+differences in these readings
+and the need of invoking different statistical
+procedures for the stellar clusters
+might have been caused by the
+refraction of light in plasma
+in the Pleiades cluster
+itself or on the way to it.
+Moreover, there might
+exist a certain dispersion,
+that is the dependence of the
+refraction amplitude on the wavelength
+so that the radio telescope data might
+introduce additional shifts of position
+with the respect to
+visible range observations.
+The importance of plasma bending of light for
+Pleiades in the framework of our hypothesis
+might be reinforced by the fact that this
+cluster is situated in the constellation Taurus,
+the line-of-sight to which lies somewhere
+close to the axis of the local chimney.
+So, if there is indeed an enhanced current
+density at the center of the chimney column,
+it is not surprising that the objects
+observed in that area of the sky
+would demonstrate some
+anomalies of that sort.
+Perhaps it is worth
+noting that earlier works
+have also demonstrated some correlated
+erroneous readings for the Hyades star cluster
+which is also situated in Taurus.
+Another prominent example of suspicious
+parallax measurements would be Polaris,
+the pole star.
+Various parallax measurements of
+Polaris made in the last two decades
+have been steadily returning
+incompatible results.
+The according distances range from
+about 330 to about 800 light-years,
+which doesn't seem to be
+very precise and consistent.
+And there are some
+other examples like that.
+All of them might be related to the behavior
+of plasma in the local interstellar chimney
+and nested cylindrical shells of current and
+sub-filamentary structures on smaller scales.
+In the case of Polaris,
+as Jim Weninger argues,
+even the smaller scale Birkeland current
+filament that is connected to Earth's North Pole
+might be the cause
+for the discrepancy.
+I have certain doubts about that, but it
+sounds like an interesting hypothesis anyway.
+The importance of both Pleiades and Polaris
+in astrophysics and cosmology is very high.
+The Pleiades represent
+a model star cluster
+and the properties of stars in it
+that we infer from our observations,
+are directly related to
+the distance to the cluster.
+And Polaris is a
+so-called Cepheid variable star.
+Cepheid variables
+are widely used in astronomy to determine
+the distances to various objects
+as it is assumed that we
+know how exactly they work.
+In particular, it is assumed
+that there is a direct relation
+between their pulsation period
+and their absolute luminosity.
+And Polaris is the
+closest one to us;
+so if we don't know
+the distance to it,
+all the other distances determined
+through Cepheids should also be questioned.
+To get a proper reading of that
+distance, we need to firstly figure out
+the proper arrangement and properties
+of plasma structures in our vicinity.

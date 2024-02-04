@@ -1,0 +1,462 @@
+[
+  {
+    "text": "Welcome to Space News from the Electric",
+    "start": 0.06,
+    "duration": 9.66
+  },
+  {
+    "text": "Universe, brought to you by\nThe Thunderbolts Project at Thunderbolts.info.",
+    "start": 9.72,
+    "duration": 4.5
+  },
+  {
+    "text": "Where does gravity fit in the\nElectric Universe? Contrary to a somewhat",
+    "start": 14.22,
+    "duration": 7.13
+  },
+  {
+    "text": "common misperception, the Electric\nUniverse does not deny gravity's",
+    "start": 21.35,
+    "duration": 3.99
+  },
+  {
+    "text": "existence, nor its role in the cosmos and\nour own world. Rather the Electric",
+    "start": 25.34,
+    "duration": 5.64
+  },
+  {
+    "text": "Universe theory as proposed by\nphysicist Wal Thornhill suggests that the",
+    "start": 30.98,
+    "duration": 4.12
+  },
+  {
+    "text": "fundamental mysteries of gravity may be\nexplained by the electrical structure of",
+    "start": 35.1,
+    "duration": 4.23
+  },
+  {
+    "text": "matter. In his 2008 article “Electric\nGravity in an Electric Universe,” Thornhill",
+    "start": 39.33,
+    "duration": 5.76
+  },
+  {
+    "text": "asks, “When we apply force to a body,\nhow is that force transferred to",
+    "start": 45.09,
+    "duration": 4.8
+  },
+  {
+    "text": "overcome inertia? The answer is\n’electrically’ by the repulsion between",
+    "start": 49.89,
+    "duration": 4.56
+  },
+  {
+    "text": "the outer electrons in the atoms closest\nto the point of contact. The equivalence",
+    "start": 54.45,
+    "duration": 5.34
+  },
+  {
+    "text": "of inertial and gravitational mass\nstrongly suggests that the force of",
+    "start": 59.79,
+    "duration": 3.78
+  },
+  {
+    "text": "gravity is a manifestation of the\nelectric force.” Today,",
+    "start": 63.57,
+    "duration": 4.35
+  },
+  {
+    "text": "Bishop Nicholas Sykes further elaborates\nthe query he first posed in his",
+    "start": 67.92,
+    "duration": 4.01
+  },
+  {
+    "text": "previous episode:\n”What is the speed of Gravity?” and he",
+    "start": 71.93,
+    "duration": 3.24
+  },
+  {
+    "text": "elaborates the explanations for gravity\nthat the Electric Universe proposes.",
+    "start": 75.17,
+    "duration": 5.89
+  },
+  {
+    "text": "My last Space News video about the light\nexceeding [the] speed of gravity, titled “What is",
+    "start": 81.06,
+    "duration": 5.58
+  },
+  {
+    "text": "the Speed of Gravity?” provoked some\nreactions. Someone wondered if I have",
+    "start": 86.64,
+    "duration": 5.42
+  },
+  {
+    "text": "never heard that gravity was not a force,\nbut the bending of the fabric of",
+    "start": 92.06,
+    "duration": 4.5
+  },
+  {
+    "text": "Space-Time. Another argued that gravity\ndid not need explanation, because it was",
+    "start": 96.56,
+    "duration": 6.46
+  },
+  {
+    "text": "something that was “just there”\nEinstein's proposition that nothing can",
+    "start": 103.02,
+    "duration": 4.37
+  },
+  {
+    "text": "travel faster than light, has become so\nentrenched that even some of us",
+    "start": 107.39,
+    "duration": 4.47
+  },
+  {
+    "text": "identifying with the EU model as a whole,\nfind it difficult to give fair",
+    "start": 111.86,
+    "duration": 5.2
+  },
+  {
+    "text": "consideration to the claim that gravity,\noperating as a real force, requiring a",
+    "start": 117.06,
+    "duration": 5.82
+  },
+  {
+    "text": "real explanation, necessitates a real\ntransmission, far greater than the speed",
+    "start": 122.88,
+    "duration": 5.63
+  },
+  {
+    "text": "of light.\nYet, even if we are only at the beginning",
+    "start": 128.51,
+    "duration": 3.67
+  },
+  {
+    "text": "of providing such\nan explanation, it is important for the",
+    "start": 132.18,
+    "duration": 4.22
+  },
+  {
+    "text": "integrity of the EU model, to adhere\nalways to a simple force-based model for",
+    "start": 136.4,
+    "duration": 6.3
+  },
+  {
+    "text": "gravity, because gravity does, when all is\nsaid and done, manifest itself to our",
+    "start": 142.7,
+    "duration": 5.59
+  },
+  {
+    "text": "senses as a force. The Electric Universe\nmodel is constructed with explanations",
+    "start": 148.29,
+    "duration": 6.14
+  },
+  {
+    "text": "that invariably exclude “just there”\nformulations, which are in effect widely",
+    "start": 154.43,
+    "duration": 6.85
+  },
+  {
+    "text": "used agreements to discard the need for\nrational explanation. As a result of such",
+    "start": 161.28,
+    "duration": 6.48
+  },
+  {
+    "text": "agreements, the scientific landscape is\nlittered with such follies as black",
+    "start": 167.76,
+    "duration": 5.09
+  },
+  {
+    "text": "holes, dark matter, dark energy,\nmultiverses, and magnetic reconnection,",
+    "start": 172.85,
+    "duration": 5.74
+  },
+  {
+    "text": "all of them being “just there”\nformulations, without rational",
+    "start": 178.59,
+    "duration": 5.34
+  },
+  {
+    "text": "explanation, designed to plug the holes\nin popular science theory with the",
+    "start": 183.93,
+    "duration": 5.55
+  },
+  {
+    "text": "unexplainable. Sir Isaac Newton\nunderstood that he was unable to",
+    "start": 189.48,
+    "duration": 4.97
+  },
+  {
+    "text": "formulate an explanation for\ngravitational attractions, even while he",
+    "start": 194.45,
+    "duration": 5.28
+  },
+  {
+    "text": "described the behavior mathematically of\nbodies under gravitational influence",
+    "start": 199.73,
+    "duration": 4.99
+  },
+  {
+    "text": "over vast distances with astounding\naccuracy. He speculated on gravity’s",
+    "start": 204.72,
+    "duration": 6.23
+  },
+  {
+    "text": "cause, but decided to leave that issue to\na future generation, who might bring",
+    "start": 210.95,
+    "duration": 5.53
+  },
+  {
+    "text": "better tools than his, to master the task.\nOur own generation does indeed have",
+    "start": 216.48,
+    "duration": 5.67
+  },
+  {
+    "text": "better tools than his, but we have become\ndistracted from the task he and others",
+    "start": 222.15,
+    "duration": 5.51
+  },
+  {
+    "text": "bequeathed to us, by a multitude of\nfollies. These consist of the",
+    "start": 227.66,
+    "duration": 5.22
+  },
+  {
+    "text": "extraordinary plethora of the “just there”\nformulations that prevent us from",
+    "start": 232.88,
+    "duration": 5.07
+  },
+  {
+    "text": "accomplishing what Newton and others\nbequeathe to a future age. If one reads the",
+    "start": 237.95,
+    "duration": 6.36
+  },
+  {
+    "text": "book “Relativity” by Albert Einstein\npublished for example in 2004 by the",
+    "start": 244.31,
+    "duration": 6.34
+  },
+  {
+    "text": "Folio Society, one will see that he\ndevelops the concept of light or",
+    "start": 250.65,
+    "duration": 5.04
+  },
+  {
+    "text": "electromagnetic radiation, being the\nfastest possible messenger, merely by",
+    "start": 255.69,
+    "duration": 5.72
+  },
+  {
+    "text": "assuming that, since nothing was observed\nto go faster than light, then there is",
+    "start": 261.41,
+    "duration": 5.77
+  },
+  {
+    "text": "no credibility to the idea that anything\ncould go any faster than light. In",
+    "start": 267.18,
+    "duration": 5.73
+  },
+  {
+    "text": "chapters 7, 8 and 9, for instance, he\nassumes that information from two",
+    "start": 272.91,
+    "duration": 5.16
+  },
+  {
+    "text": "simultaneous flashes of lightning could\nnever by principle, reach an observer",
+    "start": 278.07,
+    "duration": 5.81
+  },
+  {
+    "text": "any faster that light speed in a vacuum.\nFrom that simple idea, the whole theory",
+    "start": 283.88,
+    "duration": 6.67
+  },
+  {
+    "text": "of relativity was developed, starting\nwith the deduction that two simultaneous",
+    "start": 290.55,
+    "duration": 5.25
+  },
+  {
+    "text": "events in one frame of reference, might\nnot be simultaneous in a different frame",
+    "start": 295.8,
+    "duration": 4.89
+  },
+  {
+    "text": "of reference. The theory of relativity as\nconceived by Einstein depended therefore",
+    "start": 300.69,
+    "duration": 6.24
+  },
+  {
+    "text": "entirely on the idea that one could\nnever make deductions about space and",
+    "start": 306.93,
+    "duration": 4.89
+  },
+  {
+    "text": "time that might ultimately rest upon\nanything going faster than the speed of",
+    "start": 311.82,
+    "duration": 5.58
+  },
+  {
+    "text": "light. It is, therefore, illogical to\nassert, without any other reason for",
+    "start": 317.4,
+    "duration": 5.85
+  },
+  {
+    "text": "doing so than the theory of relativity\nitself, that nothing can go faster than",
+    "start": 323.25,
+    "duration": 5.49
+  },
+  {
+    "text": "the speed of light. To make such an\nassertion would be to engage in a",
+    "start": 328.74,
+    "duration": 4.7
+  },
+  {
+    "text": "tautology, i.e. circular reasoning, because\nthe theory of relativity is founded upon",
+    "start": 333.44,
+    "duration": 6.15
+  },
+  {
+    "text": "that assertion in the first place.\nOnly if the theory were independently",
+    "start": 339.59,
+    "duration": 5.88
+  },
+  {
+    "text": "and incontrovertibly verified by\nobservation or experiments, might this be",
+    "start": 345.47,
+    "duration": 6.22
+  },
+  {
+    "text": "reasonable. And such is often assumed to\nbe the case as Einstein himself hoped",
+    "start": 351.69,
+    "duration": 6.27
+  },
+  {
+    "text": "that it would be. But so far as I'm aware\nthere is not a single case of this",
+    "start": 357.96,
+    "duration": 5.94
+  },
+  {
+    "text": "theory’s verification that may not\nreasonably be disputed. Under these",
+    "start": 363.9,
+    "duration": 5.97
+  },
+  {
+    "text": "circumstances therefore, it is entirely\nscientific to consider the possibility",
+    "start": 369.87,
+    "duration": 4.82
+  },
+  {
+    "text": "that there may well be something\nobservable or reasonably deduced",
+    "start": 374.69,
+    "duration": 5.89
+  },
+  {
+    "text": "traveling at a speed faster than light.\nAs has already been indicated in my",
+    "start": 380.58,
+    "duration": 5.13
+  },
+  {
+    "text": "videos, the motion of the planets in the\nsolar system requires that the force of",
+    "start": 385.71,
+    "duration": 5.61
+  },
+  {
+    "text": "gravity between the Sun and its planets,\nassuming as we must, that this is a",
+    "start": 391.32,
+    "duration": 5.33
+  },
+  {
+    "text": "real force and not a mental construction\nof some kind, must be transmitted between",
+    "start": 396.65,
+    "duration": 6.1
+  },
+  {
+    "text": "them at a speed of many orders of magnitude\nfaster than the speed of light. And the",
+    "start": 402.75,
+    "duration": 6.18
+  },
+  {
+    "text": "physicist Wal Thornhill shows also that\nsuch speeds of force transmission are",
+    "start": 408.93,
+    "duration": 6.0
+  },
+  {
+    "text": "just as necessary within what we call\nthe fundamental particles of matter for",
+    "start": 414.93,
+    "duration": 5.49
+  },
+  {
+    "text": "the stability of those sub atomic\nstructures, as it is for the stability of",
+    "start": 420.42,
+    "duration": 5.1
+  },
+  {
+    "text": "stellar planetary systems. Indeed, by such\nconcepts, the physical foundation of the",
+    "start": 425.52,
+    "duration": 6.93
+  },
+  {
+    "text": "mathematical structures of quantum\nmechanics may yet be revealed and made",
+    "start": 432.45,
+    "duration": 4.71
+  },
+  {
+    "text": "clear in a way similar perhaps to the\nclarification of the physical foundation",
+    "start": 437.16,
+    "duration": 5.49
+  },
+  {
+    "text": "to Sir Isaac Newton's “Mathematical\nPrinciples” of gravitational action that",
+    "start": 442.65,
+    "duration": 6.0
+  },
+  {
+    "text": "great task that he and others bequeathe\nto generations yet to come. In such",
+    "start": 448.65,
+    "duration": 6.6
+  },
+  {
+    "text": "manner, the Electric Universe model holds\nout a great promise; the promise of a",
+    "start": 455.25,
+    "duration": 6.15
+  },
+  {
+    "text": "physics and a cosmology that rest upon a\nsecure foundation to replace what is",
+    "start": 461.4,
+    "duration": 6.6
+  },
+  {
+    "text": "taught in our prestigious schools, the\ncurrent model, which as Einstein himself",
+    "start": 468.0,
+    "duration": 5.52
+  },
+  {
+    "text": "discerned, relies upon two foundations:\nthe Theory of Relativity and Quantum",
+    "start": 473.52,
+    "duration": 6.03
+  },
+  {
+    "text": "Mechanics that are themselves mutually\nirreconcilable.",
+    "start": 479.55,
+    "duration": 6.14
+  },
+  {
+    "text": "For continuous updates on Space News",
+    "start": 485.83,
+    "duration": 2.97
+  },
+  {
+    "text": "from the Electric Universe, stay tuned to",
+    "start": 488.8,
+    "duration": 2.82
+  },
+  {
+    "text": "Thunderbolts.info\n[Music]",
+    "start": 491.62,
+    "duration": 41.29
+  },
+  {
+    "text": "[Music]",
+    "start": 552.79,
+    "duration": 3.13
+  }
+]

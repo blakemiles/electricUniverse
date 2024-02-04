@@ -1,0 +1,792 @@
+[
+  {
+    "text": "This week I received the news like\nmany of you of Wal Thornhill's passing.",
+    "start": 12.78,
+    "duration": 5.64
+  },
+  {
+    "text": "I wish to pay tribute with this article.\nWal was a mentor to us all in the most",
+    "start": 18.42,
+    "duration": 5.64
+  },
+  {
+    "text": "important field of all - the true nature of our \nuniverse. Wal’s many theories and predictions",
+    "start": 24.06,
+    "duration": 6.6
+  },
+  {
+    "text": "succeeded because he sought the truth.\nNot for credentials, funding, accolades, or",
+    "start": 30.66,
+    "duration": 5.64
+  },
+  {
+    "text": "power; he sought the truth for the sake\nof knowing - as we all should. It's the",
+    "start": 36.3,
+    "duration": 5.64
+  },
+  {
+    "text": "true intent of science. It’s a true source of joy.\nI began this article weeks ago, to discuss the truth.",
+    "start": 41.94,
+    "duration": 8.45
+  },
+  {
+    "text": "It was never intended to be about Wal. It was, and\nstill is, about truth seekers in the Electric Universe.",
+    "start": 50.39,
+    "duration": 7.8
+  },
+  {
+    "text": "The title “Shine on, you crazy diamond” is\nan ode to garage experimenters, theorists,",
+    "start": 58.19,
+    "duration": 7.21
+  },
+  {
+    "text": "scientists, and deep-thinkers everywhere who are\ngrounded and harmonized with natural frequencies.",
+    "start": 65.4,
+    "duration": 6.89
+  },
+  {
+    "text": "But Wal was the epitome of such people.\nNo BS got passed Wal - believe me, I tested him.",
+    "start": 72.29,
+    "duration": 8.29
+  },
+  {
+    "text": "So, the title now takes added meaning - \nas things always do in a fractal universe.",
+    "start": 80.58,
+    "duration": 6.71
+  },
+  {
+    "text": "How do you know the truth when you see\nit? It's because you recognize a pattern.",
+    "start": 87.29,
+    "duration": 4.39
+  },
+  {
+    "text": "You trust yourself to know what you're\nseeing, hearing or feeling. You know",
+    "start": 91.68,
+    "duration": 5.28
+  },
+  {
+    "text": "because it resonates within you. A\npattern from memory, like a mother's face,",
+    "start": 96.96,
+    "duration": 5.15
+  },
+  {
+    "text": "is a pattern that harmonizes heart and\nsoul, and you know. There is no doubt the",
+    "start": 102.11,
+    "duration": 6.13
+  },
+  {
+    "text": "instant you recognize Mom's face, or\nwhoever is your closest, “every bone in",
+    "start": 108.24,
+    "duration": 5.46
+  },
+  {
+    "text": "your body” knows it. It's something\neveryone does. But it isn't the work of a",
+    "start": 113.7,
+    "duration": 5.16
+  },
+  {
+    "text": "conscious mind. It's the work of an\nobservant state of being. It involves",
+    "start": 118.86,
+    "duration": 5.28
+  },
+  {
+    "text": "every sense, conscious and unconscious,\nmind and body; the whole antenna resonates.",
+    "start": 124.14,
+    "duration": 6.53
+  },
+  {
+    "text": "Like riding a bicycle, your mind doesn't\ntell your body how to keep balance. It",
+    "start": 130.67,
+    "duration": 5.17
+  },
+  {
+    "text": "just does - as long as you stop thinking and just\npay attention. When I first stumbled into the",
+    "start": 135.84,
+    "duration": 6.84
+  },
+  {
+    "text": "Thunderbolts project, I didn't have a\nclue what I was going to write about. I",
+    "start": 142.68,
+    "duration": 4.32
+  },
+  {
+    "text": "just knew I found the right place. In the\nfirst weeks I binged on Thunderbolts",
+    "start": 147.0,
+    "duration": 4.73
+  },
+  {
+    "text": "videos, especially Michael Steinbacher.\nI watched all of his. As an engineer with",
+    "start": 151.73,
+    "duration": 5.95
+  },
+  {
+    "text": "a smattering of geology experience,\nit made sense to look for electrical",
+    "start": 157.68,
+    "duration": 4.38
+  },
+  {
+    "text": "evidence on the Earth. After all, it's\naccessible, more so than telescopes,",
+    "start": 162.06,
+    "duration": 4.92
+  },
+  {
+    "text": "particle beams and buzzy, high voltage labs.\nMichael's videos led me to an addiction:",
+    "start": 166.98,
+    "duration": 6.06
+  },
+  {
+    "text": "Google Earth. I've always had a thing\nfor maps. There are patterns, always",
+    "start": 173.04,
+    "duration": 4.68
+  },
+  {
+    "text": "patterns, whether looking at highways\ncities, airline routes, or topography -",
+    "start": 177.72,
+    "duration": 4.5
+  },
+  {
+    "text": "there is a wealth of information in the \npatterns. Earth's Topography is patterned.",
+    "start": 182.22,
+    "duration": 6.72
+  },
+  {
+    "text": "I couldn't put a finger to how, or why,\nbut I could see patterns that stretched for",
+    "start": 188.94,
+    "duration": 4.62
+  },
+  {
+    "text": "thousands of miles that had no ‘reasonable’ \nexplanation. There were repeating patterns,",
+    "start": 193.56,
+    "duration": 6.72
+  },
+  {
+    "text": "geometric patterns. Some patterns were similar\nto other planets, yet others were unique.",
+    "start": 200.28,
+    "duration": 4.73
+  },
+  {
+    "text": "There had to be a reason. I had already\ndismissed conventional thinking at this",
+    "start": 205.01,
+    "duration": 5.17
+  },
+  {
+    "text": "point, of course, and reasoned these\nfeatures must be electric. We see, plainly,",
+    "start": 210.18,
+    "duration": 5.27
+  },
+  {
+    "text": "electric scarring on planets and moons,\nand the electric atmospheres of the gas",
+    "start": 215.45,
+    "duration": 4.86
+  },
+  {
+    "text": "giants. So it must be on Earth - but why does Earth look\nso complex? I stumbled again, always stumbling, into",
+    "start": 220.31,
+    "duration": 9.67
+  },
+  {
+    "text": "evidence of shockwaves on hillsides. It\ncame about because I searched “craters”",
+    "start": 229.98,
+    "duration": 5.16
+  },
+  {
+    "text": "and found a blog by a guy who was a\ndemolitions expert. He was writing about",
+    "start": 235.14,
+    "duration": 4.67
+  },
+  {
+    "text": "shockwave features on hillsides near his\nhome and proposing they were crater rims.",
+    "start": 239.81,
+    "duration": 4.98
+  },
+  {
+    "text": "He recognized harmonic tetrahedral\npatterning caused by sonic shock because",
+    "start": 244.79,
+    "duration": 6.3
+  },
+  {
+    "text": "he'd spent a career in the military\nanalyzing the blast zones of heavy",
+    "start": 251.09,
+    "duration": 4.03
+  },
+  {
+    "text": "ordnance. He was a man who knew\nshockwaves when he saw them.",
+    "start": 255.12,
+    "duration": 4.44
+  },
+  {
+    "text": "As a mechanical engineer, I have a good\namount of experience with such things",
+    "start": 259.56,
+    "duration": 4.5
+  },
+  {
+    "text": "myself. Shock waves – yes, but more\nimportantly, I’d learned to listen to",
+    "start": 264.06,
+    "duration": 5.28
+  },
+  {
+    "text": "technicians like this guy. The operators,\nthe mechanics, the people who are hands-on.",
+    "start": 269.34,
+    "duration": 6.41
+  },
+  {
+    "text": "If you want to know the process don't\nask the people who manage it, ask the",
+    "start": 275.75,
+    "duration": 4.99
+  },
+  {
+    "text": "people who operate it. Beyond already\nknowing something about “shock",
+    "start": 280.74,
+    "duration": 4.62
+  },
+  {
+    "text": "diamonds”, I innately trusted this guy\nknew his patterns, even though he had no",
+    "start": 285.36,
+    "duration": 5.39
+  },
+  {
+    "text": "academic credentials. I began searching\nfor these patterns. Lo and behold, they",
+    "start": 290.75,
+    "duration": 5.77
+  },
+  {
+    "text": "are everywhere. Not only did I find\nharmonic tetrahedrons, created by",
+    "start": 296.52,
+    "duration": 4.61
+  },
+  {
+    "text": "compression zones called “separation\nbubbles”, formed where a supersonic wave",
+    "start": 301.13,
+    "duration": 4.69
+  },
+  {
+    "text": "impinges on the surface. I found multiple features\nof fine detail distinct to shock waves embedded in",
+    "start": 305.82,
+    "duration": 7.31
+  },
+  {
+    "text": "rocks, mountains and entire mountain\nchains. Scalable, harmonic, self-similarity",
+    "start": 313.13,
+    "duration": 5.83
+  },
+  {
+    "text": "plastered across the globe landscape everywhere I looked\ncould only be from one cause: sustained plasma storms.",
+    "start": 318.96,
+    "duration": 9.23
+  },
+  {
+    "text": "I finally had evidence, from personal\ninvestigation - from a position of knowing -",
+    "start": 328.19,
+    "duration": 5.77
+  },
+  {
+    "text": "what caused patterns, at least many that I saw on\nEarth and that we indeed live in an Electric Universe.",
+    "start": 333.96,
+    "duration": 7.92
+  },
+  {
+    "text": "Only a charged environment could develop\nsupersonic winds that could freeze rock",
+    "start": 341.88,
+    "duration": 5.09
+  },
+  {
+    "text": "in-situ in the precise form of a shock\nwave. Coulomb force and recombination is",
+    "start": 346.97,
+    "duration": 6.49
+  },
+  {
+    "text": "the only process that makes physical sense.\nA dusty plasma environment would",
+    "start": 353.46,
+    "duration": 5.57
+  },
+  {
+    "text": "accelerate winds to supersonic speeds,\nrippling the landscape wherever shock",
+    "start": 359.03,
+    "duration": 4.75
+  },
+  {
+    "text": "waves reflected and segregating \nwinds by step voltage and ionic density.",
+    "start": 363.78,
+    "duration": 5.82
+  },
+  {
+    "text": "To produce what I witness on Earth's\ncrust, Earth's atmosphere had to be a",
+    "start": 369.6,
+    "duration": 5.4
+  },
+  {
+    "text": "rainbow-banded chemical soup, like\nJupiter's atmosphere. There had to be",
+    "start": 375.0,
+    "duration": 5.03
+  },
+  {
+    "text": "several global storms to produce the\nlayers of geology and episodic fossil",
+    "start": 380.03,
+    "duration": 5.88
+  },
+  {
+    "text": "evidence of extinctions - a recurring nightmare.\nAnd since I've written several articles",
+    "start": 385.91,
+    "duration": 6.43
+  },
+  {
+    "text": "showing the shock features in detail,\nshowing self-similarity between",
+    "start": 392.34,
+    "duration": 4.13
+  },
+  {
+    "text": "Jupiter's storms and landforms on Earth,\nand exploring many other geologic",
+    "start": 396.47,
+    "duration": 4.99
+  },
+  {
+    "text": "examples of electrical formation and\nscarring, I know what I'm showing you is",
+    "start": 401.46,
+    "duration": 4.85
+  },
+  {
+    "text": "the truth. The patterns speak for themselves.\nMy explanations may suck. I may not",
+    "start": 406.31,
+    "duration": 6.97
+  },
+  {
+    "text": "describe the electric circuit properly,\nor organize my streams of conscience",
+    "start": 413.28,
+    "duration": 4.91
+  },
+  {
+    "text": "well, but the geology is there, Jupiter is\nthere, winds, storms, rocks - it's all out",
+    "start": 418.19,
+    "duration": 7.56
+  },
+  {
+    "text": "there to go look at for yourself. The\ndata I use is open source, available to",
+    "start": 425.75,
+    "duration": 5.77
+  },
+  {
+    "text": "anyone with an internet connection. One\ncan research shockwave patterns, standing",
+    "start": 431.52,
+    "duration": 5.22
+  },
+  {
+    "text": "waves, separation bubbles and anything else\nI write about with a few clicks of a mouse.",
+    "start": 436.74,
+    "duration": 5.39
+  },
+  {
+    "text": "You can see the patterns for yourself.\nIt's the only thing that will invoke",
+    "start": 442.13,
+    "duration": 5.23
+  },
+  {
+    "text": "faith, because that is what knowing the\ntruth comes down to: faith. This brings me",
+    "start": 447.36,
+    "duration": 6.48
+  },
+  {
+    "text": "to the point. Faith is how you know the truth.\nFaith in yourself. Do you believe your lying eyes?",
+    "start": 453.84,
+    "duration": 8.34
+  },
+  {
+    "text": "I'm not speaking about faith in God,\nalthough that is the ultimate faith. I'm",
+    "start": 462.18,
+    "duration": 5.04
+  },
+  {
+    "text": "using a small “f” faith to mean conviction\nin any particular realm, such as the",
+    "start": 467.22,
+    "duration": 5.34
+  },
+  {
+    "text": "faith one has they can unerringly find\ntheir mother's face in a crowd, or ride a",
+    "start": 472.56,
+    "duration": 4.91
+  },
+  {
+    "text": "bike. It's a reliance on all your senses,\nconscious and unconscious. You recognize",
+    "start": 477.47,
+    "duration": 6.19
+  },
+  {
+    "text": "the pattern and your gut, heart and soul\nresonate. It feels right. It's common",
+    "start": 483.66,
+    "duration": 5.7
+  },
+  {
+    "text": "sense. When you know, you know.\nHow else can one know they are objective",
+    "start": 489.36,
+    "duration": 6.02
+  },
+  {
+    "text": "unless they know and trust themselves?\nIt's an internal thing, to be confident",
+    "start": 495.38,
+    "duration": 5.86
+  },
+  {
+    "text": "in oneself, and the only way to satisfy \nthat is to see, hear and feel for yourself.",
+    "start": 501.24,
+    "duration": 5.63
+  },
+  {
+    "text": "Relying on someone else's word makes one a \nparrot. Now this brings to question how can I",
+    "start": 506.87,
+    "duration": 6.37
+  },
+  {
+    "text": "have faith I know what I'm seeing when pretty much\nthe entire world of academia ’knows’ I'm wrong",
+    "start": 513.24,
+    "duration": 6.35
+  },
+  {
+    "text": "and that tectonic forces like subduction,\nexpansion and uplift created mountains,",
+    "start": 519.59,
+    "duration": 5.59
+  },
+  {
+    "text": "plus billions and billions of years, blah,\nblah, blah. Because they don't show you",
+    "start": 525.18,
+    "duration": 5.82
+  },
+  {
+    "text": "anything but drawings and models. They\ncan't explain or even try the fractal forms;",
+    "start": 531.0,
+    "duration": 5.39
+  },
+  {
+    "text": "the harmonic repetitions; the phase-\nangled vectors of frequency interference.",
+    "start": 536.39,
+    "duration": 6.49
+  },
+  {
+    "text": "Their explanations don't explain; they\ndescribe processes that no one has ever",
+    "start": 542.88,
+    "duration": 5.22
+  },
+  {
+    "text": "seen. The one thing they never talk \nabout is electricity in circuits, which is like",
+    "start": 548.1,
+    "duration": 5.58
+  },
+  {
+    "text": "explaining life without mentioning breathing.\nAnd if you dig down to their fundamental",
+    "start": 553.68,
+    "duration": 5.15
+  },
+  {
+    "text": "assumptions that underlie the whole\nhouse of cards, you'll find it's based on",
+    "start": 558.83,
+    "duration": 4.83
+  },
+  {
+    "text": "unfalsifiable billions and billions of\nyears, dark energy-type dreamed up",
+    "start": 563.66,
+    "duration": 5.73
+  },
+  {
+    "text": "concepts force-fed by whatever humpty- dumps \nwere in charge. In other words, to believe them is to",
+    "start": 569.39,
+    "duration": 7.33
+  },
+  {
+    "text": "trust them rather than yourself. And, they're \nidiots. I also know, because I worked in the",
+    "start": 576.72,
+    "duration": 6.29
+  },
+  {
+    "text": "energy industry, that much of science is\npolitical, not truthful. It's marketing -",
+    "start": 583.01,
+    "duration": 5.76
+  },
+  {
+    "text": "it's meant to persuade you, not inform you.\nThis corruption is pervasive throughout quakademia.",
+    "start": 588.77,
+    "duration": 7.5
+  },
+  {
+    "text": "If you seek the truth without fear,\nor bias, you'll know when you find it",
+    "start": 596.27,
+    "duration": 4.39
+  },
+  {
+    "text": "because you'll find confirmation. It will \npresent itself - you just need to be aware.",
+    "start": 600.66,
+    "duration": 6.6
+  },
+  {
+    "text": "A week ago I camped on flat “alluvial” plane\ncovered in gravel near the Colorado River.",
+    "start": 607.26,
+    "duration": 5.69
+  },
+  {
+    "text": "I knew the plane to be a windblown feature\ncreated in the arc-blast of a discharge event.",
+    "start": 612.95,
+    "duration": 6.31
+  },
+  {
+    "text": "It had nothing to do with an ancient riverbed\nas consensus theory would have you believe.",
+    "start": 619.26,
+    "duration": 5.63
+  },
+  {
+    "text": "So, I began examining the gravel. It was\npredominantly typical river rock, rounded",
+    "start": 624.89,
+    "duration": 5.83
+  },
+  {
+    "text": "by water erosion as consensus theory goes.\nBut as I picked up rock after rock, a specific",
+    "start": 630.72,
+    "duration": 6.42
+  },
+  {
+    "text": "pattern became evident. Many, if not \nmost of the rocks I looked at had a flat side.",
+    "start": 637.14,
+    "duration": 6.78
+  },
+  {
+    "text": "One side was rounded and polished as if\nwashed by sand and water, but the other",
+    "start": 643.92,
+    "duration": 5.34
+  },
+  {
+    "text": "side was flat. Which entirely confirmed\nmy expectation, because I suspected such",
+    "start": 649.26,
+    "duration": 5.94
+  },
+  {
+    "text": "gravel to be the result of rock rain.\nThese “river rocks” fell like rain after",
+    "start": 655.2,
+    "duration": 5.87
+  },
+  {
+    "text": "being blasted into the sky as molten\nglass and reconstituted as drops and",
+    "start": 661.07,
+    "duration": 4.93
+  },
+  {
+    "text": "hailstones. The ones that were still\nhot and molten inside but had a cooled",
+    "start": 666.0,
+    "duration": 5.27
+  },
+  {
+    "text": "crust, landed like pudding drops, making\nthe flat bottom. And the top, exposed to",
+    "start": 671.27,
+    "duration": 6.61
+  },
+  {
+    "text": "winds, still screaming, made elongated and\nrounded streamlined tops to the drops.",
+    "start": 677.88,
+    "duration": 5.39
+  },
+  {
+    "text": "You know these rocks. They're the \nbest ones to skip across the lake.",
+    "start": 683.27,
+    "duration": 5.23
+  },
+  {
+    "text": "The flat bottom is the tell. Water\nerosion does not explain that. The rock",
+    "start": 688.5,
+    "duration": 5.88
+  },
+  {
+    "text": "rain was a pleasant surprise. I wasn't\nlooking for it - it was just there where I",
+    "start": 694.38,
+    "duration": 4.98
+  },
+  {
+    "text": "camped. This happens almost continuously from things as\nmundane as gravel, because the entire planet is evidence.",
+    "start": 699.36,
+    "duration": 8.76
+  },
+  {
+    "text": "One will also find along the way people\nlike the demolitions expert whose blog",
+    "start": 708.12,
+    "duration": 5.7
+  },
+  {
+    "text": "and identity is somewhere in the way-back machine.\nI'd like to thank and credit him. I just lost his identity.",
+    "start": 713.82,
+    "duration": 7.62
+  },
+  {
+    "text": "Obscure blogs and videos arrive in my\nstreams weekly that either Inspire new",
+    "start": 721.44,
+    "duration": 5.33
+  },
+  {
+    "text": "insight, or confirm a prior postulation. Seek and\nyou will find, because that's part of the pattern.",
+    "start": 726.77,
+    "duration": 7.74
+  },
+  {
+    "text": "I watch YouTube channels with less than 500\nsubscribers who know better than professors;",
+    "start": 734.51,
+    "duration": 5.76
+  },
+  {
+    "text": "people with no academic background but\nwith curious minds who examine magnetism",
+    "start": 740.27,
+    "duration": 5.17
+  },
+  {
+    "text": "and electricity with products from eBay.\nI listen to people with spiritual",
+    "start": 745.44,
+    "duration": 4.92
+  },
+  {
+    "text": "connections whose faith comes from\nexperiences scoffed at by consensus science.",
+    "start": 750.36,
+    "duration": 5.28
+  },
+  {
+    "text": "I read random articles in the news... find rocks \nhere and there. I live a continuous stream of",
+    "start": 755.64,
+    "duration": 6.66
+  },
+  {
+    "text": "synchronicities. Information specific to\nmy questions arrives at my doorstep, as if",
+    "start": 762.3,
+    "duration": 6.0
+  },
+  {
+    "text": "asking the right question is all the invitation\nNature needs. The universe wants to show itself to",
+    "start": 768.3,
+    "duration": 7.38
+  },
+  {
+    "text": "those who want the truth. The evidence is everywhere.\nPersonal observations led us to know that the",
+    "start": 775.68,
+    "duration": 7.92
+  },
+  {
+    "text": "Universe is electric. We all recognize the obvious:\nplasma nebula, swirling galaxies and everywhere",
+    "start": 783.6,
+    "duration": 8.22
+  },
+  {
+    "text": "the blaze of electro-magnetic balls of discharge\ncalled stars. We can see what a crater really is, and",
+    "start": 791.82,
+    "duration": 7.68
+  },
+  {
+    "text": "therefore lose no sleep wondering why so many are\nhexagonal. We know, thanks to Halton Arp, that",
+    "start": 799.5,
+    "duration": 6.54
+  },
+  {
+    "text": "redshift isn’t a measuring stick and his\nevidence alone makes the whole Big Bang",
+    "start": 806.04,
+    "duration": 4.97
+  },
+  {
+    "text": "thing nonsense. We know weather \nand climate is the Earth's circuitry in",
+    "start": 811.01,
+    "duration": 4.87
+  },
+  {
+    "text": "action, and therefore aren't shamed by our carbon\nfootprint. What binds us all is truly electric. The",
+    "start": 815.88,
+    "duration": 8.22
+  },
+  {
+    "text": "ether flows through us, as the light and\nwarmth that generates the hologram, so",
+    "start": 824.1,
+    "duration": 5.64
+  },
+  {
+    "text": "there must be a common carrier wave at its frequency \nwe all receive. Wouldn't any creature evolve the ability",
+    "start": 829.74,
+    "duration": 7.56
+  },
+  {
+    "text": "to ‘hear’ it, given its all-encompassing preeminence?\nNotwithstanding the uniquely human inability to listen,",
+    "start": 837.3,
+    "duration": 6.47
+  },
+  {
+    "text": "it seems a natural thing for life to feel that energy.\nThink of the mysterious animal behaviors,",
+    "start": 843.77,
+    "duration": 8.77
+  },
+  {
+    "text": "like foreknowledge of severe weather and earth-\nquakes. A pet knowing when a master is on the",
+    "start": 852.54,
+    "duration": 6.53
+  },
+  {
+    "text": "way home. Telepathic signals are real in\nmy humble opinion and they have a physics.",
+    "start": 859.07,
+    "duration": 8.11
+  },
+  {
+    "text": "But one must acknowledge an ether \nand look inward to find how to tune in.",
+    "start": 867.18,
+    "duration": 6.36
+  },
+  {
+    "text": "In this regard, we are all scientists, by my \ndefinition. We each took a look and said that's",
+    "start": 873.54,
+    "duration": 6.96
+  },
+  {
+    "text": "electric, because it so obviously is.\nRecognizing the obvious is critical",
+    "start": 880.5,
+    "duration": 6.12
+  },
+  {
+    "text": "thinking. Manipulating math to invent\ninvisible forces, energies and matter is,",
+    "start": 886.62,
+    "duration": 5.82
+  },
+  {
+    "text": "of course the ultimate woo. One \ncan make math simulate anything if",
+    "start": 892.44,
+    "duration": 5.75
+  },
+  {
+    "text": "you're the one making the rules. Truth \ncomes about due to intent. Truth is",
+    "start": 898.19,
+    "duration": 6.31
+  },
+  {
+    "text": "accessible to anyone with the\nunflinching intent to find it and speak",
+    "start": 904.5,
+    "duration": 4.01
+  },
+  {
+    "text": "it because it's out there waiting for you.\nAs more people become tired of the BS,",
+    "start": 908.51,
+    "duration": 6.06
+  },
+  {
+    "text": "they will look for new answers. I expect many will \nfind us. I expressed this expectation to Wal late",
+    "start": 914.57,
+    "duration": 8.59
+  },
+  {
+    "text": "last year in a few brief email exchanges.\nHe agreed the future will be amazing.",
+    "start": 923.16,
+    "duration": 6.6
+  },
+  {
+    "text": "He also said keep finding the patterns.\nWhy I think this is a fitting testimony",
+    "start": 929.76,
+    "duration": 6.18
+  },
+  {
+    "text": "for Wal, is because he and Dave created\nthis environment to explore truth.",
+    "start": 935.94,
+    "duration": 5.88
+  },
+  {
+    "text": "And that is Wal's Legacy. Cheers to anyone \nwho follows it. Shine on, you crazy diamond!",
+    "start": 941.82,
+    "duration": 8.43
+  },
+  {
+    "text": "[Music]",
+    "start": 968.67,
+    "duration": 8.49
+  }
+]

@@ -1,0 +1,6977 @@
+[
+  {
+    "text": "It's rather tough, following two\nsuch accomplished story tellers.",
+    "start": 17.225,
+    "duration": 5.583
+  },
+  {
+    "text": "The story that I want to tell though\nis one of elegant simplicity.",
+    "start": 24.82,
+    "duration": 4.15
+  },
+  {
+    "text": "It was that, a title I\nsuggested to David Talbott",
+    "start": 29.168,
+    "duration": 6.596
+  },
+  {
+    "text": "when I looked at the picture\nthat was emerging from",
+    "start": 36.383,
+    "duration": 5.038
+  },
+  {
+    "text": "an understanding of gravity,\nwhich I spoke about last year,",
+    "start": 41.446,
+    "duration": 4.266
+  },
+  {
+    "text": "and as I worked on it I understood that\nthe universe really is much simpler",
+    "start": 46.855,
+    "duration": 9.043
+  },
+  {
+    "text": "then anyone could\nhave considered.",
+    "start": 56.057,
+    "duration": 4.761
+  },
+  {
+    "text": "But then, at the same time, there was\nsomething that occurred in Canada,",
+    "start": 61.088,
+    "duration": 5.63
+  },
+  {
+    "text": "a presentation which I\nwatched with dismay,",
+    "start": 67.202,
+    "duration": 5.001
+  },
+  {
+    "text": "called the elegance or the\nsimplicity of everything.",
+    "start": 72.228,
+    "duration": 3.698
+  },
+  {
+    "text": "I'll see if I can get this to..",
+    "start": 78.014,
+    "duration": 2.283
+  },
+  {
+    "text": "it says the connection is lost..",
+    "start": 80.322,
+    "duration": 2.623
+  },
+  {
+    "text": "Here we go.",
+    "start": 86.4,
+    "duration": 1.544
+  },
+  {
+    "text": "So The Elegant Simplicity\nof the Electric Universe.",
+    "start": 91.4,
+    "duration": 3.618
+  },
+  {
+    "text": "How come so many clever\npeople can't see it?",
+    "start": 95.019,
+    "duration": 3.173
+  },
+  {
+    "text": "Only in the last few months\nthat I've found out why.",
+    "start": 98.89,
+    "duration": 3.015
+  },
+  {
+    "text": "It's an understanding that's\nimportant for everyone,",
+    "start": 102.421,
+    "duration": 3.457
+  },
+  {
+    "text": "including all of you here.",
+    "start": 105.903,
+    "duration": 2.705
+  },
+  {
+    "text": "Today specialization is\nthe enemy of science.",
+    "start": 109.656,
+    "duration": 3.513
+  },
+  {
+    "text": "It produces more complication\nthan simplification",
+    "start": 113.636,
+    "duration": 3.117
+  },
+  {
+    "text": "because experts mislead\neach other with things,",
+    "start": 116.778,
+    "duration": 2.951
+  },
+  {
+    "text": "as Tom said: \"they don't\nknow they don't know.\"",
+    "start": 119.84,
+    "duration": 3.642
+  },
+  {
+    "text": "The result is a useless\nreflection in a shattered mirror.",
+    "start": 123.808,
+    "duration": 3.971
+  },
+  {
+    "text": "So, who am I to be speaking to you about\nthe elegant simplicity of the universe?",
+    "start": 129.271,
+    "duration": 4.936
+  },
+  {
+    "text": "Looking back I can see how\nI got into this position,",
+    "start": 134.762,
+    "duration": 4.03
+  },
+  {
+    "text": "how I became a boundary\nwriter of science,",
+    "start": 139.35,
+    "duration": 3.119
+  },
+  {
+    "text": "as the science editor of the Canberra\nTimes dubbed me some years ago.",
+    "start": 142.494,
+    "duration": 4.717
+  },
+  {
+    "text": "From the earliest age I was\ncurious about how things worked,",
+    "start": 148.766,
+    "duration": 3.787
+  },
+  {
+    "text": "or read books and investigated\nthings on my own.",
+    "start": 152.578,
+    "duration": 5.019
+  },
+  {
+    "text": "Other kids did the same so I didn't\nconsider myself exceptionally clever.",
+    "start": 158.105,
+    "duration": 4.653
+  },
+  {
+    "text": "Looking back, it seems the event\nthat separated me from my peers",
+    "start": 163.377,
+    "duration": 4.473
+  },
+  {
+    "text": "was being inspired by an extraordinary\nstory of planetary chaos",
+    "start": 167.875,
+    "duration": 5.637
+  },
+  {
+    "text": "by Immanuel Velikovsky and his\nbook \"Worlds in Collision\".",
+    "start": 173.537,
+    "duration": 4.188
+  },
+  {
+    "text": "This happened while I\nwas in high school.",
+    "start": 177.86,
+    "duration": 2.733
+  },
+  {
+    "text": "So, I began to question many of\nthe things I was being taught",
+    "start": 181.545,
+    "duration": 4.177
+  },
+  {
+    "text": "and when I got to university I think\nI was the only physics undergrad",
+    "start": 185.747,
+    "duration": 4.733
+  },
+  {
+    "text": "who used to haunt the Anthropology\nshelves at the library,",
+    "start": 190.505,
+    "duration": 3.638
+  },
+  {
+    "text": "checking to see whether Velikovsky\nhad cherry-picked his sources",
+    "start": 194.485,
+    "duration": 6.332
+  },
+  {
+    "text": "or whether he had made a\nreal case to be answered.",
+    "start": 201.285,
+    "duration": 3.784
+  },
+  {
+    "text": "And I came to the conclusion that he had\nmade a very good case to be answered.",
+    "start": 205.094,
+    "duration": 5.216
+  },
+  {
+    "text": "So what had Velikovsky done?",
+    "start": 212.619,
+    "duration": 2.28
+  },
+  {
+    "text": "He'd thrown down a gauntlet\nto astronomers that",
+    "start": 214.924,
+    "duration": 2.641
+  },
+  {
+    "text": "they rejected by having his\nbest-selling book burned.",
+    "start": 217.59,
+    "duration": 3.773
+  },
+  {
+    "text": "So, book burning didn't\nfinish centuries ago.",
+    "start": 221.863,
+    "duration": 3.833
+  },
+  {
+    "text": "It happened last century.",
+    "start": 225.721,
+    "duration": 2.339
+  },
+  {
+    "text": "Velikovsky's heresy\nwas to publish that",
+    "start": 229.965,
+    "duration": 2.378
+  },
+  {
+    "text": "electromagnetism played a dominant\nrole in the solar system,",
+    "start": 232.368,
+    "duration": 3.569
+  },
+  {
+    "text": "particularly during periods\nof planetary chaos.",
+    "start": 235.962,
+    "duration": 3.893
+  },
+  {
+    "text": "Many years later and shortly\nbefore Velikovsky's passing,",
+    "start": 241.386,
+    "duration": 5.104
+  },
+  {
+    "text": "I visited him at his home in\nPrinceton and discussed this issue",
+    "start": 246.522,
+    "duration": 4.152
+  },
+  {
+    "text": "about the electrical\nnature of gravity",
+    "start": 250.699,
+    "duration": 2.471
+  },
+  {
+    "text": "because this was perhaps the\nsingle most important thing",
+    "start": 253.195,
+    "duration": 4.094
+  },
+  {
+    "text": "that the astronomers\nthrew at him.",
+    "start": 257.314,
+    "duration": 2.836
+  },
+  {
+    "text": "That his mechanism\ndisobeyed Newton's laws.",
+    "start": 260.175,
+    "duration": 3.627
+  },
+  {
+    "text": "Once again this is the certainty\nthat there's only this law,",
+    "start": 264.343,
+    "duration": 3.072
+  },
+  {
+    "text": "there's no \"what if?\" There is some\nother aspect to the mechanism?",
+    "start": 267.44,
+    "duration": 3.721
+  },
+  {
+    "text": "So, it has taken me all of the intervening\nyears since then, there's quite a few,",
+    "start": 274.653,
+    "duration": 5.818
+  },
+  {
+    "text": "to overcome the education\nI received as a student,",
+    "start": 280.496,
+    "duration": 3.736
+  },
+  {
+    "text": "to find the few true\npioneers of science",
+    "start": 284.257,
+    "duration": 4.176
+  },
+  {
+    "text": "and to relate this to\neveryday experience.",
+    "start": 289.203,
+    "duration": 7.38
+  },
+  {
+    "text": "I firmly believe that the\nElectric Universe is simple",
+    "start": 297.432,
+    "duration": 4.155
+  },
+  {
+    "text": "and you could begin to teach\nit in primary school.",
+    "start": 302.642,
+    "duration": 3.17
+  },
+  {
+    "text": "It's an amazing and engrossing\nstory which fires the imagination",
+    "start": 308.225,
+    "duration": 4.323
+  },
+  {
+    "text": "and the explanations relate\nto everyday experience.",
+    "start": 312.573,
+    "duration": 3.593
+  },
+  {
+    "text": "The Electric Universe is a cultural,\nas well as a scientific, revolution",
+    "start": 316.552,
+    "duration": 3.548
+  },
+  {
+    "text": "that has been\nmillennia in coming.",
+    "start": 320.125,
+    "duration": 3.318
+  },
+  {
+    "text": "It allows us to understand,\nfor the first time,",
+    "start": 324.379,
+    "duration": 2.788
+  },
+  {
+    "text": "the obsessive fear of\nthe planetary gods",
+    "start": 327.168,
+    "duration": 2.224
+  },
+  {
+    "text": "and their doomsday weapon,\nthe mighty Thunderbolt.",
+    "start": 329.417,
+    "duration": 3.256
+  },
+  {
+    "text": "The phenomenal thunderbolt of the planetary\ngods is the link between our human story",
+    "start": 332.848,
+    "duration": 5.195
+  },
+  {
+    "text": "and the science of the\nelectric universe.",
+    "start": 338.068,
+    "duration": 3.046
+  },
+  {
+    "text": "Some of the renowned scientists of the\npast like Newton and Faraday,",
+    "start": 341.365,
+    "duration": 3.643
+  },
+  {
+    "text": "predicted that electricity is the\nsecret to understanding gravity",
+    "start": 345.033,
+    "duration": 3.627
+  },
+  {
+    "text": "and therefore the universe.",
+    "start": 348.685,
+    "duration": 2.126
+  },
+  {
+    "text": "But in the early 20th century,\nfollowing the madness of World War,",
+    "start": 350.937,
+    "duration": 3.897
+  },
+  {
+    "text": "we reverted to the ancient geometric\nreligious mysticism of Pythagoras and Plato.",
+    "start": 354.859,
+    "duration": 5.626
+  },
+  {
+    "text": "In fact mathematicians were\nformerly called geometers.",
+    "start": 360.51,
+    "duration": 3.689
+  },
+  {
+    "text": "And wartime established a fire hose of government\nfunding of science that hasn't ceased.",
+    "start": 364.707,
+    "duration": 5.506
+  },
+  {
+    "text": "It has had the\nunintended consequences",
+    "start": 370.238,
+    "duration": 2.601
+  },
+  {
+    "text": "of paralyzing progress within\nhuge bureaucratic institutions",
+    "start": 372.864,
+    "duration": 3.536
+  },
+  {
+    "text": "and fostering censorship in the\nform of anonymous peer review",
+    "start": 376.425,
+    "duration": 3.707
+  },
+  {
+    "text": "which stalls even\nminor advances.",
+    "start": 380.157,
+    "duration": 3.45
+  },
+  {
+    "text": "Paradigm shifts come from individuals and\nare resisted vigorously by authorities.",
+    "start": 383.632,
+    "duration": 5.947
+  },
+  {
+    "text": "The wartime command to large groups of\nscientists to shut up and calculate",
+    "start": 390.198,
+    "duration": 4.978
+  },
+  {
+    "text": "has become, with the advent of\ncomputers, shut up and simulate!",
+    "start": 395.201,
+    "duration": 4.615
+  },
+  {
+    "text": "Simulations' pretty pictures are routinely\nused to persuade non-expert audiences.",
+    "start": 400.369,
+    "duration": 5.363
+  },
+  {
+    "text": "Science is now in show business",
+    "start": 405.757,
+    "duration": 2.254
+  },
+  {
+    "text": "producing CGI virtual reality\nentertainment on big screens.",
+    "start": 408.036,
+    "duration": 4.309
+  },
+  {
+    "text": "But computer models can only\nreflect back what you put in.",
+    "start": 412.37,
+    "duration": 3.783
+  },
+  {
+    "text": "As a scientist, one must attend\nto what lies beyond any model.",
+    "start": 416.178,
+    "duration": 5.373
+  },
+  {
+    "text": "Here is M74, a perfect example\nof elegant simplicity.",
+    "start": 423.162,
+    "duration": 5.476
+  },
+  {
+    "text": "It's called the perfect\nspiral galaxy.",
+    "start": 428.639,
+    "duration": 2.978
+  },
+  {
+    "text": "Cosmologists can't explain\nits formation or rotation",
+    "start": 432.109,
+    "duration": 4.153
+  },
+  {
+    "text": "without inventing weird stuff like\ndark matter and a central black hole.",
+    "start": 436.287,
+    "duration": 4.694
+  },
+  {
+    "text": "But adding arbitrary patches to a model\nto make it work on a computer screen",
+    "start": 441.449,
+    "duration": 4.219
+  },
+  {
+    "text": "is not simplifying and it's\ncertainly not elegant.",
+    "start": 445.693,
+    "duration": 3.167
+  },
+  {
+    "text": "It's generally a sign that your model\nis incomplete or just plain wrong.",
+    "start": 450.05,
+    "duration": 4.299
+  },
+  {
+    "text": "You'll notice on the picture\nthe strings of red spots in M74.",
+    "start": 454.691,
+    "duration": 6.041
+  },
+  {
+    "text": "They are star birth regions that\nare brought out in this image.",
+    "start": 460.757,
+    "duration": 3.918
+  },
+  {
+    "text": "I'll discuss this later because\nthey confirm the Electric Universe.",
+    "start": 465.095,
+    "duration": 4.778
+  },
+  {
+    "text": "The definition of elegance for a scientific\ntheory or solution to a problem is",
+    "start": 472.722,
+    "duration": 4.38
+  },
+  {
+    "text": "well-designed, pleasingly\ningenious and simple.",
+    "start": 477.127,
+    "duration": 4.11
+  },
+  {
+    "text": "Symmetry and balance are\nalso often important.",
+    "start": 481.262,
+    "duration": 3.579
+  },
+  {
+    "text": "But assessments of ingenuity\nand simplicity are subjective,",
+    "start": 485.627,
+    "duration": 4.215
+  },
+  {
+    "text": "like an individual's\nresponse to modern art.",
+    "start": 489.867,
+    "duration": 3.535
+  },
+  {
+    "text": "Paul Gauguin wrote:",
+    "start": 494.378,
+    "duration": 1.713
+  },
+  {
+    "text": "\"The history of modern art is also the history\nof the progressive loss of art's audience.",
+    "start": 496.116,
+    "duration": 4.831
+  },
+  {
+    "text": "Art has increasingly become the concern of the\nartist and the bafflement of the public.\"",
+    "start": 500.972,
+    "duration": 5.981
+  },
+  {
+    "text": "So where are the art\ncritics of modern science",
+    "start": 508.532,
+    "duration": 2.26
+  },
+  {
+    "text": "when presented with a chalkboard\ncovered in mathematical symbols,",
+    "start": 510.817,
+    "duration": 3.323
+  },
+  {
+    "text": "most of which are undefined\nin any real sense?",
+    "start": 514.165,
+    "duration": 3.463
+  },
+  {
+    "text": "Critics of this art\nof branded deniers,",
+    "start": 518.562,
+    "duration": 2.336
+  },
+  {
+    "text": "as if consensus constitutes\na religious truth.",
+    "start": 520.899,
+    "duration": 3.368
+  },
+  {
+    "text": "Only a belief can be denied",
+    "start": 524.553,
+    "duration": 2.655
+  },
+  {
+    "text": "and if it's a consensus\nbelief it ain't science",
+    "start": 527.233,
+    "duration": 3.091
+  },
+  {
+    "text": "as Michael Crichton said in\none of these famous speeches.",
+    "start": 530.349,
+    "duration": 3.61
+  },
+  {
+    "text": "The late astronomer Halton Arp lamented\nthat investigative journalism,",
+    "start": 534.133,
+    "duration": 4.713
+  },
+  {
+    "text": "or in other words art\ncriticism, in science is dead.",
+    "start": 538.871,
+    "duration": 4.241
+  },
+  {
+    "text": "The Big Bang is the antithesis\nof elegance and simplicity",
+    "start": 543.541,
+    "duration": 3.443
+  },
+  {
+    "text": "with its random explosions and collisions and\nits multiplicity of forces and particles.",
+    "start": 547.009,
+    "duration": 5.966
+  },
+  {
+    "text": "Despite this, he is an\nauthority who said publicly",
+    "start": 555.222,
+    "duration": 3.126
+  },
+  {
+    "text": "that everything is not just\nsimple but astonishingly simple.",
+    "start": 558.373,
+    "duration": 3.532
+  },
+  {
+    "text": "Neil Turok, director of the Perimeter Institute\nfor Theoretical Physics in Waterloo, Canada",
+    "start": 561.93,
+    "duration": 5.179
+  },
+  {
+    "text": "speaking on October the\nseventh last year..",
+    "start": 567.134,
+    "duration": 3.316
+  },
+  {
+    "text": "The astonishing\nsimplicity of everything,",
+    "start": 571.617,
+    "duration": 2.801
+  },
+  {
+    "text": "but that implies you\nknow everything.",
+    "start": 574.443,
+    "duration": 3.059
+  },
+  {
+    "text": "But I will show you that there\nare many very basic things",
+    "start": 579.708,
+    "duration": 3.012
+  },
+  {
+    "text": "that experts don't\nknow they don't know.",
+    "start": 582.745,
+    "duration": 3.292
+  },
+  {
+    "text": "Neil Turok defined simplicity:",
+    "start": 590.323,
+    "duration": 2.739
+  },
+  {
+    "text": "\"Simplicity means\nconcepts which unify.",
+    "start": 593.087,
+    "duration": 3.005
+  },
+  {
+    "text": "They bring together disparate\nideas, disparate knowledge,",
+    "start": 596.117,
+    "duration": 3.675
+  },
+  {
+    "text": "make sense of them\nand simplify.\"",
+    "start": 599.817,
+    "duration": 2.499
+  },
+  {
+    "text": "I agree.",
+    "start": 602.341,
+    "duration": 1.715
+  },
+  {
+    "text": "But adding fudge factors like\ndark matter and dark energy",
+    "start": 604.081,
+    "duration": 3.197
+  },
+  {
+    "text": "is the antithesis of simplicity.",
+    "start": 607.303,
+    "duration": 2.712
+  },
+  {
+    "text": "What other disparate\nknowledge was canvassed?",
+    "start": 610.04,
+    "duration": 3.07
+  },
+  {
+    "text": "Certainly not Halton Arp's\nobservational research",
+    "start": 613.135,
+    "duration": 2.519
+  },
+  {
+    "text": "that shows the universe\nis not expanding.",
+    "start": 615.679,
+    "duration": 3.038
+  },
+  {
+    "text": "Certainly not peer-reviewed\nplasma cosmology",
+    "start": 618.742,
+    "duration": 2.829
+  },
+  {
+    "text": "that explains it simply and\npredicts so much in cosmology.",
+    "start": 621.596,
+    "duration": 4.154
+  },
+  {
+    "text": "Simple concepts are those that\nexplain as much as we possibly can",
+    "start": 629.877,
+    "duration": 4.852
+  },
+  {
+    "text": "with the least possible\nnumber of assumptions.",
+    "start": 634.754,
+    "duration": 2.551
+  },
+  {
+    "text": "And I agree, that's a good test.",
+    "start": 637.33,
+    "duration": 2.152
+  },
+  {
+    "text": "The problem is how little theoretical\nphysics actually explains.",
+    "start": 639.507,
+    "duration": 4.571
+  },
+  {
+    "text": "Quantum physics has no explanation,\ngravity has no explanation",
+    "start": 644.103,
+    "duration": 5.121
+  },
+  {
+    "text": "and the two are incompatible.",
+    "start": 649.249,
+    "duration": 2.135
+  },
+  {
+    "text": "Theoretical physics, as it\nstands today, is very limited.",
+    "start": 651.409,
+    "duration": 4.79
+  },
+  {
+    "text": "But as British astrophysicist\nMike Disney shows,",
+    "start": 656.224,
+    "duration": 3.648
+  },
+  {
+    "text": "the number of free parameters (assumptions)\nin the Big Bang exceeds the measurements.",
+    "start": 659.897,
+    "duration": 5.198
+  },
+  {
+    "text": "So consensus Big Bang cosmology fails\nthis test at the starting gate.",
+    "start": 665.738,
+    "duration": 5.0
+  },
+  {
+    "text": "A recent massive supercomputer simulation\nproduced the universe of galaxies",
+    "start": 670.763,
+    "duration": 4.798
+  },
+  {
+    "text": "that seems to match\nobservations.",
+    "start": 675.586,
+    "duration": 2.721
+  },
+  {
+    "text": "Despite using concepts\nthat are invalid.",
+    "start": 678.332,
+    "duration": 2.945
+  },
+  {
+    "text": "So what good are\ncomputer simulations?",
+    "start": 681.963,
+    "duration": 3.156
+  },
+  {
+    "text": "With all the free parameters it could\nhave produced a platypus or koala bear.",
+    "start": 685.396,
+    "duration": 4.903
+  },
+  {
+    "text": "Nevertheless, simulations are offered\nas experiments and proof of theories.",
+    "start": 690.324,
+    "duration": 5.178
+  },
+  {
+    "text": "After describing the\nBig Bang, Turok said:",
+    "start": 698.916,
+    "duration": 3.054
+  },
+  {
+    "text": "\"The universe has turned out\nto be stunningly simple.",
+    "start": 701.995,
+    "duration": 3.197
+  },
+  {
+    "text": "It's simpler than any of\nour models can explain.\"",
+    "start": 705.217,
+    "duration": 3.181
+  },
+  {
+    "text": "But hang on a minute, if none of the\nmodels can explain the simplicity,",
+    "start": 708.985,
+    "duration": 3.387
+  },
+  {
+    "text": "surely all of the\nmodels have failed.",
+    "start": 712.397,
+    "duration": 2.421
+  },
+  {
+    "text": "Now, here's the astonishingly simple\nequation of all known physics.",
+    "start": 717.818,
+    "duration": 4.786
+  },
+  {
+    "text": "I would ask, where is life and\nconsciousness in that equation?",
+    "start": 723.104,
+    "duration": 3.696
+  },
+  {
+    "text": "You'll notice that Peter Higgs gets a\nmention, the second from the right.",
+    "start": 727.475,
+    "duration": 4.344
+  },
+  {
+    "text": "Turok said: \"They've\nfound the Higgs boson\"!",
+    "start": 731.844,
+    "duration": 3.092
+  },
+  {
+    "text": "No, they didn’t!",
+    "start": 734.961,
+    "duration": 1.251
+  },
+  {
+    "text": "If the Higgs mechanism\nexplains masses",
+    "start": 736.237,
+    "duration": 2.173
+  },
+  {
+    "text": "it should be able to calculate the mass\nratio of the proton to the electron.",
+    "start": 738.435,
+    "duration": 3.752
+  },
+  {
+    "text": "It can't.",
+    "start": 742.212,
+    "duration": 1.119
+  },
+  {
+    "text": "And who in this audience\nthinks that's simple?",
+    "start": 743.356,
+    "duration": 2.837
+  },
+  {
+    "text": "That it allows them to\nunderstand everything.",
+    "start": 747.709,
+    "duration": 3.233
+  },
+  {
+    "text": "But here we come to an\nimportant qualifier.",
+    "start": 754.736,
+    "duration": 3.15
+  },
+  {
+    "text": "\"The grand unified theory is compact\nand elegant in mathematical terms.\"",
+    "start": 760.164,
+    "duration": 5.438
+  },
+  {
+    "text": "Turok then launches into numbers,\nPythagoras' theorem, imaginary numbers,",
+    "start": 766.896,
+    "duration": 4.475
+  },
+  {
+    "text": "allowing the solution\nof any equation",
+    "start": 771.396,
+    "duration": 2.244
+  },
+  {
+    "text": "and an enthusiastic endorsement of\nmathematics for the rest of the lecture.",
+    "start": 773.665,
+    "duration": 4.728
+  },
+  {
+    "text": "But unless each symbol and\noperator can be defined..",
+    "start": 778.418,
+    "duration": 2.987
+  },
+  {
+    "text": "pardon me,",
+    "start": 781.43,
+    "duration": 0.718
+  },
+  {
+    "text": "defined in real physical terms, an\nequation is physically meaningless.",
+    "start": 782.149,
+    "duration": 4.994
+  },
+  {
+    "text": "Mismatches with theory cause the invention\nof ever more particles and forces.",
+    "start": 790.296,
+    "duration": 5.024
+  },
+  {
+    "text": "Which violates the claim of\nsimplicity and elegance.",
+    "start": 795.345,
+    "duration": 3.848
+  },
+  {
+    "text": "In fact, mathematics is an art often\napplied unscientifically to science.",
+    "start": 802.173,
+    "duration": 5.865
+  },
+  {
+    "text": "Unless you have all of the\ncorrect physical concepts",
+    "start": 808.309,
+    "duration": 2.694
+  },
+  {
+    "text": "and definitions in your\nmathematical model,",
+    "start": 811.028,
+    "duration": 2.369
+  },
+  {
+    "text": "the conclusions cannot\nbe relied upon.",
+    "start": 813.431,
+    "duration": 3.141
+  },
+  {
+    "text": "The art becomes surreal.",
+    "start": 816.597,
+    "duration": 2.983
+  },
+  {
+    "text": "The genius Johann Wolfgang\nVon Goethe wrote:",
+    "start": 819.904,
+    "duration": 3.717
+  },
+  {
+    "text": "\"Mathematics has the completely false\nreputation of yielding infallible conclusions.\"",
+    "start": 823.646,
+    "duration": 5.826
+  },
+  {
+    "text": "So we come to art and surrealism\nand the celebrity, Kip Thorne,",
+    "start": 831.226,
+    "duration": 5.234
+  },
+  {
+    "text": "Feynman emeritus professor of\ntheoretical physics in Caltech",
+    "start": 836.485,
+    "duration": 3.926
+  },
+  {
+    "text": "who has this to say\nabout simplicity:",
+    "start": 840.436,
+    "duration": 2.675
+  },
+  {
+    "text": "\"Simplicity is the touchstone\nin finding new physical laws...",
+    "start": 843.136,
+    "duration": 4.336
+  },
+  {
+    "text": "if it's elegant, then it's a rough rule\nof thumb: you're on the right track.\"",
+    "start": 847.497,
+    "duration": 5.003
+  },
+  {
+    "text": "Thorne was the executive producer\nof the sci-fi film Interstellar.",
+    "start": 853.654,
+    "duration": 4.451
+  },
+  {
+    "text": "The film blurb says: \"His\nmath guided the creation of",
+    "start": 858.559,
+    "duration": 3.614
+  },
+  {
+    "text": "the mesmerizing and the most\naccurate simulation ever",
+    "start": 862.198,
+    "duration": 3.284
+  },
+  {
+    "text": "of what a black hole\nwould look like.",
+    "start": 865.507,
+    "duration": 2.447
+  },
+  {
+    "text": "And it was the product of the year of work\nby 30 people and thousands of computers.\"",
+    "start": 869.034,
+    "duration": 5.206
+  },
+  {
+    "text": "Kip Thorne said: \"I think the thing\nthat makes this film different",
+    "start": 877.029,
+    "duration": 3.589
+  },
+  {
+    "text": "is that the science is woven into this film\nand into the story from the beginning.",
+    "start": 880.643,
+    "duration": 4.161
+  },
+  {
+    "text": "And woven in deeply.",
+    "start": 884.829,
+    "duration": 2.631
+  },
+  {
+    "text": "Real science.\"",
+    "start": 888.497,
+    "duration": 3.209
+  },
+  {
+    "text": "Quite the reverse is true, cosmology has\nbecome science fiction entertainment.",
+    "start": 892.142,
+    "duration": 4.649
+  },
+  {
+    "text": "There's nothing scientific\nabout the slide on the right",
+    "start": 896.816,
+    "duration": 2.822
+  },
+  {
+    "text": "from Thorne's Wolfgang Pauli\nlecture in Zurich in 2011,",
+    "start": 899.663,
+    "duration": 4.323
+  },
+  {
+    "text": "\"A black hole is made from warped\nspace . . . and space and time.\"",
+    "start": 904.011,
+    "duration": 5.085
+  },
+  {
+    "text": "But as Steve Crothers has\nshown, black hole theory",
+    "start": 909.121,
+    "duration": 2.396
+  },
+  {
+    "text": "makes no sense mathematically,\nlet alone physically.",
+    "start": 911.542,
+    "duration": 3.086
+  },
+  {
+    "text": "How do you make a material object out of\ntwo immaterial concepts, space and time?",
+    "start": 914.653,
+    "duration": 6.06
+  },
+  {
+    "text": "As science teacher [Evan Camp]",
+    "start": 922.919,
+    "duration": 3.555
+  },
+  {
+    "text": "Evan Camp's student asked: \"How can\nsmart people believe this stuff?\"",
+    "start": 926.499,
+    "duration": 5.414
+  },
+  {
+    "text": "Recently I found the answer",
+    "start": 932.881,
+    "duration": 3.086
+  },
+  {
+    "text": "and it shows that our education systems\ndamage our ability to do science.",
+    "start": 935.992,
+    "duration": 5.269
+  },
+  {
+    "text": "The first thing to do, I think Tom touched\non this, is to first know yourself.",
+    "start": 945.585,
+    "duration": 6.095
+  },
+  {
+    "text": "The distinguished\ndoctor Iain McGilchrist",
+    "start": 952.236,
+    "duration": 2.538
+  },
+  {
+    "text": "is a psychiatrist, doctor, writer,\nformer Oxford literary scholar",
+    "start": 954.799,
+    "duration": 4.427
+  },
+  {
+    "text": "who wrote: The Master\nand his Emissary,",
+    "start": 959.251,
+    "duration": 2.613
+  },
+  {
+    "text": "subtitled: The Divided Brain and\nthe Making of the Western World.",
+    "start": 961.889,
+    "duration": 4.909
+  },
+  {
+    "text": "His shorter e-book is: The Divided\nBrain and the Search for Meaning,",
+    "start": 967.235,
+    "duration": 4.243
+  },
+  {
+    "text": "which I recommend to you.",
+    "start": 971.503,
+    "duration": 2.216
+  },
+  {
+    "text": "There are also some\nexcellent Youtube videos,",
+    "start": 973.72,
+    "duration": 3.123
+  },
+  {
+    "text": "interviews with him and\nalso an RSA animation",
+    "start": 976.868,
+    "duration": 4.555
+  },
+  {
+    "text": "from which I will\nhave a few images.",
+    "start": 981.615,
+    "duration": 3.181
+  },
+  {
+    "text": "He points out: The brain is profoundly divided\nand this organ is profoundly asymmetric.",
+    "start": 988.149,
+    "duration": 5.913
+  },
+  {
+    "text": "And he asked the question:",
+    "start": 994.718,
+    "duration": 1.485
+  },
+  {
+    "text": "Why would nature divide brains if\nthere wasn't some use for that?",
+    "start": 996.228,
+    "duration": 5.324
+  },
+  {
+    "text": "He said: It's not true\nthat one part of the brain",
+    "start": 1004.599,
+    "duration": 2.539
+  },
+  {
+    "text": "does reason and the other does emotion.\nBoth are profoundly involved.",
+    "start": 1007.139,
+    "duration": 4.98
+  },
+  {
+    "text": "It seems the main function\nof the corpus callosum",
+    "start": 1014.26,
+    "duration": 3.776
+  },
+  {
+    "text": "that join, joining fibres between\nthe left and right hemispheres,",
+    "start": 1018.061,
+    "duration": 4.908
+  },
+  {
+    "text": "is to inhibit the\nother hemisphere.",
+    "start": 1022.994,
+    "duration": 3.063
+  },
+  {
+    "text": "Something very important\nis going on here.",
+    "start": 1026.754,
+    "duration": 2.823
+  },
+  {
+    "text": "The right hemisphere reacts faster\nbut inhibits less strongly.",
+    "start": 1031.706,
+    "duration": 4.326
+  },
+  {
+    "text": "I should point out too that\nphysically they are different.",
+    "start": 1037.788,
+    "duration": 3.603
+  },
+  {
+    "text": "One hemisphere is slightly\nsmaller than the other",
+    "start": 1041.764,
+    "duration": 2.9
+  },
+  {
+    "text": "and the left hemisphere\nis slightly rotated",
+    "start": 1044.689,
+    "duration": 2.598
+  },
+  {
+    "text": "and the surface convolutions\nare different..",
+    "start": 1047.312,
+    "duration": 6.097
+  },
+  {
+    "text": "And even the chemical signaling\nis different on both sides",
+    "start": 1053.434,
+    "duration": 3.928
+  },
+  {
+    "text": "so they have a different\njob to perform.",
+    "start": 1057.387,
+    "duration": 3.396
+  },
+  {
+    "text": "This is a slide from\nthe RSA academies,",
+    "start": 1064.007,
+    "duration": 3.402
+  },
+  {
+    "text": "the Royal Society of Arts\nacademies in the UK.",
+    "start": 1067.434,
+    "duration": 3.005
+  },
+  {
+    "text": "I presume you've probably\nall seen the animated",
+    "start": 1070.464,
+    "duration": 4.253
+  },
+  {
+    "text": "swift drawing while\nsomebody is lecturing.",
+    "start": 1074.742,
+    "duration": 3.555
+  },
+  {
+    "text": "This is from the YouTube video that\nI recommend you to have a look at.",
+    "start": 1078.322,
+    "duration": 4.607
+  },
+  {
+    "text": "In this he shows that the left hemisphere\nis narrowly focused and attends to detail",
+    "start": 1085.413,
+    "duration": 7.331
+  },
+  {
+    "text": "while the right hemisphere\nis more broadly focused,",
+    "start": 1092.769,
+    "duration": 5.159
+  },
+  {
+    "text": "it's alert and open to\nwhat's going on around.",
+    "start": 1097.929,
+    "duration": 4.075
+  },
+  {
+    "text": "And he gives an example\nof the chicken.",
+    "start": 1102.029,
+    "duration": 3.058
+  },
+  {
+    "text": "He said: the left hemisphere in the chicken\nis looking for the seeds amongst the dirt,",
+    "start": 1105.112,
+    "duration": 6.757
+  },
+  {
+    "text": "the right hemisphere is making sure the\nchicken doesn't become somebody else's lunch.",
+    "start": 1111.894,
+    "duration": 5.403
+  },
+  {
+    "text": "And I think that's a\ngood way to look at it.",
+    "start": 1118.13,
+    "duration": 3.484
+  },
+  {
+    "text": "In other words the left hemisphere is survival,\nthe right hemisphere is a broad picture",
+    "start": 1121.639,
+    "duration": 5.278
+  },
+  {
+    "text": "of what’s going on around you.",
+    "start": 1126.942,
+    "duration": 1.933
+  },
+  {
+    "text": "I wrote to Iain McGilchrist and I sent him\na copy of the paper, PDF of the paper",
+    "start": 1132.375,
+    "duration": 6.212
+  },
+  {
+    "text": "which had actually studied the left and\nright hemisphere and image the activity",
+    "start": 1138.612,
+    "duration": 4.182
+  },
+  {
+    "text": "that goes on when you ask physics\nquestions, of a student.",
+    "start": 1142.819,
+    "duration": 3.793
+  },
+  {
+    "text": "And you'll notice that the left hemisphere\nlights up like a Christmas tree",
+    "start": 1146.637,
+    "duration": 3.682
+  },
+  {
+    "text": "and the right hemisphere\nis rather passive.",
+    "start": 1150.344,
+    "duration": 2.827
+  },
+  {
+    "text": "The different colors just referred to different\ncharacteristics of what's being asked.",
+    "start": 1153.53,
+    "duration": 5.037
+  },
+  {
+    "text": "Algebraic equation representation\nis red, the green is periodicity,",
+    "start": 1158.592,
+    "duration": 5.856
+  },
+  {
+    "text": "energy flow is blue.",
+    "start": 1164.473,
+    "duration": 2.006
+  },
+  {
+    "text": "This brings me to: we've all\nheard of cognitive dissonance,",
+    "start": 1170.424,
+    "duration": 3.74
+  },
+  {
+    "text": "as if you're presented with something\nthat you just cannot handle,",
+    "start": 1174.189,
+    "duration": 3.986
+  },
+  {
+    "text": "it just doesn't make\nany sense to you.",
+    "start": 1178.2,
+    "duration": 2.913
+  },
+  {
+    "text": "And it seems that it's a\nresult of the differences",
+    "start": 1181.138,
+    "duration": 4.29
+  },
+  {
+    "text": "between the two\nhemispheres of the brain.",
+    "start": 1185.453,
+    "duration": 2.546
+  },
+  {
+    "text": "The left hemisphere, as I said, has narrow\nfocus, only sees what it expects to see",
+    "start": 1188.482,
+    "duration": 5.596
+  },
+  {
+    "text": "and has automatic\nmachine-like responses.",
+    "start": 1194.103,
+    "duration": 2.968
+  },
+  {
+    "text": "It's about survival.",
+    "start": 1197.096,
+    "duration": 1.948
+  },
+  {
+    "text": "Education in science reinforces the\nbits rather than the whole picture.",
+    "start": 1200.012,
+    "duration": 5.013
+  },
+  {
+    "text": "So the left hemisphere is\ninvolved in the training.",
+    "start": 1205.05,
+    "duration": 3.545
+  },
+  {
+    "text": "It's a vicious cycle because it\nfocuses on aspects we expect to see.",
+    "start": 1208.62,
+    "duration": 4.967
+  },
+  {
+    "text": "You get stuck in a\ncertain way of thinking.",
+    "start": 1214.913,
+    "duration": 2.826
+  },
+  {
+    "text": "Also the left hemisphere\nneeds to be in control.",
+    "start": 1217.764,
+    "duration": 3.253
+  },
+  {
+    "text": "And the left hemisphere people,",
+    "start": 1222.744,
+    "duration": 2.151
+  },
+  {
+    "text": "that's those who have dominant\nleft hemisphere, exhibit denial.",
+    "start": 1224.92,
+    "duration": 6.73
+  },
+  {
+    "text": "We can all think of many\nexamples of this, I think,",
+    "start": 1233.066,
+    "duration": 4.445
+  },
+  {
+    "text": "Michael Shermer's visit to our\nlast meeting as an example.",
+    "start": 1237.536,
+    "duration": 4.017
+  },
+  {
+    "text": "The right hemisphere: meaning comes\nfrom understanding the whole.",
+    "start": 1243.999,
+    "duration": 5.092
+  },
+  {
+    "text": "In other words, it's trying\nto take in the whole picture.",
+    "start": 1249.116,
+    "duration": 2.883
+  },
+  {
+    "text": "And being comfortable, and this is important,\nwith not being able to grasp everything.",
+    "start": 1252.024,
+    "duration": 4.835
+  },
+  {
+    "text": "You don't need to understand\nthe creation of the universe.",
+    "start": 1256.884,
+    "duration": 3.608
+  },
+  {
+    "text": "What's more, he said,",
+    "start": 1263.786,
+    "duration": 1.707
+  },
+  {
+    "text": "happiness comes from understanding your\nconnectedness and engagement with the world.",
+    "start": 1265.518,
+    "duration": 4.889
+  },
+  {
+    "text": "I would say the universe",
+    "start": 1270.432,
+    "duration": 1.579
+  },
+  {
+    "text": "because that's what the Electric\nUniverse is about, connectedness.",
+    "start": 1272.036,
+    "duration": 3.621
+  },
+  {
+    "text": "Left hemisphere, Big Bang cosmology is\nconsequently, I would say, hope-less.",
+    "start": 1276.514,
+    "duration": 6.323
+  },
+  {
+    "text": "McGilchrist's e-book is subtitled:\n\"Why are we so Unhappy?\"",
+    "start": 1284.988,
+    "duration": 3.548
+  },
+  {
+    "text": "And this is an, this is the whole\nthing about the Electric Universe,",
+    "start": 1288.561,
+    "duration": 3.291
+  },
+  {
+    "text": "there is no subject that it shouldn't\ntouch on if it is a real cosmology.",
+    "start": 1291.853,
+    "duration": 4.556
+  },
+  {
+    "text": "He says, happiness comes\nfrom social connectedness",
+    "start": 1297.275,
+    "duration": 4.04
+  },
+  {
+    "text": "and a sense of purpose\nbeyond the immediate.",
+    "start": 1301.34,
+    "duration": 3.268
+  },
+  {
+    "text": "I would say that seems to\ncharacterize our conferences.",
+    "start": 1305.18,
+    "duration": 3.266
+  },
+  {
+    "text": "There is a great\nsense of purpose.",
+    "start": 1308.668,
+    "duration": 3.08
+  },
+  {
+    "text": "Modern goal-oriented\neducation, on the other hand,",
+    "start": 1313.018,
+    "duration": 3.027
+  },
+  {
+    "text": "and its constant audit\nand inquisition,",
+    "start": 1316.07,
+    "duration": 2.395
+  },
+  {
+    "text": "turns off the intellectually\nadventurous teachers and students.",
+    "start": 1318.49,
+    "duration": 3.742
+  },
+  {
+    "text": "We don't understand the world by\nputting it together bit by bit.",
+    "start": 1322.257,
+    "duration": 4.34
+  },
+  {
+    "text": "Quite the opposite, in fact.",
+    "start": 1326.622,
+    "duration": 2.045
+  },
+  {
+    "text": "So, Left Hemisphere Training",
+    "start": 1332.445,
+    "duration": 2.174
+  },
+  {
+    "text": "The knowledge that is mediated by the left\nhemisphere is within a closed system.",
+    "start": 1334.644,
+    "duration": 4.57
+  },
+  {
+    "text": "This is typical of the scientific\napproach of course, you isolate",
+    "start": 1340.127,
+    "duration": 3.321
+  },
+  {
+    "text": "the small part of something and\nthen try and analyze that.",
+    "start": 1343.473,
+    "duration": 3.216
+  },
+  {
+    "text": "It has the advantage\nof appearing perfect",
+    "start": 1346.983,
+    "duration": 2.555
+  },
+  {
+    "text": "but the perfection is bought\nultimately at the price of emptiness.",
+    "start": 1349.563,
+    "duration": 4.005
+  },
+  {
+    "text": "So you see, the Big Bang\nis a closed system.",
+    "start": 1357.783,
+    "duration": 3.701
+  },
+  {
+    "text": "The universe expanded from a non-physical\npoint thirteen and a half billion years ago",
+    "start": 1361.509,
+    "duration": 5.134
+  },
+  {
+    "text": "and increasing entropy\nand disorder is expected",
+    "start": 1366.668,
+    "duration": 2.681
+  },
+  {
+    "text": "but we see increasing order.",
+    "start": 1369.374,
+    "duration": 2.007
+  },
+  {
+    "text": "The universe is not\na closed system!",
+    "start": 1371.406,
+    "duration": 2.867
+  },
+  {
+    "text": "Geology is a closed system.",
+    "start": 1375.576,
+    "duration": 2.334
+  },
+  {
+    "text": "So geologists could simply\nextrapolate things seen today",
+    "start": 1377.935,
+    "duration": 3.83
+  },
+  {
+    "text": "back a few billion years and\nmake up any story they fancied.",
+    "start": 1381.79,
+    "duration": 4.285
+  },
+  {
+    "text": "Biology is a closed system.",
+    "start": 1387.686,
+    "duration": 2.263
+  },
+  {
+    "text": "Each organism is self-contained.",
+    "start": 1390.235,
+    "duration": 2.621
+  },
+  {
+    "text": "Brain circuitry will\nexplain consciousness.",
+    "start": 1392.881,
+    "duration": 2.886
+  },
+  {
+    "text": "Sheldrake and others\nshow this is invalid.",
+    "start": 1396.243,
+    "duration": 2.607
+  },
+  {
+    "text": "The closed mechanical\nmodel is wrong!",
+    "start": 1398.875,
+    "duration": 3.064
+  },
+  {
+    "text": "Einstein's inertial frames\nare closed systems.",
+    "start": 1402.431,
+    "duration": 2.767
+  },
+  {
+    "text": "They have lost all\nexternal references.",
+    "start": 1405.223,
+    "duration": 2.745
+  },
+  {
+    "text": "You gotta ask, the speed\nof light, you know,",
+    "start": 1408.365,
+    "duration": 3.155
+  },
+  {
+    "text": "inertial reference frame\nwith respect to what?",
+    "start": 1411.545,
+    "duration": 2.913
+  },
+  {
+    "text": "Some arbitrary observer.",
+    "start": 1414.483,
+    "duration": 2.547
+  },
+  {
+    "text": "So modern science is\nempty of real meaning.",
+    "start": 1421.459,
+    "duration": 3.275
+  },
+  {
+    "text": "Left hemisphere dominance\nis the safeway.",
+    "start": 1424.759,
+    "duration": 3.578
+  },
+  {
+    "text": "A way that minimizes risk and\nprovides a way forward that seemingly",
+    "start": 1428.362,
+    "duration": 3.618
+  },
+  {
+    "text": "is a more secure and logical\napproach to decision making.",
+    "start": 1432.005,
+    "duration": 4.023
+  },
+  {
+    "text": "The Machine metaphor reduces\nthings to isolated bits",
+    "start": 1436.303,
+    "duration": 3.225
+  },
+  {
+    "text": "and loses sight of\nthe connected whole.",
+    "start": 1439.553,
+    "duration": 2.531
+  },
+  {
+    "text": "Stars are isolated objects,\ngalaxies are isolated objects,",
+    "start": 1442.109,
+    "duration": 5.113
+  },
+  {
+    "text": "we are isolated individuals.",
+    "start": 1447.247,
+    "duration": 2.64
+  },
+  {
+    "text": "It's chickens, picking\nat seeds in the dirt.",
+    "start": 1449.912,
+    "duration": 3.251
+  },
+  {
+    "text": "Of course, when you're tied\nup with this narrow view",
+    "start": 1456.507,
+    "duration": 5.578
+  },
+  {
+    "text": "you end up with a whole\nof mirrors effect.",
+    "start": 1462.11,
+    "duration": 3.198
+  },
+  {
+    "text": "The more we get\ntrapped into this,",
+    "start": 1465.866,
+    "duration": 1.865
+  },
+  {
+    "text": "the more we undercut the things\nthat might have led us out of it",
+    "start": 1467.756,
+    "duration": 3.387
+  },
+  {
+    "text": "and we just get reflected back\ninto more of what we know,",
+    "start": 1471.168,
+    "duration": 3.054
+  },
+  {
+    "text": "about what we know, about what\nwe know, about what we know...",
+    "start": 1474.247,
+    "duration": 3.715
+  },
+  {
+    "text": "So the greatest problem becomes the\nthings we don't know we don't know.",
+    "start": 1477.987,
+    "duration": 4.539
+  },
+  {
+    "text": "More information, we\nhave it in spades",
+    "start": 1484.986,
+    "duration": 3.208
+  },
+  {
+    "text": "but we get less and\nless able to use it,",
+    "start": 1488.219,
+    "duration": 2.236
+  },
+  {
+    "text": "to understand it, to be wise.",
+    "start": 1490.48,
+    "duration": 2.499
+  },
+  {
+    "text": "These are Iain\nMcGilchrist's words.",
+    "start": 1493.004,
+    "duration": 2.354
+  },
+  {
+    "text": "Instead we go searching in the\ncrap for signals we expect to see.",
+    "start": 1495.773,
+    "duration": 3.838
+  },
+  {
+    "text": "That's my words.",
+    "start": 1499.636,
+    "duration": 2.297
+  },
+  {
+    "text": "\"There's a paradoxical\nrelationship\",",
+    "start": 1507.178,
+    "duration": 2.531
+  },
+  {
+    "text": "Iain says, \"as I know\nas a psychiatrist,",
+    "start": 1510.058,
+    "duration": 2.562
+  },
+  {
+    "text": "between the knowledge of the parts\nand wisdom about the whole.",
+    "start": 1512.645,
+    "duration": 3.572
+  },
+  {
+    "text": "It's the machine model that is\nsupposed to answer everything",
+    "start": 1516.242,
+    "duration": 3.696
+  },
+  {
+    "text": "but it doesn't.\"",
+    "start": 1519.963,
+    "duration": 1.385
+  },
+  {
+    "text": "In other words the\ntheory of everything.",
+    "start": 1521.349,
+    "duration": 2.549
+  },
+  {
+    "text": "This is a perfect example\nof a hall of mirrors.",
+    "start": 1527.684,
+    "duration": 2.991
+  },
+  {
+    "text": "This is the large hadron\ncollider control room.",
+    "start": 1530.7,
+    "duration": 3.189
+  },
+  {
+    "text": "Experiments are done on computer\nscreens, it's virtual research.",
+    "start": 1534.367,
+    "duration": 5.815
+  },
+  {
+    "text": "In our computerized world the virtual\nmakes something seem more real.",
+    "start": 1540.207,
+    "duration": 4.471
+  },
+  {
+    "text": "As one scientist said,\nsexy images sell!",
+    "start": 1545.583,
+    "duration": 3.329
+  },
+  {
+    "text": "We see that all the\ntime in the media.",
+    "start": 1549.794,
+    "duration": 2.302
+  },
+  {
+    "text": "The picture, however, has become\nfragmented and surreal science fiction.",
+    "start": 1552.121,
+    "duration": 4.226
+  },
+  {
+    "text": "Mistakes no longer mean going\nback to the drawing board,",
+    "start": 1556.372,
+    "duration": 2.975
+  },
+  {
+    "text": "mistakes now need\nto be de-bugged.",
+    "start": 1559.372,
+    "duration": 2.793
+  },
+  {
+    "text": "It creates a classic hall of\nmirrors reflecting a single model.",
+    "start": 1564.291,
+    "duration": 4.092
+  },
+  {
+    "text": "Signals buried in noise become\nstatistical discoveries and proof.",
+    "start": 1569.583,
+    "duration": 4.449
+  },
+  {
+    "text": "The computers are programmed to find, deep\nin the noise, what they expect to see.",
+    "start": 1574.057,
+    "duration": 4.69
+  },
+  {
+    "text": "I think the,",
+    "start": 1578.772,
+    "duration": 1.674
+  },
+  {
+    "text": "the LIGO and the gravitational wave\nexperiment is a prime example.",
+    "start": 1580.471,
+    "duration": 4.037
+  },
+  {
+    "text": "Images on a screen become\nreal discoveries or proof,",
+    "start": 1584.949,
+    "duration": 3.545
+  },
+  {
+    "text": "the Higgs boson,\ngravitational waves.",
+    "start": 1588.519,
+    "duration": 3.086
+  },
+  {
+    "text": "It illustrates group-think and\nleft hemisphere dominance,",
+    "start": 1591.63,
+    "duration": 3.672
+  },
+  {
+    "text": "a blindness to alternatives.",
+    "start": 1595.327,
+    "duration": 2.53
+  },
+  {
+    "text": "...Sorry...",
+    "start": 1597.858,
+    "duration": 1.848
+  },
+  {
+    "text": "But paradigm shifts come from\nindividuals using their mind,",
+    "start": 1601.301,
+    "duration": 3.407
+  },
+  {
+    "text": "not large teams using computers,",
+    "start": 1604.733,
+    "duration": 2.46
+  },
+  {
+    "text": "the ultimate black boxes.",
+    "start": 1608.312,
+    "duration": 2.45
+  },
+  {
+    "text": "They invent new forces and particles\nto reclaim control of the model.",
+    "start": 1611.859,
+    "duration": 3.862
+  },
+  {
+    "text": "The quark, the gluon,\ndark energy, dark matter.",
+    "start": 1615.746,
+    "duration": 3.443
+  },
+  {
+    "text": "So big science is failing.",
+    "start": 1619.982,
+    "duration": 2.413
+  },
+  {
+    "text": "There have been no fundamental\nadvances for a century.",
+    "start": 1622.593,
+    "duration": 3.315
+  },
+  {
+    "text": "It's accepted that the\nbasis of what we now...",
+    "start": 1625.909,
+    "duration": 2.771
+  },
+  {
+    "text": "what is now known is\nmore or less correct.",
+    "start": 1628.705,
+    "duration": 2.518
+  },
+  {
+    "text": "A Copernican revolution is totally\nunthinkable within the current system.",
+    "start": 1631.54,
+    "duration": 4.35
+  },
+  {
+    "text": "There are not many\ndifferences between",
+    "start": 1636.292,
+    "duration": 2.167
+  },
+  {
+    "text": "the modern academy and the universities\nin the 16th and 17th century",
+    "start": 1638.484,
+    "duration": 3.969
+  },
+  {
+    "text": "which conformed to the church\nand to Aristotle's text.",
+    "start": 1642.478,
+    "duration": 3.778
+  },
+  {
+    "text": "The symptoms?",
+    "start": 1646.541,
+    "duration": 1.506
+  },
+  {
+    "text": "Science is non-predictive.",
+    "start": 1648.072,
+    "duration": 2.179
+  },
+  {
+    "text": "There are continual surprises.",
+    "start": 1650.6,
+    "duration": 2.62
+  },
+  {
+    "text": "Counter arguments are\nignored or unpublished",
+    "start": 1653.245,
+    "duration": 2.963
+  },
+  {
+    "text": "and the history of science is sanitized\nto give the impression of progress.",
+    "start": 1656.209,
+    "duration": 4.716
+  },
+  {
+    "text": "What's the remedy?",
+    "start": 1672.547,
+    "duration": 2.431
+  },
+  {
+    "text": "Evan Camp is a teacher, an\n8th grade science teacher",
+    "start": 1676.827,
+    "duration": 3.426
+  },
+  {
+    "text": "who ran an Electric Universe\ngroup after school.",
+    "start": 1680.278,
+    "duration": 2.975
+  },
+  {
+    "text": "He presented an outstanding\ntalk at EU 2013,",
+    "start": 1683.278,
+    "duration": 3.592
+  },
+  {
+    "text": "Exciting Students with\nUnsettled Science.",
+    "start": 1686.895,
+    "duration": 3.15
+  },
+  {
+    "text": "It's available on the\nThunderbolts.info YouTube channel.",
+    "start": 1690.07,
+    "duration": 3.95
+  },
+  {
+    "text": "He said: \"Every mile you go in the wrong\ndirection is really a two-mile error.",
+    "start": 1694.823,
+    "duration": 5.587
+  },
+  {
+    "text": "Unlearning is twice\nas hard as learning.\"",
+    "start": 1700.435,
+    "duration": 3.523
+  },
+  {
+    "text": "In fact it's much harder than that because\nat the end of the first mile you are lost.",
+    "start": 1703.983,
+    "duration": 4.73
+  },
+  {
+    "text": "Because what you have learned\ninhibits new learning",
+    "start": 1708.738,
+    "duration": 5.513
+  },
+  {
+    "text": "and accelerates forgetting.",
+    "start": 1714.276,
+    "duration": 1.999
+  },
+  {
+    "text": "This requires an active\nremedial process.",
+    "start": 1716.3,
+    "duration": 3.736
+  },
+  {
+    "text": "It requires a conceptual mediation\nprogram as early as possible.",
+    "start": 1720.901,
+    "duration": 4.802
+  },
+  {
+    "text": "Such a program has been tested",
+    "start": 1726.035,
+    "duration": 1.844
+  },
+  {
+    "text": "by Dr. Harry Lyndon in south\nAustralia, with encouraging results.",
+    "start": 1727.88,
+    "duration": 3.749
+  },
+  {
+    "text": "He says, the primary goal of science\neducators involves helping young people",
+    "start": 1731.874,
+    "duration": 4.404
+  },
+  {
+    "text": "to acquire scientific knowledge\nwith greater facility.",
+    "start": 1736.279,
+    "duration": 3.271
+  },
+  {
+    "text": "To achieve a deeper level of\nunderstanding in their studies",
+    "start": 1739.575,
+    "duration": 3.033
+  },
+  {
+    "text": "and for these understandings\nto be lasting.",
+    "start": 1742.633,
+    "duration": 2.662
+  },
+  {
+    "text": "It has been\nestablished, however,",
+    "start": 1745.956,
+    "duration": 2.181
+  },
+  {
+    "text": "that a universal\nproblem in schooling",
+    "start": 1748.162,
+    "duration": 2.307
+  },
+  {
+    "text": "concerns the fact that science learning\nis evidently difficult for most students.",
+    "start": 1750.47,
+    "duration": 4.515
+  },
+  {
+    "text": "A general conclusion that",
+    "start": 1755.358,
+    "duration": 2.206
+  },
+  {
+    "text": "even students who are\nsuccessful in examinations",
+    "start": 1757.589,
+    "duration": 2.49
+  },
+  {
+    "text": "are unable to retain and\napply scientific concepts.",
+    "start": 1760.104,
+    "duration": 3.929
+  },
+  {
+    "text": "When students move into high school,\nmany experience disappointment",
+    "start": 1764.506,
+    "duration": 3.619
+  },
+  {
+    "text": "because the science they are taught\nis neither relevant nor engaging",
+    "start": 1768.15,
+    "duration": 3.958
+  },
+  {
+    "text": "and doesn't connect with their\ninterests and experiences.",
+    "start": 1772.133,
+    "duration": 3.555
+  },
+  {
+    "text": "When new information or\nideas disagree or conflict",
+    "start": 1776.396,
+    "duration": 3.009
+  },
+  {
+    "text": "with what the left\nhemisphere already knows,",
+    "start": 1779.43,
+    "duration": 2.699
+  },
+  {
+    "text": "the left hemisphere inhibits\nor denies the new information",
+    "start": 1782.154,
+    "duration": 3.956
+  },
+  {
+    "text": "and causes accelerated forgetting\nof the new knowledge or skill.",
+    "start": 1786.135,
+    "duration": 4.0
+  },
+  {
+    "text": "It protects all prior knowledge.",
+    "start": 1790.16,
+    "duration": 2.477
+  },
+  {
+    "text": "Old learning disables\nnew learning.",
+    "start": 1792.662,
+    "duration": 2.894
+  },
+  {
+    "text": "According to Lyndon, it's\nwhy old habits die hard.",
+    "start": 1795.581,
+    "duration": 4.002
+  },
+  {
+    "text": "Old Way/New Way Learning where the old\nand the new are repeatedly contrasted",
+    "start": 1802.44,
+    "duration": 5.656
+  },
+  {
+    "text": "is a method developed by Dr.\nLyndon and a colleague",
+    "start": 1808.121,
+    "duration": 4.038
+  },
+  {
+    "text": "and it's an innovative\nteaching method.",
+    "start": 1812.184,
+    "duration": 2.61
+  },
+  {
+    "text": "It's a system where the students\nactively and repeatedly",
+    "start": 1816.326,
+    "duration": 4.691
+  },
+  {
+    "text": "contrast the old and the new until\nthe inhibition is overcome.",
+    "start": 1821.042,
+    "duration": 3.899
+  },
+  {
+    "text": "It forces the student to\nthink about thinking.",
+    "start": 1824.966,
+    "duration": 3.395
+  },
+  {
+    "text": "This is important for\nwhat is to follow.",
+    "start": 1829.067,
+    "duration": 2.24
+  },
+  {
+    "text": "Because it will help those who\nfollow the Thunderbolts movement",
+    "start": 1831.332,
+    "duration": 2.954
+  },
+  {
+    "text": "to understand the\nproblems others face",
+    "start": 1834.311,
+    "duration": 2.179
+  },
+  {
+    "text": "when confronted with\na paradigm shift",
+    "start": 1836.515,
+    "duration": 2.78
+  },
+  {
+    "text": "of the magnitude of the\nElectric Universe.",
+    "start": 1839.32,
+    "duration": 2.489
+  },
+  {
+    "text": "And also some areas of\nyour own personal denial.",
+    "start": 1841.834,
+    "duration": 4.391
+  },
+  {
+    "text": "So, cosmology must address the\ninfinitesimal as well as the infinite.",
+    "start": 1850.326,
+    "duration": 5.961
+  },
+  {
+    "text": "So let's go to the\nheart of the matter.",
+    "start": 1856.867,
+    "duration": 2.21
+  },
+  {
+    "text": "Because, incredibly,\nmass is undefined!",
+    "start": 1859.102,
+    "duration": 4.831
+  },
+  {
+    "text": "In every textbook\nand encyclopedia",
+    "start": 1863.958,
+    "duration": 2.284
+  },
+  {
+    "text": "the amount of mass is confused\nwith the amount of matter.",
+    "start": 1866.267,
+    "duration": 3.163
+  },
+  {
+    "text": "Perhaps because they both\nbegin with the letter 'M'.",
+    "start": 1869.455,
+    "duration": 3.222
+  },
+  {
+    "text": "This means that no scientist\nunderstands E=mc²",
+    "start": 1873.122,
+    "duration": 4.5
+  },
+  {
+    "text": "This confusion allows\nparticle physicists",
+    "start": 1878.455,
+    "duration": 2.56
+  },
+  {
+    "text": "to talk of creation and\nannihilation of matter",
+    "start": 1881.04,
+    "duration": 3.108
+  },
+  {
+    "text": "which is impossible without\nunderstanding what matter is.",
+    "start": 1884.173,
+    "duration": 3.488
+  },
+  {
+    "text": "It's not physics.",
+    "start": 1887.955,
+    "duration": 2.183
+  },
+  {
+    "text": "E = mc² is simply\ntelling us that",
+    "start": 1890.51,
+    "duration": 2.296
+  },
+  {
+    "text": "that mass is a measure of the\namount of energy held in matter.",
+    "start": 1892.831,
+    "duration": 5.015
+  },
+  {
+    "text": "Particles have no\nmass, we're told.",
+    "start": 1898.87,
+    "duration": 3.92
+  },
+  {
+    "text": "And with this ignorance the\nstandard particle model says,",
+    "start": 1903.29,
+    "duration": 2.993
+  },
+  {
+    "text": "subatomic particles have no\nintrinsic mass which is nonsense.",
+    "start": 1906.308,
+    "duration": 3.579
+  },
+  {
+    "text": "Are they saying protons and electrons\nhave no rest mass, no energy?",
+    "start": 1909.912,
+    "duration": 4.485
+  },
+  {
+    "text": "It seems so.",
+    "start": 1914.398,
+    "duration": 1.843
+  },
+  {
+    "text": "In the standard particle model\nmass is provided externally",
+    "start": 1916.687,
+    "duration": 3.188
+  },
+  {
+    "text": "by a kind of cosmic trickle\nof imaginary Higgs bosons.",
+    "start": 1919.9,
+    "duration": 4.808
+  },
+  {
+    "text": "The total cost of finding\nsomething dubbed the Higgs boson",
+    "start": 1925.194,
+    "duration": 3.08
+  },
+  {
+    "text": "at the Large Hadron Collider ran over\n13 billion dollars in July 2012,",
+    "start": 1928.299,
+    "duration": 4.553
+  },
+  {
+    "text": "at the running cost of a\nbillion dollars a year.",
+    "start": 1932.877,
+    "duration": 2.244
+  },
+  {
+    "text": "That makes it more than 17\nbillion years, billion dollars",
+    "start": 1935.146,
+    "duration": 3.325
+  },
+  {
+    "text": "wasted, chasing the green\nof the Cheshire cat.",
+    "start": 1938.496,
+    "duration": 4.047
+  },
+  {
+    "text": "The LHC operates like smashing\ncountless jumbo jets in the mountains",
+    "start": 1942.568,
+    "duration": 3.905
+  },
+  {
+    "text": "and picking over the debris\nto see how they fly.",
+    "start": 1946.498,
+    "duration": 3.324
+  },
+  {
+    "text": "But the whole is more than the\nsum of the bits, we can see.",
+    "start": 1949.847,
+    "duration": 3.794
+  },
+  {
+    "text": "We are not dealing\nwith closed systems.",
+    "start": 1953.666,
+    "duration": 3.395
+  },
+  {
+    "text": "Even worse, it's like asking\none of Douglas Adams'",
+    "start": 1958.815,
+    "duration": 3.682
+  },
+  {
+    "text": "telephone hygienists to\ndo the investigation.",
+    "start": 1962.522,
+    "duration": 3.067
+  },
+  {
+    "text": "The investigators are\nnot properly trained.",
+    "start": 1965.614,
+    "duration": 2.765
+  },
+  {
+    "text": "Energy is undefined.",
+    "start": 1971.407,
+    "duration": 1.778
+  },
+  {
+    "text": "What you will find in textbooks are\nexamples of different forms of energy.",
+    "start": 1973.21,
+    "duration": 3.783
+  },
+  {
+    "text": "The Big Bang is supposed to have\noriginated from pure energy",
+    "start": 1977.018,
+    "duration": 3.364
+  },
+  {
+    "text": "which is nonsense when energy only makes\nsense in relation to matter in motion,",
+    "start": 1980.407,
+    "duration": 4.101
+  },
+  {
+    "text": "with respect to\nall other matter.",
+    "start": 1984.533,
+    "duration": 2.3
+  },
+  {
+    "text": "But matter hasn't been defined\nin any physical sense",
+    "start": 1986.858,
+    "duration": 3.333
+  },
+  {
+    "text": "involving sensible\ninternal movement.",
+    "start": 1990.216,
+    "duration": 2.61
+  },
+  {
+    "text": "The quantum realm is weird.",
+    "start": 1995.026,
+    "duration": 1.971
+  },
+  {
+    "text": "It's admitted by leading physicists that\nno one understands quantum mechanics.",
+    "start": 1997.022,
+    "duration": 4.165
+  },
+  {
+    "text": "It's incompatible with Einstein's postulate\nof no instantaneous information transfer",
+    "start": 2001.212,
+    "duration": 4.982
+  },
+  {
+    "text": "and it seems to involve even\nthe experimenter's thoughts",
+    "start": 2006.219,
+    "duration": 2.945
+  },
+  {
+    "text": "in the outcome of\nsome experiments.",
+    "start": 2009.189,
+    "duration": 2.481
+  },
+  {
+    "text": "Once again, any experiment\nis not a closed system",
+    "start": 2011.893,
+    "duration": 3.928
+  },
+  {
+    "text": "as physicists like to assume.",
+    "start": 2016.053,
+    "duration": 2.327
+  },
+  {
+    "text": "That is why the quantum\nrealm appears weird.",
+    "start": 2018.405,
+    "duration": 3.562
+  },
+  {
+    "text": "Light and the electric force are mysteriously\ntransferred through empty space.",
+    "start": 2023.628,
+    "duration": 5.024
+  },
+  {
+    "text": "We have all experienced the\nforce between two magnets.",
+    "start": 2029.066,
+    "duration": 3.189
+  },
+  {
+    "text": "What's happening in the\nspace between them?",
+    "start": 2032.28,
+    "duration": 2.642
+  },
+  {
+    "text": "The pioneers of electromagnetism\nknew there has to be a medium",
+    "start": 2037.9,
+    "duration": 3.254
+  },
+  {
+    "text": "to transfer the electric force.\nThey called it the ether.",
+    "start": 2041.179,
+    "duration": 3.699
+  },
+  {
+    "text": "The ether has to be an electrically\npolarizable medium that fills the universe.",
+    "start": 2045.229,
+    "duration": 5.607
+  },
+  {
+    "text": "In that way you can daisy-chain\nthe electric force directly.",
+    "start": 2051.148,
+    "duration": 3.819
+  },
+  {
+    "text": "It's a longitudinal force.",
+    "start": 2054.992,
+    "duration": 2.495
+  },
+  {
+    "text": "And applying the speed of light limit\nto that makes no sense whatsoever",
+    "start": 2057.961,
+    "duration": 3.667
+  },
+  {
+    "text": "because light is a wave motion.",
+    "start": 2061.653,
+    "duration": 2.846
+  },
+  {
+    "text": "I think I've said before that's like the\ndifference between pulling on a rope",
+    "start": 2065.548,
+    "duration": 3.969
+  },
+  {
+    "text": "and feeling the tug at the\nother end almost instantly,",
+    "start": 2069.542,
+    "duration": 2.672
+  },
+  {
+    "text": "and waving one end of the rope and waiting\nfor the wave to get to the other end.",
+    "start": 2072.239,
+    "duration": 3.999
+  },
+  {
+    "text": "Light is a slow process\nin the universe.",
+    "start": 2076.263,
+    "duration": 3.627
+  },
+  {
+    "text": "So if we have this ether that fills\nthe universe, space is full.",
+    "start": 2081.635,
+    "duration": 5.111
+  },
+  {
+    "text": "There's no such thing\nas a perfect vacuum.",
+    "start": 2086.969,
+    "duration": 2.579
+  },
+  {
+    "text": "Einstein knew there has to be an ether but\nhis postulates somehow did away with it.",
+    "start": 2090.04,
+    "duration": 5.118
+  },
+  {
+    "text": "He admitted that his theory\nof relativity would fail",
+    "start": 2095.183,
+    "duration": 2.587
+  },
+  {
+    "text": "if the Earth's motion through\nthe ether were detected.",
+    "start": 2097.795,
+    "duration": 2.763
+  },
+  {
+    "text": "That's because his inertial frames of\nreference would not be equivalent.",
+    "start": 2100.559,
+    "duration": 3.727
+  },
+  {
+    "text": "It would be like having one observer\nexperiencing a gentle breeze from the ether wind",
+    "start": 2104.311,
+    "duration": 4.774
+  },
+  {
+    "text": "while another might be\nsuffering a howling gale.",
+    "start": 2109.11,
+    "duration": 3.327
+  },
+  {
+    "text": "As it turns out, Dayton Miller repeated\nthe Michelson-Morley ether experiments",
+    "start": 2112.462,
+    "duration": 4.176
+  },
+  {
+    "text": "far more rigorously and\nat different elevations.",
+    "start": 2116.639,
+    "duration": 2.514
+  },
+  {
+    "text": "He found an ether drift.",
+    "start": 2119.178,
+    "duration": 2.524
+  },
+  {
+    "text": "Sadly, left hemisphere training\ndenied and quickly forgot this fact.",
+    "start": 2121.727,
+    "duration": 4.632
+  },
+  {
+    "text": "So let's have a look at the\nstandard particle model.",
+    "start": 2129.628,
+    "duration": 3.206
+  },
+  {
+    "text": "An atom, once a promise of\nfundamental simplicity,",
+    "start": 2133.739,
+    "duration": 3.514
+  },
+  {
+    "text": "is really a nucleus within a hazy\nprobabilistic fog of electrons.",
+    "start": 2137.278,
+    "duration": 5.066
+  },
+  {
+    "text": "The nucleus is some protons\nand neutrons held together",
+    "start": 2142.598,
+    "duration": 3.02
+  },
+  {
+    "text": "by the mysterious short range\nnuclear or strong force.",
+    "start": 2145.643,
+    "duration": 3.568
+  },
+  {
+    "text": "The particles in the\nnucleus have a hidden,",
+    "start": 2149.236,
+    "duration": 2.261
+  },
+  {
+    "text": "unknown number of weird\nundetectable bits inside.",
+    "start": 2151.522,
+    "duration": 3.372
+  },
+  {
+    "text": "These bits are appearing\nand disappearing",
+    "start": 2154.919,
+    "duration": 3.139
+  },
+  {
+    "text": "in defiance of a principle of science\nthat miracles are forbidden.",
+    "start": 2158.083,
+    "duration": 4.007
+  },
+  {
+    "text": "Meanwhile, a recent report\nfrom the Large Hadron Collider",
+    "start": 2162.36,
+    "duration": 3.117
+  },
+  {
+    "text": "suggests new findings that\ndon't fit this model.",
+    "start": 2165.502,
+    "duration": 3.182
+  },
+  {
+    "text": "Here's a snapshot of a proton\nby Professor Matthew Strassler.",
+    "start": 2169.977,
+    "duration": 4.0
+  },
+  {
+    "text": "He writes: \"...imagine all of the quarks\n(up, down, and strange -- u, d, s),",
+    "start": 2174.002,
+    "duration": 6.484
+  },
+  {
+    "text": "antiquarks (u, d, s with a\nbar on top), and gluons (g),",
+    "start": 2180.487,
+    "duration": 4.789
+  },
+  {
+    "text": "zipping around near\nthe speed of light,",
+    "start": 2185.301,
+    "duration": 2.031
+  },
+  {
+    "text": "banging into each other, and\nappearing and disappearing.\"",
+    "start": 2187.357,
+    "duration": 3.665
+  },
+  {
+    "text": "So, a proton is said to be some\nquarks held together by some gluons",
+    "start": 2191.625,
+    "duration": 3.62
+  },
+  {
+    "text": "which are themselves the quantized\nmanifestations of the strong force.",
+    "start": 2195.27,
+    "duration": 4.641
+  },
+  {
+    "text": "There is no mention of how a\nforce manifests as a particle.",
+    "start": 2201.007,
+    "duration": 4.034
+  },
+  {
+    "text": "It gets much worse.",
+    "start": 2205.066,
+    "duration": 1.611
+  },
+  {
+    "text": "A gluon is really one of\nseveral colors of gluon.",
+    "start": 2206.702,
+    "duration": 3.471
+  },
+  {
+    "text": "But it also has the simultaneous\nproperty of anti-color.",
+    "start": 2210.198,
+    "duration": 4.008
+  },
+  {
+    "text": "Gluons mediate the\ninteraction between quarks",
+    "start": 2214.405,
+    "duration": 2.914
+  },
+  {
+    "text": "but they also mediate the interaction\nbetween themselves and quarks.",
+    "start": 2217.32,
+    "duration": 3.739
+  },
+  {
+    "text": "That's right, gluons\nare the strong force",
+    "start": 2221.084,
+    "duration": 2.355
+  },
+  {
+    "text": "but they also experience\nthe strong force.",
+    "start": 2223.44,
+    "duration": 2.429
+  },
+  {
+    "text": "Happily for the physicists, quarks\nare unobservable in principle",
+    "start": 2227.639,
+    "duration": 4.557
+  },
+  {
+    "text": "because they only exist\ninside the nucleon.",
+    "start": 2232.221,
+    "duration": 2.967
+  },
+  {
+    "text": "It's very convenient..",
+    "start": 2235.587,
+    "duration": 2.417
+  },
+  {
+    "text": "This is simple?",
+    "start": 2240.203,
+    "duration": 1.804
+  },
+  {
+    "text": "You can forget elegance.",
+    "start": 2242.032,
+    "duration": 1.759
+  },
+  {
+    "text": "This is extreme, narrow, left\nhemisphere focus on a model",
+    "start": 2243.816,
+    "duration": 3.634
+  },
+  {
+    "text": "with no basic definitions to make\nsense of the words being used.",
+    "start": 2247.475,
+    "duration": 3.959
+  },
+  {
+    "text": "Andrew Pickering, the author\nof \"Constructing Quarks\",",
+    "start": 2252.529,
+    "duration": 2.859
+  },
+  {
+    "text": "it is a sociological study\nof particle physics",
+    "start": 2255.413,
+    "duration": 3.776
+  },
+  {
+    "text": "and it's interesting book, says:\n\"There's no obligation on anyone",
+    "start": 2260.372,
+    "duration": 3.911
+  },
+  {
+    "text": "to take account of what 20th\ncentury science has to say.",
+    "start": 2264.308,
+    "duration": 3.198
+  },
+  {
+    "text": "To listen too closely to scientists may\nbe simply to stifle the imagination,\"",
+    "start": 2267.531,
+    "duration": 4.625
+  },
+  {
+    "text": "that is the right hemisphere.",
+    "start": 2272.181,
+    "duration": 1.756
+  },
+  {
+    "text": "\"Worldviews are cultural products, there\nis no need to be intimidated by them.\"",
+    "start": 2273.962,
+    "duration": 4.864
+  },
+  {
+    "text": "We come to the Electric\nUniverse model of the atom.",
+    "start": 2281.234,
+    "duration": 3.761
+  },
+  {
+    "text": "The electrically neutral atom\nis made of charged particles,",
+    "start": 2285.567,
+    "duration": 3.165
+  },
+  {
+    "text": "positive and negative\nin equal numbers,",
+    "start": 2288.757,
+    "duration": 2.152
+  },
+  {
+    "text": "together with a number of neutral\nparticles called neutrons.",
+    "start": 2290.934,
+    "duration": 3.28
+  },
+  {
+    "text": "Stating the obvious.",
+    "start": 2294.239,
+    "duration": 1.757
+  },
+  {
+    "text": "All subatomic particles are real\nwith real locations in space,",
+    "start": 2297.125,
+    "duration": 4.003
+  },
+  {
+    "text": "it's not a probabilistic fog.",
+    "start": 2301.153,
+    "duration": 2.324
+  },
+  {
+    "text": "There is a polarizable ether which transmits\nforce and carries electromagnetic waves.",
+    "start": 2306.446,
+    "duration": 5.098
+  },
+  {
+    "text": "The universe is full of an electrically\nneutral perfect fluid of neutral particles",
+    "start": 2311.959,
+    "duration": 4.474
+  },
+  {
+    "text": "which passes through atoms and celestial\nbodies practically as if they weren't there.",
+    "start": 2316.458,
+    "duration": 5.196
+  },
+  {
+    "text": "Neutrinos fit this description.",
+    "start": 2322.051,
+    "duration": 2.808
+  },
+  {
+    "text": "So, the Electric Universe then defines\nwhat it means by energy and mass.",
+    "start": 2325.772,
+    "duration": 5.905
+  },
+  {
+    "text": "Energy is matter in motion relative to\nthe matter in the rest of the universe.",
+    "start": 2331.702,
+    "duration": 5.797
+  },
+  {
+    "text": "It used to be said, in\nrelation to the fixed stars.",
+    "start": 2338.801,
+    "duration": 4.288
+  },
+  {
+    "text": "This is not a closed\nsystem approach.",
+    "start": 2344.073,
+    "duration": 2.555
+  },
+  {
+    "text": "It is a unifying relational concept\nfirst articulated by Ernst Mach.",
+    "start": 2346.653,
+    "duration": 5.157
+  },
+  {
+    "text": "So we define mass:",
+    "start": 2355.653,
+    "duration": 2.098
+  },
+  {
+    "text": "Mass is a measure of particle\ndistortion instead of acceleration",
+    "start": 2357.776,
+    "duration": 4.104
+  },
+  {
+    "text": "in response to the electric forces\nfrom all other matter in the universe.",
+    "start": 2361.905,
+    "duration": 4.284
+  },
+  {
+    "text": "It's a bit like pushing a\nballoon full of water.",
+    "start": 2366.214,
+    "duration": 2.769
+  },
+  {
+    "text": "It will tend to distort,\nrather than move.",
+    "start": 2369.008,
+    "duration": 3.198
+  },
+  {
+    "text": "And it's the same with these orbital systems\nof electrons and protons and so on.",
+    "start": 2372.231,
+    "duration": 6.168
+  },
+  {
+    "text": "Once again, this conforms\nwith Ernst Mach's principle.",
+    "start": 2379.569,
+    "duration": 3.887
+  },
+  {
+    "text": "Neutrons may not exist\nin the nucleus.",
+    "start": 2385.36,
+    "duration": 3.084
+  },
+  {
+    "text": "If so, only two particles are necessary\nto build all of the elements.",
+    "start": 2388.469,
+    "duration": 4.913
+  },
+  {
+    "text": "This idea came from Edwin Kaal\nwho I'm pleased to say is here",
+    "start": 2394.43,
+    "duration": 4.169
+  },
+  {
+    "text": "and will be presenting\nin the breakout room.",
+    "start": 2398.624,
+    "duration": 2.814
+  },
+  {
+    "text": "And the problem for physicists\nis how do you hold together",
+    "start": 2402.57,
+    "duration": 3.333
+  },
+  {
+    "text": "all of the positive\ncharges in the nucleus,",
+    "start": 2405.928,
+    "duration": 2.126
+  },
+  {
+    "text": "they should repel one\nanother very powerfully.",
+    "start": 2408.079,
+    "duration": 3.252
+  },
+  {
+    "text": "The repulsion of those\npositive charged protons",
+    "start": 2411.881,
+    "duration": 2.556
+  },
+  {
+    "text": "should prevent it from\nforming in the first place.",
+    "start": 2414.462,
+    "duration": 2.497
+  },
+  {
+    "text": "However, atomic nuclei seem to\nrequire neutrons for stability.",
+    "start": 2416.984,
+    "duration": 4.492
+  },
+  {
+    "text": "That's because when a\nradioactive atom nucleus decays",
+    "start": 2421.934,
+    "duration": 3.358
+  },
+  {
+    "text": "neutral particles are sometimes\nobserved to leave the nucleus",
+    "start": 2425.317,
+    "duration": 3.33
+  },
+  {
+    "text": "and exist for a few minutes",
+    "start": 2428.672,
+    "duration": 1.933
+  },
+  {
+    "text": "before further decaying into\nan electron and a proton.",
+    "start": 2430.63,
+    "duration": 3.324
+  },
+  {
+    "text": "So it was assumed, such a neutral\nparticle pre-existed in the nucleus.",
+    "start": 2434.533,
+    "duration": 5.058
+  },
+  {
+    "text": "The \"what if\" question\nwasn't asked.",
+    "start": 2440.281,
+    "duration": 2.704
+  },
+  {
+    "text": "That maybe that wasn't so.",
+    "start": 2443.239,
+    "duration": 2.31
+  },
+  {
+    "text": "This is an assumption that\nstill does not explain",
+    "start": 2445.779,
+    "duration": 2.419
+  },
+  {
+    "text": "how the positive nucleus\nremains cohesive.",
+    "start": 2448.223,
+    "duration": 2.643
+  },
+  {
+    "text": "So a special short-range strong\nnuclear force was invented.",
+    "start": 2450.891,
+    "duration": 4.005
+  },
+  {
+    "text": "The proliferation of\nforces and particles.",
+    "start": 2455.054,
+    "duration": 3.35
+  },
+  {
+    "text": "Edwin Kaal suggested\na simpler solution.",
+    "start": 2459.404,
+    "duration": 3.171
+  },
+  {
+    "text": "If the electrons remain as\ndiscrete particles in the nucleus,",
+    "start": 2462.6,
+    "duration": 2.922
+  },
+  {
+    "text": "they will tend to\narrange themselves",
+    "start": 2465.547,
+    "duration": 2.268
+  },
+  {
+    "text": "to, on average, seat equidistant\nbetween the protons;",
+    "start": 2467.84,
+    "duration": 3.174
+  },
+  {
+    "text": "because the distance between\nthe protons is greater than",
+    "start": 2471.039,
+    "duration": 2.769
+  },
+  {
+    "text": "that between each proton and\na neighboring electron,",
+    "start": 2473.833,
+    "duration": 2.505
+  },
+  {
+    "text": "the attractive electric force\nbetween the proton and electron,",
+    "start": 2476.363,
+    "duration": 2.909
+  },
+  {
+    "text": "sorry if it's too fast,",
+    "start": 2479.297,
+    "duration": 1.522
+  },
+  {
+    "text": "will be four times greater\nthan the repulsive force.",
+    "start": 2480.844,
+    "duration": 2.841
+  },
+  {
+    "text": "This simple hypothesis removes the need for\nan extra strong force within the nucleus.",
+    "start": 2483.71,
+    "duration": 4.869
+  },
+  {
+    "text": "It's much simpler.",
+    "start": 2488.604,
+    "duration": 2.054
+  },
+  {
+    "text": "And then it seems that\nneutrons are short-lived,",
+    "start": 2490.683,
+    "duration": 2.781
+  },
+  {
+    "text": "metastable resonance of a closely\nbound proton and electron.",
+    "start": 2493.489,
+    "duration": 3.871
+  },
+  {
+    "text": "This is simple.",
+    "start": 2498.257,
+    "duration": 1.521
+  },
+  {
+    "text": "The Electric Universe simply proposes\nstructure within structure, repeated pattern.",
+    "start": 2503.27,
+    "duration": 6.345
+  },
+  {
+    "text": "To understand magnetism and gravity\nwe must go to the heart of matter",
+    "start": 2510.191,
+    "duration": 3.689
+  },
+  {
+    "text": "a similar approach to that\nof Andre Marie Ampere,",
+    "start": 2513.905,
+    "duration": 3.139
+  },
+  {
+    "text": "Carl Friedrich Gauss, Wilhelm\nWeber and Walther Ritz,",
+    "start": 2517.069,
+    "duration": 3.427
+  },
+  {
+    "text": "who considered the behavior of positive and\nnegative charged particles of different mass",
+    "start": 2520.521,
+    "duration": 4.782
+  },
+  {
+    "text": "with great success but were\nignored for political reasons.",
+    "start": 2525.328,
+    "duration": 3.286
+  },
+  {
+    "text": "Chiefly, they weren't\nEnglish, I think.",
+    "start": 2528.639,
+    "duration": 2.15
+  },
+  {
+    "text": "Here's a simple hypothesis.",
+    "start": 2533.933,
+    "duration": 1.881
+  },
+  {
+    "text": "The electron and\nproton have stable",
+    "start": 2535.839,
+    "duration": 2.023
+  },
+  {
+    "text": "resonant orbital structures\nof smaller charged particles.",
+    "start": 2537.887,
+    "duration": 3.223
+  },
+  {
+    "text": "In that case,",
+    "start": 2542.085,
+    "duration": 1.483
+  },
+  {
+    "text": "the positron, that is the antiparticles,\nand anti proton are mirror particles.",
+    "start": 2543.822,
+    "duration": 6.112
+  },
+  {
+    "text": "They're not antiparticles,\nthey're mirrors.",
+    "start": 2549.959,
+    "duration": 2.823
+  },
+  {
+    "text": "There is no antimatter, no\ncreation or annihilation.",
+    "start": 2553.284,
+    "duration": 3.644
+  },
+  {
+    "text": "But this requires that\nthere be an ether",
+    "start": 2556.953,
+    "duration": 2.315
+  },
+  {
+    "text": "of composite neutral particles of\nvanishingly small mass, the neutrinos.",
+    "start": 2559.293,
+    "duration": 3.852
+  },
+  {
+    "text": "Neutrinos must be quite complex\ninside but totally collapsed",
+    "start": 2563.17,
+    "duration": 4.48
+  },
+  {
+    "text": "so that they can accept energy and\nthen become a particle and its mirror.",
+    "start": 2567.675,
+    "duration": 6.044
+  },
+  {
+    "text": "But there's nothing,",
+    "start": 2573.744,
+    "duration": 1.57
+  },
+  {
+    "text": "it is just assumed that when these\nparticles seem to disappear,",
+    "start": 2575.339,
+    "duration": 3.447
+  },
+  {
+    "text": "that they're annihilated,\nthe matter has disappeared.",
+    "start": 2578.811,
+    "duration": 3.256
+  },
+  {
+    "text": "That's not so.",
+    "start": 2582.289,
+    "duration": 1.619
+  },
+  {
+    "text": "So the ether must be nor matter\nof vanishingly small mass",
+    "start": 2585.789,
+    "duration": 3.556
+  },
+  {
+    "text": "composed of all the sub particles needed\nto split into an electron and a positron",
+    "start": 2589.37,
+    "duration": 3.832
+  },
+  {
+    "text": "for example, when subjected to the\nappropriate energy, electromagnetic energy.",
+    "start": 2593.227,
+    "duration": 5.356
+  },
+  {
+    "text": "For stability,",
+    "start": 2599.621,
+    "duration": 1.613
+  },
+  {
+    "text": "and this is one of the\nstumbling blocks, of course,",
+    "start": 2601.259,
+    "duration": 2.589
+  },
+  {
+    "text": "for particle physicists\nto go this way,",
+    "start": 2603.873,
+    "duration": 3.205
+  },
+  {
+    "text": "is that the electric\nforce must act",
+    "start": 2607.522,
+    "duration": 4.503
+  },
+  {
+    "text": "between the tiny particles\nwithin the atom instantly.",
+    "start": 2612.05,
+    "duration": 2.899
+  },
+  {
+    "text": "No speed of light delay.",
+    "start": 2614.974,
+    "duration": 1.738
+  },
+  {
+    "text": "The two stable particles --\nthe electron and the proton,",
+    "start": 2618.87,
+    "duration": 3.046
+  },
+  {
+    "text": "if we assume the neutron is\njust a metastable particle,",
+    "start": 2621.941,
+    "duration": 4.847
+  },
+  {
+    "text": "form 254 stable nuclides\nplus another 85 metastable,",
+    "start": 2627.249,
+    "duration": 6.08
+  },
+  {
+    "text": "that is radioactive nuclides,\nfor a total of 339.",
+    "start": 2633.354,
+    "duration": 3.471
+  },
+  {
+    "text": "So from this simple resonant systems\nof structure within structure",
+    "start": 2636.85,
+    "duration": 5.551
+  },
+  {
+    "text": "we have all of the\nmaterials we need to see,",
+    "start": 2642.426,
+    "duration": 3.029
+  },
+  {
+    "text": "to make what we see in\nthe world around us.",
+    "start": 2645.48,
+    "duration": 4.56
+  },
+  {
+    "text": "When those nuclei combine with the\nrequisite number of negative electrons",
+    "start": 2651.734,
+    "duration": 3.844
+  },
+  {
+    "text": "to form atoms and molecules, the\npossibilities are boundless",
+    "start": 2655.579,
+    "duration": 3.718
+  },
+  {
+    "text": "in the living world.",
+    "start": 2659.322,
+    "duration": 1.721
+  },
+  {
+    "text": "What does this mean?",
+    "start": 2663.399,
+    "duration": 2.028
+  },
+  {
+    "text": "Only a single force is necessary, the\npowerful instantaneous electric force.",
+    "start": 2665.596,
+    "duration": 5.695
+  },
+  {
+    "text": "The phenomenal strength of the\nnaked electric force can be",
+    "start": 2671.316,
+    "duration": 3.231
+  },
+  {
+    "text": "judged by the simple\nillustration in the lower left.",
+    "start": 2674.572,
+    "duration": 2.885
+  },
+  {
+    "text": "This shows that if the charge; passing through\ntwo 120 watt light bulbs in one second,",
+    "start": 2677.576,
+    "duration": 4.854
+  },
+  {
+    "text": "were to be transferred\nequally to two metal plates,",
+    "start": 2682.455,
+    "duration": 3.034
+  },
+  {
+    "text": "the repulsive force between those\nplates would equal 1 million tons.",
+    "start": 2685.514,
+    "duration": 4.142
+  },
+  {
+    "text": "So it's critical that the electric\nforce is a balanced force,",
+    "start": 2690.743,
+    "duration": 3.505
+  },
+  {
+    "text": "attractive or repulsive.",
+    "start": 2694.273,
+    "duration": 2.569
+  },
+  {
+    "text": "These two propositions are the epitome\nof elegant simplicity balance.",
+    "start": 2696.867,
+    "duration": 5.615
+  },
+  {
+    "text": "The little diagram\nthere on the left,",
+    "start": 2704.133,
+    "duration": 3.489
+  },
+  {
+    "text": "extreme left at the top, shows the\nattraction between positive and negative",
+    "start": 2707.647,
+    "duration": 3.312
+  },
+  {
+    "text": "and the repulsion\nbetween like-particles.",
+    "start": 2710.96,
+    "duration": 3.65
+  },
+  {
+    "text": "There are two forms of the\nelectric force that we experience.",
+    "start": 2718.03,
+    "duration": 4.928
+  },
+  {
+    "text": "One is the electrostatic, we have\nseparated charge some distance apart,",
+    "start": 2722.983,
+    "duration": 6.666
+  },
+  {
+    "text": "and the electric dipole where the distance\nbetween the two charges becomes so small",
+    "start": 2729.674,
+    "duration": 4.734
+  },
+  {
+    "text": "that the field is altered and\nyou get a different effect",
+    "start": 2734.433,
+    "duration": 2.862
+  },
+  {
+    "text": "called the dipole field.",
+    "start": 2737.32,
+    "duration": 2.246
+  },
+  {
+    "text": "So it just depends on the degree of\nseparation of a positive and negative charge.",
+    "start": 2740.217,
+    "duration": 4.1
+  },
+  {
+    "text": "It's a difference in scale.",
+    "start": 2744.318,
+    "duration": 2.124
+  },
+  {
+    "text": "On our scale we experience the dipole\nfield of atomic electric fields",
+    "start": 2746.467,
+    "duration": 5.144
+  },
+  {
+    "text": "and subatomic electric fields in\nthe form of magnetism and gravity.",
+    "start": 2751.636,
+    "duration": 3.799
+  },
+  {
+    "text": "They are dipole fields.",
+    "start": 2755.46,
+    "duration": 2.011
+  },
+  {
+    "text": "So, both forms of the electrostatic\nand the dipole field",
+    "start": 2760.455,
+    "duration": 5.003
+  },
+  {
+    "text": "occur between atoms and is\nresponsible for chemistry.",
+    "start": 2765.483,
+    "duration": 4.202
+  },
+  {
+    "text": "The e-force operates between all of the\nparticles and sub particles within each atom.",
+    "start": 2772.82,
+    "duration": 4.493
+  },
+  {
+    "text": "In close proximity this can\nresult in distortion of the atoms",
+    "start": 2777.338,
+    "duration": 3.105
+  },
+  {
+    "text": "to form electric\ndipoles themselves.",
+    "start": 2780.468,
+    "duration": 2.094
+  },
+  {
+    "text": "Which can result in the\nattraction to form a molecule",
+    "start": 2782.587,
+    "duration": 2.899
+  },
+  {
+    "text": "or they may enter a new resonant dance\nby sharing an electron as chemistry.",
+    "start": 2785.511,
+    "duration": 4.677
+  },
+  {
+    "text": "The dipole distorting action on electrons\nand protons produces dipolar magnetism.",
+    "start": 2790.49,
+    "duration": 5.317
+  },
+  {
+    "text": "The diagram there is actually,",
+    "start": 2796.449,
+    "duration": 2.416
+  },
+  {
+    "text": "I made a mistake, the positive and negative\non the left and right should be reversed.",
+    "start": 2798.89,
+    "duration": 4.284
+  },
+  {
+    "text": "But this just shows\nthat if you...",
+    "start": 2803.199,
+    "duration": 2.468
+  },
+  {
+    "text": "just try this thing here...",
+    "start": 2805.692,
+    "duration": 1.846
+  },
+  {
+    "text": "if you have an electric field\noperating on a particle here,",
+    "start": 2808.84,
+    "duration": 5.728
+  },
+  {
+    "text": "charged particle here,\nand accelerating it",
+    "start": 2814.593,
+    "duration": 2.669
+  },
+  {
+    "text": "and on the opposite\nside decelerating it,",
+    "start": 2817.287,
+    "duration": 3.7
+  },
+  {
+    "text": "the result will be an elliptical orbit\nwith the nucleus at one of the focuses.",
+    "start": 2821.012,
+    "duration": 5.169
+  },
+  {
+    "text": "And the result of this is that\nyou get a transverse dipole",
+    "start": 2826.475,
+    "duration": 4.736
+  },
+  {
+    "text": "and that transverse dipole is\nshown there as the magnetic force",
+    "start": 2831.236,
+    "duration": 3.684
+  },
+  {
+    "text": "because if you have two\ncurrent-carrying wires,",
+    "start": 2834.945,
+    "duration": 2.587
+  },
+  {
+    "text": "where the electric field in the wire is\ncausing this distortion in electrons,",
+    "start": 2837.557,
+    "duration": 5.322
+  },
+  {
+    "text": "then the dipoles are aligned\nso they tend to attract",
+    "start": 2843.331,
+    "duration": 3.99
+  },
+  {
+    "text": "and we know that current\nflowing down two wires",
+    "start": 2847.346,
+    "duration": 2.654
+  },
+  {
+    "text": "in the same direction attract,\nin the opposite way they repel.",
+    "start": 2850.025,
+    "duration": 3.726
+  },
+  {
+    "text": "OK, so. And the other\nthing is that,",
+    "start": 2859.092,
+    "duration": 3.476
+  },
+  {
+    "text": "I mentioned the ultra-week\ndipolar gravity.",
+    "start": 2863.139,
+    "duration": 3.582
+  },
+  {
+    "text": "And this is the diagram, what\nhappens to an atom in that case.",
+    "start": 2868.388,
+    "duration": 3.291
+  },
+  {
+    "text": "The gravitational field\ncannot be shielded from,",
+    "start": 2871.704,
+    "duration": 3.061
+  },
+  {
+    "text": "so the gravitational force\noperates on the heavy nucleus",
+    "start": 2874.79,
+    "duration": 2.886
+  },
+  {
+    "text": "so that it falls towards one\nof the focuses of the ellipse.",
+    "start": 2877.701,
+    "duration": 3.727
+  },
+  {
+    "text": "This time it's oriented radially\ntowards the surface of the body.",
+    "start": 2881.429,
+    "duration": 6.921
+  },
+  {
+    "text": "But the interesting thing\nabout that is that",
+    "start": 2892.225,
+    "duration": 3.236
+  },
+  {
+    "text": "once you've said that,\nthis means that",
+    "start": 2895.486,
+    "duration": 2.052
+  },
+  {
+    "text": "the body like the Earth and the\nMoon, which are shown here,",
+    "start": 2897.539,
+    "duration": 3.26
+  },
+  {
+    "text": "the negative poles on both\nbodies are facing outwards",
+    "start": 2900.824,
+    "duration": 3.374
+  },
+  {
+    "text": "which means they're\nrepelling one another.",
+    "start": 2904.199,
+    "duration": 2.741
+  },
+  {
+    "text": "So it means that the, it's long-range\nrepulsive, short-range attractive.",
+    "start": 2908.21,
+    "duration": 7.327
+  },
+  {
+    "text": "We, on the surface of the earth, are\nlike iron filings. We don't care",
+    "start": 2915.562,
+    "duration": 3.667
+  },
+  {
+    "text": "which magnet, we go to adjust,\nthe nearest one will do.",
+    "start": 2919.23,
+    "duration": 3.806
+  },
+  {
+    "text": "The gravitational mass of the distant\ngalaxies has a fundamental influence",
+    "start": 2925.496,
+    "duration": 3.811
+  },
+  {
+    "text": "over the motion of the\nbodies in the solar system",
+    "start": 2929.332,
+    "duration": 3.868
+  },
+  {
+    "text": "and this is actually shown by precession\nof the perihelion of the planets",
+    "start": 2933.225,
+    "duration": 4.112
+  },
+  {
+    "text": "which is tied to the distant stars and\nnot to the Sun or general relativity.",
+    "start": 2937.362,
+    "duration": 6.551
+  },
+  {
+    "text": "Because general relativity doesn't\nhave a reference frame like that.",
+    "start": 2943.938,
+    "duration": 3.974
+  },
+  {
+    "text": "Short-term changes in the\nEarth's magnetic field",
+    "start": 2948.428,
+    "duration": 2.628
+  },
+  {
+    "text": "that occur over periods\nof just years or decades",
+    "start": 2951.081,
+    "duration": 2.435
+  },
+  {
+    "text": "have now been shown in new\nresearch to have a very close",
+    "start": 2953.541,
+    "duration": 2.823
+  },
+  {
+    "text": "relationship with\nchanges in gravity.",
+    "start": 2956.389,
+    "duration": 2.407
+  },
+  {
+    "text": "The two are very\nsimilar, similar forces.",
+    "start": 2958.821,
+    "duration": 2.963
+  },
+  {
+    "text": "There is no gravitational\ncollapse in space,",
+    "start": 2962.387,
+    "duration": 2.825
+  },
+  {
+    "text": "no black hole\nswallowing everything.",
+    "start": 2965.237,
+    "duration": 2.251
+  },
+  {
+    "text": "It is the electromagnetic force alone\nthat coalesces matter in deep space.",
+    "start": 2967.513,
+    "duration": 4.714
+  },
+  {
+    "text": "So the assumption that gravity was the controlling\nforce on the large-scale is incorrect.",
+    "start": 2972.592,
+    "duration": 6.126
+  },
+  {
+    "text": "There's no need for a Big Bang to\nseparate everything initially,",
+    "start": 2979.351,
+    "duration": 3.301
+  },
+  {
+    "text": "gravity is a balanced force like\nmagnetism and cannot form neutron stars",
+    "start": 2982.677,
+    "duration": 3.726
+  },
+  {
+    "text": "or other fanciful super-condensed\ncelestial objects.",
+    "start": 2986.428,
+    "duration": 3.69
+  },
+  {
+    "text": "A planet's gravity is established at its\nbirth by powerful electromagnetic forces.",
+    "start": 2990.959,
+    "duration": 6.88
+  },
+  {
+    "text": "Once the body is formed and the\ncharge on the surface is established,",
+    "start": 2997.864,
+    "duration": 5.933
+  },
+  {
+    "text": "the gravitational field is set\nby both the surface charge",
+    "start": 3003.822,
+    "duration": 3.888
+  },
+  {
+    "text": "and the initial coalescence\nby electromagnetic forces.",
+    "start": 3007.735,
+    "duration": 5.553
+  },
+  {
+    "text": "So the outcome of\nall that is that",
+    "start": 3020.94,
+    "duration": 3.298
+  },
+  {
+    "text": "all matter in the local universe is\nconnected by the electric force instantly.",
+    "start": 3024.239,
+    "duration": 4.216
+  },
+  {
+    "text": "That's Mach's principle.",
+    "start": 3028.48,
+    "duration": 1.951
+  },
+  {
+    "text": "The origin of mass and\nquantum spooky connection.",
+    "start": 3030.456,
+    "duration": 3.579
+  },
+  {
+    "text": "Because this force is instantaneous, this\nso called, entanglement and non-locality",
+    "start": 3034.06,
+    "duration": 5.348
+  },
+  {
+    "text": "suddenly has a\nsimple explanation.",
+    "start": 3039.433,
+    "duration": 2.795
+  },
+  {
+    "text": "And energy is a measure of motion with respect\nto the matter in the rest of the universe.",
+    "start": 3042.253,
+    "duration": 4.633
+  },
+  {
+    "text": "Mass is a measure of the energy stored\nin the orbital motion inside a particle.",
+    "start": 3046.911,
+    "duration": 5.023
+  },
+  {
+    "text": "And simultaneity means there is a universal\ntime and three-dimensional space.",
+    "start": 3053.704,
+    "duration": 7.126
+  },
+  {
+    "text": "We return to the sanity and\nsimplicity of classical physics.",
+    "start": 3060.855,
+    "duration": 4.337
+  },
+  {
+    "text": "These matter resonances\nare interesting too",
+    "start": 3067.623,
+    "duration": 2.532
+  },
+  {
+    "text": "because having an\norbital structure",
+    "start": 3070.18,
+    "duration": 3.096
+  },
+  {
+    "text": "allows resonant instantaneous\nconnections and complex interactions",
+    "start": 3073.301,
+    "duration": 3.577
+  },
+  {
+    "text": "which explains weird\nquantum behavior.",
+    "start": 3076.903,
+    "duration": 2.398
+  },
+  {
+    "text": "The important thing is that\nthe electron and proton",
+    "start": 3079.326,
+    "duration": 2.68
+  },
+  {
+    "text": "have an orbital charge\nstructure like atoms",
+    "start": 3082.031,
+    "duration": 2.356
+  },
+  {
+    "text": "which explains their internal\nenergy and their magnetic moment.",
+    "start": 3084.412,
+    "duration": 3.661
+  },
+  {
+    "text": "And distortion in an electric field appears as\nan increase in mass rather than acceleration.",
+    "start": 3088.098,
+    "duration": 5.452
+  },
+  {
+    "text": "Quantum tunneling",
+    "start": 3094.52,
+    "duration": 1.908
+  },
+  {
+    "text": "In transistors electrons face a barrier\nlike the illustration in the diagram.",
+    "start": 3096.453,
+    "duration": 4.736
+  },
+  {
+    "text": "It's like having to carry\na weight over a hill",
+    "start": 3101.214,
+    "duration": 2.436
+  },
+  {
+    "text": "but in a weird quantum\nphenomenon called tunneling",
+    "start": 3103.675,
+    "duration": 2.75
+  },
+  {
+    "text": "the electron passes through that\nbarrier as if there's a tunnel.",
+    "start": 3106.45,
+    "duration": 3.15
+  },
+  {
+    "text": "The Electric Universe model\nof the electron and proton,",
+    "start": 3109.625,
+    "duration": 2.705
+  },
+  {
+    "text": "having an orbital structure of\noppositely charged particles,",
+    "start": 3112.355,
+    "duration": 3.868
+  },
+  {
+    "text": "allows us to see that the hill or\nthe repulsive electrical force",
+    "start": 3116.248,
+    "duration": 4.258
+  },
+  {
+    "text": "between similar charges can instantly\ndisappear or become a downhill race.",
+    "start": 3120.531,
+    "duration": 5.421
+  },
+  {
+    "text": "The reason is that the force\nbetween two similar particles",
+    "start": 3125.977,
+    "duration": 3.053
+  },
+  {
+    "text": "can become attractive\ninstead of repulsive",
+    "start": 3129.055,
+    "duration": 2.196
+  },
+  {
+    "text": "if you get the particles together\nat just the right moment.",
+    "start": 3131.276,
+    "duration": 4.234
+  },
+  {
+    "text": "In chemistry this resonance is achieved\nby the use of heavy metal catalyst",
+    "start": 3136.321,
+    "duration": 4.215
+  },
+  {
+    "text": "which has numerous internal\nsubatomic resonances.",
+    "start": 3140.561,
+    "duration": 3.382
+  },
+  {
+    "text": "The same catalytic process is available,\nin my opinion, for nuclear fusion.",
+    "start": 3143.968,
+    "duration": 5.409
+  },
+  {
+    "text": "So called warm fusion is\npossible by nuclear chemistry,",
+    "start": 3151.147,
+    "duration": 5.08
+  },
+  {
+    "text": "catalyzing the nuclei to\nattract instead of repel.",
+    "start": 3157.904,
+    "duration": 3.867
+  },
+  {
+    "text": "So catalytic chemistry is\npossible, in my opinion,",
+    "start": 3166.031,
+    "duration": 2.607
+  },
+  {
+    "text": "in the photospheric\nplasma of all bright stars",
+    "start": 3168.663,
+    "duration": 2.719
+  },
+  {
+    "text": "where the nuclei are\nseparated from the electrons",
+    "start": 3171.407,
+    "duration": 2.781
+  },
+  {
+    "text": "and can actually come close\ntogether in the presence",
+    "start": 3174.213,
+    "duration": 3.293
+  },
+  {
+    "text": "of the heavy elements\nwe see in the spectrum.",
+    "start": 3177.531,
+    "duration": 3.022
+  },
+  {
+    "text": "And you've gotta ask the question then,\nis this the path to the future power?",
+    "start": 3182.396,
+    "duration": 4.144
+  },
+  {
+    "text": "Like the Sun.",
+    "start": 3186.565,
+    "duration": 1.077
+  },
+  {
+    "text": "But only \"unlike the sun\" that\nis believed by present science.",
+    "start": 3187.667,
+    "duration": 6.042
+  },
+  {
+    "text": "In this way all-stars generate the\nheavy elements in their photospheres",
+    "start": 3194.757,
+    "duration": 3.782
+  },
+  {
+    "text": "where we detect them\nin their spectra.",
+    "start": 3198.564,
+    "duration": 2.255
+  },
+  {
+    "text": "Rare exploding super novae are the most\nineffectual production means imaginable.",
+    "start": 3200.844,
+    "duration": 5.284
+  },
+  {
+    "text": "Because having produced it you\nthen disperse it into deep space.",
+    "start": 3206.39,
+    "duration": 3.649
+  },
+  {
+    "text": "There's also an unsuspected resonant\nmeans of connection in living systems.",
+    "start": 3211.626,
+    "duration": 4.465
+  },
+  {
+    "text": "The morphic field of Rupert\nSheldrake, the mind-body connection,",
+    "start": 3216.116,
+    "duration": 4.58
+  },
+  {
+    "text": "consciousness, subtle energies.",
+    "start": 3220.721,
+    "duration": 2.942
+  },
+  {
+    "text": "The Electric Universe model\nexplains biological transmutations",
+    "start": 3223.688,
+    "duration": 3.481
+  },
+  {
+    "text": "at body temperature as demonstrated by Dr.\nLouis Kervran.",
+    "start": 3227.17,
+    "duration": 3.285
+  },
+  {
+    "text": "His is a clear demonstration\nof this simple process.",
+    "start": 3230.48,
+    "duration": 4.353
+  },
+  {
+    "text": "Is light a wave or a particle?",
+    "start": 3235.944,
+    "duration": 2.87
+  },
+  {
+    "text": "If so, what's waving?",
+    "start": 3241.141,
+    "duration": 2.478
+  },
+  {
+    "text": "Einstein did away with\na medium to waive.",
+    "start": 3244.024,
+    "duration": 3.106
+  },
+  {
+    "text": "Or is light a\nparticle, a photon?",
+    "start": 3247.694,
+    "duration": 2.78
+  },
+  {
+    "text": "It can't be both, a\nwave and a particle.",
+    "start": 3250.499,
+    "duration": 2.294
+  },
+  {
+    "text": "You'll notice they merely mouthed a\nterm that it's particle-like, they say.",
+    "start": 3252.818,
+    "duration": 7.322
+  },
+  {
+    "text": "It's a meaningless\nuse of language.",
+    "start": 3261.378,
+    "duration": 2.516
+  },
+  {
+    "text": "If so, according to Einstein, to travel at\nthe speed of light it must have zero mass.",
+    "start": 3264.013,
+    "duration": 5.369
+  },
+  {
+    "text": "But a particle of zero\nmass has no energy.",
+    "start": 3269.803,
+    "duration": 3.101
+  },
+  {
+    "text": "You can't multiply 0 x infinity\nand get a real number.",
+    "start": 3272.929,
+    "duration": 3.868
+  },
+  {
+    "text": "And if it's got 0 mass it\ncan't be affected by gravity",
+    "start": 3279.026,
+    "duration": 4.529
+  },
+  {
+    "text": "so there can be no\ngravitational lensing.",
+    "start": 3283.58,
+    "duration": 2.727
+  },
+  {
+    "text": "Lensing occurs as a simple atmospheric\ndiffraction effect in the ether.",
+    "start": 3286.332,
+    "duration": 5.189
+  },
+  {
+    "text": "It's like an atmosphere\naround the body.",
+    "start": 3291.546,
+    "duration": 3.194
+  },
+  {
+    "text": "Evidence from stars at the galactic\ncenter show no gravitational lensing",
+    "start": 3294.765,
+    "duration": 4.249
+  },
+  {
+    "text": "as expected from\nstandard theory.",
+    "start": 3299.039,
+    "duration": 2.36
+  },
+  {
+    "text": "Clearly, we depend on light\nto observe the universe",
+    "start": 3301.4,
+    "duration": 3.459
+  },
+  {
+    "text": "but we don't understand light.",
+    "start": 3304.884,
+    "duration": 2.1
+  },
+  {
+    "text": "Photons don't exist.",
+    "start": 3313.397,
+    "duration": 2.067
+  },
+  {
+    "text": "Light is a transverse electrical\ndisturbance in the ether.",
+    "start": 3315.489,
+    "duration": 3.976
+  },
+  {
+    "text": "And the ether must be a dielectric medium\nto transfer an electrical disturbance.",
+    "start": 3320.234,
+    "duration": 4.568
+  },
+  {
+    "text": "The wave carries energy\nthrough the medium..",
+    "start": 3325.905,
+    "duration": 3.594
+  },
+  {
+    "text": "..catch up here..",
+    "start": 3334.657,
+    "duration": 2.54
+  },
+  {
+    "text": "..and the energy is absorbed by the first\natom that is in instantaneous resonance",
+    "start": 3339.093,
+    "duration": 5.654
+  },
+  {
+    "text": "with the sending atom.",
+    "start": 3344.748,
+    "duration": 2.572
+  },
+  {
+    "text": "It gives the appearance",
+    "start": 3347.321,
+    "duration": 2.491
+  },
+  {
+    "text": "that a photon has traveled between\nthe sender and the receiver.",
+    "start": 3351.994,
+    "duration": 4.397
+  },
+  {
+    "text": "It's appearance only.",
+    "start": 3356.416,
+    "duration": 2.15
+  },
+  {
+    "text": "Talking about light brings\nus to cosmological redshift.",
+    "start": 3362.611,
+    "duration": 3.164
+  },
+  {
+    "text": "Hubble found, the fainter and smaller a galaxy\nappeared -- the higher was its redshift.",
+    "start": 3365.8,
+    "duration": 4.802
+  },
+  {
+    "text": "In the diagram you can see the\nspectral lines of hydrogen move",
+    "start": 3370.627,
+    "duration": 3.522
+  },
+  {
+    "text": "progressively to the red\nend of the spectrum",
+    "start": 3374.15,
+    "duration": 2.937
+  },
+  {
+    "text": "as the distance is\nthought to increase.",
+    "start": 3377.556,
+    "duration": 3.404
+  },
+  {
+    "text": "The redshift was simply assumed to\nbe due to velocity away from us",
+    "start": 3381.207,
+    "duration": 4.447
+  },
+  {
+    "text": "by analogy with the\nDoppler shift of sound.",
+    "start": 3385.877,
+    "duration": 2.971
+  },
+  {
+    "text": "Hubble's law is considered the\nfirst observational basis",
+    "start": 3389.403,
+    "duration": 3.402
+  },
+  {
+    "text": "for the expansion\nof the universe.",
+    "start": 3392.83,
+    "duration": 2.213
+  },
+  {
+    "text": "But ironically, Hubble thought\nit the least likely explanation.",
+    "start": 3395.803,
+    "duration": 3.721
+  },
+  {
+    "text": "He felt, it more likely\nindicated some new physics.",
+    "start": 3399.549,
+    "duration": 3.361
+  },
+  {
+    "text": "So it was Hubble's professional\nastronomer assistant,",
+    "start": 3402.935,
+    "duration": 4.873
+  },
+  {
+    "text": "Halton C. Arp, who later\nproved this to be so.",
+    "start": 3407.809,
+    "duration": 3.734
+  },
+  {
+    "text": "If the redshift is not\nsimply a Doppler effect,",
+    "start": 3412.274,
+    "duration": 2.651
+  },
+  {
+    "text": "Hubble wrote, the region observed\nappears as a small homogeneous",
+    "start": 3414.95,
+    "duration": 4.213
+  },
+  {
+    "text": "but insignificant portion of the universe\nextended indefinitely both in space and time.",
+    "start": 3419.188,
+    "duration": 5.95
+  },
+  {
+    "text": "Recently and surprisingly more distant\ngalaxies seem to be accelerating away from us.",
+    "start": 3427.138,
+    "duration": 4.75
+  },
+  {
+    "text": "This discovery won the Nobel\nPrize and gave rise to the need",
+    "start": 3431.889,
+    "duration": 3.055
+  },
+  {
+    "text": "for huge amounts of mysterious dark\nenergy to power the acceleration.",
+    "start": 3434.969,
+    "duration": 5.33
+  },
+  {
+    "text": "I read about that discovery\non October the sixth 2011.",
+    "start": 3440.324,
+    "duration": 4.686
+  },
+  {
+    "text": "The discovery of the acceleration\nof the expanding universe",
+    "start": 3445.035,
+    "duration": 3.153
+  },
+  {
+    "text": "is an interpretation based on total\nignorance of the real nature of stars",
+    "start": 3448.213,
+    "duration": 3.792
+  },
+  {
+    "text": "and the standard candle which\nwas used as the measurement",
+    "start": 3452.03,
+    "duration": 3.149
+  },
+  {
+    "text": "to determine the distance away.",
+    "start": 3455.204,
+    "duration": 2.821
+  },
+  {
+    "text": "So it's gratifying to find support once\nmore in a report this month titled:",
+    "start": 3458.755,
+    "duration": 4.238
+  },
+  {
+    "text": "\"Could a new type of supernova\neliminate dark energy?\"",
+    "start": 3463.018,
+    "duration": 3.405
+  },
+  {
+    "text": "It has been found that the near-UV\nlight from the most distant supernovae",
+    "start": 3466.448,
+    "duration": 4.084
+  },
+  {
+    "text": "is brighter than\nthe closer ones.",
+    "start": 3470.557,
+    "duration": 2.124
+  },
+  {
+    "text": "In other words, there's something going\non at the atomic and subatomic level.",
+    "start": 3472.706,
+    "duration": 4.768
+  },
+  {
+    "text": "Of course, this is\nunexpected and unexplained.",
+    "start": 3478.228,
+    "duration": 3.258
+  },
+  {
+    "text": "The diagram on the left shows the\ndifference between the Big Bang universe",
+    "start": 3482.383,
+    "duration": 3.997
+  },
+  {
+    "text": "and the Plasma Universe.",
+    "start": 3486.405,
+    "duration": 2.485
+  },
+  {
+    "text": "It's easy to see which\none is simpler.",
+    "start": 3488.915,
+    "duration": 2.703
+  },
+  {
+    "text": "Intrinsic redshift and Dr.\nHalton Arp",
+    "start": 3495.676,
+    "duration": 4.171
+  },
+  {
+    "text": "(Hubble's assistant who was\ndubbed the modern Galileo).",
+    "start": 3499.872,
+    "duration": 4.069
+  },
+  {
+    "text": "He found redshifts, quasars, physically\nconnected to and in front of,",
+    "start": 3504.316,
+    "duration": 6.168
+  },
+  {
+    "text": "high redshift quasars rather,\nphysically connected to",
+    "start": 3510.509,
+    "duration": 2.863
+  },
+  {
+    "text": "and in front of low\nredshift active galaxies.",
+    "start": 3513.397,
+    "duration": 2.665
+  },
+  {
+    "text": "This observation of a quasar between\nthe galaxies NGC 73 19 and the Earth",
+    "start": 3516.063,
+    "duration": 5.287
+  },
+  {
+    "text": "is impossible if the quasars are over\n90 times farther away than the galaxy.",
+    "start": 3521.375,
+    "duration": 5.044
+  },
+  {
+    "text": "So, Hubble was right.",
+    "start": 3528.568,
+    "duration": 1.871
+  },
+  {
+    "text": "Something is wrong with physics.",
+    "start": 3531.098,
+    "duration": 2.61
+  },
+  {
+    "text": "Arp showed the redshift happened\nin small jumps or quanta",
+    "start": 3533.733,
+    "duration": 3.38
+  },
+  {
+    "text": "which indicates a\nsubatomic effect.",
+    "start": 3537.138,
+    "duration": 2.403
+  },
+  {
+    "text": "But subatomic, these\nquantum effects",
+    "start": 3539.566,
+    "duration": 3.786
+  },
+  {
+    "text": "are supposed to only occur\nat the subatomic level,",
+    "start": 3543.377,
+    "duration": 2.276
+  },
+  {
+    "text": "here we've got occurring\non the galactic.",
+    "start": 3545.678,
+    "duration": 2.252
+  },
+  {
+    "text": "This requires, once again,",
+    "start": 3548.166,
+    "duration": 1.533
+  },
+  {
+    "text": "the electric force to be operating at\nultra-high speed, instantaneously.",
+    "start": 3549.724,
+    "duration": 5.422
+  },
+  {
+    "text": "So, quasars are born at high\nspeed and with low redshift.",
+    "start": 3555.904,
+    "duration": 4.368
+  },
+  {
+    "text": "This is Arp's diagram, you see\nthe parent galaxy in the center.",
+    "start": 3562.445,
+    "duration": 5.832
+  },
+  {
+    "text": "This is one here.",
+    "start": 3571.38,
+    "duration": 1.838
+  },
+  {
+    "text": "And the high redshift quasars, and the\nredshift decreases as they move away.",
+    "start": 3573.823,
+    "duration": 5.985
+  },
+  {
+    "text": "Initially their\nvelocity is very high,",
+    "start": 3579.809,
+    "duration": 2.473
+  },
+  {
+    "text": "they are faint,\nhighly red-shifted",
+    "start": 3582.307,
+    "duration": 2.897
+  },
+  {
+    "text": "and traveling at the fair\nfraction of the speed of light.",
+    "start": 3585.229,
+    "duration": 5.118
+  },
+  {
+    "text": "Over time they gain in mass.",
+    "start": 3590.372,
+    "duration": 1.792
+  },
+  {
+    "text": "This is interesting.",
+    "start": 3592.189,
+    "duration": 1.063
+  },
+  {
+    "text": "That means that energy is being\nsupplied to the matter in the quasar,",
+    "start": 3593.277,
+    "duration": 3.466
+  },
+  {
+    "text": "the mass is increasing.",
+    "start": 3596.768,
+    "duration": 1.52
+  },
+  {
+    "text": "So that eventually they\ncan actually become",
+    "start": 3598.313,
+    "duration": 2.513
+  },
+  {
+    "text": "a turnaround here and\nbecome a companion galaxy.",
+    "start": 3600.851,
+    "duration": 3.413
+  },
+  {
+    "text": "This is an example of another\npath that they can take",
+    "start": 3605.049,
+    "duration": 3.902
+  },
+  {
+    "text": "where you end up with another\nBi Lac objects as it's called,",
+    "start": 3608.976,
+    "duration": 3.394
+  },
+  {
+    "text": "producing multiple\ngalaxies here.",
+    "start": 3612.395,
+    "duration": 2.228
+  },
+  {
+    "text": "So there is a genealogy,\nif you like, of galaxies.",
+    "start": 3614.648,
+    "duration": 4.033
+  },
+  {
+    "text": "The idea that the\nAndromeda galaxy",
+    "start": 3619.268,
+    "duration": 1.919
+  },
+  {
+    "text": "is going to crash into our galaxy\nin the future, is rubbish.",
+    "start": 3621.212,
+    "duration": 3.553
+  },
+  {
+    "text": "It's based on the idea that\nAndromeda's blue shift,",
+    "start": 3625.329,
+    "duration": 3.246
+  },
+  {
+    "text": "with respect to us, means\nthat it's approaching us.",
+    "start": 3628.6,
+    "duration": 2.689
+  },
+  {
+    "text": "No, just means that\nit's older than us.",
+    "start": 3631.314,
+    "duration": 2.607
+  },
+  {
+    "text": "So the Electric\nUniverse explains this.",
+    "start": 3639.939,
+    "duration": 3.372
+  },
+  {
+    "text": "Quasars are born at high\nspeed and with low mass.",
+    "start": 3644.787,
+    "duration": 2.816
+  },
+  {
+    "text": "They escape the forces of the\nelectromagnetic galactic nucleus,",
+    "start": 3647.628,
+    "duration": 3.298
+  },
+  {
+    "text": "that's the parent\ngalaxy, as neutrons.",
+    "start": 3650.951,
+    "duration": 3.416
+  },
+  {
+    "text": "And because the neutrons\nhave no charge,",
+    "start": 3654.392,
+    "duration": 2.342
+  },
+  {
+    "text": "they can escape the intense\nelectromagnetic forces",
+    "start": 3656.759,
+    "duration": 4.453
+  },
+  {
+    "text": "that hold that plasmoid in\nthe center of the galaxy.",
+    "start": 3661.237,
+    "duration": 3.49
+  },
+  {
+    "text": "They have enough time\nto get away from the,",
+    "start": 3664.752,
+    "duration": 3.067
+  },
+  {
+    "text": "those powerful forces and then they\ndecompose into electrons and protons",
+    "start": 3667.82,
+    "duration": 4.101
+  },
+  {
+    "text": "which are the forerunners\nof hydrogen.",
+    "start": 3671.946,
+    "duration": 2.679
+  },
+  {
+    "text": "So, as the electrical energy pours into\nthe quasar its mass and brightness",
+    "start": 3677.371,
+    "duration": 4.488
+  },
+  {
+    "text": "increases and it slows down\nto become a companion galaxy.",
+    "start": 3681.86,
+    "duration": 3.225
+  },
+  {
+    "text": "So this was an explanation, the only\nexplanation for Halton Arp's observations.",
+    "start": 3685.11,
+    "duration": 5.862
+  },
+  {
+    "text": "Quasars are not the brightest and\nmost distant objects in the universe.",
+    "start": 3691.538,
+    "duration": 4.87
+  },
+  {
+    "text": "They are among the youngest\nand closest, so they..",
+    "start": 3699.678,
+    "duration": 3.946
+  },
+  {
+    "text": "the objects in the mirror really\nare closer than they appear.",
+    "start": 3704.521,
+    "duration": 3.978
+  },
+  {
+    "text": "The visible universe is smaller\nthan we have been told.",
+    "start": 3709.128,
+    "duration": 3.771
+  },
+  {
+    "text": "So the universe, the real\nuniverse, is in balance.",
+    "start": 3714.861,
+    "duration": 2.818
+  },
+  {
+    "text": "It is not expanding.",
+    "start": 3717.704,
+    "duration": 1.746
+  },
+  {
+    "text": "This is important for\nunderstanding of gravity.",
+    "start": 3719.957,
+    "duration": 2.807
+  },
+  {
+    "text": "Gravity cannot be simply\nan attractive force.",
+    "start": 3722.789,
+    "duration": 3.411
+  },
+  {
+    "text": "The universe is of\nunknown age and extent,",
+    "start": 3727.145,
+    "duration": 3.459
+  },
+  {
+    "text": "the origin of the\nuniverse is unknown,",
+    "start": 3732.81,
+    "duration": 2.605
+  },
+  {
+    "text": "there is a universal now and space\nhas three physical dimensions.",
+    "start": 3736.35,
+    "duration": 5.268
+  },
+  {
+    "text": "This brings everything back down\nto, as Tom was pointing out,",
+    "start": 3741.619,
+    "duration": 4.015
+  },
+  {
+    "text": "conditions as we\nexperience it on Earth.",
+    "start": 3745.659,
+    "duration": 3.086
+  },
+  {
+    "text": "Dark Matter Galaxies",
+    "start": 3751.816,
+    "duration": 1.718
+  },
+  {
+    "text": "Galaxies are treated as\nisolated objects in space",
+    "start": 3753.559,
+    "duration": 2.63
+  },
+  {
+    "text": "produced somehow by attractive\ngravity in an expanding universe.",
+    "start": 3756.19,
+    "duration": 3.828
+  },
+  {
+    "text": "Their rotation and structure\nremains a mystery.",
+    "start": 3760.043,
+    "duration": 2.981
+  },
+  {
+    "text": "They're made of eighty percent\ninvisible dark matter.",
+    "start": 3763.238,
+    "duration": 2.838
+  },
+  {
+    "text": "Tom got a good introduction to\nthat story about dark matter.",
+    "start": 3767.282,
+    "duration": 4.689
+  },
+  {
+    "text": "Dark matter has been described as\nan invisible elephant in the room.",
+    "start": 3771.996,
+    "duration": 3.867
+  },
+  {
+    "text": "You know it's there by the dent\nit makes in the floorboards.",
+    "start": 3775.888,
+    "duration": 3.174
+  },
+  {
+    "text": "Dark matter is only inferred theoretically\nby using our experience of gravity on earth",
+    "start": 3779.784,
+    "duration": 4.937
+  },
+  {
+    "text": "and projecting it onto the\nrest of the universe.",
+    "start": 3784.746,
+    "duration": 2.563
+  },
+  {
+    "text": "Once again it's the\ngeocentric problem.",
+    "start": 3787.334,
+    "duration": 2.273
+  },
+  {
+    "text": "We look at the gravity on earth and\nthen we just extrapolate outwards.",
+    "start": 3790.194,
+    "duration": 4.673
+  },
+  {
+    "text": "Because that's all\nmathematicians can do.",
+    "start": 3794.892,
+    "duration": 2.919
+  },
+  {
+    "text": "It needs an impossible gravitational\nblack hole in the center,",
+    "start": 3800.065,
+    "duration": 4.976
+  },
+  {
+    "text": "black holes exist theoretically in\nasymptotically flat space in an empty universe.",
+    "start": 3805.066,
+    "duration": 4.435
+  },
+  {
+    "text": "You cannot superimpose any other matter\nin such a hypothetical universe.",
+    "start": 3809.526,
+    "duration": 4.244
+  },
+  {
+    "text": "Black holes don't exist!",
+    "start": 3813.795,
+    "duration": 2.392
+  },
+  {
+    "text": "Yet some sport long thin high-velocity\njets over intergalactic distances.",
+    "start": 3816.212,
+    "duration": 6.006
+  },
+  {
+    "text": "There's no satisfactory theoretical\nexplanation for these jets.",
+    "start": 3822.855,
+    "duration": 3.336
+  },
+  {
+    "text": "This is the standard, taking\nthe standard approach.",
+    "start": 3826.216,
+    "duration": 2.927
+  },
+  {
+    "text": "Electric Galaxies\nOn the other hand,",
+    "start": 3829.881,
+    "duration": 2.61
+  },
+  {
+    "text": "Plasma Cosmology shows\nexperimentally and observationally",
+    "start": 3832.967,
+    "duration": 2.812
+  },
+  {
+    "text": "that galaxies are governed\nby electromagnetic forces.",
+    "start": 3835.78,
+    "duration": 4.118
+  },
+  {
+    "text": "Tony Peratt said that\nthey introduced gravity",
+    "start": 3840.303,
+    "duration": 4.235
+  },
+  {
+    "text": "into their super computer runs and\nit made no difference whatsoever.",
+    "start": 3844.539,
+    "duration": 4.194
+  },
+  {
+    "text": "Spirals rotate as\nsimple Faraday motors,",
+    "start": 3850.281,
+    "duration": 3.754
+  },
+  {
+    "text": "that's why that curve is flat.",
+    "start": 3854.06,
+    "duration": 2.149
+  },
+  {
+    "text": "It's as if you've got a plate and\nyou're just spinning the plate.",
+    "start": 3856.21,
+    "duration": 3.353
+  },
+  {
+    "text": "Stars are born in and trace\nthe spiral power lines.",
+    "start": 3859.588,
+    "duration": 3.885
+  },
+  {
+    "text": "Where there is a higher\ndensity of gas and dust,",
+    "start": 3864.021,
+    "duration": 3.092
+  },
+  {
+    "text": "it's typical of an electrical\ndischarge, where the density of the",
+    "start": 3867.138,
+    "duration": 3.261
+  },
+  {
+    "text": "material becomes greater, the\ndischarge becomes more filamentary.",
+    "start": 3870.4,
+    "duration": 4.211
+  },
+  {
+    "text": "Stars form along those\npinched current filaments.",
+    "start": 3874.636,
+    "duration": 3.442
+  },
+  {
+    "text": "There are no black holes.",
+    "start": 3879.546,
+    "duration": 1.751
+  },
+  {
+    "text": "It's a compact high-energy\nplasmoid and this",
+    "start": 3881.322,
+    "duration": 2.856
+  },
+  {
+    "text": "comes down to peer-reviewed\nPlasma Cosmology.",
+    "start": 3884.179,
+    "duration": 3.53
+  },
+  {
+    "text": "Their apparent mass is due to the\nrelationship between mass and energy.",
+    "start": 3888.256,
+    "duration": 3.8
+  },
+  {
+    "text": "If e = mc², if you got a high concentration\nof energy in that tiny plasmoid,",
+    "start": 3892.081,
+    "duration": 5.947
+  },
+  {
+    "text": "it will exhibit a\nconsiderable mass.",
+    "start": 3898.053,
+    "duration": 4.715
+  },
+  {
+    "text": "It's certainly not a black hole.",
+    "start": 3903.776,
+    "duration": 2.061
+  },
+  {
+    "text": "The other thing is that galaxies\nlineup axially showing the electrical",
+    "start": 3906.103,
+    "duration": 4.146
+  },
+  {
+    "text": "connectedness because they're threaded\nlike Catherine wheels on a wire.",
+    "start": 3910.25,
+    "duration": 4.004
+  },
+  {
+    "text": "And that wire is one of these intergalactic\nBirkeland current filaments.",
+    "start": 3914.255,
+    "duration": 5.279
+  },
+  {
+    "text": "So let's look at stars.",
+    "start": 3923.431,
+    "duration": 1.768
+  },
+  {
+    "text": "We've done galaxies,\nlet's look at stars.",
+    "start": 3925.224,
+    "duration": 2.55
+  },
+  {
+    "text": "Eddington, Arthur Eddington\nhad the temerity to say,",
+    "start": 3930.107,
+    "duration": 3.785
+  },
+  {
+    "text": "\"it should not be too difficult to\nunderstand something as simple as a star\".",
+    "start": 3933.917,
+    "duration": 3.15
+  },
+  {
+    "text": "This is typical left hemisphere.",
+    "start": 3937.068,
+    "duration": 2.812
+  },
+  {
+    "text": "His quote is typical.",
+    "start": 3940.665,
+    "duration": 1.746
+  },
+  {
+    "text": "Isolate, simplify and\nignore a global view",
+    "start": 3942.436,
+    "duration": 4.4
+  },
+  {
+    "text": "because if you look at coronas, sunspots,\nflares, magnetic cycles etc.",
+    "start": 3946.861,
+    "duration": 4.487
+  },
+  {
+    "text": "his gas model doesn't\npredict any of them.",
+    "start": 3951.349,
+    "duration": 4.76
+  },
+  {
+    "text": "And the alternatives\nare not explored.",
+    "start": 3956.706,
+    "duration": 2.334
+  },
+  {
+    "text": "He dismisses electrical\naspects in a few paragraphs.",
+    "start": 3959.065,
+    "duration": 2.955
+  },
+  {
+    "text": "The failure of this approach is\nshown by continual complications",
+    "start": 3962.38,
+    "duration": 3.389
+  },
+  {
+    "text": "with each new discovery.",
+    "start": 3965.794,
+    "duration": 1.809
+  },
+  {
+    "text": "It's treated as an isolated\ngravitating ball of gas.",
+    "start": 3968.089,
+    "duration": 3.154
+  },
+  {
+    "text": "Conventionally, it's a body\nthat satisfies 3 conditions.",
+    "start": 3971.268,
+    "duration": 3.246
+  },
+  {
+    "text": "It's made of hydrogen\nplus a few impurities,",
+    "start": 3975.736,
+    "duration": 3.784
+  },
+  {
+    "text": "having core of the lightest element\nis the most fanciful assumption.",
+    "start": 3979.545,
+    "duration": 3.935
+  },
+  {
+    "text": "It's needed to allow the thermonuclear\nenergy model to be viable.",
+    "start": 3983.505,
+    "duration": 5.329
+  },
+  {
+    "text": "That also requires a hypothetical\nextreme conditions in the core.",
+    "start": 3990.961,
+    "duration": 4.933
+  },
+  {
+    "text": "It's only required by the thermonuclear\ntheory and is completely untestable.",
+    "start": 3995.919,
+    "duration": 4.363
+  },
+  {
+    "text": "It also has,",
+    "start": 4002.726,
+    "duration": 1.887
+  },
+  {
+    "text": "I mean that's unverifiable,",
+    "start": 4004.638,
+    "duration": 1.991
+  },
+  {
+    "text": "and also the sequence of nuclear\nreactions that take place in the core",
+    "start": 4006.654,
+    "duration": 3.867
+  },
+  {
+    "text": "cannot be verified.",
+    "start": 4010.546,
+    "duration": 1.684
+  },
+  {
+    "text": "They're very complex and requires quantum\ntunneling which I referred to earlier,",
+    "start": 4012.255,
+    "duration": 4.339
+  },
+  {
+    "text": "and what's more, there's a more complex\ndifferent story for different stars.",
+    "start": 4016.619,
+    "duration": 4.372
+  },
+  {
+    "text": "It's certainly not simple.",
+    "start": 4021.016,
+    "duration": 2.381
+  },
+  {
+    "text": "It's an explosive model\nbecause one of the reactions",
+    "start": 4024.364,
+    "duration": 3.207
+  },
+  {
+    "text": "is sensitive to the temperature\nto the fifth power.",
+    "start": 4027.596,
+    "duration": 3.107
+  },
+  {
+    "text": "It also needs an\nunknown radiation zone",
+    "start": 4034.385,
+    "duration": 3.927
+  },
+  {
+    "text": "to break down the x-rays\nfrom the nuclear core.",
+    "start": 4038.337,
+    "duration": 3.872
+  },
+  {
+    "text": "There's no body known\nthat has a radiation",
+    "start": 4042.423,
+    "duration": 2.777
+  },
+  {
+    "text": "or the energy transferred through\nthe body, through a radiation zone.",
+    "start": 4045.225,
+    "duration": 3.953
+  },
+  {
+    "text": "So this is hypothetical.",
+    "start": 4049.179,
+    "duration": 1.832
+  },
+  {
+    "text": "And also from the point of view\nof life on Earth and so on",
+    "start": 4052.757,
+    "duration": 3.861
+  },
+  {
+    "text": "it has a restrictive and variable\n'Goldilocks zones' distance from the star.",
+    "start": 4056.643,
+    "duration": 4.206
+  },
+  {
+    "text": "It's not the best place to\nnurture life in the universe.",
+    "start": 4060.874,
+    "duration": 3.847
+  },
+  {
+    "text": "Impossible Stars",
+    "start": 4067.253,
+    "duration": 2.021
+  },
+  {
+    "text": "Formation by gravitational\naccretion doesn't work.",
+    "start": 4069.655,
+    "duration": 3.159
+  },
+  {
+    "text": "It's never been explained\nsatisfactorily.",
+    "start": 4072.839,
+    "duration": 2.428
+  },
+  {
+    "text": "It has hydrogen, the lightest\nelement in the core,",
+    "start": 4075.599,
+    "duration": 3.024
+  },
+  {
+    "text": "the model doesn't predict the\nobserved features of behavior,",
+    "start": 4078.648,
+    "duration": 3.428
+  },
+  {
+    "text": "has different models for white\ndwarfs, neutron stars, etc",
+    "start": 4082.339,
+    "duration": 4.173
+  },
+  {
+    "text": "and the life story of stars is\nsuper complicated and untestable.",
+    "start": 4086.821,
+    "duration": 4.278
+  },
+  {
+    "text": "And some stars do strange things,\nthey switch from one place to another",
+    "start": 4091.124,
+    "duration": 3.514
+  },
+  {
+    "text": "without going through\nthe transition stages.",
+    "start": 4094.663,
+    "duration": 2.732
+  },
+  {
+    "text": "Renowned scientists like Eddington\nwho made grave mistakes",
+    "start": 4097.743,
+    "duration": 3.216
+  },
+  {
+    "text": "about the Sun and Einstein's\ngeneral relativity,",
+    "start": 4100.96,
+    "duration": 2.565
+  },
+  {
+    "text": "he went out explicitly to prove Einstein\ncorrect -- not to test his theory,",
+    "start": 4103.55,
+    "duration": 4.118
+  },
+  {
+    "text": "continue to haunt us today.",
+    "start": 4107.693,
+    "duration": 2.026
+  },
+  {
+    "text": "It gives the light to the belief\nthat science is self-correcting.",
+    "start": 4109.72,
+    "duration": 3.546
+  },
+  {
+    "text": "It is, oh sorry, it is not, given the\nway in which science is done today.",
+    "start": 4113.291,
+    "duration": 4.722
+  },
+  {
+    "text": "As Eddington said, if there's no\nother way out we may have to suppose",
+    "start": 4119.949,
+    "duration": 3.641
+  },
+  {
+    "text": "that bright line spectra in the star\nare produced by electric discharges.",
+    "start": 4123.615,
+    "duration": 3.646
+  },
+  {
+    "text": "The clues were there but \"what\nif\" was not followed through.",
+    "start": 4127.286,
+    "duration": 3.551
+  },
+  {
+    "text": "Herschel reveals a\nribbon of future stars.",
+    "start": 4134.304,
+    "duration": 2.954
+  },
+  {
+    "text": "This was reported on March\nthe 30th this year.",
+    "start": 4137.259,
+    "duration": 2.624
+  },
+  {
+    "text": "So this is a very\nrecent picture.",
+    "start": 4140.645,
+    "duration": 2.133
+  },
+  {
+    "text": "Stars and planets are formed by\npowerful electromagnetic forces",
+    "start": 4143.436,
+    "duration": 4.148
+  },
+  {
+    "text": "like pearls on a cosmic string.",
+    "start": 4147.609,
+    "duration": 1.752
+  },
+  {
+    "text": "This is a quote from\nan earlier report.",
+    "start": 4149.386,
+    "duration": 2.283
+  },
+  {
+    "text": "Gravity can be ignored.",
+    "start": 4151.86,
+    "duration": 1.834
+  },
+  {
+    "text": "In Plasma Cosmology there's\nno gravitational accretion.",
+    "start": 4153.719,
+    "duration": 3.522
+  },
+  {
+    "text": "There's no way you can form a\nstring like that using gravity.",
+    "start": 4159.285,
+    "duration": 3.178
+  },
+  {
+    "text": "Gravity is a central force and\nmaterial tends to come in to a center.",
+    "start": 4162.488,
+    "duration": 4.896
+  },
+  {
+    "text": "It doesn't form a string.",
+    "start": 4167.409,
+    "duration": 2.356
+  },
+  {
+    "text": "But this recent report says,",
+    "start": 4171.274,
+    "duration": 2.65
+  },
+  {
+    "text": "this is important,",
+    "start": 4174.352,
+    "duration": 1.334
+  },
+  {
+    "text": "stars are shot out of the filaments\nby a slingshot mechanism.",
+    "start": 4175.711,
+    "duration": 3.779
+  },
+  {
+    "text": "And there's a diagram here which\nshows the filaments moving around",
+    "start": 4179.515,
+    "duration": 4.149
+  },
+  {
+    "text": "like those in the plasma\nball, they snake about.",
+    "start": 4183.689,
+    "duration": 4.061
+  },
+  {
+    "text": "The stars having been formed in\nthis filament are left behind",
+    "start": 4188.338,
+    "duration": 3.1
+  },
+  {
+    "text": "as the filament moves on\nand these stars are shot out.",
+    "start": 4191.439,
+    "duration": 5.439
+  },
+  {
+    "text": "And it's interesting because plasma..\nTony Peratt described to us",
+    "start": 4197.758,
+    "duration": 5.391
+  },
+  {
+    "text": "once the effects seen in high\nenergy discharge experiments",
+    "start": 4203.174,
+    "duration": 3.291
+  },
+  {
+    "text": "as these plasmoids\nscattered like buckshot.",
+    "start": 4206.49,
+    "duration": 3.446
+  },
+  {
+    "text": "Now it's not only stars\nthat are formed here,",
+    "start": 4210.197,
+    "duration": 2.476
+  },
+  {
+    "text": "it's all solid bodies\nincluding planets.",
+    "start": 4212.698,
+    "duration": 3.347
+  },
+  {
+    "text": "And they may be captured by the\nstars to form the weird assortment,",
+    "start": 4216.37,
+    "duration": 4.044
+  },
+  {
+    "text": "over three-and-a-half\nthousand of them, so far,",
+    "start": 4220.439,
+    "duration": 2.918
+  },
+  {
+    "text": "of exo-planetary systems\nthat have been observed.",
+    "start": 4223.382,
+    "duration": 3.202
+  },
+  {
+    "text": "New stars also may fission to produce\nhot Jupiters in very close orbits",
+    "start": 4226.609,
+    "duration": 4.818
+  },
+  {
+    "text": "and achieve electrical stability with\ntheir changing electrical environment.",
+    "start": 4232.504,
+    "duration": 4.351
+  },
+  {
+    "text": "The movement of the filaments, as I\nsaid, is like those in the plasma ball.",
+    "start": 4236.88,
+    "duration": 4.397
+  },
+  {
+    "text": "Heavy elements convect\ninto a cool core.",
+    "start": 4241.552,
+    "duration": 3.163
+  },
+  {
+    "text": "This is interesting because these,\nthose blue filaments you saw before",
+    "start": 4244.74,
+    "duration": 4.03
+  },
+  {
+    "text": "are the coldest part of the cloud and\nthis is where the stars are forming.",
+    "start": 4248.795,
+    "duration": 3.875
+  },
+  {
+    "text": "The traditional view is that the stars\nhad to form by gravitational collapse",
+    "start": 4252.695,
+    "duration": 4.869
+  },
+  {
+    "text": "and not lose any of the\nheat of the collapse,",
+    "start": 4257.589,
+    "duration": 2.8
+  },
+  {
+    "text": "otherwise they couldn't\nstart their nuclear fires.",
+    "start": 4260.414,
+    "duration": 2.698
+  },
+  {
+    "text": "This doesn't require\nany of that.",
+    "start": 4263.137,
+    "duration": 2.15
+  },
+  {
+    "text": "It was one of the\nsurprises for theorists.",
+    "start": 4267.168,
+    "duration": 3.078
+  },
+  {
+    "text": "Is that the,",
+    "start": 4271.137,
+    "duration": 2.419
+  },
+  {
+    "text": "the blue filament I mentioned is\nthe coldest part of the cloud",
+    "start": 4273.581,
+    "duration": 3.242
+  },
+  {
+    "text": "and contains eight hundred\ntimes as much mass as the Sun.",
+    "start": 4276.848,
+    "duration": 3.183
+  },
+  {
+    "text": "This is not a surprise\nfor plasma cosmologists.",
+    "start": 4280.056,
+    "duration": 3.179
+  },
+  {
+    "text": "So, all stars have a\ncool planetary core.",
+    "start": 4287.538,
+    "duration": 4.563
+  },
+  {
+    "text": "Stars and many planets\nare born together",
+    "start": 4292.715,
+    "duration": 2.164
+  },
+  {
+    "text": "along the same electrical\numbilical cord.",
+    "start": 4294.88,
+    "duration": 2.723
+  },
+  {
+    "text": "Other planets and moons are born later\nin electrical fissioning events",
+    "start": 4297.628,
+    "duration": 4.316
+  },
+  {
+    "text": "and capture events.",
+    "start": 4301.969,
+    "duration": 2.082
+  },
+  {
+    "text": "Hydrogen and helium tend to\nform the outermost atmosphere.",
+    "start": 4304.654,
+    "duration": 4.115
+  },
+  {
+    "text": "This is a diagram showing the\nactual form of the filaments.",
+    "start": 4311.234,
+    "duration": 3.945
+  },
+  {
+    "text": "You'll notice the pattern there.",
+    "start": 4315.204,
+    "duration": 2.248
+  },
+  {
+    "text": "This is showing an experimental pattern\nof a discharge on an insulating plate.",
+    "start": 4320.738,
+    "duration": 4.384
+  },
+  {
+    "text": "And this shows a Martian\nelectrical scar.",
+    "start": 4326.989,
+    "duration": 2.397
+  },
+  {
+    "text": "You can see the similarities.",
+    "start": 4329.411,
+    "duration": 1.771
+  },
+  {
+    "text": "As the cosmic\nlightning bolt fades,",
+    "start": 4332.896,
+    "duration": 3.222
+  },
+  {
+    "text": "stars and planets are captured\ninto planetary systems.",
+    "start": 4337.293,
+    "duration": 3.55
+  },
+  {
+    "text": "So, electric stars,",
+    "start": 4342.82,
+    "duration": 2.675
+  },
+  {
+    "text": "they remain a gaseous\nelectric discharge phenomena",
+    "start": 4345.986,
+    "duration": 3.091
+  },
+  {
+    "text": "like spherical searchlights,\nfollowing their birth.",
+    "start": 4349.102,
+    "duration": 2.895
+  },
+  {
+    "text": "In fact some of the\ncharacteristics of the",
+    "start": 4352.022,
+    "duration": 2.177
+  },
+  {
+    "text": "photospheres are like\nthat of a searchlight.",
+    "start": 4354.224,
+    "duration": 3.586
+  },
+  {
+    "text": "All bright stars catalytically\nproduce heavy elements",
+    "start": 4360.257,
+    "duration": 3.191
+  },
+  {
+    "text": "in the photospheric\nplasma discharges.",
+    "start": 4363.473,
+    "duration": 2.299
+  },
+  {
+    "text": "Red stars have gigantic\nanode sheaths.",
+    "start": 4368.172,
+    "duration": 3.0
+  },
+  {
+    "text": "Sorry, got the right\npicture there.",
+    "start": 4371.197,
+    "duration": 2.102
+  },
+  {
+    "text": "Plasma discharges adjust to their\nenvironment by moving electrical barriers",
+    "start": 4374.291,
+    "duration": 3.955
+  },
+  {
+    "text": "called plasma sheaths or\nmisleadingly, magnetospheres,",
+    "start": 4378.271,
+    "duration": 3.05
+  },
+  {
+    "text": "because they trap the\nmagnetic fields inside.",
+    "start": 4381.346,
+    "duration": 2.609
+  },
+  {
+    "text": "If Jupiter's plasma\nsheath would lit up",
+    "start": 4383.98,
+    "duration": 2.111
+  },
+  {
+    "text": "it would appear the size of the full\nMoon in the sky, at opposition.",
+    "start": 4386.116,
+    "duration": 4.388
+  },
+  {
+    "text": "And its Galilean moons would be\norbiting comfortably inside it.",
+    "start": 4390.954,
+    "duration": 4.388
+  },
+  {
+    "text": "So red dwarfs are not dwarfs",
+    "start": 4395.979,
+    "duration": 2.706
+  },
+  {
+    "text": "and their bloated glowing anode sheaths\nare the cosmic wombs for life.",
+    "start": 4398.71,
+    "duration": 4.252
+  },
+  {
+    "text": "Because inside that\nradiant red sphere",
+    "start": 4405.193,
+    "duration": 2.366
+  },
+  {
+    "text": "all satellites receive uniform heat\nand light over their entire surfaces.",
+    "start": 4407.56,
+    "duration": 4.253
+  },
+  {
+    "text": "It doesn't matter how they're moving\nor rotating, that will be the case.",
+    "start": 4411.838,
+    "duration": 4.371
+  },
+  {
+    "text": "Of course this poses a\nproblem for the SETI project",
+    "start": 4416.826,
+    "duration": 2.738
+  },
+  {
+    "text": "because radio waves cannot penetrate\nthe glowing plasma sheath.",
+    "start": 4419.589,
+    "duration": 3.498
+  },
+  {
+    "text": "So if these are the\nwombs of life,",
+    "start": 4423.112,
+    "duration": 3.331
+  },
+  {
+    "text": "we don't have any way of radio\ncommunication with them.",
+    "start": 4426.468,
+    "duration": 3.57
+  },
+  {
+    "text": "But of course, gravity\ncan pass through.",
+    "start": 4431.124,
+    "duration": 3.088
+  },
+  {
+    "text": "White dwarfs are not dwarfs at all, they're\njust stars with no bright photosphere.",
+    "start": 4436.157,
+    "duration": 4.664
+  },
+  {
+    "text": "And a faint white\ncoronal discharge.",
+    "start": 4440.846,
+    "duration": 3.008
+  },
+  {
+    "text": "These are some of the planetary\nsystems that have been discovered.",
+    "start": 4445.117,
+    "duration": 3.479
+  },
+  {
+    "text": "You can see that it's\nquite a shambles.",
+    "start": 4448.621,
+    "duration": 3.492
+  },
+  {
+    "text": "So as I said before, at the galactic\nscale electromagnetic forces",
+    "start": 4454.096,
+    "duration": 3.829
+  },
+  {
+    "text": "form these gigantic Birkeland\ncurrents and they dominate.",
+    "start": 4457.95,
+    "duration": 3.189
+  },
+  {
+    "text": "At the planetary scale, inside the\nstar's protective plasma sheath,",
+    "start": 4461.433,
+    "duration": 4.917
+  },
+  {
+    "text": "gravity dominates.",
+    "start": 4466.375,
+    "duration": 1.77
+  },
+  {
+    "text": "So you have to choose the\nregion you're talking about",
+    "start": 4468.17,
+    "duration": 3.69
+  },
+  {
+    "text": "when you talk, when you try to apply\nyour model to stars, galaxies and so on.",
+    "start": 4471.885,
+    "duration": 6.22
+  },
+  {
+    "text": "In fact, the inside the\nstar's protective sheath,",
+    "start": 4480.03,
+    "duration": 5.887
+  },
+  {
+    "text": "with gravity dominating",
+    "start": 4485.942,
+    "duration": 2.158
+  },
+  {
+    "text": "and it dominates because it\ncannot be electrically shielded",
+    "start": 4488.125,
+    "duration": 3.404
+  },
+  {
+    "text": "so the impact from all of the\nother stars in the universe",
+    "start": 4491.554,
+    "duration": 3.354
+  },
+  {
+    "text": "is acting like a\npressure in on the,",
+    "start": 4494.933,
+    "duration": 2.877
+  },
+  {
+    "text": "the planets moving\naround the Sun.",
+    "start": 4497.835,
+    "duration": 2.016
+  },
+  {
+    "text": "In fact this repulsive force\nfrom the rest of the universe",
+    "start": 4499.876,
+    "duration": 2.918
+  },
+  {
+    "text": "can reverse the Earth's motion\nabout the Sun in 6 months.",
+    "start": 4502.819,
+    "duration": 3.127
+  },
+  {
+    "text": "That is 6 sextillion tons\nby 140,000 miles an hour.",
+    "start": 4505.971,
+    "duration": 5.854
+  },
+  {
+    "text": "So it gives you an\nidea of the impact.",
+    "start": 4511.85,
+    "duration": 3.214
+  },
+  {
+    "text": "Then the Thunderbolts of the\nGods operate to modify masses..",
+    "start": 4517.652,
+    "duration": 5.651
+  },
+  {
+    "text": "oh, sorry..",
+    "start": 4524.002,
+    "duration": 1.015
+  },
+  {
+    "text": "In planetary systems the electric force comes\ninto play only when plasma sheaths collide",
+    "start": 4525.042,
+    "duration": 4.417
+  },
+  {
+    "text": "because then the electrical\ninsulation breaks down.",
+    "start": 4529.46,
+    "duration": 2.78
+  },
+  {
+    "text": "And the electric current flows\nbetween the two bodies.",
+    "start": 4532.843,
+    "duration": 3.199
+  },
+  {
+    "text": "Then the Thunderbolts of the Gods operate\nto modify masses and change orbits",
+    "start": 4536.224,
+    "duration": 5.832
+  },
+  {
+    "text": "and to quickly\nreestablish order.",
+    "start": 4542.081,
+    "duration": 2.812
+  },
+  {
+    "text": "This is one of the problems\nthat Velikovsky faced,",
+    "start": 4544.918,
+    "duration": 2.569
+  },
+  {
+    "text": "how do you explain events,\nwithin the memory of mankind,",
+    "start": 4547.488,
+    "duration": 4.765
+  },
+  {
+    "text": "of chaos in the solar system and\nit looks like clockwork today.",
+    "start": 4552.278,
+    "duration": 3.122
+  },
+  {
+    "text": "This is the answer, you have to\napply the electric model of gravity",
+    "start": 4555.425,
+    "duration": 4.053
+  },
+  {
+    "text": "to be able to do this.",
+    "start": 4559.503,
+    "duration": 2.277
+  },
+  {
+    "text": "So Velikovsky was right.\nElectricity and magnetism",
+    "start": 4562.209,
+    "duration": 3.372
+  },
+  {
+    "text": "are involved in the\ncelestial mechanism.",
+    "start": 4565.606,
+    "duration": 2.833
+  },
+  {
+    "text": "Changing the surface\ncharge on a planet",
+    "start": 4569.758,
+    "duration": 2.381
+  },
+  {
+    "text": "Change modifies the strength of\nthe internal electric dipole",
+    "start": 4572.164,
+    "duration": 3.903
+  },
+  {
+    "text": "which is responsible for the\nplanet's mass and gravity.",
+    "start": 4576.092,
+    "duration": 3.061
+  },
+  {
+    "text": "And the changes to both bodies, which\nI've shown in previous YouTube talks,",
+    "start": 4579.178,
+    "duration": 4.89
+  },
+  {
+    "text": "tends to move the two bodies\napart, which is very convenient..",
+    "start": 4584.496,
+    "duration": 4.038
+  },
+  {
+    "text": "This overcomes the objections\nof the Harvard book burners",
+    "start": 4589.415,
+    "duration": 3.695
+  },
+  {
+    "text": "to Velikovsky's\nWorlds in Collision.",
+    "start": 4593.135,
+    "duration": 1.76
+  },
+  {
+    "text": "However, it doesn't detract from the\ntitle to say that Worlds didn't collide.",
+    "start": 4594.92,
+    "duration": 3.802
+  },
+  {
+    "text": "It was an electrical\nclash of the titans.",
+    "start": 4598.747,
+    "duration": 3.029
+  },
+  {
+    "text": "There's Velikovsky\nwith his great book.",
+    "start": 4606.948,
+    "duration": 3.209
+  },
+  {
+    "text": "So what we have now in science\nis a mythical journey.",
+    "start": 4613.318,
+    "duration": 4.072
+  },
+  {
+    "text": "It is a rehash of\na creation myth.",
+    "start": 4618.096,
+    "duration": 3.843
+  },
+  {
+    "text": "The Earth was born and for four-and-a-half\nbillion has remained roughly where it is now.",
+    "start": 4622.824,
+    "duration": 4.789
+  },
+  {
+    "text": "Long ago the Earth had a few\nmassive impacts to birth the Moon",
+    "start": 4628.348,
+    "duration": 4.072
+  },
+  {
+    "text": "and almost wipe out life\non Earth at intervals.",
+    "start": 4632.445,
+    "duration": 2.854
+  },
+  {
+    "text": "Ironically, planetary collisions\nhave been found essential",
+    "start": 4635.324,
+    "duration": 3.559
+  },
+  {
+    "text": "66 years after Velikovsk's book\nWorlds in Collision was burned.",
+    "start": 4638.908,
+    "duration": 5.688
+  },
+  {
+    "text": "Thousands of exo-planetary\nsystems don't fit the story.",
+    "start": 4645.453,
+    "duration": 3.731
+  },
+  {
+    "text": "There are stars that shouldn't exist, hot\nJupiters that orbit the star in hours or days,",
+    "start": 4649.209,
+    "duration": 4.586
+  },
+  {
+    "text": "backward orbits\nand polar orbits.",
+    "start": 4653.82,
+    "duration": 2.659
+  },
+  {
+    "text": "Life on earth remains\nunexplained.",
+    "start": 4657.511,
+    "duration": 2.637
+  },
+  {
+    "text": "The odds against random events producing\nlife are practically infinite.",
+    "start": 4660.173,
+    "duration": 4.65
+  },
+  {
+    "text": "The rest of the story is once-upon-a-time,\nfragmented, boring and non-predictive.",
+    "start": 4666.117,
+    "duration": 5.482
+  },
+  {
+    "text": "We are an isolated and\nimprobable accident.",
+    "start": 4671.624,
+    "duration": 3.215
+  },
+  {
+    "text": "That's why we have difficulty imagining\nlife elsewhere in the universe.",
+    "start": 4674.84,
+    "duration": 4.854
+  },
+  {
+    "text": "Alan Alda complains, everybody\nis ignorant about science.",
+    "start": 4680.321,
+    "duration": 4.194
+  },
+  {
+    "text": "Alda was 11 years a host of\nScientific American Frontiers on PBS",
+    "start": 4684.975,
+    "duration": 4.837
+  },
+  {
+    "text": "and he helped inspire the creation of\nthe Center for Communicating Science",
+    "start": 4689.837,
+    "duration": 3.813
+  },
+  {
+    "text": "at Stony Brook in 2009.",
+    "start": 4693.675,
+    "duration": 2.412
+  },
+  {
+    "text": "Is it any wonder?",
+    "start": 4697.914,
+    "duration": 2.08
+  },
+  {
+    "text": "When this is the face\nof science today.",
+    "start": 4702.304,
+    "duration": 4.086
+  },
+  {
+    "text": "There is no real\nmeaning or morality",
+    "start": 4706.415,
+    "duration": 2.373
+  },
+  {
+    "text": "in modern mechanistic science to\nengage students or the public.",
+    "start": 4708.789,
+    "duration": 3.42
+  },
+  {
+    "text": "Everyone thinks it\nis all mathematics.",
+    "start": 4712.234,
+    "duration": 2.794
+  },
+  {
+    "text": "It saddens me to see so much talent\nwasted in the pursuit of myth,",
+    "start": 4715.053,
+    "duration": 3.65
+  },
+  {
+    "text": "hunting for dark matter.",
+    "start": 4718.728,
+    "duration": 2.205
+  },
+  {
+    "text": "Their heads have\nbeen filled with it.",
+    "start": 4720.958,
+    "duration": 2.577
+  },
+  {
+    "text": "Our REAL journey.",
+    "start": 4726.241,
+    "duration": 1.847
+  },
+  {
+    "text": "You're looking for the nearest\nexoplanet -- we're standing on it.",
+    "start": 4728.113,
+    "duration": 3.8
+  },
+  {
+    "text": "Pay attention to the oldest\nstories of the celestial gods",
+    "start": 4732.604,
+    "duration": 3.404
+  },
+  {
+    "text": "who created the skies\nand land we see today.",
+    "start": 4736.033,
+    "duration": 3.865
+  },
+  {
+    "text": "Yorro Yorro is a\nresearch book about the",
+    "start": 4740.396,
+    "duration": 6.392
+  },
+  {
+    "text": "Kimberley region, Aborigines\nin western Australia.",
+    "start": 4747.899,
+    "duration": 3.554
+  },
+  {
+    "text": "And they, some of their\nstories are so close to",
+    "start": 4752.299,
+    "duration": 4.157
+  },
+  {
+    "text": "the reconstruction of the\nSaturnian polar configuration",
+    "start": 4756.481,
+    "duration": 5.215
+  },
+  {
+    "text": "that it's almost scary.",
+    "start": 4761.721,
+    "duration": 2.278
+  },
+  {
+    "text": "And these are the words from the elders and\nthey were very precise in their words.",
+    "start": 4765.258,
+    "duration": 5.129
+  },
+  {
+    "text": "It says, in the beginning\npeople saw before the Ice Age,",
+    "start": 4770.578,
+    "duration": 3.025
+  },
+  {
+    "text": "that the Moon, Sun and some of\nthe stars had been on Earth.",
+    "start": 4773.628,
+    "duration": 3.069
+  },
+  {
+    "text": "In other words, they\nwere very close.",
+    "start": 4776.722,
+    "duration": 2.072
+  },
+  {
+    "text": "One song told about a flood,\nlong before the last,",
+    "start": 4778.819,
+    "duration": 2.759
+  },
+  {
+    "text": "that was brought on by\na star with trails.",
+    "start": 4781.603,
+    "duration": 2.856
+  },
+  {
+    "text": "The symbols that testify to these\nevents are still in the Kimberley.",
+    "start": 4784.484,
+    "duration": 4.632
+  },
+  {
+    "text": "The Wandjina creator-figure,",
+    "start": 4789.141,
+    "duration": 2.018
+  },
+  {
+    "text": "which is the one you can see on\nthe front of the book there,",
+    "start": 4791.184,
+    "duration": 3.262
+  },
+  {
+    "text": "that features are explained.",
+    "start": 4794.471,
+    "duration": 2.498
+  },
+  {
+    "text": "All rings around the head\nrepresent clouds and lightning.",
+    "start": 4796.994,
+    "duration": 4.216
+  },
+  {
+    "text": "The big spirit Wandjina\nhave large eyes.",
+    "start": 4801.702,
+    "duration": 2.977
+  },
+  {
+    "text": "This is the eye-god motive that David\nTalbott has explained at length.",
+    "start": 4804.704,
+    "duration": 4.687
+  },
+  {
+    "text": "They never have a mouth nor ears\nand the line between the eyes",
+    "start": 4809.627,
+    "duration": 3.744
+  },
+  {
+    "text": "indicates where the power flows\ndown and it's not a nose.",
+    "start": 4813.396,
+    "duration": 4.289
+  },
+  {
+    "text": "And it has, it looks\nlike a hollow tube,",
+    "start": 4817.71,
+    "duration": 2.804
+  },
+  {
+    "text": "which, in the plasma column scenario of\nthe Saturnian story, is accurate.",
+    "start": 4820.539,
+    "duration": 7.827
+  },
+  {
+    "text": "Wallanganda, the\nCreator of Wandjina,",
+    "start": 4830.369,
+    "duration": 3.518
+  },
+  {
+    "text": "did not create with his hands, only\nthrough his voice, with power.",
+    "start": 4833.912,
+    "duration": 4.301
+  },
+  {
+    "text": "It reminds me of, \"in the\nbeginning was the Word\".",
+    "start": 4838.76,
+    "duration": 3.398
+  },
+  {
+    "text": "Andy Hall has recently explained that the\noverpressure from supersonic shock-waves,",
+    "start": 4842.183,
+    "duration": 5.018
+  },
+  {
+    "text": "that is from the electrical blast\nthat striked the surface of the body,",
+    "start": 4847.226,
+    "duration": 4.086
+  },
+  {
+    "text": "are powerful enough\nto form mountains.",
+    "start": 4851.337,
+    "duration": 2.514
+  },
+  {
+    "text": "Rock flows until the overpressure drops\nwhereupon it solidifies instantly",
+    "start": 4853.876,
+    "duration": 4.578
+  },
+  {
+    "text": "but retains an imprint\nof the shock-wave.",
+    "start": 4858.479,
+    "duration": 2.566
+  },
+  {
+    "text": "Those shock-waves would have\nproduced harmonics and overtones,",
+    "start": 4861.07,
+    "duration": 3.294
+  },
+  {
+    "text": "a global sound like a\nsymphony of giant trumpets.",
+    "start": 4864.389,
+    "duration": 3.277
+  },
+  {
+    "text": "There's many traditions about the\ncreation being associated with sound.",
+    "start": 4867.691,
+    "duration": 6.159
+  },
+  {
+    "text": "This little book I bought in Central\nAustralia on a visit to Uluru,",
+    "start": 4876.432,
+    "duration": 4.118
+  },
+  {
+    "text": "that great red rock which looks\njust like an asteroid has landed.",
+    "start": 4880.575,
+    "duration": 4.281
+  },
+  {
+    "text": "And it also tells a story by\nthese people in the Kimberleys",
+    "start": 4885.269,
+    "duration": 7.707
+  },
+  {
+    "text": "but is illustrated by children\nand it's very quaint.",
+    "start": 4893.001,
+    "duration": 3.88
+  },
+  {
+    "text": "Yet the story is by David\nMore Jolly, who's the elder,",
+    "start": 4898.013,
+    "duration": 5.508
+  },
+  {
+    "text": "It tells of two suns in the sky",
+    "start": 4904.322,
+    "duration": 3.06
+  },
+  {
+    "text": "who lived in hollow\nlogs, plasma columns.",
+    "start": 4907.782,
+    "duration": 3.329
+  },
+  {
+    "text": "There is a period of\nintense heat from them.",
+    "start": 4912.068,
+    "duration": 3.168
+  },
+  {
+    "text": "Then one sun is attacked with\na spear, the thunderbolt,",
+    "start": 4915.261,
+    "duration": 3.815
+  },
+  {
+    "text": "and is bitten by a\nsnake, cometary Venus,",
+    "start": 4920.854,
+    "duration": 3.89
+  },
+  {
+    "text": "who lives in the sky.",
+    "start": 4924.769,
+    "duration": 1.904
+  },
+  {
+    "text": "The little sun gets snagged in\nthe fog of a celestial tree",
+    "start": 4926.698,
+    "duration": 4.056
+  },
+  {
+    "text": "which is the Axis Mundi thing.",
+    "start": 4930.779,
+    "duration": 3.7
+  },
+  {
+    "text": "The Tree of Life,\nthe Celestial Tree.",
+    "start": 4934.504,
+    "duration": 2.891
+  },
+  {
+    "text": "So this is an extension of the forensic\ntechnique that Velikovsky introduced.",
+    "start": 4940.402,
+    "duration": 5.589
+  },
+  {
+    "text": "He never referred to the\nAustralian Aborigines",
+    "start": 4946.016,
+    "duration": 2.575
+  },
+  {
+    "text": "but some of their memories\nare, seem to be so accurate",
+    "start": 4948.616,
+    "duration": 3.63
+  },
+  {
+    "text": "that they are a better source\nthan some of the more,",
+    "start": 4952.271,
+    "duration": 3.625
+  },
+  {
+    "text": "so-called, advanced\ncultural reports.",
+    "start": 4955.921,
+    "duration": 4.315
+  },
+  {
+    "text": "All of these story elements\nmakes sense to mytho-historians",
+    "start": 4961.198,
+    "duration": 3.595
+  },
+  {
+    "text": "and to the leading plasma cosmologist and\ncolleague of Hannes Alfvén -- Tony Peratt.",
+    "start": 4964.818,
+    "duration": 4.906
+  },
+  {
+    "text": "Accept the best evidence\nregardless of its fit",
+    "start": 4970.311,
+    "duration": 3.197
+  },
+  {
+    "text": "with modern consensus science\nand man-made theoretical laws.",
+    "start": 4973.533,
+    "duration": 4.15
+  },
+  {
+    "text": "It is better to adopt the\nforensic science approach",
+    "start": 4977.708,
+    "duration": 2.693
+  },
+  {
+    "text": "to the evidence for past\nevents that cannot be repeated",
+    "start": 4980.426,
+    "duration": 2.77
+  },
+  {
+    "text": "than to rely on theoretical science\nwhich is based on sets of beliefs",
+    "start": 4983.221,
+    "duration": 3.467
+  },
+  {
+    "text": "and a geocentric perspective.",
+    "start": 4986.689,
+    "duration": 2.831
+  },
+  {
+    "text": "Use that evidence to develop\na more holistic science",
+    "start": 4990.187,
+    "duration": 3.922
+  },
+  {
+    "text": "that brings a phenomenal\nreal journey to light.",
+    "start": 4994.912,
+    "duration": 3.394
+  },
+  {
+    "text": "To be real and useful,\nscience must be holistic.",
+    "start": 4998.331,
+    "duration": 3.659
+  },
+  {
+    "text": "The Electric Universe\nis a holistic science",
+    "start": 5002.015,
+    "duration": 2.628
+  },
+  {
+    "text": "that applies seamlessly from the\ngalactic to the earthly to the biosphere",
+    "start": 5004.668,
+    "duration": 3.711
+  },
+  {
+    "text": "and on down to\nsubatomic particles.",
+    "start": 5008.38,
+    "duration": 2.559
+  },
+  {
+    "text": "Humanity's dramatic experience of the\nelectrical nature of celestial mechanics",
+    "start": 5010.964,
+    "duration": 4.626
+  },
+  {
+    "text": "would make an awe inspiring\nand frightening IMAX movie",
+    "start": 5015.615,
+    "duration": 4.012
+  },
+  {
+    "text": "that would make science fiction\nseem a pale shadow in comparison.",
+    "start": 5019.652,
+    "duration": 4.028
+  },
+  {
+    "text": "But in my opinion, once understood,\nthere will be no irrational urge",
+    "start": 5024.156,
+    "duration": 3.71
+  },
+  {
+    "text": "to revisit doomsday upon\neach other and the earth",
+    "start": 5027.891,
+    "duration": 2.808
+  },
+  {
+    "text": "under the unrecognized banners of the\nprehistoric warring planetary gods.",
+    "start": 5030.724,
+    "duration": 4.61
+  },
+  {
+    "text": "Planets bear the scars of their electrical\nbirth and past encounters on their faces.",
+    "start": 5036.685,
+    "duration": 4.99
+  },
+  {
+    "text": "Apollo astronauts commented on the\nfresh appearance of lunar craters,",
+    "start": 5041.7,
+    "duration": 4.463
+  },
+  {
+    "text": "the event that caused the great\ngush across the face of Mars",
+    "start": 5046.188,
+    "duration": 3.17
+  },
+  {
+    "text": "appears in stories\nfrom ancient cultures.",
+    "start": 5049.383,
+    "duration": 2.507
+  },
+  {
+    "text": "These are just yesterday\nin geological time.",
+    "start": 5051.915,
+    "duration": 3.417
+  },
+  {
+    "text": "I recommend you to see episode\nII Symbols of an Alien Sky,",
+    "start": 5055.357,
+    "duration": 4.178
+  },
+  {
+    "text": "The Lightning Scarred\nPlanet Mars.",
+    "start": 5059.56,
+    "duration": 2.832
+  },
+  {
+    "text": "We may understand our history and place in\nthe electric universe for the this time.",
+    "start": 5063.178,
+    "duration": 4.57
+  },
+  {
+    "text": "This is singularly important\nfor our sense of well-being.",
+    "start": 5067.773,
+    "duration": 4.066
+  },
+  {
+    "text": "It gives dramatic new\nmeaning to our lives",
+    "start": 5074.133,
+    "duration": 2.602
+  },
+  {
+    "text": "in a sense of responsibility\nfor our jewel of a planet.",
+    "start": 5076.76,
+    "duration": 3.299
+  },
+  {
+    "text": "Without this sense we probably\nhave no future on Earth.",
+    "start": 5080.084,
+    "duration": 4.178
+  },
+  {
+    "text": "Also in the event,\nmyth becomes science.",
+    "start": 5086.489,
+    "duration": 3.861
+  },
+  {
+    "text": "There was a unique myth-making\nperiod and all surviving cultures",
+    "start": 5090.739,
+    "duration": 3.682
+  },
+  {
+    "text": "required their stories to be\nfaithfully transmitted for millennia,",
+    "start": 5094.446,
+    "duration": 3.438
+  },
+  {
+    "text": "such was their importance.",
+    "start": 5097.909,
+    "duration": 2.039
+  },
+  {
+    "text": "We look at these enigmatic rock art\nfigures from the remote Kimberley region",
+    "start": 5100.585,
+    "duration": 3.923
+  },
+  {
+    "text": "in Western Australia and see only their\nstrange, haunting and artistic beauty.",
+    "start": 5104.533,
+    "duration": 5.415
+  },
+  {
+    "text": "And it was rather ironic\nthat just a week or so ago,",
+    "start": 5111.614,
+    "duration": 4.379
+  },
+  {
+    "text": "and David Novak was there\nto see it too I think,",
+    "start": 5117.008,
+    "duration": 3.518
+  },
+  {
+    "text": "they had the vivid\nfestival in Sydney",
+    "start": 5120.551,
+    "duration": 2.52
+  },
+  {
+    "text": "where they project images\nonto public buildings",
+    "start": 5123.096,
+    "duration": 3.233
+  },
+  {
+    "text": "and of course the Opera House's the\nthe most public building in Sydney",
+    "start": 5126.354,
+    "duration": 3.886
+  },
+  {
+    "text": "and this was a presentation\nof Wandjina figures.",
+    "start": 5130.265,
+    "duration": 5.857
+  },
+  {
+    "text": "I mean they are haunting and\nI think they probably evoke",
+    "start": 5137.701,
+    "duration": 3.341
+  },
+  {
+    "text": "some kind of a\nsubconscious connection",
+    "start": 5141.067,
+    "duration": 3.11
+  },
+  {
+    "text": "but how much more would they mean if\npeople really understood their origin.",
+    "start": 5145.931,
+    "duration": 5.812
+  },
+  {
+    "text": "We need to give more credit\nto the indigenous people.",
+    "start": 5152.528,
+    "duration": 5.264
+  },
+  {
+    "text": "Now Even Camp said that",
+    "start": 5158.26,
+    "duration": 3.579
+  },
+  {
+    "text": "one of the unique aspects of the Electric\nUniverse theory is that it's good storytelling.",
+    "start": 5161.864,
+    "duration": 4.309
+  },
+  {
+    "text": "It answers all three questions,",
+    "start": 5166.198,
+    "duration": 2.174
+  },
+  {
+    "text": "what if..",
+    "start": 5168.397,
+    "duration": 1.784
+  },
+  {
+    "text": "What if the sky was\ndifferent in the past?",
+    "start": 5170.206,
+    "duration": 3.054
+  },
+  {
+    "text": "What if Saturn was\nworshipped as the Sun?",
+    "start": 5174.983,
+    "duration": 3.007
+  },
+  {
+    "text": "What if there were electrical\ndischarges between planets?",
+    "start": 5178.015,
+    "duration": 3.962
+  },
+  {
+    "text": "What if there were electric\ndischarges between planets?",
+    "start": 5187.342,
+    "duration": 3.681
+  },
+  {
+    "text": "Today, we have\nmeteorites from Mars.",
+    "start": 5191.048,
+    "duration": 2.409
+  },
+  {
+    "text": "What if Lichtenberg figures explain\nthe scars on Mars and Earth?",
+    "start": 5193.482,
+    "duration": 3.976
+  },
+  {
+    "text": "Show students pictures of\ncratering on different bodies",
+    "start": 5197.864,
+    "duration": 2.929
+  },
+  {
+    "text": "and asks students to explain\nthem from two points of view.",
+    "start": 5200.818,
+    "duration": 3.141
+  },
+  {
+    "text": "The Standard Model needs\ndifferent explanations for each.",
+    "start": 5203.992,
+    "duration": 3.42
+  },
+  {
+    "text": "The Electric Universe, on the other hand,\nhas a single explanation for them all.",
+    "start": 5221.944,
+    "duration": 4.7
+  },
+  {
+    "text": "Then, there is the story\nof the dissidents.",
+    "start": 5227.311,
+    "duration": 2.885
+  },
+  {
+    "text": "If only Birkeland\nhadn't been ignored.",
+    "start": 5230.965,
+    "duration": 3.794
+  },
+  {
+    "text": "Hannes Alfvén had\nbeen listened to.",
+    "start": 5234.784,
+    "duration": 2.423
+  },
+  {
+    "text": "Halton Arp's research\nhadn't been dismissed.",
+    "start": 5237.232,
+    "duration": 3.16
+  },
+  {
+    "text": "A pixar rule for storytelling\nnumber 16: what are the stakes?",
+    "start": 5240.417,
+    "duration": 4.521
+  },
+  {
+    "text": "Give us reasons to\nsupport the character.",
+    "start": 5244.963,
+    "duration": 2.424
+  },
+  {
+    "text": "What happens if\nthey don't succeed?",
+    "start": 5247.412,
+    "duration": 1.99
+  },
+  {
+    "text": "Stack the odds against them!",
+    "start": 5249.427,
+    "duration": 1.763
+  },
+  {
+    "text": "What of the future\nif this goes on?",
+    "start": 5251.215,
+    "duration": 3.173
+  },
+  {
+    "text": "We continue wasting money and careers\nlooking for things that don't exist.",
+    "start": 5254.413,
+    "duration": 4.19
+  },
+  {
+    "text": "We cripple students by not\ntraining them to think.",
+    "start": 5258.628,
+    "duration": 3.05
+  },
+  {
+    "text": "We may have no future\non this planet.",
+    "start": 5261.703,
+    "duration": 3.216
+  },
+  {
+    "text": "As Evan Camp says,",
+    "start": 5265.716,
+    "duration": 2.615
+  },
+  {
+    "text": "\"The power of eliciting engagement is to get\npeople to come to their own conclusions.\"",
+    "start": 5273.273,
+    "duration": 5.849
+  },
+  {
+    "text": "Thinking is going to be\nthe future of education.",
+    "start": 5280.067,
+    "duration": 3.817
+  },
+  {
+    "text": "So, our Electric Universe Future.\nMahatma Gandhi said,",
+    "start": 5287.442,
+    "duration": 4.574
+  },
+  {
+    "text": "\"There is a force in the universe which,\nif we permit it, will flow through us",
+    "start": 5292.041,
+    "duration": 4.142
+  },
+  {
+    "text": "and produce miraculous results.\"",
+    "start": 5296.208,
+    "duration": 2.553
+  },
+  {
+    "text": "The Electric Universe\nis an inspiring story",
+    "start": 5298.786,
+    "duration": 2.6
+  },
+  {
+    "text": "that motivates students both\nconceptually and artistically,",
+    "start": 5301.411,
+    "duration": 3.207
+  },
+  {
+    "text": "and that is what's needed for left and\nright brain hemisphere development.",
+    "start": 5304.619,
+    "duration": 4.833
+  },
+  {
+    "text": "Education, classical science and the\narts, left and right hemispheres",
+    "start": 5310.174,
+    "duration": 5.04
+  },
+  {
+    "text": "Many principles of the Electric\nUniverse were foreseen",
+    "start": 5319.03,
+    "duration": 3.101
+  },
+  {
+    "text": "by scholars in the past--\nNewton, Faraday, etc.",
+    "start": 5322.156,
+    "duration": 3.54
+  },
+  {
+    "text": "A release from existential fear.",
+    "start": 5325.721,
+    "duration": 2.869
+  },
+  {
+    "text": "Velikovsky's The Bonds of\nthe Past, a documentary.",
+    "start": 5328.615,
+    "duration": 4.594
+  },
+  {
+    "text": "There is a collective inability to face the\ntruth that prehistoric mankind faced doomsday.",
+    "start": 5333.899,
+    "duration": 5.44
+  },
+  {
+    "text": "For millennia, sciences\npreached stability and order",
+    "start": 5339.364,
+    "duration": 3.422
+  },
+  {
+    "text": "but as amnesiacs we\nhave a compulsion",
+    "start": 5342.811,
+    "duration": 2.473
+  },
+  {
+    "text": "to instinctively repeat the\ncatastrophes of the past",
+    "start": 5345.309,
+    "duration": 2.895
+  },
+  {
+    "text": "destroying each other and the earth\nfrom the sky with apocalyptic weapons,",
+    "start": 5348.229,
+    "duration": 4.037
+  },
+  {
+    "text": "like the planetary gods of old.",
+    "start": 5352.291,
+    "duration": 2.287
+  },
+  {
+    "text": "This was one of Velikovsky's\ngreatest fears.",
+    "start": 5355.277,
+    "duration": 3.11
+  },
+  {
+    "text": "But we have, on the other hand, the\npossibility of an unparalleled renaissance",
+    "start": 5364.491,
+    "duration": 5.041
+  },
+  {
+    "text": "with the Electric Universe, bringing\neverything together seamlessly.",
+    "start": 5369.557,
+    "duration": 3.887
+  },
+  {
+    "text": "Understanding ourselves\nand our past,",
+    "start": 5373.469,
+    "duration": 2.426
+  },
+  {
+    "text": "can heal the wounds and provide a more\nuniversal sense of connection and purpose.",
+    "start": 5375.92,
+    "duration": 4.539
+  },
+  {
+    "text": "Understand the electric\nforce of nature.",
+    "start": 5380.484,
+    "duration": 3.119
+  },
+  {
+    "text": "Power \"like the Sun.\"",
+    "start": 5386.43,
+    "duration": 2.554
+  },
+  {
+    "text": "And Gravity.",
+    "start": 5389.009,
+    "duration": 1.813
+  },
+  {
+    "text": "Quantum Interactions.",
+    "start": 5392.592,
+    "duration": 1.583
+  },
+  {
+    "text": "All three rely on understanding\nmatter interactions",
+    "start": 5394.2,
+    "duration": 2.891
+  },
+  {
+    "text": "by the instantaneous\nelectric force.",
+    "start": 5397.116,
+    "duration": 2.448
+  },
+  {
+    "text": "Understanding living organisms, the\nmind-body connection and beyond.",
+    "start": 5400.159,
+    "duration": 5.885
+  },
+  {
+    "text": "Also understanding the dangers of genetically-\nmodified organisms and manufactured food.",
+    "start": 5413.033,
+    "duration": 7.751
+  },
+  {
+    "text": "There's no thought\ngiven to the effects,",
+    "start": 5422.497,
+    "duration": 4.132
+  },
+  {
+    "text": "the unintended consequences\nof fiddling with these things",
+    "start": 5426.654,
+    "duration": 3.077
+  },
+  {
+    "text": "when our basic knowledge\nis so lacking.",
+    "start": 5429.756,
+    "duration": 3.5
+  },
+  {
+    "text": "And the idea in an Electric Universe is to\nlive in tune with the Earth and each other.",
+    "start": 5436.08,
+    "duration": 6.814
+  },
+  {
+    "text": "Resonant Connection",
+    "start": 5447.376,
+    "duration": 1.473
+  },
+  {
+    "text": "On the most general level,\nthe Electric Universe is",
+    "start": 5448.874,
+    "duration": 2.586
+  },
+  {
+    "text": "a new paradigm of universal\nresonant connection.",
+    "start": 5451.485,
+    "duration": 3.586
+  },
+  {
+    "text": "The arbitrary inertial frames\nof reference of physics",
+    "start": 5455.096,
+    "duration": 2.807
+  },
+  {
+    "text": "are not equivalent when everything\nis connected in real time.",
+    "start": 5457.928,
+    "duration": 3.355
+  },
+  {
+    "text": "How and where you are makes a\ndifference to your energy state.",
+    "start": 5461.308,
+    "duration": 4.369
+  },
+  {
+    "text": "For example, the GPS system is\nsupposed to prove relativity theory.",
+    "start": 5466.217,
+    "duration": 3.589
+  },
+  {
+    "text": "It doesn't.",
+    "start": 5469.831,
+    "duration": 1.014
+  },
+  {
+    "text": "The atoms in orbiting clocks have a different\nenergy from identical clocks on Earth",
+    "start": 5470.87,
+    "duration": 4.197
+  },
+  {
+    "text": "so engineers simply count a different\nnumber of ticks to compensate.",
+    "start": 5475.092,
+    "duration": 3.655
+  },
+  {
+    "text": "Time is universal,\nunchanging and unchangeable.",
+    "start": 5478.772,
+    "duration": 3.323
+  },
+  {
+    "text": "Clocks are not.",
+    "start": 5482.12,
+    "duration": 1.472
+  },
+  {
+    "text": "Think of the relationships between all things\nconnected by the universe electric force",
+    "start": 5483.943,
+    "duration": 4.366
+  },
+  {
+    "text": "and consider that the electric force\nmust act instantly otherwise no",
+    "start": 5488.31,
+    "duration": 3.239
+  },
+  {
+    "text": "information transfer is possible\nbetween resonant tune systems.",
+    "start": 5491.55,
+    "duration": 4.592
+  },
+  {
+    "text": "Spacecraft using slow speed\nof light transmissions,",
+    "start": 5496.817,
+    "duration": 2.982
+  },
+  {
+    "text": "require constant retuning\nof receivers on Earth",
+    "start": 5499.8,
+    "duration": 3.314
+  },
+  {
+    "text": "to compensate for their motion.",
+    "start": 5503.139,
+    "duration": 2.165
+  },
+  {
+    "text": "Obviously living systems\ncould not function",
+    "start": 5505.329,
+    "duration": 2.251
+  },
+  {
+    "text": "if moving parts of the body\nlost contact with the brain.",
+    "start": 5507.605,
+    "duration": 3.376
+  },
+  {
+    "text": "Acknowledging this simple fact will explain\nquantum weirdness and open up science,",
+    "start": 5511.251,
+    "duration": 4.281
+  },
+  {
+    "text": "particularly biology, to amazing\npossibilities that are presently forbidden.",
+    "start": 5515.557,
+    "duration": 4.178
+  },
+  {
+    "text": "And understanding gravity and magnetism\nas balancing electric forces",
+    "start": 5519.76,
+    "duration": 3.409
+  },
+  {
+    "text": "will change forever our view of the\nheavens and the earth under our feet.",
+    "start": 5523.17,
+    "duration": 4.663
+  },
+  {
+    "text": "As the morphic resonance experiments of the\nbiologist Rupert Sheldrake have shown,",
+    "start": 5528.516,
+    "duration": 4.595
+  },
+  {
+    "text": "the things that are learned by one organism are\nimmediately available to others like them,",
+    "start": 5533.136,
+    "duration": 4.569
+  },
+  {
+    "text": "anywhere on earth.",
+    "start": 5537.73,
+    "duration": 1.573
+  },
+  {
+    "text": "The universe learns.",
+    "start": 5539.328,
+    "duration": 2.173
+  },
+  {
+    "text": "Resonance between molecular tuning forks\nallows instant information transfer,",
+    "start": 5541.913,
+    "duration": 5.084
+  },
+  {
+    "text": "the mind-body\nconnection and beyond.",
+    "start": 5547.022,
+    "duration": 3.246
+  },
+  {
+    "text": "Life is structured water.",
+    "start": 5550.768,
+    "duration": 2.191
+  },
+  {
+    "text": "This was said to me\nby Gerald Pollack.",
+    "start": 5552.984,
+    "duration": 2.347
+  },
+  {
+    "text": "The experiments, or his\nexperiments, show that structure of",
+    "start": 5555.356,
+    "duration": 3.059
+  },
+  {
+    "text": "electrically polarized water molecules\ngives rise to water's amazing properties.",
+    "start": 5558.44,
+    "duration": 4.585
+  },
+  {
+    "text": "It allows information to be stored and\ntransferred within a living cell.",
+    "start": 5563.667,
+    "duration": 4.286
+  },
+  {
+    "text": "The memory mechanism\nof homeopathy.",
+    "start": 5567.978,
+    "duration": 2.82
+  },
+  {
+    "text": "It suggests that the electrically\npolarizable ether particles may also",
+    "start": 5570.823,
+    "duration": 3.655
+  },
+  {
+    "text": "participate in information\nstorage as well as transmission.",
+    "start": 5574.479,
+    "duration": 3.839
+  },
+  {
+    "text": "The Electric Universe resonant\nelectrical model of matter",
+    "start": 5578.343,
+    "duration": 2.826
+  },
+  {
+    "text": "and the all-pervasive\nneutrino ether,",
+    "start": 5581.17,
+    "duration": 2.996
+  },
+  {
+    "text": "suggests that resonance and\nstructure within structure",
+    "start": 5584.191,
+    "duration": 3.033
+  },
+  {
+    "text": "can store unlimited information\nand transfer it instantly.",
+    "start": 5587.249,
+    "duration": 3.91
+  },
+  {
+    "text": "There is more to life\nthan meets the eye.",
+    "start": 5591.184,
+    "duration": 2.884
+  },
+  {
+    "text": "We've always known\nthat instinctively.",
+    "start": 5594.069,
+    "duration": 2.763
+  },
+  {
+    "text": "The Electric Universe suggests that\nthe information needed for life,",
+    "start": 5596.857,
+    "duration": 3.982
+  },
+  {
+    "text": "forget the gene -- that's just\nthe factory floor, is universal.",
+    "start": 5600.864,
+    "duration": 3.896
+  },
+  {
+    "text": "So life can take hold wherever\nconditions arise that allow it.",
+    "start": 5604.785,
+    "duration": 4.532
+  },
+  {
+    "text": "We see evidence for that\nin the great changes",
+    "start": 5609.342,
+    "duration": 2.636
+  },
+  {
+    "text": "immediately following catastrophic\nmass extinctions on earth.",
+    "start": 5611.979,
+    "duration": 4.059
+  },
+  {
+    "text": "We see it in organisms living in\nanoxic conditions over volcanic vents,",
+    "start": 5616.063,
+    "duration": 4.07
+  },
+  {
+    "text": "on the ocean floor and at\ngreat depths in rocks.",
+    "start": 5620.158,
+    "duration": 3.088
+  },
+  {
+    "text": "Just as gravity\ncannot be shielded,",
+    "start": 5623.271,
+    "duration": 2.486
+  },
+  {
+    "text": "since all matter participates\nin force transfer,",
+    "start": 5625.782,
+    "duration": 3.138
+  },
+  {
+    "text": "so it is with this universal\ninformation bank.",
+    "start": 5628.945,
+    "duration": 3.44
+  },
+  {
+    "text": "There are no islands in space.",
+    "start": 5633.345,
+    "duration": 2.657
+  },
+  {
+    "text": "We are Earthlings in the complete\nresonant connection sense",
+    "start": 5636.027,
+    "duration": 3.913
+  },
+  {
+    "text": "in a meaningful\nElectrical Universe.",
+    "start": 5639.965,
+    "duration": 3.204
+  },
+  {
+    "text": "The fact that we exist suggests\nthe purposeful universe.",
+    "start": 5643.194,
+    "duration": 4.719
+  },
+  {
+    "text": "Our lives have purpose.",
+    "start": 5647.938,
+    "duration": 1.799
+  },
+  {
+    "text": "We don't manifest\nas a blank slate.",
+    "start": 5649.762,
+    "duration": 2.235
+  },
+  {
+    "text": "So, children should be observed and\nsupported in their individual passions,",
+    "start": 5652.022,
+    "duration": 3.907
+  },
+  {
+    "text": "not suppressed and molded\nto have desires for them.",
+    "start": 5655.93,
+    "duration": 3.383
+  },
+  {
+    "text": "We are born with a purpose but many\nneed help to discover that purpose.",
+    "start": 5659.338,
+    "duration": 4.538
+  },
+  {
+    "text": "In answering the question:\nWhy are we so unhappy,",
+    "start": 5663.901,
+    "duration": 3.065
+  },
+  {
+    "text": "Iain McGilchrist says: \"True happiness\nis based on connections with others",
+    "start": 5666.991,
+    "duration": 4.598
+  },
+  {
+    "text": "and a sense of purpose\nbeyond the immediate.\"",
+    "start": 5671.614,
+    "duration": 3.352
+  },
+  {
+    "text": "True happiness is one\naim of this conference.",
+    "start": 5674.991,
+    "duration": 3.694
+  },
+  {
+    "text": "The new panorama of an amazing shared\nhistory and kinship must change the world.",
+    "start": 5678.71,
+    "duration": 5.513
+  },
+  {
+    "text": "In the search for meaning, the\nElectric Universe paradigm can,",
+    "start": 5684.248,
+    "duration": 3.847
+  },
+  {
+    "text": "as Iain McGilchrist\nsays, change the world.",
+    "start": 5688.12,
+    "duration": 3.869
+  },
+  {
+    "text": "Elegance, harmony and\nsimplicity of concepts",
+    "start": 5692.014,
+    "duration": 3.451
+  },
+  {
+    "text": "are the Electric Universe\nguiding principles.",
+    "start": 5695.49,
+    "duration": 2.977
+  },
+  {
+    "text": "Thank you.",
+    "start": 5698.803,
+    "duration": 4.513
+  }
+]

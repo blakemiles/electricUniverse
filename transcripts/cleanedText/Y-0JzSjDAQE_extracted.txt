@@ -1,0 +1,502 @@
+Welcome to Space News from
+the Electric Universe
+brought to you by The
+Thunderbolts Project
+at Thunderbolts.info
+The novelist Robertson
+Davies once stated,
+“The eye sees only what the mind
+is prepared to comprehend.”
+In the 21st century, scientists on
+Earth are observing and gathering data
+in unprecedented detail on the remotest
+phenomena in the physical Universe.
+Of course, as those who have
+followed this series are aware,
+what they actually find is routinely
+very different than what they expect.
+And what is the source
+of these surprises?
+Probably more than any physical science
+on Earth, in astrophysics and astronomy,
+where the essential tool is not
+a microscope but a telescope,
+data can be interpreted
+a number of ways.
+In the sciences, as in life,
+invalid interpretations begin
+with erroneous assumptions.
+In the 20th century's space sciences,
+one such assumption was that electric
+charges and currents cannot exist
+in the so-called vacuum of space.
+An intriguing insight into
+common beliefs on the subject
+can be found in the discussions
+of some popular websites.
+On the website Quora.com, the question
+is posed in the form of the query,
+“Does lightning exist in space?”
+The most viewed response
+attempts to answer as follows:
+“There is no lightning in space.
+Lightning is the result of ionization
+of air into a channel of plasma
+caused by strong electric field
+(in this context between
+a cloud and the ground).
+There is no air in space and
+nothing to get ionized.
+Strong electric field would produce nothing
+in space and there would be no lightning.”
+The notion that nothing exists in space
+to become ionized is of course laughable.
+Astrophysical plasmas,
+or “ionized gases”,
+have been a subject of intense scientific and
+laboratory investigations for nearly a century.
+And even the notion of so-called space
+lightning at the vastest cosmic scales
+has more recently been appearing
+in astrophysical literature.
+In 2011, radio astronomers reported their
+measurement of the electric current
+in a nearly 150,000 light
+years long extragalactic jet.
+As reported in the New
+Scientist article,
+“Universe’s highest
+electric current found”:
+“A COSMIC jet 2 billion light-years away is
+carrying the highest electric current ever seen:
+10¹⁸ amps, equivalent to a
+trillion bolts of lightning.”
+As we’ve reported recently, new papers
+in peer-reviewed astrophysical journals
+propose that powerful electric
+currents flow in extra-galactic jets
+and that the jets themselves are
+“fundamentally electromagnetic structures.”
+However, if you
+follow science media,
+it’s likely that you’ve
+not noticed any attempt
+to contextualize the development
+as significant for astrophysics.
+One person who has noticed this disconnect
+is Thunderbolts colleague Chris Reeve,
+who has spent many years documenting the
+online discourse on scientific controversies,
+including the occasional
+“skeptical” polemics
+against the Electric Universe
+and Plasma Cosmology.
+Recently, Chris published a commentary
+exploring why the recognition
+of vast, cosmic electric currents
+has apparently yet to register
+either with science journalists
+or most online commentators.
+Chris’s initial comments were presented in
+an item posted by a Slashdot.org editor,
+entitled, “Can Electricity Travel
+Through Space on Astrophysical Jets?”.
+An October 2017 paper titled "Electric Currents
+along Astrophysical Jets" reports that
+"Several researchers have
+reported direct evidence
+for large-scale electric currents
+along astrophysical jets."
+A review of the citations at the end of
+that paper and others would seem to suggest
+that one of the great Internet science
+debates has finally been settled:
+Electricity does indeed travel through
+space over vast cosmic distances.
+What has been interesting to watch
+about this unexpected development
+is that science journalists have so far not
+explicitly reported this as a shift in theory,
+and commenters on sites like phys.org appear
+to deny that any change has even occurred:
+"The jets have been shown not
+to be electric currents,
+the energy and the physics involved
+are certainly not electromagnetic."
+This comment completely
+rejecting these new findings
+was highly rated by
+other phys.org readers,
+suggesting that the failure to explicitly
+report this as a change, in theory,
+has left this controversial topic
+in a highly confused state.”
+With Chris’s permission, we now
+present his full commentary,
+outlining the history
+of the controversy.
+I've been engaging people on these
+topics for around 12 years now.
+In fact, it was some peculiar interactions I observed
+here on Slashdot back in 2007 [slashdot.org]
+which greatly stimulated
+my interest in this topic.
+The idea that electricity
+flows through space
+is largely the brainchild
+of Hannes Alfven,
+who earned the Nobel for his
+creation of magnetohydrodynamics
+(the math which models cosmic
+plasmas using fluid equations).
+What has not been particularly emphasized
+by scientists or the science journalists
+is that Alfven realized
+towards the end of his career
+that the widespread application of MHD
+in astrophysics was a huge mistake.
+And he used the opportunity of his
+1970 Nobel acceptance speech for MHD
+to explain to the
+astrophysical community
+why they should not be using
+MHD to model cosmic plasmas.
+The exact history of what happened
+is difficult to track down,
+and I've never seen it fully
+told in an academic setting
+― which is really quite extraordinary,
+in a history of science sense.
+Quoting The Plasma Universe of
+Hannes Alfven, by David Talbott:
+"Alfvén's interest in magnetic fields laid
+the foundations of today's MHD theory,
+a theory widely employed
+by astrophysicists.
+In the original
+formulations of the theory,
+Alfvén spoke of magnetic fields
+being 'frozen' into neutral plasma,
+and the magnetohydrodynamic equations
+he formulated implied that
+the electric currents that create magnetic
+fields could be effectively ignored.
+Hence, the plasma activity on the
+Sun and in more remote space
+could be analyzed without
+reference to any larger domain
+of electric currents or
+electric circuits ..."
+To this notion, astronomers were
+readily attracted, and for a time
+they thought they had an ally in
+the brilliant electrical engineer.
+Although his 'fundamental work and
+discoveries in magnetohydrodynamics
+led to his Nobel Prize in 1970, the
+background to this occasion is paradoxical.'
+Through much of the 19th and 20th century,
+most astronomers and cosmologists
+had assumed the 'vacuum' of space
+would not permit electric currents.
+Later, when it was
+discovered that all of space
+is a sea of electrically
+conductive plasma,
+the theorists reversed
+their position,
+asserting that any charge separation
+would be immediately neutralized.
+Here they found what they were looking for
+in Alfvén's frozen-in magnetic fields
+and in his magnetohydrodynamic
+equations.
+Electric currents could then be viewed as
+strictly localized and temporary phenomena
+— needed just long enough
+to create a magnetic field,
+to magnetize plasma, a
+virtually 'perfect' conductor.
+The underlying idea was that space could
+have been magnetized in primordial times
+or in early stages of stellar
+and galactic evolution,
+all under the control of higher-order
+kinetics and gravitational dynamics.
+All large-scale events in space could still be
+explained in terms of disconnected islands,
+and it would only be necessary
+to look inside the 'islands'
+to discover localized
+electromagnetic events
+― no larger electric currents
+or circuitry required.
+In this view, popularly held today,
+we live in a 'magnetic universe'
+(the title of several recent books and
+articles), but not an electric universe.
+The point was stated bluntly by the
+eminent solar physicist Eugene Parker,
+"No significant electric field can arise in
+the frame of reference of the moving plasma."
+But the critical
+turn in this story,
+the part almost never told within the
+community of astronomers and astrophysicists,
+is that Alfvén came to realize
+he had been mistaken.
+Ironically ― and to his credit ―
+Alfvén used the occasion of his
+acceptance speech for the Nobel Prize
+to plead with scientists to
+ignore his earlier work.
+Magnetic fields, he said,
+are only part of the story.
+The electric currents that create
+magnetic fields must not be overlooked,
+and attempts to model space plasma
+in the absence of electric currents
+will set astronomy and astrophysics
+on a course toward crisis.
+In accord with Alvén's observations,
+American physicist, professor Alex Dessler,
+former editor of the journal
+Geophysical Research Letters,
+notes that he himself had originally
+fallen in with an academic crowd
+that believed electric fields could not exist
+in the highly conducting plasma of space.
+He stated,
+'My degree of shock and surprise
+in finding Alfvén right
+and his critics wrong can
+hardly be described.'
+In retrospect, it seems clear that Alfvén
+considered his early theoretical assumption
+of frozen-in magnetic fields
+to be his greatest mistake,
+a mistake perpetuated first and
+foremost by mathematicians
+attracted to Alfvén's
+magnetohydrodynamic equations.
+Alfvén came to recognize that
+real plasma behavior is too
+'complicated and awkward' for
+the tastes of mathematicians.
+It is a subject "...not at all suited
+for mathematically elegant theories."
+It requires hands-on attention to
+plasma dynamics in the laboratory.
+Sadly, he said, the
+plasma universe became
+"...the playground of theoreticians who
+have never seen a plasma in a laboratory.
+Many of them still
+believe in formulae
+which we know from laboratory
+experiments to be wrong."
+Again and again, Alfvén
+reiterated the point:
+the underlying assumptions
+of cosmologists today,
+"...are developed with the most
+sophisticated mathematical methods
+and it is only the plasma itself
+which does not 'understand'
+how beautiful the theories are and
+absolutely refuses to obey them."
+There exists considerable
+confusion on this topic
+of electricity through
+space over cosmic plasmas,
+and it has been extraordinary
+to observe that this confusion
+is especially pronounced
+in the tech community.
+I have sought to document this bias
+in the tech community (and elsewhere)
+against electricity in space
+since I first observed it.
+Perhaps the most important untold story
+is about this mistaken assumption
+which formerly dominated
+astrophysics and cosmology,
+that space is basically empty (as in
+there is no interstellar matter).
+If you go back and look at what
+transpired, we can see that this mistake
+played an important part in the
+selection of theories and hypotheses.
+For example, Hannes Alfven's 1937
+proposal of a galactic magnetic field was
+"met with widespread
+resistance (if not scorn),
+as it directly contradicted
+the prevailing wisdom
+that a vacuum filled
+interstellar space."
+A 1963 Popular Science
+interview with James Van Allen
+points out in big bold letters
+at the top of page 76:
+'Space' was invented on Earth
+before we knew what was out there.
+The article explains:
+"I found Dr. Van Allen in Boston, at
+Massachusetts Institute of Technology,
+where he was conferring with
+other space scientists.
+That evening, over dinner, I asked him about
+newly discovered phenomena of 'empty' space.
+'Most people still think of space
+as a cold, black vacuum,' I said.
+'Is it true that scientists shared this
+misconception until very recently?'
+'Most scientists did think of space
+as a barren waste,' he said.
+'When we started getting real
+information, it was quite a revelation.'
+The crucial turning point in our conception
+of space, of course, came in 1958
+when we finally sent the first
+instrumented rockets up.
+These probes were pretty quickly
+recognized to be radioactive
+when they landed
+back on the Earth.
+This was a big
+surprise at the time,
+and within just a few years, the
+implications were openly discussed
+in the introductions to numerous
+astrophysical and plasma physics textbooks.
+For example:
+"Today it is recognized that 99.999% of
+all observable matter in the universe
+is in the plasma state,
+and plasmas are found at temperatures
+and densities far exceeding those
+that will support matter in
+the first three states."
+I've documented about 20 examples of
+these textbook admissions by now.
+Here's another one:
+"Plasmas can be divided into two broad
+categories: natural and man-made.
+It is an interesting fact that most of
+the material in the visible universe,
+as much as 99% according to some
+estimates, is in the plasma state.
+This includes the
+Sun, most stars,
+and a significant fraction
+of the interstellar medium.
+Thus, plasmas play a major
+role in the universe.
+Plasma physics is relevant to the
+formation of planetary radiation belts,
+the development of
+sunspots and solar flares,
+the acceleration of high-velocity winds that
+flow outward from the Sun and other stars,
+the generation of radio emissions from
+the Sun and other astrophysical objects,
+and the acceleration
+of cosmic rays."
+These more recent admissions by astrophysicists
+that electricity can flow through space,
+therefore, bear
+enormous importance,
+for it is today recognized
+that of the matter we can see,
+it is essentially almost
+entirely in the plasma state.
+So, if we are modeling
+that plasma incorrectly
+― as observations of large-scale
+electrical jets seem to suggest ―
+it stands to reason that
+certain perplexing mysteries
+(like dark matter) are likely to
+be explained by this mistake.
+Perplexingly, the Slashdot community has
+been overtly hostile to this simple notion
+that electricity can
+flow through space.
+Attempts to even just convey
+new findings in this area
+are either completely ignored
+or treated as pseudoscience
+even when the announcements appear
+in established scientific journals.
+For example, here is another
+recent effort to inform
+the Slashdot community of a very important
+vindication for electricity in space:
+"The previously
+controversial claim that
+'astrophysical jets are fundamentally
+electromagnetic structures'
+is becoming accepted by
+some astrophysicists.
+A summary of recent publications on the
+subject by Don Scott in particular
+notes the common presence of counter-rotating
+cylinders in black hole jets,
+a feature not expected
+by conventional models,
+yet a hallmark feature
+of Birkeland currents
+which was mathematically
+described in a 2015 paper.
+Counter-rotating
+cylinders are considered
+an important prediction for
+the Electric Universe claim
+that large-scale electric currents
+travel through space over plasmas.
+This recent acknowledgment offers additional
+vindication for the historical claim
+that the history of Birkeland Currents
+appears to be mired in politics.
+A 2007 Slashdot post titled 'Astronomers
+Again Baffled by Solar Observations'
+elicited a number of hostile
+reactions by Slashdot readers
+that the Electric Universe is
+obviously a 'crackpot theory',
+but what happens if astrophysicists
+start to widely acknowledge
+that large-scale electric currents
+do indeed flow through space?"
+It would seem that a mistaken
+bias against electricity in space
+continues to dominate
+conversations to this day,
+and will surely continue to
+do so for some time to come
+but it also increasingly appears that
+these convictions are today out of step
+with the current claims of
+the astrophysical community.
+So, in a sense, we now see the
+Slashdot community largely unaware
+that a huge theoretical
+shift has occurred,
+and that a lot of ridicule and
+dismissals in this community
+need to now be re-evaluated in the
+light of the recent recognition
+that electricity does indeed
+travel through space.
+If I had to guess at what will happen next,
+people will probably start suggesting
+― as they tend to do ―
+that everybody actually already knew
+that electricity travels through space.
+But, the only way to find out
+how people are going to react
+is to finally start reporting
+on this situation.
+This conversation is way
+past due at this point.

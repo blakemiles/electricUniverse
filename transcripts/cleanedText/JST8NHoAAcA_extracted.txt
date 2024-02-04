@@ -1,0 +1,1009 @@
+Cosmic Power Lines Part 1
+Now the gentlemen that set this
+up have done a marvelous job.
+I told them they have built us
+a 747 here with these screens
+and a lot of controls
+in front of me.
+You should all come up and
+look at this before you leave.
+And I said I would be happy if I could
+get this damn 747 off the runway.
+Anyway, thank you very
+much and good evening.
+It's a pleasure to be
+here and thank you for
+paying me the honor of wanting
+to hear what I have to say.
+The topic of course, is
+the cosmic power grid
+and what it consists of is some
+updates about Birkeland currents,
+where they go what they do?
+Those of you who have been
+to this conference before
+perhaps heard me speak
+on this very topic.
+And one of the nice things
+about the area that I'm in;
+which is this idea of
+electricity in the sky
+and that sort of, the
+electric universe and so on,
+okay, thank you;
+is that new stuff keeps
+coming along all the time.
+And I'm very happy.
+Between the last workshop that we had
+here in this in this hotel I think
+and then the previous
+conference in Albuquerque,
+some very new and I think very,
+from our point of view, encouraging
+data has come back about this very
+topic, the Birkeland current.
+What is a Birkeland current
+then, who was Birkeland?
+Well, let me very
+quickly get by that
+because I know that some of
+you have heard this story,
+have been to these conferences perhaps
+longer than I've been coming to them,
+oh I doubt that but...
+beard beard, you know, anyway.
+The newcomers might like to know just a
+little bit about the background of this so...
+For you all folks,
+I don't mean that by age, you veteran
+attenders take it as a refresher course, ok?
+Birkeland current you can think
+of as a pipeline in the sky.
+It's not an oil pipeline,
+it's not a water pipeline,
+it's an electrical current pipeline, it
+carries charge and carries charged particles
+and it can carry them
+in both directions
+and it consists...
+Well, we'll talk a little bit in
+detail about what it it consists of
+and what its structure is.
+And I was very happy to, in the last
+April this, couple of months ago,
+to get a paper published
+about this topic.
+And this, I'm saying this not just to
+brag about getting the paper published
+but to make a comment about the
+status of science these days.
+You perhaps have heard
+us complain and moan,
+people like me, others that you
+will hear at this conference,
+about how difficult it is to get
+anything published from here,
+from the Electric Universe.
+Oh it's those guys, there
+are the fringe scientists.
+And so if you say anything that
+anybody in mainstream science
+doesn't completely agree with,
+you're out of there, it's
+not going to be published.
+So I submitted this paper to
+a very well-known journal
+but, if you want to know
+I'll slip it to you later,
+but they turned it down!
+Cold!
+For the wrong reasons.
+The guy who did the review,
+who sent me the negative review
+didn't understand
+what I was saying
+and he was absolutely wrong!
+So I finally found through the good
+offices of a couple of friends of mine
+this other journal and
+they did publish it.
+And there is, if you want
+to see the article itself,
+on the bottom there is,
+it's a pretty big long URL
+but I think you can get to it just by putting
+in your browser - progress in physics
+and that'll give you the magazine, the
+journal page and look for the April issue
+and you can see all the great
+gory details in there.
+But anyway, well, I'll talk some
+more about what that paper says and
+what it means as
+the talk goes on.
+But I always have to, and every time I'd
+give a talk here I have to say this
+because it stabbed me in the heart so much
+that I need to have a catharsis I guess,
+at your folks expense.
+That is, some things never changed
+in this world, it seems like.
+The people who talk about
+black holes, dark energy,
+missing neutrinos, missing
+that, neutron stars,
+all of which are blatantly impossible,
+call us the fringe scientists.
+When they don't believe that a fellow
+by name James Clark Maxwell ever lived
+or that a fellow by the name of
+Langmuir ever won the Nobel Prize
+or Hannes Alfvén who
+won the Nobel Prize
+and it's his, those people's
+principles that we use.
+We use all of the
+tools in the toolbox,
+they ignore the electrical half!
+They're fine with thermodynamics
+and fluid dynamics
+but they don't, they don't
+take advantage of what we do.
+And so therefore we
+can get some answers
+and I hope to show you some
+of those answers tonight.
+But our detractors seem
+to keep getting promoted,
+I have a sort of a joke here.
+I'm not getting through, hello!
+Okay, sorry for
+the interruption.
+The joke on here is that a fellow,
+who's a very well-known astronomer;
+he is now the head of a very prestigious
+astronomical organization in this country
+and perhaps in the world;
+said this:
+"Yes, yes. We know there are electrical
+currents in space, but they don't DO ANYTHING."
+Well okay, I had his picture and I was
+going to put his actual picture on here
+but I thought I didn't want to get
+sued so I would put that on and said.
+Anyway down to business.
+The paper that I'm going to
+talk to you a little bit about
+derives the mathematical equations that
+constitute a model of a Birkeland current.
+And when I say a model,
+that's a meaningful thing.
+Engineers like me very often build
+models of things, mathematical models,
+will come up with an equation
+and we try to make those
+equations mimic what we see.
+I mean, science is really
+making observations
+and fitting some theory
+to those observations
+and then later testing those theories
+and see if they pass the tests of time
+and whatever you want
+to do to test them out.
+Some people think that
+they are not making models
+but they are actually discovering the
+equations by which the world works.
+By which the universe works.
+They want to discover the equations
+God used when he made thing.
+Engineers are less ...
+aggressive than that.
+We want to just model, we want to
+come up with something that works,
+kind of like the way
+the real thing does
+and the closer we can make
+it work the happier we are.
+So that's what's the difference
+between being, I guess, a cosmologist
+who wants to know
+how does it work
+and us who say, we just
+want to make a model.
+So for example,
+the model can be,
+this model that I
+developed and can be
+or, I should say, be very careful
+to say that the original model,
+the original equations were
+discovered back in 1950
+but the guy just wrote down a
+couple of lines and took off.
+He did write, he did show this diagram,
+that curlicue diagram on the left
+of which, sort of, shows what the
+Birkeland current looks like.
+It's a curlicue, a helix of current and
+magnetic field, parallel if you will.
+I know there's some EE's in the audience
+and you usually don't think about
+currents and magnetic
+fields being in parallel,
+you usually think of them as being
+at right angles to each other.
+But if you can get
+them to relax,
+they will actually line up
+and those of you who know what I'm talking
+about, the Lorentz forces between them,
+their tendency to push each other
+back and forth, goes away.
+If you can get them to line up
+and so there's a thing called a
+"Force Free Field Aligned Current.
+And that's a picture of it, that barber's
+pole there on the left or on the right.
+The difference between the two is of
+course size, that's all there is.
+And so in this model there is a scale factor,
+in all models there are scale factors.
+If you build a model of a ship or model
+of an airplane or think about a map,
+a map is a model of reality.
+If you draw a topographical
+map of a mountain,
+that's a model of the mountain, as
+you see, the topographical contours.
+You can see exactly where the mountain is
+higher, steepest, less steep or whatever.
+But I think sometimes scientists,
+especially cosmologists,
+mistake the mountain for the map
+with a map for the mountain
+and forget about the fact that
+they are two different things.
+So what we have here is a model of
+the way the Birkeland current works.
+I contend!
+And the scale factor maybe
+seems to be, you know,
+not important but it is.
+For one, it's what got my paper
+rejected the first time.
+Because you're gonna ...
+scale factor.
+It's a property of the plasma and
+you don't have any idea what it is.
+My answer of course is
+yes, it's a scale factor
+and I, the model builder can
+tell you what it's going to be.
+You want it to be
+seven, make it seven.
+And it's not like the
+permittivity or permeability,
+something that comes to you
+through what is nature
+but it's just a scale factor so you can make
+the size of this thing bigger or smaller.
+Anyway there's the journal.
+That's the April issue.
+And the reason I
+show it to you is,
+I don't know if you can read the
+small writing there at the bottom.
+Let me see if I can read it.
+It says; "All scientists shall have the right
+to present their scientific research results,
+in whole or in part, at relevant
+scientific conferences,
+and to publish the same in
+printed scientific journals,
+electronic archives,
+and any other media."
+And this is from the Declaration
+of Academic Freedom.
+To which, I think, the editor
+of this journal actually wrote.
+And so, I think that's a step
+forward in and of itself
+regardless of whether they
+publish my paper or not.
+That's a breakthrough.
+No longer do people like me and people
+who are called fringe scientists,
+we're going to resent that
+totally but of course.
+We don't have to be under the heel,
+under the boot, the jackboot of,
+"do you please the
+powers that be or not?"
+These, I know for sure that
+a couple of my friends, and you
+will hear from them later,
+or they're in here, Pierre Marie
+Robitaille and Stephen Crothers
+also have a paper
+in that same issue.
+And I know for certain that
+there is disagreement,
+I won't say between
+whom and whom,
+but as to what they
+think is right.
+But they got their paper published,
+I got my paper published
+and the editor honors that there
+may be differences of opinion.
+But he's still going
+to publish it
+and I think that's a
+real breakthrough.
+It may be a subtle thing,
+a subtle thing for people to
+understand but I think it really is.
+Anyway, my contention is that some
+scientists refuse to see analogies.
+I'm a big analogy, you know
+if you know how it works in this
+state, in this area, in this milieu,
+maybe it works the same way
+in this thing over here.
+If you know how that...
+How that building is constructed
+and how it stands against 100 hundred mile
+an hour winds maybe you can build your
+whatever,
+in the same, using the same principles
+and have it be stronger too.
+To see analogies across fields, I
+think is a very important thing.
+The analogy that I'm
+really talking about
+is the, well, that's obviously
+the aurora borealis.
+The aurora australis
+looks the same.
+And what you're looking at there is the
+business end of a Birkeland current.
+And if I can describe it to you
+which i think is very apparent,
+I think you would say the same thing
+if I asked you to describe it to me.
+It's a concentric, a collection
+of concentric hollow cylinders
+that contain filaments
+that transport stuff.
+In this case the stuff
+is electric charge.
+It looks as though they possibly might
+be some spiraling going on there
+and it looks also that the center
+of the thing is fairly solid.
+... that's the way a
+Birkeland current works
+and that's the way
+the model that I...
+Well, I should say finished the derivation
+of, predicts that the thing should work.
+Well okay, if a long time ago we found
+out that this fellow Birkeland,
+after whom these
+things are named,
+was right!
+He contended that the energy for, to power
+the aurora was coming from outer space.
+He said from the Sun.
+I would modify that slightly and say,
+from the neighborhood of the Sun
+and that we receive energy,
+electrical energy into our North Pole
+and that's how the
+auroras are present.
+Well we know other planets
+have auroras as well.
+But you never hear these people,
+astrophysicists, saying that,
+"Oh yes, we know there are Birkeland currents
+going into the North Pole of Saturn."
+or into the North Pole of Jupiter
+or North Pole of whatever.
+We know there are aurorae there but we're
+not going to use the word Birkeland.
+I don't know why.
+I think that's, I don't know...
+Maybe it's because they, they're
+ashamed of how they treated Birkeland.
+They essentially told
+him he was a lunatic.
+The poor man died in 1917 and it wasn't
+until after the end of World War II
+when we sent Rockets up into this
+area that we found out he was right!
+Not just a little bit
+right, he was a 100% right!
+So Birkeland Currents are named
+Birkeland Currents for a good reason.
+The topic, I guess,
+but the property
+that is most important at least for
+our purposes here this evening,
+is this idea of
+counter rotation.
+That the Birkeland Current, if
+you want to think about it,
+is like a bunch of
+concentric pipes.
+Start off with a rod in the
+middle, put a pipe around it
+and then put a bigger pipe around that
+and then a bigger pipe around that
+and keep doing that until
+you could run out of pipes.
+And the answer is, of course,
+until you run out of charge
+that wants to be transported
+by this mechanism.
+And each of those pipes
+counter rotates.
+You pick out one, the one above it and the one
+below it is going in the opposite direction.
+That's what I mean
+by counter rotation.
+That's what the model says!
+Now the question is, do Birkeland
+currents really work that way?
+Well those of you who were here, I
+guess at the last one or two meetings,
+I forget which one it was,
+I showed the picture,
+know that that's true, we can we've
+seen that in one specific case.
+But there is what the
+model comes up with.
+And it might be.
+Let's see if I can make the
+747 get off the runway here.
+Yes, look at that!
+Oh well, like I have a pointer.
+Do you can see these dark, the
+black lines, the outer one here?
+You can see that
+the circles there,
+the black circles with arrow heads
+showing the counter rotation.
+Those black circles that
+are counter-rotating
+are the current and the magnetic
+field of the Birkeland current.
+The salmon-colored
+rings are not really,
+they don't really occur in a
+Birkeland current in free space
+but they do when you jam that Birkeland current
+down into the North Pole of the earth,
+you've all seen what the magnetosphere
+looks like, it's like a funnel.
+Because the magnetosphere is
+like this big fat doughnut
+with the earth in
+the middle of it
+and the current comes down and as it
+comes down closer and closer to Earth
+gets squeezed into narrow
+or narrower diameters.
+The same amount of
+current with less area
+means the current
+density increases.
+And so when the current density
+increases you get this,
+those salmon colored rings are
+concentrations of matter.
+And matter concentrates into also,
+not the same concentric rings
+because you can see that salmon coloured
+rings are, there are fewer of them,
+then there are white more widely
+spaced than the black ones
+which are, the black ones are the
+magnetic field and the current density.
+But anyway, that is the main property
+that I would like to get across.
+This counter rotation of the of the
+Birkeland current is very important.
+I'd like to change the next
+slide but I can't do it.
+Very good, okay thank you.
+There is a picture, taken by Dr. Tony
+Peratt in Los Alamos Nuclear Laboratory,
+of one of these Birkeland currents that he
+shot into what's called a witness plate
+and so you can see exactly
+or pretty exactly what
+I'm talking about.
+There is the slight
+spiraling look,
+there are certainly that
+center is sort of a solid core
+and then there are these
+rings going outward.
+One of the properties of plasma is
+that it breaks up into filaments.
+And so what we've
+got on the outside,
+and if I could have my pointer
+I would show you what I can't.
+See those dots around the outside,
+those are filaments of plasma.
+And Peratt has drawn a circle
+of little dots to delineate
+where the, at least the
+theoretical filaments should be.
+Keep this picture in
+the back of your mind
+because we're gonna see something
+that looks exactly like that.
+Okay, next slide please.
+That's a picture of
+Saturn's North Pole
+and it was the famous, not hurricane
+but the hexagon is actually there.
+And okay, thank
+you, all right so.
+This is certainly true,
+everyone was so surprised
+about the hexagon shape,
+the question about if these things counter
+rotate or not was never really asked.
+There's, wow, a
+hexagon up there!
+Why is there a hexagon?
+That was all over the press
+for a couple of years.
+But of course I'm asking
+the question, are
+those rings going in the opposite
+directions from one to another?
+And okay, well let's go,
+let's go with this.
+This is a NASA video
+[Video] Cassini has been in
+orbit around Saturn for 9 years
+and we've been following this hexagon
+which surrounds the North Pole.
+It's bigger than two Earths and
+it's a wandering jetstream.
+But it's been
+winter in the north
+so we have not been able to see
+what's at the center of the hexagon.
+But now it's spring!
+And what we've found at the center of
+the hexagon is a Saturn hurricane.
+This is a view from directly over the
+North Pole which is made possible ...
+[Donald] You see the counterrotation.
+Again if I could point,
+you can see the whitest
+ring from the outside,
+you can see those set of elypses, those
+are called diocotron instabilities
+and they happen in plasma
+and in any hydraulic fluids
+when their shear.
+And so, perfectly in the upper left-hand
+corner, you see those curlicue things?
+Those are diocotron
+instabilities.
+And it shows that what's to the inside of
+that and and what's to the outside of that
+are at least traveling at very different
+velocities and probably counter-rotating.
+Go ahead, turn up the volume.
+I don't know if you can
+hear what he said.
+He said that the hurricane is
+anchored to the North Pole
+and it's been there as long as
+we've been able to observe it
+and he's worried about the fact that a
+hurricane is never anchored to anything,
+it moves.
+And the other thing about a hurricane, on
+Earth at least, is it has a warm ocean.
+You know, when a hurricane gets
+all over land it breaks up
+because it loses its heat
+energy from the warm water
+and all look for any
+warm water on Saturn.
+So they are very
+mystified by this
+and I'm not at all
+mystified by this.
+You folks can see that diagram.
+This is from a paper that was
+published just earlier this year.
+The question was, are there
+actually counter rotational winds?
+And if you look very carefully, at A is
+the North Pole and B is the South Pole
+so there's no hexagon
+on the South Pole
+but there is certainly
+on the North Pole.
+And the, you can look
+at the velocity,
+it's way on the left-hand
+side, you can see zero
+is sort of at the junction between
+the blue and the turquoise
+and one is positive one ...
+is negative.
+It means it's going in
+opposite directions.
+So between blue and
+turquoise ther's a shear.
+And they quote that this,
+in this paper that yes, there is
+indeed counter-rotation on Saturn.
+How about Jupiter?
+Well, from the looks of this it looks as
+if there's a hexagon on Jupiter too maybe.
+I don't think so.
+But I think the guy who drew the
+hexagon has a little wishful thinking
+but we don't know.
+And does Jupter have a
+hexagon, I'm not sure, right?
+My vote would be no because
+from what I'm going to show you
+it doesn't look like
+there's a hexagon there.
+But does it have a counter rotational
+kind of a thing happening?
+Do these cloud belts counter
+rotate as the ones on Saturn do?
+Well, nobody knew for years.
+And this came out after
+my last lecture.
+About two days after
+I got home, bingo!
+This comes out from NASA.
+And why so late? Why so late?
+You know, anyway.
+There's a picture of
+Jupiter's North Pole.
+And actually, well, I won't
+hold you in a suspense.
+Do you see any counter rotation?
+I sat there for about 20 minutes
+and tried to count the rings
+and I counted 15 different
+counter rotating cylinders.
+And the, you can see
+going around about
+oh, I don't know, maybe, what,
+three quarters of the way out
+you can see there's a real steady
+progression of those little black dots.
+I think those are probably
+Tony Peratt's filaments,
+that he has in those circles that
+he drew around his witness plate.
+But this is on an endless loop
+now, you can sit here and watch it
+all night if you want to but...
+I just, and again look at, look
+on the upper right-hand corner,
+right there you see?
+Those, all those
+diocotron instabilities.
+So you can definitely see that
+there's a shear going on there.
+So is there counter
+rotation on Jupiter?
+Yeah, you bet there is.
+How about Uranus, well,
+Uranus is a crazy animal.
+You folks probably
+know about the Uranus
+is actually lying over on its
+side, more than 90 degrees over.
+So if you point that, to see
+going out to the left there,
+there's a vector to the Sun.
+So when this was drawn, it was
+Summer at the north pole of Uranus.
+And the spin axis is
+pointing downward.
+The magnetic field axis,
+the axis of its magnetosphere is
+59 degrees farther down than that.
+This thing is really screwed up.
+But the question is,
+does it have an aurora?
+Yes, yes, it does.
+Where is the aurora?
+Is it on the geographic
+pole, the spin axis?
+Does it depend on what parts pointed at the
+Sun or does it depend on the magnetic axis?
+The magnetic axis.
+So the aurora on any planet
+is due to the magnetic field,
+is due to the Birkeland current coming
+in to the magnetosphere of that current,
+of that planet.
+Some of you've seen
+that diagram before,
+we're not sure about Mercury
+because Mercury doesn't even have,
+it's got like a 1% of the
+magnetic field of Earth.
+And does it have enough
+of a magnetic field
+to actually cause a Birkeland current
+to go down there into the North Pole?
+I don't know.
+There's some doubt about it.
+But boy, it sure looks like there's been
+some action at Mercury's North Pole.
+And maybe in an earlier geologic
+period there was a magnetic field.
+Who knows, we don't know now.
+There's some new,
+new to me at least,
+apparently if you look at
+the second line there,
+these stable auroral red auroras
+have been known for about 50 years
+but they, there's,
+they're will o' the wisp
+because they're always, sort of, in
+daylight and they're always so far south
+that you don't see them very much
+and there's city lights down here
+and along the northern axis, northern
+border of the United States.
+But wouldn't it be nice if
+what I'm saying is right
+and the Birkeland currents are indeed
+symmetrically placed concentric hollow cylinders.
+Maybe these SAR auroras
+are due to the second,
+the second column out
+there, the second cylinder,
+the real Aurora's are
+due to the inner one,
+up on the North Pole which is
+not shown in this diagram.
+We're up nearer to the north,
+nearer to the North Magnetic Pole.
+Don't know. Neptune, some of you
+have seen that one already.
+There's a hotspot at
+Neptune's South Pole.
+You think about it,
+the South Pole!
+South Pole is the hot
+spot of the planet?!
+Well, there's a possibility that it's getting
+a real powerful electric current in there
+and that's what's heating up
+that particular spot on Neptune
+to be the hottest
+spot on the planet.
+Okay, we're down
+to the punchline.
+The latest piece of evidence that
+I've managed to accumulate is...
+Well, I'll show it
+to you in a minute.
+But let me make a sort of a slight
+aside and say a couple of things.
+I made an assertion in my paper,
+back a couple of months ago,
+that the Bessel function model
+of a Birkeland current specifies
+that these currents
+are composed mainly
+of hollow, concentric, counter-rotating,
+cylindrical, sheets of current.
+And I think I've showed that to you.
+I hope I have.
+I think this is the first time
+anyone has made that statement.
+But I'm gun-shy because when I did
+the, my derivation of this model
+I didn't know that Stig
+Lundquist had come up
+with the form of the
+solution about 50 years ago.
+Nobody else had talked about it, Tony
+Peratt never talked about it in his book.
+And so I completely
+was blindsided
+and I don't want to
+be blindsided again.
+So if anybody knows of anybody else,
+any other investigator other than me
+that has said that
+Birkeland currents consist
+of counter-rotating concentric cylinders of
+current density and parallel magnetic fields,
+I want to hear about it.
+Until that time I claim the...
+You know, it's like the
+explorer who crawls across
+and plants the flag
+on the island.
+I may be wrong, I may be very
+disappointed to find out that
+yes yes Rick Dicksmutnitz back
+in 1420 came up with this idea.
+But I hope, maybe it's my contribution.
+I hope it is anyway.
+Anyway, what I have
+to show you now
+is a picture, very mundane
+picture taken here on earth
+by a spectacularly good
+photographer of the Northern Lights
+and he did a video of
+the aurora borealis
+and he did it from a fixed super
+high-resolution camera on a fixed tripod
+and just let it rip.
+And I want to see if you think he
+captured any counter-rotation, okay?
+This is Caithness on the
+northern end of Scotland,
+right below Scapa Flow with
+the English naval bases.
+His name is Maciej Winiarczyk.
+See the inner one
+moving right to left?
+Is there counterrotation,
+uh, that's hard to say.
+The red is oxygen,
+the green is nitrogen.
+That's the whole "business
+end" of a Birkeland Current.
+That's, of course,
+the edge of it.
+... over on the left
+This is sort of a picture of a train
+wreck if you start to think about it.
+This is the end of the
+Birkeland current
+... that smashes into,
+into the earth.
+So yes, there's shattering
+and it takes a while for that
+form to come back again.
+There you can see, I think,
+some counter-rotation.
+The inner green one is
+moving well, who knows.
+Some people see these black stripes on a
+zebra, other people see white stripes
+It looks like MacDuff's Castle.
+Yeah, there's a more, I think that
+you can see counter-rotation there.
+The very last scene I defy anybody
+not to see counter-rotation
+and I'll tell you when it...
+not quite here.
+You can see stuff, some stuff
+going one way, some another.
+This one!
+See the one in the,
+in the distance,
+it seems to me is
+going left to right,
+the one up on top here, the fuzzy
+ones are moving right to left.
+Those are just clouds, don't
+worry about the clouds.
+Did you, did you see the counter rotation?
+I don't know,
+it's hard to see whether
+it's there or not.
+It's, how, I've lost my clock, I
+don't know what time it is...
+How, do we have two
+minutes to run that?
+Okay, why don't you run that video
+one more time and we can see,
+sit back, get a glass
+of wine and see.
+He has released this, by the way, to
+the public for educational purposes.
+Up on the left,
+it's coming at you.
+I think that's some obvious
+counter-rotation in there, left to right.
+Way over on the left not to take
+care of those here's the Pleiades
+and the constellation of Taurus.
+Taurus the Bull, there's
+Aldebaran see the ... ?
+There's the one that seems to be
+in the far distance, it's
+moving left to right
+and up here near us at the top
+it's moving right to left.
+I think that's pretty
+obvious there.
+But that's me. Maybe other people
+can say, I don't see that, oh.
+I don't know.
+Anyway, that's, that is the
+latest piece of evidence
+and there are all sorts of folks
+now taking time-lapse photography
+those were, ... time-lapse
+to get it to speed up.
+There are some videos available that
+are just in real time, not time-lapsed
+and you can still
+see the movement.
+And it's, as one and particularly
+taken from Yellowknife up in Canada
+that I think is almost as
+good as this but not quite.
+This is the best one
+I've been able to find.
+Anyway, just one last kind
+of piece of evidence,
+if you guys heard of the what do they
+call it, the Blue Eye of the Desert
+and the Richat Structure
+It's in the Sahara Desert, it's
+about 30 miles in diameter,
+the rings are spaced
+equidistantly from each other.
+That's a Bes... anybody who knows
+anything about Bessel functions
+realize that the zeroes
+are all equally spaced.
+And I'll talk more about
+that in my next talk but...
+Well, how Bessel functions are
+important but forget the math.
+The surface altitude is
+higher toward the center.
+And there's what it looks like.
+If that doesn't look like
+a Birkeland current...
+And they're all, it's about
+30 miles across there.
+Anyway that's, it's
+another example so
+I'm concluding by saying, I think we've
+seen several planets have auroras
+that are likely created
+by Birkeland currents.
+The Earth, Jupiter, Saturn, Uranus and
+possibly Mercury and Neptune, who knows.
+(It will) be interesting to see
+what they find in Pluto next month.
+If they take any
+measurements of that at all.
+And we now have evidence of
+concentric counter rotation
+as predicted by the Bessel function that
+is the Lundquist model on three of them
+that is Saturn,
+Jupiter and Earth.
+So how about the Sun?
+Is there a Birkeland current
+coming down into the Sun?
+Well, tune in tomorrow,
+I'll be back again.
+Thunderbolts.info

@@ -1,0 +1,1056 @@
+All right good afternoon
+and thank you too
+for Dave Talbott and the rest of the
+team for making this conference happen,
+and for inviting me
+to speak here today.
+It's certainly an honor
+to be here has a
+long-standing supporter of the
+Thunderbolts project,
+and plasma universe
+generally, and I'm hoping that what I
+will say today will be able to make a
+contribution to the ongoing development
+of the electric universe
+model which Wal
+Thornhill and Monte Childs referred to
+this morning. So here
+we go as we've seen,
+the electrical nature of the Sun is not
+in doubt. But I would suggest that some
+of the recent evidence doesn't seem to
+fit our current model.
+I want to look at
+this anomalous evidence,
+and speculate on
+possible changes to the
+model to account for it.
+The basis of the EU model is the
+work of Hannes Alfven and Ralf Juergens
+who both argued that electric currents
+are important in the solar system, but
+they both had differing views on where
+those currents flow.
+Alfvén  suggested that the
+Heliospheric current sheet
+is part of a circuit
+in the heliosphere.
+Near the Sun the current splits into
+north and south components, which then
+flow along the meridians towards the
+poles of the Sun.
+Birkeland currents then
+flow from each pole, and the Alfvén
+circuit closes at some unspecified
+distance from the Sun. The important
+thing is that Alfvén's current does not
+enter or leave the photosphere and the
+direction of the current changes in
+alternate solar cycles.
+In contrast, Juergens
+argued that the photosphere
+is a region of anode
+tufting and therefore
+current must always be flowing through
+the photosphere into
+the body of the Sun,
+which he identified as the anode. By
+ecquating the sun's radiant output to
+the electrical power,
+and assuming a driving
+potential of ten billion volts.
+Juergens calculated that the inflowing
+current is around four times ten to the
+16 amps and according
+to this model, the
+anode sun receives charge which will
+tend to neutralize it. A potential of
+10 billion volts, if it was on the
+surface of the Sun,
+equates to a minimum
+charge of about three-quarters of a
+billion coulombs on
+the Sun itself, which
+is a very large charge to have
+accumulated, but it's tiny compared to
+the inflowing current.
+And that means the
+Sun would be discharged
+in a very short time.
+Now Juergens recognize this, and
+originally postulated that the galaxy's
+potential kept changing to maintain the
+voltage differential between the anode
+Sun and the galaxy.
+But by 1979 Juergens
+and Earle Milton between them had
+developed a different model in which
+electrons are simultaneously flowing in
+through the tufts in
+the photosphere and
+out again between them. But they still
+recognized that you had to deal with
+this question of how the Sun doesn't
+get discharged.
+The current EU model modifies
+that again, and we now
+assume that the inflowing electron
+current is balanced by positive
+discharges from the coronal torus to
+the photosphere. And as Wal Thornhill
+said this morning,
+these discharges appear as sunspots
+in the photosphere.
+In the heliosphere,
+the inflowing electron
+current powering the
+Sun is assumed to drift slowly towards
+the Sun under the influence of a very
+low electric field,
+like the current in a
+Crookes tube. (And a Crooks tube is a
+device for studying electricity and
+plasma in the lab.) In
+the revised Juergens
+model the heliopause is assumed to be a
+virtual cathode where most of the
+voltage drop occurs.
+Now there seemed to me to be two
+questions relating to this model.
+The first question is how we
+reconcile of Juergens'
+and Alfvén's circuits.
+One involves a current flowing
+in through the photosphere,
+and the other does not.
+So, Don Scott's diagram, which we saw
+earlier, combines the
+two ideas, and shows
+the Alfven current entering the
+photosphere at the
+poles, and leaving at
+the equator. Therefore, given that the
+photosphere is presumed to be a region
+of anode tufting, one
+region should show
+anode tufting, where the electron
+current enters, but the other region
+should not. But what I find puzzling is
+that the photosphere completely
+encircles the Sun. There doesn't appear
+to be any difference between the polar
+regions and the equatorial regions,
+suggesting that the current doesn't
+enter the photosphere and leave the
+photosphere in quite
+the way the diagram
+suggests. So that's one puzzle.
+The second
+question is, whether the evidence
+supports the model and
+as I said, some of it
+seems to contradict
+Juergens' anode sun.
+And I want to focus on that first.
+We've seen that the balancing positive
+charge is apparently delivered from the
+coronal torus, and
+creates sunspots as it
+punches through the photosphere. But
+there's a puzzle here too.
+The torus forms
+at solar minimum, when there are no
+sunspots, and disappears
+at solar maximum
+as we see on the right, where sunspots
+are the most numerous.
+Now these two diagrams I'm
+showing you, here are both
+looking in the equatorial plane,
+so they're not the same views as we saw
+this morning, where the the encircling
+photosphere /coronal torus diagram was
+a view from the poles. These are both
+photographs taken from the earth, so
+they're in the equatorial plane.
+The one
+on the left is at sunspot minimum and
+the one on the right is at sunspot
+maximum. So the torus
+comes and goes with
+the cycle. And the model that suggests
+that the sunspots are caused by
+discharges from the torus is out of
+step with when the torus
+is actually there.
+Now another problem is that the
+source of the balancing positive charge
+isn't explained.
+Presumably protons must
+come in from intergalactic space along
+with the electrons, otherwise the
+heliosphere would become negatively
+charged.
+But protons entering the heliosphere
+seem to contradict the anode model.
+If we now turn to the evidence for the
+Juergens drift currents,
+to get a current at all,
+there needs to be an
+electron drift relative
+to the positive ions,
+and we can estimate the relative
+velocity of the electrons from their
+known density and the
+current we need to
+generate. Now if all of the electrons
+present at 1 AU radius
+- that's the radius
+of the Earth's orbit - if all of the
+electrons are drifting
+slowly towards the Sun,
+they've got to have an average
+drift velocity of 350 kilometers a
+second to generate the current.
+And that's almost the speed of the slow
+solar wind away from the Sun.
+Now I would have thought
+that velocity should be
+obvious in the spacecraft data but it's
+very difficult to find it in the
+published papers. The measured data
+seem to indicate that
+both the protons and
+the electrons in the solar wind receive
+additional energy as they get further
+from the Sun. They're always getting
+faster. So the protons are behaving as
+expected, but not the electrons.
+And we'll
+look at one or two examples from the
+literature to show this.
+Here's the data
+for electron temperatures
+from Philips at all(1995).
+The bottom black line shows the
+expected adiabatic
+expansion temperature
+in the mainstream model. The other
+colored lines show the electron
+temperatures as actually measured by
+various different missions
+relative to a nominal
+value of 1 at 1 AU
+(just to show you the
+shape of the curve).
+And all the other lines show that the
+electron temperature is decreasing more
+slowly with distance than expected.
+So something appears to be heating the
+electrons as they get
+further from the Sun.
+And that's the wrong way around for
+an anode Sun model. This plot from
+Cranmer (2009) shows
+proton and electron
+temperatures in the fast solar wind
+plotted against radial distance in the
+data taken from the Helios and Ulysses
+missions. The red dots show the protons
+and the blue dots show the electrons.
+Strangely, the electron temperature
+branches beyond about
+two AU radius. The
+lower values clustered near the black
+curve occurred at solar minimum but the
+uptick of blue points you can see there
+occurs at solar maximum. And that
+shouldn't occur if the electrons are
+being accelerated by an anode Sun, and
+nor should the effect be dependent on
+the solar cycle.
+So let's look at the
+electrons in more detail.
+Štverák et al. (2009) tells
+us that the electron
+velocity distribution
+functions observed
+in the solar wind typically exhibit
+three different components:
+a core, a halo,
+and a strahl population. The strahl
+appears as a beam-like
+population moving
+away from the Sun along
+the magnetic field.
+Now in the figure the strahl
+population is the white zone under the
+starred curve to the right here.
+And the
+thermal core is a normal Maxwell
+distribution. The non-thermal halo
+populations are symmetrically
+distributed non
+maxwellian distributions.
+The important point is that there is no
+corresponding strahl population on the
+left of the diagram, which is the part
+moving towards the Sun, as you can see
+from the velocity at the bottom is zero
+in the middle. So these
+are moving away.
+There are no strahl electrons
+moving towards the Sun over there. And
+that seems to be clear evidence that
+there are more electrons moving away
+from the Sun faster than the protons,
+because the baseline for these
+measurements is the protons. So taken
+together these various strands of
+evidence seem to argue
+against an anode Sun.
+So when I got this far looking for
+this evidence which I was expecting to
+find and couldn't find, I then thought,
+well, what evidence the
+Juergens have. So I
+went back to his 1972
+paper - the original
+one in which he
+postulated the anode sun
+model - and he started
+off by saying,"The
+dipole component of the solar magnetic
+field can only be attributed to the
+rotation of the charged Sun as a whole,
+as Dr. Velikovsky pointed out more than
+two decades ago".
+The problem here is that the
+dipole field of the Sun reverses every
+cycle, but the rotation doesn't.
+So that was a puzzle.
+Juergens then refers to a
+paper by Ogilvie et al.(1974)
+apparently suggesting that electrons in
+the solar wind are traveling away from
+the Sun too slowly. And I've looked at
+the original Ogilvie paper and this is
+what it says. Ogilvie did find that
+the electron heat flux values are
+sufficiently low to require
+modifications to the Spitzer-Harm
+conductivity formula used in the Parker
+disk model. But he also concluded a
+detector measures a net electron flux
+away from the solar direction.
+Juergens then quoted a paper
+by Lemaire et al. (1971) who
+Juergens says have a
+solar wind model that
+claims better than average success in
+squaring predictions with observations.
+So what did they say?
+Their conclusion was
+that a voltage drop
+of only 400 volts at around 6 solar
+radii was all that was
+needed to explain
+the observations. And
+that doesn't sound
+like a 10 billion volt anode.
+Juergens then quoted a paper by Gosling et al.
+(1971) which he
+claimed showed the constancy of the
+solar wind during the solar cycle,
+arguing that this demonstrated that the
+energy could not come from inside the sun,
+otherwise sunspot activity would
+alter the output. Now Gosling's
+paper did say that the
+average speed was
+remarkably constant. But he also stated
+high speeds in excess of 550 km/s
+were more commonly observed
+near solar minimum than solar maximum.
+And Gosling also demonstrated a very
+good correlation between sunspot
+activity, the electron corona radiance
+and the ratio flux. So the sun's output
+does vary with the
+solar cycle after all,
+Which means I find it hard to
+understand how Juergens interpreted the
+evidence that he quoted as support for
+a 10 billion volt anode Sun.
+Now I must re-emphasize
+that the EU model
+now says that the
+voltage drop occurs at the heliopause,
+not at the Sun itself. Now it is an
+important change, but it doesn't get
+around the fact that the 350 km/s
+electron drift towards an anode Sun
+is needed to power the radiant
+output in the Juergens model.
+Neither does
+it solve the problem of fast strahl
+electrons coming away from the Sun or
+the electron heating further out. And
+nor does it solved the problem of where
+the supposed balancing charges supposed
+to come from. So
+altogether, I wonder, are
+we trying to modify a theory, that was
+flawed from the start?
+So let's look at what the
+evidence does actually tell us.
+The solar wind seems to be evidence of
+electrical activity. That's clear. But
+we need to clear exactly what it is,
+and where it's occurring.
+The solar wind
+itself consists mainly of protons and
+electrons streaming away from the Sun.
+The slow solar wind comes from the
+equatorial regions, where the magnetic
+field lines of the Sun are often looped
+back into the Sun - so we see that
+coronal mass ejections and similar
+formations which loop back in. The fast
+solar wind comes from the higher solar
+latitudes, and especially
+at solar minima
+where coronal holes appear as dark
+regions in the x-ray spectrum you can
+see on the right here.
+After leaving the
+Sun, the fast solar
+wind curves along the
+magnetic field lines
+towards the equator
+from both poles,
+eventually linking up to
+form the heliosphere current sheet. And
+this diagram from Coles
+(1998) paper shows
+the effect close in to the Sun.
+A little
+bit further out you'd
+have also seen the
+lines from the poles
+dropping down to the equator.
+Now this geometry is similar to the
+geometry of the Alfvén current except
+that it's not clear there's a
+concentration of current
+along the polar
+axis. The situation seems to me to me
+more like the proton emission in the
+cigar galaxy shown in
+the picture on the
+right, where the protons are the red
+explosion along - vaguely
+along - the axes,
+but not concentrated
+along the axes. So the
+question is, "What
+accelerates the solar
+wind?" Is it a small
+electric field through the heliosphere,
+or is it more local to the Sun? There's
+evidence that the acceleration
+takes place very close to
+the Sun in astronomical terms, and I'll
+just give you two examples from many in
+the literature. Shapiro
+in 2012 states that
+the solar wind acceleration region is a
+a dozen solar radii. And Frazin et al.
+in 2003 states we know
+that the O 5 plus
+ions need to accelerate
+somewhere before
+3 AU. These and many similar
+references appear to suggest that the
+acceleration zone is close to the Sun,
+and not spread throughout the
+heliosphere. So let's look at the field
+that the EU model predicts.
+Now Wal Thornhill has made
+the point that simple
+electrostatics can't be applied to the
+Crookes tube discharge model of the
+heliosphere. The pith ball model on the
+lower picture is the wrong model.
+I agree.
+The Crookes tube analogy suggests that
+there's no space charge in the
+heliosphere, but there is a shell of
+positive charge at the
+inner boundary of
+the heliopause which
+maintains the sun's
+potential up to the heliopause and
+outside this positive layer there's a
+negative layer which is the virtual
+cathode where most of
+the potential drop
+occurs. And in the model the electric
+field from the anode Sun itself will
+fall off with the inverse square of the
+distance from the Sun giving a low
+electric field within the heliopause as
+required, but a high electric field
+immediately adjacent to the Sun. If
+you've got a charge on the Sun there
+must be an electric field coming from
+the body of the Sun itself, and then
+outside that you have the heliopause
+double-layer where the
+main drop occurs,
+but we can't get away
+from the fact that
+you need a potential drop near the Sun.
+And this makes the
+anode sun behave like
+a double-layer, exactly
+as we've seen in
+the acceleration data.
+So so far that's so good, but
+it's more complicated than
+that, because in the EU model there are
+actually four separate
+charged regions. The body of the sun is
+an anode and in this
+diagram the body of
+the Sun is off to the
+left here, and its
+anode voltage is this intersection with
+that axis on the left. The inner and
+outer photo spheres are two layers a
+positive charge, which you can see as
+blue regions here,
+causing the height of
+this potential hill here, and then the
+lower corona is a negative layer here,
+which causes this steep potential drop
+down here. As we've just seen from the
+data, the data appears to indicate that
+the acceleration is coming from this
+steep potential drop here, as the model
+suggests. But the
+acceleration data which
+is what we measure way out here
+somewhere, can be
+explained by this part
+here. How do we know from the data that
+you've got this extra layer here, and
+you've got an anode Sun here? I find it
+hard to see how we can interpret from
+measurements out here what's going on
+behind this double-layer here. So we've
+got no direct evidence of the anode Sun
+inside that steep double-layer.
+Apart from causing the
+charged layers out of
+the heliopause, there appear to be two
+main reasons why the anode Sun body is
+necessary. The first is to drive the
+in flowing current from galactic space,
+and power the Sun. In
+a Crookes tube, the
+current is driven by the external
+circuit. And that also
+removes any charge
+arriving at the anode, so you
+don't have a charge balancing problem.
+The second reason for having an anode
+Sun relates to the control of the solar
+wind by Don Scott's PNP transistor
+analogy. And that model
+assumes that the
+ions in the anode Sun are trying to
+escape, and so they
+need to be restrained
+by this potential hill here in the
+photosphere. An
+alteration of the height
+of this hill here regulates the amount
+of ions that are allowed to pass across
+and reach this steep part here - the
+double-layer - and that controls the
+output of the double-layer, which we
+measure out here as the solar wind.
+Now without an anode Sun, an outwardly
+directing double-layer,
+consisting of the
+outer photospere and
+lower corona, would
+accelerate the positive ions in exactly
+the way we measure. But then how could
+the control work if you don't have this
+hill part between the anode and the
+inner photosphere?
+Well in the first place,
+without an anode, there is no
+excess of positive
+ions trying to escape.
+Any positive ions that are drifting
+around here will be accelerated if they
+get to the edge of this
+hill, and they will
+be accelerated down the potential hill,
+if they approach the double-layer, but
+they won't be being forced outwards
+from an anode Sun if it isn't an anode.
+And secondly, control
+of the acceleration
+is basically the control of the height
+of this part of the hill here. And that
+could be achieved equally well
+either by the adjustment of the
+voltage of the photosphere
+here, that is,
+the amount of charge
+in these layers, or
+slightly more subtly,
+you could keep the
+charge in the two layers the same, and
+simply separate them -
+physically separate
+them - slightly further. And both
+mechanisms would
+increase the voltage, or
+therefore the height of the hill, and
+therefore the acceleration.
+So just this
+part - the double-layer
+part here alone -
+can provide the control mechanism.
+Now I
+wonder, is an anode Sun
+necessary after all?
+So, if there's a double-layer, without
+an anode Sun inside it, what happens at
+sunspots? The transistor
+analogy suggests
+that sunspots are holes
+in the double-layer,
+through which the positive ions can
+leak out. But a problem with this model
+is that the observed
+motions of sunspots
+appears to show that
+matter is falling in.
+For example, Newton in 1958 refers to
+an always present slight downdraft of
+hydrogen and calcium gas from the
+chromosphere above the sunspot, falling
+in. Also, sunspots are known to emit
+electrons. We've already
+seen Birkeland's
+work presented a couple of times this
+morning. Here's the
+diagram you'll recognize.
+Now in relation to this
+diagram Birkeland
+refers to the emission
+of cathode rays from sunspots and
+compares them to what he found
+when his terrella was
+the cathode, not the
+anode. With slight magnetization on his
+cathode glob, the rays came from the
+equatorial regions,
+which is the sunspot
+belt, and they formed
+groups, exactly like
+sunspots do, as we see here in the
+picture. And these rays - these cathode
+rays in Birkeland terella - seem to be
+analogous to the strahl electron beams
+we've already seen.
+In his recent interview
+with Michael Goodspeed, Don
+Scott pointed out the correlation
+between sun spots in
+the photosphere and
+the bright x-ray
+emission regions in the
+chromosphere and corona above.
+The x-ray emission stops
+at higher latitudes,
+where there are no sunspots. Now x-rays
+are due to high-speed electrons
+impacting neutral atoms.
+So it seems that
+the high temperature electrons causing
+the X rays are coming
+from the sunspots.
+These factors all seem to point to a
+source of high-energy electrons inside
+the Sun, which need to be contained by
+the double-layer, in contrast to the
+containment of positive
+ions in an anode
+Sun. The double-layer would be the same
+way around we've seen already, but it's
+just containing electrons, not protons.
+So why should there
+be a double-layer at
+all, if there's no anode body there to
+cause it? It's well-known
+the plasma also
+forms a double-layer to separate areas
+of plasma with different
+properties, such
+as temperature, or
+degree of ionization.
+And these types of double-layer are
+current-free double-layers in contrast
+to the current-carrying double-layers
+formed in a Crookes tube.
+And in essence,
+that's the difference
+I'm suggesting. The
+anode Sun model requires a CCDL around
+it, but plasma could generate a CFDL
+cell boundary, without a charged anode.
+And the particle acceleration in the
+double-layer is similar in both cases.
+But one type of double-layer is caused
+by an externally driven current and the
+other is not. So perhaps we should look
+at what sort of plasma the Sun might
+contain, which would
+prompt the formation
+of a current free douple-layer.
+The recent interest in
+fusion has led to the study of
+plasmoids. This is an example here.
+I'll show you after I
+have a small drink.
+Most fusion devices aim to create a
+high temperature plasma which is
+contained by external magnetic fields,
+such as seen here in
+the tokamak machine
+near Oxford. However
+there's a perfectly
+good example of naturally occurring
+self-contained plasmoids in nature and
+that is ball lightning. And the recent
+fusion research has looked at ball
+lightning in an attempt to explain
+what's going on in these lab machines.
+I found two very good papers by Tsui
+published in 2001 and 3 respectively
+who demonstrated that there's a stable
+force-free arrangement of currents in a
+plasmoid when there
+is the right balance
+of toroidal and poloidal fields.
+So that
+means that a stable plasmoid is like a
+Birkeland current wrapped around into a
+closed loop. Now this force free form
+occurs at all scales.
+It's been suggested elsewhere that the
+electron itself is a toroid and as we
+heard this morning Wal Thornhill has
+argued that there's a plasmoid at the
+heart of the Milky Way and other
+galaxies. So if we
+accept that, it seems
+possible that a plasmoid may be
+contained inside the
+Sun and other stars
+as well. Now, this idea isn't new.
+Alfvén argued that the
+Sun was a pair of
+toroidal rings. And this double ring
+model explains the loops of
+prominences on the Sun as escapes from
+the toroids. Now,
+perhaps that's why the
+Paris Observatory
+recently published the
+similar image seen on the right,
+something of an artist's
+impression, but
+at least they're adopting the model.
+Now, Bostick's experiments in 1956
+demonstrated that the Rings are formed
+when a plasma gun discharges into a
+magnetic field across
+the field lines as
+you see on the left.
+Initially the plasmoids of tubular and
+aligned along the field lines and then
+develop into knots and eventually
+into rings,
+In contrast shown on the right.
+Charles Bruce was convinced that ball
+lightning is a result of ejection of
+plasma from bends in
+lightning discharge
+channels, where the stretched magnetic
+field allows highly energetic plasma to
+escape from the main
+lightning discharge
+channel. Observations of naturally
+occurring ball lightnings
+seem to support
+this view that is associated
+with conventional lightning discharges.
+Birkeland currents can also develop
+bends due to what is known as the
+kink instability. So
+a plasmoid could be
+formed at a kink instability in a
+galactic Birkeland current without the
+need for an artificial plasma gun.
+Now if a star forms as
+a plasmoid, it will
+inevitably contain high temperature
+electrons similar to
+the tokamak devices,
+and so we should expect
+to see a CFDL form
+around it to separate the two
+plasma States. So I'd like to suggest
+that there may be a plasmoid in the
+center of the Sun and a CFDL around it.
+Ionization would then occur in the
+interaction region with the surrounding
+plasma. The tufting in the
+photosphere would be due to ions being
+accelerated away because they got too
+close to the double-layer.
+And the electrons
+would be drawn in against the electron
+temperature gradient. Sunspots in
+that case would be leaks of high
+temperature electrons
+like in the Birkeland
+experiments, and the leak of
+high-temperature electrons would
+maintain the overall neutrality
+of the plasmoid. The energy would come
+from the energy contained in the
+plasmoid which is
+slowly leaking out, by
+interaction with its environment, which
+is similar to what we see in ball
+lightning behavior. And the CFDL would
+accelerate the solar wind away from the
+Sun just like the CCDL in the anode
+Sun model.
+But the plasmoid CFDL model
+avoids the problems
+of the electrons not
+behaving further out and it also avoids
+the need for a balancing proton inflow
+into an anode Sun. So
+it solves a couple
+of problems.
+But if we replace the anode
+Sun with a plasmoid Sun,
+where does this leave
+the Alfven current?
+Well, I suggest that we leave
+it exactly where it was,
+with the one exception
+that we touched on
+earlier. The concentration
+of the current
+along the polar axis is not obvious in
+the ulysses mission data.
+It seems to be
+more distributed and
+therefore more like
+the arrangement shown
+here from Alfven's
+1941 paper. In that
+paper he argued that
+the field aligned currents from the Sun
+caused orbital rotation of the
+heliospheric current sheet by the
+Faraday motor mechanism. It seems as
+though the Alfven current around a
+plasmoid which is not energetically
+producing axial Jets is primarily
+concerned with rotation and transfer of
+angular momentum not with
+the processes going on
+in the photosphere itself.
+But if that's so, which
+way is the momentum being
+transferred? Recent evidence suggests ##############
+that the corona is not
+rotating the same
+way as the photosphere, or in the same
+way. It rotates in same
+direction, but not
+in the same manner. This graph from
+Giordano 2008 shows the measurements of
+the rotation period plotted against
+latitude. And the parabolic curve shows
+the differential rotation of the
+photosphere for comparison. And the
+puzzling aspect is that the corona does
+not show differential rotation.
+Also the
+corona has a faster rotation. That is a
+smaller period, than the photosphere at
+higher latitudes. So
+that says to me that
+photosphere can't be
+driving the corona.
+It seems that it's the corona that's
+linked to the Alfven Faraday motor.
+But Alfven's mechanism
+can work both ways.
+And therefore it's possible that the
+corona can
+be driven by the heliospheric current
+sheet. But, if so where could the
+heliospheric current sheet motion come
+from? The recent evidence from the IBEX
+mission suggests that the heliosphere
+sits in the center of a galactic
+Birkeland current. And
+it seems reasonable
+to assume that the presence of the
+heliosphere effects the
+Birkeland current,
+which either bulges around it as NASA
+says shown on the left, or perhaps
+pinches down onto it
+as we might prefer.
+Now we know that a
+Birkeland current has
+a radially varying
+helicity which allows
+each particle to follow the magnetic
+field line at its own location. The
+balance is maintained automatically
+because if it is not
+parallel to B at any
+location, the cross-product
+will generate a radial
+force, which moves
+the plasma back into alignment.
+So suppose that the
+heliosphere causes the
+Birkeland current to
+become misaligned at
+the bulge or the pinch,
+then some plasma
+will be shifted radially into or out of
+the heliosphere. If
+it's incoming it will
+still be carrying the spiraling current
+which is carried mainly
+by the electrons.
+So the incoming electrons will have a
+strong orbital velocity
+component and an
+inward radial drift in which the
+electrons are moving faster than the
+protons. Once inside the heliosphere we
+would see this as the current in the
+heliospheric current sheet, which
+according to Alfven spirals in towards
+the Sun in alternate cycles. The motion
+of the heliosphere current sheet could
+then drive the corona by the Alfven
+mechanism in reverse.
+During the other cycle, when the sun's
+magnetic field is reversed, but the
+rotation remains the same, the radial
+component of the current must reverse
+and flow back out. And it may be during
+that phase the corona is driving the
+heliospheric current sheet.
+So it seems possible that
+the solar cycle is due to
+the galactic current bleeding into the
+solar system in one cycle and leaking
+back out again in the next.
+And Don Scott has recently
+referred to a paper by Decker published
+in Nature in September 2012. Decker
+reported that contrary to NASA's models
+Voyager 1 had measured zero north-south
+plasma flow near the heliopause. And
+instead they found an
+unexpected totally
+unexpected east-west ion flow plus a
+continued radial drift.
+So already there seems to be some
+evidence for the suggested interaction
+between the heliosphere
+and the Birkeland
+current. So to summarize I suggest that
+the evidence does not seem to support
+Juergen anode Sun but
+it's more in favor
+of a CFDL near the Sun and this may be
+a result of normal
+plasma cell formation
+around a force-free
+plasmoid which could
+have been formed by discharge from a
+kink instability in the original
+galactic Birkeland current. The energy
+would come from the plasmoid similar to
+ball lightning and caused ionization of
+the plasma next to it.
+The DL accelerates
+the islands and draws
+in electrons until
+there's an imbalance when
+high-temperature electrons escape fire
+holes in the DL which
+we see as sunspots.
+The role of the Alfven circuit seems to
+be largely rotational transferring
+momentum between the corona and the HTS
+and exchanging electromagnetic and
+kinetic energy during the solar cycles.
+The coronal torus does store part of
+that energy during the cycle.
+The primary
+driver for coronal rotation in may then
+be the galactic Birkeland
+current leading
+into the heliopause
+due to misalignment at a pinch or bulge
+around the heliosphere.
+And oscillations
+of the misalignment might cause the
+saivors cycle but is it right? I don't
+know we need more evidence.
+I do suggest that the
+forthcoming SAFIRE
+experiment should keep an open mind as
+to whether the Sun is an anode or not.
+And I think the Thunderbolts project
+either has to find convincing evidence
+for a drift current towards the Sun and
+a better means of maintaining the anode
+voltage or perhaps we have to consider
+abandoning the anode. Electricity is
+undoubtedly the key,
+but how and where it
+flows is uncertain. But the good news
+is there's still plenty
+of physics to be
+sorted out and I think it's exciting to
+be involved in the
+search for answers. I
+hope you agree because there's a role
+here for anyone who's interested.
+Thank you for listening.

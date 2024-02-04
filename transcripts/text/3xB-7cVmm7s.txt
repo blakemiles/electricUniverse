@@ -1,0 +1,642 @@
+[
+  {
+    "text": "[Music]",
+    "start": 2.3,
+    "duration": 5.37
+  },
+  {
+    "text": "As I explained in the first episode of\nthis story arc “Playing with New Thinking”,",
+    "start": 13.2,
+    "duration": 5.83
+  },
+  {
+    "text": "scientific activity doesn't begin with\nobservation, as commonly thought.",
+    "start": 19.03,
+    "duration": 5.45
+  },
+  {
+    "text": "It begins with expectations of making\nsense of selected observations with",
+    "start": 24.48,
+    "duration": 6.0
+  },
+  {
+    "text": "particular general presumptions or world-\nviews. I'll call these presumptions ‘Key",
+    "start": 30.48,
+    "duration": 6.64
+  },
+  {
+    "text": "Presumptions’ after James Hutton's 18th century\nproposal that the present is the key to the past.",
+    "start": 37.12,
+    "duration": 7.43
+  },
+  {
+    "text": "Traditionally these expectations\nof making sense have been called",
+    "start": 44.55,
+    "duration": 4.09
+  },
+  {
+    "text": "metaphysics. Meta meaning beyond, or \nafter physics, because it's concerned with a",
+    "start": 48.64,
+    "duration": 6.32
+  },
+  {
+    "text": "critical evaluation of physics.\nMetaphysical keys set the cognitive",
+    "start": 54.96,
+    "duration": 5.43
+  },
+  {
+    "text": "framing which selects observations,\nand constrains one's thinking about the",
+    "start": 60.39,
+    "duration": 5.21
+  },
+  {
+    "text": "possible interpretations of them, to a manageable \nsize. The selected observations are then",
+    "start": 65.6,
+    "duration": 6.72
+  },
+  {
+    "text": "considered to be evidence. With a different\npresumption, a different metaphysical key,",
+    "start": 72.32,
+    "duration": 6.47
+  },
+  {
+    "text": "the set of possible interpretations\nfor observations will be different.",
+    "start": 78.79,
+    "duration": 4.96
+  },
+  {
+    "text": "The evidence will be different with each \nkey. The possibility of different keys is",
+    "start": 83.75,
+    "duration": 5.85
+  },
+  {
+    "text": "what allows for what is called, in popular\ndiscussions after Thomas Kuhn, paradigm shifts.",
+    "start": 89.6,
+    "duration": 6.87
+  },
+  {
+    "text": "In this episode we'll be playing with Key Thinking.\nAn awareness of plasma behavior reveals",
+    "start": 96.47,
+    "duration": 7.53
+  },
+  {
+    "text": "Hutton's Key to be temporal provincialism.\nHow long a time span will demarcate the present.",
+    "start": 104.0,
+    "duration": 7.92
+  },
+  {
+    "text": "Plasma events appear to follow a power\nlaw distribution. Many small, lower energy",
+    "start": 111.92,
+    "duration": 6.0
+  },
+  {
+    "text": "events that happen often, and a few large\nhigher energy events that happen rarely.",
+    "start": 117.92,
+    "duration": 6.08
+  },
+  {
+    "text": "A global event, say an ultra-energetic solar flare with\ncatastrophic consequences that occurs only once in a",
+    "start": 124.0,
+    "duration": 8.16
+  },
+  {
+    "text": "thousand years, will not be included in a\nmere century-long definition of the present.",
+    "start": 132.16,
+    "duration": 7.2
+  },
+  {
+    "text": "That temporal provincialism will be\nespecially emphasized if there are",
+    "start": 139.36,
+    "duration": 4.56
+  },
+  {
+    "text": "political and psychological incentives to\npreserve, or to rebel against a domineering",
+    "start": 143.92,
+    "duration": 6.64
+  },
+  {
+    "text": "organization, or a tradition that justifies itself\nwith myths that have no representations in the present.",
+    "start": 150.56,
+    "duration": 9.28
+  },
+  {
+    "text": "A present that includes rare high energy\nprocesses will raise doubts about the",
+    "start": 159.84,
+    "duration": 5.52
+  },
+  {
+    "text": "accepted interpretations of observations.\nThe accepted theories, the expansion of",
+    "start": 165.36,
+    "duration": 5.59
+  },
+  {
+    "text": "the worldview that underlies the\ntheories to include larger, faster and",
+    "start": 170.95,
+    "duration": 4.89
+  },
+  {
+    "text": "more intricate possibilities, will overturn \nthem. The geological record, a key",
+    "start": 175.84,
+    "duration": 6.24
+  },
+  {
+    "text": "interpretation of otherwise ambiguous\nobservations, will be shredded by",
+    "start": 182.08,
+    "duration": 4.87
+  },
+  {
+    "text": "processes that disrupt atomic decay\nrates, and that may deposit geological",
+    "start": 186.95,
+    "duration": 5.53
+  },
+  {
+    "text": "strata in multiple distorted layers at once.\nThe collapse of long time, a related key",
+    "start": 192.48,
+    "duration": 7.44
+  },
+  {
+    "text": "interpretation will open up evolutionary thinking\nto such ideas as fast, stepwise speciation.",
+    "start": 199.92,
+    "duration": 8.08
+  },
+  {
+    "text": "A present that includes high energy\nplasma events, will also provide",
+    "start": 208.0,
+    "duration": 4.79
+  },
+  {
+    "text": "naturalist interpretations for a large\nquantity of evidence from prehistory",
+    "start": 212.79,
+    "duration": 5.52
+  },
+  {
+    "text": "that heretofore has been dismissed as unintelligible.\nFor example, petroglyphs around the world",
+    "start": 218.31,
+    "duration": 7.84
+  },
+  {
+    "text": "depict 80 some similar forms. If they\ndepicted sunrises and hunting and",
+    "start": 226.15,
+    "duration": 5.93
+  },
+  {
+    "text": "thunderstorms, they would be explained by\nour present theories and we would think",
+    "start": 232.08,
+    "duration": 4.96
+  },
+  {
+    "text": "no more about them. But they depict alien\nthings: squatter figures, duck-headed",
+    "start": 237.04,
+    "duration": 6.16
+  },
+  {
+    "text": "humanoid figures, strange geometric figures, and \nso on. A common speculation for their origin is",
+    "start": 243.2,
+    "duration": 7.59
+  },
+  {
+    "text": "that the ancient artists were hallucinating.\nBut why would ancient artists around the",
+    "start": 250.79,
+    "duration": 5.05
+  },
+  {
+    "text": "world have similar hallucinations, and\nonly during a similar era of prehistory?",
+    "start": 255.84,
+    "duration": 6.32
+  },
+  {
+    "text": "Whatever forms the petroglyphs represent\nhaven't been seen since. Until today.",
+    "start": 262.16,
+    "duration": 6.47
+  },
+  {
+    "text": "They appear as instabilities and pulse\npower discharges in plasma laboratories.",
+    "start": 268.63,
+    "duration": 5.84
+  },
+  {
+    "text": "When the photographs of the\ninstabilities are enlarged to a similar",
+    "start": 274.47,
+    "duration": 4.16
+  },
+  {
+    "text": "size, they overlay the petroglyph image almost \nexactly. With our new instruments we know that",
+    "start": 278.63,
+    "duration": 7.28
+  },
+  {
+    "text": "the magnetospheres, sheaths in plasma\nterms, of Earth and the other planets are",
+    "start": 285.91,
+    "duration": 5.69
+  },
+  {
+    "text": "laced with electrical circuits.\nMany are connected to the Sun.",
+    "start": 291.6,
+    "duration": 5.03
+  },
+  {
+    "text": "Flares can bump up the power in them to\ncause magnetic storms and auroras and",
+    "start": 296.63,
+    "duration": 5.12
+  },
+  {
+    "text": "power grid blackouts. Infrequent flares with an\norder or more greater magnitude of power, which have",
+    "start": 301.75,
+    "duration": 6.81
+  },
+  {
+    "text": "been observed on other Sun-like stars,\ncould cause breakdown discharges similar",
+    "start": 308.56,
+    "duration": 5.28
+  },
+  {
+    "text": "to the pulse power ones in labs, but on a planet-\nsized scale. The instabilities would appear in the",
+    "start": 313.84,
+    "duration": 6.88
+  },
+  {
+    "text": "sky and last for days. The collateral\ndamage to the planet and its creatures",
+    "start": 320.72,
+    "duration": 5.6
+  },
+  {
+    "text": "would discourage artists from\ndocumenting the events with texts or",
+    "start": 326.32,
+    "duration": 4.08
+  },
+  {
+    "text": "paintings, and suggests the more permanent\ntechnique of pecking the images into rocks.",
+    "start": 330.4,
+    "duration": 6.32
+  },
+  {
+    "text": "But Hutton's key doesn't allow such\npossibilities, so the evidence is",
+    "start": 336.72,
+    "duration": 5.03
+  },
+  {
+    "text": "excluded from allowable selections of \nobservations. Here's another example.",
+    "start": 341.75,
+    "duration": 6.81
+  },
+  {
+    "text": "Myths around the world tell similar\nstories with similar themes and",
+    "start": 348.56,
+    "duration": 4.47
+  },
+  {
+    "text": "characters. If they told of sunrises and\nhunting and thunderstorms, they would be",
+    "start": 353.03,
+    "duration": 5.44
+  },
+  {
+    "text": "explained by our present theories and we would think no more about them.",
+    "start": 358.47,
+    "duration": 4.09
+  },
+  {
+    "text": "But they tell alien stories. Sky gods waging wars,\nwarrior heroes hurling thunderbolts, dragons.",
+    "start": 362.56,
+    "duration": 9.04
+  },
+  {
+    "text": "A common speculation for their origin is\nthat the ancient storytellers were",
+    "start": 371.6,
+    "duration": 4.0
+  },
+  {
+    "text": "hallucinating, but why would ancient\nstorytellers around the world have",
+    "start": 375.6,
+    "duration": 4.96
+  },
+  {
+    "text": "similar hallucinations, and only during a similar era\nof prehistory? Whatever events the stories are telling",
+    "start": 380.56,
+    "duration": 7.84
+  },
+  {
+    "text": "haven't been seen since. Until today.\nThey appear as instabilities in pulse",
+    "start": 388.4,
+    "duration": 6.16
+  },
+  {
+    "text": "power discharges in plasma laboratories.\nThe twisting and pulsing plasma",
+    "start": 394.56,
+    "duration": 5.04
+  },
+  {
+    "text": "discharges that last only several\nnanoseconds at a laboratory scale, could",
+    "start": 399.6,
+    "duration": 5.12
+  },
+  {
+    "text": "last for days or weeks at a planetary scale.\nThe evolving forms would be dramatic for",
+    "start": 404.72,
+    "duration": 6.31
+  },
+  {
+    "text": "small soft creatures like humans caught up \nin them. If the witnesses had no scientific",
+    "start": 411.03,
+    "duration": 5.6
+  },
+  {
+    "text": "discursive prose with which to \ndescribe their experiences, but only",
+    "start": 416.63,
+    "duration": 4.25
+  },
+  {
+    "text": "anthropomorphic, dramatic poetry, they would\nmake mythic poems to memorialize the events.",
+    "start": 420.88,
+    "duration": 6.87
+  },
+  {
+    "text": "Before Irving Langmuir began experimenting \nwith plasma, it was called radiant matter.",
+    "start": 427.75,
+    "duration": 5.84
+  },
+  {
+    "text": "Langmuir borrowed the term ‘plasma’ because\nthe behavior of radiant matter reminded",
+    "start": 433.59,
+    "duration": 5.13
+  },
+  {
+    "text": "him of living processes. Scaled up to auroral\ndimensions, plasma discharges would appear as giant",
+    "start": 438.72,
+    "duration": 7.68
+  },
+  {
+    "text": "luminous living creatures, fighting\ndragons and each other in the sky.",
+    "start": 446.4,
+    "duration": 4.88
+  },
+  {
+    "text": "The events among the sky gods would\nbe especially impressive if they were",
+    "start": 451.28,
+    "duration": 4.16
+  },
+  {
+    "text": "accompanied by thunderbolts hurled to\nthe ground, and by upheavals in the earth.",
+    "start": 455.44,
+    "duration": 5.28
+  },
+  {
+    "text": "But Hutton’s key doesn't allow such\npossibilities, so the evidence is excluded",
+    "start": 460.72,
+    "duration": 4.72
+  },
+  {
+    "text": "from allowable selections of observations.\nThere are many similarities between",
+    "start": 465.44,
+    "duration": 6.15
+  },
+  {
+    "text": "petroglyph images and mythic themes:\nAxis Mundi figures and myths, columnar",
+    "start": 471.59,
+    "duration": 5.93
+  },
+  {
+    "text": "forms and ladders to heaven, concentric wheels\nand so on. The similarities of images suggest a",
+    "start": 477.52,
+    "duration": 7.51
+  },
+  {
+    "text": "similarity of phenomena. Plasma discharge \ninstabilities. This opens the possibilities of the past",
+    "start": 485.03,
+    "duration": 7.28
+  },
+  {
+    "text": "to the idea that prehistoric people in\nthe age of myth-making, may have",
+    "start": 492.31,
+    "duration": 4.81
+  },
+  {
+    "text": "experienced upheavals of the earth.\nEntire cities may have been destroyed by",
+    "start": 497.12,
+    "duration": 5.28
+  },
+  {
+    "text": "blasts from heaven; plasma discharges from\nspace, as the ancient people testified. They may",
+    "start": 502.4,
+    "duration": 6.72
+  },
+  {
+    "text": "have witnessed mountains, melting like\nwax; and rivers of fire, carving valleys;",
+    "start": 509.12,
+    "duration": 5.59
+  },
+  {
+    "text": "and seas overflowing entire regions.\nThat's what the ancient writings say",
+    "start": 514.71,
+    "duration": 5.29
+  },
+  {
+    "text": "they witnessed. We should respect what people say\nabout their origins, even if we don't understand it.",
+    "start": 520.0,
+    "duration": 6.56
+  },
+  {
+    "text": "With the key of plasma behavior, the range of\nallowable evidence is larger and more inclusive.",
+    "start": 526.56,
+    "duration": 6.48
+  },
+  {
+    "text": "Petroglyphs and myths become explainable\nas manifestations of a physical phenomenon:",
+    "start": 533.04,
+    "duration": 4.79
+  },
+  {
+    "text": "planetary scale plasma discharges.\nBut caution is warranted. We think in",
+    "start": 537.83,
+    "duration": 7.61
+  },
+  {
+    "text": "metaphors by noticing similarities among\nexperiences, and carrying the logic of",
+    "start": 545.44,
+    "duration": 5.68
+  },
+  {
+    "text": "the source experiences over to the similar \nexperiences. However, metaphors not only",
+    "start": 551.12,
+    "duration": 6.39
+  },
+  {
+    "text": "highlight similarities, they also hide\ndissimilarities. It's easy to overlook",
+    "start": 557.51,
+    "duration": 5.21
+  },
+  {
+    "text": "the dissimilarities, to mistake the\nsimilarities for identities, and to",
+    "start": 562.72,
+    "duration": 5.04
+  },
+  {
+    "text": "conclude that we know it all. This applies not only\nto myth and plasma, but also to gravity and planets.",
+    "start": 567.76,
+    "duration": 9.04
+  },
+  {
+    "text": "That gap in the metaphor between similar\nand identical, constitutes an essential",
+    "start": 576.8,
+    "duration": 5.52
+  },
+  {
+    "text": "epistemic uncertainty in what we call \nknowledge. If that uncertainty is imbued with",
+    "start": 582.32,
+    "duration": 5.84
+  },
+  {
+    "text": "trauma-induced terror, it will generate a\ncompulsion to believe, or to disbelieve,",
+    "start": 588.16,
+    "duration": 6.0
+  },
+  {
+    "text": "that we know more, or don't, and with\ngreater confidence than is justified.",
+    "start": 594.16,
+    "duration": 5.44
+  },
+  {
+    "text": "We tend to turn our attention away from\nthe question of how we know, with its",
+    "start": 599.6,
+    "duration": 4.96
+  },
+  {
+    "text": "essential uncertainty and often\nunconscious metaphysical keys,",
+    "start": 604.56,
+    "duration": 4.64
+  },
+  {
+    "text": "and to place an unquestioning belief in what we\nclaim to know. A more appropriate criterion for",
+    "start": 609.2,
+    "duration": 7.68
+  },
+  {
+    "text": "metaphors than truth with its implication of\nuniversality and absoluteness, is aptness.",
+    "start": 616.88,
+    "duration": 6.8
+  },
+  {
+    "text": "The similarities must be tested and \nthe domains of aptness discovered.",
+    "start": 623.68,
+    "duration": 4.8
+  },
+  {
+    "text": "For example, the metaphor of gravity\ntheory, carried over from Newton's",
+    "start": 628.48,
+    "duration": 4.16
+  },
+  {
+    "text": "alleged experience of a falling apple, becomes \ninapt when used to explain galactic motions.",
+    "start": 632.64,
+    "duration": 6.96
+  },
+  {
+    "text": "On the other hand, the metaphor of plasma\ninstabilities may be apt for explaining",
+    "start": 639.6,
+    "duration": 5.44
+  },
+  {
+    "text": "hitherto unexplainable commonalities\nbetween petroglyphs and myths.",
+    "start": 645.04,
+    "duration": 5.03
+  },
+  {
+    "text": "Awareness of plasma behavior not only\nreconfigures what we think we know about",
+    "start": 650.07,
+    "duration": 4.73
+  },
+  {
+    "text": "today's events, but also illuminates a\nprehistory that has been shrouded by the",
+    "start": 654.8,
+    "duration": 5.12
+  },
+  {
+    "text": "inertia of our prior beliefs and blind spots. This \nturns the uniformitarian metaphysics on its head:",
+    "start": 659.92,
+    "duration": 7.28
+  },
+  {
+    "text": "the past may be the key to the present.\nAncient glyphs and myths may be a key to",
+    "start": 667.2,
+    "duration": 6.31
+  },
+  {
+    "text": "unlocking a presentist prejudice.\nA criterion of aptness for science,",
+    "start": 673.51,
+    "duration": 5.69
+  },
+  {
+    "text": "instead of truth, recognizes its provisionality and\ncounteracts the tendency to believe in theories as if",
+    "start": 679.2,
+    "duration": 7.12
+  },
+  {
+    "text": "they were religious dogmas. My interest here is not so\nmuch in what those events, memorialized in petroglyphs",
+    "start": 686.32,
+    "duration": 7.28
+  },
+  {
+    "text": "and myths, might have been or on how they\nmight be explained, but in how we think about",
+    "start": 693.6,
+    "duration": 4.88
+  },
+  {
+    "text": "them. We perceive orderly patterns\nthat suggest the possibility of",
+    "start": 698.48,
+    "duration": 4.96
+  },
+  {
+    "text": "intelligibility, of composing a coherent\nnarrative that will make sense of them.",
+    "start": 703.44,
+    "duration": 6.07
+  },
+  {
+    "text": "How could those patterns of evidence \nbe interpreted so as to fit in with, or",
+    "start": 709.51,
+    "duration": 4.65
+  },
+  {
+    "text": "modify, as many of other observations \nas possible? How many of the other",
+    "start": 714.16,
+    "duration": 4.96
+  },
+  {
+    "text": "observations could be, or should be, re-selected\nand reinterpreted with different metaphysical keys?",
+    "start": 719.12,
+    "duration": 7.27
+  },
+  {
+    "text": "Could the new interpretations enable us\nto do things; to invent new processes and",
+    "start": 726.39,
+    "duration": 5.12
+  },
+  {
+    "text": "to build new gadgets; and to create \nnew values that would improve our lives?",
+    "start": 731.51,
+    "duration": 6.25
+  },
+  {
+    "text": "The next and final episode will bring\nthis entire story arc to bear on our",
+    "start": 737.76,
+    "duration": 4.63
+  },
+  {
+    "text": "daily lives today. We should never think\nthat we've arrived at a final thought. We",
+    "start": 742.39,
+    "duration": 5.37
+  },
+  {
+    "text": "should never stop asking, ‘what else could it\nbe?’ We should never take ourselves and our",
+    "start": 747.76,
+    "duration": 5.19
+  },
+  {
+    "text": "thinking too seriously. We should \nnever stop playing with thinking.",
+    "start": 752.95,
+    "duration": 6.74
+  },
+  {
+    "text": "[Music]",
+    "start": 759.69,
+    "duration": 34.79
+  }
+]

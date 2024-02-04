@@ -1,0 +1,962 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe,",
+    "start": 6.88,
+    "duration": 2.93
+  },
+  {
+    "text": "brought to you by The\nThunderbolts Project™",
+    "start": 9.83,
+    "duration": 2.34
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 12.2,
+    "duration": 2.4
+  },
+  {
+    "text": "Of all our planetary neighbors,\nperhaps none have proved more",
+    "start": 18.679,
+    "duration": 4.691
+  },
+  {
+    "text": "surprising to space\nscientists than Venus.",
+    "start": 23.37,
+    "duration": 2.169
+  },
+  {
+    "text": "As late as the mid-20th\ncentury, some renowned",
+    "start": 25.55,
+    "duration": 3.95
+  },
+  {
+    "text": "astronomers including Fred Whipple, the\nfather of the dirty snowball model of",
+    "start": 29.539,
+    "duration": 3.881
+  },
+  {
+    "text": "comets, continued to argue that Venus, the\nso-called twin of planet Earth, might",
+    "start": 33.42,
+    "duration": 4.86
+  },
+  {
+    "text": "have water clouds.",
+    "start": 38.28,
+    "duration": 1.279
+  },
+  {
+    "text": "Instead, when the first space\nprobes touched down on Venus,",
+    "start": 39.58,
+    "duration": 3.88
+  },
+  {
+    "text": "they found it to be the\nhottest planet in the",
+    "start": 43.46,
+    "duration": 2.1
+  },
+  {
+    "text": "solar system and drier\nthan any desert on Earth.",
+    "start": 45.56,
+    "duration": 2.97
+  },
+  {
+    "text": "For many decades, Venus has\nonly grown more puzzling.",
+    "start": 48.56,
+    "duration": 4.019
+  },
+  {
+    "text": "From its absence of\nso-called impact craters, to its",
+    "start": 52.58,
+    "duration": 3.49
+  },
+  {
+    "text": "retrograde rotation, to the super-\nrotation of its atmosphere, to the",
+    "start": 56.07,
+    "duration": 5.669
+  },
+  {
+    "text": "planet's vast comet-like\ntail which has been found",
+    "start": 61.739,
+    "duration": 2.798
+  },
+  {
+    "text": "to interact with the solar\nwind \"like a comet.\"",
+    "start": 64.562,
+    "duration": 3.737
+  },
+  {
+    "text": "In fact, only one scholar\nsuccessfully predicted Venus's",
+    "start": 68.299,
+    "duration": 4.331
+  },
+  {
+    "text": "superhot temperature and\ncomet-like characteristics.",
+    "start": 72.63,
+    "duration": 3.78
+  },
+  {
+    "text": "In his best-selling book\nWorlds in Collision,",
+    "start": 76.47,
+    "duration": 2.219
+  },
+  {
+    "text": "Dr. Immanuel Velikovsky presented his\nthesis that Venus was globally",
+    "start": 78.689,
+    "duration": 4.261
+  },
+  {
+    "text": "remembered as an Earth-threatening comet\nand will thus be extraordinarily hot due",
+    "start": 82.95,
+    "duration": 4.739
+  },
+  {
+    "text": "to its recent birth.",
+    "start": 87.689,
+    "duration": 1.861
+  },
+  {
+    "text": "In subsequent decades, a number\nof scholars, originally",
+    "start": 89.55,
+    "duration": 3.22
+  },
+  {
+    "text": "inspired by Velikovsky, began the process\nof reconstructing the catastrophic",
+    "start": 92.85,
+    "duration": 4.409
+  },
+  {
+    "text": "events Velikovsky suggested, applying a rigorous\ncross-cultural comparison of world mythology.",
+    "start": 97.259,
+    "duration": 6.16
+  },
+  {
+    "text": "The evidence overwhelmingly\ndemonstrates that Venus's",
+    "start": 103.419,
+    "duration": 2.961
+  },
+  {
+    "text": "extraordinary role in ancient astronomy,\nmyth and religion, cannot be explained in",
+    "start": 106.38,
+    "duration": 5.4
+  },
+  {
+    "text": "terms of anything observed today.",
+    "start": 111.78,
+    "duration": 2.739
+  },
+  {
+    "text": "One of the leading comparative mythologist to\nexplore this question is Ev Cochrane, a",
+    "start": 114.52,
+    "duration": 4.04
+  },
+  {
+    "text": "colleague for several decades of David\nTalbott and the late Dwardu Cardona.",
+    "start": 118.56,
+    "duration": 4.349
+  },
+  {
+    "text": "As Cochrane exhaustively outlined in his\nbooks Martian Metamorphoses and The Many",
+    "start": 122.909,
+    "duration": 5.19
+  },
+  {
+    "text": "Faces Of Venus, the\nrelationship between Mars and",
+    "start": 128.099,
+    "duration": 2.91
+  },
+  {
+    "text": "Venus is just one extraordinary clue to the\ncelestial catastrophes recorded in ancient testimony.",
+    "start": 131.009,
+    "duration": 6.531
+  },
+  {
+    "text": "In part 1 of this two-part\npresentation, Cochrane begins by",
+    "start": 137.54,
+    "duration": 3.91
+  },
+  {
+    "text": "explaining the genesis of his own\nresearch including his and his",
+    "start": 141.45,
+    "duration": 3.72
+  },
+  {
+    "text": "colleagues' conclusion that certain aspects\nof Velikovsky's thesis were incorrect.",
+    "start": 145.17,
+    "duration": 5.28
+  },
+  {
+    "text": "My initial interest in\nVelikovsky's work centered around his",
+    "start": 150.45,
+    "duration": 4.83
+  },
+  {
+    "text": "claim that certain archetypal\nmythological themes, such as the dragon",
+    "start": 155.28,
+    "duration": 5.22
+  },
+  {
+    "text": "combat, trace the celestial\ndeterminants in astronomical events.",
+    "start": 160.5,
+    "duration": 5.09
+  },
+  {
+    "text": "So for example, the universal\nmotif of the dragon, he",
+    "start": 165.59,
+    "duration": 4.03
+  },
+  {
+    "text": "identified as a memory\nof the Venus Comet.",
+    "start": 169.68,
+    "duration": 3.729
+  },
+  {
+    "text": "And so, my earliest articles in\nthis area sought to investigate this",
+    "start": 173.42,
+    "duration": 6.31
+  },
+  {
+    "text": "particular claim, and so I focused on\ndragon imagery and the mythology",
+    "start": 179.73,
+    "duration": 5.009
+  },
+  {
+    "text": "attached to Inanna and\nIshtar in ancient Mesopotamia.",
+    "start": 184.739,
+    "duration": 2.761
+  },
+  {
+    "text": "I was at Iowa State pursuing\nmy master's program and then",
+    "start": 187.51,
+    "duration": 4.16
+  },
+  {
+    "text": "I learned of Dave's research in 1981\nand so I reached out to him and visited",
+    "start": 191.67,
+    "duration": 8.039
+  },
+  {
+    "text": "him in Portland and slowly but surely we\nagreed to collaborate on a series of",
+    "start": 199.709,
+    "duration": 6.42
+  },
+  {
+    "text": "articles for Kronos\non the Venus comet.",
+    "start": 206.129,
+    "duration": 3.39
+  },
+  {
+    "text": "Dave and I knew from almost day\none that the Venus and Mars cataclysms",
+    "start": 209.519,
+    "duration": 5.461
+  },
+  {
+    "text": "were prehistoric in nature and thus\npredate by thousands of years the",
+    "start": 214.98,
+    "duration": 4.74
+  },
+  {
+    "text": "historical reconstruction advanced in\nWorlds In Collision.",
+    "start": 219.72,
+    "duration": 3.8
+  },
+  {
+    "text": "So that was a major flaw,\nto put it mildly, and so a",
+    "start": 223.52,
+    "duration": 5.35
+  },
+  {
+    "text": "fundamental flaw at Velikovsky's entire\nmethodology was the fact that he tended",
+    "start": 228.87,
+    "duration": 4.769
+  },
+  {
+    "text": "to focus on Hebrew and Greek lore, and as\na result he often overlooked the precise",
+    "start": 233.639,
+    "duration": 5.371
+  },
+  {
+    "text": "parallels to be found in the much more\nancient Egyptian and Sumerian traditions.",
+    "start": 239.01,
+    "duration": 5.089
+  },
+  {
+    "text": "Yet, it stands to reason that the oldest\ntraditions, the ones, you know, closest in",
+    "start": 244.099,
+    "duration": 5.86
+  },
+  {
+    "text": "time to the actual catastrophic events in\nquestion, should preserve the most",
+    "start": 249.959,
+    "duration": 4.411
+  },
+  {
+    "text": "complete record of the events, and so by\ngenerally overlooking these ancient",
+    "start": 254.37,
+    "duration": 6.45
+  },
+  {
+    "text": "traditions, Velikovsky's entire\nenterprise was compromised.",
+    "start": 260.82,
+    "duration": 4.75
+  },
+  {
+    "text": "At the same time, Velikovsky was\nan amateur mythologist at best and",
+    "start": 265.57,
+    "duration": 4.969
+  },
+  {
+    "text": "just did not give serious enough\nconsideration to methodology or to",
+    "start": 270.539,
+    "duration": 4.53
+  },
+  {
+    "text": "comparative mythology and\ncomparative linguistics.",
+    "start": 275.069,
+    "duration": 3.41
+  },
+  {
+    "text": "He identified Aphrodite with\nthe Moon, for example.",
+    "start": 278.51,
+    "duration": 3.009
+  },
+  {
+    "text": "Had he given the matter much\nconsideration at all from a",
+    "start": 281.519,
+    "duration": 3.881
+  },
+  {
+    "text": "comparative standpoint, he would\nhave understood that",
+    "start": 285.409,
+    "duration": 2.861
+  },
+  {
+    "text": "Aphrodite had to be identified with\nInanna and Ishtar, and thus had to be the",
+    "start": 288.27,
+    "duration": 5.429
+  },
+  {
+    "text": "planet Venus, not the Moon.",
+    "start": 293.699,
+    "duration": 2.79
+  },
+  {
+    "text": "Likewise, his attempt to\nidentify certain mythological",
+    "start": 296.5,
+    "duration": 3.259
+  },
+  {
+    "text": "characters such as Oedipus and Noah with\nhistorical figures, is just simply",
+    "start": 299.789,
+    "duration": 4.41
+  },
+  {
+    "text": "misguided.",
+    "start": 304.199,
+    "duration": 1.29
+  },
+  {
+    "text": "As late as 1951, most astronomers\nbelieved that Venus was Earth-like in",
+    "start": 306.68,
+    "duration": 6.6
+  },
+  {
+    "text": "nature and likely home to lush\nvegetation and various forms of life.",
+    "start": 313.28,
+    "duration": 5.14
+  },
+  {
+    "text": "But, as I pointed out in the Many Faces Of\nVenus, it's a historical fact that",
+    "start": 318.42,
+    "duration": 3.92
+  },
+  {
+    "text": "conventional astronomers have gotten\nvirtually everything wrong about Venus,",
+    "start": 322.34,
+    "duration": 3.96
+  },
+  {
+    "text": "so why should we believe them now when\nthey tell us Venus has been moving on",
+    "start": 326.3,
+    "duration": 4.29
+  },
+  {
+    "text": "the same orbit for billions\nand billions of years?",
+    "start": 330.59,
+    "duration": 2.97
+  },
+  {
+    "text": "At the same time, it's important\nto distinguish between ancient",
+    "start": 333.6,
+    "duration": 4.48
+  },
+  {
+    "text": "terminology and modern\nscientific definitions.",
+    "start": 338.08,
+    "duration": 3.36
+  },
+  {
+    "text": "So, in describing the planet\nVenus as a prototypical comet, the",
+    "start": 341.49,
+    "duration": 5.359
+  },
+  {
+    "text": "ancient sky watchers were not employing\nscientific language and somehow implying",
+    "start": 346.849,
+    "duration": 6.451
+  },
+  {
+    "text": "that Venus moved on\na wildly erratic or",
+    "start": 353.3,
+    "duration": 2.82
+  },
+  {
+    "text": "elongated orbit --\ncharacteristic of modern comets.",
+    "start": 356.12,
+    "duration": 4.479
+  },
+  {
+    "text": "Rather, in describing Venus as a\ndragon star or long-haired star or comet-",
+    "start": 360.64,
+    "duration": 4.869
+  },
+  {
+    "text": "like, the ancients simply meant that\nVenus took on the appearance of a",
+    "start": 365.509,
+    "duration": 4.321
+  },
+  {
+    "text": "dragon-like object or presented\nwildly disheveled hair.",
+    "start": 369.83,
+    "duration": 4.57
+  },
+  {
+    "text": "In each case, it's possible\nto reconstruct the history of",
+    "start": 374.41,
+    "duration": 4.479
+  },
+  {
+    "text": "the symbol in great question during\nits historical evolution.",
+    "start": 378.889,
+    "duration": 4.711
+  },
+  {
+    "text": "The serpent, for example, after\na period of disorganized",
+    "start": 383.6,
+    "duration": 4.589
+  },
+  {
+    "text": "activity, ultimately came to\nencircle the planet Mars.",
+    "start": 388.19,
+    "duration": 3.57
+  },
+  {
+    "text": "Similarly, in the phase marked by\ncosmic disorder, Venus's comet-",
+    "start": 391.76,
+    "duration": 6.38
+  },
+  {
+    "text": "like hair was wildly disheveled and\nspread out, but during the later phase",
+    "start": 398.21,
+    "duration": 5.37
+  },
+  {
+    "text": "marked by the encircling of Mars and the\ncrowning of the warrior hero,",
+    "start": 403.58,
+    "duration": 4.89
+  },
+  {
+    "text": "Venus's hair is tied up or bound or\notherwise brought under control.",
+    "start": 408.47,
+    "duration": 5.81
+  },
+  {
+    "text": "And during this latter phase Venus's\nhair is typically described as green or",
+    "start": 414.28,
+    "duration": 5.05
+  },
+  {
+    "text": "turquoise blue in color, a clear pointer to\nthe remarkable nature of the events in question.",
+    "start": 419.33,
+    "duration": 6.249
+  },
+  {
+    "text": "As noted, Venus's extraordinary\nrole in ancient myth,",
+    "start": 425.579,
+    "duration": 4.551
+  },
+  {
+    "text": "religion, and the earliest astronomies, has never\nbeen satisfactorily explained by astronomers.",
+    "start": 430.13,
+    "duration": 6.4
+  },
+  {
+    "text": "We asked Ev for his thoughts\non occasional attempts by",
+    "start": 436.53,
+    "duration": 2.81
+  },
+  {
+    "text": "mainstream scientists and\nacademics to explain the anomaly.",
+    "start": 439.34,
+    "duration": 4.24
+  },
+  {
+    "text": "In numerous recent books on Venus and/or\nancient mythology, astronomers or",
+    "start": 443.58,
+    "duration": 7.54
+  },
+  {
+    "text": "scholars are always trying to dream up\nsome explanation for why Venus is",
+    "start": 451.12,
+    "duration": 4.93
+  },
+  {
+    "text": "associated with this\nor that characteristic.",
+    "start": 456.05,
+    "duration": 3.41
+  },
+  {
+    "text": "So for example, Patrick\nMoore, the astronomer, was trying to",
+    "start": 459.6,
+    "duration": 3.26
+  },
+  {
+    "text": "explain why Venus was\nalways regarded as a female.",
+    "start": 462.86,
+    "duration": 3.87
+  },
+  {
+    "text": "So he said, \"A female association\nis in fact general; this is natural",
+    "start": 466.83,
+    "duration": 5.72
+  },
+  {
+    "text": "enough, since to the unaided eye Venus is\nthe loveliest of planets.\"",
+    "start": 472.55,
+    "duration": 4.13
+  },
+  {
+    "text": "I mean, talk about a ludicrous\nidea, I mean, why would",
+    "start": 476.68,
+    "duration": 5.35
+  },
+  {
+    "text": "being just lovely have anything to do\nwith being female, why would it be found",
+    "start": 482.03,
+    "duration": 3.99
+  },
+  {
+    "text": "in cultures all around the world, they'd\nall arrive at the same exact idea.",
+    "start": 486.02,
+    "duration": 4.25
+  },
+  {
+    "text": "Similarly, the astronomer David Grinspoon\nand Ed Krupp, they both pointed to",
+    "start": 490.27,
+    "duration": 6.82
+  },
+  {
+    "text": "Venus's phase of a morning star being\nroughly two hundred sixty three days, and",
+    "start": 497.09,
+    "duration": 5.25
+  },
+  {
+    "text": "they claimed that because that is a\nclose approximation to the gestation",
+    "start": 502.34,
+    "duration": 6.54
+  },
+  {
+    "text": "period for a human female, that that\nexplained why the planet was associated",
+    "start": 508.88,
+    "duration": 4.92
+  },
+  {
+    "text": "with fertility or love.",
+    "start": 513.8,
+    "duration": 1.71
+  },
+  {
+    "text": "As if these indigenous tribes\nin South America were",
+    "start": 515.52,
+    "duration": 4.69
+  },
+  {
+    "text": "carefully marking out the two hundred\nsixty three days of Venus's orbits, you know.",
+    "start": 520.21,
+    "duration": 4.27
+  },
+  {
+    "text": "So again, it's just laughable that\nthese guys come up with these ideas.",
+    "start": 524.48,
+    "duration": 5.03
+  },
+  {
+    "text": "One of my favorites is from the top scholar\nin Inanna religion from ancient",
+    "start": 529.51,
+    "duration": 5.86
+  },
+  {
+    "text": "Mesopotamia, and this gal's conclusion was\nthat \"Inanna's function as a bestower of",
+    "start": 535.37,
+    "duration": 6.9
+  },
+  {
+    "text": "kingship and the protectress of the\ncity-state of Uruk may have given rise",
+    "start": 542.27,
+    "duration": 4.92
+  },
+  {
+    "text": "to her warlike character, since kingship\nfollowed the fortune of arms.\"",
+    "start": 547.19,
+    "duration": 4.29
+  },
+  {
+    "text": "And yet, one page later she\ngives a different explanation.",
+    "start": 551.48,
+    "duration": 3.99
+  },
+  {
+    "text": "She says, \"Goddesses of war and victory\npredominate like Inanna and Ishtar.\"",
+    "start": 555.48,
+    "duration": 5.1
+  },
+  {
+    "text": "And she says, \"This may stem from a\nbattle metaphor in which women in",
+    "start": 560.58,
+    "duration": 4.55
+  },
+  {
+    "text": "childbirth, men in battle were seen as struggling\nwith elemental forces of life and death.\"",
+    "start": 565.13,
+    "duration": 5.35
+  },
+  {
+    "text": "Again, a very distinguished\nscholar, it",
+    "start": 570.48,
+    "duration": 3.35
+  },
+  {
+    "text": "never occurs to her to check and see how\nVenus was represented in ancient Mexico",
+    "start": 573.83,
+    "duration": 5.34
+  },
+  {
+    "text": "or ancient China, or these other cultures\nin which case she'd find that they've",
+    "start": 579.17,
+    "duration": 5.52
+  },
+  {
+    "text": "represented her as a\nwarrior there as well.",
+    "start": 584.69,
+    "duration": 2.3
+  },
+  {
+    "text": "And as a raging goddess, that type of\nstuff that was comet-like in nature,",
+    "start": 586.99,
+    "duration": 4.48
+  },
+  {
+    "text": "her idea just falls to the ground almost\nimmediately, as just laughably inaccurate",
+    "start": 591.47,
+    "duration": 6.39
+  },
+  {
+    "text": "to the puzzle in question. As I tried\nto demonstrate in various books,",
+    "start": 597.86,
+    "duration": 5.37
+  },
+  {
+    "text": "Venus's traditional femininity and\ncatastrophic histories are recorded around",
+    "start": 603.23,
+    "duration": 4.95
+  },
+  {
+    "text": "the globe, so just a list of the\ngoddesses; you have Inanna and Ishtar in",
+    "start": 608.18,
+    "duration": 5.6
+  },
+  {
+    "text": "Mesopotamia, you have\nthe Persian Anahita,",
+    "start": 613.78,
+    "duration": 3.01
+  },
+  {
+    "text": "the Greek Aphrodite,\nArabic Al-Uzza...",
+    "start": 616.79,
+    "duration": 4.64
+  },
+  {
+    "text": "I chronicled dozens and dozens of\ngoddesses in South America that are",
+    "start": 621.46,
+    "duration": 5.61
+  },
+  {
+    "text": "typically lumped together\nunder Star Woman category",
+    "start": 627.07,
+    "duration": 3.996
+  },
+  {
+    "text": "that share the exact\nsame characteristics.",
+    "start": 631.091,
+    "duration": 3.279
+  },
+  {
+    "text": "So for example, Star Woman\nis virtually indistinguishable",
+    "start": 634.37,
+    "duration": 3.24
+  },
+  {
+    "text": "from Greek Aphrodite.",
+    "start": 637.61,
+    "duration": 1.83
+  },
+  {
+    "text": "In other cases however, the\noriginal identification with",
+    "start": 639.52,
+    "duration": 3.52
+  },
+  {
+    "text": "Venus was not preserved, so for example,\none of the most prominent symbols in",
+    "start": 643.04,
+    "duration": 5.91
+  },
+  {
+    "text": "Egyptian literature is the Eye of Horus,\nand it's clearly a celestial agent, it's",
+    "start": 648.95,
+    "duration": 4.11
+  },
+  {
+    "text": "clearly a catastrophic agent, but it\nis nowhere explicitly identified with",
+    "start": 653.06,
+    "duration": 5.55
+  },
+  {
+    "text": "the planet Venus and yet, the mythology\nof the Egyptian Eye of Horus is",
+    "start": 658.61,
+    "duration": 5.01
+  },
+  {
+    "text": "identical to that of Inanna and Ishtar.",
+    "start": 663.62,
+    "duration": 3.02
+  },
+  {
+    "text": "Dave and I have written numerous\narticles on that subject, documenting",
+    "start": 666.64,
+    "duration": 4.54
+  },
+  {
+    "text": "that beyond any shadow of a doubt.",
+    "start": 671.18,
+    "duration": 2.31
+  },
+  {
+    "text": "So too, the Indian goddess Kali and the\nCanaanite goddess Anat are both",
+    "start": 673.54,
+    "duration": 8.34
+  },
+  {
+    "text": "indistinguishable from Inanna and Ishtar\nas warring goddesses, and yet they were",
+    "start": 681.88,
+    "duration": 4.81
+  },
+  {
+    "text": "never identified with the planet Venus\nto the best of my knowledge.",
+    "start": 686.69,
+    "duration": 3.87
+  },
+  {
+    "text": "The history of scholarship, with respect to the\nanalysis of Venus imagery, presupposes",
+    "start": 690.56,
+    "duration": 6.6
+  },
+  {
+    "text": "that the ancient sky watchers were\ndescribing the familiar Venus, peacefully",
+    "start": 697.16,
+    "duration": 5.01
+  },
+  {
+    "text": "moving on an orbit millions of years from the Earth",
+    "start": 702.17,
+    "duration": 0.5
+  },
+  {
+    "text": "and that nothing could have changed in the\nplanet's appearance and behavior in the meantime.",
+    "start": 705.059,
+    "duration": 4.51
+  },
+  {
+    "text": "Yet, such an assumption\nis entirely unfounded.",
+    "start": 709.569,
+    "duration": 3.67
+  },
+  {
+    "text": "Indeed, the mere fact that the\nplanet Venus was described in",
+    "start": 713.359,
+    "duration": 2.92
+  },
+  {
+    "text": "an Inanna-like terms around the globe, should\nbe enough to refute this conventional position.",
+    "start": 716.279,
+    "duration": 5.3
+  },
+  {
+    "text": "How else but upon the basis of\ncommon experience of the Venus comet are",
+    "start": 721.579,
+    "duration": 4.66
+  },
+  {
+    "text": "we to account for the fact that ancient\ndescriptions of the Venus around the",
+    "start": 726.239,
+    "duration": 4.65
+  },
+  {
+    "text": "globe are so similar?",
+    "start": 730.889,
+    "duration": 2.67
+  },
+  {
+    "text": "As noted previously, it's a\nmystery unresolved by mainstream",
+    "start": 733.589,
+    "duration": 3.06
+  },
+  {
+    "text": "science and academia, why the planet Venus\nwould be historically identified as",
+    "start": 736.859,
+    "duration": 4.77
+  },
+  {
+    "text": "\"feminine\" and why the planet Mars would\nbe identified as a \"masculine\" warrior.",
+    "start": 741.629,
+    "duration": 5.37
+  },
+  {
+    "text": "In fact, as Ev explains, a\nremarkable number of cultures described",
+    "start": 746.999,
+    "duration": 4.38
+  },
+  {
+    "text": "a mythical union between\nMars and Venus, which became",
+    "start": 751.379,
+    "duration": 3.244
+  },
+  {
+    "text": "the basis for many sacred\nmarriage traditions.",
+    "start": 754.648,
+    "duration": 2.851
+  },
+  {
+    "text": "The old saying \"men are from Mars and women\nare from Venus\" is not of a recent origin.",
+    "start": 757.499,
+    "duration": 5.98
+  },
+  {
+    "text": "I mean, this idea has been\naround since the dawn of time",
+    "start": 763.479,
+    "duration": 3.41
+  },
+  {
+    "text": "literally, and the identification will\nhold around the globe, even though",
+    "start": 766.889,
+    "duration": 5.01
+  },
+  {
+    "text": "there's nothing in the visual appearance\nor behavior of the planets currently",
+    "start": 771.899,
+    "duration": 3.69
+  },
+  {
+    "text": "that could ever inspire such traditions.",
+    "start": 775.589,
+    "duration": 2.94
+  },
+  {
+    "text": "So, just to take a familiar example: in\nancient Greece the planet Venus is",
+    "start": 778.539,
+    "duration": 5.36
+  },
+  {
+    "text": "inseparably associated with sacred\nmarriages -- the union of the sexes.",
+    "start": 783.899,
+    "duration": 4.36
+  },
+  {
+    "text": "So, Aphrodite is specifically identified as\nthe bride in human marriages, while the",
+    "start": 788.259,
+    "duration": 8.9
+  },
+  {
+    "text": "bridegroom is, specifically in early\nGreek documents, identified with Ares.",
+    "start": 797.159,
+    "duration": 6.86
+  },
+  {
+    "text": "This is exactly the situation in ancient\nMesopotamia, where Inanna is the subject",
+    "start": 804.019,
+    "duration": 6.61
+  },
+  {
+    "text": "of the sacred marriage and identified as\nthe bride or the female participant in",
+    "start": 810.629,
+    "duration": 4.95
+  },
+  {
+    "text": "the sacred marriage and Dumuzi is\nthe prototypical bridegroom.",
+    "start": 815.579,
+    "duration": 4.94
+  },
+  {
+    "text": "Now, we know this mythology traces to celestial\ndeterminants, because the very same",
+    "start": 820.519,
+    "duration": 6.03
+  },
+  {
+    "text": "situation is found in the New World,\nwhere the Skidi Pawnee",
+    "start": 826.549,
+    "duration": 4.12
+  },
+  {
+    "text": "of North America, have a sacred marriage\ninvolving Venus as the female bride",
+    "start": 830.669,
+    "duration": 8.281
+  },
+  {
+    "text": "in a sacred marriage, and the\nplanet Mars as her husband.",
+    "start": 838.95,
+    "duration": 3.49
+  },
+  {
+    "text": "According to the Skidi\naccount of creation, the union of Mars",
+    "start": 842.45,
+    "duration": 5.83
+  },
+  {
+    "text": "and Venus sparks creation, and in each of\nthese three cases: Mesopotamia, Greece,",
+    "start": 848.28,
+    "duration": 5.82
+  },
+  {
+    "text": "and North America, the marriage takes\nplace in a verdant garden and promotes",
+    "start": 854.1,
+    "duration": 5.31
+  },
+  {
+    "text": "fertility throughout the world.",
+    "start": 859.41,
+    "duration": 2.12
+  },
+  {
+    "text": "So these coincidences are just too specific\nand remarkable to be coincidences alone.",
+    "start": 861.57,
+    "duration": 8.99
+  },
+  {
+    "text": "We believe they trace\nto common observations.",
+    "start": 870.56,
+    "duration": 4.98
+  },
+  {
+    "text": "Stay tuned for part 2",
+    "start": 875.56,
+    "duration": 3.38
+  }
+]

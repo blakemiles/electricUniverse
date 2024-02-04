@@ -1,0 +1,997 @@
+[
+  {
+    "text": "welcome to space news from the electric",
+    "start": 0.03,
+    "duration": 3.659
+  },
+  {
+    "text": "universe brought to you by the",
+    "start": 1.65,
+    "duration": 4.8
+  },
+  {
+    "text": "thunderbolts project at Thunderbolts dot",
+    "start": 3.689,
+    "duration": 8.011
+  },
+  {
+    "text": "info human beings around the world today",
+    "start": 6.45,
+    "duration": 7.2
+  },
+  {
+    "text": "are looking at planets in an entirely",
+    "start": 11.7,
+    "duration": 4.919
+  },
+  {
+    "text": "new light the electric universe offers",
+    "start": 13.65,
+    "duration": 5.34
+  },
+  {
+    "text": "new theoretical possibilities for planet",
+    "start": 16.619,
+    "duration": 4.401
+  },
+  {
+    "text": "formation and planetary science",
+    "start": 18.99,
+    "duration": 4.35
+  },
+  {
+    "text": "experimental research with electrical",
+    "start": 21.02,
+    "duration": 4.48
+  },
+  {
+    "text": "discharges and electric fields has",
+    "start": 23.34,
+    "duration": 4.47
+  },
+  {
+    "text": "created new horizons for understanding",
+    "start": 25.5,
+    "duration": 4.59
+  },
+  {
+    "text": "the visible features of planets our",
+    "start": 27.81,
+    "duration": 3.99
+  },
+  {
+    "text": "neighbor Mars is the source of many",
+    "start": 30.09,
+    "duration": 3.809
+  },
+  {
+    "text": "ongoing mysteries for planetary",
+    "start": 31.8,
+    "duration": 4.56
+  },
+  {
+    "text": "scientists as Professor and Mars",
+    "start": 33.899,
+    "duration": 4.651
+  },
+  {
+    "text": "investigator Phil Christiansen recently",
+    "start": 36.36,
+    "duration": 4.379
+  },
+  {
+    "text": "stated there's a lot of knowledge and",
+    "start": 38.55,
+    "duration": 4.98
+  },
+  {
+    "text": "not so much understanding the most",
+    "start": 40.739,
+    "duration": 5.101
+  },
+  {
+    "text": "stupendous feature on Mars is Valles",
+    "start": 43.53,
+    "duration": 4.77
+  },
+  {
+    "text": "Marineris the great trench stretching",
+    "start": 45.84,
+    "duration": 4.469
+  },
+  {
+    "text": "more than three thousand miles across",
+    "start": 48.3,
+    "duration": 5.31
+  },
+  {
+    "text": "the Martian surface in the 1970s the",
+    "start": 50.309,
+    "duration": 5.551
+  },
+  {
+    "text": "engineer Ralph juergen's first proposed",
+    "start": 53.61,
+    "duration": 4.769
+  },
+  {
+    "text": "that Valles Marineris is the scar left",
+    "start": 55.86,
+    "duration": 5.16
+  },
+  {
+    "text": "by a giant interplanetary lightning bolt",
+    "start": 58.379,
+    "duration": 5.701
+  },
+  {
+    "text": "if these events did occur can they be",
+    "start": 61.02,
+    "duration": 5.01
+  },
+  {
+    "text": "replicated in experiments on earth",
+    "start": 64.08,
+    "duration": 3.93
+  },
+  {
+    "text": "within the electric universe community",
+    "start": 66.03,
+    "duration": 4.769
+  },
+  {
+    "text": "this challenge is now being met by those",
+    "start": 68.01,
+    "duration": 4.67
+  },
+  {
+    "text": "exploring the theory of planetary",
+    "start": 70.799,
+    "duration": 5.311
+  },
+  {
+    "text": "electrical scarring recently geologic",
+    "start": 72.68,
+    "duration": 5.29
+  },
+  {
+    "text": "researcher Michael Steinbach ur an",
+    "start": 76.11,
+    "duration": 3.84
+  },
+  {
+    "text": "experimentalist Billy Albertson have",
+    "start": 77.97,
+    "duration": 4.05
+  },
+  {
+    "text": "collaborated to replicate the complex",
+    "start": 79.95,
+    "duration": 3.69
+  },
+  {
+    "text": "conditions that might have been present",
+    "start": 82.02,
+    "duration": 4.04
+  },
+  {
+    "text": "in an epic of planetary instability",
+    "start": 83.64,
+    "duration": 4.95
+  },
+  {
+    "text": "today Michael and Billy provide an",
+    "start": 86.06,
+    "duration": 4.419
+  },
+  {
+    "text": "introduction to their collaboration",
+    "start": 88.59,
+    "duration": 4.44
+  },
+  {
+    "text": "including Billy's recent reproduction of",
+    "start": 90.479,
+    "duration": 5.491
+  },
+  {
+    "text": "Valles Marineris it was some time ago",
+    "start": 93.03,
+    "duration": 4.86
+  },
+  {
+    "text": "that mark Spann gave me a call and told",
+    "start": 95.97,
+    "duration": 3.6
+  },
+  {
+    "text": "me about this friend of his named Billy",
+    "start": 97.89,
+    "duration": 4.65
+  },
+  {
+    "text": "Yelverton and how I had to contact him",
+    "start": 99.57,
+    "duration": 5.159
+  },
+  {
+    "text": "he was doing all these experiments it",
+    "start": 102.54,
+    "duration": 4.74
+  },
+  {
+    "text": "reflected well on what I was proposing",
+    "start": 104.729,
+    "duration": 5.131
+  },
+  {
+    "text": "so I called Billy we hit it off right",
+    "start": 107.28,
+    "duration": 4.53
+  },
+  {
+    "text": "away we just seemed to enjoy each",
+    "start": 109.86,
+    "duration": 4.619
+  },
+  {
+    "text": "other's company and talk and he's been",
+    "start": 111.81,
+    "duration": 4.699
+  },
+  {
+    "text": "doing experiments using electricity",
+    "start": 114.479,
+    "duration": 4.67
+  },
+  {
+    "text": "seventy thousand ninety thousand volts",
+    "start": 116.509,
+    "duration": 5.981
+  },
+  {
+    "text": "moving material and the idea is he can",
+    "start": 119.149,
+    "duration": 5.26
+  },
+  {
+    "text": "kind of replicate what's described in",
+    "start": 122.49,
+    "duration": 4.22
+  },
+  {
+    "text": "worlds in collision what took place",
+    "start": 124.409,
+    "duration": 5.16
+  },
+  {
+    "text": "sometime within the last 10,000 years",
+    "start": 126.71,
+    "duration": 4.66
+  },
+  {
+    "text": "and there's descriptions of all of this",
+    "start": 129.569,
+    "duration": 2.551
+  },
+  {
+    "text": "dust",
+    "start": 131.37,
+    "duration": 4.38
+  },
+  {
+    "text": "and how it's being blown around by",
+    "start": 132.12,
+    "duration": 6.539
+  },
+  {
+    "text": "incredible winds and making formations",
+    "start": 135.75,
+    "duration": 6.42
+  },
+  {
+    "text": "so Billy started originally removing",
+    "start": 138.659,
+    "duration": 5.22
+  },
+  {
+    "text": "material from the bottom of his chamber",
+    "start": 142.17,
+    "duration": 4.62
+  },
+  {
+    "text": "and it would reorganize it and it was",
+    "start": 143.879,
+    "duration": 4.651
+  },
+  {
+    "text": "really interesting it made what looked",
+    "start": 146.79,
+    "duration": 3.75
+  },
+  {
+    "text": "like circular mountain formations in",
+    "start": 148.53,
+    "duration": 3.599
+  },
+  {
+    "text": "many instances and I kept bugging him",
+    "start": 150.54,
+    "duration": 3.9
+  },
+  {
+    "text": "Billy can you please drop the dirt from",
+    "start": 152.129,
+    "duration": 4.161
+  },
+  {
+    "text": "above instead of lifting it from below",
+    "start": 154.44,
+    "duration": 4.5
+  },
+  {
+    "text": "so it might be more similar to what's",
+    "start": 156.29,
+    "duration": 6.64
+  },
+  {
+    "text": "what was happening he graciously figured",
+    "start": 158.94,
+    "duration": 6.689
+  },
+  {
+    "text": "out how to do this he got a box of dust",
+    "start": 162.93,
+    "duration": 5.52
+  },
+  {
+    "text": "and a screen fine screen and heat a",
+    "start": 165.629,
+    "duration": 5.911
+  },
+  {
+    "text": "vibrator and he vibrates the box and the",
+    "start": 168.45,
+    "duration": 4.5
+  },
+  {
+    "text": "dust falls from above in a very",
+    "start": 171.54,
+    "duration": 3.509
+  },
+  {
+    "text": "controlled manner while he has an",
+    "start": 172.95,
+    "duration": 4.349
+  },
+  {
+    "text": "electromagnetic event taking place both",
+    "start": 175.049,
+    "duration": 4.951
+  },
+  {
+    "text": "blow and the first one he did happened",
+    "start": 177.299,
+    "duration": 4.53
+  },
+  {
+    "text": "to be the day that Ben Davidson was",
+    "start": 180.0,
+    "duration": 4.62
+  },
+  {
+    "text": "visiting the suspicious observers Ben",
+    "start": 181.829,
+    "duration": 7.231
+  },
+  {
+    "text": "Davidson and lo and behold they start",
+    "start": 184.62,
+    "duration": 7.17
+  },
+  {
+    "text": "talking about how this reminds them of a",
+    "start": 189.06,
+    "duration": 5.88
+  },
+  {
+    "text": "barred spiral galaxy and it starts to",
+    "start": 191.79,
+    "duration": 5.58
+  },
+  {
+    "text": "have features that are fairly similar to",
+    "start": 194.94,
+    "duration": 6.449
+  },
+  {
+    "text": "Valles Marineris and it's creating one",
+    "start": 197.37,
+    "duration": 6.149
+  },
+  {
+    "text": "side larger than the other I think the a",
+    "start": 201.389,
+    "duration": 5.82
+  },
+  {
+    "text": "notice is concentrating the dust faster",
+    "start": 203.519,
+    "duration": 5.011
+  },
+  {
+    "text": "than the cathode it might be the reverse",
+    "start": 207.209,
+    "duration": 4.62
+  },
+  {
+    "text": "Billy knows and there's an area in",
+    "start": 208.53,
+    "duration": 5.099
+  },
+  {
+    "text": "between it's kind of resembles the",
+    "start": 211.829,
+    "duration": 3.931
+  },
+  {
+    "text": "canyon but it's not being excavated it's",
+    "start": 213.629,
+    "duration": 4.5
+  },
+  {
+    "text": "being prevented while this event is",
+    "start": 215.76,
+    "duration": 6.75
+  },
+  {
+    "text": "happening surrounding it and later if he",
+    "start": 218.129,
+    "duration": 6.33
+  },
+  {
+    "text": "did one with a water element that",
+    "start": 222.51,
+    "duration": 4.55
+  },
+  {
+    "text": "prevented accumulation while you have",
+    "start": 224.459,
+    "duration": 6.03
+  },
+  {
+    "text": "formations growing around it and I sent",
+    "start": 227.06,
+    "duration": 4.75
+  },
+  {
+    "text": "it to a friend of mine at Princeton",
+    "start": 230.489,
+    "duration": 2.881
+  },
+  {
+    "text": "actually the gentleman who introduced me",
+    "start": 231.81,
+    "duration": 5.13
+  },
+  {
+    "text": "to Velikovsky in 1970 and he saw this",
+    "start": 233.37,
+    "duration": 5.61
+  },
+  {
+    "text": "and he goes this guy Billy Alpert it's",
+    "start": 236.94,
+    "duration": 4.53
+  },
+  {
+    "text": "incredible you have to find him and meet",
+    "start": 238.98,
+    "duration": 5.849
+  },
+  {
+    "text": "him and I said he's my friend he's my",
+    "start": 241.47,
+    "duration": 6.21
+  },
+  {
+    "text": "buddy and he couldn't believe that of",
+    "start": 244.829,
+    "duration": 5.55
+  },
+  {
+    "text": "like 7 billion people on the planet I",
+    "start": 247.68,
+    "duration": 5.519
+  },
+  {
+    "text": "happened to somehow hook up with this",
+    "start": 250.379,
+    "duration": 6.211
+  },
+  {
+    "text": "savant who's able to do things on a",
+    "start": 253.199,
+    "duration": 5.421
+  },
+  {
+    "text": "shoestring in his backyard",
+    "start": 256.59,
+    "duration": 4.59
+  },
+  {
+    "text": "baking things that seemed to be",
+    "start": 258.62,
+    "duration": 4.43
+  },
+  {
+    "text": "replicating catastrophes",
+    "start": 261.18,
+    "duration": 4.449
+  },
+  {
+    "text": "and really recently and he's continuing",
+    "start": 263.05,
+    "duration": 6.48
+  },
+  {
+    "text": "to evolve and change and shift I make",
+    "start": 265.629,
+    "duration": 7.29
+  },
+  {
+    "text": "recommendations and he does him and it's",
+    "start": 269.53,
+    "duration": 5.22
+  },
+  {
+    "text": "just like a dream come true I can't",
+    "start": 272.919,
+    "duration": 3.12
+  },
+  {
+    "text": "believe how lucky I am",
+    "start": 274.75,
+    "duration": 4.05
+  },
+  {
+    "text": "Billy Albertson has been if I was",
+    "start": 276.039,
+    "duration": 4.141
+  },
+  {
+    "text": "religious a godsend",
+    "start": 278.8,
+    "duration": 5.16
+  },
+  {
+    "text": "he's been beyond my wildest dreams",
+    "start": 280.18,
+    "duration": 7.079
+  },
+  {
+    "text": "and everything seems to be pointing into",
+    "start": 283.96,
+    "duration": 5.85
+  },
+  {
+    "text": "a process of accumulation these",
+    "start": 287.259,
+    "duration": 6.111
+  },
+  {
+    "text": "catastrophes be caused by dusty plasma",
+    "start": 289.81,
+    "duration": 5.49
+  },
+  {
+    "text": "electromagnetically organized and",
+    "start": 293.37,
+    "duration": 4.979
+  },
+  {
+    "text": "concentrated it all started with the",
+    "start": 295.3,
+    "duration": 6.51
+  },
+  {
+    "text": "Thunderbolts without a contest or",
+    "start": 298.349,
+    "duration": 7.391
+  },
+  {
+    "text": "dendritic Ridge formations and up until",
+    "start": 301.81,
+    "duration": 6.12
+  },
+  {
+    "text": "that time had done quite a bit with",
+    "start": 305.74,
+    "duration": 4.109
+  },
+  {
+    "text": "electricity but not really into the",
+    "start": 307.93,
+    "duration": 5.459
+  },
+  {
+    "text": "geological realm there and so we started",
+    "start": 309.849,
+    "duration": 5.401
+  },
+  {
+    "text": "out with the lightning bolt and of",
+    "start": 313.389,
+    "duration": 3.99
+  },
+  {
+    "text": "course you know we create a perfect",
+    "start": 315.25,
+    "duration": 5.4
+  },
+  {
+    "text": "crater with a raised rim and you know",
+    "start": 317.379,
+    "duration": 5.04
+  },
+  {
+    "text": "all the features that you see with the",
+    "start": 320.65,
+    "duration": 4.549
+  },
+  {
+    "text": "with a collision we can perform",
+    "start": 322.419,
+    "duration": 5.941
+  },
+  {
+    "text": "identically if not better with a with a",
+    "start": 325.199,
+    "duration": 5.381
+  },
+  {
+    "text": "lightning bolt electric arc mode",
+    "start": 328.36,
+    "duration": 3.109
+  },
+  {
+    "text": "discharge",
+    "start": 330.58,
+    "duration": 4.41
+  },
+  {
+    "text": "however down the road as we continued I",
+    "start": 331.469,
+    "duration": 7.0
+  },
+  {
+    "text": "I noticed that the dielectric properties",
+    "start": 334.99,
+    "duration": 6.47
+  },
+  {
+    "text": "had more to do with it than conductive",
+    "start": 338.469,
+    "duration": 7.621
+  },
+  {
+    "text": "anodes and cathodes so to speak and so",
+    "start": 341.46,
+    "duration": 7.06
+  },
+  {
+    "text": "we tried some acrylic sheets and glass",
+    "start": 346.09,
+    "duration": 6.479
+  },
+  {
+    "text": "sheets laid down on top of a conductive",
+    "start": 348.52,
+    "duration": 7.019
+  },
+  {
+    "text": "iron cathode and we started with anodes",
+    "start": 352.569,
+    "duration": 5.25
+  },
+  {
+    "text": "above that with some material like clay",
+    "start": 355.539,
+    "duration": 5.19
+  },
+  {
+    "text": "we used told the mind and all different",
+    "start": 357.819,
+    "duration": 7.141
+  },
+  {
+    "text": "types of sand and in pottery clay as",
+    "start": 360.729,
+    "duration": 6.09
+  },
+  {
+    "text": "well as you know Georgia clay right out",
+    "start": 364.96,
+    "duration": 4.98
+  },
+  {
+    "text": "of the ground and we found that this",
+    "start": 366.819,
+    "duration": 6.271
+  },
+  {
+    "text": "dark mode discharge turned out to move",
+    "start": 369.94,
+    "duration": 6.839
+  },
+  {
+    "text": "and create more motion than any of the",
+    "start": 373.09,
+    "duration": 6.419
+  },
+  {
+    "text": "conductive type discharges over",
+    "start": 376.779,
+    "duration": 6.271
+  },
+  {
+    "text": "conductive areas and though that turned",
+    "start": 379.509,
+    "duration": 5.25
+  },
+  {
+    "text": "out to be quite astonishing we were in a",
+    "start": 383.05,
+    "duration": 4.919
+  },
+  {
+    "text": "lot of it in AC voltage and DC voltage",
+    "start": 384.759,
+    "duration": 7.201
+  },
+  {
+    "text": "and turns out that with with the with",
+    "start": 387.969,
+    "duration": 7.861
+  },
+  {
+    "text": "the AC voltage you can put one electrode",
+    "start": 391.96,
+    "duration": 4.34
+  },
+  {
+    "text": "whether",
+    "start": 395.83,
+    "duration": 2.57
+  },
+  {
+    "text": "be handled cap you know well the basis",
+    "start": 396.3,
+    "duration": 4.109
+  },
+  {
+    "text": "actually doesn't really matter with a",
+    "start": 398.4,
+    "duration": 4.53
+  },
+  {
+    "text": "single overhead electrode we could get",
+    "start": 400.409,
+    "duration": 4.5
+  },
+  {
+    "text": "incredible amount of motion across a",
+    "start": 402.93,
+    "duration": 5.82
+  },
+  {
+    "text": "sheet of acrylic with the that resembles",
+    "start": 404.909,
+    "duration": 5.97
+  },
+  {
+    "text": "you know what is described with the",
+    "start": 408.75,
+    "duration": 5.729
+  },
+  {
+    "text": "thunderbolts as EDM electric discharge",
+    "start": 410.879,
+    "duration": 7.561
+  },
+  {
+    "text": "machining and after that we went into",
+    "start": 414.479,
+    "duration": 6.03
+  },
+  {
+    "text": "the DC voltage and found that with just",
+    "start": 418.44,
+    "duration": 5.129
+  },
+  {
+    "text": "a single overhead anode or cathode we",
+    "start": 420.509,
+    "duration": 5.431
+  },
+  {
+    "text": "would not get those same type of motions",
+    "start": 423.569,
+    "duration": 4.5
+  },
+  {
+    "text": "so we had to play around there a little",
+    "start": 425.94,
+    "duration": 4.199
+  },
+  {
+    "text": "bit so we figured out that we if we",
+    "start": 428.069,
+    "duration": 5.581
+  },
+  {
+    "text": "placed anode and cathode above a neutral",
+    "start": 430.139,
+    "duration": 6.391
+  },
+  {
+    "text": "base then we got everything back youth",
+    "start": 433.65,
+    "duration": 4.919
+  },
+  {
+    "text": "all these motions start coming back to",
+    "start": 436.53,
+    "duration": 6.68
+  },
+  {
+    "text": "the table of you and yeah was until",
+    "start": 438.569,
+    "duration": 7.171
+  },
+  {
+    "text": "talking with Michael and of course if",
+    "start": 443.21,
+    "duration": 4.299
+  },
+  {
+    "text": "anybody knows Michael he's he's quite a",
+    "start": 445.74,
+    "duration": 3.75
+  },
+  {
+    "text": "persistent fellow there so you know it's",
+    "start": 447.509,
+    "duration": 4.051
+  },
+  {
+    "text": "if you want to get him off your back you",
+    "start": 449.49,
+    "duration": 3.75
+  },
+  {
+    "text": "just well go ahead and try some of these",
+    "start": 451.56,
+    "duration": 4.05
+  },
+  {
+    "text": "things he encouraged me quite a bit",
+    "start": 453.24,
+    "duration": 5.609
+  },
+  {
+    "text": "though and from there it was just very",
+    "start": 455.61,
+    "duration": 7.14
+  },
+  {
+    "text": "much incredible he was wanting to try",
+    "start": 458.849,
+    "duration": 6.63
+  },
+  {
+    "text": "and blow the dust up or maybe lift it up",
+    "start": 462.75,
+    "duration": 4.8
+  },
+  {
+    "text": "with a fan or some sort of you know",
+    "start": 465.479,
+    "duration": 5.641
+  },
+  {
+    "text": "blower to get the the dust up into the",
+    "start": 467.55,
+    "duration": 5.549
+  },
+  {
+    "text": "atmosphere and I thought well why don't",
+    "start": 471.12,
+    "duration": 4.079
+  },
+  {
+    "text": "we you know if he you know read worlds",
+    "start": 473.099,
+    "duration": 5.43
+  },
+  {
+    "text": "in collision if we just you know put it",
+    "start": 475.199,
+    "duration": 5.58
+  },
+  {
+    "text": "above it if we could place a reservoir",
+    "start": 478.529,
+    "duration": 5.61
+  },
+  {
+    "text": "above the discharge you know table and",
+    "start": 480.779,
+    "duration": 5.971
+  },
+  {
+    "text": "shake it out so made a little wooden box",
+    "start": 484.139,
+    "duration": 6.111
+  },
+  {
+    "text": "and put a screen on the bottom of it and",
+    "start": 486.75,
+    "duration": 6.24
+  },
+  {
+    "text": "we attached a little small vibrating",
+    "start": 490.25,
+    "duration": 5.199
+  },
+  {
+    "text": "motor or the speed control to you know",
+    "start": 492.99,
+    "duration": 5.489
+  },
+  {
+    "text": "control the amount of dirt that fell and",
+    "start": 495.449,
+    "duration": 6.15
+  },
+  {
+    "text": "lo and behold this uh this perfect death",
+    "start": 498.479,
+    "duration": 6.421
+  },
+  {
+    "text": "shape bar spiral will show up and it's",
+    "start": 501.599,
+    "duration": 5.641
+  },
+  {
+    "text": "very consistent that happens every",
+    "start": 504.9,
+    "duration": 5.46
+  },
+  {
+    "text": "single time there every time you put it",
+    "start": 507.24,
+    "duration": 5.99
+  },
+  {
+    "text": "down there it's pretty incredible",
+    "start": 510.36,
+    "duration": 5.39
+  },
+  {
+    "text": "for continuous updates on space news",
+    "start": 513.23,
+    "duration": 5.34
+  },
+  {
+    "text": "from the electric universe stay tuned to",
+    "start": 515.75,
+    "duration": 6.68
+  },
+  {
+    "text": "Thunderbolts dot info",
+    "start": 518.57,
+    "duration": 3.86
+  }
+]

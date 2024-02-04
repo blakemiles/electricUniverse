@@ -1,0 +1,862 @@
+[
+  {
+    "text": "standard geology tells us that",
+    "start": 4.319,
+    "duration": 4.921
+  },
+  {
+    "text": "incremental processes over eons of time",
+    "start": 6.24,
+    "duration": 5.479
+  },
+  {
+    "text": "have shaped our planet's surface",
+    "start": 9.24,
+    "duration": 5.88
+  },
+  {
+    "text": "weathering erosion and plate tectonics",
+    "start": 11.719,
+    "duration": 5.241
+  },
+  {
+    "text": "are the primary processes that",
+    "start": 15.12,
+    "duration": 3.96
+  },
+  {
+    "text": "geologists believe have defined our",
+    "start": 16.96,
+    "duration": 5.159
+  },
+  {
+    "text": "planet's visible features as planetary",
+    "start": 19.08,
+    "duration": 5.16
+  },
+  {
+    "text": "scientists have explored our own Moon",
+    "start": 22.119,
+    "duration": 4.24
+  },
+  {
+    "text": "and other heavily cratered bodies they",
+    "start": 24.24,
+    "duration": 4.08
+  },
+  {
+    "text": "have considered collisional impacts in",
+    "start": 26.359,
+    "duration": 4.201
+  },
+  {
+    "text": "volcanism as the possible cause of the",
+    "start": 28.32,
+    "duration": 5.64
+  },
+  {
+    "text": "craters leaving countless anomalies",
+    "start": 30.56,
+    "duration": 6.159
+  },
+  {
+    "text": "unresolved however overwhelming evidence",
+    "start": 33.96,
+    "duration": 4.919
+  },
+  {
+    "text": "suggests that other processes not",
+    "start": 36.719,
+    "duration": 4.52
+  },
+  {
+    "text": "included in geology textbooks have left",
+    "start": 38.879,
+    "duration": 4.761
+  },
+  {
+    "text": "their indelible Mark upon the Earth and",
+    "start": 41.239,
+    "duration": 3.32
+  },
+  {
+    "text": "other",
+    "start": 43.64,
+    "duration": 3.559
+  },
+  {
+    "text": "planets a growing field of scientists",
+    "start": 44.559,
+    "duration": 4.48
+  },
+  {
+    "text": "and independent investigators are",
+    "start": 47.199,
+    "duration": 4.121
+  },
+  {
+    "text": "exploring the geological effects of high",
+    "start": 49.039,
+    "duration": 4.601
+  },
+  {
+    "text": "energy electrical discharges in a",
+    "start": 51.32,
+    "duration": 4.8
+  },
+  {
+    "text": "relatively recent Epoch of planetary",
+    "start": 53.64,
+    "duration": 5.0
+  },
+  {
+    "text": "instability a key figure in this field",
+    "start": 56.12,
+    "duration": 4.72
+  },
+  {
+    "text": "is Michael steinbacher a professional",
+    "start": 58.64,
+    "duration": 3.64
+  },
+  {
+    "text": "photographer who has studied the",
+    "start": 60.84,
+    "duration": 3.72
+  },
+  {
+    "text": "geological formations in the American",
+    "start": 62.28,
+    "duration": 4.56
+  },
+  {
+    "text": "southwest Michael is scheduled to speak",
+    "start": 64.56,
+    "duration": 5.48
+  },
+  {
+    "text": "at the forthcoming conference EU 2015",
+    "start": 66.84,
+    "duration": 5.599
+  },
+  {
+    "text": "Paths of Discovery taking place June",
+    "start": 70.04,
+    "duration": 6.0
+  },
+  {
+    "text": "25th to 29th in Phoenix Arizona today",
+    "start": 72.439,
+    "duration": 5.521
+  },
+  {
+    "text": "Michael offers a brief introduction and",
+    "start": 76.04,
+    "duration": 3.759
+  },
+  {
+    "text": "overview of his talk where he will",
+    "start": 77.96,
+    "duration": 3.92
+  },
+  {
+    "text": "present a photographic illustration of",
+    "start": 79.799,
+    "duration": 4.081
+  },
+  {
+    "text": "the electric Universe catastrophist",
+    "start": 81.88,
+    "duration": 4.199
+  },
+  {
+    "text": "Model A Link to Michael's YouTube",
+    "start": 83.88,
+    "duration": 4.04
+  },
+  {
+    "text": "channel can be found in the description",
+    "start": 86.079,
+    "duration": 4.321
+  },
+  {
+    "text": "box of this video",
+    "start": 87.92,
+    "duration": 4.76
+  },
+  {
+    "text": "my talk is basically going to be on the",
+    "start": 90.4,
+    "duration": 6.56
+  },
+  {
+    "text": "pestop geology model fortunately for for",
+    "start": 92.68,
+    "duration": 7.079
+  },
+  {
+    "text": "all of us we have Billy Elton doing",
+    "start": 96.96,
+    "duration": 5.08
+  },
+  {
+    "text": "experiments showing what happens when",
+    "start": 99.759,
+    "duration": 3.921
+  },
+  {
+    "text": "you have Dusty",
+    "start": 102.04,
+    "duration": 5.84
+  },
+  {
+    "text": "plasma and electromagnetic events taking",
+    "start": 103.68,
+    "duration": 6.799
+  },
+  {
+    "text": "place he's making what looks like",
+    "start": 107.88,
+    "duration": 4.519
+  },
+  {
+    "text": "mountains sometimes there're circular",
+    "start": 110.479,
+    "duration": 4.121
+  },
+  {
+    "text": "formation sometimes they look like",
+    "start": 112.399,
+    "duration": 4.881
+  },
+  {
+    "text": "galaxies at my request he did an",
+    "start": 114.6,
+    "duration": 6.439
+  },
+  {
+    "text": "experiment using a Channel of water",
+    "start": 117.28,
+    "duration": 6.56
+  },
+  {
+    "text": "with an electromagnetic event of anode",
+    "start": 121.039,
+    "duration": 5.241
+  },
+  {
+    "text": "and a cathode on either side and he",
+    "start": 123.84,
+    "duration": 5.8
+  },
+  {
+    "text": "released Dolomite and clay from",
+    "start": 126.28,
+    "duration": 5.959
+  },
+  {
+    "text": "above and it did what I had hoped it",
+    "start": 129.64,
+    "duration": 5.08
+  },
+  {
+    "text": "would do it prevented accumulation it",
+    "start": 132.239,
+    "duration": 5.401
+  },
+  {
+    "text": "didn't erode a canyon it prevented",
+    "start": 134.72,
+    "duration": 5.92
+  },
+  {
+    "text": "accumulation where the water was flowing",
+    "start": 137.64,
+    "duration": 8.48
+  },
+  {
+    "text": "and in between the two anode and cathode",
+    "start": 140.64,
+    "duration": 8.72
+  },
+  {
+    "text": "electrodes material seemed to accumulate",
+    "start": 146.12,
+    "duration": 5.88
+  },
+  {
+    "text": "prefer ually and it seemed to be wet as",
+    "start": 149.36,
+    "duration": 6.12
+  },
+  {
+    "text": "if water was being pulled up or Wicked",
+    "start": 152.0,
+    "duration": 6.2
+  },
+  {
+    "text": "somehow being involved with the process",
+    "start": 155.48,
+    "duration": 4.2
+  },
+  {
+    "text": "and it made something similar to the",
+    "start": 158.2,
+    "duration": 4.24
+  },
+  {
+    "text": "Grand Canyon and he's repeated it and it",
+    "start": 159.68,
+    "duration": 6.16
+  },
+  {
+    "text": "has scalloped edges at times so it",
+    "start": 162.44,
+    "duration": 5.879
+  },
+  {
+    "text": "really looks like what you see in the",
+    "start": 165.84,
+    "duration": 6.319
+  },
+  {
+    "text": "field it's very confirming I think of",
+    "start": 168.319,
+    "duration": 6.0
+  },
+  {
+    "text": "the model that I'm",
+    "start": 172.159,
+    "duration": 5.961
+  },
+  {
+    "text": "proposing Dolomite is is a wonderful",
+    "start": 174.319,
+    "duration": 6.481
+  },
+  {
+    "text": "mineral it it has all sorts of problems",
+    "start": 178.12,
+    "duration": 4.64
+  },
+  {
+    "text": "if you want to explain it having been",
+    "start": 180.8,
+    "duration": 4.48
+  },
+  {
+    "text": "created on the earth in the quantities",
+    "start": 182.76,
+    "duration": 4.68
+  },
+  {
+    "text": "required for what you find in the",
+    "start": 185.28,
+    "duration": 4.959
+  },
+  {
+    "text": "mountains and and and associated with",
+    "start": 187.44,
+    "duration": 6.04
+  },
+  {
+    "text": "oil uh it just doesn't form unless the",
+    "start": 190.239,
+    "duration": 5.64
+  },
+  {
+    "text": "ocean is boiling and full of uric acid",
+    "start": 193.48,
+    "duration": 5.319
+  },
+  {
+    "text": "urine which is not very",
+    "start": 195.879,
+    "duration": 5.201
+  },
+  {
+    "text": "likely on the other hand NASA was",
+    "start": 198.799,
+    "duration": 4.36
+  },
+  {
+    "text": "shocked when they went through the tail",
+    "start": 201.08,
+    "duration": 4.04
+  },
+  {
+    "text": "of Haley's Comet and collected dust they",
+    "start": 203.159,
+    "duration": 4.961
+  },
+  {
+    "text": "found 7% Dolomite and they think it's",
+    "start": 205.12,
+    "duration": 5.8
+  },
+  {
+    "text": "understated they also found Limestone",
+    "start": 208.12,
+    "duration": 5.039
+  },
+  {
+    "text": "they've also found everything required",
+    "start": 210.92,
+    "duration": 4.2
+  },
+  {
+    "text": "to explain pretty much the entire",
+    "start": 213.159,
+    "duration": 5.16
+  },
+  {
+    "text": "geologic column in Comet dust and not",
+    "start": 215.12,
+    "duration": 5.64
+  },
+  {
+    "text": "just one Comet but they're all sharing",
+    "start": 218.319,
+    "duration": 5.801
+  },
+  {
+    "text": "these anomalies hydrocarbons and",
+    "start": 220.76,
+    "duration": 5.08
+  },
+  {
+    "text": "Dolomite Limestone and things that",
+    "start": 224.12,
+    "duration": 3.36
+  },
+  {
+    "text": "really shouldn't be there things that",
+    "start": 225.84,
+    "duration": 4.0
+  },
+  {
+    "text": "people thought required",
+    "start": 227.48,
+    "duration": 5.44
+  },
+  {
+    "text": "water and this Dolomite seems to have",
+    "start": 229.84,
+    "duration": 7.479
+  },
+  {
+    "text": "fallen from the sky as described by our",
+    "start": 232.92,
+    "duration": 6.319
+  },
+  {
+    "text": "ancestors and it seems to have been at",
+    "start": 237.319,
+    "duration": 3.601
+  },
+  {
+    "text": "the very end end of these catastrophic",
+    "start": 239.239,
+    "duration": 4.0
+  },
+  {
+    "text": "processes because in many instances it's",
+    "start": 240.92,
+    "duration": 4.08
+  },
+  {
+    "text": "the very tops of the mountain the Dolan",
+    "start": 243.239,
+    "duration": 5.161
+  },
+  {
+    "text": "lights of the Alps there these beautiful",
+    "start": 245.0,
+    "duration": 5.48
+  },
+  {
+    "text": "Cliffs and you have a Windward and a",
+    "start": 248.4,
+    "duration": 4.559
+  },
+  {
+    "text": "leward side at the very top of the Alps",
+    "start": 250.48,
+    "duration": 5.399
+  },
+  {
+    "text": "there's Dolomite all through Nevada west",
+    "start": 252.959,
+    "duration": 6.041
+  },
+  {
+    "text": "of Las Vegas the tops of the mountains",
+    "start": 255.879,
+    "duration": 6.2
+  },
+  {
+    "text": "and it's layered with the shell Dolomite",
+    "start": 259.0,
+    "duration": 4.72
+  },
+  {
+    "text": "shell Dolomite shell as if it's being",
+    "start": 262.079,
+    "duration": 4.321
+  },
+  {
+    "text": "sort of ionically I I think by twiston",
+    "start": 263.72,
+    "duration": 4.44
+  },
+  {
+    "text": "berkling heart and then the other",
+    "start": 266.4,
+    "duration": 4.92
+  },
+  {
+    "text": "fascinating thing about do is that it's",
+    "start": 268.16,
+    "duration": 5.52
+  },
+  {
+    "text": "reported that that oil rained from the",
+    "start": 271.32,
+    "duration": 5.159
+  },
+  {
+    "text": "sky for days and nights by our ancestors",
+    "start": 273.68,
+    "duration": 4.32
+  },
+  {
+    "text": "again I winess",
+    "start": 276.479,
+    "duration": 5.401
+  },
+  {
+    "text": "accounts and Dolomite is where most of",
+    "start": 278.0,
+    "duration": 5.88
+  },
+  {
+    "text": "the oil that's been recovered prior to",
+    "start": 281.88,
+    "duration": 4.159
+  },
+  {
+    "text": "fracking has come from because it's",
+    "start": 283.88,
+    "duration": 5.52
+  },
+  {
+    "text": "Taurus so the oil in Saudi Arabia and",
+    "start": 286.039,
+    "duration": 5.521
+  },
+  {
+    "text": "Texas and California and all over the",
+    "start": 289.4,
+    "duration": 5.04
+  },
+  {
+    "text": "world prior to fracking the vast",
+    "start": 291.56,
+    "duration": 4.72
+  },
+  {
+    "text": "majority except for tar Sands and things",
+    "start": 294.44,
+    "duration": 3.64
+  },
+  {
+    "text": "like that has come from Dolomite",
+    "start": 296.28,
+    "duration": 3.759
+  },
+  {
+    "text": "formations because of porest and if you",
+    "start": 298.08,
+    "duration": 5.6
+  },
+  {
+    "text": "put a pipe in it you can suck it out as",
+    "start": 300.039,
+    "duration": 6.041
+  },
+  {
+    "text": "opposed to Shell which is a solid rock",
+    "start": 303.68,
+    "duration": 5.4
+  },
+  {
+    "text": "so it fits nicely with the hydrocarbons",
+    "start": 306.08,
+    "duration": 5.0
+  },
+  {
+    "text": "that are available from comets according",
+    "start": 309.08,
+    "duration": 4.16
+  },
+  {
+    "text": "to NASA and the Dolomite that's",
+    "start": 311.08,
+    "duration": 5.16
+  },
+  {
+    "text": "available from comets and it's all laid",
+    "start": 313.24,
+    "duration": 6.12
+  },
+  {
+    "text": "out in nature in the geologic column and",
+    "start": 316.24,
+    "duration": 5.76
+  },
+  {
+    "text": "it's where we get our oil from for the",
+    "start": 319.36,
+    "duration": 4.44
+  },
+  {
+    "text": "longest time I kept looking for",
+    "start": 322.0,
+    "duration": 5.12
+  },
+  {
+    "text": "electrically excavated canyons and I",
+    "start": 323.8,
+    "duration": 6.08
+  },
+  {
+    "text": "didn't really see them I was seeing what",
+    "start": 327.12,
+    "duration": 4.519
+  },
+  {
+    "text": "appeared to be fluvial things that got",
+    "start": 329.88,
+    "duration": 4.24
+  },
+  {
+    "text": "smaller as they went uphill and stopped",
+    "start": 331.639,
+    "duration": 4.481
+  },
+  {
+    "text": "before they got to a ridge and then",
+    "start": 334.12,
+    "duration": 4.04
+  },
+  {
+    "text": "started on the other side of the ridge",
+    "start": 336.12,
+    "duration": 4.48
+  },
+  {
+    "text": "back down again repeating what was on",
+    "start": 338.16,
+    "duration": 5.4
+  },
+  {
+    "text": "the previous side so it looks like it's",
+    "start": 340.6,
+    "duration": 5.879
+  },
+  {
+    "text": "a water event and then I stumbled on",
+    "start": 343.56,
+    "duration": 5.079
+  },
+  {
+    "text": "Zion Canyon which I had been to before",
+    "start": 346.479,
+    "duration": 5.121
+  },
+  {
+    "text": "but looking at Google Maps I noticed",
+    "start": 348.639,
+    "duration": 5.56
+  },
+  {
+    "text": "things that just weren't right and you",
+    "start": 351.6,
+    "duration": 4.319
+  },
+  {
+    "text": "can see that it's completely different",
+    "start": 354.199,
+    "duration": 6.681
+  },
+  {
+    "text": "than the Fluval excavations flu",
+    "start": 355.919,
+    "duration": 8.0
+  },
+  {
+    "text": "drainages it's electrical and I have a",
+    "start": 360.88,
+    "duration": 5.879
+  },
+  {
+    "text": "YouTube explaining all of this and then",
+    "start": 363.919,
+    "duration": 4.521
+  },
+  {
+    "text": "that opens up all these other doors",
+    "start": 366.759,
+    "duration": 3.041
+  },
+  {
+    "text": "because you can see what the electric",
+    "start": 368.44,
+    "duration": 3.039
+  },
+  {
+    "text": "process does and how it changes the",
+    "start": 369.8,
+    "duration": 4.16
+  },
+  {
+    "text": "color of the formations and then you can",
+    "start": 371.479,
+    "duration": 5.201
+  },
+  {
+    "text": "use this as a marker and look all over",
+    "start": 373.96,
+    "duration": 4.6
+  },
+  {
+    "text": "the place and see where electrical",
+    "start": 376.68,
+    "duration": 6.16
+  },
+  {
+    "text": "removal has taken place so it took six",
+    "start": 378.56,
+    "duration": 7.479
+  },
+  {
+    "text": "and a half years but finally I found",
+    "start": 382.84,
+    "duration": 4.639
+  },
+  {
+    "text": "what appeared to be",
+    "start": 386.039,
+    "duration": 4.16
+  },
+  {
+    "text": "electrical excavation",
+    "start": 387.479,
+    "duration": 6.16
+  },
+  {
+    "text": "that stand out that really ripped much",
+    "start": 390.199,
+    "duration": 6.881
+  },
+  {
+    "text": "of the Southwest at the very end of the",
+    "start": 393.639,
+    "duration": 4.96
+  },
+  {
+    "text": "process you can see that all the other",
+    "start": 397.08,
+    "duration": 5.16
+  },
+  {
+    "text": "layers have been deposited so that this",
+    "start": 398.599,
+    "duration": 6.521
+  },
+  {
+    "text": "process creating these electrical tants",
+    "start": 402.24,
+    "duration": 5.399
+  },
+  {
+    "text": "is the very end and it seems to create",
+    "start": 405.12,
+    "duration": 5.479
+  },
+  {
+    "text": "molten dust which downwind seems to",
+    "start": 407.639,
+    "duration": 6.041
+  },
+  {
+    "text": "create assault layers at the very top of",
+    "start": 410.599,
+    "duration": 5.401
+  },
+  {
+    "text": "the formations again the very end of the",
+    "start": 413.68,
+    "duration": 5.16
+  },
+  {
+    "text": "process so it took a long time but I",
+    "start": 416.0,
+    "duration": 6.919
+  },
+  {
+    "text": "found electrical removal on Earth it",
+    "start": 418.84,
+    "duration": 7.479
+  },
+  {
+    "text": "seems to be a a no-brainer there's just",
+    "start": 422.919,
+    "duration": 5.481
+  },
+  {
+    "text": "no way that water could explain these",
+    "start": 426.319,
+    "duration": 4.681
+  },
+  {
+    "text": "formations was no water available and",
+    "start": 428.4,
+    "duration": 4.239
+  },
+  {
+    "text": "they go through high points they don't",
+    "start": 431.0,
+    "duration": 4.08
+  },
+  {
+    "text": "stop at high points like something flui",
+    "start": 432.639,
+    "duration": 4.161
+  },
+  {
+    "text": "so yeah Zion Canyon is kind of the",
+    "start": 435.08,
+    "duration": 4.799
+  },
+  {
+    "text": "Rosetta Stone of electrical excavation",
+    "start": 436.8,
+    "duration": 5.88
+  },
+  {
+    "text": "to the planet",
+    "start": 439.879,
+    "duration": 2.801
+  },
+  {
+    "text": "Earth",
+    "start": 448.319,
+    "duration": 3.0
+  },
+  {
+    "text": "[Music]",
+    "start": 453.04,
+    "duration": 4.379
+  }
+]

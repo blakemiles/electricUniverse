@@ -1,0 +1,1010 @@
+[Music]
+[Music]
+he's expert at image acquisition and
+analysis we've talked a lot about common
+sense and common sense is essential to
+having keeping our feet on the ground
+and forming cogent understandings of the
+world that we live in but we know also
+that our senses are somewhat limited
+there's only so much that we can see
+with the eyes that we've grown in our
+bodies that we can touch with our hands
+and our are our five senses so science
+when it's properly functioning and
+serving common sense extends those
+senses into the realms beyond our
+ability to perceive - in that sense make
+visible that which is there but is
+invisible to our common senses and that
+is part of the expertise of our next
+speaker an important part of what p.m.
+re ro Battaglia is is accomplished at in
+1996 he was responsible for developing
+breaking essentially the world record
+form in a magnetic resonance imager II
+developing and essentially doubling the
+power of magnetic resonance with an 8
+Tesla MRI and I'm is going to share with
+us some of what he sees to add to our
+growing sense of the electric universe
+welcome professor Pierre Marie
+Robitaille
+[Applause]
+well thank you I would like to begin by
+thanking Dave Talbot for inviting me
+here and for providing scientists from
+different viewpoints the opportunity to
+address the scientific community it is a
+privilege to be here today I'll be
+speaking about the microwave background
+and as Steve tried to explain to you
+when you look at the microwave
+background if you're located on the
+earth you have signal from the earth
+itself the emissions of the oceans water
+around the earth and then you also have
+galactic emissions that are reaching the
+earth you have signals beyond the galaxy
+perhaps that that we get to see as well
+so there are many signals that are
+coming when you're at the earth but when
+you're at l2 the earth of course cannot
+hit the satellites that are at l2
+therefore you will not get a monopole at
+l2 and the only data if you want to call
+it data that you get at all - will be
+dominated by the galaxy before I begin
+to speak because I'm I'm in the College
+of Medicine I did want to speak just
+briefly about anchoring now in medicine
+what is anchoring anchoring is occurs
+when a patient comes to the hospital and
+if and he's gravely ill and we'll assume
+that he's gravely ill and what happens
+is a physician sees him and he decides
+on the diagnosis but the diagnosis is
+incorrect the next physician comes in
+sees them and doesn't do his own
+physical and follows the diagnosis of
+the first physician
+so eventually unfortunately our patient
+dies the doctors get sued they lose
+their license and of course the
+attorneys get to make lots of money
+but in what happens in physics when we
+anchor well that's a different problem
+because we're not in a position that
+somebody's going to lose their life over
+it at least we hope not
+but when physics makes an error
+it's much harder to rectify because you
+can anchor and it takes tremendous
+incentive to go back and recheck the
+assumptions so relative to the microwave
+background to recheck the assumptions
+you actually have to go all the way back
+to 1860 and deal with kirchoff's law of
+thermal emission now I will talk about
+that law on Sunday not now because it it
+in of itself is actually the most
+important talk I will give even though
+this one's on the background and the
+other one is on the Sun also because I'm
+in the College of Medicine it's you know
+I have to figure out how this works I'd
+like to dedicate this work to two
+physicians now the first is my father he
+just retired from medicine after more
+than 50 years I think 55 years as a
+physician he was a family practitioner
+he delivered over 800 babies in his life
+he also helped the Saiga Mach Indians in
+Northern Ontario and he lowered the
+infant mortality rate for the Saiga Mach
+First Nations both for the mothers and
+their babies he was one of the first
+Caucasian men to be named as an honorary
+Indian chief in North America the next
+whoops that's the mistake that we make
+okay I'll get it here the next person
+that I'd like to dedicate the talk to is
+dr. Ignaz Semmelweis now I dedicate it
+to him as well because he's got a lesson
+for us right so in ninth in 1847 he
+advocated the physicians wash their
+hands with chlorinated lime solutions to
+reduce the incidence of mortality from
+child bed fever and a physician saw this
+as an insult because they felt that you
+know they were already pretty clean even
+though they were going for the necropsy
+lab to delivering women and they were
+killing these mothers and he he actually
+documented when he got the doctors to
+wash their hands that the mortality
+rates would drop so the physicians
+rather than just listen to him and keep
+washing their hands decided that he had
+to be incorrect
+his papers and ideas were largely
+rejected there were only a few people of
+the European medical community that
+recognized the importance of what he was
+saying he's actually I think the father
+of hygienic methods and he unfortunately
+died in an insane asylum
+he was only 47 now I've published
+extensively on the microwave background
+and I list the papers here some of the
+important ones relative to the stalks of
+Steve and I are W map or radiological
+analysis of course the papers on the
+earth contribution the paper on water
+the the bottom one that's listed there
+then you also have this all will affect
+global warming whether you believe in
+global warming don't believe in global
+warming for us to understand how the
+oceans are actually emitting is an
+important problem and then there's
+another paper on Kobe where I did a full
+analysis of Kobe and one on plank
+now dr. Reuben ski who's the editor of
+progress in physics has been very kind
+to me he's taken many many papers and
+enabled me to publish my work in what I
+consider a very new journal and of
+course people say well Pierre why do you
+publish an in-progress in physics and
+that's because it's a proper vehicle for
+what I'm dealing with now now I also
+want to point out that there's some
+parallels between MRI and the microwave
+background studies so an MRI scientist
+is actually well suited to go through
+this stuff because what we do are almost
+similar there's only the sample that
+changes in magnetic resonance imaging
+it's fundamentally a thermal method we
+have t1 relaxation it's called the
+thermal relaxation constant that was
+named so by Felix Bloch most people have
+forgotten that name their frequency of
+observation is from VHF to UHF
+but the a Tesla that I built and new
+scanners are now at point four gigahertz
+so almost in the microwave their
+detection methods that we use are RF
+antennas and they're coupled to pre
+amplifiers and radiometers we display
+our results in spectral images now if
+you look at the microwave background
+again you have a thermal problem you
+have a maximum emission at 160 gigahertz
+of course
+Penzias and Wilson were at 4 gigahertz
+and their first experiments that's only
+we were we are now at point 4 in
+magnetic resonance the detection methods
+are very similar at low frequency we
+have in microwave experiments we have RF
+antenna coupled to preamplifiers again
+and radiometers and we display our
+results in spectra or images so just
+generally what are the requirements for
+having an image well there's basically
+two requirements through the two key
+requirements is you have to have
+resolution and you also have to have
+signal-to-noise and it takes signal to
+noise to make contrast it also takes
+signal to noise to get resolution if an
+image is noisy how can you tell if it
+contains any information and this is
+critical to anybody who believes that
+the microwave background anisotropy maps
+can be real for them to be real they
+have to be reproducible and none of
+these maps are ever reproducible so they
+pool the data and then the their
+differences are from averages - a year
+or in Planck now they're trying to pool
+a bunch of data so you can't take
+averages you have to look when you have
+a low signal-to-noise image as you do in
+medicine when we do functional imaging
+for instance we're gonna have quite low
+signal-to-noise sometimes in the cat 5
+you might have low signal to noise and
+how can we tell that the signal is real
+because it has to be reproducible so if
+you ever encountering somebody who's
+telling you the anisotropy maps are real
+just ask him for reproducibility he will
+never be able to deliver it because the
+galaxy is too variable
+now I want to show you an image that was
+done at the time that I did the a Tesla
+this is an image it's a clinical image
+from a human head is a sagittal sagittal
+slice and this is done with a
+conventional scanner it was a good
+scanner the image looks really bad and
+it's because I'm pushing the scanner
+right to its limit
+so I'm taking a very thin slice very
+little bit of the tissue and the matrix
+size is a 512 by 512 ya with only a two
+millimeter slice so when I do that
+there's still a little signal you can't
+get contrast anymore did you remember I
+told you to take signal to get contrast
+so this is a 512 by 512 and now here's
+an image from a Tesla and this is still
+a world-record today even though it was
+done for the year 2000 this was an image
+of 2000 points by 2000 and resolution
+same data same slice thickness a similar
+nutation angle everything is very
+comparable between these two images but
+the difference is of course I have more
+signal because I have an 8 Tesla scanner
+so this remains as I said a world record
+and resolution here's an expanded view
+of that so now what are the central
+issue is relative to understanding the
+microwave background well I think there
+are several the first is the early
+measurements did we have a right to
+assign the signal Penzias and Wilson to
+the universe could water have produced
+this signal and where is the water
+signal from the earth if if this if the
+microwave background signal really
+belongs to the universe where is the
+earth signal does that the 3 Kelvin
+temperature really have a real value or
+is the temperature really only apparent
+now this will be answered primarily in
+my talk on Sunday on kirchoff's law can
+we really see beyond the foreground of
+the galaxy into the universe and is
+there any real cosmological information
+in the anisotropy Maps the data
+processing produced the monopole Steve
+touched on the multi
+you touched on this as mankind truly
+sampled the first trillionth of a
+trillionth of a trillionth now of a
+second after the Big Bang so we'll begin
+just by a quick review of the Penzias
+and Wilson experiment and when they
+completed their experiment they reported
+immediately that they had a 3.5 Kelvin
+signal that was unexpected and there was
+a this excessive signal was isotropic
+unpolarized and free from seasonal
+variations now if you look at the way
+the horn worked
+you had a contamination from the horn
+the noise from the horn was only point 9
+Kelvin but they had the assigned 2.7 2.3
+Kelvin to an atmospheric contamination
+so the total signal that came in was six
+point seven now of course they could
+rotate this horn and that's how they
+determined the amount of signal that's
+coming from the atmosphere they could
+just rotate the horn and as they rotated
+the horn they can compensate for this
+atmospheric signal but what they don't
+compensate for is an oceanic signal
+that's pumping photons into the
+atmosphere they also say that this 2.3
+kelvin signal was due to absorption by
+oxygen in the atmosphere I think it had
+nothing to do with it nowhere in the
+Penzias and Wilson papers of 1965 can
+one find any discussion of water and
+where it might be expected to emit now
+of course they immediately say that a
+possible explanation is a sign is done
+by these cosmologists now what happens
+in Astrophysical Journal actually is
+that this interpretation by Daiki
+peoples and roll's and Wilkinson
+actually precede the dependence in
+Wilson publication so since when in
+science do we publish the finding after
+the interpretation you publish the
+finding first then you publish the
+interpretation so in the interpretation
+they say well could the universe be
+filled with microwave energy
+that behaves as a blackbody that gives
+us this blackbody signal the answer of
+course is no the assignment of a three
+points up five Kelvin temperature
+constitutes a violation of the laws of
+thermal emission and I will talk about
+that on Sunday because that in itself is
+quite detailed to explain but valid
+temperatures require a known solid no
+net conduction or convection or if you
+don't have a known solid you must be in
+thermal equilibrium with a rigid
+perfectly absorbing enclosure otherwise
+the temperature obtained may or may not
+be accurate
+so the universe is not in thermal
+equilibrium with an enclosure okay and
+especially if it's expanding it had no
+chance of ever becoming in thermal
+equilibrium a source which is not at
+three Kelvin can produce a signal if it
+sustains in addition to emission other
+means of contending with internal heat
+namely conduction and convection and
+this is by the way the reason that Max
+Planck said you cannot take a
+temperature of the Sun using thermal
+emission a source which is not at three
+Kelvin can produce a 3 Kelvin signal if
+it has an unexpected distribution of
+energy within its degrees of freedom as
+a result can water at 300 Kelvin produce
+a signal with an apparent temperature of
+3 Kelvin so I thought we'd start by just
+looking assessing the situation here
+we're sitting on the earth I think
+there's quite a bit of water around us
+actually this famous poem that many of
+us learnt in grade school The Rime of
+the Ancient Mariner reminds us water
+water everywhere
+water has often complicated microwave
+background experiments so in their own
+literature when you read their papers
+you see that they're always having
+trouble with water when they're doing
+the experiments near the earth but they
+dismiss all this for instance when dr.
+Smith
+was testing a Radiometer at Berkeley he
+actually took the radiometer outside in
+the parking lot and there was a cloud
+that went overhead and he saw that he
+got a signal from the cloud so he knew
+his radiometer was working of course he
+was sampling water at the time then rain
+or Weiss
+he noticed that whenever you're doing
+microwave background experiments it's
+very simple to do when there's oceans or
+lakes nearby John Mather he commented in
+his book that the people working in the
+Atlantic Ocean had a very difficult time
+getting microwave background
+measurements done because the oceanic
+Brut signals can the oceanic patterns
+can produce signals that are very
+similar to cosmic fluctuations and dr.
+woody noticed that he sent up a balloon
+and on the ground and during the ascent
+they protected the antenna from
+condensation and then they had a small
+mirror to allow them to make sure that
+there was no condensation inside their
+horn well if condensation doesn't matter
+why do you care right now we know that
+condensation matters because dr. smut
+when he went to Lima Peru with an
+experiment and when he came down with
+the plane he got condensation as
+radiometers and they didn't work so what
+did he do he took him apart
+he took out all the water he dried him
+up put him back together and all of a
+sudden it worked
+here's one from John Mather the effect
+of air conduct condensing into the
+antennas were seen when the second
+window was open the valve which controls
+the gas flow should have been rotated so
+that all the gas has forced out through
+the cone and the horn when the situation
+was corrected emissions from the horn
+were reduced and the cold helium has
+cooled the surfaces on which the air had
+condensed and the signal returned to
+normal so he's telling you when I have
+water there my signal was too high
+now of course as Steve pointed out this
+slide from one of my papers I am just
+showing the structure of water and to
+remind everybody that there's a there's
+a hydrogen bond here and this is not at
+all like a hydroxyl bond the energy of
+this bond is about a hundred times the
+energy of that one the force constant
+the force constant in this bond that is
+characterizing this bond if we look at
+it as a simple harmonic oscillator the
+force constant here is a hundred times
+stronger than that one and that's a
+great concern so if you look at it if
+you look at the dot water dimer which we
+know exists in that atmosphere now I'm
+just taking the water dimer as an
+example the water dimer you can find it
+also in in in condensed water in in
+liquid water if you look at the
+structure of liquid water you'll see
+dimers inside of it and if you compare
+that if you look at this whoops I'm
+sorry I did a boo-boo I will get there
+so if you look on axis here in the dimer
+these are these are this is a linear
+these two these three atoms are all
+arranged linearly there is libation
+around this one but generally you can
+assume that they're linear and if you do
+that you can easily show that the energy
+in system 1 divided by the energy in
+system 2 will just be equal to the
+ratios of their force constants now the
+energy is related to their temperature
+well since these force constants are
+different by a factor of a hundred then
+the emission that you'll get will be
+different by a factor of 100 so instead
+of getting 300k emission you get 3
+Kelvin emission so remember if water is
+a powerful absorber of microwaves then
+by Stewarts law it's also a powerful
+emitter now a little brief note on the
+Coby satellite which Steve also covered
+so the ferris horn was designed to
+operate over a phenomenal range actually
+from 30 to 3,000 gigahertz but no
+microwave horn has ever claimed to cover
+such a frequency range even 25 years
+later the claim is unsupported by vast
+knowledge of practical microwave antenna
+design on earth it's an engineering
+impossibility the COBE satellite as
+Steve mentioned is positioned at an
+altitude of 950 kilometers but the
+shield the satellite itself or the horn
+within the satellite which is located
+here is is this shield it has nothing to
+do with microwaves this is the shield
+for thermal photons not microwaves
+if it was a shield for microwaves it
+should be properly shielded so here I
+will for instance in this case what are
+you having you're having photons coming
+down from the earth below it and they're
+coming up and they're hitting the shield
+and they're diffracting against it and
+they come to the top of the door and
+they diffract right into this horn
+notice that the horn the fierce horn has
+a very smooth wall so because it has a
+smooth wall and because it's broadband
+it cannot be shielded for diffraction so
+so it has no corrugated surface to
+prevent diffraction so a horn a
+narrowband horn in microwave that you
+would use to prevent diffraction would
+to have walls that look something like
+this so now you see this corrugation and
+these corrugations that are put in horns
+they're very frequency specific that's
+why these are narrowband horns you never
+would make such a horn for a broadband
+signal so unlike the fierce horn on Kobe
+which is broad banded corrugated horns
+are always narrow banded the geometry of
+the corrugation is carefully calculated
+to be effective over a very narrow
+frequency range so there's no way that
+Kobe satellite could have prevented
+diffraction actually Wilkinson himself
+who was a member of the Kobe team and
+for which the W map satellite is named
+after his death was worried that there
+was diffraction in the
+we data so one of the old their own key
+members was worried about it
+so the COBE satellite of course is
+located just above a powerful source of
+microwave emissions the oceans of the
+earth clear signs of diffractions
+diffraction exist in the kobe ferrous
+data the data is too high at low
+frequencies too low at high
+so the Penzias and Wilson signal is very
+likely to be produced by the earth now
+we'll go through W map now I cover W map
+and there's a lot of lessons in W map
+which actually applies to all their
+methodologies in trying to create a nice
+atre P maps now as I mentioned w map is
+sitting far out in space this is a
+picture of the of the satellite and it's
+it's sitting over here at l2 so in this
+position well away from the earth
+there's no way W map is getting a
+monopole signal from the earth and W map
+never saw a monopole signal it's unable
+to by design but Planck should have been
+able to see it but it because planck has
+the capability capability to see an
+absolute signal but they never reported
+a monopole signal from l2 with the
+planck satellite in fact for planck
+analysis they use kobe ferris monopole
+data in their analysis and that data of
+course is more than is over 25 years old
+now or nearly 25 years old they also are
+worried that they have a lot of noise on
+their lf-i and my problem is that
+remember that this is a high tech device
+now that we've got 25 years of high
+technology we have a lot of noise coming
+into the LF I but remember that Penzias
+and Wilson also almost had no noise they
+only had point 9 Kelvin attributed to
+the instrument now SC showed here are
+the five map here are five maps from W
+map in each of the frequency
+and of course we see this enormous
+signal from from the galaxy okay
+unfortunately you can't get around this
+this signal is actually much much bigger
+than this these are cleaned images where
+they've already processed the data to
+get rid of galactic signal out here
+because it was so high the galactic
+center this is a quote from their papers
+the galactic center is a thousand times
+brighter than fluctuations in the
+microwave background and if you take if
+you take the statement as real it's
+impossible absolutely impossible to
+remove the galactic foreground and
+quantify any underlying signal so here's
+an example from NMR so it's a
+cosmologists really think that they can
+do that they can come and help us in
+medicine so here's an example where I
+take a water signal an NMR signals out
+so of course water is 110 molar so I'm
+going to take a sample I'm going to make
+a sample of water and I'm going to put a
+little bit of a compound in it just
+point one molar of this compound well
+when I take the spectrum which is a in
+here all you see is the water line okay
+this is just water I can blow it up and
+when I blow it up a factor of a hundred
+I now see some resonances from this
+compound now the resonances are not
+below the water peak they're next to it
+but for the microwave background they
+are under the water peak the same it's
+not water that they're looking at at l2
+but it's a similar situation they're
+sitting over here under a strong strong
+microwave signal they got a little tiny
+signal they have probably similar line
+shapes they don't know what the line
+shapes are it's absolutely impossible
+for them to resolve these two signals
+it's a physical impossibility so the
+problem for the microwave background
+studies is that the signal of interest
+is exactly at the same
+frequency as a contaminated galactic
+signal in every single channel so under
+these circumstances the Galactic
+contamination of any magnitude cannot be
+properly addressed how does one
+distinguish the Galactic contamination
+from a constitution made by a primordial
+source so now you've got this this
+enormous signal and you have the
+primordial source I'm sorry and you have
+now the primordial source this little
+tiny signal
+well actually very very tiny compared to
+this this is really off scale right I do
+have to use a slide here so I have an
+analogy okay Paul and Mary may or may
+not be real there's a bowl containing
+six cups of water on the table how many
+cups of water if any did Mary pour in
+the bowl
+that's the question they want to answer
+all we really can tell is that there's a
+bowl with water of the table that's as
+bad as my jokes get now the situation is
+further complicated with W map with 300
+known point sources so now we've got a
+whole bunch of point sources that we
+have to take out of the map so now we've
+got the Galactic contamination we got
+the point sources and we got the
+Galactic signal now for Planck
+they've got 15,000 point sources we'll
+try to put 15,000 point sources on this
+image and you could basically build any
+image you want so the problem for the
+microwave background studies is that the
+signal of interest is exactly at the
+same frequency as the contaminated
+Galactic and point source signals in
+every single channel in reality there
+are millions of microwave point sources
+in the universe because every star
+Kadeem it in the microwave and every
+galaxy can these problems potentially
+exists at every single point in the map
+when one looks at the anisotropy maps
+all the points matter even the points
+with near zero signal
+because they are contained in the
+multiple analysis but the interfering
+galactic signal can be greater than the
+signal of interest by a very very large
+amount because the signal of interest
+can be close to zero that is why the
+Galactic signal can be viewed as
+contamination of a hundred a
+thousandfold or more so this is shown
+here you have your your map and your
+resolving this in these multiples now
+these are the poles that they really
+care about in cosmology they don't care
+about this map they care about this
+stuff
+but this stuff has positive and negative
+contributions that means you're going
+through zero right so all the points
+even the points close to zero are
+extremely important and you have no
+signal to noise the entire Assembly of
+laboratory experiments will say even in
+medicine demonstrates that it is not
+possible to extract a weak signal from a
+powerful overline contaminant unless the
+experiment has perfect knowledge of the
+signal strength involved or the ability
+to control the signal at the source it
+is physically impossible to remove the
+galactic foreground so how does the W's
+map team do it because I've just said
+it's impossible well they use different
+methods over different years however the
+methods have nothing that can salvage
+the underlying problem so I just want to
+highlight again what the maps really
+look like so these are this is the five
+channels down in the lower part of the
+page of the slide and in the middle over
+here you have these right the three on
+the right the qw v and w band shown a
+gift at lower resolution but here's what
+they look like before they're cleaned
+now do you see how much there was
+galactic contamination before it's
+cleaned see how it looks when they
+present it
+to us this is the this is what people
+typically see they don't realize that
+cube and actually has that much galaxies
+in it and they don't even show the other
+two because they're going to be red now
+how do they get rid of the galactic
+foreground well this is a great
+experiment what you do is you break up
+the signals in eleven regions some away
+from the galaxy which you call region 0
+and then eleven regions in the plane so
+I guess twelve regions total so what do
+they do well I now they're going to
+they're gonna do some addition here
+they've learned some algebra so what
+they do is they take signal K and they
+negate it and then they add it to ka
+they negate Q they add V they add W now
+this is what they did in region 4 now in
+the adjacent region this is what they
+did so you see that the coefficients are
+completely different they're changing by
+a factor of a thousand percent in two
+regions adjacent to one another but the
+reality is you're not allowed to negate
+this signal all negations constitute a
+violation of the laws of thermal
+emission as they make a cool sky appear
+warmer in the galaxy in addition one one
+can be violating the third law of
+thermodynamics because when one inverts
+these signals he can mathematically
+create negative temperatures which are
+prohibited temperatures do not exist
+below Absolute Zero just imagine if
+there is no monopole at l2 now in
+magnetic resonance I'll confess that we
+can have negative temperatures because
+we can have spin populations and invert
+them so we can talk about negative
+temperatures in our spins
+they don't get to touch the galaxies so
+here's what is happening now for region
+zero look what they're doing each
+channel is either positive as
+choose to make it there's infinite
+number of combinations we can all sit
+down and come and take it some to add to
+one and pick any numbers you want as
+long as they add to one it's a valid
+solution so what have they done it's
+positive this term is negative okay then
+they're negative again then positive but
+look this I told you the data has to be
+reproducible look at the coefficients
+that they use for addition see how
+they're changing over the years
+this one has changed 43 percent that's a
+big change in the same region just oh
+and by the way the three year average
+contains your one so when one inverts
+the channels you're creating the
+monopole the multiples you're creating
+these negative temperatures and you are
+in violation of thermodynamics so what
+is the signal to noise in the M R in the
+W map images so people see oh they see
+these images oh my god this is a real
+image we imaged the universe that's
+because they don't really understand
+what is an image so this is this famous
+image after the removal of the galaxies
+now here's the noise that they plot in
+their paper so they give us a noise of
+plus or minus a hundred micro Kelvin at
+this resolution and we know that their
+images I'm sorry we're at plus or minus
+200 at this resolution these I can't
+remember I don't think these are
+identical resolutions but you can gather
+from their data if you look at it
+carefully they have signal-to-noise of
+about two to one relative to the noise
+of their instrument now I just want to
+show you some some Mr images of things
+or different images Wilson we won't say
+they're all mr so what's the first one
+right here I want you to guess this is a
+2.1 signal-to-noise two to one
+signal-to-noise image this is an actual
+image probably of my head this one is of
+importance to us here this is
+an image of the moon and this one no one
+will guess it's the image of my right
+hand so when you have no signal-to-noise
+guess what you don't have an image
+unless it's reproducible and their image
+is not reproducible so since the W map
+images are not reproducible from year to
+year this is seen in the need to take
+different images at lower resolution
+which you're not allowed to do when you
+take a difference it has to be at the
+same resolution because this makes
+things look better than they really are
+and their coefficients are changing from
+year to year so here we have year one we
+have the three year average now this
+three year average actually contains
+your one but when you take the
+difference of these oh this does not
+look too good because now you have to
+degrade the resolution well when you
+degrade the resolution you lower the
+scale right this 30 doesn't mean
+anything now because this is on a
+different resolution see how big the
+blocks are versus the tiny points here
+you have to keep the resolution the same
+so actually these two images don't agree
+at all even though this image contains
+that one so that gives you an idea how
+bad it is
+so to give it in a different perspective
+I did a color difference map with the
+resolution preserved so in this case now
+I'm taking the three year average which
+again contains year one and I subtracted
+from year one do you see all the
+leftover and I can blow it up for you
+and you can see that there is a lot of
+leftover and some of this signal is red
+so the difference image indicates that
+the data has nothing to do with
+cosmology because these maps are not
+stable from year to year let alone on a
+cosmological time scale so if you have a
+point that moves
+remember we're measuring a signal that
+is not supposed to have moved with the
+universe they tell us as 13 billion
+years old so it doesn't move
+a year-to-year basis so in order to make
+cosmological interpretation the W map
+images must be perfectly stable from
+year to year even fluctuations at the
+level of a few pixels is disastrous and
+it's a lot more than a few pixels
+since the data must be stable on a
+cosmological time scale so this is an
+impossible experiment it cannot be done
+now if you look they also give us new
+analysis of the foreground and they
+actually try to tell us well this
+galactic signal I could break it into
+free--free emission spinning dust
+thermal dust it doesn't matter
+it's all galaxies now the Planck
+satellite I wrote a paper on the Planck
+satellite which Steve talked about about
+the conduction out of the four key
+reference targets well when you have a
+conductive path out of a blackbody it's
+supposed to be a blackbody
+it doesn't need to emit any photons to
+get rid of its heat it can use
+conduction so conduction is strictly
+forbidden so if the satellite isn't even
+designed properly the combination of
+data collected at all of Planck's nine
+frequencies this is a quote from them is
+crucial to achieve the optimal
+reconstruction of the foreground signal
+in order to subtract them violate
+thermodynamics and reveal the underlying
+Cosmic Microwave Background so now we
+have nine signals with Planck and now
+we're going to play the subtraction game
+with these guys I don't care how they
+subtract it you cannot invert any of
+these because these have real physical
+meaning oh and we have our fifteen
+thousand point sources now and they tell
+us it's right for follow-up
+characterization so here are my
+conclusions
+Penzias and Wilson are not allowed to
+assign a temperature of three point five
+Kelvin to their signal they don't know
+the temperature because they don't know
+that the source adheres to the condition
+by which the laws of thermal emission
+can be applied the applications of the
+laws of thermal emission in obtaining a
+real temperature requires that the
+source be enclosed with a perfectly
+absorbing enclosure or that it be a
+solid and furthermore to have a thermal
+spectrum you need a vibrational lattice
+as you find in condensed matter and in
+the BIGBANG
+they will never be one as such the 3.5
+Kelvin temperature is not real it's only
+an apparent temperature and we have no
+evidence that the measured signal
+properly samples the entire energy
+content of the source because if you
+think of water water can put some energy
+in the hydrogen bond it can put some in
+the hydroxyl bond and we know from the
+oceans that they can be a lot in
+convection currents as so the
+temperature assignment stands as a
+violation of the laws of thermal
+emission since Penzias and Wilson cannot
+ascertain that this that the source of
+their signal was devoid of the effects
+of conduction and convection that is
+that they properly sampled all the
+degrees of freedom of the system in
+which they're interested also relative
+time of the monopole given the chemical
+nature of the hydrogen bond and it's
+proven ability to emit in this frequency
+range we know that as Steve mentioned
+from microwave ovens or submarine
+commanders know it because as soon as
+they break the surface of the sea
+microwave is dead when they go
+underwater that shows that the oceans
+are very very powerful absorbers it is
+certain that the monopole signal arises
+from the oceans and that other water
+containing bodies on our planet there is
+no monopole at l2 this implies that the
+earth cannot emit as much radiation in
+these frequency bands as some might
+believe that has consequences for those
+who are interested in radiative balance
+of the earth and everybody who's now
+with global warming so it's important to
+reassign the signal because humanity
+cares about its proper assignment this
+signal belongs to geophysics gnostic
+cosmology now of course we do have
+galactic signals source signals which we
+also sample from the earth but we don't
+care about those because they have no
+meaning they have no meaning in
+cosmology and they have no interest
+relative to understanding the earth the
+central signal that pen Justin Wilson
+won the Nobel Prize for and that signal
+is still tremendously important and
+believe me I still believe they get
+their Nobel Prize that was a great
+discovery but the thing is it has been
+miss assigned by others and now it has
+to be reassigned and this is an example
+of improper anchoring in physics
+microwave signals come primarily from
+our own galaxy and the the billions of
+galaxies found in the universe the point
+sources are innumerable this is relative
+to the anisotropy Maps the microwave
+anisotropy maps have no meaning and
+science so it would beat it the
+microwave anisotropy maps have no
+physical meaning in science they
+represent signal processing errors and
+artifacts violations of thermodynamics
+it is scientifically inappropriate to
+negate some microwave signals and then
+use those results to remove the
+foreground this creates images with both
+positive and negative signals or
+temperatures something never found in
+nature it constitutes at the minimum a
+violation of the laws of radiation and
+at worst a violation of the third law of
+thermodynamics
+once again multiples have no physical
+meaning in science the anisotropy maps
+are devoid of year-to-year stability
+required of a signal of cosmological
+importance as Steve also talked about
+the axis of evil' so the axis of evil
+which has been a subject of recent
+discussion in cosmology is nothing more
+than image processing artifacts which
+arises from an attempt to
+move the foreground and create the
+multiples the Copernican principle
+remains valid we do not live in a
+geocentric universe so even though I
+said the water signal comes from the
+earth I'm not doing cosmology here I'm
+just telling you the oceans are emitting
+in the microwave we do not live in a
+geocentric universe we have never seen
+and will never see the first trillionth
+of a trillionth of a trillionth of a
+second after the Big Bang thank you very
+much
+[Applause]
+[Music]

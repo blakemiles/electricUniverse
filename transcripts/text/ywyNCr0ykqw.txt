@@ -1,0 +1,707 @@
+[
+  {
+    "text": "of course since I've been involved with",
+    "start": 0.0,
+    "duration": 5.13
+  },
+  {
+    "text": "the electric universe for eight more",
+    "start": 2.82,
+    "duration": 3.93
+  },
+  {
+    "text": "than eight years now which seems",
+    "start": 5.13,
+    "duration": 4.41
+  },
+  {
+    "text": "astonishing to me I've seen a lot of",
+    "start": 6.75,
+    "duration": 4.62
+  },
+  {
+    "text": "things change I've seen a lot of people",
+    "start": 9.54,
+    "duration": 4.17
+  },
+  {
+    "text": "come and a lot of people go and a lot of",
+    "start": 11.37,
+    "duration": 4.38
+  },
+  {
+    "text": "people stick around I've seen ideas",
+    "start": 13.71,
+    "duration": 5.85
+  },
+  {
+    "text": "develop I've seen old ideas grow into",
+    "start": 15.75,
+    "duration": 5.609
+  },
+  {
+    "text": "something that was never expected I've",
+    "start": 19.56,
+    "duration": 4.2
+  },
+  {
+    "text": "seen new ideas appear that seemed to",
+    "start": 21.359,
+    "duration": 4.191
+  },
+  {
+    "text": "challenge other well-established",
+    "start": 23.76,
+    "duration": 3.54
+  },
+  {
+    "text": "thinking in the electric universe",
+    "start": 25.55,
+    "duration": 5.559
+  },
+  {
+    "text": "community and people are not afraid to",
+    "start": 27.3,
+    "duration": 16.47
+  },
+  {
+    "text": "express that it all probably started",
+    "start": 31.109,
+    "duration": 15.781
+  },
+  {
+    "text": "when I was seven when my father",
+    "start": 43.77,
+    "duration": 6.199
+  },
+  {
+    "text": "explained to me what a Lightyear was and",
+    "start": 46.89,
+    "duration": 6.54
+  },
+  {
+    "text": "that whole idea that you could calculate",
+    "start": 49.969,
+    "duration": 6.491
+  },
+  {
+    "text": "distance based on time as a matter of",
+    "start": 53.43,
+    "duration": 6.809
+  },
+  {
+    "text": "fact the calculation of the distance in",
+    "start": 56.46,
+    "duration": 6.689
+  },
+  {
+    "text": "a Lightyear in miles was something I",
+    "start": 60.239,
+    "duration": 5.971
+  },
+  {
+    "text": "used to perform over and over again I",
+    "start": 63.149,
+    "duration": 5.551
+  },
+  {
+    "text": "would get the the length of the light",
+    "start": 66.21,
+    "duration": 6.87
+  },
+  {
+    "text": "year 5 trillion 865 billion 656 million",
+    "start": 68.7,
+    "duration": 7.349
+  },
+  {
+    "text": "miles one of the first ideas about",
+    "start": 73.08,
+    "duration": 6.03
+  },
+  {
+    "text": "numbers that ever came to me all those",
+    "start": 76.049,
+    "duration": 6.331
+  },
+  {
+    "text": "years ago so that sparked my interest in",
+    "start": 79.11,
+    "duration": 6.299
+  },
+  {
+    "text": "almost all fields of science not just",
+    "start": 82.38,
+    "duration": 5.55
+  },
+  {
+    "text": "mathematics but mostly what we would",
+    "start": 85.409,
+    "duration": 5.041
+  },
+  {
+    "text": "call the Natural Sciences I was really",
+    "start": 87.93,
+    "duration": 6.119
+  },
+  {
+    "text": "into hands-on experience and what I",
+    "start": 90.45,
+    "duration": 5.7
+  },
+  {
+    "text": "could actually conceived through my",
+    "start": 94.049,
+    "duration": 7.591
+  },
+  {
+    "text": "senses so I was given microscopes for my",
+    "start": 96.15,
+    "duration": 8.19
+  },
+  {
+    "text": "birthday and telescopes and other",
+    "start": 101.64,
+    "duration": 4.95
+  },
+  {
+    "text": "devices that I could use to explore the",
+    "start": 104.34,
+    "duration": 4.44
+  },
+  {
+    "text": "natural world and I'm grateful even to",
+    "start": 106.59,
+    "duration": 3.75
+  },
+  {
+    "text": "this day that my parents at least my",
+    "start": 108.78,
+    "duration": 4.29
+  },
+  {
+    "text": "father especially was able to recognize",
+    "start": 110.34,
+    "duration": 5.4
+  },
+  {
+    "text": "that interest in me and nurture it so",
+    "start": 113.07,
+    "duration": 5.61
+  },
+  {
+    "text": "eventually that led me to the discovery",
+    "start": 115.74,
+    "duration": 6.809
+  },
+  {
+    "text": "of Immanuel Velikovsky worlds in",
+    "start": 118.68,
+    "duration": 8.729
+  },
+  {
+    "text": "collision was given to me by a botany",
+    "start": 122.549,
+    "duration": 7.141
+  },
+  {
+    "text": "professor that I knew at the University",
+    "start": 127.409,
+    "duration": 4.741
+  },
+  {
+    "text": "of California Riverside I used to help",
+    "start": 129.69,
+    "duration": 3.36
+  },
+  {
+    "text": "him",
+    "start": 132.15,
+    "duration": 3.09
+  },
+  {
+    "text": "with his experiments he was doing an",
+    "start": 133.05,
+    "duration": 6.57
+  },
+  {
+    "text": "investigation into a viral cancer of the",
+    "start": 135.24,
+    "duration": 7.68
+  },
+  {
+    "text": "tobacco plant and doing sections and",
+    "start": 139.62,
+    "duration": 5.52
+  },
+  {
+    "text": "this and that me other so he could look",
+    "start": 142.92,
+    "duration": 3.68
+  },
+  {
+    "text": "at them through an electron microscope",
+    "start": 145.14,
+    "duration": 4.08
+  },
+  {
+    "text": "it was interesting being in the lab with",
+    "start": 146.6,
+    "duration": 3.82
+  },
+  {
+    "text": "him and seeing an electron microscope",
+    "start": 149.22,
+    "duration": 4.23
+  },
+  {
+    "text": "and and actually being able to",
+    "start": 150.42,
+    "duration": 6.0
+  },
+  {
+    "text": "experience what scientific research was",
+    "start": 153.45,
+    "duration": 6.42
+  },
+  {
+    "text": "all about when I was a teenager immanuel",
+    "start": 156.42,
+    "duration": 7.14
+  },
+  {
+    "text": "velikovsky worlds in collision then of",
+    "start": 159.87,
+    "duration": 6.51
+  },
+  {
+    "text": "course Earth an upheaval and the idea",
+    "start": 163.56,
+    "duration": 5.79
+  },
+  {
+    "text": "that even the very stones themselves cry",
+    "start": 166.38,
+    "duration": 5.28
+  },
+  {
+    "text": "out that you can look at various",
+    "start": 169.35,
+    "duration": 4.26
+  },
+  {
+    "text": "formations and features around the world",
+    "start": 171.66,
+    "duration": 5.46
+  },
+  {
+    "text": "and see that something happened to earth",
+    "start": 173.61,
+    "duration": 8.46
+  },
+  {
+    "text": "that is not the long slow gradualism the",
+    "start": 177.12,
+    "duration": 7.83
+  },
+  {
+    "text": "conventional geology teaches earth is",
+    "start": 182.07,
+    "duration": 5.46
+  },
+  {
+    "text": "the scene of tremendous devastation it's",
+    "start": 184.95,
+    "duration": 5.3
+  },
+  {
+    "text": "been carved up like a pumpkin we've got",
+    "start": 187.53,
+    "duration": 5.55
+  },
+  {
+    "text": "30,000 foot mountain ranges if you",
+    "start": 190.25,
+    "duration": 5.1
+  },
+  {
+    "text": "consider Mon Aloha for example that's a",
+    "start": 193.08,
+    "duration": 5.07
+  },
+  {
+    "text": "35,000 foot mountain in the Pacific",
+    "start": 195.35,
+    "duration": 5.26
+  },
+  {
+    "text": "Ocean twenty-nine thousand foot Mount",
+    "start": 198.15,
+    "duration": 5.33
+  },
+  {
+    "text": "Everest and then you have the the",
+    "start": 200.61,
+    "duration": 6.24
+  },
+  {
+    "text": "Challenger Deep at 35,000 feet below the",
+    "start": 203.48,
+    "duration": 6.69
+  },
+  {
+    "text": "surface of the ocean these are amazing",
+    "start": 206.85,
+    "duration": 6.359
+  },
+  {
+    "text": "structures that conventional geology",
+    "start": 210.17,
+    "duration": 5.8
+  },
+  {
+    "text": "can't adequately explain things that i",
+    "start": 213.209,
+    "duration": 5.131
+  },
+  {
+    "text": "would call fatal flaws and the theory",
+    "start": 215.97,
+    "duration": 5.13
+  },
+  {
+    "text": "that I've detailed in several pictures",
+    "start": 218.34,
+    "duration": 4.98
+  },
+  {
+    "text": "of the day as far as I'm concerned",
+    "start": 221.1,
+    "duration": 4.88
+  },
+  {
+    "text": "Immanuel Velikovsky 'he's research",
+    "start": 223.32,
+    "duration": 5.55
+  },
+  {
+    "text": "founded of course on people who came",
+    "start": 225.98,
+    "duration": 6.1
+  },
+  {
+    "text": "before him like Ignatius Donnelly and",
+    "start": 228.87,
+    "duration": 5.91
+  },
+  {
+    "text": "his concept of the great comet appearing",
+    "start": 232.08,
+    "duration": 5.19
+  },
+  {
+    "text": "in the sky and virtually devastating",
+    "start": 234.78,
+    "duration": 6.0
+  },
+  {
+    "text": "earth those two ideas I considered to be",
+    "start": 237.27,
+    "duration": 6.3
+  },
+  {
+    "text": "breakthrough concepts in my thinking",
+    "start": 240.78,
+    "duration": 6.24
+  },
+  {
+    "text": "that something other than conventional",
+    "start": 243.57,
+    "duration": 6.24
+  },
+  {
+    "text": "cosmogony was at work in the solar",
+    "start": 247.02,
+    "duration": 6.27
+  },
+  {
+    "text": "system and that I have not been exposed",
+    "start": 249.81,
+    "duration": 5.88
+  },
+  {
+    "text": "to or had not been exposed to up until",
+    "start": 253.29,
+    "duration": 5.97
+  },
+  {
+    "text": "that point so once that happened once",
+    "start": 255.69,
+    "duration": 7.2
+  },
+  {
+    "text": "that door opened of course that gave me",
+    "start": 259.26,
+    "duration": 5.17
+  },
+  {
+    "text": "insight into an",
+    "start": 262.89,
+    "duration": 3.79
+  },
+  {
+    "text": "I early new dimension of thinking about",
+    "start": 264.43,
+    "duration": 5.88
+  },
+  {
+    "text": "things like the electric son when I read",
+    "start": 266.68,
+    "duration": 6.87
+  },
+  {
+    "text": "Ralph Jergens article on the electric",
+    "start": 270.31,
+    "duration": 8.609
+  },
+  {
+    "text": "son in Velikovsky reconsidered published",
+    "start": 273.55,
+    "duration": 9.39
+  },
+  {
+    "text": "by ponse I was amazed that thermo",
+    "start": 278.919,
+    "duration": 8.731
+  },
+  {
+    "text": "nuclear theory was um was so inadequate",
+    "start": 282.94,
+    "duration": 8.28
+  },
+  {
+    "text": "when it came to the Sun the corona you",
+    "start": 287.65,
+    "duration": 6.0
+  },
+  {
+    "text": "know people just gloss over the problem",
+    "start": 291.22,
+    "duration": 4.919
+  },
+  {
+    "text": "of the corona they had being two million",
+    "start": 293.65,
+    "duration": 5.13
+  },
+  {
+    "text": "degrees hotter than the photosphere or",
+    "start": 296.139,
+    "duration": 5.731
+  },
+  {
+    "text": "the surface of the Sun nothing even",
+    "start": 298.78,
+    "duration": 5.669
+  },
+  {
+    "text": "still has been suggested as an adequate",
+    "start": 301.87,
+    "duration": 5.639
+  },
+  {
+    "text": "explanation over time once the internet",
+    "start": 304.449,
+    "duration": 5.731
+  },
+  {
+    "text": "came into things you know back in 1992",
+    "start": 307.509,
+    "duration": 5.401
+  },
+  {
+    "text": "when I first got online before there",
+    "start": 310.18,
+    "duration": 4.769
+  },
+  {
+    "text": "were such things as search engines I",
+    "start": 312.91,
+    "duration": 4.65
+  },
+  {
+    "text": "started looking for information about",
+    "start": 314.949,
+    "duration": 5.28
+  },
+  {
+    "text": "Immanuel Velikovsky because I knew that",
+    "start": 317.56,
+    "duration": 4.35
+  },
+  {
+    "text": "a lot of this stuff had not been",
+    "start": 320.229,
+    "duration": 4.47
+  },
+  {
+    "text": "published in print and there must be an",
+    "start": 321.91,
+    "duration": 5.189
+  },
+  {
+    "text": "archive of it somewhere I thought that",
+    "start": 324.699,
+    "duration": 4.561
+  },
+  {
+    "text": "with this new emerging technology of the",
+    "start": 327.099,
+    "duration": 4.201
+  },
+  {
+    "text": "internet that somebody would put a",
+    "start": 329.26,
+    "duration": 5.46
+  },
+  {
+    "text": "database up someplace with velikovsky",
+    "start": 331.3,
+    "duration": 5.88
+  },
+  {
+    "text": "data it was until a few years later that",
+    "start": 334.72,
+    "duration": 5.16
+  },
+  {
+    "text": "I discovered the velikovsky archive and",
+    "start": 337.18,
+    "duration": 8.58
+  },
+  {
+    "text": "indeed wal Thornhill had a cd-rom",
+    "start": 339.88,
+    "duration": 7.5
+  },
+  {
+    "text": "available I don't know if people",
+    "start": 345.76,
+    "duration": 4.14
+  },
+  {
+    "text": "remember CD ROMs but he had a cd-rom",
+    "start": 347.38,
+    "duration": 4.23
+  },
+  {
+    "text": "available called the electric universe",
+    "start": 349.9,
+    "duration": 5.73
+  },
+  {
+    "text": "so I immediately purchased that in 1998",
+    "start": 351.61,
+    "duration": 7.799
+  },
+  {
+    "text": "and began long correspondence with wall",
+    "start": 355.63,
+    "duration": 6.56
+  },
+  {
+    "text": "at that point then as I had begun",
+    "start": 359.409,
+    "duration": 6.391
+  },
+  {
+    "text": "writing to Dave Talbot as well as wal",
+    "start": 362.19,
+    "duration": 6.069
+  },
+  {
+    "text": "thornhill and in fact the three of us",
+    "start": 365.8,
+    "duration": 5.22
+  },
+  {
+    "text": "had correspondence about crater chains",
+    "start": 368.259,
+    "duration": 5.25
+  },
+  {
+    "text": "on the moon and other formations that",
+    "start": 371.02,
+    "duration": 4.709
+  },
+  {
+    "text": "were very anomalous as far as the solar",
+    "start": 373.509,
+    "duration": 5.011
+  },
+  {
+    "text": "system was concerned in fact I think at",
+    "start": 375.729,
+    "duration": 5.25
+  },
+  {
+    "text": "around that time in the late 90s the mid",
+    "start": 378.52,
+    "duration": 4.829
+  },
+  {
+    "text": "to late 90s all of us were starting to",
+    "start": 380.979,
+    "duration": 5.071
+  },
+  {
+    "text": "get involved in ideas about the",
+    "start": 383.349,
+    "duration": 5.361
+  },
+  {
+    "text": "anomalies in the solar system and",
+    "start": 386.05,
+    "duration": 4.98
+  },
+  {
+    "text": "velikovsky and what we're actually",
+    "start": 388.71,
+    "duration": 5.47
+  },
+  {
+    "text": "seeing as new spacecraft were being",
+    "start": 391.03,
+    "duration": 5.999
+  },
+  {
+    "text": "launched farther and farther into space",
+    "start": 394.18,
+    "duration": 3.959
+  },
+  {
+    "text": "and",
+    "start": 397.029,
+    "duration": 2.67
+  },
+  {
+    "text": "being with greater and greater",
+    "start": 398.139,
+    "duration": 5.43
+  },
+  {
+    "text": "resolution suddenly confirmation seemed",
+    "start": 399.699,
+    "duration": 6.381
+  },
+  {
+    "text": "to be everywhere",
+    "start": 403.569,
+    "duration": 2.511
+  },
+  {
+    "text": "you",
+    "start": 414.91,
+    "duration": 2.06
+  }
+]

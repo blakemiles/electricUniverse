@@ -1,0 +1,1237 @@
+[
+  {
+    "text": "Welcome to Space News from the Electric\nUniverse brought to you by The",
+    "start": 6.77,
+    "duration": 4.18
+  },
+  {
+    "text": "Thunderbolts Project™ at Thunderbolts.info\nIn Part 1 of this two-part",
+    "start": 10.95,
+    "duration": 9.54
+  },
+  {
+    "text": "presentation, Dr. Raymond Gallucci began\nhis independent mathematical analysis of",
+    "start": 20.49,
+    "duration": 5.22
+  },
+  {
+    "text": "cosmological alternatives to the\nstandard interpretations of cosmic",
+    "start": 25.71,
+    "duration": 4.02
+  },
+  {
+    "text": "redshift. For many decades, astronomers\nhave believed that cosmological redshift",
+    "start": 29.73,
+    "duration": 5.25
+  },
+  {
+    "text": "indicates “stretching” of light in an \nexpanding universe. The higher an",
+    "start": 34.98,
+    "duration": 5.7
+  },
+  {
+    "text": "object’s redshift, the farther away it is\nfrom our perspective on Earth. However, as",
+    "start": 40.68,
+    "duration": 5.3
+  },
+  {
+    "text": "we've reported exhaustively on this\nseries, an imposing body of scientific",
+    "start": 45.98,
+    "duration": 4.5
+  },
+  {
+    "text": "research contradicts that perspective.\nToday, Dr. Gallucci concludes his",
+    "start": 50.48,
+    "duration": 5.41
+  },
+  {
+    "text": "analysis on the mathematical\nplausibility of the respective",
+    "start": 55.89,
+    "duration": 3.27
+  },
+  {
+    "text": "alternative redshift explanations by\nscientists Halton ARP and C-C Su. Now, let me",
+    "start": 59.16,
+    "duration": 7.29
+  },
+  {
+    "text": "switch over to the quantization concept\nand I'll now read from quotations from",
+    "start": 66.45,
+    "duration": 7.02
+  },
+  {
+    "text": "Halton ARP’s talk given to the Kronia\ngroup at the conference in Portland in",
+    "start": 73.47,
+    "duration": 5.55
+  },
+  {
+    "text": "Oregon 2000. He was talking about his\ntheory on intrinsic redshift. “in the",
+    "start": 79.02,
+    "duration": 5.45
+  },
+  {
+    "text": "early 1950s, they saw thin connections\nbetween galaxies and radio lobes, going",
+    "start": 84.47,
+    "duration": 6.16
+  },
+  {
+    "text": "from the central galaxy out to the\nradio lobes on either side. This material",
+    "start": 90.63,
+    "duration": 5.27
+  },
+  {
+    "text": "is actually being ejected; that's about\nthe only way you could get this",
+    "start": 95.9,
+    "duration": 3.49
+  },
+  {
+    "text": "configuration. if the galaxy is going to\neject something, it's going to eject",
+    "start": 99.39,
+    "duration": 5.15
+  },
+  {
+    "text": "along the path of least resistance, which\nis out the poles of the galaxy. You have",
+    "start": 104.54,
+    "duration": 4.93
+  },
+  {
+    "text": "this nice relationship that, as the\nquasars proceed out as time goes past,",
+    "start": 109.47,
+    "duration": 4.92
+  },
+  {
+    "text": "they age and drop, in preferred\nquantized redshifts. What I, Halton Arp,",
+    "start": 114.39,
+    "duration": 5.88
+  },
+  {
+    "text": "have interpreted this to mean, is that\nthese quasars move out, evolving to low",
+    "start": 120.27,
+    "duration": 5.01
+  },
+  {
+    "text": "redshift.” And if you look at the various\nvideos or some of the websites, or even",
+    "start": 125.28,
+    "duration": 6.56
+  },
+  {
+    "text": "the books that Halton Arp has\npublished, he has some very nice",
+    "start": 131.84,
+    "duration": 3.22
+  },
+  {
+    "text": "pictures that show galaxies, apparent\ngalaxies with a series of smaller",
+    "start": 135.06,
+    "duration": 5.79
+  },
+  {
+    "text": "galaxies at various distances from\nthe galaxy, with these",
+    "start": 140.85,
+    "duration": 4.74
+  },
+  {
+    "text": "quantized redshifts. So, if we look at the\nregression fits that I had back in slide",
+    "start": 145.59,
+    "duration": 7.38
+  },
+  {
+    "text": "10, again there were five\nregression fits of which three I",
+    "start": 152.97,
+    "duration": 4.38
+  },
+  {
+    "text": "selected as being possible contenders\nfor calculation for quantization. What I",
+    "start": 157.35,
+    "duration": 6.9
+  },
+  {
+    "text": "have here, I have the five observed redshift\npeaks, their time increments. Again,",
+    "start": 164.25,
+    "duration": 7.17
+  },
+  {
+    "text": "the redshift drops as the time, or the\ndistance, increases. So, you'll see that",
+    "start": 171.42,
+    "duration": 4.98
+  },
+  {
+    "text": "the time increments go from 5 down to 1,\nwhile the Z-peaks go from 0.3 up",
+    "start": 176.4,
+    "duration": 5.58
+  },
+  {
+    "text": "to 1.96. I then took the three best\nregression fits; the first was a function",
+    "start": 181.98,
+    "duration": 6.21
+  },
+  {
+    "text": "of the square root of the mass ratio\nagain, the mass of the quasar or",
+    "start": 188.19,
+    "duration": 5.04
+  },
+  {
+    "text": "QSO, to the mass of the Sun. The second\nfit was based on the natural log of the",
+    "start": 193.23,
+    "duration": 5.19
+  },
+  {
+    "text": "ratio; and the third was based on the\nratio to the two-thirds power. And I",
+    "start": 198.42,
+    "duration": 4.68
+  },
+  {
+    "text": "calculated the mass ratios that would\ncome from these formulas. And their",
+    "start": 203.1,
+    "duration": 6.21
+  },
+  {
+    "text": "average is shown in the rightmost column.\nSo, those are the",
+    "start": 209.31,
+    "duration": 7.02
+  },
+  {
+    "text": "QSO mass ratios for the various\nZ-peaks and the text there reads, “From the",
+    "start": 216.33,
+    "duration": 6.39
+  },
+  {
+    "text": "three best regression fits, estimate the\nQSO mass at each of the main five",
+    "start": 222.72,
+    "duration": 4.65
+  },
+  {
+    "text": "redshift peaks. If there is a quantization\nphenomenon as the QSO is",
+    "start": 227.37,
+    "duration": 4.95
+  },
+  {
+    "text": "ejected and travels outward, with\nredshift decreasing in specific",
+    "start": 232.32,
+    "duration": 4.29
+  },
+  {
+    "text": "increments (these are increments of time or\ndistance), we expect some relationship",
+    "start": 236.61,
+    "duration": 4.65
+  },
+  {
+    "text": "between redshift, and therefore mass, of\nthe QSO with time and/or distance. With",
+    "start": 241.26,
+    "duration": 5.79
+  },
+  {
+    "text": "time or distance increment 1 being\nassociated with the newly ejected QSO",
+    "start": 247.05,
+    "duration": 4.44
+  },
+  {
+    "text": "(that's shown as time increment 1), it\nhas a redshift of 1.96, a scaled mass,",
+    "start": 251.49,
+    "duration": 5.43
+  },
+  {
+    "text": "mass ratio of about 2E+9 It's the\nlargest redshift and it's also",
+    "start": 256.92,
+    "duration": 6.33
+  },
+  {
+    "text": "the largest mass, and increment 5\nassociated with the oldest",
+    "start": 263.25,
+    "duration": 3.93
+  },
+  {
+    "text": "QSO; that's shown in the first row,\nthat's the redshift of 0.3, the scaled",
+    "start": 267.18,
+    "duration": 5.48
+  },
+  {
+    "text": "mass of 1.65E+8, about a\nfactor of 10 lower.",
+    "start": 272.66,
+    "duration": 4.81
+  },
+  {
+    "text": "So again, Arp's theory is that as the\nQSOs are ejected, they travel outward",
+    "start": 277.47,
+    "duration": 5.81
+  },
+  {
+    "text": "from the parent galaxy and their\nredshifts drop with time, which is the",
+    "start": 283.28,
+    "duration": 4.96
+  },
+  {
+    "text": "same as with distance, as their mass\ndecreases. Now again, going back to the",
+    "start": 288.24,
+    "duration": 6.42
+  },
+  {
+    "text": "previous slide, I'm going to do another\nregression, using the average mass ratio",
+    "start": 294.66,
+    "duration": 5.06
+  },
+  {
+    "text": "in the rightmost column, at the various\ntime increments 5-4-3-2-1,",
+    "start": 299.72,
+    "duration": 4.74
+  },
+  {
+    "text": "which are analogous to distance increments.\nYou can see the results there,",
+    "start": 304.46,
+    "duration": 4.63
+  },
+  {
+    "text": "on the graph we have the mass as it’s\nscaled to the mass of the Sun, versus time",
+    "start": 309.09,
+    "duration": 5.07
+  },
+  {
+    "text": "or distance increment. And again, I had\nfive regression fits; the exponential in",
+    "start": 314.16,
+    "duration": 7.74
+  },
+  {
+    "text": "purple fits the data best, passing\nthrough all the quantized values. The",
+    "start": 321.9,
+    "duration": 6.32
+  },
+  {
+    "text": "natural log in blue as nearly as good;\nthe inverse time shown in green is",
+    "start": 328.22,
+    "duration": 5.77
+  },
+  {
+    "text": "slightly weaker, but it's still\nacceptable. If you look at these you'll",
+    "start": 333.99,
+    "duration": 3.92
+  },
+  {
+    "text": "see that all three of these, the ones\nhighlighted in yellow, stay above zero",
+    "start": 337.91,
+    "duration": 5.35
+  },
+  {
+    "text": "through the fifth increment. The\nother two that are still decent fits,",
+    "start": 343.26,
+    "duration": 6.99
+  },
+  {
+    "text": "hit down to zero around 5, so I\ndidn't work with those any further. The",
+    "start": 350.25,
+    "duration": 6.09
+  },
+  {
+    "text": "question asked is, do any of these in\nyellow highlights, suggest the",
+    "start": 356.34,
+    "duration": 3.41
+  },
+  {
+    "text": "quantization mechanism? Again let's\nreturn to Halton Arp’s talk at the Kronia",
+    "start": 359.75,
+    "duration": 7.65
+  },
+  {
+    "text": "conference group in Portland, and I'll\nquote from him again.",
+    "start": 367.4,
+    "duration": 3.69
+  },
+  {
+    "text": "Here he's now talking about particle\nmass being variable with time, and to",
+    "start": 371.09,
+    "duration": 6.52
+  },
+  {
+    "text": "quote Halton, “Einstein’s solution in\n1922, made an approximation which I,",
+    "start": 377.61,
+    "duration": 6.96
+  },
+  {
+    "text": "Halton Arp, think was wrong. The\nparticle masses were constant everywhere",
+    "start": 384.57,
+    "duration": 4.5
+  },
+  {
+    "text": "in the universe - that was the\napproximation by Einstein. With this",
+    "start": 389.07,
+    "duration": 4.17
+  },
+  {
+    "text": "approximation, they got the Big Bang\nsolution and they predict expanding",
+    "start": 393.24,
+    "duration": 4.41
+  },
+  {
+    "text": "coordinates, singularities at time equals zero,",
+    "start": 397.65,
+    "duration": 3.33
+  },
+  {
+    "text": "and this demands that all the redshifts\nare velocities of recession. Jack",
+    "start": 400.98,
+    "duration": 5.76
+  },
+  {
+    "text": "Narlikar and Fred Hoyle did not assume\nthat particle masses were constant in",
+    "start": 406.74,
+    "duration": 4.23
+  },
+  {
+    "text": "time, and they got a very simple solution\nthat the masses varied with the time",
+    "start": 410.97,
+    "duration": 4.59
+  },
+  {
+    "text": "squared. That is, as time went on, they\ncommunicated with more and more of the",
+    "start": 415.56,
+    "duration": 5.31
+  },
+  {
+    "text": "universe, and their mass grew. This is\na Machian theory: if the electron mass-",
+    "start": 420.87,
+    "duration": 6.6
+  },
+  {
+    "text": "when it makes its transition in the atom\nand emits the photon- is small, the photon",
+    "start": 427.47,
+    "duration": 5.67
+  },
+  {
+    "text": "is weak and it's red shifted. As the\nelectron grows in mass, the photon which",
+    "start": 433.14,
+    "duration": 5.34
+  },
+  {
+    "text": "is emitted, is stronger and it drops in\nredshift. So, this is a perfect",
+    "start": 438.48,
+    "duration": 4.35
+  },
+  {
+    "text": "explanation for what we've been seeing,\nthat younger objects are highly",
+    "start": 442.83,
+    "duration": 3.84
+  },
+  {
+    "text": "redshifted and the sacred Hubble\nconstant is just the inverse age of our",
+    "start": 446.67,
+    "duration": 4.41
+  },
+  {
+    "text": "galaxy. Continuing with the Halton Arp’s talk at",
+    "start": 451.08,
+    "duration": 3.6
+  },
+  {
+    "text": "that conference, if you start in the\ngalaxy nucleus, you get a high density in",
+    "start": 454.68,
+    "duration": 4.89
+  },
+  {
+    "text": "the center of this active nucleus, this\nmysterious engine where the stuff is",
+    "start": 459.57,
+    "duration": 4.23
+  },
+  {
+    "text": "created. The new particles are in that\nenvironment and they're gaining mass",
+    "start": 463.8,
+    "duration": 4.56
+  },
+  {
+    "text": "from their environment very rapidly. When\nthey step out of the nucleus, they go",
+    "start": 468.36,
+    "duration": 5.01
+  },
+  {
+    "text": "into a different, much lower density,\nenvironment into the bulge of the galaxy,",
+    "start": 473.37,
+    "duration": 4.62
+  },
+  {
+    "text": "and then, if they come out in the plane\nof the galaxy or along the axis, they",
+    "start": 477.99,
+    "duration": 4.74
+  },
+  {
+    "text": "drop here into the local group. These are\nenormous drops in density and finally",
+    "start": 482.73,
+    "duration": 5.7
+  },
+  {
+    "text": "when they drop out of the local group of\ngalaxies, they take another step down",
+    "start": 488.43,
+    "duration": 3.84
+  },
+  {
+    "text": "into the local supercluster of galaxies,\nand out the local supercluster they take",
+    "start": 492.27,
+    "duration": 5.19
+  },
+  {
+    "text": "yet another step down. These particles\nwill be gaining mass very rapidly and",
+    "start": 497.46,
+    "duration": 5.04
+  },
+  {
+    "text": "the redshift will be dropping very\nrapidly and then it finally levels off.",
+    "start": 502.5,
+    "duration": 4.29
+  },
+  {
+    "text": "And there goes another step in the drop,\nand there are just about six drops and",
+    "start": 506.79,
+    "duration": 5.13
+  },
+  {
+    "text": "there are six major quantization levels,\nand he quotes the values of 1.96, 1.41,",
+    "start": 511.92,
+    "duration": 5.63
+  },
+  {
+    "text": "0.96, 0.6, 0.3 and the one that was postulated at",
+    "start": 517.55,
+    "duration": 7.39
+  },
+  {
+    "text": "a very low 0.061. And the\nfollowing slide, this is taken again from",
+    "start": 524.94,
+    "duration": 5.48
+  },
+  {
+    "text": "Halton Arp’s talk at the Kronia group.\nHe presented a series",
+    "start": 530.42,
+    "duration": 4.3
+  },
+  {
+    "text": "of slides that show these drops in\ndensity and I made a composite schematic",
+    "start": 534.72,
+    "duration": 5.15
+  },
+  {
+    "text": "from his presentation; and there's\nincremental increases in particle mass",
+    "start": 539.87,
+    "duration": 4.36
+  },
+  {
+    "text": "and corresponding quantized drops in\nredshift. If we start from zero, which is",
+    "start": 544.23,
+    "duration": 5.07
+  },
+  {
+    "text": "at the top, that shows the galactic\nnucleus and the leftmost axis there",
+    "start": 549.3,
+    "duration": 5.45
+  },
+  {
+    "text": "shows drops in density, while the left\naxis, the vertical axis and the y-axis,",
+    "start": 554.75,
+    "duration": 5.07
+  },
+  {
+    "text": "the x-axis is time/distance as the\nQSO moves outward. So, we start",
+    "start": 559.82,
+    "duration": 7.38
+  },
+  {
+    "text": "from zero which is the galactic nucleus,\nthen proceed to the first step, which is",
+    "start": 567.2,
+    "duration": 3.97
+  },
+  {
+    "text": "the drop to the galactic bulge, which is\nstep 1. Following that, we go to the",
+    "start": 571.17,
+    "duration": 5.13
+  },
+  {
+    "text": "galactic plane or axial ejection which\nis shown as step 2. That then proceeds",
+    "start": 576.3,
+    "duration": 5.45
+  },
+  {
+    "text": "to the local galactic group, which is\nstep 3. Next goes to the galactic",
+    "start": 581.75,
+    "duration": 4.72
+  },
+  {
+    "text": "super cluster, which is step 4 and\nfinally then there's a step 5, which",
+    "start": 586.47,
+    "duration": 5.4
+  },
+  {
+    "text": "is postulating, he does not specify what that is,\nbut again, the key here is that",
+    "start": 591.87,
+    "duration": 5.27
+  },
+  {
+    "text": "Halton Arp sees the stepwise incremental\nincreases in particle mass corresponding",
+    "start": 597.14,
+    "duration": 6.12
+  },
+  {
+    "text": "to the quantized drops in redshift. So\nthis is his explanation for the",
+    "start": 603.26,
+    "duration": 4.44
+  },
+  {
+    "text": "quantization of redshift. Now I'd like to\ntalk a little bit about the theory of",
+    "start": 607.7,
+    "duration": 5.31
+  },
+  {
+    "text": "C-C Su, from whom I use the redshift data.\nThis is from an article taken from the",
+    "start": 613.01,
+    "duration": 6.24
+  },
+  {
+    "text": "arXiv website in physics in 2006.\nAccording to Su is the following.",
+    "start": 619.25,
+    "duration": 6.25
+  },
+  {
+    "text": "According to the ejection model, quasars\nare formed from the gas of atoms, plasma",
+    "start": 625.5,
+    "duration": 5.22
+  },
+  {
+    "text": "and dust ejected from the parent active\ngalaxy. Suppose that the material of",
+    "start": 630.72,
+    "duration": 4.61
+  },
+  {
+    "text": "the gas cloud together forms a local\nether. The gravitational potential on the",
+    "start": 635.33,
+    "duration": 4.96
+  },
+  {
+    "text": "surface of the quasar is extraordinarily\nstrong. The wide variation in redshift",
+    "start": 640.29,
+    "duration": 5.51
+  },
+  {
+    "text": "can be ascribed to a variation in\ndensity and size of the gas cloud, which",
+    "start": 645.8,
+    "duration": 4.63
+  },
+  {
+    "text": "can be due to the strength of the\ninitial ejection from the parent",
+    "start": 650.43,
+    "duration": 3.0
+  },
+  {
+    "text": "galaxy. The speed at which the cloud\nmoves away, to the gas expansion, to the",
+    "start": 653.43,
+    "duration": 5.12
+  },
+  {
+    "text": "fragmentation of glass clouds, and to\nstar formation. So, he has multiple",
+    "start": 658.55,
+    "duration": 4.75
+  },
+  {
+    "text": "explanations for the wide variation in\nredshift. Due to the non-uniformity",
+    "start": 663.3,
+    "duration": 4.86
+  },
+  {
+    "text": "in particle velocity and density, or to\nsome internal disturbance, the quasar may",
+    "start": 668.16,
+    "duration": 4.97
+  },
+  {
+    "text": "break into pieces of identical or\nsimilar sizes. Suppose the fragments are",
+    "start": 673.13,
+    "duration": 4.95
+  },
+  {
+    "text": "also spherical and the density remains\nunchanged. Thereby their radius is",
+    "start": 678.08,
+    "duration": 4.78
+  },
+  {
+    "text": "shorter than the previous one by a\nfactor of 2^-1/3 power; and",
+    "start": 682.86,
+    "duration": 4.76
+  },
+  {
+    "text": "the gravitational potential on the\nsurface of either fragment will decrease",
+    "start": 687.62,
+    "duration": 3.55
+  },
+  {
+    "text": "by a factor of 2^-2/3 power.\nAnd after the nth splitting in half, the",
+    "start": 691.17,
+    "duration": 5.76
+  },
+  {
+    "text": "gravitationally induced intrinsic redshift\nis given by the formula shown there,",
+    "start": 696.93,
+    "duration": 5.09
+  },
+  {
+    "text": "1+zn equals the square root\nof those terms there. Continuing with",
+    "start": 702.02,
+    "duration": 5.65
+  },
+  {
+    "text": "gravity induced quantization from C-C Su,\nwhat are the terms inside the square",
+    "start": 707.67,
+    "duration": 5.43
+  },
+  {
+    "text": "root on the previous formula? The 1 plus\nz0 squared minus 1, denotes 2 times the",
+    "start": 713.1,
+    "duration": 5.78
+  },
+  {
+    "text": "normalized gravitational potential,\ncorresponding to the 0th redshift,",
+    "start": 718.88,
+    "duration": 4.99
+  },
+  {
+    "text": "z sub 0. For the cases of very high\nredshift, this can be approximated as 1",
+    "start": 723.87,
+    "duration": 5.45
+  },
+  {
+    "text": "plus Z to the n equal to 1.26\nto the minus n times 1 plus Z sub 0. By",
+    "start": 729.32,
+    "duration": 7.56
+  },
+  {
+    "text": "adopting the preferred redshift value\nof 1.956 as the 0th redshift once",
+    "start": 736.88,
+    "duration": 5.59
+  },
+  {
+    "text": "again, this formula leads to the\nprediction that the preferred",
+    "start": 742.47,
+    "duration": 3.57
+  },
+  {
+    "text": "intrinsic redshifts are a series\nstarting at z equal to 6.08,",
+    "start": 746.04,
+    "duration": 5.03
+  },
+  {
+    "text": "and shown there are the series\ndown to 0.06, with n",
+    "start": 751.07,
+    "duration": 7.06
+  },
+  {
+    "text": "ranging from -4 to +9  by integers.\nAnd the ones highlighted in red,",
+    "start": 758.13,
+    "duration": 5.67
+  },
+  {
+    "text": "are the ones that have been observed.\nYou notice that the",
+    "start": 763.8,
+    "duration": 5.31
+  },
+  {
+    "text": "0.06 isn't shown there. But\nwhat see C-C Su observes is that a",
+    "start": 769.11,
+    "duration": 3.83
+  },
+  {
+    "text": "redshift distribution around 0.6\nmay actually be a merger of two",
+    "start": 772.94,
+    "duration": 4.14
+  },
+  {
+    "text": "close distributions around 0.71 and\n0.49 which are two that he predicts, and",
+    "start": 777.08,
+    "duration": 6.6
+  },
+  {
+    "text": "that just happens to be the average of\nthe two, 0.6. So, he does get",
+    "start": 783.68,
+    "duration": 5.32
+  },
+  {
+    "text": "the 6 key redshift peaks from his\nformula. Low redshift peaks are expected",
+    "start": 789.0,
+    "duration": 6.77
+  },
+  {
+    "text": "to be smeared, since other affecting\nfactors of uneven splitting, gas",
+    "start": 795.77,
+    "duration": 4.41
+  },
+  {
+    "text": "expansion and star formation,\nwill accumulate with time.",
+    "start": 800.18,
+    "duration": 4.24
+  },
+  {
+    "text": "Now, my observation is that unlike Arp’s\ntheory, Su’s does not postulate the",
+    "start": 804.42,
+    "duration": 4.32
+  },
+  {
+    "text": "series of quantized redshifts represents\nQSO evolution with time and/or distance,",
+    "start": 808.74,
+    "duration": 5.49
+  },
+  {
+    "text": "although he does agree that QSOs are\nformed by injection from a parent galaxy.",
+    "start": 814.23,
+    "duration": 4.5
+  },
+  {
+    "text": "His quantizations are static for each\nQSO and dependent upon various initial",
+    "start": 818.73,
+    "duration": 5.13
+  },
+  {
+    "text": "conditions and interactions until the QSO\n”stabilizes” and exhibits one of the",
+    "start": 823.86,
+    "duration": 4.89
+  },
+  {
+    "text": "characteristic, preferred redshift values.\nSo, whereas Arp believes that QSOs",
+    "start": 828.75,
+    "duration": 5.07
+  },
+  {
+    "text": "are ejected and they evolve with time,\nas they move outward from the parent",
+    "start": 833.82,
+    "duration": 4.2
+  },
+  {
+    "text": "galaxies and the redshifts drop in\nquantized amounts with variable particle",
+    "start": 838.02,
+    "duration": 4.38
+  },
+  {
+    "text": "mass, Su’s belief is that they're all\nejected at the given redshifts that are",
+    "start": 842.4,
+    "duration": 5.04
+  },
+  {
+    "text": "already quantized due to other factors.\nIt's not a case of each QSO going",
+    "start": 847.44,
+    "duration": 5.34
+  },
+  {
+    "text": "through an evolution and a change in its\nquantization of redshift. Now I’m going to",
+    "start": 852.78,
+    "duration": 4.92
+  },
+  {
+    "text": "offer some speculation on my part. From\nHalton Arp’s theories, the QSO quantized",
+    "start": 857.7,
+    "duration": 5.22
+  },
+  {
+    "text": "redshift values with QSO distance, or\ntime from the parent galaxy, which could",
+    "start": 862.92,
+    "duration": 4.98
+  },
+  {
+    "text": "be either or both a time or distance\nphenomenon. QSOs are ejected with",
+    "start": 867.9,
+    "duration": 4.56
+  },
+  {
+    "text": "high redshift, which seems to correlate\nwell with high mass, therefore high",
+    "start": 872.46,
+    "duration": 4.44
+  },
+  {
+    "text": "density, provided the “emitting nucleus”\nremains relatively constant in size. Arp",
+    "start": 876.9,
+    "duration": 5.46
+  },
+  {
+    "text": "bases the observed quantization on\nvariable particle mass, which increases",
+    "start": 882.36,
+    "duration": 4.83
+  },
+  {
+    "text": "with time and correspondingly with\ndistance, as the particles evolve and",
+    "start": 887.19,
+    "duration": 4.41
+  },
+  {
+    "text": "travel outward from higher to lower\ndensity regions, in a piecewise, not",
+    "start": 891.6,
+    "duration": 4.47
+  },
+  {
+    "text": "continuous manner. If you accept Arp’s\nvariable mass postulate, this appears",
+    "start": 896.07,
+    "duration": 5.19
+  },
+  {
+    "text": "reasonable. For C-C Su, the quantized QSO\nredshift and mass results from initial",
+    "start": 901.26,
+    "duration": 6.39
+  },
+  {
+    "text": "conditions and subsequent interactions.\nPresumably, the spatial distribution",
+    "start": 907.65,
+    "duration": 4.05
+  },
+  {
+    "text": "around the parent galaxy, whereby the\nhigher redshifted QSOs are closest",
+    "start": 911.7,
+    "duration": 5.58
+  },
+  {
+    "text": "and the lower one's farthest, is the result\nof the initial energy of the",
+    "start": 917.28,
+    "duration": 5.22
+  },
+  {
+    "text": "QSO’s ejection, its initial size and\nvarious interactions with surrounding",
+    "start": 922.5,
+    "duration": 5.13
+  },
+  {
+    "text": "material. The more energetic ones travel\noutward farther and interact more with",
+    "start": 927.63,
+    "duration": 5.28
+  },
+  {
+    "text": "material, thereby losing more mass\nand showing lower redshift",
+    "start": 932.91,
+    "duration": 4.15
+  },
+  {
+    "text": "with distance. Regarding Su's theory,\nalthough he predicts at least some of",
+    "start": 937.06,
+    "duration": 4.52
+  },
+  {
+    "text": "the quantized values, he does not offer a\ndefinitive reason for the quantization",
+    "start": 941.58,
+    "duration": 4.5
+  },
+  {
+    "text": "as Arp does, which is variable particle mass.",
+    "start": 946.08,
+    "duration": 3.3
+  },
+  {
+    "text": "Therefore, in my opinion, his theory appears\nless plausible than Halton Arp’s. Continuing",
+    "start": 949.38,
+    "duration": 6.1
+  },
+  {
+    "text": "with my speculation, I'm going to offer\nanother possible mathematical",
+    "start": 955.48,
+    "duration": 3.93
+  },
+  {
+    "text": "observation for quantization that could\nhave a yet to be identified physical",
+    "start": 959.41,
+    "duration": 4.17
+  },
+  {
+    "text": "basis. My simplest equations that\nreproduce well the quantized decreasing",
+    "start": 963.58,
+    "duration": 4.65
+  },
+  {
+    "text": "QSO redshifts as a function of\nuniformly increasing time or distance",
+    "start": 968.23,
+    "duration": 4.2
+  },
+  {
+    "text": "intervals, suggest an exponential decay,\nor roughly a decay as a function of",
+    "start": 972.43,
+    "duration": 5.46
+  },
+  {
+    "text": "inverse time, or distance. I'll just\ngo back a bit to that earlier",
+    "start": 977.89,
+    "duration": 5.06
+  },
+  {
+    "text": "slide for familiarity. I'm referring to\nthe slide here where I show the mass,",
+    "start": 982.95,
+    "duration": 5.47
+  },
+  {
+    "text": "the scaled mass relative to the Sun's\nmass, as a function of equal time or",
+    "start": 988.42,
+    "duration": 5.76
+  },
+  {
+    "text": "distance increments. And the one in\npurple was the one that showed an",
+    "start": 994.18,
+    "duration": 4.26
+  },
+  {
+    "text": "exponential dependence:\ne to the minus 0.6. So, what I said",
+    "start": 998.44,
+    "duration": 5.97
+  },
+  {
+    "text": "is the exponential decay is a\nfairly common physical phenomenon. For",
+    "start": 1004.41,
+    "duration": 4.41
+  },
+  {
+    "text": "example it's typical of radioactive\ndecay, but the discrete aspect appears to",
+    "start": 1008.82,
+    "duration": 5.25
+  },
+  {
+    "text": "be unique to QSO redshifts. It's not a\ncontinuous decay; it is again in a",
+    "start": 1014.07,
+    "duration": 4.59
+  },
+  {
+    "text": "stepwise fashion; at least from what's\nbeen observed. An inverse distance",
+    "start": 1018.66,
+    "duration": 4.38
+  },
+  {
+    "text": "dependence, which was also shown on the\nearlier slide, the inverse distance one",
+    "start": 1023.04,
+    "duration": 5.76
+  },
+  {
+    "text": "is the one in green, where we have\ndistance or time to the -1.2",
+    "start": 1028.8,
+    "duration": 6.05
+  },
+  {
+    "text": "which is basically inverse time or\ninverse distance dependence. An inverse",
+    "start": 1034.85,
+    "duration": 4.87
+  },
+  {
+    "text": "distance dependence is characteristic of\na magnetic or electric field around an",
+    "start": 1039.72,
+    "duration": 4.32
+  },
+  {
+    "text": "infinitely long string of charges, or\ncurrent-carrying wire, and this",
+    "start": 1044.04,
+    "duration": 4.16
+  },
+  {
+    "text": "suggests Electric Universe theory, where\nwe have intergalactic Birkeland currents",
+    "start": 1048.2,
+    "duration": 4.45
+  },
+  {
+    "text": "pervading the universe. Galaxies form\nwhere these currents flow and could",
+    "start": 1052.65,
+    "duration": 5.9
+  },
+  {
+    "text": "exhibit surrounding magnetic or electric\nfields with the inverse distance",
+    "start": 1058.55,
+    "duration": 4.18
+  },
+  {
+    "text": "dependence. What is more difficult to\nascertain is the quantization aspect.",
+    "start": 1062.73,
+    "duration": 4.68
+  },
+  {
+    "text": "I do make the following\nmathemetical observation, that the",
+    "start": 1067.41,
+    "duration": 3.03
+  },
+  {
+    "text": "quantization of both QSO mass and\nredshift can be represented very well by",
+    "start": 1070.44,
+    "duration": 4.98
+  },
+  {
+    "text": "a sine curve with decreasing amplitude\nof the same decaying exponential form as",
+    "start": 1075.42,
+    "duration": 5.04
+  },
+  {
+    "text": "my previous equation. And that's shown on\nthis next slide here. This is my own",
+    "start": 1080.46,
+    "duration": 5.31
+  },
+  {
+    "text": "speculation; what I've plotted here is\nthe scaled mass which is the scaled mass,",
+    "start": 1085.77,
+    "duration": 4.74
+  },
+  {
+    "text": "or the quantized redshift because\nthey're related, as a function of the",
+    "start": 1090.51,
+    "duration": 3.78
+  },
+  {
+    "text": "time or distance increment. The formula\nat the bottom M/M0 equals..... The",
+    "start": 1094.29,
+    "duration": 5.55
+  },
+  {
+    "text": "equation on the right is actually an\nabsolute value, and that's shown by the",
+    "start": 1099.84,
+    "duration": 3.75
+  },
+  {
+    "text": "bars, and that indicates absolute value.\nI have a scaling factor",
+    "start": 1103.59,
+    "duration": 6.0
+  },
+  {
+    "text": "of 2.73E+9, it's a scaling factor which is",
+    "start": 1109.59,
+    "duration": 2.94
+  },
+  {
+    "text": "corresponding to the quantized masses.\nI have a shift factor for the sinusoidal",
+    "start": 1112.53,
+    "duration": 4.64
+  },
+  {
+    "text": "variation, -0.55 and that enables me\nto set the peaks at the integer values.",
+    "start": 1117.17,
+    "duration": 6.19
+  },
+  {
+    "text": "Therefore the peaks for each\nof the sine curves come out at",
+    "start": 1123.36,
+    "duration": 4.05
+  },
+  {
+    "text": "integer values of 1 through 5. You'll\nnotice that the peaks occur at scaled",
+    "start": 1127.41,
+    "duration": 4.29
+  },
+  {
+    "text": "masses of 2.05E+9 etc., for increments",
+    "start": 1131.7,
+    "duration": 5.28
+  },
+  {
+    "text": "1 through 5, and what I reproduced there\nis the table earlier, where I showed the",
+    "start": 1136.98,
+    "duration": 6.21
+  },
+  {
+    "text": "average scaled mass ratios as a function\nof the Z peaks, the redshift peaks and",
+    "start": 1143.19,
+    "duration": 5.58
+  },
+  {
+    "text": "the increments. And the arrows there show\nhow well the sinusoidal curve, the peaks",
+    "start": 1148.77,
+    "duration": 6.6
+  },
+  {
+    "text": "correspond to those values. They all\nalign very well with them. In fact, the",
+    "start": 1155.37,
+    "duration": 5.19
+  },
+  {
+    "text": "comparison with the observed value shows\nagreement to within ten percent. Now I",
+    "start": 1160.56,
+    "duration": 4.83
+  },
+  {
+    "text": "don't know what phenomenon might exhibit\na sinusoidal behavior with exponentially",
+    "start": 1165.39,
+    "duration": 4.47
+  },
+  {
+    "text": "decaying amplitude. Could it be some form\nof harmonic dependence? I'm",
+    "start": 1169.86,
+    "duration": 5.46
+  },
+  {
+    "text": "only offering this as food for thought. I\njust thought it was rather..., I know if",
+    "start": 1175.32,
+    "duration": 4.44
+  },
+  {
+    "text": "it's pure coincidence or what, that I was\nable to come up with a sinusoidal",
+    "start": 1179.76,
+    "duration": 3.48
+  },
+  {
+    "text": "function that matched the Z peaks, or the\nmass ratios that result from the Z peaks.",
+    "start": 1183.24,
+    "duration": 6.06
+  },
+  {
+    "text": "The Z peaks are shown in red,\ndecreasing trend, the mass ratios are",
+    "start": 1189.3,
+    "duration": 4.08
+  },
+  {
+    "text": "shown in the dotted curves here, and the\npredicted values as shown, the five here",
+    "start": 1193.38,
+    "duration": 6.24
+  },
+  {
+    "text": "at the tops of the peaks, align very well with the",
+    "start": 1199.62,
+    "duration": 3.18
+  },
+  {
+    "text": "ratios that were derived from the\nregression analysis using the much",
+    "start": 1202.8,
+    "duration": 4.14
+  },
+  {
+    "text": "earlier data from C-C Su. So, finally in\nsummary, my approach to the topic of",
+    "start": 1206.94,
+    "duration": 5.64
+  },
+  {
+    "text": "quantization of intrinsic QSO\nredshifts, especially based on the",
+    "start": 1212.58,
+    "duration": 4.08
+  },
+  {
+    "text": "lifetime work of Halton Arp, was purely\nmathematical - developing a theory for",
+    "start": 1216.66,
+    "duration": 4.65
+  },
+  {
+    "text": "intrinsic quantized QSO redshift is\nbeyond my experience. I postulated a",
+    "start": 1221.31,
+    "duration": 5.1
+  },
+  {
+    "text": "geometric explanation of intrinsic\nredshift possibly dependent on mass to",
+    "start": 1226.41,
+    "duration": 4.44
+  },
+  {
+    "text": "the two-thirds power, related to possible\nattenuation of light energy (and",
+    "start": 1230.85,
+    "duration": 4.5
+  },
+  {
+    "text": "therefore frequency) within the emitting\nnucleus of a QSO, compounded by a further",
+    "start": 1235.35,
+    "duration": 5.34
+  },
+  {
+    "text": "dilution (and therefore energy and\nfrequency) decrease due to spread over",
+    "start": 1240.69,
+    "duration": 4.47
+  },
+  {
+    "text": "the surface area. To do the quantization\naspect justice, I summarized two theories",
+    "start": 1245.16,
+    "duration": 5.43
+  },
+  {
+    "text": "by other experts and examined their\nplausibility within my realm of",
+    "start": 1250.59,
+    "duration": 3.48
+  },
+  {
+    "text": "knowledge. Finally, I offered at least a\nmathematical representation of the",
+    "start": 1254.07,
+    "duration": 4.29
+  },
+  {
+    "text": "quantization aspect as food for thought.\nThat concludes this presentation.\n \n00:21:05,100 --> 00:00:00,000\n[Music]",
+    "start": 1258.36,
+    "duration": 6.74
+  }
+]

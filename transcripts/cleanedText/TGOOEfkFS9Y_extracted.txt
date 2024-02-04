@@ -1,0 +1,151 @@
+Hello. I wanted to give a short tutorial on how I go about
+analyzing images. A friend of mine sent me a link to an
+image from the James Webb Space Telescope. As I was
+playing around with it, I thought this would be a good
+opportunity to give a little demo. OK, so enjoy.
+And here is the Webb page that my friend sent me.
+James Webb reveals complex galactic structures.
+Look at that, that is incredible. This is apparently a galaxy,
+just looking at the caption here, IC 5332. That's a
+catalog number for galaxies. So, I'm going to copy that,
+and I'm going to go to one of my go-to applications for
+looking at telescope data, which is this sky.esa.int.
+It combines telescope data across a very wide range
+of telescopes. Very easy, very good interface to use.
+Right now, we're looking at the Crab Nebula. When you launch
+it up, it'll [shows you things to choose from]. So that's the
+Crab Nebula. Look over here on the left.
+This is the layers you can put on top of each other.
+We're looking at an optical image, DSS2 which is the
+Digital Sky Survey number two, in color. But we can choose
+different telescopes. Look at that. All those choices; those
+are all optical telescopes. HST is Hubble. Let's see if
+there's a Hubble image of this. That might be good
+for later research. Good raw data. Okay, nothing
+that's beautiful from Hubble on this one. So, let's 
+go back where we were on digital Sky Survey. Let's
+add on a new row, say in the near infrared. Oh, that's nice.
+How about the mid infrared, “Oh look at that!.” OK, so
+we're going to do a near infrared and then I'm
+going to add also a new row of far infrared.
+OK. [excitement] You can change the opacity.
+So, I can blend the images. This is
+one of the great things about this tool, you can blend the
+images from different wavelengths and different telescopes.
+We're looking at one object here, the Crab Nebula.
+We're looking at it in different wavelengths
+captured by different telescopes, and we're 
+blending across the telescopes to give us a
+fuller view of this mysterious thing that we are looking at.
+OK. Got a little sidetrack there. Let's go to the
+IC 5332. That was what we started with here.
+So, I'm going to type in IC 5332.
+(Oops, I got an editing problem here, it's going to say
+nothing there) ... And there is the galaxy that is the
+subject of this video - IC 5332, it's coming 
+up. An optical telescope Digital Sky Survey
+Cool, I'm just going to zoom out a little bit. (Just for 
+the heck of it, let's just see what else we got here.
+We can see this in near infrared, a little bit, 
+not much). There's different telescopes one can
+choose; not all telescopes have all the data on here.
+You're not guaranteed to find a picture of this
+in any other wavelength. I'm just showing that
+you can choose different wavelengths. Okay, so
+there's the object in question. You'll notice up here
+there's a couple of icons for Hubble and for James Webb.
+Hubble and James Webb have both made the effort to 
+put some of their specialty images, high quality images,
+into this tool. it's not the best integration, but it 
+certainly is worth using. So, I'm going to click on the
+James Webb version, since that's where this all 
+started. It knows that I'm looking at this part of the
+sky. It calls up the pictures that I want. Let's look at
+this one. Webb, I see, yeah that's it. That's the one,
+right? That's the one that we started with. There 
+it is. Now the blending, it's awkward with these
+James Webb and Hubble specialty images. You don't get
+to do everything you want. So, what I'm going to do,
+is take this image and put it into another tool, to do my
+own blending with it. I'm going to zoom in a bit, so that I
+can get rid of those boxes. There we go, and I'm going
+to zoom in - nice big image - and on the upper right
+hand here, take a screenshot and you can 
+download this image (I already did it), so I'm just
+going to say, you can download the image,
+save it to your computer and then I'm
+going to look at a the Hubble version of this. So, there's 
+the Hubble one. It's amazing, right? And then I can
+save the Hubble version of this, download that.
+Now I want to blend them. You can use
+Photoshop - I don't have photoshop on this computer - so
+they go to ’Online Image Editing Tool’. This one [Photopea]
+(I don't know how to pronounce it - ’photopia’?) I'm
+going to load up, one image. Say put Hubble first,
+IC 5332 Hubble Space Telescope. Open that.
+There it is! Oops. Just want to zoom in.
+There we go, and now I'm going to open up
+the James Webb, but I open it in place,
+so that they can be layers. So they can
+be on the same image, but just layers of
+the same image. So, open the James Webb. All right.
+so now you can see over here. Here's the layers.
+We have the Hubble and then we have the James 
+Webb beneath it - I'm just toggling the visibility here -
+of the top layer. Let me rename that. That is IC 5332 Hubble
+Space Telescope, so I can keep track here. When you blend...
+there's a lot of ways to blend, and
+the simplest is with ‘opacity’ or ‘fill’ for
+these images. They're basically the same option. So, 
+opacity - I'm going to toggle the opacity of the top layer,
+which is the Hubble Space Telescope. That's kind of 
+awkward. How it's blending out the blacks there. Let me try
+switching the order - see if it matters. Opacity, that's
+better. So, there was something weird going on there with
+having the one image on top versus the other. I don't know
+what it is, don't really care right now. I think it had
+something to do with how the zero pixel was being stored.
+Okay, back to the project. The top image is the
+James Webb. I'm going to toggle the opacity and you can
+see there's the Hubble, there's the James Webb. There's
+the Hubble, there's your James Webb.
+And the human visual system is very advanced,
+and it will start putting things together 
+for you, if you give it information and
+let it do its job. Wow! So, what I'm seeing - which I didn't
+even notice till now - is on the Hubble there are these
+dark areas. Wow! Didn't even notice those.
+Look at all those dark areas and what do
+you want to bet that those are exactly where the James
+Webb is bright. So, we got to choose some features and
+check it out. Like right around here,
+See this orange thing here. You see
+like an S-shaped ‘wiggle – wiggle’ dark lane. Let's see
+if that ‘wiggle – wiggle’ dark lane... Yeah, pretty much.
+Okay, it's not a hundred percent, but clearly, like up
+here, let's look up here. There's nothing in the James Webb
+there, it's a dark area with the James Webb.
+What does Hubble give us? Yep, that is a
+very clear image for the Hubble - it almost reminds
+me of the Nautilus shells, when you cut them,
+and they have the chambers in them. This reminds me 
+of that. That kind of segregation. So, segregation
+in the plasma world is... It's a very elaborate 
+complex thing. Plasma does it very well. You can see...
+There's these very well-defined boundaries.
+I'll zoom in on one of these boundaries here. Now.
+Oh, no back up. Hey, I want to zoom in. Well anyway.
+Those boundaries are a clear delineation of energy
+levels - a very sharp delineation of composition.
+So, whatever is along this thin line here,
+is a very different energy and composition than
+what's over here in this dark area. And that kind of
+segregation is everywhere in the plasma
+universe. It's everywhere in biology too,
+frankly. You know the body is segregated into ...
+The muscles are in bundles; the nerves have their own
+segregation; the nerves go on their own channels, 
+etc. Okay. Well, that was really it. I am done
+with the little demo. I'm just going to keep
+playing with this, and hope you enjoy it. Bye.
+[Music]

@@ -1,0 +1,2432 @@
+[
+  {
+    "text": "in part two of this extended interview",
+    "start": 2.479,
+    "duration": 6.58
+  },
+  {
+    "text": "we continue our discussion with",
+    "start": 7.29,
+    "duration": 3.78
+  },
+  {
+    "text": "thunderbolts Picture of the Day managing",
+    "start": 9.059,
+    "duration": 4.351
+  },
+  {
+    "text": "editor Stephen Smith on the electrical",
+    "start": 11.07,
+    "duration": 5.4
+  },
+  {
+    "text": "scarring of planets and moons we now",
+    "start": 13.41,
+    "duration": 5.61
+  },
+  {
+    "text": "turn our attention to Mars as we explore",
+    "start": 16.47,
+    "duration": 4.74
+  },
+  {
+    "text": "the evidence that electrical discharges",
+    "start": 19.02,
+    "duration": 4.79
+  },
+  {
+    "text": "dramatically carved the Martian surface",
+    "start": 21.21,
+    "duration": 6.149
+  },
+  {
+    "text": "we begin by asking the question did",
+    "start": 23.81,
+    "duration": 5.949
+  },
+  {
+    "text": "excavated material from the surface of",
+    "start": 27.359,
+    "duration": 5.041
+  },
+  {
+    "text": "Mars arrive on earth as Martian",
+    "start": 29.759,
+    "duration": 7.231
+  },
+  {
+    "text": "meteorites Martian meteorites as their",
+    "start": 32.4,
+    "duration": 7.35
+  },
+  {
+    "text": "name implies are supposedly pieces of",
+    "start": 36.99,
+    "duration": 4.38
+  },
+  {
+    "text": "the planet Mars that have reached our",
+    "start": 39.75,
+    "duration": 2.28
+  },
+  {
+    "text": "planet",
+    "start": 41.37,
+    "duration": 3.27
+  },
+  {
+    "text": "they're usually identified by their",
+    "start": 42.03,
+    "duration": 5.76
+  },
+  {
+    "text": "mineral and isotope content because",
+    "start": 44.64,
+    "duration": 5.76
+  },
+  {
+    "text": "various Mars Landers have analyzed the",
+    "start": 47.79,
+    "duration": 5.88
+  },
+  {
+    "text": "soils there and those analyses are used",
+    "start": 50.4,
+    "duration": 5.94
+  },
+  {
+    "text": "from comparison so comparing the",
+    "start": 53.67,
+    "duration": 5.34
+  },
+  {
+    "text": "analysis from say the Spirit and",
+    "start": 56.34,
+    "duration": 6.21
+  },
+  {
+    "text": "Opportunity Rovers with the analysis of",
+    "start": 59.01,
+    "duration": 5.97
+  },
+  {
+    "text": "meteorites found sometimes in Antarctica",
+    "start": 62.55,
+    "duration": 4.95
+  },
+  {
+    "text": "they've concluded that they are actually",
+    "start": 64.98,
+    "duration": 5.76
+  },
+  {
+    "text": "pieces of Mars so to discuss Martian",
+    "start": 67.5,
+    "duration": 5.07
+  },
+  {
+    "text": "meteorites we have to talk first about",
+    "start": 70.74,
+    "duration": 4.11
+  },
+  {
+    "text": "how they might have migrated from Mars",
+    "start": 72.57,
+    "duration": 4.47
+  },
+  {
+    "text": "to earth in the last interview I",
+    "start": 74.85,
+    "duration": 4.44
+  },
+  {
+    "text": "mentioned Valles Marineris",
+    "start": 77.04,
+    "duration": 4.92
+  },
+  {
+    "text": "it's a Canyon on Mars that's four times",
+    "start": 79.29,
+    "duration": 5.31
+  },
+  {
+    "text": "deeper than the Grand Canyon and it runs",
+    "start": 81.96,
+    "duration": 5.64
+  },
+  {
+    "text": "for almost five thousand kilometres when",
+    "start": 84.6,
+    "duration": 4.95
+  },
+  {
+    "text": "the Mariner space probes sent back",
+    "start": 87.6,
+    "duration": 4.32
+  },
+  {
+    "text": "pictures of it the first thoughts were",
+    "start": 89.55,
+    "duration": 4.23
+  },
+  {
+    "text": "that it was formed by some sort of",
+    "start": 91.92,
+    "duration": 4.83
+  },
+  {
+    "text": "catastrophic flooding but a major",
+    "start": 93.78,
+    "duration": 5.37
+  },
+  {
+    "text": "difficulty with that theory is that",
+    "start": 96.75,
+    "duration": 5.1
+  },
+  {
+    "text": "there's no Delta or headwater region in",
+    "start": 99.15,
+    "duration": 5.19
+  },
+  {
+    "text": "the canyon and there's no debris field",
+    "start": 101.85,
+    "duration": 4.23
+  },
+  {
+    "text": "that might be left over from water",
+    "start": 104.34,
+    "duration": 5.37
+  },
+  {
+    "text": "erosion also there's no indication of",
+    "start": 106.08,
+    "duration": 5.85
+  },
+  {
+    "text": "surface accumulation of water anywhere",
+    "start": 109.71,
+    "duration": 5.79
+  },
+  {
+    "text": "nearby in lakes or ponds that might have",
+    "start": 111.93,
+    "duration": 7.74
+  },
+  {
+    "text": "formed because of the catalytic utt out",
+    "start": 115.5,
+    "duration": 6.95
+  },
+  {
+    "text": "the canyon also the so-called",
+    "start": 119.67,
+    "duration": 5.45
+  },
+  {
+    "text": "tributaries in Valles Marineris",
+    "start": 122.45,
+    "duration": 5.919
+  },
+  {
+    "text": "terminate in clean cuts and there's no",
+    "start": 125.12,
+    "duration": 5.8
+  },
+  {
+    "text": "sign of water flowing down into the into",
+    "start": 128.369,
+    "duration": 4.7
+  },
+  {
+    "text": "them and they don't look any",
+    "start": 130.92,
+    "duration": 4.61
+  },
+  {
+    "text": "you in any way like a typical drainage",
+    "start": 133.069,
+    "duration": 4.68
+  },
+  {
+    "text": "formation the Mars Reconnaissance",
+    "start": 135.53,
+    "duration": 5.129
+  },
+  {
+    "text": "Orbiter also saw evidence of olivine",
+    "start": 137.749,
+    "duration": 6.96
+  },
+  {
+    "text": "inside an area called Ganges casma which",
+    "start": 140.659,
+    "duration": 5.821
+  },
+  {
+    "text": "is one of the deepest parts of Valles",
+    "start": 144.709,
+    "duration": 2.491
+  },
+  {
+    "text": "Marineris",
+    "start": 146.48,
+    "duration": 3.179
+  },
+  {
+    "text": "and because olivine reacts with water",
+    "start": 147.2,
+    "duration": 5.849
+  },
+  {
+    "text": "its presence seems to definitely exclude",
+    "start": 149.659,
+    "duration": 5.7
+  },
+  {
+    "text": "water erosion as the cause of the canyon",
+    "start": 153.049,
+    "duration": 5.461
+  },
+  {
+    "text": "so we have to ask ourselves what force",
+    "start": 155.359,
+    "duration": 5.61
+  },
+  {
+    "text": "is it that can excavate over 2 million",
+    "start": 158.51,
+    "duration": 4.739
+  },
+  {
+    "text": "cubic kilometers of rock and regolith",
+    "start": 160.969,
+    "duration": 5.61
+  },
+  {
+    "text": "from the Martian crust and modern",
+    "start": 163.249,
+    "duration": 5.13
+  },
+  {
+    "text": "geologists speculate that Valles",
+    "start": 166.579,
+    "duration": 4.02
+  },
+  {
+    "text": "Marineris was formed by what they call",
+    "start": 168.379,
+    "duration": 6.54
+  },
+  {
+    "text": "mass wasting meaning landslides or slow",
+    "start": 170.599,
+    "duration": 6.681
+  },
+  {
+    "text": "movement of material down a steep slope",
+    "start": 174.919,
+    "duration": 4.921
+  },
+  {
+    "text": "usually in the presence of water and",
+    "start": 177.28,
+    "duration": 5.319
+  },
+  {
+    "text": "since Mars is thought by many planetary",
+    "start": 179.84,
+    "duration": 6.39
+  },
+  {
+    "text": "scientists to once have been warm and",
+    "start": 182.599,
+    "duration": 6.39
+  },
+  {
+    "text": "wet millions of years ago though that",
+    "start": 186.23,
+    "duration": 4.8
+  },
+  {
+    "text": "influence still pervades their thinking",
+    "start": 188.989,
+    "duration": 4.911
+  },
+  {
+    "text": "as I said in the last segment",
+    "start": 191.03,
+    "duration": 5.489
+  },
+  {
+    "text": "investigators were stunned by the images",
+    "start": 193.9,
+    "duration": 5.079
+  },
+  {
+    "text": "of Mars from space probes that showed it",
+    "start": 196.519,
+    "duration": 4.08
+  },
+  {
+    "text": "to be more like the moon with its",
+    "start": 198.979,
+    "duration": 5.581
+  },
+  {
+    "text": "craters rills and its sharp Peaks their",
+    "start": 200.599,
+    "duration": 6.66
+  },
+  {
+    "text": "theories suggested that Mars should be",
+    "start": 204.56,
+    "duration": 4.799
+  },
+  {
+    "text": "inactive with a surface that was",
+    "start": 207.259,
+    "duration": 4.141
+  },
+  {
+    "text": "relatively stable for millions of years",
+    "start": 209.359,
+    "duration": 4.35
+  },
+  {
+    "text": "nothing like the scale of Valles",
+    "start": 211.4,
+    "duration": 5.669
+  },
+  {
+    "text": "Marineris was even imagined so bad then",
+    "start": 213.709,
+    "duration": 5.46
+  },
+  {
+    "text": "back to the question of what did carve",
+    "start": 217.069,
+    "duration": 5.25
+  },
+  {
+    "text": "up Mars like a pumpkin in the 70s Ralf",
+    "start": 219.169,
+    "duration": 3.99
+  },
+  {
+    "text": "jürgens",
+    "start": 222.319,
+    "duration": 3.09
+  },
+  {
+    "text": "a civil engineer and a participant with",
+    "start": 223.159,
+    "duration": 4.591
+  },
+  {
+    "text": "Dave and Steve Talbot in the magazine",
+    "start": 225.409,
+    "duration": 5.61
+  },
+  {
+    "text": "ponse thought that electric arcs between",
+    "start": 227.75,
+    "duration": 5.849
+  },
+  {
+    "text": "planetary bodies created the features we",
+    "start": 231.019,
+    "duration": 5.97
+  },
+  {
+    "text": "see on Mars as well as the moon and by",
+    "start": 233.599,
+    "duration": 7.47
+  },
+  {
+    "text": "extension most likely earth so here's a",
+    "start": 236.989,
+    "duration": 7.53
+  },
+  {
+    "text": "quote from Jergens he said this entire",
+    "start": 241.069,
+    "duration": 6.931
+  },
+  {
+    "text": "region resembles nothing so much as an",
+    "start": 244.519,
+    "duration": 7.131
+  },
+  {
+    "text": "area zapped by a powerful electric arc",
+    "start": 248.0,
+    "duration": 6.919
+  },
+  {
+    "text": "advancing unsteadily across the surface",
+    "start": 251.65,
+    "duration": 6.549
+  },
+  {
+    "text": "occasionally splitting into and now and",
+    "start": 254.919,
+    "duration": 5.74
+  },
+  {
+    "text": "then weakening so that it's traces",
+    "start": 258.199,
+    "duration": 5.761
+  },
+  {
+    "text": "narrow and even degrade into lines of",
+    "start": 260.659,
+    "duration": 6.261
+  },
+  {
+    "text": "disconnected craters and indeed in many",
+    "start": 263.96,
+    "duration": 5.87
+  },
+  {
+    "text": "areas of Valles Marineris there are long",
+    "start": 266.92,
+    "duration": 6.84
+  },
+  {
+    "text": "lines of crater chains the electric",
+    "start": 269.83,
+    "duration": 6.12
+  },
+  {
+    "text": "universe physicist wal thornhill also",
+    "start": 273.76,
+    "duration": 5.34
+  },
+  {
+    "text": "wrote Valles Marineris was created",
+    "start": 275.95,
+    "duration": 6.05
+  },
+  {
+    "text": "within minutes by a giant electric arc",
+    "start": 279.1,
+    "duration": 6.45
+  },
+  {
+    "text": "sweeping across the surface of mars rock",
+    "start": 282.0,
+    "duration": 6.79
+  },
+  {
+    "text": "and soil were lifted into space and some",
+    "start": 285.55,
+    "duration": 5.52
+  },
+  {
+    "text": "fell back to create the great strewn",
+    "start": 288.79,
+    "duration": 5.22
+  },
+  {
+    "text": "fields of boulders first seen by the",
+    "start": 291.07,
+    "duration": 6.87
+  },
+  {
+    "text": "Viking and Pathfinder Landers and walls",
+    "start": 294.01,
+    "duration": 6.99
+  },
+  {
+    "text": "analysis suggests that the discharges",
+    "start": 297.94,
+    "duration": 5.48
+  },
+  {
+    "text": "resembled the shape of a barred spiral",
+    "start": 301.0,
+    "duration": 6.45
+  },
+  {
+    "text": "galaxy in Valles Marineris and the",
+    "start": 303.42,
+    "duration": 6.01
+  },
+  {
+    "text": "listeners can read about walls theory in",
+    "start": 307.45,
+    "duration": 4.41
+  },
+  {
+    "text": "more detail on his Hollow science comm",
+    "start": 309.43,
+    "duration": 5.4
+  },
+  {
+    "text": "website and in particular they should",
+    "start": 311.86,
+    "duration": 6.27
+  },
+  {
+    "text": "read his article called spiral galaxies",
+    "start": 314.83,
+    "duration": 5.94
+  },
+  {
+    "text": "and Grand Canyon's",
+    "start": 318.13,
+    "duration": 5.909
+  },
+  {
+    "text": "so like an arc welder shoots Sparks and",
+    "start": 320.77,
+    "duration": 5.66
+  },
+  {
+    "text": "flux into the air when it fuses metals",
+    "start": 324.039,
+    "duration": 4.801
+  },
+  {
+    "text": "material from the electric arcs that hit",
+    "start": 326.43,
+    "duration": 4.959
+  },
+  {
+    "text": "Mars shot gigatons a regolith out into",
+    "start": 328.84,
+    "duration": 5.22
+  },
+  {
+    "text": "space and this exceeded the planets",
+    "start": 331.389,
+    "duration": 5.191
+  },
+  {
+    "text": "escape velocity this means that whatever",
+    "start": 334.06,
+    "duration": 5.63
+  },
+  {
+    "text": "electric force excised Valles Marineris",
+    "start": 336.58,
+    "duration": 5.97
+  },
+  {
+    "text": "probably threw huge chunks into space",
+    "start": 339.69,
+    "duration": 5.68
+  },
+  {
+    "text": "some of them undoubtedly fell back to",
+    "start": 342.55,
+    "duration": 5.459
+  },
+  {
+    "text": "the surface as wal mentioned but some of",
+    "start": 345.37,
+    "duration": 4.769
+  },
+  {
+    "text": "them love the larger pieces most likely",
+    "start": 348.009,
+    "duration": 4.41
+  },
+  {
+    "text": "entered orbit and one of my latest",
+    "start": 350.139,
+    "duration": 4.141
+  },
+  {
+    "text": "picture of the day articles discusses",
+    "start": 352.419,
+    "duration": 4.201
+  },
+  {
+    "text": "the moon Phobos and it's obvious",
+    "start": 354.28,
+    "duration": 5.039
+  },
+  {
+    "text": "electrical scarring one of the major",
+    "start": 356.62,
+    "duration": 6.69
+  },
+  {
+    "text": "objections to the idea of explosions of",
+    "start": 359.319,
+    "duration": 5.94
+  },
+  {
+    "text": "that magnitude is that they would have",
+    "start": 363.31,
+    "duration": 4.229
+  },
+  {
+    "text": "melted or disintegrated large pieces of",
+    "start": 365.259,
+    "duration": 2.94
+  },
+  {
+    "text": "rock",
+    "start": 367.539,
+    "duration": 3.091
+  },
+  {
+    "text": "however electrical acceleration doesn't",
+    "start": 368.199,
+    "duration": 3.241
+  },
+  {
+    "text": "do that",
+    "start": 370.63,
+    "duration": 2.849
+  },
+  {
+    "text": "just like electro magnetic linear",
+    "start": 371.44,
+    "duration": 4.92
+  },
+  {
+    "text": "induction motors can cause rapid",
+    "start": 373.479,
+    "duration": 5.91
+  },
+  {
+    "text": "acceleration the upward pull of electric",
+    "start": 376.36,
+    "duration": 5.88
+  },
+  {
+    "text": "arcs does the same thing and many people",
+    "start": 379.389,
+    "duration": 4.56
+  },
+  {
+    "text": "might be familiar with the linear",
+    "start": 382.24,
+    "duration": 4.62
+  },
+  {
+    "text": "induction motors in the amusement park",
+    "start": 383.949,
+    "duration": 5.611
+  },
+  {
+    "text": "ride called Superman that accelerates",
+    "start": 386.86,
+    "duration": 5.549
+  },
+  {
+    "text": "the cars to 100 miles an hour in 3",
+    "start": 389.56,
+    "duration": 5.909
+  },
+  {
+    "text": "seconds and without heat and the",
+    "start": 392.409,
+    "duration": 5.01
+  },
+  {
+    "text": "characteristic of electricity that I",
+    "start": 395.469,
+    "duration": 4.531
+  },
+  {
+    "text": "mentioned that it can cause rapid",
+    "start": 397.419,
+    "duration": 4.411
+  },
+  {
+    "text": "acceleration helps to explain the",
+    "start": 400.0,
+    "duration": 5.13
+  },
+  {
+    "text": "features on Phobos as I mentioned I",
+    "start": 401.83,
+    "duration": 5.339
+  },
+  {
+    "text": "recently wrote that Stickney crater on",
+    "start": 405.13,
+    "duration": 5.49
+  },
+  {
+    "text": "Phobos is ten kilometers wide which is",
+    "start": 407.169,
+    "duration": 6.771
+  },
+  {
+    "text": "nearly the same size as Phobos itself",
+    "start": 410.62,
+    "duration": 6.419
+  },
+  {
+    "text": "I've also written many previous articles",
+    "start": 413.94,
+    "duration": 4.93
+  },
+  {
+    "text": "that talk about rocky bodies with",
+    "start": 417.039,
+    "duration": 4.35
+  },
+  {
+    "text": "craters almost as large as they are and",
+    "start": 418.87,
+    "duration": 5.76
+  },
+  {
+    "text": "I mentioned Saturn's moon test time as",
+    "start": 421.389,
+    "duration": 5.761
+  },
+  {
+    "text": "an example as I pointed out the",
+    "start": 424.63,
+    "duration": 5.58
+  },
+  {
+    "text": "so-called impact craters should have",
+    "start": 427.15,
+    "duration": 5.549
+  },
+  {
+    "text": "blasted the objects apart but there's",
+    "start": 430.21,
+    "duration": 5.22
+  },
+  {
+    "text": "really no indication visible other than",
+    "start": 432.699,
+    "duration": 5.4
+  },
+  {
+    "text": "the large craters in the case of Phobos",
+    "start": 435.43,
+    "duration": 6.66
+  },
+  {
+    "text": "Phobos is like 28 by 20 kilometers in",
+    "start": 438.099,
+    "duration": 7.231
+  },
+  {
+    "text": "size so Stickney crater is nearly half",
+    "start": 442.09,
+    "duration": 6.84
+  },
+  {
+    "text": "as large as the moon itself some",
+    "start": 445.33,
+    "duration": 6.72
+  },
+  {
+    "text": "astronomers say or they claim that the",
+    "start": 448.93,
+    "duration": 5.61
+  },
+  {
+    "text": "fracture lines around Stickney crater",
+    "start": 452.05,
+    "duration": 4.62
+  },
+  {
+    "text": "show that there was a great shock to the",
+    "start": 454.54,
+    "duration": 4.68
+  },
+  {
+    "text": "moon and that it was distorted by",
+    "start": 456.67,
+    "duration": 5.01
+  },
+  {
+    "text": "whatever forms Stickney crater but when",
+    "start": 459.22,
+    "duration": 4.32
+  },
+  {
+    "text": "you look closer you can see that the",
+    "start": 461.68,
+    "duration": 4.44
+  },
+  {
+    "text": "striations that they're mentioning are",
+    "start": 463.54,
+    "duration": 5.88
+  },
+  {
+    "text": "really chains of small craters and there",
+    "start": 466.12,
+    "duration": 5.97
+  },
+  {
+    "text": "aren't any fracture lines as they call",
+    "start": 469.42,
+    "duration": 5.34
+  },
+  {
+    "text": "them there aren't any cracks from a huge",
+    "start": 472.09,
+    "duration": 5.24
+  },
+  {
+    "text": "shock wave passing through the moon",
+    "start": 474.76,
+    "duration": 5.16
+  },
+  {
+    "text": "surrounding Stickney crater it's smooth",
+    "start": 477.33,
+    "duration": 5.38
+  },
+  {
+    "text": "and rounded and there's no large blast",
+    "start": 479.92,
+    "duration": 5.13
+  },
+  {
+    "text": "debris and it should be mentioned though",
+    "start": 482.71,
+    "duration": 5.79
+  },
+  {
+    "text": "that Phobos itself is covered with about",
+    "start": 485.05,
+    "duration": 5.88
+  },
+  {
+    "text": "a meter thick carpet of ultrafine dust",
+    "start": 488.5,
+    "duration": 6.54
+  },
+  {
+    "text": "and I know I mentioned last time comet",
+    "start": 490.93,
+    "duration": 6.87
+  },
+  {
+    "text": "Hartley being electrically machined and",
+    "start": 495.04,
+    "duration": 5.31
+  },
+  {
+    "text": "the surface of the comet being",
+    "start": 497.8,
+    "duration": 5.96
+  },
+  {
+    "text": "surrounded by a cloud of ultrafine dust",
+    "start": 500.35,
+    "duration": 7.02
+  },
+  {
+    "text": "there's probably something similar to do",
+    "start": 503.76,
+    "duration": 6.19
+  },
+  {
+    "text": "with Phobos during whatever electrical",
+    "start": 507.37,
+    "duration": 4.37
+  },
+  {
+    "text": "event created it",
+    "start": 509.95,
+    "duration": 4.83
+  },
+  {
+    "text": "since Phobos is about the same size as",
+    "start": 511.74,
+    "duration": 6.28
+  },
+  {
+    "text": "some asteroids know like Mathilde or",
+    "start": 514.78,
+    "duration": 7.17
+  },
+  {
+    "text": "eros or Ida and it has gigantic craters",
+    "start": 518.02,
+    "duration": 5.91
+  },
+  {
+    "text": "just like they do we have to ask",
+    "start": 521.95,
+    "duration": 4.02
+  },
+  {
+    "text": "ourselves what common event creates",
+    "start": 523.93,
+    "duration": 3.99
+  },
+  {
+    "text": "similar structures without blowing them",
+    "start": 525.97,
+    "duration": 4.89
+  },
+  {
+    "text": "apart and the only answer that I can",
+    "start": 527.92,
+    "duration": 6.69
+  },
+  {
+    "text": "come up with is electricity planetary",
+    "start": 530.86,
+    "duration": 6.27
+  },
+  {
+    "text": "scientists theorized that volcanoes and",
+    "start": 534.61,
+    "duration": 4.74
+  },
+  {
+    "text": "flowing lava are responsible for having",
+    "start": 537.13,
+    "duration": 4.71
+  },
+  {
+    "text": "shaped many of Mars most dramatic",
+    "start": 539.35,
+    "duration": 5.46
+  },
+  {
+    "text": "features but does this explanation match",
+    "start": 541.84,
+    "duration": 5.43
+  },
+  {
+    "text": "what is actually seen on the Martian",
+    "start": 544.81,
+    "duration": 3.56
+  },
+  {
+    "text": "surface",
+    "start": 547.27,
+    "duration": 3.75
+  },
+  {
+    "text": "another thing about Mars is that there",
+    "start": 548.37,
+    "duration": 5.74
+  },
+  {
+    "text": "are long canyons and rills that seem to",
+    "start": 551.02,
+    "duration": 4.53
+  },
+  {
+    "text": "start and stop suddenly",
+    "start": 554.11,
+    "duration": 4.65
+  },
+  {
+    "text": "even though Valles Marineris has been",
+    "start": 555.55,
+    "duration": 5.37
+  },
+  {
+    "text": "attributed to mass wasting or flooding",
+    "start": 558.76,
+    "duration": 4.53
+  },
+  {
+    "text": "by conventional geologists the other",
+    "start": 560.92,
+    "duration": 4.8
+  },
+  {
+    "text": "abrupt incisions on the surface are even",
+    "start": 563.29,
+    "duration": 4.56
+  },
+  {
+    "text": "more puzzling to them and the only",
+    "start": 565.72,
+    "duration": 3.87
+  },
+  {
+    "text": "explanation that they've been able to",
+    "start": 567.85,
+    "duration": 4.31
+  },
+  {
+    "text": "come up with is that their lava tubes",
+    "start": 569.59,
+    "duration": 6.54
+  },
+  {
+    "text": "from volcanic eruptions and lava tubes",
+    "start": 572.16,
+    "duration": 6.73
+  },
+  {
+    "text": "form when volcanoes send rivers of",
+    "start": 576.13,
+    "duration": 5.49
+  },
+  {
+    "text": "molten magma down their slopes and as",
+    "start": 578.89,
+    "duration": 5.19
+  },
+  {
+    "text": "the lava hardens it's supposed it",
+    "start": 581.62,
+    "duration": 4.68
+  },
+  {
+    "text": "supposedly forms a shell around the",
+    "start": 584.08,
+    "duration": 4.41
+  },
+  {
+    "text": "flowing stream and indeed that is",
+    "start": 586.3,
+    "duration": 4.44
+  },
+  {
+    "text": "because you can see that there are lava",
+    "start": 588.49,
+    "duration": 4.59
+  },
+  {
+    "text": "channels around many volcanoes with",
+    "start": 590.74,
+    "duration": 5.789
+  },
+  {
+    "text": "roofs over them and holes through the",
+    "start": 593.08,
+    "duration": 6.12
+  },
+  {
+    "text": "roofs show that molten rock is indeed",
+    "start": 596.529,
+    "duration": 5.731
+  },
+  {
+    "text": "flowing through this shell since the",
+    "start": 599.2,
+    "duration": 5.25
+  },
+  {
+    "text": "shell creates a roof over the lava it",
+    "start": 602.26,
+    "duration": 4.71
+  },
+  {
+    "text": "insulates it and it allows it to travel",
+    "start": 604.45,
+    "duration": 6.3
+  },
+  {
+    "text": "for many kilometres and lava tubes are",
+    "start": 606.97,
+    "duration": 6.39
+  },
+  {
+    "text": "found in Hawaii and other places around",
+    "start": 610.75,
+    "duration": 5.089
+  },
+  {
+    "text": "the world like New Zealand or wherever",
+    "start": 613.36,
+    "duration": 5.07
+  },
+  {
+    "text": "volcanic eruptions have been frequent",
+    "start": 615.839,
+    "duration": 5.351
+  },
+  {
+    "text": "over the centuries we can see the",
+    "start": 618.43,
+    "duration": 5.099
+  },
+  {
+    "text": "evidence for collapsed lava tubes in",
+    "start": 621.19,
+    "duration": 5.55
+  },
+  {
+    "text": "Hawaii and they superficially do",
+    "start": 623.529,
+    "duration": 6.18
+  },
+  {
+    "text": "resemble the structures on Mars however",
+    "start": 626.74,
+    "duration": 5.46
+  },
+  {
+    "text": "one important objection that I can point",
+    "start": 629.709,
+    "duration": 4.851
+  },
+  {
+    "text": "out is there's no sign of any volcanoes",
+    "start": 632.2,
+    "duration": 4.949
+  },
+  {
+    "text": "associated with most of these big",
+    "start": 634.56,
+    "duration": 4.66
+  },
+  {
+    "text": "trenches that are supposedly collapsed",
+    "start": 637.149,
+    "duration": 5.31
+  },
+  {
+    "text": "lava tubes and another objection is the",
+    "start": 639.22,
+    "duration": 5.4
+  },
+  {
+    "text": "evidence of collapse that we can see on",
+    "start": 642.459,
+    "duration": 4.791
+  },
+  {
+    "text": "earth when the roof of a lava tube",
+    "start": 644.62,
+    "duration": 5.67
+  },
+  {
+    "text": "collapses they're often several meters",
+    "start": 647.25,
+    "duration": 6.43
+  },
+  {
+    "text": "thick of solid rock so the roof has",
+    "start": 650.29,
+    "duration": 5.489
+  },
+  {
+    "text": "really nowhere else to go except into",
+    "start": 653.68,
+    "duration": 4.68
+  },
+  {
+    "text": "the bottom of the lava tube so there's",
+    "start": 655.779,
+    "duration": 5.3
+  },
+  {
+    "text": "big piles of fractured rock and stone",
+    "start": 658.36,
+    "duration": 6.18
+  },
+  {
+    "text": "covering the floors of these tubes but",
+    "start": 661.079,
+    "duration": 5.32
+  },
+  {
+    "text": "when you look at the Martian formations",
+    "start": 664.54,
+    "duration": 4.41
+  },
+  {
+    "text": "the bottoms of these trenches are clean",
+    "start": 666.399,
+    "duration": 5.971
+  },
+  {
+    "text": "and there's really maybe just a dusting",
+    "start": 668.95,
+    "duration": 6.36
+  },
+  {
+    "text": "of Sandy ripples in there so you have to",
+    "start": 672.37,
+    "duration": 4.77
+  },
+  {
+    "text": "ask well where's the roof of this",
+    "start": 675.31,
+    "duration": 4.32
+  },
+  {
+    "text": "collapsed lava tube since the long",
+    "start": 677.14,
+    "duration": 4.35
+  },
+  {
+    "text": "trenches and I could name a couple of",
+    "start": 679.63,
+    "duration": 5.22
+  },
+  {
+    "text": "them like tractus Catina or koh protease",
+    "start": 681.49,
+    "duration": 7.89
+  },
+  {
+    "text": "Catina have steep clean sides and they",
+    "start": 684.85,
+    "duration": 6.96
+  },
+  {
+    "text": "have scalloped edges like I mentioned",
+    "start": 689.38,
+    "duration": 5.01
+  },
+  {
+    "text": "the last time Victoria crater has these",
+    "start": 691.81,
+    "duration": 5.37
+  },
+  {
+    "text": "scalloped edges so to the sides of some",
+    "start": 694.39,
+    "duration": 5.069
+  },
+  {
+    "text": "of these trenches they often have",
+    "start": 697.18,
+    "duration": 4.32
+  },
+  {
+    "text": "dendritic ridges going at their sides",
+    "start": 699.459,
+    "duration": 5.88
+  },
+  {
+    "text": "too so I'd suggest based on the evidence",
+    "start": 701.5,
+    "duration": 5.579
+  },
+  {
+    "text": "that I presented last time and some of",
+    "start": 705.339,
+    "duration": 3.211
+  },
+  {
+    "text": "the things that Dave Talbot has done",
+    "start": 707.079,
+    "duration": 3.901
+  },
+  {
+    "text": "about dendritic ridges that these",
+    "start": 708.55,
+    "duration": 5.19
+  },
+  {
+    "text": "trenches marked areas where electric",
+    "start": 710.98,
+    "duration": 5.13
+  },
+  {
+    "text": "discharges touched down and then",
+    "start": 713.74,
+    "duration": 4.41
+  },
+  {
+    "text": "traveled along for some distance before",
+    "start": 716.11,
+    "duration": 4.25
+  },
+  {
+    "text": "they were suddenly quenched",
+    "start": 718.15,
+    "duration": 5.88
+  },
+  {
+    "text": "so CJ Rams ransom who I mentioned in the",
+    "start": 720.36,
+    "duration": 6.67
+  },
+  {
+    "text": "last interview has created similar",
+    "start": 724.03,
+    "duration": 5.79
+  },
+  {
+    "text": "features in his laboratory of these",
+    "start": 727.03,
+    "duration": 5.67
+  },
+  {
+    "text": "trenches with clean bottoms and steep",
+    "start": 729.82,
+    "duration": 6.0
+  },
+  {
+    "text": "sides and he's done it by exposing these",
+    "start": 732.7,
+    "duration": 5.82
+  },
+  {
+    "text": "various materials he's formed two",
+    "start": 735.82,
+    "duration": 5.88
+  },
+  {
+    "text": "electric arcs and he's either moved the",
+    "start": 738.52,
+    "duration": 5.49
+  },
+  {
+    "text": "discharge electrode across the sample or",
+    "start": 741.7,
+    "duration": 5.55
+  },
+  {
+    "text": "he's moved the sample under the arc and",
+    "start": 744.01,
+    "duration": 6.0
+  },
+  {
+    "text": "that shows me that the lightning bolts",
+    "start": 747.25,
+    "duration": 5.49
+  },
+  {
+    "text": "that H the deep furrows on Mars were",
+    "start": 750.01,
+    "duration": 4.65
+  },
+  {
+    "text": "either moving through space above the",
+    "start": 752.74,
+    "duration": 5.13
+  },
+  {
+    "text": "planet or the planet was rotating under",
+    "start": 754.66,
+    "duration": 4.98
+  },
+  {
+    "text": "the discharge that was emitted by",
+    "start": 757.87,
+    "duration": 4.41
+  },
+  {
+    "text": "whatever electrically charged object was",
+    "start": 759.64,
+    "duration": 6.27
+  },
+  {
+    "text": "above its surface it's true that many",
+    "start": 762.28,
+    "duration": 5.88
+  },
+  {
+    "text": "Martian trenches are near what are",
+    "start": 765.91,
+    "duration": 4.92
+  },
+  {
+    "text": "conventionally called volcanoes but I",
+    "start": 768.16,
+    "duration": 4.47
+  },
+  {
+    "text": "have serious reservations about that",
+    "start": 770.83,
+    "duration": 4.35
+  },
+  {
+    "text": "description as well one of the most",
+    "start": 772.63,
+    "duration": 5.1
+  },
+  {
+    "text": "familiar formations on Mars is probably",
+    "start": 775.18,
+    "duration": 5.4
+  },
+  {
+    "text": "Olympus Mons in the northern region and",
+    "start": 777.73,
+    "duration": 6.42
+  },
+  {
+    "text": "it's often called the largest volcano in",
+    "start": 780.58,
+    "duration": 6.15
+  },
+  {
+    "text": "the solar system unquote because it",
+    "start": 784.15,
+    "duration": 6.12
+  },
+  {
+    "text": "rises more than 27 kilometers that's",
+    "start": 786.73,
+    "duration": 5.75
+  },
+  {
+    "text": "three times taller than Mount Everest",
+    "start": 790.27,
+    "duration": 5.85
+  },
+  {
+    "text": "it's also almost 600 kilometers wide",
+    "start": 792.48,
+    "duration": 6.97
+  },
+  {
+    "text": "across its base in comparison the",
+    "start": 796.12,
+    "duration": 6.81
+  },
+  {
+    "text": "volcano on Hawaii Mauna Kea when you",
+    "start": 799.45,
+    "duration": 5.37
+  },
+  {
+    "text": "measure it from the ocean floor to its",
+    "start": 802.93,
+    "duration": 4.65
+  },
+  {
+    "text": "summit is a little over 10 kilometers",
+    "start": 804.82,
+    "duration": 5.67
+  },
+  {
+    "text": "high so here you have a volcano",
+    "start": 807.58,
+    "duration": 5.43
+  },
+  {
+    "text": "so-called on Mars that's two and a half",
+    "start": 810.49,
+    "duration": 5.43
+  },
+  {
+    "text": "times higher than Mauna Kea but like I",
+    "start": 813.01,
+    "duration": 4.829
+  },
+  {
+    "text": "said there are serious issues with the",
+    "start": 815.92,
+    "duration": 3.81
+  },
+  {
+    "text": "description of Olympus Mons as a volcano",
+    "start": 817.839,
+    "duration": 5.041
+  },
+  {
+    "text": "and particularly in the sense that it's",
+    "start": 819.73,
+    "duration": 5.609
+  },
+  {
+    "text": "a place in the crust of Mars where",
+    "start": 822.88,
+    "duration": 5.22
+  },
+  {
+    "text": "supposedly molten magma erupted from",
+    "start": 825.339,
+    "duration": 5.041
+  },
+  {
+    "text": "beneath the surface building up a",
+    "start": 828.1,
+    "duration": 5.07
+  },
+  {
+    "text": "conical structure although I should",
+    "start": 830.38,
+    "duration": 4.65
+  },
+  {
+    "text": "mention in passing that volcanoes on",
+    "start": 833.17,
+    "duration": 4.29
+  },
+  {
+    "text": "earth might not behave in the same way",
+    "start": 835.03,
+    "duration": 5.64
+  },
+  {
+    "text": "as everyone assumes so using volcanoes",
+    "start": 837.46,
+    "duration": 5.58
+  },
+  {
+    "text": "on earth to describe Olympus Mars might",
+    "start": 840.67,
+    "duration": 5.6
+  },
+  {
+    "text": "be more of a hindrance than a help in",
+    "start": 843.04,
+    "duration": 7.11
+  },
+  {
+    "text": "the case of Olympus Mons though the",
+    "start": 846.27,
+    "duration": 6.88
+  },
+  {
+    "text": "structure is definitely anomalous first",
+    "start": 850.15,
+    "duration": 4.08
+  },
+  {
+    "text": "of all",
+    "start": 853.15,
+    "duration": 3.81
+  },
+  {
+    "text": "when electric arcs strike a surface they",
+    "start": 854.23,
+    "duration": 5.24
+  },
+  {
+    "text": "often will stick to one spot and that",
+    "start": 856.96,
+    "duration": 5.67
+  },
+  {
+    "text": "causes the surface to melt sometimes",
+    "start": 859.47,
+    "duration": 6.1
+  },
+  {
+    "text": "creating bubbles or blisters and those",
+    "start": 862.63,
+    "duration": 5.01
+  },
+  {
+    "text": "blisters are known as Fulgham i'ts or",
+    "start": 865.57,
+    "duration": 5.67
+  },
+  {
+    "text": "lightning blisters and that terminology",
+    "start": 867.64,
+    "duration": 5.85
+  },
+  {
+    "text": "I first learned from wal thornhill many",
+    "start": 871.24,
+    "duration": 5.16
+  },
+  {
+    "text": "years ago when he released his cd-rom",
+    "start": 873.49,
+    "duration": 5.18
+  },
+  {
+    "text": "called the electric universe",
+    "start": 876.4,
+    "duration": 4.14
+  },
+  {
+    "text": "unfortunately that particular",
+    "start": 878.67,
+    "duration": 4.02
+  },
+  {
+    "text": "presentation is now out of production",
+    "start": 880.54,
+    "duration": 4.95
+  },
+  {
+    "text": "but walls various talks in a number of",
+    "start": 882.69,
+    "duration": 4.57
+  },
+  {
+    "text": "different venues discussed nearly",
+    "start": 885.49,
+    "duration": 4.59
+  },
+  {
+    "text": "everything that was found there many of",
+    "start": 887.26,
+    "duration": 4.2
+  },
+  {
+    "text": "his talks are available through the",
+    "start": 890.08,
+    "duration": 4.56
+  },
+  {
+    "text": "Thunderbolts website by the way but",
+    "start": 891.46,
+    "duration": 6.3
+  },
+  {
+    "text": "getting back to olympus mons foga mites",
+    "start": 894.64,
+    "duration": 5.01
+  },
+  {
+    "text": "are sometimes seen on lightning rods",
+    "start": 897.76,
+    "duration": 4.32
+  },
+  {
+    "text": "after they've been struck their bill",
+    "start": 899.65,
+    "duration": 6.27
+  },
+  {
+    "text": "shaped blisters with nearly circular",
+    "start": 902.08,
+    "duration": 6.6
+  },
+  {
+    "text": "craters on top of the blister they have",
+    "start": 905.92,
+    "duration": 5.34
+  },
+  {
+    "text": "steep sides and they're surrounded by",
+    "start": 908.68,
+    "duration": 5.31
+  },
+  {
+    "text": "depressions or moats as I briefly",
+    "start": 911.26,
+    "duration": 5.46
+  },
+  {
+    "text": "touched on in the last interview they",
+    "start": 913.99,
+    "duration": 4.77
+  },
+  {
+    "text": "also rise up sharply from vertical",
+    "start": 916.72,
+    "duration": 4.95
+  },
+  {
+    "text": "sidewalls and of course anyone who's",
+    "start": 918.76,
+    "duration": 5.07
+  },
+  {
+    "text": "looked closely at images of Olympus Mons",
+    "start": 921.67,
+    "duration": 4.71
+  },
+  {
+    "text": "can see those same distinguishing",
+    "start": 923.83,
+    "duration": 5.49
+  },
+  {
+    "text": "characteristics these vertical sidewalls",
+    "start": 926.38,
+    "duration": 5.43
+  },
+  {
+    "text": "surround Olympus Mons then there's a",
+    "start": 929.32,
+    "duration": 6.38
+  },
+  {
+    "text": "steep upward rise in a bell shape and",
+    "start": 931.81,
+    "duration": 7.26
+  },
+  {
+    "text": "multiple circular craters on top of the",
+    "start": 935.7,
+    "duration": 6.01
+  },
+  {
+    "text": "of the volcano I keep referring it to",
+    "start": 939.07,
+    "duration": 5.34
+  },
+  {
+    "text": "evoke as a volcano but let's call it a",
+    "start": 941.71,
+    "duration": 5.06
+  },
+  {
+    "text": "Fulghum it-- which it most likely is",
+    "start": 944.41,
+    "duration": 5.58
+  },
+  {
+    "text": "then again close by Olympus Mons you've",
+    "start": 946.77,
+    "duration": 5.44
+  },
+  {
+    "text": "got three other gigantic so-called",
+    "start": 949.99,
+    "duration": 4.89
+  },
+  {
+    "text": "volcanoes that share the same features",
+    "start": 952.21,
+    "duration": 5.31
+  },
+  {
+    "text": "as Olympus Mons does the other three are",
+    "start": 954.88,
+    "duration": 4.56
+  },
+  {
+    "text": "found in a straight line just to the",
+    "start": 957.52,
+    "duration": 4.83
+  },
+  {
+    "text": "southeast of Olympus Mons and to me this",
+    "start": 959.44,
+    "duration": 5.55
+  },
+  {
+    "text": "means that the volcanoes on Mars are",
+    "start": 962.35,
+    "duration": 5.42
+  },
+  {
+    "text": "really gigantic lightning blisters and",
+    "start": 964.99,
+    "duration": 5.79
+  },
+  {
+    "text": "in my last interview I stressed that",
+    "start": 967.77,
+    "duration": 6.58
+  },
+  {
+    "text": "using earth geological theories to model",
+    "start": 970.78,
+    "duration": 5.1
+  },
+  {
+    "text": "the rest of the solar system is",
+    "start": 974.35,
+    "duration": 3.96
+  },
+  {
+    "text": "backwards thinking rather we ought to",
+    "start": 975.88,
+    "duration": 4.29
+  },
+  {
+    "text": "use what we see in the solar system to",
+    "start": 978.31,
+    "duration": 4.8
+  },
+  {
+    "text": "model earth geology in the case of the",
+    "start": 980.17,
+    "duration": 5.279
+  },
+  {
+    "text": "huge vulgar mites on Mars",
+    "start": 983.11,
+    "duration": 5.039
+  },
+  {
+    "text": "perhaps many or maybe even all volcanic",
+    "start": 985.449,
+    "duration": 5.55
+  },
+  {
+    "text": "formations on earth can be traced to the",
+    "start": 988.149,
+    "duration": 4.891
+  },
+  {
+    "text": "activity of electric arcs at some time",
+    "start": 990.999,
+    "duration": 5.28
+  },
+  {
+    "text": "in the recent past and in that light",
+    "start": 993.04,
+    "duration": 5.549
+  },
+  {
+    "text": "there's a structure in Namibia called",
+    "start": 996.279,
+    "duration": 4.261
+  },
+  {
+    "text": "the bran burg Massif that ought to be",
+    "start": 998.589,
+    "duration": 3.69
+  },
+  {
+    "text": "analyzed in terms of Fulghum aight",
+    "start": 1000.54,
+    "duration": 5.399
+  },
+  {
+    "text": "morphology because the branmer Massif is",
+    "start": 1002.279,
+    "duration": 7.02
+  },
+  {
+    "text": "a circular dome shaped structure it",
+    "start": 1005.939,
+    "duration": 6.781
+  },
+  {
+    "text": "rises more than 2500 meters and it's an",
+    "start": 1009.299,
+    "duration": 6.75
+  },
+  {
+    "text": "area bigger than 650 square kilometers",
+    "start": 1012.72,
+    "duration": 6.539
+  },
+  {
+    "text": "it's described by geologists as being",
+    "start": 1016.049,
+    "duration": 6.72
+  },
+  {
+    "text": "over 120 million years old and it's they",
+    "start": 1019.259,
+    "duration": 6.42
+  },
+  {
+    "text": "think it's a granitic intrusion that's",
+    "start": 1022.769,
+    "duration": 5.461
+  },
+  {
+    "text": "so supposedly punched through Earth's",
+    "start": 1025.679,
+    "duration": 6.03
+  },
+  {
+    "text": "crust long ago of course under 20",
+    "start": 1028.23,
+    "duration": 7.079
+  },
+  {
+    "text": "million years and but you know when you",
+    "start": 1031.709,
+    "duration": 5.7
+  },
+  {
+    "text": "look at Brandenburg Massif near it our",
+    "start": 1035.309,
+    "duration": 4.62
+  },
+  {
+    "text": "parallel grooves and ridges that extend",
+    "start": 1037.409,
+    "duration": 4.68
+  },
+  {
+    "text": "outward from it for hundreds of miles",
+    "start": 1039.929,
+    "duration": 4.23
+  },
+  {
+    "text": "and there are Lichtenberg figures",
+    "start": 1042.089,
+    "duration": 4.74
+  },
+  {
+    "text": "covering an enormous area multiple",
+    "start": 1044.159,
+    "duration": 5.701
+  },
+  {
+    "text": "craters with strange shapes and dunes",
+    "start": 1046.829,
+    "duration": 6.121
+  },
+  {
+    "text": "that seem to be frozen in place but when",
+    "start": 1049.86,
+    "duration": 5.01
+  },
+  {
+    "text": "you look closer you can see that the",
+    "start": 1052.95,
+    "duration": 5.099
+  },
+  {
+    "text": "so-called dunes are really solid rock",
+    "start": 1054.87,
+    "duration": 6.029
+  },
+  {
+    "text": "waves that march across the desert",
+    "start": 1058.049,
+    "duration": 5.1
+  },
+  {
+    "text": "they're covered by only a thin layer of",
+    "start": 1060.899,
+    "duration": 5.88
+  },
+  {
+    "text": "sand and parallel grooves like this are",
+    "start": 1063.149,
+    "duration": 6.27
+  },
+  {
+    "text": "everywhere in the solar system on Venus",
+    "start": 1066.779,
+    "duration": 5.071
+  },
+  {
+    "text": "which is the hottest spot in the solar",
+    "start": 1069.419,
+    "duration": 6.331
+  },
+  {
+    "text": "system on Enceladus which is profoundly",
+    "start": 1071.85,
+    "duration": 5.52
+  },
+  {
+    "text": "cold near the temperature of absolute",
+    "start": 1075.75,
+    "duration": 5.279
+  },
+  {
+    "text": "zero and if these patterns are found in",
+    "start": 1077.37,
+    "duration": 5.82
+  },
+  {
+    "text": "such different environments then we have",
+    "start": 1081.029,
+    "duration": 4.11
+  },
+  {
+    "text": "to search for a common explanation for",
+    "start": 1083.19,
+    "duration": 2.339
+  },
+  {
+    "text": "them",
+    "start": 1085.139,
+    "duration": 2.551
+  },
+  {
+    "text": "that has to take all that variability",
+    "start": 1085.529,
+    "duration": 5.49
+  },
+  {
+    "text": "into account and I mentioned Lichtenberg",
+    "start": 1087.69,
+    "duration": 6.0
+  },
+  {
+    "text": "figures a moment ago they're named for",
+    "start": 1091.019,
+    "duration": 6.03
+  },
+  {
+    "text": "George Christoph Lichtenberg and they",
+    "start": 1093.69,
+    "duration": 5.31
+  },
+  {
+    "text": "form when lightning bolts strike some",
+    "start": 1097.049,
+    "duration": 4.98
+  },
+  {
+    "text": "material on earth it can be soil or",
+    "start": 1099.0,
+    "duration": 6.21
+  },
+  {
+    "text": "sometimes even human tissue I've seen",
+    "start": 1102.029,
+    "duration": 6.331
+  },
+  {
+    "text": "images on the web of human beings that",
+    "start": 1105.21,
+    "duration": 5.61
+  },
+  {
+    "text": "have been struck by lightning and these",
+    "start": 1108.36,
+    "duration": 5.87
+  },
+  {
+    "text": "branching dict Lichtenberg figures are",
+    "start": 1110.82,
+    "duration": 6.13
+  },
+  {
+    "text": "burned into their flesh",
+    "start": 1114.23,
+    "duration": 5.87
+  },
+  {
+    "text": "and Lichtenberg figures have also been",
+    "start": 1116.95,
+    "duration": 5.97
+  },
+  {
+    "text": "generated artificially in blocks of",
+    "start": 1120.1,
+    "duration": 5.22
+  },
+  {
+    "text": "acrylic plastic by a man named Burt",
+    "start": 1122.92,
+    "duration": 5.46
+  },
+  {
+    "text": "Hickman who sells what he calls captured",
+    "start": 1125.32,
+    "duration": 6.8
+  },
+  {
+    "text": "lightning sculptures on his website also",
+    "start": 1128.38,
+    "duration": 6.39
+  },
+  {
+    "text": "many Lichtenberg figures have been",
+    "start": 1132.12,
+    "duration": 4.36
+  },
+  {
+    "text": "discovered in the south polar region of",
+    "start": 1134.77,
+    "duration": 4.8
+  },
+  {
+    "text": "Mars and we've referred to them in some",
+    "start": 1136.48,
+    "duration": 5.7
+  },
+  {
+    "text": "pictures of the day as Martian spiders",
+    "start": 1139.57,
+    "duration": 4.98
+  },
+  {
+    "text": "but we're not going to get into the",
+    "start": 1142.18,
+    "duration": 6.48
+  },
+  {
+    "text": "Martian spiders too much here today so",
+    "start": 1144.55,
+    "duration": 6.15
+  },
+  {
+    "text": "if the topography surrounding the bran",
+    "start": 1148.66,
+    "duration": 4.98
+  },
+  {
+    "text": "burg Massif and the bran burg Massif",
+    "start": 1150.7,
+    "duration": 5.55
+  },
+  {
+    "text": "itself exhibits details that are found",
+    "start": 1153.64,
+    "duration": 4.92
+  },
+  {
+    "text": "on other planets and moons then",
+    "start": 1156.25,
+    "duration": 4.5
+  },
+  {
+    "text": "conventional theories are going to fall",
+    "start": 1158.56,
+    "duration": 5.88
+  },
+  {
+    "text": "really short of the observations by",
+    "start": 1160.75,
+    "duration": 5.76
+  },
+  {
+    "text": "describing the birth of the bran burg",
+    "start": 1164.44,
+    "duration": 3.93
+  },
+  {
+    "text": "Massif as an event that emerged",
+    "start": 1166.51,
+    "duration": 3.78
+  },
+  {
+    "text": "gradually in the distant past",
+    "start": 1168.37,
+    "duration": 4.38
+  },
+  {
+    "text": "basically planetary scientists are",
+    "start": 1170.29,
+    "duration": 5.54
+  },
+  {
+    "text": "neglecting observational evidence and",
+    "start": 1172.75,
+    "duration": 6.36
+  },
+  {
+    "text": "that evidence is that the formation is",
+    "start": 1175.83,
+    "duration": 6.43
+  },
+  {
+    "text": "in reality a foga might of huge",
+    "start": 1179.11,
+    "duration": 5.61
+  },
+  {
+    "text": "proportions that might have been formed",
+    "start": 1182.26,
+    "duration": 6.3
+  },
+  {
+    "text": "suddenly again I know that this idea",
+    "start": 1184.72,
+    "duration": 7.05
+  },
+  {
+    "text": "sounds far-fetched since earth geology",
+    "start": 1188.56,
+    "duration": 5.73
+  },
+  {
+    "text": "has been well thought out and explained",
+    "start": 1191.77,
+    "duration": 5.55
+  },
+  {
+    "text": "for the last hundred years or more but I",
+    "start": 1194.29,
+    "duration": 5.04
+  },
+  {
+    "text": "will say though that one well-known",
+    "start": 1197.32,
+    "duration": 4.98
+  },
+  {
+    "text": "geologist that I know has been heavily",
+    "start": 1199.33,
+    "duration": 6.09
+  },
+  {
+    "text": "influenced by these concepts so much so",
+    "start": 1202.3,
+    "duration": 5.16
+  },
+  {
+    "text": "that he's changed his opinion about some",
+    "start": 1205.42,
+    "duration": 4.56
+  },
+  {
+    "text": "earth-based structures and now says he's",
+    "start": 1207.46,
+    "duration": 4.62
+  },
+  {
+    "text": "examining his opinions about how they",
+    "start": 1209.98,
+    "duration": 5.61
+  },
+  {
+    "text": "formed in light of new knowledge that",
+    "start": 1212.08,
+    "duration": 7.35
+  },
+  {
+    "text": "he's gained about electrical events so",
+    "start": 1215.59,
+    "duration": 6.3
+  },
+  {
+    "text": "this shows you that once the mind opens",
+    "start": 1219.43,
+    "duration": 5.16
+  },
+  {
+    "text": "to new ideas and a new way of seeing the",
+    "start": 1221.89,
+    "duration": 5.28
+  },
+  {
+    "text": "world is allowed to take hold things",
+    "start": 1224.59,
+    "duration": 5.58
+  },
+  {
+    "text": "that once seemed so settled and stable",
+    "start": 1227.17,
+    "duration": 5.76
+  },
+  {
+    "text": "suddenly take on a whole new aspect a",
+    "start": 1230.17,
+    "duration": 5.85
+  },
+  {
+    "text": "new way of seeing the world evolves this",
+    "start": 1232.93,
+    "duration": 5.61
+  },
+  {
+    "text": "change in thought processes is sometimes",
+    "start": 1236.02,
+    "duration": 5.76
+  },
+  {
+    "text": "described as a catastrophic shift in",
+    "start": 1238.54,
+    "duration": 6.45
+  },
+  {
+    "text": "perception by psychologists that shift",
+    "start": 1241.78,
+    "duration": 5.28
+  },
+  {
+    "text": "in perception was described in the title",
+    "start": 1244.99,
+    "duration": 4.25
+  },
+  {
+    "text": "of the last Thunderbolts conference it's",
+    "start": 1247.06,
+    "duration": 5.15
+  },
+  {
+    "text": "called a tipping point when you push on",
+    "start": 1249.24,
+    "duration": 5.61
+  },
+  {
+    "text": "a tall object it slowly moves off-center",
+    "start": 1252.21,
+    "duration": 4.62
+  },
+  {
+    "text": "until it reaches the point of no return",
+    "start": 1254.85,
+    "duration": 4.8
+  },
+  {
+    "text": "and tips over without further energy",
+    "start": 1256.83,
+    "duration": 4.98
+  },
+  {
+    "text": "input because gravity takes hold and",
+    "start": 1259.65,
+    "duration": 5.13
+  },
+  {
+    "text": "that same psychological impetus occurs",
+    "start": 1261.81,
+    "duration": 6.15
+  },
+  {
+    "text": "in the mind slowly new ideas begin to",
+    "start": 1264.78,
+    "duration": 5.16
+  },
+  {
+    "text": "build on one another until the old",
+    "start": 1267.96,
+    "duration": 4.65
+  },
+  {
+    "text": "mindset topples and a perfect",
+    "start": 1269.94,
+    "duration": 4.38
+  },
+  {
+    "text": "illustration of that it would be the",
+    "start": 1272.61,
+    "duration": 3.45
+  },
+  {
+    "text": "fall of the Soviet Union if you're",
+    "start": 1274.32,
+    "duration": 3.51
+  },
+  {
+    "text": "talking about it from the psychological",
+    "start": 1276.06,
+    "duration": 4.29
+  },
+  {
+    "text": "standpoint I remember hearing about",
+    "start": 1277.83,
+    "duration": 5.49
+  },
+  {
+    "text": "Hungary taking down their walled borders",
+    "start": 1280.35,
+    "duration": 5.28
+  },
+  {
+    "text": "with the West one day and then it seems",
+    "start": 1283.32,
+    "duration": 3.9
+  },
+  {
+    "text": "like only a couple weeks later that",
+    "start": 1285.63,
+    "duration": 3.72
+  },
+  {
+    "text": "lacroix lenses started the Solidarity",
+    "start": 1287.22,
+    "duration": 4.08
+  },
+  {
+    "text": "movement and then a couple weeks after",
+    "start": 1289.35,
+    "duration": 3.72
+  },
+  {
+    "text": "that we saw the East German wall come",
+    "start": 1291.3,
+    "duration": 4.53
+  },
+  {
+    "text": "down I realize it took longer than that",
+    "start": 1293.07,
+    "duration": 4.62
+  },
+  {
+    "text": "of course but it seems like once the",
+    "start": 1295.83,
+    "duration": 4.29
+  },
+  {
+    "text": "ball starts rolling changes become",
+    "start": 1297.69,
+    "duration": 4.46
+  },
+  {
+    "text": "inevitable",
+    "start": 1300.12,
+    "duration": 2.03
+  }
+]

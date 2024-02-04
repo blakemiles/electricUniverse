@@ -1,0 +1,522 @@
+[
+  {
+    "text": "so what are the advantages of this force",
+    "start": 12.32,
+    "duration": 4.48
+  },
+  {
+    "text": "of gravity",
+    "start": 15.28,
+    "duration": 4.56
+  },
+  {
+    "text": "is derived from a universal force law",
+    "start": 16.8,
+    "duration": 5.2
+  },
+  {
+    "text": "it's based on real finite sized",
+    "start": 19.84,
+    "duration": 4.4
+  },
+  {
+    "text": "particles not point particles",
+    "start": 22.0,
+    "duration": 5.599
+  },
+  {
+    "text": "doesn't involve any known approximations",
+    "start": 24.24,
+    "duration": 5.6
+  },
+  {
+    "text": "it's a contact force is expected by",
+    "start": 27.599,
+    "duration": 4.08
+  },
+  {
+    "text": "natural philosophers",
+    "start": 29.84,
+    "duration": 3.68
+  },
+  {
+    "text": "it describes",
+    "start": 31.679,
+    "duration": 4.081
+  },
+  {
+    "text": "the curling spiraling motion of",
+    "start": 33.52,
+    "duration": 4.0
+  },
+  {
+    "text": "planetary orbits",
+    "start": 35.76,
+    "duration": 4.479
+  },
+  {
+    "text": "that our cross r cross v term produces",
+    "start": 37.52,
+    "duration": 5.52
+  },
+  {
+    "text": "that spiraling type motion",
+    "start": 40.239,
+    "duration": 4.881
+  },
+  {
+    "text": "does the same thing in electrodynamics",
+    "start": 43.04,
+    "duration": 4.32
+  },
+  {
+    "text": "when you have currents flowing they also",
+    "start": 45.12,
+    "duration": 4.72
+  },
+  {
+    "text": "spiral",
+    "start": 47.36,
+    "duration": 2.48
+  },
+  {
+    "text": "it satisfies mach's principle because",
+    "start": 50.879,
+    "duration": 5.36
+  },
+  {
+    "text": "all of the",
+    "start": 54.48,
+    "duration": 3.84
+  },
+  {
+    "text": "charges in the universe can be taken",
+    "start": 56.239,
+    "duration": 4.8
+  },
+  {
+    "text": "into account as far as uh all the",
+    "start": 58.32,
+    "duration": 5.52
+  },
+  {
+    "text": "vibrating dipoles as far as uh max",
+    "start": 61.039,
+    "duration": 5.201
+  },
+  {
+    "text": "principle is concerned",
+    "start": 63.84,
+    "duration": 3.2
+  },
+  {
+    "text": "uh",
+    "start": 66.24,
+    "duration": 3.44
+  },
+  {
+    "text": "it explains more phenomena than any",
+    "start": 67.04,
+    "duration": 5.439
+  },
+  {
+    "text": "previous gravitational force theory",
+    "start": 69.68,
+    "duration": 5.6
+  },
+  {
+    "text": "it eliminates mass as a fundamental",
+    "start": 72.479,
+    "duration": 4.401
+  },
+  {
+    "text": "quantity",
+    "start": 75.28,
+    "duration": 3.28
+  },
+  {
+    "text": "uh oh",
+    "start": 76.88,
+    "duration": 3.68
+  },
+  {
+    "text": "it explains why inertial and",
+    "start": 78.56,
+    "duration": 4.559
+  },
+  {
+    "text": "gravitational masses are equal",
+    "start": 80.56,
+    "duration": 4.239
+  },
+  {
+    "text": "i haven't done the force of inertia but",
+    "start": 83.119,
+    "duration": 4.64
+  },
+  {
+    "text": "we'll do that next",
+    "start": 84.799,
+    "duration": 5.281
+  },
+  {
+    "text": "for the force of inertia we'll take the",
+    "start": 87.759,
+    "duration": 5.36
+  },
+  {
+    "text": "force between a unit charge",
+    "start": 90.08,
+    "duration": 7.12
+  },
+  {
+    "text": "over here on the right and a vibrating",
+    "start": 93.119,
+    "duration": 6.481
+  },
+  {
+    "text": "neutral electric dipole",
+    "start": 97.2,
+    "duration": 6.32
+  },
+  {
+    "text": "we'll do the same kind of calculation",
+    "start": 99.6,
+    "duration": 7.199
+  },
+  {
+    "text": "that we did for the force of gravity and",
+    "start": 103.52,
+    "duration": 5.2
+  },
+  {
+    "text": "i'm not i'll just show you what it looks",
+    "start": 106.799,
+    "duration": 3.521
+  },
+  {
+    "text": "like if i write it",
+    "start": 108.72,
+    "duration": 4.079
+  },
+  {
+    "text": "like newton would have written it",
+    "start": 110.32,
+    "duration": 5.52
+  },
+  {
+    "text": "we get the f equals m a term like newton",
+    "start": 112.799,
+    "duration": 6.401
+  },
+  {
+    "text": "had but we get a second term",
+    "start": 115.84,
+    "duration": 6.879
+  },
+  {
+    "text": "this term goes as r across r cross a",
+    "start": 119.2,
+    "duration": 4.8
+  },
+  {
+    "text": "and",
+    "start": 122.719,
+    "duration": 3.921
+  },
+  {
+    "text": "i don't have time to show you all the",
+    "start": 124.0,
+    "duration": 6.08
+  },
+  {
+    "text": "data that but a very famous",
+    "start": 126.64,
+    "duration": 4.8
+  },
+  {
+    "text": "british",
+    "start": 130.08,
+    "duration": 3.84
+  },
+  {
+    "text": "engineer named eric leithwaite the",
+    "start": 131.44,
+    "duration": 4.24
+  },
+  {
+    "text": "inventor of the high-speed electric",
+    "start": 133.92,
+    "duration": 2.72
+  },
+  {
+    "text": "train",
+    "start": 135.68,
+    "duration": 4.0
+  },
+  {
+    "text": "he did gyroscope experiments and he",
+    "start": 136.64,
+    "duration": 5.04
+  },
+  {
+    "text": "found that term",
+    "start": 139.68,
+    "duration": 4.24
+  },
+  {
+    "text": "and for finding it",
+    "start": 141.68,
+    "duration": 3.68
+  },
+  {
+    "text": "all of his contracts with the british",
+    "start": 143.92,
+    "duration": 3.44
+  },
+  {
+    "text": "government were canceled his membership",
+    "start": 145.36,
+    "duration": 4.72
+  },
+  {
+    "text": "in the rural society was revoked",
+    "start": 147.36,
+    "duration": 5.68
+  },
+  {
+    "text": "and he was declared a heretic",
+    "start": 150.08,
+    "duration": 4.96
+  },
+  {
+    "text": "but his trains still worked they're in",
+    "start": 153.04,
+    "duration": 4.479
+  },
+  {
+    "text": "they're in germany and japan and they",
+    "start": 155.04,
+    "duration": 5.279
+  },
+  {
+    "text": "should have been in great britain and uh",
+    "start": 157.519,
+    "duration": 4.8
+  },
+  {
+    "text": "and there's nothing wrong with his data",
+    "start": 160.319,
+    "duration": 3.681
+  },
+  {
+    "text": "now that we have the proper theory for",
+    "start": 162.319,
+    "duration": 3.681
+  },
+  {
+    "text": "the force of inertia we know there's a",
+    "start": 164.0,
+    "duration": 4.08
+  },
+  {
+    "text": "second term",
+    "start": 166.0,
+    "duration": 4.48
+  },
+  {
+    "text": "now there's some other things that this",
+    "start": 168.08,
+    "duration": 5.28
+  },
+  {
+    "text": "can explain",
+    "start": 170.48,
+    "duration": 2.88
+  },
+  {
+    "text": "this also agrees",
+    "start": 173.84,
+    "duration": 4.399
+  },
+  {
+    "text": "the mass the f equals m",
+    "start": 175.599,
+    "duration": 5.36
+  },
+  {
+    "text": "a the m there is the same m",
+    "start": 178.239,
+    "duration": 4.64
+  },
+  {
+    "text": "if you write it out in electrodynamic",
+    "start": 180.959,
+    "duration": 5.681
+  },
+  {
+    "text": "constants as for gravity it also is",
+    "start": 182.879,
+    "duration": 6.801
+  },
+  {
+    "text": "decaying producing a 2.7 degree kelvin",
+    "start": 186.64,
+    "duration": 6.16
+  },
+  {
+    "text": "causing background radiation",
+    "start": 189.68,
+    "duration": 4.16
+  },
+  {
+    "text": "it",
+    "start": 192.8,
+    "duration": 3.04
+  },
+  {
+    "text": "now tells us something about spiral",
+    "start": 193.84,
+    "duration": 5.039
+  },
+  {
+    "text": "galaxies that we didn't know",
+    "start": 195.84,
+    "duration": 4.16
+  },
+  {
+    "text": "that is",
+    "start": 198.879,
+    "duration": 3.841
+  },
+  {
+    "text": "the outer arms of spiral galaxies the",
+    "start": 200.0,
+    "duration": 6.48
+  },
+  {
+    "text": "mass of the atoms is different",
+    "start": 202.72,
+    "duration": 6.08
+  },
+  {
+    "text": "than the mass at the center because the",
+    "start": 206.48,
+    "duration": 5.119
+  },
+  {
+    "text": "outer arms decay faster than the center",
+    "start": 208.8,
+    "duration": 3.6
+  },
+  {
+    "text": "so",
+    "start": 211.599,
+    "duration": 4.881
+  },
+  {
+    "text": "we expect to see",
+    "start": 212.4,
+    "duration": 4.08
+  },
+  {
+    "text": "that this data here",
+    "start": 217.36,
+    "duration": 5.84
+  },
+  {
+    "text": "the green line here shows what newton's",
+    "start": 219.92,
+    "duration": 5.679
+  },
+  {
+    "text": "law and that's also einstein's general",
+    "start": 223.2,
+    "duration": 5.679
+  },
+  {
+    "text": "relativity theory would predict for the",
+    "start": 225.599,
+    "duration": 6.241
+  },
+  {
+    "text": "velocity of the spiral arms as a",
+    "start": 228.879,
+    "duration": 4.72
+  },
+  {
+    "text": "function of distance from the center of",
+    "start": 231.84,
+    "duration": 4.72
+  },
+  {
+    "text": "the spiraling",
+    "start": 233.599,
+    "duration": 5.241
+  },
+  {
+    "text": "galaxy the",
+    "start": 236.56,
+    "duration": 4.48
+  },
+  {
+    "text": "blue data",
+    "start": 238.84,
+    "duration": 7.0
+  },
+  {
+    "text": "are what is actually observed and the",
+    "start": 241.04,
+    "duration": 4.8
+  },
+  {
+    "text": "green or lighter green line yellow line",
+    "start": 246.159,
+    "duration": 5.36
+  },
+  {
+    "text": "above is what you would expect from the",
+    "start": 248.959,
+    "duration": 3.84
+  },
+  {
+    "text": "decay",
+    "start": 251.519,
+    "duration": 5.361
+  },
+  {
+    "text": "of the mass and conservation of energy",
+    "start": 252.799,
+    "duration": 7.44
+  },
+  {
+    "text": "for the outer arms so we don't need dark",
+    "start": 256.88,
+    "duration": 6.56
+  },
+  {
+    "text": "matter we don't need dark energy",
+    "start": 260.239,
+    "duration": 5.761
+  },
+  {
+    "text": "our formula for gravity our electric",
+    "start": 263.44,
+    "duration": 3.6
+  },
+  {
+    "text": "formula",
+    "start": 266.0,
+    "duration": 3.84
+  },
+  {
+    "text": "does it all",
+    "start": 267.04,
+    "duration": 2.8
+  },
+  {
+    "text": "you",
+    "start": 300.08,
+    "duration": 2.08
+  }
+]

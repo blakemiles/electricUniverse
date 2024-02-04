@@ -1,0 +1,265 @@
+[Music]
+[Music]
+Prior to the launch and successful commencement of
+operations of the James Webb Space Telescope, I made three
+Thunderbolts videos in which I discussed 
+the Webb’s significance in the context of
+Electric Universe cosmology issues. And I made several
+predictions of what the Webb Space Telescope would reveal.
+This is the second episode to report on
+success in relation to those predictions
+that emerged in the very first release
+of Webb imaging. Before proceeding with an
+analysis of those images, I need to deal
+with a few matters to set the scene.
+Redshift refers to an increase in the
+wavelength of light, measured as a shift
+in the frequency of spectral emission - or
+absorption lines that are characteristic
+of particular elements or chemical
+compounds, when compared to the
+wavelengths emitted by those elements or compounds in
+the laboratory. In Standard Model astrophysics, the
+redshift of a particular object can be a mix of three
+separate components. The first component is cosmological
+redshift. That expression refers to an object's redshift
+that is due solely to the expansion of the universe, the
+expansion of space-time itself. This results in a
+recessional velocity between galaxies that are at rest in
+their local frame. The second component is redshift
+arising as a Doppler effect from the object's
+motion in relation to other objects in their local frame.
+Such motion is referred to as proper motion or peculiar
+motion. The third component is gravitational redshift
+which refers to an effect predicted by general
+relativity, namely the lengthening of light waves traveling
+out of the gravitational field of a massive object.
+The first two components give rise to a level of confusion
+for laypeople, precisely because the word ‘velocity’ is
+used by astrophysicists and cosmologists in both 
+contexts. The word ‘velocity’ is routinely used to
+refer to the rate at which galaxies and other extragalactic
+objects are receding on account of the expansion of space,
+rather than their proper motion. On the other hand,
+the word ‘velocity’ is also used to refer to proper motions
+inferred from small differences in the redshifts of, for
+example, interacting galaxies; or galaxies within a galaxy
+cluster; or differences measured within a
+galaxy or a cloud. And in the case of galactic
+jets, much larger differences in redshift
+are correctly attributed to proper motion.
+When an active galaxy with a particular
+redshift has bipolar jets, one jet will
+have lower redshift, indicating that
+matter in the jet is traveling towards
+us. The other jet will have a higher redshift,
+indicating matter in that jet is traveling away from us.
+Nevertheless, in the Standard Model,
+the redshift of all galaxies and quasars
+beyond our local universe, is almost
+entirely cosmological redshift, arising
+from the expansion of the universe.
+It was Hubble's observation and the
+spectral analysis by Milton Humason, 
+that established the correlation between
+luminosity and redshift. In every
+direction that Hubble observed,
+decreasing luminosity correlated with increasing 
+redshift. It was the interpretation of redshift as
+a Doppler effect, arising from
+recessional velocity, which led to the
+conclusion that the universe was expanding.
+Simple extrapolation backwards in time
+drove Gamow and others, to conclude that
+the universe must have started with what
+later came to be called the Big Bang.
+It is commonly said that Big Bang Theory
+is based on three main categories of
+observational evidence, called the three pillars:
+the expansion of the universe, proved by the Hubble
+redshift luminosity relationship; the cosmic microwave
+background; and the abundances of the light 
+elements. However, it is the first of these that is
+the essential foundation of Big Bang cosmology.
+If the universe is not expanding, then
+the whole basis for theorizing about the
+consequences of a Big Bang is removed.
+Make no mistake, it is the expansion of
+the universe embodied in the Hubble law,
+that is the essential foundation on
+which the whole of Big Bang cosmology is
+erected. If the observed correlation
+between redshift and luminosity was not
+due to a Doppler effect, but due to
+something else, as Hubble suspected and
+as Halton Arp demonstrated, then that
+foundational axiom is destroyed and with
+it, the vast edifice that is Big Bang cosmology 
+collapses. Galaxies and quasars with significantly
+different redshifts may appear close to
+one another on the plane of the sky.
+However, in the Standard Model, this 
+must be a chance alignment, because a
+significant difference in redshift must
+mean that the objects are in different
+parts of the universe such that any physical
+connection between them would be utterly impossible.
+Similarly, in the Standard Model,
+viewed from Earth, it would be utterly
+impossible for a high redshift object to be in the
+foreground of a low redshift object. This is a bit like the
+proposition ‘all swans are white’.
+Just as finding a single black swan
+would disprove that proposition, finding
+a single example where objects with
+significantly different redshifts were
+physically connected, or where a high
+redshift object was in front of an
+object with much lower redshift, would
+destroy the essential foundation on
+which the whole superstructure of Big
+Bang cosmology is erected. Of course that analogy is
+imperfect. In the case of quasars and high redshift
+galaxies, the astrophysicists have never
+in fact seen any of these objects up close.
+They do not know whether the redshift of these objects
+represent a distance arising from expanding space.
+They have never demonstrated that any of those ‘swans’
+are white. In my June 21st, 2021 Thunderbolts video,
+I noted that quote, “Arp's research into
+high-redshift quasars shows they are
+local.” Unquote. That is, quasars are not
+at the extreme distances indicated by the
+Standard Model interpretation of their high 
+redshift. I made the following prediction quote,
+”So my first prediction is that the James Webb
+Telescope will support Halton Arp’s research
+which shows plainly that high-redshift
+quasars are born in pairs and emitted in
+oppositely directed jets along the spin
+axis of a low-redshift active galaxy.
+They are not at the edge of the visible universe;
+they are in the neighborhood of their parent galaxy.
+Therefore, they are not incredibly
+distant, bright and large. There is no
+superluminal motion; they are nearby and youthfully
+faint.” Unquote. A final adjudication on that prediction
+will require a substantial accumulation
+of Webb data. That will take years, and yet
+Webb’s first science images provide a
+vindication of Arp's basic contention
+that cosmological redshift is intrinsic,
+and not due to the expansion of the
+universe, and its theory of quasar birth from active
+galactic nuclei. The first piece of evidence arises from
+the Webb images of Stephan's Quintet,
+and a quasar appearing in the main field of
+the galaxy. Quasars became central
+to Arp's research program. He gave an
+account of the origins of that research program in a
+contribution to an edited volume “Against the Tide. A
+Critical Review by Scientists of How Physics & Astronomy
+Get Done.” Quote: "Quasars were discovered in 1963 [by
+radio astronomers] and [optical] astronomers rushed
+to observe them because they assume their high
+redshifts meant they were at great distances and that
+the nature of the universe would thereby be revealed.
+The Caltech radio astronomer who isolated the positions
+of the first quasars asked for telescope time to
+observe their spectra and obtain their redshifts. He was
+told, only certain of the faculty could observe with the
+200-inch telescope. Those select few went
+on to measure the spectra and reap the
+headlines and the original discoverer left the field
+in disgust. As a Carnegie astronomer I was observing
+on the telescope but the radio positions
+of the quasars were kept secret and so I
+did the next best thing - photographing
+peculiar and disrupted galaxies to see
+how they were formed and evolved.
+Ironically, in the end, they turned out to
+be surrounded by quasars which were 
+obviously not out at the edge of the universe.
+That news was not welcomed by the observers who 
+had inflated their reputations with discoveries of a new
+quote ‘most luminous object in the universe’ every few
+weeks.” Unquote. It was ironic indeed because quasars took
+center stage in the evidence of anomalous redshift
+assembled by Arp and others over the following decades.
+This is a Hubble image of Stephan’s
+Quintet released in the year 2000. It's
+a composite of three images obtained by Hubble's Wide
+Field Camera II. Two were in visible light and a third at
+814 nanometers in the very near infrared.
+NGC 7319 is the Galaxy at the top of that image.
+In the early 2000’s Arp was part of a
+team that identified an ultra-luminous
+X-ray object as a high-redshift quasar,
+apparently in the foreground of NGC 7319.
+That discovery was announced in a paper
+published in 2005 entitled, “The Discovery
+of a High Redshift X-Ray Emitting QSO Very close to
+the Nucleus of NGC 7319.” It’s required reading for all
+cosmologists while looking at the relevant 
+images. This is a portion of the 2000 Hubble
+image with processing to increase contrast
+and saturation which appears in that paper.
+The Galaxy NGC 7319 has a redshift of Z=0.0225,
+whereas the quasar has a redshift of Z=0.2114,
+numerically almost ten times greater.
+On the assumption of the Standard
+Model's redshift - distance relationship,
+and using Ned Wright's calculator with
+default values, NGC 7319's measured redshift 
+of Z=0.0225, places it at a lookback time, or
+distance of about 311 million light years
+when the light captured by Hubble was emitted.
+On the other hand, the quasar has a measured
+redshift of Z=2.114, placing it at lookback time, or
+distance, of about 10.58 billion light
+years when the light captured by Hubble
+was emitted on the Standard Model. That is 
+some 34 times farther away than NGC 7319.
+Even on the Hubble image, it was 
+obvious to Arp that the quasar was in the
+foreground of NGC 7319, and therefore closer than 
+NGC 7319. Look at the dark dust lane that passes
+on a diagonal path that visually encloses a portion
+of the quasar. Not only did the quasar appear in the
+foreground, as this image plainly shows,
+there is also a V-shaped jet extending
+from the core of the galaxy to the quasar.
+The existence of that feature, previously
+identified by mainstream astronomers, was confirmed
+in radio observations by Arp and his colleagues.
+Arp writes, “This is the only system found
+so far in which there is the possibility
+of demonstrating even more clearly that
+the QSO and Galaxy are interacting.”
+It was striking evidence that the quasar
+had been ejected from the nucleus of NGC
+7319. Arp's Standard Model critics
+insisted that the Quasar was at the
+unimaginably enormous distance indicated
+by its redshift and therefore had to be
+a background object, but so bright that
+it shines through the entire dust and
+plasma of the disk of the galaxy. And as for the jet,
+well whatever. Subsequent to that paper in 2009, a
+further Hubble image of Stephan’s quintet,
+obtained with Hubble's upgraded Wide
+Field camera III, was released. Here is 
+the indicated portion of that 2009 Hubble
+image with the quasar marked by an arrow.
+That image did not change the arguments,
+notwithstanding that it seemed even
+clearer that a dark dust lane passed
+behind at least some portion of the
+field of the quasar. The dust lane has a
+ragged edge - perhaps there was a
+deviation of the dust lane at precisely
+the point where the quasar appears.
+As we shall shortly see, Webb images of
+NGC 7319 within Stephan’s Quintet now put
+the issue beyond any reasonable argument.
+[Music]

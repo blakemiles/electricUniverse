@@ -1,0 +1,4237 @@
+[
+  {
+    "text": "thank you very much I'd like to begin",
+    "start": 24.17,
+    "duration": 7.929
+  },
+  {
+    "text": "again by expressing my honor to be here",
+    "start": 28.83,
+    "duration": 5.1
+  },
+  {
+    "text": "I've really met a lot of nice people so",
+    "start": 32.099,
+    "duration": 3.691
+  },
+  {
+    "text": "it's been a it's been a privilege to",
+    "start": 33.93,
+    "duration": 5.52
+  },
+  {
+    "text": "attend the conference as you remember",
+    "start": 35.79,
+    "duration": 5.519
+  },
+  {
+    "text": "yesterday I started my talk by speaking",
+    "start": 39.45,
+    "duration": 5.34
+  },
+  {
+    "text": "about anchoring so the question becomes",
+    "start": 41.309,
+    "duration": 7.081
+  },
+  {
+    "text": "if you're going to do physics you do",
+    "start": 44.79,
+    "duration": 5.28
+  },
+  {
+    "text": "have to trust the laws of physics I mean",
+    "start": 48.39,
+    "duration": 3.39
+  },
+  {
+    "text": "we can't just go back and recheck",
+    "start": 50.07,
+    "duration": 3.66
+  },
+  {
+    "text": "everything every time we do something or",
+    "start": 51.78,
+    "duration": 4.17
+  },
+  {
+    "text": "else physics wouldn't advance and",
+    "start": 53.73,
+    "duration": 4.41
+  },
+  {
+    "text": "actually some laws are almost forgotten",
+    "start": 55.95,
+    "duration": 4.83
+  },
+  {
+    "text": "like kirchoff's law a few people use it",
+    "start": 58.14,
+    "duration": 4.53
+  },
+  {
+    "text": "in astrophysics most people don't think",
+    "start": 60.78,
+    "duration": 4.559
+  },
+  {
+    "text": "about it at all but it's an extremely",
+    "start": 62.67,
+    "duration": 4.47
+  },
+  {
+    "text": "important it's it's a lot of extremely",
+    "start": 65.339,
+    "duration": 9.211
+  },
+  {
+    "text": "important consequences actually I as I",
+    "start": 67.14,
+    "duration": 9.509
+  },
+  {
+    "text": "spoke about yesterday relative to the",
+    "start": 74.55,
+    "duration": 3.66
+  },
+  {
+    "text": "Cosmic Microwave Background",
+    "start": 76.649,
+    "duration": 3.631
+  },
+  {
+    "text": "I mentioned that Penzias and Wilson are",
+    "start": 78.21,
+    "duration": 3.75
+  },
+  {
+    "text": "not allowed to take a temperature and",
+    "start": 80.28,
+    "duration": 3.509
+  },
+  {
+    "text": "the reason that they're not is that they",
+    "start": 81.96,
+    "duration": 4.469
+  },
+  {
+    "text": "cannot guarantee that they understand",
+    "start": 83.789,
+    "duration": 4.53
+  },
+  {
+    "text": "the nature of their source that it has",
+    "start": 86.429,
+    "duration": 4.681
+  },
+  {
+    "text": "no conduction no convection basically",
+    "start": 88.319,
+    "duration": 5.281
+  },
+  {
+    "text": "that the universe would be the same as",
+    "start": 91.11,
+    "duration": 4.14
+  },
+  {
+    "text": "the condition required by Kirchhoff's",
+    "start": 93.6,
+    "duration": 4.23
+  },
+  {
+    "text": "law which is thermal equilibrium with an",
+    "start": 95.25,
+    "duration": 5.94
+  },
+  {
+    "text": "enclosure now I have reassigned that",
+    "start": 97.83,
+    "duration": 5.91
+  },
+  {
+    "text": "signal to water and I've said that water",
+    "start": 101.19,
+    "duration": 5.519
+  },
+  {
+    "text": "has different degrees of freedom and B",
+    "start": 103.74,
+    "duration": 6.48
+  },
+  {
+    "text": "and its ability to contain energy in any",
+    "start": 106.709,
+    "duration": 6.121
+  },
+  {
+    "text": "one degree of freedom it can be vastly",
+    "start": 110.22,
+    "duration": 4.56
+  },
+  {
+    "text": "different so the hydrogen bond contain",
+    "start": 112.83,
+    "duration": 3.179
+  },
+  {
+    "text": "very little energy",
+    "start": 114.78,
+    "duration": 3.75
+  },
+  {
+    "text": "it's basically full right around three",
+    "start": 116.009,
+    "duration": 4.621
+  },
+  {
+    "text": "Kelvin and then the hydroxyl bond can",
+    "start": 118.53,
+    "duration": 3.81
+  },
+  {
+    "text": "take much more energy into it so that",
+    "start": 120.63,
+    "duration": 4.049
+  },
+  {
+    "text": "degree of freedom it can handle more",
+    "start": 122.34,
+    "duration": 4.139
+  },
+  {
+    "text": "energy well all materials are going to",
+    "start": 124.679,
+    "duration": 2.55
+  },
+  {
+    "text": "be like that",
+    "start": 126.479,
+    "duration": 2.491
+  },
+  {
+    "text": "real materials are going to be written",
+    "start": 127.229,
+    "duration": 3.09
+  },
+  {
+    "text": "aid up of real atoms that are",
+    "start": 128.97,
+    "duration": 3.12
+  },
+  {
+    "text": "oscillating against each one another",
+    "start": 130.319,
+    "duration": 3.691
+  },
+  {
+    "text": "there's going to be electrons and",
+    "start": 132.09,
+    "duration": 3.81
+  },
+  {
+    "text": "conduction bands valence electrons and",
+    "start": 134.01,
+    "duration": 4.68
+  },
+  {
+    "text": "all these things that are making up that",
+    "start": 135.9,
+    "duration": 4.62
+  },
+  {
+    "text": "real material are going to have",
+    "start": 138.69,
+    "duration": 4.5
+  },
+  {
+    "text": "different degrees of freedom and those",
+    "start": 140.52,
+    "duration": 4.56
+  },
+  {
+    "text": "degrees of freedom will have a different",
+    "start": 143.19,
+    "duration": 5.66
+  },
+  {
+    "text": "ability to take up energy now this is",
+    "start": 145.08,
+    "duration": 6.63
+  },
+  {
+    "text": "Kirchhoff's law is important the",
+    "start": 148.85,
+    "duration": 3.969
+  },
+  {
+    "text": "downfall of Kurt",
+    "start": 151.71,
+    "duration": 3.57
+  },
+  {
+    "text": "slaw is important because physics will",
+    "start": 152.819,
+    "duration": 4.65
+  },
+  {
+    "text": "start looking at materials a different",
+    "start": 155.28,
+    "duration": 4.679
+  },
+  {
+    "text": "way because they know that this law is",
+    "start": 157.469,
+    "duration": 5.341
+  },
+  {
+    "text": "no longer universal so that has",
+    "start": 159.959,
+    "duration": 4.351
+  },
+  {
+    "text": "implications in statistical",
+    "start": 162.81,
+    "duration": 5.31
+  },
+  {
+    "text": "thermodynamics now relative to the Sun",
+    "start": 164.31,
+    "duration": 6.09
+  },
+  {
+    "text": "it's extremely important because if",
+    "start": 168.12,
+    "duration": 4.289
+  },
+  {
+    "text": "kirchoff's law is not valid you can",
+    "start": 170.4,
+    "duration": 4.259
+  },
+  {
+    "text": "never have a gaseous Sun because a",
+    "start": 172.409,
+    "duration": 4.44
+  },
+  {
+    "text": "gaseous Sun uses the equations of",
+    "start": 174.659,
+    "duration": 4.771
+  },
+  {
+    "text": "radiative transfer and those equations",
+    "start": 176.849,
+    "duration": 5.551
+  },
+  {
+    "text": "all have at their source kirchoff's law",
+    "start": 179.43,
+    "duration": 5.1
+  },
+  {
+    "text": "of thermal emission so for instance in",
+    "start": 182.4,
+    "duration": 4.47
+  },
+  {
+    "text": "Mills classic paper on local thermal",
+    "start": 184.53,
+    "duration": 3.329
+  },
+  {
+    "text": "equilibrium",
+    "start": 186.87,
+    "duration": 3.06
+  },
+  {
+    "text": "he states that at the center of the Sun",
+    "start": 187.859,
+    "duration": 6.21
+  },
+  {
+    "text": "you can have blackbody radiation because",
+    "start": 189.93,
+    "duration": 7.739
+  },
+  {
+    "text": "the atoms there are colliding so quickly",
+    "start": 194.069,
+    "duration": 5.461
+  },
+  {
+    "text": "that you can consider things enclosed",
+    "start": 197.669,
+    "duration": 5.52
+  },
+  {
+    "text": "but actually he described a condition",
+    "start": 199.53,
+    "duration": 6.569
+  },
+  {
+    "text": "for conduction not thermal radiation so",
+    "start": 203.189,
+    "duration": 5.25
+  },
+  {
+    "text": "you cannot have blackbody radiation at",
+    "start": 206.099,
+    "duration": 3.901
+  },
+  {
+    "text": "the center of the Sun and with",
+    "start": 208.439,
+    "duration": 3.78
+  },
+  {
+    "text": "kirchoff's law collapsing this is the",
+    "start": 210.0,
+    "duration": 3.87
+  },
+  {
+    "text": "only thing that's required for the",
+    "start": 212.219,
+    "duration": 6.36
+  },
+  {
+    "text": "gaseous Sun to go away now of course the",
+    "start": 213.87,
+    "duration": 6.569
+  },
+  {
+    "text": "collapse of kirchoff's law also means",
+    "start": 218.579,
+    "duration": 4.11
+  },
+  {
+    "text": "that we don't have universality and this",
+    "start": 220.439,
+    "duration": 3.871
+  },
+  {
+    "text": "has consequences relative to our",
+    "start": 222.689,
+    "duration": 4.351
+  },
+  {
+    "text": "understanding of universal constants",
+    "start": 224.31,
+    "duration": 7.41
+  },
+  {
+    "text": "like planks and Boltzmann's and we",
+    "start": 227.04,
+    "duration": 7.319
+  },
+  {
+    "text": "should remember the laws of physics they",
+    "start": 231.72,
+    "duration": 6.0
+  },
+  {
+    "text": "summarize experimental observations if a",
+    "start": 234.359,
+    "duration": 5.25
+  },
+  {
+    "text": "formulation is contrary to laboratory",
+    "start": 237.72,
+    "duration": 5.039
+  },
+  {
+    "text": "findings it cannot continue to exist as",
+    "start": 239.609,
+    "duration": 5.94
+  },
+  {
+    "text": "a law of physics it is in this light the",
+    "start": 242.759,
+    "duration": 5.07
+  },
+  {
+    "text": "kirchoff's law can no longer hold any",
+    "start": 245.549,
+    "duration": 6.541
+  },
+  {
+    "text": "place in the annals of science so now",
+    "start": 247.829,
+    "duration": 6.09
+  },
+  {
+    "text": "that I've been so hard on for Kirchhoff",
+    "start": 252.09,
+    "duration": 5.91
+  },
+  {
+    "text": "I did want to say that he was still a",
+    "start": 253.919,
+    "duration": 6.361
+  },
+  {
+    "text": "brilliant scientist remember he's the",
+    "start": 258.0,
+    "duration": 4.56
+  },
+  {
+    "text": "father of spectroscopy we have spectral",
+    "start": 260.28,
+    "duration": 4.65
+  },
+  {
+    "text": "analysis because of him he was the first",
+    "start": 262.56,
+    "duration": 5.19
+  },
+  {
+    "text": "with Bunsen to analyze elements on the",
+    "start": 264.93,
+    "duration": 5.43
+  },
+  {
+    "text": "Sun and also we for the electrical",
+    "start": 267.75,
+    "duration": 4.32
+  },
+  {
+    "text": "engineers here we all know the laws of",
+    "start": 270.36,
+    "duration": 4.26
+  },
+  {
+    "text": "current come from him but unfortunately",
+    "start": 272.07,
+    "duration": 5.909
+  },
+  {
+    "text": "his law collapses and the proper law is",
+    "start": 274.62,
+    "duration": 5.729
+  },
+  {
+    "text": "comes from balford Stewart it was",
+    "start": 277.979,
+    "duration": 5.25
+  },
+  {
+    "text": "written two years before and that law is",
+    "start": 280.349,
+    "duration": 5.13
+  },
+  {
+    "text": "much simpler than Kirchhoff's it doesn't",
+    "start": 283.229,
+    "duration": 3.331
+  },
+  {
+    "text": "say that all cavities",
+    "start": 285.479,
+    "duration": 3.811
+  },
+  {
+    "text": "came black radiation it just says that",
+    "start": 286.56,
+    "duration": 5.04
+  },
+  {
+    "text": "at thermal equilibrium the emissivity of",
+    "start": 289.29,
+    "duration": 4.05
+  },
+  {
+    "text": "an object will be equal to its absorbed",
+    "start": 291.6,
+    "duration": 5.28
+  },
+  {
+    "text": "Tiffany so in this talk I'm going to",
+    "start": 293.34,
+    "duration": 6.21
+  },
+  {
+    "text": "review thermal emission and I'm going to",
+    "start": 296.88,
+    "duration": 4.289
+  },
+  {
+    "text": "give you a statement of kirchoff's law",
+    "start": 299.55,
+    "duration": 3.42
+  },
+  {
+    "text": "then will quickly cover Planck's",
+    "start": 301.169,
+    "duration": 4.291
+  },
+  {
+    "text": "equation and it's a nurse so derivation",
+    "start": 302.97,
+    "duration": 4.56
+  },
+  {
+    "text": "einstein's derivation I'll just glance",
+    "start": 305.46,
+    "duration": 4.26
+  },
+  {
+    "text": "over it no not too much time and I'll",
+    "start": 307.53,
+    "duration": 5.639
+  },
+  {
+    "text": "just present Wiens and Stefan's law then",
+    "start": 309.72,
+    "duration": 5.01
+  },
+  {
+    "text": "we'll talk about thermal emissions and",
+    "start": 313.169,
+    "duration": 4.47
+  },
+  {
+    "text": "gasses and solids then I will discuss",
+    "start": 314.73,
+    "duration": 4.83
+  },
+  {
+    "text": "briefly the experimental basis of",
+    "start": 317.639,
+    "duration": 3.84
+  },
+  {
+    "text": "Kirchhoff's error and then we'll talk",
+    "start": 319.56,
+    "duration": 3.9
+  },
+  {
+    "text": "about the central thing that comes from",
+    "start": 321.479,
+    "duration": 4.171
+  },
+  {
+    "text": "this talk perhaps is the linking of",
+    "start": 323.46,
+    "duration": 4.17
+  },
+  {
+    "text": "Planck's equation to physical reality",
+    "start": 325.65,
+    "duration": 5.01
+  },
+  {
+    "text": "and this has dramatic consequences for",
+    "start": 327.63,
+    "duration": 7.23
+  },
+  {
+    "text": "both physics and chemistry so now you'll",
+    "start": 330.66,
+    "duration": 5.759
+  },
+  {
+    "text": "have to excuse me when I did the slides",
+    "start": 334.86,
+    "duration": 3.33
+  },
+  {
+    "text": "by the way this was a last minute thing",
+    "start": 336.419,
+    "duration": 3.631
+  },
+  {
+    "text": "that I knew I was coming here to give",
+    "start": 338.19,
+    "duration": 4.77
+  },
+  {
+    "text": "this particular talk but when I made the",
+    "start": 340.05,
+    "duration": 4.98
+  },
+  {
+    "text": "slides I I put the diagram in",
+    "start": 342.96,
+    "duration": 3.6
+  },
+  {
+    "text": "wavelengths and the equations in",
+    "start": 345.03,
+    "duration": 3.33
+  },
+  {
+    "text": "frequency but it doesn't matter",
+    "start": 346.56,
+    "duration": 5.79
+  },
+  {
+    "text": "you you can just put the right diagram",
+    "start": 348.36,
+    "duration": 8.119
+  },
+  {
+    "text": "if you want now so Kirchhoff this is a",
+    "start": 352.35,
+    "duration": 6.48
+  },
+  {
+    "text": "summary of Kirchhoff's laws it whoops",
+    "start": 356.479,
+    "duration": 6.161
+  },
+  {
+    "text": "sorry this is a summary of Kirchhoff's",
+    "start": 358.83,
+    "duration": 6.75
+  },
+  {
+    "text": "law and it just says that there's some",
+    "start": 362.64,
+    "duration": 6.06
+  },
+  {
+    "text": "function of temperature and it depends",
+    "start": 365.58,
+    "duration": 5.12
+  },
+  {
+    "text": "on the image Civet ii of the body",
+    "start": 368.7,
+    "duration": 5.52
+  },
+  {
+    "text": "divided by its opacity or absorbed Tiffa",
+    "start": 370.7,
+    "duration": 5.8
+  },
+  {
+    "text": "t and so you have some function now",
+    "start": 374.22,
+    "duration": 3.75
+  },
+  {
+    "text": "Kirchhoff didn't really know what the",
+    "start": 376.5,
+    "duration": 3.36
+  },
+  {
+    "text": "function looked like back then he just",
+    "start": 377.97,
+    "duration": 4.86
+  },
+  {
+    "text": "knew it was a continuous spectrum but",
+    "start": 379.86,
+    "duration": 4.559
+  },
+  {
+    "text": "what he did believe is that this",
+    "start": 382.83,
+    "duration": 3.72
+  },
+  {
+    "text": "equation was universally applicable to",
+    "start": 384.419,
+    "duration": 6.481
+  },
+  {
+    "text": "all cavities now here's the statement of",
+    "start": 386.55,
+    "duration": 6.929
+  },
+  {
+    "text": "the law from his paper if a space be",
+    "start": 390.9,
+    "duration": 4.38
+  },
+  {
+    "text": "entirely surrounded by bodies of the",
+    "start": 393.479,
+    "duration": 3.991
+  },
+  {
+    "text": "same temperature so that no rays can",
+    "start": 395.28,
+    "duration": 4.77
+  },
+  {
+    "text": "penetrate through them every pencil in",
+    "start": 397.47,
+    "duration": 4.199
+  },
+  {
+    "text": "the interior of the space must be so",
+    "start": 400.05,
+    "duration": 3.6
+  },
+  {
+    "text": "constituted in regards to its quality",
+    "start": 401.669,
+    "duration": 4.231
+  },
+  {
+    "text": "and intensity as if it had proceeded",
+    "start": 403.65,
+    "duration": 4.62
+  },
+  {
+    "text": "from a perfectly black body of the same",
+    "start": 405.9,
+    "duration": 4.71
+  },
+  {
+    "text": "temperature and must therefore be",
+    "start": 408.27,
+    "duration": 5.64
+  },
+  {
+    "text": "independent of the form and nature of",
+    "start": 410.61,
+    "duration": 5.58
+  },
+  {
+    "text": "the bodies and determined by temperature",
+    "start": 413.91,
+    "duration": 4.65
+  },
+  {
+    "text": "alone so he's saying if I have a cavity",
+    "start": 416.19,
+    "duration": 2.939
+  },
+  {
+    "text": "any",
+    "start": 418.56,
+    "duration": 1.949
+  },
+  {
+    "text": "it doesn't matter what it's made out of",
+    "start": 419.129,
+    "duration": 3.96
+  },
+  {
+    "text": "the radiation inside will always be the",
+    "start": 420.509,
+    "duration": 5.851
+  },
+  {
+    "text": "same the interior therefore of an opaque",
+    "start": 423.089,
+    "duration": 5.94
+  },
+  {
+    "text": "red hot body of any temperature the",
+    "start": 426.36,
+    "duration": 4.949
+  },
+  {
+    "text": "illumination is always the same whatever",
+    "start": 429.029,
+    "duration": 4.32
+  },
+  {
+    "text": "be the constitution of the body in any",
+    "start": 431.309,
+    "duration": 4.5
+  },
+  {
+    "text": "other respect now",
+    "start": 433.349,
+    "duration": 5.94
+  },
+  {
+    "text": "Planck of course is tied to kirchoff's",
+    "start": 435.809,
+    "duration": 5.7
+  },
+  {
+    "text": "law as you'll see in this next slide but",
+    "start": 439.289,
+    "duration": 3.72
+  },
+  {
+    "text": "Planck initially writes down his",
+    "start": 441.509,
+    "duration": 4.53
+  },
+  {
+    "text": "blackbody equation without derivation he",
+    "start": 443.009,
+    "duration": 5.76
+  },
+  {
+    "text": "sees the data and by just visualizing",
+    "start": 446.039,
+    "duration": 3.571
+  },
+  {
+    "text": "the data",
+    "start": 448.769,
+    "duration": 2.7
+  },
+  {
+    "text": "he knows his equation this was a",
+    "start": 449.61,
+    "duration": 4.44
+  },
+  {
+    "text": "marvelous feat in physics and still is",
+    "start": 451.469,
+    "duration": 4.831
+  },
+  {
+    "text": "today and that's why one of the reasons",
+    "start": 454.05,
+    "duration": 3.599
+  },
+  {
+    "text": "that Planck's equation is called a",
+    "start": 456.3,
+    "duration": 4.049
+  },
+  {
+    "text": "miraculous equation quantum physics was",
+    "start": 457.649,
+    "duration": 5.58
+  },
+  {
+    "text": "born on that day he derives the law he",
+    "start": 460.349,
+    "duration": 5.67
+  },
+  {
+    "text": "he then goes ahead after he writes it",
+    "start": 463.229,
+    "duration": 4.44
+  },
+  {
+    "text": "down he writes it on a postcard mails it",
+    "start": 466.019,
+    "duration": 3.75
+  },
+  {
+    "text": "to his friend and that's how Planck's",
+    "start": 467.669,
+    "duration": 5.64
+  },
+  {
+    "text": "law is born he derives the he then",
+    "start": 469.769,
+    "duration": 5.67
+  },
+  {
+    "text": "spends many weeks deriving the law of",
+    "start": 473.309,
+    "duration": 4.11
+  },
+  {
+    "text": "blackbody radiation treating the problem",
+    "start": 475.439,
+    "duration": 3.63
+  },
+  {
+    "text": "with oscillators and then invoking",
+    "start": 477.419,
+    "duration": 5.1
+  },
+  {
+    "text": "quantum values for the vibrations so",
+    "start": 479.069,
+    "duration": 5.52
+  },
+  {
+    "text": "when you look at Planck's law you see",
+    "start": 482.519,
+    "duration": 4.11
+  },
+  {
+    "text": "that within it here you actually have",
+    "start": 484.589,
+    "duration": 4.5
+  },
+  {
+    "text": "kirchoff's law this is kirchoff's law",
+    "start": 486.629,
+    "duration": 6.21
+  },
+  {
+    "text": "and this is Planck's okay now there's",
+    "start": 489.089,
+    "duration": 5.19
+  },
+  {
+    "text": "another law that's quite important this",
+    "start": 492.839,
+    "duration": 4.05
+  },
+  {
+    "text": "is called Stefan's law and it this is",
+    "start": 494.279,
+    "duration": 4.14
+  },
+  {
+    "text": "used all the time with the astronomers",
+    "start": 496.889,
+    "duration": 3.721
+  },
+  {
+    "text": "they actually think that the the",
+    "start": 498.419,
+    "duration": 4.5
+  },
+  {
+    "text": "emissivity of a body will always move",
+    "start": 500.61,
+    "duration": 3.479
+  },
+  {
+    "text": "with the fourth power of the temperature",
+    "start": 502.919,
+    "duration": 3.21
+  },
+  {
+    "text": "well actually there's almost nothing on",
+    "start": 504.089,
+    "duration": 4.11
+  },
+  {
+    "text": "earth that follows this law and I will",
+    "start": 506.129,
+    "duration": 3.51
+  },
+  {
+    "text": "demonstrate that for you in a couple of",
+    "start": 508.199,
+    "duration": 3.87
+  },
+  {
+    "text": "examples and gases but anyhow just the",
+    "start": 509.639,
+    "duration": 4.2
+  },
+  {
+    "text": "the total emissivity so the area under",
+    "start": 512.069,
+    "duration": 3.9
+  },
+  {
+    "text": "the curve here is just proportional to a",
+    "start": 513.839,
+    "duration": 3.901
+  },
+  {
+    "text": "constant times the fourth power of the",
+    "start": 515.969,
+    "duration": 3.841
+  },
+  {
+    "text": "temperature okay so if you have a real",
+    "start": 517.74,
+    "duration": 4.589
+  },
+  {
+    "text": "black body it's truly black a perfectly",
+    "start": 519.81,
+    "duration": 4.949
+  },
+  {
+    "text": "absorbing cavity this will be true but",
+    "start": 522.329,
+    "duration": 7.471
+  },
+  {
+    "text": "other than that it's never true now we",
+    "start": 524.759,
+    "duration": 6.75
+  },
+  {
+    "text": "ins a lot of thermal emission can also",
+    "start": 529.8,
+    "duration": 4.32
+  },
+  {
+    "text": "be used and that law says that if you go",
+    "start": 531.509,
+    "duration": 5.401
+  },
+  {
+    "text": "to the maximum wavelength here I switch",
+    "start": 534.12,
+    "duration": 4.829
+  },
+  {
+    "text": "back to wavelength for the equation that",
+    "start": 536.91,
+    "duration": 3.84
+  },
+  {
+    "text": "the wavelength times the temperature is",
+    "start": 538.949,
+    "duration": 5.31
+  },
+  {
+    "text": "just equal to a constant so we won't go",
+    "start": 540.75,
+    "duration": 7.23
+  },
+  {
+    "text": "through Planck's derivation but I did",
+    "start": 544.259,
+    "duration": 5.58
+  },
+  {
+    "text": "mention to you that it used oscillators",
+    "start": 547.98,
+    "duration": 3.97
+  },
+  {
+    "text": "now Albert Einstein very",
+    "start": 549.839,
+    "duration": 4.241
+  },
+  {
+    "text": "elegantly derives Planck's equation in",
+    "start": 551.95,
+    "duration": 6.18
+  },
+  {
+    "text": "1916 using a two energy system Einstein",
+    "start": 554.08,
+    "duration": 5.94
+  },
+  {
+    "text": "coefficients and what people often",
+    "start": 558.13,
+    "duration": 3.93
+  },
+  {
+    "text": "forget a radiation field which doesn't",
+    "start": 560.02,
+    "duration": 4.65
+  },
+  {
+    "text": "come from nowhere the physical nature of",
+    "start": 562.06,
+    "duration": 4.8
+  },
+  {
+    "text": "the transmission the transition species",
+    "start": 564.67,
+    "duration": 5.1
+  },
+  {
+    "text": "is never considered so we'll just I",
+    "start": 566.86,
+    "duration": 4.59
+  },
+  {
+    "text": "won't go through this too much you you",
+    "start": 569.77,
+    "duration": 3.72
+  },
+  {
+    "text": "just got two energy levels and you're",
+    "start": 571.45,
+    "duration": 3.72
+  },
+  {
+    "text": "gonna permit transitions within these",
+    "start": 573.49,
+    "duration": 4.44
+  },
+  {
+    "text": "levels and he considers energy going",
+    "start": 575.17,
+    "duration": 4.38
+  },
+  {
+    "text": "from this one to this one this one to",
+    "start": 577.93,
+    "duration": 3.24
+  },
+  {
+    "text": "that one so you have the rate of",
+    "start": 579.55,
+    "duration": 3.06
+  },
+  {
+    "text": "stimulated absorption the rate of",
+    "start": 581.17,
+    "duration": 2.79
+  },
+  {
+    "text": "spontaneous emission the rate of",
+    "start": 582.61,
+    "duration": 3.18
+  },
+  {
+    "text": "stimulated emission he puts them all",
+    "start": 583.96,
+    "duration": 5.13
+  },
+  {
+    "text": "together with the the Planck brightness",
+    "start": 585.79,
+    "duration": 6.75
+  },
+  {
+    "text": "and then he uses these coefficients and",
+    "start": 589.09,
+    "duration": 5.73
+  },
+  {
+    "text": "then poof plant oh and then wait a",
+    "start": 592.54,
+    "duration": 3.63
+  },
+  {
+    "text": "minute there's one more thing before the",
+    "start": 594.82,
+    "duration": 3.56
+  },
+  {
+    "text": "poof we have to use Boltzmann's",
+    "start": 596.17,
+    "duration": 5.13
+  },
+  {
+    "text": "distribution and then of course poof you",
+    "start": 598.38,
+    "duration": 6.1
+  },
+  {
+    "text": "get Planck's equation now the problem",
+    "start": 601.3,
+    "duration": 5.34
+  },
+  {
+    "text": "with this of course is that people often",
+    "start": 604.48,
+    "duration": 4.8
+  },
+  {
+    "text": "forget well people don't forget this",
+    "start": 606.64,
+    "duration": 4.5
+  },
+  {
+    "text": "part the critical step in the derivation",
+    "start": 609.28,
+    "duration": 4.92
+  },
+  {
+    "text": "was C was to include stimulated emission",
+    "start": 611.14,
+    "duration": 4.95
+  },
+  {
+    "text": "if this is not done you get the Rallye",
+    "start": 614.2,
+    "duration": 5.85
+  },
+  {
+    "text": "gene solution but Einsteins derivation",
+    "start": 616.09,
+    "duration": 5.25
+  },
+  {
+    "text": "also requires the presence of a",
+    "start": 620.05,
+    "duration": 3.09
+  },
+  {
+    "text": "radiation field from which he can deduce",
+    "start": 621.34,
+    "duration": 4.32
+  },
+  {
+    "text": "his coefficients and he uses Wiens",
+    "start": 623.14,
+    "duration": 4.77
+  },
+  {
+    "text": "blackbody approximation to characterize",
+    "start": 625.66,
+    "duration": 4.14
+  },
+  {
+    "text": "this the energy of this radiation field",
+    "start": 627.91,
+    "duration": 4.74
+  },
+  {
+    "text": "so his derivation looks very easy it's",
+    "start": 629.8,
+    "duration": 4.92
+  },
+  {
+    "text": "it's beautiful it's simple but of course",
+    "start": 632.65,
+    "duration": 3.96
+  },
+  {
+    "text": "he's introducing something for which we",
+    "start": 634.72,
+    "duration": 5.3
+  },
+  {
+    "text": "Ned worked very hard to obtain now",
+    "start": 636.61,
+    "duration": 5.85
+  },
+  {
+    "text": "here's a brief review of thermal",
+    "start": 640.02,
+    "duration": 4.93
+  },
+  {
+    "text": "radiation so the first thing that we",
+    "start": 642.46,
+    "duration": 5.18
+  },
+  {
+    "text": "have we all recognize in this room is",
+    "start": 644.95,
+    "duration": 5.04
+  },
+  {
+    "text": "most people in this room will recognize",
+    "start": 647.64,
+    "duration": 5.47
+  },
+  {
+    "text": "is that gases always emit radiation in",
+    "start": 649.99,
+    "duration": 7.5
+  },
+  {
+    "text": "the discontinuous matter their total",
+    "start": 653.11,
+    "duration": 5.94
+  },
+  {
+    "text": "emission now this is something that",
+    "start": 657.49,
+    "duration": 3.0
+  },
+  {
+    "text": "people don't always recognize their",
+    "start": 659.05,
+    "duration": 3.15
+  },
+  {
+    "text": "total emission can draw up as a function",
+    "start": 660.49,
+    "duration": 3.36
+  },
+  {
+    "text": "of temperature and this is in direct",
+    "start": 662.2,
+    "duration": 4.5
+  },
+  {
+    "text": "contradiction to Stefan's law right",
+    "start": 663.85,
+    "duration": 5.22
+  },
+  {
+    "text": "Stefan's law told us that the temp that",
+    "start": 666.7,
+    "duration": 3.96
+  },
+  {
+    "text": "the emission always moves with the",
+    "start": 669.07,
+    "duration": 4.32
+  },
+  {
+    "text": "fourth power of the temperature so this",
+    "start": 670.66,
+    "duration": 6.18
+  },
+  {
+    "text": "situation is unlike what is found in",
+    "start": 673.39,
+    "duration": 6.66
+  },
+  {
+    "text": "solids and liquids so gases solids and",
+    "start": 676.84,
+    "duration": 5.1
+  },
+  {
+    "text": "liquids tend to emit in a continuous",
+    "start": 680.05,
+    "duration": 3.69
+  },
+  {
+    "text": "manner I won't say that they follow",
+    "start": 681.94,
+    "duration": 6.02
+  },
+  {
+    "text": "Stefan's law may be an ideal solid my",
+    "start": 683.74,
+    "duration": 4.22
+  },
+  {
+    "text": "so when you learn spectroscopy you the",
+    "start": 688.079,
+    "duration": 6.19
+  },
+  {
+    "text": "hit you with this spectrum diatomic",
+    "start": 691.93,
+    "duration": 4.589
+  },
+  {
+    "text": "molecules the they have rotational",
+    "start": 694.269,
+    "duration": 3.69
+  },
+  {
+    "text": "vibrational spectra which looks",
+    "start": 696.519,
+    "duration": 3.51
+  },
+  {
+    "text": "something like this so you know just a",
+    "start": 697.959,
+    "duration": 4.231
+  },
+  {
+    "text": "bunch of lines at different frequency",
+    "start": 700.029,
+    "duration": 4.291
+  },
+  {
+    "text": "okay if you want to see the actual",
+    "start": 702.19,
+    "duration": 3.36
+  },
+  {
+    "text": "spectrum you could just go to this",
+    "start": 704.32,
+    "duration": 5.49
+  },
+  {
+    "text": "reference this is uh I did these figures",
+    "start": 705.55,
+    "duration": 6.45
+  },
+  {
+    "text": "well my son did a lot of these figures",
+    "start": 709.81,
+    "duration": 4.32
+  },
+  {
+    "text": "this shows you how bad I am in art and",
+    "start": 712.0,
+    "duration": 5.25
+  },
+  {
+    "text": "this is a figure that is my son had an",
+    "start": 714.13,
+    "duration": 6.84
+  },
+  {
+    "text": "exam so you couldn't help me but so this",
+    "start": 717.25,
+    "duration": 5.519
+  },
+  {
+    "text": "is just a schematic representation of",
+    "start": 720.97,
+    "duration": 4.08
+  },
+  {
+    "text": "absorption bands and for something like",
+    "start": 722.769,
+    "duration": 4.32
+  },
+  {
+    "text": "co2 for instance you'll have a bunch of",
+    "start": 725.05,
+    "duration": 4.229
+  },
+  {
+    "text": "absorption bands you know and they're",
+    "start": 727.089,
+    "duration": 3.961
+  },
+  {
+    "text": "they're discrete and they come down to",
+    "start": 729.279,
+    "duration": 3.511
+  },
+  {
+    "text": "zero and there's no there's no",
+    "start": 731.05,
+    "duration": 3.06
+  },
+  {
+    "text": "absorption then though",
+    "start": 732.79,
+    "duration": 3.479
+  },
+  {
+    "text": "there'll be another band then so you get",
+    "start": 734.11,
+    "duration": 4.08
+  },
+  {
+    "text": "bands that's never continuous for gas",
+    "start": 736.269,
+    "duration": 3.931
+  },
+  {
+    "text": "now if you look at the emissivity of",
+    "start": 738.19,
+    "duration": 4.86
+  },
+  {
+    "text": "carbon dioxide and now we'll look at it",
+    "start": 740.2,
+    "duration": 5.28
+  },
+  {
+    "text": "as a function of temperature and I'll",
+    "start": 743.05,
+    "duration": 4.92
+  },
+  {
+    "text": "just look at one pressure well what the",
+    "start": 745.48,
+    "duration": 4.58
+  },
+  {
+    "text": "log of the emissivity looks like",
+    "start": 747.97,
+    "duration": 4.32
+  },
+  {
+    "text": "according to Stefan's law right this",
+    "start": 750.06,
+    "duration": 3.76
+  },
+  {
+    "text": "should a move at the fourth power of the",
+    "start": 752.29,
+    "duration": 2.88
+  },
+  {
+    "text": "temperature so as the temperature went",
+    "start": 753.82,
+    "duration": 3.57
+  },
+  {
+    "text": "up this curve should be going up but in",
+    "start": 755.17,
+    "duration": 4.02
+  },
+  {
+    "text": "reality if you look at this",
+    "start": 757.39,
+    "duration": 4.41
+  },
+  {
+    "text": "authoritative book on radiative",
+    "start": 759.19,
+    "duration": 4.5
+  },
+  {
+    "text": "thermometry you'll see that the",
+    "start": 761.8,
+    "duration": 3.3
+  },
+  {
+    "text": "emissivity of carbon dioxide actually",
+    "start": 763.69,
+    "duration": 3.12
+  },
+  {
+    "text": "drops with temperature it doesn't go up",
+    "start": 765.1,
+    "duration": 6.15
+  },
+  {
+    "text": "and this is true at all pressures so if",
+    "start": 766.81,
+    "duration": 6.269
+  },
+  {
+    "text": "you go to this text you'll actually see",
+    "start": 771.25,
+    "duration": 3.779
+  },
+  {
+    "text": "a whole bunch of lines you know a whole",
+    "start": 773.079,
+    "duration": 3.811
+  },
+  {
+    "text": "bunch of lines all dropping here and",
+    "start": 775.029,
+    "duration": 5.401
+  },
+  {
+    "text": "each line will have that will be for a",
+    "start": 776.89,
+    "duration": 8.55
+  },
+  {
+    "text": "specific pressure so the emissivity of a",
+    "start": 780.43,
+    "duration": 9.719
+  },
+  {
+    "text": "real gas drops with temperature here's",
+    "start": 785.44,
+    "duration": 7.2
+  },
+  {
+    "text": "water pressure water vapor the same",
+    "start": 790.149,
+    "duration": 4.38
+  },
+  {
+    "text": "thing the emissivity does not follow",
+    "start": 792.64,
+    "duration": 4.259
+  },
+  {
+    "text": "Stefan's law for a gas the emissivity",
+    "start": 794.529,
+    "duration": 5.731
+  },
+  {
+    "text": "drops with temperature and again you can",
+    "start": 796.899,
+    "duration": 5.841
+  },
+  {
+    "text": "have a whole bunch of lines here and",
+    "start": 800.26,
+    "duration": 6.03
+  },
+  {
+    "text": "each at a different partial pressure of",
+    "start": 802.74,
+    "duration": 7.469
+  },
+  {
+    "text": "a water pressure vapor pressure",
+    "start": 806.29,
+    "duration": 6.68
+  },
+  {
+    "text": "now how about solids",
+    "start": 810.209,
+    "duration": 6.101
+  },
+  {
+    "text": "solids emit radiation in a continuous",
+    "start": 812.97,
+    "duration": 6.82
+  },
+  {
+    "text": "manner their total emission usually does",
+    "start": 816.31,
+    "duration": 6.029
+  },
+  {
+    "text": "not follow Stefan's law except in the",
+    "start": 819.79,
+    "duration": 5.479
+  },
+  {
+    "text": "crudest sense in materials like graphite",
+    "start": 822.339,
+    "duration": 7.161
+  },
+  {
+    "text": "soot or other near ideal absorbers in",
+    "start": 825.269,
+    "duration": 6.82
+  },
+  {
+    "text": "all other cases the behavior of the",
+    "start": 829.5,
+    "duration": 4.209
+  },
+  {
+    "text": "emission as a function of temperature is",
+    "start": 832.089,
+    "duration": 5.61
+  },
+  {
+    "text": "highly erratic and polished metals tend",
+    "start": 833.709,
+    "duration": 6.24
+  },
+  {
+    "text": "to have a low emissivity value now this",
+    "start": 837.699,
+    "duration": 4.621
+  },
+  {
+    "text": "is important for the people looking at",
+    "start": 839.949,
+    "duration": 4.2
+  },
+  {
+    "text": "the Sun because sunspots have low",
+    "start": 842.32,
+    "duration": 6.09
+  },
+  {
+    "text": "emissivity and that is just a related to",
+    "start": 844.149,
+    "duration": 7.171
+  },
+  {
+    "text": "their high ability to conduct so",
+    "start": 848.41,
+    "duration": 4.83
+  },
+  {
+    "text": "different materials if I say okay I'm",
+    "start": 851.32,
+    "duration": 3.93
+  },
+  {
+    "text": "going to have different solids well the",
+    "start": 853.24,
+    "duration": 4.589
+  },
+  {
+    "text": "way that the light looks like is all",
+    "start": 855.25,
+    "duration": 4.38
+  },
+  {
+    "text": "going to be different each material is",
+    "start": 857.829,
+    "duration": 3.421
+  },
+  {
+    "text": "going to have is going to give you a",
+    "start": 859.63,
+    "duration": 2.61
+  },
+  {
+    "text": "different spectrum okay",
+    "start": 861.25,
+    "duration": 3.029
+  },
+  {
+    "text": "so different materials emit light with",
+    "start": 862.24,
+    "duration": 4.62
+  },
+  {
+    "text": "varying features which change as a",
+    "start": 864.279,
+    "duration": 4.62
+  },
+  {
+    "text": "function of temperature so what are we",
+    "start": 866.86,
+    "duration": 5.57
+  },
+  {
+    "text": "describing here an absolute mess right",
+    "start": 868.899,
+    "duration": 6.661
+  },
+  {
+    "text": "nothing is universal here all materials",
+    "start": 872.43,
+    "duration": 5.98
+  },
+  {
+    "text": "are different right so how did Kirchhoff",
+    "start": 875.56,
+    "duration": 4.08
+  },
+  {
+    "text": "come to tell us that things were",
+    "start": 878.41,
+    "duration": 4.47
+  },
+  {
+    "text": "universal if you look at the spectrum of",
+    "start": 879.64,
+    "duration": 5.759
+  },
+  {
+    "text": "aluminum oxide powders or silicon oxide",
+    "start": 882.88,
+    "duration": 4.38
+  },
+  {
+    "text": "powders you'll get spectra that look",
+    "start": 885.399,
+    "duration": 4.711
+  },
+  {
+    "text": "like this whereas some free at some",
+    "start": 887.26,
+    "duration": 5.22
+  },
+  {
+    "text": "wavelengths there's essentially knowing",
+    "start": 890.11,
+    "duration": 4.229
+  },
+  {
+    "text": "it nice and then they'll come up and wow",
+    "start": 892.48,
+    "duration": 3.84
+  },
+  {
+    "text": "they have almost perfect immittance over",
+    "start": 894.339,
+    "duration": 5.101
+  },
+  {
+    "text": "a very small range okay but this is not",
+    "start": 896.32,
+    "duration": 7.079
+  },
+  {
+    "text": "a blackbody spectrum so materials real",
+    "start": 899.44,
+    "duration": 7.62
+  },
+  {
+    "text": "materials really vary look at graphite",
+    "start": 903.399,
+    "duration": 7.731
+  },
+  {
+    "text": "of course I made this slide myself again",
+    "start": 907.06,
+    "duration": 7.29
+  },
+  {
+    "text": "now if you look at graphite for instance",
+    "start": 911.13,
+    "duration": 7.269
+  },
+  {
+    "text": "okay you'll see that even when I talk I",
+    "start": 914.35,
+    "duration": 5.849
+  },
+  {
+    "text": "said well graphite we can treat it as a",
+    "start": 918.399,
+    "duration": 3.961
+  },
+  {
+    "text": "perfect absorber or a perfect emitter",
+    "start": 920.199,
+    "duration": 3.45
+  },
+  {
+    "text": "and actually it's true at some",
+    "start": 922.36,
+    "duration": 3.3
+  },
+  {
+    "text": "wavelengths graphite can be pretty good",
+    "start": 923.649,
+    "duration": 4.771
+  },
+  {
+    "text": "but different graphite comes from",
+    "start": 925.66,
+    "duration": 5.07
+  },
+  {
+    "text": "different minds and those different",
+    "start": 928.42,
+    "duration": 3.99
+  },
+  {
+    "text": "minds will give you different",
+    "start": 930.73,
+    "duration": 4.53
+  },
+  {
+    "text": "emissivities okay so you can have",
+    "start": 932.41,
+    "duration": 5.429
+  },
+  {
+    "text": "graphite with terrible emission at",
+    "start": 935.26,
+    "duration": 5.04
+  },
+  {
+    "text": "certain frequencies essentially zero",
+    "start": 937.839,
+    "duration": 4.68
+  },
+  {
+    "text": "it's not emitting out there okay",
+    "start": 940.3,
+    "duration": 4.14
+  },
+  {
+    "text": "so even for graphite it doesn't work",
+    "start": 942.519,
+    "duration": 3.371
+  },
+  {
+    "text": "very well",
+    "start": 944.44,
+    "duration": 5.0
+  },
+  {
+    "text": "now here's one frequency though at 0.66",
+    "start": 945.89,
+    "duration": 6.1
+  },
+  {
+    "text": "a whole bunch of forms of graphite at",
+    "start": 949.44,
+    "duration": 5.49
+  },
+  {
+    "text": "point six six micrometers you see that a",
+    "start": 951.99,
+    "duration": 4.44
+  },
+  {
+    "text": "whole bunch of forms of graphite",
+    "start": 954.93,
+    "duration": 3.089
+  },
+  {
+    "text": "actually give you an emissivity that's",
+    "start": 956.43,
+    "duration": 2.58
+  },
+  {
+    "text": "not too bad",
+    "start": 958.019,
+    "duration": 3.601
+  },
+  {
+    "text": "you know 0.9 we're getting in close now",
+    "start": 959.01,
+    "duration": 4.44
+  },
+  {
+    "text": "in Kurt Ross today what did he used to",
+    "start": 961.62,
+    "duration": 4.14
+  },
+  {
+    "text": "do well he made his boxes and then he'd",
+    "start": 963.45,
+    "duration": 4.05
+  },
+  {
+    "text": "line him with soot people used to use",
+    "start": 965.76,
+    "duration": 3.569
+  },
+  {
+    "text": "blood lampblack in those days they just",
+    "start": 967.5,
+    "duration": 4.079
+  },
+  {
+    "text": "took the soot from the lamp and that was",
+    "start": 969.329,
+    "duration": 4.741
+  },
+  {
+    "text": "such a good absorber okay so soot has a",
+    "start": 971.579,
+    "duration": 4.621
+  },
+  {
+    "text": "structure very similar to graphite and",
+    "start": 974.07,
+    "duration": 4.139
+  },
+  {
+    "text": "that's what they use they coated",
+    "start": 976.2,
+    "duration": 3.329
+  },
+  {
+    "text": "everything which stood their cooker",
+    "start": 978.209,
+    "duration": 4.201
+  },
+  {
+    "text": "monitors their black bodies there the",
+    "start": 979.529,
+    "duration": 4.74
+  },
+  {
+    "text": "whole Lab was covered in soot okay so",
+    "start": 982.41,
+    "duration": 5.419
+  },
+  {
+    "text": "obviously everything became universal",
+    "start": 984.269,
+    "duration": 7.491
+  },
+  {
+    "text": "they busted needed a maid I don't know",
+    "start": 987.829,
+    "duration": 7.991
+  },
+  {
+    "text": "okay so now modern physics believes that",
+    "start": 991.76,
+    "duration": 6.04
+  },
+  {
+    "text": "blackbody radiation is universal and",
+    "start": 995.82,
+    "duration": 6.41
+  },
+  {
+    "text": "this is a resort salt of kirchhoff's air",
+    "start": 997.8,
+    "duration": 7.86
+  },
+  {
+    "text": "so let's restate kirchoff's law states",
+    "start": 1002.23,
+    "duration": 5.74
+  },
+  {
+    "text": "that within a cavity the ratio of",
+    "start": 1005.66,
+    "duration": 5.01
+  },
+  {
+    "text": "emissive and absorptive powers is",
+    "start": 1007.97,
+    "duration": 4.59
+  },
+  {
+    "text": "independent of the nature of the cavity",
+    "start": 1010.67,
+    "duration": 4.59
+  },
+  {
+    "text": "walls and Max Planck wrote according to",
+    "start": 1012.56,
+    "duration": 4.74
+  },
+  {
+    "text": "kirchoff's law now this is critical for",
+    "start": 1015.26,
+    "duration": 4.949
+  },
+  {
+    "text": "physics because Planck is about to give",
+    "start": 1017.3,
+    "duration": 5.55
+  },
+  {
+    "text": "birth to quantum physics here according",
+    "start": 1020.209,
+    "duration": 4.651
+  },
+  {
+    "text": "to kirchoff's law this radiation is",
+    "start": 1022.85,
+    "duration": 3.719
+  },
+  {
+    "text": "independent of the nature of the",
+    "start": 1024.86,
+    "duration": 3.87
+  },
+  {
+    "text": "radiations radiating substance and",
+    "start": 1026.569,
+    "duration": 5.341
+  },
+  {
+    "text": "therefore has universal significance now",
+    "start": 1028.73,
+    "duration": 4.74
+  },
+  {
+    "text": "he's not talking about the universe",
+    "start": 1031.91,
+    "duration": 3.99
+  },
+  {
+    "text": "although we could be it could be",
+    "start": 1033.47,
+    "duration": 3.959
+  },
+  {
+    "text": "anywhere in the universe but he's",
+    "start": 1035.9,
+    "duration": 3.48
+  },
+  {
+    "text": "actually talking about from material to",
+    "start": 1037.429,
+    "duration": 3.63
+  },
+  {
+    "text": "material it doesn't matter make me a",
+    "start": 1039.38,
+    "duration": 3.329
+  },
+  {
+    "text": "cavity and you're gonna have black",
+    "start": 1041.059,
+    "duration": 5.851
+  },
+  {
+    "text": "radiation inside of it yet if kirchoff's",
+    "start": 1042.709,
+    "duration": 7.741
+  },
+  {
+    "text": "law was actually valid is it actually",
+    "start": 1046.91,
+    "duration": 6.36
+  },
+  {
+    "text": "valid and do arbitrary cavities that we",
+    "start": 1050.45,
+    "duration": 4.32
+  },
+  {
+    "text": "make in the laboratory do they really",
+    "start": 1053.27,
+    "duration": 5.64
+  },
+  {
+    "text": "contain black radiation if so why is it",
+    "start": 1054.77,
+    "duration": 6.21
+  },
+  {
+    "text": "that all our laboratory black bodies are",
+    "start": 1058.91,
+    "duration": 4.74
+  },
+  {
+    "text": "always constructed from nearly perfectly",
+    "start": 1060.98,
+    "duration": 5.55
+  },
+  {
+    "text": "absorbing materials so obviously it",
+    "start": 1063.65,
+    "duration": 5.22
+  },
+  {
+    "text": "cannot be true kirchoff's law can not be",
+    "start": 1066.53,
+    "duration": 4.08
+  },
+  {
+    "text": "valid or else we'd be making black",
+    "start": 1068.87,
+    "duration": 3.809
+  },
+  {
+    "text": "bodies out of silver this is also",
+    "start": 1070.61,
+    "duration": 4.199
+  },
+  {
+    "text": "important there is no proper",
+    "start": 1072.679,
+    "duration": 5.101
+  },
+  {
+    "text": "mathematical proof of kirchoff's law now",
+    "start": 1074.809,
+    "duration": 3.941
+  },
+  {
+    "text": "this has been true",
+    "start": 1077.78,
+    "duration": 5.59
+  },
+  {
+    "text": "in in a paper and he ends his discussion",
+    "start": 1078.75,
+    "duration": 6.419
+  },
+  {
+    "text": "by saying well then Einstein came along",
+    "start": 1083.37,
+    "duration": 4.2
+  },
+  {
+    "text": "and then we get kirchoff's law well",
+    "start": 1085.169,
+    "duration": 4.861
+  },
+  {
+    "text": "unfortunately remember I told you I 9",
+    "start": 1087.57,
+    "duration": 4.859
+  },
+  {
+    "text": "used a radiation field and that was a",
+    "start": 1090.03,
+    "duration": 4.35
+  },
+  {
+    "text": "Wiens field and that field was a",
+    "start": 1092.429,
+    "duration": 3.841
+  },
+  {
+    "text": "blackbody field and it came from a",
+    "start": 1094.38,
+    "duration": 4.98
+  },
+  {
+    "text": "blackbody saying you can also read these",
+    "start": 1096.27,
+    "duration": 6.93
+  },
+  {
+    "text": "papers that discuss these issues but",
+    "start": 1099.36,
+    "duration": 6.42
+  },
+  {
+    "text": "remember black bodies are always made",
+    "start": 1103.2,
+    "duration": 5.58
+  },
+  {
+    "text": "from nearly per ideal absorbers of",
+    "start": 1105.78,
+    "duration": 5.779
+  },
+  {
+    "text": "radiation or the frequency of interest",
+    "start": 1108.78,
+    "duration": 5.07
+  },
+  {
+    "text": "now let's look at kirchoff's law a",
+    "start": 1111.559,
+    "duration": 3.581
+  },
+  {
+    "text": "little bit we're going to consider two",
+    "start": 1113.85,
+    "duration": 5.25
+  },
+  {
+    "text": "cases so if I look at the law you saw it",
+    "start": 1115.14,
+    "duration": 5.73
+  },
+  {
+    "text": "this is a right on the one of the very",
+    "start": 1119.1,
+    "duration": 4.05
+  },
+  {
+    "text": "first slides and now we're going to",
+    "start": 1120.87,
+    "duration": 4.23
+  },
+  {
+    "text": "consider two cases we're going to look",
+    "start": 1123.15,
+    "duration": 3.87
+  },
+  {
+    "text": "at a perfect absorber where the",
+    "start": 1125.1,
+    "duration": 4.829
+  },
+  {
+    "text": "emissivity is 1 the absorptivity is 1",
+    "start": 1127.02,
+    "duration": 4.409
+  },
+  {
+    "text": "and then we're going to look at the",
+    "start": 1129.929,
+    "duration": 4.23
+  },
+  {
+    "text": "perfect reflector where we don't have a",
+    "start": 1131.429,
+    "duration": 4.38
+  },
+  {
+    "text": "Mississippian absorptivity but we have",
+    "start": 1134.159,
+    "duration": 4.321
+  },
+  {
+    "text": "reflectivity as 1 so this is a perfect",
+    "start": 1135.809,
+    "duration": 3.961
+  },
+  {
+    "text": "reflector all they could do is reflect",
+    "start": 1138.48,
+    "duration": 4.29
+  },
+  {
+    "text": "now when I do this now remember in",
+    "start": 1139.77,
+    "duration": 4.649
+  },
+  {
+    "text": "physics they tell us well we can assume",
+    "start": 1142.77,
+    "duration": 4.019
+  },
+  {
+    "text": "that cat that episode that epsilon is",
+    "start": 1144.419,
+    "duration": 3.901
+  },
+  {
+    "text": "one that we do that all the time we",
+    "start": 1146.789,
+    "duration": 3.811
+  },
+  {
+    "text": "always assume you can get 1 we have an",
+    "start": 1148.32,
+    "duration": 4.14
+  },
+  {
+    "text": "ideal blackbody let's assume it can be 1",
+    "start": 1150.6,
+    "duration": 4.02
+  },
+  {
+    "text": "well let me assume that it could be 0",
+    "start": 1152.46,
+    "duration": 3.93
+  },
+  {
+    "text": "when I put a 0 in there",
+    "start": 1154.62,
+    "duration": 3.99
+  },
+  {
+    "text": "this becomes undefined so this equation",
+    "start": 1156.39,
+    "duration": 5.49
+  },
+  {
+    "text": "doesn't work so the problem is is that",
+    "start": 1158.61,
+    "duration": 5.46
+  },
+  {
+    "text": "the true equation which is not shown in",
+    "start": 1161.88,
+    "duration": 3.75
+  },
+  {
+    "text": "this slide but I published in a in",
+    "start": 1164.07,
+    "duration": 4.26
+  },
+  {
+    "text": "another paper it's just it should be",
+    "start": 1165.63,
+    "duration": 4.98
+  },
+  {
+    "text": "epsilon plus Rho divided by Kappa plus",
+    "start": 1168.33,
+    "duration": 4.32
+  },
+  {
+    "text": "Rho is equal to some function of",
+    "start": 1170.61,
+    "duration": 4.26
+  },
+  {
+    "text": "temperature frequency the nature of the",
+    "start": 1172.65,
+    "duration": 3.72
+  },
+  {
+    "text": "material and anything else you want to",
+    "start": 1174.87,
+    "duration": 6.21
+  },
+  {
+    "text": "add into it now do cavities really",
+    "start": 1176.37,
+    "duration": 8.34
+  },
+  {
+    "text": "contain black radiation now if you look",
+    "start": 1181.08,
+    "duration": 5.61
+  },
+  {
+    "text": "at some astronomy books they always have",
+    "start": 1184.71,
+    "duration": 4.11
+  },
+  {
+    "text": "this example lots of storing books have",
+    "start": 1186.69,
+    "duration": 4.8
+  },
+  {
+    "text": "this example they give us a nice",
+    "start": 1188.82,
+    "duration": 5.989
+  },
+  {
+    "text": "spherical cavity ok and they say look",
+    "start": 1191.49,
+    "duration": 5.73
+  },
+  {
+    "text": "would make a very small hole in it and",
+    "start": 1194.809,
+    "duration": 4.391
+  },
+  {
+    "text": "the radiation that comes in once it",
+    "start": 1197.22,
+    "duration": 3.93
+  },
+  {
+    "text": "comes in it's trapped and it can't come",
+    "start": 1199.2,
+    "duration": 2.43
+  },
+  {
+    "text": "out",
+    "start": 1201.15,
+    "duration": 2.46
+  },
+  {
+    "text": "so therefore the radiation and it must",
+    "start": 1201.63,
+    "duration": 4.65
+  },
+  {
+    "text": "be black well this is a fallacy because",
+    "start": 1203.61,
+    "duration": 7.16
+  },
+  {
+    "text": "if it can't come out it never came in",
+    "start": 1206.28,
+    "duration": 4.49
+  },
+  {
+    "text": "now let's look at this argument now this",
+    "start": 1211.19,
+    "duration": 7.48
+  },
+  {
+    "text": "argument actually I gave a talk at the",
+    "start": 1215.07,
+    "duration": 6.72
+  },
+  {
+    "text": "American Physical Society in Denver two",
+    "start": 1218.67,
+    "duration": 4.95
+  },
+  {
+    "text": "weeks ago it was a poster and in front",
+    "start": 1221.79,
+    "duration": 4.38
+  },
+  {
+    "text": "of my poster there was a discussion of",
+    "start": 1223.62,
+    "duration": 6.9
+  },
+  {
+    "text": "this case and the professor who was",
+    "start": 1226.17,
+    "duration": 8.49
+  },
+  {
+    "text": "discussing it with me we left in a",
+    "start": 1230.52,
+    "duration": 6.57
+  },
+  {
+    "text": "discord because he couldn't understand",
+    "start": 1234.66,
+    "duration": 5.07
+  },
+  {
+    "text": "the point so let me go and explain the",
+    "start": 1237.09,
+    "duration": 5.61
+  },
+  {
+    "text": "point now so astronomers say look I'll",
+    "start": 1239.73,
+    "duration": 5.34
+  },
+  {
+    "text": "prove to you that every cavity contains",
+    "start": 1242.7,
+    "duration": 7.38
+  },
+  {
+    "text": "black radiation okay so what they do is",
+    "start": 1245.07,
+    "duration": 7.35
+  },
+  {
+    "text": "they say okay on the Left I'm going to",
+    "start": 1250.08,
+    "duration": 4.89
+  },
+  {
+    "text": "take a real black body it's going to be",
+    "start": 1252.42,
+    "duration": 3.63
+  },
+  {
+    "text": "an ideal black body",
+    "start": 1254.97,
+    "duration": 3.57
+  },
+  {
+    "text": "okay we know it has black radiation in",
+    "start": 1256.05,
+    "duration": 4.56
+  },
+  {
+    "text": "that one now the question is does this",
+    "start": 1258.54,
+    "duration": 5.16
+  },
+  {
+    "text": "one have black radiation in it okay now",
+    "start": 1260.61,
+    "duration": 5.13
+  },
+  {
+    "text": "I'm gonna take an ideal blackbody this",
+    "start": 1263.7,
+    "duration": 4.28
+  },
+  {
+    "text": "is gonna be perfectly absorbing wall and",
+    "start": 1265.74,
+    "duration": 4.68
+  },
+  {
+    "text": "I'm gonna make another cavity with a",
+    "start": 1267.98,
+    "duration": 5.8
+  },
+  {
+    "text": "perfectly reflecting wall but now I want",
+    "start": 1270.42,
+    "duration": 5.04
+  },
+  {
+    "text": "to keep my radiation from going into",
+    "start": 1273.78,
+    "duration": 3.36
+  },
+  {
+    "text": "space in other words I don't want this",
+    "start": 1275.46,
+    "duration": 4.83
+  },
+  {
+    "text": "wall to be radiating out here right so",
+    "start": 1277.14,
+    "duration": 4.44
+  },
+  {
+    "text": "what I'll do is I'll take this black",
+    "start": 1280.29,
+    "duration": 2.88
+  },
+  {
+    "text": "lining here and that's gonna be an",
+    "start": 1281.58,
+    "duration": 4.08
+  },
+  {
+    "text": "adiabatic barrier adiabatic is a big",
+    "start": 1283.17,
+    "duration": 5.43
+  },
+  {
+    "text": "word but it only it only means no heat",
+    "start": 1285.66,
+    "duration": 5.64
+  },
+  {
+    "text": "will go through that wall okay heat is",
+    "start": 1288.6,
+    "duration": 4.08
+  },
+  {
+    "text": "prevented from going through that wall",
+    "start": 1291.3,
+    "duration": 4.08
+  },
+  {
+    "text": "in any form so all the energy of this",
+    "start": 1292.68,
+    "duration": 4.92
+  },
+  {
+    "text": "system is contained within it it cannot",
+    "start": 1295.38,
+    "duration": 4.53
+  },
+  {
+    "text": "go into the universe same with this one",
+    "start": 1297.6,
+    "duration": 4.32
+  },
+  {
+    "text": "all the energy contained is within it",
+    "start": 1299.91,
+    "duration": 4.47
+  },
+  {
+    "text": "and it cannot go into the universe but",
+    "start": 1301.92,
+    "duration": 4.62
+  },
+  {
+    "text": "now this is a perfect reflector so their",
+    "start": 1304.38,
+    "duration": 3.78
+  },
+  {
+    "text": "question is does this have black",
+    "start": 1306.54,
+    "duration": 3.81
+  },
+  {
+    "text": "radiation in it well the argument that",
+    "start": 1308.16,
+    "duration": 4.41
+  },
+  {
+    "text": "the astronomers make is look if I put",
+    "start": 1310.35,
+    "duration": 4.77
+  },
+  {
+    "text": "these two cavities together and they're",
+    "start": 1312.57,
+    "duration": 4.2
+  },
+  {
+    "text": "at the same temperature now they say",
+    "start": 1315.12,
+    "duration": 3.09
+  },
+  {
+    "text": "these are at the same temperature when",
+    "start": 1316.77,
+    "duration": 4.53
+  },
+  {
+    "text": "we begin okay when I put them together",
+    "start": 1318.21,
+    "duration": 5.01
+  },
+  {
+    "text": "photons are going to come from the",
+    "start": 1321.3,
+    "duration": 4.83
+  },
+  {
+    "text": "cavity on the left into the right that",
+    "start": 1323.22,
+    "duration": 5.19
+  },
+  {
+    "text": "means that photons from the right cavity",
+    "start": 1326.13,
+    "duration": 4.29
+  },
+  {
+    "text": "must go into the left one or else the",
+    "start": 1328.41,
+    "duration": 3.48
+  },
+  {
+    "text": "temperature of the left cavity would",
+    "start": 1330.42,
+    "duration": 3.27
+  },
+  {
+    "text": "drop and they're already at the same",
+    "start": 1331.89,
+    "duration": 3.69
+  },
+  {
+    "text": "temperature so that cannot be allowed",
+    "start": 1333.69,
+    "duration": 4.2
+  },
+  {
+    "text": "under the laws of thermodynamics under",
+    "start": 1335.58,
+    "duration": 3.81
+  },
+  {
+    "text": "the zeroth law we can assume that",
+    "start": 1337.89,
+    "duration": 3.3
+  },
+  {
+    "text": "there's another body out there also at",
+    "start": 1339.39,
+    "duration": 3.45
+  },
+  {
+    "text": "the same temperature the zeroth law",
+    "start": 1341.19,
+    "duration": 3.03
+  },
+  {
+    "text": "involves three bodies",
+    "start": 1342.84,
+    "duration": 5.1
+  },
+  {
+    "text": "so because this temperature cannot drop",
+    "start": 1344.22,
+    "duration": 6.539
+  },
+  {
+    "text": "that means that photons must come from",
+    "start": 1347.94,
+    "duration": 4.949
+  },
+  {
+    "text": "the right cabbie and go into the left",
+    "start": 1350.759,
+    "duration": 4.561
+  },
+  {
+    "text": "okay that's the argument that's used in",
+    "start": 1352.889,
+    "duration": 5.28
+  },
+  {
+    "text": "astronomy but unfortunately that's not",
+    "start": 1355.32,
+    "duration": 5.04
+  },
+  {
+    "text": "correct because the problem is is what",
+    "start": 1358.169,
+    "duration": 4.62
+  },
+  {
+    "text": "have you built here you've made a cavity",
+    "start": 1360.36,
+    "duration": 4.769
+  },
+  {
+    "text": "out of a perfect reflector right and you",
+    "start": 1362.789,
+    "duration": 4.711
+  },
+  {
+    "text": "put an adiabatic wall around it right so",
+    "start": 1365.129,
+    "duration": 4.711
+  },
+  {
+    "text": "where's the energy well if you can't put",
+    "start": 1367.5,
+    "duration": 4.2
+  },
+  {
+    "text": "it in the phonons in the wall and you're",
+    "start": 1369.84,
+    "duration": 4.02
+  },
+  {
+    "text": "not sure that there's radiation here you",
+    "start": 1371.7,
+    "duration": 3.599
+  },
+  {
+    "text": "don't even have the same temperature",
+    "start": 1373.86,
+    "duration": 3.12
+  },
+  {
+    "text": "you can't even characterize this this",
+    "start": 1375.299,
+    "duration": 6.451
+  },
+  {
+    "text": "cavity with a temperature so here's",
+    "start": 1376.98,
+    "duration": 7.02
+  },
+  {
+    "text": "another insight now I'm going to take",
+    "start": 1381.75,
+    "duration": 4.74
+  },
+  {
+    "text": "cavities surrounded by adiabatic walls",
+    "start": 1384.0,
+    "duration": 4.71
+  },
+  {
+    "text": "and they're now truly going to be at the",
+    "start": 1386.49,
+    "duration": 4.35
+  },
+  {
+    "text": "same temperature because now what I'm",
+    "start": 1388.71,
+    "duration": 3.599
+  },
+  {
+    "text": "going to assume is instead of building",
+    "start": 1390.84,
+    "duration": 6.02
+  },
+  {
+    "text": "cavity to out of a perfect reflector",
+    "start": 1392.309,
+    "duration": 4.551
+  },
+  {
+    "text": "instead of building cavity to out of the",
+    "start": 1397.82,
+    "duration": 5.199
+  },
+  {
+    "text": "perfect reflector that's just an",
+    "start": 1399.87,
+    "duration": 4.98
+  },
+  {
+    "text": "adiabatic wall I'm gonna build it out of",
+    "start": 1403.019,
+    "duration": 3.27
+  },
+  {
+    "text": "something that's like silver and I'm",
+    "start": 1404.85,
+    "duration": 2.459
+  },
+  {
+    "text": "gonna say this is gonna be a real",
+    "start": 1406.289,
+    "duration": 3.061
+  },
+  {
+    "text": "material and when I put these together",
+    "start": 1407.309,
+    "duration": 4.171
+  },
+  {
+    "text": "what happens is when they're at the same",
+    "start": 1409.35,
+    "duration": 4.439
+  },
+  {
+    "text": "temperature as soon as a photon wants to",
+    "start": 1411.48,
+    "duration": 3.87
+  },
+  {
+    "text": "come from the left cavity into the right",
+    "start": 1413.789,
+    "duration": 3.99
+  },
+  {
+    "text": "a phonon moves from this wall directly",
+    "start": 1415.35,
+    "duration": 3.9
+  },
+  {
+    "text": "into this one and creates the photon",
+    "start": 1417.779,
+    "duration": 3.99
+  },
+  {
+    "text": "again so what happens in this experiment",
+    "start": 1419.25,
+    "duration": 4.74
+  },
+  {
+    "text": "is you just redistribute the energy you",
+    "start": 1421.769,
+    "duration": 4.081
+  },
+  {
+    "text": "create block radiation in this cavity",
+    "start": 1423.99,
+    "duration": 4.2
+  },
+  {
+    "text": "but it never had any initially and the",
+    "start": 1425.85,
+    "duration": 4.439
+  },
+  {
+    "text": "temperatures do not change so this is",
+    "start": 1428.19,
+    "duration": 4.229
+  },
+  {
+    "text": "the correct way to look at it so cavity",
+    "start": 1430.289,
+    "duration": 4.11
+  },
+  {
+    "text": "one is transforming phonon energy of",
+    "start": 1432.419,
+    "duration": 4.321
+  },
+  {
+    "text": "cavity two into photons the energy or",
+    "start": 1434.399,
+    "duration": 4.081
+  },
+  {
+    "text": "temperature of the system of each system",
+    "start": 1436.74,
+    "duration": 3.2
+  },
+  {
+    "text": "remains constant",
+    "start": 1438.48,
+    "duration": 4.02
+  },
+  {
+    "text": "now here's another little experiment and",
+    "start": 1439.94,
+    "duration": 4.3
+  },
+  {
+    "text": "you know what since I'm running out of",
+    "start": 1442.5,
+    "duration": 3.779
+  },
+  {
+    "text": "time I'll just tell you that you can",
+    "start": 1444.24,
+    "duration": 4.889
+  },
+  {
+    "text": "take a perfect box and you could read",
+    "start": 1446.279,
+    "duration": 4.74
+  },
+  {
+    "text": "this paper is a very simple paper and",
+    "start": 1449.129,
+    "duration": 4.471
+  },
+  {
+    "text": "the citation is here you could just read",
+    "start": 1451.019,
+    "duration": 4.77
+  },
+  {
+    "text": "this paper I take a perfectly reflecting",
+    "start": 1453.6,
+    "duration": 3.87
+  },
+  {
+    "text": "cavity I take a perfectly absorbing",
+    "start": 1455.789,
+    "duration": 3.39
+  },
+  {
+    "text": "cavity and you can prove that the",
+    "start": 1457.47,
+    "duration": 2.909
+  },
+  {
+    "text": "radiation inside the perfectly",
+    "start": 1459.179,
+    "duration": 3.271
+  },
+  {
+    "text": "reflecting cavity will not follow",
+    "start": 1460.379,
+    "duration": 4.981
+  },
+  {
+    "text": "kirchoff's law but we'll skip it because",
+    "start": 1462.45,
+    "duration": 6.0
+  },
+  {
+    "text": "we don't have time for it so arbitrary",
+    "start": 1465.36,
+    "duration": 5.64
+  },
+  {
+    "text": "cavities do not contain black radiation",
+    "start": 1468.45,
+    "duration": 4.4
+  },
+  {
+    "text": "that's absolutely false",
+    "start": 1471.0,
+    "duration": 4.35
+  },
+  {
+    "text": "so what is strength what is kirchoff's",
+    "start": 1472.85,
+    "duration": 4.87
+  },
+  {
+    "text": "box well remember when he was in his lab",
+    "start": 1475.35,
+    "duration": 4.53
+  },
+  {
+    "text": "coated his box with soot well what he",
+    "start": 1477.72,
+    "duration": 3.45
+  },
+  {
+    "text": "had discovered is he had made a",
+    "start": 1479.88,
+    "duration": 3.39
+  },
+  {
+    "text": "transformer of light he wanted to know",
+    "start": 1481.17,
+    "duration": 3.66
+  },
+  {
+    "text": "what the temperatures of the objects was",
+    "start": 1483.27,
+    "duration": 4.08
+  },
+  {
+    "text": "he'd put the objects inside the cavity",
+    "start": 1484.83,
+    "duration": 4.26
+  },
+  {
+    "text": "and then they would occur liberate with",
+    "start": 1487.35,
+    "duration": 3.66
+  },
+  {
+    "text": "the walls and once the equilibrated this",
+    "start": 1489.09,
+    "duration": 3.93
+  },
+  {
+    "text": "the spectrum started looking like the",
+    "start": 1491.01,
+    "duration": 4.08
+  },
+  {
+    "text": "graphite spectrum but there was still",
+    "start": 1493.02,
+    "duration": 5.01
+  },
+  {
+    "text": "impurity because the the object could",
+    "start": 1495.09,
+    "duration": 5.7
+  },
+  {
+    "text": "directly emit light right so let's",
+    "start": 1498.03,
+    "duration": 4.71
+  },
+  {
+    "text": "refine it a little bit and now put",
+    "start": 1500.79,
+    "duration": 4.23
+  },
+  {
+    "text": "cavity the hide the object over here and",
+    "start": 1502.74,
+    "duration": 4.35
+  },
+  {
+    "text": "put some put some soot covered walls",
+    "start": 1505.02,
+    "duration": 3.93
+  },
+  {
+    "text": "inside now the only photons that will",
+    "start": 1507.09,
+    "duration": 4.29
+  },
+  {
+    "text": "come out will be photons from the soot",
+    "start": 1508.95,
+    "duration": 4.14
+  },
+  {
+    "text": "if you let this come in thermal",
+    "start": 1511.38,
+    "duration": 3.27
+  },
+  {
+    "text": "equilibrium with the cavity now you",
+    "start": 1513.09,
+    "duration": 3.81
+  },
+  {
+    "text": "always get black radiation so what",
+    "start": 1514.65,
+    "duration": 4.14
+  },
+  {
+    "text": "Kirchhoff had done is he had figured out",
+    "start": 1516.9,
+    "duration": 4.05
+  },
+  {
+    "text": "a way to take any object he didn't know",
+    "start": 1518.79,
+    "duration": 3.45
+  },
+  {
+    "text": "his temperature if he put it in the",
+    "start": 1520.95,
+    "duration": 3.0
+  },
+  {
+    "text": "cavity let them to come to thermal",
+    "start": 1522.24,
+    "duration": 3.54
+  },
+  {
+    "text": "equilibrium and took the spectrum he",
+    "start": 1523.95,
+    "duration": 3.27
+  },
+  {
+    "text": "would know the temperature so he had",
+    "start": 1525.78,
+    "duration": 5.55
+  },
+  {
+    "text": "made a transformer of light so here's an",
+    "start": 1527.22,
+    "duration": 6.36
+  },
+  {
+    "text": "example if I take an aluminum oxide",
+    "start": 1531.33,
+    "duration": 3.99
+  },
+  {
+    "text": "chunk I put it inside a cavity we'll",
+    "start": 1533.58,
+    "duration": 3.87
+  },
+  {
+    "text": "assume that there's walls here it goes",
+    "start": 1535.32,
+    "duration": 3.9
+  },
+  {
+    "text": "from the aluminum spectrum to the",
+    "start": 1537.45,
+    "duration": 4.74
+  },
+  {
+    "text": "blackbody spectrum but what if I put it",
+    "start": 1539.22,
+    "duration": 5.13
+  },
+  {
+    "text": "in a perfect reflector well if you put",
+    "start": 1542.19,
+    "duration": 3.54
+  },
+  {
+    "text": "it in a perfect reflector you can wait",
+    "start": 1544.35,
+    "duration": 2.82
+  },
+  {
+    "text": "all day but you're always gonna get",
+    "start": 1545.73,
+    "duration": 3.9
+  },
+  {
+    "text": "aluminum oxide because that's a perfect",
+    "start": 1547.17,
+    "duration": 4.59
+  },
+  {
+    "text": "reflector so it can never transform this",
+    "start": 1549.63,
+    "duration": 4.74
+  },
+  {
+    "text": "spectrum but then this is what Planck",
+    "start": 1551.76,
+    "duration": 4.35
+  },
+  {
+    "text": "does throughout his work if you read",
+    "start": 1554.37,
+    "duration": 4.08
+  },
+  {
+    "text": "heat radiation Planck's in love with a",
+    "start": 1556.11,
+    "duration": 4.23
+  },
+  {
+    "text": "carbon particle he keeps putting it",
+    "start": 1558.45,
+    "duration": 4.62
+  },
+  {
+    "text": "everywhere inside the problem he wants",
+    "start": 1560.34,
+    "duration": 4.89
+  },
+  {
+    "text": "to put a little carbon particle in the",
+    "start": 1563.07,
+    "duration": 4.92
+  },
+  {
+    "text": "box so what cutt playing what Planck",
+    "start": 1565.23,
+    "duration": 5.97
+  },
+  {
+    "text": "does is he always uses a perfectly",
+    "start": 1567.99,
+    "duration": 5.25
+  },
+  {
+    "text": "reflecting enclosure okay it's perfectly",
+    "start": 1571.2,
+    "duration": 5.25
+  },
+  {
+    "text": "reflecting now he knows in the lab that",
+    "start": 1573.24,
+    "duration": 5.88
+  },
+  {
+    "text": "that doesn't work so what he does is he",
+    "start": 1576.45,
+    "duration": 4.56
+  },
+  {
+    "text": "says now just ensure that I have the",
+    "start": 1579.12,
+    "duration": 4.05
+  },
+  {
+    "text": "right radiation I'm gonna go ahead and",
+    "start": 1581.01,
+    "duration": 3.54
+  },
+  {
+    "text": "put a little piece of graphite in here",
+    "start": 1583.17,
+    "duration": 3.05
+  },
+  {
+    "text": "and as soon as he does what has he done",
+    "start": 1584.55,
+    "duration": 4.77
+  },
+  {
+    "text": "he's just put a perfect emitter inside",
+    "start": 1586.22,
+    "duration": 5.5
+  },
+  {
+    "text": "this box well it's going to become in",
+    "start": 1589.32,
+    "duration": 4.32
+  },
+  {
+    "text": "thermal equilibrium with this aluminum",
+    "start": 1591.72,
+    "duration": 3.69
+  },
+  {
+    "text": "oxide right let's make this a silver box",
+    "start": 1593.64,
+    "duration": 3.66
+  },
+  {
+    "text": "put this guy on the floor put that guy",
+    "start": 1595.41,
+    "duration": 3.51
+  },
+  {
+    "text": "on the floor there temperatures go to",
+    "start": 1597.3,
+    "duration": 3.51
+  },
+  {
+    "text": "equilibrium and this starts dominating",
+    "start": 1598.92,
+    "duration": 3.78
+  },
+  {
+    "text": "all the radiation now you get a",
+    "start": 1600.81,
+    "duration": 4.26
+  },
+  {
+    "text": "blackbody spectrum so as soon as you put",
+    "start": 1602.7,
+    "duration": 4.35
+  },
+  {
+    "text": "a perfect absorber and I can show you",
+    "start": 1605.07,
+    "duration": 3.6
+  },
+  {
+    "text": "this mathematically in one of my papers",
+    "start": 1607.05,
+    "duration": 3.48
+  },
+  {
+    "text": "as soon as you put a",
+    "start": 1608.67,
+    "duration": 5.19
+  },
+  {
+    "text": "perfect absorber inside the box you now",
+    "start": 1610.53,
+    "duration": 5.009
+  },
+  {
+    "text": "govern everything because guess what",
+    "start": 1613.86,
+    "duration": 3.299
+  },
+  {
+    "text": "this thing is perfect that's as if you",
+    "start": 1615.539,
+    "duration": 3.301
+  },
+  {
+    "text": "had line the whole cavity with graphite",
+    "start": 1617.159,
+    "duration": 5.64
+  },
+  {
+    "text": "so Planck had written it is therefore",
+    "start": 1618.84,
+    "duration": 6.06
+  },
+  {
+    "text": "possible to change a perfectly absorbing",
+    "start": 1622.799,
+    "duration": 3.87
+  },
+  {
+    "text": "radiation which exists at the start of",
+    "start": 1624.9,
+    "duration": 3.779
+  },
+  {
+    "text": "an evacuated cavity with perfectly",
+    "start": 1626.669,
+    "duration": 4.611
+  },
+  {
+    "text": "reflecting walls under consideration but",
+    "start": 1628.679,
+    "duration": 5.941
+  },
+  {
+    "text": "by the introduction of a minut particle",
+    "start": 1631.28,
+    "duration": 8.11
+  },
+  {
+    "text": "of carbon as a result Planck came to see",
+    "start": 1634.62,
+    "duration": 6.57
+  },
+  {
+    "text": "the graphite particle as a catalyst in",
+    "start": 1639.39,
+    "duration": 3.84
+  },
+  {
+    "text": "fact it was acting as a perfect absorber",
+    "start": 1641.19,
+    "duration": 4.68
+  },
+  {
+    "text": "it was as if the experimentalist had",
+    "start": 1643.23,
+    "duration": 4.14
+  },
+  {
+    "text": "lined the entire walls of the box with",
+    "start": 1645.87,
+    "duration": 3.419
+  },
+  {
+    "text": "graphite as a result both Planck and",
+    "start": 1647.37,
+    "duration": 3.299
+  },
+  {
+    "text": "Kirchhoff had left the perfectly",
+    "start": 1649.289,
+    "duration": 3.211
+  },
+  {
+    "text": "absorbing had never left the perfect",
+    "start": 1650.669,
+    "duration": 4.651
+  },
+  {
+    "text": "absorbing cavity yet Kirchhoff and",
+    "start": 1652.5,
+    "duration": 4.38
+  },
+  {
+    "text": "planck should have considered the case",
+    "start": 1655.32,
+    "duration": 4.02
+  },
+  {
+    "text": "of the perfect reflector as a separate",
+    "start": 1656.88,
+    "duration": 4.38
+  },
+  {
+    "text": "case this was a serious error which",
+    "start": 1659.34,
+    "duration": 3.569
+  },
+  {
+    "text": "resulted in Planck believing that his",
+    "start": 1661.26,
+    "duration": 4.59
+  },
+  {
+    "text": "equation could be applied universally so",
+    "start": 1662.909,
+    "duration": 5.25
+  },
+  {
+    "text": "in conclusion Planck erred when he",
+    "start": 1665.85,
+    "duration": 4.86
+  },
+  {
+    "text": "assigned to graphite the role of a",
+    "start": 1668.159,
+    "duration": 6.121
+  },
+  {
+    "text": "catalyst in fact graphite was a perfect",
+    "start": 1670.71,
+    "duration": 5.94
+  },
+  {
+    "text": "absorber and Kirchhoff and Planck had",
+    "start": 1674.28,
+    "duration": 4.44
+  },
+  {
+    "text": "never left the perfectly absorbing",
+    "start": 1676.65,
+    "duration": 3.899
+  },
+  {
+    "text": "cavity so they can't speak about all",
+    "start": 1678.72,
+    "duration": 5.25
+  },
+  {
+    "text": "cavities all arbitrary cavities having",
+    "start": 1680.549,
+    "duration": 5.071
+  },
+  {
+    "text": "black radiation they never left them",
+    "start": 1683.97,
+    "duration": 4.23
+  },
+  {
+    "text": "right they never left the perfectly",
+    "start": 1685.62,
+    "duration": 5.63
+  },
+  {
+    "text": "absorbing cavity so consequently",
+    "start": 1688.2,
+    "duration": 5.58
+  },
+  {
+    "text": "Planckian radiation is actually",
+    "start": 1691.25,
+    "duration": 4.299
+  },
+  {
+    "text": "absolutely dependent on their bate",
+    "start": 1693.78,
+    "duration": 4.62
+  },
+  {
+    "text": "nature of the emitting object graphite",
+    "start": 1695.549,
+    "duration": 5.61
+  },
+  {
+    "text": "smoke soot and carbon are still used",
+    "start": 1698.4,
+    "duration": 5.399
+  },
+  {
+    "text": "today to make black bodies now all black",
+    "start": 1701.159,
+    "duration": 4.831
+  },
+  {
+    "text": "bodies are always limited to solids",
+    "start": 1703.799,
+    "duration": 5.851
+  },
+  {
+    "text": "since only they can be perfect absorbers",
+    "start": 1705.99,
+    "duration": 6.03
+  },
+  {
+    "text": "and can be near-perfect absorbers and",
+    "start": 1709.65,
+    "duration": 4.74
+  },
+  {
+    "text": "unlike liquids they cannot sustain",
+    "start": 1712.02,
+    "duration": 5.46
+  },
+  {
+    "text": "convection now this is important",
+    "start": 1714.39,
+    "duration": 5.25
+  },
+  {
+    "text": "Planck's equation remains the only",
+    "start": 1717.48,
+    "duration": 4.829
+  },
+  {
+    "text": "fundamental equation in physics which",
+    "start": 1719.64,
+    "duration": 4.49
+  },
+  {
+    "text": "has yet to be linked to physical reality",
+    "start": 1722.309,
+    "duration": 5.071
+  },
+  {
+    "text": "Planck couldn't link it because Kershaw",
+    "start": 1724.13,
+    "duration": 4.57
+  },
+  {
+    "text": "had told them the radiation is",
+    "start": 1727.38,
+    "duration": 2.58
+  },
+  {
+    "text": "independent of the nature of the walls",
+    "start": 1728.7,
+    "duration": 3.089
+  },
+  {
+    "text": "so don't look for the cause it's",
+    "start": 1729.96,
+    "duration": 3.12
+  },
+  {
+    "text": "independent of the nature of the walls",
+    "start": 1731.789,
+    "duration": 3.841
+  },
+  {
+    "text": "so it was never linked this is a direct",
+    "start": 1733.08,
+    "duration": 5.31
+  },
+  {
+    "text": "result of Curtiss error we must explain",
+    "start": 1735.63,
+    "duration": 4.86
+  },
+  {
+    "text": "why a thermal photon is being produced",
+    "start": 1738.39,
+    "duration": 4.08
+  },
+  {
+    "text": "as a result of the temperature of an",
+    "start": 1740.49,
+    "duration": 2.4
+  },
+  {
+    "text": "object",
+    "start": 1742.47,
+    "duration": 6.53
+  },
+  {
+    "text": "this still hasn't been done it's sorry",
+    "start": 1742.89,
+    "duration": 10.8
+  },
+  {
+    "text": "whenever in physics or chemistry we have",
+    "start": 1749.0,
+    "duration": 6.97
+  },
+  {
+    "text": "light okay so whenever in physics and",
+    "start": 1753.69,
+    "duration": 3.66
+  },
+  {
+    "text": "chemistry we have the production of",
+    "start": 1755.97,
+    "duration": 3.63
+  },
+  {
+    "text": "light we always have to have five",
+    "start": 1757.35,
+    "duration": 4.67
+  },
+  {
+    "text": "components these must always be defined",
+    "start": 1759.6,
+    "duration": 5.7
+  },
+  {
+    "text": "we have to have a setting we have to",
+    "start": 1762.02,
+    "duration": 5.74
+  },
+  {
+    "text": "have the nature of the energy levels we",
+    "start": 1765.3,
+    "duration": 3.78
+  },
+  {
+    "text": "have to have the nature of the",
+    "start": 1767.76,
+    "duration": 4.2
+  },
+  {
+    "text": "transition species the equation which",
+    "start": 1769.08,
+    "duration": 5.37
+  },
+  {
+    "text": "describes the process and finally the",
+    "start": 1771.96,
+    "duration": 4.65
+  },
+  {
+    "text": "absorption of light so what am I talking",
+    "start": 1774.45,
+    "duration": 4.14
+  },
+  {
+    "text": "about let's look at the Lyman series",
+    "start": 1776.61,
+    "duration": 3.72
+  },
+  {
+    "text": "which the astronomers use all the time",
+    "start": 1778.59,
+    "duration": 4.05
+  },
+  {
+    "text": "the setting is the atom actually the",
+    "start": 1780.33,
+    "duration": 5.1
+  },
+  {
+    "text": "hydrogen atom what's the energy of the",
+    "start": 1782.64,
+    "duration": 5.13
+  },
+  {
+    "text": "the energy levels what's the electric",
+    "start": 1785.43,
+    "duration": 5.1
+  },
+  {
+    "text": "atomic and orbitals right what's the",
+    "start": 1787.77,
+    "duration": 4.74
+  },
+  {
+    "text": "nature of the transition species it's",
+    "start": 1790.53,
+    "duration": 3.96
+  },
+  {
+    "text": "the electron everybody knows that what's",
+    "start": 1792.51,
+    "duration": 4.77
+  },
+  {
+    "text": "the equation is the Ryberg equation with",
+    "start": 1794.49,
+    "duration": 4.47
+  },
+  {
+    "text": "the Rydberg constant and what's the",
+    "start": 1797.28,
+    "duration": 3.0
+  },
+  {
+    "text": "production what's the production of",
+    "start": 1798.96,
+    "duration": 3.99
+  },
+  {
+    "text": "light eventually the Lyman series so",
+    "start": 1800.28,
+    "duration": 5.28
+  },
+  {
+    "text": "everything is defined very clearly how",
+    "start": 1802.95,
+    "duration": 5.28
+  },
+  {
+    "text": "about an NMR my discipline well the",
+    "start": 1805.56,
+    "duration": 4.41
+  },
+  {
+    "text": "setting is the nucleus and now we have",
+    "start": 1808.23,
+    "duration": 3.36
+  },
+  {
+    "text": "to be fussy we have to take this nucleus",
+    "start": 1809.97,
+    "duration": 3.24
+  },
+  {
+    "text": "and it has to have spin and we have to",
+    "start": 1811.59,
+    "duration": 4.41
+  },
+  {
+    "text": "put it in a magnetic field what's the",
+    "start": 1813.21,
+    "duration": 4.62
+  },
+  {
+    "text": "nature of the energy levels it's the",
+    "start": 1816.0,
+    "duration": 3.54
+  },
+  {
+    "text": "spin energy levels what's the nature of",
+    "start": 1817.83,
+    "duration": 3.57
+  },
+  {
+    "text": "the transition species it's a spin",
+    "start": 1819.54,
+    "duration": 3.84
+  },
+  {
+    "text": "there's an equation describing the",
+    "start": 1821.4,
+    "duration": 3.78
+  },
+  {
+    "text": "process it's a llamar equation and",
+    "start": 1823.38,
+    "duration": 3.81
+  },
+  {
+    "text": "finally after all that we get the NMR",
+    "start": 1825.18,
+    "duration": 4.26
+  },
+  {
+    "text": "lines bah bah bah Planck",
+    "start": 1827.19,
+    "duration": 4.38
+  },
+  {
+    "text": "what Kirchhoff told us that it's setting",
+    "start": 1829.44,
+    "duration": 3.51
+  },
+  {
+    "text": "doesn't matter so we don't know the",
+    "start": 1831.57,
+    "duration": 4.08
+  },
+  {
+    "text": "setting so everything can produce black",
+    "start": 1832.95,
+    "duration": 6.36
+  },
+  {
+    "text": "radiation the Big Bang the Sun a gaseous",
+    "start": 1835.65,
+    "duration": 7.56
+  },
+  {
+    "text": "Sun everything can produce it right the",
+    "start": 1839.31,
+    "duration": 5.37
+  },
+  {
+    "text": "nature of the energy levels are not",
+    "start": 1843.21,
+    "duration": 4.44
+  },
+  {
+    "text": "defined they've never told us what the",
+    "start": 1844.68,
+    "duration": 5.58
+  },
+  {
+    "text": "transition species is all we have and",
+    "start": 1847.65,
+    "duration": 4.02
+  },
+  {
+    "text": "this is all directly because of",
+    "start": 1850.26,
+    "duration": 3.09
+  },
+  {
+    "text": "Kirchhoff's the first three are missing",
+    "start": 1851.67,
+    "duration": 4.44
+  },
+  {
+    "text": "because of Kirchhoff all we have is",
+    "start": 1853.35,
+    "duration": 5.25
+  },
+  {
+    "text": "Planck's equation and the blackbody",
+    "start": 1856.11,
+    "duration": 5.34
+  },
+  {
+    "text": "spectrum so that Planck's equation has",
+    "start": 1858.6,
+    "duration": 5.37
+  },
+  {
+    "text": "not been linked is a direct result of",
+    "start": 1861.45,
+    "duration": 5.76
+  },
+  {
+    "text": "Kirchhoff's era now I have a little joke",
+    "start": 1863.97,
+    "duration": 5.73
+  },
+  {
+    "text": "here if there's any black hole in",
+    "start": 1867.21,
+    "duration": 5.75
+  },
+  {
+    "text": "physics that's it",
+    "start": 1869.7,
+    "duration": 3.26
+  },
+  {
+    "text": "now so I've advanced there is a solution",
+    "start": 1874.179,
+    "duration": 7.421
+  },
+  {
+    "text": "to this problem because I'm living in",
+    "start": 1879.169,
+    "duration": 4.23
+  },
+  {
+    "text": "the graphite world I want to live in the",
+    "start": 1881.6,
+    "duration": 3.689
+  },
+  {
+    "text": "perfect absorber that I know will",
+    "start": 1883.399,
+    "duration": 4.14
+  },
+  {
+    "text": "produce a spectrum pretty close to a",
+    "start": 1885.289,
+    "duration": 5.461
+  },
+  {
+    "text": "blackbody so what do I want the setting",
+    "start": 1887.539,
+    "duration": 6.0
+  },
+  {
+    "text": "I want a nearly perfectly absorbing",
+    "start": 1890.75,
+    "duration": 5.639
+  },
+  {
+    "text": "solid something like graphite because",
+    "start": 1893.539,
+    "duration": 4.831
+  },
+  {
+    "text": "that's the closest or soot they have",
+    "start": 1896.389,
+    "duration": 3.9
+  },
+  {
+    "text": "similar structures so it's not something",
+    "start": 1898.37,
+    "duration": 4.59
+  },
+  {
+    "text": "very close to that what's the nature of",
+    "start": 1900.289,
+    "duration": 4.681
+  },
+  {
+    "text": "the energy levels it's probably the",
+    "start": 1902.96,
+    "duration": 4.11
+  },
+  {
+    "text": "vibrational energy levels within the",
+    "start": 1904.97,
+    "duration": 5.64
+  },
+  {
+    "text": "lattice so we need a lot Asst you cannot",
+    "start": 1907.07,
+    "duration": 6.78
+  },
+  {
+    "text": "get a blackbody emission unless you have",
+    "start": 1910.61,
+    "duration": 5.85
+  },
+  {
+    "text": "a vibrational lattice now that is a big",
+    "start": 1913.85,
+    "duration": 4.799
+  },
+  {
+    "text": "requirement because there's none in the",
+    "start": 1916.46,
+    "duration": 4.11
+  },
+  {
+    "text": "Big Bang and there's none in the gaseous",
+    "start": 1918.649,
+    "duration": 4.41
+  },
+  {
+    "text": "Sun what is the nature of the transition",
+    "start": 1920.57,
+    "duration": 4.53
+  },
+  {
+    "text": "species well we know that in physics",
+    "start": 1923.059,
+    "duration": 3.99
+  },
+  {
+    "text": "it's usually always the electron it's",
+    "start": 1925.1,
+    "duration": 4.279
+  },
+  {
+    "text": "always the electron causing light but I",
+    "start": 1927.049,
+    "duration": 5.041
+  },
+  {
+    "text": "suspect that in black radiation it's",
+    "start": 1929.379,
+    "duration": 5.89
+  },
+  {
+    "text": "actually a vibrating nucleus within a",
+    "start": 1932.09,
+    "duration": 5.91
+  },
+  {
+    "text": "lattice field and then of course we have",
+    "start": 1935.269,
+    "duration": 5.4
+  },
+  {
+    "text": "the other known too so there's some",
+    "start": 1938.0,
+    "duration": 4.32
+  },
+  {
+    "text": "consequences here some of them are",
+    "start": 1940.669,
+    "duration": 4.531
+  },
+  {
+    "text": "positive we are currently portraying",
+    "start": 1942.32,
+    "duration": 4.579
+  },
+  {
+    "text": "physics as if we understand everything",
+    "start": 1945.2,
+    "duration": 3.199
+  },
+  {
+    "text": "okay",
+    "start": 1946.899,
+    "duration": 4.15
+  },
+  {
+    "text": "but in the end the emissive properties",
+    "start": 1948.399,
+    "duration": 5.26
+  },
+  {
+    "text": "of all cavities are directly dependent",
+    "start": 1951.049,
+    "duration": 5.061
+  },
+  {
+    "text": "on the nature of the materials involved",
+    "start": 1953.659,
+    "duration": 6.14
+  },
+  {
+    "text": "okay so that has enormous consequences",
+    "start": 1956.11,
+    "duration": 6.49
+  },
+  {
+    "text": "not only in real material work but in",
+    "start": 1959.799,
+    "duration": 6.671
+  },
+  {
+    "text": "theory remember I keep saying the equal",
+    "start": 1962.6,
+    "duration": 6.779
+  },
+  {
+    "text": "partition theorem is not valid this has",
+    "start": 1966.47,
+    "duration": 6.299
+  },
+  {
+    "text": "enormous consequences okay that means",
+    "start": 1969.379,
+    "duration": 6.991
+  },
+  {
+    "text": "that within the material again what you",
+    "start": 1972.769,
+    "duration": 6.811
+  },
+  {
+    "text": "get the distribution of energy within",
+    "start": 1976.37,
+    "duration": 5.61
+  },
+  {
+    "text": "that material will depend about what",
+    "start": 1979.58,
+    "duration": 4.38
+  },
+  {
+    "text": "receptacles it has to take the energy",
+    "start": 1981.98,
+    "duration": 3.87
+  },
+  {
+    "text": "and that depends on the type of material",
+    "start": 1983.96,
+    "duration": 4.89
+  },
+  {
+    "text": "you have there is no universality in",
+    "start": 1985.85,
+    "duration": 6.299
+  },
+  {
+    "text": "cavity radiation and as such the concept",
+    "start": 1988.85,
+    "duration": 5.429
+  },
+  {
+    "text": "of Boltzmann and Planck are not",
+    "start": 1992.149,
+    "duration": 3.87
+  },
+  {
+    "text": "Universal in nature and this has",
+    "start": 1994.279,
+    "duration": 3.841
+  },
+  {
+    "text": "enormous consequences throughout physics",
+    "start": 1996.019,
+    "duration": 5.88
+  },
+  {
+    "text": "each material must be characterized by",
+    "start": 1998.12,
+    "duration": 6.929
+  },
+  {
+    "text": "its own constants and its own variables",
+    "start": 2001.899,
+    "duration": 4.89
+  },
+  {
+    "text": "and finally by admitting our",
+    "start": 2005.049,
+    "duration": 3.36
+  },
+  {
+    "text": "shortcomings we give hope to our",
+    "start": 2006.789,
+    "duration": 3.99
+  },
+  {
+    "text": "children that they too can contribute to",
+    "start": 2008.409,
+    "duration": 4.14
+  },
+  {
+    "text": "the advancement of scientific thought",
+    "start": 2010.779,
+    "duration": 5.071
+  },
+  {
+    "text": "and discovery now I've written a lot on",
+    "start": 2012.549,
+    "duration": 5.34
+  },
+  {
+    "text": "kirchoff's law these are some of the",
+    "start": 2015.85,
+    "duration": 4.649
+  },
+  {
+    "text": "papers this last one just just came out",
+    "start": 2017.889,
+    "duration": 5.1
+  },
+  {
+    "text": "I want to acknowledge my son for most of",
+    "start": 2020.499,
+    "duration": 4.231
+  },
+  {
+    "text": "the drawings in this presentation except",
+    "start": 2022.989,
+    "duration": 5.221
+  },
+  {
+    "text": "the bad ones the sketches of Kirchhoff",
+    "start": 2024.73,
+    "duration": 6.059
+  },
+  {
+    "text": "and balford Stuart came from Bernadette",
+    "start": 2028.21,
+    "duration": 5.069
+  },
+  {
+    "text": "I also want to thank my department for",
+    "start": 2030.789,
+    "duration": 6.09
+  },
+  {
+    "text": "supporting me the editorial staff of",
+    "start": 2033.279,
+    "duration": 5.071
+  },
+  {
+    "text": "progress in physics where so many of my",
+    "start": 2036.879,
+    "duration": 3.66
+  },
+  {
+    "text": "papers have been published for accepting",
+    "start": 2038.35,
+    "duration": 4.59
+  },
+  {
+    "text": "my work and I want to close with this",
+    "start": 2040.539,
+    "duration": 4.62
+  },
+  {
+    "text": "followed up by Max Planck we cannot",
+    "start": 2042.94,
+    "duration": 4.65
+  },
+  {
+    "text": "order men to see the truth or prohibit",
+    "start": 2045.159,
+    "duration": 4.47
+  },
+  {
+    "text": "them from indulging in error thank you",
+    "start": 2047.59,
+    "duration": 4.43
+  },
+  {
+    "text": "very much",
+    "start": 2049.629,
+    "duration": 2.391
+  }
+]

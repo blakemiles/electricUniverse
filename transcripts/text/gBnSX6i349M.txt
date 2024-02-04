@@ -1,0 +1,1297 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe,",
+    "start": 7.142,
+    "duration": 2.861
+  },
+  {
+    "text": "brought to you by The\nThunderbolts Project™",
+    "start": 10.028,
+    "duration": 2.34
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 12.393,
+    "duration": 3.31
+  },
+  {
+    "text": "What fills the vast space in\nthe unimaginable distances",
+    "start": 16.765,
+    "duration": 3.762
+  },
+  {
+    "text": "separating celestial\nobjects in the cosmos?",
+    "start": 20.552,
+    "duration": 3.595
+  },
+  {
+    "text": "Space is indeed a big place but\nit's not a perfect void or vacuum.",
+    "start": 24.172,
+    "duration": 5.281
+  },
+  {
+    "text": "Today this fact is acknowledged\neven by the NASA space agency",
+    "start": 29.478,
+    "duration": 3.89
+  },
+  {
+    "text": "which states in an\nofficial report from 2014,",
+    "start": 33.393,
+    "duration": 3.881
+  },
+  {
+    "text": "\"Space may appear empty -- a soundless\nvacuum, but it's not an absolute void.",
+    "start": 37.299,
+    "duration": 5.95
+  },
+  {
+    "text": "It flows with electric activity\nthat is not visible to our eyes.\"",
+    "start": 43.274,
+    "duration": 4.754
+  },
+  {
+    "text": "The movement of electrically charged\nparticles requires a medium",
+    "start": 48.053,
+    "duration": 3.957
+  },
+  {
+    "text": "and that medium in\nspace is plasma",
+    "start": 52.035,
+    "duration": 2.772
+  },
+  {
+    "text": "or the so called 4th\nstate of matter.",
+    "start": 54.832,
+    "duration": 2.846
+  },
+  {
+    "text": "Plasma is commonly\nreferred to as a gas",
+    "start": 57.703,
+    "duration": 2.888
+  },
+  {
+    "text": "whose constituent atoms have been\nsplit into electrons and ions",
+    "start": 60.616,
+    "duration": 3.47
+  },
+  {
+    "text": "which move independently\nof each other.",
+    "start": 64.111,
+    "duration": 2.492
+  },
+  {
+    "text": "Well over 99% of the visible\nuniverse is composed of plasma",
+    "start": 66.628,
+    "duration": 4.604
+  },
+  {
+    "text": "including the Earth's ionosphere,",
+    "start": 71.257,
+    "duration": 2.421
+  },
+  {
+    "text": "the Sun and All Stars",
+    "start": 73.703,
+    "duration": 2.209
+  },
+  {
+    "text": "and nearly all of the interplanetary,\ninterstellar and intergalactic medium.",
+    "start": 75.937,
+    "duration": 5.138
+  },
+  {
+    "text": "Electric currents\nflowing through plasma",
+    "start": 81.1,
+    "duration": 2.718
+  },
+  {
+    "text": "can be recognized through their\ndistinct filamentary shape",
+    "start": 83.819,
+    "duration": 3.332
+  },
+  {
+    "text": "as seen in the familiar\nnovelty plasma ball.",
+    "start": 87.176,
+    "duration": 3.17
+  },
+  {
+    "text": "With extraordinary advances\nin space telescopes",
+    "start": 90.371,
+    "duration": 3.227
+  },
+  {
+    "text": "we see today, in unprecedented\ndetail, filamentary structures",
+    "start": 93.623,
+    "duration": 3.899
+  },
+  {
+    "text": "that pervade the visible\nuniverse at all scales.",
+    "start": 97.547,
+    "duration": 3.41
+  },
+  {
+    "text": "The appearances of these distinct structures\nhave proved puzzling to astronomers",
+    "start": 100.982,
+    "duration": 4.212
+  },
+  {
+    "text": "far more often than not",
+    "start": 105.219,
+    "duration": 1.549
+  },
+  {
+    "text": "as they defy the expected form and\nbehaviors of hot gas in a vacuum.",
+    "start": 106.769,
+    "duration": 5.154
+  },
+  {
+    "text": "In part two of this\n10 part presentation",
+    "start": 111.948,
+    "duration": 3.034
+  },
+  {
+    "text": "we explore why filamentation throughout\nthe cosmos is just one of 10 reasons",
+    "start": 115.007,
+    "duration": 4.992
+  },
+  {
+    "text": "why the universe is electric.",
+    "start": 120.0,
+    "duration": 1.718
+  },
+  {
+    "text": "Filaments in Space",
+    "start": 122.183,
+    "duration": 2.043
+  },
+  {
+    "text": "Let us begin by considering the examples\nof filaments that we see locally",
+    "start": 124.607,
+    "duration": 3.974
+  },
+  {
+    "text": "associated with celestial\nbodies in our own solar system.",
+    "start": 128.606,
+    "duration": 3.789
+  },
+  {
+    "text": "The most dramatic displays can\nsurely be seen on our Sun.",
+    "start": 132.42,
+    "duration": 3.739
+  },
+  {
+    "text": "Of course we see huge\nplasma filaments,",
+    "start": 136.184,
+    "duration": 2.966
+  },
+  {
+    "text": "sometimes a million\nkilometers or longer,",
+    "start": 139.175,
+    "duration": 2.547
+  },
+  {
+    "text": "that occasionally erupt or\nexplode off of the Sun's surface.",
+    "start": 141.747,
+    "duration": 3.934
+  },
+  {
+    "text": "But one of countless unresolved\nproblems in solar physics",
+    "start": 145.706,
+    "duration": 3.825
+  },
+  {
+    "text": "is the observation of giant\nsnake-like filaments",
+    "start": 149.556,
+    "duration": 3.351
+  },
+  {
+    "text": "reaching from the surface of the\nSun to the dark cores of sunspots.",
+    "start": 152.932,
+    "duration": 4.403
+  },
+  {
+    "text": "For decades, scientists following\nthe standard solar model",
+    "start": 157.36,
+    "duration": 3.864
+  },
+  {
+    "text": "have viewed the Sun spot penumbra\nfilaments as \"convection cells\"",
+    "start": 161.249,
+    "duration": 4.55
+  },
+  {
+    "text": "or columns of hot gases transporting heat\nfrom the Sun's interior to its surface.",
+    "start": 165.824,
+    "duration": 5.435
+  },
+  {
+    "text": "But as physicist Wal\nThornhill has observed,",
+    "start": 171.284,
+    "duration": 2.871
+  },
+  {
+    "text": "the filaments bear no resemblance to any\nknown form of convection in a hot gas.",
+    "start": 174.18,
+    "duration": 5.58
+  },
+  {
+    "text": "Indeed, in our first\never Space News episode,",
+    "start": 179.785,
+    "duration": 3.144
+  },
+  {
+    "text": "we reported on the discovery of\nanomalously weak solar convection",
+    "start": 182.954,
+    "duration": 4.068
+  },
+  {
+    "text": "by scientists measuring the\nSun's internal plasma motions.",
+    "start": 187.047,
+    "duration": 3.919
+  },
+  {
+    "text": "The Electric Universe theory\nproposes that the Sun",
+    "start": 190.991,
+    "duration": 3.065
+  },
+  {
+    "text": "is not powered by an internal\nthermonuclear reaction",
+    "start": 194.081,
+    "duration": 3.572
+  },
+  {
+    "text": "but rather it receives its electrical\nenergy from interstellar space",
+    "start": 197.678,
+    "duration": 4.388
+  },
+  {
+    "text": "in which case the absence of\nconvection is to be expected.",
+    "start": 202.091,
+    "duration": 3.577
+  },
+  {
+    "text": "The complex magnetic fields associated\nwith the penumbra filaments",
+    "start": 205.693,
+    "duration": 4.18
+  },
+  {
+    "text": "are acknowledged by\nsolar physicists.",
+    "start": 209.898,
+    "duration": 2.586
+  },
+  {
+    "text": "As seen in the text of the Astronomy Picture\nof the Day image seen on your screen,",
+    "start": 212.509,
+    "duration": 4.691
+  },
+  {
+    "text": "\"Here magnetic field lines can be clearly followed\noutward from the sunspot to distant regions.\"",
+    "start": 217.225,
+    "duration": 5.906
+  },
+  {
+    "text": "A clear defiance of the expected\nbehaviors of so-called convection cells.",
+    "start": 223.358,
+    "duration": 5.268
+  },
+  {
+    "text": "In a 2002 article on his website;",
+    "start": 228.651,
+    "duration": 2.602
+  },
+  {
+    "text": "Thornhill wrote on the\nmysterious nature of sunspots,",
+    "start": 231.278,
+    "duration": 3.545
+  },
+  {
+    "text": "\"It is crucially important\nto understand a sunspot",
+    "start": 234.848,
+    "duration": 2.968
+  },
+  {
+    "text": "because it is the only place on the Sun that\ngives a glimpse below the bright photosphere.",
+    "start": 237.841,
+    "duration": 5.113
+  },
+  {
+    "text": "And what do we see?",
+    "start": 242.979,
+    "duration": 1.627
+  },
+  {
+    "text": "It is cooler down there\nby thousands of degrees!",
+    "start": 244.631,
+    "duration": 3.576
+  },
+  {
+    "text": "That is not expected at all if the\nSun is trying to rid itself of heat.",
+    "start": 248.232,
+    "duration": 4.866
+  },
+  {
+    "text": "The sunspot center should be much hotter\nand brighter than its surroundings.\"",
+    "start": 253.123,
+    "duration": 5.249
+  },
+  {
+    "text": "In the Electric Universe, the penumbral\nfilaments are electrical discharges in plasma",
+    "start": 258.586,
+    "duration": 5.183
+  },
+  {
+    "text": "in the characteristic form of\nlong thin rope-like structures.",
+    "start": 263.794,
+    "duration": 4.955
+  },
+  {
+    "text": "If the filaments are\n\"convecting gas\"",
+    "start": 268.774,
+    "duration": 3.268
+  },
+  {
+    "text": "then one would expect the filament centers\nto be the hottest and brightest points.",
+    "start": 272.067,
+    "duration": 4.674
+  },
+  {
+    "text": "But instead, solar physicists\nwere amazed to observe",
+    "start": 276.766,
+    "duration": 3.501
+  },
+  {
+    "text": "that the penumbral\nfilaments have dark cores.",
+    "start": 280.292,
+    "duration": 3.155
+  },
+  {
+    "text": "In the Electric Universe, the Sun and all\nstars are positively charged anodes",
+    "start": 283.472,
+    "duration": 5.435
+  },
+  {
+    "text": "and the Sun's\nelectrical circuitry",
+    "start": 288.932,
+    "duration": 1.879
+  },
+  {
+    "text": "reaches across vast distances\nthroughout the solar system.",
+    "start": 290.836,
+    "duration": 3.672
+  },
+  {
+    "text": "The electromagnetic connection\nof the Sun to planets,",
+    "start": 294.533,
+    "duration": 3.039
+  },
+  {
+    "text": "including the earth,\nis now undeniable.",
+    "start": 297.597,
+    "duration": 2.751
+  },
+  {
+    "text": "In 2007, NASA scientists were amazed to\ndiscover dynamic so-called magnetic flux ropes",
+    "start": 300.373,
+    "duration": 6.758
+  },
+  {
+    "text": "that constantly \"form and unravel\nin Earth's magnetosphere\"",
+    "start": 307.156,
+    "duration": 4.377
+  },
+  {
+    "text": "and, in 2017, scientists with\nNASA's Cassini mission",
+    "start": 311.558,
+    "duration": 4.04
+  },
+  {
+    "text": "were astonished to discover that\nthese same \"magnetic ropes\"",
+    "start": 315.623,
+    "duration": 3.695
+  },
+  {
+    "text": "connect the Sun and\nthe planet Saturn",
+    "start": 319.343,
+    "duration": 2.229
+  },
+  {
+    "text": "over the incredible distance\nof nearly 900 million miles.",
+    "start": 321.597,
+    "duration": 4.15
+  },
+  {
+    "text": "These so-called magnetic ropes are in\nfact electrical Birkeland currents",
+    "start": 325.771,
+    "duration": 4.478
+  },
+  {
+    "text": "which are now known to\npower Earth's auroras.",
+    "start": 330.275,
+    "duration": 2.959
+  },
+  {
+    "text": "It's now more clear than ever that planets\nwithin the Sun's electrical domain",
+    "start": 333.259,
+    "duration": 4.353
+  },
+  {
+    "text": "are electrically charged bodies.",
+    "start": 337.637,
+    "duration": 2.239
+  },
+  {
+    "text": "On our own Earth, this fact is best demonstrated\nby the relatively recent discovery",
+    "start": 339.901,
+    "duration": 4.936
+  },
+  {
+    "text": "of powerful lightning that sometimes\noccurs above thunderstorms,",
+    "start": 344.838,
+    "duration": 3.94
+  },
+  {
+    "text": "reaching towards space.",
+    "start": 348.803,
+    "duration": 1.913
+  },
+  {
+    "text": "For decades, airline pilots have reported their\nobservations of the stupendous lightning",
+    "start": 350.741,
+    "duration": 4.967
+  },
+  {
+    "text": "though it wasn't until the early\n1990s that institutional science",
+    "start": 355.733,
+    "duration": 3.811
+  },
+  {
+    "text": "finally recognized the\nphenomenon exists.",
+    "start": 359.569,
+    "duration": 2.728
+  },
+  {
+    "text": "More recently, scientists working\nwith the ESA Swarm mission",
+    "start": 362.322,
+    "duration": 3.851
+  },
+  {
+    "text": "reported their discovery of \"supersonic\nplasma jets\" high up in our atmosphere.",
+    "start": 366.198,
+    "duration": 5.629
+  },
+  {
+    "text": "A Phys.org report on\nthe discovery stated,",
+    "start": 371.852,
+    "duration": 3.11
+  },
+  {
+    "text": "\"The theory that there are\nhuge electric currents,",
+    "start": 374.987,
+    "duration": 2.653
+  },
+  {
+    "text": "powered by solar wind and guided through\nthe ionosphere by Earth's magnetic field,",
+    "start": 377.665,
+    "duration": 4.459
+  },
+  {
+    "text": "was postulated more than a century ago by\nNorwegian scientist Kristian Birkeland.",
+    "start": 382.149,
+    "duration": 4.659
+  },
+  {
+    "text": "While much is known about\nthese current systems,",
+    "start": 386.833,
+    "duration": 2.671
+  },
+  {
+    "text": "recent observations... have revealed that they\nare associated with large electrical fields.\"",
+    "start": 389.529,
+    "duration": 5.702
+  },
+  {
+    "text": "The spectacular filamentary discharges\nwe see in our upper atmosphere",
+    "start": 395.256,
+    "duration": 4.161
+  },
+  {
+    "text": "may have analogs in other\nbodies in our solar system",
+    "start": 399.442,
+    "duration": 2.964
+  },
+  {
+    "text": "that scientists have\nyet to recognize.",
+    "start": 402.431,
+    "duration": 2.545
+  },
+  {
+    "text": "The most extreme example may\nbe seen on the Jovian moon Io",
+    "start": 405.001,
+    "duration": 3.788
+  },
+  {
+    "text": "which astronomers have\ncharacterized since 1979",
+    "start": 408.814,
+    "duration": 3.044
+  },
+  {
+    "text": "as the most volcanically active\nbody in the solar system.",
+    "start": 411.883,
+    "duration": 3.471
+  },
+  {
+    "text": "But as we've discussed\nmany times on this series,",
+    "start": 415.379,
+    "duration": 3.082
+  },
+  {
+    "text": "the theory that the spectacular, so-called,\nplumes are a form of cryovolcanism",
+    "start": 418.486,
+    "duration": 4.531
+  },
+  {
+    "text": "has been falsified\non numerous counts.",
+    "start": 423.042,
+    "duration": 2.953
+  },
+  {
+    "text": "Just one of many problems\nfor planetary scientists",
+    "start": 426.02,
+    "duration": 3.162
+  },
+  {
+    "text": "is outlined on the official Wikipedia\npage on Tvashtar Paterae region of Io",
+    "start": 429.207,
+    "duration": 4.751
+  },
+  {
+    "text": "which states that the over 300 kilometer\nhigh, so-called, volcanic plume displays",
+    "start": 433.983,
+    "duration": 4.94
+  },
+  {
+    "text": "\"an as yet unexplained\nfilamentary structure\".",
+    "start": 438.948,
+    "duration": 4.134
+  },
+  {
+    "text": "However, this statement\nis factually incorrect.",
+    "start": 443.107,
+    "duration": 3.529
+  },
+  {
+    "text": "The filamentary structure\nwas explained decades ago",
+    "start": 446.661,
+    "duration": 3.152
+  },
+  {
+    "text": "by plasma scientists who\nrecognized that the \"plumes\"",
+    "start": 449.838,
+    "duration": 3.295
+  },
+  {
+    "text": "are high-energy\nelectrical discharges.",
+    "start": 453.158,
+    "duration": 2.758
+  },
+  {
+    "text": "This theory was first proposed by the\nrenowned astrophysicist Thomas Gold in 1979.",
+    "start": 455.941,
+    "duration": 5.951
+  },
+  {
+    "text": "Then in 1988, plasma scientist Dr. Anthony\nPeratt and co-author Alex Dessler",
+    "start": 461.917,
+    "duration": 5.575
+  },
+  {
+    "text": "explained, in a peer-reviewed\npaper, that the Io plumes",
+    "start": 467.517,
+    "duration": 3.08
+  },
+  {
+    "text": "are comparable in\nform to a plasma gun.",
+    "start": 470.622,
+    "duration": 2.757
+  },
+  {
+    "text": "Similar filamentary plasma discharges are\nseen on the Saturnian moon Enceladus,",
+    "start": 473.404,
+    "duration": 5.421
+  },
+  {
+    "text": "though again, planetary scientists can\nonly apply theories of cryovolcanism.",
+    "start": 478.85,
+    "duration": 5.309
+  },
+  {
+    "text": "But for several years\nastronomers have recognized",
+    "start": 484.184,
+    "duration": 3.442
+  },
+  {
+    "text": "the electric current systems connecting\nSaturn and Jupiter to their respective moons",
+    "start": 487.651,
+    "duration": 5.047
+  },
+  {
+    "text": "though they still imagine volcanism\nproducing the detected charged particles.",
+    "start": 492.723,
+    "duration": 4.69
+  },
+  {
+    "text": "The Electric Universe\nis a connected universe",
+    "start": 497.438,
+    "duration": 3.241
+  },
+  {
+    "text": "and the braided filamentary structures\nwe see throughout our solar system;",
+    "start": 500.704,
+    "duration": 4.107
+  },
+  {
+    "text": "jetting from planetary surfaces,",
+    "start": 504.836,
+    "duration": 2.403
+  },
+  {
+    "text": "on the surface of the Sun",
+    "start": 507.264,
+    "duration": 2.131
+  },
+  {
+    "text": "and in the plasma structures\nsurrounding comets",
+    "start": 509.42,
+    "duration": 3.074
+  },
+  {
+    "text": "as seen in this NASA infrared\nimage of comet Holmes,",
+    "start": 512.519,
+    "duration": 3.63
+  },
+  {
+    "text": "all attest to the electrical circuitry\nthat governs our celestial neighborhood.",
+    "start": 516.174,
+    "duration": 4.825
+  },
+  {
+    "text": "We turn our attention now\noutside of our solar system",
+    "start": 521.213,
+    "duration": 3.08
+  },
+  {
+    "text": "to our galaxy's\ninterstellar medium",
+    "start": 524.318,
+    "duration": 2.197
+  },
+  {
+    "text": "and the extraordinary role that plasma\nfilaments play in the formation of stars.",
+    "start": 526.54,
+    "duration": 4.986
+  },
+  {
+    "text": "A key prediction of the Electric Universe\ntheory was outlined in the 2005 monograph,",
+    "start": 531.551,
+    "duration": 4.883
+  },
+  {
+    "text": "The Electric Universe, by Wal Thornhill\nand David Talbott. They wrote,",
+    "start": 536.459,
+    "duration": 4.668
+  },
+  {
+    "text": "\"Plasma physicists argue that stars are\nformed by an electromagnetic 'pinch' effect",
+    "start": 541.152,
+    "duration": 4.529
+  },
+  {
+    "text": "on widely dispersed\ngas and dust.",
+    "start": 545.706,
+    "duration": 2.609
+  },
+  {
+    "text": "The 'pinch' is created by the magnetic\nforce between parallel current filaments",
+    "start": 548.34,
+    "duration": 4.736
+  },
+  {
+    "text": "that are part of the huge electric\ncurrents flowing inside a galaxy.\"",
+    "start": 553.101,
+    "duration": 4.186
+  },
+  {
+    "text": "In 2015, this prediction was affirmed by\ndata from the Herschel Space Telescope",
+    "start": 557.312,
+    "duration": 6.002
+  },
+  {
+    "text": "which imaged, in unprecedented detail, networks\nof filaments throughout the Milky Way.",
+    "start": 563.339,
+    "duration": 4.969
+  },
+  {
+    "text": "A Phys.org report on the\nobservations states:",
+    "start": 568.309,
+    "duration": 3.55
+  },
+  {
+    "text": "\"ESA's Herschel Space Observatory\nhas been a true game changer...",
+    "start": 571.884,
+    "duration": 4.095
+  },
+  {
+    "text": "One of the key aspects that\nemerged from these observations",
+    "start": 576.004,
+    "duration": 3.405
+  },
+  {
+    "text": "is the presence of a\nfilamentary network",
+    "start": 579.434,
+    "duration": 2.416
+  },
+  {
+    "text": "nearly everywhere in our\ngalaxy's interstellar medium.",
+    "start": 581.875,
+    "duration": 3.637
+  },
+  {
+    "text": "The picture that is emerging\nis that these structures",
+    "start": 585.537,
+    "duration": 2.825
+  },
+  {
+    "text": "are closely linked to the\nformation of stars.\"",
+    "start": 588.387,
+    "duration": 3.232
+  },
+  {
+    "text": "The principal investigator\nof the survey stated,",
+    "start": 591.644,
+    "duration": 2.762
+  },
+  {
+    "text": "\"The greatest surprise was the ubiquity\nof the filaments in these nearby clouds",
+    "start": 594.431,
+    "duration": 4.914
+  },
+  {
+    "text": "and their intimate connection\nwith star formation.",
+    "start": 599.37,
+    "duration": 2.772
+  },
+  {
+    "text": "But there is more: these\nobservations revealed that filaments,",
+    "start": 602.167,
+    "duration": 3.972
+  },
+  {
+    "text": "which may extend to several\nlight-years in length,",
+    "start": 606.164,
+    "duration": 2.705
+  },
+  {
+    "text": "appear to have a universal width of\nabout one third of a light year.",
+    "start": 608.87,
+    "duration": 4.039
+  },
+  {
+    "text": "This suggests that something\nfundamental is lurking underneath.\"",
+    "start": 612.934,
+    "duration": 3.948
+  },
+  {
+    "text": "Of course, the fundamental thing, lurking\nunderneath the stupendous filaments,",
+    "start": 616.907,
+    "duration": 4.108
+  },
+  {
+    "text": "is electricity.",
+    "start": 621.04,
+    "duration": 1.388
+  },
+  {
+    "text": "The universal width of the filaments that\nHerschel observed is not coincidental.",
+    "start": 622.453,
+    "duration": 4.845
+  },
+  {
+    "text": "On Earth, lightning bolts of constant width\nare sometimes observed to stretch for miles.",
+    "start": 627.323,
+    "duration": 6.075
+  },
+  {
+    "text": "Unfortunately, standard\nastronomy still holds",
+    "start": 633.399,
+    "duration": 3.399
+  },
+  {
+    "text": "to the pre space-age notion of\nan electrically sterile universe",
+    "start": 636.823,
+    "duration": 4.331
+  },
+  {
+    "text": "and thus the researchers attempt to explain\nthe filamentary networks as follows,",
+    "start": 641.179,
+    "duration": 4.992
+  },
+  {
+    "text": "\"Turbulent motions of the\ninterstellar gas and dust",
+    "start": 646.196,
+    "duration": 3.12
+  },
+  {
+    "text": "create an intricate web of\nfilamentary structures...\"",
+    "start": 649.341,
+    "duration": 3.481
+  },
+  {
+    "text": "However, from the Electric\nUniverse viewpoint",
+    "start": 652.847,
+    "duration": 3.132
+  },
+  {
+    "text": "it is paramount that the\nmost prominent filaments",
+    "start": 655.98,
+    "duration": 2.685
+  },
+  {
+    "text": "are seen drawing matter from a\nnetwork of smaller filaments.",
+    "start": 658.69,
+    "duration": 3.88
+  },
+  {
+    "text": "Smaller coronal filaments are also\ncharacteristic of electric discharges in plasma.",
+    "start": 662.595,
+    "duration": 5.733
+  },
+  {
+    "text": "Other filamentary structures\nthroughout the Milky Way",
+    "start": 668.353,
+    "duration": 3.011
+  },
+  {
+    "text": "attest to the spectacular\nelectromagnetic energies",
+    "start": 671.389,
+    "duration": 3.034
+  },
+  {
+    "text": "that, in fact, organize\nand drive all galaxies.",
+    "start": 674.448,
+    "duration": 3.61
+  },
+  {
+    "text": "Near the center of our galaxy is a structure\ncalled the Galactic Center Radio Arc,",
+    "start": 678.083,
+    "duration": 4.898
+  },
+  {
+    "text": "a long-standing source of\nmystery for astronomers.",
+    "start": 683.006,
+    "duration": 3.311
+  },
+  {
+    "text": "The long parallel rays that shoot\nstraight out from the galactic plane",
+    "start": 686.342,
+    "duration": 4.19
+  },
+  {
+    "text": "are described in an Astronomy\nPicture of the Day as follows,",
+    "start": 690.557,
+    "duration": 3.677
+  },
+  {
+    "text": "\"The radio arc is connected\nto the Galactic center",
+    "start": 694.259,
+    "duration": 3.045
+  },
+  {
+    "text": "by strange curving filaments\nknown as the Arches.",
+    "start": 697.329,
+    "duration": 3.546
+  },
+  {
+    "text": "The bright radio structure\nat the bottom right",
+    "start": 700.9,
+    "duration": 2.697
+  },
+  {
+    "text": "likely surrounds a black hole at the Galactic\ncenter and is known as Sagittarius A*.",
+    "start": 703.622,
+    "duration": 5.331
+  },
+  {
+    "text": "One origin hypothesis holds that the Radio\nArc and the Arches have their geometry",
+    "start": 708.978,
+    "duration": 5.119
+  },
+  {
+    "text": "because they contain hot plasma flowing\nalong lines of constant magnetic field.",
+    "start": 714.122,
+    "duration": 4.93
+  },
+  {
+    "text": "Recent images from the\nChandra X-ray Observatory",
+    "start": 719.077,
+    "duration": 3.029
+  },
+  {
+    "text": "appear to show this plasma colliding\nwith a nearby cloud of cold gas.\"",
+    "start": 722.131,
+    "duration": 4.793
+  },
+  {
+    "text": "But plasma cosmology recognizes the\ndynamic behaviors of electric currents",
+    "start": 726.949,
+    "duration": 4.776
+  },
+  {
+    "text": "flowing through\nconductive plasma.",
+    "start": 731.75,
+    "duration": 2.065
+  },
+  {
+    "text": "What standard astronomy describes\nas \"long parallel rays\",",
+    "start": 733.895,
+    "duration": 4.421
+  },
+  {
+    "text": "plasma physicists recognized\nas spiralling pairs",
+    "start": 738.341,
+    "duration": 3.152
+  },
+  {
+    "text": "of magnetic field aligned\nBirkeland currents.",
+    "start": 741.518,
+    "duration": 3.378
+  },
+  {
+    "text": "The so called strange curving\nfilaments are Birkeland currents",
+    "start": 744.921,
+    "duration": 4.061
+  },
+  {
+    "text": "feeding electrical power\ninto the galactic center.",
+    "start": 749.007,
+    "duration": 3.214
+  },
+  {
+    "text": "In plasma cosmology it\nis not a black hole",
+    "start": 752.246,
+    "duration": 3.488
+  },
+  {
+    "text": "but a plasmoid that is responsible for\nthe tremendous concentration of energies",
+    "start": 755.759,
+    "duration": 4.499
+  },
+  {
+    "text": "and therefore mass at\nthe centers of galaxies.",
+    "start": 760.259,
+    "duration": 3.364
+  },
+  {
+    "text": "As we look at an\neven greater scale",
+    "start": 763.648,
+    "duration": 2.709
+  },
+  {
+    "text": "we see affirmation of the underlying\nconcept of the Electric Universe that",
+    "start": 766.382,
+    "duration": 4.186
+  },
+  {
+    "text": "\"there are no islands in space\".",
+    "start": 770.593,
+    "duration": 3.215
+  },
+  {
+    "text": "Earlier this year, researchers publishing in the\nMonthly Notices of the Royal Astronomical Society",
+    "start": 773.833,
+    "duration": 6.157
+  },
+  {
+    "text": "reported the first ever measurement\nof the \"magnetic bridge\"",
+    "start": 780.015,
+    "duration": 3.848
+  },
+  {
+    "text": "linking the Milky Way's two nearest\ngalaxies. Known as the Magellanic bridge,",
+    "start": 783.888,
+    "duration": 5.504
+  },
+  {
+    "text": "the unimaginably vast filament stretches\nfor approximately 75 thousand light years",
+    "start": 789.417,
+    "duration": 5.712
+  },
+  {
+    "text": "connecting the large and\nsmall Magellanic Clouds.",
+    "start": 795.154,
+    "duration": 3.284
+  },
+  {
+    "text": "One of the researchers\nsays of the findings,",
+    "start": 798.463,
+    "duration": 2.418
+  },
+  {
+    "text": "\"Not only are entire\ngalaxies magnetic,",
+    "start": 800.906,
+    "duration": 2.919
+  },
+  {
+    "text": "but the faint delicate threads\njoining galaxies are magnetic, too.",
+    "start": 803.85,
+    "duration": 4.284
+  },
+  {
+    "text": "Everywhere we look in the\nsky, we find magnetism.\"",
+    "start": 808.159,
+    "duration": 3.688
+  },
+  {
+    "text": "The lead researcher\nof the study stated,",
+    "start": 811.872,
+    "duration": 2.715
+  },
+  {
+    "text": "\"In general, we don't know how such\nvast magnetic fields are generated,",
+    "start": 814.612,
+    "duration": 4.177
+  },
+  {
+    "text": "nor how these large-scale magnetic fields\naffect galaxy formation and evolution.",
+    "start": 818.814,
+    "duration": 4.828
+  },
+  {
+    "text": "Understanding the role that magnetic fields play\nin the evolution of galaxies and their environment",
+    "start": 823.667,
+    "duration": 5.13
+  },
+  {
+    "text": "is a fundamental question in astronomy\nthat remains to be answered.\"",
+    "start": 828.822,
+    "duration": 4.435
+  },
+  {
+    "text": "But as we explained in the\nfirst episode of this series,",
+    "start": 833.423,
+    "duration": 3.334
+  },
+  {
+    "text": "magnetism in space will\nalways remain mysterious",
+    "start": 836.782,
+    "duration": 3.276
+  },
+  {
+    "text": "unless and until astronomers recognize\nthe electric currents required",
+    "start": 840.083,
+    "duration": 4.441
+  },
+  {
+    "text": "to induce and sustain\nthe magnetic fields.",
+    "start": 844.549,
+    "duration": 2.941
+  },
+  {
+    "text": "In fact, at the galactic scale, some of the\nworld's most distinguished plasma physicists",
+    "start": 847.515,
+    "duration": 4.836
+  },
+  {
+    "text": "have provided experimental proof\nthat resolves the \"mysteries\",",
+    "start": 852.376,
+    "duration": 3.853
+  },
+  {
+    "text": "both of the motions of galaxies\nand their magnetic fields.",
+    "start": 856.254,
+    "duration": 3.965
+  },
+  {
+    "text": "Plasma experiments\nshow that rotation",
+    "start": 860.244,
+    "duration": 2.571
+  },
+  {
+    "text": "is a natural function of interacting\nelectric currents in plasma.",
+    "start": 862.84,
+    "duration": 4.132
+  },
+  {
+    "text": "A good example is the\nubiquitous spiral galaxy,",
+    "start": 866.997,
+    "duration": 3.813
+  },
+  {
+    "text": "a predictable configuration\nof a cosmic scale discharge.",
+    "start": 870.835,
+    "duration": 4.37
+  },
+  {
+    "text": "Computer models of two current\nfilaments, interacting in a plasma,",
+    "start": 875.23,
+    "duration": 4.049
+  },
+  {
+    "text": "have reproduced fine\ndetails of spiral galaxies",
+    "start": 879.304,
+    "duration": 3.3
+  },
+  {
+    "text": "with no need for the influence\nof hypothetical dark matter.",
+    "start": 882.629,
+    "duration": 3.956
+  },
+  {
+    "text": "Consider the comparison of\nthe images on your screen:",
+    "start": 886.61,
+    "duration": 3.356
+  },
+  {
+    "text": "On the top is a picture\nof the spiral galaxy M81",
+    "start": 889.991,
+    "duration": 3.606
+  },
+  {
+    "text": "as imaged by NASA's\nSpitzer Space Telescope.",
+    "start": 893.622,
+    "duration": 3.257
+  },
+  {
+    "text": "Beneath are snapshots from a computer simulation,\nby plasma scientist Dr. Anthony Peratt,",
+    "start": 896.904,
+    "duration": 5.653
+  },
+  {
+    "text": "illustrating the evolution of galactic structures\nunder the influence of electric currents.",
+    "start": 902.582,
+    "duration": 5.195
+  },
+  {
+    "text": "Through the electromagnetic\npinch effect,",
+    "start": 907.802,
+    "duration": 2.22
+  },
+  {
+    "text": "parallel currents converge to\nproduce spiraling structures.",
+    "start": 910.047,
+    "duration": 4.204
+  },
+  {
+    "text": "Peratt was a protégé of the Nobel Prize\nwinner, plasma physicist Hannes Alfven,",
+    "start": 914.276,
+    "duration": 4.918
+  },
+  {
+    "text": "who stated of cosmic\nelectrical activity,",
+    "start": 919.219,
+    "duration": 2.787
+  },
+  {
+    "text": "\"Space is filled with a\nnetwork of currents",
+    "start": 922.031,
+    "duration": 2.804
+  },
+  {
+    "text": "which transfer energy and momentum\nover large or very large distances.",
+    "start": 924.86,
+    "duration": 4.974
+  },
+  {
+    "text": "The currents often pinch to\nfilamentary or surface currents.",
+    "start": 929.859,
+    "duration": 4.151
+  },
+  {
+    "text": "The latter are likely\nto give space,",
+    "start": 934.035,
+    "duration": 2.227
+  },
+  {
+    "text": "as also interstellar and intergalactic\nspace, a cellular structure.\"",
+    "start": 936.287,
+    "duration": 4.479
+  },
+  {
+    "text": "Indeed in the 1920s, it\nwas Irving Langmuir",
+    "start": 940.901,
+    "duration": 3.381
+  },
+  {
+    "text": "who is credited with having coined the\nterm plasma to describe an ionized gas",
+    "start": 944.307,
+    "duration": 4.8
+  },
+  {
+    "text": "due to its seemingly lifelike\nproperties reminiscent of blood plasma.",
+    "start": 949.132,
+    "duration": 4.356
+  },
+  {
+    "text": "The filamentary structures\nwe see throughout the cosmos;",
+    "start": 953.513,
+    "duration": 3.806
+  },
+  {
+    "text": "in the spectacular threaded\nnetworks in nebulae,",
+    "start": 957.344,
+    "duration": 3.666
+  },
+  {
+    "text": "to the high-energy collimated\njets, light-years in length,",
+    "start": 961.157,
+    "duration": 4.181
+  },
+  {
+    "text": "shooting from so-called\nHerbig-Haro objects,",
+    "start": 965.339,
+    "duration": 3.344
+  },
+  {
+    "text": "to the stupendous cometary knots\nseen in planetary nebulae,",
+    "start": 968.897,
+    "duration": 4.489
+  },
+  {
+    "text": "to the cosmic web where galaxies,\nlike stars in our Milky Way,",
+    "start": 973.411,
+    "duration": 4.8
+  },
+  {
+    "text": "line filaments of matter\nlike pearls on a string;",
+    "start": 978.236,
+    "duration": 3.403
+  },
+  {
+    "text": "all testify to the electromagnetic force\nexponentially more powerful than gravity,",
+    "start": 981.664,
+    "duration": 5.573
+  },
+  {
+    "text": "organizing matter at every scale.",
+    "start": 987.262,
+    "duration": 2.719
+  },
+  {
+    "text": "Stay tuned for Part 3",
+    "start": 990.844,
+    "duration": 4.397
+  },
+  {
+    "text": "For continuous updates on Space\nNews from the Electric Universe,",
+    "start": 997.171,
+    "duration": 3.903
+  },
+  {
+    "text": "stay tuned to",
+    "start": 1001.099,
+    "duration": 1.189
+  },
+  {
+    "text": "Thunderbolts.info",
+    "start": 1002.313,
+    "duration": 1.642
+  }
+]

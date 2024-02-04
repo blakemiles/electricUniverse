@@ -1,0 +1,542 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe,",
+    "start": 0.03,
+    "duration": 2.762
+  },
+  {
+    "text": "brought to you by The\nThunderbolts Project™",
+    "start": 2.817,
+    "duration": 2.363
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 5.205,
+    "duration": 3.588
+  },
+  {
+    "text": "Science news headlines around the world tell\nof a baffling mystery on the planet Mars.",
+    "start": 9.363,
+    "duration": 6.277
+  },
+  {
+    "text": "In March of 2012,",
+    "start": 15.665,
+    "duration": 1.62
+  },
+  {
+    "text": "amateur astronomers spotted enormous\nplumes jetting from the Martian surface.",
+    "start": 17.31,
+    "duration": 5.237
+  },
+  {
+    "text": "The plumes were more than 250 km high and\nseveral hundreds of kilometers in length.",
+    "start": 22.572,
+    "duration": 6.233
+  },
+  {
+    "text": "Similar bright, enormous plumes have\noccasionally been spotted on Mars since 1997.",
+    "start": 28.83,
+    "duration": 6.642
+  },
+  {
+    "text": "The lead author of a new paper\nin the journal Nature states,",
+    "start": 35.497,
+    "duration": 3.394
+  },
+  {
+    "text": "\"At about 250 km, the division between the\natmosphere and outer space is very thin,",
+    "start": 38.916,
+    "duration": 6.023
+  },
+  {
+    "text": "so the reported plumes\nare extremely unexpected.\"",
+    "start": 44.964,
+    "duration": 3.758
+  },
+  {
+    "text": "The ad hoc explanations scientists\nare grasping for are extremely limited.",
+    "start": 48.747,
+    "duration": 4.846
+  },
+  {
+    "text": "One suggestion is that frozen shards\nof carbon dioxide or water vapor",
+    "start": 53.618,
+    "duration": 4.357
+  },
+  {
+    "text": "somehow form the plumes.",
+    "start": 58.0,
+    "duration": 2.063
+  },
+  {
+    "text": "But as noted in a recent\nScientific American article,",
+    "start": 60.088,
+    "duration": 3.333
+  },
+  {
+    "text": "their existence would require\nthe atmosphere to be much colder",
+    "start": 63.446,
+    "duration": 3.563
+  },
+  {
+    "text": "than models predict\nfor that altitude.",
+    "start": 67.034,
+    "duration": 2.654
+  },
+  {
+    "text": "Scientists have also suggested that\nthe plumes may be a kind of Aurora",
+    "start": 69.713,
+    "duration": 3.984
+  },
+  {
+    "text": "similar to the Northern\nLights on Earth.",
+    "start": 73.722,
+    "duration": 2.435
+  },
+  {
+    "text": "The Nature report states,",
+    "start": 76.182,
+    "duration": 1.975
+  },
+  {
+    "text": "\"Mars does not have a global magnetic\nfield, only pockets of magnetization.",
+    "start": 78.182,
+    "duration": 5.142
+  },
+  {
+    "text": "The mystery clouds were spotted over one\nof these so-called magnetic anomalies,",
+    "start": 83.349,
+    "duration": 4.914
+  },
+  {
+    "text": "and auroral lights have been\nobserved there previously.",
+    "start": 88.288,
+    "duration": 3.203
+  },
+  {
+    "text": "However, to explain\nthe 2012 observations,",
+    "start": 91.516,
+    "duration": 3.534
+  },
+  {
+    "text": "an aurora would have had to be 1,000\ntimes brighter than the Northern Lights.",
+    "start": 95.075,
+    "duration": 4.488
+  },
+  {
+    "text": "This would require an increased flow\nof charged particles from the Sun,",
+    "start": 99.588,
+    "duration": 4.162
+  },
+  {
+    "text": "but its activity was not\nunusually high during the time.\"",
+    "start": 103.775,
+    "duration": 4.012
+  },
+  {
+    "text": "But there is another possibility that\nplanetary scientists have yet to consider.",
+    "start": 107.812,
+    "duration": 4.891
+  },
+  {
+    "text": "For an important clue,\nlet us go back to 2001,",
+    "start": 112.728,
+    "duration": 3.487
+  },
+  {
+    "text": "when Mars became engulfed in the greatest\nglobal dust storm ever observed on the planet.",
+    "start": 116.24,
+    "duration": 5.451
+  },
+  {
+    "text": "The giant Martian dust storms had already\npuzzled planetary scientists for decades.",
+    "start": 121.716,
+    "duration": 4.948
+  },
+  {
+    "text": "How can an atmosphere less\nthan 1% as dense as Earth's",
+    "start": 126.688,
+    "duration": 3.804
+  },
+  {
+    "text": "remove dust from the soil and accelerate it\ninto massive clouds circling the planet",
+    "start": 130.517,
+    "duration": 4.956
+  },
+  {
+    "text": "up to 40 miles or\nmore above the surface?",
+    "start": 135.498,
+    "duration": 3.413
+  },
+  {
+    "text": "In late June, 2001, the Hubble telescope\nrevealed the first stirrings of a dust storm.",
+    "start": 138.936,
+    "duration": 5.823
+  },
+  {
+    "text": "Within a few weeks, it had\ncovered the entire planet.",
+    "start": 144.784,
+    "duration": 3.134
+  },
+  {
+    "text": "And the storm did not begin\nto subside until October.",
+    "start": 147.943,
+    "duration": 3.137
+  },
+  {
+    "text": "Scientists were left\nto ponder in vain.",
+    "start": 151.105,
+    "duration": 2.479
+  },
+  {
+    "text": "How is the dust excavated\nfrom the surface?",
+    "start": 153.609,
+    "duration": 2.792
+  },
+  {
+    "text": "What held the dust aloft?",
+    "start": 156.426,
+    "duration": 2.181
+  },
+  {
+    "text": "What accelerated the winds and dusts across\nthe near vacuum of Mars's upper atmosphere",
+    "start": 158.632,
+    "duration": 4.959
+  },
+  {
+    "text": "to speeds greater than\n250 miles per hour?",
+    "start": 163.616,
+    "duration": 3.679
+  },
+  {
+    "text": "Like the baffling Martian plumes,",
+    "start": 167.32,
+    "duration": 2.339
+  },
+  {
+    "text": "conventional planetary science offers\nno answers that withstand scrutiny.",
+    "start": 169.684,
+    "duration": 5.149
+  },
+  {
+    "text": "However, in 2005, The Thunderbolts\nProject offered a critical prediction",
+    "start": 174.858,
+    "duration": 4.882
+  },
+  {
+    "text": "about dramatic dust\nraising events on Mars.",
+    "start": 179.765,
+    "duration": 3.221
+  },
+  {
+    "text": "The article 'When Dust\nStorms Engulf Mars' states,",
+    "start": 183.011,
+    "duration": 3.747
+  },
+  {
+    "text": "\"Since Mars has no thunderstorms\nto 'charge up its ionosphere,'",
+    "start": 186.783,
+    "duration": 3.815
+  },
+  {
+    "text": "it should present a good case\nstudy of the Electric Universe.",
+    "start": 190.623,
+    "duration": 3.208
+  },
+  {
+    "text": "The electrical model predicts that the\nMartian ionosphere is indeed charged,",
+    "start": 193.856,
+    "duration": 4.376
+  },
+  {
+    "text": "and it posits no isolated\ndynamo to 'separate charge.'",
+    "start": 198.257,
+    "duration": 4.512
+  },
+  {
+    "text": "On Mars, electrical effects will reach\ndirectly from the ionosphere to the surface",
+    "start": 202.794,
+    "duration": 5.037
+  },
+  {
+    "text": "without the ameliorating leakage via\nstorm clouds that we see on Earth.",
+    "start": 207.856,
+    "duration": 4.539
+  },
+  {
+    "text": "Unlike radiant\nenergy from the Sun,",
+    "start": 212.42,
+    "duration": 2.11
+  },
+  {
+    "text": "electrical energy can accumulate in the\n'planetary capacitor' for some time,",
+    "start": 214.555,
+    "duration": 5.074
+  },
+  {
+    "text": "with a potential for planet-altering events\nwhen the atmosphere finally 'breaks down'",
+    "start": 219.654,
+    "duration": 5.064
+  },
+  {
+    "text": "and massive discharge\nactivity is initiated.\"",
+    "start": 224.743,
+    "duration": 3.353
+  },
+  {
+    "text": "The Thunderbolts\nProject noted in 2005",
+    "start": 228.121,
+    "duration": 3.178
+  },
+  {
+    "text": "that, when the greatest storm on Mars began\nin June of 2001, Mars had reached opposition",
+    "start": 231.324,
+    "duration": 6.461
+  },
+  {
+    "text": "and was the closest it had been\nto Earth in about 12 years.",
+    "start": 237.81,
+    "duration": 4.018
+  },
+  {
+    "text": "We then suggest it is not a\ncoincidence that in March of 2012,",
+    "start": 241.853,
+    "duration": 4.802
+  },
+  {
+    "text": "just days before scientists spotted\nthe enormous baffling Martian plumes,",
+    "start": 246.68,
+    "duration": 4.749
+  },
+  {
+    "text": "Mars was again at opposition and was at its\nclosest proximity to Earth in over two years.",
+    "start": 251.454,
+    "duration": 5.936
+  },
+  {
+    "text": "The Martian plumes resembled the fountains\nof electrostatically levitated dust",
+    "start": 257.415,
+    "duration": 4.548
+  },
+  {
+    "text": "hundreds of kilometers tall, first\nobserved on the moon in the 1960s.",
+    "start": 261.988,
+    "duration": 5.235
+  },
+  {
+    "text": "Indeed, according to\na 2008 NASA report,",
+    "start": 267.248,
+    "duration": 2.947
+  },
+  {
+    "text": "Earth's magnetic tail creates a powerful\nelectric field near the lunar surface",
+    "start": 270.22,
+    "duration": 5.195
+  },
+  {
+    "text": "occasionally causing\ndust storms on the Moon.",
+    "start": 275.439,
+    "duration": 2.773
+  },
+  {
+    "text": "NASA scientist Tim Stubbs states,",
+    "start": 278.237,
+    "duration": 2.503
+  },
+  {
+    "text": "\"Earth's magnetotail extends well beyond\nthe orbit of the Moon and, once a month,",
+    "start": 280.765,
+    "duration": 4.884
+  },
+  {
+    "text": "the Moon orbits through it.",
+    "start": 285.674,
+    "duration": 1.575
+  },
+  {
+    "text": "This can have consequences ranging from lunar\n'dust storms' to electrostatic discharges.\"",
+    "start": 287.274,
+    "duration": 5.781
+  },
+  {
+    "text": "We also note that NASA\nscientists have acknowledged",
+    "start": 293.08,
+    "duration": 3.023
+  },
+  {
+    "text": "the electrified nature of\nthe giant Martian dust devils.",
+    "start": 296.128,
+    "duration": 3.259
+  },
+  {
+    "text": "A NASA news report in\nJuly of 2005 begins,",
+    "start": 299.412,
+    "duration": 3.831
+  },
+  {
+    "text": "When humans visit Mars, we'll have to watch\nout for towering electrified dust devils.",
+    "start": 303.268,
+    "duration": 5.493
+  },
+  {
+    "text": "The article describes a typical dust\ndevil on Mars as a 'monster column'",
+    "start": 308.786,
+    "duration": 4.92
+  },
+  {
+    "text": "towering kilometers high\nand hundreds of meters wide,",
+    "start": 313.731,
+    "duration": 3.595
+  },
+  {
+    "text": "ten times larger than\nany tornado on Earth.",
+    "start": 317.351,
+    "duration": 3.031
+  },
+  {
+    "text": "For decades, physicist Wal Thornhill and\nothers have proposed that dust devils,",
+    "start": 320.407,
+    "duration": 5.288
+  },
+  {
+    "text": "tornadoes and water spouts are\nall electric discharge phenomena.",
+    "start": 325.72,
+    "duration": 4.619
+  },
+  {
+    "text": "We must also note that we cannot\nsay definitively at this point",
+    "start": 330.364,
+    "duration": 4.094
+  },
+  {
+    "text": "that the Martian plumes are\ncomposed of excavated dust.",
+    "start": 334.483,
+    "duration": 3.954
+  },
+  {
+    "text": "However, planetary scientists must not\nignore the proven ability of electric fields",
+    "start": 338.462,
+    "duration": 4.675
+  },
+  {
+    "text": "to levitate dust in a near vacuum\nlike the Martian atmosphere.",
+    "start": 343.162,
+    "duration": 4.113
+  },
+  {
+    "text": "We cannot emphasize enough that\nscientists are just beginning to recognize",
+    "start": 347.3,
+    "duration": 4.368
+  },
+  {
+    "text": "the extraordinary electrical\nenvironment of Earth",
+    "start": 351.693,
+    "duration": 2.868
+  },
+  {
+    "text": "and of all planets and moons.",
+    "start": 354.586,
+    "duration": 2.053
+  },
+  {
+    "text": "In 2012, scientists around\nthe world were astonished",
+    "start": 356.664,
+    "duration": 3.632
+  },
+  {
+    "text": "by the discovery of giant electric\nfields in Earth's radiation belts,",
+    "start": 360.321,
+    "duration": 4.578
+  },
+  {
+    "text": "some more than 1\nmillion volts strong.",
+    "start": 364.924,
+    "duration": 2.723
+  },
+  {
+    "text": "Structures familiar to plasma physicists\ncalled double layers in the outer belts",
+    "start": 367.672,
+    "duration": 4.932
+  },
+  {
+    "text": "are said to be powerful enough to accelerate\nelectrons to near the speed of light.",
+    "start": 372.629,
+    "duration": 4.968
+  },
+  {
+    "text": "With each new discovery, planetary\nscientists move closer to recognizing",
+    "start": 377.622,
+    "duration": 4.812
+  },
+  {
+    "text": "the electrical circuitry between\nplanets, moons and the Sun.",
+    "start": 382.459,
+    "duration": 4.221
+  },
+  {
+    "text": "The electric currents that connect Jupiter\nand Saturn to their respective moons",
+    "start": 386.705,
+    "duration": 4.356
+  },
+  {
+    "text": "are now acknowledged\nby NASA scientists.",
+    "start": 391.086,
+    "duration": 2.689
+  },
+  {
+    "text": "It is therefore no coincidence that the so-\ncalled 'volcanic plumes' of the Jovian moon Io,",
+    "start": 393.8,
+    "duration": 5.46
+  },
+  {
+    "text": "and the so called 'geysers' of\nthe Saturnian moon Enceladus,",
+    "start": 399.285,
+    "duration": 3.588
+  },
+  {
+    "text": "closely resemble the\nbaffling Martian plumes.",
+    "start": 402.898,
+    "duration": 4.202
+  },
+  {
+    "text": "The Electric Universe does not call for\nrewriting the known laws of physics.",
+    "start": 407.125,
+    "duration": 4.784
+  },
+  {
+    "text": "Rather, we need only acknowledge the\nundeniable significance of electricity",
+    "start": 411.934,
+    "duration": 4.431
+  },
+  {
+    "text": "in our lives and\nin all of nature.",
+    "start": 416.389,
+    "duration": 2.654
+  },
+  {
+    "text": "We again remind scientists\nthat all matter is electrical,",
+    "start": 419.068,
+    "duration": 3.897
+  },
+  {
+    "text": "and it is electrical connectedness\nthat drives the universe.",
+    "start": 422.99,
+    "duration": 4.029
+  },
+  {
+    "text": "For continuous updates on Space\nNews from the Electric Universe",
+    "start": 429.073,
+    "duration": 4.022
+  },
+  {
+    "text": "stay tuned to",
+    "start": 433.12,
+    "duration": 1.221
+  },
+  {
+    "text": "Thunderbolts.info",
+    "start": 434.366,
+    "duration": 3.345
+  }
+]

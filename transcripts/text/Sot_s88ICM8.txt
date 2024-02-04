@@ -1,0 +1,1022 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe,",
+    "start": 7.213,
+    "duration": 2.824
+  },
+  {
+    "text": "brought to you by The\nThunderbolts Project™",
+    "start": 10.062,
+    "duration": 2.353
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 12.44,
+    "duration": 3.424
+  },
+  {
+    "text": "In part 1 of this presentation, Thunderbolts\ncontributor archaeologist Peter Mungo Jupp",
+    "start": 16.697,
+    "duration": 5.374
+  },
+  {
+    "text": "began his comprehensive analysis\non the nature of comets",
+    "start": 22.096,
+    "duration": 3.446
+  },
+  {
+    "text": "including the Electric Universe\nperspective that comets are not",
+    "start": 25.567,
+    "duration": 3.883
+  },
+  {
+    "text": "4.5 billion year old icy\nleftovers of the early solar system.",
+    "start": 29.475,
+    "duration": 4.633
+  },
+  {
+    "text": "Included in his analysis, Jupp\npresented outtakes of his interview",
+    "start": 34.133,
+    "duration": 4.424
+  },
+  {
+    "text": "with physicist Wal Thornhill\nrecorded a few years ago",
+    "start": 38.582,
+    "duration": 3.296
+  },
+  {
+    "text": "discussing Thornhill's\nperspective on comet origins.",
+    "start": 41.903,
+    "duration": 3.354
+  },
+  {
+    "text": "In this episode, we begin\nwith Thornhill explaining",
+    "start": 45.282,
+    "duration": 3.346
+  },
+  {
+    "text": "why the notion of comets\nas sublimating ice balls",
+    "start": 48.653,
+    "duration": 2.824
+  },
+  {
+    "text": "cannot explain most\ncomet activity.",
+    "start": 51.502,
+    "duration": 2.617
+  },
+  {
+    "text": "The other thing is that if you\nhave one of these objects,",
+    "start": 56.246,
+    "duration": 2.984
+  },
+  {
+    "text": "if it was just a ball of icy\ndust approaching the Sun,",
+    "start": 59.255,
+    "duration": 4.829
+  },
+  {
+    "text": "what would happen is that\nthe ice would turn to a gas",
+    "start": 64.109,
+    "duration": 2.836
+  },
+  {
+    "text": "and it should just blow\noff like a kind of a wind.",
+    "start": 66.97,
+    "duration": 2.767
+  },
+  {
+    "text": "But that's not what we see. We see\nthese very well-defined jets",
+    "start": 69.762,
+    "duration": 3.632
+  },
+  {
+    "text": "and we also see bright spots on the\nnucleus when they photograph the nucleus.",
+    "start": 73.419,
+    "duration": 4.858
+  },
+  {
+    "text": "And those bright spots\nare unexplained",
+    "start": 78.302,
+    "duration": 2.856
+  },
+  {
+    "text": "but in the electrical model, of course, that\nis the point where the arcs are coming from.",
+    "start": 81.183,
+    "duration": 5.606
+  },
+  {
+    "text": "Okay, yep.",
+    "start": 86.79,
+    "duration": 1.587
+  },
+  {
+    "text": "And that's from within\nthe comet itself",
+    "start": 88.402,
+    "duration": 2.238
+  },
+  {
+    "text": "and is this the reason you get this huge\ntail of discharge on the comet, is that?",
+    "start": 90.665,
+    "duration": 5.483
+  },
+  {
+    "text": "It's one of the reasons why you get these\nwell-collimated jets of very fine material",
+    "start": 96.173,
+    "duration": 5.332
+  },
+  {
+    "text": "because it's the sort of technique\nused in electrical sputtering,",
+    "start": 101.53,
+    "duration": 3.391
+  },
+  {
+    "text": "- the coating of astronomical\nmirrors and so on\n- Yeah",
+    "start": 104.946,
+    "duration": 2.999
+  },
+  {
+    "text": "where you just take atoms\nat a time off a cathode",
+    "start": 107.97,
+    "duration": 4.276
+  },
+  {
+    "text": "and then attract them\ntowards a charged surface",
+    "start": 112.271,
+    "duration": 3.914
+  },
+  {
+    "text": "or you just have them floating in space, if\nyou like, and then they land on the mirror,",
+    "start": 116.21,
+    "duration": 5.484
+  },
+  {
+    "text": "the glass surface, and form this\ncoating of metal, just a few atoms thick.",
+    "start": 121.719,
+    "duration": 3.762
+  },
+  {
+    "text": "And so these atoms are shunted way out\nin space on the tail of the comet.",
+    "start": 125.506,
+    "duration": 3.998
+  },
+  {
+    "text": "Yes, and they're,",
+    "start": 129.529,
+    "duration": 0.953
+  },
+  {
+    "text": "and they're\nphosphorescing...",
+    "start": 130.507,
+    "duration": 2.542
+  },
+  {
+    "text": "...well they are glowing because they're\nan electrical discharge, yeah.",
+    "start": 133.074,
+    "duration": 4.024
+  },
+  {
+    "text": "And the trajectory that they take is that\nwhich is also seen in the laboratory",
+    "start": 137.64,
+    "duration": 6.088
+  },
+  {
+    "text": "in an electrical discharge.\nThis a parabolic curve.",
+    "start": 143.753,
+    "duration": 4.411
+  },
+  {
+    "text": "And there's plenty of evidence that this\nis the kind of thing we should expect.",
+    "start": 148.189,
+    "duration": 5.753
+  },
+  {
+    "text": "For instance, on Io, the so called\nvolcanoes of Io, they too are cathode jets",
+    "start": 153.967,
+    "duration": 5.395
+  },
+  {
+    "text": "and they're very distinctive in\nthat, unlike any volcano known on Earth,",
+    "start": 159.387,
+    "duration": 5.775
+  },
+  {
+    "text": "they deposit their\nmaterial in a ring",
+    "start": 165.187,
+    "duration": 2.451
+  },
+  {
+    "text": "but this is characteristic\nof an electrical discharge",
+    "start": 167.663,
+    "duration": 3.395
+  },
+  {
+    "text": "because it sorts the material according\nto atomic or molecular weight...",
+    "start": 171.083,
+    "duration": 3.526
+  },
+  {
+    "text": "Okay...",
+    "start": 174.634,
+    "duration": 0.627
+  },
+  {
+    "text": "and it follows a\ndistinct trajectory.",
+    "start": 175.286,
+    "duration": 2.817
+  },
+  {
+    "text": "Okay, now so we've got a little\nbit of the nature of a comet now",
+    "start": 179.054,
+    "duration": 3.465
+  },
+  {
+    "text": "which is basically a negatively\ncharged body moving towards the Sun",
+    "start": 182.52,
+    "duration": 4.13
+  },
+  {
+    "text": "and something else happens then.\nIt can either go past the Sun,",
+    "start": 187.125,
+    "duration": 5.403
+  },
+  {
+    "text": "it can split and explode, just\nlike Shoemaker-Levy 9 did,",
+    "start": 192.553,
+    "duration": 5.801
+  },
+  {
+    "text": "when it impacted on, flash-\nimpacted, I like to call it, on Jupiter,",
+    "start": 198.379,
+    "duration": 4.443
+  },
+  {
+    "text": "or it can actually\nhit the Sun. Now,",
+    "start": 202.847,
+    "duration": 2.332
+  },
+  {
+    "text": "what happens when\nit hits the Sun?",
+    "start": 205.204,
+    "duration": 1.948
+  },
+  {
+    "text": "Well this is, we've got photos or movies of\nthis sort of thing and usually it seems...",
+    "start": 207.177,
+    "duration": 4.61
+  },
+  {
+    "text": "Yes, well, the electrical influence of a\ncomet extends to the boundary of its coma",
+    "start": 211.812,
+    "duration": 6.286
+  },
+  {
+    "text": "and the coma of some comets, like the recent\none of Hartley, was bigger than the Sun.",
+    "start": 218.123,
+    "duration": 5.847
+  },
+  {
+    "text": "So this tiny lump of rock has an electrical\ninfluence which extends over a vast volume.",
+    "start": 223.995,
+    "duration": 5.501
+  },
+  {
+    "text": "So they're incredibly powerful\ncompared to their physical size?",
+    "start": 229.521,
+    "duration": 3.276
+  },
+  {
+    "text": "Absolutely, and so you can\nunderstand then that that",
+    "start": 232.822,
+    "duration": 3.776
+  },
+  {
+    "text": "intrusion of a charged\nbody near a charged Sun",
+    "start": 236.599,
+    "duration": 3.777
+  },
+  {
+    "text": "can give rise to a sudden\ndischarge from the Sun,",
+    "start": 240.401,
+    "duration": 3.706
+  },
+  {
+    "text": "in other words a\ncoronal mass ejection.",
+    "start": 244.132,
+    "duration": 1.936
+  },
+  {
+    "text": "Okay, and that's on the opposite side\nof the Sun, at least in the films I've seen?",
+    "start": 246.093,
+    "duration": 3.981
+  },
+  {
+    "text": "Well, actually, you get effects occurring on\nopposite sides of the Sun almost simultaneously",
+    "start": 250.099,
+    "duration": 4.869
+  },
+  {
+    "text": "which is absolutely impossible\nif the Sun is powered internally.",
+    "start": 254.969,
+    "duration": 5.653
+  },
+  {
+    "text": "Yep.",
+    "start": 260.647,
+    "duration": 1.14
+  },
+  {
+    "text": "However, if the Sun is an\nelectrical body, that is possible",
+    "start": 261.812,
+    "duration": 4.305
+  },
+  {
+    "text": "because the influences\nare coming from outside",
+    "start": 266.142,
+    "duration": 2.717
+  },
+  {
+    "text": "and they can be\nsynchronized electrically.",
+    "start": 268.884,
+    "duration": 2.9
+  },
+  {
+    "text": "So this huge coronal\nthing you called it,",
+    "start": 271.809,
+    "duration": 3.635
+  },
+  {
+    "text": "as it flies towards the Sun, is\nexhibiting a massive impact",
+    "start": 275.469,
+    "duration": 5.695
+  },
+  {
+    "text": "in fact not impact, effect or\ndischarge effect on the Sun...",
+    "start": 281.189,
+    "duration": 3.366
+  },
+  {
+    "text": "yes...",
+    "start": 284.58,
+    "duration": 0.674
+  },
+  {
+    "text": "and this coronal mass ejection is nearly as\nbig as the Sun in some cases if not bigger.",
+    "start": 285.279,
+    "duration": 4.867
+  },
+  {
+    "text": "They're huge, yeah.",
+    "start": 290.171,
+    "duration": 1.209
+  },
+  {
+    "text": "So the puny little comet\nisn't quite so puny",
+    "start": 291.405,
+    "duration": 3.255
+  },
+  {
+    "text": "and carrying on this thing,\nwhen Shoemaker-Levy 9",
+    "start": 294.685,
+    "duration": 3.835
+  },
+  {
+    "text": "split into 23 pieces as\nit headed towards Jupiter...",
+    "start": 298.545,
+    "duration": 4.289
+  },
+  {
+    "text": "On the first go-around\nJupiter, it split up.",
+    "start": 302.859,
+    "duration": 2.206
+  },
+  {
+    "text": "Ah, that is when it\nsplit in 23 sections.",
+    "start": 305.09,
+    "duration": 2.178
+  },
+  {
+    "text": "And then it went into an orbit where\nthey were able to predict that it would impact.",
+    "start": 307.293,
+    "duration": 2.608
+  },
+  {
+    "text": "Now, you think this split up is\nanother electrical phenomenon?",
+    "start": 309.926,
+    "duration": 3.551
+  },
+  {
+    "text": "Sure, comets inexplicably\nsplit and fragment",
+    "start": 313.502,
+    "duration": 6.651
+  },
+  {
+    "text": "as they cross the ecliptic, usually,\nwhich is the current sheet of the Sun",
+    "start": 320.178,
+    "duration": 5.772
+  },
+  {
+    "text": "or when they're\napproaching the Sun",
+    "start": 325.975,
+    "duration": 2.035
+  },
+  {
+    "text": "when the voltage on the\nsurface is changing rapidly.",
+    "start": 328.035,
+    "duration": 3.479
+  },
+  {
+    "text": "And the reason for that is that any body\nin the universe, of any considerable mass,",
+    "start": 331.539,
+    "duration": 7.205
+  },
+  {
+    "text": "will have an internal gravitational\nfield, albeit maybe weak,",
+    "start": 338.769,
+    "duration": 5.683
+  },
+  {
+    "text": "but that gravitational field will offset\nall of the positively charged particles",
+    "start": 344.477,
+    "duration": 6.005
+  },
+  {
+    "text": "which are heavier, more massive,\ntowards the center of the object",
+    "start": 350.507,
+    "duration": 3.384
+  },
+  {
+    "text": "and the electrons will then\nadopt elliptical orbits",
+    "start": 353.916,
+    "duration": 3.266
+  },
+  {
+    "text": "with the nucleus at a focus\nwhich is nearer the center.",
+    "start": 357.207,
+    "duration": 3.375
+  },
+  {
+    "text": "In other words, every atom in that\nobject will be a tiny electric dipole.",
+    "start": 360.607,
+    "duration": 5.623
+  },
+  {
+    "text": "Okay.",
+    "start": 366.255,
+    "duration": 0.792
+  },
+  {
+    "text": "So every object of any\nconsiderable size in the universe",
+    "start": 367.071,
+    "duration": 4.997
+  },
+  {
+    "text": "will have the characteristics\nof an electret",
+    "start": 372.093,
+    "duration": 3.877
+  },
+  {
+    "text": "which is an object which\nmaintains an electric field.",
+    "start": 375.995,
+    "duration": 2.572
+  },
+  {
+    "text": "That's an interesting\nterm, electret.",
+    "start": 378.592,
+    "duration": 1.895
+  },
+  {
+    "text": "Electret, yeah.",
+    "start": 380.512,
+    "duration": 1.587
+  },
+  {
+    "text": "So, a comet, if sufficient charge is either\nremoved or added to one of these bodies,",
+    "start": 382.1,
+    "duration": 7.76
+  },
+  {
+    "text": "it can cause internal discharges\nthrough the body of the comet",
+    "start": 389.885,
+    "duration": 6.286
+  },
+  {
+    "text": "and this is what I call earthquake,\nthis is the harbinger of an earthquake.",
+    "start": 396.196,
+    "duration": 4.641
+  },
+  {
+    "text": "Now, on a small body like a comet,",
+    "start": 400.862,
+    "duration": 2.124
+  },
+  {
+    "text": "that earthquake is sufficient\nto shatter it, quite often.",
+    "start": 403.011,
+    "duration": 2.921
+  },
+  {
+    "text": "So this is the\neffect ...",
+    "start": 405.957,
+    "duration": 1.956
+  },
+  {
+    "text": "Yeah, this is the\nelectrical effect, yeah.",
+    "start": 407.938,
+    "duration": 1.599
+  },
+  {
+    "text": "I mean, the same thing happens on earth,\nearthquakes are underground lightning.",
+    "start": 409.538,
+    "duration": 5.027
+  },
+  {
+    "text": "So that explains\nthe fragmentation",
+    "start": 414.59,
+    "duration": 4.038
+  },
+  {
+    "text": "and the very fine particles\nthat you see in the jets",
+    "start": 418.653,
+    "duration": 3.47
+  },
+  {
+    "text": "that are all just part of this\nwhole electrical aspect of comets.",
+    "start": 422.148,
+    "duration": 5.122
+  },
+  {
+    "text": "So we have some good\nideas as to how comets",
+    "start": 427.295,
+    "duration": 2.944
+  },
+  {
+    "text": "are created by ejection from\nsay Jupiter, Saturn, etc.",
+    "start": 430.24,
+    "duration": 4.895
+  },
+  {
+    "text": "and we have some understanding\nabout their electrical nature.",
+    "start": 435.16,
+    "duration": 4.05
+  },
+  {
+    "text": "But what about what we now\nknow is it's rocky terrain,",
+    "start": 439.235,
+    "duration": 4.729
+  },
+  {
+    "text": "gone are the days of the\nfarcical dusty snowball comet.",
+    "start": 443.989,
+    "duration": 4.063
+  },
+  {
+    "text": "If, for instance, we take\ncomet P-69 as an example,",
+    "start": 448.077,
+    "duration": 4.014
+  },
+  {
+    "text": "there is no doubt its topography\nclosely resembles that of many planets",
+    "start": 452.116,
+    "duration": 5.694
+  },
+  {
+    "text": "such as Mercury and Mars.",
+    "start": 457.835,
+    "duration": 2.03
+  },
+  {
+    "text": "It's complete with valleys, electrical\nerosion, sand fills and rocky outcrops.",
+    "start": 459.89,
+    "duration": 6.853
+  },
+  {
+    "text": "But comets, unlike major planets\nand most moons, are not spherical.",
+    "start": 466.768,
+    "duration": 5.328
+  },
+  {
+    "text": "We're not sure why",
+    "start": 472.121,
+    "duration": 2.541
+  },
+  {
+    "text": "but in fact a large percentage of imaged\ncomets, and their similar sisters, asteroids,",
+    "start": 474.687,
+    "duration": 6.644
+  },
+  {
+    "text": "have nuclei that are\ndouble, even triple-lobed.",
+    "start": 481.356,
+    "duration": 4.429
+  },
+  {
+    "text": "Now, where have I\nseen this before?",
+    "start": 485.81,
+    "duration": 2.708
+  },
+  {
+    "text": "Many comets and asteroids\nhave a remarkable similarity",
+    "start": 488.543,
+    "duration": 4.27
+  },
+  {
+    "text": "to the thunder egg\nseen on earth",
+    "start": 492.838,
+    "duration": 2.782
+  },
+  {
+    "text": "and if, as Wal Thornhill often says,\nelectrical phenomena are scalable,",
+    "start": 495.645,
+    "duration": 6.056
+  },
+  {
+    "text": "we may have an example, on a much\nsmaller scale, of a comet structure.",
+    "start": 501.726,
+    "duration": 5.643
+  },
+  {
+    "text": "Creation of similar tektites by C.J.\nRansom in the Vemasat Laboratories,",
+    "start": 507.394,
+    "duration": 5.698
+  },
+  {
+    "text": "by electrical discharge,\nmay hold the key",
+    "start": 513.117,
+    "duration": 3.975
+  },
+  {
+    "text": "to an understanding of both\nasteroids, comets and planets.",
+    "start": 517.117,
+    "duration": 5.542
+  },
+  {
+    "text": "Now, thunder egg rocks come\nin an incredible array.",
+    "start": 523.359,
+    "duration": 3.721
+  },
+  {
+    "text": "Look at these ones I'm about\nto show you. Some are hollow,",
+    "start": 527.105,
+    "duration": 4.277
+  },
+  {
+    "text": "some have crystalline interiors,\nsome have gaseous inclusions",
+    "start": 531.407,
+    "duration": 4.874
+  },
+  {
+    "text": "and some are filled with liquid,",
+    "start": 536.306,
+    "duration": 3.388
+  },
+  {
+    "text": "star-shaped interiors,\nyou name it.",
+    "start": 539.719,
+    "duration": 3.848
+  },
+  {
+    "text": "Depending on the layer the\nthunder eggs were found in,",
+    "start": 543.592,
+    "duration": 3.746
+  },
+  {
+    "text": "rapid progression from spherical to\ndouble- and triple-lobed rocks develop.",
+    "start": 547.339,
+    "duration": 7.03
+  },
+  {
+    "text": "I'll just read a little\nbit from Robert Colburn",
+    "start": 554.37,
+    "duration": 3.054
+  },
+  {
+    "text": "who wrote, if you like, the quintessential\ninformation on thunder eggs.",
+    "start": 557.449,
+    "duration": 5.254
+  },
+  {
+    "text": "This is his quote on the\nformation of thunder eggs,",
+    "start": 562.728,
+    "duration": 3.542
+  },
+  {
+    "text": "\"On the bedrock, in contrast with the ashy\nclay, some eggs could be pried off whole.",
+    "start": 566.295,
+    "duration": 6.961
+  },
+  {
+    "text": "With more melded into doubles,\ntriples or even clusters,",
+    "start": 573.281,
+    "duration": 5.236
+  },
+  {
+    "text": "most broke apart revealing a hollow top\nconsisting of a thin layer of chalcedony",
+    "start": 578.542,
+    "duration": 6.321
+  },
+  {
+    "text": "coating the walls of\nthe egg's interior.",
+    "start": 584.888,
+    "duration": 2.854
+  },
+  {
+    "text": "Horizontally banded, waterline opal is\ncontained within the thin concentric layer",
+    "start": 587.767,
+    "duration": 7.153
+  },
+  {
+    "text": "and occupying from 1/4 to 1/2\nof the interior at the bottom",
+    "start": 594.945,
+    "duration": 5.996
+  },
+  {
+    "text": "with the tops being flat floors,\nsome with chalky surfaces",
+    "start": 600.966,
+    "duration": 5.039
+  },
+  {
+    "text": "that can be scraped\nwith the finger nail.",
+    "start": 606.03,
+    "duration": 2.408
+  },
+  {
+    "text": "Perhaps we can get closer to\nunderstanding thunder eggs",
+    "start": 608.463,
+    "duration": 3.843
+  },
+  {
+    "text": "by approaching them as gas cavities\nfilled with water-based minerals",
+    "start": 612.331,
+    "duration": 5.356
+  },
+  {
+    "text": "like those of amygdules, an idea fairly\nwell accepted by most geologists.",
+    "start": 617.712,
+    "duration": 5.91
+  },
+  {
+    "text": "An amygdule is a mineral-filled gas\ncavity found in basalt and endocyte lava.",
+    "start": 623.647,
+    "duration": 7.044
+  },
+  {
+    "text": "So let's begin with a question,",
+    "start": 630.716,
+    "duration": 1.871
+  },
+  {
+    "text": "how homogeneous is the earth and for\nthat matter comets and meteors?",
+    "start": 632.612,
+    "duration": 6.62
+  },
+  {
+    "text": "Is it molded within by\nstrict circular boundaries,",
+    "start": 639.257,
+    "duration": 4.5
+  },
+  {
+    "text": "or is it perhaps, like the internals\nof this classic thunderegg",
+    "start": 643.782,
+    "duration": 4.812
+  },
+  {
+    "text": "with a 3d star-shaped interior?",
+    "start": 648.619,
+    "duration": 2.973
+  },
+  {
+    "text": "Plasma pioneers such as\nC.J. Ransom, remember,",
+    "start": 651.617,
+    "duration": 3.851
+  },
+  {
+    "text": "recreated spherical\nMartian rock blueberries",
+    "start": 655.493,
+    "duration": 4.0
+  },
+  {
+    "text": "in the lab with electrical\ndischarge techniques.",
+    "start": 659.518,
+    "duration": 3.279
+  },
+  {
+    "text": "Were thundereggs created\nby similar measures?",
+    "start": 662.822,
+    "duration": 3.451
+  },
+  {
+    "text": "And if electrical\neffects are scalable,",
+    "start": 666.298,
+    "duration": 3.725
+  },
+  {
+    "text": "could a large Earth body perhaps\nreplicate a thunderegg formation",
+    "start": 670.048,
+    "duration": 5.157
+  },
+  {
+    "text": "with its gaseous enclosures\nand spiky outreaches",
+    "start": 675.23,
+    "duration": 4.057
+  },
+  {
+    "text": "that may, perhaps, resemble\nthe jets of a comet.",
+    "start": 679.312,
+    "duration": 3.769
+  },
+  {
+    "text": "Now, let's take this\na little further.",
+    "start": 683.106,
+    "duration": 2.507
+  },
+  {
+    "text": "Thomas Gold, in his book 'The Deep\nHot Biosphere', makes a strong case",
+    "start": 685.638,
+    "duration": 5.213
+  },
+  {
+    "text": "for the intervention of gas upwelling\nas a powerful but neglected process",
+    "start": 690.876,
+    "duration": 5.937
+  },
+  {
+    "text": "in the workings of large\nhydrocarbon deposits,",
+    "start": 696.838,
+    "duration": 4.471
+  },
+  {
+    "text": "either gaseous, liquid or solid\nfrom deep within our own Earth.",
+    "start": 701.334,
+    "duration": 5.241
+  },
+  {
+    "text": "But perhaps even Gold failed to realize the\neffects of electrical telluric currents",
+    "start": 706.6,
+    "duration": 6.205
+  },
+  {
+    "text": "swayed by cosmic effects\nas the primal cause",
+    "start": 712.83,
+    "duration": 3.668
+  },
+  {
+    "text": "of the chaotic meandering of gases\nand liquids within charged bodies.",
+    "start": 716.523,
+    "duration": 5.73
+  },
+  {
+    "text": "Were they the agent that\ncaused cometary instabilities?",
+    "start": 722.278,
+    "duration": 3.561
+  },
+  {
+    "text": "As Wal Thornhill has\nalways pointed out,",
+    "start": 725.864,
+    "duration": 3.095
+  },
+  {
+    "text": "the planets, comets and asteroids\nare electrets or charged bodies",
+    "start": 728.984,
+    "duration": 5.461
+  },
+  {
+    "text": "revolving in a constantly changing\ncosmic electromagnetic environment.",
+    "start": 734.47,
+    "duration": 5.856
+  },
+  {
+    "text": "They thus react with\nother charged bodies,",
+    "start": 740.351,
+    "duration": 3.477
+  },
+  {
+    "text": "working towards\nelectrical equilibrium.",
+    "start": 743.853,
+    "duration": 3.242
+  },
+  {
+    "text": "Thus our big question: Could\ncommon interiors also possess",
+    "start": 747.12,
+    "duration": 5.235
+  },
+  {
+    "text": "hydrocarbon enclosures; the\nkerogens, oil, coal etc.?",
+    "start": 752.38,
+    "duration": 5.315
+  },
+  {
+    "text": "Nicolas Biver of the Paris Observatory,\nFrance, lead author of a paper",
+    "start": 758.25,
+    "duration": 5.023
+  },
+  {
+    "text": "on the discovery published\noctober 23rd, in Science Advances,",
+    "start": 763.298,
+    "duration": 6.339
+  },
+  {
+    "text": "found that Comet Lovejoy was\nreleasing as much alcohol",
+    "start": 769.662,
+    "duration": 5.091
+  },
+  {
+    "text": "as at least 500 bottles of wine every\nsecond during its peak activity.",
+    "start": 774.778,
+    "duration": 6.891
+  },
+  {
+    "text": "The team found 21 different organic\nmolecules in gas from the comet",
+    "start": 781.694,
+    "duration": 4.944
+  },
+  {
+    "text": "including ethyl alcohol and\nglycol aldehyde, a simple sugar.",
+    "start": 786.663,
+    "duration": 5.536
+  },
+  {
+    "text": "Further in July, the European Space\nAgency reported that the Philae Lander",
+    "start": 792.224,
+    "duration": 6.831
+  },
+  {
+    "text": "from its Rosetta spacecraft, in orbit around\ncomet 67P, detected 16 organic compounds",
+    "start": 799.08,
+    "duration": 9.162
+  },
+  {
+    "text": "as it descended toward, and then\nbounced across the comet's surface.",
+    "start": 808.267,
+    "duration": 5.23
+  },
+  {
+    "text": "According to the agency, some of the\ncompounds detected play key roles",
+    "start": 813.522,
+    "duration": 5.427
+  },
+  {
+    "text": "in the creation of amino acids, nucleobases and\nsugars from simple building block molecules.",
+    "start": 818.974,
+    "duration": 8.551
+  },
+  {
+    "text": "So where does this all lead us?",
+    "start": 828.644,
+    "duration": 1.999
+  },
+  {
+    "text": "We certainly learned the comet\nis an electrical phenomenon.",
+    "start": 830.668,
+    "duration": 4.346
+  },
+  {
+    "text": "We've learned that it's not\na dusty snowball, it's solid.",
+    "start": 835.039,
+    "duration": 4.071
+  },
+  {
+    "text": "It moves in elliptical orbits\nof various combinations",
+    "start": 839.135,
+    "duration": 5.458
+  },
+  {
+    "text": "but most important of all, I\nbelieve the next comet revelation",
+    "start": 844.618,
+    "duration": 6.009
+  },
+  {
+    "text": "will be the fact that it\nsustains the molecules of life.",
+    "start": 850.652,
+    "duration": 5.163
+  },
+  {
+    "text": "The carbohydrates, the hydrocarbons, the\nkerogens, coal, oil, methane gases",
+    "start": 855.84,
+    "duration": 8.451
+  },
+  {
+    "text": "contained within the\nbody of the comet.",
+    "start": 864.316,
+    "duration": 2.991
+  },
+  {
+    "text": "These are common fundamentals\nof the solar system.",
+    "start": 867.332,
+    "duration": 4.789
+  },
+  {
+    "text": "Perhaps we've seen a\ntraveling Z-pinch",
+    "start": 872.146,
+    "duration": 4.315
+  },
+  {
+    "text": "creating all the molecules\nnecessary for life",
+    "start": 876.486,
+    "duration": 4.466
+  },
+  {
+    "text": "and the fundamentals\nof this solar system.",
+    "start": 880.977,
+    "duration": 2.816
+  }
+]

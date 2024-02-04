@@ -1,0 +1,742 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe,",
+    "start": 0.03,
+    "duration": 2.857
+  },
+  {
+    "text": "brought to you by The\nThunderbolts Project™",
+    "start": 2.912,
+    "duration": 2.34
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 5.277,
+    "duration": 3.833
+  },
+  {
+    "text": "In the previous Space News, we\ndiscussed the electrical nature",
+    "start": 9.809,
+    "duration": 3.549
+  },
+  {
+    "text": "of dramatic dust-raising\nevents on the planet Mars.",
+    "start": 13.383,
+    "duration": 3.298
+  },
+  {
+    "text": "Today, we review one of the great ongoing\nmysteries in the history of Mars exploration.",
+    "start": 16.706,
+    "duration": 5.909
+  },
+  {
+    "text": "In January of 2004,",
+    "start": 22.64,
+    "duration": 1.808
+  },
+  {
+    "text": "the Mars rovers Spirit and Opportunity arrived\nat the Red Planet about three weeks apart.",
+    "start": 24.449,
+    "duration": 6.346
+  },
+  {
+    "text": "Due to the extreme dustiness\nof the Martian environment,",
+    "start": 30.82,
+    "duration": 3.027
+  },
+  {
+    "text": "it was believed that the rovers would\nbe hindered by dust accumulation",
+    "start": 33.872,
+    "duration": 3.675
+  },
+  {
+    "text": "of their solar panels and were only given\nanticipated lifespans of 90 days each.",
+    "start": 37.572,
+    "duration": 5.827
+  },
+  {
+    "text": "Fast forward more\nthan 11 years to 2015.",
+    "start": 43.424,
+    "duration": 4.029
+  },
+  {
+    "text": "For reasons that no planetary\nscientist has successfully explained,",
+    "start": 47.478,
+    "duration": 4.27
+  },
+  {
+    "text": "the rover Opportunity is still alive and\ntransmitting data to scientists on Earth.",
+    "start": 51.773,
+    "duration": 5.862
+  },
+  {
+    "text": "The rover Spirit survived\nfor over 6 years until 2010",
+    "start": 57.66,
+    "duration": 3.961
+  },
+  {
+    "text": "and only expired after being ensnared\nin the soil of a Martian crater.",
+    "start": 61.646,
+    "duration": 4.415
+  },
+  {
+    "text": "Let us go back to the beginning of\nthe rovers' respective journeys.",
+    "start": 66.086,
+    "duration": 3.711
+  },
+  {
+    "text": "When their missions began,\nthe rovers' solar cells",
+    "start": 69.822,
+    "duration": 2.875
+  },
+  {
+    "text": "were providing 900 Watt-hours\n(Wh) of electricity per day.",
+    "start": 72.722,
+    "duration": 3.551
+  },
+  {
+    "text": "Over the months that followed, Spirit's\noutput dropped to 400 Wh daily",
+    "start": 76.298,
+    "duration": 5.389
+  },
+  {
+    "text": "while Opportunity dropped to about 500 Wh\ndue to dust accumulation on the panels.",
+    "start": 81.712,
+    "duration": 5.722
+  },
+  {
+    "text": "But then, to the amazement of mission scientists,\nOpportunity's power began to increase",
+    "start": 87.459,
+    "duration": 6.006
+  },
+  {
+    "text": "and kept on increasing until the\npower peaked at just over 900 Wh.",
+    "start": 93.49,
+    "duration": 4.999
+  },
+  {
+    "text": "As reported by newscientist.com,\nthe Mars rover Opportunity,",
+    "start": 98.514,
+    "duration": 4.271
+  },
+  {
+    "text": "\"...stumbled into something\nakin to a car wash\"",
+    "start": 102.81,
+    "duration": 3.19
+  },
+  {
+    "text": "which somehow cleaned\nits solar panels.",
+    "start": 106.025,
+    "duration": 2.745
+  },
+  {
+    "text": "Jim Erickson of NASA's Jet\nPropulsion Laboratory",
+    "start": 108.795,
+    "duration": 3.03
+  },
+  {
+    "text": "admitted that the cause of the surprise\ncleaning could not be explained;",
+    "start": 111.85,
+    "duration": 4.113
+  },
+  {
+    "text": "\"These exciting and unexplained cleaning events\nhave kept Opportunity in really great shape.\"",
+    "start": 115.988,
+    "duration": 5.657
+  },
+  {
+    "text": "The remarkable cleaning occurred\nin spurts during the Martian night.",
+    "start": 121.67,
+    "duration": 3.598
+  },
+  {
+    "text": "The team managing the rover reported that on\nat least 4 occasions over a 6 month period,",
+    "start": 125.293,
+    "duration": 5.365
+  },
+  {
+    "text": "the rover's power output suddenly\nincreased by up to 5% in a single night.",
+    "start": 130.683,
+    "duration": 5.4
+  },
+  {
+    "text": "The ad hoc explanations\nimmediately followed.",
+    "start": 136.108,
+    "duration": 3.12
+  },
+  {
+    "text": "The first suggestion was\nthat the Martian winds",
+    "start": 139.253,
+    "duration": 2.571
+  },
+  {
+    "text": "might have somehow swept\ndust off of the panels.",
+    "start": 141.849,
+    "duration": 3.02
+  },
+  {
+    "text": "Others wondered if frost could\nhave caused the dust to clump,",
+    "start": 144.894,
+    "duration": 3.236
+  },
+  {
+    "text": "exposing the panels\nto more sunlight.",
+    "start": 148.155,
+    "duration": 2.437
+  },
+  {
+    "text": "It was even suggested that the\ntilting of the rover while climbing hills",
+    "start": 150.617,
+    "duration": 3.9
+  },
+  {
+    "text": "might have caused a portion\nof the dust to drop off.",
+    "start": 154.542,
+    "duration": 2.94
+  },
+  {
+    "text": "One wonders, does one's\ncar become cleaner",
+    "start": 157.507,
+    "duration": 2.756
+  },
+  {
+    "text": "when one drives uphill on a\nwindy day in the desert?",
+    "start": 160.288,
+    "duration": 3.767
+  },
+  {
+    "text": "With Opportunity\nstill alive in 2015,",
+    "start": 164.08,
+    "duration": 3.638
+  },
+  {
+    "text": "having now lived more than 40 times\nlonger than its anticipated lifespan,",
+    "start": 167.719,
+    "duration": 4.763
+  },
+  {
+    "text": "more than ever the enigma\ndemands explanation.",
+    "start": 172.507,
+    "duration": 3.594
+  },
+  {
+    "text": "The great irony is that\nscientists working with NASA",
+    "start": 176.126,
+    "duration": 2.944
+  },
+  {
+    "text": "have developed technology that\nprovides the answer to the mystery.",
+    "start": 179.095,
+    "duration": 3.753
+  },
+  {
+    "text": "Self-cleaning solar panels that\nrely on electrostatic cleaning",
+    "start": 182.873,
+    "duration": 4.081
+  },
+  {
+    "text": "have proven extremely effective at\ndust removal. As noted in a 2010 review,",
+    "start": 186.979,
+    "duration": 5.681
+  },
+  {
+    "text": "\"The technology was developed for\nfuture rover missions to Mars,",
+    "start": 192.685,
+    "duration": 3.842
+  },
+  {
+    "text": "but it could work here on Earth to keep\nsolar panels operating at peak capacity.",
+    "start": 196.552,
+    "duration": 4.775
+  },
+  {
+    "text": "It uses electrostatic charge to repel dust\nand force it to the edges of the panels.",
+    "start": 201.352,
+    "duration": 5.434
+  },
+  {
+    "text": "It can remove 90% of the dust on a\nsolar panel in a two minute cycle...\"",
+    "start": 206.811,
+    "duration": 5.394
+  },
+  {
+    "text": "As noted in the previous Space News, the\naccepted models of the Martian atmosphere",
+    "start": 212.23,
+    "duration": 4.449
+  },
+  {
+    "text": "have never adequately explained the\ndramatic dust-raising events on Mars.",
+    "start": 216.704,
+    "duration": 5.009
+  },
+  {
+    "text": "A 2006 NASA report of the strong electric\nfields in Martian dust storm states:",
+    "start": 221.738,
+    "duration": 5.713
+  },
+  {
+    "text": "\"Dust particles [could] become\nelectrified in Martian dust storms",
+    "start": 227.476,
+    "duration": 3.306
+  },
+  {
+    "text": "when they rub against each other\nas they are carried by the winds,",
+    "start": 230.807,
+    "duration": 3.619
+  },
+  {
+    "text": "transferring positive and negative\nelectric charge in the same way",
+    "start": 234.451,
+    "duration": 3.557
+  },
+  {
+    "text": "you build up static electricity\nif you shuffle across a carpet.\"",
+    "start": 238.009,
+    "duration": 3.855
+  },
+  {
+    "text": "But the tenuous Martian atmosphere,\nless than 1% as dense as Earth's,",
+    "start": 241.889,
+    "duration": 4.577
+  },
+  {
+    "text": "and an average of about\n75 degrees colder,",
+    "start": 246.491,
+    "duration": 2.657
+  },
+  {
+    "text": "is not substantial enough to generate\nthe mechanical winds required",
+    "start": 249.173,
+    "duration": 3.987
+  },
+  {
+    "text": "to generate such huge, sometimes\nplanet-wide dust storms.",
+    "start": 253.185,
+    "duration": 4.323
+  },
+  {
+    "text": "Despite its atmospheric\ndeficiency,",
+    "start": 257.533,
+    "duration": 2.588
+  },
+  {
+    "text": "Martian dust storms are much\nlarger than any seen on Earth",
+    "start": 260.146,
+    "duration": 3.505
+  },
+  {
+    "text": "and the planet's fierce dust devils,\nsome as tall as Mount Everest,",
+    "start": 263.676,
+    "duration": 3.919
+  },
+  {
+    "text": "would dwarf the typical\ntornado on Earth.",
+    "start": 267.62,
+    "duration": 2.708
+  },
+  {
+    "text": "On Mars, without the ameliorating leakage\nby a storm clouds that we see on Earth,",
+    "start": 270.353,
+    "duration": 5.491
+  },
+  {
+    "text": "rather than lightning,\nwe see glow discharges",
+    "start": 275.869,
+    "duration": 2.877
+  },
+  {
+    "text": "which occur from the ionosphere to the\nground and drive the so-called dust devils.",
+    "start": 278.771,
+    "duration": 5.204
+  },
+  {
+    "text": "In 2005, The Thunderbolts Project made\na highly controversial assertion",
+    "start": 284.0,
+    "duration": 4.71
+  },
+  {
+    "text": "about the greatest dust\nstorm in Martian history.",
+    "start": 288.735,
+    "duration": 2.998
+  },
+  {
+    "text": "The article ― When Dust\nStorms Engulf Mars ―",
+    "start": 291.758,
+    "duration": 2.737
+  },
+  {
+    "text": "asserted that the massive global\ndust storm in the summer of 2001,",
+    "start": 294.52,
+    "duration": 4.358
+  },
+  {
+    "text": "involved a packed\nassembly of dust devils",
+    "start": 298.903,
+    "duration": 2.762
+  },
+  {
+    "text": "carrying great volumes of Martian\ndust into billowing clouds.",
+    "start": 301.69,
+    "duration": 4.184
+  },
+  {
+    "text": "Since its publication, the\nassertion has been confirmed",
+    "start": 305.899,
+    "duration": 3.506
+  },
+  {
+    "text": "though the concept of compact\ndust devil congregations",
+    "start": 309.43,
+    "duration": 3.795
+  },
+  {
+    "text": "can only seem absurd to\nconventional schools.",
+    "start": 313.25,
+    "duration": 2.863
+  },
+  {
+    "text": "In the standard theory,\nan atmospheric vortex",
+    "start": 316.138,
+    "duration": 2.803
+  },
+  {
+    "text": "requires a vastly larger\ncirculation of wind,",
+    "start": 318.966,
+    "duration": 3.301
+  },
+  {
+    "text": "a condition that precludes\nwhat seems clearly to be seen",
+    "start": 322.292,
+    "duration": 3.351
+  },
+  {
+    "text": "in edge-on pictures of\nstorm fronts on Mars.",
+    "start": 325.668,
+    "duration": 3.184
+  },
+  {
+    "text": "In the Electric Universe,\nplanets, like comets,",
+    "start": 328.877,
+    "duration": 3.4
+  },
+  {
+    "text": "are charged bodies that are interacting\nwith our changing plasma environment.",
+    "start": 332.302,
+    "duration": 4.774
+  },
+  {
+    "text": "Laboratory experiments have\ndemonstrated the ability",
+    "start": 337.101,
+    "duration": 2.976
+  },
+  {
+    "text": "of electric fields and electrical\ndischarges to levitate dust",
+    "start": 340.102,
+    "duration": 3.95
+  },
+  {
+    "text": "and to organize dust particles into familiar\nplanetary features such as sand dunes.",
+    "start": 344.077,
+    "duration": 5.324
+  },
+  {
+    "text": "On March 18th of this\nyear, a new NASA",
+    "start": 349.426,
+    "duration": 2.507
+  },
+  {
+    "text": "press release has provided\nfurther confirmation",
+    "start": 351.958,
+    "duration": 2.799
+  },
+  {
+    "text": "that this process is indeed\noccurring on a large scale on Mars.",
+    "start": 354.782,
+    "duration": 4.428
+  },
+  {
+    "text": "The report states:",
+    "start": 359.235,
+    "duration": 1.516
+  },
+  {
+    "text": "\"NASA's... (MAVEN) spacecraft has observed two\nunexpected phenomena in the Martian atmosphere:",
+    "start": 360.776,
+    "duration": 5.443
+  },
+  {
+    "text": "an unexplained\nhigh-altitude dust cloud",
+    "start": 366.244,
+    "duration": 2.756
+  },
+  {
+    "text": "and aurora that reaches deep\ninto the Martian atmosphere.",
+    "start": 369.025,
+    "duration": 3.668
+  },
+  {
+    "text": "The presence of the dust at orbital\naltitudes from about 93 miles",
+    "start": 372.718,
+    "duration": 4.074
+  },
+  {
+    "text": "to 190 miles above the\nsurface was not predicted.\"",
+    "start": 376.817,
+    "duration": 4.477
+  },
+  {
+    "text": "Mission scientist\nLaila Andersson states:",
+    "start": 381.319,
+    "duration": 2.604
+  },
+  {
+    "text": "\"If the dust originates from the\natmosphere, this suggests we are",
+    "start": 383.948,
+    "duration": 3.651
+  },
+  {
+    "text": "missing some fundamental process\nin the Martian atmosphere.\"",
+    "start": 387.6,
+    "duration": 3.985
+  },
+  {
+    "text": "Also surprising to MAVEN scientists was the\ndiscovery of a highly energetic glowing aurora",
+    "start": 391.61,
+    "duration": 5.881
+  },
+  {
+    "text": "that reaches shockingly deep\ninto the Martian atmosphere.",
+    "start": 397.516,
+    "duration": 3.358
+  },
+  {
+    "text": "As one team member states:",
+    "start": 400.899,
+    "duration": 1.846
+  },
+  {
+    "text": "\"What's especially surprising\nabout the Aurora we saw",
+    "start": 402.77,
+    "duration": 3.019
+  },
+  {
+    "text": "is how deep in the\natmosphere it occurs",
+    "start": 405.814,
+    "duration": 2.639
+  },
+  {
+    "text": "- much deeper than at Earth\nor elsewhere on Mars...",
+    "start": 408.478,
+    "duration": 3.226
+  },
+  {
+    "text": "The electrons producing it\nmust be really energetic.\"",
+    "start": 411.729,
+    "duration": 3.44
+  },
+  {
+    "text": "The scientists have concluded that the\nsource of energetic particles is the Sun.",
+    "start": 415.194,
+    "duration": 4.407
+  },
+  {
+    "text": "The report states:",
+    "start": 419.626,
+    "duration": 1.667
+  },
+  {
+    "text": "\"MAVEN's Solar Energetic\nParticle instrument detected",
+    "start": 421.318,
+    "duration": 3.117
+  },
+  {
+    "text": "a huge surge in energetic electrons\nat the onset of the aurora.\"",
+    "start": 424.46,
+    "duration": 4.412
+  },
+  {
+    "text": "These observations are reminiscent\nof a 2014 scientific paper",
+    "start": 429.233,
+    "duration": 4.449
+  },
+  {
+    "text": "which states that charged particles from the\nSun provoke increased lightning on Earth.",
+    "start": 433.707,
+    "duration": 5.25
+  },
+  {
+    "text": "It was the Norwegian\nexperimentalist Kristian Birkeland",
+    "start": 438.982,
+    "duration": 3.279
+  },
+  {
+    "text": "who correctly hypothesized\nin the early 20th century,",
+    "start": 442.286,
+    "duration": 3.167
+  },
+  {
+    "text": "that electric currents from the\nSun power the Earth's Auroras.",
+    "start": 445.478,
+    "duration": 3.956
+  },
+  {
+    "text": "For many decades, the scientific mainstream\nlargely rejected Birkeland's thesis",
+    "start": 449.459,
+    "duration": 4.906
+  },
+  {
+    "text": "favouring instead the idea that Earth's\nmagnetosphere is an impenetrable envelope",
+    "start": 454.39,
+    "duration": 5.062
+  },
+  {
+    "text": "squeezed by the solar wind\nto induce auroral activity.",
+    "start": 459.477,
+    "duration": 4.228
+  },
+  {
+    "text": "Only when satellites detected\nthe magnetic signatures",
+    "start": 463.73,
+    "duration": 3.165
+  },
+  {
+    "text": "of electric currents\nin the aurora, in 1973,",
+    "start": 466.92,
+    "duration": 3.426
+  },
+  {
+    "text": "was Birkeland's hypothesis\nirrefutably validated.",
+    "start": 470.371,
+    "duration": 3.543
+  },
+  {
+    "text": "However, more than a century after\nBirkeland's polar expedition",
+    "start": 473.939,
+    "duration": 4.036
+  },
+  {
+    "text": "to investigate the\nNorthern Lights,",
+    "start": 478.0,
+    "duration": 2.047
+  },
+  {
+    "text": "mainstream scientists still express\nsurprise or even astonishment",
+    "start": 480.072,
+    "duration": 3.86
+  },
+  {
+    "text": "when they observe the tell-tale\nsigns of electrical circuitry",
+    "start": 483.957,
+    "duration": 3.519
+  },
+  {
+    "text": "connecting the Sun\nand the planets.",
+    "start": 487.501,
+    "duration": 2.165
+  },
+  {
+    "text": "In recent years, NASA investigators\nhave observed what they described as",
+    "start": 489.691,
+    "duration": 4.359
+  },
+  {
+    "text": "\"giant magnetic ropes\" that \"connect\"\nEarth's upper atmosphere to the Sun",
+    "start": 494.075,
+    "duration": 5.353
+  },
+  {
+    "text": "and explosions in the outskirts\nof Earth's magnetic field.",
+    "start": 499.453,
+    "duration": 4.111
+  },
+  {
+    "text": "The so-called ropes to which\nthe investigators refer,",
+    "start": 503.589,
+    "duration": 3.246
+  },
+  {
+    "text": "are commonly described in plasma science\nas electrical Birkeland currents,",
+    "start": 506.86,
+    "duration": 4.716
+  },
+  {
+    "text": "named after Kristian Birkeland.",
+    "start": 511.601,
+    "duration": 1.753
+  },
+  {
+    "text": "The rope-like structure\nis not just a curiosity.",
+    "start": 513.379,
+    "duration": 2.862
+  },
+  {
+    "text": "It's the structure taken by current\nflow due to the long-range attraction",
+    "start": 516.266,
+    "duration": 4.29
+  },
+  {
+    "text": "and short-range repulsion\nbetween current filaments.",
+    "start": 520.581,
+    "duration": 3.657
+  },
+  {
+    "text": "The so-called twisted\nmagnetic fields",
+    "start": 524.263,
+    "duration": 2.275
+  },
+  {
+    "text": "are simply the signature of\nthe electric current flow.",
+    "start": 526.563,
+    "duration": 3.423
+  },
+  {
+    "text": "In plasma cosmology, these entwined plasma\nfilaments act as transmission lines",
+    "start": 530.011,
+    "duration": 5.104
+  },
+  {
+    "text": "carrying field aligned currents across\ninterplanetary and interstellar space.",
+    "start": 535.14,
+    "duration": 5.813
+  },
+  {
+    "text": "As stated in many recent\nSpace News episodes,",
+    "start": 540.978,
+    "duration": 3.491
+  },
+  {
+    "text": "each new discovery brings NASA\nscientists closer to finally",
+    "start": 544.494,
+    "duration": 4.105
+  },
+  {
+    "text": "inevitably acknowledging the electrical\ncircuitry throughout the solar system.",
+    "start": 548.624,
+    "duration": 4.998
+  },
+  {
+    "text": "Until this reality fully\ndawns on space scientists,",
+    "start": 553.647,
+    "duration": 3.769
+  },
+  {
+    "text": "the list of surprises\nwill continue to grow.",
+    "start": 557.441,
+    "duration": 3.784
+  },
+  {
+    "text": "For continuous updates on Space\nNews from the Electric Universe,",
+    "start": 563.687,
+    "duration": 3.959
+  },
+  {
+    "text": "stay tuned to",
+    "start": 567.671,
+    "duration": 1.229
+  },
+  {
+    "text": "Thunderbolts.info",
+    "start": 568.925,
+    "duration": 3.924
+  }
+]

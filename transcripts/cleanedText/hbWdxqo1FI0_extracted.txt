@@ -1,0 +1,276 @@
+Welcome to Space News
+from the Electric Universe
+brought to you by
+The Thunderbolts Project™
+at Thunderbolts.info
+A new scientific study has
+proposed a new hypothesis
+for a longstanding mystery
+in atmospheric science.
+For many years scientists have wondered
+why the concentration of electrons
+in Earth's atmosphere suddenly drops in a
+region dozens of miles above the Earth,
+which some call the
+'D-region ledge'.
+According to a recent Space.com
+report, an investigative team
+is now hypothesizing that tiny meteor
+dust particles higher in the atmosphere
+might be responsible for "sucking up"
+the so-called missing electrons.
+One of the study authors says
+of the electron deficiency,
+"It's the most dramatic gradiant
+anywhere in the ionosphere.
+It really is very conspicuous, so
+it's begging for an explanation".
+To place this mystery into a larger context,
+we reached out to Dr. Michael Clarage,
+one of the lead researchers
+of the SAFIRE Project.
+The SAFIRE Project is an independent
+team of researchers building a unique
+plasma discharge chamber to study a
+wide variety of electrical phenomena.
+We asked Dr. Clarage for his
+thoughts on the electrical conditions
+in Earth's environment, and a comment
+on his role on the SAFIRE Team.
+[Dr. Michael] My job on the
+SAFIRE Team is to connect
+astronomical phenomena to experiments
+we can do in the SAFIRE chamber.
+Making the connection between
+something at a planetary scale
+and something happening in the
+lab is always challenging.
+And, we are by no means the first
+to be doing such experiments.
+Since Birkeland's original work in the late
+1800's there have been maybe twenty chambers,
+I know about, built specifically to study
+the Earth's electrical environment.
+To call out just two: In 1974, Dubinin, at
+the Institute of Space Research in Moscow,
+put a magnetized sphere in a vacuum chamber,
+and shot high-energy electrons at it.
+The spatial pattern of electrons
+precipitating onto the sphere
+mimicked electron flows around the
+Earth, into our own magnetosphere.
+That was really a
+breakthrough experiment.
+In 2012, researchers at the
+Russian Academy of Sciences
+also put a dipole magnetized
+sphere into a chamber,
+and blew a wind of
+plasma past the sphere,
+and were able to measure
+electrical potential differences
+across the poles of this
+sphere that are similar
+to electrical structures known
+to exist around the Earth
+where we know that the part of
+the Earth experiencing sunrise
+is at a higher electrical potential than the
+parts of the Earth experiencing sunset.
+Now, that was a very
+impressive experiment
+and really shows that laboratory
+experiments can be very relevant
+to exploring what might be happening
+electrically around planets and stars.
+The SAFIRE chamber is
+considerably more flexible
+than these other two
+chambers I mentioned.
+We are hoping to be able to
+explore a much wider range
+of not only planetary phenomena,
+but also stellar phenomenon.
+The mandate of the SAFIRE
+Team is quite broad:
+to explore electrical phenomena
+at stellar and planetary scales,
+but as to any particular
+theories about
+the electrical nature of planets
+or stars, we are quite agnostic.
+As Monty Childs has sometimes said,
+"we don't have a horse in the race".
+We think that it's important because
+once a research group gets too locked in
+to trying to prove a certain theory,
+or a specific scientific model,
+then they usually end up ignoring
+data that does not fit their model.
+We are going in there with as
+few preconceptions as possible.
+We want the data to lead us to the
+model, not the other way around.
+[Host, Michael] As one moves
+away from the ground on Earth,
+the atmosphere gets more
+rarefied and more energized.
+At around 50 kilometers
+above the ground,
+the atmosphere begins to
+take on plasma properties
+with electrons and ions coexisting
+in a highly conductive medium.
+Some well-known fluctuations
+in electron density
+including the so-called 'missing electrons'
+described as the 'D-region ledge'
+are not easily explained using the
+standard models of the atmosphere.
+We asked Dr. Clarage for
+his thoughts on the recent
+Space.com article which
+describes this mystery.
+[Dr. Michael] The first thing I
+think of when reading this article
+is how far we still have to go
+in terms of describing the large-scale
+electrical structures of planets.
+It is still difficult for many astronomers
+and geophysicists to conceive
+that an entire planet
+might have a charge
+relative to other planets
+or the space around it.
+Even though we know from direct
+measurement, on our own Earth
+that the sky overhead has a
+persistent positive charge
+relative to the ground we stand on,
+and that's around the entire Earth.
+So, that is, the entire sky is charged
+relative to the entire surface of the Earth,
+and that's called the
+'fair-weather potential'.
+I've been following research
+into this for years,
+and most geophysicist are trying to
+describe this assuming the Earth
+is in electrical isolation from
+the rest of the Solar System.
+So, the explanations use only
+lightning, and winds, and heat
+- that is, only events
+happening locally on Earth.
+But, both the fair-weather potential,
+and what the Space.com article called
+'The Case of the Missing Electrons', can
+also be seen as ordinary plasma structures.
+I don't mean to minimize the
+complexity of the systems
+- we are talking about very
+complex systems here -
+I only mean to say,
+it's worth considering
+that all planets are immersed in
+a larger electrical environment.
+These charge separations of
+the fair-weather potential,
+and the persistent electron density
+fluctuations in the ionosphere,
+are examples of plasma
+structures that have been known
+by laboratory plasmas
+physicists for decades.
+And, these structures arise
+when one part of your system
+is at a different electrical
+potential than its surroundings.
+Let me take a minute here, and describe one
+aspect of charge separation in plasma.
+I'm going to place a sphere in a
+vacuum chamber filled with plasma,
+and I put a negative
+charge on that sphere.
+In a plasma the charges can move, so the
+available positive charges is in the chamber
+will be attracted to the negative sphere
+until overall, the charge is neutralized.
+This is understandable, if I put a
+negative charge inside a plasma,
+a bunch of positive charges
+will collect around it.
+And, this is usually the only diagram you'll
+find in most plasma physics textbooks.
+And, the thickness of that
+positive layer can be predicted -
+it's called the Debye length
+of that plasma environment.
+But, as plasma laboratory physicists
+have known for many decades,
+and as we study in the SAFIRE chamber,
+the actual case is often more complex.
+Now, here are a few pictures from the
+SAFIRE chamber showing not just one layer
+of negative-positive, but multiple
+layers of negative-positive fluctuation.
+These results were published in the Journal
+of Plasma Sources, Science and Technology.
+These are beautiful dynamic phenomena
+- I wish more people could be in
+the lab to watch these unfold.
+Each of those layers contains a persistent
+separation of positive and negative charges.
+The electron density ultimately increases and
+decreases as you move through the layers.
+Now, the exact formation is quite dynamic
+and very sensitive to conditions
+such as gas types, electrical
+potential, magnetic fields, etc.
+The whole theory of electrical double
+layers is still in its infancy
+- there's still much
+we do not know.
+Practicing plasma physicists have
+known these layers to rise,
+but, for historical reasons,
+astronomers have believed
+that such charge separations cannot
+arise at the planetary or solar level.
+If we look at the drawing presented
+in the Space.com article,
+you see on the right that
+wavy red line heading up?
+That represents increasing and
+decreasing electron density
+as you move up, away
+from the Earth.
+As the redline wiggles to the right that
+represents increasing electron density,
+as the line wiggles left that's
+decreasing electron density
+- this is the sort of oscillation in
+charge we see in the plasma double layers.
+In other words, if you
+accept that the Earth
+is at a different electrical
+potential than the Sun,
+then this sort of up-and-down fluctuations
+in electron density is expected.
+I'm not trying to oversimplify - the planet's
+ionosphere is a very complicated structure.
+But, if you start with a
+simple electrical hypothesis
+you can predict such features, whereas,
+if you start with the opposite hypothesis
+that a planet cannot be a different
+electrical potential than its Sun,
+then you have to construct
+much more complicated models
+to explain what you see
+happening in the atmosphere.
+To be continued ...
+For continuous updates on Space News
+from the Electric Universe
+stay tuned to
+Thunderbolts.info

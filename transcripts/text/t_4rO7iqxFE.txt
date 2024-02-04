@@ -1,0 +1,922 @@
+[
+  {
+    "text": "[Music]",
+    "start": 4.61,
+    "duration": 3.06
+  },
+  {
+    "text": "The Electric Universe paradigm has an\nunparalleled record of successful predictions",
+    "start": 11.36,
+    "duration": 5.67
+  },
+  {
+    "text": "in the space age. In stark contrast, as\ntelescopes have improved and covered",
+    "start": 17.03,
+    "duration": 5.37
+  },
+  {
+    "text": "more of the electromagnetic spectrum, astronomers\nhave become more perplexed by exoplanets,",
+    "start": 22.4,
+    "duration": 6.0
+  },
+  {
+    "text": "stars and galaxies that shouldn't exist. A few\nbrave souls have declared cosmology to be in crisis,",
+    "start": 28.4,
+    "duration": 8.24
+  },
+  {
+    "text": "but at no time has the belief been shaken\nin Einstein's gravitational cosmology",
+    "start": 36.64,
+    "duration": 5.2
+  },
+  {
+    "text": "and its meaningless Big Bang expanding universe.\nNow, 21st century technology has built",
+    "start": 41.84,
+    "duration": 7.36
+  },
+  {
+    "text": "and prepares to launch the\nJames Webb Space Telescope,",
+    "start": 49.2,
+    "duration": 3.83
+  },
+  {
+    "text": "also known as the JWST or Webb\nSpace Telescope. It is described by",
+    "start": 53.03,
+    "duration": 6.97
+  },
+  {
+    "text": "NASA as “the largest, most powerful\nand complex space telescope",
+    "start": 60.0,
+    "duration": 4.72
+  },
+  {
+    "text": "ever built and launched into\nspace, it will fundamentally",
+    "start": 64.72,
+    "duration": 3.92
+  },
+  {
+    "text": "alter our understanding of the universe.”\nBut fundamental changes in understanding",
+    "start": 68.64,
+    "duration": 6.0
+  },
+  {
+    "text": "are subject to the dead hand of academic peer\nreview, which is governed by a coterie of top",
+    "start": 74.64,
+    "duration": 5.68
+  },
+  {
+    "text": "experts who have a great deal to lose if\nthey don't control the consensus narrative.",
+    "start": 80.32,
+    "duration": 6.15
+  },
+  {
+    "text": "So, there has been no substantial change\nin our understanding of the universe",
+    "start": 86.47,
+    "duration": 4.0
+  },
+  {
+    "text": "since the middle of the 20th century. Instead,\nthe narrative has simply become more and",
+    "start": 90.47,
+    "duration": 5.37
+  },
+  {
+    "text": "more complicated as barnacles of ad-hoc\ntheory have encrusted the Titanic of",
+    "start": 95.84,
+    "duration": 5.16
+  },
+  {
+    "text": "institutionalized science. Fundamental\nchanges break the consensus.",
+    "start": 101.0,
+    "duration": 6.52
+  },
+  {
+    "text": "They're the icebergs awaiting sciences’ Titanic.\nSo, fundamental changes almost always come from",
+    "start": 107.52,
+    "duration": 7.12
+  },
+  {
+    "text": "individuals on the fringe. The field\nis wide open for the successfully",
+    "start": 114.64,
+    "duration": 5.04
+  },
+  {
+    "text": "predictive Electric Universe cosmology to be\ncritically tested by the new Webb Space Telescope.",
+    "start": 119.68,
+    "duration": 8.95
+  },
+  {
+    "text": "NASA states, “The Webb Space Telescope is\nan orbiting infrared observatory that will",
+    "start": 128.63,
+    "duration": 6.32
+  },
+  {
+    "text": "complement and extend the discoveries\nof the Hubble Space Telescope",
+    "start": 134.95,
+    "duration": 4.25
+  },
+  {
+    "text": "with longer wavelength coverage\nand greatly improved sensitivity.",
+    "start": 139.2,
+    "duration": 4.64
+  },
+  {
+    "text": "The longer wavelengths enable Webb to\nlook much closer to the beginning of time",
+    "start": 143.84,
+    "duration": 5.03
+  },
+  {
+    "text": "and to hunt for the unobserved formation of\nthe first galaxies, as well as to look inside dust",
+    "start": 148.87,
+    "duration": 6.49
+  },
+  {
+    "text": "clouds where stars and planetary systems\nare forming today.” Observe this aim is",
+    "start": 155.36,
+    "duration": 6.95
+  },
+  {
+    "text": "unscientific and therefore unlikely to fundamentally\nalter our understanding of the universe,",
+    "start": 162.31,
+    "duration": 5.77
+  },
+  {
+    "text": "since it presumes only the consensus Big\nBang gravitational paradigm for study.",
+    "start": 168.08,
+    "duration": 5.84
+  },
+  {
+    "text": "We've seen that to maintain this narrative,\nthere has been an endless introduction of ad-hoc",
+    "start": 173.92,
+    "duration": 4.56
+  },
+  {
+    "text": "forces, particles and impossible objects\nlike neutron stars and black holes.",
+    "start": 178.48,
+    "duration": 5.36
+  },
+  {
+    "text": "Meanwhile in the 1960’s plasma\ncosmology was introduced by Hannes Alfven,",
+    "start": 183.84,
+    "duration": 5.75
+  },
+  {
+    "text": "a plasma scientist who won the 1970\nNobel prize in physics for his research.",
+    "start": 189.59,
+    "duration": 5.92
+  },
+  {
+    "text": "Plasma cosmology is a model of the universe\nin which plasma and electromagnetic forces",
+    "start": 195.51,
+    "duration": 5.61
+  },
+  {
+    "text": "play a dominant role on the galactic scale. It's\nbased heavily on observation and experiment,",
+    "start": 201.12,
+    "duration": 7.28
+  },
+  {
+    "text": "but due to specialism in the\n20th century, it's studiously",
+    "start": 208.4,
+    "duration": 3.6
+  },
+  {
+    "text": "ignored by astrophysicists. They\nignore Alfven's Nobel speech warning",
+    "start": 212.0,
+    "duration": 6.23
+  },
+  {
+    "text": "that their treatment of space plasma\nas a mysteriously magnetized fluid,",
+    "start": 218.23,
+    "duration": 4.56
+  },
+  {
+    "text": "is fundamentally flawed. Meanwhile,\nplasma cosmologists produced the spiral",
+    "start": 222.79,
+    "duration": 5.77
+  },
+  {
+    "text": "shape and non-gravitational rotation of\na classic spiral galaxy experimentally,",
+    "start": 228.56,
+    "duration": 5.92
+  },
+  {
+    "text": "and with supercomputer models. When\nthey included the weak force of gravity in",
+    "start": 234.48,
+    "duration": 4.95
+  },
+  {
+    "text": "the computer models, it had no\nappreciable effect. Such experimentation",
+    "start": 239.43,
+    "duration": 5.29
+  },
+  {
+    "text": "and simplification are\nhallmarks of classical physics.",
+    "start": 244.72,
+    "duration": 4.0
+  },
+  {
+    "text": "Galaxies are governed by electromagnetic\nforces, not by gravity. Well-organized galactic",
+    "start": 248.72,
+    "duration": 7.84
+  },
+  {
+    "text": "magnetic fields have more recently been\nmapped and conform to plasma cosmology.",
+    "start": 256.56,
+    "duration": 5.35
+  },
+  {
+    "text": "Such fields are unexpected and\nunexplained in gravitational theory.",
+    "start": 261.91,
+    "duration": 5.45
+  },
+  {
+    "text": "This alone knocks out the gravitational\nfoundation of Big Bang cosmology.",
+    "start": 267.36,
+    "duration": 5.44
+  },
+  {
+    "text": "Imaginary black holes and dark matter are not\nrequired. All we know about the force of gravity",
+    "start": 272.8,
+    "duration": 6.39
+  },
+  {
+    "text": "is that Newton's law operates within\nthe present orderly solar system.",
+    "start": 279.19,
+    "duration": 4.89
+  },
+  {
+    "text": "We can't presume peacefulness in the\nsolar system for most of Earth's history.",
+    "start": 284.08,
+    "duration": 4.48
+  },
+  {
+    "text": "That's merely wishful thinking and flies\nin the face of geological evidence of",
+    "start": 288.56,
+    "duration": 4.24
+  },
+  {
+    "text": "past global paroxysms. And the notion that Newton's\nlaw of gravity and the gravitational constant",
+    "start": 292.8,
+    "duration": 6.72
+  },
+  {
+    "text": "as measured on the Earth, applies\nuniversally, is characteristically",
+    "start": 299.52,
+    "duration": 4.88
+  },
+  {
+    "text": "geocentric and myopic, when you consider our\nshort history and the discovery that gravity theory",
+    "start": 304.4,
+    "duration": 5.76
+  },
+  {
+    "text": "doesn't work at the galactic scale. So,\nlet's first get Big Bang history right.",
+    "start": 310.16,
+    "duration": 7.2
+  },
+  {
+    "text": "The Belgian priest-astronomer Georges\nLemaitre is usually identified as the",
+    "start": 317.36,
+    "duration": 4.32
+  },
+  {
+    "text": "first to theorize that the recession of\nnearby galaxies can be explained by an",
+    "start": 321.68,
+    "duration": 5.12
+  },
+  {
+    "text": "expanding universe. Einstein is\nsupposed to have said and I quote,",
+    "start": 326.8,
+    "duration": 5.67
+  },
+  {
+    "text": "”This is the most beautiful and\nsatisfactory explanation of creation to",
+    "start": 332.47,
+    "duration": 3.61
+  },
+  {
+    "text": "which I have ever listened.” End\nquote. But we can forget Einstein.",
+    "start": 336.08,
+    "duration": 5.2
+  },
+  {
+    "text": "He did away with the force of gravity\nand try telling someone who has just",
+    "start": 341.28,
+    "duration": 4.47
+  },
+  {
+    "text": "fallen over that it was the Earth’s warping\nof space-time that told him to hit the ground.",
+    "start": 345.75,
+    "duration": 6.09
+  },
+  {
+    "text": "Two years after Lemaitre's epiphany, Edwin Hubble\nprovided evidence that the velocity of a galaxy",
+    "start": 351.84,
+    "duration": 5.68
+  },
+  {
+    "text": "away from us, increases with its distance from\nus, a property now known as Hubble's law.",
+    "start": 357.52,
+    "duration": 7.36
+  },
+  {
+    "text": "The Hubble law implies that the universe is\nexpanding. But that simply assumes the redshift of",
+    "start": 364.88,
+    "duration": 6.08
+  },
+  {
+    "text": "faint galaxies is due almost entirely to the Doppler\neffect, which is the increase in wavelength and",
+    "start": 370.96,
+    "duration": 5.84
+  },
+  {
+    "text": "consequent lowering of frequency of\nthe light from a fast receding object.",
+    "start": 376.8,
+    "duration": 5.76
+  },
+  {
+    "text": "Mathematicians jumped on Hubble's law\nfor their new creation myth by retro-",
+    "start": 382.56,
+    "duration": 4.07
+  },
+  {
+    "text": "calculating to a point origin in a\nmagical Big Bang. They now tell us",
+    "start": 386.63,
+    "duration": 5.45
+  },
+  {
+    "text": "with religious fervor how the\nuniverse began and how it may end.",
+    "start": 392.08,
+    "duration": 4.8
+  },
+  {
+    "text": "What we are not told is that Edwin\nHubble termed his famous discovery a",
+    "start": 396.88,
+    "duration": 4.72
+  },
+  {
+    "text": "”...redshift versus apparent-distance\nrelationship.” Wisely, Hubble didn't accept his",
+    "start": 401.6,
+    "duration": 8.31
+  },
+  {
+    "text": "discovery as proof the universe is expanding.\nRather than signifying that some faint",
+    "start": 409.91,
+    "duration": 5.37
+  },
+  {
+    "text": "galaxies are accelerating away from us\nat a good fraction of the speed of light,",
+    "start": 415.28,
+    "duration": 4.47
+  },
+  {
+    "text": "Hubble maintained that it was likely\nsome new physics was involved.",
+    "start": 419.75,
+    "duration": 4.56
+  },
+  {
+    "text": "This was later proved by the astronomer Dr.\nHalton Arp, who became known by his followers,",
+    "start": 424.31,
+    "duration": 5.37
+  },
+  {
+    "text": "including some leading astronomers, as the\nmodern-day Galileo, following his banishment by the",
+    "start": 429.68,
+    "duration": 6.0
+  },
+  {
+    "text": "mathematical priesthood of Big Bang cosmology.\nLike Galileo and Hubble, Arp worked",
+    "start": 435.68,
+    "duration": 6.4
+  },
+  {
+    "text": "directly from telescopic observations.\nHe studied the photographic plates and",
+    "start": 442.08,
+    "duration": 5.04
+  },
+  {
+    "text": "lined his office walls with images of galaxies.\nHe produced the Atlas of Peculiar Galaxies.",
+    "start": 447.12,
+    "duration": 6.79
+  },
+  {
+    "text": "By careful observation he found physical\nlinks between high-redshift quasars and",
+    "start": 453.91,
+    "duration": 4.65
+  },
+  {
+    "text": "low-redshift active galaxies, which\nproved Hubble was right. High",
+    "start": 458.56,
+    "duration": 5.19
+  },
+  {
+    "text": "redshift is not evidence for an expanding\nuniverse. Arp's research into high-redshift",
+    "start": 463.75,
+    "duration": 5.93
+  },
+  {
+    "text": "quasars shows they are local. The\nuniverse is of unknown age and extent",
+    "start": 469.68,
+    "duration": 5.44
+  },
+  {
+    "text": "and is essentially static. A Big Bang never\nhappened. The origin of the universe,",
+    "start": 475.12,
+    "duration": 7.12
+  },
+  {
+    "text": "if that has any real meaning, is well\nbeyond our present deeply flawed science.",
+    "start": 482.24,
+    "duration": 6.88
+  },
+  {
+    "text": "Let me explain quasars. When\ndiscovered in the early 1960’s,",
+    "start": 489.12,
+    "duration": 4.63
+  },
+  {
+    "text": "quasars were utterly mysterious. In 1963\nthe Dutch astronomer Maarten Schmidt",
+    "start": 493.75,
+    "duration": 7.12
+  },
+  {
+    "text": "solved the mystery of quasar spectral\nlines when he discovered they were",
+    "start": 500.87,
+    "duration": 3.6
+  },
+  {
+    "text": "highly redshifted. This placed the brightest\none, 3C 273 about 1.5 billion lightyears away.",
+    "start": 504.47,
+    "duration": 9.29
+  },
+  {
+    "text": "The radio astronomer Gerrit Verschuur wrote\nquote, ”What could possibly look like a star,",
+    "start": 513.76,
+    "duration": 6.24
+  },
+  {
+    "text": "produce tremendously strong radio waves,\nresemble double radio galaxies and yet",
+    "start": 520.0,
+    "duration": 5.83
+  },
+  {
+    "text": "produce so much energy? The full\nmystery of the quasar becomes",
+    "start": 525.83,
+    "duration": 4.41
+  },
+  {
+    "text": "more profound when all the information is considered\ntogether. They are very far away and the luminous",
+    "start": 530.24,
+    "duration": 5.76
+  },
+  {
+    "text": "cores are very small. At the distances inferred\nby the redshift, quasars emit the energy",
+    "start": 536.0,
+    "duration": 5.92
+  },
+  {
+    "text": "equivalent of 100 billion stars like the\nSun, all the energy being generated in a",
+    "start": 541.92,
+    "duration": 5.28
+  },
+  {
+    "text": "volume of space not much larger than the solar\nsystem.” End quote. To make matters worse, it was",
+    "start": 547.2,
+    "duration": 7.19
+  },
+  {
+    "text": "found that quasar 3C 273 underwent\nsudden changes in brightness",
+    "start": 554.39,
+    "duration": 4.33
+  },
+  {
+    "text": "over a period of 80 years. Verschuur notes\n“This incredible discovery was also completely",
+    "start": 558.72,
+    "duration": 7.44
+  },
+  {
+    "text": "unexpected.” The sudden changes in brightness\nwere found to be associated with blobs of",
+    "start": 566.16,
+    "duration": 6.79
+  },
+  {
+    "text": "matter being blasted out in jets at irregular\nintervals. At the assumed redshift distance of the",
+    "start": 572.95,
+    "duration": 5.85
+  },
+  {
+    "text": "quasars, those blobs were\napparently moving faster than light.",
+    "start": 578.8,
+    "duration": 6.64
+  },
+  {
+    "text": "Halton Arp published a paper in 2007,\n’Quasars and the Hubble relation’,",
+    "start": 585.44,
+    "duration": 5.44
+  },
+  {
+    "text": "in which he states “...a continuity\nexists in redshift from the highest",
+    "start": 590.88,
+    "duration": 5.36
+  },
+  {
+    "text": "redshift quasars to low redshift Seyferts,\nactive galaxies and allied galaxies.",
+    "start": 596.24,
+    "duration": 6.56
+  },
+  {
+    "text": "Evidence is discussed for this sequence\nto be an evolutionary track with objects",
+    "start": 602.8,
+    "duration": 4.24
+  },
+  {
+    "text": "evolving from high to low intrinsic redshift with\ntime. At the end of this evolution the objects",
+    "start": 607.04,
+    "duration": 7.03
+  },
+  {
+    "text": "are nearly the same age as our own\ngalaxy...” In the case of quasar 3C273",
+    "start": 614.07,
+    "duration": 8.49
+  },
+  {
+    "text": "the odds are 100 trillion to 1 against Arp being\nwrong. Remarkably, Arp found the quasar's",
+    "start": 622.56,
+    "duration": 7.51
+  },
+  {
+    "text": "redshift decreases discontinuously, in\nquantized steps, and their mass and brightness",
+    "start": 630.07,
+    "duration": 6.41
+  },
+  {
+    "text": "increase as they move away from their parent,\nslowing down to eventually form companion galaxies.",
+    "start": 636.48,
+    "duration": 7.28
+  },
+  {
+    "text": "Quantization of redshift verifies that it\nis intrinsic to the matter in the quasar,",
+    "start": 643.76,
+    "duration": 6.07
+  },
+  {
+    "text": "rather than anything to do with the\nlight on its journey to the Earth,",
+    "start": 649.83,
+    "duration": 4.09
+  },
+  {
+    "text": "which solves most of the quasar mysteries at a\nstroke. They are not at the edge of the visible",
+    "start": 653.92,
+    "duration": 6.15
+  },
+  {
+    "text": "universe. They are local, small and\nfaint, and not moving faster than light.",
+    "start": 660.07,
+    "duration": 6.57
+  },
+  {
+    "text": "Arp's evolutionary sequence adds a pleasing\nbiological nuance to plasma cosmology",
+    "start": 666.64,
+    "duration": 5.68
+  },
+  {
+    "text": "which, instead of a black hole, has a\ndoughnut-shaped electromagnetic plasmoid",
+    "start": 672.32,
+    "duration": 4.88
+  },
+  {
+    "text": "at the galactic center. The plasmoid is formed\nby electric current fed radially into the galactic",
+    "start": 677.2,
+    "duration": 6.48
+  },
+  {
+    "text": "center in the case of a spiral\ngalaxy along the spiral arms.",
+    "start": 683.68,
+    "duration": 5.44
+  },
+  {
+    "text": "The current produces the ordered galactic\nmagnetic field. A similar plasmoid, produced in a",
+    "start": 689.12,
+    "duration": 6.8
+  },
+  {
+    "text": "laboratory, is the most extremely\ncompact and complex form of electrical",
+    "start": 695.92,
+    "duration": 4.72
+  },
+  {
+    "text": "energy storage known. The\nlab plasmoid is formed by a radial",
+    "start": 700.64,
+    "duration": 5.12
+  },
+  {
+    "text": "plasma discharge between a central conductor,\nand a concentric outer conductor, which mimics",
+    "start": 705.76,
+    "duration": 6.63
+  },
+  {
+    "text": "plasma cosmology's galactic circuit.\nLaboratory plasmoids are observed to",
+    "start": 712.39,
+    "duration": 6.49
+  },
+  {
+    "text": "emit intense beams of neutrons axially\nas they lose energy. The Electric",
+    "start": 718.88,
+    "duration": 5.28
+  },
+  {
+    "text": "Universe model proposes that when the\nenergy density inside the surface of the",
+    "start": 724.16,
+    "duration": 4.0
+  },
+  {
+    "text": "plasmoid nearest the axis is sufficient to\nform neutrons from protons and electrons,",
+    "start": 728.16,
+    "duration": 6.23
+  },
+  {
+    "text": "the neutrons escape axially from\nthe plasmoid's intense magnetic field",
+    "start": 734.39,
+    "duration": 4.65
+  },
+  {
+    "text": "to subsequently decay into a beam of electrons and\nprotons. On leaving the active galactic plasmoid,",
+    "start": 739.04,
+    "duration": 8.16
+  },
+  {
+    "text": "the light electrons spiral in the galactic\nmagnetic field, more than the heavier protons.",
+    "start": 747.2,
+    "duration": 6.8
+  },
+  {
+    "text": "The result is an electron-deficient\nsmaller plasmoid, or quasar,",
+    "start": 754.0,
+    "duration": 5.27
+  },
+  {
+    "text": "jetted along the active\ngalactic plasmoid's umbilical",
+    "start": 759.27,
+    "duration": 3.45
+  },
+  {
+    "text": "intergalactic Birkeland current. The\ncoaxial galactic Birkeland current,",
+    "start": 762.72,
+    "duration": 5.91
+  },
+  {
+    "text": "identified by its magnetic field structure,\nacts like a cosmic dense plasma focus.",
+    "start": 768.63,
+    "duration": 6.97
+  },
+  {
+    "text": "Mapping the magnetic field in a jet\nalong one of these intergalactic",
+    "start": 775.6,
+    "duration": 4.08
+  },
+  {
+    "text": "Birkeland currents, has shown the\ncurrent to be on the order of 10",
+    "start": 779.68,
+    "duration": 4.15
+  },
+  {
+    "text": "billion billion amps. The knots seen in\ngalactic jets are embryonic galaxies.",
+    "start": 783.83,
+    "duration": 7.85
+  },
+  {
+    "text": "The Electric Universe further explains\nArp's quantized redshift and increasing",
+    "start": 791.68,
+    "duration": 4.15
+  },
+  {
+    "text": "mass and brightness of quasars.\nThe umbilical galactic Birkeland current",
+    "start": 795.83,
+    "duration": 5.21
+  },
+  {
+    "text": "has an axial current surrounded by a more\nnegative current cylinder, rather like a",
+    "start": 801.04,
+    "duration": 5.52
+  },
+  {
+    "text": "cosmic coaxial cable. It effectively imitates\nthe dense plasma focus device’s structure.",
+    "start": 806.56,
+    "duration": 7.27
+  },
+  {
+    "text": "Electrons from the cylinder flow\nradially into the axial quasar,",
+    "start": 813.83,
+    "duration": 4.41
+  },
+  {
+    "text": "powering its embryonic plasmoid and, quickly\nat first, increasing the charge polarization of",
+    "start": 818.24,
+    "duration": 6.64
+  },
+  {
+    "text": "its subatomic particles and consequently,\nits particles’ energies and masses",
+    "start": 824.88,
+    "duration": 6.16
+  },
+  {
+    "text": "in quantized jumps. That gives rise\nto its increasing brightness and the",
+    "start": 831.04,
+    "duration": 5.03
+  },
+  {
+    "text": "quantized decreases in redshift,\nand slowing of the quasar due to",
+    "start": 836.07,
+    "duration": 4.17
+  },
+  {
+    "text": "conservation of momentum. Arp's\ndiscovery demonstrates a galactic- scale",
+    "start": 840.24,
+    "duration": 5.83
+  },
+  {
+    "text": "quantum effect. In summary, the active\ngalactic nucleus is the plasmoid womb",
+    "start": 846.07,
+    "duration": 6.17
+  },
+  {
+    "text": "and origin of the jets and the matter forming\nquasars, or embryonic galactic plasmoids.",
+    "start": 852.24,
+    "duration": 7.59
+  },
+  {
+    "text": "This simply explains the phenomenal\njets and radio-lobes of both parent",
+    "start": 859.83,
+    "duration": 4.89
+  },
+  {
+    "text": "and child. Halton Arp’s research\nshowed sensibly the universe",
+    "start": 864.72,
+    "duration": 5.28
+  },
+  {
+    "text": "is of unknown age and extent. It is not collapsing\nunder gravity, or mysteriously expanding.",
+    "start": 870.0,
+    "duration": 6.63
+  },
+  {
+    "text": "As nature repeatedly demonstrates, it is in balance.\nArp realized this raised a serious issue, because it",
+    "start": 876.63,
+    "duration": 7.93
+  },
+  {
+    "text": "implies that gravity between\ncelestial bodies, must be repulsive.",
+    "start": 884.56,
+    "duration": 4.39
+  },
+  {
+    "text": "Otherwise, balance is impossible.\nOf course this is completely counter-",
+    "start": 888.95,
+    "duration": 5.21
+  },
+  {
+    "text": "intuitive, because we experience gravity\nonly as an attractive force. But there",
+    "start": 894.16,
+    "duration": 5.52
+  },
+  {
+    "text": "are historical precedents for a theory of repulsive\ngravity, which was first proposed in the 1690’s by",
+    "start": 899.68,
+    "duration": 6.64
+  },
+  {
+    "text": "Ncolas Fatio de Duillier and considered\nat the time by Sir Isaac Newton.",
+    "start": 906.32,
+    "duration": 6.4
+  },
+  {
+    "text": "Arp studied a later theory known as Le Sage’s\ntheory of gravity. Theoretically it works",
+    "start": 912.72,
+    "duration": 6.23
+  },
+  {
+    "text": "by a shadowing effect under bombard-\nment from all directions by strange",
+    "start": 918.95,
+    "duration": 3.68
+  },
+  {
+    "text": "high-speed particles, but no plausible\nparticle impact mechanism could be found.",
+    "start": 922.63,
+    "duration": 6.09
+  },
+  {
+    "text": "However, as I've argued in the past,\ngravity is a subatomic dipolar electric force",
+    "start": 928.72,
+    "duration": 6.96
+  },
+  {
+    "text": "which for all celestial bodies has one pole\nfacing outwards and the other inwards.",
+    "start": 935.68,
+    "duration": 4.8
+  },
+  {
+    "text": "It's equivalent to having spherical\nmagnets with the same surface polarity.",
+    "start": 940.48,
+    "duration": 5.03
+  },
+  {
+    "text": "This side-steps the problems with Le Sage’s theory.\nWe experience gravity as an attractive",
+    "start": 945.51,
+    "duration": 6.17
+  },
+  {
+    "text": "force, simply because we are as much\na part of the Earth as are the air,",
+    "start": 951.68,
+    "duration": 3.83
+  },
+  {
+    "text": "rocks and water. We are polarized within the\nEarth's gravitational sphere of influence,",
+    "start": 955.51,
+    "duration": 5.85
+  },
+  {
+    "text": "like iron filing stuck to a magnet The\nJames Webb Telescope has the power",
+    "start": 961.36,
+    "duration": 5.44
+  },
+  {
+    "text": "to see fainter red-shifted quasars,\nmore clearly than before.",
+    "start": 966.8,
+    "duration": 4.15
+  },
+  {
+    "text": "So, my first prediction is that the\nJames Webb Telescope will support",
+    "start": 970.95,
+    "duration": 4.49
+  },
+  {
+    "text": "Halton Arp’s research, which shows\nplainly that high-redshift quasars are",
+    "start": 975.44,
+    "duration": 4.95
+  },
+  {
+    "text": "born in pairs and emitted in oppositely directed\njets, along the spin axis of a low redshift",
+    "start": 980.39,
+    "duration": 6.17
+  },
+  {
+    "text": "active galaxy. They are not at\nthe edge of the visible universe.",
+    "start": 986.56,
+    "duration": 4.95
+  },
+  {
+    "text": "They are in the neighborhood of their parent\ngalaxy. Therefore they are not incredibly",
+    "start": 991.51,
+    "duration": 5.44
+  },
+  {
+    "text": "distant, bright and large. There is no superluminal\nmotion. They are nearby and youthfully faint.",
+    "start": 996.95,
+    "duration": 8.65
+  },
+  {
+    "text": "By carefully tracking quasar redshift evolution,\nwe will see the transformation from a naked,",
+    "start": 1005.6,
+    "duration": 6.32
+  },
+  {
+    "text": "high-velocity and low-mass plasmoid, to a\nlow-velocity high-mass companion galaxy.",
+    "start": 1011.92,
+    "duration": 8.0
+  },
+  {
+    "text": "Experimental tests of active galactic\nnucleus behavior by plasma cosmologists",
+    "start": 1019.92,
+    "duration": 4.8
+  },
+  {
+    "text": "should be possible using the\ndense plasma focus device.",
+    "start": 1024.72,
+    "duration": 4.39
+  },
+  {
+    "text": "In other words, a return to real physics.\nTheoretical physicists on the other hand",
+    "start": 1029.11,
+    "duration": 5.84
+  },
+  {
+    "text": "have failed to self-correct their theories for\na century. It is time for plasma and Electric",
+    "start": 1034.95,
+    "duration": 6.64
+  },
+  {
+    "text": "Universe cosmology to\nexplain Halton Arp’s universe.",
+    "start": 1041.59,
+    "duration": 10.46
+  },
+  {
+    "text": "[Music]",
+    "start": 1052.05,
+    "duration": 11.05
+  },
+  {
+    "text": "[Music]",
+    "start": 1072.85,
+    "duration": 5.55
+  }
+]

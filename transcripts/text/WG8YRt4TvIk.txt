@@ -1,0 +1,1877 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe,",
+    "start": 7.14,
+    "duration": 2.89
+  },
+  {
+    "text": "brought to you by The\nThunderbolts Project™",
+    "start": 10.06,
+    "duration": 2.37
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 12.45,
+    "duration": 3.56
+  },
+  {
+    "text": "We have created this\nspecial Top 10 series",
+    "start": 16.61,
+    "duration": 2.72
+  },
+  {
+    "text": "to highlight the most compelling evidences\nfor the dominant role of electromagnetism",
+    "start": 19.36,
+    "duration": 4.78
+  },
+  {
+    "text": "at all scales\nthroughout the cosmos.",
+    "start": 24.16,
+    "duration": 2.17
+  },
+  {
+    "text": "Thanks to ever finer\ntechnological data",
+    "start": 26.36,
+    "duration": 3.11
+  },
+  {
+    "text": "the existence of electric currents\ntraveling through space is now undeniable",
+    "start": 29.49,
+    "duration": 4.69
+  },
+  {
+    "text": "and is more and more routinely acknowledged\nby astronomers and astrophysicists.",
+    "start": 34.21,
+    "duration": 5.06
+  },
+  {
+    "text": "Yet the ramifications of this\nrevelation have been slow",
+    "start": 39.3,
+    "duration": 3.55
+  },
+  {
+    "text": "in affecting any meaningful change\nin consensus scientific theory.",
+    "start": 42.88,
+    "duration": 4.09
+  },
+  {
+    "text": "A major obstacle is\na lingering belief",
+    "start": 46.97,
+    "duration": 2.87
+  },
+  {
+    "text": "that science discovery has\nemphatically contradicted",
+    "start": 49.87,
+    "duration": 3.29
+  },
+  {
+    "text": "that celestial objects cannot\nhave any net charge separation.",
+    "start": 53.18,
+    "duration": 4.68
+  },
+  {
+    "text": "It is then not a coincidence that objects\nin space (are) behaving like charged bodies",
+    "start": 57.86,
+    "duration": 5.4
+  },
+  {
+    "text": "from the mysterious\ncollimated jets of comets",
+    "start": 63.28,
+    "duration": 3.7
+  },
+  {
+    "text": "to the spectacular sprites and elves\nseen on our own planet's upper atmosphere,",
+    "start": 67.0,
+    "duration": 5.55
+  },
+  {
+    "text": "to the catastrophic electrical discharges\nfocused on stars producing supernova explosions,",
+    "start": 73.16,
+    "duration": 6.78
+  },
+  {
+    "text": "to extra-galactic jets traveling at nearly the\nspeed of light over a million light years or more.",
+    "start": 80.77,
+    "duration": 6.43
+  },
+  {
+    "text": "Today, we will explore why the high-energy\nelectrical scarring of bodies in our solar system",
+    "start": 87.23,
+    "duration": 5.7
+  },
+  {
+    "text": "is the 8th of ten reasons why\nthe universe is electric.",
+    "start": 92.95,
+    "duration": 3.89
+  },
+  {
+    "text": "The Electrical Scarring\nof Planets and Moons",
+    "start": 96.86,
+    "duration": 3.7
+  },
+  {
+    "text": "The myth of a solar system\nthat has remained unchanged",
+    "start": 100.58,
+    "duration": 3.18
+  },
+  {
+    "text": "since its hypothetical formation\n4.5 billion years ago, has now crumbled.",
+    "start": 103.79,
+    "duration": 5.08
+  },
+  {
+    "text": "As we've reported in many\nepisodes in recent years,",
+    "start": 108.89,
+    "duration": 3.53
+  },
+  {
+    "text": "the standard theory of planets and\nstars forming in a nebular cloud",
+    "start": 112.45,
+    "duration": 3.6
+  },
+  {
+    "text": "from gravitational\ncollapse and accretion",
+    "start": 116.08,
+    "duration": 2.7
+  },
+  {
+    "text": "finds no support in the thousands of\nexoplanetary systems discovered to date.",
+    "start": 118.81,
+    "duration": 4.95
+  },
+  {
+    "text": "As astronomer Gregory Laughlin\ntold the journal Nature in 2014;",
+    "start": 123.78,
+    "duration": 4.56
+  },
+  {
+    "text": "using our solar\nsystem as a model has,",
+    "start": 128.37,
+    "duration": 2.8
+  },
+  {
+    "text": "\"...led to no success in\nextrapolating what's out there.\"",
+    "start": 131.19,
+    "duration": 3.66
+  },
+  {
+    "text": "So different as our solar\nsystem seems to be",
+    "start": 134.88,
+    "duration": 2.53
+  },
+  {
+    "text": "that astronomers now increasingly entertain\nthe notion of planetary migration.",
+    "start": 137.43,
+    "duration": 5.05
+  },
+  {
+    "text": "As noted in a recent\nphys.org report,",
+    "start": 142.5,
+    "duration": 2.84
+  },
+  {
+    "text": "\"...in our solar system the inner planets have\nsurprisingly large spacing and diverse sizes.",
+    "start": 145.36,
+    "duration": 5.61
+  },
+  {
+    "text": "Abundant evidence in the\nsolar system suggests",
+    "start": 151.0,
+    "duration": 2.88
+  },
+  {
+    "text": "that Jupiter and Saturn disrupted\nour system's early structure,",
+    "start": 153.91,
+    "duration": 3.75
+  },
+  {
+    "text": "resulting in the four widely-spaced\nterrestrial planets we have today.\"",
+    "start": 157.68,
+    "duration": 4.5
+  },
+  {
+    "text": "Some astronomers\ntoday now suggest",
+    "start": 162.2,
+    "duration": 2.49
+  },
+  {
+    "text": "that these gas giants acted\nas so-called wrecking balls",
+    "start": 164.71,
+    "duration": 3.43
+  },
+  {
+    "text": "migrating toward the inner solar system\ndestroying an early generation of planets",
+    "start": 168.17,
+    "duration": 5.12
+  },
+  {
+    "text": "and robbing the planet Mars\nof its lighter elements.",
+    "start": 173.31,
+    "duration": 3.23
+  },
+  {
+    "text": "The gas giants may have indeed\nacted as \"wrecking balls\"",
+    "start": 176.57,
+    "duration": 4.43
+  },
+  {
+    "text": "though not through mechanical\ncollisions and tidal forces,",
+    "start": 181.02,
+    "duration": 3.3
+  },
+  {
+    "text": "but rather through bodies of different\npotentials discharging electrically.",
+    "start": 184.35,
+    "duration": 4.54
+  },
+  {
+    "text": "As we will see,",
+    "start": 188.9,
+    "duration": 1.58
+  },
+  {
+    "text": "the experimentally proven ability of\nhigh-energy electrical discharges",
+    "start": 190.51,
+    "duration": 4.14
+  },
+  {
+    "text": "to produce craters, and countless\nother planetary features,",
+    "start": 194.67,
+    "duration": 3.22
+  },
+  {
+    "text": "offers an entirely new\nperspective on planetary science",
+    "start": 197.9,
+    "duration": 3.68
+  },
+  {
+    "text": "and the solar system's history.",
+    "start": 201.61,
+    "duration": 1.77
+  },
+  {
+    "text": "The Moon",
+    "start": 203.79,
+    "duration": 1.81
+  },
+  {
+    "text": "The most heavily studied rocky body in\nthe solar system outside of the earth",
+    "start": 205.63,
+    "duration": 4.5
+  },
+  {
+    "text": "is of course the moon.",
+    "start": 210.16,
+    "duration": 1.56
+  },
+  {
+    "text": "When the first space probes\nreturned images of the moon",
+    "start": 211.74,
+    "duration": 3.48
+  },
+  {
+    "text": "they revealed a surface heavily\npockmarked with craters",
+    "start": 215.25,
+    "duration": 3.05
+  },
+  {
+    "text": "and riddled with long sinuous\nchannels called rills.",
+    "start": 218.32,
+    "duration": 3.8
+  },
+  {
+    "text": "Scientists seeking to\ninterpret these features",
+    "start": 222.12,
+    "duration": 2.7
+  },
+  {
+    "text": "were constrained by the\ntraditional geologic toolkit.",
+    "start": 224.84,
+    "duration": 3.3
+  },
+  {
+    "text": "The \"debate\" over the lunar craters only\nincluded two possible causative agents,",
+    "start": 228.17,
+    "duration": 5.94
+  },
+  {
+    "text": "volcanism or impact.",
+    "start": 234.13,
+    "duration": 2.42
+  },
+  {
+    "text": "Eventually, a consensus was\nreached that meteoritic impacts",
+    "start": 236.58,
+    "duration": 3.63
+  },
+  {
+    "text": "were the primary source\nof the lunar craters.",
+    "start": 240.24,
+    "duration": 2.77
+  },
+  {
+    "text": "The moon and some other bodies in the\nsolar system are so heavily cratered",
+    "start": 243.03,
+    "duration": 4.39
+  },
+  {
+    "text": "that astronomers invented a violent\nepoch called 'The Late Heavy Bombardment'",
+    "start": 247.45,
+    "duration": 4.62
+  },
+  {
+    "text": "a hypothetical period when\ndisproportionate numbers of asteroids",
+    "start": 252.1,
+    "duration": 3.96
+  },
+  {
+    "text": "supposedly collided with planets\nin the inner solar system.",
+    "start": 256.08,
+    "duration": 3.5
+  },
+  {
+    "text": "One reason for the hypothesis is\nthat isotopic dating of moon rocks",
+    "start": 259.6,
+    "duration": 4.3
+  },
+  {
+    "text": "seems to imply that the so-called\nimpacts that caused rocks to melt",
+    "start": 263.93,
+    "duration": 3.44
+  },
+  {
+    "text": "appear to have happened over a\nrelatively short period of time.",
+    "start": 267.4,
+    "duration": 3.71
+  },
+  {
+    "text": "But like countless other discoveries, the\nsimultaneous appearance of many lunar craters",
+    "start": 271.13,
+    "duration": 5.28
+  },
+  {
+    "text": "is consistent with the\nelectric discharge hypothesis.",
+    "start": 276.44,
+    "duration": 3.61
+  },
+  {
+    "text": "Far from popular consideration,",
+    "start": 280.07,
+    "duration": 2.35
+  },
+  {
+    "text": "well before the first\nman walked on the moon,",
+    "start": 282.44,
+    "duration": 2.68
+  },
+  {
+    "text": "the amateur astronomer Brian J. Ford\npublished his laboratory experiments",
+    "start": 285.15,
+    "duration": 4.49
+  },
+  {
+    "text": "suggesting that craters on the moon\nwere carved by cosmic lightning bolts.",
+    "start": 289.64,
+    "duration": 4.75
+  },
+  {
+    "text": "In the cited experiments Ford\nused a spark machining apparatus",
+    "start": 294.41,
+    "duration": 4.46
+  },
+  {
+    "text": "to reproduce in miniature some of\nthe most puzzling lunar features",
+    "start": 298.9,
+    "duration": 3.7
+  },
+  {
+    "text": "including craters\nwith central peaks,",
+    "start": 302.63,
+    "duration": 2.71
+  },
+  {
+    "text": "small craters preferentially perched\non the high rims of larger craters",
+    "start": 305.37,
+    "duration": 4.89
+  },
+  {
+    "text": "and craters strung\nout in long chains.",
+    "start": 310.29,
+    "duration": 3.18
+  },
+  {
+    "text": "Ford also observed that the ratio of\nlarge to small craters on the moon",
+    "start": 313.5,
+    "duration": 4.63
+  },
+  {
+    "text": "matched the ratio seen\nin electrical arcing.",
+    "start": 318.15,
+    "duration": 2.88
+  },
+  {
+    "text": "The craters we observe on the\nmoon emphasize the need",
+    "start": 321.05,
+    "duration": 3.03
+  },
+  {
+    "text": "for radically new theoretical\npathways in planetary science.",
+    "start": 324.08,
+    "duration": 3.77
+  },
+  {
+    "text": "One mystery that the impact\nhypothesis will never explain",
+    "start": 327.87,
+    "duration": 3.5
+  },
+  {
+    "text": "is the extreme circularity of the\nvast majority of lunar craters.",
+    "start": 331.39,
+    "duration": 4.47
+  },
+  {
+    "text": "Experiments with impacts\nhave long shown",
+    "start": 335.89,
+    "duration": 2.78
+  },
+  {
+    "text": "that in order to produce\na highly circular crater,",
+    "start": 338.7,
+    "duration": 3.16
+  },
+  {
+    "text": "an object typically must strike\nthe surface from directly above.",
+    "start": 341.88,
+    "duration": 3.88
+  },
+  {
+    "text": "The aforementioned Brian Ford noted that\nover 90% of circular craters on the moon",
+    "start": 345.78,
+    "duration": 5.81
+  },
+  {
+    "text": "could not have been produced\nby sideswiping impacts.",
+    "start": 351.62,
+    "duration": 3.23
+  },
+  {
+    "text": "As on other rocky bodies,",
+    "start": 354.88,
+    "duration": 2.11
+  },
+  {
+    "text": "we see countless cleanly cut craters\nwith no ejecta on the crater floors.",
+    "start": 357.01,
+    "duration": 5.03
+  },
+  {
+    "text": "Electrical engineer Ralph Juergens, an early\nproponent of electrical planetary scarring",
+    "start": 362.06,
+    "duration": 5.44
+  },
+  {
+    "text": "wrote of this phenomenon,",
+    "start": 367.53,
+    "duration": 1.53
+  },
+  {
+    "text": "\"Explaining a crater\nfloor of bare,",
+    "start": 369.09,
+    "duration": 2.88
+  },
+  {
+    "text": "once molten rock in terms of the conventional\nimpact theory is a little difficult.",
+    "start": 371.99,
+    "duration": 4.85
+  },
+  {
+    "text": "One must resort to ad-hoc theorizing\nto the effect that something,",
+    "start": 376.87,
+    "duration": 4.35
+  },
+  {
+    "text": "perhaps the shock of the\npostulated impact explosion,",
+    "start": 381.24,
+    "duration": 3.25
+  },
+  {
+    "text": "melted a considerable volume\nof rock at some depth,",
+    "start": 384.51,
+    "duration": 2.99
+  },
+  {
+    "text": "and that following the explosion",
+    "start": 387.53,
+    "duration": 1.82
+  },
+  {
+    "text": "this material welled up to\nengulf the crater floor",
+    "start": 389.37,
+    "duration": 3.18
+  },
+  {
+    "text": "and flow around obstructions\nencountered there;",
+    "start": 392.57,
+    "duration": 2.92
+  },
+  {
+    "text": "otherwise, debris from the explosion itself\ncould be expected to clutter the crater floor.",
+    "start": 395.52,
+    "duration": 5.73
+  },
+  {
+    "text": "Impact theory offers no reason, however,\nto expect such a sequence of events,",
+    "start": 401.27,
+    "duration": 5.27
+  },
+  {
+    "text": "and nothing in terrestrial experience with\ncrater producing explosions supports the idea.",
+    "start": 406.57,
+    "duration": 5.72
+  },
+  {
+    "text": "Though an electric discharge might\nbe thought of as taking place",
+    "start": 412.32,
+    "duration": 3.67
+  },
+  {
+    "text": "in a very brief span of time,",
+    "start": 416.02,
+    "duration": 1.9
+  },
+  {
+    "text": "an interplanetary discharge\nmust surely be an event",
+    "start": 417.95,
+    "duration": 3.13
+  },
+  {
+    "text": "of greater duration than\nan impact explosion;",
+    "start": 421.1,
+    "duration": 2.85
+  },
+  {
+    "text": "the long-distance flow\nof current would persist",
+    "start": 423.97,
+    "duration": 2.87
+  },
+  {
+    "text": "beyond the instant of any\ninitial touchdown explosion,",
+    "start": 426.86,
+    "duration": 3.06
+  },
+  {
+    "text": "and ejecta that chance to fall\nback into the crater thus produced",
+    "start": 429.93,
+    "duration": 3.84
+  },
+  {
+    "text": "could be swept away\nor melted in place.\"",
+    "start": 433.8,
+    "duration": 2.93
+  },
+  {
+    "text": "Juergens also published a\ngroundbreaking analysis",
+    "start": 436.76,
+    "duration": 3.28
+  },
+  {
+    "text": "of the sinuous rills\non the lunar surface.",
+    "start": 440.07,
+    "duration": 2.69
+  },
+  {
+    "text": "A sinuous rill is a\nlong winding valley",
+    "start": 442.79,
+    "duration": 3.21
+  },
+  {
+    "text": "usually with steep walls and\noften emerging from a crater",
+    "start": 446.03,
+    "duration": 3.56
+  },
+  {
+    "text": "which could be found on\nthe moon at many scales.",
+    "start": 449.61,
+    "duration": 3.14
+  },
+  {
+    "text": "Prior to the Apollo missions, astronomers'\nearly hypotheses suggested that the rills",
+    "start": 452.77,
+    "duration": 4.91
+  },
+  {
+    "text": "were \"cracks\" on the\nmoon's surface.",
+    "start": 457.7,
+    "duration": 2.72
+  },
+  {
+    "text": "Later guesses included\nflowing water",
+    "start": 460.45,
+    "duration": 2.5
+  },
+  {
+    "text": "until scientists settled on\nflowing lava as the agent.",
+    "start": 462.97,
+    "duration": 3.48
+  },
+  {
+    "text": "Today, the accepted theory is\nthat the moon's sinuous rills",
+    "start": 466.47,
+    "duration": 3.65
+  },
+  {
+    "text": "were created either by lava\nflowing across the surface",
+    "start": 470.15,
+    "duration": 3.22
+  },
+  {
+    "text": "or beneath the ground\nto form a \"lava tube\"",
+    "start": 473.4,
+    "duration": 2.72
+  },
+  {
+    "text": "portions of which\neventually collapsed.",
+    "start": 476.14,
+    "duration": 2.49
+  },
+  {
+    "text": "Juergens compared the respective point-by-point\nrequirements of various competing theories",
+    "start": 478.63,
+    "duration": 5.91
+  },
+  {
+    "text": "versus the actual observed\ncharacteristics of the rills.",
+    "start": 484.57,
+    "duration": 3.76
+  },
+  {
+    "text": "Unlike planetary scientists,",
+    "start": 488.35,
+    "duration": 2.13
+  },
+  {
+    "text": "Juergens included among the possible\nagents high-energy electrical discharge.",
+    "start": 490.51,
+    "duration": 5.16
+  },
+  {
+    "text": "On every evidentiary point",
+    "start": 495.7,
+    "duration": 2.4
+  },
+  {
+    "text": "the electrical discharge hypothesis\nis either permissible or predictable",
+    "start": 498.13,
+    "duration": 4.39
+  },
+  {
+    "text": "and unlike every\ncompeting hypothesis",
+    "start": 502.55,
+    "duration": 2.72
+  },
+  {
+    "text": "in not a single instance does the\nevidence preclude electrical discharge",
+    "start": 505.3,
+    "duration": 4.11
+  },
+  {
+    "text": "as the cause of the rilles.",
+    "start": 509.44,
+    "duration": 1.84
+  },
+  {
+    "text": "Even prior to Juergens'\ninvestigation,",
+    "start": 511.31,
+    "duration": 2.77
+  },
+  {
+    "text": "several scientists had noted that\nflowing liquids, whether water or lava,",
+    "start": 514.1,
+    "duration": 4.28
+  },
+  {
+    "text": "could not have caused the observed\nfeatures of the lunar rilles,",
+    "start": 518.4,
+    "duration": 3.35
+  },
+  {
+    "text": "including the strings of\ncraters along the rilles' floors.",
+    "start": 521.77,
+    "duration": 3.72
+  },
+  {
+    "text": "These points are dramatically emphasized when\nwe examine the moon's famous Hadley rille.",
+    "start": 525.51,
+    "duration": 5.58
+  },
+  {
+    "text": "Today, planetary scientists agree that\nthe rille is a \"collapsed lava tube\".",
+    "start": 531.11,
+    "duration": 5.2
+  },
+  {
+    "text": "However, the rille does not match the required\ncharacteristics of lava tubes on numerous points.",
+    "start": 536.32,
+    "duration": 6.56
+  },
+  {
+    "text": "Most importantly, the collapsed areas of a\nlava tube will be rubble-filled depressions.",
+    "start": 542.9,
+    "duration": 5.93
+  },
+  {
+    "text": "High-resolution images of the rille\nrevealed no rubble and no collapse tubes.",
+    "start": 548.85,
+    "duration": 5.56
+  },
+  {
+    "text": "It is simply an empty,\nsharply cut channel",
+    "start": 554.44,
+    "duration": 3.22
+  },
+  {
+    "text": "which matches the expected characteristics\nof a \"electrical breakdown channel\".",
+    "start": 557.69,
+    "duration": 5.4
+  },
+  {
+    "text": "Perhaps the greatest problem for the\nvolcanic hypothesis of lunar rilles",
+    "start": 563.11,
+    "duration": 4.44
+  },
+  {
+    "text": "is their tremendous length.",
+    "start": 567.58,
+    "duration": 1.88
+  },
+  {
+    "text": "On our own planet, the longest lava\ntube reaches only 65 kilometers.",
+    "start": 569.49,
+    "duration": 5.35
+  },
+  {
+    "text": "That is about half the length of\nHadley Rille which is 130 kilometers.",
+    "start": 574.86,
+    "duration": 4.6
+  },
+  {
+    "text": "However, the exact\nopposite should be true.",
+    "start": 579.49,
+    "duration": 2.53
+  },
+  {
+    "text": "On Earth, the atmosphere is insulating,\nallowing lava to retain its heat.",
+    "start": 582.05,
+    "duration": 4.83
+  },
+  {
+    "text": "In the \"vacuum of space\" heat will\nbe much more rapidly radiated away.",
+    "start": 586.91,
+    "duration": 5.44
+  },
+  {
+    "text": "On our own planet, as lava flows over\ndistances no more than tens of kilometers,",
+    "start": 592.37,
+    "duration": 5.36
+  },
+  {
+    "text": "the cooling at the surface\ncauses a \"roof\" to form.",
+    "start": 597.75,
+    "duration": 3.57
+  },
+  {
+    "text": "It may then continue to flow\nas a tube beneath the surface.",
+    "start": 601.34,
+    "duration": 3.89
+  },
+  {
+    "text": "That is the only way the lava tubes\ncan achieve even their modest lengths.",
+    "start": 605.25,
+    "duration": 4.83
+  },
+  {
+    "text": "Consider then the most prominent\nlunar rille called Schroter's Valley;",
+    "start": 610.11,
+    "duration": 4.48
+  },
+  {
+    "text": "185 kilometers long and\nup to 10 kilometers wide",
+    "start": 614.61,
+    "duration": 4.77
+  },
+  {
+    "text": "with its depth at points\nreaching up to 1,300 meters.",
+    "start": 619.4,
+    "duration": 4.2
+  },
+  {
+    "text": "Flowing lava, eating away surface\nmaterial to cut a deep channel",
+    "start": 623.62,
+    "duration": 4.04
+  },
+  {
+    "text": "would have to show up somewhere.",
+    "start": 627.68,
+    "duration": 2.01
+  },
+  {
+    "text": "We should see either breaches in the deep\nwalls or evidence of abundant outflow.",
+    "start": 629.71,
+    "duration": 5.55
+  },
+  {
+    "text": "Instead, the channel simply\ndwindles until it disappears.",
+    "start": 635.28,
+    "duration": 4.4
+  },
+  {
+    "text": "Curiously, the flow of rills on the moon and\nother worlds isn't limited to downhill",
+    "start": 639.69,
+    "duration": 5.57
+  },
+  {
+    "text": "like lava and water\ncarved channels on Earth.",
+    "start": 645.28,
+    "duration": 2.98
+  },
+  {
+    "text": "All fluid erosion theories\nfor Schroter's Valley",
+    "start": 648.28,
+    "duration": 3.18
+  },
+  {
+    "text": "have chosen to ignore that the apparent mouth\nof the \"stream\" is on high ground",
+    "start": 651.48,
+    "duration": 5.19
+  },
+  {
+    "text": "and the narrowest part of the\nchannel is on low ground.",
+    "start": 656.7,
+    "duration": 3.56
+  },
+  {
+    "text": "We also note that within Schroter's valley\nis a much more narrow, secondary rill",
+    "start": 660.29,
+    "duration": 5.48
+  },
+  {
+    "text": "whose defining feature is\na chain of small craters.",
+    "start": 665.8,
+    "duration": 3.81
+  },
+  {
+    "text": "As we turn our attention from the moon\nto the planets in the inner solar system,",
+    "start": 669.64,
+    "duration": 4.48
+  },
+  {
+    "text": "we will see emphatically demonstrated the\nfailures of standard geological theory",
+    "start": 674.14,
+    "duration": 4.63
+  },
+  {
+    "text": "to explain the most dramatic\nfeatures on planetary surfaces.",
+    "start": 678.79,
+    "duration": 3.72
+  },
+  {
+    "text": "Venus",
+    "start": 682.89,
+    "duration": 1.57
+  },
+  {
+    "text": "Many years before the first space probe returned\nimages of the surface of the planet Venus,",
+    "start": 684.49,
+    "duration": 5.18
+  },
+  {
+    "text": "one of the 20th century's great\nscientific heretics Immanuel Velikovsky",
+    "start": 689.69,
+    "duration": 4.51
+  },
+  {
+    "text": "made several outrageous\nclaims about Venus.",
+    "start": 694.22,
+    "duration": 3.64
+  },
+  {
+    "text": "Velikovsky proposed that just\na few thousand years ago",
+    "start": 697.88,
+    "duration": 3.67
+  },
+  {
+    "text": "Venus appeared in the earthly\nsky as a terrifying comet.",
+    "start": 701.58,
+    "duration": 4.59
+  },
+  {
+    "text": "In stark contrast,\nmany astronomers,",
+    "start": 706.19,
+    "duration": 3.29
+  },
+  {
+    "text": "including the originator of the dirty\nsnowball hypothesis of comets, Fred Whipple",
+    "start": 709.51,
+    "duration": 4.62
+  },
+  {
+    "text": "had proposed that the surface of Venus might\nbe mostly or entirely covered with oceans.",
+    "start": 714.16,
+    "duration": 5.16
+  },
+  {
+    "text": "So the discovery of Venus'\nsuper hot temperatures,",
+    "start": 719.34,
+    "duration": 3.32
+  },
+  {
+    "text": "an average surface temperature\nof 863 degrees Fahrenheit,",
+    "start": 722.69,
+    "duration": 4.27
+  },
+  {
+    "text": "was one of the great surprises\nof the early Space Age.",
+    "start": 726.98,
+    "duration": 3.3
+  },
+  {
+    "text": "Another surprise is the amazingly\n\"young appearance\" of Venus's surface.",
+    "start": 730.3,
+    "duration": 5.32
+  },
+  {
+    "text": "Venus shows an astonishing lack\nof so-called impact craters",
+    "start": 735.65,
+    "duration": 4.28
+  },
+  {
+    "text": "which most planetary scientists today\nbelieve is due to a \"resurfacing process\"",
+    "start": 739.95,
+    "duration": 4.94
+  },
+  {
+    "text": "that must have\nremoved the craters,",
+    "start": 744.91,
+    "duration": 2.02
+  },
+  {
+    "text": "most likely a recent volcanic overturning\nof the entire Venusian crust.",
+    "start": 746.96,
+    "duration": 5.57
+  },
+  {
+    "text": "The most striking features on Venus are\nthe vast networks of filamentary scars",
+    "start": 752.55,
+    "duration": 5.38
+  },
+  {
+    "text": "or what experimentalists with electrical\ndischarge recognize as \"Lichtenberg patterns\".",
+    "start": 757.96,
+    "duration": 6.34
+  },
+  {
+    "text": "In the Electric Universe Theory",
+    "start": 764.3,
+    "duration": 2.73
+  },
+  {
+    "text": "some rocky planets are born in the same\nglowing electric filaments as stars",
+    "start": 767.06,
+    "duration": 4.91
+  },
+  {
+    "text": "which are seen strung like beads on\nthe necklace in molecular clouds.",
+    "start": 772.0,
+    "duration": 4.59
+  },
+  {
+    "text": "Others are born by electrical\nfissioning of larger bodies",
+    "start": 776.61,
+    "duration": 3.6
+  },
+  {
+    "text": "in the process of adjusting to a suddenly\nchanging electrical environment.",
+    "start": 780.24,
+    "duration": 5.05
+  },
+  {
+    "text": "If Venus was once an\nearth-threatening comet",
+    "start": 786.53,
+    "duration": 2.96
+  },
+  {
+    "text": "as ancient testimony from around\nthe world universally claims,",
+    "start": 789.51,
+    "duration": 4.25
+  },
+  {
+    "text": "it must have had an eccentric orbit\nthat brought it close to the earth.",
+    "start": 793.78,
+    "duration": 3.75
+  },
+  {
+    "text": "Electrical discharging would\nhave heated the crust",
+    "start": 797.56,
+    "duration": 2.95
+  },
+  {
+    "text": "and created the filamentary scars\nstretching across the planet's surface.",
+    "start": 800.53,
+    "duration": 4.34
+  },
+  {
+    "text": "Of course, it has long\nbeen shown experimentally",
+    "start": 804.9,
+    "duration": 3.03
+  },
+  {
+    "text": "that lightning occurring\nin a high-pressure gas",
+    "start": 807.96,
+    "duration": 2.69
+  },
+  {
+    "text": "causes this kind of\n\"Lichtenberg pattern\".",
+    "start": 810.67,
+    "duration": 2.97
+  },
+  {
+    "text": "At low atmospheric pressures cratering\nis more common as seen on the moon",
+    "start": 813.67,
+    "duration": 5.14
+  },
+  {
+    "text": "and the planet Mercury.",
+    "start": 818.83,
+    "duration": 2.53
+  },
+  {
+    "text": "Intriguingly, in 2013\nscience reports",
+    "start": 821.87,
+    "duration": 3.84
+  },
+  {
+    "text": "described the Venusian ionosphere's\ninteractions with the solar wind",
+    "start": 825.72,
+    "duration": 3.77
+  },
+  {
+    "text": "as being more typical of\na comet than a planet",
+    "start": 829.52,
+    "duration": 2.95
+  },
+  {
+    "text": "and like a comet, Venus has a vast tail that\nstretches up to millions of kilometers,",
+    "start": 832.49,
+    "duration": 5.45
+  },
+  {
+    "text": "sometimes touching the\nEarth's magnetosphere.",
+    "start": 837.97,
+    "duration": 3.01
+  },
+  {
+    "text": "The planet's super\nhot temperatures,",
+    "start": 841.0,
+    "duration": 2.57
+  },
+  {
+    "text": "its mysterious super rotation,",
+    "start": 843.59,
+    "duration": 2.09
+  },
+  {
+    "text": "and it's extraordinarily\npowerful lightning",
+    "start": 845.71,
+    "duration": 2.65
+  },
+  {
+    "text": "are all expected in the Electric Universe\nreconstruction of Venus's recent cometary origins.",
+    "start": 848.39,
+    "duration": 6.36
+  },
+  {
+    "text": "As we continue, we will see overwhelming\nevidence for the cataclysmic events",
+    "start": 854.77,
+    "duration": 5.55
+  },
+  {
+    "text": "'The Thunderbolts of the Gods'",
+    "start": 860.34,
+    "duration": 1.74
+  },
+  {
+    "text": "that ravaged the planets\nin the inner solar system.",
+    "start": 862.11,
+    "duration": 3.4
+  },
+  {
+    "text": "Mars",
+    "start": 865.65,
+    "duration": 2.2
+  },
+  {
+    "text": "Prior to the Space Age, most\nastronomers had expected Mars",
+    "start": 868.4,
+    "duration": 3.94
+  },
+  {
+    "text": "to be a long geologically\ndead and barren rock in space.",
+    "start": 872.36,
+    "duration": 3.89
+  },
+  {
+    "text": "But beginning with the arrival\nof the first space probes,",
+    "start": 876.27,
+    "duration": 3.41
+  },
+  {
+    "text": "the surface features of the Red Planet have\nprovided endless surprises for planetary scientists.",
+    "start": 879.71,
+    "duration": 5.28
+  },
+  {
+    "text": "Mars today is a world with\nspectacular weather events",
+    "start": 885.01,
+    "duration": 3.83
+  },
+  {
+    "text": "including tremendous wind and dust storms\nthat sometimes engulf the entire planet.",
+    "start": 888.87,
+    "duration": 5.06
+  },
+  {
+    "text": "But nothing we observe today,",
+    "start": 893.95,
+    "duration": 2.22
+  },
+  {
+    "text": "accounts for the remarkable and\noften bizarre Martian geology,",
+    "start": 896.2,
+    "duration": 3.72
+  },
+  {
+    "text": "including features that speak\nto events more violent",
+    "start": 899.94,
+    "duration": 3.66
+  },
+  {
+    "text": "than anything that has ever\noccurred on our own planet.",
+    "start": 903.62,
+    "duration": 3.03
+  },
+  {
+    "text": "The most dramatic features on Mars\nprovide all of the clues to these events.",
+    "start": 906.68,
+    "duration": 4.96
+  },
+  {
+    "text": "The stupendous Valles Marineris is a chasm\nthat stretches for 4,000 kilometers long",
+    "start": 911.67,
+    "duration": 5.71
+  },
+  {
+    "text": "and up to seven\nkilometers in depth.",
+    "start": 917.41,
+    "duration": 2.53
+  },
+  {
+    "text": "For comparison, even though Mars is\nonly about half the size of Earth,",
+    "start": 919.96,
+    "duration": 4.24
+  },
+  {
+    "text": "Valles Marineris is the length\nof about 5 Grand Canyons.",
+    "start": 924.23,
+    "duration": 4.45
+  },
+  {
+    "text": "It was the aforementioned Ralph\nJuergens who proposed in the 1970's",
+    "start": 928.71,
+    "duration": 4.49
+  },
+  {
+    "text": "that Valles Marineris was a vast scar,\ncarved by an interplanetary lightning bolt.",
+    "start": 933.23,
+    "duration": 5.6
+  },
+  {
+    "text": "In fact, as we’ve reported\nin a 2015 Space News,",
+    "start": 938.85,
+    "duration": 4.52
+  },
+  {
+    "text": "the hypothesis of the electrical origin of\nValles Marineris has been tested experimentally.",
+    "start": 943.39,
+    "duration": 5.57
+  },
+  {
+    "text": "In a collaboration between the late Michael\nSteinbacher and engineer Billy Yelverton,",
+    "start": 948.99,
+    "duration": 4.99
+  },
+  {
+    "text": "the experiment attempted\nto simulate the conditions",
+    "start": 954.0,
+    "duration": 2.71
+  },
+  {
+    "text": "that might have been present\nwhen the trench was formed",
+    "start": 956.74,
+    "duration": 2.73
+  },
+  {
+    "text": "with dust being dropped from a\nreservoir above a discharge table",
+    "start": 959.5,
+    "duration": 3.84
+  },
+  {
+    "text": "as seen on your screen.",
+    "start": 963.37,
+    "duration": 1.82
+  },
+  {
+    "text": "The feature that consistently appeared\ngreatly resembled Valles Marineris.",
+    "start": 965.22,
+    "duration": 5.96
+  },
+  {
+    "text": "The two also noticed a pattern",
+    "start": 971.21,
+    "duration": 2.54
+  },
+  {
+    "text": "that physicist Wal Thornhill had\npreviously noted in a 2003 article",
+    "start": 973.77,
+    "duration": 4.67
+  },
+  {
+    "text": "entitled 'Spiral Galaxies\nand Grand Canyons'.",
+    "start": 978.46,
+    "duration": 3.42
+  },
+  {
+    "text": "Valles Marineris' s-shape reproduced\nin the electrical discharge experiments",
+    "start": 981.91,
+    "duration": 5.27
+  },
+  {
+    "text": "strongly resembles the form\nof a barred spiral galaxy.",
+    "start": 987.21,
+    "duration": 4.15
+  },
+  {
+    "text": "As Thornhill wrote in 2003,",
+    "start": 991.38,
+    "duration": 2.64
+  },
+  {
+    "text": "\"The connection lies in\nthe fact that galaxies",
+    "start": 994.05,
+    "duration": 2.35
+  },
+  {
+    "text": "are the largest visible electric\ndischarge phenomenon in the Universe.\"",
+    "start": 996.43,
+    "duration": 4.33
+  },
+  {
+    "text": "Of course, as we've\ndetailed many times,",
+    "start": 1000.78,
+    "duration": 2.73
+  },
+  {
+    "text": "this notion has extraordinary\nexperimental support",
+    "start": 1003.53,
+    "duration": 3.53
+  },
+  {
+    "text": "as demonstrated in the images on your\nscreen of the plasma experiments",
+    "start": 1007.09,
+    "duration": 4.35
+  },
+  {
+    "text": "by Dr. Anthony Peratt and\nWinston Bostick, respectively.",
+    "start": 1011.47,
+    "duration": 4.03
+  },
+  {
+    "text": "In the feature-length documentary film\n― The Lightning-Scarred Planet Mars ―",
+    "start": 1015.53,
+    "duration": 4.82
+  },
+  {
+    "text": "detailed analysis was offered\nof countless Martian features",
+    "start": 1020.37,
+    "duration": 3.53
+  },
+  {
+    "text": "that find ideal analogs\nin electrical discharge.",
+    "start": 1023.92,
+    "duration": 3.36
+  },
+  {
+    "text": "One such example is the\ntowering Olympus Mons,",
+    "start": 1027.31,
+    "duration": 3.79
+  },
+  {
+    "text": "a nearly 22 kilometer high\nso-called shield volcano",
+    "start": 1031.12,
+    "duration": 4.16
+  },
+  {
+    "text": "and the tallest mountain of any\nplanet in the solar system.",
+    "start": 1035.3,
+    "duration": 3.51
+  },
+  {
+    "text": "As noted in the film, the shield\nvolcano interpretation of Olympus Mons",
+    "start": 1038.81,
+    "duration": 5.05
+  },
+  {
+    "text": "presents far more\nenigmas than answers.",
+    "start": 1043.88,
+    "duration": 2.91
+  },
+  {
+    "text": "The defining feature of any shield\nvolcano is a gentle extrusion of fluid",
+    "start": 1046.82,
+    "duration": 4.89
+  },
+  {
+    "text": "or low viscosity lava.",
+    "start": 1051.74,
+    "duration": 2.03
+  },
+  {
+    "text": "Shield volcanoes on Earth\ndo not present a scarp",
+    "start": 1053.79,
+    "duration": 3.46
+  },
+  {
+    "text": "whereas the scarp of Olympus Mons\ntowers at nearly 4 miles high.",
+    "start": 1057.28,
+    "duration": 5.14
+  },
+  {
+    "text": "A NASA report acknowledges\nthis problem as follows,",
+    "start": 1062.44,
+    "duration": 3.95
+  },
+  {
+    "text": "\"The scarp is of\nunknown origins...\"",
+    "start": 1066.42,
+    "duration": 2.98
+  },
+  {
+    "text": "\"The steep cliff around\nOlympus Mons is peculiar",
+    "start": 1069.42,
+    "duration": 3.46
+  },
+  {
+    "text": "and not characteristic of\nterrestrial shield volcanoes.\"",
+    "start": 1072.91,
+    "duration": 4.01
+  },
+  {
+    "text": "But perhaps most\nsignificant of all",
+    "start": 1076.94,
+    "duration": 2.65
+  },
+  {
+    "text": "is the blanket of incredibly fine\nfilamentary ridges and ravines",
+    "start": 1079.62,
+    "duration": 4.17
+  },
+  {
+    "text": "within the terrain\nof Olympus Mons.",
+    "start": 1083.81,
+    "duration": 2.36
+  },
+  {
+    "text": "In fact, the continued discovery of\nperplexing dendritic patterns on Mars",
+    "start": 1086.19,
+    "duration": 4.85
+  },
+  {
+    "text": "is a key prediction of the\nelectrical scarring hypothesis.",
+    "start": 1091.06,
+    "duration": 3.72
+  },
+  {
+    "text": "A pristine example was\ndiscovered in 2017",
+    "start": 1094.81,
+    "duration": 3.87
+  },
+  {
+    "text": "when an image was released of the terrain\nwithin the 10 kilometres Zunil Crater on Mars.",
+    "start": 1098.71,
+    "duration": 5.76
+  },
+  {
+    "text": "Planetary scientists insist that the\ncrater was produced by an impact.",
+    "start": 1104.49,
+    "duration": 4.48
+  },
+  {
+    "text": "They have no real explanation for\nthe raised dendritic features",
+    "start": 1108.99,
+    "duration": 4.23
+  },
+  {
+    "text": "associated with secondary\ncraters within the crater.",
+    "start": 1113.23,
+    "duration": 3.42
+  },
+  {
+    "text": "NASA's attempt to explain\nthe image reads as follows,",
+    "start": 1116.67,
+    "duration": 3.57
+  },
+  {
+    "text": "\"Secondary craters form from rocks ejected\nat high speed from the primary crater,",
+    "start": 1120.27,
+    "duration": 5.42
+  },
+  {
+    "text": "which then impact the ground\nat sufficiently high speed",
+    "start": 1125.72,
+    "duration": 3.16
+  },
+  {
+    "text": "to make huge numbers of much smaller\ncraters over a large region...",
+    "start": 1128.91,
+    "duration": 4.02
+  },
+  {
+    "text": "In this scene, however,",
+    "start": 1132.96,
+    "duration": 1.65
+  },
+  {
+    "text": "the secondary crater ejecta has an\nunusual raised relief appearance",
+    "start": 1134.64,
+    "duration": 4.61
+  },
+  {
+    "text": "like bas-relief sculpture.\"",
+    "start": 1139.27,
+    "duration": 1.98
+  },
+  {
+    "text": "The best guess NASA can offer is\nthat the so-called impact crater",
+    "start": 1141.27,
+    "duration": 3.83
+  },
+  {
+    "text": "has been mysteriously\nweathered over eons of time.",
+    "start": 1145.12,
+    "duration": 3.39
+  },
+  {
+    "text": "But experimental research\nwithin the EU community",
+    "start": 1148.54,
+    "duration": 3.36
+  },
+  {
+    "text": "provides much more\npromising possibilities.",
+    "start": 1151.93,
+    "duration": 2.81
+  },
+  {
+    "text": "One such experiment performed by\nthe aforementioned Billy Yelverton",
+    "start": 1154.76,
+    "duration": 4.42
+  },
+  {
+    "text": "produced raised dendritic ridges simply\nby applying intense vibrations to soil.",
+    "start": 1159.21,
+    "duration": 5.41
+  },
+  {
+    "text": "Consider also this experiment performed\nby YouTube user Dai fly-fish",
+    "start": 1164.65,
+    "duration": 5.12
+  },
+  {
+    "text": "subjecting aluminum foil\nto electrical discharge",
+    "start": 1169.8,
+    "duration": 3.25
+  },
+  {
+    "text": "and consider also the side-by-side comparison\nof highly mysterious so-called Martian spiders",
+    "start": 1173.07,
+    "duration": 6.67
+  },
+  {
+    "text": "and an electrical discharge\nexperiment performed by Zane Parker.",
+    "start": 1179.77,
+    "duration": 3.89
+  },
+  {
+    "text": "As we've said before, the Martian\nenvironment is a \"laboratory in space\"",
+    "start": 1183.69,
+    "duration": 5.41
+  },
+  {
+    "text": "for testing the concepts of\nElectric Universe Geology.",
+    "start": 1189.12,
+    "duration": 3.25
+  },
+  {
+    "text": "As we've detailed many times,\nmore than a decade ago",
+    "start": 1192.39,
+    "duration": 3.79
+  },
+  {
+    "text": "Dr. C.J. Ransom performed the\nonly experiments to date",
+    "start": 1196.21,
+    "duration": 3.56
+  },
+  {
+    "text": "that have reproduced the\nMartian blueberries,",
+    "start": 1199.8,
+    "duration": 2.47
+  },
+  {
+    "text": "tiny spherules that appear by the\ntrillions embedded in the Martian soil",
+    "start": 1202.29,
+    "duration": 4.43
+  },
+  {
+    "text": "and the same spherical forms are seen in\ngiant mysterious domes inside of craters,",
+    "start": 1206.74,
+    "duration": 6.09
+  },
+  {
+    "text": "a continuing puzzle for\nplanetary scientists.",
+    "start": 1212.85,
+    "duration": 3.24
+  },
+  {
+    "text": "A great testimony to the electrical\ncatastrophes that ravaged Mars",
+    "start": 1216.11,
+    "duration": 4.63
+  },
+  {
+    "text": "is the more than six\nmiles of crustal depth",
+    "start": 1220.77,
+    "duration": 2.71
+  },
+  {
+    "text": "which was mysteriously removed from\nthe Martian northern hemisphere.",
+    "start": 1223.5,
+    "duration": 3.77
+  },
+  {
+    "text": "Where did all this material go?",
+    "start": 1227.29,
+    "duration": 2.16
+  },
+  {
+    "text": "A clue is found in the completely unexpected\ndiscovery of Martian meteorites on Earth.",
+    "start": 1229.47,
+    "duration": 5.7
+  },
+  {
+    "text": "Initially, planetary scientists treated\nthe discovery with great skepticism",
+    "start": 1235.18,
+    "duration": 4.72
+  },
+  {
+    "text": "since they did not expect\nthat the escaped material",
+    "start": 1239.92,
+    "duration": 2.79
+  },
+  {
+    "text": "could reach the necessary\nvelocities to bring it to Earth.",
+    "start": 1242.74,
+    "duration": 3.08
+  },
+  {
+    "text": "The massive electrical excavation of\nMars could have also been the source",
+    "start": 1245.84,
+    "duration": 4.19
+  },
+  {
+    "text": "of the mysterious asteroids that\nshare Mars's orbit, called Trojans.",
+    "start": 1250.03,
+    "duration": 4.73
+  },
+  {
+    "text": "In fact a scientific\npaper published in 2017",
+    "start": 1254.79,
+    "duration": 3.77
+  },
+  {
+    "text": "proposed that the asteroids are the\nremains of a decimated mini planet",
+    "start": 1258.58,
+    "duration": 4.06
+  },
+  {
+    "text": "since they are composed of olivine and\nother distinctly planetary minerals.",
+    "start": 1262.67,
+    "duration": 5.07
+  },
+  {
+    "text": "Planetary scientists also\nimagined violent collisions",
+    "start": 1267.77,
+    "duration": 3.51
+  },
+  {
+    "text": "as the likely source of the\nMartian moons Phobos and Deimos.",
+    "start": 1271.3,
+    "duration": 4.31
+  },
+  {
+    "text": "As described in a\nSpace.com report,",
+    "start": 1275.61,
+    "duration": 2.54
+  },
+  {
+    "text": "\"A large impact or smashing\ninto the Red Planet",
+    "start": 1278.17,
+    "duration": 3.36
+  },
+  {
+    "text": "could have sent pieces\nflying into the air,",
+    "start": 1281.53,
+    "duration": 2.32
+  },
+  {
+    "text": "where gravity may have\ndrawn them together.",
+    "start": 1283.87,
+    "duration": 2.44
+  },
+  {
+    "text": "An existing moon might\nhave also been destroyed",
+    "start": 1286.33,
+    "duration": 2.78
+  },
+  {
+    "text": "creating the rubble that later\nformed Phobos and Deimos.\"",
+    "start": 1289.13,
+    "duration": 3.72
+  },
+  {
+    "text": "As we look closer at Mars's Phobos\ncollisions and gravitational accretion,",
+    "start": 1292.87,
+    "duration": 5.52
+  },
+  {
+    "text": "the only theoretical mechanisms\navailable for planetary scientists",
+    "start": 1298.42,
+    "duration": 4.2
+  },
+  {
+    "text": "prove totally inadequate to\nexplain what we actually see.",
+    "start": 1302.64,
+    "duration": 3.95
+  },
+  {
+    "text": "Like countless\nother rocky bodies,",
+    "start": 1306.62,
+    "duration": 2.5
+  },
+  {
+    "text": "we see dramatic parallel\nchannels and crater chains",
+    "start": 1309.15,
+    "duration": 3.46
+  },
+  {
+    "text": "features not expected at all\nfrom mechanical collisions.",
+    "start": 1312.64,
+    "duration": 3.62
+  },
+  {
+    "text": "But as we've illustrated\ndozens of times,",
+    "start": 1316.29,
+    "duration": 3.05
+  },
+  {
+    "text": "they are routinely produced in\nexperiments with electrical discharge",
+    "start": 1319.37,
+    "duration": 4.18
+  },
+  {
+    "text": "and the most dramatic feature on\nPhobos, the astonishing Stickney crater,",
+    "start": 1323.57,
+    "duration": 4.95
+  },
+  {
+    "text": "underscores a puzzle that is repeated\non countless bodies in the solar system.",
+    "start": 1328.55,
+    "duration": 4.89
+  },
+  {
+    "text": "The crater is 9 kilometers across, nearly\nhalf the diameter of Phobos itself.",
+    "start": 1333.46,
+    "duration": 6.34
+  },
+  {
+    "text": "How could any impact capable of producing such\na massive crater fail to shatter the moon?",
+    "start": 1339.83,
+    "duration": 6.05
+  },
+  {
+    "text": "A similarly improbably huge crater is\nseen here on the Saturnian moon, Tethys.",
+    "start": 1345.9,
+    "duration": 5.91
+  },
+  {
+    "text": "The moon is only 1,000\nkilometers in diameter",
+    "start": 1351.83,
+    "duration": 3.41
+  },
+  {
+    "text": "and yet its giant hexagonal crater is\nan incredible 450 kilometers across.",
+    "start": 1355.26,
+    "duration": 6.33
+  },
+  {
+    "text": "As reported by Universetoday.com,",
+    "start": 1361.61,
+    "duration": 2.99
+  },
+  {
+    "text": "\"...Whatever struck Tethys in the distant past\nprobably should have shattered it into pieces",
+    "start": 1364.62,
+    "duration": 5.1
+  },
+  {
+    "text": "...but didn't.\"",
+    "start": 1369.75,
+    "duration": 1.45
+  },
+  {
+    "text": "On the famous asteroid Vesta,",
+    "start": 1371.23,
+    "duration": 2.21
+  },
+  {
+    "text": "the largest so-called impact crater is\nan astounding 475 kilometers across.",
+    "start": 1373.47,
+    "duration": 6.05
+  },
+  {
+    "text": "The diameter of the asteroid\nis only 525 kilometres.",
+    "start": 1379.55,
+    "duration": 4.86
+  },
+  {
+    "text": "Craters much too massive to have been\nproduced by mechanical collisions",
+    "start": 1384.44,
+    "duration": 4.6
+  },
+  {
+    "text": "is just one of many enigmas resolved\nby the electrical scarring hypothesis.",
+    "start": 1389.06,
+    "duration": 5.24
+  },
+  {
+    "text": "In the companion\npiece to this video",
+    "start": 1394.33,
+    "duration": 2.46
+  },
+  {
+    "text": "called 'The Craters are Electric'",
+    "start": 1396.82,
+    "duration": 1.7
+  },
+  {
+    "text": "we outlined numerous types of craters\nseen on every type of solid body",
+    "start": 1398.55,
+    "duration": 4.59
+  },
+  {
+    "text": "that are routinely produced by\nelectrical discharge in the laboratory",
+    "start": 1403.17,
+    "duration": 3.71
+  },
+  {
+    "text": "including weird hexagonal\nor square craters,",
+    "start": 1406.9,
+    "duration": 3.77
+  },
+  {
+    "text": "so-called bull's-eye craters,",
+    "start": 1410.7,
+    "duration": 2.85
+  },
+  {
+    "text": "craters with flat floors\nand pinched-up rims,",
+    "start": 1413.58,
+    "duration": 5.16
+  },
+  {
+    "text": "the extreme circularity\nof craters,",
+    "start": 1418.77,
+    "duration": 3.89
+  },
+  {
+    "text": "and the complete anomaly of smaller craters\nappearing on the rims of larger craters.",
+    "start": 1423.23,
+    "duration": 6.09
+  },
+  {
+    "text": "If we apply these explanations to the\nmassively cratered surfaces of airless worlds,",
+    "start": 1429.34,
+    "duration": 5.76
+  },
+  {
+    "text": "as seen on our moon,",
+    "start": 1435.13,
+    "duration": 2.19
+  },
+  {
+    "text": "on the planet Mercury,",
+    "start": 1437.34,
+    "duration": 2.36
+  },
+  {
+    "text": "on the dwarf planet Ceres,",
+    "start": 1439.73,
+    "duration": 2.78
+  },
+  {
+    "text": "and in the outer solar system on the\nrespective moons of the gas giants,",
+    "start": 1442.53,
+    "duration": 4.77
+  },
+  {
+    "text": "we find a simple resolution\nto endless mysteries",
+    "start": 1447.32,
+    "duration": 3.39
+  },
+  {
+    "text": "that the impact hypothesis\nhas never explained.",
+    "start": 1450.74,
+    "duration": 3.29
+  },
+  {
+    "text": "As the Electric Universe Geology community\ncontinues its inevitable growth,",
+    "start": 1454.05,
+    "duration": 4.93
+  },
+  {
+    "text": "the closer humankind comes to a reconstruction\nof an essential chapter of our history.",
+    "start": 1459.01,
+    "duration": 6.04
+  },
+  {
+    "text": "A chapter of a drama not\nwritten in science textbooks",
+    "start": 1465.07,
+    "duration": 3.76
+  },
+  {
+    "text": "yet indelibly imprinted in\nevery arena of human culture.",
+    "start": 1468.86,
+    "duration": 3.96
+  },
+  {
+    "text": "A drama waiting\nto be remembered.",
+    "start": 1472.85,
+    "duration": 4.78
+  }
+]

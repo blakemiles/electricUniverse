@@ -1,0 +1,5337 @@
+[
+  {
+    "text": "[Music]",
+    "start": 8.38,
+    "duration": 3.229
+  },
+  {
+    "text": "[Music]",
+    "start": 18.09,
+    "duration": 8.11
+  },
+  {
+    "text": "I like this cartoon it was from the",
+    "start": 21.34,
+    "duration": 9.57
+  },
+  {
+    "text": "Rolling Stone and it shows Velikovsky as",
+    "start": 26.2,
+    "duration": 6.62
+  },
+  {
+    "text": "introducing a touch of the Wild West",
+    "start": 30.91,
+    "duration": 7.079
+  },
+  {
+    "text": "into celestial dynamics and that was",
+    "start": 32.82,
+    "duration": 9.51
+  },
+  {
+    "text": "really my the magnet that drew me to",
+    "start": 37.989,
+    "duration": 9.031
+  },
+  {
+    "text": "Velikovsky Velikovsky's astrophysics",
+    "start": 42.33,
+    "duration": 6.52
+  },
+  {
+    "text": "started in his best-selling worlds in",
+    "start": 47.02,
+    "duration": 3.859
+  },
+  {
+    "text": "collision where he threw down a gauntlet",
+    "start": 48.85,
+    "duration": 4.47
+  },
+  {
+    "text": "to astronomers which in earlier",
+    "start": 50.879,
+    "duration": 5.95
+  },
+  {
+    "text": "centuries as my friend dr. Irving Wolfe",
+    "start": 53.32,
+    "duration": 5.28
+  },
+  {
+    "text": "said would have had him burned at the",
+    "start": 56.829,
+    "duration": 7.021
+  },
+  {
+    "text": "stake his proposal of recent payoffs in",
+    "start": 58.6,
+    "duration": 7.83
+  },
+  {
+    "text": "the planetary system exposed our worst",
+    "start": 63.85,
+    "duration": 6.93
+  },
+  {
+    "text": "fear doomsday the end of the earth the",
+    "start": 66.43,
+    "duration": 7.95
+  },
+  {
+    "text": "end of us astronomers who would have",
+    "start": 70.78,
+    "duration": 5.339
+  },
+  {
+    "text": "happily thrown fuel on the flames",
+    "start": 74.38,
+    "duration": 4.07
+  },
+  {
+    "text": "boasted that they hadn't read his book",
+    "start": 76.119,
+    "duration": 5.101
+  },
+  {
+    "text": "because it disobeyed Newton's law of",
+    "start": 78.45,
+    "duration": 6.85
+  },
+  {
+    "text": "gravity this was religious dogmatism not",
+    "start": 81.22,
+    "duration": 7.77
+  },
+  {
+    "text": "science however many scholars did take",
+    "start": 85.3,
+    "duration": 6.239
+  },
+  {
+    "text": "Velikovsky seriously I'm pleased to say",
+    "start": 88.99,
+    "duration": 5.31
+  },
+  {
+    "text": "and some of those who took him most",
+    "start": 91.539,
+    "duration": 7.321
+  },
+  {
+    "text": "seriously or at this conference so this",
+    "start": 94.3,
+    "duration": 6.36
+  },
+  {
+    "text": "is a kind of a trip down memory lane",
+    "start": 98.86,
+    "duration": 4.849
+  },
+  {
+    "text": "where I trace my path to where I am now",
+    "start": 100.66,
+    "duration": 5.67
+  },
+  {
+    "text": "which may help some of you understand",
+    "start": 103.709,
+    "duration": 4.481
+  },
+  {
+    "text": "some of the weird stuff that I come out",
+    "start": 106.33,
+    "duration": 11.58
+  },
+  {
+    "text": "with I was born in during the Second",
+    "start": 108.19,
+    "duration": 10.379
+  },
+  {
+    "text": "World War",
+    "start": 117.91,
+    "duration": 3.75
+  },
+  {
+    "text": "and my father ended up an invalid I'm",
+    "start": 118.569,
+    "duration": 6.541
+  },
+  {
+    "text": "afraid and so he was in and out of a",
+    "start": 121.66,
+    "duration": 6.75
+  },
+  {
+    "text": "military hospital now while I was in",
+    "start": 125.11,
+    "duration": 6.3
+  },
+  {
+    "text": "high school in the sort of midway",
+    "start": 128.41,
+    "duration": 6.18
+  },
+  {
+    "text": "through he came home from one of his",
+    "start": 131.41,
+    "duration": 5.22
+  },
+  {
+    "text": "visits to hospital with the book in his",
+    "start": 134.59,
+    "duration": 4.05
+  },
+  {
+    "text": "hand and he said I think you might be",
+    "start": 136.63,
+    "duration": 4.59
+  },
+  {
+    "text": "interested in this it was that red book",
+    "start": 138.64,
+    "duration": 7.98
+  },
+  {
+    "text": "their worlds in collision well as a in",
+    "start": 141.22,
+    "duration": 7.68
+  },
+  {
+    "text": "primary school I've been interested in",
+    "start": 146.62,
+    "duration": 4.05
+  },
+  {
+    "text": "astronomy to the point where I would",
+    "start": 148.9,
+    "duration": 3.869
+  },
+  {
+    "text": "memorize facts out of the encyclopedia",
+    "start": 150.67,
+    "duration": 3.99
+  },
+  {
+    "text": "draw pictures and go to",
+    "start": 152.769,
+    "duration": 4.591
+  },
+  {
+    "text": "cool and do a show-and-tell until the",
+    "start": 154.66,
+    "duration": 5.94
+  },
+  {
+    "text": "kids in my class decided they'd had",
+    "start": 157.36,
+    "duration": 5.73
+  },
+  {
+    "text": "enough of me and and told me in no",
+    "start": 160.6,
+    "duration": 5.61
+  },
+  {
+    "text": "uncertain terms but the thing that",
+    "start": 163.09,
+    "duration": 5.67
+  },
+  {
+    "text": "impressed me with this book was I'd",
+    "start": 166.21,
+    "duration": 5.19
+  },
+  {
+    "text": "never seen the scientific method applied",
+    "start": 168.76,
+    "duration": 8.88
+  },
+  {
+    "text": "so broadly he made leaps from one topic",
+    "start": 171.4,
+    "duration": 9.36
+  },
+  {
+    "text": "one discipline to another that I had",
+    "start": 177.64,
+    "duration": 5.75
+  },
+  {
+    "text": "never seen before",
+    "start": 180.76,
+    "duration": 5.43
+  },
+  {
+    "text": "and as it says here his work crossed",
+    "start": 183.39,
+    "duration": 4.75
+  },
+  {
+    "text": "over and stimulated new directions of",
+    "start": 186.19,
+    "duration": 3.75
+  },
+  {
+    "text": "thought in a vast number of academic",
+    "start": 188.14,
+    "duration": 6.0
+  },
+  {
+    "text": "fields which alone is no mean feat but",
+    "start": 189.94,
+    "duration": 5.97
+  },
+  {
+    "text": "he also showed us as the Washington",
+    "start": 194.14,
+    "duration": 4.56
+  },
+  {
+    "text": "evening star put it to not be afraid to",
+    "start": 195.91,
+    "duration": 5.22
+  },
+  {
+    "text": "stake out new intellectual territory in",
+    "start": 198.7,
+    "duration": 11.76
+  },
+  {
+    "text": "defiance of fashionable thought this is",
+    "start": 201.13,
+    "duration": 10.29
+  },
+  {
+    "text": "from Henry Zeca",
+    "start": 210.46,
+    "duration": 2.37
+  },
+  {
+    "text": "he challenged the mysteries of the",
+    "start": 211.42,
+    "duration": 3.66
+  },
+  {
+    "text": "universe he sought answers to our most",
+    "start": 212.83,
+    "duration": 5.64
+  },
+  {
+    "text": "perplexing questions discovered many and",
+    "start": 215.08,
+    "duration": 5.94
+  },
+  {
+    "text": "inspired inquisitive minds to search for",
+    "start": 218.47,
+    "duration": 5.64
+  },
+  {
+    "text": "more that alone will mark him as one of",
+    "start": 221.02,
+    "duration": 5.34
+  },
+  {
+    "text": "the most profoundly influential scholars",
+    "start": 224.11,
+    "duration": 9.03
+  },
+  {
+    "text": "of the century perhaps of all time now I",
+    "start": 226.36,
+    "duration": 10.53
+  },
+  {
+    "text": "read this book as I said at high school",
+    "start": 233.14,
+    "duration": 7.11
+  },
+  {
+    "text": "and I tried to interest friends there",
+    "start": 236.89,
+    "duration": 5.79
+  },
+  {
+    "text": "and other students and I was surprised",
+    "start": 240.25,
+    "duration": 5.87
+  },
+  {
+    "text": "at how disinterested they seemed to be",
+    "start": 242.68,
+    "duration": 7.2
+  },
+  {
+    "text": "so and also had this difficulty how can",
+    "start": 246.12,
+    "duration": 5.35
+  },
+  {
+    "text": "all of these teachers and people that",
+    "start": 249.88,
+    "duration": 2.85
+  },
+  {
+    "text": "I've looked up to and all of these",
+    "start": 251.47,
+    "duration": 4.38
+  },
+  {
+    "text": "encyclopedias I've read to be wrong so",
+    "start": 252.73,
+    "duration": 8.22
+  },
+  {
+    "text": "wrong so I kind of let it drift for a",
+    "start": 255.85,
+    "duration": 6.63
+  },
+  {
+    "text": "few years and then just before going to",
+    "start": 260.95,
+    "duration": 3.78
+  },
+  {
+    "text": "university I read the book again and I",
+    "start": 262.48,
+    "duration": 3.99
+  },
+  {
+    "text": "decided great the University is the",
+    "start": 264.73,
+    "duration": 6.5
+  },
+  {
+    "text": "place to ask questions and get answers",
+    "start": 266.47,
+    "duration": 9.33
+  },
+  {
+    "text": "well my university education disabuse me",
+    "start": 271.23,
+    "duration": 7.59
+  },
+  {
+    "text": "of that idea because what I found was",
+    "start": 275.8,
+    "duration": 7.739
+  },
+  {
+    "text": "either the answer I got back was not",
+    "start": 278.82,
+    "duration": 7.63
+  },
+  {
+    "text": "related to the question I asked or else",
+    "start": 283.539,
+    "duration": 4.831
+  },
+  {
+    "text": "I got actual hostility",
+    "start": 286.45,
+    "duration": 7.03
+  },
+  {
+    "text": "and that surprised me it finally meant",
+    "start": 288.37,
+    "duration": 6.88
+  },
+  {
+    "text": "that I got out of academia I began",
+    "start": 293.48,
+    "duration": 4.2
+  },
+  {
+    "text": "postgraduate research yeah upper",
+    "start": 295.25,
+    "duration": 5.79
+  },
+  {
+    "text": "atmosphere research but found that I was",
+    "start": 297.68,
+    "duration": 5.49
+  },
+  {
+    "text": "being sort of used the slave labor and",
+    "start": 301.04,
+    "duration": 4.68
+  },
+  {
+    "text": "decided to leave halfway through the",
+    "start": 303.17,
+    "duration": 5.49
+  },
+  {
+    "text": "first post-grad year and joined IBM in",
+    "start": 305.72,
+    "duration": 6.39
+  },
+  {
+    "text": "those years it was the Wild West of",
+    "start": 308.66,
+    "duration": 6.15
+  },
+  {
+    "text": "computing really and I got to learn",
+    "start": 312.11,
+    "duration": 4.29
+  },
+  {
+    "text": "everything because I never liked being",
+    "start": 314.81,
+    "duration": 3.9
+  },
+  {
+    "text": "presented with a black box I had to know",
+    "start": 316.4,
+    "duration": 6.9
+  },
+  {
+    "text": "how it worked that was part of my psyche",
+    "start": 318.71,
+    "duration": 8.76
+  },
+  {
+    "text": "I think and so with IBM I learnt the",
+    "start": 323.3,
+    "duration": 6.06
+  },
+  {
+    "text": "hardware the software the operating",
+    "start": 327.47,
+    "duration": 4.65
+  },
+  {
+    "text": "system the compilers and so on which",
+    "start": 329.36,
+    "duration": 6.32
+  },
+  {
+    "text": "eventually led me to being used as the",
+    "start": 332.12,
+    "duration": 5.79
+  },
+  {
+    "text": "systems engineer for the National",
+    "start": 335.68,
+    "duration": 4.87
+  },
+  {
+    "text": "University which when I looked back was",
+    "start": 337.91,
+    "duration": 5.49
+  },
+  {
+    "text": "an incredible piece of luck because this",
+    "start": 340.55,
+    "duration": 5.96
+  },
+  {
+    "text": "was at the time of the moon landings and",
+    "start": 343.4,
+    "duration": 6.15
+  },
+  {
+    "text": "I had access to the professors the",
+    "start": 346.51,
+    "duration": 5.05
+  },
+  {
+    "text": "libraries everything in those days they",
+    "start": 349.55,
+    "duration": 3.72
+  },
+  {
+    "text": "didn't have combination locks and",
+    "start": 351.56,
+    "duration": 4.05
+  },
+  {
+    "text": "electronic locks on everything so I",
+    "start": 353.27,
+    "duration": 4.71
+  },
+  {
+    "text": "could walk freely and ask questions and",
+    "start": 355.61,
+    "duration": 4.92
+  },
+  {
+    "text": "it actually had some friends amongst the",
+    "start": 357.98,
+    "duration": 6.72
+  },
+  {
+    "text": "academic staff so that's a bit of that",
+    "start": 360.53,
+    "duration": 10.95
+  },
+  {
+    "text": "background but after that book was",
+    "start": 364.7,
+    "duration": 9.24
+  },
+  {
+    "text": "published of course there was a funeral",
+    "start": 371.48,
+    "duration": 6.6
+  },
+  {
+    "text": "and I bought every book that came out I",
+    "start": 373.94,
+    "duration": 7.17
+  },
+  {
+    "text": "was impatient to get Velikovsky's next",
+    "start": 378.08,
+    "duration": 7.17
+  },
+  {
+    "text": "book and then some of the warriors came",
+    "start": 381.11,
+    "duration": 6.81
+  },
+  {
+    "text": "into the fore after the triple is",
+    "start": 385.25,
+    "duration": 5.61
+  },
+  {
+    "text": "ambushed and wrote books which I also",
+    "start": 387.92,
+    "duration": 7.92
+  },
+  {
+    "text": "got CJ ransom who spoke yesterday his",
+    "start": 390.86,
+    "duration": 7.64
+  },
+  {
+    "text": "age at Velikovsky which was published in",
+    "start": 395.84,
+    "duration": 9.66
+  },
+  {
+    "text": "1976 and also Alfred de gracia compiled",
+    "start": 398.5,
+    "duration": 10.03
+  },
+  {
+    "text": "a book the Velikovsky affair which is",
+    "start": 405.5,
+    "duration": 5.37
+  },
+  {
+    "text": "well worth reading and that was",
+    "start": 408.53,
+    "duration": 9.55
+  },
+  {
+    "text": "published in 1966 now one of the",
+    "start": 410.87,
+    "duration": 10.66
+  },
+  {
+    "text": "tests of a good hypothesis because",
+    "start": 418.08,
+    "duration": 5.399
+  },
+  {
+    "text": "there's another theory until it's being",
+    "start": 421.53,
+    "duration": 5.009
+  },
+  {
+    "text": "tested experimentally or observational",
+    "start": 423.479,
+    "duration": 7.68
+  },
+  {
+    "text": "ii is the more outrageous yet correct",
+    "start": 426.539,
+    "duration": 6.72
+  },
+  {
+    "text": "prediction is the more weight it should",
+    "start": 431.159,
+    "duration": 4.82
+  },
+  {
+    "text": "carry in favor of that hypothesis and",
+    "start": 433.259,
+    "duration": 5.31
+  },
+  {
+    "text": "Velikovsky predicted that Venus had been",
+    "start": 435.979,
+    "duration": 4.78
+  },
+  {
+    "text": "incandescent only a few thousand years",
+    "start": 438.569,
+    "duration": 6.541
+  },
+  {
+    "text": "ago he said Venus is hot and this is a",
+    "start": 440.759,
+    "duration": 7.861
+  },
+  {
+    "text": "small excerpt from a 1964 interview with",
+    "start": 445.11,
+    "duration": 5.76
+  },
+  {
+    "text": "Eric Larrabee who was largely",
+    "start": 448.62,
+    "duration": 7.34
+  },
+  {
+    "text": "responsible as dr. Wolfe said for the",
+    "start": 450.87,
+    "duration": 8.549
+  },
+  {
+    "text": "publication of the worlds in collision",
+    "start": 455.96,
+    "duration": 8.009
+  },
+  {
+    "text": "in the face of a lot of opposition",
+    "start": 459.419,
+    "duration": 4.55
+  },
+  {
+    "text": "now you understand well that I had no",
+    "start": 466.199,
+    "duration": 10.44
+  },
+  {
+    "text": "personal means to send a Madrid Metro if",
+    "start": 471.81,
+    "duration": 6.81
+  },
+  {
+    "text": "I may be a devil's advocate just",
+    "start": 476.639,
+    "duration": 4.471
+  },
+  {
+    "text": "momentarily I know what many of your",
+    "start": 478.62,
+    "duration": 5.31
+  },
+  {
+    "text": "critics have said is that a prediction",
+    "start": 481.11,
+    "duration": 4.919
+  },
+  {
+    "text": "like this is a matter of chance and they",
+    "start": 483.93,
+    "duration": 3.72
+  },
+  {
+    "text": "imply that you were pointing things out",
+    "start": 486.029,
+    "duration": 3.57
+  },
+  {
+    "text": "of the air well obviously you could have",
+    "start": 487.65,
+    "duration": 3.389
+  },
+  {
+    "text": "said a great many other things about",
+    "start": 489.599,
+    "duration": 2.88
+  },
+  {
+    "text": "penis you could have said Venus has two",
+    "start": 491.039,
+    "duration": 3.18
+  },
+  {
+    "text": "moons or is made out of cottage cheese",
+    "start": 492.479,
+    "duration": 3.24
+  },
+  {
+    "text": "or something other than saying that it",
+    "start": 494.219,
+    "duration": 3.841
+  },
+  {
+    "text": "is hot what what led you in particular",
+    "start": 495.719,
+    "duration": 5.07
+  },
+  {
+    "text": "to say quite contrary to to the belief",
+    "start": 498.06,
+    "duration": 5.069
+  },
+  {
+    "text": "of the time the penis was a hot point",
+    "start": 500.789,
+    "duration": 5.521
+  },
+  {
+    "text": "well first I will see what they said at",
+    "start": 503.129,
+    "duration": 6.391
+  },
+  {
+    "text": "the end of my book is the very last two",
+    "start": 506.31,
+    "duration": 7.13
+  },
+  {
+    "text": "sections before the section the end I",
+    "start": 509.52,
+    "duration": 10.11
+  },
+  {
+    "text": "put two claims so the position which I",
+    "start": 513.44,
+    "duration": 8.95
+  },
+  {
+    "text": "selected for them in my book by itself",
+    "start": 519.63,
+    "duration": 5.99
+  },
+  {
+    "text": "proves the importance I gave to them",
+    "start": 522.39,
+    "duration": 11.15
+  },
+  {
+    "text": "this were first venus must be very hot",
+    "start": 525.62,
+    "duration": 12.93
+  },
+  {
+    "text": "Nastya must be very hot is very hot I",
+    "start": 533.54,
+    "duration": 9.549
+  },
+  {
+    "text": "called the chapter thermal balance of",
+    "start": 538.55,
+    "duration": 8.43
+  },
+  {
+    "text": "Venus and I said views gives off heat",
+    "start": 543.089,
+    "duration": 7.081
+  },
+  {
+    "text": "not as usually supposed to be a planet",
+    "start": 546.98,
+    "duration": 4.99
+  },
+  {
+    "text": "gets so much heat from the Sun and",
+    "start": 550.17,
+    "duration": 5.34
+  },
+  {
+    "text": "reflects on much heat in the space it",
+    "start": 551.97,
+    "duration": 7.32
+  },
+  {
+    "text": "leaves its own heat of course if it is a",
+    "start": 555.51,
+    "duration": 6.569
+  },
+  {
+    "text": "body like other bodies in the solar",
+    "start": 559.29,
+    "duration": 5.789
+  },
+  {
+    "text": "system of six million years or longer",
+    "start": 562.079,
+    "duration": 5.94
+  },
+  {
+    "text": "order of course on you wouldn't expect",
+    "start": 565.079,
+    "duration": 6.271
+  },
+  {
+    "text": "that it would give still give off heat",
+    "start": 568.019,
+    "duration": 8.281
+  },
+  {
+    "text": "he now I said also that that it was",
+    "start": 571.35,
+    "duration": 7.799
+  },
+  {
+    "text": "observed by contemporaries of those",
+    "start": 576.3,
+    "duration": 6.75
+  },
+  {
+    "text": "events and after as a an incandescent",
+    "start": 579.149,
+    "duration": 10.231
+  },
+  {
+    "text": "body at the same time still in 1959 it",
+    "start": 583.05,
+    "duration": 11.62
+  },
+  {
+    "text": "was calculated and accepted that",
+    "start": 589.38,
+    "duration": 9.79
+  },
+  {
+    "text": "the surface temperature of Venus is 17",
+    "start": 594.67,
+    "duration": 7.349
+  },
+  {
+    "text": "degrees Celsius only about three degrees",
+    "start": 599.17,
+    "duration": 4.919
+  },
+  {
+    "text": "above the temperature of the earth very",
+    "start": 602.019,
+    "duration": 4.981
+  },
+  {
+    "text": "similar the world to earth in 1961 it",
+    "start": 604.089,
+    "duration": 6.661
+  },
+  {
+    "text": "was founded by radio signals arriving",
+    "start": 607.0,
+    "duration": 8.39
+  },
+  {
+    "text": "from Venus that it is very hot actually",
+    "start": 610.75,
+    "duration": 8.1
+  },
+  {
+    "text": "600 Fahrenheit and your your reason for",
+    "start": 615.39,
+    "duration": 6.189
+  },
+  {
+    "text": "believing this was that your theory",
+    "start": 618.85,
+    "duration": 5.34
+  },
+  {
+    "text": "required that it be a new planet a young",
+    "start": 621.579,
+    "duration": 5.731
+  },
+  {
+    "text": "planet in geological astronomical time",
+    "start": 624.19,
+    "duration": 5.31
+  },
+  {
+    "text": "yes it was the cause of the needle heat",
+    "start": 627.31,
+    "duration": 6.12
+  },
+  {
+    "text": "but also the result of the short but",
+    "start": 629.5,
+    "duration": 6.74
+  },
+  {
+    "text": "we're storming history all this money",
+    "start": 633.43,
+    "duration": 6.589
+  },
+  {
+    "text": "and let me also say that 600 degree of",
+    "start": 636.24,
+    "duration": 7.659
+  },
+  {
+    "text": "1959 was one of the reason to send the",
+    "start": 640.019,
+    "duration": 6.541
+  },
+  {
+    "text": "marina probe to find that it is not so I",
+    "start": 643.899,
+    "duration": 9.93
+  },
+  {
+    "text": "heard a man scientists from Jefferson",
+    "start": 646.56,
+    "duration": 11.13
+  },
+  {
+    "text": "Lab who speaking before the triple a",
+    "start": 653.829,
+    "duration": 7.971
+  },
+  {
+    "text": "convention in Philadelphia meet another",
+    "start": 657.69,
+    "duration": 8.74
+  },
+  {
+    "text": "expressed his hope that it will be found",
+    "start": 661.8,
+    "duration": 7.75
+  },
+  {
+    "text": "the temperature much lower what was",
+    "start": 666.43,
+    "duration": 6.3
+  },
+  {
+    "text": "found it was still higher not 600 800",
+    "start": 669.55,
+    "duration": 9.21
+  },
+  {
+    "text": "degrees hmm now there is an outrageous",
+    "start": 672.73,
+    "duration": 10.049
+  },
+  {
+    "text": "yet correct prediction that alone should",
+    "start": 678.76,
+    "duration": 8.67
+  },
+  {
+    "text": "have galvanized really curious",
+    "start": 682.779,
+    "duration": 7.081
+  },
+  {
+    "text": "scientists to investigate his work",
+    "start": 687.43,
+    "duration": 9.0
+  },
+  {
+    "text": "further dr. Irving Wolfe talked about",
+    "start": 689.86,
+    "duration": 9.839
+  },
+  {
+    "text": "what happened in 1974 the triple a s San",
+    "start": 696.43,
+    "duration": 7.5
+  },
+  {
+    "text": "Francisco meeting in in that meeting",
+    "start": 699.699,
+    "duration": 7.161
+  },
+  {
+    "text": "which was organized as a symposium",
+    "start": 703.93,
+    "duration": 7.2
+  },
+  {
+    "text": "Velikovsky's challenge to science it was",
+    "start": 706.86,
+    "duration": 6.28
+  },
+  {
+    "text": "organized by professors Donald Goldsmith",
+    "start": 711.13,
+    "duration": 5.79
+  },
+  {
+    "text": "Owen Gingerich Ivan King and attended by",
+    "start": 713.14,
+    "duration": 5.43
+  },
+  {
+    "text": "Immanuel Velikovsky and professors",
+    "start": 716.92,
+    "duration": 4.45
+  },
+  {
+    "text": "Donald W Goldsmith Norman W stone",
+    "start": 718.57,
+    "duration": 6.46
+  },
+  {
+    "text": "Cal sagen J Darrell Mulholland and Peter",
+    "start": 721.37,
+    "duration": 8.31
+  },
+  {
+    "text": "Huber Fred gen'l'men who was one of the",
+    "start": 725.03,
+    "duration": 7.82
+  },
+  {
+    "text": "inner circle described as an ill planned",
+    "start": 729.68,
+    "duration": 5.88
+  },
+  {
+    "text": "didactic ambush that failed to discredit",
+    "start": 732.85,
+    "duration": 4.6
+  },
+  {
+    "text": "Velikovsky and actually had an",
+    "start": 735.56,
+    "duration": 4.82
+  },
+  {
+    "text": "unexpected backlash on his detractors",
+    "start": 737.45,
+    "duration": 5.25
+  },
+  {
+    "text": "that was written in an article called a",
+    "start": 740.38,
+    "duration": 4.83
+  },
+  {
+    "text": "kick in the ass",
+    "start": 742.7,
+    "duration": 2.51
+  },
+  {
+    "text": "and David stove is an Australian",
+    "start": 745.99,
+    "duration": 8.11
+  },
+  {
+    "text": "philosopher and also one of the people",
+    "start": 749.99,
+    "duration": 8.22
+  },
+  {
+    "text": "who doesn't conform said we all grizzle",
+    "start": 754.1,
+    "duration": 6.92
+  },
+  {
+    "text": "about specialization professionalization",
+    "start": 758.21,
+    "duration": 6.12
+  },
+  {
+    "text": "departmental empire-building etc but",
+    "start": 761.02,
+    "duration": 5.44
+  },
+  {
+    "text": "unless and until you read the details of",
+    "start": 764.33,
+    "duration": 4.08
+  },
+  {
+    "text": "this case you can have no idea of the",
+    "start": 766.46,
+    "duration": 5.61
+  },
+  {
+    "text": "pitiless ferocity or the organizational",
+    "start": 768.41,
+    "duration": 5.37
+  },
+  {
+    "text": "muscle that organized science can",
+    "start": 772.07,
+    "duration": 4.32
+  },
+  {
+    "text": "display that was in an article called",
+    "start": 773.78,
+    "duration": 5.1
+  },
+  {
+    "text": "the Velikovsky story the scientific",
+    "start": 776.39,
+    "duration": 7.35
+  },
+  {
+    "text": "mafia that other book that's on there",
+    "start": 778.88,
+    "duration": 6.75
+  },
+  {
+    "text": "this is to the scientists confront",
+    "start": 783.74,
+    "duration": 3.99
+  },
+  {
+    "text": "Velikovsky and the other one is",
+    "start": 785.63,
+    "duration": 3.96
+  },
+  {
+    "text": "callously again in the manual villa",
+    "start": 787.73,
+    "duration": 3.72
+  },
+  {
+    "text": "cough ski which is quite a detailed",
+    "start": 789.59,
+    "duration": 5.01
+  },
+  {
+    "text": "piece of work by Charles Gyllenhaal who",
+    "start": 791.45,
+    "duration": 9.84
+  },
+  {
+    "text": "is one of Velikovsky's warriors now Cal",
+    "start": 794.6,
+    "duration": 9.84
+  },
+  {
+    "text": "say again did say something about",
+    "start": 801.29,
+    "duration": 10.74
+  },
+  {
+    "text": "Velikovsky on the program cosmos and let",
+    "start": 804.44,
+    "duration": 12.15
+  },
+  {
+    "text": "me have a look here it shows a double",
+    "start": 812.03,
+    "duration": 8.7
+  },
+  {
+    "text": "standard I think and also the fact that",
+    "start": 816.59,
+    "duration": 6.14
+  },
+  {
+    "text": "science is only trivially",
+    "start": 820.73,
+    "duration": 5.49
+  },
+  {
+    "text": "self-correcting today or other words",
+    "start": 822.73,
+    "duration": 7.39
+  },
+  {
+    "text": "during normal or settled science you can",
+    "start": 826.22,
+    "duration": 6.36
+  },
+  {
+    "text": "see that the herding instinct in science",
+    "start": 830.12,
+    "duration": 5.58
+  },
+  {
+    "text": "is very strong and this has only been",
+    "start": 832.58,
+    "duration": 5.7
+  },
+  {
+    "text": "made worse by the global internet type",
+    "start": 835.7,
+    "duration": 6.75
+  },
+  {
+    "text": "of groupthink amongst them and the",
+    "start": 838.28,
+    "duration": 6.87
+  },
+  {
+    "text": "double standard in evidence in scrutiny",
+    "start": 842.45,
+    "duration": 5.43
+  },
+  {
+    "text": "one side has chosen evidence is",
+    "start": 845.15,
+    "duration": 7.68
+  },
+  {
+    "text": "another's anathema extraordinary claims",
+    "start": 847.88,
+    "duration": 8.96
+  },
+  {
+    "text": "require only ordinary evidence",
+    "start": 852.83,
+    "duration": 6.69
+  },
+  {
+    "text": "settle science requires a bomb under it",
+    "start": 856.84,
+    "duration": 10.54
+  },
+  {
+    "text": "to move it experts in my opinion are the",
+    "start": 859.52,
+    "duration": 10.14
+  },
+  {
+    "text": "last to know when a fundamental change",
+    "start": 867.38,
+    "duration": 6.21
+  },
+  {
+    "text": "arrives the electric universe for",
+    "start": 869.66,
+    "duration": 7.41
+  },
+  {
+    "text": "example but when you look back all big",
+    "start": 873.59,
+    "duration": 7.26
+  },
+  {
+    "text": "changes even the idea of sending rockets",
+    "start": 877.07,
+    "duration": 6.0
+  },
+  {
+    "text": "to the moon which said to be impossible",
+    "start": 880.85,
+    "duration": 5.07
+  },
+  {
+    "text": "by experts heavier than air flight was",
+    "start": 883.07,
+    "duration": 6.12
+  },
+  {
+    "text": "to be impossible so the last thing you",
+    "start": 885.92,
+    "duration": 8.04
+  },
+  {
+    "text": "do is ask a gray-haired expert what the",
+    "start": 889.19,
+    "duration": 7.71
+  },
+  {
+    "text": "future holds because they will be the",
+    "start": 893.96,
+    "duration": 5.54
+  },
+  {
+    "text": "last to know",
+    "start": 896.9,
+    "duration": 2.6
+  },
+  {
+    "text": "so I show this now just to get an",
+    "start": 900.04,
+    "duration": 5.05
+  },
+  {
+    "text": "impression I think so again at this",
+    "start": 903.26,
+    "duration": 8.99
+  },
+  {
+    "text": "point felt some guilt for what he'd done",
+    "start": 905.09,
+    "duration": 7.16
+  },
+  {
+    "text": "there are many hypotheses in science",
+    "start": 914.69,
+    "duration": 4.44
+  },
+  {
+    "text": "which are wrong that's perfectly right",
+    "start": 917.15,
+    "duration": 3.93
+  },
+  {
+    "text": "it's the aperture to finding out what's",
+    "start": 919.13,
+    "duration": 4.14
+  },
+  {
+    "text": "right science is a self-correcting",
+    "start": 921.08,
+    "duration": 5.7
+  },
+  {
+    "text": "process to be accepted new ideas must",
+    "start": 923.27,
+    "duration": 6.51
+  },
+  {
+    "text": "survive the most rigorous standards of",
+    "start": 926.78,
+    "duration": 6.3
+  },
+  {
+    "text": "evidence and scrutiny the worst aspect",
+    "start": 929.78,
+    "duration": 5.07
+  },
+  {
+    "text": "of the Velikovsky affair is not that",
+    "start": 933.08,
+    "duration": 5.16
+  },
+  {
+    "text": "many of his ideas were wrong or silly or",
+    "start": 934.85,
+    "duration": 5.54
+  },
+  {
+    "text": "in gross contradiction to the facts",
+    "start": 938.24,
+    "duration": 5.69
+  },
+  {
+    "text": "rather the worst aspect is that some",
+    "start": 940.39,
+    "duration": 5.92
+  },
+  {
+    "text": "scientists attempted to suppress",
+    "start": 943.93,
+    "duration": 5.89
+  },
+  {
+    "text": "Velikovsky's ideas the suppression of",
+    "start": 946.31,
+    "duration": 5.97
+  },
+  {
+    "text": "uncomfortable ideas may be common in",
+    "start": 949.82,
+    "duration": 5.67
+  },
+  {
+    "text": "religion or in politics but it is not",
+    "start": 952.28,
+    "duration": 5.55
+  },
+  {
+    "text": "the path to knowledge and there's no",
+    "start": 955.49,
+    "duration": 4.43
+  },
+  {
+    "text": "place for it in the endeavor of science",
+    "start": 957.83,
+    "duration": 5.16
+  },
+  {
+    "text": "we do not know beforehand where",
+    "start": 959.92,
+    "duration": 6.3
+  },
+  {
+    "text": "fundamental insights will arise from",
+    "start": 962.99,
+    "duration": 6.9
+  },
+  {
+    "text": "about our mysterious and lovely solar",
+    "start": 966.22,
+    "duration": 6.43
+  },
+  {
+    "text": "system and the history of our study of",
+    "start": 969.89,
+    "duration": 5.31
+  },
+  {
+    "text": "the solar system shows clearly that",
+    "start": 972.65,
+    "duration": 4.79
+  },
+  {
+    "text": "accepted and conventional ideas are",
+    "start": 975.2,
+    "duration": 5.16
+  },
+  {
+    "text": "often wrong and that fundamental",
+    "start": 977.44,
+    "duration": 5.4
+  },
+  {
+    "text": "insights can arise from the most",
+    "start": 980.36,
+    "duration": 9.03
+  },
+  {
+    "text": "unexpected sources yet as I said say",
+    "start": 982.84,
+    "duration": 8.32
+  },
+  {
+    "text": "again is disingenuous and should have",
+    "start": 989.39,
+    "duration": 3.27
+  },
+  {
+    "text": "taken his own advice",
+    "start": 991.16,
+    "duration": 5.67
+  },
+  {
+    "text": "he was a key suppressor at the 1974",
+    "start": 992.66,
+    "duration": 13.14
+  },
+  {
+    "text": "triple a s meeting here's an example of",
+    "start": 996.83,
+    "duration": 10.68
+  },
+  {
+    "text": "what I mean about experts being the last",
+    "start": 1005.8,
+    "duration": 4.85
+  },
+  {
+    "text": "to know when a paradigm shift has begun",
+    "start": 1007.51,
+    "duration": 5.67
+  },
+  {
+    "text": "in the Scientific American it says we",
+    "start": 1010.65,
+    "duration": 4.57
+  },
+  {
+    "text": "are all impoverished by the selective",
+    "start": 1013.18,
+    "duration": 4.95
+  },
+  {
+    "text": "rejection ism of modern science all of",
+    "start": 1015.22,
+    "duration": 8.58
+  },
+  {
+    "text": "the taboos in science in this excerpt",
+    "start": 1018.13,
+    "duration": 8.309
+  },
+  {
+    "text": "Velikovsky is troubled by the way ponse",
+    "start": 1023.8,
+    "duration": 4.8
+  },
+  {
+    "text": "reports the San Francisco meeting and",
+    "start": 1026.439,
+    "duration": 7.081
+  },
+  {
+    "text": "this was shown at the Portland sorry the",
+    "start": 1028.6,
+    "duration": 7.68
+  },
+  {
+    "text": "meeting in at McMaster University in",
+    "start": 1033.52,
+    "duration": 10.2
+  },
+  {
+    "text": "1974 I had some information secondhand",
+    "start": 1036.28,
+    "duration": 11.48
+  },
+  {
+    "text": "from Milton who had some inside",
+    "start": 1043.72,
+    "duration": 7.92
+  },
+  {
+    "text": "information he said Villa cops he was",
+    "start": 1047.76,
+    "duration": 7.149
+  },
+  {
+    "text": "assured by the editors of ponse that",
+    "start": 1051.64,
+    "duration": 5.22
+  },
+  {
+    "text": "Ralph juergen's would oversee the final",
+    "start": 1054.909,
+    "duration": 5.161
+  },
+  {
+    "text": "report usually Velikovsky lectures",
+    "start": 1056.86,
+    "duration": 5.76
+  },
+  {
+    "text": "without notes at the San Francisco",
+    "start": 1060.07,
+    "duration": 4.68
+  },
+  {
+    "text": "meeting he set to read his paper because",
+    "start": 1062.62,
+    "duration": 4.59
+  },
+  {
+    "text": "he was fearful of omitting important",
+    "start": 1064.75,
+    "duration": 5.429
+  },
+  {
+    "text": "points he was asked from the floor if",
+    "start": 1067.21,
+    "duration": 4.5
+  },
+  {
+    "text": "any of his predictions had been",
+    "start": 1070.179,
+    "duration": 5.781
+  },
+  {
+    "text": "disproved he answers he knows of none",
+    "start": 1071.71,
+    "duration": 6.839
+  },
+  {
+    "text": "Velikovsky is angered that ponse did not",
+    "start": 1075.96,
+    "duration": 4.689
+  },
+  {
+    "text": "print his response to Sagan's challenge",
+    "start": 1078.549,
+    "duration": 4.651
+  },
+  {
+    "text": "to name which organic organic compound",
+    "start": 1080.649,
+    "duration": 5.341
+  },
+  {
+    "text": "has a refractive index of one point four",
+    "start": 1083.2,
+    "duration": 5.04
+  },
+  {
+    "text": "four and has infrared absorption",
+    "start": 1085.99,
+    "duration": 4.5
+  },
+  {
+    "text": "features at three point four micrometers",
+    "start": 1088.24,
+    "duration": 4.95
+  },
+  {
+    "text": "and eleven point two micrometers at the",
+    "start": 1090.49,
+    "duration": 4.679
+  },
+  {
+    "text": "meeting Velikovsky did answer both",
+    "start": 1093.19,
+    "duration": 6.109
+  },
+  {
+    "text": "questions at length these are important",
+    "start": 1095.169,
+    "duration": 7.041
+  },
+  {
+    "text": "scientific bits of scientific evidence",
+    "start": 1099.299,
+    "duration": 8.62
+  },
+  {
+    "text": "now this film shot there in June 1974 at",
+    "start": 1102.21,
+    "duration": 7.39
+  },
+  {
+    "text": "the McMaster meeting is something that I",
+    "start": 1107.919,
+    "duration": 6.75
+  },
+  {
+    "text": "did on a brand new codec 400-foot",
+    "start": 1109.6,
+    "duration": 8.4
+  },
+  {
+    "text": "cartridge sound camera it was something",
+    "start": 1114.669,
+    "duration": 5.911
+  },
+  {
+    "text": "that codec had finally done that was to",
+    "start": 1118.0,
+    "duration": 6.99
+  },
+  {
+    "text": "introduce sound super 8 cameras I had",
+    "start": 1120.58,
+    "duration": 6.449
+  },
+  {
+    "text": "taken my own I'd built my own radio",
+    "start": 1124.99,
+    "duration": 4.679
+  },
+  {
+    "text": "microphone but it unfortunately suffered",
+    "start": 1127.029,
+    "duration": 5.101
+  },
+  {
+    "text": "a lot of interference various times",
+    "start": 1129.669,
+    "duration": 5.071
+  },
+  {
+    "text": "during the meeting and this is the only",
+    "start": 1132.13,
+    "duration": 6.029
+  },
+  {
+    "text": "one that has good sound so this has",
+    "start": 1134.74,
+    "duration": 13.309
+  },
+  {
+    "text": "never been seen before right would we",
+    "start": 1138.159,
+    "duration": 12.87
+  },
+  {
+    "text": "create a gap of ourselves",
+    "start": 1148.049,
+    "duration": 9.521
+  },
+  {
+    "text": "I'll see will repay them too so of",
+    "start": 1151.029,
+    "duration": 10.26
+  },
+  {
+    "text": "course who have no admittance to answer",
+    "start": 1157.57,
+    "duration": 7.109
+  },
+  {
+    "text": "publication are welcome to pass a high",
+    "start": 1161.289,
+    "duration": 7.11
+  },
+  {
+    "text": "hopes of fancy will come to its",
+    "start": 1164.679,
+    "duration": 11.25
+  },
+  {
+    "text": "beginning can be again a small is a",
+    "start": 1168.399,
+    "duration": 10.75
+  },
+  {
+    "text": "beginning but regime as",
+    "start": 1175.929,
+    "duration": 8.521
+  },
+  {
+    "text": "now the end of the world and was all the",
+    "start": 1179.149,
+    "duration": 9.171
+  },
+  {
+    "text": "instrument in bringing you today here",
+    "start": 1184.45,
+    "duration": 7.539
+  },
+  {
+    "text": "and thank you once more and I will",
+    "start": 1188.32,
+    "duration": 7.989
+  },
+  {
+    "text": "probably save you as for Joe's continue",
+    "start": 1191.989,
+    "duration": 7.201
+  },
+  {
+    "text": "what I could not see here in at the",
+    "start": 1196.309,
+    "duration": 6.871
+  },
+  {
+    "text": "buffer to see once more thank you",
+    "start": 1199.19,
+    "duration": 8.2
+  },
+  {
+    "text": "[Applause]",
+    "start": 1203.18,
+    "duration": 6.11
+  },
+  {
+    "text": "[Music]",
+    "start": 1207.39,
+    "duration": 8.209
+  },
+  {
+    "text": "[Applause]",
+    "start": 1209.29,
+    "duration": 6.309
+  },
+  {
+    "text": "so that was my first meeting with",
+    "start": 1220.81,
+    "duration": 4.84
+  },
+  {
+    "text": "Velikovsky and you saw the reference to",
+    "start": 1223.34,
+    "duration": 4.28
+  },
+  {
+    "text": "me by coming from the ends of the world",
+    "start": 1225.65,
+    "duration": 4.52
+  },
+  {
+    "text": "[Laughter]",
+    "start": 1227.62,
+    "duration": 5.83
+  },
+  {
+    "text": "and I have here some photographs taken",
+    "start": 1230.17,
+    "duration": 4.9
+  },
+  {
+    "text": "at that meeting on the left is",
+    "start": 1233.45,
+    "duration": 4.46
+  },
+  {
+    "text": "Velikovsky standing to answer a question",
+    "start": 1235.07,
+    "duration": 8.07
+  },
+  {
+    "text": "from in the audience he his daughter",
+    "start": 1237.91,
+    "duration": 6.88
+  },
+  {
+    "text": "wrote to me and asked for a copy of that",
+    "start": 1243.14,
+    "duration": 4.32
+  },
+  {
+    "text": "photo and I sent it to him and received",
+    "start": 1244.79,
+    "duration": 7.38
+  },
+  {
+    "text": "they a thank you from him you can see",
+    "start": 1247.46,
+    "duration": 7.32
+  },
+  {
+    "text": "some of the crowd there I can just pick",
+    "start": 1252.17,
+    "duration": 4.47
+  },
+  {
+    "text": "out my wife up the back there somewhere",
+    "start": 1254.78,
+    "duration": 5.88
+  },
+  {
+    "text": "and but there are a lot of the the",
+    "start": 1256.64,
+    "duration": 5.7
+  },
+  {
+    "text": "Warriors visible in some of these",
+    "start": 1260.66,
+    "duration": 9.87
+  },
+  {
+    "text": "photographs and on the riders Steve",
+    "start": 1262.34,
+    "duration": 10.41
+  },
+  {
+    "text": "Talbert now it's interesting that my",
+    "start": 1270.53,
+    "duration": 4.59
+  },
+  {
+    "text": "connection with the talbert's started",
+    "start": 1272.75,
+    "duration": 5.55
+  },
+  {
+    "text": "with Steve because I had written to him",
+    "start": 1275.12,
+    "duration": 5.93
+  },
+  {
+    "text": "once I knew that this conference was on",
+    "start": 1278.3,
+    "duration": 6.24
+  },
+  {
+    "text": "and stating what I had done and my",
+    "start": 1281.05,
+    "duration": 6.93
+  },
+  {
+    "text": "interest and so on and he invited me to",
+    "start": 1284.54,
+    "duration": 6.51
+  },
+  {
+    "text": "sit on one of the panels so I got to",
+    "start": 1287.98,
+    "duration": 6.22
+  },
+  {
+    "text": "meet people there and it was the there",
+    "start": 1291.05,
+    "duration": 6.11
+  },
+  {
+    "text": "of course that I also met bill Mellon",
+    "start": 1294.2,
+    "duration": 6.3
+  },
+  {
+    "text": "and was very impressed by his opening",
+    "start": 1297.16,
+    "duration": 10.81
+  },
+  {
+    "text": "address another shot of the McMaster",
+    "start": 1300.5,
+    "duration": 12.99
+  },
+  {
+    "text": "meeting there's one of our Scottish",
+    "start": 1307.97,
+    "duration": 8.67
+  },
+  {
+    "text": "scholars sitting in the middle there he",
+    "start": 1313.49,
+    "duration": 5.04
+  },
+  {
+    "text": "did a lot of work with the Society for",
+    "start": 1316.64,
+    "duration": 3.81
+  },
+  {
+    "text": "interdisciplinary studies which was the",
+    "start": 1318.53,
+    "duration": 6.06
+  },
+  {
+    "text": "UK of the Velikovsky and movement if you",
+    "start": 1320.45,
+    "duration": 5.84
+  },
+  {
+    "text": "like to put it that way",
+    "start": 1324.59,
+    "duration": 4.62
+  },
+  {
+    "text": "there's many people I can pick out of",
+    "start": 1326.29,
+    "duration": 5.32
+  },
+  {
+    "text": "that but it gives you some idea of the",
+    "start": 1329.21,
+    "duration": 8.75
+  },
+  {
+    "text": "crowd also speaking at that meeting and",
+    "start": 1331.61,
+    "duration": 10.02
+  },
+  {
+    "text": "somebody who had also had inspired me I",
+    "start": 1337.96,
+    "duration": 6.34
+  },
+  {
+    "text": "put him there's a leftenant of",
+    "start": 1341.63,
+    "duration": 4.0
+  },
+  {
+    "text": "Velikovsky really on",
+    "start": 1344.3,
+    "duration": 6.1
+  },
+  {
+    "text": "scientific side Ralph juergen's I've",
+    "start": 1345.63,
+    "duration": 7.17
+  },
+  {
+    "text": "tried everything I can think of to get",
+    "start": 1350.4,
+    "duration": 4.11
+  },
+  {
+    "text": "more photos of Ralph but that one was",
+    "start": 1352.8,
+    "duration": 5.43
+  },
+  {
+    "text": "taken at the Grand Canyon and I've been",
+    "start": 1354.51,
+    "duration": 8.07
+  },
+  {
+    "text": "in touch with a good friend of his was",
+    "start": 1358.23,
+    "duration": 6.57
+  },
+  {
+    "text": "dr. Earl Milton the physicist from",
+    "start": 1362.58,
+    "duration": 6.63
+  },
+  {
+    "text": "Lethbridge Alberta and I've been in",
+    "start": 1364.8,
+    "duration": 7.08
+  },
+  {
+    "text": "touch with earl milton's son and he's",
+    "start": 1369.21,
+    "duration": 5.01
+  },
+  {
+    "text": "looked through all of the material that",
+    "start": 1371.88,
+    "duration": 4.5
+  },
+  {
+    "text": "he has of his father's but i've not been",
+    "start": 1374.22,
+    "duration": 3.98
+  },
+  {
+    "text": "able to get another photograph of him",
+    "start": 1376.38,
+    "duration": 7.29
+  },
+  {
+    "text": "which is a great pity bill Milton wrote",
+    "start": 1378.2,
+    "duration": 10.72
+  },
+  {
+    "text": "about him in 1973 and 1974 Jurgens did",
+    "start": 1383.67,
+    "duration": 7.74
+  },
+  {
+    "text": "yeoman service in preparing Velikovsky",
+    "start": 1388.92,
+    "duration": 5.1
+  },
+  {
+    "text": "for San Francisco or serving as Ponce's",
+    "start": 1391.41,
+    "duration": 5.94
+  },
+  {
+    "text": "physical science gatekeeper Jurgens",
+    "start": 1394.02,
+    "duration": 5.75
+  },
+  {
+    "text": "served as Velikovsky's research advisor",
+    "start": 1397.35,
+    "duration": 4.95
+  },
+  {
+    "text": "providing invaluable interpretation",
+    "start": 1399.77,
+    "duration": 4.42
+  },
+  {
+    "text": "which avoided many pitfalls within the",
+    "start": 1402.3,
+    "duration": 4.29
+  },
+  {
+    "text": "sea of commentaries now being made about",
+    "start": 1404.19,
+    "duration": 5.67
+  },
+  {
+    "text": "the state of planet Venus Ralph also",
+    "start": 1406.59,
+    "duration": 5.04
+  },
+  {
+    "text": "coached the manual about how to present",
+    "start": 1409.86,
+    "duration": 4.23
+  },
+  {
+    "text": "himself when he faces his opponents at",
+    "start": 1411.63,
+    "duration": 10.67
+  },
+  {
+    "text": "San Francisco this is one of the",
+    "start": 1414.09,
+    "duration": 10.68
+  },
+  {
+    "text": "inspirational things that I got from",
+    "start": 1422.3,
+    "duration": 3.37
+  },
+  {
+    "text": "Ralph juergen's",
+    "start": 1424.77,
+    "duration": 3.72
+  },
+  {
+    "text": "if the Sun and the stars indeed succeed",
+    "start": 1425.67,
+    "duration": 4.44
+  },
+  {
+    "text": "in fusing lighter elements to form",
+    "start": 1428.49,
+    "duration": 4.35
+  },
+  {
+    "text": "heavier ones other relevant activities",
+    "start": 1430.11,
+    "duration": 4.77
+  },
+  {
+    "text": "carried out more or less in plain sight",
+    "start": 1432.84,
+    "duration": 8.58
+  },
+  {
+    "text": "in their atmospheres having asked this",
+    "start": 1434.88,
+    "duration": 7.98
+  },
+  {
+    "text": "question though Jergens nevertheless",
+    "start": 1441.42,
+    "duration": 3.66
+  },
+  {
+    "text": "went on to estimate the electrical",
+    "start": 1442.86,
+    "duration": 6.18
+  },
+  {
+    "text": "energy and voltages based on no input",
+    "start": 1445.08,
+    "duration": 6.78
+  },
+  {
+    "text": "from the nuclear process in other words",
+    "start": 1449.04,
+    "duration": 5.19
+  },
+  {
+    "text": "if there is nuclear processes going on",
+    "start": 1451.86,
+    "duration": 5.28
+  },
+  {
+    "text": "in the photosphere he merely calculated",
+    "start": 1454.23,
+    "duration": 5.31
+  },
+  {
+    "text": "the electrical energy in required to",
+    "start": 1457.14,
+    "duration": 7.34
+  },
+  {
+    "text": "provide the radiant energy output of",
+    "start": 1459.54,
+    "duration": 4.94
+  },
+  {
+    "text": "course to say this flies in the face of",
+    "start": 1466.67,
+    "duration": 5.86
+  },
+  {
+    "text": "particle physics because the conditions",
+    "start": 1470.37,
+    "duration": 5.96
+  },
+  {
+    "text": "in that 5000 degree or so photos",
+    "start": 1472.53,
+    "duration": 6.589
+  },
+  {
+    "text": "is not sufficient of course to even",
+    "start": 1476.33,
+    "duration": 5.299
+  },
+  {
+    "text": "begin to talk about nuclear fusion",
+    "start": 1479.119,
+    "duration": 10.081
+  },
+  {
+    "text": "according to standard thinking he says",
+    "start": 1481.629,
+    "duration": 10.66
+  },
+  {
+    "text": "here and this was a key to his model and",
+    "start": 1489.2,
+    "duration": 4.649
+  },
+  {
+    "text": "one which is now being tested by",
+    "start": 1492.289,
+    "duration": 4.56
+  },
+  {
+    "text": "Sapphire the electric Sun hypothesis",
+    "start": 1493.849,
+    "duration": 5.07
+  },
+  {
+    "text": "assigns the solar body the role of an",
+    "start": 1496.849,
+    "duration": 4.26
+  },
+  {
+    "text": "anode that of the higher potential",
+    "start": 1498.919,
+    "duration": 5.54
+  },
+  {
+    "text": "electrode in a cosmic electric discharge",
+    "start": 1501.109,
+    "duration": 6.92
+  },
+  {
+    "text": "that's the simplicity of the model and",
+    "start": 1504.459,
+    "duration": 7.06
+  },
+  {
+    "text": "also the the genius of Ralph",
+    "start": 1508.029,
+    "duration": 6.64
+  },
+  {
+    "text": "was to identify the fact that all of the",
+    "start": 1511.519,
+    "duration": 4.89
+  },
+  {
+    "text": "detailed features that we actually",
+    "start": 1514.669,
+    "duration": 8.39
+  },
+  {
+    "text": "observe to be seen in an anode discharge",
+    "start": 1516.409,
+    "duration": 6.65
+  },
+  {
+    "text": "and of course the most confronting thing",
+    "start": 1524.679,
+    "duration": 6.04
+  },
+  {
+    "text": "he said was the modern Astrophysical",
+    "start": 1528.979,
+    "duration": 3.45
+  },
+  {
+    "text": "concept that describes the sun's energy",
+    "start": 1530.719,
+    "duration": 4.26
+  },
+  {
+    "text": "to thermonuclear reactions deep inside",
+    "start": 1532.429,
+    "duration": 5.761
+  },
+  {
+    "text": "in the solar interior is contradicted by",
+    "start": 1534.979,
+    "duration": 5.76
+  },
+  {
+    "text": "nearly every observable aspect of the",
+    "start": 1538.19,
+    "duration": 7.319
+  },
+  {
+    "text": "Sun that should have been a huge warning",
+    "start": 1540.739,
+    "duration": 6.87
+  },
+  {
+    "text": "bell in the halls of the academia but as",
+    "start": 1545.509,
+    "duration": 4.89
+  },
+  {
+    "text": "they say when you're woken by a loud",
+    "start": 1547.609,
+    "duration": 11.16
+  },
+  {
+    "text": "noise you get very annoyed it was in a",
+    "start": 1550.399,
+    "duration": 10.83
+  },
+  {
+    "text": "few years later in 1979 I was working",
+    "start": 1558.769,
+    "duration": 4.26
+  },
+  {
+    "text": "for the Australian government of briefly",
+    "start": 1561.229,
+    "duration": 6.091
+  },
+  {
+    "text": "in Washington DC and while there I took",
+    "start": 1563.029,
+    "duration": 7.08
+  },
+  {
+    "text": "the opportunity my family was with me",
+    "start": 1567.32,
+    "duration": 5.039
+  },
+  {
+    "text": "I rang Velikovsky at his home and",
+    "start": 1570.109,
+    "duration": 5.91
+  },
+  {
+    "text": "mentioned our meeting in 1974 and I",
+    "start": 1572.359,
+    "duration": 7.56
+  },
+  {
+    "text": "asked whether it be possible to visit",
+    "start": 1576.019,
+    "duration": 6.03
+  },
+  {
+    "text": "and talk to him about the work that I",
+    "start": 1579.919,
+    "duration": 6.781
+  },
+  {
+    "text": "was interested in he and his wife",
+    "start": 1582.049,
+    "duration": 8.34
+  },
+  {
+    "text": "graciously had us there on the 29th of",
+    "start": 1586.7,
+    "duration": 10.019
+  },
+  {
+    "text": "April 1979 and it was there that he in",
+    "start": 1590.389,
+    "duration": 8.34
+  },
+  {
+    "text": "answer to my question what is that we",
+    "start": 1596.719,
+    "duration": 4.83
+  },
+  {
+    "text": "don't understand about gravity he gave",
+    "start": 1598.729,
+    "duration": 6.211
+  },
+  {
+    "text": "me this small pamphlet cosmos without",
+    "start": 1601.549,
+    "duration": 4.63
+  },
+  {
+    "text": "gravitation",
+    "start": 1604.94,
+    "duration": 4.15
+  },
+  {
+    "text": "it was a synopsis of a more",
+    "start": 1606.179,
+    "duration": 5.58
+  },
+  {
+    "text": "comprehensive document written from 1941",
+    "start": 1609.09,
+    "duration": 6.319
+  },
+  {
+    "text": "to 1943",
+    "start": 1611.759,
+    "duration": 3.65
+  },
+  {
+    "text": "so here I'll give you some of the",
+    "start": 1617.419,
+    "duration": 3.941
+  },
+  {
+    "text": "chapter headings to give you the flavor",
+    "start": 1619.59,
+    "duration": 5.939
+  },
+  {
+    "text": "of what's inside first of all and this",
+    "start": 1621.36,
+    "duration": 6.12
+  },
+  {
+    "text": "is fundamental gravitation is an",
+    "start": 1625.529,
+    "duration": 4.051
+  },
+  {
+    "text": "electromagnetic phenomenon so now you",
+    "start": 1627.48,
+    "duration": 4.409
+  },
+  {
+    "text": "can see where I got it from this is",
+    "start": 1629.58,
+    "duration": 5.15
+  },
+  {
+    "text": "where it all started",
+    "start": 1631.889,
+    "duration": 5.52
+  },
+  {
+    "text": "he gave a list of phenomena not in",
+    "start": 1634.73,
+    "duration": 7.36
+  },
+  {
+    "text": "accord with the theory of gravitation he",
+    "start": 1637.409,
+    "duration": 6.061
+  },
+  {
+    "text": "looked at the attraction between two",
+    "start": 1642.09,
+    "duration": 3.299
+  },
+  {
+    "text": "atoms and this is something that had",
+    "start": 1643.47,
+    "duration": 4.35
+  },
+  {
+    "text": "occurred to chemists the molecular",
+    "start": 1645.389,
+    "duration": 4.92
+  },
+  {
+    "text": "attraction between atoms can sometimes",
+    "start": 1647.82,
+    "duration": 5.939
+  },
+  {
+    "text": "be down to dipole forces the fact that",
+    "start": 1650.309,
+    "duration": 5.31
+  },
+  {
+    "text": "the atoms are distorted in a molecule",
+    "start": 1653.759,
+    "duration": 4.29
+  },
+  {
+    "text": "gives them one side of the molecule are",
+    "start": 1655.619,
+    "duration": 4.831
+  },
+  {
+    "text": "slightly more positively charged than",
+    "start": 1658.049,
+    "duration": 4.441
+  },
+  {
+    "text": "the other and this of course is a",
+    "start": 1660.45,
+    "duration": 4.62
+  },
+  {
+    "text": "feature of j'arrive Pollock's work where",
+    "start": 1662.49,
+    "duration": 5.34
+  },
+  {
+    "text": "the water molecule is distorted so that",
+    "start": 1665.07,
+    "duration": 5.13
+  },
+  {
+    "text": "one side is more positive than the other",
+    "start": 1667.83,
+    "duration": 3.449
+  },
+  {
+    "text": "you have a positive and a negative",
+    "start": 1670.2,
+    "duration": 6.15
+  },
+  {
+    "text": "dipole he covers the attraction of",
+    "start": 1671.279,
+    "duration": 7.11
+  },
+  {
+    "text": "bodies toward the earth the time of a",
+    "start": 1676.35,
+    "duration": 3.87
+  },
+  {
+    "text": "saint and descent of a pendulum because",
+    "start": 1678.389,
+    "duration": 3.801
+  },
+  {
+    "text": "he thought they should be different and",
+    "start": 1680.22,
+    "duration": 4.649
+  },
+  {
+    "text": "the effective charge on the weight of",
+    "start": 1682.19,
+    "duration": 5.05
+  },
+  {
+    "text": "the body if I get a chance I'll talk",
+    "start": 1684.869,
+    "duration": 5.731
+  },
+  {
+    "text": "about why that idea really doesn't work",
+    "start": 1687.24,
+    "duration": 6.029
+  },
+  {
+    "text": "but that took a long while to figure out",
+    "start": 1690.6,
+    "duration": 5.459
+  },
+  {
+    "text": "and of course his statement that",
+    "start": 1693.269,
+    "duration": 7.02
+  },
+  {
+    "text": "attraction repulsion you'll notice he's",
+    "start": 1696.059,
+    "duration": 6.301
+  },
+  {
+    "text": "talking about repulsion between bodies",
+    "start": 1700.289,
+    "duration": 4.681
+  },
+  {
+    "text": "as well because the dipole can repel as",
+    "start": 1702.36,
+    "duration": 5.37
+  },
+  {
+    "text": "well as attract and electromagnetic",
+    "start": 1704.97,
+    "duration": 5.24
+  },
+  {
+    "text": "circumduction act in the solar system",
+    "start": 1707.73,
+    "duration": 7.289
+  },
+  {
+    "text": "that was his claim he also covered the",
+    "start": 1710.21,
+    "duration": 6.939
+  },
+  {
+    "text": "anomaly of mercury and other phenomena",
+    "start": 1715.019,
+    "duration": 7.26
+  },
+  {
+    "text": "where he tries to explain them these are",
+    "start": 1717.149,
+    "duration": 6.66
+  },
+  {
+    "text": "some of the phenomena not in accord with",
+    "start": 1722.279,
+    "duration": 3.36
+  },
+  {
+    "text": "the theory of gravitation according to",
+    "start": 1723.809,
+    "duration": 5.19
+  },
+  {
+    "text": "Velikovsky water is 800 times heavier",
+    "start": 1725.639,
+    "duration": 5.461
+  },
+  {
+    "text": "than air but millions of tons of water",
+    "start": 1728.999,
+    "duration": 3.841
+  },
+  {
+    "text": "droplets are held miles above the ground",
+    "start": 1731.1,
+    "duration": 4.86
+  },
+  {
+    "text": "in clouds and Jerry Pollock I think has",
+    "start": 1732.84,
+    "duration": 6.51
+  },
+  {
+    "text": "shown the way to under",
+    "start": 1735.96,
+    "duration": 8.52
+  },
+  {
+    "text": "stand that mountains don't exert the",
+    "start": 1739.35,
+    "duration": 8.28
+  },
+  {
+    "text": "pool expected by gravity that massive",
+    "start": 1744.48,
+    "duration": 7.41
+  },
+  {
+    "text": "rock should attract a plumb-bob slightly",
+    "start": 1747.63,
+    "duration": 7.08
+  },
+  {
+    "text": "towards it it doesn't so that gave rise",
+    "start": 1751.89,
+    "duration": 5.01
+  },
+  {
+    "text": "to the theory of isostasy where you have",
+    "start": 1754.71,
+    "duration": 3.48
+  },
+  {
+    "text": "to have a mountain underneath the earth",
+    "start": 1756.9,
+    "duration": 3.24
+  },
+  {
+    "text": "to kind of balance out the forces so the",
+    "start": 1758.19,
+    "duration": 4.68
+  },
+  {
+    "text": "pendulum actually points towards the",
+    "start": 1760.14,
+    "duration": 4.71
+  },
+  {
+    "text": "center of the earth this is the kind of",
+    "start": 1762.87,
+    "duration": 3.689
+  },
+  {
+    "text": "extremes you have to go to when your",
+    "start": 1764.85,
+    "duration": 5.069
+  },
+  {
+    "text": "theory doesn't really work gravity is",
+    "start": 1766.559,
+    "duration": 7.171
+  },
+  {
+    "text": "stronger over oceans than land the",
+    "start": 1769.919,
+    "duration": 5.88
+  },
+  {
+    "text": "spinning gaseous son should be oblate",
+    "start": 1773.73,
+    "duration": 6.329
+  },
+  {
+    "text": "it's almost a perfect sphere gravity",
+    "start": 1775.799,
+    "duration": 5.931
+  },
+  {
+    "text": "can't restore orbital perturbations",
+    "start": 1780.059,
+    "duration": 5.421
+  },
+  {
+    "text": "there is nothing to restore a slight",
+    "start": 1781.73,
+    "duration": 7.72
+  },
+  {
+    "text": "departure from your orbit caused by",
+    "start": 1785.48,
+    "duration": 7.75
+  },
+  {
+    "text": "another body so that over time the whole",
+    "start": 1789.45,
+    "duration": 6.75
+  },
+  {
+    "text": "thing becomes chaotic in fact it has",
+    "start": 1793.23,
+    "duration": 5.13
+  },
+  {
+    "text": "been calculated I think by the orbital",
+    "start": 1796.2,
+    "duration": 5.339
+  },
+  {
+    "text": "dynamicists that the solar system should",
+    "start": 1798.36,
+    "duration": 5.1
+  },
+  {
+    "text": "not remain stable for more than a few",
+    "start": 1801.539,
+    "duration": 6.451
+  },
+  {
+    "text": "million years beyond that time it should",
+    "start": 1803.46,
+    "duration": 11.28
+  },
+  {
+    "text": "be destroyed by chaotic behavior the",
+    "start": 1807.99,
+    "duration": 8.549
+  },
+  {
+    "text": "sweep of a comet's tail around the Sun",
+    "start": 1814.74,
+    "duration": 3.6
+  },
+  {
+    "text": "that's not a gravitation it's not",
+    "start": 1816.539,
+    "duration": 3.811
+  },
+  {
+    "text": "explained by our gravitational effects",
+    "start": 1818.34,
+    "duration": 6.959
+  },
+  {
+    "text": "and Laplace he notes calculated the",
+    "start": 1820.35,
+    "duration": 7.17
+  },
+  {
+    "text": "speed of gravity must be in excess of 50",
+    "start": 1825.299,
+    "duration": 5.551
+  },
+  {
+    "text": "million times the speed of light so",
+    "start": 1827.52,
+    "duration": 6.42
+  },
+  {
+    "text": "these are all the keys that I had given",
+    "start": 1830.85,
+    "duration": 8.76
+  },
+  {
+    "text": "to me by Velikovsky in particular this",
+    "start": 1833.94,
+    "duration": 8.76
+  },
+  {
+    "text": "his idea this is his idea here each atom",
+    "start": 1839.61,
+    "duration": 4.35
+  },
+  {
+    "text": "is made up of positive and negative",
+    "start": 1842.7,
+    "duration": 4.08
+  },
+  {
+    "text": "electricity and though neutral as a",
+    "start": 1843.96,
+    "duration": 5.459
+  },
+  {
+    "text": "whole and these are his words may form",
+    "start": 1846.78,
+    "duration": 4.59
+  },
+  {
+    "text": "an electric dipole when subject to an",
+    "start": 1849.419,
+    "duration": 6.39
+  },
+  {
+    "text": "external electric force attraction is",
+    "start": 1851.37,
+    "duration": 6.66
+  },
+  {
+    "text": "not due to inherent gravitational",
+    "start": 1855.809,
+    "duration": 3.331
+  },
+  {
+    "text": "properties of matter",
+    "start": 1858.03,
+    "duration": 4.41
+  },
+  {
+    "text": "I wouldn't say mass but instead to the",
+    "start": 1859.14,
+    "duration": 4.98
+  },
+  {
+    "text": "well-known electrical properties of",
+    "start": 1862.44,
+    "duration": 4.219
+  },
+  {
+    "text": "attraction",
+    "start": 1864.12,
+    "duration": 2.539
+  },
+  {
+    "text": "two dipoles arrange themselves like bar",
+    "start": 1868.39,
+    "duration": 7.92
+  },
+  {
+    "text": "magnets on a slippery surface if you",
+    "start": 1873.91,
+    "duration": 3.78
+  },
+  {
+    "text": "just throw them on the surface they'll",
+    "start": 1876.31,
+    "duration": 2.67
+  },
+  {
+    "text": "try and attach north-south north-south",
+    "start": 1877.69,
+    "duration": 5.22
+  },
+  {
+    "text": "and daisy-chain and there they will",
+    "start": 1878.98,
+    "duration": 5.73
+  },
+  {
+    "text": "always swing to try and attract one",
+    "start": 1882.91,
+    "duration": 4.07
+  },
+  {
+    "text": "another",
+    "start": 1884.71,
+    "duration": 2.27
+  },
+  {
+    "text": "however if grab and this is the",
+    "start": 1890.61,
+    "duration": 5.82
+  },
+  {
+    "text": "arguments against that simple model and",
+    "start": 1893.62,
+    "duration": 5.97
+  },
+  {
+    "text": "Velikovsky gave me that document on the",
+    "start": 1896.43,
+    "duration": 7.11
+  },
+  {
+    "text": "basis that it was a preliminary thinking",
+    "start": 1899.59,
+    "duration": 7.34
+  },
+  {
+    "text": "it certainly had a lot of questions left",
+    "start": 1903.54,
+    "duration": 6.04
+  },
+  {
+    "text": "if gravity were that simple an electric",
+    "start": 1906.93,
+    "duration": 4.84
+  },
+  {
+    "text": "field across a polarizable dielectric",
+    "start": 1909.58,
+    "duration": 4.98
+  },
+  {
+    "text": "that is like in a capacitor shouldn't",
+    "start": 1911.77,
+    "duration": 5.04
+  },
+  {
+    "text": "modify gravity markedly because they are",
+    "start": 1914.56,
+    "duration": 3.69
+  },
+  {
+    "text": "you're distorting the atoms in an",
+    "start": 1916.81,
+    "duration": 5.73
+  },
+  {
+    "text": "electric field but it doesn't it does",
+    "start": 1918.25,
+    "duration": 6.75
+  },
+  {
+    "text": "slightly in the by field Brown effect",
+    "start": 1922.54,
+    "duration": 5.52
+  },
+  {
+    "text": "where you capacitor tends to move in the",
+    "start": 1925.0,
+    "duration": 5.21
+  },
+  {
+    "text": "direction of one of the charge plates",
+    "start": 1928.06,
+    "duration": 7.41
+  },
+  {
+    "text": "but that doesn't explain gravity and it",
+    "start": 1930.21,
+    "duration": 6.94
+  },
+  {
+    "text": "should be shielded by a metal conductor",
+    "start": 1935.47,
+    "duration": 3.78
+  },
+  {
+    "text": "because this is we're dealing with a",
+    "start": 1937.15,
+    "duration": 10.38
+  },
+  {
+    "text": "bulk electrical field it isn't also the",
+    "start": 1939.25,
+    "duration": 10.89
+  },
+  {
+    "text": "atomic dipole force is too strong it's",
+    "start": 1947.53,
+    "duration": 4.91
+  },
+  {
+    "text": "the force that holds molecules together",
+    "start": 1950.14,
+    "duration": 6.96
+  },
+  {
+    "text": "one of the forces and if we were held to",
+    "start": 1952.44,
+    "duration": 8.56
+  },
+  {
+    "text": "the earth like a molecule we'd be you",
+    "start": 1957.1,
+    "duration": 6.78
+  },
+  {
+    "text": "know maybe a few centimeters thick on",
+    "start": 1961.0,
+    "duration": 10.05
+  },
+  {
+    "text": "the surface so having been given in 1979",
+    "start": 1963.88,
+    "duration": 10.62
+  },
+  {
+    "text": "the keys I had what they call the",
+    "start": 1971.05,
+    "duration": 6.32
+  },
+  {
+    "text": "prepared mind I was on the lookout for a",
+    "start": 1974.5,
+    "duration": 6.24
+  },
+  {
+    "text": "classical physics approach the kind of",
+    "start": 1977.37,
+    "duration": 5.44
+  },
+  {
+    "text": "approach that got us to the beginning of",
+    "start": 1980.74,
+    "duration": 4.92
+  },
+  {
+    "text": "the 20th century and has given us all of",
+    "start": 1982.81,
+    "duration": 4.89
+  },
+  {
+    "text": "the technology we see now very little of",
+    "start": 1985.66,
+    "duration": 4.91
+  },
+  {
+    "text": "the 20th century beyond about the 1920s",
+    "start": 1987.7,
+    "duration": 7.35
+  },
+  {
+    "text": "has contributed much at all to modern",
+    "start": 1990.57,
+    "duration": 6.69
+  },
+  {
+    "text": "technology",
+    "start": 1995.05,
+    "duration": 4.8
+  },
+  {
+    "text": "it came in a tiny advertisement in the",
+    "start": 1997.26,
+    "duration": 5.32
+  },
+  {
+    "text": "Scientific American in December 1981 and",
+    "start": 1999.85,
+    "duration": 4.65
+  },
+  {
+    "text": "it advertised the Journal of classical",
+    "start": 2002.58,
+    "duration": 6.75
+  },
+  {
+    "text": "physics and the first issue by Ralph",
+    "start": 2004.5,
+    "duration": 8.07
+  },
+  {
+    "text": "Sainsbury who was the originator of this",
+    "start": 2009.33,
+    "duration": 7.13
+  },
+  {
+    "text": "journal was called electron structure",
+    "start": 2012.57,
+    "duration": 7.05
+  },
+  {
+    "text": "now Velikovsky had shown that it was the",
+    "start": 2016.46,
+    "duration": 5.5
+  },
+  {
+    "text": "structure of matter which may give rise",
+    "start": 2019.62,
+    "duration": 4.53
+  },
+  {
+    "text": "to the electric force and if the",
+    "start": 2021.96,
+    "duration": 4.79
+  },
+  {
+    "text": "electron has structure that's important",
+    "start": 2024.15,
+    "duration": 9.24
+  },
+  {
+    "text": "so this was one of the keys he what he",
+    "start": 2026.75,
+    "duration": 8.62
+  },
+  {
+    "text": "did was to repeat the atomic orbital",
+    "start": 2033.39,
+    "duration": 4.8
+  },
+  {
+    "text": "model of smaller charge particles inside",
+    "start": 2035.37,
+    "duration": 4.71
+  },
+  {
+    "text": "the electron and proton so imagine them",
+    "start": 2038.19,
+    "duration": 4.38
+  },
+  {
+    "text": "as tiny atoms it's a repeated pattern",
+    "start": 2040.08,
+    "duration": 5.49
+  },
+  {
+    "text": "the kind of fractal approach to looking",
+    "start": 2042.57,
+    "duration": 6.63
+  },
+  {
+    "text": "at science and by assuming the electrons",
+    "start": 2045.57,
+    "duration": 5.46
+  },
+  {
+    "text": "have this simple structure ralph",
+    "start": 2049.2,
+    "duration": 4.26
+  },
+  {
+    "text": "explained magnetism he was able to",
+    "start": 2051.03,
+    "duration": 5.28
+  },
+  {
+    "text": "derive amperes law just by based on this",
+    "start": 2053.46,
+    "duration": 11.55
+  },
+  {
+    "text": "simple model most importantly this model",
+    "start": 2056.31,
+    "duration": 10.829
+  },
+  {
+    "text": "requires for an electron to remain",
+    "start": 2065.01,
+    "duration": 4.23
+  },
+  {
+    "text": "stable that the electric force operates",
+    "start": 2067.139,
+    "duration": 3.871
+  },
+  {
+    "text": "between all of the bits that make up",
+    "start": 2069.24,
+    "duration": 4.71
+  },
+  {
+    "text": "that electron instantly if there's any",
+    "start": 2071.01,
+    "duration": 5.28
+  },
+  {
+    "text": "delay then the particles don't know",
+    "start": 2073.95,
+    "duration": 3.899
+  },
+  {
+    "text": "where each other are and the whole thing",
+    "start": 2076.29,
+    "duration": 2.339
+  },
+  {
+    "text": "flies apart",
+    "start": 2077.849,
+    "duration": 4.951
+  },
+  {
+    "text": "in fact he calculated that the particles",
+    "start": 2078.629,
+    "duration": 6.811
+  },
+  {
+    "text": "if they were free to move outside the",
+    "start": 2082.8,
+    "duration": 4.44
+  },
+  {
+    "text": "electron would travel from here to the",
+    "start": 2085.44,
+    "duration": 4.32
+  },
+  {
+    "text": "far side of the Andromeda galaxy in one",
+    "start": 2087.24,
+    "duration": 6.06
+  },
+  {
+    "text": "second now this gives you an idea of the",
+    "start": 2089.76,
+    "duration": 6.51
+  },
+  {
+    "text": "speed of the electric force and that",
+    "start": 2093.3,
+    "duration": 4.53
+  },
+  {
+    "text": "gives you the idea of the speed of",
+    "start": 2096.27,
+    "duration": 10.079
+  },
+  {
+    "text": "gravity it also simplified things here",
+    "start": 2097.83,
+    "duration": 10.259
+  },
+  {
+    "text": "we have the electric force explains",
+    "start": 2106.349,
+    "duration": 7.081
+  },
+  {
+    "text": "magnetism and gravity and classical",
+    "start": 2108.089,
+    "duration": 7.621
+  },
+  {
+    "text": "physics was all about simplification not",
+    "start": 2113.43,
+    "duration": 3.99
+  },
+  {
+    "text": "inventing more and more forces and",
+    "start": 2115.71,
+    "duration": 5.58
+  },
+  {
+    "text": "particles to get a Nobel Prize it was to",
+    "start": 2117.42,
+    "duration": 5.64
+  },
+  {
+    "text": "try and find out the real nature of",
+    "start": 2121.29,
+    "duration": 7.31
+  },
+  {
+    "text": "matter and the thing about",
+    "start": 2123.06,
+    "duration": 7.309
+  },
+  {
+    "text": "or one of the principles I've worked on",
+    "start": 2128.6,
+    "duration": 3.87
+  },
+  {
+    "text": "ever since getting all of these ideas is",
+    "start": 2130.369,
+    "duration": 4.351
+  },
+  {
+    "text": "that the simple of the model the more",
+    "start": 2132.47,
+    "duration": 7.71
+  },
+  {
+    "text": "likely it is to be correct and also this",
+    "start": 2134.72,
+    "duration": 7.56
+  },
+  {
+    "text": "model provides a real basis for quantum",
+    "start": 2140.18,
+    "duration": 4.7
+  },
+  {
+    "text": "behavior cause-and-effect",
+    "start": 2142.28,
+    "duration": 5.339
+  },
+  {
+    "text": "re-instated quantum theory got rid of",
+    "start": 2144.88,
+    "duration": 4.33
+  },
+  {
+    "text": "cause and effect",
+    "start": 2147.619,
+    "duration": 4.681
+  },
+  {
+    "text": "Einstein got rid of any means of",
+    "start": 2149.21,
+    "duration": 5.31
+  },
+  {
+    "text": "measuring things because he removed any",
+    "start": 2152.3,
+    "duration": 5.43
+  },
+  {
+    "text": "standards between them here the two of",
+    "start": 2154.52,
+    "duration": 9.48
+  },
+  {
+    "text": "them they got rid of physics of just R",
+    "start": 2157.73,
+    "duration": 7.95
+  },
+  {
+    "text": "it also discards the wave-particle",
+    "start": 2164.0,
+    "duration": 4.5
+  },
+  {
+    "text": "duality of life rough did some",
+    "start": 2165.68,
+    "duration": 5.78
+  },
+  {
+    "text": "experiments at great cost to himself",
+    "start": 2168.5,
+    "duration": 6.06
+  },
+  {
+    "text": "which I didn't prove his view of it but",
+    "start": 2171.46,
+    "duration": 6.25
+  },
+  {
+    "text": "I think it it helped me to understand",
+    "start": 2174.56,
+    "duration": 9.36
+  },
+  {
+    "text": "light as a wave motion only I don't",
+    "start": 2177.71,
+    "duration": 7.38
+  },
+  {
+    "text": "think I'll miss around with this",
+    "start": 2183.92,
+    "duration": 3.47
+  },
+  {
+    "text": "understands equivalence where you know",
+    "start": 2185.09,
+    "duration": 4.41
+  },
+  {
+    "text": "gravitational mass in an inertial mass",
+    "start": 2187.39,
+    "duration": 6.82
+  },
+  {
+    "text": "are said to be equivalent they're not in",
+    "start": 2189.5,
+    "duration": 8.42
+  },
+  {
+    "text": "fact even the picture there shows that",
+    "start": 2194.21,
+    "duration": 6.06
+  },
+  {
+    "text": "the guy standing on the earth is being",
+    "start": 2197.92,
+    "duration": 3.939
+  },
+  {
+    "text": "attracted to all the atoms in the earth",
+    "start": 2200.27,
+    "duration": 3.48
+  },
+  {
+    "text": "which means he's being attracted out to",
+    "start": 2201.859,
+    "duration": 3.571
+  },
+  {
+    "text": "the horizon and the others from the",
+    "start": 2203.75,
+    "duration": 3.45
+  },
+  {
+    "text": "other side of the earth it's nothing",
+    "start": 2205.43,
+    "duration": 4.08
+  },
+  {
+    "text": "like being pushed in or up in a lift or",
+    "start": 2207.2,
+    "duration": 5.55
+  },
+  {
+    "text": "in a rocket the equivalence in that",
+    "start": 2209.51,
+    "duration": 8.94
+  },
+  {
+    "text": "diagram is not there Velikovsky said",
+    "start": 2212.75,
+    "duration": 7.23
+  },
+  {
+    "text": "that the Equality of inertial and",
+    "start": 2218.45,
+    "duration": 3.39
+  },
+  {
+    "text": "gravitational mass is a remarkable",
+    "start": 2219.98,
+    "duration": 3.69
+  },
+  {
+    "text": "accidental coincidence in Newton's",
+    "start": 2221.84,
+    "duration": 7.08
+  },
+  {
+    "text": "system and he's right it's impossible to",
+    "start": 2223.67,
+    "duration": 7.26
+  },
+  {
+    "text": "adopt Einsteins equivalence principle of",
+    "start": 2228.92,
+    "duration": 3.72
+  },
+  {
+    "text": "inertia and gravity because an outside",
+    "start": 2230.93,
+    "duration": 4.74
+  },
+  {
+    "text": "observer cannot observe the earth with",
+    "start": 2232.64,
+    "duration": 4.56
+  },
+  {
+    "text": "all the lifts traveling in different",
+    "start": 2235.67,
+    "duration": 4.56
+  },
+  {
+    "text": "directions once again you've lost is",
+    "start": 2237.2,
+    "duration": 5.7
+  },
+  {
+    "text": "your measurement standard of your place",
+    "start": 2240.23,
+    "duration": 5.72
+  },
+  {
+    "text": "in the universe through Einsteins work",
+    "start": 2242.9,
+    "duration": 5.39
+  },
+  {
+    "text": "everything is relative",
+    "start": 2245.95,
+    "duration": 4.93
+  },
+  {
+    "text": "it suggests the equivalence is the same",
+    "start": 2248.29,
+    "duration": 4.72
+  },
+  {
+    "text": "because subatomic electric dipoles are",
+    "start": 2250.88,
+    "duration": 4.17
+  },
+  {
+    "text": "responsible for both the attractive",
+    "start": 2253.01,
+    "duration": 4.26
+  },
+  {
+    "text": "force of gravity and the repulsive force",
+    "start": 2255.05,
+    "duration": 4.85
+  },
+  {
+    "text": "of inertia",
+    "start": 2257.27,
+    "duration": 2.63
+  },
+  {
+    "text": "exactly the same process so you can",
+    "start": 2260.66,
+    "duration": 4.949
+  },
+  {
+    "text": "expect them to be equivalent once you",
+    "start": 2263.809,
+    "duration": 5.341
+  },
+  {
+    "text": "understand it Velikovsky said it is",
+    "start": 2265.609,
+    "duration": 5.401
+  },
+  {
+    "text": "probable that besides carrying a charge",
+    "start": 2269.15,
+    "duration": 3.87
+  },
+  {
+    "text": "the ground turns all of its atoms as",
+    "start": 2271.01,
+    "duration": 4.4
+  },
+  {
+    "text": "dipoles towards the ionosphere and",
+    "start": 2273.02,
+    "duration": 4.559
+  },
+  {
+    "text": "that's what I've been showing the last",
+    "start": 2275.41,
+    "duration": 8.82
+  },
+  {
+    "text": "few years in my presentations like this",
+    "start": 2277.579,
+    "duration": 9.391
+  },
+  {
+    "text": "and the result is that you have the",
+    "start": 2284.23,
+    "duration": 5.41
+  },
+  {
+    "text": "positive heavy nuclei drawn towards the",
+    "start": 2286.97,
+    "duration": 6.48
+  },
+  {
+    "text": "center of mass and the other pole the",
+    "start": 2289.64,
+    "duration": 5.459
+  },
+  {
+    "text": "negative poles facing outwards and this",
+    "start": 2293.45,
+    "duration": 5.07
+  },
+  {
+    "text": "changes our view of celestial dynamics",
+    "start": 2295.099,
+    "duration": 7.351
+  },
+  {
+    "text": "immediately but this is Velikovsky",
+    "start": 2298.52,
+    "duration": 6.51
+  },
+  {
+    "text": "didn't take this step in fact it took me",
+    "start": 2302.45,
+    "duration": 5.52
+  },
+  {
+    "text": "decades to take this step because it",
+    "start": 2305.03,
+    "duration": 5.759
+  },
+  {
+    "text": "raises all sorts of other issues I'm",
+    "start": 2307.97,
+    "duration": 6.66
+  },
+  {
+    "text": "pleased to say that I mean this infers",
+    "start": 2310.789,
+    "duration": 7.471
+  },
+  {
+    "text": "that the insides of celestial bodies are",
+    "start": 2314.63,
+    "duration": 6.659
+  },
+  {
+    "text": "hollow because you've got a repulsive",
+    "start": 2318.26,
+    "duration": 6.18
+  },
+  {
+    "text": "force pushing outwards and a repulsive",
+    "start": 2321.289,
+    "duration": 4.711
+  },
+  {
+    "text": "force from the rest of the matter in the",
+    "start": 2324.44,
+    "duration": 4.05
+  },
+  {
+    "text": "universe pushing inwards and the most",
+    "start": 2326.0,
+    "duration": 5.99
+  },
+  {
+    "text": "stable form in that case is a thick",
+    "start": 2328.49,
+    "duration": 7.859
+  },
+  {
+    "text": "spherical shell which means that we know",
+    "start": 2331.99,
+    "duration": 6.46
+  },
+  {
+    "text": "nothing about what's inside the earth or",
+    "start": 2336.349,
+    "duration": 7.581
+  },
+  {
+    "text": "the Sun or any other body or the moon I",
+    "start": 2338.45,
+    "duration": 10.23
+  },
+  {
+    "text": "was on well to say at various times in",
+    "start": 2343.93,
+    "duration": 8.439
+  },
+  {
+    "text": "my journey in the electric universe I've",
+    "start": 2348.68,
+    "duration": 5.07
+  },
+  {
+    "text": "come to a point where I've said oh my",
+    "start": 2352.369,
+    "duration": 1.891
+  },
+  {
+    "text": "god",
+    "start": 2353.75,
+    "duration": 2.43
+  },
+  {
+    "text": "how am I ever going to tell anyone about",
+    "start": 2354.26,
+    "duration": 4.92
+  },
+  {
+    "text": "this because you know it's really",
+    "start": 2356.18,
+    "duration": 5.879
+  },
+  {
+    "text": "confronting I mean it's like going from",
+    "start": 2359.18,
+    "duration": 7.49
+  },
+  {
+    "text": "the Flat Earth to a spherical earth and",
+    "start": 2362.059,
+    "duration": 4.611
+  },
+  {
+    "text": "it takes time to get over that until I",
+    "start": 2366.7,
+    "duration": 5.26
+  },
+  {
+    "text": "find enough evidence that I feel I can",
+    "start": 2369.619,
+    "duration": 4.081
+  },
+  {
+    "text": "actually give a story which is",
+    "start": 2371.96,
+    "duration": 5.28
+  },
+  {
+    "text": "convincing and I knew that I had to look",
+    "start": 2373.7,
+    "duration": 6.06
+  },
+  {
+    "text": "for seismic evidence to show that it's a",
+    "start": 2377.24,
+    "duration": 5.94
+  },
+  {
+    "text": "shell and not a solid sphere or even a",
+    "start": 2379.76,
+    "duration": 6.72
+  },
+  {
+    "text": "solid and liquid sphere part of the",
+    "start": 2383.18,
+    "duration": 6.08
+  },
+  {
+    "text": "evidence came from the Apollo",
+    "start": 2386.48,
+    "duration": 5.339
+  },
+  {
+    "text": "moon landings the first ones where they",
+    "start": 2389.26,
+    "duration": 5.17
+  },
+  {
+    "text": "crashed the one of the the Lunar Module",
+    "start": 2391.819,
+    "duration": 4.951
+  },
+  {
+    "text": "back into the moon having placed a",
+    "start": 2394.43,
+    "duration": 4.409
+  },
+  {
+    "text": "seismometer on the moon so this was the",
+    "start": 2396.77,
+    "duration": 5.549
+  },
+  {
+    "text": "first seismic experiment on any other",
+    "start": 2398.839,
+    "duration": 6.931
+  },
+  {
+    "text": "body than the earth and what was the",
+    "start": 2402.319,
+    "duration": 6.99
+  },
+  {
+    "text": "result the moon rang like a bill for",
+    "start": 2405.77,
+    "duration": 5.809
+  },
+  {
+    "text": "almost an hour",
+    "start": 2409.309,
+    "duration": 4.831
+  },
+  {
+    "text": "well that one set the geologists back on",
+    "start": 2411.579,
+    "duration": 4.54
+  },
+  {
+    "text": "their heels because the most obvious",
+    "start": 2414.14,
+    "duration": 3.8
+  },
+  {
+    "text": "answer is that the moon is hollow",
+    "start": 2416.119,
+    "duration": 4.081
+  },
+  {
+    "text": "but of course they couldn't accept that",
+    "start": 2417.94,
+    "duration": 5.139
+  },
+  {
+    "text": "so they've made a really complicated",
+    "start": 2420.2,
+    "duration": 6.57
+  },
+  {
+    "text": "story to try and get around it but then",
+    "start": 2423.079,
+    "duration": 5.461
+  },
+  {
+    "text": "I came across that somebody sent me a",
+    "start": 2426.77,
+    "duration": 6.39
+  },
+  {
+    "text": "link to work by a South African he was",
+    "start": 2428.54,
+    "duration": 7.049
+  },
+  {
+    "text": "also in I tears I had been from all of",
+    "start": 2433.16,
+    "duration": 6.179
+  },
+  {
+    "text": "my career and he'd come to look at deep",
+    "start": 2435.589,
+    "duration": 6.181
+  },
+  {
+    "text": "earthquakes because he was interested in",
+    "start": 2439.339,
+    "duration": 5.22
+  },
+  {
+    "text": "this the old stories of Hollow Earth and",
+    "start": 2441.77,
+    "duration": 4.17
+  },
+  {
+    "text": "theories because they gave back hundreds",
+    "start": 2444.559,
+    "duration": 1.941
+  },
+  {
+    "text": "of years",
+    "start": 2445.94,
+    "duration": 5.22
+  },
+  {
+    "text": "and he found that the best answer to the",
+    "start": 2446.5,
+    "duration": 8.5
+  },
+  {
+    "text": "seismic evidence was that the earth is a",
+    "start": 2451.16,
+    "duration": 7.8
+  },
+  {
+    "text": "shell a hollow shell and when I looked",
+    "start": 2455.0,
+    "duration": 5.28
+  },
+  {
+    "text": "at his evidence he'd done a very good",
+    "start": 2458.96,
+    "duration": 4.649
+  },
+  {
+    "text": "job of analyzing and I realized here we",
+    "start": 2460.28,
+    "duration": 6.299
+  },
+  {
+    "text": "have sufficient evidence to really",
+    "start": 2463.609,
+    "duration": 8.49
+  },
+  {
+    "text": "investigate further you'll notice too",
+    "start": 2466.579,
+    "duration": 8.01
+  },
+  {
+    "text": "that the outside of every celestial body",
+    "start": 2472.099,
+    "duration": 4.861
+  },
+  {
+    "text": "will have a negative pole facing",
+    "start": 2474.589,
+    "duration": 4.441
+  },
+  {
+    "text": "outwards it's like having the same pole",
+    "start": 2476.96,
+    "duration": 4.68
+  },
+  {
+    "text": "of a magnet in a shape of a sphere and",
+    "start": 2479.03,
+    "duration": 4.529
+  },
+  {
+    "text": "if you have two of those bodies you try",
+    "start": 2481.64,
+    "duration": 3.15
+  },
+  {
+    "text": "and push them together you all know what",
+    "start": 2483.559,
+    "duration": 2.971
+  },
+  {
+    "text": "it's like trying to push like poles of a",
+    "start": 2484.79,
+    "duration": 5.7
+  },
+  {
+    "text": "magnet magnets together so all stars and",
+    "start": 2486.53,
+    "duration": 5.73
+  },
+  {
+    "text": "planets in the universe repel each other",
+    "start": 2490.49,
+    "duration": 5.46
+  },
+  {
+    "text": "with an inverse square law this answered",
+    "start": 2492.26,
+    "duration": 5.97
+  },
+  {
+    "text": "a question that troubled Helton up",
+    "start": 2495.95,
+    "duration": 4.68
+  },
+  {
+    "text": "because his research which I think is",
+    "start": 2498.23,
+    "duration": 6.389
+  },
+  {
+    "text": "outstanding showed that the universe is",
+    "start": 2500.63,
+    "duration": 5.82
+  },
+  {
+    "text": "balanced it's not collapsing it's not",
+    "start": 2504.619,
+    "duration": 4.2
+  },
+  {
+    "text": "expanding it seems to be just hanging",
+    "start": 2506.45,
+    "duration": 4.619
+  },
+  {
+    "text": "there and you can't do that if gravity",
+    "start": 2508.819,
+    "duration": 5.311
+  },
+  {
+    "text": "is pulling everything together so this",
+    "start": 2511.069,
+    "duration": 6.571
+  },
+  {
+    "text": "answered that question to gravity on the",
+    "start": 2514.13,
+    "duration": 5.42
+  },
+  {
+    "text": "cosmic scale is repelled",
+    "start": 2517.64,
+    "duration": 7.67
+  },
+  {
+    "text": "if Newton's attractive force has a very",
+    "start": 2519.55,
+    "duration": 9.36
+  },
+  {
+    "text": "limited sphere of influence there is an",
+    "start": 2525.31,
+    "duration": 5.7
+  },
+  {
+    "text": "internal gravitational field that is",
+    "start": 2528.91,
+    "duration": 5.49
+  },
+  {
+    "text": "repulsive and the interiors of all",
+    "start": 2531.01,
+    "duration": 7.25
+  },
+  {
+    "text": "celestial bodies are not what we think",
+    "start": 2534.4,
+    "duration": 3.86
+  },
+  {
+    "text": "the solar system Velikovsky said",
+    "start": 2539.01,
+    "duration": 4.39
+  },
+  {
+    "text": "attraction repulsion and electromagnetic",
+    "start": 2541.75,
+    "duration": 3.95
+  },
+  {
+    "text": "circumduction act in the solar system",
+    "start": 2543.4,
+    "duration": 4.86
+  },
+  {
+    "text": "but of course Velikovsky was unaware",
+    "start": 2545.7,
+    "duration": 5.47
+  },
+  {
+    "text": "that the plasma shields electric fields",
+    "start": 2548.26,
+    "duration": 6.69
+  },
+  {
+    "text": "so is much more complex than that there",
+    "start": 2551.17,
+    "duration": 5.43
+  },
+  {
+    "text": "was no mention of either of how you",
+    "start": 2554.95,
+    "duration": 3.69
+  },
+  {
+    "text": "establish feedback to have settled the",
+    "start": 2556.6,
+    "duration": 4.25
+  },
+  {
+    "text": "solar system down from the chaotic state",
+    "start": 2558.64,
+    "duration": 6.03
+  },
+  {
+    "text": "just a few thousand years ago to the",
+    "start": 2560.85,
+    "duration": 12.34
+  },
+  {
+    "text": "present clockwork order the Sun had made",
+    "start": 2564.67,
+    "duration": 10.23
+  },
+  {
+    "text": "planets and satellites comets are all",
+    "start": 2573.19,
+    "duration": 2.91
+  },
+  {
+    "text": "charged bodies and are injured",
+    "start": 2574.9,
+    "duration": 3.12
+  },
+  {
+    "text": "interdependent this is Velikovsky once",
+    "start": 2576.1,
+    "duration": 5.58
+  },
+  {
+    "text": "again the Sun is charged negatively with",
+    "start": 2578.02,
+    "duration": 5.67
+  },
+  {
+    "text": "respect to the earth now this statement",
+    "start": 2581.68,
+    "duration": 6.36
+  },
+  {
+    "text": "is incorrect because J of Jergens later",
+    "start": 2583.69,
+    "duration": 8.91
+  },
+  {
+    "text": "work the Sun is a magnet the form of the",
+    "start": 2588.04,
+    "duration": 7.07
+  },
+  {
+    "text": "corona suggests a strong magnetic field",
+    "start": 2592.6,
+    "duration": 5.04
+  },
+  {
+    "text": "well Villa cops key was the first one to",
+    "start": 2595.11,
+    "duration": 4.42
+  },
+  {
+    "text": "talk about magnetism on other bodies",
+    "start": 2597.64,
+    "duration": 6.02
+  },
+  {
+    "text": "really in it with any coherent",
+    "start": 2599.53,
+    "duration": 7.98
+  },
+  {
+    "text": "hypothesis the bacon but he said the",
+    "start": 2603.66,
+    "duration": 6.34
+  },
+  {
+    "text": "sun's charge and rotation must produce a",
+    "start": 2607.51,
+    "duration": 4.14
+  },
+  {
+    "text": "stronger magnetic field because a",
+    "start": 2610.0,
+    "duration": 4.02
+  },
+  {
+    "text": "rotating charged body must produce a",
+    "start": 2611.65,
+    "duration": 5.25
+  },
+  {
+    "text": "dipole magnetic field that's been",
+    "start": 2614.02,
+    "duration": 4.83
+  },
+  {
+    "text": "dismissed because when they calculate",
+    "start": 2616.9,
+    "duration": 3.84
+  },
+  {
+    "text": "how much charge you need there so it's",
+    "start": 2618.85,
+    "duration": 3.86
+  },
+  {
+    "text": "impossible that they're using plain",
+    "start": 2620.74,
+    "duration": 8.1
+  },
+  {
+    "text": "electrostatics that forget plasma the",
+    "start": 2622.71,
+    "duration": 8.02
+  },
+  {
+    "text": "charged planets move as charged bodies",
+    "start": 2628.84,
+    "duration": 3.33
+  },
+  {
+    "text": "at right angles to the sun's magnetic",
+    "start": 2630.73,
+    "duration": 5.25
+  },
+  {
+    "text": "field that's what he thought in other",
+    "start": 2632.17,
+    "duration": 5.31
+  },
+  {
+    "text": "words it was more like electric motor",
+    "start": 2635.98,
+    "duration": 9.17
+  },
+  {
+    "text": "than and this is the point pardon me",
+    "start": 2637.48,
+    "duration": 7.67
+  },
+  {
+    "text": "gravity exists and gravity is a special",
+    "start": 2648.64,
+    "duration": 7.74
+  },
+  {
+    "text": "form of the electric force almost",
+    "start": 2651.79,
+    "duration": 7.47
+  },
+  {
+    "text": "identical to magnetism it's just that",
+    "start": 2656.38,
+    "duration": 4.41
+  },
+  {
+    "text": "those two forces are created under",
+    "start": 2659.26,
+    "duration": 4.05
+  },
+  {
+    "text": "different circumstances one of the free",
+    "start": 2660.79,
+    "duration": 4.11
+  },
+  {
+    "text": "subatomic level and the other one",
+    "start": 2663.31,
+    "duration": 5.55
+  },
+  {
+    "text": "trapped in an atom but they're identical",
+    "start": 2664.9,
+    "duration": 9.9
+  },
+  {
+    "text": "to that extent now the big journey came",
+    "start": 2668.86,
+    "duration": 9.6
+  },
+  {
+    "text": "when the Saturn story came up because I",
+    "start": 2674.8,
+    "duration": 5.97
+  },
+  {
+    "text": "read Dave Taylor's book published in",
+    "start": 2678.46,
+    "duration": 5.46
+  },
+  {
+    "text": "1980 as soon as it came out and writer",
+    "start": 2680.77,
+    "duration": 5.63
+  },
+  {
+    "text": "Cardona had been an inspiration to me",
+    "start": 2683.92,
+    "duration": 7.08
+  },
+  {
+    "text": "ever since the Chronos and ponse",
+    "start": 2686.4,
+    "duration": 7.48
+  },
+  {
+    "text": "articles began to be published and it",
+    "start": 2691.0,
+    "duration": 5.61
+  },
+  {
+    "text": "was in the fall of 1977 in Chronos three",
+    "start": 2693.88,
+    "duration": 5.85
+  },
+  {
+    "text": "number one do i do published the sun of",
+    "start": 2696.61,
+    "duration": 7.68
+  },
+  {
+    "text": "night which referred to saturn which",
+    "start": 2699.73,
+    "duration": 8.48
+  },
+  {
+    "text": "caught my attention of course and",
+    "start": 2704.29,
+    "duration": 3.92
+  },
+  {
+    "text": "Radha's research was sufficiently well",
+    "start": 2710.61,
+    "duration": 5.52
+  },
+  {
+    "text": "documented and thought through that I",
+    "start": 2713.53,
+    "duration": 6.33
+  },
+  {
+    "text": "used his findings as a basis for trying",
+    "start": 2716.13,
+    "duration": 6.4
+  },
+  {
+    "text": "to understand the history of the solar",
+    "start": 2719.86,
+    "duration": 5.04
+  },
+  {
+    "text": "system the recent history because I",
+    "start": 2722.53,
+    "duration": 4.65
+  },
+  {
+    "text": "wanted to know you know where did Venus",
+    "start": 2724.9,
+    "duration": 4.26
+  },
+  {
+    "text": "come from where did the earth come from",
+    "start": 2727.18,
+    "duration": 3.69
+  },
+  {
+    "text": "where did Mars come from what had",
+    "start": 2729.16,
+    "duration": 6.39
+  },
+  {
+    "text": "happened and could it be explained in in",
+    "start": 2730.87,
+    "duration": 11.31
+  },
+  {
+    "text": "proper classical physics so he and I",
+    "start": 2735.55,
+    "duration": 8.55
+  },
+  {
+    "text": "corresponded quite a lot and he",
+    "start": 2742.18,
+    "duration": 5.99
+  },
+  {
+    "text": "published many of my articles in Chronos",
+    "start": 2744.1,
+    "duration": 8.67
+  },
+  {
+    "text": "so the two of us this is where myth can",
+    "start": 2748.17,
+    "duration": 7.18
+  },
+  {
+    "text": "become science instead of as we have now",
+    "start": 2752.77,
+    "duration": 9.09
+  },
+  {
+    "text": "science becoming myth and the resulting",
+    "start": 2755.35,
+    "duration": 8.79
+  },
+  {
+    "text": "cosmological picture that emerged had to",
+    "start": 2761.86,
+    "duration": 7.8
+  },
+  {
+    "text": "be simple and coherent but as it turns",
+    "start": 2764.14,
+    "duration": 7.44
+  },
+  {
+    "text": "out the story that unfolded would make",
+    "start": 2769.66,
+    "duration": 4.41
+  },
+  {
+    "text": "2001 a Space Odyssey look like child's",
+    "start": 2771.58,
+    "duration": 5.86
+  },
+  {
+    "text": "play I'd love to see this work",
+    "start": 2774.07,
+    "duration": 10.3
+  },
+  {
+    "text": "in an IMAX theater dr. L Milton was a",
+    "start": 2777.44,
+    "duration": 8.97
+  },
+  {
+    "text": "good friend and visited us at the time",
+    "start": 2784.37,
+    "duration": 4.71
+  },
+  {
+    "text": "of Halley's Comet appearance and stayed",
+    "start": 2786.41,
+    "duration": 6.57
+  },
+  {
+    "text": "with us in Canberra I took this photo in",
+    "start": 2789.08,
+    "duration": 6.24
+  },
+  {
+    "text": "1983 I had been posted by the government",
+    "start": 2792.98,
+    "duration": 5.36
+  },
+  {
+    "text": "to London twice which was very unusual",
+    "start": 2795.32,
+    "duration": 7.92
+  },
+  {
+    "text": "in the 80s and I had invited to speak to",
+    "start": 2798.34,
+    "duration": 7.75
+  },
+  {
+    "text": "the SAS group over there it was with the",
+    "start": 2803.24,
+    "duration": 5.55
+  },
+  {
+    "text": "SAS group that I began my first writing",
+    "start": 2806.09,
+    "duration": 9.0
+  },
+  {
+    "text": "of articles and having them published in",
+    "start": 2808.79,
+    "duration": 8.91
+  },
+  {
+    "text": "1980 he and Jergens independently",
+    "start": 2815.09,
+    "duration": 4.59
+  },
+  {
+    "text": "concluded that a comet nucleus would be",
+    "start": 2817.7,
+    "duration": 4.46
+  },
+  {
+    "text": "scarred and the this is a direct quote",
+    "start": 2819.68,
+    "duration": 6.36
+  },
+  {
+    "text": "like an electrode in an arc over time",
+    "start": 2822.16,
+    "duration": 5.77
+  },
+  {
+    "text": "the cometary nucleus should become",
+    "start": 2826.04,
+    "duration": 4.74
+  },
+  {
+    "text": "cratered and pitted when a spacecraft",
+    "start": 2827.93,
+    "duration": 4.71
+  },
+  {
+    "text": "finally achieves a rendezvous with one",
+    "start": 2830.78,
+    "duration": 3.84
+  },
+  {
+    "text": "of the Comets scientists are going to be",
+    "start": 2832.64,
+    "duration": 4.05
+  },
+  {
+    "text": "surprised to find a surface pitted like",
+    "start": 2834.62,
+    "duration": 5.13
+  },
+  {
+    "text": "that of the moon Mars or mercury and",
+    "start": 2836.69,
+    "duration": 6.27
+  },
+  {
+    "text": "that was written at the time when",
+    "start": 2839.75,
+    "duration": 4.71
+  },
+  {
+    "text": "scientists had never seen a comet",
+    "start": 2842.96,
+    "duration": 4.71
+  },
+  {
+    "text": "surface the first flyby took place six",
+    "start": 2844.46,
+    "duration": 7.41
+  },
+  {
+    "text": "years later in England I caught up with",
+    "start": 2847.67,
+    "duration": 6.45
+  },
+  {
+    "text": "Eric crew who was a disciple of Charles",
+    "start": 2851.87,
+    "duration": 6.12
+  },
+  {
+    "text": "Bruce and you'd be surprised this is one",
+    "start": 2854.12,
+    "duration": 5.73
+  },
+  {
+    "text": "of the things that continues to surprise",
+    "start": 2857.99,
+    "duration": 4.29
+  },
+  {
+    "text": "me is that there seems to be no new",
+    "start": 2859.85,
+    "duration": 5.25
+  },
+  {
+    "text": "ideas under the Sun because you find",
+    "start": 2862.28,
+    "duration": 4.35
+  },
+  {
+    "text": "that people in the past have had the",
+    "start": 2865.1,
+    "duration": 3.81
+  },
+  {
+    "text": "same ideas but they've only gone so far",
+    "start": 2866.63,
+    "duration": 4.11
+  },
+  {
+    "text": "and not put the whole picture together",
+    "start": 2868.91,
+    "duration": 5.01
+  },
+  {
+    "text": "which I see as my job is putting the big",
+    "start": 2870.74,
+    "duration": 7.29
+  },
+  {
+    "text": "picture together dr. Bruce is lightning",
+    "start": 2873.92,
+    "duration": 5.7
+  },
+  {
+    "text": "research with the electrical research",
+    "start": 2878.03,
+    "duration": 3.87
+  },
+  {
+    "text": "Association and the attendance at Sydney",
+    "start": 2879.62,
+    "duration": 5.01
+  },
+  {
+    "text": "Chapman's 1941 Kelvin lecture on the Sun",
+    "start": 2881.9,
+    "duration": 4.74
+  },
+  {
+    "text": "led to the application of these ideas to",
+    "start": 2884.63,
+    "duration": 3.96
+  },
+  {
+    "text": "cosmic phenomena and to a new",
+    "start": 2886.64,
+    "duration": 7.41
+  },
+  {
+    "text": "all-electric universe Charles Bruce",
+    "start": 2888.59,
+    "duration": 7.41
+  },
+  {
+    "text": "wrote the surfaces of stars can be",
+    "start": 2894.05,
+    "duration": 3.84
+  },
+  {
+    "text": "explained as lightning discharges which",
+    "start": 2896.0,
+    "duration": 3.54
+  },
+  {
+    "text": "are observed in the atmosphere of the",
+    "start": 2897.89,
+    "duration": 8.4
+  },
+  {
+    "text": "earth in 1944 that was only a toddler",
+    "start": 2899.54,
+    "duration": 7.88
+  },
+  {
+    "text": "then",
+    "start": 2906.29,
+    "duration": 4.19
+  },
+  {
+    "text": "wrote in fact it may well be that both",
+    "start": 2907.42,
+    "duration": 5.399
+  },
+  {
+    "text": "Jupiter and Saturn were at one time -",
+    "start": 2910.48,
+    "duration": 4.26
+  },
+  {
+    "text": "stars and that their satellite systems",
+    "start": 2912.819,
+    "duration": 3.901
+  },
+  {
+    "text": "were formed as the result of minor or",
+    "start": 2914.74,
+    "duration": 6.329
+  },
+  {
+    "text": "planetary Nova outburst I couldn't have",
+    "start": 2916.72,
+    "duration": 6.649
+  },
+  {
+    "text": "said it better myself",
+    "start": 2921.069,
+    "duration": 6.571
+  },
+  {
+    "text": "Eric did a lot of work trying to get",
+    "start": 2923.369,
+    "duration": 7.93
+  },
+  {
+    "text": "Bruce acknowledged for his work and I",
+    "start": 2927.64,
+    "duration": 6.209
+  },
+  {
+    "text": "only missed him seeing him on one of my",
+    "start": 2931.299,
+    "duration": 4.32
+  },
+  {
+    "text": "occasions in England I realized before",
+    "start": 2933.849,
+    "duration": 5.52
+  },
+  {
+    "text": "he died which was unfortunate I've",
+    "start": 2935.619,
+    "duration": 5.521
+  },
+  {
+    "text": "managed to meet most of the people I",
+    "start": 2939.369,
+    "duration": 3.45
+  },
+  {
+    "text": "wanted to see because the job took me",
+    "start": 2941.14,
+    "duration": 5.64
+  },
+  {
+    "text": "around the world very often now 1994 and",
+    "start": 2942.819,
+    "duration": 6.361
+  },
+  {
+    "text": "this is 20 years after the Portland",
+    "start": 2946.78,
+    "duration": 8.12
+  },
+  {
+    "text": "making sorry after the McMaster meeting",
+    "start": 2949.18,
+    "duration": 8.7
+  },
+  {
+    "text": "Dave Talbert put on a international",
+    "start": 2954.9,
+    "duration": 5.29
+  },
+  {
+    "text": "conference called Villa Kowski ancient",
+    "start": 2957.88,
+    "duration": 4.89
+  },
+  {
+    "text": "myth and modern science and this is",
+    "start": 2960.19,
+    "duration": 5.58
+  },
+  {
+    "text": "where I saw Dave's presentation he",
+    "start": 2962.77,
+    "duration": 4.26
+  },
+  {
+    "text": "missed mine I was talking about",
+    "start": 2965.77,
+    "duration": 3.63
+  },
+  {
+    "text": "Velikovsky and the evidence for having",
+    "start": 2967.03,
+    "duration": 7.86
+  },
+  {
+    "text": "been recent recently born and I said to",
+    "start": 2969.4,
+    "duration": 6.63
+  },
+  {
+    "text": "him I think we should join forces",
+    "start": 2974.89,
+    "duration": 3.75
+  },
+  {
+    "text": "because our combined story is far more",
+    "start": 2976.03,
+    "duration": 5.809
+  },
+  {
+    "text": "powerful than either one of us alone",
+    "start": 2978.64,
+    "duration": 5.88
+  },
+  {
+    "text": "I've severed a little together with a",
+    "start": 2981.839,
+    "duration": 4.661
+  },
+  {
+    "text": "film that might be of interest if that's",
+    "start": 2984.52,
+    "duration": 6.87
+  },
+  {
+    "text": "a good time okay Mel and Amy Aitchison",
+    "start": 2986.5,
+    "duration": 8.52
+  },
+  {
+    "text": "were amongst the first people I met when",
+    "start": 2991.39,
+    "duration": 9.15
+  },
+  {
+    "text": "I went back in 1996 December and camped",
+    "start": 2995.02,
+    "duration": 7.589
+  },
+  {
+    "text": "on Dave's office floor for a month and",
+    "start": 3000.54,
+    "duration": 5.329
+  },
+  {
+    "text": "then we put on a meeting in Portland in",
+    "start": 3002.609,
+    "duration": 7.021
+  },
+  {
+    "text": "1997 Mel and Amy introduced me to help",
+    "start": 3005.869,
+    "duration": 10.061
+  },
+  {
+    "text": "nap and there was an inspiration another",
+    "start": 3009.63,
+    "duration": 10.169
+  },
+  {
+    "text": "inspiration and then in May 2000 help",
+    "start": 3015.93,
+    "duration": 5.58
+  },
+  {
+    "text": "nap spoke at our conference along with",
+    "start": 3019.799,
+    "duration": 4.681
+  },
+  {
+    "text": "Tony Pratt whom you've heard a lot about",
+    "start": 3021.51,
+    "duration": 6.359
+  },
+  {
+    "text": "and it was a historic event more",
+    "start": 3024.48,
+    "duration": 5.22
+  },
+  {
+    "text": "important I would say than the Solvay",
+    "start": 3027.869,
+    "duration": 4.081
+  },
+  {
+    "text": "conference all that those decades",
+    "start": 3029.7,
+    "duration": 4.55
+  },
+  {
+    "text": "earlier",
+    "start": 3031.95,
+    "duration": 2.3
+  },
+  {
+    "text": "Alton Hobbs views on cosmology published",
+    "start": 3034.46,
+    "duration": 4.99
+  },
+  {
+    "text": "in seeing red set the goal posts for",
+    "start": 3037.26,
+    "duration": 3.26
+  },
+  {
+    "text": "electric universe",
+    "start": 3039.45,
+    "duration": 3.74
+  },
+  {
+    "text": "cosmology are done a lot of work on the",
+    "start": 3040.52,
+    "duration": 6.3
+  },
+  {
+    "text": "Sun and the solar system this painted",
+    "start": 3043.19,
+    "duration": 5.43
+  },
+  {
+    "text": "the the bigger picture and the whole",
+    "start": 3046.82,
+    "duration": 6.53
+  },
+  {
+    "text": "thing became a more coherent cosmology",
+    "start": 3048.62,
+    "duration": 8.79
+  },
+  {
+    "text": "this is Tony paraffin I the quest to",
+    "start": 3053.35,
+    "duration": 5.8
+  },
+  {
+    "text": "understand Velikovsky's electrified",
+    "start": 3057.41,
+    "duration": 5.04
+  },
+  {
+    "text": "cosmos led to plasma cosmology a subject",
+    "start": 3059.15,
+    "duration": 5.94
+  },
+  {
+    "text": "ignored by astrophysicists despite its",
+    "start": 3062.45,
+    "duration": 4.5
+  },
+  {
+    "text": "engineering heritage and successful",
+    "start": 3065.09,
+    "duration": 5.73
+  },
+  {
+    "text": "predictions here was a critical juncture",
+    "start": 3066.95,
+    "duration": 6.3
+  },
+  {
+    "text": "when Anthony when Tony joined us at the",
+    "start": 3070.82,
+    "duration": 4.38
+  },
+  {
+    "text": "request of Dave Talbot for a conference",
+    "start": 3073.25,
+    "duration": 5.94
+  },
+  {
+    "text": "in May 2000 Tony's research gave us the",
+    "start": 3075.2,
+    "duration": 6.21
+  },
+  {
+    "text": "opportunity to verify the convergence of",
+    "start": 3079.19,
+    "duration": 3.84
+  },
+  {
+    "text": "the myth a historical record with",
+    "start": 3081.41,
+    "duration": 3.69
+  },
+  {
+    "text": "high-energy electrical discharges in",
+    "start": 3083.03,
+    "duration": 6.84
+  },
+  {
+    "text": "space plasma and this is some film of",
+    "start": 3085.1,
+    "duration": 44.1
+  },
+  {
+    "text": "the historic Portland meeting one of the",
+    "start": 3089.87,
+    "duration": 42.6
+  },
+  {
+    "text": "gas giants and then two of orbits and",
+    "start": 3129.2,
+    "duration": 10.01
+  },
+  {
+    "text": "they circularized within so so like",
+    "start": 3132.47,
+    "duration": 9.74
+  },
+  {
+    "text": "we're",
+    "start": 3139.21,
+    "duration": 3.0
+  },
+  {
+    "text": "anyway we see the our objects the",
+    "start": 3150.22,
+    "duration": 8.829
+  },
+  {
+    "text": "galaxies with ejections long line and we",
+    "start": 3156.289,
+    "duration": 5.0
+  },
+  {
+    "text": "see all their galaxies along any line",
+    "start": 3159.049,
+    "duration": 7.411
+  },
+  {
+    "text": "the way around the problem is that if",
+    "start": 3161.289,
+    "duration": 7.99
+  },
+  {
+    "text": "they come out this way without a and",
+    "start": 3166.46,
+    "duration": 6.389
+  },
+  {
+    "text": "component they only go up and down and",
+    "start": 3169.279,
+    "duration": 6.661
+  },
+  {
+    "text": "they stay along so that I think we have",
+    "start": 3172.849,
+    "duration": 6.541
+  },
+  {
+    "text": "perfectly good impairments for objects",
+    "start": 3175.94,
+    "duration": 5.129
+  },
+  {
+    "text": "being formula on the line and staying",
+    "start": 3179.39,
+    "duration": 3.899
+  },
+  {
+    "text": "along the data creates patterns that",
+    "start": 3181.069,
+    "duration": 4.49
+  },
+  {
+    "text": "have to be explained I mean this",
+    "start": 3183.289,
+    "duration": 4.891
+  },
+  {
+    "text": "configuration as it has been",
+    "start": 3185.559,
+    "duration": 5.381
+  },
+  {
+    "text": "reconstructed after this point has some",
+    "start": 3188.18,
+    "duration": 5.52
+  },
+  {
+    "text": "incredibly specific components and",
+    "start": 3190.94,
+    "duration": 4.859
+  },
+  {
+    "text": "interact between them and it is in fact",
+    "start": 3193.7,
+    "duration": 4.529
+  },
+  {
+    "text": "actually at that level of greater deal",
+    "start": 3195.799,
+    "duration": 5.28
+  },
+  {
+    "text": "that the power of the model itself just",
+    "start": 3198.229,
+    "duration": 5.25
+  },
+  {
+    "text": "begins to flower and it becomes",
+    "start": 3201.079,
+    "duration": 4.53
+  },
+  {
+    "text": "extremely compelling because it's so",
+    "start": 3203.479,
+    "duration": 4.59
+  },
+  {
+    "text": "specific the relationships are so",
+    "start": 3205.609,
+    "duration": 6.301
+  },
+  {
+    "text": "specific and it's so ludicrous how could",
+    "start": 3208.069,
+    "duration": 5.79
+  },
+  {
+    "text": "it possibly be confirmed but you know",
+    "start": 3211.91,
+    "duration": 4.23
+  },
+  {
+    "text": "exactly what needs to be firmed because",
+    "start": 3213.859,
+    "duration": 5.25
+  },
+  {
+    "text": "it's defined by these relationships you",
+    "start": 3216.14,
+    "duration": 5.579
+  },
+  {
+    "text": "go and you and there it is and it's a",
+    "start": 3219.109,
+    "duration": 5.01
+  },
+  {
+    "text": "puzzle for the I mean we have proved",
+    "start": 3221.719,
+    "duration": 4.38
+  },
+  {
+    "text": "this a thousand times",
+    "start": 3224.119,
+    "duration": 5.37
+  },
+  {
+    "text": "Deb and I were having and we would have",
+    "start": 3226.099,
+    "duration": 6.781
+  },
+  {
+    "text": "these incredible experiences just the",
+    "start": 3229.489,
+    "duration": 5.25
+  },
+  {
+    "text": "things we look for once we can identify",
+    "start": 3232.88,
+    "duration": 5.119
+  },
+  {
+    "text": "what should be found well be found I",
+    "start": 3234.739,
+    "duration": 6.961
+  },
+  {
+    "text": "have one more little clip to show and",
+    "start": 3237.999,
+    "duration": 7.77
+  },
+  {
+    "text": "this was a science meeting in London",
+    "start": 3241.7,
+    "duration": 7.079
+  },
+  {
+    "text": "where Tony and I were speaking I was",
+    "start": 3245.769,
+    "duration": 4.81
+  },
+  {
+    "text": "talking on the electric universe and the",
+    "start": 3248.779,
+    "duration": 4.56
+  },
+  {
+    "text": "certain configuration or how to explain",
+    "start": 3250.579,
+    "duration": 5.581
+  },
+  {
+    "text": "the impossible I was followed by tony",
+    "start": 3253.339,
+    "duration": 3.27
+  },
+  {
+    "text": "peratt",
+    "start": 3256.16,
+    "duration": 4.819
+  },
+  {
+    "text": "on the origins of icons from antiquity",
+    "start": 3256.609,
+    "duration": 8.76
+  },
+  {
+    "text": "it was very refreshing to to to listen",
+    "start": 3260.979,
+    "duration": 5.991
+  },
+  {
+    "text": "to wall stock on the",
+    "start": 3265.369,
+    "duration": 6.521
+  },
+  {
+    "text": "universe and guess I play a rose some",
+    "start": 3266.97,
+    "duration": 7.68
+  },
+  {
+    "text": "someone over role in establishing what",
+    "start": 3271.89,
+    "duration": 4.29
+  },
+  {
+    "text": "is called the defies me and verse",
+    "start": 3274.65,
+    "duration": 4.92
+  },
+  {
+    "text": "mention about the same thing a very",
+    "start": 3276.18,
+    "duration": 5.19
+  },
+  {
+    "text": "refreshing to see that uh feel that I've",
+    "start": 3279.57,
+    "duration": 4.55
+  },
+  {
+    "text": "worked in for gosh two-and-a-half",
+    "start": 3281.37,
+    "duration": 5.85
+  },
+  {
+    "text": "decades or so and right now I'm working",
+    "start": 3284.12,
+    "duration": 7.36
+  },
+  {
+    "text": "in something very closely related but it",
+    "start": 3287.22,
+    "duration": 6.45
+  },
+  {
+    "text": "is but it's different it's petroglyphs",
+    "start": 3291.48,
+    "duration": 6.24
+  },
+  {
+    "text": "okay it's not galaxies or rotation that",
+    "start": 3293.67,
+    "duration": 7.1
+  },
+  {
+    "text": "getting fields in galaxy switch which",
+    "start": 3297.72,
+    "duration": 6.51
+  },
+  {
+    "text": "websites are any number of publications",
+    "start": 3300.77,
+    "duration": 8.95
+  },
+  {
+    "text": "but it's carvings on rock by man in",
+    "start": 3304.23,
+    "duration": 7.83
+  },
+  {
+    "text": "prehistory now why why are these",
+    "start": 3309.72,
+    "duration": 6.06
+  },
+  {
+    "text": "important this is a picture that I took",
+    "start": 3312.06,
+    "duration": 7.47
+  },
+  {
+    "text": "on the Navajo Reservation and which is",
+    "start": 3315.78,
+    "duration": 6.9
+  },
+  {
+    "text": "absolutely typical of Federalists that",
+    "start": 3319.53,
+    "duration": 7.41
+  },
+  {
+    "text": "one will find around the world as I'm",
+    "start": 3322.68,
+    "duration": 6.63
+  },
+  {
+    "text": "going to show petroglyphs have a",
+    "start": 3326.94,
+    "duration": 5.91
+  },
+  {
+    "text": "definite orientation they also change in",
+    "start": 3329.31,
+    "duration": 6.36
+  },
+  {
+    "text": "morphology and shape depending on the",
+    "start": 3332.85,
+    "duration": 4.71
+  },
+  {
+    "text": "latitude that they're found on earth and",
+    "start": 3335.67,
+    "duration": 6.24
+  },
+  {
+    "text": "this is typically visited about their",
+    "start": 3337.56,
+    "duration": 7.08
+  },
+  {
+    "text": "six degrees latitude north so it's more",
+    "start": 3341.91,
+    "duration": 3.79
+  },
+  {
+    "text": "and",
+    "start": 3344.64,
+    "duration": 5.57
+  },
+  {
+    "text": "99 but but perfectly typical around the",
+    "start": 3345.7,
+    "duration": 7.59
+  },
+  {
+    "text": "earth and the duck shake hands up here",
+    "start": 3350.21,
+    "duration": 6.66
+  },
+  {
+    "text": "everywhere it says it's well as these",
+    "start": 3353.29,
+    "duration": 5.14
+  },
+  {
+    "text": "other symbols and I'm going to go into",
+    "start": 3356.87,
+    "duration": 9.24
+  },
+  {
+    "text": "about why my first introduction to was",
+    "start": 3358.43,
+    "duration": 9.81
+  },
+  {
+    "text": "by David Talbott I got with don't media",
+    "start": 3366.11,
+    "duration": 5.13
+  },
+  {
+    "text": "missed by accident and learned something",
+    "start": 3368.24,
+    "duration": 4.79
+  },
+  {
+    "text": "about what they were doing and then",
+    "start": 3371.24,
+    "duration": 6.3
+  },
+  {
+    "text": "action action Vickers and and I looked",
+    "start": 3373.03,
+    "duration": 7.21
+  },
+  {
+    "text": "at the pictures and I said where did you",
+    "start": 3377.54,
+    "duration": 21.51
+  },
+  {
+    "text": "get these pictures because I what am I",
+    "start": 3380.24,
+    "duration": 20.93
+  },
+  {
+    "text": "gonna do now",
+    "start": 3399.05,
+    "duration": 5.54
+  },
+  {
+    "text": "no leave it there thank you",
+    "start": 3401.17,
+    "duration": 7.4
+  },
+  {
+    "text": "[Applause]",
+    "start": 3404.59,
+    "duration": 11.009
+  },
+  {
+    "text": "[Music]",
+    "start": 3408.57,
+    "duration": 7.029
+  },
+  {
+    "text": "[Music]",
+    "start": 3418.4,
+    "duration": 3.98
+  },
+  {
+    "text": "[Music]",
+    "start": 3425.18,
+    "duration": 3.16
+  }
+]

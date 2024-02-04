@@ -1,0 +1,146 @@
+[Music]
+We recently looked at the new discovery of filament
+structures that were located in our neighborhood.
+We also saw that the nearest open star
+cluster to us revealed an important part
+of the filament structure of the galaxy spiral 
+arms. Mainstream science agrees that much of
+the interstellar medium is not simply filled with 
+empty space. Instead, they see that it is a
+hierarchical structure and facilitates
+the formation of filaments that are
+governed by the galactic potential on a large scale.
+We already know that there is a network of
+hydrogen filaments that is structured
+mostly parallel to the galactic plane.
+In 2010, astronomers discovered a highly
+filamented dark cloud which they called Nessie.
+They believe that it is one of the first
+filaments whose morphology is likely
+governed by the structural dynamics of the galaxy.
+Because of this, they dubbed this type of
+filament the bones of the Milky Way as
+they think that its formation, evolution,
+and shape could be closely linked to the global spiral
+arm structure. Within molecular clouds they discovered
+giant molecular filaments. These seem to have the
+highest masses, while exhibiting the lowest column
+densities and star forming activity, making them good
+candidates to be intermediate descendants of the atomic
+interstellar medium structures. These 
+structures are not only associated
+with spiral arms, but are also located
+in inter-arm regions. The recently
+discovered Radcliffe wave is yet another
+example of filaments in our local neighborhood.
+Even in their own simulations they found that giant
+molecular clouds often form as large filaments.
+Now obviously, they see the formation
+process a little differently and quote
+things like “In our simulations the
+galactic shear between the spiral arms
+plays a critical role in the formation
+of highly filamented structures.” Their
+assumption is also that these giant
+molecular clouds tend to sustain their
+large filamentary shape, before entering
+the spiral arms, where they are prone to
+being disrupted by local events of
+star formation and stellar feedback.
+And yet, we have examples of large filaments
+that are located in our neighborhood.
+Peering through our galaxy is not easy,
+and now astronomers think that they have
+spotted a massive filament of atomic hydrogen.
+This is one of the largest structures ever
+observed in our galaxy. It is 
+located about 55,000 lightyears
+away on the other side of the Milky Way.
+The research is based on data obtained
+by THOR, an observational program that
+relies on the Very Large Array in New Mexico.
+The project studies molecular cloud
+formation, the conversion of atomic
+molecular hydrogen, the galaxy's magnetic
+field, and other questions related to
+interstellar medium and star formation.
+The ultimate purpose is to determine how
+the two most common types of hydrogen gas converge
+to create dense clouds that give rise to new stars.
+These two types are atomic hydrogen and
+molecular hydrogen. The process of how
+atomic hydrogen transitions to molecular
+hydrogen, is still largely unknown, which
+is why finding this huge filament is so important.
+To put the size into context, the largest
+known clouds of molecular hydrogen are
+around 800 lightyears in length. This
+new cloud which they call Maggie, measures just shy
+of 4,000 lightyears long and 130 lightyears wide.
+More interesting is that parts of this
+filament extend about 1,600 lightyears
+below the plane of the Milky Way.
+When they analyze the speed of the
+material moving in the filament, they
+determined that it had a mean velocity
+of 54 kilometers per second. They 
+were also able to show that the
+velocities along the filament barely differ.
+They determined that this filament might
+be remotely linked to the global spiral
+arm structure of the Milky Way.
+They were not able to detect any carbon
+monoxide emissions or dust in the
+filament, and there were no signs of
+new stars forming along the filament.
+On closer inspection, the team noticed
+that the gas converges at various points
+along the filament which led them
+to conclude that the hydrogen gas
+accumulates into large clouds at these locations.
+The Maggie filament discloses a hub-like
+feature in the East, on which small-scale
+filaments appear to converge, and a tail
+that thins out towards the West. The North-Western
+part shows a connection to the midplane, potentially
+feeding off hydrogen material located at higher
+latitudes. So, many of you will not be surprised by
+these findings, but is there more that
+we can learn from these observations?
+An important point to note is that,
+although these filaments are composed of
+atomic hydrogen, that doesn't mean that they are
+not a plasma. Even if only one atom in 10,000 is
+ionized, it can be considered a plasma. Therefore
+the motion will be dominated electromagnetically.
+If we examine the overall structure of
+the filament and look at the centroid
+velocity, we can see that
+this speeds up and slows down.
+What might cause the velocity to speed up?
+Around these areas we also see a much
+higher density of the cloud. This is likely an indi-
+cation that electromagnetic pinching is occurring.
+This would tend to compress the material, increasing
+the density, and also increasing the velocity.
+In larger, more dense filaments, these are probably
+the areas where most star formation is taking place.
+At these points we would also expect
+Marklund convection to be strongest,
+creating a greater spread of material around these
+points, which is what we see to some extent in
+the images of the filament so far obtained.
+In Marklund convection, a hydrogen is the
+outermost ion from the center axis which becomes
+deionized or recombines with an electron.
+The diffuse nature of Maggie and 
+the lack of a CO signal, except on the
+smaller scale along the axis, suggests
+that this is a juvenile filament.
+One important aspect is also that they
+see the movement of the material in the
+filament. This once more confirms the
+idea, that it is the movement of this
+material in the filaments, which powers
+the stars that reside in them.
+[Music]

@@ -1,0 +1,274 @@
+[Music]
+We concluded the previous presentation
+by introducing recent James Webb Space
+Telescope images of the Seifert II galaxy
+NGC 7319 within Stephan's Quintet. Before
+moving to those images, we need to talk a little about
+dust and its relationship to telescopic observations.
+In the absence of any obscuring matter,
+the intensity of light emitted from a light
+source diminishes with the square of the 
+distance. Light in the visible portion of the
+spectrum can be further diminished, or
+even extinguished, as a result of being
+absorbed or scattered by matter between the source
+and receiver. Infrared light can penetrate through
+dust that is opaque to visible light. The image on your
+screen compares visibility and optical and infrared
+light in a smoke-filled room. This is a relevant example,
+because smoke from a fire is not purely a gas. In fact,
+its major constituent is particulate
+matter and those particles are tiny, just
+as dust particles in space are tiny. This
+image shows how even a relatively small
+amount of dust can effectively block a visible
+light, while allowing infrared light to pass.
+In 1784, William Herschel was heard by
+his sister Caroline to explain “There is
+truly a hole in the heavens.”
+Herschel was referring to a dark patch
+in the constellation Ophiuchus, where 
+no stars at all were visible in the field
+of view of his telescope. Herschel was
+convinced that what we now know as
+molecular clouds, were what he termed
+’vacancies’, or regions of space devoid of
+stars as far as the telescope could see. That became the
+prevailing view among astronomers and was only finally
+overturned when in the early 20th century, 
+Edward Emerson Barnard assembled a body
+of photographic evidence, showing
+that the dark regions in the Milky Way
+were opaque clouds of dust that block the 
+light of background stars. The histories
+recounted wonderfully by the radio astronomer,
+Gerrit Verschuur in his book “Interstellar Matters”.
+In this set of images of the Dark Cloud
+Barnard 68, the first two are within the
+range of visible light. The remainder,
+moving clockwise, are at increasing
+wavelengths of near infrared light.
+This is a comparison of Hubble images of
+the Pillars of Creation with a visible light image
+on the left and a near- infrared image on the right.
+Notice how the relatively tenuous, bluish
+glowing gas and dust surrounding the
+Pillars, effectively blocks the visible light
+from all but the brightest background stars.
+An ESA feature explains how dust affects
+what a telescope can see, and how that is
+dependent upon the wavelengths of light being 
+captured. Quote, “Although our eyes cannot see
+infrared radiation, we can sense it - as
+radiant heat. Infrared radiation ‘is’ heat
+and all objects, even the coldest ones, an ice 
+cube for example, emit a certain amount of heat.”
+”In fact, celestial objects with surface
+temperatures of about 2,000 degrees
+Celsius - cold compared to the Sun which
+has a surface temperature of about 5,500
+degrees Celsius - radiate most of their
+energy at infrared wavelengths... The cool
+universe is best studied in the infrared.”
+”Dust is the bane of the optical
+astronomer’s life, blocking the view of
+many interesting objects. The universe is
+full of dust, microscopic particles of
+varied composition – carbon, silicon, water
+ice, minerals, frozen carbon monoxide, organic
+compounds, silicates - the list is almost endless.”
+”The particles can be hard or soft and
+come in many different shapes, but their
+size is usually less than one micron,
+or one thousandth of a millimeter. The
+wavelengths of visible light is much the
+same size as many dust particles, so it
+is easily blocked, i.e. scattered by
+the dust, whereas longer-wavelength
+infrared radiation passes through
+unhindered and dust is therefore
+transparent to it. And in the far-infrared,
+we see the glow from dust itself.” Unquote.
+When dust scatters light, we may see some
+of that scattered light as a reflection,
+just as we see in the glowing dust
+around the Pillars of Creation, or in the
+most famous Reflection Nebula, the nebula 
+surrounding the Pleiades. However,
+as noted in the ESA feature, in the mid-infrared
+dust ceases to be transparent to infrared light and
+instead becomes visible on account of
+its own thermal emission. At these
+wavelengths a Space Telescope can
+capture the glow of the dust itself. This
+is a spectacular example with an optical
+image of the constellation of Orion on
+the left, and a mid-infrared image of 
+the same field on the right, revealing
+extensive clouds and filaments of glowing dust.
+This is Webb's MIRI and NIRCam composite
+image of Stephan's Quintet with the
+relevant portion of NGC 7319 indicated
+by the box. This is that portion of the
+Webb MIRI and NIRCam image centered on
+the quasar. Notice that the quasar is
+surrounded by a halo. With image
+processing to enhance contrast and saturation,
+the halo clearly has a hexagonal shape. A
+James Webb technical document
+illustrates the morphology of artifacts
+produced in both the MIRI imaging system
+and in the NIRCam imaging system.
+Undoubtedly, the hexagonal halo is 
+an artifact of the telescope's optics,
+primarily from the longer wavelengths of
+MIRI. Here is a larger view of NGC 7319
+from the Webb MIRI and NIRCam composite
+image of Stephan's Quintet, with the
+quasar indicated by the arrow. Note the
+prominent filamentary dust lanes. Here is
+the same region, this time from the Webb NIRCam 
+image only. Note the filamentary dust lanes have all
+but disappeared. It is plain that they are
+contributed almost entirely by the MIRI image.
+And here is the same region, again from Webb's MIRI
+image only. The dust lanes dominate this image.
+Note that the quasar coincides with a dust lane.
+Comparing the MIRI and NIRCam images
+side by side, we see that the dust lanes
+in NGC 7319 are prominent in Webb's
+mid-infrared MIRI image and all but invisible
+in Webb's near infrared NIRCam image.
+This is precisely because Webb's MIRI
+instrument was capturing mid-infrared
+light emitted by the dust itself, whereas
+Webb’s NIRCam instrument was
+capturing near-infrared light with
+wavelengths that pass through the dust,
+rendering it largely transparent at those wavelengths.
+Moreover, dust sufficient to produce the
+pronounced glow recorded in the MIRI
+image, indicates a column density that
+would, on any view, be sufficient to block
+visible light from a distant background
+visible light source. Just as the comparatively trivial
+amount of dust in the vicinity of the Pillars of Creation,
+seen in visible light as a reflection
+nebula, was able to block the visible
+light of almost all of the background stars.
+The Hubble images of Stephan's Quintet,
+released in 2000 and 2009, were both
+essentially visible-light images, albeit
+that both include light from filters at
+814 nanometers in the very near-infrared.
+Those Hubble images demonstrate one simple key
+fact - the quasar is bright in visible light.
+This collage shows the same close-up
+field, centered on the quasar from
+Hubble's 2009 visible light image at the
+top left; Webb's mid-infrared MIRI
+image at the top right; Webb's near-
+infrared NIRCam image at the bottom
+left; and Webb's MIRI and NIRCam
+composite image on the bottom right.
+In the NIRCam image, the relevant dust
+lane is not visible. Near-infrared light
+from the countless millions of stars in
+the body of the galaxy is not obscured
+by dust to any discernible extent, just as we would 
+expect. However, the Webb MIRI image and Webb
+MIRI and NIRCam composite, demonstrate
+that a substantial dust lane, seen by its
+own glow, extends all around the quasar. As
+stated, this demonstrates the presence of
+dust, sufficient on any view, to block 
+the visible light of the quasar captured in
+the Hubble image, if that visible light
+was coming from behind the galaxy - let
+alone, for more than 9 billion light years behind
+the galaxy. In the Hubble image, the dust lane
+appeared to coincide with the quasar, but there 
+was still some room to debate the matter.
+The proposition that the quasar is a
+deep-background object, shining through
+the whole disc of the dusty Seyfert II galaxy NGC 7319,
+including the substantial dust lane captured in visible
+light by Hubble - seen in both the WFC2
+image released in 2000 and the WFC3
+image released in 2009 - is quite simply
+preposterous. In summary, the Hubble and
+Webb images of the quasar associated with
+NGC 7319 are observations that simply and
+unambiguously prove that the high
+redshift quasar is a foreground object.
+These observations falsify the redshift-
+distance relationship, the foundational
+axiom upon which the whole edifice
+of Big Bang cosmology is erected.
+The wisdom of Edwin Hubble's caution 
+is demonstrated, and Halton Arp is
+vindicated yet again, just as I predicted.
+However, Standard Model astrophysicists
+and cosmologists will continue to insist
+that the quasar is not in front of the
+galaxy and must be a background object shining through
+the galaxy. If they don't, they will be forced to
+admit that these observations destroy the foundation
+of Big Bang cosmology. It's a textbook case of paradigm
+paralysis. But as Chico Marx might have put it, who 
+are you going to believe, them or your lying eyes?
+Of course the quasar in NGC 7319 only
+adds to the numerous examples that Arp
+and others have produced, demonstrating
+unequivocally the existence of physical
+connections between objects with wildly
+different redshifts. Like the connection
+between the low-redshift galaxy NGC 7603
+and a high-redshift quasar - a connection
+established even more convincingly by
+Martin Lopez Corridora and C. M. Gutierrez
+who obtained the images you see on the
+screen. Or like the connections between
+NGC 4319 and Markarian 205. A physical
+connection between these two objects of
+very different redshift, was first imaged
+by an amateur astronomer in 1970.
+Halton Arp demonstrated the reality of
+that physical connection in a paper
+published in 1971. In 2002, the Hubble
+Heritage team at the Space Telescope
+Science Institute released the image on
+the left, showing no connection, and
+accompanied by a commentary stating
+”Appearances can be deceiving. In this
+NASA Hubble Space Telescope image, an odd
+celestial duo, the spiral galaxy NGC 4319 -
+in the center - and a quasar called
+Markarian 205 - in the upper right - appear
+to be neighbors. In reality, the two
+objects don't even live in the same city.
+They are separated by time and space.
+NGC 4319 is 80 million light years from
+Earth. Markarian 205 is more than 14
+times farther away, residing one billion
+light years from Earth. The apparent
+close alignment of MRK 205 and NGC 4319
+is simply a matter of chance.” However, image processing
+of the STSI's own image file by Bernard Lempel, shown
+on the right, brings out the bridge of
+matter physically connecting these objects.
+In each of these cases, and many others,
+a physical connection is demonstrated
+between objects with redshifts, so
+different that such a connection is
+utterly Impossible on the Big Bang's
+foundational axiom. These examples,
+as powerful as they are, are but one
+component of a vast body of evidence
+accumulated by Arp and others that
+falsify the Hubble relationship and
+establish that cosmological redshift is
+intrinsic; that quasars are ejected from
+active Galactic nuclei; and evolve into
+galaxies in quantized redshift steps.
+[Music]

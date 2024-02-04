@@ -1,0 +1,1097 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe,",
+    "start": 7.25,
+    "duration": 2.78
+  },
+  {
+    "text": "brought to you by The\nThunderbolts Project™",
+    "start": 10.05,
+    "duration": 2.35
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 12.43,
+    "duration": 3.35
+  },
+  {
+    "text": "It's a notion that\ngenerations of astronomers",
+    "start": 17.18,
+    "duration": 2.47
+  },
+  {
+    "text": "have agreed upon with\nnearly unanimous consent,",
+    "start": 19.67,
+    "duration": 3.28
+  },
+  {
+    "text": "that the clockwork predictability\nwe see in our solar system today",
+    "start": 22.97,
+    "duration": 3.91
+  },
+  {
+    "text": "can be traced back over\ncountless eons of time.",
+    "start": 26.9,
+    "duration": 3.41
+  },
+  {
+    "text": "The planets and the Sun formed about\na swirling disk of gas and dust",
+    "start": 30.34,
+    "duration": 3.92
+  },
+  {
+    "text": "through a process of gravitational\ncollapse and accretion",
+    "start": 34.29,
+    "duration": 3.43
+  },
+  {
+    "text": "and for billions of years their respective\norbits have remained undisturbed.",
+    "start": 37.75,
+    "duration": 5.37
+  },
+  {
+    "text": "On our own planet, it's presumed that the\ngeological processes we see on earth today",
+    "start": 43.15,
+    "duration": 5.27
+  },
+  {
+    "text": "can be traced back over\nmany millions of years",
+    "start": 48.45,
+    "duration": 2.98
+  },
+  {
+    "text": "since a giant asteroid impact killed\nthe dinosaurs 65 million years ago.",
+    "start": 51.45,
+    "duration": 5.3
+  },
+  {
+    "text": "This is the picture of our solar system's\nfour-and-a-half billion year history,",
+    "start": 56.77,
+    "duration": 4.58
+  },
+  {
+    "text": "sanctioned for publication in\neducational textbooks for many decades.",
+    "start": 61.37,
+    "duration": 4.53
+  },
+  {
+    "text": "But this picture is\nincrementally changing",
+    "start": 65.93,
+    "duration": 3.1
+  },
+  {
+    "text": "in the face of an ever-growing\nevidentiary crisis.",
+    "start": 69.06,
+    "duration": 3.67
+  },
+  {
+    "text": "The belief that our solar system\nformed from a collapsing nebular cloud,",
+    "start": 72.75,
+    "duration": 4.24
+  },
+  {
+    "text": "finds no parallel in the thousands of\nexoplanetary systems scientists have discovered,",
+    "start": 77.02,
+    "duration": 5.38
+  },
+  {
+    "text": "including planets with\nbizarre retrograde orbits",
+    "start": 82.42,
+    "duration": 3.34
+  },
+  {
+    "text": "and Jupiter-sized planets\norbiting tiny parent stars",
+    "start": 85.78,
+    "duration": 3.57
+  },
+  {
+    "text": "at a fraction of the distance\nseparating the Earth from the Sun.",
+    "start": 89.37,
+    "duration": 3.91
+  },
+  {
+    "text": "In fact, with increasing regularity,\nmainstream scientific literature",
+    "start": 93.31,
+    "duration": 4.38
+  },
+  {
+    "text": "acknowledges that our solar system\nhas undergone dramatic changes,",
+    "start": 97.71,
+    "duration": 4.32
+  },
+  {
+    "text": "making it a very different place\nthan it was after its formation.",
+    "start": 102.05,
+    "duration": 4.08
+  },
+  {
+    "text": "Recently, scientists surveying\nnearly 1,000 exoplanets",
+    "start": 106.16,
+    "duration": 4.49
+  },
+  {
+    "text": "in over 300 multi-planet systems,\ndiscovered an astonishing pattern.",
+    "start": 110.67,
+    "duration": 4.81
+  },
+  {
+    "text": "Planets that share a star\nappear like \"peas in a pod\"",
+    "start": 115.5,
+    "duration": 4.64
+  },
+  {
+    "text": "with planetary neighbors of consistently\nsimilar sizes and regular orbital spacing.",
+    "start": 120.17,
+    "duration": 5.64
+  },
+  {
+    "text": "On the ramifications of these findings for\nan understanding of our own solar system;",
+    "start": 125.84,
+    "duration": 5.1
+  },
+  {
+    "text": "a recent Phys.org\nreports states,",
+    "start": 130.96,
+    "duration": 2.88
+  },
+  {
+    "text": "\"...in our solar system, the inner planets have\nsurprisingly large spacing and diverse sizes.",
+    "start": 133.86,
+    "duration": 6.14
+  },
+  {
+    "text": "Abundant evidence in the solar system\nsuggests that Jupiter and Saturn",
+    "start": 140.02,
+    "duration": 4.01
+  },
+  {
+    "text": "disrupted our system's\nearly structure,",
+    "start": 144.05,
+    "duration": 2.52
+  },
+  {
+    "text": "resulting in the four widely-spaced\nterrestrial planets we have today.\"",
+    "start": 146.59,
+    "duration": 4.91
+  },
+  {
+    "text": "As those who have followed the\nThunderbolts project are aware,",
+    "start": 151.53,
+    "duration": 3.42
+  },
+  {
+    "text": "for many decades our chief\nprincipals have proposed",
+    "start": 154.97,
+    "duration": 3.24
+  },
+  {
+    "text": "such a disruption to our\nsolar system structure",
+    "start": 158.24,
+    "duration": 2.61
+  },
+  {
+    "text": "though not to billions\nof years in the past",
+    "start": 160.87,
+    "duration": 2.79
+  },
+  {
+    "text": "and these catastrophes were\nnot typified by random impacts",
+    "start": 163.68,
+    "duration": 3.88
+  },
+  {
+    "text": "but by electrical\ndischarges between planets.",
+    "start": 167.58,
+    "duration": 3.13
+  },
+  {
+    "text": "Rocky planets and moons reveal\nbizarre cratering patterns",
+    "start": 170.73,
+    "duration": 3.0
+  },
+  {
+    "text": "and other features that\nhave been easily reproduced",
+    "start": 173.76,
+    "duration": 2.62
+  },
+  {
+    "text": "in decades of laboratory experiments\nwith electrical discharges.",
+    "start": 176.41,
+    "duration": 4.3
+  },
+  {
+    "text": "Material removed from\nplanetary surfaces",
+    "start": 180.74,
+    "duration": 2.93
+  },
+  {
+    "text": "formed our solar system's comets,\nasteroids and meteoroids.",
+    "start": 183.69,
+    "duration": 3.93
+  },
+  {
+    "text": "A \"radical notion\" to which scientific\ndiscovery lends increasing support.",
+    "start": 187.65,
+    "duration": 5.57
+  },
+  {
+    "text": "Today, scientific research into\narguably the most perplexing meteorite",
+    "start": 193.25,
+    "duration": 4.58
+  },
+  {
+    "text": "ever found on earth is \"rattling\"\nthe solar system's status quo,",
+    "start": 197.84,
+    "duration": 4.74
+  },
+  {
+    "text": "challenging astronomers\nfundamental ideas",
+    "start": 202.6,
+    "duration": 2.68
+  },
+  {
+    "text": "about our solar system's\nformation and history.",
+    "start": 205.31,
+    "duration": 2.89
+  },
+  {
+    "text": "Since 2013, scientists on earth",
+    "start": 208.23,
+    "duration": 3.07
+  },
+  {
+    "text": "have been studying fragments\nfrom the so called Hypatia stone,",
+    "start": 211.33,
+    "duration": 3.53
+  },
+  {
+    "text": "a tiny meteorite found in the Libyan\ndesert glass field in southwest Egypt.",
+    "start": 214.88,
+    "duration": 5.3
+  },
+  {
+    "text": "In 2015, a number of research teams\nannounced that the material",
+    "start": 220.21,
+    "duration": 4.3
+  },
+  {
+    "text": "cannot be identified based on any\nknown type of meteorite or comet.",
+    "start": 224.53,
+    "duration": 4.44
+  },
+  {
+    "text": "As reported by phys.org\nin January of this year,",
+    "start": 229.0,
+    "duration": 3.7
+  },
+  {
+    "text": "new scientific research by a team at\nthe University of Johannesburg has,",
+    "start": 232.72,
+    "duration": 4.34
+  },
+  {
+    "text": "\"...provided unsettling\nanswers that spiral away",
+    "start": 237.09,
+    "duration": 3.18
+  },
+  {
+    "text": "from conventional views of the material\nour solar system was formed from.\"",
+    "start": 240.29,
+    "duration": 4.04
+  },
+  {
+    "text": "The matrix of minerals composing the Hypatia\nstone has been described as a \"fruitcake\"",
+    "start": 244.36,
+    "duration": 5.67
+  },
+  {
+    "text": "resembling no known\nmeteorite or comet",
+    "start": 250.05,
+    "duration": 2.79
+  },
+  {
+    "text": "and consisting of strange and\nnever-before-seen combinations of minerals.",
+    "start": 252.86,
+    "duration": 4.12
+  },
+  {
+    "text": "And the dust material\nfound in the fragments",
+    "start": 257.0,
+    "duration": 2.35
+  },
+  {
+    "text": "confounds the very core of\nthe solar nebula hypothesis.",
+    "start": 259.37,
+    "duration": 4.26
+  },
+  {
+    "text": "As described by phys.org,",
+    "start": 263.63,
+    "duration": 2.15
+  },
+  {
+    "text": "\"Generally, science says that our solar\nsystem's planets ultimately formed from a",
+    "start": 265.8,
+    "duration": 4.94
+  },
+  {
+    "text": "huge, ancient cloud of interstellar\ndust (the solar nebula) in space.",
+    "start": 270.76,
+    "duration": 5.36
+  },
+  {
+    "text": "The first part of that\nprocess would be much like",
+    "start": 276.15,
+    "duration": 2.61
+  },
+  {
+    "text": "dust bunnies coagulating\nin an unswept room.",
+    "start": 278.78,
+    "duration": 3.38
+  },
+  {
+    "text": "Science also holds that the\nsolar nebula was homogeneous,",
+    "start": 282.18,
+    "duration": 3.91
+  },
+  {
+    "text": "that is, the same kind\nof dust everywhere.",
+    "start": 286.11,
+    "duration": 2.38
+  },
+  {
+    "text": "But Hypatia's chemistry\ntugs at this view.\"",
+    "start": 288.52,
+    "duration": 3.33
+  },
+  {
+    "text": "Lead investigator, professor\nJan Kramer states,",
+    "start": 291.87,
+    "duration": 3.11
+  },
+  {
+    "text": "\"For starters, there are no silicate\nminerals in Hypatia's matrix,",
+    "start": 295.0,
+    "duration": 4.33
+  },
+  {
+    "text": "in contrast to chondritic meteorites (and\nplanets like the Earth, Mars and Venus),",
+    "start": 299.33,
+    "duration": 5.46
+  },
+  {
+    "text": "where silicates are dominant.",
+    "start": 304.81,
+    "duration": 1.66
+  },
+  {
+    "text": "Then there are the exotic\nmineral inclusions.",
+    "start": 306.5,
+    "duration": 2.81
+  },
+  {
+    "text": "If Hypatia itself\nis not presolar,",
+    "start": 309.33,
+    "duration": 2.59
+  },
+  {
+    "text": "both features indicate that the solar nebula\nwasn't the same kind of dust everywhere -",
+    "start": 311.95,
+    "duration": 4.84
+  },
+  {
+    "text": "which starts tugging at the generally accepted\nview of the formation of our solar system.\"",
+    "start": 316.81,
+    "duration": 5.17
+  },
+  {
+    "text": "In part one of this\ntwo-part presentation,",
+    "start": 322.01,
+    "duration": 3.48
+  },
+  {
+    "text": "Thunderbolts colleague Peter Mungo Jupp\nbegins an examination of the Hypatia stone",
+    "start": 325.51,
+    "duration": 5.04
+  },
+  {
+    "text": "as we explore the object's ramifications\nfor the Electric Universe theory.",
+    "start": 330.58,
+    "duration": 4.56
+  },
+  {
+    "text": "The Hypatia stone, was it a\ncomet or a cosmic thunderbolt?",
+    "start": 335.43,
+    "duration": 4.85
+  },
+  {
+    "text": "Now, the Hypatia stone is a chemically\nunique carbonaceous tektite",
+    "start": 340.31,
+    "duration": 5.3
+  },
+  {
+    "text": "considered alien to earth.",
+    "start": 345.62,
+    "duration": 2.88
+  },
+  {
+    "text": "In 1996, Egyptian\ngeologist Ali Barakat",
+    "start": 348.53,
+    "duration": 4.61
+  },
+  {
+    "text": "discovered a tiny one-ounce\nstone in the Eastern Sahara.",
+    "start": 353.16,
+    "duration": 4.93
+  },
+  {
+    "text": "And ever since, scientists have\nbeen trying to figure out",
+    "start": 358.11,
+    "duration": 3.94
+  },
+  {
+    "text": "where exactly the mysterious\npebble originated.",
+    "start": 362.07,
+    "duration": 3.18
+  },
+  {
+    "text": "Recently, research at Jan Kramer’s team\nfrom the University of Johannesburg",
+    "start": 365.27,
+    "duration": 5.71
+  },
+  {
+    "text": "found its chemical composition doesn't\nresemble anything found on earth",
+    "start": 371.0,
+    "duration": 5.18
+  },
+  {
+    "text": "or in the comets or\nmeteorites they have studied.",
+    "start": 376.2,
+    "duration": 4.29
+  },
+  {
+    "text": "They therefore concluded it was\na deep-space extraterrestrial",
+    "start": 380.52,
+    "duration": 4.79
+  },
+  {
+    "text": "from behind the\nKuiper asteroid belt.",
+    "start": 385.34,
+    "duration": 3.92
+  },
+  {
+    "text": "It was discovered\namongst the supposedly",
+    "start": 389.29,
+    "duration": 3.22
+  },
+  {
+    "text": "29 million years old Libyan\ndesert glass-strewn field.",
+    "start": 392.54,
+    "duration": 4.55
+  },
+  {
+    "text": "Jan's team proposed\nthat the Hypatia stone",
+    "start": 397.12,
+    "duration": 3.95
+  },
+  {
+    "text": "is a remnant of a\ncometary nucleus fragment",
+    "start": 401.09,
+    "duration": 3.52
+  },
+  {
+    "text": "that impacted after incorporating\ngases from the atmosphere.",
+    "start": 404.63,
+    "duration": 4.88
+  },
+  {
+    "text": "Its co-occurrence with Libyan desert\nglass suggests that this fragment",
+    "start": 409.53,
+    "duration": 5.4
+  },
+  {
+    "text": "could have been part of a bolide",
+    "start": 414.96,
+    "duration": 2.98
+  },
+  {
+    "text": "that broke up and exploded in the\nair burst that formed the glass.",
+    "start": 417.97,
+    "duration": 5.34
+  },
+  {
+    "text": "Chemical analysis from the team\nsuggests the fragment was a deep-space",
+    "start": 423.34,
+    "duration": 5.29
+  },
+  {
+    "text": "extra-terrestrial from behind\nthe Kuiper asteroid belt.",
+    "start": 428.66,
+    "duration": 5.12
+  },
+  {
+    "text": "In normal chondritic meteorites,",
+    "start": 433.8,
+    "duration": 3.21
+  },
+  {
+    "text": "we expect to see a small amount of\ncarbon and a good amount of silica",
+    "start": 437.03,
+    "duration": 4.45
+  },
+  {
+    "text": "but Hypatia's matrix has a\nmassive amount of carbon",
+    "start": 441.5,
+    "duration": 4.73
+  },
+  {
+    "text": "and an unusually small\namount of silicon.",
+    "start": 446.25,
+    "duration": 3.77
+  },
+  {
+    "text": "Even more unusual, the matrix contains a high\namount of very specific carbon compounds",
+    "start": 450.04,
+    "duration": 6.95
+  },
+  {
+    "text": "called poly(cyclic)aromatic\nhydrocarbons or PAHs,",
+    "start": 457.02,
+    "duration": 4.29
+  },
+  {
+    "text": "a major component of\ninterstellar dust,",
+    "start": 461.33,
+    "duration": 3.84
+  },
+  {
+    "text": "which existed, the team claims, even\nbefore our solar system was formed.",
+    "start": 465.19,
+    "duration": 6.41
+  },
+  {
+    "text": "In another twist, most but not all,\nof the PAHs in the Hypatia matrix",
+    "start": 471.63,
+    "duration": 5.85
+  },
+  {
+    "text": "has been transformed into diamonds\nsmaller than 1 micrometer",
+    "start": 477.51,
+    "duration": 5.52
+  },
+  {
+    "text": "which are thought to have been\nformed in the shock of impact",
+    "start": 483.05,
+    "duration": 3.76
+  },
+  {
+    "text": "with the Earth's\natmosphere or surface.",
+    "start": 486.83,
+    "duration": 2.73
+  },
+  {
+    "text": "Carbon isotope data does not fit terrestrial\ncoal or carbonaceous chondrites",
+    "start": 490.23,
+    "duration": 7.1
+  },
+  {
+    "text": "as the source of the pebbles, due\nto the high carbon-13 content.",
+    "start": 497.36,
+    "duration": 6.0
+  },
+  {
+    "text": "Carbon-12 is the norm for so-called\nfossil fuel surface deposits",
+    "start": 503.39,
+    "duration": 5.55
+  },
+  {
+    "text": "containing vegetable and\nanimal fossil inclusions.",
+    "start": 508.96,
+    "duration": 4.6
+  },
+  {
+    "text": "But is there a\nbetter explanation?",
+    "start": 514.16,
+    "duration": 3.28
+  },
+  {
+    "text": "I believe their conclusions, although\npossible, are not the only explanations.",
+    "start": 517.75,
+    "duration": 5.46
+  },
+  {
+    "text": "I will build a questioning case\nagainst this controversial theory.",
+    "start": 523.23,
+    "duration": 4.94
+  },
+  {
+    "text": "Some of the team's foundational paradigms,\nin my opinion, are suspect.",
+    "start": 528.19,
+    "duration": 5.83
+  },
+  {
+    "text": "Now, firstly the claim that the\npebble is 29 millions of years old",
+    "start": 534.52,
+    "duration": 4.34
+  },
+  {
+    "text": "relies on dating procedures such as\nuranium, thorium and potassium argon",
+    "start": 538.89,
+    "duration": 5.72
+  },
+  {
+    "text": "that demands a constant half-life\nof an isotope over eons of time.",
+    "start": 544.63,
+    "duration": 6.12
+  },
+  {
+    "text": "I suspect this is a fallacy when\napplied all the catastrophic scenarios",
+    "start": 550.78,
+    "duration": 6.64
+  },
+  {
+    "text": "that have revisited earth.",
+    "start": 557.44,
+    "duration": 2.56
+  },
+  {
+    "text": "Synchrotron and many other forms\nof radiation may well order",
+    "start": 560.0,
+    "duration": 4.72
+  },
+  {
+    "text": "the internal structure of atoms\nand thus their half-life.",
+    "start": 564.74,
+    "duration": 4.21
+  },
+  {
+    "text": "Linear half-life is impossible\nto verify over eons of time",
+    "start": 568.98,
+    "duration": 5.19
+  },
+  {
+    "text": "being merely an extrapolation based\non a very narrow time sampling,",
+    "start": 574.2,
+    "duration": 5.96
+  },
+  {
+    "text": "in other words the present-day.",
+    "start": 580.19,
+    "duration": 1.84
+  },
+  {
+    "text": "Some indications are in strong denial\nof this proven scientific fact.",
+    "start": 582.72,
+    "duration": 6.25
+  },
+  {
+    "text": "Now, for instance, Rick Firestone who I\ninterviewed, a world expert in isotopes,",
+    "start": 588.99,
+    "duration": 6.15
+  },
+  {
+    "text": "who ran the cyclotron at Berkeley\nNational Laboratory, revealed as an example",
+    "start": 595.16,
+    "duration": 6.0
+  },
+  {
+    "text": "that the same isotope of cobalt-60 can\nhave dramatically different half-lives.",
+    "start": 601.19,
+    "duration": 6.33
+  },
+  {
+    "text": "He couldn't explain why, other than to\nsuggest internal changes in the nucleus.",
+    "start": 607.54,
+    "duration": 6.35
+  },
+  {
+    "text": "Could cosmic discharge events be involved\nin altering stable isotopic half-lives?",
+    "start": 613.91,
+    "duration": 7.79
+  },
+  {
+    "text": "Big question.",
+    "start": 621.72,
+    "duration": 1.74
+  },
+  {
+    "text": "So, in other words, suspect dating\nmethods were used by Jan's team",
+    "start": 623.49,
+    "duration": 4.54
+  },
+  {
+    "text": "to support explanations\nusing millions of years",
+    "start": 628.05,
+    "duration": 3.86
+  },
+  {
+    "text": "to place the Hypatia\npebble’s creation",
+    "start": 631.94,
+    "duration": 3.17
+  },
+  {
+    "text": "as part of an assembly of\nunchanged pre-solar matter.",
+    "start": 635.14,
+    "duration": 5.23
+  },
+  {
+    "text": "They claim this matter\nexisted in space",
+    "start": 640.37,
+    "duration": 4.13
+  },
+  {
+    "text": "before our Sun, the Earth and other\nplanets in our solar system were formed.",
+    "start": 644.52,
+    "duration": 6.22
+  },
+  {
+    "text": "But slow relentless change over\nmillions of years is totally unproven",
+    "start": 650.77,
+    "duration": 5.58
+  },
+  {
+    "text": "and more often dodges\nthe real explanation.",
+    "start": 656.37,
+    "duration": 3.95
+  },
+  {
+    "text": "This concept of\nuniformitarianism,",
+    "start": 660.35,
+    "duration": 3.64
+  },
+  {
+    "text": "that is everything happens gradually and\nonly as witnessed in our present world,",
+    "start": 664.01,
+    "duration": 5.57
+  },
+  {
+    "text": "is at odds to the observed catastrophic\nevents that have often driven periods",
+    "start": 669.6,
+    "duration": 6.42
+  },
+  {
+    "text": "of extremely rapid change in the\nEarth's and solar system's development.",
+    "start": 676.04,
+    "duration": 6.33
+  },
+  {
+    "text": "The result mass extinctions\nand planetary chaos",
+    "start": 682.39,
+    "duration": 4.3
+  },
+  {
+    "text": "are but one example of radical\nchemical transformation.",
+    "start": 686.71,
+    "duration": 5.77
+  },
+  {
+    "text": "Old Might Just be Young",
+    "start": 693.11,
+    "duration": 3.15
+  },
+  {
+    "text": "Now, I was fascinated to\ntalk to Louis Hissink,",
+    "start": 696.58,
+    "duration": 3.25
+  },
+  {
+    "text": "a former diamond\ngeologist with De Beers.",
+    "start": 699.86,
+    "duration": 3.34
+  },
+  {
+    "text": "He enlightened me on his escape from the\nconfines of classical geological theory.",
+    "start": 703.23,
+    "duration": 5.81
+  },
+  {
+    "text": "His epiphany came when confronted\nwith Aboriginal mythology",
+    "start": 709.06,
+    "duration": 5.27
+  },
+  {
+    "text": "that explained recent diamond formation\nin the Australian Kimberley region.",
+    "start": 714.35,
+    "duration": 5.94
+  },
+  {
+    "text": "This may also explain the presence\nof diamonds in the Hypatia stone.",
+    "start": 720.31,
+    "duration": 6.15
+  },
+  {
+    "text": "Louis was expanding exploration from\nthe famous Argyle diamond mines,",
+    "start": 726.49,
+    "duration": 5.64
+  },
+  {
+    "text": "biggest in the world, to the alluvial plains\nnear Kununurra some 150 kilometers away.",
+    "start": 732.16,
+    "duration": 7.12
+  },
+  {
+    "text": "Alluvial diamonds were\nfound in a nearby river",
+    "start": 739.31,
+    "duration": 3.41
+  },
+  {
+    "text": "but the site was yet\nto be isolated.",
+    "start": 742.74,
+    "duration": 3.25
+  },
+  {
+    "text": "A magnetic anomaly pointed\nto a concentration point.",
+    "start": 746.01,
+    "duration": 4.99
+  },
+  {
+    "text": "Now once obtaining local approval\nfrom the Gija and Miriwung tribes,",
+    "start": 751.03,
+    "duration": 6.16
+  },
+  {
+    "text": "a fascinating local\nlegend came to light.",
+    "start": 757.19,
+    "duration": 4.54
+  },
+  {
+    "text": "The verbal Australian Aboriginal legend\nstated that a giant, shining Barramundi,",
+    "start": 761.75,
+    "duration": 6.15
+  },
+  {
+    "text": "that's a fish,",
+    "start": 767.93,
+    "duration": 1.42
+  },
+  {
+    "text": "had jumped out of the ground at\nArgyle, where the diamond pipe was.",
+    "start": 769.38,
+    "duration": 5.28
+  },
+  {
+    "text": "The magnetic anomaly\nsite at distant Kununurra",
+    "start": 774.69,
+    "duration": 4.46
+  },
+  {
+    "text": "was where the aboriginals insisted\nit dived back into the earth.",
+    "start": 779.17,
+    "duration": 5.16
+  },
+  {
+    "text": "Both sites were rich in diamonds\naround their deep diamond pipes.",
+    "start": 784.35,
+    "duration": 6.11
+  },
+  {
+    "text": "Was the Barramundi\nlegend nonsense?",
+    "start": 790.48,
+    "duration": 3.25
+  },
+  {
+    "text": "Or had these people witnessed perhaps a giant\nplasmoid causing transmutation of elements",
+    "start": 793.75,
+    "duration": 7.36
+  },
+  {
+    "text": "and the creation of\ndiamonds on a grand scale.",
+    "start": 801.14,
+    "duration": 4.53
+  },
+  {
+    "text": "Now, regardless, Louis Hissink\nstarted to question",
+    "start": 805.7,
+    "duration": 4.14
+  },
+  {
+    "text": "the crusted paradigms\nof modern geology",
+    "start": 809.86,
+    "duration": 3.33
+  },
+  {
+    "text": "which, as its backbone, maintains\nthat millions of years",
+    "start": 813.21,
+    "duration": 3.83
+  },
+  {
+    "text": "are required to change\nthe topography of Earth.",
+    "start": 817.06,
+    "duration": 3.56
+  },
+  {
+    "text": "Foundational geologists Hutton and Lyell's,\nclassical theories of the 19th century,",
+    "start": 820.64,
+    "duration": 6.75
+  },
+  {
+    "text": "maintained that slow, erosional\ndecay and gentle chemical change",
+    "start": 827.42,
+    "duration": 6.05
+  },
+  {
+    "text": "is the steady tool of Earth's\ngeological dynamics.",
+    "start": 833.5,
+    "duration": 4.28
+  },
+  {
+    "text": "This theory of uniformity asserts\nthat nothing has happened on Earth",
+    "start": 837.81,
+    "duration": 5.41
+  },
+  {
+    "text": "that's not witnessed today.",
+    "start": 843.25,
+    "duration": 2.24
+  },
+  {
+    "text": "Louis pondered that if these\nparadigms were correct,",
+    "start": 845.52,
+    "duration": 3.63
+  },
+  {
+    "text": "how could historical aborigines\nwitness a diamond creating event",
+    "start": 849.15,
+    "duration": 5.98
+  },
+  {
+    "text": "supposedly millions of years old?",
+    "start": 855.15,
+    "duration": 3.42
+  },
+  {
+    "text": "Louis Hissink concluded,\nand I quote,",
+    "start": 858.6,
+    "duration": 3.21
+  },
+  {
+    "text": "\"Some of the cherished geological\ntheories we hold may be quite wrong!\"",
+    "start": 861.84,
+    "duration": 6.41
+  },
+  {
+    "text": "Our first objection to the University\nof Johannesburg's hypothesis is blunt.",
+    "start": 868.28,
+    "duration": 6.75
+  },
+  {
+    "text": "The age of the Sahara Desert is\nnowhere near 28 million years old.",
+    "start": 875.05,
+    "duration": 6.15
+  },
+  {
+    "text": "Insightful, as a witness, are the pictures\nby David Roberts, painted around the 1850s,",
+    "start": 881.23,
+    "duration": 6.78
+  },
+  {
+    "text": "which show many ancient\nEgyptian destruction sites",
+    "start": 888.03,
+    "duration": 3.83
+  },
+  {
+    "text": "such as the Kom Ombo temple; and\nthe Sphinx, half buried under sand.",
+    "start": 891.88,
+    "duration": 5.67
+  },
+  {
+    "text": "This deposition of sand and earthquake\ndamage is obviously an historical event.",
+    "start": 897.57,
+    "duration": 7.61
+  },
+  {
+    "text": "Even more direct evidence of the\nSahara desert's relatively low age",
+    "start": 905.2,
+    "duration": 5.04
+  },
+  {
+    "text": "is shown by Barth's 1850 discovery\nof drawings of herds of cattle",
+    "start": 910.26,
+    "duration": 6.38
+  },
+  {
+    "text": "rendered by the desert's\nearly dwellers.",
+    "start": 916.67,
+    "duration": 3.11
+  },
+  {
+    "text": "The animals depicted no longer inhabit\nthis area and many are generally extinct.",
+    "start": 919.8,
+    "duration": 7.89
+  },
+  {
+    "text": "Neolithic implements, vessels and weapons\nhave also been found near the drawings.",
+    "start": 927.71,
+    "duration": 7.04
+  },
+  {
+    "text": "The drawings of the cattle\ncontain disk on their horns",
+    "start": 934.77,
+    "duration": 4.78
+  },
+  {
+    "text": "similar to Egyptian drawings of disk,\ncirca 4 to 6,000 years old time frame.",
+    "start": 939.57,
+    "duration": 7.93
+  },
+  {
+    "text": "Pictures of chariots, drawn\nby horses, are found in areas",
+    "start": 947.53,
+    "duration": 4.54
+  },
+  {
+    "text": "where horses today\ncouldn't possibly survive.",
+    "start": 952.09,
+    "duration": 3.73
+  },
+  {
+    "text": "They've been revealed in both the\neastern and western parts of the Sahara.",
+    "start": 955.84,
+    "duration": 6.17
+  },
+  {
+    "text": "Men lived in these densely populated\nareas where cattle pastured,",
+    "start": 962.04,
+    "duration": 5.78
+  },
+  {
+    "text": "but where today are enormous expanses of\nsand, stretched for thousands of miles.",
+    "start": 967.84,
+    "duration": 6.25
+  },
+  {
+    "text": "Even the ancient document Papyrus Ipuwer\ndescribes a calamitous time",
+    "start": 974.12,
+    "duration": 6.84
+  },
+  {
+    "text": "when the deserts of Egypt\nwere created. Our quote is,",
+    "start": 980.98,
+    "duration": 4.42
+  },
+  {
+    "text": "\"The desert is throughout the\nland, the nomes are laid waste.\"",
+    "start": 985.43,
+    "duration": 5.2
+  },
+  {
+    "text": "So it's, that's evidence that\nthe creation of the sands",
+    "start": 990.66,
+    "duration": 3.48
+  },
+  {
+    "text": "where the desert glass and the Hypatia\nstones were found, are only recent creations.",
+    "start": 994.16,
+    "duration": 6.54
+  },
+  {
+    "text": "They're thousands of years old and not\ndue to an episode 28 million years ago.",
+    "start": 1000.72,
+    "duration": 7.58
+  },
+  {
+    "text": "Stay tuned for part 2",
+    "start": 1009.14,
+    "duration": 2.15
+  }
+]

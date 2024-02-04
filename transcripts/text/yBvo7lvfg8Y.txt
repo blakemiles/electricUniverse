@@ -1,0 +1,917 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe",
+    "start": 0.0,
+    "duration": 2.824
+  },
+  {
+    "text": "brought to you by The\nThunderbolts Project™",
+    "start": 2.849,
+    "duration": 2.276
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 5.15,
+    "duration": 3.778
+  },
+  {
+    "text": "The question of the Sun's possible\nrole in triggering large earthquakes",
+    "start": 9.095,
+    "duration": 3.951
+  },
+  {
+    "text": "is the subject of growing\nscientific interests.",
+    "start": 13.071,
+    "duration": 3.248
+  },
+  {
+    "text": "For decades, some have noted\na parent correlations",
+    "start": 16.344,
+    "duration": 3.574
+  },
+  {
+    "text": "between dramatic solar\nphenomena and seismic activity.",
+    "start": 19.943,
+    "duration": 3.632
+  },
+  {
+    "text": "Yet definitive scientific proof of\na connection has remained elusive.",
+    "start": 23.6,
+    "duration": 4.91
+  },
+  {
+    "text": "Recently, the founder of Suspicious\nObservers Ben Davidson and colleagues",
+    "start": 28.535,
+    "duration": 4.839
+  },
+  {
+    "text": "published a landmark scientific paper\nrevealing compelling statistical evidence",
+    "start": 33.399,
+    "duration": 4.322
+  },
+  {
+    "text": "of a role of solar activity in\ntriggering large earthquakes.",
+    "start": 37.746,
+    "duration": 3.891
+  },
+  {
+    "text": "We asked Ben to give us the latest\ndevelopments in his research",
+    "start": 41.662,
+    "duration": 3.536
+  },
+  {
+    "text": "as well as a brief preview\nof its forthcoming talk",
+    "start": 45.223,
+    "duration": 2.634
+  },
+  {
+    "text": "at the Thunderbolts\nconference Elegant Simplicity",
+    "start": 47.882,
+    "duration": 3.017
+  },
+  {
+    "text": "taking place June 17th to\n19th in Phoenix in Arizona.",
+    "start": 50.924,
+    "duration": 4.462
+  },
+  {
+    "text": "The foundations for investigating\nsolar triggered earthquakes",
+    "start": 55.411,
+    "duration": 5.001
+  },
+  {
+    "text": "were really a number of coincidences\nthat really just stood out among",
+    "start": 60.437,
+    "duration": 6.891
+  },
+  {
+    "text": "what seemed like\notherwise random data",
+    "start": 67.353,
+    "duration": 3.185
+  },
+  {
+    "text": "and suggested that solar phenomenon\ncould trigger earthquakes.",
+    "start": 70.563,
+    "duration": 3.966
+  },
+  {
+    "text": "Now to just look at sunspots solar\nflares or even its effects on Earth",
+    "start": 74.554,
+    "duration": 4.768
+  },
+  {
+    "text": "you look at the geomagnetic index, how\nmany geomagnetic storms is it producing",
+    "start": 79.347,
+    "duration": 4.732
+  },
+  {
+    "text": "what level, things like\nthat. Those are the main",
+    "start": 84.104,
+    "duration": 2.325
+  },
+  {
+    "text": "things people look at when they're looking\nat space weathering solar phenomena",
+    "start": 86.43,
+    "duration": 4.406
+  },
+  {
+    "text": "and that's where a lot of the\nodd coincidences can be found",
+    "start": 90.861,
+    "duration": 5.705
+  },
+  {
+    "text": "but that's not where, you know,\nthat's not where you're going to find any patterns,",
+    "start": 96.591,
+    "duration": 3.978
+  },
+  {
+    "text": "it seems like sometimes you can use those\nthings to predict earthquakes very well",
+    "start": 100.569,
+    "duration": 4.106
+  },
+  {
+    "text": "and correlate a, you know, find a\nrelationship between the Earth and the Sun",
+    "start": 104.7,
+    "duration": 4.284
+  },
+  {
+    "text": "and then other times it\nappears not to be the case.",
+    "start": 109.009,
+    "duration": 2.655
+  },
+  {
+    "text": "And so there's that question of why does there\nappear to be this on off switch, sometimes",
+    "start": 111.689,
+    "duration": 4.551
+  },
+  {
+    "text": "weeks at a time, sometimes months at a time\non and then off or, you know, weeks on or off.",
+    "start": 116.265,
+    "duration": 6.661
+  },
+  {
+    "text": "And so we started to look beyond solar\nflares and sunspots and things like that",
+    "start": 122.951,
+    "duration": 6.596
+  },
+  {
+    "text": "because we really see all of\nthese things as symptoms",
+    "start": 129.572,
+    "duration": 5.023
+  },
+  {
+    "text": "really, of something\nelse that's happening",
+    "start": 134.62,
+    "duration": 2.399
+  },
+  {
+    "text": "and that is a polar magnetic\nfield cycle on the Sun.",
+    "start": 137.044,
+    "duration": 3.942
+  },
+  {
+    "text": "This would be the solar polar fields that\ncome out of the polar regions of the Sun",
+    "start": 141.011,
+    "duration": 4.783
+  },
+  {
+    "text": "and wrap around, you know,\ntowards the equator",
+    "start": 145.819,
+    "duration": 3.125
+  },
+  {
+    "text": "and pretty much encompass\nthe entire solar system",
+    "start": 148.969,
+    "duration": 2.781
+  },
+  {
+    "text": "coming out of the Sun's poles just like Earth's\nmagnetosphere comes out of Earth's poles.",
+    "start": 151.775,
+    "duration": 5.522
+  },
+  {
+    "text": "Well this solar polar field cycle,\nwhich is the 11 year cycle,",
+    "start": 157.322,
+    "duration": 5.082
+  },
+  {
+    "text": "when it reverses is when we\nget the sunspot maximum",
+    "start": 162.429,
+    "duration": 2.845
+  },
+  {
+    "text": "and all the flares\nand things like that.",
+    "start": 165.299,
+    "duration": 1.953
+  },
+  {
+    "text": "Well not only are\nsunspots and solar flares",
+    "start": 167.277,
+    "duration": 2.349
+  },
+  {
+    "text": "and the resulting geomagnetic\nactivity at Earth",
+    "start": 169.651,
+    "duration": 2.797
+  },
+  {
+    "text": "a function of this 11 year\nsolar polar field cycle",
+    "start": 172.473,
+    "duration": 3.78
+  },
+  {
+    "text": "but even things like the\nplacement of coronal holes,",
+    "start": 176.278,
+    "duration": 2.675
+  },
+  {
+    "text": "sector boundaries in the heliosphere,\ncurrent sheath, basically the",
+    "start": 178.978,
+    "duration": 3.526
+  },
+  {
+    "text": "the magnetic character\nof the solar wind,",
+    "start": 182.529,
+    "duration": 3.054
+  },
+  {
+    "text": "the size and the position of the solar\nprominences, often referred to as plasma filaments,",
+    "start": 185.608,
+    "duration": 5.953
+  },
+  {
+    "text": "all of these things\nare actually driven",
+    "start": 191.586,
+    "duration": 2.237
+  },
+  {
+    "text": "by this underlying 11 year\nsolar polar field cycle",
+    "start": 193.848,
+    "duration": 3.824
+  },
+  {
+    "text": "that is often ascribed to being\n11 year sun spots cycle",
+    "start": 197.697,
+    "duration": 3.759
+  },
+  {
+    "text": "but really it's it's the magnetic fields\non the Sun that are really driving that.",
+    "start": 201.481,
+    "duration": 4.189
+  },
+  {
+    "text": "And when you look beyond the symptoms\nlike sunspots and solar flares",
+    "start": 205.695,
+    "duration": 4.457
+  },
+  {
+    "text": "and geomagnetic activity to the\nunderlying thing that is driving",
+    "start": 210.177,
+    "duration": 5.07
+  },
+  {
+    "text": "all of those things, the\nsolar polar magnetic fields,",
+    "start": 215.272,
+    "duration": 3.383
+  },
+  {
+    "text": "you come to something that has never once been\nanalyzed in terms of earthquakes until now",
+    "start": 218.68,
+    "duration": 5.827
+  },
+  {
+    "text": "and when it is analyzed you\nfind that this is so perfect",
+    "start": 224.532,
+    "duration": 4.414
+  },
+  {
+    "text": "of a, of a place to start this\nthe sort of new field of science",
+    "start": 228.971,
+    "duration": 5.735
+  },
+  {
+    "text": "that it really can't be ignored.",
+    "start": 234.731,
+    "duration": 2.47
+  },
+  {
+    "text": "Somewhere between 88 and 90% of the\nlargest earthquakes in the world are",
+    "start": 237.226,
+    "duration": 6.008
+  },
+  {
+    "text": "shockingly close to these polar\nmagnetic field cycle events",
+    "start": 243.259,
+    "duration": 4.991
+  },
+  {
+    "text": "and so basically what I mean\nby that is during the 11 years",
+    "start": 248.275,
+    "duration": 4.792
+  },
+  {
+    "text": "that the cycle takes place we\nget peaks in this magnetism,",
+    "start": 253.092,
+    "duration": 5.343
+  },
+  {
+    "text": "the high points in the magnetism about\ntwice a year or about 6 months apart.",
+    "start": 258.46,
+    "duration": 6.322
+  },
+  {
+    "text": "We get reversals, positive to negative,\nnegative to positive, about every 11 years.",
+    "start": 264.807,
+    "duration": 6.703
+  },
+  {
+    "text": "These things do not exactly happen all\nthe time, they're spread far apart",
+    "start": 271.535,
+    "duration": 3.951
+  },
+  {
+    "text": "and yet most of the major earthquakes on\nthe list are within just a handful of",
+    "start": 275.511,
+    "duration": 6.458
+  },
+  {
+    "text": "days of these events that happened\n6 months to years and years apart",
+    "start": 281.97,
+    "duration": 6.114
+  },
+  {
+    "text": "and we have now completed our\nforth study on this material",
+    "start": 288.109,
+    "duration": 7.469
+  },
+  {
+    "text": "the first one was published last year that\nwas between myself, Dr Kongpop U-Yen,",
+    "start": 295.603,
+    "duration": 4.62
+  },
+  {
+    "text": "who many in the EU\ncommunity know already,",
+    "start": 300.248,
+    "duration": 2.629
+  },
+  {
+    "text": "and Dr. Chris Holloman, a statistics\nprofessor from The Ohio State University",
+    "start": 302.902,
+    "duration": 4.482
+  },
+  {
+    "text": "who actually, I was able to take the pattern\nthat we all were pretty sure we saw,",
+    "start": 307.409,
+    "duration": 4.395
+  },
+  {
+    "text": "translated into mathematics and\nactually proved that it was real.",
+    "start": 311.829,
+    "duration": 4.03
+  },
+  {
+    "text": "Well since then we've done\nsubsequent analyses on...",
+    "start": 315.884,
+    "duration": 4.323
+  },
+  {
+    "text": "on the Chile 8.3 in\nSeptember of 2015",
+    "start": 320.232,
+    "duration": 4.982
+  },
+  {
+    "text": "we did a more longer-term analysis of\nthe solar polar fields just earlier,",
+    "start": 325.239,
+    "duration": 5.537
+  },
+  {
+    "text": "earlier this spring, and just\nin the last couple of days",
+    "start": 330.801,
+    "duration": 4.008
+  },
+  {
+    "text": "the data has updated enough to show us\nthat the first great earthquake of 2016",
+    "start": 334.834,
+    "duration": 4.915
+  },
+  {
+    "text": "the magnitude 7.8 that struck off the\ncoast of Indonesia on March 2nd 2016",
+    "start": 339.774,
+    "duration": 5.783
+  },
+  {
+    "text": "was indeed occurring at a negative\npeak in solar polar field magnetism",
+    "start": 345.582,
+    "duration": 5.783
+  },
+  {
+    "text": "and it was a peak that actually had not\nbeen matched on the Sun for 15 years",
+    "start": 351.39,
+    "duration": 4.949
+  },
+  {
+    "text": "so that's another way of saying\nthat as the Sun, you know,",
+    "start": 356.364,
+    "duration": 3.33
+  },
+  {
+    "text": "presents these different\nlevels of magnetism,",
+    "start": 359.719,
+    "duration": 2.75
+  },
+  {
+    "text": "the Sun had not presented Earth with\nthis level of magnetism since 2001",
+    "start": 362.494,
+    "duration": 6.006
+  },
+  {
+    "text": "at least in terms of\nthe negative polarity.",
+    "start": 368.525,
+    "duration": 3.027
+  },
+  {
+    "text": "And it does appear, now that we've gotten a\nlittle bit past that mark's second event,",
+    "start": 371.577,
+    "duration": 5.107
+  },
+  {
+    "text": "that it was indeed a peak\nin the fields cause since then the",
+    "start": 376.709,
+    "duration": 4.117
+  },
+  {
+    "text": "the total magnetic field strength of\nthe Sun has been weakening somewhat",
+    "start": 380.851,
+    "duration": 5.173
+  },
+  {
+    "text": "so that was a a long-term event and a\nshort-term significant event as well.",
+    "start": 386.049,
+    "duration": 5.427
+  },
+  {
+    "text": "And it's looking like, based on the\nlimited data we have thus far,",
+    "start": 391.501,
+    "duration": 3.991
+  },
+  {
+    "text": "this big one we just had in Ecuador\nabout a week and a half ago,",
+    "start": 395.517,
+    "duration": 3.914
+  },
+  {
+    "text": "which was on the heels of that\ndeadly earthquake in Japan,",
+    "start": 399.456,
+    "duration": 3.013
+  },
+  {
+    "text": "they happened just 24 hours apart,",
+    "start": 402.494,
+    "duration": 1.887
+  },
+  {
+    "text": "it's looking like we're gonna have\nanother peak there as well so",
+    "start": 404.406,
+    "duration": 3.661
+  },
+  {
+    "text": "we also just had the word come\nin that that first paper,",
+    "start": 408.092,
+    "duration": 4.917
+  },
+  {
+    "text": "the foundational one with myself, Dr.\nU-Yen and the Dr. Hollomon",
+    "start": 413.034,
+    "duration": 3.718
+  },
+  {
+    "text": "got its first citation, it was cited in a\npaper that was published late in 2015",
+    "start": 416.777,
+    "duration": 6.54
+  },
+  {
+    "text": "also talking about solar system\nphenomena and earthquakes.",
+    "start": 423.857,
+    "duration": 3.542
+  },
+  {
+    "text": "So what's, it really sort of came\nout of the coincidences that",
+    "start": 427.424,
+    "duration": 4.717
+  },
+  {
+    "text": "seemed to hint, that\nSun creates earthquakes",
+    "start": 432.166,
+    "duration": 4.018
+  },
+  {
+    "text": "but guided by all of the very\nconvincing research that says, hey",
+    "start": 436.209,
+    "duration": 5.193
+  },
+  {
+    "text": "you can't use sun spots\nyou can't use solar flares",
+    "start": 441.427,
+    "duration": 2.996
+  },
+  {
+    "text": "you can't use geomagnetic activity\nover long periods of time,",
+    "start": 444.448,
+    "duration": 3.4
+  },
+  {
+    "text": "here is the data. Therefore we have to conclude\nthat there is no solar induced earthquakes.",
+    "start": 447.873,
+    "duration": 5.026
+  },
+  {
+    "text": "Well, when you use that as your\nguide and you realize",
+    "start": 452.9,
+    "duration": 3.721
+  },
+  {
+    "text": "that all the things they're looking\nat are really just symptoms",
+    "start": 456.646,
+    "duration": 3.26
+  },
+  {
+    "text": "of the more driving,\nunderlying force on the Sun,",
+    "start": 459.931,
+    "duration": 3.433
+  },
+  {
+    "text": "you begin to realize how this could have\nbeen missed over the last few decades",
+    "start": 463.389,
+    "duration": 4.105
+  },
+  {
+    "text": "and just how vital this\ncan be when you see how,",
+    "start": 467.519,
+    "duration": 3.672
+  },
+  {
+    "text": "how well correlated the\nSun is with these large",
+    "start": 471.216,
+    "duration": 3.407
+  },
+  {
+    "text": "oftentimes tsunami-\ninducing earthquakes.",
+    "start": 474.958,
+    "duration": 3.041
+  },
+  {
+    "text": "Once you've nailed down,\nusing solar phenomena,",
+    "start": 478.48,
+    "duration": 4.126
+  },
+  {
+    "text": "the times when the Earth\nshould get more active,",
+    "start": 482.631,
+    "duration": 3.168
+  },
+  {
+    "text": "you then need to be wondering where\nthis activity is most likely to strike,",
+    "start": 485.824,
+    "duration": 4.844
+  },
+  {
+    "text": "where's this earthquake\ngonna happen",
+    "start": 490.693,
+    "duration": 2.052
+  },
+  {
+    "text": "and the single most promising\nthing we've ever seen",
+    "start": 492.77,
+    "duration": 4.669
+  },
+  {
+    "text": "came out of the Demeter satellite.\nI believe t'was a French satellite",
+    "start": 497.439,
+    "duration": 3.995
+  },
+  {
+    "text": "and it was detecting\nionosphere disruptions",
+    "start": 501.459,
+    "duration": 3.148
+  },
+  {
+    "text": "that seem to occur before some\nof the largest earthquakes.",
+    "start": 504.632,
+    "duration": 3.021
+  },
+  {
+    "text": "Now some scientists have written\nthese off, others have been using them",
+    "start": 507.678,
+    "duration": 4.316
+  },
+  {
+    "text": "to try to create an\nearthquake forecasting system.",
+    "start": 512.019,
+    "duration": 4.615
+  },
+  {
+    "text": "The problem is that for all the\ntimes that this Demeter data",
+    "start": 516.659,
+    "duration": 3.488
+  },
+  {
+    "text": "a couple, you know, at least a dozen\nfor all the times it was used",
+    "start": 520.172,
+    "duration": 3.976
+  },
+  {
+    "text": "to publish papers on ionosphere\ndisruptions before earthquakes,",
+    "start": 524.173,
+    "duration": 5.02
+  },
+  {
+    "text": "it was never once used to communicate\nsuch a disruption to the world",
+    "start": 529.218,
+    "duration": 4.536
+  },
+  {
+    "text": "as hey, watch out,\nan earthquake may happen here.",
+    "start": 533.779,
+    "duration": 3.054
+  },
+  {
+    "text": "A lot of this stems out of what happened\nin Italy with the earthquake scientists,",
+    "start": 536.858,
+    "duration": 4.818
+  },
+  {
+    "text": "a lot of folks are worried about, you\nknow, liability with things like that",
+    "start": 541.701,
+    "duration": 5.144
+  },
+  {
+    "text": "and as of now there are some promising ideas\nin terms of looking at the ionosphere",
+    "start": 546.87,
+    "duration": 7.309
+  },
+  {
+    "text": "but they're in their infancy.",
+    "start": 554.52,
+    "duration": 2.022
+  },
+  {
+    "text": "What may be a better thing to do is what\nactually I'm trying to do right now.",
+    "start": 556.567,
+    "duration": 5.943
+  },
+  {
+    "text": "Many folks who are listening to this will\nknow that we successfully completed",
+    "start": 562.535,
+    "duration": 3.898
+  },
+  {
+    "text": "our second Kickstarter\ncampaign earlier this year,",
+    "start": 566.458,
+    "duration": 2.741
+  },
+  {
+    "text": "we've raised $120,000 to create\nthe disaster prediction app,",
+    "start": 569.224,
+    "duration": 4.617
+  },
+  {
+    "text": "and that is going\nto do two things.",
+    "start": 573.866,
+    "duration": 1.88
+  },
+  {
+    "text": "One, it's going to be using those space\nweather phenomena we described earlier",
+    "start": 575.771,
+    "duration": 3.33
+  },
+  {
+    "text": "to warn of times when Earth\nis going to get more active",
+    "start": 579.126,
+    "duration": 3.534
+  },
+  {
+    "text": "but also we're going to be tracking\nthe data that comes in on the GPS,",
+    "start": 582.685,
+    "duration": 4.751
+  },
+  {
+    "text": "the magnetometer and on the EMF monitor\nwithin most of these cell phones,",
+    "start": 587.461,
+    "duration": 4.773
+  },
+  {
+    "text": "iPhones have all those and\nmany Androids do as well.",
+    "start": 592.259,
+    "duration": 3.346
+  },
+  {
+    "text": "And so what we're going to be able to\ndo is, we're going to be able to see",
+    "start": 595.63,
+    "duration": 4.478
+  },
+  {
+    "text": "when there are multiple signals from\ndifferent cell phones in a given area",
+    "start": 600.133,
+    "duration": 4.804
+  },
+  {
+    "text": "that are showing the\nsame type of anomaly.",
+    "start": 604.962,
+    "duration": 2.382
+  },
+  {
+    "text": "Maybe there's ten different\ncell phones in Los Angeles",
+    "start": 607.369,
+    "duration": 2.865
+  },
+  {
+    "text": "and all of a sudden their GPS says\nthey're in the Pacific ocean.",
+    "start": 610.259,
+    "duration": 3.514
+  },
+  {
+    "text": "What are the chances that all ten got\ncatapulted thousand miles west at the same time.",
+    "start": 613.798,
+    "duration": 4.67
+  },
+  {
+    "text": "Or perhaps there is a\nmagnetic field disruption",
+    "start": 618.493,
+    "duration": 3.197
+  },
+  {
+    "text": "of a certain micro-Tesla that's\nread by 20 cell phones in Seattle,",
+    "start": 621.715,
+    "duration": 5.075
+  },
+  {
+    "text": "what are the chances they're all standing next\nto the exact same microwave with the door open.",
+    "start": 626.815,
+    "duration": 6.089
+  },
+  {
+    "text": "There are things like this where you start\nto say okay, we can use some of these signals",
+    "start": 632.929,
+    "duration": 4.38
+  },
+  {
+    "text": "because it's more than just the\nionosphere, we've seen everything from",
+    "start": 637.309,
+    "duration": 3.173
+  },
+  {
+    "text": "animal behavior going wild to positive\nion emission prior to earthquakes",
+    "start": 640.507,
+    "duration": 4.591
+  },
+  {
+    "text": "but also radio frequencies emerging\nand, sort of, spiking in power.",
+    "start": 645.123,
+    "duration": 4.252
+  },
+  {
+    "text": "You've seen magnetic field disruptions as\nwell and you've seen GPS disruptions,",
+    "start": 649.4,
+    "duration": 5.092
+  },
+  {
+    "text": "just about every phone has a\nGPS detector in it as well.",
+    "start": 654.517,
+    "duration": 3.211
+  },
+  {
+    "text": "So what we're hoping to do is not wait to\ninstall a bunch of very expensive machines",
+    "start": 657.753,
+    "duration": 7.419
+  },
+  {
+    "text": "all over the world that may have to be recalibrated\nif they get hit by lightning or something,",
+    "start": 665.197,
+    "duration": 5.99
+  },
+  {
+    "text": "we are going to actually have this at monitoring\nsome of the electromagnetic conditions",
+    "start": 671.212,
+    "duration": 6.224
+  },
+  {
+    "text": "around the globe around\nthese areas and hopefully",
+    "start": 677.461,
+    "duration": 2.396
+  },
+  {
+    "text": "there will be enough people with\nthese things on their cell phones",
+    "start": 679.882,
+    "duration": 2.303
+  },
+  {
+    "text": "that will be able to get some concrete data and\nactually start to be able to predict locations.",
+    "start": 682.21,
+    "duration": 4.658
+  },
+  {
+    "text": "So looking at the different\nelectromagnetic signals",
+    "start": 686.893,
+    "duration": 2.785
+  },
+  {
+    "text": "and that really is the\nonly way to do this,",
+    "start": 689.678,
+    "duration": 1.701
+  },
+  {
+    "text": "electricity is the great\nsnitch of the universe",
+    "start": 691.379,
+    "duration": 3.608
+  },
+  {
+    "text": "she's gonna tell us pretty much\neverything that's going to happen",
+    "start": 695.012,
+    "duration": 3.415
+  },
+  {
+    "text": "we just have to learn how\nto listen the right way.",
+    "start": 698.452,
+    "duration": 3.213
+  },
+  {
+    "text": "In June this year I'll be giving\nanother talk, third year in a row,",
+    "start": 701.69,
+    "duration": 4.449
+  },
+  {
+    "text": "at the Electric Universe\nconference in Phoenix",
+    "start": 706.139,
+    "duration": 2.913
+  },
+  {
+    "text": "and this year it's going to be a little\nless specific and a little bit more",
+    "start": 709.077,
+    "duration": 5.327
+  },
+  {
+    "text": "macro view of a lot of the things\nthat are going on in the community",
+    "start": 714.429,
+    "duration": 4.934
+  },
+  {
+    "text": "and a lot of the paths forward\nthat seem to be most promising.",
+    "start": 719.388,
+    "duration": 3.996
+  },
+  {
+    "text": "We have, on the horizon, a period of\ngreat change as some of our leaders",
+    "start": 723.409,
+    "duration": 6.328
+  },
+  {
+    "text": "will be looking to others to carry this story forward\nas we look twenty, thirty years down the line",
+    "start": 729.762,
+    "duration": 7.223
+  },
+  {
+    "text": "and so what does the future of\nthe Electric Universe look like,",
+    "start": 737.01,
+    "duration": 4.568
+  },
+  {
+    "text": "and hopefully I'll be able to convince\neveryone that it is a promising future",
+    "start": 741.603,
+    "duration": 5.763
+  },
+  {
+    "text": "from a vastly interdisciplinary\nfield of view,",
+    "start": 747.391,
+    "duration": 4.672
+  },
+  {
+    "text": "talking about a very broad range of\ndisciplines, a very broad range of interests",
+    "start": 752.088,
+    "duration": 4.685
+  },
+  {
+    "text": "that are going to end up being advanced\nand coming around to really embrace",
+    "start": 756.798,
+    "duration": 5.259
+  },
+  {
+    "text": "some of the electric ideas that have been tossed\naround in the community the last few years.",
+    "start": 762.082,
+    "duration": 4.91
+  },
+  {
+    "text": "For continuous updates on Space\nNews from the Electric Universe",
+    "start": 768.093,
+    "duration": 3.992
+  },
+  {
+    "text": "stay tuned to",
+    "start": 772.11,
+    "duration": 1.146
+  },
+  {
+    "text": "Thunderbolts.info",
+    "start": 773.281,
+    "duration": 3.034
+  }
+]

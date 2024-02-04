@@ -1,0 +1,272 @@
+Good afternoon.
+This is a great conference,
+it takes a huge amount of work and an
+effort to organize an event like this,
+so, to all the organizers,
+thank you very much.
+I'm glad...
+I'm glad to be here today and talk
+to you about the instrumentation,
+data acquisition, data
+transformation and analysis.
+My job with the SAFIRE team is to not
+only collect data from the experiment
+but the collect it in such a way
+so that it can be used after
+an experiment has been done
+for our team to more easily see
+relationships between various events
+that are occurring
+during the experiment.
+Further to this point is to also be able
+to pull the data from an experiment,
+so we can do detailed analysis
+on those relationships.
+In these data and the integrity...
+it is these data and the
+integrity of these data,
+which is vital to the quality
+of the work that we do.
+But first, I would like to talk to
+you about what is an experiment,
+how experiments were done in the past
+and how the SAFIRE team does them today.
+An experiment is a procedure to
+test a concept or hypotheses.
+The reasons why we do
+experiment is to gain insight
+into what causes are involved
+in an observed effect,
+which may support the hypothesis or
+show that the hypothesis is false.
+Galileo's hypothesis was that on Earth
+all object fall at the same rate,
+but prior to these most people thought
+that the heavy ball should drop faster.
+Galileo found that his
+hypothesis was correct,
+but the big question
+became, why?
+Why are they dropping
+at the same rate?
+It was not until Sir Isaac Newton
+defined the law of gravity,
+that scientists started to understand
+why the balls fell and the same rate.
+So, as science progresses and
+experiments become more sophisticated
+the causes of effects become
+more difficult to determine.
+This also means it is more important to
+conduct a robust or repeatable experiments
+and use measurement devices capable
+of high degree of accuracy.
+It also becomes more challenging
+to clearly show to everyone
+the causes of a
+particular effect.
+I want to introduce the important
+concept of time in an experiment
+we start over the beaker of cold water and
+we are going to heat the water one way
+and then we will hit the
+water by any another method
+you need to add a stopwatch
+and the thermometer,
+so we can see how long it
+takes to boil the water.
+Now if you added the heat
+we will watch and document how
+long it takes the water to boil.
+After approximately 10 minutes,
+the water comes to full boil.
+But then I ask myself, is there more
+effective and quicker way to hit the water?
+I had the idea that if you could use
+the afterburner of an American F18
+that might be a more effective
+method to heat the water.
+I discovered that,
+in fact I was right.
+It took approximately 0.05 nanoseconds, to
+not only hit the water, but vaporize it.
+and the beaker with it.
+I suggested to Monte that
+we should keep the F18,
+but he was mumbling something
+about budget constraints.
+Now, back in today, when
+scientists work in the laboratory
+they had to document
+everything manually,
+as experiments got more complex
+it required more scientists
+to record and collect data
+they created procedures on
+how to collect the data.
+Aligning the data to the same time
+line was a challenge in the past
+as it is today.
+Then plott of the data and
+finally do analysis of the data
+to determine the
+cause of the effects.
+So, as experiments
+become more complex
+the necessity of more sophisticated
+methods of measurement
+become vital to the
+success of the experiment.
+Let us have a look at the
+progress of the data acquisition
+specifically in this case
+capturing of what have seen.
+This picture of the Egyptian Sun was most
+likely creative with a hammer and chisel.
+In the mid 1800's an astronomer
+and physicist Warren de La Rue
+design and built the first cube photograph,
+used to photograph the sun's corona.
+For his time this was a major
+scientific breakthrough,
+since up until this time no known photographs
+of the sun's corona ever existed.
+But as we all know advances in the technology
+of the ions have help humanity in many ways
+and we now have through the hard
+work of Lockheed Martin and NASA
+the Solar Dynamics Observatory.
+What we are looking at
+is a full disk multi-wavelength Extreme
+Ultra Violet image of the Sun,
+taken by SDO on March 30th 2010.
+For scholars trace different
+gas temperatures,
+and these temperatures are
+represented in their own images
+as the Olight spectrometer
+returns this light spectra.
+At the top of this graph we are looking at
+the SDO broad light spectrum from the Sun.
+Below we are looking at
+the actual light spectra
+converted to specific
+light wavelength peaks,
+every element and it's very specific light
+spectral signature, when it is ionized.
+And it is by using optical
+spectroscopy you can tell
+what elements make up
+the light from the Sun.
+or, in our case, the light
+is coming from SAFIRE
+this is a SAFIRE plasma
+discharge and the light we get.
+And this is an example of spectral signatures
+we get back from the optical spectrometer.
+The SAFIRE experiment is based on Monte's
+announces of the electric Sun model
+of charged plasma affecting the matter
+of a different electrical potential.
+So, we introduce electrical power
+in the form of voltage and current
+than chamber pressure
+and plasma gas types.
+And when these factors are
+introduced into the experiment,
+then we measure these responses:
+Plasma voltage and current;
+Chamber pressure;
+Plasma gas types;
+Light spectra;
+Langmuir probes voltages;
+Temperature;
+Video capture;
+Photography.
+Here is a picture of
+phase one of SAFIRE
+showing the array of many instruments
+we are using to acquire data.
+As each instrument
+is acquiring data
+we also recorded video of each
+instrument computer monitor.
+This is the mass spectroscopy,
+this is a screen of voltage
+current and pressure gauge,
+this is a screen of
+the light spectra.
+And we also conduct
+synchronize video recording
+of the changes in the SAFIRE
+chamber in real time,
+this then consolidate all the video
+feeds into one master video,
+as a video recording
+of each experiment.
+This is the grand tour of the video, it
+helps our team very effectively recognize
+the points of interest that
+happened during the experiment.
+Let us investigate how data
+acquisition devices work.
+You have seen some of the results, now let's
+take a look at the vorish under the root.
+There is an analog-to-digital converter at
+the heart of each data acquisition device.
+The controller connects the data acquisition
+device and collects the digital data.
+The computer communicates
+with the controller,
+reach the controller's
+data and stores the data.
+The data acquisition path follows
+from the data acquisition device
+through the controller into the
+computer where all the data is stored.
+A data transformation engine takes
+all the data from the experiment
+and transforms the data into
+comprehensive graphical overlays
+and this is to help the SAFIRE
+team to analyze the data
+looking for causes of the effects
+the observer of the time.
+Here we have thousands of data
+points of the plasma current,
+now be overly the voltage,
+and high pressure measurements,
+and high vacuum pressure measurements
+and these are just a few,
+there are thousands and
+thousands of data points.
+But what we see is that in
+this region, for example,
+after the pressure drop in the chamber, there
+is a huge spike in voltage and current.
+The data transformation
+engine allows us
+to zoom into these regions
+with extremely high resolution
+and we see that both, the
+voltage and current,
+are discharging out in
+this region of the graph.
+What we discovered was quite
+profound, that during a short time
+SAFIRE had an intense plasma discharge
+that measured over 2 million watts.
+What is so profound is that we limited
+the input power to only 1800 watts.
+The transformation engine
+allows us to zoom in
+and examine in extremely high
+detail these points of interests.
+It is these kind of information
+that helps us determine
+what factors need to be used
+in the design of experiments
+that Dr. Paul Anderson
+will present now.
+Thank you.
+Thunderbolts.info

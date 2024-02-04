@@ -1,0 +1,1177 @@
+[
+  {
+    "text": "Welcome to Space News from the Electric\nUniverse, brought to you by",
+    "start": 6.77,
+    "duration": 5.545
+  },
+  {
+    "text": "The Thunderbolts Project™\nat Thunderbolts. info",
+    "start": 12.316,
+    "duration": 2.678
+  },
+  {
+    "text": "In recent days, NASA's New Horizons team\nhas released what is the best closest up",
+    "start": 22.02,
+    "duration": 7.149
+  },
+  {
+    "text": "image to date of the Kuiper Belt object\nknown as Ultima Thule. This was the",
+    "start": 29.17,
+    "duration": 5.249
+  },
+  {
+    "text": "subject of a recent Space News and Wal\nkind of introduced some of the",
+    "start": 34.42,
+    "duration": 5.279
+  },
+  {
+    "text": "differences between the mainstream\ninterpretations and predictions for an",
+    "start": 39.7,
+    "duration": 6.105
+  },
+  {
+    "text": "object like Ultima Thule versus those of\nthe Electric Universe. Now in this latest",
+    "start": 45.806,
+    "duration": 4.979
+  },
+  {
+    "text": "picture the first thing that stands out\nwhen looking at this picture is the",
+    "start": 50.786,
+    "duration": 3.899
+  },
+  {
+    "text": "number of features that look basically\nidentical to features that we see on a",
+    "start": 54.686,
+    "duration": 5.294
+  },
+  {
+    "text": "lot of objects in the inner solar system\nsuch as asteroids and moons. And that is",
+    "start": 59.981,
+    "duration": 5.864
+  },
+  {
+    "text": "the number of highly circular craters\nand what one might call what appear to",
+    "start": 65.846,
+    "duration": 5.263
+  },
+  {
+    "text": "be chains of craters although it's not\nentirely evident because portions of the",
+    "start": 71.11,
+    "duration": 5.91
+  },
+  {
+    "text": "object are in shadow. And, on the smaller\nof the two lobes that compose Ultima",
+    "start": 77.021,
+    "duration": 5.789
+  },
+  {
+    "text": "Thule, we see one crater that is\nabsolutely enormous. Now there's a reason",
+    "start": 82.811,
+    "duration": 5.337
+  },
+  {
+    "text": "why the New Horizons team is hesitant to\ntalk about possible crater chains and an",
+    "start": 88.149,
+    "duration": 6.419
+  },
+  {
+    "text": "improbably huge crater on this Kuiper\nBelt object. Instead thus far, they are",
+    "start": 94.569,
+    "duration": 6.24
+  },
+  {
+    "text": "favoring terms like depressions and\ncollapse pits and the reason for that is,",
+    "start": 100.81,
+    "duration": 6.118
+  },
+  {
+    "text": "you do not expect the kind of high-\nvelocity explosions that Impact Theory",
+    "start": 106.929,
+    "duration": 6.12
+  },
+  {
+    "text": "would probably require to produce these\nfeatures. And of course, the explanation",
+    "start": 113.05,
+    "duration": 5.818
+  },
+  {
+    "text": "that the New Horizons team has offered\nfor Ultima Thule's double-lobed form is a",
+    "start": 118.869,
+    "duration": 5.55
+  },
+  {
+    "text": "low-speed collision between two objects\nin the so-called early solar system",
+    "start": 124.42,
+    "duration": 5.639
+  },
+  {
+    "text": "which this traditional story tells us\nwas four and a half billion years ago. So",
+    "start": 130.06,
+    "duration": 5.999
+  },
+  {
+    "text": "I'm now going to bring up Wal Thornhill.\nWal and I have been discussing this new",
+    "start": 136.06,
+    "duration": 5.625
+  },
+  {
+    "text": "image over the last couple of days and\nso Wal, I think it would be good if we",
+    "start": 141.686,
+    "duration": 4.784
+  },
+  {
+    "text": "could lay a little bit of groundwork\njust in case there are any newcomers who",
+    "start": 146.471,
+    "duration": 5.099
+  },
+  {
+    "text": "have come to this video. Why don't you\nbegin by explaining what",
+    "start": 151.571,
+    "duration": 4.859
+  },
+  {
+    "text": "some of your thoughts were about Ultima\nThule even before the New Horizons",
+    "start": 156.431,
+    "duration": 3.644
+  },
+  {
+    "text": "spacecraft arrived at the object and why\ndon't you share what your initial",
+    "start": 160.076,
+    "duration": 5.039
+  },
+  {
+    "text": "thoughts have been as the images of\nUltima Thule have gotten better and",
+    "start": 165.116,
+    "duration": 5.534
+  },
+  {
+    "text": "better? Okay, when the New Horizons newest\nand best yet view of Ultima Thule",
+    "start": 170.651,
+    "duration": 6.179
+  },
+  {
+    "text": "appeared on the web, I was struck by just\nhow much it looks like comet nuclei in",
+    "start": 176.831,
+    "duration": 5.578
+  },
+  {
+    "text": "the inner solar system. Also, it has this\nneck joining two objects which is",
+    "start": 182.41,
+    "duration": 7.199
+  },
+  {
+    "text": "somewhat different from either of the\nadjoining lobes as they call them. It's",
+    "start": 189.61,
+    "duration": 5.519
+  },
+  {
+    "text": "brighter and if we remember Comet 67P,\nyou saw a sand or some kind of material",
+    "start": 195.13,
+    "duration": 8.0
+  },
+  {
+    "text": "on that neck region between the two\nlobes. And it even had what appeared to",
+    "start": 204.49,
+    "duration": 5.639
+  },
+  {
+    "text": "be sand dunes. Well, the connection\nbetween the lobes appears to be",
+    "start": 210.13,
+    "duration": 5.509
+  },
+  {
+    "text": "something that happens after the lobes\nhave generally been formed but during",
+    "start": 215.64,
+    "duration": 6.819
+  },
+  {
+    "text": "the same process. Now you know, in an earlier\nSpace News or 'Seeing Double' it was",
+    "start": 222.46,
+    "duration": 6.149
+  },
+  {
+    "text": "called, I pointed out that, in the plasma\ncosmology view, stars are formed by",
+    "start": 228.61,
+    "duration": 8.0
+  },
+  {
+    "text": "interstellar Birkeland current filaments\ninside molecular clouds. In other words,",
+    "start": 237.21,
+    "duration": 5.619
+  },
+  {
+    "text": "it's a dusty plasma. And we know from\nresearch that's been done and published",
+    "start": 242.83,
+    "duration": 5.519
+  },
+  {
+    "text": "by Don Scott and others, that the dust is\naccumulated much more powerfully into",
+    "start": 248.35,
+    "duration": 7.589
+  },
+  {
+    "text": "central objects on that filament by\nthe long-range electromagnetic forces",
+    "start": 255.94,
+    "duration": 7.499
+  },
+  {
+    "text": "involved with electric currents in, what\nyou might call, lightning bolts inside",
+    "start": 263.44,
+    "duration": 6.179
+  },
+  {
+    "text": "molecular clouds.\nI went further a little later and",
+    "start": 269.62,
+    "duration": 4.379
+  },
+  {
+    "text": "pointed out that all solid objects, all\nsolid bodies are formed in that same",
+    "start": 274.0,
+    "duration": 6.329
+  },
+  {
+    "text": "process. There is no need to call upon\ngravitational accretion which has never",
+    "start": 280.33,
+    "duration": 5.759
+  },
+  {
+    "text": "been shown to work.\nOne of the big problems is, even if you",
+    "start": 286.09,
+    "duration": 4.078
+  },
+  {
+    "text": "have a circulating disk of dust and gas,\nyou have the problem of getting rid of",
+    "start": 290.169,
+    "duration": 5.626
+  },
+  {
+    "text": "the angular momentum of that disk.\nThere's no reason for the material at",
+    "start": 295.796,
+    "duration": 4.243
+  },
+  {
+    "text": "the outer edges to fall in towards the\ncenter once it achieves a certain",
+    "start": 300.04,
+    "duration": 5.51
+  },
+  {
+    "text": "velocity of rotation about that center.\nSo I expected, on the basis of also the",
+    "start": 305.551,
+    "duration": 6.509
+  },
+  {
+    "text": "recent history of the solar system, that\nthe bodies in the outer solar system",
+    "start": 312.061,
+    "duration": 5.978
+  },
+  {
+    "text": "would show all of the same features as\nthose seen in the inner solar system.",
+    "start": 318.04,
+    "duration": 3.654
+  },
+  {
+    "text": "Because, to put it simply, the solar\nsystem is a blended family of objects",
+    "start": 321.695,
+    "duration": 5.255
+  },
+  {
+    "text": "that have been captured by the Sun after\nthe formation of the Sun. It had nothing",
+    "start": 326.951,
+    "duration": 6.359
+  },
+  {
+    "text": "to do with leftovers from the Sun and\nthis explains all of the mysteries about",
+    "start": 333.311,
+    "duration": 5.788
+  },
+  {
+    "text": "isotopic compositions and the\ndifferences between the planets because",
+    "start": 339.1,
+    "duration": 3.72
+  },
+  {
+    "text": "our solar system, if you look at it\ndispassionately without the",
+    "start": 342.821,
+    "duration": 5.549
+  },
+  {
+    "text": "gravitational theory as a lens, a\ndistorting lens, it's a fruit salad of",
+    "start": 348.371,
+    "duration": 5.249
+  },
+  {
+    "text": "objects. They're all different. They have\ndifferent axial tilts and their rotation",
+    "start": 353.621,
+    "duration": 4.319
+  },
+  {
+    "text": "rates are hard to explain, the angular\nmomentum of the whole system is hard to",
+    "start": 357.941,
+    "duration": 5.598
+  },
+  {
+    "text": "explain in the gravitational theory and\nthey exhibit behavior, magnetic fields,",
+    "start": 363.54,
+    "duration": 6.005
+  },
+  {
+    "text": "and weather patterns, which are still\nunexplained. Given all of these facts, and",
+    "start": 369.546,
+    "duration": 6.304
+  },
+  {
+    "text": "when you realize that you're looking\nthrough every space shot that's been",
+    "start": 375.851,
+    "duration": 4.679
+  },
+  {
+    "text": "sent up to tell us how the solar system\nwas formed, is viewed through this",
+    "start": 380.531,
+    "duration": 5.399
+  },
+  {
+    "text": "distorting lens of gravitational\naccretion. So, Ultima Thule was a big",
+    "start": 385.931,
+    "duration": 5.159
+  },
+  {
+    "text": "test really, because I had already\npredicted that this would be the case",
+    "start": 391.091,
+    "duration": 5.008
+  },
+  {
+    "text": "that objects even in the outer\nsolar system would tend to be formed in",
+    "start": 396.1,
+    "duration": 3.495
+  },
+  {
+    "text": "pairs, sometimes joined during the\nprocess of formation. It's interesting to",
+    "start": 399.596,
+    "duration": 5.264
+  },
+  {
+    "text": "look at the language of the reports of\nthe closest up image yet of this object",
+    "start": 404.861,
+    "duration": 5.508
+  },
+  {
+    "text": "because the language has changed. It's an\nindication of cognitive dissonance. In",
+    "start": 410.37,
+    "duration": 5.559
+  },
+  {
+    "text": "other words, what they're seeing doesn't\nmatch what they expected. When I saw it,",
+    "start": 415.93,
+    "duration": 5.34
+  },
+  {
+    "text": "the first thing that\nstruck me was the circular crater on the",
+    "start": 421.271,
+    "duration": 4.709
+  },
+  {
+    "text": "smaller lobe which is facing towards us.\nAnd one of the key aspects of electrical",
+    "start": 425.981,
+    "duration": 6.944
+  },
+  {
+    "text": "scarring is circular cratering. With no\ndebris in the crater, it's looked as",
+    "start": 432.926,
+    "duration": 5.534
+  },
+  {
+    "text": "though, it's been\nmachined and also there is a propensity",
+    "start": 438.461,
+    "duration": 4.438
+  },
+  {
+    "text": "for the discharge as it fades to switch\nto other high points near the central",
+    "start": 442.9,
+    "duration": 7.409
+  },
+  {
+    "text": "crater and of course the nearest high\npoint on our crater is the rim and",
+    "start": 450.31,
+    "duration": 5.58
+  },
+  {
+    "text": "you'll notice there are at least three\nthat I can see, smaller circular craters",
+    "start": 455.891,
+    "duration": 5.469
+  },
+  {
+    "text": "perched on the rim of that larger crater.\nNow, I'm calling it a crater but the",
+    "start": 461.361,
+    "duration": 5.628
+  },
+  {
+    "text": "language in the report says, 'the large\ncircular feature about four miles or",
+    "start": 466.99,
+    "duration": 6.075
+  },
+  {
+    "text": "seven kilometers across on the smaller\nof the two lobes appears to be a deep",
+    "start": 473.066,
+    "duration": 5.549
+  },
+  {
+    "text": "depression'. Of course, the reason why they\nuse the words 'deep depression' is that",
+    "start": 478.616,
+    "duration": 5.274
+  },
+  {
+    "text": "for a crater to have occurred it means\nthat the collision must have been at",
+    "start": 483.891,
+    "duration": 6.079
+  },
+  {
+    "text": "high speed and as we've said the whole\nidea behind the standard model of trying",
+    "start": 489.971,
+    "duration": 4.499
+  },
+  {
+    "text": "to explain this object is low-speed\ncollisions. You know, five kilometers an",
+    "start": 494.471,
+    "duration": 5.939
+  },
+  {
+    "text": "hour or less, the sort of bump in a\nparking lot. That just doesn't work with",
+    "start": 500.411,
+    "duration": 6.089
+  },
+  {
+    "text": "a crater that size. Right. Four miles\nacross. 7 kilometers across. That",
+    "start": 506.501,
+    "duration": 4.904
+  },
+  {
+    "text": "requires an impact which should have\nshattered the object. Because remember,",
+    "start": 511.406,
+    "duration": 6.254
+  },
+  {
+    "text": "these are supposed to be ices and dust\nthat have been accreted from a very",
+    "start": 517.661,
+    "duration": 5.669
+  },
+  {
+    "text": "thinly dispersed cloud of dust and gas.\nYou do not expect an object to form that",
+    "start": 523.331,
+    "duration": 6.179
+  },
+  {
+    "text": "is solid enough to receive an impact\nlike that and survive. And what's more,",
+    "start": 529.511,
+    "duration": 4.889
+  },
+  {
+    "text": "at that distance from the Sun the\norbital speed is very low and any other",
+    "start": 534.401,
+    "duration": 5.264
+  },
+  {
+    "text": "objects that are following the same\norbit will only have minor differences",
+    "start": 539.666,
+    "duration": 4.034
+  },
+  {
+    "text": "in speed and this is why they talk about\na bump in a parking lot. Right. Because",
+    "start": 543.701,
+    "duration": 4.664
+  },
+  {
+    "text": "the analogy is fairly accurate based on\nthe gravitational model. But what we see",
+    "start": 548.366,
+    "duration": 6.194
+  },
+  {
+    "text": "has nothing to do with low-speed\ncollisions.",
+    "start": 554.561,
+    "duration": 3.239
+  },
+  {
+    "text": "And what's more, impact craters\nthemselves are an assumption because in",
+    "start": 557.801,
+    "duration": 4.979
+  },
+  {
+    "text": "the gravitational theory the only way to\nform craters like that is with impacts.",
+    "start": 562.781,
+    "duration": 5.699
+  },
+  {
+    "text": "You're very limited in what you can\nactually explain with impacts. No",
+    "start": 568.481,
+    "duration": 4.738
+  },
+  {
+    "text": "one has actually observed the\nbefore-and-after of a celestial impact",
+    "start": 573.22,
+    "duration": 4.799
+  },
+  {
+    "text": "of sufficient size to create a crater\nthat size. So this is all mere",
+    "start": 578.02,
+    "duration": 4.949
+  },
+  {
+    "text": "speculation or maybe just a story, a\ncover story, to hide our fundamental",
+    "start": 582.97,
+    "duration": 6.659
+  },
+  {
+    "text": "ignorance. Right. Well, we should mention\nthat this crater, what we're calling a",
+    "start": 589.63,
+    "duration": 6.419
+  },
+  {
+    "text": "crater that we see on the smaller lobe\nof Ultima Thule. This is not the first",
+    "start": 596.05,
+    "duration": 5.985
+  },
+  {
+    "text": "instance when we've seen an object in\nour solar system with a crater that is",
+    "start": 602.036,
+    "duration": 6.089
+  },
+  {
+    "text": "so huge that it would have destroyed the\nbody if it was caused by a kinetic",
+    "start": 608.126,
+    "duration": 5.249
+  },
+  {
+    "text": "impact. If you look at some of the moons\nof Saturn - Mimas and Tethys are the most",
+    "start": 613.376,
+    "duration": 7.154
+  },
+  {
+    "text": "dramatic examples. If you look at the\nMartian moon Phobos and Stickney crater,",
+    "start": 620.531,
+    "duration": 6.299
+  },
+  {
+    "text": "and if you look at the asteroid Vesta, in\nall of these instances you see craters",
+    "start": 626.831,
+    "duration": 6.379
+  },
+  {
+    "text": "which astronomers themselves admit\nshould have shattered the body if they",
+    "start": 633.211,
+    "duration": 6.279
+  },
+  {
+    "text": "were caused by mechanical collisions and\nhigh-velocity explosions. That's correct.",
+    "start": 639.491,
+    "duration": 5.879
+  },
+  {
+    "text": "The other evidence for electrical scarring\nare the small regular circular pits",
+    "start": 645.371,
+    "duration": 5.774
+  },
+  {
+    "text": "on the larger lobe. At the top of the\nimage that I'm looking at that was",
+    "start": 651.146,
+    "duration": 4.634
+  },
+  {
+    "text": "published, you can see there are three\nsmall circular pits in a row and in fact",
+    "start": 655.781,
+    "duration": 5.579
+  },
+  {
+    "text": "there's a couple of smaller ones heading\nup towards the top of the lobe. But then,",
+    "start": 661.361,
+    "duration": 4.994
+  },
+  {
+    "text": "in, almost in the shadowed regions at the\ntop you see another chain of craters.",
+    "start": 666.356,
+    "duration": 4.059
+  },
+  {
+    "text": "There's at least four there and they may\nactually continue across the shadow to",
+    "start": 670.416,
+    "duration": 6.094
+  },
+  {
+    "text": "to meet up with another one on\nthe far side. Now, crater chains are",
+    "start": 676.511,
+    "duration": 4.439
+  },
+  {
+    "text": "electrical formations. There's no other\nexplanation for them. In the inner solar",
+    "start": 680.951,
+    "duration": 6.149
+  },
+  {
+    "text": "system, the story went that\nany incoming bolide fractured, more or",
+    "start": 687.101,
+    "duration": 4.829
+  },
+  {
+    "text": "less, in space before it hit. Under the\ngravitational influence of the body that",
+    "start": 691.931,
+    "duration": 4.709
+  },
+  {
+    "text": "it was impacting. And they, sort of,\nsplattered across the face of that",
+    "start": 696.641,
+    "duration": 4.694
+  },
+  {
+    "text": "object, But this is not, that doesn't\nexplain the circularity, the fact that",
+    "start": 701.336,
+    "duration": 5.294
+  },
+  {
+    "text": "one crater doesn't disturb the other. And\nthere's no fill from one crater that",
+    "start": 706.631,
+    "duration": 5.519
+  },
+  {
+    "text": "happened after another. So, the electrical\ntheory is, I submit, the only theory which",
+    "start": 712.151,
+    "duration": 5.789
+  },
+  {
+    "text": "can explain these features. And in fact,\nit's one explanation for all of the",
+    "start": 717.941,
+    "duration": 5.534
+  },
+  {
+    "text": "observations, not special dispensations\nfor different bodies simply because they",
+    "start": 723.476,
+    "duration": 5.684
+  },
+  {
+    "text": "don't fit the pattern. Right.\nAll of the strange features",
+    "start": 729.161,
+    "duration": 3.839
+  },
+  {
+    "text": "including the craters on the Moon and\nthe ray-craters and all of that was",
+    "start": 733.001,
+    "duration": 5.699
+  },
+  {
+    "text": "explained by Ralph Juergens back in the\n1970's in a brilliant series of articles",
+    "start": 738.701,
+    "duration": 5.489
+  },
+  {
+    "text": "on the electrical scarring of the Moon\nand Mars.",
+    "start": 744.191,
+    "duration": 2.689
+  },
+  {
+    "text": "You could then extend his work without\nmaking any other ad-hoc assumptions to",
+    "start": 746.881,
+    "duration": 5.454
+  },
+  {
+    "text": "all of the bodies we've seen since then.\nWell, I think this actually might be a",
+    "start": 752.336,
+    "duration": 4.724
+  },
+  {
+    "text": "good point to just take a moment and\nexamine some of the recent discoveries",
+    "start": 757.061,
+    "duration": 5.129
+  },
+  {
+    "text": "that we've reported here on Space News,\nwhich relate very directly to this",
+    "start": 762.191,
+    "duration": 5.189
+  },
+  {
+    "text": "question of our solar system's history\nand origins. So obviously, as one expects,",
+    "start": 767.381,
+    "duration": 5.414
+  },
+  {
+    "text": "the New Horizons team is holding to this\ntraditional idea of a solar system that",
+    "start": 772.796,
+    "duration": 4.559
+  },
+  {
+    "text": "formed from a gravitationally collapsing\nnebular cloud and this happened four and",
+    "start": 777.356,
+    "duration": 4.349
+  },
+  {
+    "text": "a half billion years ago. And the only\nprocess they can imagine forming an",
+    "start": 781.706,
+    "duration": 4.514
+  },
+  {
+    "text": "object like Ultima Thule is\ngravitational accretion. And yet the real",
+    "start": 786.221,
+    "duration": 5.759
+  },
+  {
+    "text": "question I have is why any of these\nassumptions continue to endure since, as",
+    "start": 791.981,
+    "duration": 6.449
+  },
+  {
+    "text": "we have reported, there are more problems\nand anomalies for the nebular hypothesis",
+    "start": 798.431,
+    "duration": 5.699
+  },
+  {
+    "text": "than there are successes and we report\nroutinely on discoveries which planetary",
+    "start": 804.131,
+    "duration": 4.544
+  },
+  {
+    "text": "scientists admit, it's not us saying this,\nit's planetary scientists who say that",
+    "start": 808.676,
+    "duration": 5.684
+  },
+  {
+    "text": "these discoveries can't be reconciled\nwith the solar system's conventional",
+    "start": 814.361,
+    "duration": 4.064
+  },
+  {
+    "text": "history and origins. So just very quickly\nbear with me,",
+    "start": 818.426,
+    "duration": 3.959
+  },
+  {
+    "text": "I'll give just a few examples. Last year\nwe reported on the discovery of the so",
+    "start": 822.386,
+    "duration": 5.504
+  },
+  {
+    "text": "called Hypatia stone which is a\nmeteorite fragment that was discovered",
+    "start": 827.891,
+    "duration": 3.389
+  },
+  {
+    "text": "in a glass field in Libya and which is\ncomposed of this \"weird matrix\" of",
+    "start": 831.281,
+    "duration": 5.264
+  },
+  {
+    "text": "minerals which planetary scientists\nadmit they can't explain. And the reason",
+    "start": 836.546,
+    "duration": 4.319
+  },
+  {
+    "text": "they can't explain it is the meteorite is\nsupposed to have originated from a",
+    "start": 840.866,
+    "duration": 4.184
+  },
+  {
+    "text": "homogeneous primordial dust cloud. And\nalso late last year, planetary scientists",
+    "start": 845.051,
+    "duration": 5.654
+  },
+  {
+    "text": "discovered that there's a group of\nasteroids near Neptune which actually",
+    "start": 850.706,
+    "duration": 5.369
+  },
+  {
+    "text": "appear to be identical to asteroids that\nare close to Jupiter which are so-called",
+    "start": 856.076,
+    "duration": 5.099
+  },
+  {
+    "text": "sun-baked asteroids. So here's a quick\nexcerpt from a Scientific American piece",
+    "start": 861.176,
+    "duration": 5.204
+  },
+  {
+    "text": "on that discovery. \"...the Neptunian\nasteroids are so far from the Sun that",
+    "start": 866.381,
+    "duration": 5.159
+  },
+  {
+    "text": "their surfaces should have stayed almost\npristine since birth, scarcely altered by",
+    "start": 871.541,
+    "duration": 4.559
+  },
+  {
+    "text": "our nearest star's warming rays... and yet\nthey appear remarkably similar to a",
+    "start": 876.101,
+    "duration": 4.304
+  },
+  {
+    "text": "group of sunbaked asteroids near\nJupiter. These puzzling observations...",
+    "start": 880.406,
+    "duration": 4.574
+  },
+  {
+    "text": "Asteroids that look nothing like their\nputative parents in the sedate solar",
+    "start": 884.981,
+    "duration": 4.229
+  },
+  {
+    "text": "hinterlands but strongly resembled their\nsupposed relatives that have been toasted by the",
+    "start": 889.211,
+    "duration": 4.919
+  },
+  {
+    "text": "Sun... call into question scientists' best\ntheories for the origin and evolution of",
+    "start": 894.131,
+    "duration": 4.889
+  },
+  {
+    "text": "the solar system...\" Then, more recently,\nyou did a brilliant presentation on the",
+    "start": 899.021,
+    "duration": 6.029
+  },
+  {
+    "text": "discovery that water in Saturn's rings\nand on its moons is apparently identical",
+    "start": 905.051,
+    "duration": 6.059
+  },
+  {
+    "text": "to water in Earth's oceans and as you\nreported, this was actually a",
+    "start": 911.111,
+    "duration": 3.149
+  },
+  {
+    "text": "confirmation of an outrageous prediction\nthat Velikovsky made which was that",
+    "start": 914.261,
+    "duration": 6.029
+  },
+  {
+    "text": "Saturn was the source of our planet's\nwater. So here's a quote from a Phys.org",
+    "start": 920.291,
+    "duration": 4.379
+  },
+  {
+    "text": "report. It says the results \"...mean we\nneed to change models of the formation",
+    "start": 924.671,
+    "duration": 5.158
+  },
+  {
+    "text": "of the solar system because the new\nresults are in conflict with existing",
+    "start": 929.83,
+    "duration": 5.67
+  },
+  {
+    "text": "models.\" And finally, speaking of historic\nspace missions to supposedly primordial",
+    "start": 935.501,
+    "duration": 5.759
+  },
+  {
+    "text": "objects in the solar system, scientists\nwith the Rosetta mission to 67P, recently",
+    "start": 941.261,
+    "duration": 5.999
+  },
+  {
+    "text": "admitted that the comet cannot be\nbillions of years old. Now in the early",
+    "start": 947.261,
+    "duration": 5.068
+  },
+  {
+    "text": "published findings on the mission,\nRosetta scientists proposed",
+    "start": 952.33,
+    "duration": 4.849
+  },
+  {
+    "text": "than, like Ultima Thule, the double-lobed\nnucleus of 67P was formed by a low-speed",
+    "start": 957.18,
+    "duration": 6.329
+  },
+  {
+    "text": "collision of two objects in the early\nsolar system. But based on the scientists'",
+    "start": 963.51,
+    "duration": 5.4
+  },
+  {
+    "text": "numerical calculations, it was determined\nthat the nucleus would have crumbled or",
+    "start": 968.911,
+    "duration": 4.014
+  },
+  {
+    "text": "disintegrated countless eons ago and\ntherefore it is only millions of years",
+    "start": 972.926,
+    "duration": 4.864
+  },
+  {
+    "text": "old\nrather than billions. So among the other",
+    "start": 977.791,
+    "duration": 3.718
+  },
+  {
+    "text": "problems the comet scientists have faced,\nthey have to try to explain the",
+    "start": 981.51,
+    "duration": 5.819
+  },
+  {
+    "text": "\"geological features\" we see which\nincludes complexly layered stratified",
+    "start": 987.33,
+    "duration": 6.449
+  },
+  {
+    "text": "rock which is absolutely everywhere on\nthe comet nucleus. And further, there's",
+    "start": 993.78,
+    "duration": 4.38
+  },
+  {
+    "text": "the problem of how do you form a comet\nonly millions of years ago rather than",
+    "start": 998.161,
+    "duration": 6.598
+  },
+  {
+    "text": "billions of years. Well, here's what they\ncame up with. Two fully formed comet",
+    "start": 1004.76,
+    "duration": 5.84
+  },
+  {
+    "text": "nuclei in the late solar system\nexperienced a violent high-velocity",
+    "start": 1010.601,
+    "duration": 4.253
+  },
+  {
+    "text": "collision and exploded. And then, after\nthe comets exploded, as you can see in",
+    "start": 1014.855,
+    "duration": 5.189
+  },
+  {
+    "text": "the computer animation the scientists\ncreated, even though the material would",
+    "start": 1020.045,
+    "duration": 5.234
+  },
+  {
+    "text": "have been accelerated to tremendous\nvelocities and in a near zero",
+    "start": 1025.28,
+    "duration": 4.99
+  },
+  {
+    "text": "gravitational sphere of influence, we are\ntold that rather than dispersing, a",
+    "start": 1030.271,
+    "duration": 6.528
+  },
+  {
+    "text": "portion of the destroyed material\nrecoalesced and kept recoalescing and",
+    "start": 1036.8,
+    "duration": 5.205
+  },
+  {
+    "text": "kept recoalescing to form 67P as we see\nit today. And now I don't think I need to",
+    "start": 1042.006,
+    "duration": 6.418
+  },
+  {
+    "text": "belabor why this particular conjecture\nis, and this is just my opinion, the",
+    "start": 1048.425,
+    "duration": 5.58
+  },
+  {
+    "text": "closest thing to impossible. But here are\ntwo points to consider. Number one: we see",
+    "start": 1054.006,
+    "duration": 6.809
+  },
+  {
+    "text": "two very different hypotheses being\noffered for the creation of the",
+    "start": 1060.816,
+    "duration": 4.679
+  },
+  {
+    "text": "respective double-lobed forms of Ultima\nThule and 67P. Even though they both",
+    "start": 1065.496,
+    "duration": 5.684
+  },
+  {
+    "text": "involve collisions, with Ultima Thule\nit's a low-speed collision four and a",
+    "start": 1071.181,
+    "duration": 5.173
+  },
+  {
+    "text": "half billion years ago and with 67P it's\na violent explosion only millions of",
+    "start": 1076.355,
+    "duration": 5.4
+  },
+  {
+    "text": "years ago and again the process that is\nactually forming the comet is a recoa-",
+    "start": 1081.756,
+    "duration": 5.504
+  },
+  {
+    "text": "lescing of material that has been\ndestroyed. But in the case of the Electric",
+    "start": 1087.261,
+    "duration": 5.399
+  },
+  {
+    "text": "Universe, as Wal has already explained,\nwe see a consistent coherent explanation",
+    "start": 1092.661,
+    "duration": 6.509
+  },
+  {
+    "text": "for the \"doubling effect at all\nscales throughout the entire cosmos.\" As",
+    "start": 1099.171,
+    "duration": 5.069
+  },
+  {
+    "text": "you can see on screen, this is quite\nevident in the comparison of both 67P",
+    "start": 1104.241,
+    "duration": 5.339
+  },
+  {
+    "text": "and Ultima Thule to a portion of\nhematite that was blasted with an",
+    "start": 1109.581,
+    "duration": 4.859
+  },
+  {
+    "text": "electric arc. So the question I have to\nask critics of the Electric Universe",
+    "start": 1114.441,
+    "duration": 3.569
+  },
+  {
+    "text": "theory is, do you care that all of the\ndiscoveries I just described were either",
+    "start": 1118.011,
+    "duration": 5.619
+  },
+  {
+    "text": "explicitly predicted by the Electric\nUniverse or are exactly what one does",
+    "start": 1123.631,
+    "duration": 5.869
+  },
+  {
+    "text": "expect if our solar system experienced\nthe kind of recent upheaval the electric",
+    "start": 1129.501,
+    "duration": 5.339
+  },
+  {
+    "text": "universe proposes? So Wal, what are your\nthoughts?",
+    "start": 1134.841,
+    "duration": 3.594
+  },
+  {
+    "text": "Yes, it's system-wide this problem. It's\nrather ironic that Velikovsky was more",
+    "start": 1138.436,
+    "duration": 5.853
+  },
+  {
+    "text": "or less a pilloried for suggesting that\nthe solar system had changed within the",
+    "start": 1144.29,
+    "duration": 5.909
+  },
+  {
+    "text": "memory of the earliest human beings. And\nnow, the favored theory for a lot of",
+    "start": 1150.2,
+    "duration": 8.0
+  },
+  {
+    "text": "these unexpected discoveries is that the\nplanets, particularly the gas giants,",
+    "start": 1159.17,
+    "duration": 6.119
+  },
+  {
+    "text": "must have migrated. In other words, their\norbits have changed but of course it has",
+    "start": 1165.29,
+    "duration": 6.54
+  },
+  {
+    "text": "to have happened billions of years ago.\nAnd that's one of the aspects that's",
+    "start": 1171.831,
+    "duration": 5.249
+  },
+  {
+    "text": "never really addressed psychologically\nin cosmology, is that the theories appear",
+    "start": 1177.081,
+    "duration": 5.954
+  },
+  {
+    "text": "to have to make us feel safe. In fact, the\nAustralian philosopher David Stove",
+    "start": 1183.036,
+    "duration": 5.519
+  },
+  {
+    "text": "wrote that Newton's theory was\ndesigned to make sure that nothing",
+    "start": 1188.556,
+    "duration": 4.873
+  },
+  {
+    "text": "untoward happened in the solar system.\nThis idea of a clockwork solar system",
+    "start": 1193.43,
+    "duration": 6.449
+  },
+  {
+    "text": "that was wound up four-and-a-half\nbillion years ago, and has functioned",
+    "start": 1199.88,
+    "duration": 6.76
+  },
+  {
+    "text": "fairly undisturbed apart from a few\nshowers of objects that are used to",
+    "start": 1206.641,
+    "duration": 4.938
+  },
+  {
+    "text": "explain ad-hoc the fact that we\nhave a moon and there are craters on",
+    "start": 1211.58,
+    "duration": 4.769
+  },
+  {
+    "text": "objects.\nBut all of this happened way in the",
+    "start": 1216.35,
+    "duration": 3.418
+  },
+  {
+    "text": "distant past so we don't have to worry\nabout that. Right. And of course, this",
+    "start": 1219.769,
+    "duration": 5.491
+  },
+  {
+    "text": "continues today. So, there is a kind of\nalmost a religious grip on the",
+    "start": 1225.261,
+    "duration": 5.879
+  },
+  {
+    "text": "gravitational accretion over huge spans\nof time theory. Velikovsky really threw",
+    "start": 1231.141,
+    "duration": 6.507
+  },
+  {
+    "text": "down a gauntlet which none of them, no\nastronomer has been willing to pick up.",
+    "start": 1237.649,
+    "duration": 5.641
+  },
+  {
+    "text": "And that was of course the origin,\nreally, of the Electric Universe because",
+    "start": 1243.291,
+    "duration": 5.309
+  },
+  {
+    "text": "scholars could see that there was a case\nto be answered. And some remarkable",
+    "start": 1248.601,
+    "duration": 6.149
+  },
+  {
+    "text": "people came forward and began picking up\nthat challenge and piecing it together",
+    "start": 1254.751,
+    "duration": 6.508
+  },
+  {
+    "text": "and I was very pleased to actually have\njoined them a little later in the process,",
+    "start": 1261.26,
+    "duration": 5.659
+  },
+  {
+    "text": "as it turns out, but nevertheless I think\nit's been effective because the",
+    "start": 1266.92,
+    "duration": 4.869
+  },
+  {
+    "text": "groundwork is very solid. And there's\nbeen no ad-hockery required to explain",
+    "start": 1271.79,
+    "duration": 5.16
+  },
+  {
+    "text": "all of these weird discoveries in space.\nIn fact, we've been able to predict a lot",
+    "start": 1276.951,
+    "duration": 4.469
+  },
+  {
+    "text": "of them.",
+    "start": 1281.421,
+    "duration": 8.0
+  }
+]

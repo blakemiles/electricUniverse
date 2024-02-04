@@ -1,0 +1,253 @@
+an electronic circuit on the other end
+usually incorporates some device that is
+enables the circuit to amplify that is
+to say a very small change in one
+variable over here creates a very large
+change in a variable over there and one
+of the typical things that we add to an
+electric circuit in order to make it
+into an electronic circuit is a
+transistor I maintain the surface of the
+Sun exhibits the properties of a
+transistor is it a transistor no of
+course not but this presentation of mine
+that I'd like to show you this morning
+it came to me when I saw an analogy at
+least I think I saw an analogy between
+two things and I firmly believe that
+important discoveries breakthroughs in
+science are made by somebody who can
+look at an area over here and an area
+over there and recognize recognize
+similarities between those two disparate
+areas of science and if you can
+recognize a similarity between a problem
+that's been solved over here and one
+that hasn't been solved will be there
+maybe you can use those techniques over
+here and get some progress I hope I know
+that for example Hannes Alfven did that
+he was a Swedish engineer and they were
+having all sorts of problems on the on
+the high voltage DC transmission lines
+in Sweden and this is an example of one
+of those disasters one pole to switch
+over here one pole of the switch over
+there the switch is wide open but the
+current says I ain't stopping and so you
+got this arc and it's a sort of
+self-sustaining arc eventually it'll
+blow itself out and when it does it will
+probably create an explosion which in
+many instances killed people blew up
+buildings and was a major disaster
+Alf Ian was able to find out what the
+cause was the cause was energy stored in
+the magnetic field around the
+transmission line and one
+when the circuit refused to to open that
+inductive sort of like a a water hammer
+in a hydraulic system there was an
+explosion and the disaster occurred
+Althea said well that kind of arcing
+there is sort of similar to the
+prominence arcing and that we see on the
+Sun and when that prominence expands
+like that arc and breaks we have a
+mission of stuff which is called a CME a
+coronal mass ejection
+as long as it's up there by the Sun we
+don't worry about it too much if it
+happens in Sweden near Eric village we
+do so but nevertheless the the response
+of the the causes of this
+it was Alfie Enfield the same cause
+magnetic field energy that caused the
+the problems with the transmission line
+well I'm trying to convince you that an
+analogy exists between our Sun which is
+our local star which we all know pretty
+much looks like this if you look at it
+through a backyard telescope you see
+that that's the photosphere occasionally
+you see some some sunspots if you've got
+a good enough telescope you can see some
+structure around the usually around the
+limbs but you can't see anything else
+and so you conclude well that's the
+surface of the Sun well it's not the
+surface of the Sun because there are
+other things above that layer and this
+is what we typically see in photos here
+it gives us all the light and the
+electromagnetic radiation we receive but
+it's not the top surface the Sun surface
+really has three main layers and there
+they are
+this is a sketch you can see the curved
+surface of the Sun is the yellow the
+earth is in here to scale by the way it
+shows how small the earth is in
+comparison to the Sun there's the
+photosphere that's that layer that we
+that surface that we see and by the way
+and I'm not going to continually bug you
+with this but
+at every step along the line of my talk
+here there should be a question in the
+back of your mind how does the standard
+model explain that and I'm not gonna
+continually poke at them but I think you
+should keep that in mind the standard
+model I'll say it once that I will do it
+again
+has no explanation for why the
+chromosphere exists the chromosphere is
+this set of spicules or spikes and stick
+up we can see them during a total
+eclipse of the Sun and of course above
+that is the vast corona
+that we all know about this photosphere
+has sun spots the chromosphere has
+spicules and the corona has these the
+shape has caps and striations and
+filaments if we look at the photosphere
+close up to a really good telescope we
+see that it has a granularity to it the
+astronomers call those granules
+well my hero Ralf jürgens took a look at
+that and he said that to me looks like a
+plasma plasma cells and so he then
+investigated what a real plasma
+discharge looks like in the laboratory
+and what the structure of it was he
+concluded that these cells were really
+what we'll talk about is anode Tufts
+it's a tough thing that's seen in the
+laboratory if you have a good enough
+microscope and you can look at the anode
+very closely if you look closely at this
+picture you'll see that between the the
+anode Tufts between the granules there's
+our black channels that permeate and run
+and separate the Tufts and within those
+channels can you see the tiny little
+white dots I don't know if they if you
+can see it or not those are the spicules
+so the question arises well what are
+wire why is that stuff there what is
+what are the spicules do do they how do
+they contribute to the action the Tufts
+come and go over periods of like a min
+minutes hours perhaps a day but
+more than that these toughs they are
+plasma and they are in the arc mode you
+know there's three modes of plasma arc
+glow and dark current this is the
+powerful arc mode and that's why all of
+the heat and light could radiator from
+this area the temperature though is
+about 6,000 Kelvin which is it's pretty
+hot I wouldn't want to be there but it's
+as far as temperatures of plasma is
+concerned and certainly temperatures of
+the Sun's corona are concerned it's very
+cool
+there's the plasma discharge that out
+that Jurgens looked at in the in the day
+so in the beginning of the 20th century
+even in it back in the 19th century
+people were very concerned about the the
+cathode and what was the structure of
+the charge layers and and voltages and
+forces at the cathode they did they paid
+relatively little attention to the anode
+the the Tufts are represented by this
+anode globe which we see notice that the
+thing is this structure this plasma cell
+the anode blow is separated by a small
+distance from the anode itself in the
+electric star the ectric sky excuse me
+the electric Sun model the anode itself
+is the body of the Sun here are the the
+Tufts and then right connected to and
+emanating at a further distance from the
+Sun itself is this positive column the
+positive column is another cell of
+plasma it's in the glow mode and has
+certain properties that we'll discuss
+but the typical sunspot there is a
+typical sunspot you can see the the
+Tufts around here in the penumbra of the
+Sun sunspot the Tufts look elongated and
+in the middle of the the Umbra the dark
+part of the sunspot there are no Tufts
+so bear that in mind a sunspot is a
+place where
+there are no tufts there is no tufting
+so what well we'll see the chromosphere
+is that a bunch of spicules here's an
+example it looks like a prominence
+beginning here that's about 2000 3000
+5000 kilometers high the Sun of course
+is like eight hundred thousand
+kilometers across so it's a relatively
+thin zone the chromosphere it's
+generally h-alpha
+if you have that's H alpha is a spectral
+line right in the middle of the visual
+it's a in the red red the deep red color
+there's the spicule is about that that
+high it's usually full of entry you can
+see the streaks it's not just a uniform
+glowing as fingers and there's a reason
+for that and it's well known plasma a
+property of global plasma that they
+usually filament seen only during
+eclipses again I ask the question why is
+it there it changes shape depending on
+the weather it's a time of active Sun or
+or quiet Sun this is what it looks like
+during the quiet Sun this is what it
+looks like during the active Sun the
+active Sun is a time when there are a
+lot of sunspots the quiet Sun there are
+much fewer sunspots
+you can see here one thing not really
+germane to what I'm saying but you can
+see the magnetic fields that are are
+also filamentous what you're not looking
+at the magnetic fields by the way
+astronomers say that all the time that's
+not true magnetic fields are invisible
+what you see like here is plasma which
+is surrounding currents in in that
+follow the magnetic field so it's the
+magnetic fields they're a current
+follows the magnetic field and lights up
+the plasma so we can see it here's the
+big one of the biggest problems facing
+modernist solar astronomy
+and that's this Sun temperature profile
+this the if the Sun is a just a furnace
+that burns hydrogen it turns it into
+helium much like a wood furnace turns
+wood and carbon and oxygen you know as
+you get farther away from that furnace
+you should get less radiation you should
+so the temperature should go down and as
+you begin to go away
+right here that's exactly what does
+happen but all of a sudden there's an
+anomaly and the farther you get away
+from this stove the hotter it gets
+temperature goes up until finally when
+you get out here at the top of the
+spicules the temperature shoots up to
+like a million Kelvin now that is not
+how how can you get a high temperature
+like that I would I was here when the
+the temperature of the photosphere is
+only about six or seven thousand Kelvin
+good question and I will endeavour to
+say why

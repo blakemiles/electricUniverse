@@ -1,0 +1,2762 @@
+[
+  {
+    "text": "Thank you everybody, it's\na real pleasure and honor",
+    "start": 18.396,
+    "duration": 3.082
+  },
+  {
+    "text": "and I echo Monte’s thanks to everybody\nthat's involved in this project,",
+    "start": 21.503,
+    "duration": 4.695
+  },
+  {
+    "text": "including my co-authors here.",
+    "start": 26.223,
+    "duration": 2.966
+  },
+  {
+    "text": "So, before everyone falls asleep\nwhen we're talking about statistics",
+    "start": 29.664,
+    "duration": 4.941
+  },
+  {
+    "text": "or goes to get a coffee, I'll make\nthis as exciting as possible.",
+    "start": 34.63,
+    "duration": 4.173
+  },
+  {
+    "text": "I get really excited to talk\nabout this simply because I...",
+    "start": 40.116,
+    "duration": 4.647
+  },
+  {
+    "text": "Although many people think statistics\nis a very mundane dry subject",
+    "start": 44.788,
+    "duration": 4.934
+  },
+  {
+    "text": "it is really at the\nheart of true science.",
+    "start": 49.747,
+    "duration": 4.026
+  },
+  {
+    "text": "I do believe, when I hope to show here is\na basic concepts of experimental design",
+    "start": 54.757,
+    "duration": 5.197
+  },
+  {
+    "text": "and how we are\nusing it in SAFIRE",
+    "start": 59.979,
+    "duration": 2.622
+  },
+  {
+    "text": "to look at what various factors\ncontribute to various responses.",
+    "start": 62.626,
+    "duration": 4.808
+  },
+  {
+    "text": "I do believe that design of experiments\nwill be the future of science,",
+    "start": 67.656,
+    "duration": 4.216
+  },
+  {
+    "text": "statistical approach to\ndesign of experiments.",
+    "start": 71.897,
+    "duration": 3.507
+  },
+  {
+    "text": "So, before I get into though\nthere is a very alarming trend",
+    "start": 76.007,
+    "duration": 3.318
+  },
+  {
+    "text": "that I've seen, that I\nwant to talk about here.",
+    "start": 79.35,
+    "duration": 2.553
+  },
+  {
+    "text": "You will see that the US spending on space\nscience and technology, as it has gone up,",
+    "start": 81.928,
+    "duration": 4.524
+  },
+  {
+    "text": "there is also a concomitant rise\nand very unfortunate suicides.",
+    "start": 86.477,
+    "duration": 5.115
+  },
+  {
+    "text": "Serious, is a direct correlation, you\ncan see it's a very strong correlation,",
+    "start": 93.587,
+    "duration": 4.861
+  },
+  {
+    "text": "I mean, I figured that if we decreased\nour spending by about 20 billion",
+    "start": 99.146,
+    "duration": 5.206
+  },
+  {
+    "text": "we could end these\nunfortunate events, right?",
+    "start": 104.377,
+    "duration": 3.59
+  },
+  {
+    "text": "So, what does this\nreally show us?",
+    "start": 108.418,
+    "duration": 1.968
+  },
+  {
+    "text": "This is an excellent\nwebsite, by the way,",
+    "start": 110.411,
+    "duration": 2.111
+  },
+  {
+    "text": "if you've never seen it,\nspurious-correlations, right?",
+    "start": 112.547,
+    "duration": 4.605
+  },
+  {
+    "text": "It's very, very easy to draw a\nconclusion from spurious correlation.",
+    "start": 117.597,
+    "duration": 5.521
+  },
+  {
+    "text": "Correlation does not, don't\nknow causation, right?",
+    "start": 123.143,
+    "duration": 4.439
+  },
+  {
+    "text": "and, me as a scientist, I'm\nguilty of that sometimes too.",
+    "start": 127.607,
+    "duration": 3.619
+  },
+  {
+    "text": "We see something, we see a trend\njust as Ben talked about earlier.",
+    "start": 131.251,
+    "duration": 3.919
+  },
+  {
+    "text": "He sees a trend and\nthen falls apart.",
+    "start": 135.195,
+    "duration": 1.805
+  },
+  {
+    "text": "Well, that means that something\nmight be there statistically,",
+    "start": 137.0,
+    "duration": 3.67
+  },
+  {
+    "text": "but maybe there's\na missing factor",
+    "start": 140.695,
+    "duration": 2.061
+  },
+  {
+    "text": "and I'll explain by what I mean by factors\nand everything like that, very soon here.",
+    "start": 142.781,
+    "duration": 4.945
+  },
+  {
+    "text": "So, an introduction to terminology, this is\nwhat I'll be talking about in the slides",
+    "start": 149.394,
+    "duration": 5.459
+  },
+  {
+    "text": "I'll just race through this\nto the final outline here.",
+    "start": 154.878,
+    "duration": 3.566
+  },
+  {
+    "text": "And what the following mean for SAFIRE\nand experimentation in general really.",
+    "start": 161.493,
+    "duration": 5.38
+  },
+  {
+    "text": "Okay",
+    "start": 168.056,
+    "duration": 1.0
+  },
+  {
+    "text": "Statistical and efficiency, statistical\nand experimental efficiency",
+    "start": 170.151,
+    "duration": 4.569
+  },
+  {
+    "text": "I wanna say no more \"one\nfactor at the time\",",
+    "start": 174.745,
+    "duration": 2.394
+  },
+  {
+    "text": "OFAT is used in the statistical\nrounds to describe how...",
+    "start": 177.164,
+    "duration": 4.919
+  },
+  {
+    "text": "actually many of us are trained\nas scientists and engineers.",
+    "start": 182.108,
+    "duration": 3.785
+  },
+  {
+    "text": "We very one thing, we look at\nthe response, we write it down.",
+    "start": 186.42,
+    "duration": 3.222
+  },
+  {
+    "text": "We increase that one thing,\nwe write down the response.",
+    "start": 189.667,
+    "duration": 3.029
+  },
+  {
+    "text": "Now, when we're all done with that maybe\nwe change something else in the system",
+    "start": 192.721,
+    "duration": 3.985
+  },
+  {
+    "text": "and we do the same thing.",
+    "start": 196.731,
+    "duration": 1.432
+  },
+  {
+    "text": "But really what you're doing is you're\nisolating your factors away from each other,",
+    "start": 198.188,
+    "duration": 3.594
+  },
+  {
+    "text": "you're not taking into account any interactions\nbetween those things that you're tweaking.",
+    "start": 201.807,
+    "duration": 4.799
+  },
+  {
+    "text": "That's \"one factor at the\ntime\" experimentation.",
+    "start": 206.631,
+    "duration": 2.743
+  },
+  {
+    "text": "Now, people in the past have done that\nbefore there's nothing wrong with that",
+    "start": 209.399,
+    "duration": 3.245
+  },
+  {
+    "text": "sometimes you got establish your\nboundary conditions in your experiment.",
+    "start": 212.669,
+    "duration": 4.339
+  },
+  {
+    "text": "And that is, that is good.",
+    "start": 217.033,
+    "duration": 1.872
+  },
+  {
+    "text": "But when you get down to really\ndiscerning what causes what,",
+    "start": 219.352,
+    "duration": 3.617
+  },
+  {
+    "text": "you cannot use this approach.",
+    "start": 222.994,
+    "duration": 1.906
+  },
+  {
+    "text": "And 2nd order interactions,\nthat's a red font there,",
+    "start": 225.36,
+    "duration": 3.322
+  },
+  {
+    "text": "I'll explain more what they are\nand why we must detect them.",
+    "start": 228.707,
+    "duration": 4.153
+  },
+  {
+    "text": "And really, why do we want to use\nthe design of experiments approach?",
+    "start": 233.471,
+    "duration": 4.173
+  },
+  {
+    "text": "Means less experiments and better statistical\nresults, it's really that simple.",
+    "start": 237.669,
+    "duration": 5.84
+  },
+  {
+    "text": "And I'll share some results, future\nconsiderations that we're encountering in SAFIRE",
+    "start": 248.762,
+    "duration": 4.825
+  },
+  {
+    "text": "in just the way to try and track\nthings for those who are visual",
+    "start": 253.612,
+    "duration": 3.562
+  },
+  {
+    "text": "a green square in this presentation will\ndenote a point that I'm trying to make",
+    "start": 257.199,
+    "duration": 5.237
+  },
+  {
+    "text": "for decreasing the number of runs by using,\nno longer using \"one factor at the time\",",
+    "start": 262.461,
+    "duration": 5.274
+  },
+  {
+    "text": "and I'll try tide that in.",
+    "start": 267.76,
+    "duration": 1.705
+  },
+  {
+    "text": "Whereas there are red star will\ndenote a second order interaction,",
+    "start": 269.49,
+    "duration": 3.45
+  },
+  {
+    "text": "those items where, where\ntwo things might interact",
+    "start": 272.965,
+    "duration": 3.299
+  },
+  {
+    "text": "on a level that you might not be able to resolve\nif you were to do \"one factor at a time\".",
+    "start": 276.289,
+    "duration": 5.39
+  },
+  {
+    "text": "So, some factors and in response\nto the factor is a \"knob setting\",",
+    "start": 286.253,
+    "duration": 6.735
+  },
+  {
+    "text": "many of you might have heard\nvariables in the experiment,",
+    "start": 293.013,
+    "duration": 2.839
+  },
+  {
+    "text": "for many variables\nin the experiment.",
+    "start": 295.877,
+    "duration": 1.615
+  },
+  {
+    "text": "Well that's a factor, okay?",
+    "start": 297.517,
+    "duration": 1.846
+  },
+  {
+    "text": "It's an independent variable controlled\nor uncontrolled in an experiment.",
+    "start": 299.982,
+    "duration": 5.28
+  },
+  {
+    "text": "I like to say it's innocent\nuntil proven guilty,",
+    "start": 305.667,
+    "duration": 2.967
+  },
+  {
+    "text": "in other words, if you have something\nhappening in your observing that changes",
+    "start": 308.659,
+    "duration": 4.772
+  },
+  {
+    "text": "you gotta go into that experiment unbiased and\nsee what factors influence that response",
+    "start": 313.456,
+    "duration": 5.598
+  },
+  {
+    "text": "and then you statistically\nprove that it's guilty.",
+    "start": 319.054,
+    "duration": 3.442
+  },
+  {
+    "text": "So, a response, though, is a result of the\nsystem responding to the factor(s) settings.",
+    "start": 323.085,
+    "duration": 5.438
+  },
+  {
+    "text": "It must be measurable with\nunderstood deviation.",
+    "start": 328.548,
+    "duration": 3.463
+  },
+  {
+    "text": "A response can also be qualitative,\na visual quality of a system.",
+    "start": 332.036,
+    "duration": 5.942
+  },
+  {
+    "text": "I like it, I don't like it, advertising\ncompanies are very good at that.",
+    "start": 338.003,
+    "duration": 4.0
+  },
+  {
+    "text": "So, this is a fun video.",
+    "start": 344.138,
+    "duration": 2.103
+  },
+  {
+    "text": "You can turn off the sound, there\nis really nothing to hear, but...",
+    "start": 349.352,
+    "duration": 3.353
+  },
+  {
+    "text": "Until the factors and\nresponses here, right?",
+    "start": 355.063,
+    "duration": 3.265
+  },
+  {
+    "text": "This is great, I can't wait to\ndo this for my six-year-old.",
+    "start": 358.672,
+    "duration": 3.189
+  },
+  {
+    "text": "I'm not going to build my own,\nthough, I'm a chemist not a...",
+    "start": 362.099,
+    "duration": 3.535
+  },
+  {
+    "text": "and we won't be doing this\nin SAFIRE either, so...",
+    "start": 366.15,
+    "duration": 3.08
+  },
+  {
+    "text": "Because most of us\ndon't have any hair.",
+    "start": 371.459,
+    "duration": 2.198
+  },
+  {
+    "text": "So, what are the factors?",
+    "start": 375.166,
+    "duration": 3.815
+  },
+  {
+    "text": "voltage and van der Graaf\nGenerator, right?",
+    "start": 379.592,
+    "duration": 4.333
+  },
+  {
+    "text": "If you really want to get detailed,\nthe materials of construction,",
+    "start": 384.417,
+    "duration": 4.049
+  },
+  {
+    "text": "if that was a dielectric on the surface of that\nsphere it definitely wouldn't work as well if at all.",
+    "start": 388.491,
+    "duration": 5.032
+  },
+  {
+    "text": "And also maybe the person\nreceiving that charge,",
+    "start": 393.548,
+    "duration": 3.251
+  },
+  {
+    "text": "what happens if they have shorter, different\ntype hair, really short curly hair",
+    "start": 396.824,
+    "duration": 3.958
+  },
+  {
+    "text": "is gonna work the same way?",
+    "start": 400.807,
+    "duration": 1.603
+  },
+  {
+    "text": "What kind of response\nare you looking for?",
+    "start": 402.435,
+    "duration": 2.351
+  },
+  {
+    "text": "Do you wanna hurt the person\nor do you want them to laugh, right?",
+    "start": 404.811,
+    "duration": 3.935
+  },
+  {
+    "text": "So, this is an example of\na factors and responses",
+    "start": 408.771,
+    "duration": 2.95
+  },
+  {
+    "text": "of how it's important to\nunderstand your system, okay?",
+    "start": 411.746,
+    "duration": 3.41
+  },
+  {
+    "text": "What I will say is that...",
+    "start": 415.917,
+    "duration": 2.977
+  },
+  {
+    "text": "the design of experiments is not merely\ncoming up with an experimental plan, okay?",
+    "start": 419.815,
+    "duration": 5.893
+  },
+  {
+    "text": "It is a statistical method of\nexperimental observation,",
+    "start": 426.959,
+    "duration": 3.982
+  },
+  {
+    "text": "statistics are use to\ncharacterize results,",
+    "start": 430.966,
+    "duration": 4.626
+  },
+  {
+    "text": "it entails randomizing\ntest when possible.",
+    "start": 435.617,
+    "duration": 2.475
+  },
+  {
+    "text": "Now, not always can, you can always\nrandomized tests understandable",
+    "start": 438.117,
+    "duration": 3.952
+  },
+  {
+    "text": "we encountered that a lot in SAFIRE\ndue to experimental constraints,",
+    "start": 442.094,
+    "duration": 3.718
+  },
+  {
+    "text": "but you want to try, because that make\nsure that no time factors are involved.",
+    "start": 445.837,
+    "duration": 7.09
+  },
+  {
+    "text": "It assure the test\nis repeatable,",
+    "start": 453.946,
+    "duration": 1.909
+  },
+  {
+    "text": "you want to come back the next day\nor maybe in another lab and do it.",
+    "start": 455.88,
+    "duration": 3.198
+  },
+  {
+    "text": "You want to ensure that, and I'll\ntalk about this more a little bit.",
+    "start": 459.103,
+    "duration": 3.451
+  },
+  {
+    "text": "It incorporate an orthogonal or\nsymmetrical approach to experimentation,",
+    "start": 462.579,
+    "duration": 4.243
+  },
+  {
+    "text": "that's really the inherent\npower in design of experiment.",
+    "start": 466.847,
+    "duration": 3.34
+  },
+  {
+    "text": "And ensures discernment of higher\norder interactions between factors,",
+    "start": 470.539,
+    "duration": 3.612
+  },
+  {
+    "text": "I mentioned that before, I get\ninto it a little bit more.",
+    "start": 474.176,
+    "duration": 3.07
+  },
+  {
+    "text": "So, as an experimentalist, you still\nwanna establish the boundary conditions,",
+    "start": 477.271,
+    "duration": 4.893
+  },
+  {
+    "text": "especially working in the\nunknown, that's fine.",
+    "start": 482.189,
+    "duration": 2.63
+  },
+  {
+    "text": "But when it gets to the point where you have to\nunderstand what's involved with those experiments",
+    "start": 484.844,
+    "duration": 4.828
+  },
+  {
+    "text": "you truly do need\ndesign of experiments.",
+    "start": 489.697,
+    "duration": 2.739
+  },
+  {
+    "text": "So, as an experimentalist,\nI will correct you,",
+    "start": 492.461,
+    "duration": 2.64
+  },
+  {
+    "text": "if you claim to be using design\nof experiments and you're not.",
+    "start": 495.126,
+    "duration": 3.164
+  },
+  {
+    "text": "So, I've been that guy at a dinner party and\nI'll be that guy at the dinner party, so...",
+    "start": 498.315,
+    "duration": 4.885
+  },
+  {
+    "text": "Let's talk about something\nwe're all familiar with, baking.",
+    "start": 504.637,
+    "duration": 3.973
+  },
+  {
+    "text": "Other factors involved in bread?",
+    "start": 510.914,
+    "duration": 2.332
+  },
+  {
+    "text": "Any one?",
+    "start": 514.461,
+    "duration": 1.121
+  },
+  {
+    "text": "Yeast, yes.",
+    "start": 516.591,
+    "duration": 2.023
+  },
+  {
+    "text": "Salt, sugar, what else?",
+    "start": 519.265,
+    "duration": 2.955
+  },
+  {
+    "text": "Rise time, temperature,",
+    "start": 523.119,
+    "duration": 2.639
+  },
+  {
+    "text": "water and big\ntemperature, right?",
+    "start": 527.18,
+    "duration": 2.073
+  },
+  {
+    "text": "There's probably a few other\nfactors I missing here.",
+    "start": 529.278,
+    "duration": 2.611
+  },
+  {
+    "text": "Right now that's\n9 factors, OK?",
+    "start": 531.914,
+    "duration": 3.233
+  },
+  {
+    "text": "And may be a response here would be\nthe rise in the taste and texture,",
+    "start": 536.465,
+    "duration": 4.128
+  },
+  {
+    "text": "crust thickness of the bread,\nstuff you can measure,",
+    "start": 540.618,
+    "duration": 2.714
+  },
+  {
+    "text": "may be a qualitative assessment\nof how how good it tastes.",
+    "start": 543.357,
+    "duration": 3.363
+  },
+  {
+    "text": "Now, brad is a pretty everyday thing that\nwe all pretty much know how to make, right?",
+    "start": 547.093,
+    "duration": 4.756
+  },
+  {
+    "text": "But what if you're working with a\nnew grain, a new lot of flowers,",
+    "start": 551.874,
+    "duration": 2.845
+  },
+  {
+    "text": "the different particle size there's lots\nof factors to take into account here.",
+    "start": 554.72,
+    "duration": 3.839
+  },
+  {
+    "text": "And if you really did want to look\nat 9 factors in a baking experiment,",
+    "start": 558.584,
+    "duration": 4.091
+  },
+  {
+    "text": "if you, even if you use a factorial approach\nwhich means a design of experiments approach",
+    "start": 562.7,
+    "duration": 4.965
+  },
+  {
+    "text": "if you wanna resolve all the interactions between\nflour and yeast and rise time and all that,",
+    "start": 567.69,
+    "duration": 5.467
+  },
+  {
+    "text": "you need 512 experiments.",
+    "start": 573.182,
+    "duration": 3.249
+  },
+  {
+    "text": "So, 512 experiments and then not to mention\nyou also have these factors of noise",
+    "start": 577.352,
+    "duration": 6.926
+  },
+  {
+    "text": "you don't know if these are gonna\nplay a role in your experiment,",
+    "start": 584.303,
+    "duration": 2.562
+  },
+  {
+    "text": "maybe your oven goes dead after 250\nexperiments and get a new oven, right?",
+    "start": 586.89,
+    "duration": 4.491
+  },
+  {
+    "text": "So, that's just gonna\ngive you a general idea,",
+    "start": 592.436,
+    "duration": 2.412
+  },
+  {
+    "text": "luckily people have worked\nout the bread experiment",
+    "start": 594.873,
+    "duration": 2.642
+  },
+  {
+    "text": "and we pretty well every day,\nwe're thankful for that.",
+    "start": 597.54,
+    "duration": 3.089
+  },
+  {
+    "text": "So, let's get into the, now that we\nhave an idea of how complex bread is",
+    "start": 601.089,
+    "duration": 5.773
+  },
+  {
+    "text": "we'll get into the much simpler\nsystem of the Sun, right?",
+    "start": 606.887,
+    "duration": 4.256
+  },
+  {
+    "text": "It's pretty easy, those gravitational\ncompression, Monte talked about this earlier,",
+    "start": 611.168,
+    "duration": 5.168
+  },
+  {
+    "text": "there's hot turbulent gases coming up\nfrom the fusion",
+    "start": 616.361,
+    "duration": 3.139
+  },
+  {
+    "text": "that's created by the gravitational\ncollapse of the mass",
+    "start": 619.525,
+    "duration": 4.579
+  },
+  {
+    "text": "from that gradual accretion\ndisk in it compresses down.",
+    "start": 624.129,
+    "duration": 3.193
+  },
+  {
+    "text": "The energy was\nreleased in some ways,",
+    "start": 627.347,
+    "duration": 2.131
+  },
+  {
+    "text": "there's some debate of how that\nenergy gets released to the surface",
+    "start": 629.503,
+    "duration": 2.477
+  },
+  {
+    "text": "and eventually reaches\nus here on the Earth.",
+    "start": 632.005,
+    "duration": 2.555
+  },
+  {
+    "text": "There's a lot of responses we\ncan look at in the system.",
+    "start": 635.187,
+    "duration": 4.434
+  },
+  {
+    "text": "One of them being fusion, I know\nthere's been a lot of talk about that.",
+    "start": 640.455,
+    "duration": 4.086
+  },
+  {
+    "text": "Fusion, is it a factor or\nresponse in this model?",
+    "start": 644.566,
+    "duration": 6.296
+  },
+  {
+    "text": "Is it a response to the gravitational\ncollapse, and fusion is initiated,",
+    "start": 650.887,
+    "duration": 4.013
+  },
+  {
+    "text": "and then it drives the Sun, and\nthey're going to run out of energy?",
+    "start": 654.925,
+    "duration": 3.116
+  },
+  {
+    "text": "As it, is it a factor for those other\nresponses that happened on the surface.",
+    "start": 658.066,
+    "duration": 4.641
+  },
+  {
+    "text": "There's also the electric Sun model\nthat has been talked about extensively,",
+    "start": 663.83,
+    "duration": 4.496
+  },
+  {
+    "text": "charged plasma affecting matter\nat a different potential.",
+    "start": 668.802,
+    "duration": 4.07
+  },
+  {
+    "text": "And in this case we\nhave an anode Sun,",
+    "start": 673.388,
+    "duration": 3.449
+  },
+  {
+    "text": "and these are from a Wal\nThornhill e-book by the way,",
+    "start": 676.862,
+    "duration": 3.129
+  },
+  {
+    "text": "haven't put the credits\non there Wal, I'm sorry.",
+    "start": 680.016,
+    "duration": 3.066
+  },
+  {
+    "text": "And there's a steady drift of\nelectrons towards the Sun.",
+    "start": 683.107,
+    "duration": 4.066
+  },
+  {
+    "text": "Probably emanating from a dense plasma\nsheet or some sort of double layer.",
+    "start": 687.879,
+    "duration": 5.68
+  },
+  {
+    "text": "So, which of these two\nmodels can we test in a lab?",
+    "start": 694.432,
+    "duration": 3.047
+  },
+  {
+    "text": "Which of these models that are listed in the\nEU row, charge differential affecting matter",
+    "start": 697.504,
+    "duration": 5.826
+  },
+  {
+    "text": "of a different charge differential\nacting on the material",
+    "start": 703.33,
+    "duration": 3.706
+  },
+  {
+    "text": "and the responses there,\nif fusion is happening,",
+    "start": 707.235,
+    "duration": 2.575
+  },
+  {
+    "text": "we should see if some\nresponse to that.",
+    "start": 709.835,
+    "duration": 3.142
+  },
+  {
+    "text": "In addition to all these other things, these\nresponses should be consistent with the EU model",
+    "start": 713.002,
+    "duration": 4.805
+  },
+  {
+    "text": "just like was said\nin Ben's film.",
+    "start": 717.832,
+    "duration": 2.662
+  },
+  {
+    "text": "And the factors in a traditional model\nwe have to weigh against as well.",
+    "start": 720.797,
+    "duration": 3.579
+  },
+  {
+    "text": "Fusion, I think, could be both the\nfactor and the response in that.",
+    "start": 724.401,
+    "duration": 3.126
+  },
+  {
+    "text": "So, that makes it a very hard\nsystem to test statistically",
+    "start": 727.552,
+    "duration": 3.224
+  },
+  {
+    "text": "if we don't know which is a\nfactor and which is a response.",
+    "start": 730.801,
+    "duration": 4.372
+  },
+  {
+    "text": "So, let's get into\nsome experimentation.",
+    "start": 736.965,
+    "duration": 3.256
+  },
+  {
+    "text": "We have a particular\nknob in our system",
+    "start": 741.055,
+    "duration": 3.92
+  },
+  {
+    "text": "and this is gonna walk\nthrough this just because",
+    "start": 745.719,
+    "duration": 2.665
+  },
+  {
+    "text": "I want to show you how that feeds\ninto actual design of experiments.",
+    "start": 748.409,
+    "duration": 3.484
+  },
+  {
+    "text": "When you have a knob in a system you\nhave a continuous set of factors,",
+    "start": 751.918,
+    "duration": 3.734
+  },
+  {
+    "text": "we call these 'continuous factors', you can dial\nthat knob to whatever number you want, right?",
+    "start": 755.677,
+    "duration": 4.204
+  },
+  {
+    "text": "So, some experimentation is needed\nto understand what your limits are,",
+    "start": 759.906,
+    "duration": 3.778
+  },
+  {
+    "text": "but let's say we can dial this knob to\nwhatever level we want, we measure response",
+    "start": 763.709,
+    "duration": 5.585
+  },
+  {
+    "text": "this is a graph of\na line Y = mx + b",
+    "start": 769.319,
+    "duration": 5.726
+  },
+  {
+    "text": "So, 'm' being the slope of this line,\n'Y' is the value of a response,",
+    "start": 775.734,
+    "duration": 8.204
+  },
+  {
+    "text": "the hardness of the bread crusts, the\ntaste of the creek bed plus whatever may be",
+    "start": 784.421,
+    "duration": 4.232
+  },
+  {
+    "text": "and 'x' is the setting of\nour knob, say on our oven.",
+    "start": 788.678,
+    "duration": 3.479
+  },
+  {
+    "text": "So, the hypothetical response 'Y' is a\nmeasurement of the oven temperature,",
+    "start": 792.998,
+    "duration": 4.76
+  },
+  {
+    "text": "or the voltage drop or the plasma\nintensity, whatever it may be.",
+    "start": 797.783,
+    "duration": 3.991
+  },
+  {
+    "text": "Now, in this hypothetical example, I kind of\nscattered ± 0.1, across that whole response.",
+    "start": 801.799,
+    "duration": 7.224
+  },
+  {
+    "text": "and it might not always be a\nstraight line in real life,",
+    "start": 809.345,
+    "duration": 2.848
+  },
+  {
+    "text": "oftentimes is a curve and we have\nto apply certain mathematics",
+    "start": 812.218,
+    "duration": 3.349
+  },
+  {
+    "text": "but for the purpose of this illustration I just\nwant to illustrate a straight line, right?",
+    "start": 815.592,
+    "duration": 6.522
+  },
+  {
+    "text": "So, there are two ways to\napproach experimentation.",
+    "start": 823.741,
+    "duration": 4.127
+  },
+  {
+    "text": "You could set there, you could dial the\nknob 10 times and look at the response.",
+    "start": 828.265,
+    "duration": 4.182
+  },
+  {
+    "text": "10 times along that line, right?",
+    "start": 832.472,
+    "duration": 2.848
+  },
+  {
+    "text": "One factor at a time.",
+    "start": 836.708,
+    "duration": 1.611
+  },
+  {
+    "text": "Could also do\npossibly 3 settings.",
+    "start": 838.344,
+    "duration": 3.49
+  },
+  {
+    "text": "May be replicated, you can build in\nsome replication to your system,",
+    "start": 842.334,
+    "duration": 3.492
+  },
+  {
+    "text": "which is important, right?",
+    "start": 845.851,
+    "duration": 1.402
+  },
+  {
+    "text": "So, maybe dial to 1 we take a few readings,\nwe dial to 7 we take a few readings,",
+    "start": 847.278,
+    "duration": 4.055
+  },
+  {
+    "text": "we dial to the midpoint of\n4 we take a few readings,",
+    "start": 851.358,
+    "duration": 3.031
+  },
+  {
+    "text": "then we go back to the\nother set points.",
+    "start": 854.414,
+    "duration": 2.586
+  },
+  {
+    "text": "So, you can see here that we have pretty\nmuch the same data from our 3 level test",
+    "start": 857.777,
+    "duration": 5.326
+  },
+  {
+    "text": "and we have a set of data\nfrom our 10 level test.",
+    "start": 863.128,
+    "duration": 3.957
+  },
+  {
+    "text": "Now, there's a difference between these,\nwhen you're in the real world and in the lab.",
+    "start": 869.013,
+    "duration": 4.711
+  },
+  {
+    "text": "We could do this one of two ways we\ncan set the knob 10 different times",
+    "start": 874.171,
+    "duration": 3.271
+  },
+  {
+    "text": "and do 10 different readings\nor we can do it a few times",
+    "start": 877.467,
+    "duration": 3.085
+  },
+  {
+    "text": "and utilize the average and the\ndeviation in those responses. Right?",
+    "start": 880.577,
+    "duration": 5.432
+  },
+  {
+    "text": "So, we can do our 10 levels and I\ncan say, Jano here are 10 levels,",
+    "start": 887.503,
+    "duration": 8.325
+  },
+  {
+    "text": "and Jano being the good guy that he\nis he'll carry out the experiments",
+    "start": 899.098,
+    "duration": 5.098
+  },
+  {
+    "text": "He doesn't crumble,\nright, he doesn't crumble",
+    "start": 904.221,
+    "duration": 2.966
+  },
+  {
+    "text": "and he will continue to\ndo those experiments",
+    "start": 908.099,
+    "duration": 2.806
+  },
+  {
+    "text": "but then I gotta go to Michael and I gotta\nsay Michael here are 10 spectra that we have",
+    "start": 911.93,
+    "duration": 4.515
+  },
+  {
+    "text": "we got a look at these peak\nratios these full with half max's",
+    "start": 916.47,
+    "duration": 3.607
+  },
+  {
+    "text": "and says; 'Man we don't have grad\nstudents at least not yet, not yet'.",
+    "start": 920.102,
+    "duration": 5.201
+  },
+  {
+    "text": "but in actuality if you really think\nabout this can be very overwhelming",
+    "start": 925.724,
+    "duration": 4.221
+  },
+  {
+    "text": "and this is what we're up against\nright now is with NASA data.",
+    "start": 929.97,
+    "duration": 3.391
+  },
+  {
+    "text": "If you do find some NASA data and\nyou've dug into the data from NASA",
+    "start": 933.386,
+    "duration": 4.691
+  },
+  {
+    "text": "it is often very, very\ndifficult to get through.",
+    "start": 938.102,
+    "duration": 4.277
+  },
+  {
+    "text": "Some of the data is\nvery easy to find,",
+    "start": 942.404,
+    "duration": 2.75
+  },
+  {
+    "text": "but it's harder to manipulate\ninto a usable form",
+    "start": 945.179,
+    "duration": 3.076
+  },
+  {
+    "text": "and it's even harder\nto data mine, okay?",
+    "start": 948.28,
+    "duration": 2.998
+  },
+  {
+    "text": "And is an example of that, will have gobs\nand gobs of data may be 10 data points",
+    "start": 951.303,
+    "duration": 4.898
+  },
+  {
+    "text": "which we then gotta\ntranslate into a response",
+    "start": 956.226,
+    "duration": 2.743
+  },
+  {
+    "text": "that we can analyze and\nour scientific method.",
+    "start": 958.994,
+    "duration": 3.02
+  },
+  {
+    "text": "So, Michael illustrate on this,\nillustrate that on this slide",
+    "start": 962.852,
+    "duration": 4.633
+  },
+  {
+    "text": "and that's why grad\nstudents are very valuable",
+    "start": 967.51,
+    "duration": 2.798
+  },
+  {
+    "text": "and just a side note I think there's\na great future for the young folks",
+    "start": 970.333,
+    "duration": 3.355
+  },
+  {
+    "text": "or even all other folks who are looking\nin data mining and data analytics",
+    "start": 973.713,
+    "duration": 6.094
+  },
+  {
+    "text": "that's really the secret of Science\nin the future with these gobs",
+    "start": 979.832,
+    "duration": 3.747
+  },
+  {
+    "text": "and gobs of data coming out us from the\nright and the left we really need people",
+    "start": 983.604,
+    "duration": 3.066
+  },
+  {
+    "text": "who know how to dig into data, filter it\nout and get good, good statistics from it.",
+    "start": 986.695,
+    "duration": 6.892
+  },
+  {
+    "text": "So, this is where we introduce a little bit of\ncourse fog analogy in some mystery into the design",
+    "start": 995.793,
+    "duration": 4.816
+  },
+  {
+    "text": "now we're just gonna run three\ndifferent settings, right?",
+    "start": 1000.634,
+    "duration": 1.97
+  },
+  {
+    "text": "a lot easier to just let it run a few\ntimes at each setting",
+    "start": 1002.629,
+    "duration": 3.279
+  },
+  {
+    "text": "Jano is much happier with that your three\nlevels replicate them a few times, okay right?",
+    "start": 1005.933,
+    "duration": 5.764
+  },
+  {
+    "text": "That's what Canadians say.",
+    "start": 1011.722,
+    "duration": 2.035
+  },
+  {
+    "text": "And then, I give that to Michael, but\nI say, hey, here respects from 10 runs",
+    "start": 1013.782,
+    "duration": 4.907
+  },
+  {
+    "text": "but we can take the variance\nin the averages and use them.",
+    "start": 1018.714,
+    "duration": 4.508
+  },
+  {
+    "text": "Michael's thumbs up there, he can\ngo home in Canada the next day.",
+    "start": 1023.69,
+    "duration": 4.378
+  },
+  {
+    "text": "Not very much difference\nbetween the data",
+    "start": 1030.241,
+    "duration": 2.793
+  },
+  {
+    "text": "again this is just a very\nhypothetical experiment, right?",
+    "start": 1033.059,
+    "duration": 2.824
+  },
+  {
+    "text": "But on the left we see that 10\ndata points",
+    "start": 1035.908,
+    "duration": 2.26
+  },
+  {
+    "text": "on the right we see the 10 data\npoints at three different levels.",
+    "start": 1038.193,
+    "duration": 4.062
+  },
+  {
+    "text": "So, which looks easier to do?",
+    "start": 1042.28,
+    "duration": 2.29
+  },
+  {
+    "text": "So, what we're looking to do is\nfurthermore utilize this in terms of",
+    "start": 1045.538,
+    "duration": 5.372
+  },
+  {
+    "text": "experiment has cushioned and\ndata acquisition and storage.",
+    "start": 1050.91,
+    "duration": 2.938
+  },
+  {
+    "text": "It's much easier to store say the\naverage and variance of a few data runs",
+    "start": 1053.873,
+    "duration": 5.631
+  },
+  {
+    "text": "rather than a full suite\nat different levels, okay?",
+    "start": 1059.529,
+    "duration": 4.078
+  },
+  {
+    "text": "Additionally, for those who are more data\nminded I apologize for a small fun here",
+    "start": 1064.326,
+    "duration": 4.804
+  },
+  {
+    "text": "which is more symmetrical, I introduced\nthe concept of orthogonality here,",
+    "start": 1069.155,
+    "duration": 4.202
+  },
+  {
+    "text": "orthogonality is necessary in the\ndesign of experiments to do statistics.",
+    "start": 1073.382,
+    "duration": 4.949
+  },
+  {
+    "text": "There even though it's evenly\nspaced there truly is North",
+    "start": 1078.356,
+    "duration": 3.238
+  },
+  {
+    "text": "orthogonality associated with that\n10 point data design on the left",
+    "start": 1081.619,
+    "duration": 3.796
+  },
+  {
+    "text": "and on the right we\ndo have orthogonality",
+    "start": 1086.634,
+    "duration": 3.003
+  },
+  {
+    "text": "there are 3 data points that\ncan be symmetrical with",
+    "start": 1089.662,
+    "duration": 2.632
+  },
+  {
+    "text": "another 3 data points\nfrom another factor",
+    "start": 1092.319,
+    "duration": 2.329
+  },
+  {
+    "text": "and then we let the math and statistics work\nout the relationships between the factors.",
+    "start": 1094.673,
+    "duration": 5.928
+  },
+  {
+    "text": "And if you do look, I don't\nknow if you can see but",
+    "start": 1100.626,
+    "duration": 3.084
+  },
+  {
+    "text": "I'll go into the statistics one more\nlittle bit later on our SAFIRE experiment",
+    "start": 1103.735,
+    "duration": 6.175
+  },
+  {
+    "text": "but the statistics\nare the same, okay?",
+    "start": 1109.935,
+    "duration": 2.908
+  },
+  {
+    "text": "For the most part there\nthey are the same.",
+    "start": 1112.868,
+    "duration": 2.864
+  },
+  {
+    "text": "So, I want to emphasize here the efficiency\nof statistical experimental design.",
+    "start": 1117.097,
+    "duration": 4.844
+  },
+  {
+    "text": "This chart was made\nby Louis Volante,",
+    "start": 1122.822,
+    "duration": 2.811
+  },
+  {
+    "text": "he really pioneered the\nstatistical experiments at Kodak",
+    "start": 1125.658,
+    "duration": 3.949
+  },
+  {
+    "text": "back in the heyday of\nphotography, of print photography",
+    "start": 1129.632,
+    "duration": 3.801
+  },
+  {
+    "text": "and it really shows the advantages of\nusing a design of experiments approach",
+    "start": 1133.458,
+    "duration": 4.471
+  },
+  {
+    "text": "in the first column we have a number\nof factors in your experiment.",
+    "start": 1137.954,
+    "duration": 3.824
+  },
+  {
+    "text": "So, 3 factors time\ntemperature pressure, right?",
+    "start": 1141.803,
+    "duration": 2.921
+  },
+  {
+    "text": "in the center of 4 factors\nwill be one more factor 5.",
+    "start": 1144.749,
+    "duration": 2.855
+  },
+  {
+    "text": "So, these will be selections of a number\nof factors which were gonna look at.",
+    "start": 1147.629,
+    "duration": 4.295
+  },
+  {
+    "text": "The efficiency all be on the right there is\nactually a measure of variance in the design.",
+    "start": 1152.405,
+    "duration": 6.74
+  },
+  {
+    "text": "And what that means?",
+    "start": 1159.17,
+    "duration": 0.976
+  },
+  {
+    "text": "It's statistical efficiency, it's how well\nthe designers set up in space, right?",
+    "start": 1160.171,
+    "duration": 4.235
+  },
+  {
+    "text": "Data points take up a\ncertain type of space.",
+    "start": 1164.431,
+    "duration": 2.878
+  },
+  {
+    "text": "So, it's a measure of inherent variants\nbefore you even doing experiments",
+    "start": 1167.334,
+    "duration": 4.061
+  },
+  {
+    "text": "you can do that with statistics, you can measure\nthe variants associated with the design.",
+    "start": 1171.42,
+    "duration": 4.355
+  },
+  {
+    "text": "So, to have the same\nstatistical efficiency",
+    "start": 1175.8,
+    "duration": 3.567
+  },
+  {
+    "text": "this one factor that I'm type runs\nyou need a minimum of 16 runs",
+    "start": 1179.392,
+    "duration": 4.84
+  },
+  {
+    "text": "compared to 8 runs in\na full factorial DOE.",
+    "start": 1185.113,
+    "duration": 3.039
+  },
+  {
+    "text": "you need double the amount of runs to\nobtain the same statistics, really,",
+    "start": 1188.177,
+    "duration": 4.28
+  },
+  {
+    "text": "as you would using a design\nof experiments approach.",
+    "start": 1192.482,
+    "duration": 3.049
+  },
+  {
+    "text": "And something to take\naway here full factorial DOEs.",
+    "start": 1195.556,
+    "duration": 3.224
+  },
+  {
+    "text": "They are not the best\nDOEs to use anyway,",
+    "start": 1198.805,
+    "duration": 2.927
+  },
+  {
+    "text": "but they lend insight into\ninteractions that you wouldn't get",
+    "start": 1201.956,
+    "duration": 3.667
+  },
+  {
+    "text": "from 'one factor at a time'\nor you would do many runs.",
+    "start": 1205.648,
+    "duration": 2.949
+  },
+  {
+    "text": "So, this is where the\northogonality and the symmetry",
+    "start": 1209.085,
+    "duration": 2.897
+  },
+  {
+    "text": "really empowers the design\nof experiments approach.",
+    "start": 1212.007,
+    "duration": 3.042
+  },
+  {
+    "text": "So, bring it back to the\nfactors of bake time,",
+    "start": 1220.325,
+    "duration": 3.887
+  },
+  {
+    "text": "here's where I can introduce the\nconcept of 2nd order interactions.",
+    "start": 1224.237,
+    "duration": 3.483
+  },
+  {
+    "text": "We have bake time, temperature\nrise time, etcetera,",
+    "start": 1228.157,
+    "duration": 3.236
+  },
+  {
+    "text": "and to really resolve the second order\ninteractions we need many more runs.",
+    "start": 1231.418,
+    "duration": 4.813
+  },
+  {
+    "text": "Already told you 512 runs if we\nwere to use a full factorial DOE.",
+    "start": 1236.256,
+    "duration": 4.713
+  },
+  {
+    "text": "Maybe if we can decrease\nour number of factors,",
+    "start": 1241.779,
+    "duration": 2.558
+  },
+  {
+    "text": "we can decrease the\nruns, we could do that,",
+    "start": 1244.362,
+    "duration": 2.49
+  },
+  {
+    "text": "but we do need to resolve the\ninteractions between certain things",
+    "start": 1247.672,
+    "duration": 4.515
+  },
+  {
+    "text": "we know that between rise\ntime to rise temperature",
+    "start": 1252.212,
+    "duration": 2.208
+  },
+  {
+    "text": "there's a there's some sort\nof relationship there, right?",
+    "start": 1254.42,
+    "duration": 2.944
+  },
+  {
+    "text": "You know when you put your rising\nbread next to the fireplace",
+    "start": 1257.389,
+    "duration": 2.666
+  },
+  {
+    "text": "it will rise will quickly\nand then collapse,",
+    "start": 1260.08,
+    "duration": 1.957
+  },
+  {
+    "text": "whereas you put in a nice medium warm\ncorner all drives nice and slowly.",
+    "start": 1262.062,
+    "duration": 4.475
+  },
+  {
+    "text": "There is a relationship there,\nlikewise between yeast and sugar,",
+    "start": 1266.562,
+    "duration": 3.811
+  },
+  {
+    "text": "there is a relationship there, the\nyeast need certain amount of sugar.",
+    "start": 1270.398,
+    "duration": 4.028
+  },
+  {
+    "text": "And finally between\nyeast and a liquid,",
+    "start": 1274.451,
+    "duration": 2.533
+  },
+  {
+    "text": "you don't want to overdo\nthe liquid in your system.",
+    "start": 1277.009,
+    "duration": 2.672
+  },
+  {
+    "text": "Those are examples of 2nd order interactions\nand to resolve them mathematically",
+    "start": 1279.706,
+    "duration": 4.587
+  },
+  {
+    "text": "it requires at least 2 to 3\nruns between those factors",
+    "start": 1284.318,
+    "duration": 3.673
+  },
+  {
+    "text": "in addition to those factors\nbeing related to others.",
+    "start": 1288.016,
+    "duration": 3.082
+  },
+  {
+    "text": "So, how are we doing\nthat in real life",
+    "start": 1292.095,
+    "duration": 2.004
+  },
+  {
+    "text": "if you're so inclined to\nread the statistics paper.",
+    "start": 1294.124,
+    "duration": 2.599
+  },
+  {
+    "text": "I'm a chemist, I'm not\nstatistics person",
+    "start": 1296.818,
+    "duration": 2.46
+  },
+  {
+    "text": "and for me as a challenge get\nthrough the paper but it",
+    "start": 1299.303,
+    "duration": 3.876
+  },
+  {
+    "text": "but it really is enlightening because\nthere is a level to resolve second",
+    "start": 1303.179,
+    "duration": 3.915
+  },
+  {
+    "text": "there's a way to resolve 2nd order interactions\nwith a proper kind of design of experiments",
+    "start": 1307.119,
+    "duration": 5.376
+  },
+  {
+    "text": "this more recently has been a leap forward\nfor design of experiments in screenings sense,",
+    "start": 1312.495,
+    "duration": 5.877
+  },
+  {
+    "text": "in other words, when we wanna, when we\nfirst establish our boundary conditions",
+    "start": 1318.397,
+    "duration": 4.3
+  },
+  {
+    "text": "we want to know what interactions\nare there between the factors",
+    "start": 1322.722,
+    "duration": 3.537
+  },
+  {
+    "text": "and really this, what they call\nDefinitive Screening Design",
+    "start": 1326.284,
+    "duration": 3.498
+  },
+  {
+    "text": "when you have second-order\ninteractions and effects",
+    "start": 1329.807,
+    "duration": 2.911
+  },
+  {
+    "text": "which we know are there from plasma,\nit's a very nonlinear response,",
+    "start": 1332.743,
+    "duration": 3.879
+  },
+  {
+    "text": "this is a very\nvaluable approach.",
+    "start": 1336.647,
+    "duration": 2.894
+  },
+  {
+    "text": "Really only when you have more than 6 factors\notherwise there are other approaches.",
+    "start": 1339.566,
+    "duration": 4.427
+  },
+  {
+    "text": "But going back to our dial,\nif you think about it now,",
+    "start": 1344.018,
+    "duration": 2.918
+  },
+  {
+    "text": "if we just code are settings between negative\n1 0 and one being low medium and high",
+    "start": 1347.452,
+    "duration": 6.426
+  },
+  {
+    "text": "those can be any numbers,\nright, for each factor setting,",
+    "start": 1353.903,
+    "duration": 2.817
+  },
+  {
+    "text": "but just for the ease\nof picturing this,",
+    "start": 1356.745,
+    "duration": 2.379
+  },
+  {
+    "text": "yes 6 dials, you can dial them in at 6\ndifferent methods, 6 different ways.",
+    "start": 1359.149,
+    "duration": 5.662
+  },
+  {
+    "text": "Try to think of that\nexperimental matrix in your head",
+    "start": 1364.836,
+    "duration": 2.721
+  },
+  {
+    "text": "without the use of computers,\nis nearly impossible.",
+    "start": 1367.566,
+    "duration": 2.995
+  },
+  {
+    "text": "And so, what you're seeing on the right\nthere is this definitive screening design",
+    "start": 1371.091,
+    "duration": 5.157
+  },
+  {
+    "text": "which will resolve the second order\ninteractions between these factors.",
+    "start": 1376.273,
+    "duration": 4.943
+  },
+  {
+    "text": "So, how a design of experiments would work is that after\nmuch discussion we would sit down and we decide on the runs",
+    "start": 1381.597,
+    "duration": 5.782
+  },
+  {
+    "text": "that we're going to do the limits on each\nfactor we devise the design of experiments",
+    "start": 1387.38,
+    "duration": 5.343
+  },
+  {
+    "text": "So, the Xᵢˏ₁ factor here, these\nwould be the settings for each run",
+    "start": 1393.382,
+    "duration": 4.783
+  },
+  {
+    "text": "for the Xᵢˏ₂ factor, pressure,\ntime, whatever may be, here,",
+    "start": 1398.19,
+    "duration": 4.804
+  },
+  {
+    "text": "Xᵢˏ₃ factor voltage, etc, etc.",
+    "start": 1403.399,
+    "duration": 2.776
+  },
+  {
+    "text": "So, these are 6 factors and these\nare each experimental run",
+    "start": 1406.2,
+    "duration": 3.341
+  },
+  {
+    "text": "and we get the response\nout that were looking for.",
+    "start": 1409.566,
+    "duration": 3.138
+  },
+  {
+    "text": "Whether be a certain peak height, full with\nhalf max, mass loss on the anode, etc.",
+    "start": 1413.116,
+    "duration": 7.278
+  },
+  {
+    "text": "There's a specific response\nfor each experiment",
+    "start": 1420.419,
+    "duration": 4.014
+  },
+  {
+    "text": "and you can have as many\nresponses as you want, okay?",
+    "start": 1424.458,
+    "duration": 2.992
+  },
+  {
+    "text": "But notice, I circled the zeros\nbecause of the midpoints, right?",
+    "start": 1427.855,
+    "duration": 3.198
+  },
+  {
+    "text": "You notice the symmetry\nin this design?",
+    "start": 1431.078,
+    "duration": 2.036
+  },
+  {
+    "text": "You see I can fold\nit over, diagonally?",
+    "start": 1433.139,
+    "duration": 2.985
+  },
+  {
+    "text": "So, you can see that this -1, -1,\n-1, -1 is down here -1, -1, -1, -1.",
+    "start": 1437.505,
+    "duration": 6.243
+  },
+  {
+    "text": "So, that's the symmetry I was talking about\northogonality that really empowers DOE.",
+    "start": 1443.773,
+    "duration": 4.579
+  },
+  {
+    "text": "Now, we only have to run 13 runs\nto resolve second order interactions",
+    "start": 1448.377,
+    "duration": 5.524
+  },
+  {
+    "text": "that are not confused with\nany main order affects.",
+    "start": 1453.926,
+    "duration": 4.476
+  },
+  {
+    "text": "I'll get into more detail what\nthose main order effects are.",
+    "start": 1458.427,
+    "duration": 3.13
+  },
+  {
+    "text": "So, it's a very powerful approach,\nthis approach was used",
+    "start": 1461.582,
+    "duration": 2.857
+  },
+  {
+    "text": "by a company recently to find a\ncatalyst for CO₂ sequestration",
+    "start": 1464.464,
+    "duration": 5.777
+  },
+  {
+    "text": "and they won a prize\nfor the DOE using it.",
+    "start": 1470.963,
+    "duration": 2.67
+  },
+  {
+    "text": "It's got to cut off a little\nbit but this is just a",
+    "start": 1474.356,
+    "duration": 2.822
+  },
+  {
+    "text": "to note the symmetry of\nthe design space, right?",
+    "start": 1477.203,
+    "duration": 2.887
+  },
+  {
+    "text": "If you look at the design space,\nall the designs bases covered.",
+    "start": 1480.115,
+    "duration": 4.425
+  },
+  {
+    "text": "If it wasn't symmetrical you'd\nsee gaps in those those dots.",
+    "start": 1484.565,
+    "duration": 3.384
+  },
+  {
+    "text": "And what this axis is?",
+    "start": 1487.974,
+    "duration": 1.448
+  },
+  {
+    "text": "This is actually X₂,\nX₃, X₄, X₅ and X₆",
+    "start": 1489.447,
+    "duration": 3.597
+  },
+  {
+    "text": "these are the factors and these\nare also factor settings.",
+    "start": 1493.069,
+    "duration": 2.95
+  },
+  {
+    "text": "So, just the way to visualize what the factory\nsettings are associated with each experiment",
+    "start": 1496.044,
+    "duration": 5.783
+  },
+  {
+    "text": "and to make sure you have your\ndesign space covered it efficiently.",
+    "start": 1501.852,
+    "duration": 3.639
+  },
+  {
+    "text": "So, again 13 runs we can get\nthat design of experiments done",
+    "start": 1506.248,
+    "duration": 4.495
+  },
+  {
+    "text": "and then you follow up on that once you\nfigure out your second order actions",
+    "start": 1510.768,
+    "duration": 4.029
+  },
+  {
+    "text": "you do further experiments\nto increase your response.",
+    "start": 1514.822,
+    "duration": 4.85
+  },
+  {
+    "text": "In a typical deal we factorial\nyou would need to do 64 runs",
+    "start": 1520.558,
+    "duration": 3.991
+  },
+  {
+    "text": "'one factor at time', don't\neven try to calculate it.",
+    "start": 1524.574,
+    "duration": 3.769
+  },
+  {
+    "text": "When we were first... When\nwe first assembled SAFIRE",
+    "start": 1530.319,
+    "duration": 4.354
+  },
+  {
+    "text": "I took the approach of\nusing screening designs.",
+    "start": 1534.698,
+    "duration": 2.546
+  },
+  {
+    "text": "We had a number of factors,",
+    "start": 1537.269,
+    "duration": 1.579
+  },
+  {
+    "text": "we didn't have enough factors to\nutilize a definitive screens design,",
+    "start": 1538.873,
+    "duration": 2.675
+  },
+  {
+    "text": "so I just used to be\na factorial designs.",
+    "start": 1541.573,
+    "duration": 2.293
+  },
+  {
+    "text": "You'll notice again the symmetry\nwere symmetry comes into play here.",
+    "start": 1543.891,
+    "duration": 3.741
+  },
+  {
+    "text": "We typically had 4 to 6\nfactors in each experiment,",
+    "start": 1547.657,
+    "duration": 3.529
+  },
+  {
+    "text": "in this case we're three\ndimensional creatures,",
+    "start": 1551.211,
+    "duration": 2.5
+  },
+  {
+    "text": "so we can envision three\ndimensions at once.",
+    "start": 1553.736,
+    "duration": 3.179
+  },
+  {
+    "text": "We have pressure, voltage and\ncurrent as our settings,",
+    "start": 1557.349,
+    "duration": 3.178
+  },
+  {
+    "text": "we also had type of gas, the type of anode\nand type of cathode in some experiments,",
+    "start": 1560.552,
+    "duration": 5.519
+  },
+  {
+    "text": "and we had a voltmeter\nthat was across...",
+    "start": 1566.468,
+    "duration": 2.427
+  },
+  {
+    "text": "...between the cathode anode across\ntheir to measure the voltage drop.",
+    "start": 1568.92,
+    "duration": 5.15
+  },
+  {
+    "text": "Okay, and we also had other\nresponses that we are monitoring,",
+    "start": 1574.633,
+    "duration": 3.238
+  },
+  {
+    "text": "but this is just to give you an\nexample of design of experiments.",
+    "start": 1577.896,
+    "duration": 3.696
+  },
+  {
+    "text": "You can see that each of these\ndata points is a unique data point",
+    "start": 1581.617,
+    "duration": 3.474
+  },
+  {
+    "text": "and this is why I also design of\nexperiments builds and reproducibility",
+    "start": 1585.116,
+    "duration": 3.583
+  },
+  {
+    "text": "each of those data points actually\naugments that orthogonal approach",
+    "start": 1588.724,
+    "duration": 4.569
+  },
+  {
+    "text": "to help us reproduce\nthese settings.",
+    "start": 1593.318,
+    "duration": 3.198
+  },
+  {
+    "text": "Is also center point here and\nwhat that center point does",
+    "start": 1597.317,
+    "duration": 3.386
+  },
+  {
+    "text": "is it says; okay, I think there is\ncurvature between these factors.",
+    "start": 1601.013,
+    "duration": 3.862
+  },
+  {
+    "text": "It doesn't give you an exact\nmeasurement of that curvature",
+    "start": 1604.9,
+    "duration": 3.889
+  },
+  {
+    "text": "it just says hey you look between\nthese two factors in further detail.",
+    "start": 1608.814,
+    "duration": 4.584
+  },
+  {
+    "text": "Okay, so that's 9 data points in a single\nexperimental run, in a very dynamic system",
+    "start": 1614.206,
+    "duration": 6.32
+  },
+  {
+    "text": "and money give you a\nteaser of this graphic",
+    "start": 1620.551,
+    "duration": 2.858
+  },
+  {
+    "text": "I try to do this in as\nmany runs as possible",
+    "start": 1623.434,
+    "duration": 2.189
+  },
+  {
+    "text": "to kind of monitor what\nthe plasma is doing.",
+    "start": 1625.648,
+    "duration": 2.555
+  },
+  {
+    "text": "As I said before, think about this in\nyour experiment if you run experiments",
+    "start": 1628.228,
+    "duration": 4.481
+  },
+  {
+    "text": "especially the qualitative experiments\nwere you looking say a creators",
+    "start": 1632.734,
+    "duration": 3.643
+  },
+  {
+    "text": "or trying to rate different responses\nthat are a qualitative in nature",
+    "start": 1636.402,
+    "duration": 3.522
+  },
+  {
+    "text": "at all times we should try and\nmake them quantitative, right?",
+    "start": 1639.949,
+    "duration": 3.047
+  },
+  {
+    "text": "Maybe the number of Tufts that\ncome into existence, etcetera,",
+    "start": 1643.021,
+    "duration": 3.72
+  },
+  {
+    "text": "but in some way at\nleast rate them.",
+    "start": 1647.122,
+    "duration": 2.268
+  },
+  {
+    "text": "Yes, I like it, no I don't,\nscale of 1 to 5 or 1 to 4,",
+    "start": 1649.415,
+    "duration": 4.175
+  },
+  {
+    "text": "so you're not sitting\nthere on the fence.",
+    "start": 1653.615,
+    "duration": 2.452
+  },
+  {
+    "text": "There are ways to do that\nfor qualitative responses",
+    "start": 1657.035,
+    "duration": 2.777
+  },
+  {
+    "text": "that goes along way for quantifying\nand optimizing your process later on.",
+    "start": 1659.837,
+    "duration": 4.851
+  },
+  {
+    "text": "Again I said the advertising\ncompanies do very well",
+    "start": 1665.299,
+    "duration": 3.211
+  },
+  {
+    "text": "with their there are many, many\nsurveys that they perform",
+    "start": 1668.535,
+    "duration": 3.192
+  },
+  {
+    "text": "to figure out the best factors\ninvolved in an advertising.",
+    "start": 1672.33,
+    "duration": 3.689
+  },
+  {
+    "text": "Qualitatively, as we're going\ninto some numbers here, so...",
+    "start": 1680.091,
+    "duration": 5.508
+  },
+  {
+    "text": "this is not really a graph of a\nresponse, is a graph of the model.",
+    "start": 1685.916,
+    "duration": 5.959
+  },
+  {
+    "text": "So, you hear models talked about in the\nliterature and in the press a lot.",
+    "start": 1691.9,
+    "duration": 4.731
+  },
+  {
+    "text": "These models are derived from real data,\nthey're not derived from a computer, okay?",
+    "start": 1696.656,
+    "duration": 4.277
+  },
+  {
+    "text": "The data that's going in\nstill controlled by us,",
+    "start": 1700.958,
+    "duration": 3.09
+  },
+  {
+    "text": "we saw how to choose the\nright statistical aspects,",
+    "start": 1704.073,
+    "duration": 3.944
+  },
+  {
+    "text": "but this voltages on Y-axis and we\nhave our model that we've built",
+    "start": 1708.297,
+    "duration": 5.376
+  },
+  {
+    "text": "from our various\nterms on the X-axis.",
+    "start": 1713.698,
+    "duration": 3.205
+  },
+  {
+    "text": "This model is composed of voltage,\nof the pressure, of the current, etc",
+    "start": 1716.928,
+    "duration": 5.518
+  },
+  {
+    "text": "how many factors are\ninvolved with your response.",
+    "start": 1722.471,
+    "duration": 2.768
+  },
+  {
+    "text": "And what it's doing is, it's\nplotting a line that if it's perfect",
+    "start": 1725.264,
+    "duration": 5.015
+  },
+  {
+    "text": "and a perfect world, you'd perfect\nmodel goes to zero axis, here,",
+    "start": 1730.304,
+    "duration": 3.525
+  },
+  {
+    "text": "or the 0 point here in the origin\nand you would have no scattered,",
+    "start": 1733.829,
+    "duration": 3.373
+  },
+  {
+    "text": "but we're dealing with real\ndata, so you have scatter.",
+    "start": 1737.227,
+    "duration": 2.908
+  },
+  {
+    "text": "And it's measuring the ability\nof the model to predict",
+    "start": 1741.427,
+    "duration": 4.545
+  },
+  {
+    "text": "the response at a\ncertain setting.",
+    "start": 1745.997,
+    "duration": 2.444
+  },
+  {
+    "text": "So, once we have this, in this design space,\nI know that I can go to a setting here",
+    "start": 1748.68,
+    "duration": 4.586
+  },
+  {
+    "text": "I can back out those settings\nin real life, I can dial that in",
+    "start": 1753.291,
+    "duration": 4.782
+  },
+  {
+    "text": "and I'm going to predict\na certain voltage drop.",
+    "start": 1758.098,
+    "duration": 3.405
+  },
+  {
+    "text": "And statistics here are telling\nme that, you know what?",
+    "start": 1762.218,
+    "duration": 3.333
+  },
+  {
+    "text": "That's an R squared of 98,\nthat's pretty good 98%.",
+    "start": 1765.576,
+    "duration": 5.459
+  },
+  {
+    "text": "You have a Root Mean Square Error (RMSE)\nof about 23, plus or minus 23 volts",
+    "start": 1771.837,
+    "duration": 6.717
+  },
+  {
+    "text": "in this response, that is\nunaccounted for by the model.",
+    "start": 1778.579,
+    "duration": 4.249
+  },
+  {
+    "text": "Doesn't mean that error,\nit means it's just unknown,",
+    "start": 1782.853,
+    "duration": 3.434
+  },
+  {
+    "text": "the models telling me\nthat I have 23 volts",
+    "start": 1786.312,
+    "duration": 2.996
+  },
+  {
+    "text": "that you're just gonna have to deal\nwith, that I can't tell you what it is.",
+    "start": 1789.333,
+    "duration": 3.429
+  },
+  {
+    "text": "I don't know why it's\nplus or minus, right?",
+    "start": 1792.787,
+    "duration": 2.725
+  },
+  {
+    "text": "Most importantly you see the\nP value is less than .0001",
+    "start": 1795.537,
+    "duration": 7.012
+  },
+  {
+    "text": "And that value needs to be below\n.05 for the model to be valid,",
+    "start": 1802.574,
+    "duration": 5.146
+  },
+  {
+    "text": "in other words, it deviates from the norm\nsignificantly, so less them .005, so...",
+    "start": 1807.745,
+    "duration": 8.279
+  },
+  {
+    "text": "So, let's dig it in\na little further.",
+    "start": 1819.318,
+    "duration": 2.505
+  },
+  {
+    "text": "Ben really struggle with me because he\nwas searching for the other factors,",
+    "start": 1823.189,
+    "duration": 4.149
+  },
+  {
+    "text": "how can you tell what other\nfactors contribute to response?",
+    "start": 1827.363,
+    "duration": 3.229
+  },
+  {
+    "text": "And really that's\nwhat science is about.",
+    "start": 1830.617,
+    "duration": 2.218
+  },
+  {
+    "text": "When we're dealing\nwith the response",
+    "start": 1832.86,
+    "duration": 2.259
+  },
+  {
+    "text": "we want to know what factors\nare contributing to that.",
+    "start": 1835.675,
+    "duration": 3.098
+  },
+  {
+    "text": "And through statistical design of\nexperiments we can do that, okay?",
+    "start": 1838.798,
+    "duration": 3.549
+  },
+  {
+    "text": "So again, I already mentioned\nthat the model matches real data,",
+    "start": 1842.372,
+    "duration": 3.345
+  },
+  {
+    "text": "because of predictable result.",
+    "start": 1845.742,
+    "duration": 1.737
+  },
+  {
+    "text": "There's a very small variance in the\nmodel, as you can see in the line there.",
+    "start": 1847.931,
+    "duration": 8.349
+  },
+  {
+    "text": "So, small variances good, you're not dealing\nwith very large confidence intervals here,",
+    "start": 1856.684,
+    "duration": 4.73
+  },
+  {
+    "text": "which means you can\npredict things very well",
+    "start": 1861.439,
+    "duration": 2.542
+  },
+  {
+    "text": "and the deviation from\nthe norm is significant",
+    "start": 1864.322,
+    "duration": 2.505
+  },
+  {
+    "text": "it's a valid model, we can use it\nfor engineering to dial in further.",
+    "start": 1866.852,
+    "duration": 3.87
+  },
+  {
+    "text": "So, let's get the crowd involved\nwith parameter estimates.",
+    "start": 1872.825,
+    "duration": 4.495
+  },
+  {
+    "text": "So, every one wants to know\nwhat causes something to happen",
+    "start": 1877.708,
+    "duration": 3.765
+  },
+  {
+    "text": "and when you're dealing with\nsystems with more than one factor",
+    "start": 1881.498,
+    "duration": 3.734
+  },
+  {
+    "text": "which pretty much I believe every physical\nsystem is, you always have that question.",
+    "start": 1885.257,
+    "duration": 5.229
+  },
+  {
+    "text": "It's an unfortunate\nseries of events that,",
+    "start": 1890.994,
+    "duration": 2.484
+  },
+  {
+    "text": "I read many technical papers on a\nweekly basis and I would say maybe,",
+    "start": 1893.503,
+    "duration": 5.066
+  },
+  {
+    "text": "maybe, 5% of all these papers utilize a\nstatistical design of experiments approach.",
+    "start": 1898.594,
+    "duration": 5.624
+  },
+  {
+    "text": "So, that means a building models",
+    "start": 1904.243,
+    "duration": 2.211
+  },
+  {
+    "text": "without having proper control of all\nthe factors going into that model.",
+    "start": 1906.479,
+    "duration": 4.829
+  },
+  {
+    "text": "It's not taught very much in\nschools, it's starting to catch on",
+    "start": 1911.689,
+    "duration": 3.657
+  },
+  {
+    "text": "I know the US military\nschools are are doing it",
+    "start": 1915.371,
+    "duration": 4.731
+  },
+  {
+    "text": "and they're leading\nthe charge in that.",
+    "start": 1920.127,
+    "duration": 2.513
+  },
+  {
+    "text": "But really what this tells us, if everyone\ncan look there at the highlighted region.",
+    "start": 1922.665,
+    "duration": 4.824
+  },
+  {
+    "text": "For those of you who can see the\nfont, what's the biggest number?",
+    "start": 1927.514,
+    "duration": 3.335
+  },
+  {
+    "text": "It can be negative or positive.",
+    "start": 1930.874,
+    "duration": 2.193
+  },
+  {
+    "text": "Pressure, right?\nIt's pressure.",
+    "start": 1936.168,
+    "duration": 3.372
+  },
+  {
+    "text": "It's not that hard to discern which of\nthese effects is the most important",
+    "start": 1941.866,
+    "duration": 4.405
+  },
+  {
+    "text": "in the response of voltage\ndrop across in this experiment.",
+    "start": 1946.296,
+    "duration": 4.728
+  },
+  {
+    "text": "Pressure is the main effect.",
+    "start": 1951.049,
+    "duration": 1.681
+  },
+  {
+    "text": "What's interesting is that, the next effect\nis squared term of pressure, positive 107.",
+    "start": 1952.755,
+    "duration": 7.161
+  },
+  {
+    "text": "So, right now, out of all\nthis number which is about,",
+    "start": 1960.4,
+    "duration": 2.857
+  },
+  {
+    "text": "you know, a little over 300\nthese parameter estimates,",
+    "start": 1963.282,
+    "duration": 3.697
+  },
+  {
+    "text": "pressure is taking up\nnearly 2/3 of the model.",
+    "start": 1967.004,
+    "duration": 3.665
+  },
+  {
+    "text": "In other words, that model\nthat was there, that graph",
+    "start": 1970.694,
+    "duration": 3.423
+  },
+  {
+    "text": "2/3 of that response that it's\npredicting is due to pressure.",
+    "start": 1974.142,
+    "duration": 4.813
+  },
+  {
+    "text": "Them what this is telling us also\nis a second-order interaction,",
+    "start": 1980.597,
+    "duration": 3.329
+  },
+  {
+    "text": "that's the third largest term.",
+    "start": 1983.951,
+    "duration": 1.705
+  },
+  {
+    "text": "Pressure time set voltage,\nwhat does that mean?",
+    "start": 1986.657,
+    "duration": 3.158
+  },
+  {
+    "text": "All it's telling us is that in some way the\nvoltage is interacting with the pressure.",
+    "start": 1989.84,
+    "duration": 5.766
+  },
+  {
+    "text": "It's not giving us\na physical model,",
+    "start": 1996.186,
+    "duration": 2.239
+  },
+  {
+    "text": "it's not giving us a natural\nmodel that we can go from.",
+    "start": 1998.45,
+    "duration": 2.779
+  },
+  {
+    "text": "Now, is the hard job of me sit down\nwith Wal and understand what he's doing",
+    "start": 2001.254,
+    "duration": 4.597
+  },
+  {
+    "text": "and for us to ask if this\ndata makes sense, right?",
+    "start": 2005.876,
+    "duration": 3.25
+  },
+  {
+    "text": "But a second order effect that\nis drawing down that voltage",
+    "start": 2009.151,
+    "duration": 4.734
+  },
+  {
+    "text": "it's a negative number draws down the\nvoltage, as pressure and voltage go higher.",
+    "start": 2013.91,
+    "duration": 5.409
+  },
+  {
+    "text": "And finally, the main effect or the single\nfactor here, Set voltage is about 47",
+    "start": 2020.281,
+    "duration": 6.557
+  },
+  {
+    "text": "and statistical speak it's about the\nsame as the second order interaction.",
+    "start": 2026.863,
+    "duration": 4.322
+  },
+  {
+    "text": "This is what design of experiments gives\nus, it gives us a series of factors",
+    "start": 2032.232,
+    "duration": 6.021
+  },
+  {
+    "text": "and ratings associated\nwith each factor.",
+    "start": 2038.278,
+    "duration": 2.892
+  },
+  {
+    "text": "So, you know when you go back to\nyour bread that the type of flower",
+    "start": 2041.195,
+    "duration": 4.705
+  },
+  {
+    "text": "and the amount of water you added\nwere the most important effects,",
+    "start": 2045.925,
+    "duration": 4.465
+  },
+  {
+    "text": "they contribute 80% of the model, the rest\n20% you could live with not worrying about.",
+    "start": 2050.415,
+    "duration": 7.089
+  },
+  {
+    "text": "They often call that the 80%\nsolution in Department of Defense,",
+    "start": 2057.909,
+    "duration": 3.611
+  },
+  {
+    "text": "sometimes that's good enough.",
+    "start": 2061.545,
+    "duration": 1.831
+  },
+  {
+    "text": "So, what does that do for us in\nterms of parameter response?",
+    "start": 2066.83,
+    "duration": 3.127
+  },
+  {
+    "text": "Again, you know, 'one factor at a time'\nit's just not gonna be capable of this,",
+    "start": 2069.982,
+    "duration": 4.562
+  },
+  {
+    "text": "the parameter estimates tell us",
+    "start": 2074.569,
+    "duration": 2.223
+  },
+  {
+    "text": "what extent of each factor\ncontributes to the overall response.",
+    "start": 2076.817,
+    "duration": 4.173
+  },
+  {
+    "text": "What that really does for us, is it enables\nthe mathematical model to be generated,",
+    "start": 2083.021,
+    "duration": 5.324
+  },
+  {
+    "text": "it enables a response\ncurve to be generated",
+    "start": 2088.37,
+    "duration": 3.436
+  },
+  {
+    "text": "that give me, in just at real time,\nand we can understand these effects.",
+    "start": 2091.831,
+    "duration": 3.972
+  },
+  {
+    "text": "So, we can see that at low\npressure and low voltage settings",
+    "start": 2096.525,
+    "duration": 4.327
+  },
+  {
+    "text": "we have predicted voltage\ndrop about 393",
+    "start": 2100.877,
+    "duration": 5.753
+  },
+  {
+    "text": "and this is a setting about 400 volts\nmaybe to .5 toor, actually to .6 toor.",
+    "start": 2106.655,
+    "duration": 6.52
+  },
+  {
+    "text": "Now, as we move\ncursor over to...",
+    "start": 2113.2,
+    "duration": 2.177
+  },
+  {
+    "text": "This is bilt from a predictive\nmodel to about 10 toor.",
+    "start": 2115.402,
+    "duration": 3.748
+  },
+  {
+    "text": "What happens to the voltage drop?\nIt drops, right?",
+    "start": 2119.175,
+    "duration": 2.868
+  },
+  {
+    "text": "It's not a linear drop, it's definitively\nnot linear and that's due to that 2nd order",
+    "start": 2122.455,
+    "duration": 5.313
+  },
+  {
+    "text": "or that the higher power effect,\nthat squared term of pressure.",
+    "start": 2127.793,
+    "duration": 3.539
+  },
+  {
+    "text": "That's why you have this curvature\nassociated with this response.",
+    "start": 2131.357,
+    "duration": 4.698
+  },
+  {
+    "text": "So, we have a predicted\nvoltage of 230.",
+    "start": 2137.182,
+    "duration": 3.232
+  },
+  {
+    "text": "So, now I hope you see\nthe power in this, but",
+    "start": 2140.439,
+    "duration": 2.339
+  },
+  {
+    "text": "because we now have predictability in the whole\nregion of design space for SAFIRE project.",
+    "start": 2142.803,
+    "duration": 6.278
+  },
+  {
+    "text": "And most importantly, what we look for\nare regions of what we call, robustness.",
+    "start": 2149.676,
+    "duration": 5.62
+  },
+  {
+    "text": "So, if you look at going from this\ngraph to now sliding over the...",
+    "start": 2155.78,
+    "duration": 5.801
+  },
+  {
+    "text": "...sliding over the cursor.",
+    "start": 2161.89,
+    "duration": 4.671
+  },
+  {
+    "text": "If you look at the slope of the\nSet voltage, flattens out, right?",
+    "start": 2166.586,
+    "duration": 5.377
+  },
+  {
+    "text": "Where the implications of that?",
+    "start": 2172.788,
+    "duration": 1.705
+  },
+  {
+    "text": "The implications of that are, I can now set\nmy voltage wherever I want on this curve",
+    "start": 2174.518,
+    "duration": 5.339
+  },
+  {
+    "text": "and the voltage drop is\ngonna remain at 257 volts.",
+    "start": 2179.882,
+    "duration": 4.276
+  },
+  {
+    "text": "So, that's leading a little bit insight\ninto what might be happening in the plasma",
+    "start": 2184.705,
+    "duration": 4.186
+  },
+  {
+    "text": "again this is where we sit down\nand discuss what this means.",
+    "start": 2188.916,
+    "duration": 4.054
+  },
+  {
+    "text": "And I interpreted this as\njust being a robust area",
+    "start": 2193.533,
+    "duration": 3.006
+  },
+  {
+    "text": "where like Monty alluded to before, doesn't\nmatter what kind of voltage you put in",
+    "start": 2196.564,
+    "duration": 4.499
+  },
+  {
+    "text": "that voltage drop is gonna remain\nconstant, something else might change,",
+    "start": 2201.088,
+    "duration": 3.773
+  },
+  {
+    "text": "the appearance of the plasma might change,\nother aspects of the plasma might change,",
+    "start": 2204.886,
+    "duration": 4.245
+  },
+  {
+    "text": "but the voltage drop is\ngoing to remain constant.",
+    "start": 2209.156,
+    "duration": 2.462
+  },
+  {
+    "text": "And you can do this through a series of\nresponses and build up yourself a few curves.",
+    "start": 2211.643,
+    "duration": 5.154
+  },
+  {
+    "text": "So, DOEs are our way to\ndecrease experimental runs",
+    "start": 2217.265,
+    "duration": 3.056
+  },
+  {
+    "text": "while you maintain your\nstatistical efficiency.",
+    "start": 2220.346,
+    "duration": 2.538
+  },
+  {
+    "text": "You also look to make...",
+    "start": 2225.366,
+    "duration": 3.361
+  },
+  {
+    "text": "...to resolve your higher order\ninteractions between your factors",
+    "start": 2228.752,
+    "duration": 4.14
+  },
+  {
+    "text": "those are really the two main points to\ntake away points that I like to put forth",
+    "start": 2232.917,
+    "duration": 5.49
+  },
+  {
+    "text": "but also take home message that\nthis methodology can be implemented",
+    "start": 2238.432,
+    "duration": 3.862
+  },
+  {
+    "text": "into many areas of research\nand process optimization.",
+    "start": 2242.319,
+    "duration": 3.88
+  },
+  {
+    "text": "Years ago I...",
+    "start": 2246.224,
+    "duration": 1.421
+  },
+  {
+    "text": "the reason I came across design of experiments\nwas I had to do training for my job",
+    "start": 2247.882,
+    "duration": 4.92
+  },
+  {
+    "text": "and I went to a course talk by Doug\nMontgomery for the American Chemical Society",
+    "start": 2252.827,
+    "duration": 5.445
+  },
+  {
+    "text": "and I came out that course because he\ntaught the basics of design experience,",
+    "start": 2258.297,
+    "duration": 4.014
+  },
+  {
+    "text": "I came out that\ncourse slap my head",
+    "start": 2262.336,
+    "duration": 2.23
+  },
+  {
+    "text": "realizing how much time and energy that\ncould have saved me in my grad school days.",
+    "start": 2264.591,
+    "duration": 4.478
+  },
+  {
+    "text": "But these kind of things you\nlearn and it's really come about",
+    "start": 2269.094,
+    "duration": 4.462
+  },
+  {
+    "text": "more recently because of the the computer\nsoftware that's really available to us.",
+    "start": 2273.581,
+    "duration": 4.942
+  },
+  {
+    "text": "Because a computer software can\nhandle these really complex arrays",
+    "start": 2278.548,
+    "duration": 3.546
+  },
+  {
+    "text": "of design of experiments and\nhelp us layout the experiments",
+    "start": 2282.119,
+    "duration": 3.173
+  },
+  {
+    "text": "and do them more efficiently and resolve\nthe interactions between these factors.",
+    "start": 2285.317,
+    "duration": 4.761
+  },
+  {
+    "text": "Shamelessly, I don't particularly\nhave a favorite software,",
+    "start": 2292.656,
+    "duration": 6.371
+  },
+  {
+    "text": "but this will be\nmy ending slide.",
+    "start": 2299.052,
+    "duration": 2.739
+  },
+  {
+    "text": "So, if you're interested feel free to check out\nany other software that you see on the screen",
+    "start": 2301.816,
+    "duration": 4.751
+  },
+  {
+    "text": "with no particular\nfavorite on my part, so...",
+    "start": 2306.592,
+    "duration": 2.835
+  },
+  {
+    "text": "I earn my nickel and\nthat's really all I have.",
+    "start": 2309.824,
+    "duration": 3.715
+  },
+  {
+    "text": "Thank you.",
+    "start": 2313.539,
+    "duration": 1.253
+  }
+]

@@ -1,0 +1,982 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe,",
+    "start": 7.19,
+    "duration": 2.83
+  },
+  {
+    "text": "brought to you by The\nThunderbolts Project™",
+    "start": 10.05,
+    "duration": 2.38
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 12.45,
+    "duration": 3.5
+  },
+  {
+    "text": "The essentialness of water to life is\nself-evident to all inhabitants of our planet.",
+    "start": 16.91,
+    "duration": 5.8
+  },
+  {
+    "text": "Wherever liquid water\nflows, life is possible,",
+    "start": 22.74,
+    "duration": 3.7
+  },
+  {
+    "text": "and thus cosmologists are\non a never-ending quest",
+    "start": 26.46,
+    "duration": 3.2
+  },
+  {
+    "text": "to detect watery worlds\nsimilar to Earth.",
+    "start": 29.68,
+    "duration": 2.88
+  },
+  {
+    "text": "The human body is said to be\ncomposed of \"mostly water\"",
+    "start": 32.58,
+    "duration": 4.14
+  },
+  {
+    "text": "and of course water is vital\nfor the body's functioning.",
+    "start": 36.75,
+    "duration": 3.21
+  },
+  {
+    "text": "Within the electric\nuniverse community,",
+    "start": 39.98,
+    "duration": 2.52
+  },
+  {
+    "text": "water’s electrical properties and their\nrelationship to the structure of water,",
+    "start": 42.52,
+    "duration": 4.36
+  },
+  {
+    "text": "is a subject of great\ninterest in growing research.",
+    "start": 46.9,
+    "duration": 3.19
+  },
+  {
+    "text": "At past Thunderbolts\nproject meetings,",
+    "start": 50.12,
+    "duration": 2.91
+  },
+  {
+    "text": "Dr. Gerald Pollack has presented\nhis thesis on structured water,",
+    "start": 53.06,
+    "duration": 3.67
+  },
+  {
+    "text": "and the apparent relationship\nbetween water’s electrical charge",
+    "start": 56.75,
+    "duration": 3.63
+  },
+  {
+    "text": "its inter-molecular structure\nand its surrounding environment.",
+    "start": 60.4,
+    "duration": 4.2
+  },
+  {
+    "text": "Pollack has proposed what\nhe describes as \"EZ water\"",
+    "start": 64.62,
+    "duration": 4.0
+  },
+  {
+    "text": "an \"Exclusion Zone\" of water\nwhich has a negative charge.",
+    "start": 68.65,
+    "duration": 4.04
+  },
+  {
+    "text": "A new scientific paper may lend\ncredence to these notions and if valid,",
+    "start": 72.72,
+    "duration": 4.76
+  },
+  {
+    "text": "could have ramifications reaching well\nbeyond the earth and life sciences,",
+    "start": 77.5,
+    "duration": 4.15
+  },
+  {
+    "text": "affecting all of cosmology.",
+    "start": 81.68,
+    "duration": 1.82
+  },
+  {
+    "text": "In this episode physicist\nEugene Bagashov",
+    "start": 83.53,
+    "duration": 3.18
+  },
+  {
+    "text": "introduces the controversial research\nto the Thunderbolts audience",
+    "start": 86.73,
+    "duration": 3.71
+  },
+  {
+    "text": "and begins outlining the important\nquestions the paper may raise.",
+    "start": 90.45,
+    "duration": 4.43
+  },
+  {
+    "text": "I would like to discuss a recent\npaper published a few months ago",
+    "start": 95.39,
+    "duration": 4.49
+  },
+  {
+    "text": "in the World Journal\nof Applied Physics.",
+    "start": 99.9,
+    "duration": 2.47
+  },
+  {
+    "text": "To be honest, when I first\nread it, I was quite shocked",
+    "start": 102.39,
+    "duration": 3.48
+  },
+  {
+    "text": "as I believe its contents might have a\nwide range of highly important implications",
+    "start": 105.9,
+    "duration": 4.61
+  },
+  {
+    "text": "for physics, including astrophysics\nand also chemistry and biology,",
+    "start": 110.51,
+    "duration": 4.64
+  },
+  {
+    "text": "and maybe other branches\nof science as well.",
+    "start": 115.18,
+    "duration": 2.67
+  },
+  {
+    "text": "Now before I begin talking\nabout the paper itself,",
+    "start": 117.88,
+    "duration": 3.21
+  },
+  {
+    "text": "I should note that the journal\nwhere this paper was published,",
+    "start": 121.12,
+    "duration": 3.11
+  },
+  {
+    "text": "is only a couple of years old,",
+    "start": 124.26,
+    "duration": 1.8
+  },
+  {
+    "text": "and it does not look very\ncredible, at least to my eye.",
+    "start": 126.08,
+    "duration": 3.34
+  },
+  {
+    "text": "Of course, in general I am advocating\nfor more academic freedom",
+    "start": 129.44,
+    "duration": 3.99
+  },
+  {
+    "text": "and certanly do not mean that this is\na bad Journal just because it's new,",
+    "start": 133.46,
+    "duration": 4.0
+  },
+  {
+    "text": "but I've read the text of the paper carefully\nand there are a few hints here and there",
+    "start": 137.49,
+    "duration": 4.66
+  },
+  {
+    "text": "that might indicate (on) a certain\nlack of a review process.",
+    "start": 142.17,
+    "duration": 3.81
+  },
+  {
+    "text": "Just as an example, in the\nlast section of the paper,",
+    "start": 146.0,
+    "duration": 3.21
+  },
+  {
+    "text": "the author provides very important results\nof a group of \"scientists from Israel,\"",
+    "start": 149.23,
+    "duration": 7.25
+  },
+  {
+    "text": "but he never gives any actual reference\nto their work to verify his words.",
+    "start": 156.5,
+    "duration": 4.84
+  },
+  {
+    "text": "And it seems that the author\nperformed this research alone,",
+    "start": 161.93,
+    "duration": 3.32
+  },
+  {
+    "text": "so in the end we're basically left\nto rely on his goodwill, if you like,",
+    "start": 165.27,
+    "duration": 3.97
+  },
+  {
+    "text": "and to believe that the experiments\nthat he performed, were done properly",
+    "start": 169.27,
+    "duration": 3.89
+  },
+  {
+    "text": "and that his judgement about their\nimplications is reasonable.",
+    "start": 173.19,
+    "duration": 3.84
+  },
+  {
+    "text": "So, in general I would advise a very\ncareful and skeptical approach",
+    "start": 177.05,
+    "duration": 4.02
+  },
+  {
+    "text": "to the results\nreported in this paper,",
+    "start": 181.1,
+    "duration": 2.23
+  },
+  {
+    "text": "especially given its already\nmentioned potential importance.",
+    "start": 183.36,
+    "duration": 4.24
+  },
+  {
+    "text": "Well, since I've already\nstated my general concerns,",
+    "start": 187.62,
+    "duration": 3.29
+  },
+  {
+    "text": "from now on I'm going to proceed\nwith the description of the results",
+    "start": 190.93,
+    "duration": 3.51
+  },
+  {
+    "text": "provided by the author, pretty\nmuch taken at face value.",
+    "start": 194.46,
+    "duration": 3.66
+  },
+  {
+    "text": "And after that I'll describe my own vision of\nthe possible implications of these results,",
+    "start": 198.15,
+    "duration": 4.97
+  },
+  {
+    "text": "again implicitly supposing\nthat they are genuine.",
+    "start": 203.14,
+    "duration": 3.3
+  },
+  {
+    "text": "The paper deals with the\nproperties of charged water.",
+    "start": 206.46,
+    "duration": 3.72
+  },
+  {
+    "text": "So essentially, the author has been\nperforming a series of different experiments,",
+    "start": 210.2,
+    "duration": 4.34
+  },
+  {
+    "text": "in comparing the behavior of uncharged versus\npositively or negatively charged water.",
+    "start": 214.56,
+    "duration": 5.59
+  },
+  {
+    "text": "Uncharged water was stored in\nclosed aluminum containers",
+    "start": 220.17,
+    "duration": 3.96
+  },
+  {
+    "text": "and to charge it positively, the author\nwas either treating it with gaseous oxygen,",
+    "start": 224.15,
+    "duration": 5.15
+  },
+  {
+    "text": "or filtering it through silica gel.",
+    "start": 229.32,
+    "duration": 2.45
+  },
+  {
+    "text": "The oxygen was supposed to absorb\nsome of the electrons from the water",
+    "start": 231.8,
+    "duration": 4.41
+  },
+  {
+    "text": "and silica gel absorbs\nhydroxyl ions,",
+    "start": 236.23,
+    "duration": 2.94
+  },
+  {
+    "text": "thus leaving the water with\nexcess positive charge.",
+    "start": 239.19,
+    "duration": 3.28
+  },
+  {
+    "text": "Negatively charged water was obtained\nby either treating the uncharged water",
+    "start": 242.5,
+    "duration": 4.42
+  },
+  {
+    "text": "with gaseous hydrogen or by filtering\nit through the activated carbon.",
+    "start": 246.95,
+    "duration": 4.66
+  },
+  {
+    "text": "The hydrogen was supposed to provide\nadditional electrons to the water",
+    "start": 251.63,
+    "duration": 4.13
+  },
+  {
+    "text": "and carbon absorbs\nhydrogen ions from it.",
+    "start": 255.79,
+    "duration": 2.88
+  },
+  {
+    "text": "thus leaving the water with\nexcess negative charge.",
+    "start": 258.7,
+    "duration": 3.22
+  },
+  {
+    "text": "By changing the intensity or\nduration of any of these procedures,",
+    "start": 262.49,
+    "duration": 4.25
+  },
+  {
+    "text": "the researcher was able to control the\nresulting electric potential of the water.",
+    "start": 266.76,
+    "duration": 4.87
+  },
+  {
+    "text": "Now let's take a look at\nthe reported findings.",
+    "start": 271.66,
+    "duration": 3.47
+  },
+  {
+    "text": "The first result that\nthe author reports",
+    "start": 275.15,
+    "duration": 2.54
+  },
+  {
+    "text": "is the significant change in ultraviolet\nabsorption spectra of charged water.",
+    "start": 277.71,
+    "duration": 4.76
+  },
+  {
+    "text": "One can see that charged water absorbs\nmuch more UV light than uncharged one",
+    "start": 282.49,
+    "duration": 5.56
+  },
+  {
+    "text": "and the spectrum itself significantly\ndepends on the sign of the charge.",
+    "start": 288.07,
+    "duration": 4.45
+  },
+  {
+    "text": "In particular, the positively charged\nwater demonstrates a sharp peak",
+    "start": 292.55,
+    "duration": 4.08
+  },
+  {
+    "text": "with the maximum shifted\ninto the shortwave area,",
+    "start": 296.63,
+    "duration": 3.04
+  },
+  {
+    "text": "and the negatively charged one\ndemonstrates a flatter peak,",
+    "start": 299.69,
+    "duration": 3.3
+  },
+  {
+    "text": "shifted slightly into the\nlonger wave area.",
+    "start": 303.01,
+    "duration": 2.87
+  },
+  {
+    "text": "It is interesting that the paper also contains\nUV absorption spectra of DNA solutions",
+    "start": 305.91,
+    "duration": 6.01
+  },
+  {
+    "text": "in positively and negatively\ncharged water which also differ.",
+    "start": 311.95,
+    "duration": 4.17
+  },
+  {
+    "text": "The second result is a change in\nmechanical behavior of charged water,",
+    "start": 316.15,
+    "duration": 4.72
+  },
+  {
+    "text": "namely when it is flowing\nout of a narrow gap,",
+    "start": 320.89,
+    "duration": 2.91
+  },
+  {
+    "text": "the stream of positively charged\nwater rotates counterclockwise",
+    "start": 323.83,
+    "duration": 4.18
+  },
+  {
+    "text": "and the stream of negatively\ncharged water rotates clockwise.",
+    "start": 328.03,
+    "duration": 3.93
+  },
+  {
+    "text": "The author also mentions that the\nsolutions of surface active substances",
+    "start": 331.98,
+    "duration": 4.78
+  },
+  {
+    "text": "demonstrate behavior similar to\nthe positively charged water",
+    "start": 336.79,
+    "duration": 3.58
+  },
+  {
+    "text": "both in their UV absorption\nspectra and in flow dynamics.",
+    "start": 340.4,
+    "duration": 3.92
+  },
+  {
+    "text": "And the solutions of surface-inactive\nsubstances behave like negatively charged water.",
+    "start": 344.35,
+    "duration": 5.41
+  },
+  {
+    "text": "It looks like the solutions themselves\nare acquiring different charge,",
+    "start": 349.76,
+    "duration": 4.19
+  },
+  {
+    "text": "depending on the interaction of the\ndissolved substance with water.",
+    "start": 353.97,
+    "duration": 3.72
+  },
+  {
+    "text": "At least that is what\nthe author suggests.",
+    "start": 357.71,
+    "duration": 2.84
+  },
+  {
+    "text": "The third result is a different\nbehavior of solutions",
+    "start": 361.3,
+    "duration": 3.11
+  },
+  {
+    "text": "prepared with the use of water\nwith different electric potential.",
+    "start": 364.43,
+    "duration": 3.72
+  },
+  {
+    "text": "In particular, the evaporation\nof solutions of salts",
+    "start": 368.16,
+    "duration": 3.65
+  },
+  {
+    "text": "leads to the formation of different crystal\nforms, depending on the charge of the water.",
+    "start": 371.83,
+    "duration": 4.78
+  },
+  {
+    "text": "One example is the evaporation\nof a positively charged solution",
+    "start": 376.64,
+    "duration": 3.97
+  },
+  {
+    "text": "which leads to the formation of large cubic\ncrystals of mono-potassium phosphate,",
+    "start": 380.64,
+    "duration": 4.97
+  },
+  {
+    "text": "while the negatively\ncharged water evaporates,",
+    "start": 385.63,
+    "duration": 2.8
+  },
+  {
+    "text": "leaving thin needle-like\ncrystals of the same substance.",
+    "start": 388.43,
+    "duration": 3.77
+  },
+  {
+    "text": "The author also shows that the\ncopper powder behaves differently",
+    "start": 392.22,
+    "duration": 4.21
+  },
+  {
+    "text": "in the water with positive\nand negative charge.",
+    "start": 396.45,
+    "duration": 2.8
+  },
+  {
+    "text": "In the negatively charged water it forms\ntypical dendritic Lichtenberg patterns",
+    "start": 399.27,
+    "duration": 4.83
+  },
+  {
+    "text": "on the bottom of a container,",
+    "start": 404.13,
+    "duration": 1.68
+  },
+  {
+    "text": "while in positively charged water,\nit remains a bit more inert.",
+    "start": 405.84,
+    "duration": 4.04
+  },
+  {
+    "text": "The fourth result is a significant change\nin surface tension of charged water.",
+    "start": 410.21,
+    "duration": 5.26
+  },
+  {
+    "text": "The author shows that the\nnegatively charged water",
+    "start": 415.5,
+    "duration": 2.96
+  },
+  {
+    "text": "has much lower surface tension\nthan the positively charged one.",
+    "start": 418.49,
+    "duration": 3.81
+  },
+  {
+    "text": "I'll remind you that surface tension\nis the parameter that determines",
+    "start": 422.32,
+    "duration": 4.13
+  },
+  {
+    "text": "how hard it is to spread\nthe liquid, so to speak.",
+    "start": 426.47,
+    "duration": 3.42
+  },
+  {
+    "text": "So liquids with high surface tension would\ntend to be more lumped as one might say,",
+    "start": 429.89,
+    "duration": 5.36
+  },
+  {
+    "text": "concentrating in isolated droplets\nand thus having a lower surface area,",
+    "start": 435.25,
+    "duration": 4.71
+  },
+  {
+    "text": "while liquids with low surface\ntension can be more easily spread",
+    "start": 439.99,
+    "duration": 3.91
+  },
+  {
+    "text": "and their droplets are more\nlikely to join into a continuum.",
+    "start": 443.92,
+    "duration": 4.29
+  },
+  {
+    "text": "So the positively charged water, having a\nhigher surface tension, tends to be more lumped,",
+    "start": 448.21,
+    "duration": 6.11
+  },
+  {
+    "text": "while the negatively charged water with lower\nsurface tension, tends to be more spread.",
+    "start": 454.34,
+    "duration": 5.37
+  },
+  {
+    "text": "The author demonstrates\nthis in a petri dish,",
+    "start": 459.74,
+    "duration": 3.14
+  },
+  {
+    "text": "where the negatively charged water\ncovers its bottom completely,",
+    "start": 462.91,
+    "duration": 3.65
+  },
+  {
+    "text": "spreading over all of its area,",
+    "start": 466.58,
+    "duration": 2.01
+  },
+  {
+    "text": "while the positively charged water\nconcentrates in isolated droplets.",
+    "start": 468.62,
+    "duration": 4.45
+  },
+  {
+    "text": "Another experiment to demonstrate\nthis change in surface tension,",
+    "start": 473.64,
+    "duration": 3.97
+  },
+  {
+    "text": "is performed with starch powder.",
+    "start": 477.64,
+    "duration": 2.21
+  },
+  {
+    "text": "When it is deposited on top of the\nnegatively charged water in the dish,",
+    "start": 479.87,
+    "duration": 4.4
+  },
+  {
+    "text": "it covers all of its surface\nin less than two seconds,",
+    "start": 484.29,
+    "duration": 3.32
+  },
+  {
+    "text": "and thus is able\nto remain afloat.",
+    "start": 487.64,
+    "duration": 2.71
+  },
+  {
+    "text": "But when it is deposited on top\nof the positively charged water",
+    "start": 490.37,
+    "duration": 3.66
+  },
+  {
+    "text": "it accumulates at the deposition site\nand quickly sinks because of that.",
+    "start": 494.05,
+    "duration": 4.44
+  },
+  {
+    "text": "The author also performs a\npretty staggering experiment,",
+    "start": 498.51,
+    "duration": 3.62
+  },
+  {
+    "text": "where he shows that\nthe steel needles,",
+    "start": 502.16,
+    "duration": 2.07
+  },
+  {
+    "text": "when placed on the surface of negatively\ncharged water, sink immediately.",
+    "start": 504.26,
+    "duration": 4.29
+  },
+  {
+    "text": "But on the surface of\npositively charged water,",
+    "start": 508.57,
+    "duration": 2.95
+  },
+  {
+    "text": "they can remain afloat\nfor up to 12 hours.",
+    "start": 511.54,
+    "duration": 3.37
+  },
+  {
+    "text": "He also mentions that the\nsame effect can be achieved",
+    "start": 515.4,
+    "duration": 3.05
+  },
+  {
+    "text": "with uncharged water\nand charged needles.",
+    "start": 518.47,
+    "duration": 2.91
+  },
+  {
+    "text": "In this case, a negatively\ncharged needle would sink",
+    "start": 521.41,
+    "duration": 3.16
+  },
+  {
+    "text": "and the positively charged needle\nwould not, at least for some time.",
+    "start": 524.6,
+    "duration": 4.05
+  },
+  {
+    "text": "The fifth result is the change in the\nability of water to hydrate polymers.",
+    "start": 529.22,
+    "duration": 5.1
+  },
+  {
+    "text": "In particular positively charged water\nhydrates polymers of biological origin",
+    "start": 534.33,
+    "duration": 4.94
+  },
+  {
+    "text": "faster than the\nnegatively charged one.",
+    "start": 539.3,
+    "duration": 2.4
+  },
+  {
+    "text": "To demonstrate that, the author puts\nsome starch powder in two bottles:",
+    "start": 541.72,
+    "duration": 4.79
+  },
+  {
+    "text": "one with positively charged water and\nthe other with negatively charged water.",
+    "start": 546.53,
+    "duration": 4.36
+  },
+  {
+    "text": "After half an hour\nat room temperature,",
+    "start": 550.91,
+    "duration": 2.64
+  },
+  {
+    "text": "the starch swells in the bottle\nwith positively charged water",
+    "start": 553.58,
+    "duration": 3.36
+  },
+  {
+    "text": "and does not swell in the bottle\nwith negatively charged water.",
+    "start": 556.97,
+    "duration": 3.31
+  },
+  {
+    "text": "The author also notes that the bottles\nthemselves were made of polymer,",
+    "start": 560.31,
+    "duration": 3.83
+  },
+  {
+    "text": "polyethylene in particular,",
+    "start": 564.16,
+    "duration": 2.06
+  },
+  {
+    "text": "and it seems that the positively charged\nwater can penetrate through it easier",
+    "start": 566.24,
+    "duration": 4.24
+  },
+  {
+    "text": "than the negatively charged,\nor uncharged water,",
+    "start": 570.5,
+    "duration": 2.76
+  },
+  {
+    "text": "since he noted that the\npositively charged water",
+    "start": 573.29,
+    "duration": 2.62
+  },
+  {
+    "text": "was able to partially evaporate,\neven from a closed bottle.",
+    "start": 575.94,
+    "duration": 3.85
+  },
+  {
+    "text": "And the sixth result that\nthe author describes,",
+    "start": 580.27,
+    "duration": 2.71
+  },
+  {
+    "text": "is the change in the freezing temperature\nof water, depending on its charge.",
+    "start": 583.01,
+    "duration": 4.37
+  },
+  {
+    "text": "Here he does not perform any experiments\nbut describes some other people's results.",
+    "start": 587.4,
+    "duration": 5.44
+  },
+  {
+    "text": "Remember that note I made before\nabout scientists from Israel.",
+    "start": 592.86,
+    "duration": 3.98
+  },
+  {
+    "text": "So it is well known that\nperfectly pure uncharged water",
+    "start": 596.87,
+    "duration": 3.88
+  },
+  {
+    "text": "can stay liquid up to very low temperatures\nsomething like -42 or even -48ºC,",
+    "start": 600.77,
+    "duration": 6.94
+  },
+  {
+    "text": "so called supercooled water.",
+    "start": 607.73,
+    "duration": 2.08
+  },
+  {
+    "text": "It does not turn into ice, because there\nare no centers of crystallization in it,",
+    "start": 609.84,
+    "duration": 5.21
+  },
+  {
+    "text": "which are usually represented\nby various impurities.",
+    "start": 615.05,
+    "duration": 3.42
+  },
+  {
+    "text": "So the ice crystals in pure water cannot\nfind any starting point for their growth.",
+    "start": 618.49,
+    "duration": 5.05
+  },
+  {
+    "text": "The author adds to this that the\nimpurities must always be charged,",
+    "start": 623.57,
+    "duration": 4.59
+  },
+  {
+    "text": "either initially or because of their\ninteractions with water itself.",
+    "start": 628.19,
+    "duration": 4.1
+  },
+  {
+    "text": "So the lack of these charges\ninside the water volume",
+    "start": 632.31,
+    "duration": 3.23
+  },
+  {
+    "text": "seems to reduce its\nability to crystallize,",
+    "start": 635.56,
+    "duration": 2.83
+  },
+  {
+    "text": "which means it might\nbe fruitful to study",
+    "start": 638.41,
+    "duration": 2.15
+  },
+  {
+    "text": "the freezing of charged\nwater in the first place.",
+    "start": 640.59,
+    "duration": 2.75
+  },
+  {
+    "text": "The researchers that the author mentions,\nwere studying the freezing of water droplets",
+    "start": 643.37,
+    "duration": 4.34
+  },
+  {
+    "text": "deposited on surfaces with\ndifferent electric charge,",
+    "start": 647.73,
+    "duration": 3.21
+  },
+  {
+    "text": "and they've supposedly found\nthat the uncharged pure water",
+    "start": 650.97,
+    "duration": 3.5
+  },
+  {
+    "text": "froze at the\ntemperature of -12.5ºC,",
+    "start": 654.49,
+    "duration": 3.42
+  },
+  {
+    "text": "while the negatively charged water\nfroze at lower temperature of -18ºC,",
+    "start": 657.93,
+    "duration": 5.31
+  },
+  {
+    "text": "and positively charged water froze at\nthe higher temperature of only -7ºC.",
+    "start": 663.27,
+    "duration": 5.89
+  },
+  {
+    "text": "The author even goes as far as\nto state that the charge might",
+    "start": 669.18,
+    "duration": 3.62
+  },
+  {
+    "text": "change the heat capacity and\nthermal conductivity of water.",
+    "start": 672.8,
+    "duration": 4.21
+  },
+  {
+    "text": "So, to sum up all these results,",
+    "start": 677.03,
+    "duration": 2.47
+  },
+  {
+    "text": "the paper states that the electric\ncharge of water influences:",
+    "start": 679.53,
+    "duration": 3.76
+  },
+  {
+    "text": "1) its ultraviolet\nabsorption spectrum;",
+    "start": 683.32,
+    "duration": 3.17
+  },
+  {
+    "text": "2) its mechanical behavior (namely the\ndirection of rotation of the stream);",
+    "start": 686.52,
+    "duration": 4.97
+  },
+  {
+    "text": "3) the behavior of\nwater solutions;",
+    "start": 691.52,
+    "duration": 3.0
+  },
+  {
+    "text": "4) its surface tension;",
+    "start": 694.54,
+    "duration": 2.26
+  },
+  {
+    "text": "5) its interaction\nwith polymers,",
+    "start": 696.83,
+    "duration": 2.48
+  },
+  {
+    "text": "namely the ability to hydrate\nthem and penetrate through them;",
+    "start": 699.33,
+    "duration": 3.55
+  },
+  {
+    "text": "and 6) its freezing\ntemperature.",
+    "start": 702.91,
+    "duration": 2.94
+  },
+  {
+    "text": "Overall, the author suggests",
+    "start": 705.88,
+    "duration": 1.96
+  },
+  {
+    "text": "that the charge of water actually\nchanges its internal structure,",
+    "start": 707.86,
+    "duration": 3.71
+  },
+  {
+    "text": "which in its turn determines\nthe observed differences.",
+    "start": 711.59,
+    "duration": 3.1
+  },
+  {
+    "text": "I'd like to note that, although\nI have certain doubts",
+    "start": 714.71,
+    "duration": 2.72
+  },
+  {
+    "text": "about some statements that\nhave been made in this paper,",
+    "start": 717.46,
+    "duration": 3.11
+  },
+  {
+    "text": "the good thing about\nall of this is that",
+    "start": 720.6,
+    "duration": 2.13
+  },
+  {
+    "text": "it all can be quite easily\nexperimentally verified or falsified,",
+    "start": 722.76,
+    "duration": 4.01
+  },
+  {
+    "text": "and I definitely hope to see more research\nin this area in the coming months or years.",
+    "start": 726.77,
+    "duration": 5.17
+  },
+  {
+    "text": "So even if the author is wrong we\nwill probably know soon enough.",
+    "start": 731.97,
+    "duration": 4.47
+  },
+  {
+    "text": "In our next episode, Eugene will offer\nan extensive thought-provoking analysis",
+    "start": 736.99,
+    "duration": 5.08
+  },
+  {
+    "text": "on the far-reaching ramifications\nof this theoretical pathway,",
+    "start": 742.09,
+    "duration": 3.61
+  },
+  {
+    "text": "including its significance for\nmanufacturing and industry,",
+    "start": 745.73,
+    "duration": 3.54
+  },
+  {
+    "text": "for biology, and for all\nof the space sciences,",
+    "start": 749.3,
+    "duration": 4.04
+  },
+  {
+    "text": "perhaps demanding entirely new\nattempts to understand our universe.",
+    "start": 753.36,
+    "duration": 4.91
+  }
+]

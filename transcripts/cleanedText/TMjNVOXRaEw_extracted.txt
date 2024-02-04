@@ -1,0 +1,1066 @@
+Thank you everybody, it's
+a real pleasure and honor
+and I echo Monte’s thanks to everybody
+that's involved in this project,
+including my co-authors here.
+So, before everyone falls asleep
+when we're talking about statistics
+or goes to get a coffee, I'll make
+this as exciting as possible.
+I get really excited to talk
+about this simply because I...
+Although many people think statistics
+is a very mundane dry subject
+it is really at the
+heart of true science.
+I do believe, when I hope to show here is
+a basic concepts of experimental design
+and how we are
+using it in SAFIRE
+to look at what various factors
+contribute to various responses.
+I do believe that design of experiments
+will be the future of science,
+statistical approach to
+design of experiments.
+So, before I get into though
+there is a very alarming trend
+that I've seen, that I
+want to talk about here.
+You will see that the US spending on space
+science and technology, as it has gone up,
+there is also a concomitant rise
+and very unfortunate suicides.
+Serious, is a direct correlation, you
+can see it's a very strong correlation,
+I mean, I figured that if we decreased
+our spending by about 20 billion
+we could end these
+unfortunate events, right?
+So, what does this
+really show us?
+This is an excellent
+website, by the way,
+if you've never seen it,
+spurious-correlations, right?
+It's very, very easy to draw a
+conclusion from spurious correlation.
+Correlation does not, don't
+know causation, right?
+and, me as a scientist, I'm
+guilty of that sometimes too.
+We see something, we see a trend
+just as Ben talked about earlier.
+He sees a trend and
+then falls apart.
+Well, that means that something
+might be there statistically,
+but maybe there's
+a missing factor
+and I'll explain by what I mean by factors
+and everything like that, very soon here.
+So, an introduction to terminology, this is
+what I'll be talking about in the slides
+I'll just race through this
+to the final outline here.
+And what the following mean for SAFIRE
+and experimentation in general really.
+Okay
+Statistical and efficiency, statistical
+and experimental efficiency
+I wanna say no more "one
+factor at the time",
+OFAT is used in the statistical
+rounds to describe how...
+actually many of us are trained
+as scientists and engineers.
+We very one thing, we look at
+the response, we write it down.
+We increase that one thing,
+we write down the response.
+Now, when we're all done with that maybe
+we change something else in the system
+and we do the same thing.
+But really what you're doing is you're
+isolating your factors away from each other,
+you're not taking into account any interactions
+between those things that you're tweaking.
+That's "one factor at the
+time" experimentation.
+Now, people in the past have done that
+before there's nothing wrong with that
+sometimes you got establish your
+boundary conditions in your experiment.
+And that is, that is good.
+But when you get down to really
+discerning what causes what,
+you cannot use this approach.
+And 2nd order interactions,
+that's a red font there,
+I'll explain more what they are
+and why we must detect them.
+And really, why do we want to use
+the design of experiments approach?
+Means less experiments and better statistical
+results, it's really that simple.
+And I'll share some results, future
+considerations that we're encountering in SAFIRE
+in just the way to try and track
+things for those who are visual
+a green square in this presentation will
+denote a point that I'm trying to make
+for decreasing the number of runs by using,
+no longer using "one factor at the time",
+and I'll try tide that in.
+Whereas there are red star will
+denote a second order interaction,
+those items where, where
+two things might interact
+on a level that you might not be able to resolve
+if you were to do "one factor at a time".
+So, some factors and in response
+to the factor is a "knob setting",
+many of you might have heard
+variables in the experiment,
+for many variables
+in the experiment.
+Well that's a factor, okay?
+It's an independent variable controlled
+or uncontrolled in an experiment.
+I like to say it's innocent
+until proven guilty,
+in other words, if you have something
+happening in your observing that changes
+you gotta go into that experiment unbiased and
+see what factors influence that response
+and then you statistically
+prove that it's guilty.
+So, a response, though, is a result of the
+system responding to the factor(s) settings.
+It must be measurable with
+understood deviation.
+A response can also be qualitative,
+a visual quality of a system.
+I like it, I don't like it, advertising
+companies are very good at that.
+So, this is a fun video.
+You can turn off the sound, there
+is really nothing to hear, but...
+Until the factors and
+responses here, right?
+This is great, I can't wait to
+do this for my six-year-old.
+I'm not going to build my own,
+though, I'm a chemist not a...
+and we won't be doing this
+in SAFIRE either, so...
+Because most of us
+don't have any hair.
+So, what are the factors?
+voltage and van der Graaf
+Generator, right?
+If you really want to get detailed,
+the materials of construction,
+if that was a dielectric on the surface of that
+sphere it definitely wouldn't work as well if at all.
+And also maybe the person
+receiving that charge,
+what happens if they have shorter, different
+type hair, really short curly hair
+is gonna work the same way?
+What kind of response
+are you looking for?
+Do you wanna hurt the person
+or do you want them to laugh, right?
+So, this is an example of
+a factors and responses
+of how it's important to
+understand your system, okay?
+What I will say is that...
+the design of experiments is not merely
+coming up with an experimental plan, okay?
+It is a statistical method of
+experimental observation,
+statistics are use to
+characterize results,
+it entails randomizing
+test when possible.
+Now, not always can, you can always
+randomized tests understandable
+we encountered that a lot in SAFIRE
+due to experimental constraints,
+but you want to try, because that make
+sure that no time factors are involved.
+It assure the test
+is repeatable,
+you want to come back the next day
+or maybe in another lab and do it.
+You want to ensure that, and I'll
+talk about this more a little bit.
+It incorporate an orthogonal or
+symmetrical approach to experimentation,
+that's really the inherent
+power in design of experiment.
+And ensures discernment of higher
+order interactions between factors,
+I mentioned that before, I get
+into it a little bit more.
+So, as an experimentalist, you still
+wanna establish the boundary conditions,
+especially working in the
+unknown, that's fine.
+But when it gets to the point where you have to
+understand what's involved with those experiments
+you truly do need
+design of experiments.
+So, as an experimentalist,
+I will correct you,
+if you claim to be using design
+of experiments and you're not.
+So, I've been that guy at a dinner party and
+I'll be that guy at the dinner party, so...
+Let's talk about something
+we're all familiar with, baking.
+Other factors involved in bread?
+Any one?
+Yeast, yes.
+Salt, sugar, what else?
+Rise time, temperature,
+water and big
+temperature, right?
+There's probably a few other
+factors I missing here.
+Right now that's
+9 factors, OK?
+And may be a response here would be
+the rise in the taste and texture,
+crust thickness of the bread,
+stuff you can measure,
+may be a qualitative assessment
+of how how good it tastes.
+Now, brad is a pretty everyday thing that
+we all pretty much know how to make, right?
+But what if you're working with a
+new grain, a new lot of flowers,
+the different particle size there's lots
+of factors to take into account here.
+And if you really did want to look
+at 9 factors in a baking experiment,
+if you, even if you use a factorial approach
+which means a design of experiments approach
+if you wanna resolve all the interactions between
+flour and yeast and rise time and all that,
+you need 512 experiments.
+So, 512 experiments and then not to mention
+you also have these factors of noise
+you don't know if these are gonna
+play a role in your experiment,
+maybe your oven goes dead after 250
+experiments and get a new oven, right?
+So, that's just gonna
+give you a general idea,
+luckily people have worked
+out the bread experiment
+and we pretty well every day,
+we're thankful for that.
+So, let's get into the, now that we
+have an idea of how complex bread is
+we'll get into the much simpler
+system of the Sun, right?
+It's pretty easy, those gravitational
+compression, Monte talked about this earlier,
+there's hot turbulent gases coming up
+from the fusion
+that's created by the gravitational
+collapse of the mass
+from that gradual accretion
+disk in it compresses down.
+The energy was
+released in some ways,
+there's some debate of how that
+energy gets released to the surface
+and eventually reaches
+us here on the Earth.
+There's a lot of responses we
+can look at in the system.
+One of them being fusion, I know
+there's been a lot of talk about that.
+Fusion, is it a factor or
+response in this model?
+Is it a response to the gravitational
+collapse, and fusion is initiated,
+and then it drives the Sun, and
+they're going to run out of energy?
+As it, is it a factor for those other
+responses that happened on the surface.
+There's also the electric Sun model
+that has been talked about extensively,
+charged plasma affecting matter
+at a different potential.
+And in this case we
+have an anode Sun,
+and these are from a Wal
+Thornhill e-book by the way,
+haven't put the credits
+on there Wal, I'm sorry.
+And there's a steady drift of
+electrons towards the Sun.
+Probably emanating from a dense plasma
+sheet or some sort of double layer.
+So, which of these two
+models can we test in a lab?
+Which of these models that are listed in the
+EU row, charge differential affecting matter
+of a different charge differential
+acting on the material
+and the responses there,
+if fusion is happening,
+we should see if some
+response to that.
+In addition to all these other things, these
+responses should be consistent with the EU model
+just like was said
+in Ben's film.
+And the factors in a traditional model
+we have to weigh against as well.
+Fusion, I think, could be both the
+factor and the response in that.
+So, that makes it a very hard
+system to test statistically
+if we don't know which is a
+factor and which is a response.
+So, let's get into
+some experimentation.
+We have a particular
+knob in our system
+and this is gonna walk
+through this just because
+I want to show you how that feeds
+into actual design of experiments.
+When you have a knob in a system you
+have a continuous set of factors,
+we call these 'continuous factors', you can dial
+that knob to whatever number you want, right?
+So, some experimentation is needed
+to understand what your limits are,
+but let's say we can dial this knob to
+whatever level we want, we measure response
+this is a graph of
+a line Y = mx + b
+So, 'm' being the slope of this line,
+'Y' is the value of a response,
+the hardness of the bread crusts, the
+taste of the creek bed plus whatever may be
+and 'x' is the setting of
+our knob, say on our oven.
+So, the hypothetical response 'Y' is a
+measurement of the oven temperature,
+or the voltage drop or the plasma
+intensity, whatever it may be.
+Now, in this hypothetical example, I kind of
+scattered ± 0.1, across that whole response.
+and it might not always be a
+straight line in real life,
+oftentimes is a curve and we have
+to apply certain mathematics
+but for the purpose of this illustration I just
+want to illustrate a straight line, right?
+So, there are two ways to
+approach experimentation.
+You could set there, you could dial the
+knob 10 times and look at the response.
+10 times along that line, right?
+One factor at a time.
+Could also do
+possibly 3 settings.
+May be replicated, you can build in
+some replication to your system,
+which is important, right?
+So, maybe dial to 1 we take a few readings,
+we dial to 7 we take a few readings,
+we dial to the midpoint of
+4 we take a few readings,
+then we go back to the
+other set points.
+So, you can see here that we have pretty
+much the same data from our 3 level test
+and we have a set of data
+from our 10 level test.
+Now, there's a difference between these,
+when you're in the real world and in the lab.
+We could do this one of two ways we
+can set the knob 10 different times
+and do 10 different readings
+or we can do it a few times
+and utilize the average and the
+deviation in those responses. Right?
+So, we can do our 10 levels and I
+can say, Jano here are 10 levels,
+and Jano being the good guy that he
+is he'll carry out the experiments
+He doesn't crumble,
+right, he doesn't crumble
+and he will continue to
+do those experiments
+but then I gotta go to Michael and I gotta
+say Michael here are 10 spectra that we have
+we got a look at these peak
+ratios these full with half max's
+and says; 'Man we don't have grad
+students at least not yet, not yet'.
+but in actuality if you really think
+about this can be very overwhelming
+and this is what we're up against
+right now is with NASA data.
+If you do find some NASA data and
+you've dug into the data from NASA
+it is often very, very
+difficult to get through.
+Some of the data is
+very easy to find,
+but it's harder to manipulate
+into a usable form
+and it's even harder
+to data mine, okay?
+And is an example of that, will have gobs
+and gobs of data may be 10 data points
+which we then gotta
+translate into a response
+that we can analyze and
+our scientific method.
+So, Michael illustrate on this,
+illustrate that on this slide
+and that's why grad
+students are very valuable
+and just a side note I think there's
+a great future for the young folks
+or even all other folks who are looking
+in data mining and data analytics
+that's really the secret of Science
+in the future with these gobs
+and gobs of data coming out us from the
+right and the left we really need people
+who know how to dig into data, filter it
+out and get good, good statistics from it.
+So, this is where we introduce a little bit of
+course fog analogy in some mystery into the design
+now we're just gonna run three
+different settings, right?
+a lot easier to just let it run a few
+times at each setting
+Jano is much happier with that your three
+levels replicate them a few times, okay right?
+That's what Canadians say.
+And then, I give that to Michael, but
+I say, hey, here respects from 10 runs
+but we can take the variance
+in the averages and use them.
+Michael's thumbs up there, he can
+go home in Canada the next day.
+Not very much difference
+between the data
+again this is just a very
+hypothetical experiment, right?
+But on the left we see that 10
+data points
+on the right we see the 10 data
+points at three different levels.
+So, which looks easier to do?
+So, what we're looking to do is
+furthermore utilize this in terms of
+experiment has cushioned and
+data acquisition and storage.
+It's much easier to store say the
+average and variance of a few data runs
+rather than a full suite
+at different levels, okay?
+Additionally, for those who are more data
+minded I apologize for a small fun here
+which is more symmetrical, I introduced
+the concept of orthogonality here,
+orthogonality is necessary in the
+design of experiments to do statistics.
+There even though it's evenly
+spaced there truly is North
+orthogonality associated with that
+10 point data design on the left
+and on the right we
+do have orthogonality
+there are 3 data points that
+can be symmetrical with
+another 3 data points
+from another factor
+and then we let the math and statistics work
+out the relationships between the factors.
+And if you do look, I don't
+know if you can see but
+I'll go into the statistics one more
+little bit later on our SAFIRE experiment
+but the statistics
+are the same, okay?
+For the most part there
+they are the same.
+So, I want to emphasize here the efficiency
+of statistical experimental design.
+This chart was made
+by Louis Volante,
+he really pioneered the
+statistical experiments at Kodak
+back in the heyday of
+photography, of print photography
+and it really shows the advantages of
+using a design of experiments approach
+in the first column we have a number
+of factors in your experiment.
+So, 3 factors time
+temperature pressure, right?
+in the center of 4 factors
+will be one more factor 5.
+So, these will be selections of a number
+of factors which were gonna look at.
+The efficiency all be on the right there is
+actually a measure of variance in the design.
+And what that means?
+It's statistical efficiency, it's how well
+the designers set up in space, right?
+Data points take up a
+certain type of space.
+So, it's a measure of inherent variants
+before you even doing experiments
+you can do that with statistics, you can measure
+the variants associated with the design.
+So, to have the same
+statistical efficiency
+this one factor that I'm type runs
+you need a minimum of 16 runs
+compared to 8 runs in
+a full factorial DOE.
+you need double the amount of runs to
+obtain the same statistics, really,
+as you would using a design
+of experiments approach.
+And something to take
+away here full factorial DOEs.
+They are not the best
+DOEs to use anyway,
+but they lend insight into
+interactions that you wouldn't get
+from 'one factor at a time'
+or you would do many runs.
+So, this is where the
+orthogonality and the symmetry
+really empowers the design
+of experiments approach.
+So, bring it back to the
+factors of bake time,
+here's where I can introduce the
+concept of 2nd order interactions.
+We have bake time, temperature
+rise time, etcetera,
+and to really resolve the second order
+interactions we need many more runs.
+Already told you 512 runs if we
+were to use a full factorial DOE.
+Maybe if we can decrease
+our number of factors,
+we can decrease the
+runs, we could do that,
+but we do need to resolve the
+interactions between certain things
+we know that between rise
+time to rise temperature
+there's a there's some sort
+of relationship there, right?
+You know when you put your rising
+bread next to the fireplace
+it will rise will quickly
+and then collapse,
+whereas you put in a nice medium warm
+corner all drives nice and slowly.
+There is a relationship there,
+likewise between yeast and sugar,
+there is a relationship there, the
+yeast need certain amount of sugar.
+And finally between
+yeast and a liquid,
+you don't want to overdo
+the liquid in your system.
+Those are examples of 2nd order interactions
+and to resolve them mathematically
+it requires at least 2 to 3
+runs between those factors
+in addition to those factors
+being related to others.
+So, how are we doing
+that in real life
+if you're so inclined to
+read the statistics paper.
+I'm a chemist, I'm not
+statistics person
+and for me as a challenge get
+through the paper but it
+but it really is enlightening because
+there is a level to resolve second
+there's a way to resolve 2nd order interactions
+with a proper kind of design of experiments
+this more recently has been a leap forward
+for design of experiments in screenings sense,
+in other words, when we wanna, when we
+first establish our boundary conditions
+we want to know what interactions
+are there between the factors
+and really this, what they call
+Definitive Screening Design
+when you have second-order
+interactions and effects
+which we know are there from plasma,
+it's a very nonlinear response,
+this is a very
+valuable approach.
+Really only when you have more than 6 factors
+otherwise there are other approaches.
+But going back to our dial,
+if you think about it now,
+if we just code are settings between negative
+1 0 and one being low medium and high
+those can be any numbers,
+right, for each factor setting,
+but just for the ease
+of picturing this,
+yes 6 dials, you can dial them in at 6
+different methods, 6 different ways.
+Try to think of that
+experimental matrix in your head
+without the use of computers,
+is nearly impossible.
+And so, what you're seeing on the right
+there is this definitive screening design
+which will resolve the second order
+interactions between these factors.
+So, how a design of experiments would work is that after
+much discussion we would sit down and we decide on the runs
+that we're going to do the limits on each
+factor we devise the design of experiments
+So, the Xᵢˏ₁ factor here, these
+would be the settings for each run
+for the Xᵢˏ₂ factor, pressure,
+time, whatever may be, here,
+Xᵢˏ₃ factor voltage, etc, etc.
+So, these are 6 factors and these
+are each experimental run
+and we get the response
+out that were looking for.
+Whether be a certain peak height, full with
+half max, mass loss on the anode, etc.
+There's a specific response
+for each experiment
+and you can have as many
+responses as you want, okay?
+But notice, I circled the zeros
+because of the midpoints, right?
+You notice the symmetry
+in this design?
+You see I can fold
+it over, diagonally?
+So, you can see that this -1, -1,
+-1, -1 is down here -1, -1, -1, -1.
+So, that's the symmetry I was talking about
+orthogonality that really empowers DOE.
+Now, we only have to run 13 runs
+to resolve second order interactions
+that are not confused with
+any main order affects.
+I'll get into more detail what
+those main order effects are.
+So, it's a very powerful approach,
+this approach was used
+by a company recently to find a
+catalyst for CO₂ sequestration
+and they won a prize
+for the DOE using it.
+It's got to cut off a little
+bit but this is just a
+to note the symmetry of
+the design space, right?
+If you look at the design space,
+all the designs bases covered.
+If it wasn't symmetrical you'd
+see gaps in those those dots.
+And what this axis is?
+This is actually X₂,
+X₃, X₄, X₅ and X₆
+these are the factors and these
+are also factor settings.
+So, just the way to visualize what the factory
+settings are associated with each experiment
+and to make sure you have your
+design space covered it efficiently.
+So, again 13 runs we can get
+that design of experiments done
+and then you follow up on that once you
+figure out your second order actions
+you do further experiments
+to increase your response.
+In a typical deal we factorial
+you would need to do 64 runs
+'one factor at time', don't
+even try to calculate it.
+When we were first... When
+we first assembled SAFIRE
+I took the approach of
+using screening designs.
+We had a number of factors,
+we didn't have enough factors to
+utilize a definitive screens design,
+so I just used to be
+a factorial designs.
+You'll notice again the symmetry
+were symmetry comes into play here.
+We typically had 4 to 6
+factors in each experiment,
+in this case we're three
+dimensional creatures,
+so we can envision three
+dimensions at once.
+We have pressure, voltage and
+current as our settings,
+we also had type of gas, the type of anode
+and type of cathode in some experiments,
+and we had a voltmeter
+that was across...
+...between the cathode anode across
+their to measure the voltage drop.
+Okay, and we also had other
+responses that we are monitoring,
+but this is just to give you an
+example of design of experiments.
+You can see that each of these
+data points is a unique data point
+and this is why I also design of
+experiments builds and reproducibility
+each of those data points actually
+augments that orthogonal approach
+to help us reproduce
+these settings.
+Is also center point here and
+what that center point does
+is it says; okay, I think there is
+curvature between these factors.
+It doesn't give you an exact
+measurement of that curvature
+it just says hey you look between
+these two factors in further detail.
+Okay, so that's 9 data points in a single
+experimental run, in a very dynamic system
+and money give you a
+teaser of this graphic
+I try to do this in as
+many runs as possible
+to kind of monitor what
+the plasma is doing.
+As I said before, think about this in
+your experiment if you run experiments
+especially the qualitative experiments
+were you looking say a creators
+or trying to rate different responses
+that are a qualitative in nature
+at all times we should try and
+make them quantitative, right?
+Maybe the number of Tufts that
+come into existence, etcetera,
+but in some way at
+least rate them.
+Yes, I like it, no I don't,
+scale of 1 to 5 or 1 to 4,
+so you're not sitting
+there on the fence.
+There are ways to do that
+for qualitative responses
+that goes along way for quantifying
+and optimizing your process later on.
+Again I said the advertising
+companies do very well
+with their there are many, many
+surveys that they perform
+to figure out the best factors
+involved in an advertising.
+Qualitatively, as we're going
+into some numbers here, so...
+this is not really a graph of a
+response, is a graph of the model.
+So, you hear models talked about in the
+literature and in the press a lot.
+These models are derived from real data,
+they're not derived from a computer, okay?
+The data that's going in
+still controlled by us,
+we saw how to choose the
+right statistical aspects,
+but this voltages on Y-axis and we
+have our model that we've built
+from our various
+terms on the X-axis.
+This model is composed of voltage,
+of the pressure, of the current, etc
+how many factors are
+involved with your response.
+And what it's doing is, it's
+plotting a line that if it's perfect
+and a perfect world, you'd perfect
+model goes to zero axis, here,
+or the 0 point here in the origin
+and you would have no scattered,
+but we're dealing with real
+data, so you have scatter.
+And it's measuring the ability
+of the model to predict
+the response at a
+certain setting.
+So, once we have this, in this design space,
+I know that I can go to a setting here
+I can back out those settings
+in real life, I can dial that in
+and I'm going to predict
+a certain voltage drop.
+And statistics here are telling
+me that, you know what?
+That's an R squared of 98,
+that's pretty good 98%.
+You have a Root Mean Square Error (RMSE)
+of about 23, plus or minus 23 volts
+in this response, that is
+unaccounted for by the model.
+Doesn't mean that error,
+it means it's just unknown,
+the models telling me
+that I have 23 volts
+that you're just gonna have to deal
+with, that I can't tell you what it is.
+I don't know why it's
+plus or minus, right?
+Most importantly you see the
+P value is less than .0001
+And that value needs to be below
+.05 for the model to be valid,
+in other words, it deviates from the norm
+significantly, so less them .005, so...
+So, let's dig it in
+a little further.
+Ben really struggle with me because he
+was searching for the other factors,
+how can you tell what other
+factors contribute to response?
+And really that's
+what science is about.
+When we're dealing
+with the response
+we want to know what factors
+are contributing to that.
+And through statistical design of
+experiments we can do that, okay?
+So again, I already mentioned
+that the model matches real data,
+because of predictable result.
+There's a very small variance in the
+model, as you can see in the line there.
+So, small variances good, you're not dealing
+with very large confidence intervals here,
+which means you can
+predict things very well
+and the deviation from
+the norm is significant
+it's a valid model, we can use it
+for engineering to dial in further.
+So, let's get the crowd involved
+with parameter estimates.
+So, every one wants to know
+what causes something to happen
+and when you're dealing with
+systems with more than one factor
+which pretty much I believe every physical
+system is, you always have that question.
+It's an unfortunate
+series of events that,
+I read many technical papers on a
+weekly basis and I would say maybe,
+maybe, 5% of all these papers utilize a
+statistical design of experiments approach.
+So, that means a building models
+without having proper control of all
+the factors going into that model.
+It's not taught very much in
+schools, it's starting to catch on
+I know the US military
+schools are are doing it
+and they're leading
+the charge in that.
+But really what this tells us, if everyone
+can look there at the highlighted region.
+For those of you who can see the
+font, what's the biggest number?
+It can be negative or positive.
+Pressure, right?
+It's pressure.
+It's not that hard to discern which of
+these effects is the most important
+in the response of voltage
+drop across in this experiment.
+Pressure is the main effect.
+What's interesting is that, the next effect
+is squared term of pressure, positive 107.
+So, right now, out of all
+this number which is about,
+you know, a little over 300
+these parameter estimates,
+pressure is taking up
+nearly 2/3 of the model.
+In other words, that model
+that was there, that graph
+2/3 of that response that it's
+predicting is due to pressure.
+Them what this is telling us also
+is a second-order interaction,
+that's the third largest term.
+Pressure time set voltage,
+what does that mean?
+All it's telling us is that in some way the
+voltage is interacting with the pressure.
+It's not giving us
+a physical model,
+it's not giving us a natural
+model that we can go from.
+Now, is the hard job of me sit down
+with Wal and understand what he's doing
+and for us to ask if this
+data makes sense, right?
+But a second order effect that
+is drawing down that voltage
+it's a negative number draws down the
+voltage, as pressure and voltage go higher.
+And finally, the main effect or the single
+factor here, Set voltage is about 47
+and statistical speak it's about the
+same as the second order interaction.
+This is what design of experiments gives
+us, it gives us a series of factors
+and ratings associated
+with each factor.
+So, you know when you go back to
+your bread that the type of flower
+and the amount of water you added
+were the most important effects,
+they contribute 80% of the model, the rest
+20% you could live with not worrying about.
+They often call that the 80%
+solution in Department of Defense,
+sometimes that's good enough.
+So, what does that do for us in
+terms of parameter response?
+Again, you know, 'one factor at a time'
+it's just not gonna be capable of this,
+the parameter estimates tell us
+what extent of each factor
+contributes to the overall response.
+What that really does for us, is it enables
+the mathematical model to be generated,
+it enables a response
+curve to be generated
+that give me, in just at real time,
+and we can understand these effects.
+So, we can see that at low
+pressure and low voltage settings
+we have predicted voltage
+drop about 393
+and this is a setting about 400 volts
+maybe to .5 toor, actually to .6 toor.
+Now, as we move
+cursor over to...
+This is bilt from a predictive
+model to about 10 toor.
+What happens to the voltage drop?
+It drops, right?
+It's not a linear drop, it's definitively
+not linear and that's due to that 2nd order
+or that the higher power effect,
+that squared term of pressure.
+That's why you have this curvature
+associated with this response.
+So, we have a predicted
+voltage of 230.
+So, now I hope you see
+the power in this, but
+because we now have predictability in the whole
+region of design space for SAFIRE project.
+And most importantly, what we look for
+are regions of what we call, robustness.
+So, if you look at going from this
+graph to now sliding over the...
+...sliding over the cursor.
+If you look at the slope of the
+Set voltage, flattens out, right?
+Where the implications of that?
+The implications of that are, I can now set
+my voltage wherever I want on this curve
+and the voltage drop is
+gonna remain at 257 volts.
+So, that's leading a little bit insight
+into what might be happening in the plasma
+again this is where we sit down
+and discuss what this means.
+And I interpreted this as
+just being a robust area
+where like Monty alluded to before, doesn't
+matter what kind of voltage you put in
+that voltage drop is gonna remain
+constant, something else might change,
+the appearance of the plasma might change,
+other aspects of the plasma might change,
+but the voltage drop is
+going to remain constant.
+And you can do this through a series of
+responses and build up yourself a few curves.
+So, DOEs are our way to
+decrease experimental runs
+while you maintain your
+statistical efficiency.
+You also look to make...
+...to resolve your higher order
+interactions between your factors
+those are really the two main points to
+take away points that I like to put forth
+but also take home message that
+this methodology can be implemented
+into many areas of research
+and process optimization.
+Years ago I...
+the reason I came across design of experiments
+was I had to do training for my job
+and I went to a course talk by Doug
+Montgomery for the American Chemical Society
+and I came out that course because he
+taught the basics of design experience,
+I came out that
+course slap my head
+realizing how much time and energy that
+could have saved me in my grad school days.
+But these kind of things you
+learn and it's really come about
+more recently because of the the computer
+software that's really available to us.
+Because a computer software can
+handle these really complex arrays
+of design of experiments and
+help us layout the experiments
+and do them more efficiently and resolve
+the interactions between these factors.
+Shamelessly, I don't particularly
+have a favorite software,
+but this will be
+my ending slide.
+So, if you're interested feel free to check out
+any other software that you see on the screen
+with no particular
+favorite on my part, so...
+I earn my nickel and
+that's really all I have.
+Thank you.

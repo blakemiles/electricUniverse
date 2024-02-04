@@ -1,0 +1,368 @@
+Welcome to Space News from
+the Electric Universe,
+brought to you by The
+Thunderbolts Project™
+at Thunderbolts.info
+Where did asteroids come from?
+For decades, in the standard
+story of our solar system,
+we have been told that asteroids,
+as well as comets and meteoroids,
+are the so-called leftovers
+of the early solar system.
+In this view, comets and even
+asteroids have been proposed
+as a possible source
+of our planet's oceans.
+Of course, when spacecraft
+have visited comets
+they've not found anything like the
+dirty snowballs of conventional theory.
+In this conclusion to his
+three-part presentation,
+physicist Eugene Bagashov explores
+the latest scientific papers
+into the evidence for the water of the
+asteroids Bennu and Ryugu, respectively,
+and what it means for an understanding of
+the solar system's history and origins.
+Spectral data from both Ryugu
+and Bennu seems pretty similar.
+One of the prominent features of spectra
+of these bodies is the high absorption
+at the infrared wavelength
+of about 2.7 microns,
+and the researchers acknowledge that it
+must be associated with the OH- groups
+in the minerals on the surface.
+However, their idea of how it
+got there is pretty peculiar.
+They think that it's the remnants of
+the water that formed in the inner belt
+together with the parent
+asteroids of Bennu and Ryugu
+and later was evaporated when they
+migrated into the inner solar system.
+Now of course, we are well
+aware of another process
+which is considered to be fundamental
+for the electric comet hypothesis,
+the idea that hydroxyl groups
+and water itself might be formed
+due to the electrochemical interaction
+between the protons from the solar wind
+and oxygen in the minerals on
+the surface of an airless body,
+such as a comet or an asteroid.
+A few years ago, this process has been
+confirmed in the laboratory experiments
+that were simulating the interaction
+of the solar wind with silicates.
+For more details, I'd recommend watching
+Thunderbolts Project documentary
+The Electric Comet
+and brilliant Franklin Anariba's talks available
+at the Thunderbolts Project YouTube channel.
+So in principle, the detection of OH
+signal should be considered trivial
+and not really indicative of
+anything in the EU perspective.
+These bodies might have
+been formed anywhere,
+including the inner
+solar system itself,
+and still demonstrate the
+same spectral absorption line.
+Nevertheless, with regards to
+that, even in research papers
+the scientists from both teams
+keep repeating the mantra
+that it was the asteroids and comets
+that brought water to the Earth
+whereas it is already known that there
+is at least as much water in the mantle
+as on the surface of our planet.
+How would Ryugu and Bennu keep any
+significant amount of water ice anyway
+if the temperatures on their surface are
+higher than the sublimation limit for water?
+It's probably important
+to emphasize here
+that what Hayabusa2 and
+Osiris-Rex are observing
+is only structural OH-
+groups, not the water itself.
+Even more so, they have
+to go quite a long way
+to somehow get rid of the
+water in their scenario.
+In particular, Hayabusa2 scientists have to
+imply a significant radioactive heating
+of the parent body of Ryugu asteroid
+in order to heat it up enough
+to produce the water-poor minerals
+that are observed on its surface.
+And on top of that, they have
+to imply impact scenario
+as they note that in order to produce
+the observed spectrum of Ryugu,
+a short-term catastrophic
+heating is also needed.
+But at the same time, they note that impacts
+would heat only a part of the surface,
+so they need a lot of them.
+So maybe in this case a single short-term
+electrical heating would be more appropriate.
+Otherwise, the spectra
+of both Bennu and Ryugu
+are more or less consistent with the
+high abundance of phyllosilicates,
+that is essentially
+sedimentary rock.
+Now, how would sedimentary
+rock end up on a tiny asteroid
+otherwise than as a result of its
+ejection from a much larger planet,
+is a good question that we should
+address to the Astrophysical community.
+Moreover, the present data from Osiris-Rex
+shows that the specific spectral feature
+of magnesium-rich Phyllosilicates
+at 16 micrometers is not observed,
+from which the researchers conclude that
+the minerals should be iron-rich instead
+and that's not all there is.
+"... spectra of Bennu also exhibit
+two features at 555 and 340 cm^(-1)
+that are probably attributable,
+at least in part, to magnetite."
+In my opinion, this is
+a potential indication
+that this asteroid was once part
+of a larger planet such as Mars,
+although I wouldn't discount Venus
+and Earth or Moon and Mercury, too.
+In previous decades, there has been some
+debate regarding possible formation
+of nano crystals of magnetite
+in Martian meteorites
+due to the influence of
+hypothetical bacterial life,
+though the shapes of crystals don't seem to
+match the ones produced by bacteria on Earth.
+I think it would be very funny if the
+samples collected at Ryugu and Bennu
+would show these biogenic
+crystals of magnetite instead,
+proving that these rocks
+originate from Earth.
+But that is only one of
+many possibilities, of course.
+Most likely the minerals
+would be transformed too much
+during their excavation
+process anyway.
+Last thing I wish to mention with
+regards to the spectrum of these objects
+is that it demonstrates
+reddening at large phase angles,
+that is when the detector is
+placed far away from the line
+connecting the Sun
+and the asteroid.
+At the moment, scientists cannot
+explain this peculiar property,
+but perhaps it is caused by a much higher degree
+of ordering of the material on the surface,
+which would be consistent with
+the scenario of their excavation
+under the influence of
+extremely strong electric fields
+but probably pretty hard to explain
+from a rubble pile standpoint.
+Speaking of the electric comet ideas,
+a recent press release by NASA
+states that some unexpected dust particles
+were observed near the asteroid Bennu.
+Now, I would envision
+two scenarios here.
+First of all, those might be some
+sort of electrostatic dust fountains
+that are produced due to the potential
+difference across the surface of the asteroid.
+It is well known and acknowledged
+that the dayside of such objects
+should be charged positively
+with respect to the nightside.
+There are two primary
+causes of that effect.
+Firstly, the photo ionization of the surface on
+the dayside makes it more positively charged
+and secondly, the solar wind is
+blocked by the asteroid itself,
+so that it's night side is experiencing
+a plasma shadowing, so to speak,
+and the solar wind protons cannot expand into
+this shadowed region as quickly as electrons,
+so together this might cause potential
+differences of the order of a few hundred volts
+between the day side
+and the night side.
+But of course, so more localized potential
+differences on the surface are also possible
+due to some topographic features, different elemental
+composition and albedo across the surface,
+its potential local
+magnetization, and so on.
+It's interesting that the
+researchers themselves
+note some peculiar reflectance differences
+across the surface of both asteroids
+and they also note that it might be produced
+through some process of dust transfer,
+the nature of which
+"remains unclear".
+However, to be completely fair, the
+gravity on these asteroids it's so weak
+that according to the
+researchers, at least on Bennu,
+"...material can achieve orbit
+through downslope migration."
+So dust particles might just be
+rolling downhill and end up in space.
+That is if we assume that no other
+forces are acting upon this dust,
+which is obviously not the case.
+But anyway, the second
+scenario I would envision
+is, that these are not dust
+particles in the first place.
+Unfortunately I don't know all
+the details of this detection,
+as the only information we have on it is
+basically one paragraph from NASA press release.
+So perhaps the option I'd like
+to propose might be ruled out,
+but from the publicly available data
+it still seems to be a viable option.
+So I'd propose that these bright dots
+that we see on the NavCam images
+might actually be just charged particles
+emanating from the vicinity of Bennu,
+and picked up by the camera.
+What exactly these
+particles are,
+ions or electrons, or maybe
+even photons, is not clear yet
+but any of these, as far as I understand,
+could trigger the camera matrix pixels.
+And it is clear, I think, that in
+this case, whatever they are,
+their production should be caused
+by some electromagnetic interaction
+of the solar wind plasma, or maybe
+the cosmic rays with the asteroid.
+Continuing this topic, it's quite a
+shame that both Hayabusa2 and Osiris-Rex
+are very poorly equipped to study the really
+important properties of Ryugu and Bennu,
+that is their interaction
+with space plasma.
+It might sound ridiculous, but none of
+these spacecraft have Langmuir probes,
+plasma wave suits of instruments, or any
+detectors of charged particles whatsoever.
+The only thing we have in this department,
+is the magnetometer on Mascot lander
+that spent some 17 hours on
+Ryugu in early October of 2018
+and then died when
+its batteries ran out.
+Well, hopefully we'll see some data from
+it eventually, as so far I've seen none.
+I suspect that the instrument might show
+some remnant magnetization of Ryugu,
+as if it represents a
+piece of planetary crust
+it should bear some imprint
+of its magnetic field.
+But also, if it was excavated electrically,
+the currents running through and around it
+would also generate some fields that
+might be retained in the asteroidal rock.
+Perhaps this magnetometer might
+register some other interesting effects,
+for example the changing magnetic fields
+during the progression of day and night cycle,
+as the surface of the asteroid charges
+and recharges positively and negatively,
+or the variation of
+the magnetic field
+due to the interaction of the
+asteroid with the solar wind plasma.
+There is a slight hope that Rex's X-ray
+spectrometer on board of Osiris-Rex
+at some point might detect soft X-rays resulting
+from Bennu's interaction with the solar wind.
+The hope is only slight, because the
+lowest value of energy it might detect
+is 700 electron volts which
+might be a bit too high,
+as for example Rosetta
+mission has shown
+that the negative electric
+potential of Comet 67P nucleus
+with respect to the ambient solar
+wind is only about 200 to 400 volts,
+and only about 200 volts of
+potential difference were detected
+by Cassini spacecraft at
+the Saturnian moon Hyperion,
+and Pluto emits X-rays charge
+exchange with the solar wind
+at only 300 to 600 volts
+of potential difference.
+Summing it all up, I would say that
+the data that has been released so far
+does not contradict the scenario under
+which the asteroids Bennu and Ryugu
+represent a
+relatively homogeneous,
+internally strong but highly porous rocks
+that have been electrically excavated
+from the surface of one of the
+bodies in the inner solar system
+during a relatively recent
+planetary catastrophe.
+Their complex surfaces indicate
+that most likely this material
+does not originate
+from the asteroid belt.
+However, as I've noted
+in the very beginning,
+the so-called
+rubble pile scenario
+also does not directly contradict
+the Electric Universe paradigm.
+But, my personal opinion
+is that these bodies
+are most likely internally
+homogeneous and strong.
+As the instrumentation onboard of both
+Hayabusa2 and Osiris-Rex spacecraft
+is very limited in terms of studying the
+plasma environments of Ryugu and Bennu,
+we're left with only observations of secondary
+evidence for their electrical activity,
+like these dust particles
+or whatever they are,
+that were spotted in
+the vicinity of Bennu.
+But hopefully, we'll be able to draw at
+least some conclusions from these missions.
+It would be especially interesting
+to see the results of the analysis
+of collected samples when
+they would return to Earth,
+but that is still
+quite a long time away.

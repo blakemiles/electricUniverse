@@ -1,0 +1,458 @@
+Welcome to Space News from
+the Electric Universe,
+brought to you by The
+Thunderbolts Project™
+at Thunderbolts.info
+A team of scientists on
+Earth have made a surprising
+and perhaps a very significant
+discovery on the Sun's magnetic field.
+The scientists were utilizing a solar
+telescope to study the Sun's corona,
+and through good-fortune were
+able to observe and analyze
+an exceptionally
+powerful solar flare.
+The team focused on estimating
+the magnetic field strength
+of features called coronal loops,
+which are glowing arcs
+of electrified plasma.
+What they found is that the
+coronal loops' magnetic field
+is ten times stronger than solar
+physicists had previously thought.
+The lead investigator
+of the study stated,
+"This is the first time we have
+been able to measure accurately
+the magnetic field
+of the coronal loops,
+the building blocks of the sun's magnetic
+corona, with such a level of accuracy."
+However, the description
+of coronal loops as
+"building blocks" of the
+Sun's magnetic corona
+reveals enduring beliefs about
+the Sun and its magnetism
+that may demand reassessment.
+Today, retired professor of electrical
+engineering Dr. Donald Scott,
+author of the book
+'The Electric Sky'
+shares his analysis of the real
+processes behind the Sun's magnetic field,
+based on the Electric Sun model.
+In regard to that that press release
+about the Sun's magnetic field
+being measured as 10 times stronger
+than what they thought before,
+I think that's, that's very good.
+That's very, I'm very encouraged that they
+are measuring magnetic fields on the Sun.
+The lead investigator,
+Dr. Kuridze, I believe it is, said,
+"Everything that happens in
+the Sun's outer atmosphere
+is dominated by
+the magnetic field,
+but we have very few measurements of its
+strength and spatial characteristics.
+This is the first time we have been able
+to measure accurately the magnetic field
+of the coronal loops",
+that's important,
+"the building blocks of the Sun's magnetic
+corona, with such a level of accuracy."
+So he says that the coronal loops are the
+building blocks of the Sun's magnetic corona.
+Well, that's just not so.
+For several reasons.
+If the astrophysicists have little or
+no knowledge about how magnetic fields
+are created within
+the Sun to start with,
+then it's, there's a little doubt,
+there's a little surprise on our part
+as to why they are always
+surprised by what they measure.
+In any event, the corona is
+mainly an electrical phenomenon.
+It's an electrically
+driven plasma
+and it's not primarily
+a magnetic one.
+There may be some magnetic
+fields within it,
+but the corona is mainly an
+electrical phenomenon and
+astrophysicists have gone
+right to the precipice
+of allowing their theories to
+incorporate magnetic fields - magnetism
+but not electrical ones.
+Well, Hannes Alfvén pointed
+out a long time ago that
+the coronal loops are examples
+of an electric plasma discharge
+and he pointed out that these
+loops are inherently unstable
+because they incorporate or can
+incorporate a magnetic electrical structure
+called a double-layer.
+And I said magnetic, it
+happens within a plasma
+and so there is a magnetic
+field within that plasma
+but the double-layer itself is
+primarily an electrical phenomenon.
+And the whole idea is
+that the double-layer is,
+can be, it tends to be at times
+unstable and it can explode,
+and that the explosion of that double
+layer in that prominence, in that loop,
+is what gives rise to what we
+now call coronal mass ejections.
+The material of which
+the loop is made, plasma
+is spewed out just like it would be from
+any other explosions into space.
+But anyway, astrophysicists
+have now seized upon the idea
+that anything they can't fully explain
+was to be due to magnetic fields.
+So for example, if you
+ask an astrophysicist
+what causes sunspots?
+They'll usually answer
+something to the effect that
+the sunspots are cooler than the
+photospheric surface around them.
+Well, why is that?
+The typical standard
+answer is that
+well, the Sun's magnetic
+fields sometimes gets twisted.
+Over time all that messy
+an uneven twisting movement
+distorts the Sun's main magnetic field in the
+same way that your bedsheets get wrinkled
+and bunched up when you
+toss and turn in your sleep.
+I kid you, not that I actually read
+those words in a recent press release.
+Then they go on to say, sunspots are
+cooler areas of intense magnetism.
+Oh, say that again? Cooler
+areas of intense magnetism.
+So intense that they inhibit the flow of hot
+gases from the Sun's interior to its surface
+and that's their explanation
+of what causes sunspots.
+That the magnetism has
+stopped the flow of hot gases,
+and having presented that
+as a well-established fact
+they immediately move on to the discussion
+of what they see the sunspots doing.
+But wait a minute!
+Since when does magnetism push
+gas around or inhibit its movement?
+Can we move or halt gas flow by
+putting a bar magnet at its path?
+No, of course not.
+But without explanation for their
+assertion they continue; quote,
+"The bunched up spots ...
+have so much magnetic power
+that they push back the
+hot gases beneath them
+and prevent the heat from
+rising directly to the surface.
+And so, that supposedly causes
+a cool sunspot to occur.
+If you're, I asked for example,
+what causes thunderstorms?
+The answer is not clouds.
+It's much more
+complicated than that
+and that's the kind of level of explanation
+that we're getting about sunspots.
+It's that magnetism
+cools things down.
+Anyway, several years ago, Stanford University
+announced that they had been studying
+what they called flows
+below the surface of the Sun.
+They discovered jet streams or what they
+called rivers of hot electrically charged gas;
+OK, translation -- plasma;
+flowing beneath the
+surface of the Sun.
+They also found features
+similar to trade winds
+that transport gas beneath
+the Sun's fiery surface.
+Well obviously, rivers of plasma
+are rivers of electrical charges
+and that is by definition
+an electric current.
+And currents cause
+magnetic fields.
+So it doesn't take much of a leap of imagination
+to realize that flows of charge
+within the Sun currents
+are what cause
+these magnetic fields.
+That's why the magnetic fields
+exist in the first place.
+Well anyway, seeing their work, seeing
+the work that the Stanford people did,
+I began to think about, I hate to use that
+word flows of gas and that sort of stuff,
+so I said well, let's
+put the real language on there.
+If we label that with currents,
+how could those currents result in
+what we see on the surface of the Sun?
+These magnetic loops.
+Well, I realize I have a
+picture there you can put on,
+that is in my book,
+that's my picture.
+I'm very proud that other people have
+borrowed it and use it from time to time
+and I've seen it several times
+in other people's papers.
+And that's great,
+but I want to emphasize that is
+only my idea, my supposition
+of what might be going
+on within the Sun.
+I think it explains the
+magnetic loops sufficiently.
+Now is this the only
+arrangement of currents
+and magnetic fields within
+the Sun that can cause these?
+No, of course not.
+But it is one of
+the possibilities.
+So if you take a
+look at that picture,
+you can see that entering down
+into the North Pole of the Sun
+and entering up into the
+South Pole of the Sun,
+I have labeled there the main current
+and it's increasing in strength.
+OK well, let's presume, you know, there
+is a sunspot cycle, 11-year sunspot cycle,
+actually the whole
+cycle takes 22 years,
+but it's, half of it is up on the
+upswing and half of it is on the downswing.
+And so, during the
+part of that cycle,
+which is the active
+Sun is growing,
+I don't know but I
+think it's possible,
+what we're seeing is that the
+main current into the poles,
+those red currents, are
+increasing in strength.
+So I've labeled the diagram
+'increasing in strength',
+and as a result if you use
+the right hand rule, you know,
+put your thumb in the
+direction of the current,
+and let your fingers show you where
+the magnetic field is going to be,
+you can see that there circulating
+around those main incoming currents
+are some magnetic fields.
+I think they've done
+them in blue there.
+And also if the current is increasing, the
+magnetic field is increasing in strength.
+And so, if we go down,
+proceed down into the Sun,
+these four concentric
+circles are there to show that
+those magnetic fields are
+increasing in strength.
+Well, transformers. Every
+transformer on Earth
+relies on what's called
+transformer action
+and that's what
+we're seeing here,
+is that if the current is increasing
+in the transformer magnetic core,
+the magnetic field is increasing
+and there is that magnetic core links
+an output winding in a transformer,
+and here there is no
+magnetic core,
+but there is the possibility of
+magnetic field being inside the Sun.
+And the Sun inside
+the Sun is a plasma.
+And a plasma is conductive.
+And so therefore the plasma which links
+those increasing blue circles, they are
+those increasing magnetic fields,
+there's a possibility
+for current to be formed
+by the changing strength
+of that magnetic field.
+So let me say that again.
+One of the basic rules of
+electrical science is that
+if there's a conducting path
+through a magnetic field
+and the magnetic
+field is changing,
+in this case
+increasing in strength,
+there will be induced in
+that conductor, a current,
+a secondary current.
+And you can see, I've sketched it lightly
+but I've labeled it secondary current.
+So that's the main input
+current, it's the primary winding,
+and the secondary current is the output
+winding, of a solar transformer, if you will.
+Now if you look at that, there's
+light little secondary currents.
+If you put your thumb in the
+direction of that secondary current,
+your fingers will be in the
+direction of a magnetic field
+which is produced, which is the result
+of those secondary currents.
+So very lightly there in the northeast
+quadrant, I've shown a magnetic loop
+created by that
+secondary current.
+Well, we've observed for years
+the fact that these magnetic
+loops do indeed come from sunspots.
+And where the magnetic field leaves the
+Sun, that's by definition a North Pole,
+and where it enters the Sun,
+that's by definition a South Pole.
+And if you look and compare what happens in the
+North hemisphere with the South hemisphere,
+you see that if going from, let's
+say, east to west in the north,
+you get a North Magnetic Pole
+and then a South Magnetic Pole.
+And if you go from east to
+west in the southern hemisphere,
+the first thing you come upon
+is the South Magnetic Pole
+and then you come
+upon the North Magnetic Pole.
+And so as the
+sunspot cycle goes on,
+these magnetic loops,
+these coronal loops,
+they change their location and
+latitude. In the other half of the cycle,
+those north-south
+pole positions reverse.
+And so this, I claim,
+is a possible model
+that explains several things.
+One thing that is certainly
+consistent with reality of these two,
+the way these North Pole
+and South Pole configurations
+and the magnetic
+loops change around.
+Also that main current, you can
+see it coming out at the equator,
+I labeled it, main current
+increasing in strength.
+That's a well-known
+current sheet.
+In one of the press
+releases they say,
+"When solar physicists talk
+about solar field reversals,
+their conversation often
+centers on the 'current sheet'."
+That's the only time they actually
+mention current but they do at that time.
+"The current sheet is a sprawling surface
+jutting outward from the sun's equator
+where the sun's slowly rotating magnetic
+field induces an electric current."
+Huh? The magnetic field
+induces an electric current!
+Yeah well, the magnetic fields
+can induce electric currents
+but I suspect and suggest
+to you at this point,
+what's going on here is that that
+current is producing the magnetic field.
+That's just the reverse of what's
+actually, what they say is going on.
+I think it's actually
+what's going on.
+But anyway, when you see a
+picture of a coronal loop,
+that's not a magnetic
+field you're looking at.
+Magnetic fields are invisible.
+They're invisible
+to the human eye.
+What we can see is electrically
+excited glow- or arc-mode current,
+plasma forming those loops.
+The plasma is coincidental with the
+way the magnetic field is moving
+and certainly with the directions
+the current is moving.
+Mainstream physicists
+try to avoid explaining
+how the Sun's magnetic field
+gets formed in the first place.
+Electric currents which are
+the only cause of magnetic fields,
+they don't come
+from anyplace else,
+they don't come by mixing
+gases or anything else.
+They're coming from, they're
+caused by electric currents.
+They're almost never mentioned,
+with one or two exceptions
+like this current sheet
+that comes out of this
+equator of the Sun.
+Magnetic fields
+don't get twisted up
+and they don't cool things down
+unless they're, and they don't move unless their
+formative currents produced that movement.
+They certainly are not
+able to modify sunspots.
+They're the results of an
+electric process that creates them.
+Anyway, it's good to be able to
+measure solar magnetic field strengths
+and I'm very happy that
+these people have done that
+and with increased
+accuracy, that's wonderful.
+But it's kind of like improving the accuracy of
+measuring exact length of an elephant's tail
+while ignoring the
+rest of the animal.

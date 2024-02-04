@@ -1,0 +1,807 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe,",
+    "start": 7.236,
+    "duration": 2.802
+  },
+  {
+    "text": "brought to you by The\nThunderbolts Project™",
+    "start": 10.063,
+    "duration": 2.353
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 12.441,
+    "duration": 2.729
+  },
+  {
+    "text": "The following presentation is an adaptation\nof the Picture of the Day article",
+    "start": 16.729,
+    "duration": 4.28
+  },
+  {
+    "text": "'What is light?' by\nauthor Mel Acheson.",
+    "start": 21.034,
+    "duration": 2.697
+  },
+  {
+    "text": "The link to the article may be found\nin the description box of this video.",
+    "start": 23.756,
+    "duration": 3.824
+  },
+  {
+    "text": "When you're in a boat, you see waves\nof water lap against the hull.",
+    "start": 28.08,
+    "duration": 3.935
+  },
+  {
+    "text": "If you could tie a flag\nto a molecule of water,",
+    "start": 32.04,
+    "duration": 3.17
+  },
+  {
+    "text": "you could see that\nmolecule move up and down.",
+    "start": 35.235,
+    "duration": 2.619
+  },
+  {
+    "text": "When you're at a concert, you hear\nwaves of sound press against your ear.",
+    "start": 37.879,
+    "duration": 4.872
+  },
+  {
+    "text": "If you could tie a flag\nto a molecule of air,",
+    "start": 42.776,
+    "duration": 2.982
+  },
+  {
+    "text": "you could see that molecule\nmove back and forth.",
+    "start": 45.783,
+    "duration": 3.157
+  },
+  {
+    "text": "When you tune your radio\nto your favorite station,",
+    "start": 48.965,
+    "duration": 2.663
+  },
+  {
+    "text": "you set its sensory organ-the\nantenna and tuning circuit-",
+    "start": 51.653,
+    "duration": 3.526
+  },
+  {
+    "text": "to respond to waves of\nelectromagnetic potential.",
+    "start": 55.204,
+    "duration": 2.972
+  },
+  {
+    "text": "The water or air molecule moves.",
+    "start": 58.201,
+    "duration": 2.61
+  },
+  {
+    "text": "You can measure its spatial\ndisplacement as it varies with time,",
+    "start": 60.836,
+    "duration": 3.767
+  },
+  {
+    "text": "and you can plot those\nmeasurements on a graph",
+    "start": 64.628,
+    "duration": 2.767
+  },
+  {
+    "text": "with displacement along one\naxis and time along the other.",
+    "start": 67.42,
+    "duration": 3.842
+  },
+  {
+    "text": "The result is a sinusoidal curve that\nresembles the form of the water's surface",
+    "start": 71.287,
+    "duration": 5.206
+  },
+  {
+    "text": "which we call a wave.",
+    "start": 76.518,
+    "duration": 1.347
+  },
+  {
+    "text": "Hence we speak of water waves,\nusually without distinguishing the",
+    "start": 77.89,
+    "duration": 4.309
+  },
+  {
+    "text": "\"real\" surface feature(s) from the\nmetaphorical mathematical form.",
+    "start": 82.2,
+    "duration": 4.094
+  },
+  {
+    "text": "And we speak of sound waves",
+    "start": 86.319,
+    "duration": 2.12
+  },
+  {
+    "text": "usually without being aware that the term\nis, in this instance, entirely metaphorical.",
+    "start": 88.464,
+    "duration": 5.768
+  },
+  {
+    "text": "We have developed mathematical\nmanipulations that enable us,",
+    "start": 94.257,
+    "duration": 3.737
+  },
+  {
+    "text": "on the basis of\nmetaphorical resemblances,",
+    "start": 98.019,
+    "duration": 2.638
+  },
+  {
+    "text": "to predict and to utilize\nvarious attributes",
+    "start": 100.682,
+    "duration": 2.604
+  },
+  {
+    "text": "of periodically moving\nwater and air molecules.",
+    "start": 103.311,
+    "duration": 3.189
+  },
+  {
+    "text": "The wave theory of water and\nthe wave theory of sound",
+    "start": 106.525,
+    "duration": 3.221
+  },
+  {
+    "text": "have been wondrously\nproductive cognitive tools.",
+    "start": 109.771,
+    "duration": 3.235
+  },
+  {
+    "text": "So, too, we speak of\nelectromagnetic waves.",
+    "start": 113.031,
+    "duration": 3.18
+  },
+  {
+    "text": "And we have developed\nmathematical manipulations",
+    "start": 116.236,
+    "duration": 2.731
+  },
+  {
+    "text": "that have been\nwondrously productive.",
+    "start": 118.992,
+    "duration": 2.038
+  },
+  {
+    "text": "We measure voltages or currents;",
+    "start": 121.055,
+    "duration": 2.293
+  },
+  {
+    "text": "we graph their\nvariation with time;",
+    "start": 123.373,
+    "duration": 2.45
+  },
+  {
+    "text": "and the graphs have\nthe form of a wave.",
+    "start": 125.848,
+    "duration": 2.673
+  },
+  {
+    "text": "But what moves?",
+    "start": 128.546,
+    "duration": 2.027
+  },
+  {
+    "text": "The variation is a changing\npotential, not a changing location.",
+    "start": 130.598,
+    "duration": 5.124
+  },
+  {
+    "text": "I could plot the changes in my thinking\nagainst time and produce a wave of opinion.",
+    "start": 135.747,
+    "duration": 5.033
+  },
+  {
+    "text": "Would Quantum\nMechanics then apply?",
+    "start": 140.805,
+    "duration": 2.62
+  },
+  {
+    "text": "Opinions do become entangled\nand they frequently collapse,",
+    "start": 143.45,
+    "duration": 4.673
+  },
+  {
+    "text": "but this is hardly what Dr. Schrödinger\nhad in mind with his wave equation.",
+    "start": 148.148,
+    "duration": 4.548
+  },
+  {
+    "text": "He was thinking of something\n\"material\" that moved.",
+    "start": 152.721,
+    "duration": 3.877
+  },
+  {
+    "text": "The assumption that light is something\nthat moves from one place to another",
+    "start": 156.623,
+    "duration": 4.031
+  },
+  {
+    "text": "goes beyond even the\nanalogy with water:",
+    "start": 160.679,
+    "duration": 2.839
+  },
+  {
+    "text": "In water and sound waves, the particles\nonly move back and forth in place.",
+    "start": 163.543,
+    "duration": 5.054
+  },
+  {
+    "text": "The water molecule doesn't move\nfrom the boat to the beach;",
+    "start": 168.622,
+    "duration": 3.743
+  },
+  {
+    "text": "the air molecule doesn't move\nfrom the horn to your ear.",
+    "start": 172.39,
+    "duration": 3.899
+  },
+  {
+    "text": "The apparent movement \"from-to\"",
+    "start": 176.314,
+    "duration": 3.003
+  },
+  {
+    "text": "is a sequential periodicity in the\noscillations of the molecules.",
+    "start": 179.318,
+    "duration": 4.345
+  },
+  {
+    "text": "The idea that light is something that\nmoves from one location to another",
+    "start": 183.688,
+    "duration": 4.374
+  },
+  {
+    "text": "gives rise to the further\nideas of a \"ray\" of light",
+    "start": 188.087,
+    "duration": 3.447
+  },
+  {
+    "text": "and, if interrupted into\nsegments, a \"bullet of light.\"",
+    "start": 191.559,
+    "duration": 4.084
+  },
+  {
+    "text": "The shortest segment imaginable we\nimagine to be a tiny particle, a photon,",
+    "start": 195.668,
+    "duration": 4.887
+  },
+  {
+    "text": "shot out of an emitting atom traveling\nto another atom, and being absorbed.",
+    "start": 200.58,
+    "duration": 5.044
+  },
+  {
+    "text": "The analogous image with water or\nsound is not associated with waves",
+    "start": 205.649,
+    "duration": 4.849
+  },
+  {
+    "text": "but with such things as fire hoses and\njet engines-\"streams\" of water or air.",
+    "start": 210.523,
+    "duration": 5.66
+  },
+  {
+    "text": "The question of what, if anything,\nmoves with light is an open one.",
+    "start": 216.208,
+    "duration": 4.398
+  },
+  {
+    "text": "This question goes back 300 years.\nAnd-surprise!-it was never settled.",
+    "start": 220.631,
+    "duration": 6.302
+  },
+  {
+    "text": "It was decided but not settled.",
+    "start": 226.958,
+    "duration": 2.967
+  },
+  {
+    "text": "A Danish astronomer, Olaus Roemer,",
+    "start": 229.95,
+    "duration": 2.756
+  },
+  {
+    "text": "measured variations in the times of\noccultation of Jupiter's innermost moon, Io,",
+    "start": 232.731,
+    "duration": 4.731
+  },
+  {
+    "text": "when the Earth was at\nopposite points in its orbit.",
+    "start": 237.487,
+    "duration": 2.922
+  },
+  {
+    "text": "He attributed the differences\nto the travel time",
+    "start": 240.434,
+    "duration": 2.888
+  },
+  {
+    "text": "of something that moved\nfrom Io to the Earth,",
+    "start": 243.347,
+    "duration": 2.435
+  },
+  {
+    "text": "i.e., to the speed of light.",
+    "start": 245.807,
+    "duration": 2.105
+  },
+  {
+    "text": "The director of the Royal Observatory\nin Paris, Gian Domenico Cassini,",
+    "start": 247.937,
+    "duration": 5.086
+  },
+  {
+    "text": "the first of four generations\nof Royal astronomers, disagreed.",
+    "start": 253.048,
+    "duration": 3.85
+  },
+  {
+    "text": "He thought light might instead be\na cumulative response of the eye,",
+    "start": 256.899,
+    "duration": 4.374
+  },
+  {
+    "text": "perhaps to variations\nin some force",
+    "start": 261.298,
+    "duration": 2.444
+  },
+  {
+    "text": "acting instantaneously at a\ndistance like Newton's gravity.",
+    "start": 263.767,
+    "duration": 3.842
+  },
+  {
+    "text": "He noted that Roemer's measurements were\ndependent on a great many variables-",
+    "start": 267.61,
+    "duration": 5.179
+  },
+  {
+    "text": "different velocities\nof Earth and Io,",
+    "start": 272.79,
+    "duration": 2.786
+  },
+  {
+    "text": "different angles of view,",
+    "start": 275.601,
+    "duration": 2.195
+  },
+  {
+    "text": "different intensities of light,",
+    "start": 277.821,
+    "duration": 2.423
+  },
+  {
+    "text": "different observing\nconditions, etc. --",
+    "start": 280.269,
+    "duration": 2.681
+  },
+  {
+    "text": "any one of which, or some\ncombination of which,",
+    "start": 282.975,
+    "duration": 3.456
+  },
+  {
+    "text": "could account for the variations\nin his (Roemer's) observations.",
+    "start": 286.456,
+    "duration": 4.406
+  },
+  {
+    "text": "Cassini also took\nmeasurements, not only of Io",
+    "start": 290.887,
+    "duration": 3.726
+  },
+  {
+    "text": "but of the other Galilean\nsatellites of Jupiter.",
+    "start": 294.638,
+    "duration": 2.94
+  },
+  {
+    "text": "And the other satellites did not\nshow the same variations as Io.",
+    "start": 297.579,
+    "duration": 4.211
+  },
+  {
+    "text": "Edmund Halley, of\nHalley's Comet fame,",
+    "start": 301.815,
+    "duration": 2.548
+  },
+  {
+    "text": "who had helped publish and\npromote Newton's Principia,",
+    "start": 304.388,
+    "duration": 2.888
+  },
+  {
+    "text": "became enamored with Roemer's idea\n(that light was something that moved)",
+    "start": 307.301,
+    "duration": 3.785
+  },
+  {
+    "text": "and promoted it in the\nscientific press of the time.",
+    "start": 311.111,
+    "duration": 3.11
+  },
+  {
+    "text": "Roemer and Cassini died.",
+    "start": 314.245,
+    "duration": 2.159
+  },
+  {
+    "text": "Halley carried the torch, and\nRoemer's idea caught on.",
+    "start": 316.429,
+    "duration": 3.644
+  },
+  {
+    "text": "The mob of scientists rushed\ndown Something That Moves Street",
+    "start": 320.098,
+    "duration": 3.88
+  },
+  {
+    "text": "and vacated Cumulative\nResponse Street.",
+    "start": 324.003,
+    "duration": 3.011
+  },
+  {
+    "text": "No one even thought to look for\nother streets of explanation",
+    "start": 327.039,
+    "duration": 3.626
+  },
+  {
+    "text": "in the Village of\nElectromagnetism.",
+    "start": 330.69,
+    "duration": 1.963
+  },
+  {
+    "text": "Even Cassini's son, who succeeded\nhim at the Royal Observatory,",
+    "start": 332.678,
+    "duration": 4.283
+  },
+  {
+    "text": "abandoned his objections.",
+    "start": 336.986,
+    "duration": 1.993
+  },
+  {
+    "text": "As I said, the issue was\ndecided-by mob rule",
+    "start": 339.004,
+    "duration": 3.443
+  },
+  {
+    "text": "but not settled.",
+    "start": 342.472,
+    "duration": 1.348
+  },
+  {
+    "text": "What really is the case?",
+    "start": 343.845,
+    "duration": 2.269
+  },
+  {
+    "text": "Light might be something that\nmoves-but what else could it be?",
+    "start": 346.139,
+    "duration": 4.19
+  },
+  {
+    "text": "That light is something\nthat moves is plausible.",
+    "start": 350.354,
+    "duration": 3.223
+  },
+  {
+    "text": "That assumption explains many\nobservations-though not all.",
+    "start": 353.602,
+    "duration": 4.258
+  },
+  {
+    "text": "But plausibility is\nnot reliability:",
+    "start": 357.885,
+    "duration": 2.803
+  },
+  {
+    "text": "Unless a systematic effort is made\nto seek out what else light might be",
+    "start": 360.689,
+    "duration": 4.576
+  },
+  {
+    "text": "and to devise tests that will distinguish\namong the various possibilities,",
+    "start": 365.29,
+    "duration": 4.078
+  },
+  {
+    "text": "no one will ever know if\n\"something moving\" is the truth",
+    "start": 369.393,
+    "duration": 3.983
+  },
+  {
+    "text": "or merely a plausible\nartifact of selected data.",
+    "start": 373.401,
+    "duration": 3.257
+  },
+  {
+    "text": "Roemer simply reversed\nthe older intuitive idea",
+    "start": 376.683,
+    "duration": 3.243
+  },
+  {
+    "text": "that understood seeing\nas analogous to touching:",
+    "start": 379.951,
+    "duration": 3.067
+  },
+  {
+    "text": "something-an \"ocular ray\"-reaches out like\na finger and touches/sees the object seen.",
+    "start": 383.043,
+    "duration": 6.852
+  },
+  {
+    "text": "Roemer assumed rays come not\nfrom the eye but to the eye,",
+    "start": 389.92,
+    "duration": 3.784
+  },
+  {
+    "text": "and that too is intuitive.",
+    "start": 393.729,
+    "duration": 2.0
+  },
+  {
+    "text": "But as more observations accumulated,\nthings got more complicated.",
+    "start": 395.754,
+    "duration": 4.692
+  },
+  {
+    "text": "Today, Quantum Mechanics has had to\nabandon intuitiveness altogether",
+    "start": 400.471,
+    "duration": 4.474
+  },
+  {
+    "text": "and embrace \"Quantum weirdness\".",
+    "start": 404.97,
+    "duration": 3.052
+  },
+  {
+    "text": "Its justification is\nthat it gets results:",
+    "start": 408.047,
+    "duration": 3.124
+  },
+  {
+    "text": "The math goes from an empirical\nstart to an empirical finish.",
+    "start": 411.196,
+    "duration": 4.234
+  },
+  {
+    "text": "It's predictive to a very, very,\nvery great degree of accuracy.",
+    "start": 415.455,
+    "duration": 4.638
+  },
+  {
+    "text": "However, accurate prediction is a\nsign of a theory's usefulness,",
+    "start": 420.118,
+    "duration": 4.144
+  },
+  {
+    "text": "not its truthfulness.",
+    "start": 424.287,
+    "duration": 1.657
+  },
+  {
+    "text": "The theory could be\nmerely instrumental",
+    "start": 425.969,
+    "duration": 2.437
+  },
+  {
+    "text": "but instrumentalism is not as\nsatisfying as the conviction",
+    "start": 428.431,
+    "duration": 3.515
+  },
+  {
+    "text": "that one possesses The\nTruth in capital letters.",
+    "start": 431.971,
+    "duration": 3.09
+  },
+  {
+    "text": "Light must be something\nthat travels,",
+    "start": 435.086,
+    "duration": 2.771
+  },
+  {
+    "text": "who could doubt that?",
+    "start": 437.882,
+    "duration": 1.554
+  },
+  {
+    "text": "The mob must have gone down\nthe Street of Truth after all.",
+    "start": 439.461,
+    "duration": 3.38
+  },
+  {
+    "text": "What else could\nlight be!",
+    "start": 442.866,
+    "duration": 3.267
+  },
+  {
+    "text": "That exclamation point begs a question\nthat should be taken seriously.",
+    "start": 446.158,
+    "duration": 4.682
+  },
+  {
+    "text": "It's a question that lies at\nthe heart of reliability.",
+    "start": 450.865,
+    "duration": 3.07
+  },
+  {
+    "text": "It lies at the heart of\nscientific discovery.",
+    "start": 453.96,
+    "duration": 3.336
+  },
+  {
+    "text": "What else, indeed, could light be?",
+    "start": 457.321,
+    "duration": 2.745
+  },
+  {
+    "text": "The math (of Quantum\nMechanics) goes from 1,",
+    "start": 460.091,
+    "duration": 3.062
+  },
+  {
+    "text": "which we observe, to 4,\nwhich we also observe:",
+    "start": 463.178,
+    "duration": 3.243
+  },
+  {
+    "text": "1 + 1 + 1 + 1 = 4",
+    "start": 466.446,
+    "duration": 4.425
+  },
+  {
+    "text": "But there's no guarantee\nreality goes that way:",
+    "start": 470.896,
+    "duration": 3.199
+  },
+  {
+    "text": "Maybe the real\npath is 1 + 3 = 4.",
+    "start": 474.12,
+    "duration": 3.475
+  },
+  {
+    "text": "Quantum weirdness may only be\nambiguity in our categories",
+    "start": 477.62,
+    "duration": 4.109
+  },
+  {
+    "text": "(of waves/particles that\nmove) rather than in light.",
+    "start": 481.754,
+    "duration": 3.556
+  },
+  {
+    "text": "What if light is a\n\"cumulative response\"?",
+    "start": 485.335,
+    "duration": 3.643
+  },
+  {
+    "text": "No one has bothered to develop a\nmathematical theory for that ... yet.",
+    "start": 489.003,
+    "duration": 4.958
+  },
+  {
+    "text": "What if light is something else?",
+    "start": 493.986,
+    "duration": 2.639
+  },
+  {
+    "text": "No one has bothered to peer\ndown the cognitive alleyways",
+    "start": 496.65,
+    "duration": 3.689
+  },
+  {
+    "text": "for a third or\nfourth possibility:",
+    "start": 500.364,
+    "duration": 2.138
+  },
+  {
+    "text": "Consider that plasma\ndischarge phenomena",
+    "start": 502.527,
+    "duration": 2.555
+  },
+  {
+    "text": "are scalable over at least\n14 orders of magnitude,",
+    "start": 505.107,
+    "duration": 3.58
+  },
+  {
+    "text": "from the scale of galaxies\nto the scale of atoms.",
+    "start": 508.712,
+    "duration": 3.224
+  },
+  {
+    "text": "Why stop with \"fundamental\"\nsubatomic particles?",
+    "start": 511.961,
+    "duration": 4.216
+  },
+  {
+    "text": "What if the \"zoo\" of subatomic particles is\nmerely a spritz of tiny electrical sparks-",
+    "start": 516.202,
+    "duration": 5.498
+  },
+  {
+    "text": "plasmoids-observed at different\nstages of their evolution",
+    "start": 521.725,
+    "duration": 3.856
+  },
+  {
+    "text": "or under different\ndischarge conditions?",
+    "start": 525.606,
+    "duration": 2.35
+  },
+  {
+    "text": "(Imagine a subatomic-\nsized Herbig-Haro star",
+    "start": 527.981,
+    "duration": 3.336
+  },
+  {
+    "text": "or active Seyfert galaxy-",
+    "start": 531.342,
+    "duration": 1.979
+  },
+  {
+    "text": "the \"doughnut on a stick\" form typical of\nso many plasma discharge phenomena.)",
+    "start": 533.346,
+    "duration": 5.007
+  },
+  {
+    "text": "What if reality consists of larger\nsparks driving smaller sparks",
+    "start": 538.378,
+    "duration": 4.341
+  },
+  {
+    "text": "all the way down the scales,",
+    "start": 542.744,
+    "duration": 1.614
+  },
+  {
+    "text": "and there is no such thing as\na \"particle\" or a \"wave\"?",
+    "start": 544.383,
+    "duration": 3.919
+  },
+  {
+    "text": "With electromagnetism, the electric and\nmagnetic fields vary in strength and polarity.",
+    "start": 548.327,
+    "duration": 6.182
+  },
+  {
+    "text": "It's not immediately obvious\nthat anything moves-",
+    "start": 554.534,
+    "duration": 3.356
+  },
+  {
+    "text": "except scientists'\nopinions about it.",
+    "start": 557.915,
+    "duration": 2.299
+  },
+  {
+    "text": "And they move more like a mob:",
+    "start": 560.239,
+    "duration": 2.386
+  },
+  {
+    "text": "Fervency of belief so easily\nobscures enlightenment.",
+    "start": 562.65,
+    "duration": 4.118
+  },
+  {
+    "text": "It's been 300 years, and the\nquestion is still open.",
+    "start": 566.793,
+    "duration": 4.503
+  },
+  {
+    "text": "What moves?",
+    "start": 571.321,
+    "duration": 2.165
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "text": "The Electric Universe",
+    "start": 1.11,
+    "duration": 4.858
+  },
+  {
+    "text": "The Electric Universe\n-- Predictions & Surprises --",
+    "start": 6.039,
+    "duration": 4.207
+  },
+  {
+    "text": "The space sciences today face\na quandary that won't go away.",
+    "start": 11.925,
+    "duration": 4.84
+  },
+  {
+    "text": "Why have the greatest discoveries\ncome as a shock to astronomers?",
+    "start": 16.79,
+    "duration": 4.745
+  },
+  {
+    "text": "Since the beginning\nof the space age,",
+    "start": 21.56,
+    "duration": 1.984
+  },
+  {
+    "text": "these surprises have occurred\nat all scales of observation,",
+    "start": 23.569,
+    "duration": 3.625
+  },
+  {
+    "text": "from remote galaxies down to our\nown neighborhood in the Milky Way,",
+    "start": 27.219,
+    "duration": 4.43
+  },
+  {
+    "text": "where planets and\nmoons circle the Sun.",
+    "start": 31.674,
+    "duration": 2.936
+  },
+  {
+    "text": "We've seen this story a\nhundred times and more",
+    "start": 34.635,
+    "duration": 3.297
+  },
+  {
+    "text": "as new data sent theorists\nback to the drawing board.",
+    "start": 37.957,
+    "duration": 4.066
+  },
+  {
+    "text": "Contrast this quandary to the\nrecord of the Electric Universe.",
+    "start": 45.205,
+    "duration": 4.185
+  },
+  {
+    "text": "This new paradigm is in its\nearly phase of emergence",
+    "start": 49.39,
+    "duration": 3.63
+  },
+  {
+    "text": "but its core prediction\nis crystal clear.",
+    "start": 53.02,
+    "duration": 3.36
+  },
+  {
+    "text": "When we examine energetic events\nin space, we will always find",
+    "start": 56.405,
+    "duration": 5.246
+  },
+  {
+    "text": "electromagnetic intensities far beyond the\nability of prior theory to explain them.",
+    "start": 61.676,
+    "duration": 6.459
+  },
+  {
+    "text": "The impressive record of this\nprediction arises from a singular fact:",
+    "start": 68.16,
+    "duration": 4.93
+  },
+  {
+    "text": "that electricity, not just gravity,\nis highly active across the cosmos.",
+    "start": 73.09,
+    "duration": 6.384
+  },
+  {
+    "text": "Science advances through the\npredictive ability of new ideas.",
+    "start": 79.499,
+    "duration": 5.223
+  },
+  {
+    "text": "Ideas that connect observed facts\nto causes that can be named.",
+    "start": 84.747,
+    "duration": 4.183
+  },
+  {
+    "text": "Things already known and\nthings yet to be discovered",
+    "start": 88.93,
+    "duration": 3.92
+  },
+  {
+    "text": "become predictable when seen in\nthe light of a new interpretation.",
+    "start": 92.875,
+    "duration": 5.344
+  },
+  {
+    "text": "And so, the Electric Universe\npredicts and explains",
+    "start": 98.219,
+    "duration": 3.802
+  },
+  {
+    "text": "the spectacular jets emitted\nfrom galactic cores,",
+    "start": 102.046,
+    "duration": 3.964
+  },
+  {
+    "text": "the remarkable hourglass\nforms of stellar nebulae,",
+    "start": 106.035,
+    "duration": 4.201
+  },
+  {
+    "text": "and the acceleration of the solar\nwind out past the planets.",
+    "start": 110.261,
+    "duration": 4.647
+  },
+  {
+    "text": "Dozens of surprises follow logically and\ninescapably from the proposed cause",
+    "start": 114.909,
+    "duration": 7.07
+  },
+  {
+    "text": "but this is something you\nhave to see for yourself.",
+    "start": 122.004,
+    "duration": 3.545
+  },
+  {
+    "text": "The great discoveries are no\nlonger surprises as year by year",
+    "start": 125.549,
+    "duration": 4.561
+  },
+  {
+    "text": "the space sciences look more and\nmore like the Electric Universe.",
+    "start": 130.11,
+    "duration": 4.99
+  },
+  {
+    "text": "The Electric Universe",
+    "start": 135.125,
+    "duration": 3.096
+  },
+  {
+    "text": "Thunderbolts.info",
+    "start": 138.261,
+    "duration": 4.358
+  }
+]

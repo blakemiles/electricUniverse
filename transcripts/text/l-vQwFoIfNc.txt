@@ -1,0 +1,977 @@
+[
+  {
+    "text": " Welcome to Space News from the Electric",
+    "start": 6.77,
+    "duration": 2.11
+  },
+  {
+    "text": " Universe, brought to you by the",
+    "start": 8.88,
+    "duration": 2.07
+  },
+  {
+    "text": " Thunderbolts Project™ at Thunderbolts.",
+    "start": 10.95,
+    "duration": 2.72
+  },
+  {
+    "text": "info. The following presentation is an",
+    "start": 13.67,
+    "duration": 7.48
+  },
+  {
+    "text": "adaptation of the Mel Acheson Picture",
+    "start": 21.15,
+    "duration": 2.21
+  },
+  {
+    "text": "Of The Day article “Conceptual",
+    "start": 23.36,
+    "duration": 1.9
+  },
+  {
+    "text": "Chromatography.” The link to the article",
+    "start": 25.26,
+    "duration": 2.31
+  },
+  {
+    "text": "may be found in the description box of",
+    "start": 27.57,
+    "duration": 2.03
+  },
+  {
+    "text": "this video. Is the Earth at the center of",
+    "start": 29.6,
+    "duration": 2.97
+  },
+  {
+    "text": "the universe after all? Or is the",
+    "start": 32.57,
+    "duration": 2.77
+  },
+  {
+    "text": "expanding universe an artifact of",
+    "start": 35.34,
+    "duration": 1.98
+  },
+  {
+    "text": "conceptual chromatography? Chromatography",
+    "start": 37.32,
+    "duration": 3.57
+  },
+  {
+    "text": "has been quite a useful invention. The",
+    "start": 40.89,
+    "duration": 2.52
+  },
+  {
+    "text": "high-school science demonstration of it",
+    "start": 43.41,
+    "duration": 2.01
+  },
+  {
+    "text": "is to place a drop or two of ink in a",
+    "start": 45.42,
+    "duration": 2.06
+  },
+  {
+    "text": "beaker of water and to suspend a length",
+    "start": 47.48,
+    "duration": 2.14
+  },
+  {
+    "text": "of filter paper over the water, with the",
+    "start": 49.62,
+    "duration": 2.13
+  },
+  {
+    "text": "bottom of the paper barely immersed. The",
+    "start": 51.75,
+    "duration": 2.73
+  },
+  {
+    "text": "various pigments in the ink will travel",
+    "start": 54.48,
+    "duration": 2.09
+  },
+  {
+    "text": "up the paper at different speeds,",
+    "start": 56.57,
+    "duration": 1.48
+  },
+  {
+    "text": "producing a “spectrum” of colors. This",
+    "start": 58.05,
+    "duration": 2.88
+  },
+  {
+    "text": "technique can be used with various",
+    "start": 60.93,
+    "duration": 1.59
+  },
+  {
+    "text": "mixtures to detect the particular",
+    "start": 62.52,
+    "duration": 1.77
+  },
+  {
+    "text": "compounds composing them. But an analogue",
+    "start": 64.29,
+    "duration": 2.97
+  },
+  {
+    "text": "of this process can occur with theories,",
+    "start": 67.26,
+    "duration": 2.03
+  },
+  {
+    "text": "and the results can be misleading,",
+    "start": 69.29,
+    "duration": 2.17
+  },
+  {
+    "text": "instead of enlightening. Let's start with",
+    "start": 71.46,
+    "duration": 2.51
+  },
+  {
+    "text": "an example from cosmology: the",
+    "start": 73.97,
+    "duration": 2.86
+  },
+  {
+    "text": "”paper” of the Doppler effect is dipped",
+    "start": 76.83,
+    "duration": 2.31
+  },
+  {
+    "text": "into the “beaker” of redshift measurements",
+    "start": 79.14,
+    "duration": 1.76
+  },
+  {
+    "text": "of galaxies and quasars. The Doppler",
+    "start": 80.9,
+    "duration": 3.21
+  },
+  {
+    "text": "paper imposes a distance proportional to",
+    "start": 84.11,
+    "duration": 2.56
+  },
+  {
+    "text": "redshift on the measurements. Low-",
+    "start": 86.67,
+    "duration": 2.51
+  },
+  {
+    "text": "redshift galaxies don't get far.",
+    "start": 89.18,
+    "duration": 2.54
+  },
+  {
+    "text": "High-redshift quasars",
+    "start": 91.72,
+    "duration": 2.27
+  },
+  {
+    "text": "”chromatograph” into the farthest reaches",
+    "start": 93.99,
+    "duration": 2.46
+  },
+  {
+    "text": "of space. Hence, what could be a",
+    "start": 96.45,
+    "duration": 2.73
+  },
+  {
+    "text": "relatively nearby cluster of mixed",
+    "start": 99.18,
+    "duration": 2.18
+  },
+  {
+    "text": "galaxies and quasars, becomes a “spike” or",
+    "start": 101.36,
+    "duration": 2.71
+  },
+  {
+    "text": "”finger” of objects stretching away from",
+    "start": 104.07,
+    "duration": 2.31
+  },
+  {
+    "text": "the Earth. What does this have to do with",
+    "start": 106.38,
+    "duration": 2.22
+  },
+  {
+    "text": "reality as we imagine it? Halton Arp in",
+    "start": 108.6,
+    "duration": 3.62
+  },
+  {
+    "text": "his book, Seeing Red plots all the",
+    "start": 112.22,
+    "duration": 2.02
+  },
+  {
+    "text": "galaxies in the Virgo cluster at their",
+    "start": 114.24,
+    "duration": 2.04
+  },
+  {
+    "text": "Doppler interpreted redshift distances.",
+    "start": 116.28,
+    "duration": 2.4
+  },
+  {
+    "text": "The galaxies stretch out in a long",
+    "start": 118.68,
+    "duration": 2.67
+  },
+  {
+    "text": "narrow strip, exactly along a radius",
+    "start": 121.35,
+    "duration": 2.61
+  },
+  {
+    "text": "vector from Earth. If quasars were to be",
+    "start": 123.96,
+    "duration": 3.03
+  },
+  {
+    "text": "included in the plots, the entire",
+    "start": 126.99,
+    "duration": 2.04
+  },
+  {
+    "text": "universe would",
+    "start": 129.03,
+    "duration": 1.1
+  },
+  {
+    "text": "like spokes of a wheel, with Earth at the",
+    "start": 130.13,
+    "duration": 2.41
+  },
+  {
+    "text": "hub. Well, that was an amusing exercise.",
+    "start": 132.54,
+    "duration": 3.02
+  },
+  {
+    "text": "Let's look for some more “paper” theories.",
+    "start": 135.56,
+    "duration": 2.77
+  },
+  {
+    "text": "Time, some wag has said, is what keeps",
+    "start": 138.33,
+    "duration": 3.15
+  },
+  {
+    "text": "everything from happening all at once.",
+    "start": 141.48,
+    "duration": 2.24
+  },
+  {
+    "text": "But what if some things did happen all",
+    "start": 143.72,
+    "duration": 2.92
+  },
+  {
+    "text": "at once and a geologist came along with",
+    "start": 146.64,
+    "duration": 2.52
+  },
+  {
+    "text": "a quote “geologic record?” Single episodes",
+    "start": 149.16,
+    "duration": 3.42
+  },
+  {
+    "text": "of flooding have been known to build up",
+    "start": 152.58,
+    "duration": 1.74
+  },
+  {
+    "text": "many layers of sediments, sorted",
+    "start": 154.32,
+    "duration": 2.4
+  },
+  {
+    "text": "according to fluctuations in the",
+    "start": 156.72,
+    "duration": 1.68
+  },
+  {
+    "text": "velocity of the water. Afterward, “dipping”",
+    "start": 158.4,
+    "duration": 3.27
+  },
+  {
+    "text": "the concept of geologic record into the",
+    "start": 161.67,
+    "duration": 2.25
+  },
+  {
+    "text": "strata, would stretch out each layer in",
+    "start": 163.92,
+    "duration": 2.31
+  },
+  {
+    "text": "time, marking off thousands of years at",
+    "start": 166.23,
+    "duration": 2.55
+  },
+  {
+    "text": "each stratum. Obviously, the flood would",
+    "start": 168.78,
+    "duration": 2.48
+  },
+  {
+    "text": "have to be slowed considerably. Equally",
+    "start": 171.26,
+    "duration": 2.86
+  },
+  {
+    "text": "obviously, the easy way to do that would",
+    "start": 174.12,
+    "duration": 2.33
+  },
+  {
+    "text": "be to freeze it. Our conceptual",
+    "start": 176.45,
+    "duration": 2.5
+  },
+  {
+    "text": "chromatography has created an ice age.",
+    "start": 178.95,
+    "duration": 2.31
+  },
+  {
+    "text": "But this is just idle speculation right?",
+    "start": 181.26,
+    "duration": 3.03
+  },
+  {
+    "text": "Well, there is the matter of the Bretz",
+    "start": 184.29,
+    "duration": 2.43
+  },
+  {
+    "text": "floods in eastern Washington. It took a",
+    "start": 186.72,
+    "duration": 2.94
+  },
+  {
+    "text": "long time and much careful argumentation,",
+    "start": 189.66,
+    "duration": 3.06
+  },
+  {
+    "text": "but it's now accepted that Eastern",
+    "start": 192.72,
+    "duration": 2.28
+  },
+  {
+    "text": "Washington was shaped by monstrous",
+    "start": 195.0,
+    "duration": 2.01
+  },
+  {
+    "text": "floods instead of by ice. One entire lobe",
+    "start": 197.01,
+    "duration": 3.42
+  },
+  {
+    "text": "of the Ice Age has been conceptually",
+    "start": 200.43,
+    "duration": 2.13
+  },
+  {
+    "text": "melted. Now I hear talk of similar floods",
+    "start": 202.56,
+    "duration": 3.06
+  },
+  {
+    "text": "coursing into the Atlantic from Central",
+    "start": 205.62,
+    "duration": 2.28
+  },
+  {
+    "text": "Canada. The conceptual climate of the Ice",
+    "start": 207.9,
+    "duration": 3.14
+  },
+  {
+    "text": "Age just got a bit warmer, and a few",
+    "start": 211.04,
+    "duration": 3.13
+  },
+  {
+    "text": "things have started happening all at",
+    "start": 214.17,
+    "duration": 1.5
+  },
+  {
+    "text": "once. What if we “melted” the entire",
+    "start": 215.67,
+    "duration": 3.39
+  },
+  {
+    "text": "ice age and recalled the mythical",
+    "start": 219.06,
+    "duration": 2.13
+  },
+  {
+    "text": "stories of the collapse of the World",
+    "start": 221.19,
+    "duration": 1.71
+  },
+  {
+    "text": "Mountain or Tree which resulted in",
+    "start": 222.9,
+    "duration": 2.85
+  },
+  {
+    "text": "global floods from the north? This is fun.",
+    "start": 225.75,
+    "duration": 3.63
+  },
+  {
+    "text": "Let's play the game with plate tectonics:",
+    "start": 229.38,
+    "duration": 2.44
+  },
+  {
+    "text": "instead of counting to a million years",
+    "start": 231.82,
+    "duration": 2.44
+  },
+  {
+    "text": "with every magnetic stripe on the",
+    "start": 234.26,
+    "duration": 1.69
+  },
+  {
+    "text": "Atlantic seafloor,",
+    "start": 235.95,
+    "duration": 1.23
+  },
+  {
+    "text": "let's use smaller numbers. Just to up the",
+    "start": 237.18,
+    "duration": 2.85
+  },
+  {
+    "text": "ante, let's use smaller units, too. How",
+    "start": 240.03,
+    "duration": 3.09
+  },
+  {
+    "text": "about a few minutes! We'd have to imagine",
+    "start": 243.12,
+    "duration": 2.85
+  },
+  {
+    "text": "SOMETHING ripping the Americas away from",
+    "start": 245.97,
+    "duration": 2.34
+  },
+  {
+    "text": "Europe and Africa all at once. It would",
+    "start": 248.31,
+    "duration": 3.06
+  },
+  {
+    "text": "have to be something so big that the",
+    "start": 251.37,
+    "duration": 1.92
+  },
+  {
+    "text": "continents and the energy to move them",
+    "start": 253.29,
+    "duration": 1.97
+  },
+  {
+    "text": "would be small potatoes in comparison. it",
+    "start": 255.26,
+    "duration": 3.0
+  },
+  {
+    "text": "would have to be something",
+    "start": 258.26,
+    "duration": 0.93
+  },
+  {
+    "text": "of astronomical proportions. Velikovsky",
+    "start": 259.19,
+    "duration": 3.6
+  },
+  {
+    "text": "already proposed other planets sweeping",
+    "start": 262.79,
+    "duration": 2.22
+  },
+  {
+    "text": "by and causing somewhat similar",
+    "start": 265.01,
+    "duration": 1.77
+  },
+  {
+    "text": "commotions. Let's take a clue instead",
+    "start": 266.78,
+    "duration": 2.88
+  },
+  {
+    "text": "from the Electric Universe: instead of",
+    "start": 269.66,
+    "duration": 2.7
+  },
+  {
+    "text": "moving the Americas, we can leave them be.",
+    "start": 272.36,
+    "duration": 2.64
+  },
+  {
+    "text": "A “thunderbolt”- an interplanetary",
+    "start": 275.0,
+    "duration": 2.73
+  },
+  {
+    "text": "electrical discharge just a bit more",
+    "start": 277.73,
+    "duration": 2.64
+  },
+  {
+    "text": "energetic than that alleged to have",
+    "start": 280.37,
+    "duration": 1.77
+  },
+  {
+    "text": "machined Valles Marineris out of Mars'",
+    "start": 282.14,
+    "duration": 2.58
+  },
+  {
+    "text": "surface arcs along the Earth from pole",
+    "start": 284.72,
+    "duration": 2.55
+  },
+  {
+    "text": "to pole. It blasts out and lifts large",
+    "start": 287.27,
+    "duration": 3.24
+  },
+  {
+    "text": "chunks of lithosphere along each side of",
+    "start": 290.51,
+    "duration": 2.4
+  },
+  {
+    "text": "the more sinuous central channel. It",
+    "start": 292.91,
+    "duration": 2.49
+  },
+  {
+    "text": "melts the bottom and leaves stripes of",
+    "start": 295.4,
+    "duration": 2.07
+  },
+  {
+    "text": "reversed magnetism",
+    "start": 297.47,
+    "duration": 1.23
+  },
+  {
+    "text": "every time the oscillations in the",
+    "start": 298.7,
+    "duration": 1.8
+  },
+  {
+    "text": "discharge channel reverse polarity. The",
+    "start": 300.5,
+    "duration": 3.3
+  },
+  {
+    "text": "pinching of the discharge channel",
+    "start": 303.8,
+    "duration": 1.62
+  },
+  {
+    "text": "confines the excavation to a parallel-",
+    "start": 305.42,
+    "duration": 2.28
+  },
+  {
+    "text": "sided gouge in the Earth that afterward",
+    "start": 307.7,
+    "duration": 2.43
+  },
+  {
+    "text": "fills with water. A few thousand years",
+    "start": 310.13,
+    "duration": 2.94
+  },
+  {
+    "text": "later, a geologist comes along with a",
+    "start": 313.07,
+    "duration": 2.16
+  },
+  {
+    "text": "strip of geologic record.... If modern",
+    "start": 315.23,
+    "duration": 3.3
+  },
+  {
+    "text": "theories of astronomy and geology are",
+    "start": 318.53,
+    "duration": 2.19
+  },
+  {
+    "text": "vulnerable to chromatographic suspicion,",
+    "start": 320.72,
+    "duration": 2.19
+  },
+  {
+    "text": "can biology be far behind?",
+    "start": 322.91,
+    "duration": 2.9
+  },
+  {
+    "text": "Speciation and extinction color large",
+    "start": 325.81,
+    "duration": 2.74
+  },
+  {
+    "text": "areas on the paper of evolution. Natural",
+    "start": 328.55,
+    "duration": 3.54
+  },
+  {
+    "text": "selection works slowly but surely to",
+    "start": 332.09,
+    "duration": 2.1
+  },
+  {
+    "text": "bleed colorful moments into pastel",
+    "start": 334.19,
+    "duration": 2.19
+  },
+  {
+    "text": "millennia. A bit of color has been",
+    "start": 336.38,
+    "duration": 2.19
+  },
+  {
+    "text": "restored to moments of extinction with",
+    "start": 338.57,
+    "duration": 1.98
+  },
+  {
+    "text": "proposals of impacts from asteroids and",
+    "start": 340.55,
+    "duration": 2.4
+  },
+  {
+    "text": "comets. it's fairly easy to kill off",
+    "start": 342.95,
+    "duration": 3.3
+  },
+  {
+    "text": "large populations suddenly, but building",
+    "start": 346.25,
+    "duration": 2.64
+  },
+  {
+    "text": "up those populations surely takes time.",
+    "start": 348.89,
+    "duration": 2.77
+  },
+  {
+    "text": "the J-curves in S-curves of population",
+    "start": 351.66,
+    "duration": 3.44
+  },
+  {
+    "text": "growth have long initial tails. Gestation",
+    "start": 355.1,
+    "duration": 3.66
+  },
+  {
+    "text": "times and birth rates (for mammals-",
+    "start": 358.76,
+    "duration": 1.98
+  },
+  {
+    "text": "reproduction parameters in general) keep",
+    "start": 360.74,
+    "duration": 2.16
+  },
+  {
+    "text": "initial increases low. That is, if you",
+    "start": 362.9,
+    "duration": 2.94
+  },
+  {
+    "text": "start off with only a few individuals. If",
+    "start": 365.84,
+    "duration": 2.81
+  },
+  {
+    "text": "it all happens at once - replacement of",
+    "start": 368.65,
+    "duration": 3.13
+  },
+  {
+    "text": "one population with another - the new",
+    "start": 371.78,
+    "duration": 2.01
+  },
+  {
+    "text": "population must be created ex nihilo.",
+    "start": 373.79,
+    "duration": 2.55
+  },
+  {
+    "text": "But what if the parents were another",
+    "start": 376.34,
+    "duration": 2.07
+  },
+  {
+    "text": "species? There have been several",
+    "start": 378.41,
+    "duration": 2.37
+  },
+  {
+    "text": "proposals for mass mutation. But their",
+    "start": 380.78,
+    "duration": 2.58
+  },
+  {
+    "text": "requirement for some direct linkage",
+    "start": 383.36,
+    "duration": 1.98
+  },
+  {
+    "text": "between genetic and environmental",
+    "start": 385.34,
+    "duration": 1.65
+  },
+  {
+    "text": "parameters is too Lamarckian for comfort.",
+    "start": 386.99,
+    "duration": 2.61
+  },
+  {
+    "text": "As long as we have chromato-",
+    "start": 389.6,
+    "duration": 1.84
+  },
+  {
+    "text": "graphic evolution, we don't need Lamarck.",
+    "start": 391.44,
+    "duration": 2.52
+  },
+  {
+    "text": "But if natural selection is augmented",
+    "start": 393.96,
+    "duration": 2.94
+  },
+  {
+    "text": "with forces of extinction that can be",
+    "start": 396.9,
+    "duration": 1.84
+  },
+  {
+    "text": "confined to extraordinary events of",
+    "start": 398.74,
+    "duration": 1.88
+  },
+  {
+    "text": "short duration, why not also augment the",
+    "start": 400.62,
+    "duration": 2.65
+  },
+  {
+    "text": "forces of speciation? The direct linkage",
+    "start": 403.27,
+    "duration": 3.14
+  },
+  {
+    "text": "between genes and environment would",
+    "start": 406.41,
+    "duration": 1.74
+  },
+  {
+    "text": "become a kind of “driven” genetics",
+    "start": 408.15,
+    "duration": 2.28
+  },
+  {
+    "text": "in which active groups of genes are",
+    "start": 410.43,
+    "duration": 2.04
+  },
+  {
+    "text": "”switched on and off” by extraordinary",
+    "start": 412.47,
+    "duration": 2.15
+  },
+  {
+    "text": "environmental changes. This leads to",
+    "start": 414.62,
+    "duration": 2.9
+  },
+  {
+    "text": "something like metamorphic evolution: if",
+    "start": 417.52,
+    "duration": 2.53
+  },
+  {
+    "text": "butterflies do it today, why not other",
+    "start": 420.05,
+    "duration": 2.63
+  },
+  {
+    "text": "creatures under other conditions? 90% of",
+    "start": 422.68,
+    "duration": 4.07
+  },
+  {
+    "text": "our genes don't seem to do anything. What",
+    "start": 426.75,
+    "duration": 3.27
+  },
+  {
+    "text": "are they waiting for? A full moon? Let's",
+    "start": 430.02,
+    "duration": 3.34
+  },
+  {
+    "text": "perform one more thought experiment with",
+    "start": 433.36,
+    "duration": 1.95
+  },
+  {
+    "text": "this conceptual chromatography. Modern",
+    "start": 435.31,
+    "duration": 2.69
+  },
+  {
+    "text": "linguistics postulates a development of",
+    "start": 438.0,
+    "duration": 2.08
+  },
+  {
+    "text": "language gradually over thousands of",
+    "start": 440.08,
+    "duration": 2.25
+  },
+  {
+    "text": "years. A band of “oral color” spreads",
+    "start": 442.33,
+    "duration": 3.66
+  },
+  {
+    "text": "out before the band of “written color.” But",
+    "start": 445.99,
+    "duration": 2.84
+  },
+  {
+    "text": "the earliest expressions contained in",
+    "start": 448.83,
+    "duration": 1.92
+  },
+  {
+    "text": "this linguistic “spectrum” testify that",
+    "start": 450.75,
+    "duration": 2.37
+  },
+  {
+    "text": "both utterance and symbol were given all",
+    "start": 453.12,
+    "duration": 2.34
+  },
+  {
+    "text": "at once by the gods. In the beginning was",
+    "start": 455.46,
+    "duration": 3.22
+  },
+  {
+    "text": "the word, and it was both an audible and",
+    "start": 458.68,
+    "duration": 2.43
+  },
+  {
+    "text": "a visual emanation from a planetary",
+    "start": 461.11,
+    "duration": 2.19
+  },
+  {
+    "text": "deity. Perhaps a prior language was",
+    "start": 463.3,
+    "duration": 2.82
+  },
+  {
+    "text": "obliterated and forgotten in the wake of",
+    "start": 466.12,
+    "duration": 2.25
+  },
+  {
+    "text": "the terrors and traumas accompanying the",
+    "start": 468.37,
+    "duration": 2.37
+  },
+  {
+    "text": "”sacred word.” But linguistics is not",
+    "start": 470.74,
+    "duration": 3.0
+  },
+  {
+    "text": "concerned with the forgotten; it's",
+    "start": 473.74,
+    "duration": 1.97
+  },
+  {
+    "text": "concerned with the remembered. And",
+    "start": 475.71,
+    "duration": 1.6
+  },
+  {
+    "text": "languages remember “sacred sounds” that",
+    "start": 477.31,
+    "duration": 2.78
+  },
+  {
+    "text": "are tied to “sacred symbols” by way of",
+    "start": 480.09,
+    "duration": 2.22
+  },
+  {
+    "text": "”sacred stories” which memorialize an all-",
+    "start": 482.31,
+    "duration": 3.15
+  },
+  {
+    "text": "at-once creation witnessed by and",
+    "start": 485.46,
+    "duration": 2.43
+  },
+  {
+    "text": "imposed upon humankind. Linguistic",
+    "start": 487.89,
+    "duration": 3.42
+  },
+  {
+    "text": "chromatography dissociates the sound",
+    "start": 491.31,
+    "duration": 2.1
+  },
+  {
+    "text": "from the symbol and misses the story.\n196\n00:08:18,290 --> 00:00:00,000\n[Music]",
+    "start": 493.41,
+    "duration": 4.31
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe,",
+    "start": 7.141,
+    "duration": 2.88
+  },
+  {
+    "text": "brought to you by The\nThunderbolts Project™",
+    "start": 10.046,
+    "duration": 2.377
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 12.448,
+    "duration": 2.696
+  },
+  {
+    "text": "It has been one of the greatest\nsurprises of the Space Age -",
+    "start": 18.668,
+    "duration": 3.39
+  },
+  {
+    "text": "powerful magnetic fields\npervade the cosmos.",
+    "start": 22.083,
+    "duration": 3.986
+  },
+  {
+    "text": "Mainstream astronomy and astrophysicists do\nindeed acknowledge pervasive cosmic magnetism,",
+    "start": 26.094,
+    "duration": 5.865
+  },
+  {
+    "text": "but they did not predict it, and the\nrealization has come begrudgingly.",
+    "start": 31.984,
+    "duration": 5.033
+  },
+  {
+    "text": "Some perspective into these ideas can be\ngleaned from an early online NASA feature",
+    "start": 37.042,
+    "duration": 5.017
+  },
+  {
+    "text": "from the 1990s, which\nasked the question,",
+    "start": 42.084,
+    "duration": 2.722
+  },
+  {
+    "text": "“Do magnetic fields exist\nthroughout space?”",
+    "start": 44.831,
+    "duration": 3.228
+  },
+  {
+    "text": "It states, “On the\ncosmological scale,",
+    "start": 48.084,
+    "duration": 3.245
+  },
+  {
+    "text": "there is no data to suggest that\nmagnetic fields are present.",
+    "start": 51.354,
+    "duration": 4.205
+  },
+  {
+    "text": "They certainly are not important\nin the dynamics of the universe",
+    "start": 55.584,
+    "duration": 3.82
+  },
+  {
+    "text": "for any reasonable range\nof field strengths",
+    "start": 59.429,
+    "duration": 2.351
+  },
+  {
+    "text": "consistent with present\nobservational constraints.”",
+    "start": 61.805,
+    "duration": 3.668
+  },
+  {
+    "text": "Of course, like countless other\nconsensus ideas in cosmology,",
+    "start": 65.498,
+    "duration": 4.162
+  },
+  {
+    "text": "discovery has shown no regard for\nthese commonly held beliefs.",
+    "start": 69.685,
+    "duration": 4.16
+  },
+  {
+    "text": "The now unavoidable problem of\ncosmic magnetism in astronomy",
+    "start": 73.87,
+    "duration": 3.652
+  },
+  {
+    "text": "is acknowledged in a 2011 Universe\nToday piece, which states:",
+    "start": 77.547,
+    "duration": 4.373
+  },
+  {
+    "text": "“The mention of cosmic-scale magnetic\nfields is still likely to be met",
+    "start": 81.945,
+    "duration": 4.289
+  },
+  {
+    "text": "with an uncomfortable silence\nin some astronomical circles",
+    "start": 86.259,
+    "duration": 3.471
+  },
+  {
+    "text": "– and after a bit of foot-shuffling\nand throat-clearing,",
+    "start": 89.755,
+    "duration": 2.79
+  },
+  {
+    "text": "the discussion will be\nmoved on to safer topics.",
+    "start": 92.57,
+    "duration": 3.03
+  },
+  {
+    "text": "But look, they’re out there.",
+    "start": 95.625,
+    "duration": 1.852
+  },
+  {
+    "text": "They probably do play a role in galaxy\nevolution, if not galaxy formation",
+    "start": 97.502,
+    "duration": 5.08
+  },
+  {
+    "text": "– and are certainly a feature of the interstellar\nmedium and the intergalactic medium.”",
+    "start": 102.607,
+    "duration": 4.869
+  },
+  {
+    "text": "The reason magnetic fields\nin space are so problematic",
+    "start": 107.501,
+    "duration": 3.631
+  },
+  {
+    "text": "for standard, gravity-only\ncosmology is self-evident",
+    "start": 111.157,
+    "duration": 3.958
+  },
+  {
+    "text": "– possibly apart\nfrom bar magnets,",
+    "start": 115.14,
+    "duration": 2.397
+  },
+  {
+    "text": "only electric currents\nproduce magnetic fields.",
+    "start": 117.562,
+    "duration": 3.466
+  },
+  {
+    "text": "And for many decades,",
+    "start": 121.053,
+    "duration": 1.545
+  },
+  {
+    "text": "plasma cosmology had proposed that electric\ncurrents over vast cosmic distances",
+    "start": 122.623,
+    "duration": 5.119
+  },
+  {
+    "text": "play a significant role in the formation\nand evolution of stars and galaxies.",
+    "start": 127.767,
+    "duration": 4.627
+  },
+  {
+    "text": "Plasma cosmology predicted that\nstars would be found to form",
+    "start": 132.744,
+    "duration": 3.468
+  },
+  {
+    "text": "along vast networks\nof filaments,",
+    "start": 136.237,
+    "duration": 1.991
+  },
+  {
+    "text": "like pearls on a string, an outrageous\nprediction that discovery confirmed.",
+    "start": 138.253,
+    "duration": 5.225
+  },
+  {
+    "text": "The plasma scientist Dr. Anthony\nPerratt of Los Alamos laboratories",
+    "start": 143.503,
+    "duration": 4.556
+  },
+  {
+    "text": "demonstrated experimentally\nthat galactic structures",
+    "start": 148.084,
+    "duration": 2.926
+  },
+  {
+    "text": "can evolve under the influence\nof electric currents.",
+    "start": 151.035,
+    "duration": 3.173
+  },
+  {
+    "text": "Through what is known\nas the pinch effect,",
+    "start": 154.644,
+    "duration": 2.286
+  },
+  {
+    "text": "parallel currents converge to produce structures\nidentical in form to spiral galaxies.",
+    "start": 156.955,
+    "duration": 5.864
+  },
+  {
+    "text": "And well over a century ago, that Norwegian\nexperimentalist Kristian Birkeland",
+    "start": 162.844,
+    "duration": 4.712
+  },
+  {
+    "text": "predicted that electric currents from the\nSun were the cause of our planet’s auroras,",
+    "start": 167.581,
+    "duration": 4.773
+  },
+  {
+    "text": "a claim that astronomers\nalmost universally rejected",
+    "start": 172.379,
+    "duration": 3.479
+  },
+  {
+    "text": "until it was finally\nproved in the 1970’s.",
+    "start": 175.883,
+    "duration": 3.175
+  },
+  {
+    "text": "In fact, with no official pronouncement,\nwithin some circles in the space sciences,",
+    "start": 179.083,
+    "duration": 5.446
+  },
+  {
+    "text": "the recognition and study of electric currents\nin space appears to be slowly growing.",
+    "start": 184.554,
+    "duration": 5.496
+  },
+  {
+    "text": "Consider the recent article,",
+    "start": 190.075,
+    "duration": 1.887
+  },
+  {
+    "text": "published by the American Geophysical\nUnion’s Earth and Space Science News,",
+    "start": 191.987,
+    "duration": 4.497
+  },
+  {
+    "text": "entitled “Electric Currents\nin Outer Space Run the Show”,",
+    "start": 196.509,
+    "duration": 3.76
+  },
+  {
+    "text": "which is a summary of the new book,\nElectric Currents in Geospace and Beyond.",
+    "start": 200.294,
+    "duration": 4.729
+  },
+  {
+    "text": "The article states bluntly,",
+    "start": 205.348,
+    "duration": 1.977
+  },
+  {
+    "text": "“It is now understood that outer space\nis fundamentally electrical in nature,”",
+    "start": 207.35,
+    "duration": 5.418
+  },
+  {
+    "text": "a type of statement that critics\nof the Electric Universe",
+    "start": 212.793,
+    "duration": 3.135
+  },
+  {
+    "text": "have long decried as preposterous\nand pseudoscientific.",
+    "start": 215.953,
+    "duration": 4.182
+  },
+  {
+    "text": "On the extremely challenging task of\nobserving and measuring electric currents,",
+    "start": 220.16,
+    "duration": 4.878
+  },
+  {
+    "text": "the authors state,",
+    "start": 225.063,
+    "duration": 1.164
+  },
+  {
+    "text": "“Since electric currents are comprised\nof moving charged particles,",
+    "start": 226.252,
+    "duration": 4.092
+  },
+  {
+    "text": "such as ions and electrons, the\nmost direct way to measure currents",
+    "start": 230.369,
+    "duration": 3.714
+  },
+  {
+    "text": "is by probing and counting\nthe individual particles.",
+    "start": 234.108,
+    "duration": 3.166
+  },
+  {
+    "text": "Highly tuned instruments that fly on\nboard satellites do exactly that.",
+    "start": 237.299,
+    "duration": 4.476
+  },
+  {
+    "text": "While particle counting is quite\nchallenging, as one might expect,",
+    "start": 241.8,
+    "duration": 4.129
+  },
+  {
+    "text": "one can also make\nuse of the fact",
+    "start": 245.954,
+    "duration": 1.848
+  },
+  {
+    "text": "that electric currents generate\na magnetic field around them,",
+    "start": 247.827,
+    "duration": 3.435
+  },
+  {
+    "text": "which in turn can be measured, more easily,\nby instruments, called magnetometers.",
+    "start": 251.287,
+    "duration": 5.087
+  },
+  {
+    "text": "From these magnetic\nfields one can then infer",
+    "start": 256.399,
+    "duration": 3.476
+  },
+  {
+    "text": "using Maxwell’s equations\nthe underlying currents.”",
+    "start": 259.9,
+    "duration": 3.609
+  },
+  {
+    "text": "But the inference of underlying electric currents\nas the cause of magnetic fields in space",
+    "start": 263.852,
+    "duration": 5.244
+  },
+  {
+    "text": "remains a shockingly rare practice\nin the astronomical literature.",
+    "start": 269.121,
+    "duration": 4.158
+  },
+  {
+    "text": "Thus, the processes astronomers\nand astrophysicists have invented",
+    "start": 273.304,
+    "duration": 4.179
+  },
+  {
+    "text": "to try to explain cosmic magnetic fields\nhave only grown increasingly weird,",
+    "start": 277.508,
+    "duration": 4.332
+  },
+  {
+    "text": "encountering greater and greater problems in\nthe face of ever finer technological data.",
+    "start": 281.865,
+    "duration": 5.542
+  },
+  {
+    "text": "Consider the discovery\nreported last year",
+    "start": 287.432,
+    "duration": 2.699
+  },
+  {
+    "text": "of galactic magnetic fields\nwith “astonishing order.”",
+    "start": 290.156,
+    "duration": 4.11
+  },
+  {
+    "text": "As reported on Phys.org,",
+    "start": 294.291,
+    "duration": 2.158
+  },
+  {
+    "text": "“Galactic magnetic fields are formed\nthrough numerous stellar explosions,",
+    "start": 296.474,
+    "duration": 4.434
+  },
+  {
+    "text": "the effects of which last for\nhundreds of millions of years.",
+    "start": 300.933,
+    "duration": 3.671
+  },
+  {
+    "text": "The energy bursts of all supernovas put\ntogether produce a galaxy's magnetic fields.",
+    "start": 304.629,
+    "duration": 5.452
+  },
+  {
+    "text": "Due to the fact that stellar\nexplosions are chaotic processes,",
+    "start": 310.106,
+    "duration": 4.247
+  },
+  {
+    "text": "scientists had not expected them\nto generate a magnetic field",
+    "start": 314.378,
+    "duration": 3.61
+  },
+  {
+    "text": "with an orderly structure\non a large scale.",
+    "start": 318.013,
+    "duration": 2.711
+  },
+  {
+    "text": "But this is exactly what they have now\nproved to be the case in several galaxies",
+    "start": 320.749,
+    "duration": 4.595
+  },
+  {
+    "text": "– even though the orderly structure did\nnot manifest in every single object.",
+    "start": 325.369,
+    "duration": 4.387
+  },
+  {
+    "text": "The underlying mechanisms have\nnot yet been fully understood.”",
+    "start": 329.781,
+    "duration": 4.514
+  },
+  {
+    "text": "However, plasma cosmologists\nhave hypothesized for decades",
+    "start": 334.32,
+    "duration": 3.869
+  },
+  {
+    "text": "that the “underlying mechanism” is\ncosmic scale electric currents.",
+    "start": 338.214,
+    "duration": 4.816
+  },
+  {
+    "text": "More recently, in 2018, retired\nprofessor Dr. Donald Scott",
+    "start": 343.055,
+    "duration": 4.811
+  },
+  {
+    "text": "published his scientific model of\ngalactic scale Birkeland currents",
+    "start": 347.891,
+    "duration": 3.864
+  },
+  {
+    "text": "as the cause of so-called anomalous\nstellar rotation profiles in galaxies",
+    "start": 351.78,
+    "duration": 4.587
+  },
+  {
+    "text": "— an anomaly that astronomers to this\nday believe can only be resolved",
+    "start": 356.392,
+    "duration": 3.809
+  },
+  {
+    "text": "by the influence of\ninvisible dark matter.",
+    "start": 360.226,
+    "duration": 2.75
+  },
+  {
+    "text": "However, as seen in this graph, the predicted\nstellar velocities based on Dr. Scott’s model",
+    "start": 363.001,
+    "duration": 5.322
+  },
+  {
+    "text": "and the actual stellar velocities\nmeasured over nearly a century,",
+    "start": 368.348,
+    "duration": 3.667
+  },
+  {
+    "text": "compare remarkably well.",
+    "start": 372.04,
+    "duration": 2.048
+  },
+  {
+    "text": "It is then not a\ncoincidence that galaxies,",
+    "start": 374.406,
+    "duration": 3.037
+  },
+  {
+    "text": "like stars, form along vast\nnetworks of filaments,",
+    "start": 377.468,
+    "duration": 3.282
+  },
+  {
+    "text": "the form taken by electric\ncurrents flowing through plasma",
+    "start": 380.775,
+    "duration": 3.578
+  },
+  {
+    "text": "which connect the bodies\nacross cosmic distances.",
+    "start": 384.378,
+    "duration": 3.176
+  },
+  {
+    "text": "If electromagnetism\nrather than gravity",
+    "start": 387.862,
+    "duration": 2.605
+  },
+  {
+    "text": "is the organizational force\ncreating structures in space,",
+    "start": 390.492,
+    "duration": 3.759
+  },
+  {
+    "text": "then both the imagined\nneed for dark matter",
+    "start": 394.276,
+    "duration": 2.648
+  },
+  {
+    "text": "and the intractable problem of cosmic\nmagnetic fields can finally be resolved.",
+    "start": 396.949,
+    "duration": 5.467
+  },
+  {
+    "text": "In our own celestial neighborhood,\nin the solar system,",
+    "start": 402.796,
+    "duration": 3.304
+  },
+  {
+    "text": "space scientists have had the\nopportunity to more directly test",
+    "start": 406.125,
+    "duration": 3.59
+  },
+  {
+    "text": " the long-held models of\nplanetary magnetic fields.",
+    "start": 409.74,
+    "duration": 3.275
+  },
+  {
+    "text": "Let us consider NASA’s recent\nJuno and Cassini missions",
+    "start": 413.04,
+    "duration": 3.248
+  },
+  {
+    "text": "to the gas giant Jupiter\nand Saturn, respectively.",
+    "start": 416.313,
+    "duration": 3.987
+  },
+  {
+    "text": "In both instances, the scientific\ndata has shattered the belief",
+    "start": 420.325,
+    "duration": 4.382
+  },
+  {
+    "text": "that the source of the gas giants’\nrespective magnetic fields",
+    "start": 424.732,
+    "duration": 3.455
+  },
+  {
+    "text": "is internal dynamos deep\nwithin the planets.",
+    "start": 428.212,
+    "duration": 3.365
+  },
+  {
+    "text": "As Juno principal investigator Scott\nBolton stated, of the findings at Jupiter",
+    "start": 431.602,
+    "duration": 4.833
+  },
+  {
+    "text": "“I didn’t expect all the\ntheories to be wrong,",
+    "start": 436.46,
+    "duration": 2.606
+  },
+  {
+    "text": "but there’s motion going on in the\nplanet we did not anticipate.”",
+    "start": 439.091,
+    "duration": 3.909
+  },
+  {
+    "text": "In a 2017 report, New Scientist.com\noutlined the conundrum as follows:",
+    "start": 443.025,
+    "duration": 5.878
+  },
+  {
+    "text": "“Another shock is that\nJupiter’s huge magnetic field",
+    "start": 448.928,
+    "duration": 3.086
+  },
+  {
+    "text": "is even stronger and much more\nirregular than expected.”",
+    "start": 452.039,
+    "duration": 3.774
+  },
+  {
+    "text": "However, rather than questioning\nthe theoretical foundations",
+    "start": 455.838,
+    "duration": 3.647
+  },
+  {
+    "text": "that led to the\npredictive failures,",
+    "start": 459.51,
+    "duration": 1.85
+  },
+  {
+    "text": "the scientists propose the ad hoc theory\nthat Jupiter’s hypothetical internal dynamo",
+    "start": 461.385,
+    "duration": 4.8
+  },
+  {
+    "text": "must simply be much closer to the\nplanet’s surface than was believed.",
+    "start": 466.21,
+    "duration": 4.267
+  },
+  {
+    "text": "The New Scientist report states:",
+    "start": 470.502,
+    "duration": 2.142
+  },
+  {
+    "text": "“The irregularity of the\nfield so far is a sign",
+    "start": 472.669,
+    "duration": 3.014
+  },
+  {
+    "text": "that the dynamo driving it may originate\nhigher up in Jupiter’s interior,",
+    "start": 475.708,
+    "duration": 4.111
+  },
+  {
+    "text": "perhaps from a layer of\nmetallic hydrogen….”",
+    "start": 479.844,
+    "duration": 2.544
+  },
+  {
+    "text": "…“the dynamo driving the field is close\nto the surface over the entire planet,",
+    "start": 482.413,
+    "duration": 4.707
+  },
+  {
+    "text": "not buried deep within\nit like Earth’s core.”",
+    "start": 487.145,
+    "duration": 2.98
+  },
+  {
+    "text": "But the most important clue to the actual\nsource of the planet’s magnetic field",
+    "start": 490.15,
+    "duration": 4.953
+  },
+  {
+    "text": "is in the incredible electrical\npotentials at Jupiter",
+    "start": 495.128,
+    "duration": 3.138
+  },
+  {
+    "text": "that have now been confirmed\nby the Juno data.",
+    "start": 498.291,
+    "duration": 2.918
+  },
+  {
+    "text": "As described in an Earth and\nSpace Science news report",
+    "start": 501.234,
+    "duration": 3.045
+  },
+  {
+    "text": "on Jupiter’s incredibly\npowerful X-ray auroras:",
+    "start": 504.304,
+    "duration": 3.114
+  },
+  {
+    "text": "“The data revealed particle signatures\nof parallel electrical fields",
+    "start": 507.443,
+    "duration": 3.789
+  },
+  {
+    "text": "over the poles of Jupiter that forced\nelectrons near the poles upward,",
+    "start": 511.257,
+    "duration": 4.032
+  },
+  {
+    "text": "away from the planet, while protons and other\nions moved downward into the atmosphere.",
+    "start": 515.314,
+    "duration": 5.165
+  },
+  {
+    "text": "This massive electric potential\n– upward of a million electron volts –",
+    "start": 520.504,
+    "duration": 4.707
+  },
+  {
+    "text": "provides a possible explanation of where\nthe X-ray auroras get their energy….”",
+    "start": 525.236,
+    "duration": 4.812
+  },
+  {
+    "text": "In the Electric Universe, the\nassumption that all celestial bodies",
+    "start": 530.073,
+    "duration": 4.298
+  },
+  {
+    "text": "must carry no net charge\ncannot be correct.",
+    "start": 534.396,
+    "duration": 3.119
+  },
+  {
+    "text": "– a fact that scientific\ndiscovery routinely affirms.",
+    "start": 537.54,
+    "duration": 3.834
+  },
+  {
+    "text": "Jupiter is an electrically\ncharged rotating body,",
+    "start": 541.399,
+    "duration": 3.398
+  },
+  {
+    "text": "and any such body can produce\nits own magnetic field,",
+    "start": 544.822,
+    "duration": 3.531
+  },
+  {
+    "text": "with no need for\ninternal dynamos.",
+    "start": 548.378,
+    "duration": 2.539
+  },
+  {
+    "text": "Electric currents flowing from\nthe Sun impinge on its poles,",
+    "start": 550.942,
+    "duration": 4.101
+  },
+  {
+    "text": "modifying its magnetic field,\ninducing its stupendous X-ray auroras",
+    "start": 555.068,
+    "duration": 5.14
+  },
+  {
+    "text": "and powerfully influencing its\nsuper-fast winds and cyclonic storms.",
+    "start": 560.233,
+    "duration": 4.765
+  },
+  {
+    "text": "As we’ve outlined\npreviously many times,",
+    "start": 565.023,
+    "duration": 2.548
+  },
+  {
+    "text": "the aforementioned Dr. Scott recently\npublished his mathematical modeling",
+    "start": 567.596,
+    "duration": 4.117
+  },
+  {
+    "text": "of the structure of a\nBirkeland current,",
+    "start": 571.738,
+    "duration": 2.047
+  },
+  {
+    "text": "which is identified visually as\ncounterrotating concentric cylinders.",
+    "start": 573.81,
+    "duration": 4.781
+  },
+  {
+    "text": "Critically, this counterrotation\nis clearly seen",
+    "start": 578.616,
+    "duration": 3.245
+  },
+  {
+    "text": "at the poles of the gas\ngiants Jupiter and Saturn.",
+    "start": 581.886,
+    "duration": 3.605
+  },
+  {
+    "text": "In fact, at Saturn, the crisis\nfor the standard dynamo model",
+    "start": 585.516,
+    "duration": 3.943
+  },
+  {
+    "text": "for the planet’s magnetic\nfield is even more brazen.",
+    "start": 589.484,
+    "duration": 3.403
+  },
+  {
+    "text": "In 2018, Cassini scientists\nwere astonished to discover",
+    "start": 592.912,
+    "duration": 4.055
+  },
+  {
+    "text": "that Saturn’s magnetic field\nappears to have virtually no tilt.",
+    "start": 596.992,
+    "duration": 3.99
+  },
+  {
+    "text": "The crisis is explained as\nfollows in a phys.org report:",
+    "start": 601.007,
+    "duration": 3.825
+  },
+  {
+    "text": "“It was thought that magnetic\nfields around planets can only form",
+    "start": 604.857,
+    "duration": 3.364
+  },
+  {
+    "text": "when there is a discernible tilt between\nthe rotation axis of the planet",
+    "start": 608.246,
+    "duration": 3.792
+  },
+  {
+    "text": " and the magnetic field axis.”",
+    "start": 612.063,
+    "duration": 2.165
+  },
+  {
+    "text": "What the investigators actually found is\nthat the tilt of Saturn’s magnetic field",
+    "start": 614.253,
+    "duration": 4.24
+  },
+  {
+    "text": "is “smaller than a\nhundredth of a degree.”",
+    "start": 618.518,
+    "duration": 3.039
+  },
+  {
+    "text": "As principal investigator Professor\nMichele Dougherty lamented,",
+    "start": 621.582,
+    "duration": 3.477
+  },
+  {
+    "text": "“…it looks increasingly likely\nwe will have to rethink the ways",
+    "start": 625.084,
+    "duration": 3.388
+  },
+  {
+    "text": "different kinds of planets\ncan form magnetic fields.",
+    "start": 628.497,
+    "duration": 3.367
+  },
+  {
+    "text": "As we’ve also noted\npreviously, in 2016,",
+    "start": 631.889,
+    "duration": 3.65
+  },
+  {
+    "text": "planetary scientists were amazed to discover\nthat so-called magnetic ropes from the Sun",
+    "start": 635.564,
+    "duration": 4.919
+  },
+  {
+    "text": "stretch nearly 900\nmillion miles to Saturn,",
+    "start": 640.508,
+    "duration": 2.902
+  },
+  {
+    "text": "and interact with the gas giant in much\nthe same as they do with the Earth.",
+    "start": 643.435,
+    "duration": 4.056
+  },
+  {
+    "text": "We again note the aforementioned material\npublished by the American Geophysical Union,",
+    "start": 647.516,
+    "duration": 5.135
+  },
+  {
+    "text": "which states that",
+    "start": 652.676,
+    "duration": 1.288
+  },
+  {
+    "text": "“electric currents generate a\nmagnetic field around them…",
+    "start": 653.989,
+    "duration": 3.42
+  },
+  {
+    "text": "From these magnetic\nfields one can then infer",
+    "start": 657.434,
+    "duration": 2.755
+  },
+  {
+    "text": "using Maxwell’s equations\nthe underlying currents.”",
+    "start": 660.214,
+    "duration": 3.777
+  },
+  {
+    "text": "Make no mistake,\ninstitutionalized science",
+    "start": 664.016,
+    "duration": 2.92
+  },
+  {
+    "text": "does now recognize the\nso-called magnetic universe.",
+    "start": 666.961,
+    "duration": 3.698
+  },
+  {
+    "text": "If and when space scientists begin\nwidely inferring the electric currents",
+    "start": 670.684,
+    "duration": 4.486
+  },
+  {
+    "text": "that pervasive cosmic\nmagnetism requires,",
+    "start": 675.195,
+    "duration": 3.084
+  },
+  {
+    "text": "it can only be inevitable",
+    "start": 678.304,
+    "duration": 1.582
+  },
+  {
+    "text": "they will reach the same conclusion\nas the aforementioned authors:",
+    "start": 679.911,
+    "duration": 3.609
+  },
+  {
+    "text": "That “outer space is fundamentally\nelectrical in nature.”",
+    "start": 683.545,
+    "duration": 4.619
+  }
+]

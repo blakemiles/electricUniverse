@@ -1,0 +1,548 @@
+Welcome to Space News from
+the Electric Universe,
+brought to you by The
+Thunderbolts Project™
+at Thunderbolts.info
+It's one of the great enduring
+mysteries of solar physics --
+why is the Sun's lower corona hundreds
+of times hotter than the Sun's photosphere?
+For many decades, scientists on Earth
+have sought an answer to the puzzle,
+doing so exclusively within the confines
+of the standard model of the Sun.
+Recently, a team of scientists reported
+observational evidence that the mysterious
+rise in temperature could be driven
+by so-called “magnetic plasma pulses."
+As reported by Phys.org,
+an international team of
+scientists, led by the
+University of Sheffield,
+have discovered previously
+undetected observational evidence of
+frequent energetic wave
+pulses the size of the UK,
+transporting energy from the solar
+surface to the higher solar atmosphere.
+Of course, like all scientific
+data, both what the scientists
+are looking for and how they
+interpret what they see,
+is governed by their
+theoretical premises.
+In this episode, we asked Dr. Donald
+Scott for a comprehensive overview
+of the Electric Sun model’s explanation
+for the mystery of coronal heating.
+For many years, the
+mainstream astrophysical
+community has been seeking an
+explanation for the tremendously
+hot temperatures of
+the Sun's lower corona.
+It's a classic problem,
+they've been doing it for
+decades, they've been
+worried about it for decades,
+but that Sun's lower
+corona is more than 300
+times hotter than the
+6,000 Kelvin photosphere,
+which is below it, if you can imagine
+300 x 6,000, it's in the millions of Kelvin.
+And so, it's outrageous that the Sun's
+outer layer should be hotter than its inner
+layer, close to where they
+presume the source of the heat is.
+This search has been punctuated by a 
+series of press releases, especially in Phys.org
+which is the source of all these
+press releases, NASA press releases
+and stories about
+these sorts of things.
+So for example, I'll just go 
+through a bunch of them.
+In December 2007, one of these things
+came out and said what they included
+in their words were, "Powerful magnetic
+Alfvén waves in the electrically charged gas
+near the Sun have always been a leading
+candidate for why this happens.
+Alfvén waves are created by
+convective motions, get this,
+when convective motions and sound
+waves push magnetic fields around."
+I didn't know you could move
+magnetic fields by playing rock music
+and push them around.
+But that's the kind of level of under-
+standing or misunderstanding that these
+things are full of, they
+always refer to magnetic
+reconnection which
+Hannes Alfvén essentially
+demolished as a non-process, but they
+always prefer the magnetic reconnection.
+Also, like in June 2012, there
+was an article 'Space tornadoes
+power the atmosphere of the Sun',
+where they make a
+great emphasis on
+"Applied mathematicians
+from the University of
+Sheffield...say that the
+solar tornadoes carry
+the energy from below the Sun's
+surface up to the lower corona” and
+they are of course in the
+form of magnetic waves.
+These are applied
+mathematicians who never got
+close to an observatory,
+but they're explaining
+how all of this stuff
+works, supposedly.
+In July of 2018, there was 
+one press release that I
+will spend some time talking
+about, if you don't mind.
+The story is this, it says,
+"...coronal heating problem begins
+with a green spectral line observed
+during an 1869 total eclipse.
+Because different elements emit light
+at characteristic wavelengths, scientists
+can use spectrometers to
+analyze light from the Sun
+and identify its composition,"
+that's quite right.
+"But the green line observed
+in 1869 didn't correspond
+to any known elements on Earth.
+So scientists thought perhaps
+they'd discovered a new element
+that didn't exist on Earth
+and they called it coronium."
+Because it was observed in the corona.
+Anyway, that was one of 
+the first fictions that these
+people have invented
+along with black holes and
+neutron stars and...
+Anyway, "Not until 70 years
+later, a Swedish physicist
+discovered that the element
+responsible for the emission is
+of all things, iron,
+superheated to the point that it's
+ionized 13 times, that is to say it is
+so hot that it has released
+13 of its outer electrons,
+leaving it with just about half the
+electrons of a normal atom of iron.
+And therein lies the problem:
+Scientists have calculated that
+such high levels of ionization would
+require coronal temperatures of
+around 2 million Kelvin, actually.
+So anyway, that's where the
+whole problem was discovered.
+But, these press releases continue,
+year after year, and they talk about
+heating of different elements 
+that are heated at different rates,
+they're right at the doorstep,
+it seems to me, of when
+they start talking about
+ionization, of recognizing
+what the source of the whole
+phenomenon is, that it is electrical.
+Those ions are ripped out
+of there by electric fields.
+But anyway, those ions that
+do escape the Sun, are those
+ions form what's called the solar wind.
+All of these press releases in my mind
+tend to use what I
+call ‘purple prose.’
+A perfect example of this is on August
+2018, it says, "For the first time, a
+NASA spacecraft will swoop
+in and touch the Sun."
+’Purple prose’ is text that's so
+extravagant or ornate, or flowery
+as to break the flow
+of a person's text
+and draw excessive attention
+to itself; I am reading
+from the dictionary, that's what
+purple prose is defined as being.
+Well if that isn't the
+purple prose, "It's going to
+swoop in and touch 
+the surface of the Sun."
+The Sun doesn't have any
+surface, first part, but
+anyway, that's the level,
+I'm trying to get across
+to you, that of the PR, of 
+purpleness of the prose,
+based on a really fundamental
+misunderstanding of what is actually
+going on up there.
+The last press release: so let me 
+talk a little bit about my reaction to it.
+It does mention the four
+suites of scientific
+instruments that are on
+the Parker Solar Probe.
+First of all, that Parker Solar Probe is an
+absolutely astounding marvel of engineering.
+To get that probe as close
+to the Sun as they’re
+going to get it (and it has
+actually made one close
+approach already),
+is just marvelous.
+And the instrumentation that's on board
+is apparently exactly what they need.
+Here are some important numbers
+that I get from that release, in fact, they
+emphasize that. The Parker Solar Probe's
+closest approach to the Sun is going
+to be around 4 million miles, that's
+six million four hundred
+thousand kilometers.
+Now, the Sun's radius is about
+695,000 kilometers and therefore
+the Parker Solar Probe's closest
+approach to the Sun is going
+to be 9.25 solar radii.
+That's the closest that the
+probe is going to get to.
+In 2016, I gave a talk, at the EU Conference,
+that extends the Juergens model
+and I mean the motive for
+talking to you this morning
+is that I'd like people to be
+familiar with what Juergens,
+and to what extent I've been
+able to extend his model,
+explain the very things that 
+these folks are looking for, except
+I submit, we've got the real reason
+that these phenomena occur,
+and it isn't going to be
+discovered or harvested by fancy
+mathematical analysis or computer
+simulations, especially when you don't
+understand at the beginning, what is going on.
+So anyway, in that talk,
+if you take a look at
+slide five just for example,
+shows the three major layers
+of the Sun's outer edge, the Sun
+is positively charged and
+it's full of positive ions that are
+ready to escape, and the photosphere,
+that you see here, consists of
+charges, clumped into anode tufts.
+These serve as 
+a barrier to other
+positive charges within the Sun. It's
+like a dam at the end of a reservoir.
+That's really the Juergens
+model of the Sun.
+And this is really the basis for everything
+that the Electric Universe thinks about the Sun.
+Anyway, slide twelve shows the 3 plots
+there, which I've shown many times.
+The top curve is a plot of the
+voltage, with points on the line.
+It starts at the surface of the
+Sun on the left, and goes out
+through the top of one of those
+tufts, those photospheric tufts,
+out toward the corona.
+It's like the cross section
+of a dam, at the end of
+the reservoir, we'll come
+back to that in a minute.
+The middle plot is a plot of the
+electric field, and the electric field
+is simply a force, a force
+directed toward the right on any
+positive ion in that area and while the
+chromosphere, that is from points B to D, while
+in there, the flow is laminar.
+That is to say that's a ski-jump
+that goes down there and any flow,
+whether it's electrons, or
+protons, in an electric field,
+that laminar flow is a 
+dethermalized flow.
+Laminar flow is the opposite 
+of turbulent, it's slick.
+Turbulence is measured, at least 
+in a plasma, by its temperature,
+so when you say a plasma is
+hot, it means the elements in
+that plasma are really in
+random, violent random motion.
+But anyway, the bottom plot there,
+it shows that the ions are moving,
+it's just a plot
+of the velocity.
+They're moving very fast after
+point D and they become
+turbulent, and so that red
+region at the bottom there
+shows high temperature.
+This is the reason for the Sun's hot chromosphere;
+those ions are coming out of there and colliding in the
+lower corona with other neutral
+atoms and other ions that
+are there to start with and
+they go out toward the
+right hand side and after they get
+past that area, there are no collisions.
+So anyway, slide 16, to jump ahead.
+These are the properties
+of the fast solar wind.
+Essentially, what is a fancy
+name for the flow of those ions
+that we’ve just seen coming over the
+tops of those tufts in the photosphere.
+Then it emanates from regions of the Sun's
+surface where there are no sunspots.
+A sunspot is a place where there are no
+photospheric tufts and that's why it looks
+black and when you look at the regular
+surface of the Sun through a telescope,
+hopefully it's a solar telescope
+for otherwise you'll go blind
+instantly, but you can
+see these photospheric
+tufts, so they move around
+and they disappear.
+That solar wind approaches 
+800 km/s, at approximately
+9 solar radii away from
+the Sun, remember that.
+The Parker Probe is going to go in 
+there, get in there, to about 9 solar radii.
+So at that point, this fast solar
+wind is going about 800 km/s.
+So, they should be able to measure
+ a very intense solar wind flow of
+ions, at that closest approach.
+Go to slide 17 and you'll
+see that only a few ions are
+energetic enough to get
+over the top of the dam.
+You can see in purple there, they 
+constitute a, this is important,
+they constitute a low
+density -- high velocity flow.
+That is to say, they're falling from
+a great height, a great voltage,
+which is the same thing, and therefore
+they get very, very fast at the bottom.
+But not too many of them make it 
+over the top of the dam, so it's a low
+density, it's not very much water
+in that flow, not very many ions.
+Slide 18 shows a hydraulic analogy of the
+fast solar wind and it shows what that water
+would look like when 
+coming over that sluice gate.
+Slide 19 talks about
+the slow solar wind.
+Now, that's a different animal.
+The slow solar wind emanates from
+the equatorial region of the Sun,
+mainly from sunspots, and its maximum
+velocity is only about half the fast
+solar wind velocity, but
+its ion density is more
+than 3 times denser than
+the fast solar wind.
+But it's much slower
+than the fast solar wind.
+Now why, what happens?
+Well, in a sunspot, there
+are no photospheric
+tufts, the dam has been
+broken or removed and so
+it's the, water it’s just,
+or in this case the ions, they're
+just free to flow outward.
+And slide 24 shows a low
+velocity -- high density flow.
+The difference between the two water
+levels in that picture is not very much.
+The river is only a few
+feet higher than the level
+of the land onto which
+the water is flowing.
+But, it's a lot of water, therefore
+it's a high density flow.
+The next slide, slide 25, just shows
+the bottom of a sluice and
+both the fast and the slow solar
+winds; where the fast wind comes out
+of the tops of the tufts, and the slow
+solar wind comes out of a sunspot.
+Both of them can create very
+strong turbulence when they collide
+with ions farther out, at the bottom of
+the corona, just like the water here at the
+bottom of the sluice gate.
+It is just colliding with the
+motionless water and perhaps
+some rocks at the bottom
+on this slide and it becomes
+quite turbulent, and as I
+said before, temperature is a
+measure of this turbulence.
+So that's the explanation for this hot, solar
+temperature at the bottom of the corona.
+The next slide, slide 27
+is a statement made by
+a well-known helio-
+astronomer, Dr. Grail.
+He said, "Our results indicate that the
+acceleration of the solar wind is almost
+complete by 10 Solar Radii, much closer
+to the Sun than had been expected.
+This is about where the
+Parker Probe is going to get to
+and the acceleration is almost
+complete at that point.
+He said, this is important,
+"this suggests that the acceleration
+of the solar wind and
+the heating of the solar
+corona occur in essentially
+the same region,
+and thus that the underlying
+mechanisms may be strongly linked.
+And I remember to this day,
+when I presented that I said,
+strongly linked, you got to be kidding,
+they're the same mechanism!
+They are the electric mechanism
+described by Juergens' model
+and it's obvious what's
+going on if you just
+realize what the cause is,
+it's really pretty simple.
+And anyway, therefore,
+given the fact that the
+Parker Probe isn't going to
+approach the Sun closely
+enough to even get into the corona,
+even the outer edges of the corona,
+they only extend out about four,
+or maybe at most five solar radii.
+Now, the corona itself exists
+way out but it becomes
+dark mode plasma,
+you can't see it.
+I think what does happen
+is that the corona
+forms in its outer regions these,
+what are called coronal caps.
+And those coronal
+caps are the basis for
+Birkeland currents that
+go out farther, but
+it's a filamentary kind
+of a flow out farther.
+We'll see, perhaps they can measure, if
+they're out that far, how these Birkeland
+currents do flow farther
+than coronal caps, we'll see.
+Anyway, slide 31 just lays it out, it says that
+Juergens' model explains why the plasma
+corona exists in the first place and it
+explains the inverted temperature profile
+and it explains how the strong electric
+field above the photospheric tufts
+accelarates the ions
+of the fast solar wind.
+Slide 32 is my
+contribution to this.
+I submit that that
+extension of Juergens'
+work, explains that the solar photospheric
+tufts are variable electrical
+barriers for the positive ions
+attempting to escape from the Sun.
+They're also traps for
+incoming electrons, we
+haven't mentioned that this
+morning, but they are.
+Why there are two very different
+solar winds, one fast, one slow?
+Because they come from two
+different places and are formed by
+two different electrical, I emphasize
+that, electrical mechanisms.
+Why the fast wind is faster than the
+slow wind, why it has a lower density?
+That's because of where it comes from.
+Why the electron temperature is the
+same in both winds -- that's simply
+because the electrons don't go through
+the same mix master that the ions do.
+Why do the tufts go away and collapse
+in a short time -- yeah because
+those photospheric tufts fill up
+with electrons and they neutralize
+and they disappear,
+relegated out of existence
+by recombination between
+electrons and ions.
+And last but not least, why
+is the fast solar wind
+why does it come out of the coronal
+holes? Well, a coronal hole is simply
+a place where there are
+no sunspots, so they
+come out of the typical
+photospheric tufts.
+Here's the important point -- none
+of these mechanisms occur at
+locations accessible
+to the Parker Probe.
+None of them.
+All of these mechanisms occur
+way down at the base of the
+corona in or just above the
+photosphere and the chromosphere,
+and so the Parker Probe
+hasn't got a ghost of a
+chance of getting into where
+these mechanisms occur.
+And it will be impossible for
+the probe to prove anything
+about magnetic Alfvén waves,
+I'm sure that they're dying to do that,
+but it will be impossible, because the
+probe can't possibly get in close enough,
+that is to say below the corona and
+observe what's really happening.
+No matter how complicated
+the mathematical analysis or
+advanced computer 
+simulations are, it's not
+going to be of any help
+if you don't understand
+the electrical nature of what's
+going on in the first place.
+Stay tuned for Don Scott's
+and Wal Thornhill's
+analysis of SAFIRE
+Project's latest update.

@@ -1,0 +1,437 @@
+[
+  {
+    "text": "[Music]",
+    "start": 2.3,
+    "duration": 5.37
+  },
+  {
+    "text": "Pulsars are mysterious objects that \nemit electromagnetic radiation in a",
+    "start": 11.36,
+    "duration": 4.15
+  },
+  {
+    "text": "clockwork-like fashion. The period of\nthis pulsing can be extremely short.",
+    "start": 15.51,
+    "duration": 5.84
+  },
+  {
+    "text": "Back in 1967, Jocelyn Bell Burnell, using\na newly commissioned radio telescope,",
+    "start": 21.35,
+    "duration": 5.68
+  },
+  {
+    "text": "discovered a very strange signal.\nIt was initially dismissed as radio",
+    "start": 27.03,
+    "duration": 4.24
+  },
+  {
+    "text": "interference by her supervisor. But\ncontinued observation showed that it",
+    "start": 31.27,
+    "duration": 4.25
+  },
+  {
+    "text": "appeared at the same declination and\nright ascension, which ruled out a",
+    "start": 35.52,
+    "duration": 4.08
+  },
+  {
+    "text": "terrestrial source of interference. They \neventually were able to resolve the signal",
+    "start": 39.6,
+    "duration": 4.72
+  },
+  {
+    "text": "as a series of pulses, evenly \nspaced every 1.32 seconds.",
+    "start": 44.32,
+    "duration": 6.23
+  },
+  {
+    "text": "At the time, no astronomical object of\nthat nature had ever been observed.",
+    "start": 50.55,
+    "duration": 5.05
+  },
+  {
+    "text": "Speculation as to the origin of the\nsignal started to grow, with some even",
+    "start": 55.6,
+    "duration": 4.95
+  },
+  {
+    "text": "suggesting that the signal might be beamed\nto Earth from extraterrestrial intelligence.",
+    "start": 60.55,
+    "duration": 5.6
+  },
+  {
+    "text": "In December of the same year she managed\nto discover a second pulsar and ruled out",
+    "start": 66.15,
+    "duration": 4.09
+  },
+  {
+    "text": "the idea of it being a signal from ETs.\nIn 1968 Thomas Gould suggested that",
+    "start": 70.24,
+    "duration": 6.48
+  },
+  {
+    "text": "pulsars were highly magnetized,\nrapidly rotating neutron stars.",
+    "start": 76.72,
+    "duration": 5.12
+  },
+  {
+    "text": "This model required a high energy plasma\nbeam to be emitted from the poles of a",
+    "start": 81.84,
+    "duration": 4.56
+  },
+  {
+    "text": "spinning neutron star, and accelerated\nalong the star's dipole magnetic field,",
+    "start": 86.4,
+    "duration": 5.52
+  },
+  {
+    "text": "emitting radiation as pulses towards the observer.\nLike the sweeping lights from a lighthouse.",
+    "start": 91.92,
+    "duration": 6.4
+  },
+  {
+    "text": "Since then many more pulsars have been\nobserved, and the shortest pulse ever",
+    "start": 98.32,
+    "duration": 4.32
+  },
+  {
+    "text": "detected was a staggering 1.4 milliseconds.\nWhere does the neutron star come from",
+    "start": 102.64,
+    "duration": 7.2
+  },
+  {
+    "text": "and why does it rotate so fast?\nThe mainstream idea is that these",
+    "start": 109.84,
+    "duration": 4.48
+  },
+  {
+    "text": "objects are the remnants of a supernova\nexplosion. The central region of a star",
+    "start": 114.32,
+    "duration": 4.79
+  },
+  {
+    "text": "collapses, crushing together every\nproton and electron into a neutron.",
+    "start": 119.11,
+    "duration": 4.81
+  },
+  {
+    "text": "The dense core of the star is all that\nis left. The angular momentum of the",
+    "start": 123.92,
+    "duration": 4.55
+  },
+  {
+    "text": "original star is conserved, meaning the much\nsmaller object has to rotate at an incredible speed.",
+    "start": 128.47,
+    "duration": 6.73
+  },
+  {
+    "text": "The only way for those beams to be produced is\nin the presence of a very strong magnetic field.",
+    "start": 135.2,
+    "duration": 6.24
+  },
+  {
+    "text": "But all we have are neutrons.\nThe origin of the critically strong",
+    "start": 141.44,
+    "duration": 4.56
+  },
+  {
+    "text": "magnetic field required for their model is therefore\nunclear. To add to these problems, a new pulsar",
+    "start": 146.0,
+    "duration": 7.68
+  },
+  {
+    "text": "has been discovered, which seems to rewrite a lot of\nthese ideas. The pulsar had one of the slowest pulse",
+    "start": 153.68,
+    "duration": 6.72
+  },
+  {
+    "text": "rates ever seen, at 76 seconds. Most are \nbetween a few seconds down to milliseconds.",
+    "start": 160.4,
+    "duration": 8.0
+  },
+  {
+    "text": "Apart from the unexpected pulse rate,\nit also seems to reside in what scientists",
+    "start": 168.4,
+    "duration": 4.88
+  },
+  {
+    "text": "call the “neutron star graveyard.”\nThis is a region of space where they",
+    "start": 173.28,
+    "duration": 4.56
+  },
+  {
+    "text": "don't expect to detect any radio emissions, \nat all. This is because they theorize that",
+    "start": 177.84,
+    "duration": 5.92
+  },
+  {
+    "text": "neutron stars here, are at the end of\ntheir life cycle and therefore not active.",
+    "start": 183.76,
+    "duration": 6.16
+  },
+  {
+    "text": "It is also unique, as it appears to produce at\nleast seven distinctly different pulse shapes,",
+    "start": 189.92,
+    "duration": 5.76
+  },
+  {
+    "text": "whereas most neutron stars don't exhibit much \nvariety. This makes it hard for them to explain,",
+    "start": 195.68,
+    "duration": 6.8
+  },
+  {
+    "text": "using their model of a rotating beam.\nOne particular type of pulse shows a",
+    "start": 202.48,
+    "duration": 5.28
+  },
+  {
+    "text": "strong quasi-periodic structure. This suggests that\na type of oscillation is driving the radio emissions.",
+    "start": 207.76,
+    "duration": 7.36
+  },
+  {
+    "text": "This is a large clue to understanding\nwhat causes the pulses in the pulsar.",
+    "start": 215.12,
+    "duration": 5.67
+  },
+  {
+    "text": "Anthony Peratt and Kevin Healy have\nproposed a completely different mechanism,",
+    "start": 220.79,
+    "duration": 4.72
+  },
+  {
+    "text": "which would not require a fast spinning\nplasma beam, but instead, utilize the",
+    "start": 225.51,
+    "duration": 5.05
+  },
+  {
+    "text": "known properties of transmission lines.\nThis is similar to the way planetary",
+    "start": 230.56,
+    "duration": 4.8
+  },
+  {
+    "text": "magnetospheres are described. If the \nstar is surrounded by a disk of plasma,",
+    "start": 235.36,
+    "duration": 5.04
+  },
+  {
+    "text": "then it is likely that it is electro-\nmagnetically coupled to the",
+    "start": 240.4,
+    "duration": 3.03
+  },
+  {
+    "text": "magnetosphere via field-aligned currents.\nIn a lossless line with perfect end-conductors,",
+    "start": 243.43,
+    "duration": 6.65
+  },
+  {
+    "text": "the pulses propagate back and\nforth forever. In reality, the kinetic",
+    "start": 250.08,
+    "duration": 5.2
+  },
+  {
+    "text": "energy of the relativistic current\nflowing along the guide’s magnetic field",
+    "start": 255.28,
+    "duration": 4.23
+  },
+  {
+    "text": "is lost in synchrotron radiation. Any \ndisturbance on a transmission line,",
+    "start": 259.51,
+    "duration": 5.05
+  },
+  {
+    "text": "such as an arc discharge or an\ninterruption of steady-state conditions,",
+    "start": 264.56,
+    "duration": 5.19
+  },
+  {
+    "text": "results in initiation of travelling waves,\nwhich propagate towards the ends of the line,",
+    "start": 269.75,
+    "duration": 5.77
+  },
+  {
+    "text": "where they may be reflected and modified,\nattenuated and distorted by any losses",
+    "start": 275.52,
+    "duration": 5.52
+  },
+  {
+    "text": "until they die out. Field-aligned current pulses\npropagate at high latitudes along the dipole",
+    "start": 281.04,
+    "duration": 6.32
+  },
+  {
+    "text": "magnetic field. Two regions of high density\nplasma terminate this magnetospheric",
+    "start": 287.36,
+    "duration": 5.44
+  },
+  {
+    "text": "transmission line: plasma near the \npulsar surface, and plasma at the disk.",
+    "start": 292.8,
+    "duration": 4.88
+  },
+  {
+    "text": "The transmission line may also contain\na double layer. This structure forms a",
+    "start": 297.68,
+    "duration": 4.64
+  },
+  {
+    "text": "toroid and the relativistic current pulses\npropagate within the toroid waveguide.",
+    "start": 302.32,
+    "duration": 5.43
+  },
+  {
+    "text": "The pulsar's magnetospheric transmission\nline can be modeled by two current-",
+    "start": 307.75,
+    "duration": 4.16
+  },
+  {
+    "text": "conducting boundaries that represent the\ninward and outward field-aligned currents.",
+    "start": 311.91,
+    "duration": 5.37
+  },
+  {
+    "text": "The line is terminated by two conductors -\nthe pulsar surface and the disc. A voltage",
+    "start": 317.28,
+    "duration": 5.91
+  },
+  {
+    "text": "pulse is launched from the pulsar surface.\nThis ends up being reflected back, which",
+    "start": 323.19,
+    "duration": 5.77
+  },
+  {
+    "text": "changes its polarity. In both simulations and\nexperiments carried out by Peratt and Healy,",
+    "start": 328.96,
+    "duration": 6.79
+  },
+  {
+    "text": "they saw both single and double pulse profiles.\nWhen they included the effects of plasma",
+    "start": 335.75,
+    "duration": 5.05
+  },
+  {
+    "text": "flowing between the current boundaries,\nsome important modifications were observed.",
+    "start": 340.8,
+    "duration": 4.8
+  },
+  {
+    "text": "As the electric field propagates along the line,\nelectrons accelerate away from the boundary.",
+    "start": 345.6,
+    "duration": 5.84
+  },
+  {
+    "text": "Due to the intense magnetic field\nassociated with the current pulse, they",
+    "start": 351.44,
+    "duration": 4.08
+  },
+  {
+    "text": "are constrained to flow along the ExB\ndrift, rather than across the line.",
+    "start": 355.52,
+    "duration": 5.28
+  },
+  {
+    "text": "This means that the entire line acts as a\ncontinuous source of low level radiation and noise.",
+    "start": 360.8,
+    "duration": 6.72
+  },
+  {
+    "text": "All pulsars show this background radiation.\nWhether the radiated pulse has a single",
+    "start": 367.52,
+    "duration": 5.76
+  },
+  {
+    "text": "or double pulse profile, will depend on the extent\nof the radiation region at the pulsar surface.",
+    "start": 373.28,
+    "duration": 6.32
+  },
+  {
+    "text": "If the radiating current is confined to\na shallow region instead of an extended",
+    "start": 379.6,
+    "duration": 4.64
+  },
+  {
+    "text": "region, a single pulse profile\nwill replace the double profile.",
+    "start": 384.24,
+    "duration": 4.39
+  },
+  {
+    "text": "This effect is actually frequency dependent.\nLower frequencies are associated with",
+    "start": 388.63,
+    "duration": 5.21
+  },
+  {
+    "text": "fields that are extended in the emission region\nand are more likely to show pulse structure.",
+    "start": 393.84,
+    "duration": 5.76
+  },
+  {
+    "text": "The source of the radiation energy is\nnot contained within the pulsar, but may",
+    "start": 399.6,
+    "duration": 4.87
+  },
+  {
+    "text": "instead derive from either the pulsar's\ninteraction with its environment, or by",
+    "start": 404.47,
+    "duration": 4.81
+  },
+  {
+    "text": "energy delivered by an external circuit.\nThis means that pulsars do not have to",
+    "start": 409.28,
+    "duration": 5.52
+  },
+  {
+    "text": "be composed of neutrons. They are \nsimply no different than a normal star.",
+    "start": 414.8,
+    "duration": 5.51
+  },
+  {
+    "text": "What has changed is its electrical \nenvironment causing a resonance in",
+    "start": 420.31,
+    "duration": 5.37
+  },
+  {
+    "text": "the circuit, which creates the pulses.\nIn the distant past, this star might have",
+    "start": 425.68,
+    "duration": 4.23
+  },
+  {
+    "text": "suffered a catastrophic short circuit.\nSo violent is the discharge, that it is",
+    "start": 429.91,
+    "duration": 4.89
+  },
+  {
+    "text": "not only creating heavy elements in the process,\nbut also explodes the entire surface double layer.",
+    "start": 434.8,
+    "duration": 6.56
+  },
+  {
+    "text": "With nothing to hold back the charges,\nthe majority of the material that made",
+    "start": 441.36,
+    "duration": 4.08
+  },
+  {
+    "text": "up the star races outwards in an explosion.\nIn some cases, a remnant remains after this process.",
+    "start": 445.44,
+    "duration": 7.12
+  },
+  {
+    "text": "The electrical power input continues \nto drive the magnetospheric circuit to",
+    "start": 452.56,
+    "duration": 4.16
+  },
+  {
+    "text": "produce the characteristic pulsar emissions. No \nneutrons, no spinning beams, simply a star that has",
+    "start": 456.72,
+    "duration": 9.03
+  },
+  {
+    "text": "changed its electrical environment, causing a\nresonance in its circuit which creates the pulses.",
+    "start": 465.75,
+    "duration": 8.37
+  },
+  {
+    "text": "[Music]",
+    "start": 487.54,
+    "duration": 19.64
+  }
+]

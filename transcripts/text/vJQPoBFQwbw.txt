@@ -1,0 +1,712 @@
+[
+  {
+    "text": "The Electric Universe understanding\nportrays the prevailing cosmology as",
+    "start": 11.34,
+    "duration": 6.18
+  },
+  {
+    "text": "substantially misguided, and challenges\nalmost every facet not established by",
+    "start": 17.52,
+    "duration": 6.48
+  },
+  {
+    "text": "rigorous experimental and testing results.\nIn other words, the scientific method.",
+    "start": 24.0,
+    "duration": 7.5
+  },
+  {
+    "text": "Here is a quote regarding this view from\nHalton Arp, “After all, to get the whole",
+    "start": 31.5,
+    "duration": 7.02
+  },
+  {
+    "text": "universe totally wrong in the face of\nclear evidence for over 75 years merits",
+    "start": 38.52,
+    "duration": 7.44
+  },
+  {
+    "text": "monumental embarrassment and should induce the\nmodicum of humility.” The Electric Universe paradigm",
+    "start": 45.96,
+    "duration": 8.57
+  },
+  {
+    "text": "development has been primarily focused\non the things that we can apprehend with",
+    "start": 54.53,
+    "duration": 7.93
+  },
+  {
+    "text": "our senses, from the microscopic level, looking\ndown, to the telescopic level, looking up.",
+    "start": 62.46,
+    "duration": 8.04
+  },
+  {
+    "text": "But mostly on the directly tangible level.\nOn just these three levels, there is an",
+    "start": 70.5,
+    "duration": 7.43
+  },
+  {
+    "text": "overwhelming abundance of evidence, both\nin phenomena and structure, that show",
+    "start": 77.93,
+    "duration": 6.13
+  },
+  {
+    "text": "that the physical universe aspects,\ngalaxies down to cells, all work electrically.",
+    "start": 84.06,
+    "duration": 8.87
+  },
+  {
+    "text": "Much if not most of this should be\nobvious, and would be, if an extensively",
+    "start": 92.93,
+    "duration": 6.13
+  },
+  {
+    "text": "faulty paradigm hadn't taken hold of\nacademia and mainstream cosmology,",
+    "start": 99.06,
+    "duration": 6.66
+  },
+  {
+    "text": "and thus didn't obscure the thinking. For\ninstance, welders and machinists familiar",
+    "start": 105.72,
+    "duration": 7.32
+  },
+  {
+    "text": "with electric discharge machining, get\nthe electrical cratering and scarring",
+    "start": 113.04,
+    "duration": 5.34
+  },
+  {
+    "text": "aspects immediately, usually exclaiming that it's\nobvious that these are not primarily from impacts.",
+    "start": 118.38,
+    "duration": 8.27
+  },
+  {
+    "text": "Electrical engineers often find other aspects\nto be easily assimilated and accepted.",
+    "start": 126.65,
+    "duration": 7.08
+  },
+  {
+    "text": "But many plasma phenomena on this triune\nlevel are not that familiar. For example,",
+    "start": 133.73,
+    "duration": 7.58
+  },
+  {
+    "text": "Birkeland currents, double layers, plasma\ncells, red sprites, blue jets, plasma elves",
+    "start": 141.31,
+    "duration": 8.75
+  },
+  {
+    "text": "and Peratt instability formations. And \nthese haven't been widely understood.",
+    "start": 150.06,
+    "duration": 6.98
+  },
+  {
+    "text": "Also, plasma phenomena can be quite complex,\nbesides being outside of our normal experience.",
+    "start": 157.04,
+    "duration": 9.22
+  },
+  {
+    "text": "Let me just mention a few major aspects\nout of a dozen or so in the prevailing",
+    "start": 166.26,
+    "duration": 6.3
+  },
+  {
+    "text": "cosmological paradigm that are misguided or faulty.\nThe most egregious is the Big Bang which",
+    "start": 172.56,
+    "duration": 8.7
+  },
+  {
+    "text": "was introduced by Georges Lemaitre in\n1927, and which was buttressed by the",
+    "start": 181.26,
+    "duration": 7.61
+  },
+  {
+    "text": "equally egregious Theory of Relativity by Einstein.\nQuite simply, ‘Relativity’ is unnecessary",
+    "start": 188.87,
+    "duration": 8.35
+  },
+  {
+    "text": "because the finite universe is the needed\nframe of reference for everything inside of it.",
+    "start": 197.22,
+    "duration": 7.26
+  },
+  {
+    "text": "Until recently, thanks to the James Webb Telescope,\nthe Big Bang has been the prevailing view.",
+    "start": 204.48,
+    "duration": 7.56
+  },
+  {
+    "text": "Another, ‘redshift equals distance’, has\nbeen thoroughly discredited by Halton",
+    "start": 212.04,
+    "duration": 6.83
+  },
+  {
+    "text": "Arp and his associate astronomers. And \nanother, ’stars powered by nuclear fusion’,",
+    "start": 218.87,
+    "duration": 8.41
+  },
+  {
+    "text": "the fusion actually takes place on the\nsurface of the photosphere, not in the",
+    "start": 227.28,
+    "duration": 5.22
+  },
+  {
+    "text": "core, and is driven by the impinging\nBirkeland currents. The fifth is ‘gravity’",
+    "start": 232.5,
+    "duration": 6.36
+  },
+  {
+    "text": "instead of electricity being the\nfoundational force at work in organizing,",
+    "start": 238.86,
+    "duration": 5.54
+  },
+  {
+    "text": "structuring and controlling the physical\nuniverse of galaxies, stars, planets etc.",
+    "start": 244.4,
+    "duration": 7.36
+  },
+  {
+    "text": "Let me reiterate a few frank reminders\nabout our investigative limits.",
+    "start": 251.76,
+    "duration": 5.87
+  },
+  {
+    "text": "It should be understood that, below or\nabove the directly tangible level, we",
+    "start": 257.63,
+    "duration": 5.83
+  },
+  {
+    "text": "have to rely on only one of our senses - sight, \nvision. Below the level of the various",
+    "start": 263.46,
+    "duration": 8.76
+  },
+  {
+    "text": "microscope tools, or beyond the various\ntelescope tools, when thinking about the",
+    "start": 272.22,
+    "duration": 6.78
+  },
+  {
+    "text": "material universe, the aspects and\nattributes of phenomena and structure",
+    "start": 279.0,
+    "duration": 4.86
+  },
+  {
+    "text": "cannot be apprehended directly by \nany of our five senses. We can only do",
+    "start": 283.86,
+    "duration": 7.44
+  },
+  {
+    "text": "experiments and get clues as to what \nwe are dealing with and then we can only",
+    "start": 291.3,
+    "duration": 6.6
+  },
+  {
+    "text": "build models for them and/or project metaphors\nfrom our tangible experience upon them.",
+    "start": 297.9,
+    "duration": 8.04
+  },
+  {
+    "text": "I suggest that we don't know what we think \nwe know. This restricted domain on the lowest",
+    "start": 305.94,
+    "duration": 8.46
+  },
+  {
+    "text": "level includes the basic atomic particles and we can\nonly get blurry visual interference patterns of nuclei,",
+    "start": 314.4,
+    "duration": 9.0
+  },
+  {
+    "text": "their shape and where they are located and arranged\nin material. Until lately, theory has claimed that",
+    "start": 323.4,
+    "duration": 9.06
+  },
+  {
+    "text": "atomic nuclei must be symmetrical in three\ndimensions, either spherical or flattened spheroidal.",
+    "start": 332.46,
+    "duration": 9.0
+  },
+  {
+    "text": "Now, we can confirm that some nuclei are\npear-shaped and thus pointed in a direction.",
+    "start": 341.46,
+    "duration": 7.92
+  },
+  {
+    "text": "This development, the implication of\nwhich is not widely understood, actually",
+    "start": 349.38,
+    "duration": 5.94
+  },
+  {
+    "text": "sweeps away much current cosmological theory.\nEven the orbital model of the atom has",
+    "start": 355.32,
+    "duration": 7.92
+  },
+  {
+    "text": "not been confirmed and part of the time\nit must be discarded in atomic thinking.",
+    "start": 363.24,
+    "duration": 7.38
+  },
+  {
+    "text": "Take a look at the stellar work of Edwin Kaal,\nwho developed the Structured Atomic Model",
+    "start": 370.62,
+    "duration": 7.68
+  },
+  {
+    "text": "known as SAM, a significant improvement\nover the inadequate orbital model.",
+    "start": 378.3,
+    "duration": 7.5
+  },
+  {
+    "text": "As an ex-chemist, long uncomfortable with the\norbital model, I favor a most dense packing model.",
+    "start": 385.8,
+    "duration": 9.48
+  },
+  {
+    "text": "But Kaal must be given great credit for going in the\nright direction. On the other end of the spectrum we",
+    "start": 395.28,
+    "duration": 9.12
+  },
+  {
+    "text": "should be mindful that outside of our\nlimited solar system exploration via",
+    "start": 404.4,
+    "duration": 5.7
+  },
+  {
+    "text": "rocket probes and satellites, we have\nonly electromagnetic radiation given off",
+    "start": 410.1,
+    "duration": 6.78
+  },
+  {
+    "text": "by radiating bodies or structures that\nwe can access through our telescopes.",
+    "start": 416.88,
+    "duration": 6.3
+  },
+  {
+    "text": "No direct chemical analysis to determine\nmaterial or molecular structure.",
+    "start": 423.18,
+    "duration": 6.06
+  },
+  {
+    "text": "No physical analysis to determine\ndensity, specific gravity, index of",
+    "start": 429.24,
+    "duration": 5.88
+  },
+  {
+    "text": "refraction, hardness, viscosity conductivity, etc.\nNo application of tape measures, scales, hydrometers.",
+    "start": 435.12,
+    "duration": 10.28
+  },
+  {
+    "text": "Just and only patterned electromagnetic radiation,\nvisual and radio astronomy with which to work.",
+    "start": 445.4,
+    "duration": 9.63
+  },
+  {
+    "text": "So, down on a more fundamental level\nagain, concepts that we have often can be",
+    "start": 455.03,
+    "duration": 7.75
+  },
+  {
+    "text": "little more than speculation. We \nhave a tendency to project the",
+    "start": 462.78,
+    "duration": 5.69
+  },
+  {
+    "text": "orbital metaphor down to the atomic level\nbut this has already been challenged.",
+    "start": 468.47,
+    "duration": 7.11
+  },
+  {
+    "text": "Mainstream thinking has imagined \nquarks below the atomic particle level,",
+    "start": 475.58,
+    "duration": 6.58
+  },
+  {
+    "text": "and the Electric Universe talks about sub-sub-\natomic particles as positive or negative subtrons.",
+    "start": 482.16,
+    "duration": 9.3
+  },
+  {
+    "text": "The point is that beyond sensationalism, there is little\njustification to present these ‘physics flights of fancy’",
+    "start": 491.46,
+    "duration": 11.04
+  },
+  {
+    "text": "to the public as knowledge or fact.\nLet's also be mindful that all of our",
+    "start": 502.5,
+    "duration": 6.96
+  },
+  {
+    "text": "relevant observations have taken \nplace from a platform within familiar,",
+    "start": 509.46,
+    "duration": 6.25
+  },
+  {
+    "text": "non-redshift-determined distances within\nthe heliopause, and essentially within a",
+    "start": 515.71,
+    "duration": 7.24
+  },
+  {
+    "text": "platform perpendicular to the axis of the \nSun. When considering bodies outside this",
+    "start": 522.95,
+    "duration": 7.32
+  },
+  {
+    "text": "arena of our platform in more distant outer space\nand beyond that, we are projecting from our own",
+    "start": 530.27,
+    "duration": 9.24
+  },
+  {
+    "text": "environment and then speculating. We \nactually don't know enough about the",
+    "start": 539.51,
+    "duration": 5.71
+  },
+  {
+    "text": "true distances, the true sizes, and the attributes\nof the region such as charge differentials,",
+    "start": 545.22,
+    "duration": 8.46
+  },
+  {
+    "text": "ether densities, field strengths, etc., to confidently\nextend meaningful values on the decrease of force within",
+    "start": 553.68,
+    "duration": 10.14
+  },
+  {
+    "text": "distance squared. Electrical Universe theoretician\nWallace Thornhill even suggests that the",
+    "start": 563.82,
+    "duration": 8.45
+  },
+  {
+    "text": "attractive force that we call gravity\nactually turns repulsive at some point.",
+    "start": 572.27,
+    "duration": 6.73
+  },
+  {
+    "text": "The Electric Universe lays a theoretical\nfoundation for all of this on the lowest",
+    "start": 579.0,
+    "duration": 5.88
+  },
+  {
+    "text": "particle level by positing just and only two electric\ncharge carriers of negative and positive matter particles,",
+    "start": 584.88,
+    "duration": 10.01
+  },
+  {
+    "text": "just and only three dimensions, just and only \ntwo forces, electrical attraction and repulsion.",
+    "start": 594.89,
+    "duration": 10.27
+  },
+  {
+    "text": "Being a stickler for a correct terminology,\nI point out that the traditional four,",
+    "start": 605.16,
+    "duration": 6.92
+  },
+  {
+    "text": "electromagnetism, gravity, the strong nuclear and the weak\nnuclear, should not be called forces, but rather force",
+    "start": 612.08,
+    "duration": 8.62
+  },
+  {
+    "text": "sources or initiators. Not to mention that the\nEU considers the latter three to be aspects of",
+    "start": 620.7,
+    "duration": 8.84
+  },
+  {
+    "text": "electromagnetism and dipolarity.\nLinear motion, orbital motion and",
+    "start": 629.54,
+    "duration": 7.23
+  },
+  {
+    "text": "reciprocal motion, oscillation, vibration,\nresonance also have a fundamental role.",
+    "start": 636.77,
+    "duration": 7.15
+  },
+  {
+    "text": "Finally we have the aspects and\nconstrictions of the geometry of three",
+    "start": 643.92,
+    "duration": 5.94
+  },
+  {
+    "text": "dimensions, which is the basis for polarity,\nAlong with sequence of events, what we",
+    "start": 649.86,
+    "duration": 7.68
+  },
+  {
+    "text": "call time, these generally account for or\nundergird all other physical phenomena.",
+    "start": 657.54,
+    "duration": 7.46
+  },
+  {
+    "text": "Also, in the Electric Universe paradigm, the definition\nof energy is that it is always matter in motion.",
+    "start": 665.0,
+    "duration": 10.6
+  },
+  {
+    "text": "And, like time, not something mystical, nor a thing in\nand of itself. So, let's deal with the Michelson-Morley",
+    "start": 675.6,
+    "duration": 10.56
+  },
+  {
+    "text": "experiment of 1887, that has been widely\ninterpreted as proving there is no ether.",
+    "start": 686.16,
+    "duration": 8.22
+  },
+  {
+    "text": "The overlooked phenomena in the Michelson-\nMorley experiment by Paul Marmet.",
+    "start": 694.38,
+    "duration": 6.74
+  },
+  {
+    "text": "Abstract, ”We show that Michelson and Morley\nused an oversimplified description and failed",
+    "start": 701.12,
+    "duration": 8.02
+  },
+  {
+    "text": "to notice that their calculation is not\ncompatible with their own hypothesis",
+    "start": 709.14,
+    "duration": 5.69
+  },
+  {
+    "text": "that light is traveling at a constant velocity in\nall frames. During the last century, the Michelson-",
+    "start": 714.83,
+    "duration": 8.77
+  },
+  {
+    "text": "Morley equations have been used without\nrealizing that two essential fundamental",
+    "start": 723.6,
+    "duration": 6.54
+  },
+  {
+    "text": "phenomena are missing in the Michelson-Morley\ndemonstration.” ”We show that the velocity of",
+    "start": 730.14,
+    "duration": 8.46
+  },
+  {
+    "text": "the mirror must be taken into account to\ncalculate the angle of reflection of light.",
+    "start": 738.6,
+    "duration": 5.4
+  },
+  {
+    "text": "Using the Huygens principle, we see \nthat the angle of reflection of light on a",
+    "start": 744.0,
+    "duration": 6.95
+  },
+  {
+    "text": "moving mirror is a function of the\nvelocity of the mirror. This has been",
+    "start": 750.95,
+    "duration": 5.11
+  },
+  {
+    "text": "ignored in the Michelson-Morley\ncalculation. Also, due to the transverse",
+    "start": 756.06,
+    "duration": 5.82
+  },
+  {
+    "text": "direction of the moving frame, light \ndoes not enter in the instrument at 90",
+    "start": 761.88,
+    "duration": 5.51
+  },
+  {
+    "text": "degrees as assumed in the Michelson-\nMorley experiment.” “We acknowledge that",
+    "start": 767.39,
+    "duration": 6.12
+  },
+  {
+    "text": "the basic idea suggested by Michelson-Morley to test\nthe variance of space-time, using a comparison between",
+    "start": 773.51,
+    "duration": 9.25
+  },
+  {
+    "text": "the times taken by light to travel in\nthe parallel direction with respect to a",
+    "start": 782.76,
+    "duration": 5.57
+  },
+  {
+    "text": "transverse direction is very attractive. However, we show\nhere that the usual predictions are not valid, because of",
+    "start": 788.33,
+    "duration": 8.77
+  },
+  {
+    "text": "those two classical secondary phenomena,\nwhich have not been taken into account.”",
+    "start": 797.1,
+    "duration": 6.35
+  },
+  {
+    "text": "”When these overlooked phenomena are\ntaken into account, we see that a null",
+    "start": 803.45,
+    "duration": 6.0
+  },
+  {
+    "text": "result, in the Michelson-Morley\nexperiment, is the natural consequence,",
+    "start": 809.45,
+    "duration": 5.17
+  },
+  {
+    "text": "resulting from the assumption of an absolute\nframe of reference and Galilean transformations.",
+    "start": 814.62,
+    "duration": 8.64
+  },
+  {
+    "text": "On the contrary, a shift of the interference fringes would\nbe required in order to support Einstein's relativity.",
+    "start": 823.26,
+    "duration": 9.3
+  },
+  {
+    "text": "Therefore, for the last century, the relativity\ntheory has been based on a misleading calculation.”",
+    "start": 832.56,
+    "duration": 7.8
+  },
+  {
+    "text": "Well, I certainly agree with that.\nThere is at least one other explanation",
+    "start": 840.36,
+    "duration": 6.41
+  },
+  {
+    "text": "for why the Michelson-Morley results are \ninvalid. If the ether with increased density is",
+    "start": 846.77,
+    "duration": 8.47
+  },
+  {
+    "text": "somewhat partially entrained by either the solar system\nor the Earth, Michelson- Morley would be invalid.",
+    "start": 855.24,
+    "duration": 9.77
+  },
+  {
+    "text": "Of all the violations of philosophical\nconcepts and metaphysical principles,",
+    "start": 865.01,
+    "duration": 6.26
+  },
+  {
+    "text": "probably the worst and most insidiously pervasive,\nconcern ‘nothing’ and ‘infinity’. ‘Infinity’ cannot",
+    "start": 871.27,
+    "duration": 9.85
+  },
+  {
+    "text": "be applied to any aspect of the physical universe.\nOf course, there is no such thing as ’nothingness’.",
+    "start": 881.12,
+    "duration": 9.39
+  },
+  {
+    "text": "On a fundamental-philosophical level, there can be\nno voids of nothingness in the material universe.",
+    "start": 890.51,
+    "duration": 8.41
+  },
+  {
+    "text": "Thus, because of both sound evidence and\nreasoning, the Electric Universe paradigm",
+    "start": 898.92,
+    "duration": 6.77
+  },
+  {
+    "text": "has confidently settled on the conclusion that the\nvolume of the physical universe is filled with an ether.",
+    "start": 905.69,
+    "duration": 8.11
+  },
+  {
+    "text": "In other words, the existence of an ether is \naxiomatic. Currently, the thinking is that this",
+    "start": 913.8,
+    "duration": 7.92
+  },
+  {
+    "text": "ether is composed of polarizable\nneutrinos, where these are all but empty",
+    "start": 921.72,
+    "duration": 7.08
+  },
+  {
+    "text": "matter/particles or packages that have vanishingly\nsmall amount of mass, energy, dipolarity and friction.",
+    "start": 928.8,
+    "duration": 12.36
+  },
+  {
+    "text": "If you build a universe of three dimensions that can't\nhave any voids of nothingness, then you have only two",
+    "start": 941.16,
+    "duration": 8.4
+  },
+  {
+    "text": "regular polyhedrons that can fill or tessellate, volume \nwith no voids. Those being tetrahedrons and cubes.",
+    "start": 949.56,
+    "duration": 11.39
+  },
+  {
+    "text": "So, if we think of shape, we should probably think\nof ether particles as having one of these two forms.",
+    "start": 960.95,
+    "duration": 10.03
+  },
+  {
+    "text": "Note, holographic universe enthusiasts\nwould say at this point that we have",
+    "start": 970.98,
+    "duration": 6.59
+  },
+  {
+    "text": "crossed the border into a different\nrealm, and are deep into projecting a",
+    "start": 977.57,
+    "duration": 4.87
+  },
+  {
+    "text": "topological shape metaphor onto it.\nBut, since other more substantial",
+    "start": 982.44,
+    "duration": 6.6
+  },
+  {
+    "text": "particles and objects apparently move\nwithout significant friction through",
+    "start": 989.04,
+    "duration": 4.91
+  },
+  {
+    "text": "this ether medium, the particles must be quite\nflexible and compressible. ’Squidgy’ in my words.",
+    "start": 993.95,
+    "duration": 9.24
+  },
+  {
+    "text": "Try not to think of fish swimming through \nwater. Their frictionless surfaces, along with",
+    "start": 1003.19,
+    "duration": 6.67
+  },
+  {
+    "text": "their vanishingly small mass, would generate vanishingly\nsmall viscosity. We also need to think of force as",
+    "start": 1009.86,
+    "duration": 10.86
+  },
+  {
+    "text": "something tangible and not as something theoretical.\nWe should also note that when we feel a",
+    "start": 1020.72,
+    "duration": 7.32
+  },
+  {
+    "text": "substance with our fingers, it is not the\natomic material that we feel with our",
+    "start": 1028.04,
+    "duration": 6.24
+  },
+  {
+    "text": "tactile facility, but rather the electric\nrepulsive force from the material.",
+    "start": 1034.28,
+    "duration": 7.26
+  },
+  {
+    "text": "So the bottom line in this page of the\nEU ledger is that, since there is no",
+    "start": 1041.54,
+    "duration": 6.65
+  },
+  {
+    "text": "’nothingness’ between objects or particles,\nand when there is no contact between",
+    "start": 1048.19,
+    "duration": 6.21
+  },
+  {
+    "text": "atoms in this instance and every other\none, force is transmitted across distance",
+    "start": 1054.4,
+    "duration": 7.06
+  },
+  {
+    "text": "by contact between the ether particles.\nThe EU model sees the ether medium as a",
+    "start": 1061.46,
+    "duration": 10.26
+  },
+  {
+    "text": "key part of a proper construction of physical reality.",
+    "start": 1071.72,
+    "duration": 6.31
+  },
+  {
+    "text": "[Music]",
+    "start": 1083.85,
+    "duration": 27.19
+  }
+]

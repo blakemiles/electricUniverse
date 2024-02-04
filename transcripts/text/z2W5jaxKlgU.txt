@@ -1,0 +1,2367 @@
+[
+  {
+    "text": "[Music]",
+    "start": 0.0,
+    "duration": 20.35
+  },
+  {
+    "text": "so we're talk a bit about the Earth's",
+    "start": 22.3,
+    "duration": 7.33
+  },
+  {
+    "text": "electrical environment in the history of",
+    "start": 24.32,
+    "duration": 7.38
+  },
+  {
+    "text": "scientific ideas there is a pattern of",
+    "start": 29.63,
+    "duration": 5.85
+  },
+  {
+    "text": "how new ideas emerge when we know very",
+    "start": 31.7,
+    "duration": 6.0
+  },
+  {
+    "text": "little about something we tend to think",
+    "start": 35.48,
+    "duration": 6.66
+  },
+  {
+    "text": "it is very simple in the 1800s",
+    "start": 37.7,
+    "duration": 6.27
+  },
+  {
+    "text": "biologists knew very little about the",
+    "start": 42.14,
+    "duration": 3.83
+  },
+  {
+    "text": "cells that make up our bodies and",
+    "start": 43.97,
+    "duration": 4.589
+  },
+  {
+    "text": "reading some of their papers about cells",
+    "start": 45.97,
+    "duration": 5.019
+  },
+  {
+    "text": "is very interesting one of the top",
+    "start": 48.559,
+    "duration": 4.801
+  },
+  {
+    "text": "naturalist of the time Haeckel claimed",
+    "start": 50.989,
+    "duration": 5.041
+  },
+  {
+    "text": "with great confidence that cells are",
+    "start": 53.36,
+    "duration": 5.58
+  },
+  {
+    "text": "uninteresting cells are just bags of",
+    "start": 56.03,
+    "duration": 5.099
+  },
+  {
+    "text": "undifferentiated plasma they are not",
+    "start": 58.94,
+    "duration": 5.43
+  },
+  {
+    "text": "worth anyone's attention and then slowly",
+    "start": 61.129,
+    "duration": 5.671
+  },
+  {
+    "text": "over years we discovered what was in",
+    "start": 64.37,
+    "duration": 4.56
+  },
+  {
+    "text": "cells and we learned that each cell of",
+    "start": 66.8,
+    "duration": 5.28
+  },
+  {
+    "text": "our body is very complex in fact a",
+    "start": 68.93,
+    "duration": 5.07
+  },
+  {
+    "text": "single cell in your body is just as",
+    "start": 72.08,
+    "duration": 6.06
+  },
+  {
+    "text": "complex as your entire body that's a",
+    "start": 74.0,
+    "duration": 5.64
+  },
+  {
+    "text": "truth that's very difficult for our",
+    "start": 78.14,
+    "duration": 4.2
+  },
+  {
+    "text": "logical minds to comprehend but it is",
+    "start": 79.64,
+    "duration": 6.48
+  },
+  {
+    "text": "true nonetheless and we are in a similar",
+    "start": 82.34,
+    "duration": 5.73
+  },
+  {
+    "text": "situation with regard to the electrical",
+    "start": 86.12,
+    "duration": 5.01
+  },
+  {
+    "text": "environments of planets and Suns not too",
+    "start": 88.07,
+    "duration": 4.59
+  },
+  {
+    "text": "long ago the average scientist would",
+    "start": 91.13,
+    "duration": 3.21
+  },
+  {
+    "text": "tell you there was not much between the",
+    "start": 92.66,
+    "duration": 4.5
+  },
+  {
+    "text": "earth and the Sun I recall as a boy",
+    "start": 94.34,
+    "duration": 6.33
+  },
+  {
+    "text": "being told about the vast vacuums of",
+    "start": 97.16,
+    "duration": 6.27
+  },
+  {
+    "text": "empty space and it never sat well with",
+    "start": 100.67,
+    "duration": 4.65
+  },
+  {
+    "text": "me that there should be nothing between",
+    "start": 103.43,
+    "duration": 7.14
+  },
+  {
+    "text": "the Earth and the Sun our five senses",
+    "start": 105.32,
+    "duration": 6.96
+  },
+  {
+    "text": "lead us to believe that a thing is",
+    "start": 110.57,
+    "duration": 6.6
+  },
+  {
+    "text": "simply what it looks like a colony looks",
+    "start": 112.28,
+    "duration": 8.61
+  },
+  {
+    "text": "like this to our eyes if our eyes could",
+    "start": 117.17,
+    "duration": 6.72
+  },
+  {
+    "text": "see x-rays the flower would look more",
+    "start": 120.89,
+    "duration": 5.48
+  },
+  {
+    "text": "like this",
+    "start": 123.89,
+    "duration": 2.48
+  },
+  {
+    "text": "here's what the Sun looks like in",
+    "start": 129.009,
+    "duration": 5.831
+  },
+  {
+    "text": "visible light now something very strange",
+    "start": 131.39,
+    "duration": 5.19
+  },
+  {
+    "text": "happens when you look at the Sun only",
+    "start": 134.84,
+    "duration": 5.54
+  },
+  {
+    "text": "through a single wavelength of red light",
+    "start": 136.58,
+    "duration": 7.73
+  },
+  {
+    "text": "this beautiful shaggy landscape of",
+    "start": 140.38,
+    "duration": 6.88
+  },
+  {
+    "text": "tendrils and clouds is slightly above",
+    "start": 144.31,
+    "duration": 6.12
+  },
+  {
+    "text": "the image we were looking at just before",
+    "start": 147.26,
+    "duration": 5.91
+  },
+  {
+    "text": "there's an outer skin of the Sun that we",
+    "start": 150.43,
+    "duration": 5.86
+  },
+  {
+    "text": "do not see with our eyes and if",
+    "start": 153.17,
+    "duration": 4.89
+  },
+  {
+    "text": "structure follows function which is",
+    "start": 156.29,
+    "duration": 4.38
+  },
+  {
+    "text": "basically a natural law then we're left",
+    "start": 158.06,
+    "duration": 5.399
+  },
+  {
+    "text": "wondering what function is played by",
+    "start": 160.67,
+    "duration": 4.95
+  },
+  {
+    "text": "this very particularly structured part",
+    "start": 163.459,
+    "duration": 6.091
+  },
+  {
+    "text": "of our Sun now our are there other skins",
+    "start": 165.62,
+    "duration": 7.619
+  },
+  {
+    "text": "other layers beyond this we see the next",
+    "start": 169.55,
+    "duration": 6.03
+  },
+  {
+    "text": "layer to the Sun when we look only at",
+    "start": 173.239,
+    "duration": 4.551
+  },
+  {
+    "text": "the more energetic wavelengths the hot",
+    "start": 175.58,
+    "duration": 5.79
+  },
+  {
+    "text": "wavelengths this is what the hot Sun",
+    "start": 177.79,
+    "duration": 7.81
+  },
+  {
+    "text": "looks like very different and all this",
+    "start": 181.37,
+    "duration": 6.21
+  },
+  {
+    "text": "extra activities taking place farther",
+    "start": 185.6,
+    "duration": 4.92
+  },
+  {
+    "text": "out from those first two images the Sun",
+    "start": 187.58,
+    "duration": 5.189
+  },
+  {
+    "text": "appears to get hotter and more energetic",
+    "start": 190.52,
+    "duration": 5.6
+  },
+  {
+    "text": "as we move away from the surface",
+    "start": 192.769,
+    "duration": 4.861
+  },
+  {
+    "text": "studying the Sun at different",
+    "start": 196.12,
+    "duration": 3.04
+  },
+  {
+    "text": "wavelengths of light is one of the most",
+    "start": 197.63,
+    "duration": 3.84
+  },
+  {
+    "text": "powerful tools we have for understanding",
+    "start": 199.16,
+    "duration": 5.49
+  },
+  {
+    "text": "the physics of the Sun I will get back",
+    "start": 201.47,
+    "duration": 5.19
+  },
+  {
+    "text": "to the Sun at the end of the talk for",
+    "start": 204.65,
+    "duration": 3.66
+  },
+  {
+    "text": "now let us turn our attention to the",
+    "start": 206.66,
+    "duration": 3.71
+  },
+  {
+    "text": "electrical environment of the earth I",
+    "start": 208.31,
+    "duration": 4.83
+  },
+  {
+    "text": "will show you some pictures based upon",
+    "start": 210.37,
+    "duration": 5.35
+  },
+  {
+    "text": "my attempts to understand the data but",
+    "start": 213.14,
+    "duration": 4.56
+  },
+  {
+    "text": "you must keep in mind that no one has a",
+    "start": 215.72,
+    "duration": 4.799
+  },
+  {
+    "text": "nice tidy picture that sums all of this",
+    "start": 217.7,
+    "duration": 5.61
+  },
+  {
+    "text": "up so it is fine if after this talk you",
+    "start": 220.519,
+    "duration": 6.571
+  },
+  {
+    "text": "are left with questions this talk is an",
+    "start": 223.31,
+    "duration": 5.82
+  },
+  {
+    "text": "investigation of the idea that the solar",
+    "start": 227.09,
+    "duration": 5.78
+  },
+  {
+    "text": "system is a giant electrical transformer",
+    "start": 229.13,
+    "duration": 6.75
+  },
+  {
+    "text": "electrical transformers on earth change",
+    "start": 232.87,
+    "duration": 5.89
+  },
+  {
+    "text": "the quality of electricity simple",
+    "start": 235.88,
+    "duration": 5.1
+  },
+  {
+    "text": "transformers raise and lower voltage",
+    "start": 238.76,
+    "duration": 5.28
+  },
+  {
+    "text": "very complicated transformers turn",
+    "start": 240.98,
+    "duration": 5.37
+  },
+  {
+    "text": "Envisat invisible radio signals back",
+    "start": 244.04,
+    "duration": 5.85
+  },
+  {
+    "text": "into music for our ears to hear and this",
+    "start": 246.35,
+    "duration": 5.34
+  },
+  {
+    "text": "talk proposes that energies coming from",
+    "start": 249.89,
+    "duration": 5.189
+  },
+  {
+    "text": "the Sun are absorbed and changed by the",
+    "start": 251.69,
+    "duration": 8.25
+  },
+  {
+    "text": "earth and the other planets there were a",
+    "start": 255.079,
+    "duration": 7.051
+  },
+  {
+    "text": "couple of surprises this year from two",
+    "start": 259.94,
+    "duration": 2.699
+  },
+  {
+    "text": "saddle",
+    "start": 262.13,
+    "duration": 2.099
+  },
+  {
+    "text": "lights that are orbiting the Earth and",
+    "start": 262.639,
+    "duration": 3.391
+  },
+  {
+    "text": "measuring the electrical properties",
+    "start": 264.229,
+    "duration": 5.43
+  },
+  {
+    "text": "around us the surprises came in what are",
+    "start": 266.03,
+    "duration": 6.479
+  },
+  {
+    "text": "called the Van Allen belts these are",
+    "start": 269.659,
+    "duration": 5.31
+  },
+  {
+    "text": "very high energy structures that",
+    "start": 272.509,
+    "duration": 6.571
+  },
+  {
+    "text": "surround the earth this is a picture",
+    "start": 274.969,
+    "duration": 7.651
+  },
+  {
+    "text": "looking down on the North Pole of the",
+    "start": 279.08,
+    "duration": 8.369
+  },
+  {
+    "text": "earth now around the earth is a ring or",
+    "start": 282.62,
+    "duration": 7.259
+  },
+  {
+    "text": "a doughnut you could imagine a very",
+    "start": 287.449,
+    "duration": 5.37
+  },
+  {
+    "text": "high-energy positive particles ions and",
+    "start": 289.879,
+    "duration": 5.611
+  },
+  {
+    "text": "protons and then there's a gap and then",
+    "start": 292.819,
+    "duration": 4.141
+  },
+  {
+    "text": "there's a larger ring of high-energy",
+    "start": 295.49,
+    "duration": 6.84
+  },
+  {
+    "text": "electrons now the recently these two",
+    "start": 296.96,
+    "duration": 7.59
+  },
+  {
+    "text": "satellites that are put into orbit go",
+    "start": 302.33,
+    "duration": 6.03
+  },
+  {
+    "text": "through these belts to measure the",
+    "start": 304.55,
+    "duration": 6.75
+  },
+  {
+    "text": "electrical properties now one point of",
+    "start": 308.36,
+    "duration": 4.709
+  },
+  {
+    "text": "contention about these structures and",
+    "start": 311.3,
+    "duration": 2.91
+  },
+  {
+    "text": "space is whether or not they are",
+    "start": 313.069,
+    "duration": 4.891
+  },
+  {
+    "text": "electrically neutral does this inner",
+    "start": 314.21,
+    "duration": 6.03
+  },
+  {
+    "text": "ring really have more positive charges",
+    "start": 317.96,
+    "duration": 4.5
+  },
+  {
+    "text": "in it a lot of people say no that",
+    "start": 320.24,
+    "duration": 4.109
+  },
+  {
+    "text": "structures in space cannot have an",
+    "start": 322.46,
+    "duration": 5.009
+  },
+  {
+    "text": "excess of charge for myself looking at",
+    "start": 324.349,
+    "duration": 4.651
+  },
+  {
+    "text": "the data returned from these satellites",
+    "start": 327.469,
+    "duration": 4.29
+  },
+  {
+    "text": "I think we see clear evidence of charge",
+    "start": 329.0,
+    "duration": 6.629
+  },
+  {
+    "text": "separation inside of these belts and",
+    "start": 331.759,
+    "duration": 5.671
+  },
+  {
+    "text": "I've come to realize that overall charge",
+    "start": 335.629,
+    "duration": 4.611
+  },
+  {
+    "text": "neutrality is not really the point a",
+    "start": 337.43,
+    "duration": 5.82
+  },
+  {
+    "text": "battery that you hold in your hand has",
+    "start": 340.24,
+    "duration": 6.22
+  },
+  {
+    "text": "no overall charge on it but that's not",
+    "start": 343.25,
+    "duration": 4.919
+  },
+  {
+    "text": "the point the point is we've separated",
+    "start": 346.46,
+    "duration": 4.079
+  },
+  {
+    "text": "the charges in the battery so it can do",
+    "start": 348.169,
+    "duration": 5.67
+  },
+  {
+    "text": "work our nervous systems maintain a",
+    "start": 350.539,
+    "duration": 6.03
+  },
+  {
+    "text": "small charge separation with respect to",
+    "start": 353.839,
+    "duration": 5.461
+  },
+  {
+    "text": "the rest of our bodies that carefully",
+    "start": 356.569,
+    "duration": 5.731
+  },
+  {
+    "text": "managed charge separation allows you to",
+    "start": 359.3,
+    "duration": 5.19
+  },
+  {
+    "text": "have thoughts and feelings and move",
+    "start": 362.3,
+    "duration": 5.07
+  },
+  {
+    "text": "around all day so whether or not these",
+    "start": 364.49,
+    "duration": 4.649
+  },
+  {
+    "text": "Van Allen belts are overall charge",
+    "start": 367.37,
+    "duration": 4.71
+  },
+  {
+    "text": "neutral is not really so important what",
+    "start": 369.139,
+    "duration": 4.59
+  },
+  {
+    "text": "is important is all the phenomena that",
+    "start": 372.08,
+    "duration": 5.04
+  },
+  {
+    "text": "result from charge separation now the",
+    "start": 373.729,
+    "duration": 5.49
+  },
+  {
+    "text": "jet propulsion laboratory is making all",
+    "start": 377.12,
+    "duration": 4.139
+  },
+  {
+    "text": "the data from these satellites available",
+    "start": 379.219,
+    "duration": 4.62
+  },
+  {
+    "text": "on their web sites someone here to do a",
+    "start": 381.259,
+    "duration": 4.951
+  },
+  {
+    "text": "one-year research project simply on the",
+    "start": 383.839,
+    "duration": 4.85
+  },
+  {
+    "text": "data coming back from these satellites",
+    "start": 386.21,
+    "duration": 5.22
+  },
+  {
+    "text": "so getting back to the discoveries the",
+    "start": 388.689,
+    "duration": 5.2
+  },
+  {
+    "text": "first two stars discovery was that the",
+    "start": 391.43,
+    "duration": 4.099
+  },
+  {
+    "text": "Van Allen belts can",
+    "start": 393.889,
+    "duration": 3.62
+  },
+  {
+    "text": "additional shells that appear and",
+    "start": 395.529,
+    "duration": 5.01
+  },
+  {
+    "text": "disappear this picture of two rings is",
+    "start": 397.509,
+    "duration": 6.15
+  },
+  {
+    "text": "what we thought completely described the",
+    "start": 400.539,
+    "duration": 4.95
+  },
+  {
+    "text": "Van Allen belts around the earth then",
+    "start": 403.659,
+    "duration": 3.06
+  },
+  {
+    "text": "during the first few months of",
+    "start": 405.489,
+    "duration": 3.57
+  },
+  {
+    "text": "collecting data a burst of energy came",
+    "start": 406.719,
+    "duration": 6.11
+  },
+  {
+    "text": "from the Sun and the belts very quickly",
+    "start": 409.059,
+    "duration": 9.48
+  },
+  {
+    "text": "turned into that an additional shell had",
+    "start": 412.829,
+    "duration": 10.2
+  },
+  {
+    "text": "appeared then a few days went by and",
+    "start": 418.539,
+    "duration": 7.29
+  },
+  {
+    "text": "they returned to that this was a",
+    "start": 423.029,
+    "duration": 5.88
+  },
+  {
+    "text": "beautiful surprise completely unexpected",
+    "start": 425.829,
+    "duration": 6.72
+  },
+  {
+    "text": "what does it mean not sure do we see",
+    "start": 428.909,
+    "duration": 5.5
+  },
+  {
+    "text": "behavior like this anywhere else in the",
+    "start": 432.549,
+    "duration": 5.25
+  },
+  {
+    "text": "world we see something like this in the",
+    "start": 434.409,
+    "duration": 7.01
+  },
+  {
+    "text": "electron orbits in atoms and molecules",
+    "start": 437.799,
+    "duration": 7.38
+  },
+  {
+    "text": "this is a picture of an atom a positive",
+    "start": 441.419,
+    "duration": 5.97
+  },
+  {
+    "text": "charge in the center and then clouds",
+    "start": 445.179,
+    "duration": 6.03
+  },
+  {
+    "text": "fast moving negative charges around the",
+    "start": 447.389,
+    "duration": 7.48
+  },
+  {
+    "text": "center if you add energy to an atom then",
+    "start": 451.209,
+    "duration": 6.47
+  },
+  {
+    "text": "a second discrete shell will appear",
+    "start": 454.869,
+    "duration": 9.241
+  },
+  {
+    "text": "around the atom this is the basis of the",
+    "start": 457.679,
+    "duration": 8.29
+  },
+  {
+    "text": "whole world of quantum mechanics the",
+    "start": 464.11,
+    "duration": 4.199
+  },
+  {
+    "text": "world of the very small changes in jumps",
+    "start": 465.969,
+    "duration": 5.43
+  },
+  {
+    "text": "in steps and now we have seen the exact",
+    "start": 468.309,
+    "duration": 5.46
+  },
+  {
+    "text": "same thing happens in a much larger",
+    "start": 471.399,
+    "duration": 6.6
+  },
+  {
+    "text": "realm around us the Van Allen belts they",
+    "start": 473.769,
+    "duration": 6.81
+  },
+  {
+    "text": "were too then some energy comes from the",
+    "start": 477.999,
+    "duration": 5.79
+  },
+  {
+    "text": "Sun and they are three and it's soon",
+    "start": 480.579,
+    "duration": 5.06
+  },
+  {
+    "text": "after that they're back to two again",
+    "start": 483.789,
+    "duration": 4.71
+  },
+  {
+    "text": "nature it seems is quantized both at the",
+    "start": 485.639,
+    "duration": 5.52
+  },
+  {
+    "text": "level of changes around atoms and",
+    "start": 488.499,
+    "duration": 7.02
+  },
+  {
+    "text": "changes around planets the second",
+    "start": 491.159,
+    "duration": 7.42
+  },
+  {
+    "text": "discovery was the detection of double",
+    "start": 495.519,
+    "duration": 7.02
+  },
+  {
+    "text": "layers inside these large belts the",
+    "start": 498.579,
+    "duration": 6.39
+  },
+  {
+    "text": "material up in the Van Allen belts is an",
+    "start": 502.539,
+    "duration": 4.65
+  },
+  {
+    "text": "electrical plasma it's not a gas like we",
+    "start": 504.969,
+    "duration": 4.62
+  },
+  {
+    "text": "breathe it's much finer and more",
+    "start": 507.189,
+    "duration": 5.13
+  },
+  {
+    "text": "rarefied like a fire and then the plasma",
+    "start": 509.589,
+    "duration": 4.92
+  },
+  {
+    "text": "electrical charges are free to move",
+    "start": 512.319,
+    "duration": 5.37
+  },
+  {
+    "text": "around the charges and plasmas are very",
+    "start": 514.509,
+    "duration": 5.851
+  },
+  {
+    "text": "sensitive slight changes in electric",
+    "start": 517.689,
+    "duration": 4.56
+  },
+  {
+    "text": "fields can cause huge changes in how the",
+    "start": 520.36,
+    "duration": 4.709
+  },
+  {
+    "text": "plasma is arranged and one common",
+    "start": 522.249,
+    "duration": 6.241
+  },
+  {
+    "text": "structure in plasma is walls",
+    "start": 525.069,
+    "duration": 6.751
+  },
+  {
+    "text": "double layers in which charges build up",
+    "start": 528.49,
+    "duration": 5.94
+  },
+  {
+    "text": "say positive charges on one side of the",
+    "start": 531.82,
+    "duration": 6.24
+  },
+  {
+    "text": "wall and then a gap and the negative",
+    "start": 534.43,
+    "duration": 6.5
+  },
+  {
+    "text": "charges on the other side of the wall I",
+    "start": 538.06,
+    "duration": 5.13
+  },
+  {
+    "text": "look at this sometimes as a way for",
+    "start": 540.93,
+    "duration": 4.9
+  },
+  {
+    "text": "plasma to store energy if the plasma is",
+    "start": 543.19,
+    "duration": 5.07
+  },
+  {
+    "text": "in an energetic environment it will form",
+    "start": 545.83,
+    "duration": 5.879
+  },
+  {
+    "text": "and destroy these double layers to store",
+    "start": 548.26,
+    "duration": 7.56
+  },
+  {
+    "text": "and release energy these double layers",
+    "start": 551.709,
+    "duration": 7.051
+  },
+  {
+    "text": "can also travel in packs they can be",
+    "start": 555.82,
+    "duration": 6.389
+  },
+  {
+    "text": "lined up one after another and be moving",
+    "start": 558.76,
+    "duration": 4.47
+  },
+  {
+    "text": "through space",
+    "start": 562.209,
+    "duration": 4.531
+  },
+  {
+    "text": "the satellites saw something like this",
+    "start": 563.23,
+    "duration": 7.32
+  },
+  {
+    "text": "so here's the earth the magnetic field",
+    "start": 566.74,
+    "duration": 5.7
+  },
+  {
+    "text": "lines of the earth going from north to",
+    "start": 570.55,
+    "duration": 5.849
+  },
+  {
+    "text": "south this is the region of the outer",
+    "start": 572.44,
+    "duration": 8.64
+  },
+  {
+    "text": "Van Allen belt and they saw the",
+    "start": 576.399,
+    "duration": 8.931
+  },
+  {
+    "text": "satellite saw in a few seconds thousands",
+    "start": 581.08,
+    "duration": 7.35
+  },
+  {
+    "text": "thousands of little double layers go",
+    "start": 585.33,
+    "duration": 5.199
+  },
+  {
+    "text": "zooming past it at a very high speed",
+    "start": 588.43,
+    "duration": 4.29
+  },
+  {
+    "text": "each one of the little layers being",
+    "start": 590.529,
+    "duration": 5.041
+  },
+  {
+    "text": "about 30 volts but there are thousands",
+    "start": 592.72,
+    "duration": 5.01
+  },
+  {
+    "text": "of them so when you add all that up it's",
+    "start": 595.57,
+    "duration": 4.47
+  },
+  {
+    "text": "about a million volt difference from one",
+    "start": 597.73,
+    "duration": 4.77
+  },
+  {
+    "text": "end to the other and this giant",
+    "start": 600.04,
+    "duration": 4.95
+  },
+  {
+    "text": "traveling million vote waterfall seems",
+    "start": 602.5,
+    "duration": 5.04
+  },
+  {
+    "text": "to be accelerating electrons up to",
+    "start": 604.99,
+    "duration": 5.82
+  },
+  {
+    "text": "nearly the speed of light so a picture",
+    "start": 607.54,
+    "duration": 6.919
+  },
+  {
+    "text": "in your mind coming from the Sun large",
+    "start": 610.81,
+    "duration": 7.92
+  },
+  {
+    "text": "quantities of charged matter but which",
+    "start": 614.459,
+    "duration": 7.391
+  },
+  {
+    "text": "are very low energies a small number of",
+    "start": 618.73,
+    "duration": 4.77
+  },
+  {
+    "text": "these charges enter the Earth's",
+    "start": 621.85,
+    "duration": 4.02
+  },
+  {
+    "text": "environment and are stepped up to",
+    "start": 623.5,
+    "duration": 5.67
+  },
+  {
+    "text": "extremely high voltages now this is",
+    "start": 625.87,
+    "duration": 5.88
+  },
+  {
+    "text": "exactly what an electrical transformer",
+    "start": 629.17,
+    "duration": 5.789
+  },
+  {
+    "text": "does it takes high current and low",
+    "start": 631.75,
+    "duration": 6.029
+  },
+  {
+    "text": "voltage and changes that to low current",
+    "start": 634.959,
+    "duration": 6.721
+  },
+  {
+    "text": "at high voltage outside this building",
+    "start": 637.779,
+    "duration": 5.821
+  },
+  {
+    "text": "there's an electrical transformer that",
+    "start": 641.68,
+    "duration": 4.17
+  },
+  {
+    "text": "takes the thirty thousand volts from the",
+    "start": 643.6,
+    "duration": 4.5
+  },
+  {
+    "text": "long-distance power lines and steps that",
+    "start": 645.85,
+    "duration": 4.17
+  },
+  {
+    "text": "down to the hundred and ten volts we",
+    "start": 648.1,
+    "duration": 4.62
+  },
+  {
+    "text": "need for our wall sockets humanity's",
+    "start": 650.02,
+    "duration": 4.98
+  },
+  {
+    "text": "entire electrical infrastructure is",
+    "start": 652.72,
+    "duration": 5.489
+  },
+  {
+    "text": "built upon this one idea of electrical",
+    "start": 655.0,
+    "duration": 6.15
+  },
+  {
+    "text": "transformers every city on earth is",
+    "start": 658.209,
+    "duration": 4.471
+  },
+  {
+    "text": "packed with thousands of a",
+    "start": 661.15,
+    "duration": 4.23
+  },
+  {
+    "text": "electrical transformers it makes one",
+    "start": 662.68,
+    "duration": 5.849
+  },
+  {
+    "text": "wonder to ponder that all of us are",
+    "start": 665.38,
+    "duration": 6.36
+  },
+  {
+    "text": "sitting on a giant cosmological",
+    "start": 668.529,
+    "duration": 10.021
+  },
+  {
+    "text": "electrical transformer we'll look at one",
+    "start": 671.74,
+    "duration": 8.7
+  },
+  {
+    "text": "more part of the Earth's electrical",
+    "start": 678.55,
+    "duration": 5.28
+  },
+  {
+    "text": "environment so picture is the Sun",
+    "start": 680.44,
+    "duration": 5.91
+  },
+  {
+    "text": "picture the earth orbiting around the",
+    "start": 683.83,
+    "duration": 6.06
+  },
+  {
+    "text": "Sun all the while the Sun is pushing out",
+    "start": 686.35,
+    "duration": 6.66
+  },
+  {
+    "text": "the solar wind streams and streams of",
+    "start": 689.89,
+    "duration": 6.05
+  },
+  {
+    "text": "charged particles going past the earth",
+    "start": 693.01,
+    "duration": 5.79
+  },
+  {
+    "text": "the earth has its own magnetic north and",
+    "start": 695.94,
+    "duration": 6.88
+  },
+  {
+    "text": "south poles and in addition to simply",
+    "start": 698.8,
+    "duration": 5.7
+  },
+  {
+    "text": "orbiting around the Sun the earth is",
+    "start": 702.82,
+    "duration": 5.07
+  },
+  {
+    "text": "also spinning this is the shadow side of",
+    "start": 704.5,
+    "duration": 6.48
+  },
+  {
+    "text": "the earth and when we are in there we",
+    "start": 707.89,
+    "duration": 6.509
+  },
+  {
+    "text": "call it night and then as our little",
+    "start": 710.98,
+    "duration": 6.03
+  },
+  {
+    "text": "portion of the earth spins into the",
+    "start": 714.399,
+    "duration": 4.981
+  },
+  {
+    "text": "light of the Sun we call that dawn",
+    "start": 717.01,
+    "duration": 6.9
+  },
+  {
+    "text": "sunrise now when you put all of this",
+    "start": 719.38,
+    "duration": 8.67
+  },
+  {
+    "text": "together you get millions of amperes of",
+    "start": 723.91,
+    "duration": 6.57
+  },
+  {
+    "text": "current that are constantly streaming",
+    "start": 728.05,
+    "duration": 8.34
+  },
+  {
+    "text": "down into the dawn side interacting with",
+    "start": 730.48,
+    "duration": 7.32
+  },
+  {
+    "text": "the earth in ways that we do not",
+    "start": 736.39,
+    "duration": 4.71
+  },
+  {
+    "text": "understand and then exiting back out on",
+    "start": 737.8,
+    "duration": 7.11
+  },
+  {
+    "text": "the sunset side in a very simple way new",
+    "start": 741.1,
+    "duration": 6.51
+  },
+  {
+    "text": "energy comes streaming down to all of us",
+    "start": 744.91,
+    "duration": 6.06
+  },
+  {
+    "text": "at the start of every day and then at",
+    "start": 747.61,
+    "duration": 6.0
+  },
+  {
+    "text": "the other end when the day is over all",
+    "start": 750.97,
+    "duration": 5.25
+  },
+  {
+    "text": "the results from the day are pulled back",
+    "start": 753.61,
+    "duration": 6.38
+  },
+  {
+    "text": "out and sent back to the solar system",
+    "start": 756.22,
+    "duration": 6.66
+  },
+  {
+    "text": "each day the activity from plants and",
+    "start": 759.99,
+    "duration": 4.81
+  },
+  {
+    "text": "animals all the killings and the",
+    "start": 762.88,
+    "duration": 3.93
+  },
+  {
+    "text": "birthings and the growths and the decays",
+    "start": 764.8,
+    "duration": 4.86
+  },
+  {
+    "text": "all that is somehow taken back up from",
+    "start": 766.81,
+    "duration": 6.09
+  },
+  {
+    "text": "the earth each day all human activity",
+    "start": 769.66,
+    "duration": 5.04
+  },
+  {
+    "text": "all that you have sought for and found",
+    "start": 772.9,
+    "duration": 4.559
+  },
+  {
+    "text": "achieved and failed at the end of the",
+    "start": 774.7,
+    "duration": 5.579
+  },
+  {
+    "text": "day it is pulled off and sent back to",
+    "start": 777.459,
+    "duration": 5.611
+  },
+  {
+    "text": "whence it came to fulfill uses that we",
+    "start": 780.279,
+    "duration": 6.3
+  },
+  {
+    "text": "cannot comprehend fascinating that the",
+    "start": 783.07,
+    "duration": 7.29
+  },
+  {
+    "text": "same flow has been seen around IO which",
+    "start": 786.579,
+    "duration": 6.991
+  },
+  {
+    "text": "is a moon of Jupiter IO also has million",
+    "start": 790.36,
+    "duration": 5.26
+  },
+  {
+    "text": "ampere currents that come streaming",
+    "start": 793.57,
+    "duration": 5.56
+  },
+  {
+    "text": "it's side of the of its side that is",
+    "start": 795.62,
+    "duration": 6.48
+  },
+  {
+    "text": "turning to face Jupiter and similarly",
+    "start": 799.13,
+    "duration": 4.95
+  },
+  {
+    "text": "currents being drawn off on the side of",
+    "start": 802.1,
+    "duration": 6.36
+  },
+  {
+    "text": "Io that's turning away from Jupiter this",
+    "start": 804.08,
+    "duration": 6.12
+  },
+  {
+    "text": "makes me think this phenomena might be",
+    "start": 808.46,
+    "duration": 3.96
+  },
+  {
+    "text": "an electrical feature of all planets and",
+    "start": 810.2,
+    "duration": 5.4
+  },
+  {
+    "text": "moons whenever a smaller body orbits a",
+    "start": 812.42,
+    "duration": 5.91
+  },
+  {
+    "text": "larger body we might see this sort of",
+    "start": 815.6,
+    "duration": 5.34
+  },
+  {
+    "text": "exchange this also will be a good topic",
+    "start": 818.33,
+    "duration": 4.92
+  },
+  {
+    "text": "for someone here to take on either from",
+    "start": 820.94,
+    "duration": 4.29
+  },
+  {
+    "text": "an experimental or a theoretical side",
+    "start": 823.25,
+    "duration": 4.02
+  },
+  {
+    "text": "now if you're like me right about now",
+    "start": 825.23,
+    "duration": 6.06
+  },
+  {
+    "text": "your head is really starting to hurt how",
+    "start": 827.27,
+    "duration": 6.81
+  },
+  {
+    "text": "do we put this all together we have an",
+    "start": 831.29,
+    "duration": 4.59
+  },
+  {
+    "text": "earth that looks like an atom with a",
+    "start": 834.08,
+    "duration": 4.26
+  },
+  {
+    "text": "positive Center and discrete shells of",
+    "start": 835.88,
+    "duration": 4.62
+  },
+  {
+    "text": "electrons surrounding it inside these",
+    "start": 838.34,
+    "duration": 4.11
+  },
+  {
+    "text": "shells are megavolt cascades of",
+    "start": 840.5,
+    "duration": 4.35
+  },
+  {
+    "text": "electrical double layers zooming between",
+    "start": 842.45,
+    "duration": 4.32
+  },
+  {
+    "text": "north and south pole accelerating",
+    "start": 844.85,
+    "duration": 3.39
+  },
+  {
+    "text": "electrons to nearly the speed of light",
+    "start": 846.77,
+    "duration": 3.99
+  },
+  {
+    "text": "we have mega ampere current streaming",
+    "start": 848.24,
+    "duration": 4.5
+  },
+  {
+    "text": "down on the dawn side and back out at",
+    "start": 850.76,
+    "duration": 5.43
+  },
+  {
+    "text": "dusk we're not in Kansas anymore with",
+    "start": 852.74,
+    "duration": 6.84
+  },
+  {
+    "text": "the earth surrounded by empty space we",
+    "start": 856.19,
+    "duration": 4.83
+  },
+  {
+    "text": "can no longer think the earth in the",
+    "start": 859.58,
+    "duration": 3.9
+  },
+  {
+    "text": "electrical environment is simple just",
+    "start": 861.02,
+    "duration": 4.17
+  },
+  {
+    "text": "the opposite we must admit that it is",
+    "start": 863.48,
+    "duration": 5.03
+  },
+  {
+    "text": "more complicated than we can think about",
+    "start": 865.19,
+    "duration": 6.74
+  },
+  {
+    "text": "so how do we think better about this",
+    "start": 868.51,
+    "duration": 6.64
+  },
+  {
+    "text": "when we see a part separated from the",
+    "start": 871.93,
+    "duration": 5.95
+  },
+  {
+    "text": "hole we often see only a collection of",
+    "start": 875.15,
+    "duration": 5.61
+  },
+  {
+    "text": "facts and if we continue to look at the",
+    "start": 877.88,
+    "duration": 5.28
+  },
+  {
+    "text": "parts without understanding the hole we",
+    "start": 880.76,
+    "duration": 5.76
+  },
+  {
+    "text": "usually come to wrong conclusions the",
+    "start": 883.16,
+    "duration": 5.46
+  },
+  {
+    "text": "world of genetics has recently had to",
+    "start": 886.52,
+    "duration": 3.9
+  },
+  {
+    "text": "admit that it had formed wrong",
+    "start": 888.62,
+    "duration": 4.71
+  },
+  {
+    "text": "conclusions we used to think that DNA",
+    "start": 890.42,
+    "duration": 5.7
+  },
+  {
+    "text": "would explain everything but it cannot",
+    "start": 893.33,
+    "duration": 5.16
+  },
+  {
+    "text": "because DNA is part of a larger whole",
+    "start": 896.12,
+    "duration": 5.55
+  },
+  {
+    "text": "and there are other parts in us that are",
+    "start": 898.49,
+    "duration": 5.49
+  },
+  {
+    "text": "deciding how and when to use the",
+    "start": 901.67,
+    "duration": 5.91
+  },
+  {
+    "text": "information in the DNA it takes a lot of",
+    "start": 903.98,
+    "duration": 5.52
+  },
+  {
+    "text": "effort to place things correctly",
+    "start": 907.58,
+    "duration": 4.59
+  },
+  {
+    "text": "together into a whole here's a drawing",
+    "start": 909.5,
+    "duration": 5.04
+  },
+  {
+    "text": "of the electrical potential between the",
+    "start": 912.17,
+    "duration": 8.13
+  },
+  {
+    "text": "earth and the Sun the Sun is at a higher",
+    "start": 914.54,
+    "duration": 9.69
+  },
+  {
+    "text": "electrical potential than the earth how",
+    "start": 920.3,
+    "duration": 6.27
+  },
+  {
+    "text": "do we know this well some people put up",
+    "start": 924.23,
+    "duration": 4.829
+  },
+  {
+    "text": "a satellite with a 70 meter",
+    "start": 926.57,
+    "duration": 5.219
+  },
+  {
+    "text": "boom arm to measure the electrical",
+    "start": 929.059,
+    "duration": 4.74
+  },
+  {
+    "text": "properties on either side of that 70",
+    "start": 931.789,
+    "duration": 4.5
+  },
+  {
+    "text": "meter distance and when the boom arm was",
+    "start": 933.799,
+    "duration": 4.92
+  },
+  {
+    "text": "aligned one arm pointing towards the Sun",
+    "start": 936.289,
+    "duration": 6.26
+  },
+  {
+    "text": "and the other pointing towards the earth",
+    "start": 938.719,
+    "duration": 6.75
+  },
+  {
+    "text": "then they measured similar to those Van",
+    "start": 942.549,
+    "duration": 6.13
+  },
+  {
+    "text": "Allen belts a steady stream of double",
+    "start": 945.469,
+    "duration": 6.3
+  },
+  {
+    "text": "layers coming from the Sun going past",
+    "start": 948.679,
+    "duration": 5.07
+  },
+  {
+    "text": "the earth and each one of those layers",
+    "start": 951.769,
+    "duration": 3.89
+  },
+  {
+    "text": "was oriented in the same direction",
+    "start": 953.749,
+    "duration": 5.46
+  },
+  {
+    "text": "always going lower potential away from",
+    "start": 955.659,
+    "duration": 5.94
+  },
+  {
+    "text": "the Sun an image would be like a stream",
+    "start": 959.209,
+    "duration": 5.07
+  },
+  {
+    "text": "meandering down a hillside with all",
+    "start": 961.599,
+    "duration": 4.72
+  },
+  {
+    "text": "those little waves on the surface as you",
+    "start": 964.279,
+    "duration": 4.95
+  },
+  {
+    "text": "fall down from rock to rock each little",
+    "start": 966.319,
+    "duration": 4.86
+  },
+  {
+    "text": "fallen height represents a little bit of",
+    "start": 969.229,
+    "duration": 5.1
+  },
+  {
+    "text": "available energy between the Earth and",
+    "start": 971.179,
+    "duration": 5.07
+  },
+  {
+    "text": "the Sun there are a series of little",
+    "start": 974.329,
+    "duration": 5.67
+  },
+  {
+    "text": "discrete voltage drops and if you assume",
+    "start": 976.249,
+    "duration": 6.15
+  },
+  {
+    "text": "that the steps we see here that earth",
+    "start": 979.999,
+    "duration": 4.47
+  },
+  {
+    "text": "continued all the way back to the Sun",
+    "start": 982.399,
+    "duration": 4.8
+  },
+  {
+    "text": "then you get about 600 volts difference",
+    "start": 984.469,
+    "duration": 6.36
+  },
+  {
+    "text": "between the earth and the Sun and nature",
+    "start": 987.199,
+    "duration": 5.79
+  },
+  {
+    "text": "has yet again chosen to effect energy",
+    "start": 990.829,
+    "duration": 4.26
+  },
+  {
+    "text": "differences an energy transfer through a",
+    "start": 992.989,
+    "duration": 5.88
+  },
+  {
+    "text": "series of small steps there are it seems",
+    "start": 995.089,
+    "duration": 6.45
+  },
+  {
+    "text": "very few Niagara Falls in nature where",
+    "start": 998.869,
+    "duration": 4.8
+  },
+  {
+    "text": "the energy transition takes place in one",
+    "start": 1001.539,
+    "duration": 5.73
+  },
+  {
+    "text": "giant step nature appears to prefer many",
+    "start": 1003.669,
+    "duration": 7.82
+  },
+  {
+    "text": "small steps let us look at this again",
+    "start": 1007.269,
+    "duration": 7.49
+  },
+  {
+    "text": "the earth is orbiting around the Sun",
+    "start": 1011.489,
+    "duration": 5.68
+  },
+  {
+    "text": "downhill some seven of several hundred",
+    "start": 1014.759,
+    "duration": 5.41
+  },
+  {
+    "text": "volts from the Sun it's orbiting a sixty",
+    "start": 1017.169,
+    "duration": 4.92
+  },
+  {
+    "text": "thousand miles an hour through the solar",
+    "start": 1020.169,
+    "duration": 2.66
+  },
+  {
+    "text": "wind",
+    "start": 1022.089,
+    "duration": 4.881
+  },
+  {
+    "text": "the earth has concentric shells red and",
+    "start": 1022.829,
+    "duration": 10.17
+  },
+  {
+    "text": "indicating elect negative blue positive",
+    "start": 1026.97,
+    "duration": 9.189
+  },
+  {
+    "text": "charged particles from the Sun and the",
+    "start": 1032.999,
+    "duration": 5.95
+  },
+  {
+    "text": "Earth's ionosphere combined inside of",
+    "start": 1036.159,
+    "duration": 5.04
+  },
+  {
+    "text": "these shells these particles are",
+    "start": 1038.949,
+    "duration": 3.901
+  },
+  {
+    "text": "accelerated to nearly the speed of light",
+    "start": 1041.199,
+    "duration": 3.96
+  },
+  {
+    "text": "by million volt double layers flying",
+    "start": 1042.85,
+    "duration": 4.62
+  },
+  {
+    "text": "back and forth between the Earth's North",
+    "start": 1045.159,
+    "duration": 6.15
+  },
+  {
+    "text": "and South Poles some of that transformed",
+    "start": 1047.47,
+    "duration": 5.669
+  },
+  {
+    "text": "energy comes zooming back down to earth",
+    "start": 1051.309,
+    "duration": 5.31
+  },
+  {
+    "text": "in the North and the South Poles some of",
+    "start": 1053.139,
+    "duration": 5.431
+  },
+  {
+    "text": "that energy continues back to the solar",
+    "start": 1056.619,
+    "duration": 4.26
+  },
+  {
+    "text": "wind and then to connect to other",
+    "start": 1058.57,
+    "duration": 4.38
+  },
+  {
+    "text": "planets to Mars or to Jupiter",
+    "start": 1060.879,
+    "duration": 4.201
+  },
+  {
+    "text": "or maybe head out past the bounds of the",
+    "start": 1062.95,
+    "duration": 6.39
+  },
+  {
+    "text": "solar system pondering this picture it",
+    "start": 1065.08,
+    "duration": 6.54
+  },
+  {
+    "text": "is about the most complicated electrical",
+    "start": 1069.34,
+    "duration": 5.61
+  },
+  {
+    "text": "transformer one could imagine recall us",
+    "start": 1071.62,
+    "duration": 4.98
+  },
+  {
+    "text": "at the beginning of the talk that each",
+    "start": 1074.95,
+    "duration": 3.81
+  },
+  {
+    "text": "cell in your body is just as complicated",
+    "start": 1076.6,
+    "duration": 4.8
+  },
+  {
+    "text": "as your entire body well it's starting",
+    "start": 1078.76,
+    "duration": 4.8
+  },
+  {
+    "text": "to look like our solar system may be",
+    "start": 1081.4,
+    "duration": 5.58
+  },
+  {
+    "text": "that complicated we have focused on just",
+    "start": 1083.56,
+    "duration": 5.22
+  },
+  {
+    "text": "the earth in this talk remember there",
+    "start": 1086.98,
+    "duration": 3.8
+  },
+  {
+    "text": "are other planets each with unique",
+    "start": 1088.78,
+    "duration": 4.8
+  },
+  {
+    "text": "electrical environments and therefore",
+    "start": 1090.78,
+    "duration": 4.87
+  },
+  {
+    "text": "different transforming capabilities and",
+    "start": 1093.58,
+    "duration": 5.85
+  },
+  {
+    "text": "let's not even talk about comets the",
+    "start": 1095.65,
+    "duration": 6.06
+  },
+  {
+    "text": "solar system is a vast transforming",
+    "start": 1099.43,
+    "duration": 4.8
+  },
+  {
+    "text": "apparatus if we did not know that",
+    "start": 1101.71,
+    "duration": 4.68
+  },
+  {
+    "text": "previously it was only because we",
+    "start": 1104.23,
+    "duration": 5.04
+  },
+  {
+    "text": "assumed the solar system must be simple",
+    "start": 1106.39,
+    "duration": 5.94
+  },
+  {
+    "text": "and an uninteresting place mostly empty",
+    "start": 1109.27,
+    "duration": 6.48
+  },
+  {
+    "text": "space now we are starting to know more",
+    "start": 1112.33,
+    "duration": 6.05
+  },
+  {
+    "text": "and this little scratch of the surface",
+    "start": 1115.75,
+    "duration": 5.01
+  },
+  {
+    "text": "absolutely pushes our powers of",
+    "start": 1118.38,
+    "duration": 5.23
+  },
+  {
+    "text": "comprehension the Sun and the planets",
+    "start": 1120.76,
+    "duration": 5.43
+  },
+  {
+    "text": "have electrical properties no scientists",
+    "start": 1123.61,
+    "duration": 3.75
+  },
+  {
+    "text": "would disagree with that",
+    "start": 1126.19,
+    "duration": 4.59
+  },
+  {
+    "text": "the real fights begin when you start",
+    "start": 1127.36,
+    "duration": 5.7
+  },
+  {
+    "text": "discussing the importance of those",
+    "start": 1130.78,
+    "duration": 4.56
+  },
+  {
+    "text": "electrical properties as one",
+    "start": 1133.06,
+    "duration": 4.28
+  },
+  {
+    "text": "astrophysicist explained and asked",
+    "start": 1135.34,
+    "duration": 5.13
+  },
+  {
+    "text": "exasperation okay there are electrical",
+    "start": 1137.34,
+    "duration": 4.87
+  },
+  {
+    "text": "currents near the Sun but they're not",
+    "start": 1140.47,
+    "duration": 7.47
+  },
+  {
+    "text": "doing anything now you may recall the",
+    "start": 1142.21,
+    "duration": 9.0
+  },
+  {
+    "text": "Sun has dark spots on it sunspots about",
+    "start": 1147.94,
+    "duration": 5.4
+  },
+  {
+    "text": "a hundred billion amperes of current are",
+    "start": 1151.21,
+    "duration": 4.53
+  },
+  {
+    "text": "coming out of sunspots a single sunspot",
+    "start": 1153.34,
+    "duration": 4.74
+  },
+  {
+    "text": "that much current would power every home",
+    "start": 1155.74,
+    "duration": 4.98
+  },
+  {
+    "text": "in the United States now we live in a",
+    "start": 1158.08,
+    "duration": 4.98
+  },
+  {
+    "text": "very economical universe and that",
+    "start": 1160.72,
+    "duration": 5.16
+  },
+  {
+    "text": "hundred billion amps is not being wasted",
+    "start": 1163.06,
+    "duration": 6.78
+  },
+  {
+    "text": "it is doing something the earth also has",
+    "start": 1165.88,
+    "duration": 6.24
+  },
+  {
+    "text": "electrical properties no one would argue",
+    "start": 1169.84,
+    "duration": 2.79
+  },
+  {
+    "text": "with that",
+    "start": 1172.12,
+    "duration": 2.28
+  },
+  {
+    "text": "again the arguments come about how",
+    "start": 1172.63,
+    "duration": 5.91
+  },
+  {
+    "text": "important it all is and perhaps the",
+    "start": 1174.4,
+    "duration": 6.83
+  },
+  {
+    "text": "arguments are really about two things",
+    "start": 1178.54,
+    "duration": 5.82
+  },
+  {
+    "text": "one set of fights is about whether or",
+    "start": 1181.23,
+    "duration": 5.97
+  },
+  {
+    "text": "not there's any purpose to it all",
+    "start": 1184.36,
+    "duration": 5.49
+  },
+  {
+    "text": "another set of fights is about whether",
+    "start": 1187.2,
+    "duration": 4.93
+  },
+  {
+    "text": "or not we humans are the most important",
+    "start": 1189.85,
+    "duration": 5.08
+  },
+  {
+    "text": "thing in the picture",
+    "start": 1192.13,
+    "duration": 6.7
+  },
+  {
+    "text": "purpose is a very practical word we do",
+    "start": 1194.93,
+    "duration": 5.31
+  },
+  {
+    "text": "not need to get into religious fights",
+    "start": 1198.83,
+    "duration": 2.07
+  },
+  {
+    "text": "about it",
+    "start": 1200.24,
+    "duration": 3.99
+  },
+  {
+    "text": "purpose is related to function inside",
+    "start": 1200.9,
+    "duration": 4.98
+  },
+  {
+    "text": "your stomach there are cells whose",
+    "start": 1204.23,
+    "duration": 4.11
+  },
+  {
+    "text": "function it is to manufacture and",
+    "start": 1205.88,
+    "duration": 5.1
+  },
+  {
+    "text": "excrete acids for the practical purpose",
+    "start": 1208.34,
+    "duration": 6.72
+  },
+  {
+    "text": "of digesting your food inside each plant",
+    "start": 1210.98,
+    "duration": 5.82
+  },
+  {
+    "text": "there are many chlorophyll molecules",
+    "start": 1215.06,
+    "duration": 3.93
+  },
+  {
+    "text": "whose function it is to begin the",
+    "start": 1216.8,
+    "duration": 4.32
+  },
+  {
+    "text": "multi-step process of locking energy of",
+    "start": 1218.99,
+    "duration": 4.77
+  },
+  {
+    "text": "sunlight into organic matter of fruits",
+    "start": 1221.12,
+    "duration": 5.94
+  },
+  {
+    "text": "and vegetables in part for the practical",
+    "start": 1223.76,
+    "duration": 5.52
+  },
+  {
+    "text": "purpose of keeping animals like you and",
+    "start": 1227.06,
+    "duration": 6.03
+  },
+  {
+    "text": "me alive these are functions and",
+    "start": 1229.28,
+    "duration": 6.99
+  },
+  {
+    "text": "purposes that are visible to our eyes so",
+    "start": 1233.09,
+    "duration": 5.28
+  },
+  {
+    "text": "why looking at connections between the",
+    "start": 1236.27,
+    "duration": 4.2
+  },
+  {
+    "text": "Earth and the Sun do we have such a",
+    "start": 1238.37,
+    "duration": 4.52
+  },
+  {
+    "text": "difficult time seeing practical",
+    "start": 1240.47,
+    "duration": 7.23
+  },
+  {
+    "text": "purposeful function so this leads to the",
+    "start": 1242.89,
+    "duration": 6.88
+  },
+  {
+    "text": "second problem our tendency is to think",
+    "start": 1247.7,
+    "duration": 4.05
+  },
+  {
+    "text": "that we are the most important thing in",
+    "start": 1249.77,
+    "duration": 4.65
+  },
+  {
+    "text": "the universe if I'm the most important",
+    "start": 1251.75,
+    "duration": 4.74
+  },
+  {
+    "text": "thing then how could there be a purpose",
+    "start": 1254.42,
+    "duration": 6.06
+  },
+  {
+    "text": "that is bigger than me it is similar to",
+    "start": 1256.49,
+    "duration": 5.61
+  },
+  {
+    "text": "the difficulty of accepting that the",
+    "start": 1260.48,
+    "duration": 3.6
+  },
+  {
+    "text": "earth is not the center of the universe",
+    "start": 1262.1,
+    "duration": 4.5
+  },
+  {
+    "text": "we are ok thinking that everything",
+    "start": 1264.08,
+    "duration": 5.61
+  },
+  {
+    "text": "revolves around us but we get upset if",
+    "start": 1266.6,
+    "duration": 6.03
+  },
+  {
+    "text": "someone tells us that we are orbiting",
+    "start": 1269.69,
+    "duration": 6.36
+  },
+  {
+    "text": "around something so if someone suggests",
+    "start": 1272.63,
+    "duration": 5.04
+  },
+  {
+    "text": "that between the Sun and the earth there",
+    "start": 1276.05,
+    "duration": 3.27
+  },
+  {
+    "text": "are large scale processes of",
+    "start": 1277.67,
+    "duration": 4.41
+  },
+  {
+    "text": "transformation in which we humans appear",
+    "start": 1279.32,
+    "duration": 5.3
+  },
+  {
+    "text": "to play only a very small part",
+    "start": 1282.08,
+    "duration": 5.76
+  },
+  {
+    "text": "well that is insulting to our exalted",
+    "start": 1284.62,
+    "duration": 7.15
+  },
+  {
+    "text": "opinion of ourselves studying these",
+    "start": 1287.84,
+    "duration": 6.06
+  },
+  {
+    "text": "larger connections studying how the",
+    "start": 1291.77,
+    "duration": 5.58
+  },
+  {
+    "text": "earth digests and transforms solar",
+    "start": 1293.9,
+    "duration": 6.15
+  },
+  {
+    "text": "energies might be insulting to me",
+    "start": 1297.35,
+    "duration": 5.36
+  },
+  {
+    "text": "because these are functions that I serve",
+    "start": 1300.05,
+    "duration": 7.44
+  },
+  {
+    "text": "those functions do not serve me but if",
+    "start": 1302.71,
+    "duration": 7.36
+  },
+  {
+    "text": "we can overcome our self-importance we",
+    "start": 1307.49,
+    "duration": 4.5
+  },
+  {
+    "text": "are poised now to understand the Earth's",
+    "start": 1310.07,
+    "duration": 4.41
+  },
+  {
+    "text": "electrical environment in a way that",
+    "start": 1311.99,
+    "duration": 5.42
+  },
+  {
+    "text": "will relate the part to the whole and",
+    "start": 1314.48,
+    "duration": 6.0
+  },
+  {
+    "text": "seeing the part in relation to the whole",
+    "start": 1317.41,
+    "duration": 7.39
+  },
+  {
+    "text": "is one definition of the word meaning so",
+    "start": 1320.48,
+    "duration": 8.01
+  },
+  {
+    "text": "we are exploring a world of new meaning",
+    "start": 1324.8,
+    "duration": 8.21
+  },
+  {
+    "text": "and that is very exciting thank you",
+    "start": 1328.49,
+    "duration": 5.67
+  },
+  {
+    "text": "[Applause]",
+    "start": 1333.01,
+    "duration": 8.19
+  },
+  {
+    "text": "[Music]",
+    "start": 1334.16,
+    "duration": 7.04
+  },
+  {
+    "text": "[Music]",
+    "start": 1344.4,
+    "duration": 2.429
+  }
+]

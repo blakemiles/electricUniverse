@@ -1,0 +1,2487 @@
+[
+  {
+    "text": "The SAFIRE technology was designed and\nbuilt to replicate the atmosphere of the",
+    "start": 27.25,
+    "duration": 5.07
+  },
+  {
+    "text": "Sun in a laboratory on Earth, and\nto test the Electric Sun model.",
+    "start": 32.32,
+    "duration": 6.27
+  },
+  {
+    "text": "These are the\nfactors we control.",
+    "start": 38.59,
+    "duration": 6.05
+  },
+  {
+    "text": "These are some of the things the\nSAFIRE lab is now capable of.",
+    "start": 47.64,
+    "duration": 7.38
+  },
+  {
+    "text": "These are some of\nour recent discoveries.",
+    "start": 65.48,
+    "duration": 5.03
+  },
+  {
+    "text": "In our tests and experiments, we have found\nno disparities with the Electric Sun model.",
+    "start": 77.45,
+    "duration": 4.32
+  },
+  {
+    "text": "In fact, all the evidence to date\nindicates that electricity is the primal",
+    "start": 87.93,
+    "duration": 6.46
+  },
+  {
+    "text": "force in the universe.",
+    "start": 94.39,
+    "duration": 3.08
+  },
+  {
+    "text": "Michael Clarage arrives from Boston.",
+    "start": 106.07,
+    "duration": 3.43
+  },
+  {
+    "text": "We have just completed our latest\nexperiments in the lab and were",
+    "start": 109.92,
+    "duration": 7.65
+  },
+  {
+    "text": "confronted with mountains of information\nand imagery from a score of data recorders.",
+    "start": 117.57,
+    "duration": 6.04
+  },
+  {
+    "text": "The plan is to park ourselves in\nmy garage for two weeks and prepare",
+    "start": 131.61,
+    "duration": 2.79
+  },
+  {
+    "text": "for the upcoming\nconference in the UK.",
+    "start": 134.4,
+    "duration": 3.92
+  },
+  {
+    "text": "Analyzing the SAFIRE data\nis like going through a",
+    "start": 150.41,
+    "duration": 2.14
+  },
+  {
+    "text": "door only to discover\nanother door beyond.",
+    "start": 152.55,
+    "duration": 4.01
+  },
+  {
+    "text": "Doors upon doors opening\nto unfamiliar territory.",
+    "start": 156.56,
+    "duration": 3.88
+  },
+  {
+    "text": "We're looking for a coherent story\nthat we can present at the conference.",
+    "start": 160.44,
+    "duration": 6.1
+  },
+  {
+    "text": "Something that happens in a few seconds\nin the lab can take weeks to analyze.",
+    "start": 175.54,
+    "duration": 4.96
+  },
+  {
+    "text": "Turning those analyses into a\n45 minute PowerPoint presentation is",
+    "start": 180.5,
+    "duration": 4.15
+  },
+  {
+    "text": "another challenge all together.",
+    "start": 184.65,
+    "duration": 3.89
+  },
+  {
+    "text": "A year ago, the SAFIRE review team set\nthe agenda for the next 12 months.",
+    "start": 194.59,
+    "duration": 6.92
+  },
+  {
+    "text": "The plan was to focus on three things: energy,\ntransmutation, and finding parallels",
+    "start": 201.51,
+    "duration": 10.39
+  },
+  {
+    "text": "between the SAFIRE Sun in the\nlab and the Sun in the sky.",
+    "start": 211.9,
+    "duration": 6.36
+  },
+  {
+    "text": "During the year, we also gave\ntalks at the Electric Universe",
+    "start": 219.26,
+    "duration": 2.74
+  },
+  {
+    "text": "UK conference in 2018, the New England\nVenture summit, and MIT in Boston.",
+    "start": 222.37,
+    "duration": 9.19
+  },
+  {
+    "text": "It is two days away from the conference in\nBath, and we still don't have our story yet.",
+    "start": 233.51,
+    "duration": 5.89
+  },
+  {
+    "text": "Scott Mainwaring and I go over the\nmaterial to be presented at the",
+    "start": 285.82,
+    "duration": 4.21
+  },
+  {
+    "text": "conference tomorrow.",
+    "start": 290.03,
+    "duration": 1.66
+  },
+  {
+    "text": "Scott was responsible for our original\nmandate which was to test the Electric",
+    "start": 294.7,
+    "duration": 6.04
+  },
+  {
+    "text": "Sun model by replicating the atmosphere\nof the Sun in a lab on Earth.",
+    "start": 300.74,
+    "duration": 4.8
+  },
+  {
+    "text": "Given the discoveries of the last 12 months,\nScott states that we fulfilled our",
+    "start": 308.54,
+    "duration": 4.5
+  },
+  {
+    "text": "research objectives\nand our mandate.",
+    "start": 313.04,
+    "duration": 3.49
+  },
+  {
+    "text": "The International Science Foundation has\ngiven us the amazing luxury of doing",
+    "start": 328.42,
+    "duration": 5.02
+  },
+  {
+    "text": "pure science for\nthe last five years.",
+    "start": 333.44,
+    "duration": 2.89
+  },
+  {
+    "text": "Now it is for us to turn what we've\nlearned into something useful, something",
+    "start": 338.97,
+    "duration": 6.34
+  },
+  {
+    "text": "beneficial to humanity.",
+    "start": 345.31,
+    "duration": 2.19
+  },
+  {
+    "text": "I realize the story Michael and I've\nbeen struggling to articulate is only",
+    "start": 361.96,
+    "duration": 7.07
+  },
+  {
+    "text": "partly about what we've\ndiscovered this past year.",
+    "start": 369.03,
+    "duration": 3.49
+  },
+  {
+    "text": "The more complete story needs\nto include our new mandate.",
+    "start": 372.55,
+    "duration": 4.95
+  },
+  {
+    "text": "Ladies and gentlemen, Monty Childs and\nDr. Michael Clarage, the SAFIRE project.",
+    "start": 379.5,
+    "duration": 7.47
+  },
+  {
+    "text": "You can hear everything can you?\nI even hear myself.",
+    "start": 401.97,
+    "duration": 3.09
+  },
+  {
+    "text": "So we're gonna start from the beginning,\nthere's two fundamental components to",
+    "start": 405.5,
+    "duration": 4.97
+  },
+  {
+    "text": "thermodynamics when you're\nheating something up.",
+    "start": 410.47,
+    "duration": 2.06
+  },
+  {
+    "text": "If you have a pot of water and you\nhave a candle underneath it, it",
+    "start": 412.6,
+    "duration": 4.26
+  },
+  {
+    "text": "might take an hour to heat it up to bring it to\na boil, then it stabilizes at that temperature.",
+    "start": 416.86,
+    "duration": 4.65
+  },
+  {
+    "text": "So that's what we\ncall steady state.",
+    "start": 421.51,
+    "duration": 2.1
+  },
+  {
+    "text": "What's important is that if you take a\nblowtorch from the mine down the road, OK,",
+    "start": 423.61,
+    "duration": 7.92
+  },
+  {
+    "text": "that they use to melt steel, and put\nunderneath the pot; that rise in",
+    "start": 431.53,
+    "duration": 4.19
+  },
+  {
+    "text": "temperature is gonna happen maybe within\na couple of seconds, and the water will",
+    "start": 435.72,
+    "duration": 4.47
+  },
+  {
+    "text": "come to its steady state or maybe\nit'll go on and just vaporize.",
+    "start": 440.19,
+    "duration": 3.35
+  },
+  {
+    "text": "So I want you to keep that in mind\nas we walk through this section.",
+    "start": 443.54,
+    "duration": 3.93
+  },
+  {
+    "text": "In the lab, when we're running\nthat particular bright ball, so",
+    "start": 447.68,
+    "duration": 4.45
+  },
+  {
+    "text": "Ben's there, he's capturing his video, we're\ncapturing video on our screens and the computers...",
+    "start": 452.13,
+    "duration": 6.35
+  },
+  {
+    "text": "The anode, you heard me saying that 'bring\nit back, bring the power back, bring it",
+    "start": 504.79,
+    "duration": 4.66
+  },
+  {
+    "text": "back, bring it back back,\nplease bring it back!'",
+    "start": 509.45,
+    "duration": 1.95
+  },
+  {
+    "text": "Reason is because we're reaching the\nreactor maximum temperature and we",
+    "start": 511.76,
+    "duration": 6.27
+  },
+  {
+    "text": "weren't able to stop it.",
+    "start": 518.03,
+    "duration": 1.47
+  },
+  {
+    "text": "Dr. Lowell Morgan, myself and a guy named\nTommy Mello who actually works in",
+    "start": 519.51,
+    "duration": 5.36
+  },
+  {
+    "text": "development of computational fluid\ndynamics code, and that code is used by",
+    "start": 524.87,
+    "duration": 3.81
+  },
+  {
+    "text": "NASA and Lockheed and others, all\nkinds of corporations to do",
+    "start": 528.68,
+    "duration": 3.98
+  },
+  {
+    "text": "thermodynamic analysis, in other words\nrocket engines, cooling systems and the",
+    "start": 532.66,
+    "duration": 4.27
+  },
+  {
+    "text": "transfer of heat and energy.",
+    "start": 536.93,
+    "duration": 1.58
+  },
+  {
+    "text": "It's very complex, very\nexpensive, but it's very",
+    "start": 538.57,
+    "duration": 2.88
+  },
+  {
+    "text": "powerful software, and\nthat's what we use today.",
+    "start": 541.51,
+    "duration": 2.02
+  },
+  {
+    "text": "So we can predict very accurately,\nif we understand that the factors",
+    "start": 543.55,
+    "duration": 3.46
+  },
+  {
+    "text": "involved, how something\nshould perform.",
+    "start": 547.01,
+    "duration": 1.85
+  },
+  {
+    "text": "And that's how they design your car\nengines, so they don't overheat any more.",
+    "start": 549.01,
+    "duration": 2.38
+  },
+  {
+    "text": "Our calculations showed that we needed,\nin order for us to reach maximum reactor",
+    "start": 551.39,
+    "duration": 5.19
+  },
+  {
+    "text": "temperature, our power supply\nhad to be at 100% power output.",
+    "start": 556.58,
+    "duration": 5.01
+  },
+  {
+    "text": "So just imagine a hundred percent, means that\nyou've got a blowtorch underneath the pot.",
+    "start": 561.59,
+    "duration": 3.93
+  },
+  {
+    "text": "The max. temperature of the chamber\nshould be about 113 degrees Celsius.",
+    "start": 565.52,
+    "duration": 4.06
+  },
+  {
+    "text": "The other numbers we just kind\nof tested at different levels of what",
+    "start": 569.58,
+    "duration": 4.04
+  },
+  {
+    "text": "kind of temperatures that\nthe chamber should respond to.",
+    "start": 573.62,
+    "duration": 2.69
+  },
+  {
+    "text": "The seven percent, we're gonna\nget into in a few seconds, is",
+    "start": 576.31,
+    "duration": 2.6
+  },
+  {
+    "text": "actually where the power was set, when\nyou see that anode and where we're",
+    "start": 579.02,
+    "duration": 3.78
+  },
+  {
+    "text": "actually creating the\ntransmutation of elements.",
+    "start": 582.8,
+    "duration": 2.71
+  },
+  {
+    "text": "This is a model, some of you may have seen\nit from 2016, when we did the analysis.",
+    "start": 585.57,
+    "duration": 3.96
+  },
+  {
+    "text": "When it's cooled, with the cooling\nsystems at full power, shouldn't",
+    "start": 589.53,
+    "duration": 3.65
+  },
+  {
+    "text": "reach much higher than\nabout 110-113 degrees.",
+    "start": 593.18,
+    "duration": 3.39
+  },
+  {
+    "text": "At a full power, cooling system\non, steady-state, 110-113 degrees.",
+    "start": 596.61,
+    "duration": 5.05
+  },
+  {
+    "text": "When we did our calculations, each of us did them\nseparately, we were all within 50 degrees of each other.",
+    "start": 601.66,
+    "duration": 5.87
+  },
+  {
+    "text": "Without cooling the chamber, it\nwould heat up to 500 degrees Celsius.",
+    "start": 607.53,
+    "duration": 3.96
+  },
+  {
+    "text": "So that hundred degrees, or 110, actually\nrepresents 500 degrees Celsius without cooling.",
+    "start": 611.49,
+    "duration": 6.07
+  },
+  {
+    "text": "So when I say 50 degrees,\nyou might say well that's 50%",
+    "start": 617.56,
+    "duration": 3.19
+  },
+  {
+    "text": "but it's actually 50 degrees of 500 and\nthen we put cooling on it and it should come",
+    "start": 620.75,
+    "duration": 5.13
+  },
+  {
+    "text": "to this, so for three years we've been",
+    "start": 625.88,
+    "duration": 1.41
+  },
+  {
+    "text": "running the experiment and SAFIRE has\nresponded predictably, until now.",
+    "start": 627.41,
+    "duration": 6.17
+  },
+  {
+    "text": "We have on our SCADA system, you see here in\nthe screen above, it's at 113 degrees,",
+    "start": 633.58,
+    "duration": 3.97
+  },
+  {
+    "text": "we have thermocouples, we have 12\nthermocouples all around the chamber,",
+    "start": 638.38,
+    "duration": 3.25
+  },
+  {
+    "text": "measuring to make\nsure that it's stable.",
+    "start": 641.63,
+    "duration": 1.91
+  },
+  {
+    "text": "And we can monitor these\nthings cause it's important.",
+    "start": 643.58,
+    "duration": 3.02
+  },
+  {
+    "text": "So what this graph\nis, is a video.",
+    "start": 646.64,
+    "duration": 2.9
+  },
+  {
+    "text": "The red line represents the infrared\ncamera, that's the one we're",
+    "start": 649.54,
+    "duration": 2.89
+  },
+  {
+    "text": "looking at the anode to tell what its\ntemperature is, so it doesn't, it's not",
+    "start": 652.47,
+    "duration": 4.44
+  },
+  {
+    "text": "compromised thermally or melt.",
+    "start": 656.91,
+    "duration": 2.47
+  },
+  {
+    "text": "The blue one is called a\nbolometer, it measures,",
+    "start": 659.88,
+    "duration": 2.44
+  },
+  {
+    "text": "you might say, a relative energy\nmeasurement of what's coming off the end.",
+    "start": 662.38,
+    "duration": 5.26
+  },
+  {
+    "text": "It's not a total measurement of energy\nas such of what SAFIRE is putting out.",
+    "start": 667.64,
+    "duration": 5.24
+  },
+  {
+    "text": "The Gold Line is\nactually the thermocouple.",
+    "start": 672.88,
+    "duration": 4.65
+  },
+  {
+    "text": "So this is a day's worth of experiment\nsped up a couple of thousand times.",
+    "start": 677.63,
+    "duration": 3.95
+  },
+  {
+    "text": "That’s what our day looks like, we\nwork very quickly, as you can see.",
+    "start": 681.58,
+    "duration": 5.83
+  },
+  {
+    "text": "Isn’t that interesting,\nwe're at the peak.",
+    "start": 691.66,
+    "duration": 2.95
+  },
+  {
+    "text": "So it's climbing and falling, we're\nchanging chemistry, you might say the gas",
+    "start": 696.51,
+    "duration": 4.94
+  },
+  {
+    "text": "composition, power settings, and we're\nmonitoring the thermal temperature of",
+    "start": 701.45,
+    "duration": 7.74
+  },
+  {
+    "text": "the anode and the chamber.",
+    "start": 709.19,
+    "duration": 1.18
+  },
+  {
+    "text": "Yes, that is the anode melting.",
+    "start": 710.45,
+    "duration": 7.05
+  },
+  {
+    "text": "We didn't know it at the time, because it was\nhappening so slowly, but we realized what",
+    "start": 718.81,
+    "duration": 5.22
+  },
+  {
+    "text": "was happening, we had to shut \nSAFIRE down, it got too hot.",
+    "start": 724.03,
+    "duration": 2.51
+  },
+  {
+    "text": "What I want you to observe here is the\nangle of that yellow line and that is",
+    "start": 727.51,
+    "duration": 5.61
+  },
+  {
+    "text": "real-time rise in \ntemperature over time.",
+    "start": 733.12,
+    "duration": 2.37
+  },
+  {
+    "text": "This is the real-time, and the rise in\ntemperature over time is identical to",
+    "start": 735.49,
+    "duration": 6.24
+  },
+  {
+    "text": "what we calculated at hundred percent\nmax power, but we're only at 7%.",
+    "start": 741.73,
+    "duration": 4.74
+  },
+  {
+    "text": "The fall here represents after we shut it down, \nas you saw in the video, we couldn't control",
+    "start": 746.47,
+    "duration": 6.66
+  },
+  {
+    "text": "at that point of time so we\nstart dialing the power back.",
+    "start": 753.13,
+    "duration": 2.37
+  },
+  {
+    "text": "And we were only at 7%.",
+    "start": 755.55,
+    "duration": 1.5
+  },
+  {
+    "text": "For me, doing mechanical engineering and\nwhat I do, everybody gets excited, well,",
+    "start": 757.8,
+    "duration": 6.04
+  },
+  {
+    "text": "it's all this heat, probably it's\nlike, can we run the reactor?",
+    "start": 763.84,
+    "duration": 3.66
+  },
+  {
+    "text": "Now, this next picture is\nnot a black and white, this",
+    "start": 767.5,
+    "duration": 3.43
+  },
+  {
+    "text": "next picture shows you when we change\nthe composition of the catalyst, it",
+    "start": 771.28,
+    "duration": 3.24
+  },
+  {
+    "text": "actually takes heat out of the system to\na point where the anode, if you can see",
+    "start": 774.52,
+    "duration": 5.52
+  },
+  {
+    "text": "it here, doesn't even register and that's\nat max. power, dials turned up to 11, OK?",
+    "start": 780.04,
+    "duration": 6.15
+  },
+  {
+    "text": "And that's what we get,\nso we can cool it down.",
+    "start": 786.19,
+    "duration": 3.28
+  },
+  {
+    "text": "So we can introduce certain compositions and\nthings and take energy out of the system.",
+    "start": 789.47,
+    "duration": 5.01
+  },
+  {
+    "text": "100 percent max power gives\nyou a hundred percent maximum",
+    "start": 794.48,
+    "duration": 3.5
+  },
+  {
+    "text": "thermal stable state energy\nor heat in the chamber.",
+    "start": 797.98,
+    "duration": 3.54
+  },
+  {
+    "text": "Seven percent gave us a hundred\npercent plus because we couldn't",
+    "start": 801.53,
+    "duration": 4.94
+  },
+  {
+    "text": "track where it was going to stop.",
+    "start": 806.47,
+    "duration": 1.92
+  },
+  {
+    "text": "I don't like to boast about our error so our\ncalculations were only off by 93 percent.",
+    "start": 808.41,
+    "duration": 4.62
+  },
+  {
+    "text": "I'm 62 and I'm telling the truth,\nI've never been off 93 percent of anything",
+    "start": 813.03,
+    "duration": 5.59
+  },
+  {
+    "text": "in the engineering I've done in the\npast, and that's a big number.",
+    "start": 818.62,
+    "duration": 3.68
+  },
+  {
+    "text": "It's not just me, it was Lowell, it was \nTommy, chamber shouldn't be doing this.",
+    "start": 822.3,
+    "duration": 6.21
+  },
+  {
+    "text": "SAFIRE can create, control, contain, and\nrepeat any number of plasma regimes.",
+    "start": 837.51,
+    "duration": 9.57
+  },
+  {
+    "text": "For five years, SAFIRE has performed exactly within\nthe limits it was designed for, until now.",
+    "start": 847.08,
+    "duration": 8.58
+  },
+  {
+    "text": "This recent catalytic event was not\npredicted and according to plasma",
+    "start": 855.66,
+    "duration": 4.72
+  },
+  {
+    "text": "physics, it should not\nhave happened but it did.",
+    "start": 860.38,
+    "duration": 5.15
+  },
+  {
+    "text": "This is calling into question our\nunderstanding of plasma physics and will",
+    "start": 866.17,
+    "duration": 4.44
+  },
+  {
+    "text": "require a new math and a collaboration\nof complementary disciplines to resolve.",
+    "start": 870.61,
+    "duration": 9.08
+  },
+  {
+    "text": "These recent catalytic events have not\nbeen observed before, they're new and",
+    "start": 879.87,
+    "duration": 7.02
+  },
+  {
+    "text": "show the potential for a clean,\nenergy-efficient reactor.",
+    "start": 886.89,
+    "duration": 6.15
+  },
+  {
+    "text": "Transmutation -- finally!",
+    "start": 902.18,
+    "duration": 3.51
+  },
+  {
+    "text": "2017, we had some interesting\nresults but we weren't in a",
+    "start": 905.99,
+    "duration": 3.59
+  },
+  {
+    "text": "place to talk about \nit with confidence.",
+    "start": 909.69,
+    "duration": 3.38
+  },
+  {
+    "text": "Today we are.",
+    "start": 913.18,
+    "duration": 2.44
+  },
+  {
+    "text": "So this is before, this is\nduring a plasma discharge.",
+    "start": 915.67,
+    "duration": 5.21
+  },
+  {
+    "text": "What's interesting about this is that the\nplasma double layers have collapsed down",
+    "start": 920.92,
+    "duration": 4.33
+  },
+  {
+    "text": "and become very intense around the anode\nand now it's giving a uniform coronal glow.",
+    "start": 925.25,
+    "duration": 5.3
+  },
+  {
+    "text": "Just keep this in mind as we go\nthrough this presentation.",
+    "start": 930.55,
+    "duration": 3.88
+  },
+  {
+    "text": "And this is after, and we said\nwell, that's interesting.",
+    "start": 934.43,
+    "duration": 4.07
+  },
+  {
+    "text": "In other words, so we decided\nit was time to subject it to what's",
+    "start": 938.57,
+    "duration": 5.76
+  },
+  {
+    "text": "called Scanning Electron\nMicroscopy (SEM) and EDAX.",
+    "start": 944.33,
+    "duration": 3.0
+  },
+  {
+    "text": "They kind of go \nhand in hand.",
+    "start": 947.33,
+    "duration": 1.73
+  },
+  {
+    "text": "Technology's been around for thirty years\nand scanning electron microscopy is just",
+    "start": 949.33,
+    "duration": 5.09
+  },
+  {
+    "text": "a very powerful microscope.",
+    "start": 954.81,
+    "duration": 1.9
+  },
+  {
+    "text": "EDAX basically is technology where they\nenergize the elements that are on the",
+    "start": 956.79,
+    "duration": 3.29
+  },
+  {
+    "text": "sample and they can tell you\ndefinitively what those elements are.",
+    "start": 960.08,
+    "duration": 3.87
+  },
+  {
+    "text": "And they use it for forensic sciences, all\nkinds of things, and it's a standard",
+    "start": 963.95,
+    "duration": 4.54
+  },
+  {
+    "text": "piece of equipment, it's about a million\nbucks for one, I would say, standard or",
+    "start": 968.49,
+    "duration": 3.26
+  },
+  {
+    "text": "common, but it's very good.",
+    "start": 971.75,
+    "duration": 2.65
+  },
+  {
+    "text": "So this is June and\nanother lab that we work with",
+    "start": 974.45,
+    "duration": 3.13
+  },
+  {
+    "text": "and what we did with the sample so, when\nyou go over a sample like this on",
+    "start": 977.6,
+    "duration": 3.13
+  },
+  {
+    "text": "scanning electron microscope, it's almost\nlike scanning over top of a planetary",
+    "start": 980.73,
+    "duration": 3.93
+  },
+  {
+    "text": "surface, so just imagine that you're\nin a satellite or a rocket, and you're",
+    "start": 984.66,
+    "duration": 3.69
+  },
+  {
+    "text": "saying well, that's interesting!",
+    "start": 988.35,
+    "duration": 1.46
+  },
+  {
+    "text": "So pretend you're in there, zooming in with\nthe microscope, things get interesting...",
+    "start": 989.95,
+    "duration": 7.74
+  },
+  {
+    "text": "And then we said, what\nare you doing there?",
+    "start": 1028.31,
+    "duration": 4.14
+  },
+  {
+    "text": "A ball and then you can get into\nall kinds of discussions about how a",
+    "start": 1032.53,
+    "duration": 4.54
+  },
+  {
+    "text": "sphere can form in \nan experiment like this.",
+    "start": 1037.07,
+    "duration": 4.41
+  },
+  {
+    "text": "And there's a lot of people who would agree\nthat to get a sphere like this has to",
+    "start": 1041.62,
+    "duration": 3.53
+  },
+  {
+    "text": "form in a non-gravitational environment,\nso if you want to make spheres you throw",
+    "start": 1045.15,
+    "duration": 3.57
+  },
+  {
+    "text": "particles up that are heated and as they\nglide through the atmosphere they become spherical.",
+    "start": 1048.72,
+    "duration": 3.92
+  },
+  {
+    "text": "We don't know what it was, we\ndidn't know why was there.",
+    "start": 1052.64,
+    "duration": 4.12
+  },
+  {
+    "text": "There's better pictures of this, but just\ntake a look at something, there's some",
+    "start": 1056.76,
+    "duration": 3.15
+  },
+  {
+    "text": "almost like tectonic \nthing happening here.",
+    "start": 1059.91,
+    "duration": 3.11
+  },
+  {
+    "text": "We can't tell you some of the\nthings that we did to get there",
+    "start": 1063.1,
+    "duration": 1.97
+  },
+  {
+    "text": "but we can show \nyou the results.",
+    "start": 1065.07,
+    "duration": 2.19
+  },
+  {
+    "text": "So if you see some of the elements missing,\nthat's some of the elements that we",
+    "start": 1067.3,
+    "duration": 4.13
+  },
+  {
+    "text": "can't discuss, but what's interesting is,\nthese elements that you see were not in",
+    "start": 1071.43,
+    "duration": 4.74
+  },
+  {
+    "text": "the chamber before, and SAFIRE is\nmaking lanthanum and it's making cerium.",
+    "start": 1076.17,
+    "duration": 6.27
+  },
+  {
+    "text": "It's making carbon, \nit's making oxygen.",
+    "start": 1082.44,
+    "duration": 4.05
+  },
+  {
+    "text": "So we went and scanned another region and\nsaid well, that's interesting, that",
+    "start": 1086.57,
+    "duration": 4.39
+  },
+  {
+    "text": "doesn't look like the \nbase materials at all.",
+    "start": 1090.96,
+    "duration": 2.47
+  },
+  {
+    "text": "And this is what we found, we found\nphosphorus and silicon and titanium and",
+    "start": 1093.49,
+    "duration": 7.22
+  },
+  {
+    "text": "oxygen and magnesium and calcium and\nsodium and potassium and aluminum and",
+    "start": 1100.71,
+    "duration": 4.8
+  },
+  {
+    "text": "carbon and chlorine and sulfur.",
+    "start": 1105.51,
+    "duration": 2.68
+  },
+  {
+    "text": "Those were also not, we know\ndefinitively they were not in there.",
+    "start": 1110.22,
+    "duration": 4.22
+  },
+  {
+    "text": "What you see here in\nthe previous slide is that these",
+    "start": 1114.49,
+    "duration": 2.03
+  },
+  {
+    "text": "formations are actually\ngrowing out of the surface.",
+    "start": 1116.52,
+    "duration": 3.97
+  },
+  {
+    "text": "Growing, that's \nwhat it looked like.",
+    "start": 1120.58,
+    "duration": 2.52
+  },
+  {
+    "text": "This looks like actually a\nfish egg sack full of particles.",
+    "start": 1123.19,
+    "duration": 4.7
+  },
+  {
+    "text": "So we said well, nobody's gonna\nbelieve us, because well, we’re the",
+    "start": 1127.89,
+    "duration": 4.98
+  },
+  {
+    "text": "SAFIRE team and of course we're\ncompletely biased, that's how they're",
+    "start": 1132.87,
+    "duration": 3.09
+  },
+  {
+    "text": "gonna see it so we said, this particular\nagency said, we have a lab for you if you",
+    "start": 1135.96,
+    "duration": 4.65
+  },
+  {
+    "text": "want to validate your results\nand send it down to this lab.",
+    "start": 1140.61,
+    "duration": 2.34
+  },
+  {
+    "text": "And it's a lab that they use \nand Lockheed uses it and others...",
+    "start": 1142.95,
+    "duration": 2.74
+  },
+  {
+    "text": "We say OK, why don’t you go on scan \nthe sample and tell us what you find.",
+    "start": 1145.69,
+    "duration": 3.64
+  },
+  {
+    "text": "And this is what they found.",
+    "start": 1149.33,
+    "duration": 2.05
+  },
+  {
+    "text": "Wow, that's a really interesting ball,\nand what is going on there. It's like these",
+    "start": 1152.03,
+    "duration": 4.17
+  },
+  {
+    "text": "particles forming in here \nand they confirmed the",
+    "start": 1156.2,
+    "duration": 4.02
+  },
+  {
+    "text": "fact that the predominant elements of \nthat ball are cerium and lanthanum.",
+    "start": 1160.22,
+    "duration": 4.05
+  },
+  {
+    "text": "These are heavy elements.",
+    "start": 1164.27,
+    "duration": 3.2
+  },
+  {
+    "text": "And they scanned another area,\nand they came up with",
+    "start": 1167.91,
+    "duration": 3.44
+  },
+  {
+    "text": "titanium, chromium, zinc,\nphosphorus and carbon.",
+    "start": 1171.47,
+    "duration": 3.85
+  },
+  {
+    "text": "What we did is, because our EDAX machine isn't\nas good as theirs, they have a bigger budget.",
+    "start": 1175.35,
+    "duration": 6.3
+  },
+  {
+    "text": "They can resolve for carbon and\nsome of the lighter elements",
+    "start": 1181.65,
+    "duration": 2.18
+  },
+  {
+    "text": "and they resolved some of the predominant\nelements there, in fact SAFIRE is making",
+    "start": 1183.83,
+    "duration": 3.03
+  },
+  {
+    "text": "carbon, zinc is not there\nand neither is phosphorus.",
+    "start": 1186.86,
+    "duration": 3.63
+  },
+  {
+    "text": "So this is some of things that it's\nmaking but there's even more coming.",
+    "start": 1190.54,
+    "duration": 3.92
+  },
+  {
+    "text": "What's interesting is the topography and\nthis is as close as we're gonna get.",
+    "start": 1194.46,
+    "duration": 5.23
+  },
+  {
+    "text": "This is basically, you might say \nit doesn't look like crystals but in",
+    "start": 1199.69,
+    "duration": 2.65
+  },
+  {
+    "text": "metallurgy you use the\nword crystalline structure.",
+    "start": 1202.34,
+    "duration": 2.29
+  },
+  {
+    "text": "You can see how the top surface of the main\nnodules in the material have been eroded.",
+    "start": 1204.63,
+    "duration": 6.01
+  },
+  {
+    "text": "What's also interesting is the vent\nholes that are here in this material.",
+    "start": 1210.67,
+    "duration": 3.77
+  },
+  {
+    "text": "So we said well, that's \ninteresting, let's go and take a",
+    "start": 1214.44,
+    "duration": 3.92
+  },
+  {
+    "text": "look down in between these mountains or\nthese guys and we found other",
+    "start": 1218.36,
+    "duration": 3.54
+  },
+  {
+    "text": "things like calcium and chlorine and\ncarbon and potassium, and these are",
+    "start": 1221.9,
+    "duration": 5.73
+  },
+  {
+    "text": "certified materials, so we got them \nfrom a certified company, certified",
+    "start": 1227.63,
+    "duration": 4.1
+  },
+  {
+    "text": "spectroscopy done on the materials\nbefore we actually put it in the chamber.",
+    "start": 1231.73,
+    "duration": 3.39
+  },
+  {
+    "text": "So we want to make sure we're doing right\nscience before we start making claims",
+    "start": 1235.12,
+    "duration": 3.45
+  },
+  {
+    "text": "like this, especially\nthese kinds of claims.",
+    "start": 1238.57,
+    "duration": 1.7
+  },
+  {
+    "text": "We start with the periodic table\nof elements and we're using the word",
+    "start": 1240.3,
+    "duration": 4.94
+  },
+  {
+    "text": "catalyst because we can't think of a\nbetter term to use for the types of gas",
+    "start": 1245.24,
+    "duration": 4.41
+  },
+  {
+    "text": "constituent or composition and the",
+    "start": 1249.65,
+    "duration": 2.65
+  },
+  {
+    "text": "materials that we have that\nthe anode is being exposed to.",
+    "start": 1252.38,
+    "duration": 3.44
+  },
+  {
+    "text": "So we're just saying these \nare catalysts, we introduced those",
+    "start": 1255.9,
+    "duration": 3.86
+  },
+  {
+    "text": "into the chamber and when we fired it up\nand that nice bright anode that you saw",
+    "start": 1259.76,
+    "duration": 6.09
+  },
+  {
+    "text": "that looks like a Sun, this is what it returned,\nthese are the new elements minus the catalyst.",
+    "start": 1265.85,
+    "duration": 8.61
+  },
+  {
+    "text": "The aluminum and silica we wrote \noff because well, our probe is",
+    "start": 1274.46,
+    "duration": 3.75
+  },
+  {
+    "text": "alumina, so we figure well, maybe this is\ncontamination meaning it may be making it, may",
+    "start": 1278.21,
+    "duration": 4.53
+  },
+  {
+    "text": "not be, we're just going to say\nlook, let's just dismiss it.",
+    "start": 1282.74,
+    "duration": 3.9
+  },
+  {
+    "text": "But you have a pile \nmore that SAFIRE is making.",
+    "start": 1286.67,
+    "duration": 2.82
+  },
+  {
+    "text": "Now, what's cool about this is \nthat we can repeat the experiment.",
+    "start": 1289.49,
+    "duration": 5.45
+  },
+  {
+    "text": "OK, and get the same results and we've\ndialed it up, then we dialed it down, and we",
+    "start": 1294.94,
+    "duration": 6.48
+  },
+  {
+    "text": "can, you know, it's tuned that's what\nWal was talking about, you know,",
+    "start": 1301.42,
+    "duration": 4.15
+  },
+  {
+    "text": "good technology bringing to bear modern\ntechnology that Birkeland didn't have.",
+    "start": 1305.57,
+    "duration": 3.83
+  },
+  {
+    "text": "Well, this is what modern technology can\nbring us, it can bring us some answers or",
+    "start": 1309.4,
+    "duration": 3.72
+  },
+  {
+    "text": "actually many more questions.",
+    "start": 1313.12,
+    "duration": 2.73
+  },
+  {
+    "text": "So, optical spectroscopy; this\nis Michael's thing, I'm",
+    "start": 1315.85,
+    "duration": 3.01
+  },
+  {
+    "text": "his Padawan, OK, when it comes to\noptical spectroscopy, but he's going to talk",
+    "start": 1318.86,
+    "duration": 4.26
+  },
+  {
+    "text": "to you what we found in the atmosphere.",
+    "start": 1323.12,
+    "duration": 2.13
+  },
+  {
+    "text": "The optical spectroscopy is used to\nstudy the atmosphere of the discharge.",
+    "start": 1325.26,
+    "duration": 5.93
+  },
+  {
+    "text": "What Monty was talking about is a\nsurface analysis of the metal.",
+    "start": 1331.19,
+    "duration": 4.36
+  },
+  {
+    "text": "Optical spectroscopy is used again to\nstudy the atmosphere around the anode.",
+    "start": 1335.55,
+    "duration": 6.42
+  },
+  {
+    "text": "I'm gonna have to go over there, okay. This is\nwavelengths of light coming out of the",
+    "start": 1341.97,
+    "duration": 14.6
+  },
+  {
+    "text": "chamber and optical spectroscopy is like\na really fancy prism that shows you the",
+    "start": 1356.57,
+    "duration": 5.37
+  },
+  {
+    "text": "rainbow colors that are\nin your glowing sample.",
+    "start": 1361.94,
+    "duration": 4.79
+  },
+  {
+    "text": "It's a wonderful science, it's\nbeen perfected for so many decades that",
+    "start": 1366.79,
+    "duration": 3.31
+  },
+  {
+    "text": "it's one of the most reliable tools that\nan astronomer or a plasma physicist has to study.",
+    "start": 1370.1,
+    "duration": 6.4
+  },
+  {
+    "text": "When you light up the chamber\nat low discharge with a simple",
+    "start": 1376.5,
+    "duration": 5.39
+  },
+  {
+    "text": "atmosphere, you might see that line and\nmaybe one more here, OK, because it's a",
+    "start": 1381.89,
+    "duration": 8.61
+  },
+  {
+    "text": "very simple discharge, it's\neasy to know what's in there.",
+    "start": 1390.5,
+    "duration": 3.16
+  },
+  {
+    "text": "When you turn up the power and\nyou get things really rolling",
+    "start": 1393.66,
+    "duration": 2.82
+  },
+  {
+    "text": "in there, you get this\nwhole sea of lines.",
+    "start": 1396.55,
+    "duration": 3.0
+  },
+  {
+    "text": "A lot of elements \nproduce similar lines.",
+    "start": 1399.58,
+    "duration": 3.97
+  },
+  {
+    "text": "When your circuits are complicated, it's\nnot so easy but it's a wonderful game, it's",
+    "start": 1403.55,
+    "duration": 4.14
+  },
+  {
+    "text": "like Sudoku on steroids, if you try\nto find out what elements might be",
+    "start": 1407.77,
+    "duration": 4.21
+  },
+  {
+    "text": "producing the lines that you're seeing.",
+    "start": 1411.98,
+    "duration": 2.51
+  },
+  {
+    "text": "It's part of the art\nof the science there.",
+    "start": 1414.5,
+    "duration": 2.23
+  },
+  {
+    "text": "And it took us a while but then we\nnoticed this triplet here, this a triplet",
+    "start": 1416.79,
+    "duration": 4.91
+  },
+  {
+    "text": "of lines that are \nvery close together.",
+    "start": 1421.7,
+    "duration": 1.58
+  },
+  {
+    "text": "This triplet here and this triplet here,\nand our intuition said,",
+    "start": 1423.31,
+    "duration": 4.54
+  },
+  {
+    "text": "let's focus on those because that's so\nunique of a fingerprint, no group of",
+    "start": 1427.85,
+    "duration": 5.42
+  },
+  {
+    "text": "elements would make that,\nit's got to be one.",
+    "start": 1433.27,
+    "duration": 2.46
+  },
+  {
+    "text": "That was the \nintuition at least.",
+    "start": 1435.77,
+    "duration": 1.43
+  },
+  {
+    "text": "And if you ask your optical spectroscopy\nsoftware to match the known lines of",
+    "start": 1437.23,
+    "duration": 6.39
+  },
+  {
+    "text": "different elements, after a lot of\nhunting, we came across manganese and",
+    "start": 1443.62,
+    "duration": 4.95
+  },
+  {
+    "text": "manganese lies exactly on this triplet,\nthis triplet, and this triplet.",
+    "start": 1448.57,
+    "duration": 6.28
+  },
+  {
+    "text": "It's basically impossible that that could be\nany other, statistically impossible, any",
+    "start": 1454.85,
+    "duration": 3.95
+  },
+  {
+    "text": "other element or \ngroup of elements.",
+    "start": 1458.8,
+    "duration": 1.41
+  },
+  {
+    "text": "These other ones, we don't \nknow yet, we're still",
+    "start": 1460.22,
+    "duration": 4.32
+  },
+  {
+    "text": "hunting, it takes a \nlot of hours to hunt",
+    "start": 1464.61,
+    "duration": 1.92
+  },
+  {
+    "text": "this sort of a diagram.",
+    "start": 1466.54,
+    "duration": 1.87
+  },
+  {
+    "text": "So that means that we have\nmanganese, which is another",
+    "start": 1468.73,
+    "duration": 4.68
+  },
+  {
+    "text": "metal that is in the atmosphere but not\non the surface, right, we don't know why",
+    "start": 1473.41,
+    "duration": 8.33
+  },
+  {
+    "text": "but it's very clear\nthat that's happening.",
+    "start": 1481.74,
+    "duration": 3.83
+  },
+  {
+    "text": "We also saw in the atmosphere the\ngreen ones here, the lithium is also",
+    "start": 1485.58,
+    "duration": 4.9
+  },
+  {
+    "text": "in the atmosphere that was not on the\nsurface, the manganese and then the",
+    "start": 1490.48,
+    "duration": 3.54
+  },
+  {
+    "text": "sodium, the Na there that appears in both,\nthe surface of the anode and in the atmosphere.",
+    "start": 1494.02,
+    "duration": 7.54
+  },
+  {
+    "text": "One of my challenges when we designed\nSAFIRE was that, okay, we can do",
+    "start": 1501.56,
+    "duration": 4.46
+  },
+  {
+    "text": "post-experimental analysis on lots of materials,\nbut the real challenge is, when is it happening?",
+    "start": 1506.02,
+    "duration": 6.47
+  },
+  {
+    "text": "So if you do see transmutation,\ndo you know when or under",
+    "start": 1512.49,
+    "duration": 3.47
+  },
+  {
+    "text": "what conditions these\nreactions are happening?",
+    "start": 1515.96,
+    "duration": 2.48
+  },
+  {
+    "text": "And so what we can tell you today\nis, we know now when it's happening.",
+    "start": 1518.45,
+    "duration": 4.82
+  },
+  {
+    "text": "It's because the spectroscopy tells us, we can\ndial it up and we see it come up, then we",
+    "start": 1523.27,
+    "duration": 4.06
+  },
+  {
+    "text": "dial it down and it disappears except\nfor the prominent lines of the",
+    "start": 1527.33,
+    "duration": 3.68
+  },
+  {
+    "text": "particular gas constituent\nwe have in there.",
+    "start": 1531.01,
+    "duration": 1.67
+  },
+  {
+    "text": "So what we can tell you is that\nmanganese is not one of the gas, part of",
+    "start": 1532.7,
+    "duration": 3.83
+  },
+  {
+    "text": "the gas compositions, we know that, and\nthis is laboratory quality stuff, and not",
+    "start": 1536.53,
+    "duration": 5.01
+  },
+  {
+    "text": "with that kind of signal.",
+    "start": 1541.54,
+    "duration": 1.04
+  },
+  {
+    "text": "You're gonna enjoy this.",
+    "start": 1543.58,
+    "duration": 4.0
+  },
+  {
+    "text": "So always when we're running these\nexperiments, part of my job is to",
+    "start": 1547.58,
+    "duration": 3.54
+  },
+  {
+    "text": "keep in mind the connection\nwith cosmology.",
+    "start": 1551.38,
+    "duration": 3.13
+  },
+  {
+    "text": "Cosmology allows you to place\neverything that you might experience as",
+    "start": 1554.52,
+    "duration": 4.7
+  },
+  {
+    "text": "a human on this planet\ninto some framework, and that has",
+    "start": 1559.22,
+    "duration": 5.04
+  },
+  {
+    "text": "definitely been at the start of the\nSAFIRE project as well.",
+    "start": 1564.26,
+    "duration": 5.09
+  },
+  {
+    "text": "Here is some framework to put\nsome of these results in.",
+    "start": 1569.35,
+    "duration": 3.35
+  },
+  {
+    "text": "This is his normal rate,\nspeed, Monty, keep up!",
+    "start": 1573.55,
+    "duration": 5.96
+  },
+  {
+    "text": "Planets, very dynamic electrical systems,\ncurrents flowing in and out, and from",
+    "start": 1591.74,
+    "duration": 7.56
+  },
+  {
+    "text": "what we know now, it's not as simple,\nit's not simply a current like flowing",
+    "start": 1599.3,
+    "duration": 4.74
+  },
+  {
+    "text": "through a wire into something and\nout the other end, current flows in and",
+    "start": 1604.04,
+    "duration": 6.12
+  },
+  {
+    "text": "out of the North Pole, current flows \nin and out of the South Pole.",
+    "start": 1610.16,
+    "duration": 5.21
+  },
+  {
+    "text": "I just drew one of the ring currents up there, \nI think we're up to about four or five now,",
+    "start": 1615.37,
+    "duration": 5.96
+  },
+  {
+    "text": "that we know about, it's\nvery complicated stuff.",
+    "start": 1621.33,
+    "duration": 3.18
+  },
+  {
+    "text": "So let's take that starting point\nas what we know about our local",
+    "start": 1624.56,
+    "duration": 3.76
+  },
+  {
+    "text": "environment, put it inside the solar\nsystem, so stars also, they do have and we",
+    "start": 1628.32,
+    "duration": 9.54
+  },
+  {
+    "text": "will eventually measure currents going\nin and out of their poles as well.",
+    "start": 1637.86,
+    "duration": 8.4
+  },
+  {
+    "text": "The numbers are a little tough to nail down\nbut a planet might have ten to the",
+    "start": 1646.26,
+    "duration": 4.08
+  },
+  {
+    "text": "seventh, so ten million amps, more or less\nflowing in, a star might have a billion",
+    "start": 1650.34,
+    "duration": 5.67
+  },
+  {
+    "text": "amps flowing in and out of it.",
+    "start": 1656.01,
+    "duration": 4.07
+  },
+  {
+    "text": "You start to see the pattern when you\ndraw the pictures, this is a cosmic",
+    "start": 1669.2,
+    "duration": 5.23
+  },
+  {
+    "text": "blueprint, if you will, for how electrical\nstructures are formed.",
+    "start": 1674.43,
+    "duration": 5.57
+  },
+  {
+    "text": "Each star is also following this blueprint but\nthen its sub members also follow the blueprint.",
+    "start": 1680.0,
+    "duration": 8.74
+  },
+  {
+    "text": "The planets are receiving their energy\nfrom their star, the star is connected to",
+    "start": 1688.74,
+    "duration": 7.94
+  },
+  {
+    "text": "its source of power, the planets are\nconnected to their source of power and",
+    "start": 1696.68,
+    "duration": 5.8
+  },
+  {
+    "text": "their source of\npower is their Sun.",
+    "start": 1702.48,
+    "duration": 2.0
+  },
+  {
+    "text": "So you have to imagine if not direct\ncurrents flowing between them, at least",
+    "start": 1704.52,
+    "duration": 6.93
+  },
+  {
+    "text": "some sort of resonance or induction, but the\nplanets only get their power from their Sun.",
+    "start": 1711.45,
+    "duration": 6.03
+  },
+  {
+    "text": "If you imagine one of those \nbeing Jupiter, say one of those",
+    "start": 1717.48,
+    "duration": 3.69
+  },
+  {
+    "text": "planets there, and we look at the sky,\nwe see Jupiter as a dot, pretty small dot,",
+    "start": 1721.17,
+    "duration": 4.02
+  },
+  {
+    "text": "right, but the magnetosphere of Jupiter,\nthe body, the real body of Jupiter is",
+    "start": 1725.19,
+    "duration": 7.53
+  },
+  {
+    "text": "huge, it would take up, if you did this\nwith your arm to the nighttime sky,",
+    "start": 1732.72,
+    "duration": 3.96
+  },
+  {
+    "text": "that's how big the body of Jupiter \nwould look if we had eyes to see it.",
+    "start": 1736.68,
+    "duration": 6.44
+  },
+  {
+    "text": "OK, so composition of planets, as Wal\nso well said years ago, we understand",
+    "start": 1747.78,
+    "duration": 5.55
+  },
+  {
+    "text": "planetary formation so little currently,\nthat we need a different theory of",
+    "start": 1753.33,
+    "duration": 4.14
+  },
+  {
+    "text": "planetary formation for every\nplanet in our solar system.",
+    "start": 1757.47,
+    "duration": 4.03
+  },
+  {
+    "text": "One of the patterns\nthat we see in electrical systems",
+    "start": 1761.5,
+    "duration": 3.68
+  },
+  {
+    "text": "throughout all of nature\nis membranes, boundaries.",
+    "start": 1765.18,
+    "duration": 4.32
+  },
+  {
+    "text": "The plasma naturally forms\nits own version of a membrane or a boundary.",
+    "start": 1769.54,
+    "duration": 5.07
+  },
+  {
+    "text": "So we'll start with our star,\nshorthand it, right, and then we'll ask",
+    "start": 1774.61,
+    "duration": 8.0
+  },
+  {
+    "text": "how does the star fit in its world, the\nneighborhoods that it comes from and lives in?",
+    "start": 1782.61,
+    "duration": 5.71
+  },
+  {
+    "text": "So that green there is an\ninterstellar filament which you can kind",
+    "start": 1788.32,
+    "duration": 3.26
+  },
+  {
+    "text": "of see in the background of the slide\nhere, and the stars are set up on those filaments.",
+    "start": 1791.58,
+    "duration": 5.56
+  },
+  {
+    "text": "Before the advent of the\nHerschel and Planck Space Telescopes, we",
+    "start": 1797.14,
+    "duration": 6.26
+  },
+  {
+    "text": "honestly believed that the stars were\nrandomly distributed in the sky.",
+    "start": 1803.4,
+    "duration": 5.01
+  },
+  {
+    "text": "We believed that, right, and then once you see\nthe filaments, every star we see in the",
+    "start": 1808.41,
+    "duration": 6.63
+  },
+  {
+    "text": "sky is on a filament, there's\nno randomness to it",
+    "start": 1815.04,
+    "duration": 4.43
+  },
+  {
+    "text": "if you can see the\nunderlying structure behind it.",
+    "start": 1819.65,
+    "duration": 4.95
+  },
+  {
+    "text": "There's also these other blobs that we\nsee now and as a scientific community",
+    "start": 1830.88,
+    "duration": 5.41
+  },
+  {
+    "text": "we're bounded by what we already know about and so\nthey have a name, they're called protostars.",
+    "start": 1836.29,
+    "duration": 6.32
+  },
+  {
+    "text": "Any time somebody uses the word \nproto, you know they don't know",
+    "start": 1842.61,
+    "duration": 3.25
+  },
+  {
+    "text": "what they're talking about, right?",
+    "start": 1845.86,
+    "duration": 1.64
+  },
+  {
+    "text": "So I don't think they're stars, they might be,\nI don't know, the point is, they might be",
+    "start": 1847.6,
+    "duration": 4.65
+  },
+  {
+    "text": "something else, they don't have to be on\nthis track that we call be a star, right,",
+    "start": 1852.25,
+    "duration": 6.19
+  },
+  {
+    "text": "they could be something else that is\nneeded in the interstellar medium.",
+    "start": 1858.44,
+    "duration": 4.2
+  },
+  {
+    "text": "We have found, to date, over 200 organic\nmolecules in the interstellar medium.",
+    "start": 1864.64,
+    "duration": 5.46
+  },
+  {
+    "text": "I'm sure that number will continue to\ngrow exponentially as we study more and more.",
+    "start": 1870.1,
+    "duration": 5.41
+  },
+  {
+    "text": "One of the big questions, of course,\nis where do they come from, how do they",
+    "start": 1875.51,
+    "duration": 2.15
+  },
+  {
+    "text": "form, how do they get there?",
+    "start": 1877.66,
+    "duration": 2.19
+  },
+  {
+    "text": "Now what about the inorganics\nin the interstellar medium?",
+    "start": 1881.13,
+    "duration": 4.45
+  },
+  {
+    "text": "Again, the number keeps growing but these\nhave been known about for quite a while.",
+    "start": 1885.85,
+    "duration": 3.74
+  },
+  {
+    "text": "That group right there, of 11\nelements -- inorganics, metals,",
+    "start": 1889.59,
+    "duration": 4.08
+  },
+  {
+    "text": "are known to be out there\nin the interstellar medium.",
+    "start": 1893.67,
+    "duration": 2.84
+  },
+  {
+    "text": "How did they get there, why are \nthey there, big questions, right?",
+    "start": 1896.85,
+    "duration": 3.5
+  },
+  {
+    "text": "We thought well, wait a minute, we\nhave a list to compare this to,",
+    "start": 1900.35,
+    "duration": 5.18
+  },
+  {
+    "text": "why don't we compare this known list\nfrom stars and interstellar medium,",
+    "start": 1905.53,
+    "duration": 4.02
+  },
+  {
+    "text": "why don't we compare that to which \nones we find in SAFIRE, right?",
+    "start": 1909.55,
+    "duration": 5.69
+  },
+  {
+    "text": "Yeah, so pretty good, right?",
+    "start": 1917.0,
+    "duration": 2.53
+  },
+  {
+    "text": "I think the evidence \nspeaks for itself.",
+    "start": 1919.61,
+    "duration": 3.08
+  },
+  {
+    "text": "I think the evidence speaks for itself, \nmight even demand a verdict, yes, right.",
+    "start": 1922.73,
+    "duration": 5.69
+  },
+  {
+    "text": "Dark mode plasma, this is something \nthat, for our research, started",
+    "start": 1958.55,
+    "duration": 4.41
+  },
+  {
+    "text": "from Scott Mainwaring who quoted that\nwonderful line from Edgar Allan Poe",
+    "start": 1962.96,
+    "duration": 3.63
+  },
+  {
+    "text": "about there being dark\nstars in the sky.",
+    "start": 1966.59,
+    "duration": 3.89
+  },
+  {
+    "text": "I don't know the exact quote, but\nit was in the back of our",
+    "start": 1970.48,
+    "duration": 3.25
+  },
+  {
+    "text": "minds all this time as to well, what's\ngoing on in a plasma environment that's",
+    "start": 1973.73,
+    "duration": 7.02
+  },
+  {
+    "text": "under tension but \nit's not discharging?",
+    "start": 1980.75,
+    "duration": 1.34
+  },
+  {
+    "text": "That's an important question, right, and\neven though it was on our docket for",
+    "start": 1983.15,
+    "duration": 4.47
+  },
+  {
+    "text": "exploration, when we found it \nwe weren't looking for it.",
+    "start": 1987.62,
+    "duration": 7.61
+  },
+  {
+    "text": "Life in the lab.",
+    "start": 2042.49,
+    "duration": 1.01
+  },
+  {
+    "text": "Yes, so here's an image of dark mode \nplasma, yeah, this is our anode, right,",
+    "start": 2043.78,
+    "duration": 8.85
+  },
+  {
+    "text": "and so just to give you a picture that's\nin the center of the chamber, but the",
+    "start": 2052.63,
+    "duration": 3.18
+  },
+  {
+    "text": "probe, our voltage probe comes in from\nthe outside and measures the floating",
+    "start": 2055.81,
+    "duration": 5.52
+  },
+  {
+    "text": "potential of the plasma as it's \nmoving around in the chamber.",
+    "start": 2061.33,
+    "duration": 3.18
+  },
+  {
+    "text": "And at a certain point, the probe\nstarted going crazy but",
+    "start": 2064.51,
+    "duration": 4.68
+  },
+  {
+    "text": "there's no discharge in the chamber, and\nwe spent some time studying the spatial",
+    "start": 2069.19,
+    "duration": 4.75
+  },
+  {
+    "text": "extent of that \nstrange phenomenon.",
+    "start": 2073.94,
+    "duration": 2.67
+  },
+  {
+    "text": "It varies in size depending upon the\nparameters in the atmosphere right, how",
+    "start": 2076.73,
+    "duration": 5.01
+  },
+  {
+    "text": "big that that boundary is.",
+    "start": 2081.74,
+    "duration": 3.82
+  },
+  {
+    "text": "What's amazing about \nthis is that we have",
+    "start": 2119.19,
+    "duration": 2.22
+  },
+  {
+    "text": "a very sharp voltage drop just\noff the surface of the anode,",
+    "start": 2121.89,
+    "duration": 3.27
+  },
+  {
+    "text": "a plasma double-layer and there's\nno visible plasma, voltage goes to almost",
+    "start": 2125.41,
+    "duration": 6.23
+  },
+  {
+    "text": "zero and it goes right back\nup to, almost, anode potential.",
+    "start": 2131.64,
+    "duration": 6.22
+  },
+  {
+    "text": "And there's no plasma.",
+    "start": 2138.18,
+    "duration": 2.45
+  },
+  {
+    "text": "So I want to contrast it to the glow \nmode to see, you get a reference, we",
+    "start": 2141.65,
+    "duration": 3.95
+  },
+  {
+    "text": "would call that a form of glow mode and\nat the middle, a very clear atmosphere, very",
+    "start": 2145.63,
+    "duration": 6.33
+  },
+  {
+    "text": "clear boundary at the\nedge of the discharge.",
+    "start": 2151.96,
+    "duration": 2.41
+  },
+  {
+    "text": "When you run the potential probe \nthrough that, you see that chart on",
+    "start": 2154.37,
+    "duration": 8.47
+  },
+  {
+    "text": "the left, so that's\nelectrical potential, that's",
+    "start": 2162.84,
+    "duration": 3.46
+  },
+  {
+    "text": "the voltage at that point in space, at\nthat point in the plasma, and you can see",
+    "start": 2166.3,
+    "duration": 5.54
+  },
+  {
+    "text": "when you come up, there's that sharp\nboundary coming up from the left side,",
+    "start": 2171.84,
+    "duration": 4.23
+  },
+  {
+    "text": "that's sharp boundary, that's that outer\nedge of the blue ball, glowing mode, and",
+    "start": 2176.07,
+    "duration": 5.11
+  },
+  {
+    "text": "as you come in, the potential rises\nvery steeply, you'll notice the potential",
+    "start": 2181.18,
+    "duration": 4.91
+  },
+  {
+    "text": "drops down basically to zero, right\nbefore you touch the anode, and then, when",
+    "start": 2186.09,
+    "duration": 6.88
+  },
+  {
+    "text": "you touch the anode, it jumps up to \nthe voltage we set the anode to.",
+    "start": 2192.97,
+    "duration": 4.49
+  },
+  {
+    "text": "This is what we saw running \nthe probe in and out of the",
+    "start": 2197.46,
+    "duration": 6.69
+  },
+  {
+    "text": "dark mode so we had the chamber under\ntension, a lot of volts, you don't see",
+    "start": 2204.19,
+    "duration": 6.21
+  },
+  {
+    "text": "anything going on, but then you can see\nthat's the chart of what the probe is",
+    "start": 2210.4,
+    "duration": 4.38
+  },
+  {
+    "text": "telling us is in the chamber.",
+    "start": 2214.78,
+    "duration": 2.7
+  },
+  {
+    "text": "There's a lot of arguments about what it is \nthis is telling us, and as a contrast you can",
+    "start": 2217.53,
+    "duration": 7.72
+  },
+  {
+    "text": "see some stack over each other, very\ndifferent behavior, very different shapes,",
+    "start": 2225.25,
+    "duration": 4.65
+  },
+  {
+    "text": "very different sizes of potential in there...",
+    "start": 2229.9,
+    "duration": 2.7
+  },
+  {
+    "text": "I want to emphasize that we don't\nknow what it means, OK, there's some",
+    "start": 2232.62,
+    "duration": 4.74
+  },
+  {
+    "text": "previous research on this sort of thing\nwhere the probe you're running in a",
+    "start": 2237.36,
+    "duration": 5.62
+  },
+  {
+    "text": "chamber discharge shows this kind of\nreally rapid and intense pulsations,",
+    "start": 2242.98,
+    "duration": 6.42
+  },
+  {
+    "text": "but no one's studied it spatially.",
+    "start": 2249.4,
+    "duration": 2.44
+  },
+  {
+    "text": "It brings you right up against the problem\nwe've known since the ‘20s which is, you",
+    "start": 2251.85,
+    "duration": 5.19
+  },
+  {
+    "text": "can't actually measure anything\nwithout affecting it.",
+    "start": 2257.04,
+    "duration": 3.14
+  },
+  {
+    "text": "There's this idealization that \nyou can somehow measure something",
+    "start": 2260.35,
+    "duration": 4.16
+  },
+  {
+    "text": "that's really there even if you're not looking at\nit, OK, but that's not the truth of nature.",
+    "start": 2264.51,
+    "duration": 6.95
+  },
+  {
+    "text": "So we know it's an interaction\nbetween our probe and the anode, but",
+    "start": 2271.46,
+    "duration": 4.12
+  },
+  {
+    "text": "nature is always that way.",
+    "start": 2275.58,
+    "duration": 1.95
+  },
+  {
+    "text": "If you think about the solar system and the\nelectrical distribution in the solar",
+    "start": 2277.58,
+    "duration": 3.8
+  },
+  {
+    "text": "system, it's not just a\nSun sitting there in isolation,",
+    "start": 2281.38,
+    "duration": 3.45
+  },
+  {
+    "text": "there's planets, there's comets, and all\nof those, you could say, serve as the",
+    "start": 2284.83,
+    "duration": 5.7
+  },
+  {
+    "text": "probe in the solar system and so they're\ngoing to be experiencing something like this.",
+    "start": 2290.53,
+    "duration": 5.59
+  },
+  {
+    "text": "I'll talk tomorrow about some of the\nastronomical implications of that.",
+    "start": 2296.23,
+    "duration": 5.81
+  },
+  {
+    "text": "The SAFIRE team is now developing \nthe new mandate for SAFIRE.",
+    "start": 2316.57,
+    "duration": 6.9
+  },
+  {
+    "text": "We're going to take what we've learned\nand turn it into something useful.",
+    "start": 2329.81,
+    "duration": 6.01
+  },
+  {
+    "text": "For the immediate future, we are focused\nprimarily on clean energy generation.",
+    "start": 2335.82,
+    "duration": 7.5
+  },
+  {
+    "text": "We have already designed a\nprototype energy generator.",
+    "start": 2343.32,
+    "duration": 4.45
+  },
+  {
+    "text": "But some of these things really came\ntogether in the last, maybe three weeks, and",
+    "start": 2352.48,
+    "duration": 5.92
+  },
+  {
+    "text": "we're saying, what's \nthe SAFIRE story?",
+    "start": 2358.4,
+    "duration": 3.47
+  },
+  {
+    "text": "OK, so we want to change the conversation from\nzero-point energy and free energy to efficiency.",
+    "start": 2367.54,
+    "duration": 8.0
+  },
+  {
+    "text": "We're gonna be talking about\nthat a little bit more",
+    "start": 2375.54,
+    "duration": 1.92
+  },
+  {
+    "text": "tomorrow, because there's\nno free lunch.",
+    "start": 2377.46,
+    "duration": 1.49
+  },
+  {
+    "text": "If you think about your cars, the oil is\nout there and it's in the ground and it",
+    "start": 2378.95,
+    "duration": 4.86
+  },
+  {
+    "text": "gets sequestered, then it gets pulled and\nit's put into tanks then it's refined",
+    "start": 2383.81,
+    "duration": 3.63
+  },
+  {
+    "text": "and then it's pumped into your tank\nwhere it's actually focused and you burn",
+    "start": 2387.44,
+    "duration": 4.2
+  },
+  {
+    "text": "it, you harvest the energy\nthat has to offer.",
+    "start": 2391.64,
+    "duration": 2.72
+  },
+  {
+    "text": "Actually the same thing happens\nwith a hydroelectric dam, now you've",
+    "start": 2394.36,
+    "duration": 2.5
+  },
+  {
+    "text": "got this river running through it, put up\na dam, focus that potential energy",
+    "start": 2396.86,
+    "duration": 3.18
+  },
+  {
+    "text": "into one particular place, we do\nthe same thing with uranium.",
+    "start": 2400.04,
+    "duration": 4.29
+  },
+  {
+    "text": "We want to, on our SAFIRE team, change the\nconversation from zero-point energy and",
+    "start": 2404.33,
+    "duration": 3.99
+  },
+  {
+    "text": "these kinds of things out there, because\nwe don't believe they happen like that.",
+    "start": 2408.32,
+    "duration": 3.45
+  },
+  {
+    "text": "We don't see it in nature.",
+    "start": 2411.77,
+    "duration": 1.79
+  },
+  {
+    "text": "Energy generation is all about efficiency, how\none determines efficiency is much debated,",
+    "start": 2413.56,
+    "duration": 6.69
+  },
+  {
+    "text": "but the Wall Street Journal factored in\nthe cost of the fuel itself, the cost of",
+    "start": 2420.25,
+    "duration": 5.53
+  },
+  {
+    "text": "production, the cost of damage that \nfuel and oil production does to the",
+    "start": 2425.78,
+    "duration": 4.29
+  },
+  {
+    "text": "environment; and came up\nwith a picture like this.",
+    "start": 2430.07,
+    "duration": 2.87
+  },
+  {
+    "text": "Ultimately, nature itself shows us\nthe most efficient way to do things.",
+    "start": 2432.94,
+    "duration": 6.31
+  },
+  {
+    "text": "SAFIRE will fit somewhere\nin this picture.",
+    "start": 2439.81,
+    "duration": 3.71
+  },
+  {
+    "text": "The fact that the main fuel is hydrogen,\nthe most abundant element in the",
+    "start": 2443.52,
+    "duration": 4.34
+  },
+  {
+    "text": "universe, and that the process is clean\nand produces no negative side effects or",
+    "start": 2447.86,
+    "duration": 5.32
+  },
+  {
+    "text": "waste products makes SAFIRE a very\nattractive energy generating technology.",
+    "start": 2453.18,
+    "duration": 7.52
+  },
+  {
+    "text": "Elemental transmutation occurs both in nature and\nin the laboratory and is not a new phenomenon.",
+    "start": 2473.18,
+    "duration": 6.77
+  },
+  {
+    "text": "Studies done at MIT have shown\nthat when radioactive waste",
+    "start": 2480.25,
+    "duration": 5.27
+  },
+  {
+    "text": "is exposed to hydrogen isotope nuclei,\nthe observed decay rate of the",
+    "start": 2485.52,
+    "duration": 5.88
+  },
+  {
+    "text": "radioactive material is\neffectively increased.",
+    "start": 2491.4,
+    "duration": 3.26
+  },
+  {
+    "text": "SAFIRE produces copious amounts \nof hydrogen nuclei that interact",
+    "start": 2494.71,
+    "duration": 7.34
+  },
+  {
+    "text": "with other elements, creating self-organizing\nspherical plasma double layer shells.",
+    "start": 2502.05,
+    "duration": 6.49
+  },
+  {
+    "text": "Within these shells, electrons,\nions, and molecules, are trapped by",
+    "start": 2508.54,
+    "duration": 6.08
+  },
+  {
+    "text": "powerful electromagnetic fields.",
+    "start": 2514.62,
+    "duration": 3.04
+  },
+  {
+    "text": "This is where radioactive material would\nbe exposed to the hydrogen nuclei",
+    "start": 2517.73,
+    "duration": 4.77
+  },
+  {
+    "text": "to remediate the radioactivity\nof that material.",
+    "start": 2522.5,
+    "duration": 5.04
+  },
+  {
+    "text": "One of the confusing aspects, if you only\nthink that gravity and turbulence and",
+    "start": 2545.48,
+    "duration": 6.07
+  },
+  {
+    "text": "heat are your causal factors, none of\nthis is ever, you can never explain this",
+    "start": 2551.55,
+    "duration": 5.67
+  },
+  {
+    "text": "how there's so much structure.",
+    "start": 2557.22,
+    "duration": 2.44
+  },
+  {
+    "text": "We see a spatial structure there, right, one\nof the benefits of the current suite of",
+    "start": 2559.66,
+    "duration": 3.47
+  },
+  {
+    "text": "telescopes around the Earth is that you\ncan also see elements and energetic",
+    "start": 2563.13,
+    "duration": 5.64
+  },
+  {
+    "text": "states of elements, and those\nare segregated also.",
+    "start": 2568.77,
+    "duration": 3.89
+  },
+  {
+    "text": "So what you might be looking at\nhere is a center region of",
+    "start": 2572.66,
+    "duration": 4.11
+  },
+  {
+    "text": "hydrogen that has been collected in the\nmiddle, and then that bright boundary",
+    "start": 2577.35,
+    "duration": 5.64
+  },
+  {
+    "text": "might be a layer of excited hydrogen.",
+    "start": 2582.99,
+    "duration": 3.7
+  },
+  {
+    "text": "Right outside of that, that\norange boundary might be cold",
+    "start": 2586.77,
+    "duration": 4.95
+  },
+  {
+    "text": "carbon monoxide just sitting right there,\nright next to that inner shell, and then",
+    "start": 2591.72,
+    "duration": 5.55
+  },
+  {
+    "text": "right outside of that you might find energized calcium\nsitting right next to those other layers.",
+    "start": 2597.27,
+    "duration": 6.28
+  },
+  {
+    "text": "How that happens?",
+    "start": 2603.55,
+    "duration": 3.03
+  },
+  {
+    "text": "We see that naturally in the SAFIRE\nchamber, all those double layers and",
+    "start": 2606.61,
+    "duration": 4.85
+  },
+  {
+    "text": "different structures you see, those are\nsegregated and separated different",
+    "start": 2611.46,
+    "duration": 6.35
+  },
+  {
+    "text": "elements, molecules, and energetic states.",
+    "start": 2617.81,
+    "duration": 4.61
+  },
+  {
+    "text": "And we're not trying to\nforce it to do that.",
+    "start": 2622.6,
+    "duration": 2.81
+  },
+  {
+    "text": "We don't have a giant billion-dollar \nITER machine that uses 20",
+    "start": 2625.42,
+    "duration": 5.06
+  },
+  {
+    "text": "mega-watts of energy to try to just\ncontain the plasma so it doesn't blow apart.",
+    "start": 2630.48,
+    "duration": 4.45
+  },
+  {
+    "text": "We're not trying to force anything\nin our chamber, we are studying what",
+    "start": 2634.93,
+    "duration": 4.82
+  },
+  {
+    "text": "nature shows us, what it gives us\nnaturally of her own design.",
+    "start": 2639.75,
+    "duration": 7.37
+  },
+  {
+    "text": "So, summary.",
+    "start": 2648.86,
+    "duration": 1.67
+  },
+  {
+    "text": "So we have energy, we have transmutation\nand we have the Sun and interstellar medium.",
+    "start": 2650.53,
+    "duration": 7.01
+  },
+  {
+    "text": "We see a cohesive picture.",
+    "start": 2657.54,
+    "duration": 2.01
+  },
+  {
+    "text": "The Electric Sun model gave us the \npremise with which to engineer the",
+    "start": 2659.64,
+    "duration": 5.49
+  },
+  {
+    "text": "SAFIRE reactor.",
+    "start": 2665.13,
+    "duration": 1.35
+  },
+  {
+    "text": "Once constructed, the proof\nof concept bell jar version of",
+    "start": 2670.51,
+    "duration": 3.94
+  },
+  {
+    "text": "SAFIRE was up and running within minutes.",
+    "start": 2674.45,
+    "duration": 3.06
+  },
+  {
+    "text": "Likewise, once constructed, the\n44,000 part SAFIRE reactor was also up",
+    "start": 2677.59,
+    "duration": 12.64
+  },
+  {
+    "text": "and running within minutes.",
+    "start": 2690.23,
+    "duration": 2.25
+  },
+  {
+    "text": "At every step of the way, the Electric\nSun model's predictions proved accurate.",
+    "start": 2701.42,
+    "duration": 6.22
+  },
+  {
+    "text": "What if the process used to\ncreate the SAFIRE Sun turns out to",
+    "start": 2716.64,
+    "duration": 5.19
+  },
+  {
+    "text": "be similar to the process that \ncreates the real Sun and stars?",
+    "start": 2721.83,
+    "duration": 4.72
+  },
+  {
+    "text": "The scientific community would\nhave a field day with door opening.",
+    "start": 2726.55,
+    "duration": 3.99
+  },
+  {
+    "text": "That would be\nthe big picture.",
+    "start": 2730.58,
+    "duration": 4.2
+  },
+  {
+    "text": "In all our experiments and discoveries, we have \nfound no disparities with the Electric Sun model.",
+    "start": 2734.78,
+    "duration": 6.89
+  },
+  {
+    "text": "All the evidence to date points to\nelectricity as the primal force in nature.",
+    "start": 2741.67,
+    "duration": 4.84
+  },
+  {
+    "text": "We believe the SAFIRE\nproject validates and supports the",
+    "start": 2746.51,
+    "duration": 3.81
+  },
+  {
+    "text": "Electric Sun model.",
+    "start": 2750.32,
+    "duration": 1.15
+  },
+  {
+    "text": "SAFIRE's new mandate is to create\nbeneficial and commercially viable",
+    "start": 2756.22,
+    "duration": 4.56
+  },
+  {
+    "text": "transformative technologies \nfor Humanity.",
+    "start": 2760.78,
+    "duration": 3.46
+  },
+  {
+    "text": "That's what tomorrow's talk will be\nabout, it'll be really the story and",
+    "start": 2774.9,
+    "duration": 3.58
+  },
+  {
+    "text": "where do we go from here, and what should\nwe do with SAFIRE, should we stop the research?",
+    "start": 2778.48,
+    "duration": 5.2
+  },
+  {
+    "text": "Caesar, up -- down, OK,\noff with their heads.",
+    "start": 2789.68,
+    "duration": 3.9
+  },
+  {
+    "text": "So I guess, we'll leave that\nwith you, I hope you've enjoyed it.",
+    "start": 2793.58,
+    "duration": 5.32
+  }
+]

@@ -1,0 +1,3117 @@
+[
+  {
+    "text": "I am talking about “Science Set Free” and what \nscience is being set free from, is the science delusion.",
+    "start": 4.61,
+    "duration": 11.02
+  },
+  {
+    "text": "The science delusion is the belief that\nscience has already understood the",
+    "start": 20.16,
+    "duration": 4.19
+  },
+  {
+    "text": "nature of reality in principle, leaving only the details\nto be filled in. This is very widely believed in our",
+    "start": 24.35,
+    "duration": 7.03
+  },
+  {
+    "text": "society. It's one of the reasons for the\ndogmatism that all of us encounter, and",
+    "start": 31.38,
+    "duration": 5.33
+  },
+  {
+    "text": "which is so annoying, but it's because people think they\nalready know the truth. They sincerely believe that,",
+    "start": 36.71,
+    "duration": 7.15
+  },
+  {
+    "text": "and this is probably one of the most\nwidespread delusions in our society and",
+    "start": 43.86,
+    "duration": 4.56
+  },
+  {
+    "text": "we've now exported it to the rest of the \nworld. There's a conflict in the heart of",
+    "start": 48.42,
+    "duration": 6.08
+  },
+  {
+    "text": "science between science as a method of\ninquiry, about the testing of hypotheses,",
+    "start": 54.66,
+    "duration": 5.39
+  },
+  {
+    "text": "looking at the evidence, finding out\nwhat's really going on, open-minded,",
+    "start": 60.05,
+    "duration": 5.06
+  },
+  {
+    "text": "subject to correction, and so forth. The\nideal of science which many people think",
+    "start": 65.11,
+    "duration": 6.59
+  },
+  {
+    "text": "of as what science is, now it's what\nscience ought to be and I agree with",
+    "start": 71.7,
+    "duration": 5.22
+  },
+  {
+    "text": "that ideal. The reality as many of us\nhave encountered through better",
+    "start": 76.92,
+    "duration": 4.62
+  },
+  {
+    "text": "experience is rather different. For many\npeople science has become a belief",
+    "start": 81.54,
+    "duration": 4.8
+  },
+  {
+    "text": "system, a world view. This is sometimes\ncalled scientism where people take the",
+    "start": 86.34,
+    "duration": 5.88
+  },
+  {
+    "text": "dogmas of science to be a kind of religious \nbelief system, or quasi-religious belief system.",
+    "start": 92.22,
+    "duration": 7.07
+  },
+  {
+    "text": "And it's this dogmatic belief system which I think is now\nconstricting and holding science back in a very serious",
+    "start": 99.29,
+    "duration": 7.5
+  },
+  {
+    "text": "way. In almost every branch of science \nwe see the law of diminishing returns. More",
+    "start": 106.79,
+    "duration": 5.77
+  },
+  {
+    "text": "expensive research yields fewer and\nfewer really new results. And I think the",
+    "start": 112.56,
+    "duration": 4.68
+  },
+  {
+    "text": "reason for all that is this dogmatic\nbelief system. If science can be set free",
+    "start": 117.24,
+    "duration": 4.5
+  },
+  {
+    "text": "from it, new experiments and new\npossibilities open up in every area.",
+    "start": 121.74,
+    "duration": 6.32
+  },
+  {
+    "text": "What I do in my book “Science Set Free”\nis take the ten dogmas of institutional",
+    "start": 128.34,
+    "duration": 5.22
+  },
+  {
+    "text": "science which are part of the scientific\nworldview and turn these dogmas into",
+    "start": 133.56,
+    "duration": 4.74
+  },
+  {
+    "text": "questions, treat them not as beliefs or\ntruths, but as hypotheses that can be",
+    "start": 138.3,
+    "duration": 5.76
+  },
+  {
+    "text": "tested against the evidence. I then look\nat them scientifically to see how well",
+    "start": 144.06,
+    "duration": 4.25
+  },
+  {
+    "text": "they stack up when you take into account\nthe evidence. None of them do and in",
+    "start": 148.31,
+    "duration": 6.06
+  },
+  {
+    "text": "every case new possibilities open up. Sounds would\nbecome regenerated when we undergo this process.",
+    "start": 154.37,
+    "duration": 9.19
+  },
+  {
+    "text": "I don't have time to discuss all ten dogmas today,\nbut what I'll do first is just say what they are.",
+    "start": 163.56,
+    "duration": 6.95
+  },
+  {
+    "text": "First and foremost, Dogma One is the belief\nthat nature is mechanical, or machine-like.",
+    "start": 170.51,
+    "duration": 6.49
+  },
+  {
+    "text": "This has been the foundational principle\nof science since the beginning of",
+    "start": 177.0,
+    "duration": 4.8
+  },
+  {
+    "text": "modern science in the 17th century.\nMechanistic Science is based on the",
+    "start": 181.8,
+    "duration": 4.74
+  },
+  {
+    "text": "machine metaphor. Nature is a machine.\nStars are machines. Animals and plants",
+    "start": 186.54,
+    "duration": 6.3
+  },
+  {
+    "text": "are machines. That's why you can \nhave industrial agriculture, genetic",
+    "start": 192.84,
+    "duration": 4.7
+  },
+  {
+    "text": "engineering, factory farming, and so on. And they're\njust machines. And we're machines too. Lumbering robots,",
+    "start": 197.54,
+    "duration": 7.47
+  },
+  {
+    "text": "in Richard Dawkins vivid phrase, with brains \nthat are genetically programmed computers.",
+    "start": 205.01,
+    "duration": 7.21
+  },
+  {
+    "text": "The second Dogma is: the total amount of\nmatter and energy is always the same,",
+    "start": 212.22,
+    "duration": 4.28
+  },
+  {
+    "text": "except at the moment of the Big Bang when it\nall appeared from nowhere. The third Dogma is",
+    "start": 216.5,
+    "duration": 7.72
+  },
+  {
+    "text": "similar to that: the laws of nature are\nfixed. The laws and constants of the",
+    "start": 224.22,
+    "duration": 4.86
+  },
+  {
+    "text": "world are the same today as they were at\nthe moment of the Big Bang when they all",
+    "start": 229.08,
+    "duration": 4.92
+  },
+  {
+    "text": "suddenly appeared like a kind of cosmic Napoleonic \nCode. As Terence McKenna used to say, modern",
+    "start": 234.0,
+    "duration": 7.31
+  },
+  {
+    "text": "science is based on the principle: give\nus one free miracle, and we'll explain",
+    "start": 241.31,
+    "duration": 4.03
+  },
+  {
+    "text": "the rest. And the one free miracle is the\nappearance of all the matter and energy",
+    "start": 245.34,
+    "duration": 4.97
+  },
+  {
+    "text": "in the universe, and all the laws that \ngovern it, from nothing in a single instant.",
+    "start": 250.31,
+    "duration": 5.31
+  },
+  {
+    "text": "The fourth Dogma is that matter is unconscious.\nThe universe is made up of totally",
+    "start": 255.62,
+    "duration": 7.48
+  },
+  {
+    "text": "unconscious matter. Fifth, nature is purposeless.\nThere are no purposes in nature and the evolutionary",
+    "start": 263.1,
+    "duration": 8.4
+  },
+  {
+    "text": "process has no purpose or direction.\nSixth, biological inheritance is material.",
+    "start": 271.5,
+    "duration": 6.24
+  },
+  {
+    "text": "It's genetic, in the genetic material DNA,\nor possibly in epigenetic modifications",
+    "start": 277.74,
+    "duration": 6.36
+  },
+  {
+    "text": "of the DNA which are also chemical, or in cytoplasmic\ninheritance. But at any rate it's all material.",
+    "start": 284.1,
+    "duration": 6.84
+  },
+  {
+    "text": "Seven, memories are stored as material traces\ninside the brain. Everything you remember",
+    "start": 290.94,
+    "duration": 5.4
+  },
+  {
+    "text": "is somewhere inside your head as a\nstored memory, either in phosphorylated",
+    "start": 296.34,
+    "duration": 5.46
+  },
+  {
+    "text": "proteins, modified synapses, or some\nmaterial form which has not yet been",
+    "start": 301.8,
+    "duration": 5.39
+  },
+  {
+    "text": "fully identified. Although the details\nare very vague, attempts to find these",
+    "start": 307.19,
+    "duration": 5.28
+  },
+  {
+    "text": "traces have failed over and over again.\nBut nevertheless it's universally",
+    "start": 312.47,
+    "duration": 4.03
+  },
+  {
+    "text": "believed within neuroscience that they're all inside\nthe brain. Dogma eight. The mind is inside the head.",
+    "start": 316.5,
+    "duration": 8.6
+  },
+  {
+    "text": "Mental activity is brain activity. Your mind \nis nothing but what goes on in your brain.",
+    "start": 325.1,
+    "duration": 7.9
+  },
+  {
+    "text": "Dogma nine follows from Dogma eight. \nPsychic phenomena are illusory. Things like",
+    "start": 333.0,
+    "duration": 6.12
+  },
+  {
+    "text": "telepathy can't really happen, because\nthey would imply the mind can work at a",
+    "start": 339.12,
+    "duration": 4.38
+  },
+  {
+    "text": "distance from the body, and it can't do\nthat because it's all inside the head.",
+    "start": 343.5,
+    "duration": 4.56
+  },
+  {
+    "text": "And Dogma 10, mechanistic medicine is the\nonly kind that really works. Alternative",
+    "start": 348.06,
+    "duration": 5.69
+  },
+  {
+    "text": "and complementary therapies may appear\nto work, but that's only because people",
+    "start": 353.75,
+    "duration": 4.03
+  },
+  {
+    "text": "would have got better anyway, or it's all\nthe placebo effect. But the real kind, the",
+    "start": 357.78,
+    "duration": 4.62
+  },
+  {
+    "text": "only kind that really works is mechanistic medicine,\nwhich is why in most parts of the world it's the only",
+    "start": 362.4,
+    "duration": 5.82
+  },
+  {
+    "text": "kind taught in medical schools. It's the only kind\nfunded by government funding agencies and so on.",
+    "start": 368.22,
+    "duration": 8.52
+  },
+  {
+    "text": "Well, these are the 10 beliefs which are\nmore or less the default belief system",
+    "start": 376.74,
+    "duration": 4.38
+  },
+  {
+    "text": "of most scientists and most educated people today.\nWherever they are in the world, in India",
+    "start": 381.12,
+    "duration": 6.48
+  },
+  {
+    "text": "or China or wherever, this is the belief system which\nis predominant. Now, within science itself of course,",
+    "start": 387.6,
+    "duration": 7.14
+  },
+  {
+    "text": "people at the leading edge of research\nin many ways have moved beyond this",
+    "start": 394.74,
+    "duration": 3.72
+  },
+  {
+    "text": "belief system. Research scientists are\nnot necessarily committed to this in",
+    "start": 398.46,
+    "duration": 4.62
+  },
+  {
+    "text": "every detail, but they're usually only at\nthe frontier of one region. A physicist",
+    "start": 403.08,
+    "duration": 5.1
+  },
+  {
+    "text": "might be at the frontiers of cosmology\nand have gone beyond some of these",
+    "start": 408.18,
+    "duration": 4.2
+  },
+  {
+    "text": "dogmas of physics, but they wouldn't\nquestion the dogmas of psychology or",
+    "start": 412.38,
+    "duration": 4.14
+  },
+  {
+    "text": "biology. Those would remain more or less\nintact. So, there are various people who",
+    "start": 416.52,
+    "duration": 4.14
+  },
+  {
+    "text": "question bits of it, but there's very\nlittle that's been done to question the",
+    "start": 420.66,
+    "duration": 4.62
+  },
+  {
+    "text": "whole thing. This is essentially the materialist\nworld view and it became the dominant view of",
+    "start": 425.28,
+    "duration": 6.84
+  },
+  {
+    "text": "science in the 19th century. Science was as it were\nhijacked by materialist philosophy, and since then",
+    "start": 432.12,
+    "duration": 6.78
+  },
+  {
+    "text": "has been a wholly owned subsidiary of\nmaterialism. There's no reason why",
+    "start": 438.9,
+    "duration": 5.4
+  },
+  {
+    "text": "science has to be materialistic. It\nwasn't materialist before the 19th",
+    "start": 444.3,
+    "duration": 3.83
+  },
+  {
+    "text": "century, it was dualist as I'll say soon.\nAnd I think we can go beyond that to a",
+    "start": 448.13,
+    "duration": 5.4
+  },
+  {
+    "text": "new, more inclusive, more organic,\norganismic paradigm for science.",
+    "start": 453.53,
+    "duration": 6.85
+  },
+  {
+    "text": "What I'm going to do first is look at\nthe dogma that the total amount of",
+    "start": 460.38,
+    "duration": 4.68
+  },
+  {
+    "text": "matter and energy is always the same This got built\ninto the foundations of science in the 17th century.",
+    "start": 465.06,
+    "duration": 7.82
+  },
+  {
+    "text": "It was not brought about by incredibly\ndetailed observations using nanogram",
+    "start": 473.41,
+    "duration": 5.68
+  },
+  {
+    "text": "balances and so forth. It came about for purely\nphilosophical or rather theological reasons.",
+    "start": 479.09,
+    "duration": 6.66
+  },
+  {
+    "text": "The founding fathers of modern science were\nall Christians who believed that the world",
+    "start": 485.75,
+    "duration": 5.34
+  },
+  {
+    "text": "was a machine, that God was a machine\nmaker, an engineering mathematically-",
+    "start": 491.09,
+    "duration": 4.81
+  },
+  {
+    "text": "minded God, who'd created the world machine.\nAnd he'd started off the world machine in the first place",
+    "start": 495.9,
+    "duration": 6.44
+  },
+  {
+    "text": "by creating the matter that's in it,\nwhich he created in the form of atoms,",
+    "start": 502.34,
+    "duration": 5.85
+  },
+  {
+    "text": "taking the idea from Greek atomism. And\nthese atoms by definition couldn't be",
+    "start": 508.19,
+    "duration": 4.98
+  },
+  {
+    "text": "destroyed, they couldn't be broken up, so once God had\ncreated them the total amount of atoms or matter must",
+    "start": 513.17,
+    "duration": 6.42
+  },
+  {
+    "text": "automatically remain the same forever.\nAnd God also endowed the universe with a",
+    "start": 519.59,
+    "duration": 5.77
+  },
+  {
+    "text": "certain quantum of movement or force\nwhich started it in motion. And",
+    "start": 525.36,
+    "duration": 5.64
+  },
+  {
+    "text": "thereafter, because this God-given force\ncouldn't be changed by anything else, the",
+    "start": 531.0,
+    "duration": 4.68
+  },
+  {
+    "text": "amount remained the same. So, the principles of\nconservation of matter and energy were built into",
+    "start": 535.68,
+    "duration": 5.21
+  },
+  {
+    "text": "science from the outset. Not on the basis of\ndetailed measurements. They've served as useful",
+    "start": 540.89,
+    "duration": 6.73
+  },
+  {
+    "text": "accountancy principles ever since, but\nthey were formulated more rigorously in",
+    "start": 547.62,
+    "duration": 4.56
+  },
+  {
+    "text": "the mid-19th century in the law of\nconservation of matter and energy and in",
+    "start": 552.18,
+    "duration": 4.74
+  },
+  {
+    "text": "the first law of thermodynamics.\nSo, it was assumed that that was the end",
+    "start": 556.92,
+    "duration": 7.32
+  },
+  {
+    "text": "of the matter and that they were fixed\nforever. And most people take that for",
+    "start": 564.24,
+    "duration": 3.77
+  },
+  {
+    "text": "granted today. They've learned it in high\nschool and they never see any reason",
+    "start": 568.01,
+    "duration": 4.09
+  },
+  {
+    "text": "to question it. This was the dogma of\nscience which I myself didn't question",
+    "start": 572.1,
+    "duration": 4.44
+  },
+  {
+    "text": "until quite recently. I'd questioned all\nthe others but it was only when I was",
+    "start": 576.54,
+    "duration": 3.78
+  },
+  {
+    "text": "writing this book that I thought I should look at this\none. I actually rather wanted it to turn out to be true",
+    "start": 580.32,
+    "duration": 6.12
+  },
+  {
+    "text": "because I thought if I said that all ten\ndogmas of science were false, it might",
+    "start": 586.44,
+    "duration": 4.98
+  },
+  {
+    "text": "sound a bit biased, so I thought it'd be\nquite nice if one of them held up and I",
+    "start": 591.42,
+    "duration": 4.5
+  },
+  {
+    "text": "thought this was the best candidate. But when I\nthought about it, it turned out to be a shambles.",
+    "start": 595.92,
+    "duration": 6.84
+  },
+  {
+    "text": "First of all, where physicists are above\nthe law, they've found themselves",
+    "start": 603.72,
+    "duration": 4.86
+  },
+  {
+    "text": "quite free to invent or hypothesize forms of matter\nand energy which no one had ever thought of before.",
+    "start": 608.58,
+    "duration": 6.84
+  },
+  {
+    "text": "One of them is of course dark matter.\nObservations of galaxies and the way",
+    "start": 615.42,
+    "duration": 4.85
+  },
+  {
+    "text": "that stars moved within them and also\nthe ways that galaxies interact with",
+    "start": 620.27,
+    "duration": 4.03
+  },
+  {
+    "text": "each other, suggested that the galaxies,\nif they were to be explained in terms of",
+    "start": 624.3,
+    "duration": 4.8
+  },
+  {
+    "text": "gravitation, simply wouldn't work. The\nwhole thing simply didn't work. So, in",
+    "start": 629.1,
+    "duration": 6.0
+  },
+  {
+    "text": "order to make it work they hypothesized\nthere was extra matter which you can't",
+    "start": 635.1,
+    "duration": 4.67
+  },
+  {
+    "text": "see; hence the name dark matter that\naccounted for all the phenomena of",
+    "start": 639.77,
+    "duration": 4.93
+  },
+  {
+    "text": "galaxies and their interactions. Well, how\nmuch dark matter was there? Well, simple.",
+    "start": 644.7,
+    "duration": 4.92
+  },
+  {
+    "text": "Just invent the exact amount you need\nto explain the observed phenomena. You",
+    "start": 649.62,
+    "duration": 5.15
+  },
+  {
+    "text": "can titrate the amount of dark matter at will to explain\nthe phenomena you're trying to explain. If you find new",
+    "start": 654.77,
+    "duration": 7.03
+  },
+  {
+    "text": "phenomena, peculiar bulges in galaxies or\nsomething that one-size-fits-all dark",
+    "start": 661.8,
+    "duration": 6.06
+  },
+  {
+    "text": "matter won't explain, then you add a bit\nmore where it's needed. The system works",
+    "start": 667.86,
+    "duration": 3.9
+  },
+  {
+    "text": "perfectly and you can explain everything with complete\naccuracy because you can change the amount at will.",
+    "start": 671.76,
+    "duration": 7.75
+  },
+  {
+    "text": "The only trouble is no one knows what it\nis and there's no independent evidence",
+    "start": 679.51,
+    "duration": 4.49
+  },
+  {
+    "text": "for it. People have been speculating about\nits nature ever since it was first postulated.",
+    "start": 684.0,
+    "duration": 5.64
+  },
+  {
+    "text": "Having created all this extra matter in the universe,\nthen this meant there should be more gravitation.",
+    "start": 689.64,
+    "duration": 6.48
+  },
+  {
+    "text": "Physicists expected in the 1990s that\nthe universal expansion from the Big",
+    "start": 696.12,
+    "duration": 4.74
+  },
+  {
+    "text": "Bang would slow down. The universe would\nstop expanding, then begin to contract",
+    "start": 700.86,
+    "duration": 4.91
+  },
+  {
+    "text": "under the influence of all this\ngravitational matter, until it ended in",
+    "start": 705.77,
+    "duration": 4.5
+  },
+  {
+    "text": "tears in the reverse of a Big Bang known in the\ntrade as the Big Crunch. So, when in the late 1990s",
+    "start": 710.27,
+    "duration": 9.91
+  },
+  {
+    "text": "people observed that the universe appeared to be\naccelerating, because of red shifts in distant quasars",
+    "start": 720.18,
+    "duration": 7.2
+  },
+  {
+    "text": "and galaxies, then there was the problem how\ndo you explain this acceleration? Well, the",
+    "start": 727.38,
+    "duration": 6.89
+  },
+  {
+    "text": "answer was ready to hand: a new form of\nenergy no one had known about before",
+    "start": 734.27,
+    "duration": 3.61
+  },
+  {
+    "text": "which caused the universe to expand. How\nmuch is that, well just the right amount",
+    "start": 737.88,
+    "duration": 4.98
+  },
+  {
+    "text": "to explain the facts. So, we now have dark\nmatter and dark energy as a huge amount of",
+    "start": 742.86,
+    "duration": 6.47
+  },
+  {
+    "text": "the universe. They currently make up\nabout 96 percent of reality.",
+    "start": 749.33,
+    "duration": 4.15
+  },
+  {
+    "text": "Look, physicists have invented something\nlike 20 times more energy and mass than",
+    "start": 753.48,
+    "duration": 5.4
+  },
+  {
+    "text": "anyone had ever heard of till the 1980s.\nAnd no one's said, oh you can't do that",
+    "start": 758.88,
+    "duration": 5.22
+  },
+  {
+    "text": "it's defying the law of conservation of\nmatter and energy. And if you ask is all",
+    "start": 764.1,
+    "duration": 4.85
+  },
+  {
+    "text": "this matter and energy conserved? Is the\ntotal amount always the same? Well for",
+    "start": 768.95,
+    "duration": 4.38
+  },
+  {
+    "text": "dark matter nobody knows. For dark energy\nthe most usual theory is that actually",
+    "start": 773.33,
+    "duration": 4.39
+  },
+  {
+    "text": "the amount is increasing. As the universe\nexpands there's more dark energy. The",
+    "start": 777.72,
+    "duration": 4.32
+  },
+  {
+    "text": "universe is now a perpetual motion machine.\nSo the idea it's all rigorously conserved doesn't",
+    "start": 782.04,
+    "duration": 6.18
+  },
+  {
+    "text": "really make much sense in those terms.\nWithin quantum physics there’s also",
+    "start": 788.22,
+    "duration": 6.29
+  },
+  {
+    "text": "Zero-point Energy, a form of energy\nwhich is supposed to be there underlying",
+    "start": 794.51,
+    "duration": 7.5
+  },
+  {
+    "text": "the world we live in, which is like waves on an\nocean of energy. And there's huge amounts of it. The",
+    "start": 802.01,
+    "duration": 6.79
+  },
+  {
+    "text": "amount in a teaspoon would be enough\nto power the United States for years.",
+    "start": 808.8,
+    "duration": 4.97
+  },
+  {
+    "text": "Not surprisingly, some people claim that they\ncan tap this energy and have devices which tap",
+    "start": 813.77,
+    "duration": 8.3
+  },
+  {
+    "text": "unconventional or unknown forms of\nenergy, including Zero-point Energy.",
+    "start": 822.07,
+    "duration": 4.5
+  },
+  {
+    "text": "If you go online, you'll find there are\nmany people who claim to have above-",
+    "start": 826.57,
+    "duration": 4.0
+  },
+  {
+    "text": "unity devices, machines that produce\nmore energy than you put into them.",
+    "start": 830.57,
+    "duration": 4.69
+  },
+  {
+    "text": "Well, these are immediately banned from\nregular science because they violate the",
+    "start": 835.26,
+    "duration": 4.62
+  },
+  {
+    "text": "first of science's taboos established by\nGalileo in the early 17th century, the",
+    "start": 839.88,
+    "duration": 4.86
+  },
+  {
+    "text": "taboo against perpetual motion machines.\nThis taboo long predated the laws of",
+    "start": 844.74,
+    "duration": 5.03
+  },
+  {
+    "text": "thermodynamics and it's one of the\nmost deep-seated taboos in science.",
+    "start": 849.77,
+    "duration": 5.11
+  },
+  {
+    "text": "So, things like Cold Fusion, or above-\nunity devices or free energy devices,",
+    "start": 854.88,
+    "duration": 6.06
+  },
+  {
+    "text": "whether they're based on Zero-point\nEnergy or peculiar electromagnetic",
+    "start": 860.94,
+    "duration": 3.95
+  },
+  {
+    "text": "effects, or parametric resonance, or the\nvarious other theories that are used to",
+    "start": 864.89,
+    "duration": 4.09
+  },
+  {
+    "text": "explain them, are totally beyond the pale. Nevertheless,\npeople claim they've got them and they exist.",
+    "start": 868.98,
+    "duration": 7.08
+  },
+  {
+    "text": "If they do exist of course it would totally transform\nthe world economy and the world energy situation.",
+    "start": 876.06,
+    "duration": 6.3
+  },
+  {
+    "text": "So, do they really work? Well, right now it's very,\nvery hard to find out because there's claims that may",
+    "start": 882.36,
+    "duration": 5.88
+  },
+  {
+    "text": "or may not be substantiated. There's \na universal rejection within orthodox",
+    "start": 888.24,
+    "duration": 4.5
+  },
+  {
+    "text": "science of this; a few people within the\nDepartment of Defense, a few people who",
+    "start": 892.74,
+    "duration": 5.82
+  },
+  {
+    "text": "are kind of maverick investors are\ninterested in this. The Japanese",
+    "start": 898.56,
+    "duration": 4.98
+  },
+  {
+    "text": "government is interested, but basically they're\nnot part of the normal discourse of science.",
+    "start": 903.54,
+    "duration": 7.2
+  },
+  {
+    "text": "I myself think the best way forward here\nwould be to have a prize, say a million",
+    "start": 910.74,
+    "duration": 4.68
+  },
+  {
+    "text": "dollar prize for the best above-unity\ndevice. And those who claim to have them,",
+    "start": 915.42,
+    "duration": 4.97
+  },
+  {
+    "text": "could then have them tested. This is \nnot an attempt to debunk them, it's an",
+    "start": 920.39,
+    "duration": 4.03
+  },
+  {
+    "text": "attempt to see what really works. They'd\nbe tested under fair, agreed conditions.",
+    "start": 924.42,
+    "duration": 4.14
+  },
+  {
+    "text": "And if any of them do indeed produce\nmore energy than is put into them and",
+    "start": 928.56,
+    "duration": 3.95
+  },
+  {
+    "text": "that which can't be explained in terms of any known energy\nsource, they'd win the prize. If several do, then the",
+    "start": 932.51,
+    "duration": 6.67
+  },
+  {
+    "text": "best one would win the prize. I think this would be\nthe best way of bringing this whole thing out into the",
+    "start": 939.18,
+    "duration": 5.58
+  },
+  {
+    "text": "open and finding out what's really \ngoing on. And I think that",
+    "start": 944.76,
+    "duration": 5.9
+  },
+  {
+    "text": "commercial betting companies could open\na book on this as well and people could",
+    "start": 950.66,
+    "duration": 4.9
+  },
+  {
+    "text": "bet on whether the prize will be awarded.\nThen all those skeptics who say it's",
+    "start": 955.56,
+    "duration": 5.63
+  },
+  {
+    "text": "impossible could put their money where\ntheir mouth is and bet a million dollars",
+    "start": 961.19,
+    "duration": 3.73
+  },
+  {
+    "text": "that no one would win the prize. How much\nwould they actually be prepared to bet?",
+    "start": 964.92,
+    "duration": 4.85
+  },
+  {
+    "text": "That would be a very interesting\nquestion. I'd be prepared to bet at least",
+    "start": 969.77,
+    "duration": 3.49
+  },
+  {
+    "text": "a thousand dollars that someone would \nwin it. So, I think this would put the thing",
+    "start": 973.26,
+    "duration": 4.56
+  },
+  {
+    "text": "totally into the public domain. The media\nwould love it, everyone would be",
+    "start": 977.82,
+    "duration": 3.36
+  },
+  {
+    "text": "discussing it, and if someone won it, I\nthink it would completely change the",
+    "start": 981.18,
+    "duration": 3.95
+  },
+  {
+    "text": "climate. I think investors would get\ninterested, governments, how it works and",
+    "start": 985.13,
+    "duration": 4.38
+  },
+  {
+    "text": "the situation could move on. Right now we've\nbeen at a stalemate for years with these things.",
+    "start": 989.51,
+    "duration": 6.06
+  },
+  {
+    "text": "It turns out that in biology the whole\nquestion of energy conservation is much,",
+    "start": 995.57,
+    "duration": 4.62
+  },
+  {
+    "text": "much more questionable than most people\nassume. We all assume that the total",
+    "start": 1000.19,
+    "duration": 4.75
+  },
+  {
+    "text": "amount of energy that we produce can be\nexplained by the food we take in and",
+    "start": 1004.94,
+    "duration": 5.45
+  },
+  {
+    "text": "this was assumed in the 1850s by Hermann\nVon Helmholtz who was eager to prove",
+    "start": 1010.39,
+    "duration": 5.41
+  },
+  {
+    "text": "that living organisms were nothing but machines.\nHe didn't prove it, he assumed it and",
+    "start": 1015.8,
+    "duration": 4.74
+  },
+  {
+    "text": "since then it's been a basic dogma of biology.\nIt wasn't tested in humans until 1899 by",
+    "start": 1020.54,
+    "duration": 7.68
+  },
+  {
+    "text": "two American researchers called Atwater\nand Benedict and they were determined to",
+    "start": 1028.22,
+    "duration": 5.21
+  },
+  {
+    "text": "prove that we're nothing but machines.\nThey were mechanists and they started",
+    "start": 1033.43,
+    "duration": 3.9
+  },
+  {
+    "text": "from the assumption this was true and\nthey did the experiments not to find out",
+    "start": 1037.33,
+    "duration": 3.84
+  },
+  {
+    "text": "if it was true or not, but as they put it,\nto demonstrate it in order to further",
+    "start": 1041.17,
+    "duration": 4.57
+  },
+  {
+    "text": "the cause of science. They had people in\ncalorimeters and measured all the heat",
+    "start": 1045.74,
+    "duration": 4.8
+  },
+  {
+    "text": "produced, the carbon dioxide, the oxygen\ntaken in, feces, urine, food consumed and",
+    "start": 1050.54,
+    "duration": 5.7
+  },
+  {
+    "text": "so on, did a complete energy balance\nsheet. When they did it, the results came",
+    "start": 1056.24,
+    "duration": 4.31
+  },
+  {
+    "text": "out wrong. So, they changed the correction\nfactors for the value of food until they",
+    "start": 1060.55,
+    "duration": 4.93
+  },
+  {
+    "text": "got the expected result, and this then became built\ninto the foundations of biology as a certain fact.",
+    "start": 1065.48,
+    "duration": 7.55
+  },
+  {
+    "text": "It wasn't re-examined until an\nindependent-minded American nutritionist,",
+    "start": 1073.03,
+    "duration": 5.23
+  },
+  {
+    "text": "Paul Webb, redid their experiments in the\n1970s. He found huge discrepancies. People",
+    "start": 1078.26,
+    "duration": 6.41
+  },
+  {
+    "text": "who were overweight, overeating and doing\nvery little exercise seemed to have 25",
+    "start": 1084.67,
+    "duration": 5.47
+  },
+  {
+    "text": "percent or so of the energy just vanish.\nPeople who are not eating and doing",
+    "start": 1090.14,
+    "duration": 4.56
+  },
+  {
+    "text": "exercise gained about 25 percent. Too\nmuch energy. Where was it coming from?",
+    "start": 1094.7,
+    "duration": 4.92
+  },
+  {
+    "text": "Nobody knows. He called it X, the\nunexplained amount of energy that could",
+    "start": 1099.62,
+    "duration": 4.74
+  },
+  {
+    "text": "either disappear or appear. He then\nre-examined Atwater and Benedict's",
+    "start": 1104.36,
+    "duration": 4.86
+  },
+  {
+    "text": "results and found that they'd got similar\ndiscrepancies, but they'd made sure",
+    "start": 1109.22,
+    "duration": 3.95
+  },
+  {
+    "text": "there were just as many people who had\ntoo much and too little so that, when",
+    "start": 1113.17,
+    "duration": 4.21
+  },
+  {
+    "text": "they averaged them, it canceled out to give the\nexpected result. There are people who claim there are",
+    "start": 1117.38,
+    "duration": 6.0
+  },
+  {
+    "text": "other forms of energy: Chi, Prana, vital\nenergies, and so on. These are usually",
+    "start": 1123.38,
+    "duration": 5.34
+  },
+  {
+    "text": "treated as metaphoric, but they may be\nmuch more literal than we usually think.",
+    "start": 1128.72,
+    "duration": 4.19
+  },
+  {
+    "text": "And this is a huge unexplored area. It's\nnot as if nutrition science is the most",
+    "start": 1132.91,
+    "duration": 5.71
+  },
+  {
+    "text": "successful branch of modern biology.\nAnd I think that this is something which",
+    "start": 1138.62,
+    "duration": 5.4
+  },
+  {
+    "text": "bears re-examination. In my book, \nI suggest several quite radical",
+    "start": 1144.02,
+    "duration": 4.68
+  },
+  {
+    "text": "experiments that could be done quite\nsimply and cheaply, to look at this.",
+    "start": 1148.7,
+    "duration": 5.47
+  },
+  {
+    "text": "Well, now let me turn briefly to the idea that\nthe laws and constants of nature are fixed.",
+    "start": 1154.66,
+    "duration": 8.46
+  },
+  {
+    "text": "The idea that the laws are fixed is a\nhangover from Greek philosophy. Plato and",
+    "start": 1163.22,
+    "duration": 6.72
+  },
+  {
+    "text": "Pythagoras thought that the world was\ngoverned by mathematical principles",
+    "start": 1169.94,
+    "duration": 3.42
+  },
+  {
+    "text": "beyond space and time, eternal ideas. In\nthe 17th century people thought these",
+    "start": 1173.36,
+    "duration": 5.58
+  },
+  {
+    "text": "were ideas in the mind of a mathematical\nGod and that God had these mathematical",
+    "start": 1178.94,
+    "duration": 5.58
+  },
+  {
+    "text": "ideas and that scientists were actually\nfinding out about the mind of God by",
+    "start": 1184.52,
+    "duration": 4.08
+  },
+  {
+    "text": "finding out the math of nature. People\nthought Newton's laws of gravitation",
+    "start": 1188.6,
+    "duration": 4.26
+  },
+  {
+    "text": "were not just human hypotheses, mere\nguessses or mere working principles. They",
+    "start": 1192.86,
+    "duration": 6.0
+  },
+  {
+    "text": "thought this was a direct insight into\nthe divine mind, superior to that of",
+    "start": 1198.86,
+    "duration": 3.66
+  },
+  {
+    "text": "religion, much more precise, much less\ndisputable. And this was really the basis",
+    "start": 1202.52,
+    "duration": 5.03
+  },
+  {
+    "text": "for enlightenment ideology of science and reason.\nThey thought science and reason transcended",
+    "start": 1207.55,
+    "duration": 6.93
+  },
+  {
+    "text": "religion in giving a direct insight into the divine\nnature. Now, you don't hear much about that today,",
+    "start": 1214.48,
+    "duration": 6.64
+  },
+  {
+    "text": "but there's still the strong enlightenment\ntradition and the idea of the laws of nature",
+    "start": 1221.12,
+    "duration": 7.26
+  },
+  {
+    "text": "are fixed is a hangover from that point of view.\nBut in a radically evolutionary universe",
+    "start": 1228.38,
+    "duration": 5.88
+  },
+  {
+    "text": "which the Big Bang postulates, why\nshouldn't the laws of nature themselves",
+    "start": 1234.26,
+    "duration": 4.14
+  },
+  {
+    "text": "evolve? In fact, why should there be laws\nat all? Law is a very human metaphor, only",
+    "start": 1238.4,
+    "duration": 6.06
+  },
+  {
+    "text": "humans have laws and only civilized \nsocieties. Why should we project this",
+    "start": 1244.46,
+    "duration": 5.04
+  },
+  {
+    "text": "anthropocentric metaphor onto the whole of \nnature? I myself think that the idea of habits",
+    "start": 1249.5,
+    "duration": 6.29
+  },
+  {
+    "text": "of nature makes much better sense.\nThis is the basis of my own idea of",
+    "start": 1255.79,
+    "duration": 5.65
+  },
+  {
+    "text": "morphic resonance which is a memory\nprinciple in nature, but I'm not the",
+    "start": 1261.44,
+    "duration": 4.14
+  },
+  {
+    "text": "first to propose habits. The American\nphilosopher C.S. Purse, at the beginning",
+    "start": 1265.58,
+    "duration": 4.62
+  },
+  {
+    "text": "of the 20th century suggested that in an\nevolutionary universe the regularities",
+    "start": 1270.2,
+    "duration": 5.7
+  },
+  {
+    "text": "could be thought of as evolving habits.\nI think it's a much better way to",
+    "start": 1275.9,
+    "duration": 5.1
+  },
+  {
+    "text": "think of it and it's a testable hypothesis.\nThe theory of morphic resonance predicts",
+    "start": 1281.0,
+    "duration": 6.48
+  },
+  {
+    "text": "for example that if you crystallize a new \nchemical compound for the first time,",
+    "start": 1287.48,
+    "duration": 4.31
+  },
+  {
+    "text": "it may be very difficult to crystallize\nbecause it hasn't yet got a habit to",
+    "start": 1291.79,
+    "duration": 4.47
+  },
+  {
+    "text": "crystallize with a particular lattice \nstructure. But if you crystallize it again",
+    "start": 1296.26,
+    "duration": 5.98
+  },
+  {
+    "text": "somewhere else, there'll be a resonance\nfrom the first crystals across space and",
+    "start": 1302.24,
+    "duration": 4.43
+  },
+  {
+    "text": "time - morphic resonance - that will make it\neasier to crystallize. And the third time",
+    "start": 1306.67,
+    "duration": 4.45
+  },
+  {
+    "text": "it'll be easier still because of resonance from the first\nand the second crystals. It'll get easier and easier to",
+    "start": 1311.12,
+    "duration": 5.16
+  },
+  {
+    "text": "crystallize all around the world. There's a lot of\nevidence that that really happens. Chemists explain it by",
+    "start": 1316.28,
+    "duration": 6.18
+  },
+  {
+    "text": "saying that fragments of previous crystals\nmust have been wafted around the world as dust",
+    "start": 1322.46,
+    "duration": 6.66
+  },
+  {
+    "text": "particles. But I'm predicting the same will happen\neven if you filtered dust particles out of the air.",
+    "start": 1329.12,
+    "duration": 6.29
+  },
+  {
+    "text": "The theory also predicts that if you\ntrain an animal, say rats, to learn a new",
+    "start": 1335.41,
+    "duration": 4.99
+  },
+  {
+    "text": "trick. If you train rats in Albuquerque\nto learn a new trick, then all over the",
+    "start": 1340.4,
+    "duration": 4.38
+  },
+  {
+    "text": "world rats in New York and London\nand Tokyo should learn the same trick",
+    "start": 1344.78,
+    "duration": 4.08
+  },
+  {
+    "text": "quicker, just because the rats have\nlearned it here. Surprisingly there's",
+    "start": 1348.86,
+    "duration": 3.84
+  },
+  {
+    "text": "already evidence from experiments, a\nlong series of experiments with rats",
+    "start": 1352.7,
+    "duration": 4.02
+  },
+  {
+    "text": "done at Harvard, at the University of\nEdinburgh at the University of Melbourne in",
+    "start": 1356.72,
+    "duration": 3.42
+  },
+  {
+    "text": "Australia that this actually happens. The\nsame applies to people. It should be",
+    "start": 1360.14,
+    "duration": 4.68
+  },
+  {
+    "text": "getting easier to learn things\nthat others have already learned.",
+    "start": 1364.82,
+    "duration": 4.02
+  },
+  {
+    "text": "Well, I'm not going to go into detail on\nthis because this is the theme of my own",
+    "start": 1368.84,
+    "duration": 4.07
+  },
+  {
+    "text": "theory of morphic resonance. And my\npurpose in this lecture and in my book",
+    "start": 1372.91,
+    "duration": 3.79
+  },
+  {
+    "text": "is not really so much to push my own\nideas, as to show how questionable the",
+    "start": 1376.7,
+    "duration": 4.74
+  },
+  {
+    "text": "standard ones are, and how much the\nfield is open for different answers.",
+    "start": 1381.44,
+    "duration": 5.21
+  },
+  {
+    "text": "But I'll turn just briefly to the\nconstants of nature because this affects",
+    "start": 1386.65,
+    "duration": 3.97
+  },
+  {
+    "text": "the Electric Universe, or indeed any model of\nthe universe. It's assumed that the constants of",
+    "start": 1390.62,
+    "duration": 6.12
+  },
+  {
+    "text": "nature are constant. The fundamental\nconstants like Newton's gravitational",
+    "start": 1396.74,
+    "duration": 3.66
+  },
+  {
+    "text": "constant, big G, or the speed of light c.\nWell, I began to wonder whether they",
+    "start": 1400.4,
+    "duration": 6.84
+  },
+  {
+    "text": "really were constant, when I got into the Habit\nview of nature. And so I tried to find out what the",
+    "start": 1407.24,
+    "duration": 6.9
+  },
+  {
+    "text": "actual values were. I started off by\ngetting handbooks of physical constants",
+    "start": 1414.14,
+    "duration": 4.68
+  },
+  {
+    "text": "and looking at old editions. Most people\nonly look at the latest edition and they",
+    "start": 1418.82,
+    "duration": 5.28
+  },
+  {
+    "text": "usually throw the old ones away. But\nin the patent office library in London",
+    "start": 1424.1,
+    "duration": 3.72
+  },
+  {
+    "text": "I found they kept them all. And so, \nI got them all out of the reserve stock",
+    "start": 1427.82,
+    "duration": 4.8
+  },
+  {
+    "text": "at 10-year intervals. They wheeled\nin a trolley of handbooks of physical",
+    "start": 1432.62,
+    "duration": 4.5
+  },
+  {
+    "text": "constants, dusting them off and I looked\nthrough these things to see how they",
+    "start": 1437.12,
+    "duration": 4.86
+  },
+  {
+    "text": "changed. To my amazement I found that \nthe speed of light dropped by 20 kilometers",
+    "start": 1441.98,
+    "duration": 5.04
+  },
+  {
+    "text": "per second between 1928 and 1945. I then\nlooked up the data in more detail and",
+    "start": 1447.02,
+    "duration": 6.6
+  },
+  {
+    "text": "found that all over the world people\nhave been getting this much lower figure",
+    "start": 1453.62,
+    "duration": 3.0
+  },
+  {
+    "text": "with very small error bars. The original\nthing was up there with little error",
+    "start": 1456.62,
+    "duration": 4.62
+  },
+  {
+    "text": "bars and it goes down much lower with \nlittle error bars. It wasn't as if the error",
+    "start": 1461.24,
+    "duration": 3.54
+  },
+  {
+    "text": "bars were 20 kilometers per second. No they were\npoint/decimal places of kilometers per second.",
+    "start": 1464.78,
+    "duration": 7.32
+  },
+  {
+    "text": "I checked in the primary literature\nand found this indeed seemed to be the",
+    "start": 1472.1,
+    "duration": 3.66
+  },
+  {
+    "text": "case and then they went up again after 1945.\nI couldn't understand what was going on",
+    "start": 1475.76,
+    "duration": 5.94
+  },
+  {
+    "text": "so I asked the head of the Metrology\nDepartment (metrologists are people",
+    "start": 1481.7,
+    "duration": 4.68
+  },
+  {
+    "text": "who measure constants) at the British\nNational Physical Laboratory if I could",
+    "start": 1486.38,
+    "duration": 4.26
+  },
+  {
+    "text": "go and see him and I went to visit him.\nHe was very friendly and I said to him",
+    "start": 1490.64,
+    "duration": 5.15
+  },
+  {
+    "text": "Dr. Petley, I'd like to know how you\nexplain this drop in the speed of light",
+    "start": 1495.79,
+    "duration": 5.41
+  },
+  {
+    "text": "between 1928 and 1945. And he said, \n“Oh dear”. I said “...What”? He said,",
+    "start": 1501.2,
+    "duration": 6.54
+  },
+  {
+    "text": "”You've uncovered one of the most embarrassing\nincidents in the history of our country.”",
+    "start": 1507.74,
+    "duration": 5.04
+  },
+  {
+    "text": "So, I said, “Well, could it mean that the\nspeed of light really did drop, at least",
+    "start": 1512.78,
+    "duration": 6.96
+  },
+  {
+    "text": "as measured on Earth during that period?”\nHe said, “Of course not,” and I said, “Why not?”",
+    "start": 1519.74,
+    "duration": 4.26
+  },
+  {
+    "text": "He said, “Because it's a constant.”\nSo, I said, “Well then, I can't see any",
+    "start": 1524.0,
+    "duration": 8.46
+  },
+  {
+    "text": "other explanation than that people all\naround the world were sort of fudging",
+    "start": 1532.46,
+    "duration": 3.42
+  },
+  {
+    "text": "their results to get what they thought\neveryone else would expect them to get,",
+    "start": 1535.88,
+    "duration": 3.84
+  },
+  {
+    "text": "and then discarding outliers and stuff and\ncoming up with these very narrow error bars",
+    "start": 1539.72,
+    "duration": 9.54
+  },
+  {
+    "text": "that agreed with everyone else. And so, it\nthen it must have been produced by some",
+    "start": 1549.26,
+    "duration": 4.56
+  },
+  {
+    "text": "kind of fudging process”. He said, \n“We don't like to use the word ‘fudge’.",
+    "start": 1553.82,
+    "duration": 6.5
+  },
+  {
+    "text": "So I said, “What do you prefer?” He said,\n“We prefer to call it intellectual phase locking.”",
+    "start": 1560.48,
+    "duration": 8.78
+  },
+  {
+    "text": "So, I said to him, “Well, if it was happening\nthen, how do we know it's not happening now?”",
+    "start": 1570.38,
+    "duration": 6.17
+  },
+  {
+    "text": "He said, “Oh, we know it's not happening\nnow” and I said, “Why?” “He said, because we",
+    "start": 1576.55,
+    "duration": 4.86
+  },
+  {
+    "text": "fixed the speed of light by definition in\n1972.” So I said, “Well, it might still vary.”",
+    "start": 1581.41,
+    "duration": 7.14
+  },
+  {
+    "text": "And he leaned back, looking very smug and\nsaid, “Well, if it did, no one would ever find",
+    "start": 1588.55,
+    "duration": 4.62
+  },
+  {
+    "text": "out, because we've defined the \nmeter in terms of the speed of light,",
+    "start": 1593.17,
+    "duration": 5.17
+  },
+  {
+    "text": "so the units would vary with it.” So,\nI said “Well okay, you fixed that one,",
+    "start": 1598.34,
+    "duration": 5.04
+  },
+  {
+    "text": "but what about the gravitational constant, that's \nbeen varying wildly and even actually in the last",
+    "start": 1603.38,
+    "duration": 6.12
+  },
+  {
+    "text": "three or four years, it's varied by more than 1.3\npercent as measured in different Laboratories. The usual",
+    "start": 1609.5,
+    "duration": 7.32
+  },
+  {
+    "text": "assumption is this is just error,\nit's experimental error, it's hard to",
+    "start": 1616.82,
+    "duration": 4.38
+  },
+  {
+    "text": "measure, its error, so labs all over the\nworld get quite different results. And",
+    "start": 1621.2,
+    "duration": 6.47
+  },
+  {
+    "text": "the International Committee on Metrology\nfixes the results every few years by",
+    "start": 1627.67,
+    "duration": 5.17
+  },
+  {
+    "text": "averaging ones from different Labs\nweigting ones they think are more",
+    "start": 1632.84,
+    "duration": 3.24
+  },
+  {
+    "text": "reliable, discarding ones they think are\nnot. And indeed, when I left Dr. Petley,",
+    "start": 1636.08,
+    "duration": 4.97
+  },
+  {
+    "text": "thanking him for his time, he reached\ndown to a cardboard box beside his desk,",
+    "start": 1641.05,
+    "duration": 4.57
+  },
+  {
+    "text": "full of pamphlets and said, “By the way,\nthese have just come from the printers.",
+    "start": 1645.62,
+    "duration": 3.41
+  },
+  {
+    "text": "You might like one.” He handed me this pamphlet,\nthe latest values of the physical constants. so, I",
+    "start": 1649.03,
+    "duration": 11.99
+  },
+  {
+    "text": "looked at these data from different labs \non G, Big G. And the question that I",
+    "start": 1662.9,
+    "duration": 7.37
+  },
+  {
+    "text": "was wondering, there's all these big\nerrors, could it be that they're actually",
+    "start": 1670.27,
+    "duration": 4.14
+  },
+  {
+    "text": "changing together in different labs, as\nthe earth rotates around the Sun, as it",
+    "start": 1674.41,
+    "duration": 5.41
+  },
+  {
+    "text": "rotates during the day, and as the whole solar system\nmoves through different astronomical environments.",
+    "start": 1679.82,
+    "duration": 5.88
+  },
+  {
+    "text": "To find that out, one would look at\nthe day-by-day measurements from",
+    "start": 1685.7,
+    "duration": 4.2
+  },
+  {
+    "text": "different labs and see if the errors,\nor so-called errors, are correlated.",
+    "start": 1689.9,
+    "duration": 3.65
+  },
+  {
+    "text": "I've spent more than 10 years trying to\npersuade metrologists to do this. And",
+    "start": 1693.55,
+    "duration": 4.21
+  },
+  {
+    "text": "they simply will not, because they say\nit's a constant, so there's no point",
+    "start": 1697.76,
+    "duration": 3.53
+  },
+  {
+    "text": "looking for variations. But I say, you've\ngot these huge differences and they say",
+    "start": 1701.29,
+    "duration": 3.61
+  },
+  {
+    "text": "oh they're just errors it's hard to\nmeasure but they simply won't do it. An",
+    "start": 1704.9,
+    "duration": 4.62
+  },
+  {
+    "text": "exercise in open science would be if they put their\nraw data with the dates online. And then anyone",
+    "start": 1709.52,
+    "duration": 6.3
+  },
+  {
+    "text": "could try and look for patterns, and\nthere could be a website where they're",
+    "start": 1715.82,
+    "duration": 3.23
+  },
+  {
+    "text": "discussed. It would cost nothing, and \nwe might find something out. We'll",
+    "start": 1719.05,
+    "duration": 4.21
+  },
+  {
+    "text": "find out nothing by pretending it's fixed.\nThere are in fact already papers that",
+    "start": 1723.26,
+    "duration": 6.65
+  },
+  {
+    "text": "suggest diurnal variations in accordance\nwith the sidereal day. A group",
+    "start": 1729.91,
+    "duration": 4.74
+  },
+  {
+    "text": "at MIT recently found a daily variation,\nand some evidence of annual variations.",
+    "start": 1734.65,
+    "duration": 5.23
+  },
+  {
+    "text": "But there may be other, wilder\nfluctuations that happen in concert. I",
+    "start": 1739.88,
+    "duration": 5.64
+  },
+  {
+    "text": "myself think the so-called physical\nconstants may vary from time to time and",
+    "start": 1745.52,
+    "duration": 4.44
+  },
+  {
+    "text": "possibly even chaotically within certain\nlimits. I think the day may come when",
+    "start": 1749.96,
+    "duration": 5.4
+  },
+  {
+    "text": "in scientific periodicals like Nature\nthere’ll be a page, a bit like the stock",
+    "start": 1755.36,
+    "duration": 4.31
+  },
+  {
+    "text": "market reports. You know this week's value of the\nconstants. This week the G was slightly up; the",
+    "start": 1759.67,
+    "duration": 7.69
+  },
+  {
+    "text": "charge on the electron held steady;\nthere was a drop in the fine structure",
+    "start": 1767.36,
+    "duration": 3.84
+  },
+  {
+    "text": "constant, you know and if that were\nthe case then it would give varying",
+    "start": 1771.2,
+    "duration": 4.97
+  },
+  {
+    "text": "qualities of time when different things\ncould happen. The idea they're all",
+    "start": 1776.17,
+    "duration": 3.36
+  },
+  {
+    "text": "rigidly fixed is a hangover from an old platonic point\nway of thinking. So there, right in the heart of physics,",
+    "start": 1779.53,
+    "duration": 7.09
+  },
+  {
+    "text": "is I think a really open and interesting \nquestion. The key revolution in the Scientific",
+    "start": 1786.62,
+    "duration": 7.14
+  },
+  {
+    "text": "Revolution of the 17th century was the\nshift from an organic view of nature to",
+    "start": 1793.76,
+    "duration": 4.91
+  },
+  {
+    "text": "a machine view of nature. It was a\nrevolution because it rejected what",
+    "start": 1798.67,
+    "duration": 3.79
+  },
+  {
+    "text": "people thought before. And what people\nthought before was a philosophy of",
+    "start": 1802.46,
+    "duration": 5.16
+  },
+  {
+    "text": "nature taught in the medieval\nuniversities of Europe based on",
+    "start": 1807.62,
+    "duration": 3.72
+  },
+  {
+    "text": "Aristotle as refined by Saint Thomas Aquinas\nin the 12th century. And it was a very",
+    "start": 1811.34,
+    "duration": 7.5
+  },
+  {
+    "text": "sophisticated philosophy of nature.\nAccording to Aristotle and Saint Thomas",
+    "start": 1818.84,
+    "duration": 4.07
+  },
+  {
+    "text": "all living beings had souls and the\nsoul of a living being was not some",
+    "start": 1822.91,
+    "duration": 5.59
+  },
+  {
+    "text": "metaphysical thing to do with life after\ndeath, it was what gave it its form, its",
+    "start": 1828.5,
+    "duration": 5.22
+  },
+  {
+    "text": "structure. The body was in the soul, the\nsoul was not in the body. And the soul",
+    "start": 1833.72,
+    "duration": 4.31
+  },
+  {
+    "text": "gave each kind of plant its form, its\nleaves, its flowers, its roots, its shape.",
+    "start": 1838.03,
+    "duration": 5.11
+  },
+  {
+    "text": "And the soul worked by attraction. As\nthe tree grew, it was attracted towards",
+    "start": 1843.14,
+    "duration": 5.15
+  },
+  {
+    "text": "the mature form by the soul of the plant. It was\nlike the form. In addition, animals had, as well as",
+    "start": 1848.29,
+    "duration": 7.52
+  },
+  {
+    "text": "the vegetative soul that shaped their\nembryos and growth of the body and",
+    "start": 1855.86,
+    "duration": 3.53
+  },
+  {
+    "text": "maintained its health, there was the\nanimal soul which was concerned with",
+    "start": 1859.39,
+    "duration": 4.21
+  },
+  {
+    "text": "instinct, sensations and movements. And of course the\nword animal comes from the Latin word for soul, anima.",
+    "start": 1863.6,
+    "duration": 7.31
+  },
+  {
+    "text": "Human beings had a vegetative soul that\nshaped the body, an animal soul that gave",
+    "start": 1870.91,
+    "duration": 4.93
+  },
+  {
+    "text": "us our animal nature, our senses and\ninstincts and so on, are very similar to",
+    "start": 1875.84,
+    "duration": 4.26
+  },
+  {
+    "text": "those of animals. But in addition, the\nrational or intellectual soul to do with",
+    "start": 1880.1,
+    "duration": 4.55
+  },
+  {
+    "text": "reason, language, the mind, consciousness.\nBut nobody thought that the human mind",
+    "start": 1884.65,
+    "duration": 6.14
+  },
+  {
+    "text": "was totally separate from the rest of\nnature. It was embedded in a psychic",
+    "start": 1890.79,
+    "duration": 4.55
+  },
+  {
+    "text": "system which connected us to animals and\nplants. And the whole world was alive, the",
+    "start": 1895.34,
+    "duration": 4.19
+  },
+  {
+    "text": "earth was alive, the planets were alive.\nWe still call them by the names of the",
+    "start": 1899.53,
+    "duration": 5.64
+  },
+  {
+    "text": "Roman gods and goddesses, and the stars\nwere alive. They were intelligent beings.",
+    "start": 1905.17,
+    "duration": 4.09
+  },
+  {
+    "text": "Each star in the sky as people looked up,\nit was filled with an intelligence. One",
+    "start": 1909.26,
+    "duration": 4.79
+  },
+  {
+    "text": "of the levels of angels, the dominations,\nvirtues and powers, the third three",
+    "start": 1914.05,
+    "duration": 4.57
+  },
+  {
+    "text": "levels of angels in the hierarchy of the\nnine-fold hierarchy of angels were the",
+    "start": 1918.62,
+    "duration": 5.03
+  },
+  {
+    "text": "spirits or intelligences of the stars. So\nwhen a medieval person looked at the sky,",
+    "start": 1923.65,
+    "duration": 4.74
+  },
+  {
+    "text": "they looked at a living universe filled with the presence\nof God. Every star was a living intelligent being.",
+    "start": 1928.39,
+    "duration": 7.33
+  },
+  {
+    "text": "Now, the mechanistic revolution replaced\nthat with the idea that everything's a",
+    "start": 1935.72,
+    "duration": 4.5
+  },
+  {
+    "text": "machine. A machine is a bit like an\norganism, except it no longer has its own",
+    "start": 1940.22,
+    "duration": 4.86
+  },
+  {
+    "text": "design or purpose. Those are put into the\nmachine from the human designer or maker.",
+    "start": 1945.08,
+    "duration": 4.97
+  },
+  {
+    "text": "And this metaphor meant God was the intelligent\ndesigner of the machinery and through divine",
+    "start": 1950.05,
+    "duration": 8.12
+  },
+  {
+    "text": "intervention that the whole world\nhad been made in the first place.",
+    "start": 1958.17,
+    "duration": 4.48
+  },
+  {
+    "text": "The organic view of the Middle Ages\nwas really a form of Christian animism.",
+    "start": 1962.65,
+    "duration": 3.97
+  },
+  {
+    "text": "Plants and animals had their own\npurposes, their own desires, the soul gave",
+    "start": 1966.62,
+    "duration": 4.26
+  },
+  {
+    "text": "them their motivation and their goal. The\nwhole of nature had a purpose. It was",
+    "start": 1970.88,
+    "duration": 4.56
+  },
+  {
+    "text": "striving towards the being of God,\nstriving towards perfection. God was the",
+    "start": 1975.44,
+    "duration": 4.26
+  },
+  {
+    "text": "prime mover of the universe not by pushing it from\nbehind, but by attracting it from the future.",
+    "start": 1979.7,
+    "duration": 5.33
+  },
+  {
+    "text": "That view was destroyed and replaced by\na machine view. The heavens became dead",
+    "start": 1985.88,
+    "duration": 4.01
+  },
+  {
+    "text": "matter, the solar system became a\nmechanical clockwork-like system. Animals",
+    "start": 1989.89,
+    "duration": 6.07
+  },
+  {
+    "text": "and plants became mere machines with no\nfeelings so it was all right to vivisect",
+    "start": 1995.96,
+    "duration": 4.19
+  },
+  {
+    "text": "them or treat them appallingly in\nfactory farms. The only thing that was",
+    "start": 2000.15,
+    "duration": 4.45
+  },
+  {
+    "text": "left that wasn't mechanical in the world was the human\nrational mind, that was the only thing left, except",
+    "start": 2004.6,
+    "duration": 6.72
+  },
+  {
+    "text": "for angels and God which were immaterial spirits like\nthe human mind. This was Descartes’ view and it created",
+    "start": 2011.32,
+    "duration": 6.59
+  },
+  {
+    "text": "an extreme dualism of body and soul, matter \nand spirit. So for Descartes, the whole world was",
+    "start": 2017.91,
+    "duration": 7.45
+  },
+  {
+    "text": "mechanical, made of unconscious matter.\nConsciousness existed only in humans,",
+    "start": 2025.36,
+    "duration": 4.14
+  },
+  {
+    "text": "angels and God, and were separate from the rest of\nnature by being immaterial, not in space and time.",
+    "start": 2029.5,
+    "duration": 7.62
+  },
+  {
+    "text": "This created a radical dualism between\npeople and animals, mind and body, and",
+    "start": 2037.12,
+    "duration": 4.98
+  },
+  {
+    "text": "between religion and science because science got\nthe realm of spirit: human minds, angels and God.",
+    "start": 2042.1,
+    "duration": 6.96
+  },
+  {
+    "text": "Religion got that and science got the whole of the\nphysical universe, including the stars and the heavens,",
+    "start": 2049.06,
+    "duration": 7.02
+  },
+  {
+    "text": "which now became dead, unconscious and inanimate.\nWell that was the revolution, and matter in",
+    "start": 2056.08,
+    "duration": 6.9
+  },
+  {
+    "text": "this view was defined as unconscious. They did experiments\naccurate to many places of decimals. It was simply",
+    "start": 2062.98,
+    "duration": 6.65
+  },
+  {
+    "text": "defined as unconscious by Descartes\nand it’s remained so ever since in the",
+    "start": 2069.63,
+    "duration": 5.35
+  },
+  {
+    "text": "view of scientists, without further \ndiscussion. Now Cartesian dualism was",
+    "start": 2074.98,
+    "duration": 11.23
+  },
+  {
+    "text": "unsatisfactory for many people. By the\n19th century a lot of people didn't want",
+    "start": 2089.02,
+    "duration": 4.92
+  },
+  {
+    "text": "to have two fundamental principles. They thought\ntwo was too many. They wanted to have just one.",
+    "start": 2093.94,
+    "duration": 5.94
+  },
+  {
+    "text": "And dualism, this view that it's too many\nmeant that they tried to collapse it into one",
+    "start": 2107.28,
+    "duration": 8.02
+  },
+  {
+    "text": "of these two principles. The idealist\nsaid everything is consciousness. Matter is",
+    "start": 2115.3,
+    "duration": 4.14
+  },
+  {
+    "text": "just a kind of dulled-down spirit or consciousness,\nor mind. But the more popular view was the",
+    "start": 2119.44,
+    "duration": 7.56
+  },
+  {
+    "text": "materialist view. Everything's matter,\nthere's no such thing as this mysterious",
+    "start": 2127.0,
+    "duration": 3.83
+  },
+  {
+    "text": "non-material spirit of the human mind,\nand certainly not angels and God. So, at",
+    "start": 2130.83,
+    "duration": 5.41
+  },
+  {
+    "text": "one stroke the materialists wiped out\nangels and God and said the human mind",
+    "start": 2136.24,
+    "duration": 3.9
+  },
+  {
+    "text": "is nothing but the activity of the brain.\nThey collapsed it down in into the brain.",
+    "start": 2140.14,
+    "duration": 6.42
+  },
+  {
+    "text": "And that is the view that took over\nscience by the late 19th century and",
+    "start": 2146.56,
+    "duration": 3.96
+  },
+  {
+    "text": "it's been the standard paradigm ever since.\nOf course, it creates appalling problems and one of",
+    "start": 2150.52,
+    "duration": 6.36
+  },
+  {
+    "text": "them is that it makes human\nconsciousness inexplicable. If matter is",
+    "start": 2156.88,
+    "duration": 4.5
+  },
+  {
+    "text": "unconscious, how come we are conscious?\nWell, some philosophers of mind,",
+    "start": 2161.38,
+    "duration": 5.58
+  },
+  {
+    "text": "materialists philosophers, say well\nthere's a simple solution to that. We're",
+    "start": 2166.96,
+    "duration": 4.08
+  },
+  {
+    "text": "not conscious, the mind is just an\nillusion, we're just machines. That's",
+    "start": 2171.04,
+    "duration": 4.38
+  },
+  {
+    "text": "called ‘eliminative materialism’ and in the \nUnited States throughout much of the",
+    "start": 2175.42,
+    "duration": 4.67
+  },
+  {
+    "text": "20th century the official doctrine of\nacademic psychology was behaviorism,",
+    "start": 2180.09,
+    "duration": 4.87
+  },
+  {
+    "text": "which denied the existence of\nconsciousness. It said, the only thing you",
+    "start": 2184.96,
+    "duration": 4.02
+  },
+  {
+    "text": "can measure objectively and scientifically are muscular\nmovements and glandular secretions and that's what",
+    "start": 2188.98,
+    "duration": 5.87
+  },
+  {
+    "text": "scientific psychology should study,\nignoring the folk belief in consciousness.",
+    "start": 2194.85,
+    "duration": 5.76
+  },
+  {
+    "text": "Others take the view that consciousness\nis nothing but an epi-phenomenon, a bit",
+    "start": 2200.61,
+    "duration": 4.09
+  },
+  {
+    "text": "like a shadow of the activity of the brain that\ndoes nothing. And others take the view that",
+    "start": 2204.7,
+    "duration": 6.65
+  },
+  {
+    "text": "consciousness is an illusion produced by\nthe brain to make us feel good and get",
+    "start": 2211.35,
+    "duration": 4.69
+  },
+  {
+    "text": "out of bed in the morning, because it doesn't\nactually do anything. None of these views say that",
+    "start": 2216.04,
+    "duration": 5.94
+  },
+  {
+    "text": "consciousness does anything. We don't\nhave free will, it doesn't actually do",
+    "start": 2221.98,
+    "duration": 3.72
+  },
+  {
+    "text": "anything useful, it might just well not\nbe there, we might just as well be",
+    "start": 2225.7,
+    "duration": 3.78
+  },
+  {
+    "text": "zombies or robots and it's irrelevant to\nscience because it doesn't really exist.",
+    "start": 2229.48,
+    "duration": 5.82
+  },
+  {
+    "text": "The trouble is that this isn't a very\nconvincing view, even for materialists. I",
+    "start": 2235.3,
+    "duration": 4.74
+  },
+  {
+    "text": "mean they'll argue it at work, but as\nsoon as they get home in the evening",
+    "start": 2240.04,
+    "duration": 3.78
+  },
+  {
+    "text": "they don't treat their spouses, their\nchildren and their dogs as if they're",
+    "start": 2243.82,
+    "duration": 4.14
+  },
+  {
+    "text": "inanimate machines, and they themselves\ndon't believe that they're materialist",
+    "start": 2247.96,
+    "duration": 3.89
+  },
+  {
+    "text": "because their brain makes them believe it, they'd like\nto think they're materialists because they believe in",
+    "start": 2251.85,
+    "duration": 5.17
+  },
+  {
+    "text": "science, reason and evidence.\nAnd yet their entire philosophical",
+    "start": 2257.02,
+    "duration": 5.64
+  },
+  {
+    "text": "position undermines their belief in materialism.\nIt's incoherent. That doesn't stop it",
+    "start": 2262.66,
+    "duration": 7.62
+  },
+  {
+    "text": "being the dominant philosophy in \nall our universities and in almost all",
+    "start": 2270.28,
+    "duration": 3.66
+  },
+  {
+    "text": "philosophy departments, it's the dominant \nview. But it's so incoherent and so difficult",
+    "start": 2273.94,
+    "duration": 6.41
+  },
+  {
+    "text": "to square with observable facts, that\nwithin consciousness studies this is now",
+    "start": 2280.35,
+    "duration": 5.11
+  },
+  {
+    "text": "very, very much disputed. There's been \na breaking away from materialism by",
+    "start": 2285.46,
+    "duration": 5.22
+  },
+  {
+    "text": "leading philosophers. One of the first\nbreakaways was Galen Strawson, a British",
+    "start": 2290.68,
+    "duration": 4.74
+  },
+  {
+    "text": "philosopher who lives in America, who\nwrote a key paper a few years ago called",
+    "start": 2295.42,
+    "duration": 4.38
+  },
+  {
+    "text": "”Does Materialism Imply Pan-psychism”, to which he\nanswered yes. Pan-psychism is the idea that there's",
+    "start": 2299.8,
+    "duration": 8.1
+  },
+  {
+    "text": "a kind of mental aspect to all kinds of nature,\neven electrons. And although he didn't give any",
+    "start": 2307.9,
+    "duration": 6.78
+  },
+  {
+    "text": "details, he said this was the only coherent way we\ncould explain the emergence of consciousness in humans.",
+    "start": 2314.68,
+    "duration": 6.0
+  },
+  {
+    "text": "Because if you try and conjure it out of\ntotally unconscious matter, it's really",
+    "start": 2320.68,
+    "duration": 3.96
+  },
+  {
+    "text": "just reinventing dualism on a kind of evolutionary \nbasis. More interestingly and I think more",
+    "start": 2324.64,
+    "duration": 9.24
+  },
+  {
+    "text": "coherently, the American philosopher\nThomas Nagel wrote a book a few months",
+    "start": 2333.88,
+    "duration": 4.26
+  },
+  {
+    "text": "ago which I think is a breakthrough in\nmodern philosophy. Nagel is a leading",
+    "start": 2338.14,
+    "duration": 5.16
+  },
+  {
+    "text": "philosopher of mind in New York, and \nhis book is called “Mind and Cosmos -",
+    "start": 2343.3,
+    "duration": 5.24
+  },
+  {
+    "text": "why the materialist near-Darwinian \nconception of nature is almost certainly false”",
+    "start": 2348.54,
+    "duration": 6.28
+  },
+  {
+    "text": "His book was hated by the materialist militant\natheist crowd. He was denounced as going off the",
+    "start": 2354.82,
+    "duration": 8.03
+  },
+  {
+    "text": "rails and that kind of thing, but it's a\ndeeply thoughtful and fascinating book.",
+    "start": 2362.85,
+    "duration": 5.71
+  },
+  {
+    "text": "But of course pan-psychism is not new as\na philosophy. It's what people thought in",
+    "start": 2368.56,
+    "duration": 5.46
+  },
+  {
+    "text": "the Middle Ages basically and in the\n17th century, soon after Descartes, in the",
+    "start": 2374.02,
+    "duration": 5.57
+  },
+  {
+    "text": "next generation of philosophers people\nwere already exploring this possibility.",
+    "start": 2379.59,
+    "duration": 4.33
+  },
+  {
+    "text": "One of them was Leibniz and Leibniz\nargued that the universe is made up of",
+    "start": 2383.92,
+    "duration": 5.4
+  },
+  {
+    "text": "monads, units of organization including\nus, but also including atoms and that",
+    "start": 2389.32,
+    "duration": 6.24
+  },
+  {
+    "text": "every monad, as well as having a body,\nhas a mind and each monad reflects the",
+    "start": 2395.56,
+    "duration": 4.38
+  },
+  {
+    "text": "universe from its own point of view. So every monad has\na completely different point of view because it's in a",
+    "start": 2399.94,
+    "duration": 5.63
+  },
+  {
+    "text": "different place, like everyone in this\nroom has a different point of view.",
+    "start": 2405.57,
+    "duration": 3.37
+  },
+  {
+    "text": "Because we're all in different places, we\ncan't all be in the same place at the",
+    "start": 2408.94,
+    "duration": 3.54
+  },
+  {
+    "text": "same time because bodies are impenetrable.\nSo, that was one pan-psychist’s view.",
+    "start": 2412.48,
+    "duration": 6.18
+  },
+  {
+    "text": "Another was Spinoza who said that the\nwhole of nature is the body of God and",
+    "start": 2418.66,
+    "duration": 4.32
+  },
+  {
+    "text": "it has a consciousness or mind (the whole of nature),\nit's God or nature it was a kind of pantheistic view.",
+    "start": 2422.98,
+    "duration": 7.92
+  },
+  {
+    "text": "The most important philosopher in this tradition\nin the 20th century was Alfred North Whitehead,",
+    "start": 2430.9,
+    "duration": 5.88
+  },
+  {
+    "text": "and Whitehead argued that all physical systems\nthat are self-organizing have a mental aspect.",
+    "start": 2436.78,
+    "duration": 8.33
+  },
+  {
+    "text": "Self-organizing is a key here. This\ndoesn't apply to chairs, tables motorcars",
+    "start": 2445.11,
+    "duration": 4.21
+  },
+  {
+    "text": "and so on. They're not organized,\nthey're put together by an external",
+    "start": 2449.32,
+    "duration": 4.5
+  },
+  {
+    "text": "force – humans. But things that organize\nthemselves include atoms, molecules crystals,",
+    "start": 2453.82,
+    "duration": 6.08
+  },
+  {
+    "text": "cells, animals, plants, ecosystems, planets\nsolar systems and galaxies. Those are",
+    "start": 2459.9,
+    "duration": 6.82
+  },
+  {
+    "text": "self-organizing systems and Whitehead\nargued that all self-organizing systems",
+    "start": 2466.72,
+    "duration": 5.1
+  },
+  {
+    "text": "are processes in time. There's no such thing as enduring\nmatter like little billiard balls. He was the first",
+    "start": 2471.82,
+    "duration": 7.5
+  },
+  {
+    "text": "philosopher to appreciate the importance of quantum\ntheory. And what quantum theory shows is that",
+    "start": 2479.32,
+    "duration": 6.0
+  },
+  {
+    "text": "even electrons are waves. They're wave-like\npatterns of activity, they're processes, not things.",
+    "start": 2485.32,
+    "duration": 9.06
+  },
+  {
+    "text": "And if they're processes, they take time. You can't have\na wave at an instant. That's the fundamental reason for",
+    "start": 2494.38,
+    "duration": 6.9
+  },
+  {
+    "text": "quantum uncertainty. You can't have an\ninstantaneous wave at an exact moment of",
+    "start": 2501.28,
+    "duration": 5.46
+  },
+  {
+    "text": "time because a wave takes time. That \nmeans a wave has a future pole and",
+    "start": 2506.74,
+    "duration": 4.92
+  },
+  {
+    "text": "a past pole, it's a process. And this\nphilosophy is called process philosophy.",
+    "start": 2511.66,
+    "duration": 5.58
+  },
+  {
+    "text": "And so, even an electron has a future and \na past pole. And Whitehead's most original",
+    "start": 2517.24,
+    "duration": 7.8
+  },
+  {
+    "text": "contribution, in my view, was the way he\nunderstood the relation of mind and body.",
+    "start": 2525.04,
+    "duration": 4.68
+  },
+  {
+    "text": "Usually people think of it in terms of\nspatial metaphors. The mind is the inner",
+    "start": 2529.72,
+    "duration": 5.04
+  },
+  {
+    "text": "life, the body is the outer world, or the\nouter part. It's the inner and outer.",
+    "start": 2534.76,
+    "duration": 6.0
+  },
+  {
+    "text": "He thought the relationship was a\ntemporal relationship. The mind is the",
+    "start": 2540.76,
+    "duration": 4.31
+  },
+  {
+    "text": "future pole, the body's the past pole.\nIn an electron the Schrodinger wave",
+    "start": 2545.07,
+    "duration": 5.28
+  },
+  {
+    "text": "equation describes all the possible\nthings that electron could do. Those",
+    "start": 2550.35,
+    "duration": 4.45
+  },
+  {
+    "text": "possibilities coexist. They're not\nphysical, material, measurable realities,",
+    "start": 2554.8,
+    "duration": 4.74
+  },
+  {
+    "text": "because they're possibilities. It’s a\ndifferent kind of thing. But as soon as",
+    "start": 2559.54,
+    "duration": 4.2
+  },
+  {
+    "text": "the electron interacts with something or\nis measured, then these possibilities",
+    "start": 2563.74,
+    "duration": 4.14
+  },
+  {
+    "text": "collapse down to one physical observable\nfact. That's now in the past. The physical",
+    "start": 2567.88,
+    "duration": 5.82
+  },
+  {
+    "text": "pole is in the past and now a whole new realm of\npossibilities develop. The same with our conscious minds.",
+    "start": 2573.7,
+    "duration": 7.02
+  },
+  {
+    "text": "They're filled with coexisting possibilities. Our \nminds are realms of possibility. Mental reality is",
+    "start": 2580.72,
+    "duration": 7.56
+  },
+  {
+    "text": "a realm of possibility, about potential\nfutures, virtual futures, things we could",
+    "start": 2588.28,
+    "duration": 5.03
+  },
+  {
+    "text": "do. And our minds are involved in\nchoosing among these possibilities. As",
+    "start": 2593.31,
+    "duration": 4.45
+  },
+  {
+    "text": "soon as we choose to do something and do\nit, it becomes an observable physical",
+    "start": 2597.76,
+    "duration": 3.78
+  },
+  {
+    "text": "fact, objectively measurable. But before\nthat, it's a possibility and this gives a",
+    "start": 2601.54,
+    "duration": 7.2
+  },
+  {
+    "text": "view of causation, a two-fold form of causation. The\npossibility-mental causation working from virtual futures",
+    "start": 2608.74,
+    "duration": 7.68
+  },
+  {
+    "text": "towards the past and regular-physical\ncausation working from the past towards",
+    "start": 2616.42,
+    "duration": 4.8
+  },
+  {
+    "text": "the future and they overlap in the present.\nI think this is the best way of thinking",
+    "start": 2621.22,
+    "duration": 4.92
+  },
+  {
+    "text": "of the relation of mind and body, the\nmost fruitful. It has many implications",
+    "start": 2626.14,
+    "duration": 5.21
+  },
+  {
+    "text": "and I don't have time to go into them for\nnow, at this moment. What I do want to do",
+    "start": 2631.35,
+    "duration": 6.31
+  },
+  {
+    "text": "is just explore what this pan-psychist\nview might mean when we look at big",
+    "start": 2637.66,
+    "duration": 4.8
+  },
+  {
+    "text": "things. Most discussions of it are about\natoms and electrons, but since we're here",
+    "start": 2642.46,
+    "duration": 5.34
+  },
+  {
+    "text": "at the Electric Universe conference, what \nabout thinking about the Sun and the galaxy.",
+    "start": 2647.8,
+    "duration": 6.29
+  },
+  {
+    "text": "The Sun is a self-organizing system. Indeed the whole\nsolar system is a self-organizing system. It's not put",
+    "start": 2654.09,
+    "duration": 6.43
+  },
+  {
+    "text": "together in a factory, it organizes itself and\nthe entire galaxy is a self-organizing system.",
+    "start": 2660.52,
+    "duration": 6.96
+  },
+  {
+    "text": "From that point of view, they're\norganisms and from Whitehead's point of",
+    "start": 2667.48,
+    "duration": 3.83
+  },
+  {
+    "text": "view that would mean they would have a\nmental pole which did would be to do",
+    "start": 2671.31,
+    "duration": 3.3
+  },
+  {
+    "text": "with potential futures, and a physical\npole depending on the decisions or",
+    "start": 2674.61,
+    "duration": 4.2
+  },
+  {
+    "text": "choices made among those possible futures.\nWhat we observe is the physical pole.",
+    "start": 2678.81,
+    "duration": 5.54
+  },
+  {
+    "text": "But they have a great deal of indeterminate activity\ngoing on in them, particularly electrical activity.",
+    "start": 2684.35,
+    "duration": 7.63
+  },
+  {
+    "text": "Electromagnetic activity, we know there's\nno dispute that the Sun is highly active",
+    "start": 2691.98,
+    "duration": 5.16
+  },
+  {
+    "text": "electromagnetically, however one interprets the\nsource of its energy, everybody agrees that highly",
+    "start": 2697.14,
+    "duration": 6.34
+  },
+  {
+    "text": "complex electromagnetic patterns are going \non there. People also think that the interface",
+    "start": 2703.48,
+    "duration": 5.52
+  },
+  {
+    "text": "between our brains and our minds are the complex\nelectromagnetic patterns going on inside our brains.",
+    "start": 2709.0,
+    "duration": 8.22
+  },
+  {
+    "text": "So, what if these electrical patterns in the Sun are an\ninterface with the Sun's mind? What if the Sun thinks?",
+    "start": 2717.22,
+    "duration": 9.84
+  },
+  {
+    "text": "Now, as soon as you raise that question you realize this\nis utterly taboo subject. You're not allowed to ask that",
+    "start": 2727.06,
+    "duration": 6.48
+  },
+  {
+    "text": "question. Matter is unconscious. Since the 17th century,\nmaterialists have assumed and dualists had assumed that",
+    "start": 2733.54,
+    "duration": 7.26
+  },
+  {
+    "text": "matter is unconscious. It's simply off- limits.\nHowever, all traditional cultures have",
+    "start": 2740.8,
+    "duration": 5.46
+  },
+  {
+    "text": "treated the Sun as alive and indeed the planets and\nthe stars. Children when they draw the Sun draw it",
+    "start": 2746.26,
+    "duration": 6.78
+  },
+  {
+    "text": "with a smiley face. And so, this in itself is\ntaken as evidence against the fact that the Sun",
+    "start": 2753.04,
+    "duration": 6.05
+  },
+  {
+    "text": "can be alive or conscious, because if\nchildren see it that way, it shows it's a",
+    "start": 2759.09,
+    "duration": 4.15
+  },
+  {
+    "text": "primitive or childish way of looking at\nthings. And the fact that people all over",
+    "start": 2763.24,
+    "duration": 4.32
+  },
+  {
+    "text": "the world say it that way until science\ncomes along again proves it's primitive",
+    "start": 2767.56,
+    "duration": 4.74
+  },
+  {
+    "text": "and superstitious. We've risen above it.\nI don't think we've risen above it at all.",
+    "start": 2772.3,
+    "duration": 4.26
+  },
+  {
+    "text": "I think we sunk below it to a level of\ndogmatism which simply closes off a",
+    "start": 2776.56,
+    "duration": 6.53
+  },
+  {
+    "text": "whole area of questions for no reason other than the fact\nthat a French philosopher in the 17th century chose to",
+    "start": 2783.09,
+    "duration": 6.07
+  },
+  {
+    "text": "divide up the world in such a way that\nhe defined matter as unconscious. It's",
+    "start": 2789.16,
+    "duration": 4.38
+  },
+  {
+    "text": "become a habit of thought with us. About\nten years ago, with a few other people I organized",
+    "start": 2793.54,
+    "duration": 6.96
+  },
+  {
+    "text": "a small Invitational conference in England\nheld at Overby at the summer solstice in the",
+    "start": 2800.5,
+    "duration": 8.04
+  },
+  {
+    "text": "countryside called, “Is the Sun conscious?” We spent\nseveral days discussing the consciousness of the Sun.",
+    "start": 2808.54,
+    "duration": 7.02
+  },
+  {
+    "text": "Well, of course none of us could really prove\nthe Sun was conscious, and you might say,",
+    "start": 2815.56,
+    "duration": 7.01
+  },
+  {
+    "text": "well, if it's conscious, prove it. Well, my\nanswer to that is, well you can't prove",
+    "start": 2822.57,
+    "duration": 4.15
+  },
+  {
+    "text": "it's unconscious. It's actually an open\nquestion, but once we got beyond",
+    "start": 2826.72,
+    "duration": 4.68
+  },
+  {
+    "text": "discussing what it might mean, we then\ngot onto the question of if the Sun does",
+    "start": 2831.4,
+    "duration": 4.26
+  },
+  {
+    "text": "think what does it think about? Well, \none obvious thing would be its body,",
+    "start": 2835.66,
+    "duration": 8.58
+  },
+  {
+    "text": "which is the solar system right out to the \nheliopause. And it knows what's going",
+    "start": 2844.24,
+    "duration": 5.64
+  },
+  {
+    "text": "on in the solar system. It's pervaded \nby the Sun's electromagnetic field.",
+    "start": 2849.88,
+    "duration": 3.54
+  },
+  {
+    "text": "Everything in this room is within the\nSun's electromagnetic field. The",
+    "start": 2853.42,
+    "duration": 3.89
+  },
+  {
+    "text": "electromagnetic activity in your brain\nis within the Sun's electromagnetic",
+    "start": 2857.31,
+    "duration": 4.26
+  },
+  {
+    "text": "field. So, the Sun in a sense, just through\nthe electromagnetic field alone, would be",
+    "start": 2861.57,
+    "duration": 6.24
+  },
+  {
+    "text": "able to sense what's going on in the\nentire solar system and beyond.",
+    "start": 2867.81,
+    "duration": 4.8
+  },
+  {
+    "text": "Its decisions might involve when to send out\ncoronal mass ejections, the timing of solar",
+    "start": 2873.28,
+    "duration": 8.7
+  },
+  {
+    "text": "flares, whether to point them towards\nthe earth or not. You know there's all",
+    "start": 2881.98,
+    "duration": 4.98
+  },
+  {
+    "text": "sorts of things, and also the variable cycles of\nthe Sun may be reflections of its psychic activity.",
+    "start": 2886.96,
+    "duration": 7.13
+  },
+  {
+    "text": "So part of its concern may be with its body.\nPart of it may also be with its peer",
+    "start": 2894.09,
+    "duration": 5.83
+  },
+  {
+    "text": "group, the other stars and the\ngalaxy as a whole you see may have a",
+    "start": 2899.92,
+    "duration": 6.36
+  },
+  {
+    "text": "mind. I'd love that talk yesterday by Michael\nClaridge where he conjured out this wonderful image of",
+    "start": 2906.28,
+    "duration": 8.28
+  },
+  {
+    "text": "variable currents moving through the arms of the\ngalaxy with more activity in some places than others,",
+    "start": 2914.56,
+    "duration": 6.48
+  },
+  {
+    "text": "changing from time to time, like MRI\nscans of the brain change when you're",
+    "start": 2921.04,
+    "duration": 4.86
+  },
+  {
+    "text": "thinking about one thing or about another \nthing. The entire galaxy is a living organism.",
+    "start": 2925.9,
+    "duration": 5.4
+  },
+  {
+    "text": "with a mind as well as a body. The\nElectric Universe aspect of this is the",
+    "start": 2931.3,
+    "duration": 6.9
+  },
+  {
+    "text": "perfect interface between the physical activity\nof the galaxy and its possible mental life.",
+    "start": 2938.2,
+    "duration": 7.02
+  },
+  {
+    "text": "Of course, if we start thinking and\nsay, why stop at galaxies, you've got",
+    "start": 2945.22,
+    "duration": 4.98
+  },
+  {
+    "text": "galactic clusters and then you've got\nthe entire universe. What if there's a",
+    "start": 2950.2,
+    "duration": 3.36
+  },
+  {
+    "text": "cosmic mind? Well, this is by no means a\nnew idea, but I think that science itself",
+    "start": 2953.56,
+    "duration": 6.0
+  },
+  {
+    "text": "can open up something. We're not talking\nnow about supernaturalism, or blind faith.",
+    "start": 2959.56,
+    "duration": 5.03
+  },
+  {
+    "text": "We're talking about a way of thinking\nabout nature which gives us an organic",
+    "start": 2964.59,
+    "duration": 3.97
+  },
+  {
+    "text": "coherent view of nature and opens\nup completely new forms of dialogue",
+    "start": 2968.56,
+    "duration": 5.7
+  },
+  {
+    "text": "with spiritual and religious traditions.\nI want to end by just reflecting for a",
+    "start": 2974.26,
+    "duration": 6.48
+  },
+  {
+    "text": "few moments on the location of our own \nminds. The normal view is that the activity of",
+    "start": 2980.74,
+    "duration": 4.98
+  },
+  {
+    "text": "the brain is inside the head. But this leaves a\ngreat many things unexplained, including vision.",
+    "start": 2985.72,
+    "duration": 7.13
+  },
+  {
+    "text": "What's going on when you see something?\nWhat's going on when you see me now?",
+    "start": 2992.85,
+    "duration": 4.5
+  },
+  {
+    "text": "Well, light moves from me through the\nelectromagnetic field, enters the eyes,",
+    "start": 2997.35,
+    "duration": 4.33
+  },
+  {
+    "text": "inverted images on the retinas, changes\nin the cone cells, impulses up the optic",
+    "start": 3001.68,
+    "duration": 5.1
+  },
+  {
+    "text": "nerves, and changes in various regions\nof the brain which can be illuminated",
+    "start": 3006.78,
+    "duration": 4.26
+  },
+  {
+    "text": "through brain scanning. We know more about \nthem than ever before. Does this explain vision?",
+    "start": 3011.04,
+    "duration": 6.36
+  },
+  {
+    "text": "Well, no, it just describes changes in the \nbrain. The first thing about vision that isn't",
+    "start": 3017.4,
+    "duration": 6.54
+  },
+  {
+    "text": "explained is the fact you're conscious\nof what you see. That's an example of the",
+    "start": 3023.94,
+    "duration": 3.89
+  },
+  {
+    "text": "’hard problem’ in consciousness studies or\nphilosophy of mind. The very existence of",
+    "start": 3027.83,
+    "duration": 4.69
+  },
+  {
+    "text": "consciousness is unexplained. But \nthen is the question of where are",
+    "start": 3032.52,
+    "duration": 4.38
+  },
+  {
+    "text": "the images you're seeing? You're seeing \na three-dimensional colored world.",
+    "start": 3036.9,
+    "duration": 4.43
+  },
+  {
+    "text": "The conventional view is that all that's\ninside your brain. You've got a",
+    "start": 3041.33,
+    "duration": 4.45
+  },
+  {
+    "text": "virtual reality display somewhere inside\nyour head, which includes me and the rest",
+    "start": 3045.78,
+    "duration": 4.79
+  },
+  {
+    "text": "of this room and everybody else here.\nIt's all in your head. If you look at the",
+    "start": 3050.57,
+    "duration": 4.39
+  },
+  {
+    "text": "sky at night, or in the day, the sky\nyou're seeing is inside your head.",
+    "start": 3054.96,
+    "duration": 5.34
+  },
+  {
+    "text": "A key paper recently in one of the\nconsciousness journals by a philosopher",
+    "start": 3060.3,
+    "duration": 4.79
+  },
+  {
+    "text": "of mind was called, “Is your skull beyond the\nsky?” And the author of the article answered,",
+    "start": 3065.09,
+    "duration": 5.76
+  },
+  {
+    "text": "Yes. He's a materialist, so he said the\nminds and the brain, everything you",
+    "start": 3070.85,
+    "duration": 3.85
+  },
+  {
+    "text": "experience, is inside your head. Your\nskull is beyond the sky. This is only a",
+    "start": 3074.7,
+    "duration": 3.89
+  },
+  {
+    "text": "virtual skull, but your real skull is\nbeyond the sky. Everything you're",
+    "start": 3078.59,
+    "duration": 3.91
+  },
+  {
+    "text": "experiencing is inside your head. Your whole\nconscious, subjective life is inside your head.",
+    "start": 3082.5,
+    "duration": 6.42
+  },
+  {
+    "text": "I propose a much simpler view which takes into account\nour indirect experiences. So simple, it's hard to grasp,",
+    "start": 3088.92,
+    "duration": 7.5
+  },
+  {
+    "text": "and that's that your image of things is\nin your mind, but not inside your head.",
+    "start": 3096.42,
+    "duration": 6.17
+  },
+  {
+    "text": "Your image of me is exactly where it\nseems to me to be, outside your head where",
+    "start": 3102.59,
+    "duration": 5.11
+  },
+  {
+    "text": "I'm standing. Visions are two-way processes.\nYou project out images which coincide",
+    "start": 3107.7,
+    "duration": 5.34
+  },
+  {
+    "text": "normally with what you're looking at. This means \nthat there's a kind of outward movement of",
+    "start": 3113.04,
+    "duration": 7.16
+  },
+  {
+    "text": "the mind. The mind is not confined to the\ninside of the head. It's extended out",
+    "start": 3120.48,
+    "duration": 3.83
+  },
+  {
+    "text": "through attention and intention,\nand that means we should be able to",
+    "start": 3124.31,
+    "duration": 4.09
+  },
+  {
+    "text": "affect things just by looking at them.\nAnd that means, for example, that if I look",
+    "start": 3128.4,
+    "duration": 6.36
+  },
+  {
+    "text": "at you from behind, and you don't know\nI'm there, you might be able to feel my",
+    "start": 3135.35,
+    "duration": 3.67
+  },
+  {
+    "text": "gaze. Now could that possibly be true?\nWell, as soon as you ask that question,",
+    "start": 3139.02,
+    "duration": 4.68
+  },
+  {
+    "text": "you realize it's a common experience.\nMore than 90 percent of people have",
+    "start": 3143.7,
+    "duration": 3.78
+  },
+  {
+    "text": "experienced being stared at from behind.\nYou turn around, there's someone looking",
+    "start": 3147.48,
+    "duration": 3.42
+  },
+  {
+    "text": "at you or, staring at someone and making them \nturn around. There was an almost complete taboo on",
+    "start": 3150.9,
+    "duration": 6.17
+  },
+  {
+    "text": "this in science until the 1980s because it simply ought\nnot to happen. So, skeptics dismissed it. It doesn't",
+    "start": 3157.07,
+    "duration": 7.93
+  },
+  {
+    "text": "happen, it's an illusion, it's just folk\nbelief, superstition, it's coincidence,",
+    "start": 3165.0,
+    "duration": 4.14
+  },
+  {
+    "text": "selective memory. Experiments however,\nshow that it does seem to happen. There's",
+    "start": 3169.14,
+    "duration": 5.1
+  },
+  {
+    "text": "now a lot of experimental evidence,\npeople can really tell when they're",
+    "start": 3174.24,
+    "duration": 3.42
+  },
+  {
+    "text": "being looked at from behind that can't\nbe explained just in terms of signs or",
+    "start": 3177.66,
+    "duration": 3.65
+  },
+  {
+    "text": "smells. It works through glass, it works through\none-way mirrors, even works through CCTV.",
+    "start": 3181.31,
+    "duration": 6.73
+  },
+  {
+    "text": "Now, this means that our minds reach out to touch what\nwe're looking at. And I just want to leave you with this",
+    "start": 3188.04,
+    "duration": 6.42
+  },
+  {
+    "text": "thought, as when we're talking about the\nextended mind. When we look at the stars,",
+    "start": 3194.46,
+    "duration": 4.26
+  },
+  {
+    "text": "it means that our minds from this point\nof view are reaching out over literally",
+    "start": 3198.72,
+    "duration": 4.08
+  },
+  {
+    "text": "astronomical distances, contacting those stars.\nNow the question then arises. The light",
+    "start": 3202.8,
+    "duration": 6.6
+  },
+  {
+    "text": "takes, say ten light years to get from a\nstar to our mind when we project out our",
+    "start": 3209.4,
+    "duration": 5.21
+  },
+  {
+    "text": "image of the star, is it just stretching\nout in time and reaching the star ten",
+    "start": 3214.61,
+    "duration": 3.91
+  },
+  {
+    "text": "light years after it was emitted? Or is\nour conscious mind working backwards in",
+    "start": 3218.52,
+    "duration": 5.4
+  },
+  {
+    "text": "time and contacting it ten light years in the\n past? I think it's contacting it when the",
+    "start": 3223.92,
+    "duration": 5.52
+  },
+  {
+    "text": "light was emitted ten light years in the\npast. I think our minds are stretching",
+    "start": 3229.44,
+    "duration": 4.13
+  },
+  {
+    "text": "out in time as well as space and I think our\nconscious minds work backwards in time as it were.",
+    "start": 3233.57,
+    "duration": 6.07
+  },
+  {
+    "text": "So, this means that when we look at the\nuniverse, the Electric Universe, the stars,",
+    "start": 3239.64,
+    "duration": 6.6
+  },
+  {
+    "text": "the planets, not only may we be looking\nat a living organism, the whole universe",
+    "start": 3246.24,
+    "duration": 4.56
+  },
+  {
+    "text": "is a living organism with the galaxies and the solar\nsystems within it as living organisms. Our minds are",
+    "start": 3250.8,
+    "duration": 6.53
+  },
+  {
+    "text": "stretching out to contact it. It's not\njust something inside our heads of these",
+    "start": 3257.33,
+    "duration": 4.81
+  },
+  {
+    "text": "ideas when we look at the stars directly\nor indirectly through telescopes, our",
+    "start": 3262.14,
+    "duration": 4.62
+  },
+  {
+    "text": "minds are reaching out into the cosmos\nand may be interacting with it in ways",
+    "start": 3266.76,
+    "duration": 3.96
+  },
+  {
+    "text": "we can barely begin to imagine. Not just\nwith potential Little Green Men on other",
+    "start": 3270.72,
+    "duration": 4.68
+  },
+  {
+    "text": "planets, but with the stars themselves, with the\ngalaxy itself. So, I think that the Electric Universe",
+    "start": 3275.4,
+    "duration": 7.86
+  },
+  {
+    "text": "which gives us an organic view of\ngalaxies and solar systems as organisms",
+    "start": 3283.26,
+    "duration": 5.22
+  },
+  {
+    "text": "held together by electric activities and\nplasma is completely consistent with the",
+    "start": 3288.48,
+    "duration": 4.92
+  },
+  {
+    "text": "emerging view of nature, the\npost-mechanistic view of nature, as the",
+    "start": 3293.4,
+    "duration": 3.65
+  },
+  {
+    "text": "universe as a living organism, made up of\nmany levels of organism within it, each",
+    "start": 3297.05,
+    "duration": 4.56
+  },
+  {
+    "text": "organism containing smaller ones. The\ngalaxies contain solar systems. They",
+    "start": 3301.61,
+    "duration": 3.91
+  },
+  {
+    "text": "contain planets, ecosystems, species,\nsocial groups. Organisms contain organs",
+    "start": 3305.52,
+    "duration": 7.26
+  },
+  {
+    "text": "cells, molecules, crystals. A living\nuniverse with habits evolving in time",
+    "start": 3312.78,
+    "duration": 7.94
+  },
+  {
+    "text": "and one of which we're living parts. I\nthink is a few much more consistent",
+    "start": 3320.72,
+    "duration": 6.16
+  },
+  {
+    "text": "with our experience of nature, a much\nhealthier view of nature, one that breaks",
+    "start": 3326.88,
+    "duration": 4.5
+  },
+  {
+    "text": "down that artificial division between\nmind and body, humans and nature, which",
+    "start": 3331.38,
+    "duration": 3.95
+  },
+  {
+    "text": "the mechanistic theory gives us and\ncontacts us with the traditional wisdom",
+    "start": 3335.33,
+    "duration": 5.28
+  },
+  {
+    "text": "of all traditional societies which have\nall seen the universe as alive and",
+    "start": 3340.61,
+    "duration": 4.2
+  },
+  {
+    "text": "organic. And I think we're rediscovering\nthat at a higher turn of the spiral.",
+    "start": 3344.81,
+    "duration": 5.35
+  },
+  {
+    "text": "I think as we move beyond the dogmas of materialism,\nscience can be set free in almost every area.",
+    "start": 3350.16,
+    "duration": 6.89
+  },
+  {
+    "text": "In medicine, in astronomy, in cosmology,\nin biology, in psychology, in chemistry, in",
+    "start": 3357.05,
+    "duration": 9.73
+  },
+  {
+    "text": "our understanding of evolution. So, I think, instead \nof knowing almost everything which is the common",
+    "start": 3366.78,
+    "duration": 5.4
+  },
+  {
+    "text": "assumption, we know very little indeed.\nAnd the dogmatism we all encounter comes",
+    "start": 3372.18,
+    "duration": 5.22
+  },
+  {
+    "text": "from a belief system, a worldview which\nhas long outlived its usefulness. It long",
+    "start": 3377.4,
+    "duration": 4.91
+  },
+  {
+    "text": "passed its ‘sell by date’ and as we move on from\nit, science will be set free in all sorts of ways.",
+    "start": 3382.31,
+    "duration": 5.95
+  },
+  {
+    "text": "And I think we'll see a scientific renaissance,\nand I think this gathering is part of it. Thank You.",
+    "start": 3388.26,
+    "duration": 6.54
+  },
+  {
+    "text": "[Music]",
+    "start": 3397.48,
+    "duration": 4.94
+  },
+  {
+    "text": "[Music]",
+    "start": 3407.58,
+    "duration": 23.64
+  }
+]

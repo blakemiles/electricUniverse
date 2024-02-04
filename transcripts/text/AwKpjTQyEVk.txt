@@ -1,0 +1,717 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe,",
+    "start": 7.188,
+    "duration": 2.874
+  },
+  {
+    "text": "brought to you by The\nThunderbolts Project™",
+    "start": 10.063,
+    "duration": 2.386
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 12.45,
+    "duration": 3.473
+  },
+  {
+    "text": "On this series, we have explored the\nsignificance of the filamentary",
+    "start": 16.601,
+    "duration": 3.887
+  },
+  {
+    "text": "structures seen at all scales\nthroughout the cosmos.",
+    "start": 20.489,
+    "duration": 4.131
+  },
+  {
+    "text": "From the streaming filaments\nseen in the ion tails of comets,",
+    "start": 24.645,
+    "duration": 4.603
+  },
+  {
+    "text": "to the giant snake-like filaments\nreaching from the surface of the Sun,",
+    "start": 29.273,
+    "duration": 4.254
+  },
+  {
+    "text": "to the dark cores of sunspots.",
+    "start": 33.552,
+    "duration": 2.878
+  },
+  {
+    "text": "To the stupendous filamentary\nnetworks intimately linked",
+    "start": 36.455,
+    "duration": 3.653
+  },
+  {
+    "text": "to star formation in\nthe Milky Way galaxy,",
+    "start": 40.109,
+    "duration": 2.962
+  },
+  {
+    "text": "to the web-like filaments along which\ngalaxies form, like pearls on a string.",
+    "start": 43.096,
+    "duration": 5.848
+  },
+  {
+    "text": "Filaments in space are the\nexpected features of a universe",
+    "start": 48.969,
+    "duration": 3.463
+  },
+  {
+    "text": "where electric currents connect celestial\nbodies across cosmic distances.",
+    "start": 52.457,
+    "duration": 4.846
+  },
+  {
+    "text": "Electrical circuitry pervades interplanetary,\ninterstellar and even intergalactic space",
+    "start": 57.328,
+    "duration": 5.865
+  },
+  {
+    "text": "which can be seen when electric\ncurrents meet regions of dusty plasma",
+    "start": 63.218,
+    "duration": 4.06
+  },
+  {
+    "text": "and pinch the material\ninto visible filaments.",
+    "start": 67.303,
+    "duration": 3.287
+  },
+  {
+    "text": "It's therefore no surprise that the\ndiscovery of huge filaments in space",
+    "start": 70.615,
+    "duration": 4.657
+  },
+  {
+    "text": "continues to send mainstream\nscientists searching for answers.",
+    "start": 75.297,
+    "duration": 3.788
+  },
+  {
+    "text": "Recently, astrophysicists using\nthe Very Large Array telescope",
+    "start": 79.11,
+    "duration": 3.704
+  },
+  {
+    "text": "have made what for them is a\ncompletely unexpected discovery",
+    "start": 82.839,
+    "duration": 3.268
+  },
+  {
+    "text": "near the center of\nthe Milky Way galaxy.",
+    "start": 86.117,
+    "duration": 2.566
+  },
+  {
+    "text": "What they have found is a nearly\ntwo-and-a-half light-year long filament that is",
+    "start": 88.708,
+    "duration": 4.208
+  },
+  {
+    "text": "\"probing the hypothetical\nBlack Hole at Sagittarius A\".",
+    "start": 92.941,
+    "duration": 4.289
+  },
+  {
+    "text": "The December 20, 2017, Phys.org report\ndescribes the discovery as follows,",
+    "start": 97.255,
+    "duration": 5.998
+  },
+  {
+    "text": "\"The center of our galaxy has been\nintensely studied for many years,",
+    "start": 103.278,
+    "duration": 3.997
+  },
+  {
+    "text": "but it still harbors\nsurprises for scientists.",
+    "start": 107.3,
+    "duration": 2.946
+  },
+  {
+    "text": "A snake-like structure lurking near\nour galaxy's supermassive black hole",
+    "start": 110.271,
+    "duration": 4.6
+  },
+  {
+    "text": "is the latest discovery to\ntantalize astronomers.\"",
+    "start": 114.896,
+    "duration": 3.349
+  },
+  {
+    "text": "The leader of a study on\nthe discovery stated,",
+    "start": 118.27,
+    "duration": 2.749
+  },
+  {
+    "text": "\"With our improved image, we can\nnow follow this filament",
+    "start": 121.044,
+    "duration": 3.289
+  },
+  {
+    "text": "much closer to the Galaxy's\ncentral black hole,",
+    "start": 124.358,
+    "duration": 2.912
+  },
+  {
+    "text": "and it is now close enough to indicate\nto us that it must originate there.",
+    "start": 127.295,
+    "duration": 4.159
+  },
+  {
+    "text": "However, we still\nhave more work to do",
+    "start": 131.479,
+    "duration": 2.166
+  },
+  {
+    "text": "to find out what the true\nnature of this filament is.\"",
+    "start": 133.67,
+    "duration": 3.316
+  },
+  {
+    "text": "The investigators are only\nconsidering three possibilities",
+    "start": 137.011,
+    "duration": 3.357
+  },
+  {
+    "text": "to explain the\nmysterious filament.",
+    "start": 140.393,
+    "duration": 2.208
+  },
+  {
+    "text": "One is that the hypothetical black hole\n\"kicked away\" high-speed particles",
+    "start": 142.626,
+    "duration": 4.978
+  },
+  {
+    "text": "somehow forming the\nlight-years long filament.",
+    "start": 147.629,
+    "duration": 2.926
+  },
+  {
+    "text": "This would involve the black hole's\nrotation pairing with spiraling gas",
+    "start": 150.58,
+    "duration": 4.368
+  },
+  {
+    "text": "to produce an incredibly\npowerful magnetic field.",
+    "start": 154.973,
+    "duration": 3.243
+  },
+  {
+    "text": "Another possibility\nthey've entertained",
+    "start": 158.241,
+    "duration": 2.017
+  },
+  {
+    "text": "is that the filament is a mathematical\nconjecture called a cosmic string,",
+    "start": 160.259,
+    "duration": 4.22
+  },
+  {
+    "text": "which theoretical physicists have proposed\nmay have formed in the early universe,",
+    "start": 164.504,
+    "duration": 4.541
+  },
+  {
+    "text": "but which have never been discovered.",
+    "start": 169.07,
+    "duration": 2.116
+  },
+  {
+    "text": "Ironically, as described\nin the phys.org report,",
+    "start": 171.211,
+    "duration": 3.178
+  },
+  {
+    "text": "it's believed that\nhypothetical cosmic strings",
+    "start": 174.414,
+    "duration": 3.438
+  },
+  {
+    "text": "\"... are long, extremely thin objects\nthat carry mass and electric currents.\"",
+    "start": 177.877,
+    "duration": 5.321
+  },
+  {
+    "text": "The final notion the scientists\nhave considered is that",
+    "start": 183.223,
+    "duration": 2.721
+  },
+  {
+    "text": "the alignment of the filament with\nthe galactic center is coincidence.",
+    "start": 185.969,
+    "duration": 3.666
+  },
+  {
+    "text": "However, as the\nphys.org report states,",
+    "start": 189.66,
+    "duration": 2.665
+  },
+  {
+    "text": "such a coincidence is quite\nunlikely to happen by chance.",
+    "start": 192.35,
+    "duration": 3.769
+  },
+  {
+    "text": "Unfortunately, the investigators are not\nconsidering other more promising possibilities,",
+    "start": 196.144,
+    "duration": 6.074
+  },
+  {
+    "text": "namely, that the hypothetical black hole at\nthe galactic center simply does not exist.",
+    "start": 202.243,
+    "duration": 5.536
+  },
+  {
+    "text": "As we noted in the recent episode\n'Black Holes Behaving Badly',",
+    "start": 207.804,
+    "duration": 4.056
+  },
+  {
+    "text": "in astrophysics today the black hole\nhas become an unfalsifiable concept.",
+    "start": 211.885,
+    "duration": 5.359
+  },
+  {
+    "text": "In our own Milky Way it\nappears that no discovery,",
+    "start": 217.269,
+    "duration": 2.927
+  },
+  {
+    "text": "including the recent observation\nof star formation occurring",
+    "start": 220.221,
+    "duration": 3.428
+  },
+  {
+    "text": "much too close to the\nhypothetical black hole",
+    "start": 223.65,
+    "duration": 2.716
+  },
+  {
+    "text": "where tidal forces must rip the gas and\ndust apart before it can form stars,",
+    "start": 226.391,
+    "duration": 5.066
+  },
+  {
+    "text": "will force any doubt of the\nblack hole's existence.",
+    "start": 231.482,
+    "duration": 4.004
+  },
+  {
+    "text": "As we've outlined many times,",
+    "start": 235.511,
+    "duration": 2.557
+  },
+  {
+    "text": "the position of Plasma Cosmology\nand the Electric Universe",
+    "start": 238.093,
+    "duration": 3.456
+  },
+  {
+    "text": "is that it is not a black hole\nat the center of galaxies",
+    "start": 241.574,
+    "duration": 3.608
+  },
+  {
+    "text": "but an ultra-high density\nenergy storage phenomenon",
+    "start": 245.207,
+    "duration": 3.16
+  },
+  {
+    "text": "demonstrated for decades in\nlaboratories, called a plasmoid",
+    "start": 248.392,
+    "duration": 3.645
+  },
+  {
+    "text": "which is a kind of load in the\nGalactic electrical circuit.",
+    "start": 252.062,
+    "duration": 3.336
+  },
+  {
+    "text": "The plasmoid concentrates\nand stores energy",
+    "start": 255.423,
+    "duration": 3.049
+  },
+  {
+    "text": "and is connected to a larger\nnetwork of electric currents.",
+    "start": 258.497,
+    "duration": 3.373
+  },
+  {
+    "text": "When the plasmoid reaches a\nthreshold density, it discharges,",
+    "start": 261.895,
+    "duration": 4.268
+  },
+  {
+    "text": "usually along a\ngalaxy's spin axis.",
+    "start": 266.188,
+    "duration": 2.612
+  },
+  {
+    "text": "This is in fact the source\nof stupendous galactic jets.",
+    "start": 268.825,
+    "duration": 4.035
+  },
+  {
+    "text": "The discovery of a vast filament, such\nas that recently observed, is expected",
+    "start": 272.885,
+    "duration": 4.676
+  },
+  {
+    "text": "and is in fact required if it is\na plasmoid at the galactic core.",
+    "start": 277.586,
+    "duration": 4.247
+  },
+  {
+    "text": "As we've noted several\ntimes recently,",
+    "start": 281.858,
+    "duration": 2.53
+  },
+  {
+    "text": "the role of magnetic fields in\nsustaining cosmic filaments",
+    "start": 284.413,
+    "duration": 3.506
+  },
+  {
+    "text": "is now being discussed with increasing\nfrequency in astrophysics.",
+    "start": 287.92,
+    "duration": 4.011
+  },
+  {
+    "text": "Earlier this year, scientists reported\nthe first-ever measurement of the",
+    "start": 291.956,
+    "duration": 4.127
+  },
+  {
+    "text": "\"magnetic bridge\" linking the\nMilky Way's two nearest galaxies.",
+    "start": 296.108,
+    "duration": 4.809
+  },
+  {
+    "text": "Known as the Magellanic bridge, the\nfilament stretches for approximately",
+    "start": 300.942,
+    "duration": 4.619
+  },
+  {
+    "text": "75,000 light-years connecting the\nLarge and Small Magellanic Clouds.",
+    "start": 305.586,
+    "duration": 5.872
+  },
+  {
+    "text": "One of the researchers stated,",
+    "start": 311.483,
+    "duration": 1.983
+  },
+  {
+    "text": "\"Not only are entire\ngalaxies magnetic,",
+    "start": 313.491,
+    "duration": 2.975
+  },
+  {
+    "text": "but the faint delicate threads\njoining galaxies are magnetic, too.",
+    "start": 316.491,
+    "duration": 4.251
+  },
+  {
+    "text": "Everywhere we look in the\nsky, we find magnetism.\"",
+    "start": 320.767,
+    "duration": 4.002
+  },
+  {
+    "text": "The lead author of\nthe study stated,",
+    "start": 324.794,
+    "duration": 2.073
+  },
+  {
+    "text": "\"In general, we don't know how such\nvast magnetic fields are generated,",
+    "start": 326.892,
+    "duration": 4.13
+  },
+  {
+    "text": "nor how these large-scale magnetic fields\naffect galaxy formation and evolution.",
+    "start": 331.047,
+    "duration": 5.341
+  },
+  {
+    "text": "Understanding the role the magnetic\nfields play in the evolution of galaxies",
+    "start": 336.389,
+    "duration": 4.611
+  },
+  {
+    "text": "and their environment,",
+    "start": 341.025,
+    "duration": 1.238
+  },
+  {
+    "text": "is a fundamental question in astronomy\nthat remains to be answered.\"",
+    "start": 342.288,
+    "duration": 4.432
+  },
+  {
+    "text": "But of course, magnetism is\nonly a part of the story",
+    "start": 346.745,
+    "duration": 3.547
+  },
+  {
+    "text": "and will always remain mysterious without\nthe recognition of the electric currents",
+    "start": 350.317,
+    "duration": 4.292
+  },
+  {
+    "text": "required to produce and\nsustain the magnetic fields.",
+    "start": 354.61,
+    "duration": 3.717
+  },
+  {
+    "text": "However, we do see increasing signs that this\ninevitable recognition is beginning to occur.",
+    "start": 358.352,
+    "duration": 6.134
+  },
+  {
+    "text": "The December 25, 2017, issue of 'Astronomy\n& Astrophysics' published the paper,",
+    "start": 364.511,
+    "duration": 5.989
+  },
+  {
+    "text": "'The jets of Active Galactic Nuclei\n(AGN) as giant coaxial cables'.",
+    "start": 370.525,
+    "duration": 4.999
+  },
+  {
+    "text": "In looking at the properties of\nstupendous parsec-scale jets,",
+    "start": 375.549,
+    "duration": 4.745
+  },
+  {
+    "text": "the authors conclude that,",
+    "start": 380.319,
+    "duration": 2.168
+  },
+  {
+    "text": "\"...our results have now yielded firm\nevidence that many ― possibly all ―",
+    "start": 382.512,
+    "duration": 4.142
+  },
+  {
+    "text": "Active Galactic Nuclei jets have\ninward currents along their axes",
+    "start": 386.679,
+    "duration": 4.688
+  },
+  {
+    "text": "and outward currents in a more\nextended region surrounding the jets.",
+    "start": 391.392,
+    "duration": 4.154
+  },
+  {
+    "text": "It also indicates that astrophysical jets are\nfundamentally electromagnetic structures,",
+    "start": 395.571,
+    "duration": 6.069
+  },
+  {
+    "text": "which must be borne in mind when\ninterpreting observed features",
+    "start": 401.665,
+    "duration": 3.483
+  },
+  {
+    "text": "in the distributions of both their\nintensity and linear polarization.\"",
+    "start": 405.173,
+    "duration": 4.13
+  },
+  {
+    "text": "We note the counter-rotating\nmagnetic fields the authors depict",
+    "start": 409.328,
+    "duration": 4.272
+  },
+  {
+    "text": "in this diagram of the\njet's environment.",
+    "start": 413.625,
+    "duration": 2.508
+  },
+  {
+    "text": "As those in the Electric Universe\ncommunity are well aware,",
+    "start": 416.158,
+    "duration": 3.171
+  },
+  {
+    "text": "the counter-rotation has\nspecial significance.",
+    "start": 419.354,
+    "duration": 3.458
+  },
+  {
+    "text": "In recent years, Dr. Donald\nScott has developed",
+    "start": 422.837,
+    "duration": 3.113
+  },
+  {
+    "text": "the mathematical modeling\nof a Birkeland current",
+    "start": 425.975,
+    "duration": 2.776
+  },
+  {
+    "text": "whose influence can be seen visually\nin the form of counter-rotating shells",
+    "start": 428.776,
+    "duration": 4.833
+  },
+  {
+    "text": "as observed in Earth's\ncylindrical auroral sheets",
+    "start": 433.61,
+    "duration": 3.909
+  },
+  {
+    "text": "and at the north poles of the\ngas giants Saturn and Jupiter.",
+    "start": 437.544,
+    "duration": 4.038
+  },
+  {
+    "text": "Dr. Scott will discuss the role of\nBirkeland currents in galactic jets",
+    "start": 441.607,
+    "duration": 4.473
+  },
+  {
+    "text": "in a forthcoming Space News.",
+    "start": 446.105,
+    "duration": 2.407
+  },
+  {
+    "text": "Another scientific paper\npublished in October, 2017,",
+    "start": 448.537,
+    "duration": 4.531
+  },
+  {
+    "text": "also proposes that giant electric\ncurrents flow through the Galactic jets.",
+    "start": 453.093,
+    "duration": 5.132
+  },
+  {
+    "text": "The author states:",
+    "start": 458.25,
+    "duration": 1.326
+  },
+  {
+    "text": "\"Several researchers have\nreported direct evidence",
+    "start": 459.601,
+    "duration": 2.938
+  },
+  {
+    "text": "for large-scale electric currents\nalong astrophysical jets.",
+    "start": 462.54,
+    "duration": 4.135
+  },
+  {
+    "text": "Quite unexpectedly, their directions are\nnot random as would have been the case",
+    "start": 466.7,
+    "duration": 4.74
+  },
+  {
+    "text": "if the magnetic field were generated\nby a magneto-hydrodynamic dynamo.",
+    "start": 471.465,
+    "duration": 4.667
+  },
+  {
+    "text": "Instead, in all kilo-parsec scale detections,\nthe inferred electric currents",
+    "start": 476.157,
+    "duration": 6.124
+  },
+  {
+    "text": "are found to flow away\nfrom the galactic nucleus.",
+    "start": 482.306,
+    "duration": 3.07
+  },
+  {
+    "text": "This unexpected break of symmetry\nsuggests that a battery mechanism",
+    "start": 485.401,
+    "duration": 4.173
+  },
+  {
+    "text": "is operating around the\ncentral black hole.\"",
+    "start": 489.599,
+    "duration": 3.181
+  },
+  {
+    "text": "However, we again note the futility of\nscientists looking to colossal gravity",
+    "start": 492.805,
+    "duration": 5.061
+  },
+  {
+    "text": "as the cause of stupendous\nelectromagnetic cosmic phenomena.",
+    "start": 497.891,
+    "duration": 4.187
+  },
+  {
+    "text": "The question is, what can any so-called battery\ndo that is not connected to a circuit?",
+    "start": 502.103,
+    "duration": 6.217
+  },
+  {
+    "text": "The central object in an\nactive galactic nucleus",
+    "start": 508.345,
+    "duration": 3.642
+  },
+  {
+    "text": "must be an electromagnetic\nenergy storage circuit element,",
+    "start": 512.012,
+    "duration": 4.389
+  },
+  {
+    "text": "the aforementioned plasmoid in a far\ngrander galactic and extra-galactic circuit.",
+    "start": 516.426,
+    "duration": 6.145
+  },
+  {
+    "text": "Plasma cosmologists\nrecognized this decades ago",
+    "start": 522.596,
+    "duration": 3.236
+  },
+  {
+    "text": "and it was explained excessively in the\nbook 'The Big Bang Never Happened'.",
+    "start": 525.857,
+    "duration": 4.149
+  },
+  {
+    "text": "Yet, these concepts are nowhere to\nbe found in mainstream astrophysics,",
+    "start": 530.031,
+    "duration": 4.514
+  },
+  {
+    "text": "leaving working scientists to ponder\nundeniable electrical phenomena",
+    "start": 534.57,
+    "duration": 4.357
+  },
+  {
+    "text": "with little hope of resolving\nthe underlying cause.",
+    "start": 538.952,
+    "duration": 3.785
+  },
+  {
+    "text": "And so as we enter\nthe New Year of 2018,",
+    "start": 542.762,
+    "duration": 3.663
+  },
+  {
+    "text": "our basis, at The Thunderbolts Project, for\noptimism and confidence has never been stronger",
+    "start": 546.45,
+    "duration": 5.75
+  },
+  {
+    "text": "as groundbreaking discoveries lead\nscientists closer to our Electric Universe.",
+    "start": 552.225,
+    "duration": 5.405
+  },
+  {
+    "text": "For continuous updates on Space\nNews from the Electric Universe,",
+    "start": 558.773,
+    "duration": 4.016
+  },
+  {
+    "text": "stay tuned to",
+    "start": 562.814,
+    "duration": 1.165
+  },
+  {
+    "text": "Thunderbolts.info",
+    "start": 564.004,
+    "duration": 1.49
+  }
+]

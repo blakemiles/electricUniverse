@@ -1,0 +1,230 @@
+I want to start by asking your question
+how can liquids behave like an ionized
+gas plasma okay the answer I think is
+the plasma behavior depends on the
+motion of charged particles which are
+free to move in response to
+electromagnetic forces so if the liquid
+is partially ionized than the charged
+particles in the liquid ought to
+experience similar forces and the liquid
+will behaviors sort of similarly to the
+ionized particles in the gas so what
+we're going to do is to look at three
+examples of partially ionized liquids
+and compare their behavior to plasma
+behavior in space so the structure of
+the talk first of all we'll examine the
+floating water bridge excuse me
+and the various attempts to explain it
+without using plasma behavior then we'll
+compare it to the way plasma behaves in
+space we'll find that some of the
+puzzling features of the floating water
+bridge can be explained by using plasma
+behavior and the second half of the talk
+will then use the same plasma behavior
+and professor Pollux easy layers in
+water to offer an explanation of unusual
+fluid flows in plant roots and blood
+vessels so we're starting off with a
+floating water bridge now you've already
+seen this a couple of times already
+courtesy of Professor and Elmer
+Fuchs who made the film so the floating
+water bridge forms between two beakers
+of pure water when a large potential
+difference of about 15 thousand volts or
+above is applied between them and here
+you can see two features of the bridge
+there's a nearly cylindrical tube of
+water 1 to 2 millimeters in diameter
+between the beakers and the tube can be
+stretched up to about 25 millimeters
+long and the bridge is like a tightrope
+it doesn't sag as you would expect it to
+under its own weight even when it's
+stretched out to 25 millimeters now this
+film also by Elmer Fuchs shows that the
+water is rotating
+the films in slow motion because the
+rotation is actually too fast to see
+with a naked eye so folks have shown
+that water in the bridge is separated
+into an annulus and an inner core and
+the circular annulus is the part that's
+rotating in laser light shown in from
+the end of the bridge
+you can see that the light is curving
+around the rotating annulus part and
+avoiding the core in the middle so it
+gives you some indication of that shape
+I'm talking about now folks also found
+that the annulus and core each carry
+water along the bridge but in opposite
+directions so that's quite extraordinary
+really water is flowing in both
+directions at the same time now not only
+water earth but charge flows across the
+bridge as well now charge flowing in
+opposite directions is an electric
+current by using pH dyes fuchs has shown
+that the bridge transports charge or
+current from one beaker to the other and
+here we can see charge regions adjacent
+to the terminals boiling off as it were
+charged during an experiment and at the
+end of the experiment you can see the
+difference in pH and the Meekers now
+Armstrong back in 1893 who is the guy
+who first discovered the floating water
+bridge the experiment was in for Kaufman
+for about a hundred years Armstrong
+found that the annulus is positively
+charged and the core is negative so
+there we can see how we can get a
+current flowing across the bridge
+positive charge in one direction and
+negative charge in the other is
+equivalent to a current in one direction
+so to summarize a floating water bridge
+is a stiff cylindrical tube with an
+annulus and call structure there's
+simultaneous bi-directional flow of
+water and charge across the bridge and
+the annulus is rotating very fast around
+the core what's more the annulus is
+positive and the core is negative so
+researchers
+approached the analysis of the floating
+water bridge from both the classical and
+the quantum directions the principle of
+the classic EHD approach is that
+electric stress causes the axial tension
+in the bridge
+according to Taylor electrodynamic
+currents are assumed to be so small that
+magnetic induction effect can be ignored
+Bertram and Sowell expanded on Taylor's
+analysis but without achieving complete
+success they stated although the
+quantitative agreement between theory
+and experiment is not as close as one
+might like using surface transport as an
+adjustable parameter it brings them into
+agreement
+sounds great isn't it but the problem
+with that is that the adjustable
+parameter is completely arbitrary its
+values chosen to make the equations work
+it's not a measured value from the
+experiment well of course you can make
+it work if you can choose any value you
+like so there's something missing
+why'd Amana lies the water bridge in
+terms of the Maxwell pressure pencil in
+a dielectric fluid he assumed deionized
+water throughout because the need for
+deionized water is evidently necessary
+to prevent conductivity effects from
+masking the insulating dielectric
+effects in other words his analysis only
+worked with a dielectric but the
+presence of charge and the beakers after
+an experiment shows that the water does
+become partially ionized this obviously
+casts doubt on widens analysis
+you
+so what's missing what's missing from
+the LRC's is that they don't account for
+the annulus and course structure all the
+bi-directional flow or the fast rotation
+of the annulus now I suggest that these
+may introduce additional electromagnetic
+effects which haven't been taken into
+account because as we know the water is
+charged will therefore compare the
+floating water bridge with another
+filamentary structure in which an
+electromagnetic effects dominate the
+behavior here's a picture of plasma
+behavior in space now Rogoff and others
+have described plasma as the fourth
+state of matter the other three of
+course are solids liquids and gases
+plasmas are estimated to constitute over
+99% of the visible universe and plasma
+as you all know is often described as an
+ionized gas but as Alphen said whilst
+this is technically true it doesn't
+reflect the complexity of the behavior
+of plasma under the influence of
+electromagnetic forces normal gases
+simply can't do what a plasma does
+plasma can transmit an electric current
+in a defined filament without affecting
+the surrounding plasma as we see here in
+the Cygnus loop the plasma rearranges
+itself to form what is effectively an
+insulated cable around the current path
+and so the bulk plasma the rest of the
+plasma in space isn't affected and the
+way it does this is by forming a
+rotating cylinder of adjacent layers of
+positive and negative charge on the
+outside of the current this filamentary
+arrangement is known as a berkland
+current now the behavior of the berkland
+current is governed by Maxwell's
+equations of the Lorentz force law
+applied to the individual charged
+particles in the filament essentially
+each and every particle has to follow
+the magnetic field lines where it is but
+it also by moving it modifies the same
+magnetic field lines so according to
+both alpha and peratt's the net result
+of this
+interaction is a result is a spiraling
+filamentary pattern in which the
+circularity of the paths of the
+particles is dependent on their radial
+distance from the central axis of the
+filament so here you can see a diagram
+with three examples chosen at random the
+further you are from the centre of the
+current the more rate more circular the
+path you have to follow so strongly
+helical and the outside layers so the
+charged particles always follow the
+magnetic field line direction at their
+location and this explains the
+alternative name for a birth length
+current as a field aligned current the
+field aligned direction is the most
+efficient direction for current to
+traveling through a magnetic field and
+that's because the Lorentz force law
+effectively imposes an electrical
+resistance on motion transverse to the
+magnetic field that means the resistance
+is lowest in the direction parallel to
+the magnetic field therefore the current
+is in a fourth free configuration when
+it's field line one other effects
+important here the outer paths are
+strongly helical and that means that the
+outer layers are rotating around the
+axis of the filament and that in turn
+generates more electromagnetic forces
+and they are an essential part of the
+stability of the berkland current so the
+summarized berkland current plasma
+behavior means that a berkland current
+has a form of annulus and called
+structure it has bi-directional flows
+because of current of opposite charge
+particles and it also has rotation of
+the outer layer that sounds a bit like
+the missing bits of the floating water
+region now

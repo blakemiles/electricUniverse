@@ -1,0 +1,1957 @@
+[
+  {
+    "text": "Preparing to the today's talk was a bit\nof a challenge because we now have a",
+    "start": 17.11,
+    "duration": 3.72
+  },
+  {
+    "text": "worldwide audience and many viewers\nprobably have never heard of the",
+    "start": 20.83,
+    "duration": 3.7
+  },
+  {
+    "text": "Electric Sun Model or the SAFIRE\nexperiment. SAFIRE experiment is charged",
+    "start": 24.53,
+    "duration": 4.99
+  },
+  {
+    "text": "with the task of exploring the theory\nthat our Sun, all stars, are electrically",
+    "start": 29.52,
+    "duration": 4.83
+  },
+  {
+    "text": "powered. To do this we have a chamber\nwith a little ball in the middle,",
+    "start": 34.35,
+    "duration": 3.52
+  },
+  {
+    "text": "this is our little Sun. Then we fill the\nchamber with various gases, apply various",
+    "start": 38.559,
+    "duration": 4.901
+  },
+  {
+    "text": "voltages and create an electric plasma\ndischarge. We then must design",
+    "start": 43.46,
+    "duration": 5.92
+  },
+  {
+    "text": "experiments and collect data and that\ndata will be compared with the wealth of",
+    "start": 49.38,
+    "duration": 5.17
+  },
+  {
+    "text": "NASA, the European Space Agency, other\nagency, data and ideally SAFIRE",
+    "start": 54.55,
+    "duration": 6.82
+  },
+  {
+    "text": "experiments will replicate the type of\nmeasurements done of our Sun so that we",
+    "start": 61.37,
+    "duration": 5.55
+  },
+  {
+    "text": "can have an apples to apples discussion\nwith their scientific cousins in these",
+    "start": 66.92,
+    "duration": 4.25
+  },
+  {
+    "text": "organizations. And if I do my job well\nwe'll also be able to suggest new ways of",
+    "start": 71.17,
+    "duration": 6.03
+  },
+  {
+    "text": "looking at the existing satellite data\nthat will highlight electrical aspects",
+    "start": 77.2,
+    "duration": 5.279
+  },
+  {
+    "text": "of the Sun. Designing experiments to\nprove scientific theories is difficult.",
+    "start": 82.479,
+    "duration": 7.531
+  },
+  {
+    "text": "There is no instruction manual for how\nto do it. I recall vividly my teachers",
+    "start": 90.01,
+    "duration": 5.31
+  },
+  {
+    "text": "who studied with the generation of\nSchroedinger and Durac trying to",
+    "start": 95.32,
+    "duration": 3.6
+  },
+  {
+    "text": "impress upon us young physicists that\nthe data you collect in any experiment",
+    "start": 98.92,
+    "duration": 5.04
+  },
+  {
+    "text": "can be interpreted in many ways. And if one\nwhich is to create a new scientific",
+    "start": 103.96,
+    "duration": 4.589
+  },
+  {
+    "text": "model, as they had helped to create\nquantum mechanics, then you need to think",
+    "start": 108.549,
+    "duration": 4.561
+  },
+  {
+    "text": "big. And they were clear to tell us, the\nstruggles you will end up facing will",
+    "start": 113.11,
+    "duration": 5.29
+  },
+  {
+    "text": "not only be scientific. You will also\nfind yourself fighting political battles",
+    "start": 118.4,
+    "duration": 4.49
+  },
+  {
+    "text": "and sometimes even religious\nbattles. To look at the difficulty of",
+    "start": 122.89,
+    "duration": 6.289
+  },
+  {
+    "text": "verifying new scientific models we can\nlook at another instance in history",
+    "start": 129.179,
+    "duration": 4.771
+  },
+  {
+    "text": "where they were disagreements about the\nfundamental electrical nature of our",
+    "start": 133.95,
+    "duration": 4.129
+  },
+  {
+    "text": "universe. A short story about the vision\nof one scientist and the data he",
+    "start": 138.079,
+    "duration": 5.72
+  },
+  {
+    "text": "collected.",
+    "start": 143.799,
+    "duration": 3.0
+  },
+  {
+    "text": "In the late 1800's Kristian Birkeland\nhad an intuition that the Earth and the",
+    "start": 147.66,
+    "duration": 7.16
+  },
+  {
+    "text": "Sun were electrically connected. Now this\nwas not the prevailing idea at the time.",
+    "start": 154.82,
+    "duration": 5.28
+  },
+  {
+    "text": "The prevailing idea was that the Earth\nand the Sun were electrically isolated",
+    "start": 160.1,
+    "duration": 4.06
+  },
+  {
+    "text": "from each other. So we have two theories,\non the one hand the Earth and Sun",
+    "start": 164.16,
+    "duration": 4.28
+  },
+  {
+    "text": "electrically connected, on the other, the\nEarth and the Sun electrically isolated.",
+    "start": 168.44,
+    "duration": 4.16
+  },
+  {
+    "text": "So how would you prove which theory is\ncorrect?",
+    "start": 172.6,
+    "duration": 3.23
+  },
+  {
+    "text": "Birkeland made many excursions into the\nArctic regions of Norway and with hand",
+    "start": 177.82,
+    "duration": 4.51
+  },
+  {
+    "text": "held magnets he measured magnetic fields\non the ground while the Northern Lights",
+    "start": 182.33,
+    "duration": 5.85
+  },
+  {
+    "text": "blazed over head. So on the left of this\nfigure we have Birkeland's theory that",
+    "start": 188.18,
+    "duration": 6.32
+  },
+  {
+    "text": "the Sun and the Earth are electrically\nconnected, in the middle",
+    "start": 194.5,
+    "duration": 3.67
+  },
+  {
+    "text": "a little schematic of a model, showing\nelectrical connection between the Sun",
+    "start": 198.17,
+    "duration": 5.12
+  },
+  {
+    "text": "and the Earth and down the bottom there\nyou can see Birkeland walking around the",
+    "start": 203.29,
+    "duration": 4.45
+  },
+  {
+    "text": "Arctic with his hand-held magnets. Now\nthe data he collected on the ground",
+    "start": 207.74,
+    "duration": 6.05
+  },
+  {
+    "text": "actually matched his model and he took that\nas support of his theory. Now on the right",
+    "start": 213.79,
+    "duration": 6.94
+  },
+  {
+    "text": "hand side of this drawing you can see the\nprevailing idea of the time, no",
+    "start": 220.73,
+    "duration": 3.1
+  },
+  {
+    "text": "electrical connection between the Earth\nand the Sun and a well-known",
+    "start": 223.83,
+    "duration": 3.35
+  },
+  {
+    "text": "mathematician of the time",
+    "start": 227.18,
+    "duration": 1.84
+  },
+  {
+    "text": "created an elegant theory to show that\nall you needed was heat from the Sun and",
+    "start": 229.02,
+    "duration": 5.59
+  },
+  {
+    "text": "that would generate local convection\ncurrents above the Earth's poles and",
+    "start": 234.61,
+    "duration": 5.15
+  },
+  {
+    "text": "this then would generate the same exact\ncompass measurements on the ground. And",
+    "start": 239.76,
+    "duration": 6.56
+  },
+  {
+    "text": "that second theory is the one that won\nout. Now the passage of a hundred years",
+    "start": 246.32,
+    "duration": 5.23
+  },
+  {
+    "text": "has somewhat blunted the story for you\nand me and we don't know anybody",
+    "start": 251.55,
+    "duration": 2.92
+  },
+  {
+    "text": "personally connected with it, just an\nanecdote in the history of science. But",
+    "start": 254.47,
+    "duration": 5.88
+  },
+  {
+    "text": "it bothers me and I often think well\ncould those measurements taken beneath",
+    "start": 260.35,
+    "duration": 3.89
+  },
+  {
+    "text": "the Blazing Northern Lights could they\nreally not tell us which theory was",
+    "start": 264.24,
+    "duration": 3.53
+  },
+  {
+    "text": "correct and the answer is no, they could\nnot. As all too often happens the data",
+    "start": 267.77,
+    "duration": 6.26
+  },
+  {
+    "text": "works equally well in both models and\none theory prevails",
+    "start": 274.03,
+    "duration": 4.88
+  },
+  {
+    "text": "usually more for social or philosophical\nreasons than scientific reasons and",
+    "start": 278.91,
+    "duration": 7.13
+  },
+  {
+    "text": "Birkeland never got to see his ideas\naccepted. The isolationists won out until",
+    "start": 286.04,
+    "duration": 6.44
+  },
+  {
+    "text": "about the nineteen seventies when\nsatellite measurements were good enough",
+    "start": 292.48,
+    "duration": 3.38
+  },
+  {
+    "text": "to actually show that there are indeed\nelectrical connections between the Earth",
+    "start": 295.86,
+    "duration": 4.25
+  },
+  {
+    "text": "and the Sun. You saw this earlier, this is\none of the beautiful discharges from our",
+    "start": 300.11,
+    "duration": 7.15
+  },
+  {
+    "text": "chamber, we'll call this one the flower\ndischarge and it's actually not",
+    "start": 307.26,
+    "duration": 3.93
+  },
+  {
+    "text": "spherical it's more disc shaped and it's\nnot clear what the conditions are that",
+    "start": 311.19,
+    "duration": 5.75
+  },
+  {
+    "text": "produced this. So we're now at a time\nwhere there is the real possibility for",
+    "start": 316.94,
+    "duration": 6.78
+  },
+  {
+    "text": "a paradigm change in astronomy, enough\ndata has been collected that probably",
+    "start": 323.72,
+    "duration": 4.45
+  },
+  {
+    "text": "future astronomers will grow up studying\nsuch concepts as electrical double",
+    "start": 328.17,
+    "duration": 5.78
+  },
+  {
+    "text": "layers, electric potential over large\ndistances of space and cosmic Birkeland",
+    "start": 333.95,
+    "duration": 5.75
+  },
+  {
+    "text": "currents. The study of the Sun is a\nparticularly fruitful area for studying",
+    "start": 339.7,
+    "duration": 5.36
+  },
+  {
+    "text": "electricity in space. Here is a short\nlist of observations collected over many",
+    "start": 345.06,
+    "duration": 5.43
+  },
+  {
+    "text": "years by many different people in the EU\ncommunity. Not to read them all, just to give",
+    "start": 350.49,
+    "duration": 5.72
+  },
+  {
+    "text": "you an idea that t'was quite a bit and\nwith each within each one of these there",
+    "start": 356.21,
+    "duration": 5.17
+  },
+  {
+    "text": "are actually thousands of papers and\nconference proceedings so the good news",
+    "start": 361.38,
+    "duration": 4.98
+  },
+  {
+    "text": "is there's a lot of material for us to\nchoose from.",
+    "start": 366.36,
+    "duration": 3.5
+  },
+  {
+    "text": "Now for the point of view of where we're\nat currently with SAFIRE here's a",
+    "start": 369.86,
+    "duration": 4.26
+  },
+  {
+    "text": "short list that I will be talking about,\nof specific areas to focus on. So I'll",
+    "start": 374.12,
+    "duration": 6.5
+  },
+  {
+    "text": "talk about each one of these in course.\nThis is one of the,",
+    "start": 380.62,
+    "duration": 4.91
+  },
+  {
+    "text": "lot of us have seen this one, of the very\nconfusing diagrams about the Sun, a plot",
+    "start": 386.11,
+    "duration": 4.33
+  },
+  {
+    "text": "of the Sun's temperature as a function\nof height above the sun's surface. So at 0",
+    "start": 390.44,
+    "duration": 5.07
+  },
+  {
+    "text": "height on the left hand side there in the\nphotosphere about five thousand degrees",
+    "start": 395.51,
+    "duration": 4.2
+  },
+  {
+    "text": "and as we move away from the Sun the\ntemperature increases in very specific",
+    "start": 399.71,
+    "duration": 6.53
+  },
+  {
+    "text": "jumps as you move away and then at a\ncertain point the temperature shoots way",
+    "start": 406.24,
+    "duration": 8.86
+  },
+  {
+    "text": "up very quickly through the transition\nzone up to millions of degrees. Now with",
+    "start": 415.1,
+    "duration": 6.45
+  },
+  {
+    "text": "this, if the SAFIRE experiment sees\nsomething like this, in our Chamber,",
+    "start": 421.55,
+    "duration": 4.1
+  },
+  {
+    "text": "that's a major win for the electrical\nmodel of the Sun. And just to be clear, no one",
+    "start": 425.65,
+    "duration": 5.34
+  },
+  {
+    "text": "has yet flown a thermometer into the Sun.\nWhen you see statements about the sun's",
+    "start": 430.99,
+    "duration": 5.58
+  },
+  {
+    "text": "temperature like these, those statements\nare made by looking at light emitted",
+    "start": 436.57,
+    "duration": 5.51
+  },
+  {
+    "text": "from the Sun. Some of the light\nemitted from the Sun is in discrete",
+    "start": 442.08,
+    "duration": 4.54
+  },
+  {
+    "text": "spectral lines and scientists can use\nspectral lines to measure temperature.",
+    "start": 446.62,
+    "duration": 5.92
+  },
+  {
+    "text": "For example we might be measuring just\none line from one element on the Sun, say",
+    "start": 452.54,
+    "duration": 6.41
+  },
+  {
+    "text": "neon or measuring one color of neon\nlight from the Sun. And we can examine",
+    "start": 458.95,
+    "duration": 6.67
+  },
+  {
+    "text": "the details of how that line changes as\nyou move away from the Sun so here's a",
+    "start": 465.62,
+    "duration": 4.57
+  },
+  {
+    "text": "short diagram to say what I mean here.\nYou can imagine three different cases, in",
+    "start": 470.19,
+    "duration": 8.39
+  },
+  {
+    "text": "the top diagram this one here, the width\nof the line, the size of your spectral",
+    "start": 478.58,
+    "duration": 7.93
+  },
+  {
+    "text": "line is broadest close to the Sun and\nthen it gets more narrow as you move",
+    "start": 486.51,
+    "duration": 6.42
+  },
+  {
+    "text": "away from the Sun and you, if you do if\nyou're using line width to be a proxy or",
+    "start": 492.93,
+    "duration": 6.19
+  },
+  {
+    "text": "an estimation of temperature you would\nsay, well things are cooling down as I",
+    "start": 499.12,
+    "duration": 3.92
+  },
+  {
+    "text": "move away from the Sun,\nsometimes that's called the campfire",
+    "start": 503.04,
+    "duration": 3.43
+  },
+  {
+    "text": "model that things get colder as you move\naway from the campfire. Now we can",
+    "start": 506.47,
+    "duration": 5.61
+  },
+  {
+    "text": "imagine a different case, this middle one\nhere,",
+    "start": 512.08,
+    "duration": 2.97
+  },
+  {
+    "text": "where the width of the line stays the\nsame as you move away from the Sun. Now",
+    "start": 515.05,
+    "duration": 5.609
+  },
+  {
+    "text": "if we saw that then we would say well by\nusing line width as a measure of",
+    "start": 520.659,
+    "duration": 4.701
+  },
+  {
+    "text": "temperature, it stays the same as you\nmove away from the Sun, OK, and then the",
+    "start": 525.36,
+    "duration": 3.9
+  },
+  {
+    "text": "last example, one down here which is more\nlike our real Sun,",
+    "start": 529.26,
+    "duration": 3.449
+  },
+  {
+    "text": "the line widths increase as you move away and so\nagain using this as a proxy for",
+    "start": 533.22,
+    "duration": 5.45
+  },
+  {
+    "text": "temperature you say, things must be\ngetting hotter as we move away. So using",
+    "start": 538.67,
+    "duration": 9.19
+  },
+  {
+    "text": "this as just one principle, just one of\nthe many principles we have at our",
+    "start": 547.86,
+    "duration": 3.56
+  },
+  {
+    "text": "disposal, we can look at some movie of\nsome actual, the SAFIRE spectra which",
+    "start": 551.42,
+    "duration": 9.419
+  },
+  {
+    "text": "you saw earlier but I like watching it\nok.",
+    "start": 560.839,
+    "duration": 11.281
+  },
+  {
+    "text": "Real-time, this is what it looks like..",
+    "start": 572.12,
+    "duration": 3.0
+  },
+  {
+    "text": "That's when all the USB ports blew up on\nthe computers. Now there is a wealth of",
+    "start": 592.29,
+    "duration": 12.56
+  },
+  {
+    "text": "information as you could imagine",
+    "start": 604.85,
+    "duration": 2.289
+  },
+  {
+    "text": "in this spectral data, we can just choose\none, one slice one snapshot from that and",
+    "start": 607.139,
+    "duration": 7.13
+  },
+  {
+    "text": "we can just choose one of the lines in\none of the snapshots and we can look at",
+    "start": 614.269,
+    "duration": 4.531
+  },
+  {
+    "text": "that line from different points in the\nchamber so here's a picture of the",
+    "start": 618.8,
+    "duration": 6.75
+  },
+  {
+    "text": "chamber and you can see the center glow\nis the anode right this part",
+    "start": 625.55,
+    "duration": 5.479
+  },
+  {
+    "text": "here and then down here do you see these\ncylinders, those are fiber optics, that's",
+    "start": 631.029,
+    "duration": 8.841
+  },
+  {
+    "text": "what's collecting the light, collecting\nthe light in the chamber and you can see",
+    "start": 639.87,
+    "duration": 6.449
+  },
+  {
+    "text": "how they point in different directions\nso one, you know, one we can point where we want,",
+    "start": 646.319,
+    "duration": 6.091
+  },
+  {
+    "text": "one just grazed the anode, one of looked at\nhalfway out, maybe one looks towards the",
+    "start": 652.41,
+    "duration": 4.179
+  },
+  {
+    "text": "cathode, so this is a way that we were\nexploring that how, can we measure line",
+    "start": 656.589,
+    "duration": 6.921
+  },
+  {
+    "text": "widths and other properties at different\npoints in the chamber. It actually was",
+    "start": 663.51,
+    "duration": 3.43
+  },
+  {
+    "text": "not obvious when we started out if it was\neven possible. So we can look at that again",
+    "start": 666.94,
+    "duration": 8.06
+  },
+  {
+    "text": "just one line, one spectral line.",
+    "start": 675.0,
+    "duration": 3.319
+  },
+  {
+    "text": "Here's a plot that shows just looking at,\nactually this is more than one line, several",
+    "start": 678.319,
+    "duration": 5.13
+  },
+  {
+    "text": "different lines and looking at their\nwidths, so all the ones over here these",
+    "start": 683.449,
+    "duration": 5.091
+  },
+  {
+    "text": "are all red and these are blues. There are,\nthese are blue spectral lines in our",
+    "start": 688.54,
+    "duration": 4.909
+  },
+  {
+    "text": "discharge and over here the reds like a\nrainbow, over here are red spectral lines",
+    "start": 693.449,
+    "duration": 4.471
+  },
+  {
+    "text": "in our discharge and you can see\nthat",
+    "start": 697.92,
+    "duration": 3.029
+  },
+  {
+    "text": "here's like for example, you know, 12345\ndifferent points up here, they have more",
+    "start": 701.48,
+    "duration": 9.609
+  },
+  {
+    "text": "width to them, so the vertical axis on\nthis graph is how wide the line is, so",
+    "start": 711.089,
+    "duration": 5.791
+  },
+  {
+    "text": "this group here has more width to their\nlines than this group down here. So that",
+    "start": 716.88,
+    "duration": 7.16
+  },
+  {
+    "text": "was great so we verified yes, we can show\nthat we can distinguish different line",
+    "start": 724.04,
+    "duration": 4.47
+  },
+  {
+    "text": "widths in different parts and then I went\nback and I said, wait a minute which",
+    "start": 728.51,
+    "duration": 3.86
+  },
+  {
+    "text": "which which groups are these, and this\nwhole group up here was all from fiber",
+    "start": 732.37,
+    "duration": 5.579
+  },
+  {
+    "text": "optics looking at the anode or\nclose to the anode. Sorry, backwards, this",
+    "start": 737.949,
+    "duration": 6.371
+  },
+  {
+    "text": "group down here was all looking at the\nanode, close to the anode, this group here",
+    "start": 744.32,
+    "duration": 5.12
+  },
+  {
+    "text": "was all looking away. So again, if we use\nthis as a proxy for temperature which,",
+    "start": 749.44,
+    "duration": 5.18
+  },
+  {
+    "text": "I'll say it more later there's other\nways to look at it, then we've got",
+    "start": 754.62,
+    "duration": 4.149
+  },
+  {
+    "text": "already here some kind of strange result\nwhere it looks like, even in our chamber,",
+    "start": 758.769,
+    "duration": 4.69
+  },
+  {
+    "text": "temperature might be might be higher as\nyou move away from the center. Now here",
+    "start": 763.459,
+    "duration": 9.911
+  },
+  {
+    "text": "is, looking at one particular point, it's\nnot only there's no there's another way",
+    "start": 773.37,
+    "duration": 9.64
+  },
+  {
+    "text": "that this we analyze the data it which\nis the shape of a line, not only how wide",
+    "start": 783.01,
+    "duration": 4.3
+  },
+  {
+    "text": "it is but the shape of it and it actually\ntells us a fair amount about the physics",
+    "start": 787.31,
+    "duration": 3.87
+  },
+  {
+    "text": "so for example if your line width, your\nline shape is fit by Gaussian statistics",
+    "start": 791.18,
+    "duration": 6.459
+  },
+  {
+    "text": "then you're probably looking more at\ntemperature and indications of temperature.",
+    "start": 797.639,
+    "duration": 4.041
+  },
+  {
+    "text": "If your shape is fit more by a\ndifferent kind of statistics, Lorentzian",
+    "start": 801.68,
+    "duration": 4.3
+  },
+  {
+    "text": "statistics, then you're probably looking\nmore at electron density in the chamber.",
+    "start": 805.98,
+    "duration": 5.13
+  },
+  {
+    "text": "And so again, our job was to say well,\ncan we measure these differences and yes",
+    "start": 811.11,
+    "duration": 5.839
+  },
+  {
+    "text": "we can measure these differences within\nour Chamber. Alright, moving onto the next",
+    "start": 816.949,
+    "duration": 6.851
+  },
+  {
+    "text": "item on the shortlist, coronal streamers.",
+    "start": 823.8,
+    "duration": 3.0
+  },
+  {
+    "text": "It's gonna be a movie of SOHO,\nultraviolet data, so the Sun is in the",
+    "start": 828.7,
+    "duration": 6.5
+  },
+  {
+    "text": "center there",
+    "start": 835.2,
+    "duration": 1.28
+  },
+  {
+    "text": "these are coronal, called coronal streamers\nflying off. Now people at the Catania",
+    "start": 836.48,
+    "duration": 9.04
+  },
+  {
+    "text": "observatory in Italy, Ventura and Spadaro,\nthey looked at these coronal streamers",
+    "start": 845.52,
+    "duration": 9.32
+  },
+  {
+    "text": "and they wanted to examine things like\ntemperature, how does the temperature",
+    "start": 854.84,
+    "duration": 4.66
+  },
+  {
+    "text": "vary inside of these streamers. Ok so\nthat white line there shows you like an",
+    "start": 859.5,
+    "duration": 6.59
+  },
+  {
+    "text": "example of where they were sampling data\nand they found some pretty strange",
+    "start": 866.09,
+    "duration": 3.97
+  },
+  {
+    "text": "results. Here's here's some of their data,\nthey were using line width, the width of",
+    "start": 870.06,
+    "duration": 5.21
+  },
+  {
+    "text": "the spectral lines as a measure of\ntemperature. What they found unexpectedly",
+    "start": 875.27,
+    "duration": 5.48
+  },
+  {
+    "text": "was that it depends upon what element\nyou're looking at and so all of these",
+    "start": 880.75,
+    "duration": 5.56
+  },
+  {
+    "text": "upper plot points here these are all\nfrom oxygen atoms inside the streamer",
+    "start": 886.31,
+    "duration": 6.72
+  },
+  {
+    "text": "and as you move away from the Sun those\noxygen atoms get hotter and hotter and",
+    "start": 893.03,
+    "duration": 5.99
+  },
+  {
+    "text": "hotter okay, these down here are all using\nthe same method, looking at line width as a",
+    "start": 899.02,
+    "duration": 7.47
+  },
+  {
+    "text": "measure of temperature but for hydrogen.\nHydrogen is a hundred times colder, this",
+    "start": 906.49,
+    "duration": 6.74
+  },
+  {
+    "text": "is a logarithmic plot. A hundred times\ncolder and it gets cooler as you move",
+    "start": 913.23,
+    "duration": 5.2
+  },
+  {
+    "text": "away from the Sun. So, needless to say, there are\nunexpected results, and it's not at all",
+    "start": 918.43,
+    "duration": 5.19
+  },
+  {
+    "text": "clear what this, why this would come\nabout. It also makes me wonder if we",
+    "start": 923.62,
+    "duration": 7.18
+  },
+  {
+    "text": "really can make such simple correlations\nbetween line width and temperature. Cause one",
+    "start": 930.8,
+    "duration": 5.37
+  },
+  {
+    "text": "person would say well clearly your\noxygen is hotter than your hydrogen.",
+    "start": 936.17,
+    "duration": 4.42
+  },
+  {
+    "text": "Someone else might say well, you know what,\nmaybe we don't really understand the",
+    "start": 940.59,
+    "duration": 4.43
+  },
+  {
+    "text": "connection between line width and\ntemperature. I would be one of those",
+    "start": 945.02,
+    "duration": 5.13
+  },
+  {
+    "text": "people. It gets even better,",
+    "start": 950.15,
+    "duration": 1.71
+  },
+  {
+    "text": "now they're gonna look at\nthat temperature profile as you cut",
+    "start": 951.86,
+    "duration": 13.78
+  },
+  {
+    "text": "across a single-streamer ok, so that line\nthere shows slice perpendicular to the",
+    "start": 965.64,
+    "duration": 7.56
+  },
+  {
+    "text": "streamer we're gonna look at the data\nacross that, look at that oxygen and",
+    "start": 973.2,
+    "duration": 3.329
+  },
+  {
+    "text": "hydrogens again. So here's a plot of\nthe intensity as you cut across the",
+    "start": 976.529,
+    "duration": 5.651
+  },
+  {
+    "text": "streamer and that makes sense, it's,\nthere's more intensity coming out of the",
+    "start": 982.18,
+    "duration": 4.339
+  },
+  {
+    "text": "streamer in the middle, right. Quiet,\nthen it gets intense than it's quiet",
+    "start": 986.519,
+    "duration": 4.171
+  },
+  {
+    "text": "again. Now let's look at what happens if\nyou look at the temperature of oxygen as",
+    "start": 990.69,
+    "duration": 4.82
+  },
+  {
+    "text": "we cut across. Well it is hotter outside\nthe streamer, then it cools down in the",
+    "start": 995.51,
+    "duration": 6.13
+  },
+  {
+    "text": "streamer, and then it gets hot again,\nright. Look at hydrogen, just the opposite.",
+    "start": 1001.64,
+    "duration": 5.79
+  },
+  {
+    "text": "It's cooler outside the streamer, the\ntemperature goes up as you get inside",
+    "start": 1007.43,
+    "duration": 3.659
+  },
+  {
+    "text": "the streamer and then it's cold again as\nyou go on the other side. So these were",
+    "start": 1011.089,
+    "duration": 3.551
+  },
+  {
+    "text": "extremely strange results. Now I think\nthis is a, could be as a consequence of",
+    "start": 1014.64,
+    "duration": 6.92
+  },
+  {
+    "text": "electrical activity on the Sun but again\nwe have to design experiments that can",
+    "start": 1021.56,
+    "duration": 4.889
+  },
+  {
+    "text": "verify this. This is one particularly beautiful\ndischarge. So whether or not these",
+    "start": 1026.449,
+    "duration": 7.76
+  },
+  {
+    "text": "discharge structures that we see, whether\nor not they correspond directly to",
+    "start": 1034.209,
+    "duration": 4.37
+  },
+  {
+    "text": "photosphere granules, whether they\ncorrespond directly to coronal streamers",
+    "start": 1038.579,
+    "duration": 4.641
+  },
+  {
+    "text": "ok, all this is yet to be established but\nthe approach, again to emphasize, the",
+    "start": 1043.22,
+    "duration": 7.089
+  },
+  {
+    "text": "approach of SAFIRE is that we need to\nmimic the types of measurements that are",
+    "start": 1050.309,
+    "duration": 4.62
+  },
+  {
+    "text": "done",
+    "start": 1054.929,
+    "duration": 0.75
+  },
+  {
+    "text": "of the Sun, OK. So we would use our fiber\noptics to look inside of these",
+    "start": 1055.679,
+    "duration": 8.38
+  },
+  {
+    "text": "structures here, the same way that the\npeople in Catania used the STO data and",
+    "start": 1064.059,
+    "duration": 7.801
+  },
+  {
+    "text": "we'll see if we have measurements that\ncorrespond.",
+    "start": 1071.86,
+    "duration": 3.0
+  },
+  {
+    "text": "Now we have the added benefit of having\nadditional instruments, like for example",
+    "start": 1078.45,
+    "duration": 4.07
+  },
+  {
+    "text": "a Langmuir probe which can measure the\nplasma characteristics, voltage potential,",
+    "start": 1082.52,
+    "duration": 5.72
+  },
+  {
+    "text": "ion, electron temperatures, so we can take\nthat data then and then suggest back",
+    "start": 1088.24,
+    "duration": 6.29
+  },
+  {
+    "text": "to other people",
+    "start": 1094.53,
+    "duration": 1.42
+  },
+  {
+    "text": "new ways they can look at the existing\nsatellite data. So now given all this is",
+    "start": 1095.95,
+    "duration": 7.04
+  },
+  {
+    "text": "how we gonna go to Monty and I say, Monty\nwe need to be able to move the fiber",
+    "start": 1102.99,
+    "duration": 4.78
+  },
+  {
+    "text": "optics across the anode tufts, the anode tufts\nare about two millimeters across, I need",
+    "start": 1107.77,
+    "duration": 5.1
+  },
+  {
+    "text": "a positional fiber-optic that's down to\nabout point O five millimeters, can you",
+    "start": 1112.87,
+    "duration": 4.5
+  },
+  {
+    "text": "do that for me? And as you heard earlier\ntoday he comes back eventually and goes, yes I",
+    "start": 1117.37,
+    "duration": 3.48
+  },
+  {
+    "text": "can do that for you can do it. And I\nasked Lowell, I say Lowell, do you think, can",
+    "start": 1120.85,
+    "duration": 3.85
+  },
+  {
+    "text": "you look at the Boltzmann equation for\nour situation,",
+    "start": 1124.7,
+    "duration": 3.78
+  },
+  {
+    "text": "see what you think that the temperature,\nthe measured temperature of oxygen and",
+    "start": 1128.48,
+    "duration": 4.13
+  },
+  {
+    "text": "hydrogen would be, do you think we\nwould see the same sorts of things that",
+    "start": 1132.61,
+    "duration": 4.27
+  },
+  {
+    "text": "we see around the Sun? OK, under the\nnext item in the list, that was the first",
+    "start": 1136.88,
+    "duration": 8.05
+  },
+  {
+    "text": "ionization potential anomaly. The first\nionization potential anomaly is a well",
+    "start": 1144.93,
+    "duration": 6.02
+  },
+  {
+    "text": "known but unexplained observation of our\nSun and other stars and an analogy will",
+    "start": 1150.95,
+    "duration": 5.33
+  },
+  {
+    "text": "help a lot here so imagine that you are\nthrowing a very big party,",
+    "start": 1156.28,
+    "duration": 4.44
+  },
+  {
+    "text": "hundreds of guests there from all walks\nof life some rich, some poor, some men,",
+    "start": 1161.25,
+    "duration": 4.57
+  },
+  {
+    "text": "some women, married, not married and\nimagine that you notice a pattern, you",
+    "start": 1165.82,
+    "duration": 4.11
+  },
+  {
+    "text": "notice that there's always the same set\nof 12 people that go outside and talk",
+    "start": 1169.93,
+    "duration": 4.7
+  },
+  {
+    "text": "outside for a while. And amongst those 12\nit's a mix, some are young, some are old,",
+    "start": 1174.63,
+    "duration": 5.7
+  },
+  {
+    "text": "some are married or not and they're not\nsmoking, so what would they have in",
+    "start": 1180.33,
+    "duration": 3.66
+  },
+  {
+    "text": "common,",
+    "start": 1183.99,
+    "duration": 0.55
+  },
+  {
+    "text": "why do they go outside? So when you're\nthinking that over, now we can switch to",
+    "start": 1184.54,
+    "duration": 5.92
+  },
+  {
+    "text": "the astronomical case, something happens\nvery similar to this party example, to",
+    "start": 1190.46,
+    "duration": 5.4
+  },
+  {
+    "text": "the chemical elements on the Sun and a\ncertain group of elements are much more",
+    "start": 1195.86,
+    "duration": 5.23
+  },
+  {
+    "text": "likely to be found outside the Sun than\non the surface of the Sun. So for example",
+    "start": 1201.09,
+    "duration": 6.12
+  },
+  {
+    "text": "on the photosphere we see about 35\nmagnesium",
+    "start": 1207.21,
+    "duration": 4.329
+  },
+  {
+    "text": "atoms for every million hydrogen atoms\nbut in the solar wind leaving the Sun",
+    "start": 1211.539,
+    "duration": 6.96
+  },
+  {
+    "text": "there are four times that many magnesium\natoms. Another example, we see about forty",
+    "start": 1218.499,
+    "duration": 6.52
+  },
+  {
+    "text": "seven iron atoms for every million\nhydrogen atoms on the photosphere but a",
+    "start": 1225.019,
+    "duration": 5.451
+  },
+  {
+    "text": "solar flare might have a hundred times\nthat much iron and for helium it's",
+    "start": 1230.47,
+    "duration": 6.72
+  },
+  {
+    "text": "exactly the opposite,",
+    "start": 1237.19,
+    "duration": 1.719
+  },
+  {
+    "text": "there are fewer helium atoms in\nenergetic particle emissions from the",
+    "start": 1238.909,
+    "duration": 4.4
+  },
+  {
+    "text": "Sun than there are in the photosphere so\nwhat makes these special, why do some of",
+    "start": 1243.309,
+    "duration": 5.0
+  },
+  {
+    "text": "them tend to be found outside the Sun,\nwhy do some of the guests tend to go",
+    "start": 1248.309,
+    "duration": 4.23
+  },
+  {
+    "text": "outside the party. So it seems that it\nall comes down to, how easy it is to pull",
+    "start": 1252.539,
+    "duration": 8.2
+  },
+  {
+    "text": "an electron off of that element. Now if\nit's easy to pull an electron off of an",
+    "start": 1260.739,
+    "duration": 5.601
+  },
+  {
+    "text": "element then we find more of that\nelement outside the Sun like in solar",
+    "start": 1266.34,
+    "duration": 5.899
+  },
+  {
+    "text": "flares or the solar wind and physicists\nhave a name for how easy it is to pull",
+    "start": 1272.239,
+    "duration": 4.221
+  },
+  {
+    "text": "an electron off of an atom, it's called the\nfirst ionization potential. So here's a",
+    "start": 1276.46,
+    "duration": 4.939
+  },
+  {
+    "text": "plot of various chemical elements, the\nhorizontal axis, horizontal axis here is",
+    "start": 1281.399,
+    "duration": 7.75
+  },
+  {
+    "text": "how easy it is to pull off an electron,\nyou can see over here on the left, about",
+    "start": 1289.149,
+    "duration": 4.86
+  },
+  {
+    "text": "four volts is what you need to pull off\nthe first electron off of potassium then",
+    "start": 1294.009,
+    "duration": 6.36
+  },
+  {
+    "text": "there's a progression and when you get\nout to here like neon and helium it's",
+    "start": 1300.369,
+    "duration": 3.77
+  },
+  {
+    "text": "really hard to pull off an electron off of\nthose elements. And the vertical axis",
+    "start": 1304.139,
+    "duration": 9.01
+  },
+  {
+    "text": "here shows is how much more likely it is to\nfind that element outside the",
+    "start": 1313.149,
+    "duration": 3.73
+  },
+  {
+    "text": "photosphere so you can see the elements\non the left, the ones where it's easy to",
+    "start": 1316.879,
+    "duration": 4.67
+  },
+  {
+    "text": "pull an electron off. Those are the ones\nthat you find more abundant in emissions",
+    "start": 1321.549,
+    "duration": 6.45
+  },
+  {
+    "text": "from the Sun and elements on the right\nwith the higher ionization potential are",
+    "start": 1327.999,
+    "duration": 4.331
+  },
+  {
+    "text": "less likely to be found outside the Sun.\nSo going back to our analogy, we found a",
+    "start": 1332.33,
+    "duration": 4.569
+  },
+  {
+    "text": "property that tells us why, might tell us,\nwhy these twelve people keep going",
+    "start": 1336.899,
+    "duration": 5.03
+  },
+  {
+    "text": "outside the party.",
+    "start": 1341.929,
+    "duration": 0.821
+  },
+  {
+    "text": "Now why this one property of first\nionization potential should lead to all",
+    "start": 1342.75,
+    "duration": 9.23
+  },
+  {
+    "text": "of this is not at all clear from the\nstandard model of the Sun where you only",
+    "start": 1351.98,
+    "duration": 4.79
+  },
+  {
+    "text": "get to use hot gases and magnetic fields.\nIt is explainable from the electric Sun",
+    "start": 1356.77,
+    "duration": 5.69
+  },
+  {
+    "text": "model but the main point is, we need to\ndesign an experiment that will measure",
+    "start": 1362.46,
+    "duration": 4.33
+  },
+  {
+    "text": "it. So like NASA, we would use\nspectroscopy to remotely deduce the",
+    "start": 1366.79,
+    "duration": 7.06
+  },
+  {
+    "text": "abundances of different elements close\nto our anode and like NASA we would use",
+    "start": 1373.85,
+    "duration": 4.71
+  },
+  {
+    "text": "a mass spectrometer away from the anode\nto measure the elements far from the anode.",
+    "start": 1378.56,
+    "duration": 5.53
+  },
+  {
+    "text": "So now I have more requests for\nMonty, Monty can we coat the anode in",
+    "start": 1384.09,
+    "duration": 3.94
+  },
+  {
+    "text": "magnesium, magnesium has a low ionization\npotential then Paul if I give you",
+    "start": 1388.03,
+    "duration": 4.69
+  },
+  {
+    "text": "fiber-optic data and mass spec data what\nother factors do you need that will give",
+    "start": 1392.72,
+    "duration": 4.91
+  },
+  {
+    "text": "us good statistics on the DOE. So I\nhope you can start to see the",
+    "start": 1397.63,
+    "duration": 4.23
+  },
+  {
+    "text": "flexibility of the SAFIRE chamber, that\nwe can ask such a wide variety of",
+    "start": 1401.86,
+    "duration": 4.93
+  },
+  {
+    "text": "questions and actually stand a good\nchance of running experiments to look at",
+    "start": 1406.79,
+    "duration": 4.81
+  },
+  {
+    "text": "them in the laboratory. Next on the list.\nSo sometimes it's important to step back",
+    "start": 1411.6,
+    "duration": 7.43
+  },
+  {
+    "text": "and look at the forest, not the trees and\nas many have heard here, one of the",
+    "start": 1419.03,
+    "duration": 6.39
+  },
+  {
+    "text": "outstanding features of the Sun is its\ndiscrete layers and their very very",
+    "start": 1425.42,
+    "duration": 4.42
+  },
+  {
+    "text": "different properties. So here's a\ncombination, on the right there the",
+    "start": 1429.84,
+    "duration": 8.41
+  },
+  {
+    "text": "photosphere, we see a lot of that, then\njust just a hair's breadth hair's",
+    "start": 1438.25,
+    "duration": 5.82
+  },
+  {
+    "text": "breadth above the photosphere is the\nchromosphere which if you look at it",
+    "start": 1444.07,
+    "duration": 4.5
+  },
+  {
+    "text": "closely looks a lot like a fur coat with\nclouds floating over it, very strange. And",
+    "start": 1448.57,
+    "duration": 8.97
+  },
+  {
+    "text": "then you move out a little bit more, the\nlower Corona, that's where you see all this",
+    "start": 1457.54,
+    "duration": 3.48
+  },
+  {
+    "text": "incredible loops and x-ray emissions,",
+    "start": 1461.02,
+    "duration": 3.31
+  },
+  {
+    "text": "lot of dynamic activity, pulling back further\nyou see the upper Corona which again has",
+    "start": 1464.33,
+    "duration": 5.38
+  },
+  {
+    "text": "a very different properties, these wispy hairy\nfilaments that extend out for long long",
+    "start": 1469.71,
+    "duration": 4.849
+  },
+  {
+    "text": "distances. Then there seems to be a long\nstretch where things don't change that",
+    "start": 1474.559,
+    "duration": 9.801
+  },
+  {
+    "text": "much in the solar atmosphere, until you\nget to the heliosphere boundary and",
+    "start": 1484.36,
+    "duration": 4.939
+  },
+  {
+    "text": "right now the Voyager satellites, as we\nknow, are out there going through some",
+    "start": 1489.299,
+    "duration": 4.081
+  },
+  {
+    "text": "boundary of some kind what it is, is now\nbeen thrown up into question, this is an",
+    "start": 1493.38,
+    "duration": 5.61
+  },
+  {
+    "text": "artist's rendering of the Voyager\nsatellites out of the boundary of the",
+    "start": 1498.99,
+    "duration": 5.52
+  },
+  {
+    "text": "solar system. Now these probes are\nreturning very interesting data, on the",
+    "start": 1504.51,
+    "duration": 5.82
+  },
+  {
+    "text": "left it shows a plot of Voyager measuring\nthe electron density as it's passing",
+    "start": 1510.33,
+    "duration": 5.8
+  },
+  {
+    "text": "through the boundary, on the right is a\nplot of the density of positive ions as it's",
+    "start": 1516.13,
+    "duration": 6.409
+  },
+  {
+    "text": "going through this boundary and the main\npoint is these rapid fluctuations that",
+    "start": 1522.539,
+    "duration": 6.051
+  },
+  {
+    "text": "we see at the boundary. Are these rapid\nfluctuations due to bow shocks and",
+    "start": 1528.59,
+    "duration": 9.049
+  },
+  {
+    "text": "supersonic flows or we all know that\nthese rapid fluctuations are actually",
+    "start": 1537.639,
+    "duration": 6.231
+  },
+  {
+    "text": "a quite natural consequence of electrical\ndouble layers. So the Voyager data is",
+    "start": 1543.87,
+    "duration": 8.23
+  },
+  {
+    "text": "taking place far out from the Sun right,\nso that's not us measuring close to our",
+    "start": 1552.1,
+    "duration": 4.449
+  },
+  {
+    "text": "anode that's measuring us far away\nfrom the anode in our chamber. So again I",
+    "start": 1556.549,
+    "duration": 6.24
+  },
+  {
+    "text": "could ask Monty, I need a Langmuir probe,\nit also has to have sub millimeter",
+    "start": 1562.789,
+    "duration": 4.671
+  },
+  {
+    "text": "resolution cause I need to see the\nfluctuations in our chamber and compare",
+    "start": 1567.46,
+    "duration": 4.05
+  },
+  {
+    "text": "them to the data we're getting back from\nVoyager and see if we see something",
+    "start": 1571.51,
+    "duration": 2.889
+  },
+  {
+    "text": "similar.",
+    "start": 1574.399,
+    "duration": 3.0
+  },
+  {
+    "text": "Next item",
+    "start": 1579.389,
+    "duration": 1.011
+  },
+  {
+    "text": "It's coronal, I call it the coronal jolt. So,\nCME-s, coronal mass ejections, are",
+    "start": 1580.4,
+    "duration": 8.8
+  },
+  {
+    "text": "spectacular emissions off the surface of\nthe Sun, they're sometimes associated with",
+    "start": 1589.2,
+    "duration": 4.89
+  },
+  {
+    "text": "the solar flare, a solar flare is an\neruption that's very localized on the",
+    "start": 1594.09,
+    "duration": 4.48
+  },
+  {
+    "text": "Sun, very small spatial location solar\nflare and one of the main unanswered",
+    "start": 1598.57,
+    "duration": 6.45
+  },
+  {
+    "text": "questions about CME-s is still, are they\nlarge-scale events or are they",
+    "start": 1605.02,
+    "duration": 7.18
+  },
+  {
+    "text": "small-scale events.",
+    "start": 1612.2,
+    "duration": 2.11
+  },
+  {
+    "text": "Now the small scale camp says CMA-s start\nfrom a solar flare, they start from a",
+    "start": 1614.31,
+    "duration": 7.02
+  },
+  {
+    "text": "very small part on the Sun which then\nblasts out and fills space around the",
+    "start": 1621.33,
+    "duration": 5.58
+  },
+  {
+    "text": "Sun and goes away and that's how you get\nyour CME and they have some data that",
+    "start": 1626.91,
+    "duration": 3.78
+  },
+  {
+    "text": "supports their model. There is another\ncamp that says no CME's are actually a",
+    "start": 1630.69,
+    "duration": 4.2
+  },
+  {
+    "text": "large-scale event that the eruption that\nwe see is taking place over such a large",
+    "start": 1634.89,
+    "duration": 5.27
+  },
+  {
+    "text": "area there is no way that a single point\non the Sun can lead to all that and this",
+    "start": 1640.16,
+    "duration": 5.91
+  },
+  {
+    "text": "camp also has data to support their\ntheory. So now we're gonna look at, so this",
+    "start": 1646.07,
+    "duration": 9.78
+  },
+  {
+    "text": "is the Sun in UV extreme UV and I want\nyou to look at the lower right side of",
+    "start": 1655.85,
+    "duration": 10.66
+  },
+  {
+    "text": "it.",
+    "start": 1666.51,
+    "duration": 0.65
+  },
+  {
+    "text": "Pulse,",
+    "start": 1667.16,
+    "duration": 2.97
+  },
+  {
+    "text": "pulse, pulse can you see how that, the\nouter atmosphere, can I draw on this, the",
+    "start": 1670.13,
+    "duration": 8.59
+  },
+  {
+    "text": "outer, we're looking here primarily",
+    "start": 1678.72,
+    "duration": 2.27
+  },
+  {
+    "text": "you'll see it here, the outer atmosphere\nof the Sun and I want you to look for",
+    "start": 1680.99,
+    "duration": 6.44
+  },
+  {
+    "text": "pulse down pulse down.. So it, that may look\nlike not much going on but that is",
+    "start": 1688.19,
+    "duration": 8.76
+  },
+  {
+    "text": "billions of cubic miles of plasma that\nis behaving all as a single unit over",
+    "start": 1696.95,
+    "duration": 7.73
+  },
+  {
+    "text": "about 40 minutes so that's actually a\nvery big unified action from the Sun,",
+    "start": 1704.68,
+    "duration": 6.44
+  },
+  {
+    "text": "the coronal mass ejection is taking\nplace on the far side of the Sun here, so",
+    "start": 1711.12,
+    "duration": 4.74
+  },
+  {
+    "text": "we don't see the coronal mass ejection.\nWe only see from the back side, we see",
+    "start": 1715.86,
+    "duration": 4.75
+  },
+  {
+    "text": "the whole atmosphere of the Sun pulsing\nlike that. So do we see something like",
+    "start": 1720.61,
+    "duration": 11.96
+  },
+  {
+    "text": "this in SAFIRE, and yes we do and\nprobably you've seen this a couple times",
+    "start": 1732.57,
+    "duration": 5.48
+  },
+  {
+    "text": "over this weekend,",
+    "start": 1738.05,
+    "duration": 3.55
+  },
+  {
+    "text": "this is our anode and then periodically\nthere's a buildup of energy close to the",
+    "start": 1741.6,
+    "duration": 6.31
+  },
+  {
+    "text": "anode, then it will release explosively\nand then the anode is notably dimmer",
+    "start": 1747.91,
+    "duration": 7.91
+  },
+  {
+    "text": "afterwards ok, here's a little video\nwhich you saw already but it doesn't hurt to",
+    "start": 1755.82,
+    "duration": 4.74
+  },
+  {
+    "text": "see it again,",
+    "start": 1760.56,
+    "duration": 3.08
+  },
+  {
+    "text": "buildup,",
+    "start": 1763.64,
+    "duration": 3.01
+  },
+  {
+    "text": "release and then dimmer.",
+    "start": 1766.65,
+    "duration": 3.07
+  },
+  {
+    "text": "So once again the commissioning phase of\nSAFIRE exceeded our expectations, not",
+    "start": 1775.81,
+    "duration": 7.59
+  },
+  {
+    "text": "only can we resolve high-speed plasma\ndischarges from the anode but we already",
+    "start": 1783.4,
+    "duration": 4.68
+  },
+  {
+    "text": "have data indicating a direct\ncorrelation with existing NASA data. And",
+    "start": 1788.08,
+    "duration": 7.01
+  },
+  {
+    "text": "lastly, comets. As many people in EU\ncommunity have said, there are many aspects",
+    "start": 1795.09,
+    "duration": 7.4
+  },
+  {
+    "text": "about comets that only make sense if\nthe electric Sun model is true. Here is a",
+    "start": 1802.49,
+    "duration": 6.35
+  },
+  {
+    "text": "couple of photos of 67 P, so in\nconjunction with Franklin Anariba",
+    "start": 1808.84,
+    "duration": 7.09
+  },
+  {
+    "text": "SAFIRE group working out some very\nspecific experiments to examine the",
+    "start": 1815.93,
+    "duration": 5.37
+  },
+  {
+    "text": "electric comet hypothesis. You saw this\nlittle while ago. This is one of the ways",
+    "start": 1821.3,
+    "duration": 5.09
+  },
+  {
+    "text": "we're gonna examine it is to place different\nmaterials, possible materials on the end",
+    "start": 1826.39,
+    "duration": 6.42
+  },
+  {
+    "text": "of our probe and then send those\nmaterials in various orbits around the",
+    "start": 1832.81,
+    "duration": 9.13
+  },
+  {
+    "text": "anode. So that blue line is tracing out\nthe orbit, just an example, sample orbit",
+    "start": 1841.94,
+    "duration": 6.66
+  },
+  {
+    "text": "that we could send something on inside\nthe chamber. This is one of the materials",
+    "start": 1848.6,
+    "duration": 6.34
+  },
+  {
+    "text": "we're going to start with, more of this is\nagain from Franklin's suggestions of type",
+    "start": 1854.94,
+    "duration": 3.79
+  },
+  {
+    "text": "of material to start with and so for\nexample, one set of experiments we could",
+    "start": 1858.73,
+    "duration": 6.14
+  },
+  {
+    "text": "run, see on the left there, I have a\ncolumn for what's the cometary feature",
+    "start": 1864.87,
+    "duration": 6.28
+  },
+  {
+    "text": "that we are mimicking and in this case\nit's certain materials that we know are",
+    "start": 1871.15,
+    "duration": 3.63
+  },
+  {
+    "text": "on comets, of course there's a lot of\ndisagreement about how much of the",
+    "start": 1874.78,
+    "duration": 3.26
+  },
+  {
+    "text": "materials are on comets, whether comets\nare ice, whether comets are primarily",
+    "start": 1878.04,
+    "duration": 3.21
+  },
+  {
+    "text": "rocky but on the left camp column there\nyou see various rocky elements that we'll",
+    "start": 1881.25,
+    "duration": 4.36
+  },
+  {
+    "text": "start with. And in the middle, it's kinda what\nwhat's the SAFIRE example",
+    "start": 1885.61,
+    "duration": 4.91
+  },
+  {
+    "text": "of that, well it's it's a piece of rock,\nlike you can see there in the photograph,",
+    "start": 1890.52,
+    "duration": 4.2
+  },
+  {
+    "text": "and then what will what kind of\nmeasurements will we make that will",
+    "start": 1894.72,
+    "duration": 2.85
+  },
+  {
+    "text": "mimic existing measurements of outer\nspace. And so for example, and there's a",
+    "start": 1897.57,
+    "duration": 5.53
+  },
+  {
+    "text": "lot of detail to this if you saw Franklin's\ntalk,",
+    "start": 1903.1,
+    "duration": 2.97
+  },
+  {
+    "text": "he'd predict to see the certain\ngases, certain organic compounds coming",
+    "start": 1906.07,
+    "duration": 5.17
+  },
+  {
+    "text": "out of this, and in particular, you know, if we\nsee a increase concentration of water in",
+    "start": 1911.24,
+    "duration": 7.2
+  },
+  {
+    "text": "our chamber, as we're zipping this rock\naround, then we know it's from",
+    "start": 1918.44,
+    "duration": 3.73
+  },
+  {
+    "text": "electrochemistry and not from a dirty\nsnowball. So that would be an example of",
+    "start": 1922.17,
+    "duration": 4.4
+  },
+  {
+    "text": "how we could mimic existing data with a\ndifferent model. Dustification. I think he",
+    "start": 1926.57,
+    "duration": 13.57
+  },
+  {
+    "text": "made up that word. Dustification of the\ncomet nucleus is also something we can",
+    "start": 1940.14,
+    "duration": 4.25
+  },
+  {
+    "text": "look at. Here's a picture of 67 P so the\nfact that 67 P was rocky is not a",
+    "start": 1944.39,
+    "duration": 6.64
+  },
+  {
+    "text": "surprise to EU theorists but the presence\nof dust, large amounts of dust, not so",
+    "start": 1951.03,
+    "duration": 6.74
+  },
+  {
+    "text": "obvious. So if 67 P was blasted off of\nMars, yes there would be a lot of dust",
+    "start": 1957.77,
+    "duration": 5.23
+  },
+  {
+    "text": "created right, but it's so small the\ncomet, would it really attract all of",
+    "start": 1963.0,
+    "duration": 5.83
+  },
+  {
+    "text": "that just back to itself, you know, I\ndon't think so.",
+    "start": 1968.83,
+    "duration": 3.24
+  },
+  {
+    "text": "So how would we explain something like\nthis where not only do we have a lot of",
+    "start": 1972.07,
+    "duration": 5.31
+  },
+  {
+    "text": "dust, these lanes of dust throughout the\ncomet, but if you blow that up it",
+    "start": 1977.38,
+    "duration": 4.9
+  },
+  {
+    "text": "actually looks like it's been a dust\nlandslide ok, so this begs the question,",
+    "start": 1982.28,
+    "duration": 5.56
+  },
+  {
+    "text": "maybe dust is being continuously created\non the comet, OK. So this is another thing",
+    "start": 1987.84,
+    "duration": 7.77
+  },
+  {
+    "text": "we can do, we can, over the course of time,\nlook for the type of dust if any that's",
+    "start": 1995.61,
+    "duration": 5.22
+  },
+  {
+    "text": "created. Franklin Anariba thinks\nthat the electric discharge will break",
+    "start": 2000.83,
+    "duration": 3.81
+  },
+  {
+    "text": "down the larger silicates structures\ninto smaller silicat dust but this",
+    "start": 2004.64,
+    "duration": 4.38
+  },
+  {
+    "text": "remains to be seen through an experiment.\nAnd hopefully the folks at ESA will",
+    "start": 2009.02,
+    "duration": 4.84
+  },
+  {
+    "text": "publish some data about 67 P's dust\ncomposition.",
+    "start": 2013.86,
+    "duration": 3.58
+  },
+  {
+    "text": "Another example of how we can look at\nour situation to examine comets, we're",
+    "start": 2022.39,
+    "duration": 3.69
+  },
+  {
+    "text": "going to look at all the properties\naround our little comets, electron",
+    "start": 2026.08,
+    "duration": 2.62
+  },
+  {
+    "text": "density, the temperature, elemental\nanalysis and so will you see here this",
+    "start": 2028.7,
+    "duration": 5.42
+  },
+  {
+    "text": "sketch on the, on the right here, this is\nan analysis of the comet Hale-Bopp,",
+    "start": 2034.12,
+    "duration": 6.72
+  },
+  {
+    "text": "it was the Swan telescope in 1979 I think 97,\nreturned some UV images of Hale-Bopp and then",
+    "start": 2041.94,
+    "duration": 8.34
+  },
+  {
+    "text": "if you use a certain reasonable\nassumptions about the nature of the coma",
+    "start": 2050.28,
+    "duration": 4.48
+  },
+  {
+    "text": "around the comet and you compare your\nobserved UV emissions to your model you",
+    "start": 2054.76,
+    "duration": 6.899
+  },
+  {
+    "text": "get this, these interesting set of\nplots for the temperature. As you move",
+    "start": 2061.659,
+    "duration": 5.111
+  },
+  {
+    "text": "away from the comets, so here",
+    "start": 2066.77,
+    "duration": 2.05
+  },
+  {
+    "text": "according to this model,\nthe temperature should drop as you move",
+    "start": 2068.82,
+    "duration": 3.609
+  },
+  {
+    "text": "away from Hale-Bopp and then go up and\nthen drop and go up etcetera.",
+    "start": 2072.429,
+    "duration": 4.25
+  },
+  {
+    "text": "Now this is very reminiscent already of\nmeasurements that we are collecting",
+    "start": 2076.679,
+    "duration": 4.72
+  },
+  {
+    "text": "inside the SAFIRE chamber, electrical\ndouble layers have a lot of these kind",
+    "start": 2081.399,
+    "duration": 4.581
+  },
+  {
+    "text": "of oscillatory",
+    "start": 2085.98,
+    "duration": 2.07
+  },
+  {
+    "text": "qualities to them where something is,\nlike electron density, will go up and",
+    "start": 2088.05,
+    "duration": 5.39
+  },
+  {
+    "text": "down up and down as you move away.",
+    "start": 2093.44,
+    "duration": 3.0
+  },
+  {
+    "text": "And of course, the filaments. Here's a wonderful gallery,\nI love this, of its different filaments",
+    "start": 2104.08,
+    "duration": 7.52
+  },
+  {
+    "text": "around 67P and I realized as I was\nlistening to my introduction that we",
+    "start": 2111.6,
+    "duration": 5.88
+  },
+  {
+    "text": "should, we should carve our little rocks\ninto the same shapes as various comets",
+    "start": 2117.48,
+    "duration": 5.89
+  },
+  {
+    "text": "and then see if we can replicate simply\nthe morphology of the discharge around",
+    "start": 2123.37,
+    "duration": 5.68
+  },
+  {
+    "text": "the comets.",
+    "start": 2129.05,
+    "duration": 2.17
+  },
+  {
+    "text": "Alright so that's the end of my\npresentation, thank you very much for",
+    "start": 2131.22,
+    "duration": 3.79
+  },
+  {
+    "text": "sticking with me, couple of meaty ideas out\nthere, but it gives you a taste I think,",
+    "start": 2135.01,
+    "duration": 6.21
+  },
+  {
+    "text": "of the SAFIRE chamber and how\nversatile it is. The number of different",
+    "start": 2141.22,
+    "duration": 5.47
+  },
+  {
+    "text": "questions we can ask and actually take\nactual measurements to verify, so thank",
+    "start": 2146.69,
+    "duration": 4.76
+  },
+  {
+    "text": "you very much and wanna explicitly thank the\npeople who are making this experiment",
+    "start": 2151.45,
+    "duration": 3.56
+  },
+  {
+    "text": "possible.",
+    "start": 2155.01,
+    "duration": 0.56
+  }
+]

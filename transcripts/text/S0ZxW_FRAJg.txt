@@ -1,0 +1,742 @@
+[
+  {
+    "text": "You've just entered the\ntheater of an alien sky.",
+    "start": 12.56,
+    "duration": 3.44
+  },
+  {
+    "text": "If the words and images seem strange\nto you, there's a reason for this.",
+    "start": 16.737,
+    "duration": 4.564
+  },
+  {
+    "text": "Our world was once a\nvastly different place.",
+    "start": 21.326,
+    "duration": 3.971
+  },
+  {
+    "text": "To experience this won't hurt you\nand there is nothing to fear.",
+    "start": 25.322,
+    "duration": 5.337
+  },
+  {
+    "text": "Sekhmet: The Ranging Eye of Ra",
+    "start": 34.68,
+    "duration": 5.674
+  },
+  {
+    "text": "Throughout this video series we've claimed\nthat the origins of world mythology,",
+    "start": 42.629,
+    "duration": 5.078
+  },
+  {
+    "text": "ancient symbolism\nand magical rites",
+    "start": 47.732,
+    "duration": 2.808
+  },
+  {
+    "text": "lie in human memories of\nextraordinary natural events.",
+    "start": 50.565,
+    "duration": 4.418
+  },
+  {
+    "text": "It was from the emerging\ncommemorative practices",
+    "start": 55.008,
+    "duration": 3.581
+  },
+  {
+    "text": "that the ancient civilizations\nthemselves arose.",
+    "start": 58.614,
+    "duration": 3.682
+  },
+  {
+    "text": "And so we've repeatedly emphasized\nthat the reconstruction offered here",
+    "start": 62.69,
+    "duration": 4.629
+  },
+  {
+    "text": "is far too specific to allow us to make\nup stories or to make up explanations.",
+    "start": 67.344,
+    "duration": 5.768
+  },
+  {
+    "text": "The evidence will either\nbe there in unique detail",
+    "start": 73.137,
+    "duration": 3.316
+  },
+  {
+    "text": "that the reconstruction demands\nor it will not be there.",
+    "start": 76.478,
+    "duration": 3.562
+  },
+  {
+    "text": "Our explanation lies in a congregation\nof planets gathered close to the earth",
+    "start": 88.61,
+    "duration": 5.437
+  },
+  {
+    "text": "long before the rise of\nobservational astronomy.",
+    "start": 94.072,
+    "duration": 3.226
+  },
+  {
+    "text": "And that means before any of these\nbodies were even named as planets.",
+    "start": 97.323,
+    "duration": 5.75
+  },
+  {
+    "text": "We've called this celestial\nformation The Polar Configuration",
+    "start": 104.596,
+    "duration": 3.993
+  },
+  {
+    "text": "and we've identified many of its varying\nforms as electric discharge activity",
+    "start": 108.614,
+    "duration": 5.47
+  },
+  {
+    "text": "between these bodies.",
+    "start": 114.109,
+    "duration": 2.023
+  },
+  {
+    "text": "Extraordinary events in the sky provoked\nan explosion of human imagination,",
+    "start": 116.157,
+    "duration": 5.121
+  },
+  {
+    "text": "now discoverable as story content\nwithin every ancient culture.",
+    "start": 121.303,
+    "duration": 5.297
+  },
+  {
+    "text": "In the course of these presentations it\nshould also become clear that no archetype,",
+    "start": 127.156,
+    "duration": 4.593
+  },
+  {
+    "text": "no global theme could ever be explained\nby natural events in our own time.",
+    "start": 131.774,
+    "duration": 5.04
+  },
+  {
+    "text": "Things occurring today provide\nno referent whatsoever.",
+    "start": 136.839,
+    "duration": 4.247
+  },
+  {
+    "text": "The impact of this human experience requires\nthat we follow the instincts of a detective,",
+    "start": 144.586,
+    "duration": 5.578
+  },
+  {
+    "text": "noting things too\nconsistently out of place.",
+    "start": 150.189,
+    "duration": 3.263
+  },
+  {
+    "text": "And we must never forget that\nthe more unusual the detail,",
+    "start": 153.728,
+    "duration": 3.902
+  },
+  {
+    "text": "the more compelling is the\nimprobable convergence of testimony.",
+    "start": 157.655,
+    "duration": 4.286
+  },
+  {
+    "text": "Our claim is that the link\nof the mythic archetypes",
+    "start": 161.966,
+    "duration": 3.541
+  },
+  {
+    "text": "to the evolution of the\npolar configuration",
+    "start": 165.532,
+    "duration": 2.885
+  },
+  {
+    "text": "requires that we uncover the concrete\nreference beneath the imaginative symbols.",
+    "start": 168.442,
+    "duration": 6.847
+  },
+  {
+    "text": "Amongst the cross-cultural\npoints of agreement",
+    "start": 175.598,
+    "duration": 2.885
+  },
+  {
+    "text": "is the repeated identity of the\nmother goddess as the planet Venus.",
+    "start": 178.508,
+    "duration": 4.809
+  },
+  {
+    "text": "This identity is not\njust worth following,",
+    "start": 183.342,
+    "duration": 2.928
+  },
+  {
+    "text": "it is a window to a\nmind-altering human experience,",
+    "start": 186.295,
+    "duration": 3.611
+  },
+  {
+    "text": "a story that reverberated through\nhistory for thousands of years.",
+    "start": 189.931,
+    "duration": 4.805
+  },
+  {
+    "text": "The paradoxical identity of the\nmother goddess with life itself,",
+    "start": 195.747,
+    "duration": 4.774
+  },
+  {
+    "text": "her role as the great protectress,\nbut also as a world destroyer,",
+    "start": 200.546,
+    "duration": 4.827
+  },
+  {
+    "text": "can only be explained at the level of\nconcrete origins beneath that symbolism.",
+    "start": 205.398,
+    "duration": 6.013
+  },
+  {
+    "text": "The discharge streamers of Venus and\neffusion of mythic power and glory",
+    "start": 218.92,
+    "duration": 5.487
+  },
+  {
+    "text": "were the animating\nlife of heaven",
+    "start": 224.432,
+    "duration": 2.53
+  },
+  {
+    "text": "seen in mythic terms as the luminous\nheart and soul of the universal power",
+    "start": 226.987,
+    "duration": 4.746
+  },
+  {
+    "text": "we've identified as Saturn.",
+    "start": 231.758,
+    "duration": 1.99
+  },
+  {
+    "text": "But the connection runs in two directions\nsince the discharging sphere of Venus",
+    "start": 234.131,
+    "duration": 5.048
+  },
+  {
+    "text": "was also interpreted as the protective\nshield of the warrior God, named as Mars,",
+    "start": 239.204,
+    "duration": 6.015
+  },
+  {
+    "text": "who occupied the impenetrable spot as if\nprotected from the sky darkening clouds",
+    "start": 245.244,
+    "duration": 5.794
+  },
+  {
+    "text": "or celestial armies of chaos.",
+    "start": 251.063,
+    "duration": 3.09
+  },
+  {
+    "text": "When the heavens fell into disorder, the\nsky itself became a mythic battlefield.",
+    "start": 255.637,
+    "duration": 5.298
+  },
+  {
+    "text": "Swarms of debris, seen as rebelling\nhordes, appeared to overtake the world.",
+    "start": 260.96,
+    "duration": 5.788
+  },
+  {
+    "text": "It was in this context that the most active\nand spectacular form of the goddess emerged,",
+    "start": 266.773,
+    "duration": 5.99
+  },
+  {
+    "text": "affecting every ancient culture's ideas about the\nmeaning of war, conquest and magical defense.",
+    "start": 272.788,
+    "duration": 7.73
+  },
+  {
+    "text": "Star of chaos:\nCalifornia rock art",
+    "start": 280.543,
+    "duration": 1.721
+  },
+  {
+    "text": "But was the goddess a divine weapon\nlaunched against rebelling powers",
+    "start": 283.2,
+    "duration": 4.894
+  },
+  {
+    "text": "or was she herself the provocation,\nthe feared destroyer of cosmic order?",
+    "start": 288.119,
+    "duration": 5.412
+  },
+  {
+    "text": "Human imagination would stand\nin competition for millennia",
+    "start": 293.556,
+    "duration": 4.431
+  },
+  {
+    "text": "but more fundamental than the\ninterpretation was the underlying event",
+    "start": 298.012,
+    "duration": 4.965
+  },
+  {
+    "text": "and our purpose here is to see the events\nthrough the lens of global patterns.",
+    "start": 303.002,
+    "duration": 4.934
+  },
+  {
+    "text": "Ironically, it is the\ncompeting interpretations",
+    "start": 307.961,
+    "duration": 3.446
+  },
+  {
+    "text": "that confirm both the patterns and\nthe events that provoked them.",
+    "start": 311.432,
+    "duration": 4.236
+  },
+  {
+    "text": "Confirmation comes wherever,\nwithout the underlying event,",
+    "start": 315.693,
+    "duration": 4.014
+  },
+  {
+    "text": "the global patterns would not be\nconceivable, not even be possible.",
+    "start": 319.732,
+    "duration": 4.34
+  },
+  {
+    "text": "Egypt: \"The Destruction\nof Mankind\"",
+    "start": 324.935,
+    "duration": 4.665
+  },
+  {
+    "text": "In the presence of the goddess' visible\npower, enemies were scattered.",
+    "start": 330.36,
+    "duration": 4.712
+  },
+  {
+    "text": "Dark clouds of chaos gave way\nto a blast of fire and light.",
+    "start": 335.097,
+    "duration": 4.95
+  },
+  {
+    "text": "The rebelling hordes of heaven\nfled from its onslaught.",
+    "start": 340.072,
+    "duration": 3.688
+  },
+  {
+    "text": "One of the most dramatic illustrations\nof this archetypal theme",
+    "start": 343.785,
+    "duration": 3.845
+  },
+  {
+    "text": "is the Egyptian legend called\nThe Destruction of Mankind.",
+    "start": 347.655,
+    "duration": 3.924
+  },
+  {
+    "text": "The myth says that the\nprimeval sun god Ra",
+    "start": 352.318,
+    "duration": 3.051
+  },
+  {
+    "text": "had grown aged and perhaps\na bit weary of humanity.",
+    "start": 355.394,
+    "duration": 3.44
+  },
+  {
+    "text": "It recounts how, in that remote\ntime, the children of Ra",
+    "start": 358.859,
+    "duration": 4.258
+  },
+  {
+    "text": "had rebelled against the god.",
+    "start": 363.142,
+    "duration": 2.334
+  },
+  {
+    "text": "In response to the rebellion,\nRa sent out his powerful eye",
+    "start": 365.501,
+    "duration": 4.212
+  },
+  {
+    "text": "to take vengeance on a\ndisrespectful world.",
+    "start": 369.738,
+    "duration": 3.126
+  },
+  {
+    "text": "The agent of the conflagration that\nfollowed was the goddess Sekhmet.",
+    "start": 373.152,
+    "duration": 4.4
+  },
+  {
+    "text": "Not just a goddess, Sekhmet\nwas the far-famed eye of Ra,",
+    "start": 378.029,
+    "duration": 4.742
+  },
+  {
+    "text": "the Utchat, the giver of life\nand the great protectress,",
+    "start": 382.796,
+    "duration": 3.781
+  },
+  {
+    "text": "the very heart and soul of\nthe primeval sun himself.",
+    "start": 386.602,
+    "duration": 3.651
+  },
+  {
+    "text": "Egypt: The Eye of Ra (Utchat)\nas the goddess Sekhmet",
+    "start": 390.285,
+    "duration": 1.681
+  },
+  {
+    "text": "Enigmatically, Sekhmet also possessed\nboth a leonine and a serpentine form,",
+    "start": 391.991,
+    "duration": 5.592
+  },
+  {
+    "text": "a remarkable parallel to the\nSumerian Venus goddess Inanna,",
+    "start": 397.608,
+    "duration": 4.421
+  },
+  {
+    "text": "who displayed the same forms in her\nrole as the terrifying radiance",
+    "start": 402.054,
+    "duration": 4.363
+  },
+  {
+    "text": "in the center of the god An, the\noverarching ruler of the sky.",
+    "start": 406.442,
+    "duration": 4.871
+  },
+  {
+    "text": "This is no coincidence,",
+    "start": 411.338,
+    "duration": 1.818
+  },
+  {
+    "text": "these mythic forms reveal no\nrelationship whatsoever to today's sky",
+    "start": 413.181,
+    "duration": 5.155
+  },
+  {
+    "text": "but they are not\naccidental, not random",
+    "start": 418.361,
+    "duration": 2.881
+  },
+  {
+    "text": "and they direct our attention to\nthe archetype of the great comet,",
+    "start": 421.267,
+    "duration": 4.054
+  },
+  {
+    "text": "the human experience from which the\nfemale comet archetype descended.",
+    "start": 425.346,
+    "duration": 4.792
+  },
+  {
+    "text": "The comet as the eye, heart\nand soul of a great king.",
+    "start": 430.998,
+    "duration": 4.111
+  },
+  {
+    "text": "Comet as a star with disordered\nhair or leonine mane.",
+    "start": 435.507,
+    "duration": 4.588
+  },
+  {
+    "text": "Comet as a cosmic serpent",
+    "start": 440.12,
+    "duration": 2.978
+  },
+  {
+    "text": "and the comet as a sign or an\nagent of world destruction.",
+    "start": 443.123,
+    "duration": 5.307
+  },
+  {
+    "text": "And so we find a remarkable\njuxtaposition of comet attributes",
+    "start": 449.51,
+    "duration": 4.476
+  },
+  {
+    "text": "in the titles of the\nEgyptian goddess Sekhmet,",
+    "start": 454.011,
+    "duration": 3.069
+  },
+  {
+    "text": "called the Beautiful Eye\nof the primeval sun.",
+    "start": 457.105,
+    "duration": 3.664
+  },
+  {
+    "text": "She was the Great Flame or Flaming\nOne, the Destroyer by Fire,",
+    "start": 460.794,
+    "duration": 5.228
+  },
+  {
+    "text": "the Destroyer of Rebellions,",
+    "start": 466.268,
+    "duration": 2.646
+  },
+  {
+    "text": "the Rulerof Serpents",
+    "start": 468.939,
+    "duration": 2.674
+  },
+  {
+    "text": "and the Ruler of Lions.",
+    "start": 471.638,
+    "duration": 3.298
+  },
+  {
+    "text": "Strangely, all of the well documented\ngoddesses in Egypt were like Sekhmet,",
+    "start": 475.27,
+    "duration": 5.308
+  },
+  {
+    "text": "called the eye of Ra,",
+    "start": 480.603,
+    "duration": 1.694
+  },
+  {
+    "text": "suggesting an underlying identity entirely\noutside natural experience today.",
+    "start": 482.322,
+    "duration": 5.999
+  },
+  {
+    "text": "And no goddess figure\nin ancient Egypt",
+    "start": 488.346,
+    "duration": 2.897
+  },
+  {
+    "text": "tells this story of the sun god's\neye more vividly than Sekhmet",
+    "start": 491.268,
+    "duration": 4.831
+  },
+  {
+    "text": "whose very name derives\nfrom the root Khem",
+    "start": 496.124,
+    "duration": 3.149
+  },
+  {
+    "text": "signifying a blast of glory or majesty, the\nessential character of the eye-goddess.",
+    "start": 499.298,
+    "duration": 6.411
+  },
+  {
+    "text": "Sekhmet entered the conflagration\ndisplaying a trail of fire.",
+    "start": 506.327,
+    "duration": 4.555
+  },
+  {
+    "text": "The texts say, \"Behold\nme, men and gods!",
+    "start": 510.907,
+    "duration": 2.947
+  },
+  {
+    "text": "I have come into being as the\nLady of Glorious Appearings....",
+    "start": 513.879,
+    "duration": 4.108
+  },
+  {
+    "text": "my flame is behind me.",
+    "start": 518.012,
+    "duration": 2.375
+  },
+  {
+    "text": "It is a flame which drives\naway on its account.",
+    "start": 521.653,
+    "duration": 3.157
+  },
+  {
+    "text": "The tip of its flame crosses\nthe land from the sky...:",
+    "start": 524.835,
+    "duration": 3.554
+  },
+  {
+    "text": "No one at all can approach her, the\nstreams behind her are flames of fire.\"",
+    "start": 528.414,
+    "duration": 6.563
+  },
+  {
+    "text": "In fact, the Egyptian traditions\nconstitute a remarkable parallel",
+    "start": 536.284,
+    "duration": 4.357
+  },
+  {
+    "text": "to Sumerian descriptions of a\nworld in fear and trembling",
+    "start": 540.666,
+    "duration": 3.913
+  },
+  {
+    "text": "at the tempestuous radiance of\nInanna, identified as Venus.",
+    "start": 544.604,
+    "duration": 4.923
+  },
+  {
+    "text": "Sumerian Inanna (Venus) with her\nfoot on her alter ego, the lion",
+    "start": 549.561,
+    "duration": 3.578
+  },
+  {
+    "text": "Precisely the same way, Sekhmet appeared\nas a flame of fire in her tempest,",
+    "start": 553.163,
+    "duration": 5.888
+  },
+  {
+    "text": "instilling terror on Earth and\nthreatening to destroy the world.",
+    "start": 559.076,
+    "duration": 4.86
+  },
+  {
+    "text": "\"I am mistress of the flame\",\nthe goddess announces,...",
+    "start": 564.822,
+    "duration": 3.712
+  },
+  {
+    "text": "\"The fear of me is in their hearts and\nthe awe of me is in their hearts.",
+    "start": 568.559,
+    "duration": 5.42
+  },
+  {
+    "text": "The flame makes\nhis enemies fall.",
+    "start": 574.004,
+    "duration": 2.413
+  },
+  {
+    "text": "It is a flame moving before the wind\nof the sky to the end of the earth.\"",
+    "start": 576.442,
+    "duration": 5.668
+  },
+  {
+    "text": "Surely it is no coincidence\nthat the great flame in heaven,",
+    "start": 584.055,
+    "duration": 3.992
+  },
+  {
+    "text": "taking the form of\na fiery serpent,",
+    "start": 588.072,
+    "duration": 2.482
+  },
+  {
+    "text": "found its symbolic place on\nthe crown of kings in Egypt,",
+    "start": 590.579,
+    "duration": 4.488
+  },
+  {
+    "text": "exactly as we've seen\nin ancient Mesopotamia.",
+    "start": 595.092,
+    "duration": 4.174
+  },
+  {
+    "text": "It was the headgear of the king\nthat reflected the protective role",
+    "start": 599.896,
+    "duration": 4.494
+  },
+  {
+    "text": "of the explosive majesty\nmost dramatically.",
+    "start": 604.415,
+    "duration": 3.386
+  },
+  {
+    "text": "In later times, when Egyptian\narmies confronted foreign nations,",
+    "start": 609.405,
+    "duration": 4.496
+  },
+  {
+    "text": "these peoples were seen as\nbarbarians outside the gate,",
+    "start": 613.926,
+    "duration": 3.685
+  },
+  {
+    "text": "they were the terrestrial counterparts\nof the primeval chaos themes",
+    "start": 617.636,
+    "duration": 4.658
+  },
+  {
+    "text": "and so the king invariably called\nupon the shining majesty of Ra,",
+    "start": 622.319,
+    "duration": 4.772
+  },
+  {
+    "text": "remembering how the eye-\ngoddess, in her rage,",
+    "start": 627.116,
+    "duration": 3.23
+  },
+  {
+    "text": "had destroyed rebelling powers\nin the sky in former times.",
+    "start": 630.371,
+    "duration": 5.504
+  },
+  {
+    "text": "In considering this theme, the critical\nsteps will require comparative analysis",
+    "start": 636.708,
+    "duration": 5.542
+  },
+  {
+    "text": "of an incontrovertible\nhistorical pattern.",
+    "start": 642.275,
+    "duration": 3.916
+  },
+  {
+    "text": "The ancient story of the goddess\nsays the explosive glory of heaven",
+    "start": 647.027,
+    "duration": 4.631
+  },
+  {
+    "text": "was the story of\nthe great comet.",
+    "start": 651.683,
+    "duration": 2.808
+  },
+  {
+    "text": "In this experience we find the\norigins of the astronomical language",
+    "start": 654.516,
+    "duration": 4.478
+  },
+  {
+    "text": "and symbolism of comets around the\nworld, there is no other explanation.",
+    "start": 659.019,
+    "duration": 6.709
+  },
+  {
+    "text": "And so too, the attributes\nof the celestial glory",
+    "start": 667.061,
+    "duration": 3.762
+  },
+  {
+    "text": "are the defining attributes of the\nplanet Venus as mother goddess.",
+    "start": 670.848,
+    "duration": 4.565
+  },
+  {
+    "text": "And as we continue our series,\nthis truth can be verified",
+    "start": 675.438,
+    "duration": 3.94
+  },
+  {
+    "text": "in the astronomical lexicon of every\nwell-documented culture in ancient times.",
+    "start": 679.403,
+    "duration": 5.91
+  },
+  {
+    "text": "In their essential details, the\nglobal story of the great comet",
+    "start": 685.338,
+    "duration": 4.602
+  },
+  {
+    "text": "is the story of\nthe planet Venus.",
+    "start": 689.965,
+    "duration": 3.454
+  },
+  {
+    "text": "Always look for the\nunderlying form!",
+    "start": 697.199,
+    "duration": 3.149
+  }
+]

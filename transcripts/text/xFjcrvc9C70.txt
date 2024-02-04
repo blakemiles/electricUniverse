@@ -1,0 +1,952 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe,",
+    "start": 7.149,
+    "duration": 2.848
+  },
+  {
+    "text": "brought to you by The\nThunderbolts Project™",
+    "start": 10.022,
+    "duration": 2.404
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 12.451,
+    "duration": 3.5
+  },
+  {
+    "text": "In part 1 of this presentation, Thunderbolts\ncolleague Andrew Hall began exploring",
+    "start": 17.464,
+    "duration": 5.285
+  },
+  {
+    "text": "some of the best case studies of\nelectrical scarring on planet Earth.",
+    "start": 22.782,
+    "duration": 4.118
+  },
+  {
+    "text": "The features don't seem to fit with\nany standard geological process",
+    "start": 26.925,
+    "duration": 4.42
+  },
+  {
+    "text": "but as Hall explained, they do\nshow the expected characteristics",
+    "start": 31.37,
+    "duration": 3.773
+  },
+  {
+    "text": "produced by electrical\ndischarges.",
+    "start": 35.168,
+    "duration": 2.356
+  },
+  {
+    "text": "Today, Hall continues his presentation\nwith a focus on the stunning geology",
+    "start": 37.549,
+    "duration": 4.704
+  },
+  {
+    "text": "in the American Southwest.",
+    "start": 42.278,
+    "duration": 2.014
+  },
+  {
+    "text": "In part one of\n'Lightning-Scarred Earth',",
+    "start": 44.824,
+    "duration": 2.501
+  },
+  {
+    "text": "Shiprock was presented as an example\nof a pinnacle created by lightning.",
+    "start": 47.35,
+    "duration": 3.927
+  },
+  {
+    "text": "Fulgarites are created when lightning\nstrikes and current penetrates the ground,",
+    "start": 51.302,
+    "duration": 5.107
+  },
+  {
+    "text": "leaving a hollow tube of\nglassy, fused material behind.",
+    "start": 56.434,
+    "duration": 3.975
+  },
+  {
+    "text": "Current from the lightning vaporizes\nand extracts material in its path,",
+    "start": 60.434,
+    "duration": 4.638
+  },
+  {
+    "text": "while its heat vitrifies the surrounding\nsoil, leaving behind glassy tubes.",
+    "start": 65.097,
+    "duration": 5.367
+  },
+  {
+    "text": "Based on its features, it's proposed here\nthat Shiprock is a standing fulgarite,",
+    "start": 70.489,
+    "duration": 5.496
+  },
+  {
+    "text": "created by lightning so powerful\nand sustained that the material",
+    "start": 76.01,
+    "duration": 3.903
+  },
+  {
+    "text": "began to recombine in the current\nas it was pulled from the ground,",
+    "start": 79.938,
+    "duration": 4.382
+  },
+  {
+    "text": "leaving behind a pinnacle of fused\nmaterial instead of a hollow tube.",
+    "start": 84.345,
+    "duration": 4.803
+  },
+  {
+    "text": "Once material recombines, it's no longer charged\nand attracted to the lightning channel,",
+    "start": 89.173,
+    "duration": 5.456
+  },
+  {
+    "text": "so is left behind, its ionic makeup\naltered by the current and heat.",
+    "start": 94.654,
+    "duration": 5.329
+  },
+  {
+    "text": "The morphology of Shiprock\ndisplays this very well",
+    "start": 100.008,
+    "duration": 3.643
+  },
+  {
+    "text": "with columns of fused rocks\nsurrounding an inner core of minette,",
+    "start": 103.676,
+    "duration": 4.508
+  },
+  {
+    "text": "ionically altered material pulled from\nthe ground by the flow of current.",
+    "start": 108.209,
+    "duration": 4.189
+  },
+  {
+    "text": "Surrounding the pinnacle are minette\ndikes radiating away in a star pattern.",
+    "start": 112.399,
+    "duration": 5.262
+  },
+  {
+    "text": "Minette is high in potassium\nand low in silica content.",
+    "start": 117.686,
+    "duration": 3.912
+  },
+  {
+    "text": "It contains high volumes\nof orthoclase and biotite.",
+    "start": 121.623,
+    "duration": 3.871
+  },
+  {
+    "text": "Both are minerals with high metal content,\nsuch as potassium, iron, and sodium.",
+    "start": 125.519,
+    "duration": 5.65
+  },
+  {
+    "text": "Silica dioxide will readily\nexchange oxygen with metals,",
+    "start": 131.194,
+    "duration": 3.898
+  },
+  {
+    "text": "such as those found in the\northoclase and biotite",
+    "start": 135.117,
+    "duration": 3.521
+  },
+  {
+    "text": "when sufficient heat is applied.",
+    "start": 138.663,
+    "duration": 2.004
+  },
+  {
+    "text": "The prevalence of potassium and\nother metals crystallized in Minette",
+    "start": 140.692,
+    "duration": 4.056
+  },
+  {
+    "text": "and its under-\nsaturation of silica",
+    "start": 144.773,
+    "duration": 2.704
+  },
+  {
+    "text": "is evidence of the reduction\ntaking place as it was formed.",
+    "start": 147.502,
+    "duration": 4.285
+  },
+  {
+    "text": "This suggests that the lightning\nforming it was positive lightning,",
+    "start": 151.812,
+    "duration": 3.719
+  },
+  {
+    "text": "which is the type of\npowerful lightning seen striking",
+    "start": 155.556,
+    "duration": 2.966
+  },
+  {
+    "text": "from the stratospheric anvil\nclouds in thunderstorms.",
+    "start": 158.547,
+    "duration": 3.101
+  },
+  {
+    "text": "Electrons and negative\nions in the ground",
+    "start": 161.673,
+    "duration": 3.006
+  },
+  {
+    "text": "pulled out by the positively\ncharged lightning",
+    "start": 164.704,
+    "duration": 2.705
+  },
+  {
+    "text": "left behind a concentration of\npositively charged material",
+    "start": 167.434,
+    "duration": 3.527
+  },
+  {
+    "text": "which was not attracted\nand drawn away.",
+    "start": 170.986,
+    "duration": 2.344
+  },
+  {
+    "text": "The dikes and inner core of the pinnacle\nshow the path of the current",
+    "start": 173.355,
+    "duration": 3.791
+  },
+  {
+    "text": "being drawn to the\nlightning discharge.",
+    "start": 177.171,
+    "duration": 2.474
+  },
+  {
+    "text": "Following the lightning\nstrike that formed the pinnacle,",
+    "start": 179.67,
+    "duration": 2.948
+  },
+  {
+    "text": "the area was left with\na net positive charge,",
+    "start": 182.643,
+    "duration": 3.293
+  },
+  {
+    "text": "which attracted a secondary\nground discharge, or arc blast",
+    "start": 185.961,
+    "duration": 4.539
+  },
+  {
+    "text": "that emanated from a\ndifferent discharge process.",
+    "start": 190.525,
+    "duration": 3.31
+  },
+  {
+    "text": "This secondary discharge will\nbe explored more in the future,",
+    "start": 193.86,
+    "duration": 4.757
+  },
+  {
+    "text": "but it's worth mentioning now",
+    "start": 198.642,
+    "duration": 1.809
+  },
+  {
+    "text": "because it left a magnificent\nLichtenberg pattern across the ground,",
+    "start": 200.476,
+    "duration": 4.166
+  },
+  {
+    "text": "unique to the area immediately\nsurrounding Shiprock.",
+    "start": 204.667,
+    "duration": 3.809
+  },
+  {
+    "text": "The next series of images show the evolution\nin the magnitude of this type of formation.",
+    "start": 208.501,
+    "duration": 5.856
+  },
+  {
+    "text": "These are all examples from the Four\nCorners region in Northern Arizona.",
+    "start": 214.382,
+    "duration": 5.137
+  },
+  {
+    "text": "First, when lightning similar in magnitude\nto what we see today strikes the ground,",
+    "start": 219.544,
+    "duration": 5.205
+  },
+  {
+    "text": "it sweeps surrounding\nsurface sand to it,",
+    "start": 224.774,
+    "duration": 2.831
+  },
+  {
+    "text": "drawing it to the lightning channel\nand creating a shallow crater.",
+    "start": 227.63,
+    "duration": 3.798
+  },
+  {
+    "text": "Examples of this were\nshown in part one,",
+    "start": 231.453,
+    "duration": 3.214
+  },
+  {
+    "text": "where lightning created small\ncraters with a pile of sand",
+    "start": 234.692,
+    "duration": 3.597
+  },
+  {
+    "text": "left behind in a small cone.",
+    "start": 238.314,
+    "duration": 2.385
+  },
+  {
+    "text": "Again, these are not anthills,",
+    "start": 240.724,
+    "duration": 2.674
+  },
+  {
+    "text": "although they could easily be mistaken\nfor them on cursory examination.",
+    "start": 243.423,
+    "duration": 4.436
+  },
+  {
+    "text": "There are no ants, no\nopening in the mound,",
+    "start": 247.884,
+    "duration": 2.685
+  },
+  {
+    "text": "and it's dusted over the top\nwith sand fused into pebbles.",
+    "start": 250.594,
+    "duration": 3.838
+  },
+  {
+    "text": "The pebbles rest in a thin layer over the\ntop, like sprinkles on an ice cream cone.",
+    "start": 254.457,
+    "duration": 4.926
+  },
+  {
+    "text": "And beneath it is\npowder-fine sand.",
+    "start": 259.408,
+    "duration": 2.664
+  },
+  {
+    "text": "The top layer was\nformed from sand",
+    "start": 262.097,
+    "duration": 2.499
+  },
+  {
+    "text": "pulled into the lightning channel\nand fused into pebbles by heat,",
+    "start": 264.621,
+    "duration": 3.588
+  },
+  {
+    "text": "then dropped back on top of the mound\nwhen the flame extinguished.",
+    "start": 268.234,
+    "duration": 3.753
+  },
+  {
+    "text": "They bear the same character\nas the Minette material",
+    "start": 272.012,
+    "duration": 3.746
+  },
+  {
+    "text": "in Shiprock's center\nand dike formations.",
+    "start": 275.783,
+    "duration": 2.949
+  },
+  {
+    "text": "All of the mound material and\nsurrounding sand measures high in pH.",
+    "start": 278.757,
+    "duration": 5.554
+  },
+  {
+    "text": "The following images show buttes\nat various stages of growth.",
+    "start": 284.336,
+    "duration": 4.539
+  },
+  {
+    "text": "The first exhibits an\nup-welling of Minette.",
+    "start": 288.9,
+    "duration": 3.879
+  },
+  {
+    "text": "The second and third images show\nthe broken remains of the sheath,",
+    "start": 292.804,
+    "duration": 4.04
+  },
+  {
+    "text": "and the last image\nshows the dark Minette",
+    "start": 296.869,
+    "duration": 2.741
+  },
+  {
+    "text": "partially surrounded by\nthe lighter rock sheath.",
+    "start": 299.635,
+    "duration": 3.47
+  },
+  {
+    "text": "Another type of lightning-formed\nbutte has a different morphology",
+    "start": 303.75,
+    "duration": 4.589
+  },
+  {
+    "text": "that appears to be created by a\nnegative cloud-to-ground lightning--",
+    "start": 308.364,
+    "duration": 3.828
+  },
+  {
+    "text": "the type of lightning that emanates\nfrom the belly of a thunderstorm.",
+    "start": 312.217,
+    "duration": 4.252
+  },
+  {
+    "text": "Because the Earth is generally\na negatively charged body,",
+    "start": 316.494,
+    "duration": 3.147
+  },
+  {
+    "text": "at least in terms\nof ground charge,",
+    "start": 319.666,
+    "duration": 2.06
+  },
+  {
+    "text": "it forms a double layer at the\ninterface with the atmosphere.",
+    "start": 321.751,
+    "duration": 3.929
+  },
+  {
+    "text": "When a thunderstorm forms and\nthe electric field strengthens,",
+    "start": 325.705,
+    "duration": 4.104
+  },
+  {
+    "text": "positively charged ions in the\natmospheric zone of the double layer",
+    "start": 329.81,
+    "duration": 5.091
+  },
+  {
+    "text": "collect above the ground\nbeneath the storm.",
+    "start": 334.926,
+    "duration": 2.665
+  },
+  {
+    "text": "Before negative cloud-to-\nground lightning strikes,",
+    "start": 337.616,
+    "duration": 3.529
+  },
+  {
+    "text": "it pulls this material into\npositive ionic streamers",
+    "start": 341.17,
+    "duration": 3.575
+  },
+  {
+    "text": "that reach up to connect with the\nelectron avalanche produced by the cloud.",
+    "start": 344.77,
+    "duration": 4.037
+  },
+  {
+    "text": "When the streamer and avalanche leader\nconnect, a circuit is completed",
+    "start": 348.832,
+    "duration": 3.784
+  },
+  {
+    "text": "and current discharges\nthrough the channel,",
+    "start": 352.641,
+    "duration": 2.925
+  },
+  {
+    "text": "electrons flowing to ground and\npositive ions flowing up to the clouds.",
+    "start": 355.591,
+    "duration": 4.543
+  },
+  {
+    "text": "The magnetic field created by the current\nwraps tightly around the channel,",
+    "start": 360.159,
+    "duration": 5.245
+  },
+  {
+    "text": "compressing it to a narrow path\nin what is known as a Z-pinch.",
+    "start": 365.429,
+    "duration": 4.499
+  },
+  {
+    "text": "'Z-pinch' has been\ndemonstrated in the lab",
+    "start": 369.953,
+    "duration": 2.504
+  },
+  {
+    "text": "by simply passing current\nthrough an aluminum can,",
+    "start": 372.482,
+    "duration": 3.102
+  },
+  {
+    "text": "with the electrodes connected\nat the top and bottom.",
+    "start": 375.609,
+    "duration": 2.901
+  },
+  {
+    "text": "The resulting pinch crushes the\ncan into an hourglass shape.",
+    "start": 378.535,
+    "duration": 4.899
+  },
+  {
+    "text": "In the huge primordial storms that we\ntheorize occurred in Earth's past,",
+    "start": 383.459,
+    "duration": 5.054
+  },
+  {
+    "text": "such lightning and pinch effects",
+    "start": 388.538,
+    "duration": 2.315
+  },
+  {
+    "text": "resulted in huge amounts of positive ionic\nmaterial being swept to the lightning channel",
+    "start": 390.878,
+    "duration": 5.194
+  },
+  {
+    "text": "with such extreme force it sometimes\ncreated supersonic winds.",
+    "start": 396.097,
+    "duration": 5.044
+  },
+  {
+    "text": "Fulgamites formed by sustained,\ngiant cloud-to-ground arcs",
+    "start": 401.166,
+    "duration": 4.675
+  },
+  {
+    "text": "display the effects of discharging\ncurrent, accumulation of ionic dust,",
+    "start": 405.866,
+    "duration": 5.228
+  },
+  {
+    "text": "Z-pinch, and the supersonic winds\nand shockwaves they produced.",
+    "start": 411.119,
+    "duration": 4.588
+  },
+  {
+    "text": "The images presented show the\nprogression of such an event.",
+    "start": 415.732,
+    "duration": 4.747
+  },
+  {
+    "text": "First, the strike forms a raised platform,\nwith a shallow crater in the center",
+    "start": 420.504,
+    "duration": 5.159
+  },
+  {
+    "text": "where the lightning created\nan electrode spot.",
+    "start": 425.688,
+    "duration": 2.959
+  },
+  {
+    "text": "The rim of the crater is material swept\ninward by ionic winds and fused.",
+    "start": 428.672,
+    "duration": 6.194
+  },
+  {
+    "text": "There is a road cutting through\nthe crater in the first image",
+    "start": 434.891,
+    "duration": 3.963
+  },
+  {
+    "text": "to give some perspective of\nhow large this feature is.",
+    "start": 438.879,
+    "duration": 3.258
+  },
+  {
+    "text": "These images are from Arizona, near Pastora\nMountain in the Four Corners region.",
+    "start": 442.162,
+    "duration": 5.586
+  },
+  {
+    "text": "A more sustained strike begins to accumulate\nneutralizing material on the spot,",
+    "start": 448.313,
+    "duration": 5.54
+  },
+  {
+    "text": "forming a flat-topped\ndome, like a pancake.",
+    "start": 453.878,
+    "duration": 3.162
+  },
+  {
+    "text": "As the material accumulates, the pancake\ngrows to a mesa-type structure,",
+    "start": 457.065,
+    "duration": 5.492
+  },
+  {
+    "text": "held together in a round\nform by the magnetic pinch.",
+    "start": 462.582,
+    "duration": 3.588
+  },
+  {
+    "text": "In the next phase of growth,\nthe mesa grows taller",
+    "start": 466.195,
+    "duration": 4.128
+  },
+  {
+    "text": "and the inflow winds begin\nto reach Mach speeds,",
+    "start": 470.348,
+    "duration": 3.361
+  },
+  {
+    "text": "creating shockwaves that mold the rim\nmaterial into triangular standing waveforms.",
+    "start": 473.734,
+    "duration": 5.474
+  },
+  {
+    "text": "A detailed discussion of this shock wave",
+    "start": 479.209,
+    "duration": 2.844
+  },
+  {
+    "text": "and the triangular buttress\nformations they create",
+    "start": 482.078,
+    "duration": 2.873
+  },
+  {
+    "text": "is presented more fully in\nprevious articles on Arc Blast.",
+    "start": 484.976,
+    "duration": 5.003
+  },
+  {
+    "text": "As neutralized material builds, the\nanode spot the lightning connects with",
+    "start": 489.98,
+    "duration": 5.613
+  },
+  {
+    "text": "is at the top of the\nmesa and rises with it.",
+    "start": 495.618,
+    "duration": 3.407
+  },
+  {
+    "text": "The strength of the pitch\nnarrows the top forming a cone,",
+    "start": 499.05,
+    "duration": 4.224
+  },
+  {
+    "text": "and new regions of windblown, fused\nand shock-shaped buttresses",
+    "start": 503.299,
+    "duration": 4.441
+  },
+  {
+    "text": "form rims outside the older rim.",
+    "start": 507.765,
+    "duration": 2.539
+  },
+  {
+    "text": "The difference between lightning-\nformed pinnacles like Shiprock",
+    "start": 510.329,
+    "duration": 3.797
+  },
+  {
+    "text": "and the broad mountain\nforms shown in these images",
+    "start": 514.151,
+    "duration": 2.845
+  },
+  {
+    "text": "seems to be polarity\nin the lightning.",
+    "start": 517.021,
+    "duration": 2.649
+  },
+  {
+    "text": "This interpretation\nis preliminary,",
+    "start": 519.695,
+    "duration": 2.682
+  },
+  {
+    "text": "but it appears that positive\nlightning burrows into the ground",
+    "start": 522.402,
+    "duration": 3.26
+  },
+  {
+    "text": "to connect with negative ionic\nmatter beneath the surface,",
+    "start": 525.687,
+    "duration": 3.169
+  },
+  {
+    "text": "whereas negative lightning attracts surface\nwinds and dust to it to build a mountain.",
+    "start": 528.881,
+    "duration": 5.087
+  },
+  {
+    "text": "Positive lightning\nraises a narrow pinnacle",
+    "start": 534.484,
+    "duration": 3.231
+  },
+  {
+    "text": "of negatively charged material\nthat boils up from the ground",
+    "start": 537.74,
+    "duration": 3.493
+  },
+  {
+    "text": "with dikes which display the current\npath through the subsurface.",
+    "start": 541.258,
+    "duration": 4.211
+  },
+  {
+    "text": "Not much material is drawn\nto it from the surroundings,",
+    "start": 545.494,
+    "duration": 3.484
+  },
+  {
+    "text": "except for the sheath of\nrock it forms around it.",
+    "start": 549.003,
+    "duration": 3.174
+  },
+  {
+    "text": "Negative lightning connects\nwith pools and streamers",
+    "start": 552.202,
+    "duration": 3.582
+  },
+  {
+    "text": "of positively charged matter at the surface\nand pulls huge amounts of airborne dust",
+    "start": 555.809,
+    "duration": 4.942
+  },
+  {
+    "text": "to create a dome with\nhardened, buttressed rims.",
+    "start": 560.776,
+    "duration": 3.478
+  },
+  {
+    "text": "In both cases, mountains can form around\nthem due to ambient winds and blowing dust.",
+    "start": 564.279,
+    "duration": 5.483
+  },
+  {
+    "text": "Positive arc fulgamites can form\nmonoclines along the dikes",
+    "start": 569.787,
+    "duration": 4.036
+  },
+  {
+    "text": "if ambient, supersonic winds strike\nthem to create a standing wave,",
+    "start": 573.848,
+    "duration": 4.221
+  },
+  {
+    "text": "where dust piles into long, linear\nranges of triangular waveforms.",
+    "start": 578.094,
+    "duration": 5.108
+  },
+  {
+    "text": "The last image of above, taken at Comb\nRidge monocline in northern Arizona,",
+    "start": 583.227,
+    "duration": 5.593
+  },
+  {
+    "text": "shows where fulgamites and dikes\nare exposed in the monocline.",
+    "start": 588.845,
+    "duration": 4.363
+  },
+  {
+    "text": "These protrusions\ncreated a shock wave",
+    "start": 593.233,
+    "duration": 2.81
+  },
+  {
+    "text": "in Mach speed ambient winds that\nformed a linear standing wave,",
+    "start": 596.068,
+    "duration": 4.129
+  },
+  {
+    "text": "against which the monocline was formed\nlike a dune, as blowing dust accumulated.",
+    "start": 600.222,
+    "duration": 5.346
+  },
+  {
+    "text": "There are several monoclines\non the Colorado Plateau",
+    "start": 605.593,
+    "duration": 3.127
+  },
+  {
+    "text": "that exhibit the same\nor similar features.",
+    "start": 608.745,
+    "duration": 2.905
+  },
+  {
+    "text": "Negative arc fulgamites\ncreate their own winds,",
+    "start": 611.675,
+    "duration": 3.525
+  },
+  {
+    "text": "bringing dust to pile against\nthem from all directions,",
+    "start": 615.225,
+    "duration": 3.237
+  },
+  {
+    "text": "and if powerful enough,\nform standing shockwaves",
+    "start": 618.487,
+    "duration": 3.041
+  },
+  {
+    "text": "that generate buttresses in\na ring around the base.",
+    "start": 621.553,
+    "duration": 3.323
+  },
+  {
+    "text": "The circular craters and mesas in\nthe images were formed by lightning",
+    "start": 624.901,
+    "duration": 5.189
+  },
+  {
+    "text": "while the mountain was expanded by\nwind-borne dust accumulating around them.",
+    "start": 630.115,
+    "duration": 4.642
+  },
+  {
+    "text": "There are several examples of mountains with\nthese features in the Four Corners region.",
+    "start": 634.782,
+    "duration": 4.825
+  },
+  {
+    "text": "Mountains are a misunderstood\nfeature of the planet.",
+    "start": 639.632,
+    "duration": 2.728
+  },
+  {
+    "text": "Geological concepts are based on rocks\nforming deep in Earth's crust and being exposed",
+    "start": 642.385,
+    "duration": 4.955
+  },
+  {
+    "text": "by erosion and tectonic motions, entailing\nof course, hundreds of millions of years.",
+    "start": 647.365,
+    "duration": 5.05
+  },
+  {
+    "text": "It's a very complex\nprocess that has not,",
+    "start": 652.44,
+    "duration": 2.841
+  },
+  {
+    "text": "and cannot, be witnessed or\nconfirmed by experiment.",
+    "start": 655.306,
+    "duration": 3.546
+  },
+  {
+    "text": "Mountain formation by wind and electric\ndischarge, however, can be witnessed in nature.",
+    "start": 658.877,
+    "duration": 4.906
+  },
+  {
+    "text": "Sand dunes are a prime example.",
+    "start": 663.808,
+    "duration": 2.688
+  },
+  {
+    "text": "Mountains can also be produced\nin laboratories. So can rock.",
+    "start": 666.521,
+    "duration": 4.409
+  },
+  {
+    "text": "It happens when slag is\nproduced from welding,",
+    "start": 670.955,
+    "duration": 2.827
+  },
+  {
+    "text": "ore and metal processing, or from\nchemical reactions like cement.",
+    "start": 673.807,
+    "duration": 4.355
+  },
+  {
+    "text": "Atomic and molecular bonding\nis an electrical process --",
+    "start": 678.187,
+    "duration": 4.044
+  },
+  {
+    "text": "the exchange and\nsharing of electrons.",
+    "start": 682.256,
+    "duration": 2.414
+  },
+  {
+    "text": "Electricity and wind is a far more\nplausible mechanism for mountain building",
+    "start": 684.695,
+    "duration": 4.757
+  },
+  {
+    "text": "than what is proposed by\nthe consensus theories.",
+    "start": 689.477,
+    "duration": 2.866
+  },
+  {
+    "text": "Especially since the actions\nof wind and lightning",
+    "start": 692.368,
+    "duration": 2.719
+  },
+  {
+    "text": "that formed mountains on the Earth\ncan be seen in any thunderstorm.",
+    "start": 695.112,
+    "duration": 3.685
+  },
+  {
+    "text": "One only needs to extrapolate the\nforces and energies involved",
+    "start": 698.822,
+    "duration": 4.111
+  },
+  {
+    "text": "to what they would have been",
+    "start": 702.958,
+    "duration": 1.53
+  },
+  {
+    "text": "when Earth was in a much larger,\nstronger electrical environment.",
+    "start": 704.513,
+    "duration": 4.675
+  },
+  {
+    "text": "Amplify the electric field of a\nthunderstorm by orders of magnitude,",
+    "start": 709.213,
+    "duration": 3.864
+  },
+  {
+    "text": "and it will produce\nan ionized atmosphere,",
+    "start": 713.102,
+    "duration": 2.844
+  },
+  {
+    "text": "screaming with supersonic winds, ionized\ndust, and incredible discharges of lightning",
+    "start": 715.971,
+    "duration": 5.367
+  },
+  {
+    "text": "that dwarf what we\nexperience today.",
+    "start": 721.363,
+    "duration": 2.189
+  },
+  {
+    "text": "For examples, we need only to\nlook at our neighboring planets.",
+    "start": 723.577,
+    "duration": 4.284
+  },
+  {
+    "text": "These conditions exist on\nJupiter, Saturn and Venus.",
+    "start": 727.886,
+    "duration": 4.58
+  },
+  {
+    "text": "Why would Earth\nbe any different?",
+    "start": 732.491,
+    "duration": 2.515
+  },
+  {
+    "text": "Thank you.",
+    "start": 735.031,
+    "duration": 1.379
+  },
+  {
+    "text": "For continuous updates on Space\nNews from the Electric Universe,",
+    "start": 738.069,
+    "duration": 4.053
+  },
+  {
+    "text": "stay tuned to",
+    "start": 742.147,
+    "duration": 1.15
+  },
+  {
+    "text": "Thunderbolts.info",
+    "start": 743.322,
+    "duration": 1.567
+  }
+]

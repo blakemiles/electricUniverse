@@ -1,0 +1,727 @@
+[
+  {
+    "text": "Good afternoon.",
+    "start": 18.164,
+    "duration": 2.281
+  },
+  {
+    "text": "This is a great conference,",
+    "start": 20.47,
+    "duration": 2.808
+  },
+  {
+    "text": "it takes a huge amount of work and an\neffort to organize an event like this,",
+    "start": 23.303,
+    "duration": 5.794
+  },
+  {
+    "text": "so, to all the organizers,\nthank you very much.",
+    "start": 29.122,
+    "duration": 3.713
+  },
+  {
+    "text": "I'm glad...",
+    "start": 35.456,
+    "duration": 2.15
+  },
+  {
+    "text": "I'm glad to be here today and talk\nto you about the instrumentation,",
+    "start": 43.559,
+    "duration": 5.483
+  },
+  {
+    "text": "data acquisition, data\ntransformation and analysis.",
+    "start": 49.067,
+    "duration": 5.38
+  },
+  {
+    "text": "My job with the SAFIRE team is to not\nonly collect data from the experiment",
+    "start": 56.281,
+    "duration": 5.535
+  },
+  {
+    "text": "but the collect it in such a way",
+    "start": 61.841,
+    "duration": 2.547
+  },
+  {
+    "text": "so that it can be used after\nan experiment has been done",
+    "start": 64.413,
+    "duration": 3.562
+  },
+  {
+    "text": "for our team to more easily see\nrelationships between various events",
+    "start": 68.0,
+    "duration": 4.677
+  },
+  {
+    "text": "that are occurring\nduring the experiment.",
+    "start": 72.702,
+    "duration": 3.76
+  },
+  {
+    "text": "Further to this point is to also be able\nto pull the data from an experiment,",
+    "start": 76.487,
+    "duration": 5.821
+  },
+  {
+    "text": "so we can do detailed analysis\non those relationships.",
+    "start": 82.333,
+    "duration": 4.179
+  },
+  {
+    "text": "In these data and the integrity...",
+    "start": 88.76,
+    "duration": 2.635
+  },
+  {
+    "text": "it is these data and the\nintegrity of these data,",
+    "start": 91.42,
+    "duration": 3.239
+  },
+  {
+    "text": "which is vital to the quality\nof the work that we do.",
+    "start": 94.684,
+    "duration": 3.852
+  },
+  {
+    "text": "But first, I would like to talk to\nyou about what is an experiment,",
+    "start": 100.241,
+    "duration": 6.072
+  },
+  {
+    "text": "how experiments were done in the past\nand how the SAFIRE team does them today.",
+    "start": 108.289,
+    "duration": 8.341
+  },
+  {
+    "text": "An experiment is a procedure to\ntest a concept or hypotheses.",
+    "start": 118.673,
+    "duration": 6.37
+  },
+  {
+    "text": "The reasons why we do\nexperiment is to gain insight",
+    "start": 125.461,
+    "duration": 5.126
+  },
+  {
+    "text": "into what causes are involved\nin an observed effect,",
+    "start": 130.612,
+    "duration": 4.336
+  },
+  {
+    "text": "which may support the hypothesis or\nshow that the hypothesis is false.",
+    "start": 134.973,
+    "duration": 7.488
+  },
+  {
+    "text": "Galileo's hypothesis was that on Earth\nall object fall at the same rate,",
+    "start": 144.792,
+    "duration": 7.635
+  },
+  {
+    "text": "but prior to these most people thought\nthat the heavy ball should drop faster.",
+    "start": 153.006,
+    "duration": 6.349
+  },
+  {
+    "text": "Galileo found that his\nhypothesis was correct,",
+    "start": 163.72,
+    "duration": 4.611
+  },
+  {
+    "text": "but the big question\nbecame, why?",
+    "start": 168.356,
+    "duration": 3.47
+  },
+  {
+    "text": "Why are they dropping\nat the same rate?",
+    "start": 173.715,
+    "duration": 3.809
+  },
+  {
+    "text": "It was not until Sir Isaac Newton\ndefined the law of gravity,",
+    "start": 178.302,
+    "duration": 5.34
+  },
+  {
+    "text": "that scientists started to understand\nwhy the balls fell and the same rate.",
+    "start": 183.667,
+    "duration": 5.773
+  },
+  {
+    "text": "So, as science progresses and\nexperiments become more sophisticated",
+    "start": 192.527,
+    "duration": 6.333
+  },
+  {
+    "text": "the causes of effects become\nmore difficult to determine.",
+    "start": 198.885,
+    "duration": 4.644
+  },
+  {
+    "text": "This also means it is more important to\nconduct a robust or repeatable experiments",
+    "start": 205.083,
+    "duration": 7.142
+  },
+  {
+    "text": "and use measurement devices capable\nof high degree of accuracy.",
+    "start": 212.25,
+    "duration": 5.206
+  },
+  {
+    "text": "It also becomes more challenging\nto clearly show to everyone",
+    "start": 219.225,
+    "duration": 4.603
+  },
+  {
+    "text": "the causes of a\nparticular effect.",
+    "start": 223.853,
+    "duration": 3.315
+  },
+  {
+    "text": "I want to introduce the important\nconcept of time in an experiment",
+    "start": 238.534,
+    "duration": 5.179
+  },
+  {
+    "text": "we start over the beaker of cold water and\nwe are going to heat the water one way",
+    "start": 244.482,
+    "duration": 7.323
+  },
+  {
+    "text": "and then we will hit the\nwater by any another method",
+    "start": 251.83,
+    "duration": 3.652
+  },
+  {
+    "text": "you need to add a stopwatch",
+    "start": 259.149,
+    "duration": 2.611
+  },
+  {
+    "text": "and the thermometer,",
+    "start": 265.752,
+    "duration": 2.264
+  },
+  {
+    "text": "so we can see how long it\ntakes to boil the water.",
+    "start": 269.016,
+    "duration": 3.484
+  },
+  {
+    "text": "Now if you added the heat",
+    "start": 282.11,
+    "duration": 3.0
+  },
+  {
+    "text": "we will watch and document how\nlong it takes the water to boil.",
+    "start": 289.779,
+    "duration": 5.544
+  },
+  {
+    "text": "After approximately 10 minutes,\nthe water comes to full boil.",
+    "start": 297.859,
+    "duration": 5.873
+  },
+  {
+    "text": "But then I ask myself, is there more\neffective and quicker way to hit the water?",
+    "start": 307.653,
+    "duration": 7.788
+  },
+  {
+    "text": "I had the idea that if you could use\nthe afterburner of an American F18",
+    "start": 318.886,
+    "duration": 6.093
+  },
+  {
+    "text": "that might be a more effective\nmethod to heat the water.",
+    "start": 325.004,
+    "duration": 4.59
+  },
+  {
+    "text": "I discovered that,\nin fact I was right.",
+    "start": 334.737,
+    "duration": 3.627
+  },
+  {
+    "text": "It took approximately 0.05 nanoseconds, to\nnot only hit the water, but vaporize it.",
+    "start": 349.296,
+    "duration": 9.311
+  },
+  {
+    "text": "and the beaker with it.",
+    "start": 359.473,
+    "duration": 2.072
+  },
+  {
+    "text": "I suggested to Monte that\nwe should keep the F18,",
+    "start": 363.07,
+    "duration": 3.854
+  },
+  {
+    "text": "but he was mumbling something\nabout budget constraints.",
+    "start": 368.273,
+    "duration": 4.169
+  },
+  {
+    "text": "Now, back in today, when\nscientists work in the laboratory",
+    "start": 378.93,
+    "duration": 4.294
+  },
+  {
+    "text": "they had to document\neverything manually,",
+    "start": 383.249,
+    "duration": 2.863
+  },
+  {
+    "text": "as experiments got more complex",
+    "start": 386.556,
+    "duration": 2.818
+  },
+  {
+    "text": "it required more scientists\nto record and collect data",
+    "start": 389.399,
+    "duration": 4.134
+  },
+  {
+    "text": "they created procedures on\nhow to collect the data.",
+    "start": 394.073,
+    "duration": 4.103
+  },
+  {
+    "text": "Aligning the data to the same time\nline was a challenge in the past",
+    "start": 398.769,
+    "duration": 5.382
+  },
+  {
+    "text": "as it is today.",
+    "start": 404.176,
+    "duration": 1.928
+  },
+  {
+    "text": "Then plott of the data and\nfinally do analysis of the data",
+    "start": 408.893,
+    "duration": 4.395
+  },
+  {
+    "text": "to determine the\ncause of the effects.",
+    "start": 413.313,
+    "duration": 2.79
+  },
+  {
+    "text": "So, as experiments\nbecome more complex",
+    "start": 416.969,
+    "duration": 2.723
+  },
+  {
+    "text": "the necessity of more sophisticated\nmethods of measurement",
+    "start": 419.717,
+    "duration": 3.799
+  },
+  {
+    "text": "become vital to the\nsuccess of the experiment.",
+    "start": 423.541,
+    "duration": 3.823
+  },
+  {
+    "text": "Let us have a look at the\nprogress of the data acquisition",
+    "start": 434.26,
+    "duration": 3.82
+  },
+  {
+    "text": "specifically in this case\ncapturing of what have seen.",
+    "start": 438.105,
+    "duration": 4.832
+  },
+  {
+    "text": "This picture of the Egyptian Sun was most\nlikely creative with a hammer and chisel.",
+    "start": 443.851,
+    "duration": 5.723
+  },
+  {
+    "text": "In the mid 1800's an astronomer\nand physicist Warren de La Rue",
+    "start": 456.92,
+    "duration": 5.633
+  },
+  {
+    "text": "design and built the first cube photograph,\nused to photograph the sun's corona.",
+    "start": 462.578,
+    "duration": 5.965
+  },
+  {
+    "text": "For his time this was a major\nscientific breakthrough,",
+    "start": 477.23,
+    "duration": 3.811
+  },
+  {
+    "text": "since up until this time no known photographs\nof the sun's corona ever existed.",
+    "start": 481.066,
+    "duration": 6.852
+  },
+  {
+    "text": "But as we all know advances in the technology\nof the ions have help humanity in many ways",
+    "start": 499.8,
+    "duration": 6.797
+  },
+  {
+    "text": "and we now have through the hard\nwork of Lockheed Martin and NASA",
+    "start": 506.622,
+    "duration": 4.125
+  },
+  {
+    "text": "the Solar Dynamics Observatory.",
+    "start": 510.772,
+    "duration": 2.769
+  },
+  {
+    "text": "What we are looking at",
+    "start": 519.007,
+    "duration": 2.47
+  },
+  {
+    "text": "is a full disk multi-wavelength Extreme\nUltra Violet image of the Sun,",
+    "start": 521.502,
+    "duration": 5.413
+  },
+  {
+    "text": "taken by SDO on March 30th 2010.",
+    "start": 526.94,
+    "duration": 4.494
+  },
+  {
+    "text": "For scholars trace different\ngas temperatures,",
+    "start": 531.912,
+    "duration": 4.341
+  },
+  {
+    "text": "and these temperatures are\nrepresented in their own images",
+    "start": 541.261,
+    "duration": 4.533
+  },
+  {
+    "text": "as the Olight spectrometer\nreturns this light spectra.",
+    "start": 549.962,
+    "duration": 4.362
+  },
+  {
+    "text": "At the top of this graph we are looking at\nthe SDO broad light spectrum from the Sun.",
+    "start": 555.674,
+    "duration": 6.332
+  },
+  {
+    "text": "Below we are looking at\nthe actual light spectra",
+    "start": 562.887,
+    "duration": 3.476
+  },
+  {
+    "text": "converted to specific\nlight wavelength peaks,",
+    "start": 566.388,
+    "duration": 3.276
+  },
+  {
+    "text": "every element and it's very specific light\nspectral signature, when it is ionized.",
+    "start": 570.1,
+    "duration": 6.002
+  },
+  {
+    "text": "And it is by using optical\nspectroscopy you can tell",
+    "start": 576.578,
+    "duration": 4.263
+  },
+  {
+    "text": "what elements make up\nthe light from the Sun.",
+    "start": 580.866,
+    "duration": 4.009
+  },
+  {
+    "text": "or, in our case, the light\nis coming from SAFIRE",
+    "start": 589.041,
+    "duration": 4.303
+  },
+  {
+    "text": "this is a SAFIRE plasma\ndischarge and the light we get.",
+    "start": 594.1,
+    "duration": 5.117
+  },
+  {
+    "text": "And this is an example of spectral signatures\nwe get back from the optical spectrometer.",
+    "start": 605.131,
+    "duration": 6.318
+  },
+  {
+    "text": "The SAFIRE experiment is based on Monte's\nannounces of the electric Sun model",
+    "start": 616.35,
+    "duration": 5.491
+  },
+  {
+    "text": "of charged plasma affecting the matter\nof a different electrical potential.",
+    "start": 621.866,
+    "duration": 5.302
+  },
+  {
+    "text": "So, we introduce electrical power\nin the form of voltage and current",
+    "start": 628.184,
+    "duration": 4.616
+  },
+  {
+    "text": "than chamber pressure\nand plasma gas types.",
+    "start": 632.825,
+    "duration": 4.132
+  },
+  {
+    "text": "And when these factors are\nintroduced into the experiment,",
+    "start": 639.259,
+    "duration": 4.823
+  },
+  {
+    "text": "then we measure these responses:",
+    "start": 649.583,
+    "duration": 2.667
+  },
+  {
+    "text": "Plasma voltage and current;\nChamber pressure;\nPlasma gas types;",
+    "start": 653.371,
+    "duration": 5.96
+  },
+  {
+    "text": "Light spectra;\nLangmuir probes voltages;\nTemperature;",
+    "start": 659.356,
+    "duration": 6.403
+  },
+  {
+    "text": "Video capture;\nPhotography.",
+    "start": 665.784,
+    "duration": 3.427
+  },
+  {
+    "text": "Here is a picture of\nphase one of SAFIRE",
+    "start": 676.043,
+    "duration": 2.922
+  },
+  {
+    "text": "showing the array of many instruments\nwe are using to acquire data.",
+    "start": 678.99,
+    "duration": 4.486
+  },
+  {
+    "text": "As each instrument\nis acquiring data",
+    "start": 689.027,
+    "duration": 2.871
+  },
+  {
+    "text": "we also recorded video of each\ninstrument computer monitor.",
+    "start": 691.923,
+    "duration": 4.602
+  },
+  {
+    "text": "This is the mass spectroscopy,",
+    "start": 697.025,
+    "duration": 2.755
+  },
+  {
+    "text": "this is a screen of voltage\ncurrent and pressure gauge,",
+    "start": 701.76,
+    "duration": 4.262
+  },
+  {
+    "text": "this is a screen of\nthe light spectra.",
+    "start": 708.815,
+    "duration": 3.141
+  },
+  {
+    "text": "And we also conduct\nsynchronize video recording",
+    "start": 715.662,
+    "duration": 4.135
+  },
+  {
+    "text": "of the changes in the SAFIRE\nchamber in real time,",
+    "start": 719.822,
+    "duration": 3.842
+  },
+  {
+    "text": "this then consolidate all the video\nfeeds into one master video,",
+    "start": 729.312,
+    "duration": 4.428
+  },
+  {
+    "text": "as a video recording\nof each experiment.",
+    "start": 733.765,
+    "duration": 3.565
+  },
+  {
+    "text": "This is the grand tour of the video, it\nhelps our team very effectively recognize",
+    "start": 745.041,
+    "duration": 6.825
+  },
+  {
+    "text": "the points of interest that\nhappened during the experiment.",
+    "start": 751.891,
+    "duration": 4.151
+  },
+  {
+    "text": "Let us investigate how data\nacquisition devices work.",
+    "start": 775.317,
+    "duration": 3.654
+  },
+  {
+    "text": "You have seen some of the results, now let's\ntake a look at the vorish under the root.",
+    "start": 778.996,
+    "duration": 5.743
+  },
+  {
+    "text": "There is an analog-to-digital converter at\nthe heart of each data acquisition device.",
+    "start": 786.683,
+    "duration": 6.764
+  },
+  {
+    "text": "The controller connects the data acquisition\ndevice and collects the digital data.",
+    "start": 796.424,
+    "duration": 5.66
+  },
+  {
+    "text": "The computer communicates\nwith the controller,",
+    "start": 805.291,
+    "duration": 3.025
+  },
+  {
+    "text": "reach the controller's\ndata and stores the data.",
+    "start": 808.341,
+    "duration": 4.359
+  },
+  {
+    "text": "The data acquisition path follows\nfrom the data acquisition device",
+    "start": 815.725,
+    "duration": 4.719
+  },
+  {
+    "text": "through the controller into the\ncomputer where all the data is stored.",
+    "start": 820.469,
+    "duration": 5.551
+  },
+  {
+    "text": "A data transformation engine takes\nall the data from the experiment",
+    "start": 834.394,
+    "duration": 4.843
+  },
+  {
+    "text": "and transforms the data into\ncomprehensive graphical overlays",
+    "start": 839.262,
+    "duration": 4.649
+  },
+  {
+    "text": "and this is to help the SAFIRE\nteam to analyze the data",
+    "start": 844.713,
+    "duration": 4.35
+  },
+  {
+    "text": "looking for causes of the effects\nthe observer of the time.",
+    "start": 849.088,
+    "duration": 4.84
+  },
+  {
+    "text": "Here we have thousands of data\npoints of the plasma current,",
+    "start": 860.912,
+    "duration": 4.724
+  },
+  {
+    "text": "now be overly the voltage,",
+    "start": 866.999,
+    "duration": 3.197
+  },
+  {
+    "text": "and high pressure measurements,",
+    "start": 875.66,
+    "duration": 2.34
+  },
+  {
+    "text": "and high vacuum pressure measurements\nand these are just a few,",
+    "start": 884.459,
+    "duration": 5.019
+  },
+  {
+    "text": "there are thousands and\nthousands of data points.",
+    "start": 889.503,
+    "duration": 3.607
+  },
+  {
+    "text": "But what we see is that in\nthis region, for example,",
+    "start": 893.667,
+    "duration": 7.741
+  },
+  {
+    "text": "after the pressure drop in the chamber, there\nis a huge spike in voltage and current.",
+    "start": 901.433,
+    "duration": 6.301
+  },
+  {
+    "text": "The data transformation\nengine allows us",
+    "start": 915.539,
+    "duration": 3.014
+  },
+  {
+    "text": "to zoom into these regions\nwith extremely high resolution",
+    "start": 918.578,
+    "duration": 4.943
+  },
+  {
+    "text": "and we see that both, the\nvoltage and current,",
+    "start": 931.664,
+    "duration": 3.429
+  },
+  {
+    "text": "are discharging out in\nthis region of the graph.",
+    "start": 935.118,
+    "duration": 4.078
+  },
+  {
+    "text": "What we discovered was quite\nprofound, that during a short time",
+    "start": 944.753,
+    "duration": 4.947
+  },
+  {
+    "text": "SAFIRE had an intense plasma discharge\nthat measured over 2 million watts.",
+    "start": 949.725,
+    "duration": 5.357
+  },
+  {
+    "text": "What is so profound is that we limited\nthe input power to only 1800 watts.",
+    "start": 955.107,
+    "duration": 5.524
+  },
+  {
+    "text": "The transformation engine\nallows us to zoom in",
+    "start": 961.393,
+    "duration": 3.922
+  },
+  {
+    "text": "and examine in extremely high\ndetail these points of interests.",
+    "start": 965.34,
+    "duration": 4.434
+  },
+  {
+    "text": "It is these kind of information\nthat helps us determine",
+    "start": 970.619,
+    "duration": 4.189
+  },
+  {
+    "text": "what factors need to be used\nin the design of experiments",
+    "start": 974.833,
+    "duration": 5.119
+  },
+  {
+    "text": "that Dr. Paul Anderson\nwill present now.",
+    "start": 979.977,
+    "duration": 3.895
+  },
+  {
+    "text": "Thank you.",
+    "start": 987.189,
+    "duration": 1.506
+  },
+  {
+    "text": "Thunderbolts.info",
+    "start": 1017.576,
+    "duration": 3.833
+  }
+]

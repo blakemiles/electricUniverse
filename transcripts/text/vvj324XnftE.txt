@@ -1,0 +1,677 @@
+[
+  {
+    "text": "Welcome to Space News from the Electric\nUniverse,",
+    "start": 8.119,
+    "duration": 2.793
+  },
+  {
+    "text": "brought to you by The\nThunderbolts Project™",
+    "start": 10.937,
+    "duration": 2.34
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 13.302,
+    "duration": 3.272
+  },
+  {
+    "text": "Observers of the spectacular northern\nlights are offering new testimony",
+    "start": 17.167,
+    "duration": 3.894
+  },
+  {
+    "text": "on the amazing sounds produced\nfrom electromagnetic phenomena",
+    "start": 21.086,
+    "duration": 3.423
+  },
+  {
+    "text": "in Earth's upper atmosphere.",
+    "start": 24.534,
+    "duration": 1.983
+  },
+  {
+    "text": "Witnesses in Sweden reported hearing\nsounds similar to so-called",
+    "start": 26.542,
+    "duration": 3.816
+  },
+  {
+    "text": "'laser blasts' from\nthe Star Wars films.",
+    "start": 30.383,
+    "duration": 2.83
+  },
+  {
+    "text": "A photographer and tour guide named Oliver\nWright was able to capture audio of the sound",
+    "start": 33.238,
+    "duration": 4.683
+  },
+  {
+    "text": "which seemed to grow louder as witnesses\napproached nearby power lines.",
+    "start": 37.946,
+    "duration": 4.229
+  },
+  {
+    "text": "A link to the audio may be found in\nthe description box of this video.",
+    "start": 42.2,
+    "duration": 3.762
+  },
+  {
+    "text": "This is hardly the first instance\nthat witnesses have reported",
+    "start": 45.987,
+    "duration": 3.416
+  },
+  {
+    "text": "peculiar sounds associated\nwith intense auroral displays.",
+    "start": 49.428,
+    "duration": 4.243
+  },
+  {
+    "text": "In fact dating back centuries,",
+    "start": 53.696,
+    "duration": 2.087
+  },
+  {
+    "text": "long before the existence of\nearthly transmission lines,",
+    "start": 55.808,
+    "duration": 3.272
+  },
+  {
+    "text": "witnesses from the Arctic reported hearing\nhissing, crackling or clapping sounds.",
+    "start": 59.105,
+    "duration": 5.337
+  },
+  {
+    "text": "Recently, the scientific\nmainstream has begun to recognize",
+    "start": 64.467,
+    "duration": 3.196
+  },
+  {
+    "text": "that the audible phenomenon\nis actually real.",
+    "start": 67.688,
+    "duration": 3.044
+  },
+  {
+    "text": "In 2012 a team of scientists in Finland\ndiscovered a pattern of audible clapping sounds",
+    "start": 70.757,
+    "duration": 5.629
+  },
+  {
+    "text": "that appeared at times of\nhigh auroral activity.",
+    "start": 76.411,
+    "duration": 3.113
+  },
+  {
+    "text": "The lead investigator of the study\nsuggests that the phenomenon is:",
+    "start": 79.549,
+    "duration": 4.071
+  },
+  {
+    "text": "\"likely caused by the same\nenergetic particles from the Sun",
+    "start": 83.645,
+    "duration": 3.527
+  },
+  {
+    "text": "that create the Northern\nLights far away in the sky.",
+    "start": 87.197,
+    "duration": 3.173
+  },
+  {
+    "text": "These particles, or the geomagnetic\ndisturbance produced by them,",
+    "start": 90.395,
+    "duration": 3.732
+  },
+  {
+    "text": "seem to create sound much\ncloser to the ground.\"",
+    "start": 94.152,
+    "duration": 3.187
+  },
+  {
+    "text": "A space dot com report\non the study states:",
+    "start": 97.364,
+    "duration": 3.312
+  },
+  {
+    "text": "\"Scientists still aren't sure exactly\nhow the auroral sounds are created.",
+    "start": 100.701,
+    "duration": 4.295
+  },
+  {
+    "text": "They can be quite variable,",
+    "start": 105.021,
+    "duration": 1.957
+  },
+  {
+    "text": "ranging from claps and crackles to\nmuffled bangs and sputtering sounds.",
+    "start": 107.003,
+    "duration": 4.757
+  },
+  {
+    "text": "Because of this sonic diversity, several\ndifferent mechanisms might be at work...\"",
+    "start": 111.785,
+    "duration": 5.039
+  },
+  {
+    "text": "The sounds produced by auroral activities\nseem similar to the sounds reported",
+    "start": 116.849,
+    "duration": 4.362
+  },
+  {
+    "text": "over many centuries, associated\nwith spectacular meteors.",
+    "start": 121.236,
+    "duration": 3.923
+  },
+  {
+    "text": "Consider the case of the meteor explosion\nover Peekskill, New York in 1992.",
+    "start": 125.159,
+    "duration": 5.312
+  },
+  {
+    "text": "Witnesses reported electro static\ncrackling sounds for several seconds,",
+    "start": 130.496,
+    "duration": 4.293
+  },
+  {
+    "text": "both before and after the\nmeteor's fragmentation.\nWitnesses reported electro static\ncrackling sounds for several seconds,",
+    "start": 134.789,
+    "duration": 0.001
+  },
+  {
+    "text": "both before and after the\nmeteor's fragmentation.",
+    "start": 134.79,
+    "duration": 3.258
+  },
+  {
+    "text": "In the Thunderbolts Picture Of the\nDay article \"The Peekskill Meteor\",",
+    "start": 138.073,
+    "duration": 3.6
+  },
+  {
+    "text": "author Michael Armstrong\nasks the question:",
+    "start": 141.698,
+    "duration": 2.572
+  },
+  {
+    "text": "\"Since the fragmentation took place at\nan altitude of about 41.7 km in a vacuum",
+    "start": 144.295,
+    "duration": 5.757
+  },
+  {
+    "text": "where there is not enough\natmosphere to carry sound,",
+    "start": 150.077,
+    "duration": 3.035
+  },
+  {
+    "text": "how did this electrophonic noise\npropagate for over 25 miles?\"",
+    "start": 153.137,
+    "duration": 5.22
+  },
+  {
+    "text": "In 1992, the scientific paper \"Electrophonic\nsounds from large meteor fireballs\"",
+    "start": 158.382,
+    "duration": 5.99
+  },
+  {
+    "text": "attempts to explain\nthe phenomenon.",
+    "start": 164.397,
+    "duration": 2.077
+  },
+  {
+    "text": "The abstract of the paper reads:",
+    "start": 166.499,
+    "duration": 2.435
+  },
+  {
+    "text": "\"Anomalous sounds from\nlarge meteor fireballs,",
+    "start": 168.959,
+    "duration": 3.117
+  },
+  {
+    "text": "anomalous because they are audible\nsimultaneously with the sighting,",
+    "start": 172.101,
+    "duration": 3.64
+  },
+  {
+    "text": "have been a matter for debate\nfor over two centuries.",
+    "start": 175.766,
+    "duration": 3.111
+  },
+  {
+    "text": "Only a minority of\nobservers perceive them.",
+    "start": 178.902,
+    "duration": 2.785
+  },
+  {
+    "text": "Ten years ago a viable physical\nexplanation was developed,",
+    "start": 181.712,
+    "duration": 3.37
+  },
+  {
+    "text": "which accounts for the phenomenon\nin terms of ELF/VLF radiation",
+    "start": 185.107,
+    "duration": 4.211
+  },
+  {
+    "text": "from the fireball plasma being\ntransduced into acoustic waves",
+    "start": 189.343,
+    "duration": 3.77
+  },
+  {
+    "text": "whenever appropriate objects happen\nto be in the vicinity of an observer.",
+    "start": 193.138,
+    "duration": 4.047
+  },
+  {
+    "text": "This explanation has now been verified\nobservationally and supported by other evidence",
+    "start": 197.21,
+    "duration": 5.19
+  },
+  {
+    "text": "including the study of meteor\nfireball light curves reported here.\"",
+    "start": 202.425,
+    "duration": 4.189
+  },
+  {
+    "text": "Although mainstream science is now\nrecognizing the unusual sounds",
+    "start": 206.639,
+    "duration": 3.9
+  },
+  {
+    "text": "associated with terrestrial Auroras and\nmeteoritic phenomena respectively,",
+    "start": 210.539,
+    "duration": 4.597
+  },
+  {
+    "text": "many mysteries remain that demand\nnew theoretical perspectives.",
+    "start": 215.161,
+    "duration": 4.213
+  },
+  {
+    "text": "In the early 20th century,",
+    "start": 219.399,
+    "duration": 1.969
+  },
+  {
+    "text": "the Norwegian experimentalist and\nelectrical pioneer Kristian Birkeland",
+    "start": 221.393,
+    "duration": 3.976
+  },
+  {
+    "text": "proposed that charged particles from the\nSun were the cause of auroras on Earth.",
+    "start": 225.394,
+    "duration": 4.846
+  },
+  {
+    "text": "For decades the\nscientific mainstream,",
+    "start": 230.265,
+    "duration": 2.73
+  },
+  {
+    "text": "including the renowned\nmathematician Sydney Chapman,",
+    "start": 233.02,
+    "duration": 2.982
+  },
+  {
+    "text": "largely rejected\nBirkeland's hypothesis",
+    "start": 236.027,
+    "duration": 2.556
+  },
+  {
+    "text": "favoring instead the idea that Earth's\nmagnetosphere is an impenetrable envelope",
+    "start": 238.608,
+    "duration": 4.969
+  },
+  {
+    "text": "squeezed by the solar wind\nto induce auroral activity.",
+    "start": 243.602,
+    "duration": 3.818
+  },
+  {
+    "text": "Only when satellites detected the\nmagnetic signatures of electric currents",
+    "start": 247.445,
+    "duration": 4.067
+  },
+  {
+    "text": "in the Aurora in 1973 was Birkeland\nhypothesis irrefutably validated.",
+    "start": 251.537,
+    "duration": 5.612
+  },
+  {
+    "text": "But even today the scientific mainstream\nresist the implications of the discovery.",
+    "start": 257.149,
+    "duration": 5.672
+  },
+  {
+    "text": "Institutional science tells us that\ncharged particles from the Sun",
+    "start": 262.846,
+    "duration": 3.934
+  },
+  {
+    "text": "accelerate along\nmagnetic field lines",
+    "start": 266.805,
+    "duration": 2.235
+  },
+  {
+    "text": "and collide with oxygen and nitrogen\ngas particles in our upper atmosphere.",
+    "start": 269.065,
+    "duration": 4.672
+  },
+  {
+    "text": "The gas particles become\nexcited and release light.",
+    "start": 273.762,
+    "duration": 3.27
+  },
+  {
+    "text": "But in recent years science discoveries\nconfirmed that the auroras",
+    "start": 277.057,
+    "duration": 4.243
+  },
+  {
+    "text": "are the product of the electrical circuitry\nbetween the Sun, Earth and all planets.",
+    "start": 281.3,
+    "duration": 5.77
+  },
+  {
+    "text": "In 2007, NASA scientists\nreported the discovery of",
+    "start": 287.095,
+    "duration": 4.28
+  },
+  {
+    "text": "\"giant magnetic ropes\" that connect\nEarth's upper atmosphere to the Sun,",
+    "start": 291.4,
+    "duration": 3.989
+  },
+  {
+    "text": "and explosions in the outskirts\nof Earth's magnetic field.",
+    "start": 295.414,
+    "duration": 3.578
+  },
+  {
+    "text": "The rope-like structures, NASA\ndescribes, are Birkeland currents",
+    "start": 299.017,
+    "duration": 3.873
+  },
+  {
+    "text": "which are electrical current flowing\nthrough the conductive medium of plasma.",
+    "start": 302.915,
+    "duration": 4.007
+  },
+  {
+    "text": "Recently, professor Donald\nScott has published",
+    "start": 306.947,
+    "duration": 2.664
+  },
+  {
+    "text": "his mathematical modeling\nof Birkeland currents",
+    "start": 309.636,
+    "duration": 2.572
+  },
+  {
+    "text": "and identified the tell-tale structures\nof the currents in the upper atmospheres",
+    "start": 312.233,
+    "duration": 4.114
+  },
+  {
+    "text": "at the poles of some planets,\nincluding the Earth.",
+    "start": 316.372,
+    "duration": 3.118
+  },
+  {
+    "text": "Visual proof of the Birkeland currents'\ninfluence is counter-rotating bands",
+    "start": 319.515,
+    "duration": 4.602
+  },
+  {
+    "text": "such as those seen on the screen\nat the North Pole of Saturn.",
+    "start": 324.142,
+    "duration": 3.623
+  },
+  {
+    "text": "Similar counter-rotation may be\nseen in this particular video",
+    "start": 327.79,
+    "duration": 3.76
+  },
+  {
+    "text": "of the Aurora Borealis on Earth.",
+    "start": 331.575,
+    "duration": 2.108
+  },
+  {
+    "text": "Electromagnetic energy in\nEarth's upper atmosphere",
+    "start": 333.708,
+    "duration": 3.152
+  },
+  {
+    "text": "is also the cause of some of the sounds\nassociated with meteor explosions.",
+    "start": 336.86,
+    "duration": 4.403
+  },
+  {
+    "text": "Standard theory tells us that friction\nablation causes meteors to glow,",
+    "start": 341.288,
+    "duration": 4.623
+  },
+  {
+    "text": "flare and fragment as they pass\nthrough the Earth's atmosphere.",
+    "start": 345.936,
+    "duration": 3.737
+  },
+  {
+    "text": "But, as noted in the aforementioned\nThunderbolts article, The Peekskill Meteor;",
+    "start": 349.698,
+    "duration": 4.141
+  },
+  {
+    "text": "\"At about 50 km above\nthe Earth's surface,",
+    "start": 353.864,
+    "duration": 2.943
+  },
+  {
+    "text": "is there enough material in space to\nbegin a friction ablation process",
+    "start": 356.832,
+    "duration": 3.897
+  },
+  {
+    "text": "for an object\ntraveling 14.7 km/s?",
+    "start": 360.754,
+    "duration": 4.015
+  },
+  {
+    "text": "If not, one is\njustified to conclude",
+    "start": 364.794,
+    "duration": 2.838
+  },
+  {
+    "text": "that electrical interaction took place\nto initiate the glow and flareups.\"",
+    "start": 367.657,
+    "duration": 4.856
+  },
+  {
+    "text": "In the Electric Universe view, any object\nthat comes far away from the Earth",
+    "start": 372.538,
+    "duration": 4.586
+  },
+  {
+    "text": "is differently charged than\nthe Earth's plasma sheath",
+    "start": 377.149,
+    "duration": 2.837
+  },
+  {
+    "text": "and the object will begin\nto electrically discharge",
+    "start": 380.011,
+    "duration": 2.874
+  },
+  {
+    "text": "as the difference between it and lower\nlayers of the sheath increases.",
+    "start": 382.91,
+    "duration": 4.362
+  },
+  {
+    "text": "Again quoting the\nPeekskill meteor article:",
+    "start": 387.297,
+    "duration": 2.943
+  },
+  {
+    "text": "\"...meteors and spacecraft trigger the\nformation of instabilities in plasma layers.",
+    "start": 390.265,
+    "duration": 5.273
+  },
+  {
+    "text": "The energy of the flickering and flaring,\nas well as of the low-frequency radiation,",
+    "start": 395.563,
+    "duration": 5.086
+  },
+  {
+    "text": "comes more from the ionospheric\nplasma than from the meteoroid.",
+    "start": 400.674,
+    "duration": 3.561
+  },
+  {
+    "text": "The meteors that we've come to think\nof as 'burning up in the atmosphere'",
+    "start": 404.26,
+    "duration": 4.234
+  },
+  {
+    "text": "may instead be the targets of mini-\nthunderbolts from the ionosphere.\"",
+    "start": 408.519,
+    "duration": 3.935
+  },
+  {
+    "text": "We also note the European Space\nAgency surprising discovery in 2014",
+    "start": 412.479,
+    "duration": 5.212
+  },
+  {
+    "text": "of a so-called \"mysterious song\"\nemitted by the Comet 67P.",
+    "start": 417.716,
+    "duration": 4.545
+  },
+  {
+    "text": "The song was detected in the form of\noscillations in the cometary magnetic field",
+    "start": 422.286,
+    "duration": 4.903
+  },
+  {
+    "text": "at a level of 40\nto 50 millihertz.",
+    "start": 427.214,
+    "duration": 2.663
+  },
+  {
+    "text": "To make it audible\nto human hearing,",
+    "start": 429.902,
+    "duration": 2.002
+  },
+  {
+    "text": "scientists increased the frequencies\nby a factor of about 10,000.",
+    "start": 431.929,
+    "duration": 3.994
+  },
+  {
+    "text": "As one scientist said\nof the discovery:",
+    "start": 435.948,
+    "duration": 2.273
+  },
+  {
+    "text": "\"This is exciting because\nit is completely new to us.",
+    "start": 438.246,
+    "duration": 3.397
+  },
+  {
+    "text": "We did not expect this\nand we are still working",
+    "start": 441.668,
+    "duration": 2.529
+  },
+  {
+    "text": "to understand the physics\nof what is happening.\"",
+    "start": 444.222,
+    "duration": 2.579
+  },
+  {
+    "text": "A space.com report attempts to\nexplain the finding as follows:",
+    "start": 446.826,
+    "duration": 4.133
+  },
+  {
+    "text": "\"The physical process is\nsomewhat difficult to understand",
+    "start": 450.984,
+    "duration": 2.961
+  },
+  {
+    "text": "without a deeper understanding\nof plasma physics,",
+    "start": 453.97,
+    "duration": 2.616
+  },
+  {
+    "text": "but we can use a simple analogy to\nhave a better idea of what's going on.",
+    "start": 456.611,
+    "duration": 3.898
+  },
+  {
+    "text": "Consider your garden hose.",
+    "start": 460.509,
+    "duration": 1.916
+  },
+  {
+    "text": "If you start the water flow,",
+    "start": 462.45,
+    "duration": 1.717
+  },
+  {
+    "text": "there's a chance that the hose starts\nto oscillate, generating waves.",
+    "start": 464.192,
+    "duration": 4.018
+  },
+  {
+    "text": "This is about what\nhappens in the plasma.",
+    "start": 468.235,
+    "duration": 2.405
+  },
+  {
+    "text": "Of course, the flow we have in the\ncometary situation is not like water,",
+    "start": 470.665,
+    "duration": 4.041
+  },
+  {
+    "text": "but it's a flow of\ncharged particles...\"",
+    "start": 474.731,
+    "duration": 2.65
+  },
+  {
+    "text": "But somehow the\nanalogy is suitable.",
+    "start": 477.406,
+    "duration": 2.482
+  },
+  {
+    "text": "The discovery of electromagnetically\nproduced sounds from comets, meteors,",
+    "start": 480.372,
+    "duration": 4.286
+  },
+  {
+    "text": "and the Earthly auroras remain a\nsurprise to conventional science,",
+    "start": 484.683,
+    "duration": 4.033
+  },
+  {
+    "text": "but they offer further proof of the\nelectrical connectedness between the Sun,",
+    "start": 488.741,
+    "duration": 4.244
+  },
+  {
+    "text": "the Earth, and all bodies\nin our Electric Universe.",
+    "start": 493.01,
+    "duration": 3.962
+  },
+  {
+    "text": "For continuous updates on Space\nNews from the Electric Universe,",
+    "start": 497.742,
+    "duration": 3.913
+  },
+  {
+    "text": "stay tuned to",
+    "start": 501.68,
+    "duration": 1.223
+  },
+  {
+    "text": "Thunderbolts.info",
+    "start": 502.928,
+    "duration": 2.481
+  }
+]

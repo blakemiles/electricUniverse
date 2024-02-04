@@ -1,0 +1,822 @@
+[
+  {
+    "text": "You've just entered the\ntheater of an alien sky.",
+    "start": 7.0,
+    "duration": 3.96
+  },
+  {
+    "text": "iIf the words and images seem strange\nto you, there's a reason for this.",
+    "start": 10.985,
+    "duration": 4.795
+  },
+  {
+    "text": "Our world was once a\nvastly different place.",
+    "start": 15.805,
+    "duration": 4.351
+  },
+  {
+    "text": "To experience this won't hurt you,\nand there is nothing to fear.",
+    "start": 20.181,
+    "duration": 5.268
+  },
+  {
+    "text": "The Myth of the World Mountain",
+    "start": 28.476,
+    "duration": 4.888
+  },
+  {
+    "text": "Any systematic investigation\nof ancient myths and symbols",
+    "start": 33.404,
+    "duration": 4.538
+  },
+  {
+    "text": "will lead inescapably to the\nmysteries of the world mountain,",
+    "start": 37.967,
+    "duration": 3.857
+  },
+  {
+    "text": "the cosmic mountain, the\nmountain of the gods,",
+    "start": 41.849,
+    "duration": 3.144
+  },
+  {
+    "text": "remembered by every culture on earth and\nmemorialized through thousands of sacred",
+    "start": 45.018,
+    "duration": 5.421
+  },
+  {
+    "text": "mountains, pillars, and\nsymbolic poles and posts,",
+    "start": 50.439,
+    "duration": 4.78
+  },
+  {
+    "text": "all appearing as symbols\nof an alien sky.",
+    "start": 55.244,
+    "duration": 4.571
+  },
+  {
+    "text": "Our early ancestors revered the towering\ncolumn as the visual axle of the cosmos,",
+    "start": 59.84,
+    "duration": 6.389
+  },
+  {
+    "text": "reaching upward from Earth's\nhorizon to the center",
+    "start": 66.254,
+    "duration": 3.697
+  },
+  {
+    "text": "of heaven around which this\nstarry dome visually turn.",
+    "start": 69.976,
+    "duration": 3.745
+  },
+  {
+    "text": "No ancient culture was free from\nthe memory of the world mountain:",
+    "start": 73.746,
+    "duration": 4.3
+  },
+  {
+    "text": "the Golden Mountain, Silver Mountain, White\nMountain, the mountain of fire and light.",
+    "start": 78.071,
+    "duration": 5.243
+  },
+  {
+    "text": "called also the world's\nhighest mountain.",
+    "start": 83.339,
+    "duration": 2.595
+  },
+  {
+    "text": "Here the gods themselves\ngathered upon the summit,",
+    "start": 85.959,
+    "duration": 3.459
+  },
+  {
+    "text": "giving the great column its name\nas the Mount of Congregation.",
+    "start": 89.443,
+    "duration": 4.338
+  },
+  {
+    "text": "Nations the world over identified this\ndivine habitation with the \"first time,\"",
+    "start": 93.806,
+    "duration": 5.401
+  },
+  {
+    "text": "the \"best time,\" the \"ideal time,\"\nmeaning of course the lost paradise,",
+    "start": 99.232,
+    "duration": 5.285
+  },
+  {
+    "text": "the mythic homeland of the gods before\nthey departed for more distant realms.",
+    "start": 104.542,
+    "duration": 6.824
+  },
+  {
+    "text": "In fact, every ancient\nnation on earth",
+    "start": 111.391,
+    "duration": 3.267
+  },
+  {
+    "text": "assimilated at its own history\nto that of the world mountain.",
+    "start": 114.683,
+    "duration": 4.668
+  },
+  {
+    "text": "The point was stated\nemphatically by Mircea Eliade",
+    "start": 122.266,
+    "duration": 4.064
+  },
+  {
+    "text": "\"The world mountain always signified the\n'point where creation had its beginning' \".",
+    "start": 126.355,
+    "duration": 5.9
+  },
+  {
+    "text": "And so the early cultures\ndeclared with one voice,",
+    "start": 132.28,
+    "duration": 3.488
+  },
+  {
+    "text": "\"We came from that place. the cosmic center,\nthe place of the divine ancestors.\"",
+    "start": 135.793,
+    "duration": 6.544
+  },
+  {
+    "text": "And accordingly, all ancient\nrites of sacred construction,",
+    "start": 142.362,
+    "duration": 4.418
+  },
+  {
+    "text": "of kingship and royal marriage,\nof sacrifice and holy war",
+    "start": 146.805,
+    "duration": 5.086
+  },
+  {
+    "text": "always direct our attention back to the\nsame location, the place par excellence.",
+    "start": 151.916,
+    "duration": 6.986
+  },
+  {
+    "text": "In every culture whatever\nthe imaginative form,",
+    "start": 159.671,
+    "duration": 3.937
+  },
+  {
+    "text": "the mount connected heaven and\nEarth as a pillar or ladder",
+    "start": 163.633,
+    "duration": 4.632
+  },
+  {
+    "text": "or spiralling stairway from the world\nbelow to the divine habitation above.",
+    "start": 168.29,
+    "duration": 5.18
+  },
+  {
+    "text": "And it was much more than\nthat as we shall see.",
+    "start": 173.495,
+    "duration": 4.698
+  },
+  {
+    "text": "In ancient Egyptian myths, this\nwas where the primeval sun god,",
+    "start": 178.218,
+    "duration": 4.34
+  },
+  {
+    "text": "the wandering Atum or Ra, found\nhis stable resting place.",
+    "start": 182.583,
+    "duration": 4.641
+  },
+  {
+    "text": "This stationary spot in the sky was the\napex of a mountain of fire and light,",
+    "start": 187.249,
+    "duration": 5.354
+  },
+  {
+    "text": "wind and water, the pillar\nin support of the sky.",
+    "start": 192.628,
+    "duration": 3.674
+  },
+  {
+    "text": "The Egyptians called it Akhet,\nthe \"Mountain of Fire and Light.\"",
+    "start": 196.327,
+    "duration": 6.199
+  },
+  {
+    "text": "Of the creator Atum the\nCoffin Texts say:",
+    "start": 202.551,
+    "duration": 3.291
+  },
+  {
+    "text": "\"The Great God lives Fixed in the\nmiddle of the sky Upon his support\"",
+    "start": 205.867,
+    "duration": 5.813
+  },
+  {
+    "text": "Throughout all of ancient Egypt\npriests identified every holy site",
+    "start": 211.705,
+    "duration": 5.023
+  },
+  {
+    "text": "as the summit of the\ncosmic mountain or pillar.",
+    "start": 216.753,
+    "duration": 2.997
+  },
+  {
+    "text": "The priests of Karnak symbolically\nlocated their temple on",
+    "start": 219.775,
+    "duration": 3.896
+  },
+  {
+    "text": "\"The Venerable Hill of\nPrimeval Beginning.\"",
+    "start": 223.696,
+    "duration": 2.976
+  },
+  {
+    "text": "The priests of the Edfu\nTemple recalled",
+    "start": 226.697,
+    "duration": 2.641
+  },
+  {
+    "text": "\"...the First Occasion in the High Hill at\nthe Beginning of Coming Into Existence.\"",
+    "start": 229.363,
+    "duration": 5.6
+  },
+  {
+    "text": "In the language of the ancient cultures,\nsuch phrasing meant the first appearance",
+    "start": 234.988,
+    "duration": 4.94
+  },
+  {
+    "text": "of the cosmic city or temple or kingdom, the\nmodel for sacred construction on Earth.",
+    "start": 239.953,
+    "duration": 6.284
+  },
+  {
+    "text": "This remarkable idea was already in place\nat the birth of Egyptian civilization.",
+    "start": 246.263,
+    "duration": 5.263
+  },
+  {
+    "text": "The oldest texts in Egypt,\nthe Pyramid Texts,",
+    "start": 251.551,
+    "duration": 3.076
+  },
+  {
+    "text": "speak of the primeval hill of the\nland in the midst of the sea,",
+    "start": 254.652,
+    "duration": 4.353
+  },
+  {
+    "text": "the cosmic waters whose hand\nno earthlings have grasped.",
+    "start": 259.03,
+    "duration": 5.314
+  },
+  {
+    "text": "Through images and texts, the Egyptians personified\nthe heaven-reaching pillar as the god Shu,",
+    "start": 264.369,
+    "duration": 7.487
+  },
+  {
+    "text": "remembered as both a cosmic column and\nthe support at the divine habitation.",
+    "start": 271.881,
+    "duration": 5.205
+  },
+  {
+    "text": "And it was more, the\nEgyptians also described Shu",
+    "start": 277.111,
+    "duration": 4.269
+  },
+  {
+    "text": "as a luminous etheric column\nof wind water and fire",
+    "start": 281.405,
+    "duration": 4.109
+  },
+  {
+    "text": "rising from below to vivify\nthe dwelling of the Gods.",
+    "start": 285.539,
+    "duration": 4.355
+  },
+  {
+    "text": "In ancient Mesopotamia,\nthe priestly traditions",
+    "start": 290.063,
+    "duration": 4.056
+  },
+  {
+    "text": "described the god Enlil\nas the pillar of the sky,",
+    "start": 294.144,
+    "duration": 3.318
+  },
+  {
+    "text": "naming the god as the Great Mountain,\nstretching between heaven and Earth.",
+    "start": 297.487,
+    "duration": 4.302
+  },
+  {
+    "text": "Exactly in the fashion of\nthe Egyptian Shu,",
+    "start": 301.814,
+    "duration": 3.324
+  },
+  {
+    "text": "Enlil signified a visible etheric\n\"wind\" joining the two worlds.",
+    "start": 305.163,
+    "duration": 5.726
+  },
+  {
+    "text": "This is not something disputed. Though,\nof course, a column of \"air\" or \"wind\"",
+    "start": 310.914,
+    "duration": 5.024
+  },
+  {
+    "text": "functioning as a pillar will always\nappear as a conceptual absurdity",
+    "start": 315.963,
+    "duration": 4.468
+  },
+  {
+    "text": "but only until we meet the\narchetype in its own terms.",
+    "start": 320.456,
+    "duration": 4.103
+  },
+  {
+    "text": "The cosmic mountain and its\ndiverse mythic content",
+    "start": 324.584,
+    "duration": 3.917
+  },
+  {
+    "text": "always suggests a progressively\nevolving dwelling of the gods",
+    "start": 328.526,
+    "duration": 4.578
+  },
+  {
+    "text": "resting upon the cosmic column.",
+    "start": 333.129,
+    "duration": 3.268
+  },
+  {
+    "text": "With the passing of\nthe myth-making epoch,",
+    "start": 336.422,
+    "duration": 3.062
+  },
+  {
+    "text": "the absence of this original referent\nin the sky changed everything.",
+    "start": 339.509,
+    "duration": 4.716
+  },
+  {
+    "text": "It guaranteed a rapid\nloss of the original idea,",
+    "start": 344.25,
+    "duration": 3.661
+  },
+  {
+    "text": "leaving only the local symbols to\nreflect the first form, the prototype.",
+    "start": 347.936,
+    "duration": 5.315
+  },
+  {
+    "text": "So when searching for\nthe lost paradise,",
+    "start": 353.276,
+    "duration": 2.778
+  },
+  {
+    "text": "we have only a mountain that\nis no longer there to guide us,",
+    "start": 356.079,
+    "duration": 3.742
+  },
+  {
+    "text": "all complicated by a thousand\nlocal hills named after",
+    "start": 359.846,
+    "duration": 3.952
+  },
+  {
+    "text": "or pretending to be\nthe cosmic original.",
+    "start": 363.823,
+    "duration": 2.833
+  },
+  {
+    "text": "It didn't take long before the world\nmountain was everywhere and nowhere.",
+    "start": 366.681,
+    "duration": 5.61
+  },
+  {
+    "text": "The theme needs to be\nfollowed back to its origins.",
+    "start": 372.316,
+    "duration": 3.807
+  },
+  {
+    "text": "Where was the revered Hindu Mount\nMeru around which the stars revolved?",
+    "start": 376.148,
+    "duration": 6.178
+  },
+  {
+    "text": "Or the Persian Haraberezaiti identified\nas the tallest mountain and world axis?",
+    "start": 382.351,
+    "duration": 6.617
+  },
+  {
+    "text": "Or the Japanese world\nmountain Shumi or Sumeru,",
+    "start": 389.0,
+    "duration": 3.88
+  },
+  {
+    "text": "called the center around which\nthe heavenly bodies revolved?",
+    "start": 392.914,
+    "duration": 4.769
+  },
+  {
+    "text": "Or the Chinese holy mountain Kwenlun,\nthe axis of the celestial revolutions?",
+    "start": 397.708,
+    "duration": 7.799
+  },
+  {
+    "text": "Or the Mexican Colhuacan,",
+    "start": 405.532,
+    "duration": 3.437
+  },
+  {
+    "text": "whose summit the priestly astronomers\nidentified as the celestial pole?",
+    "start": 408.994,
+    "duration": 5.926
+  },
+  {
+    "text": "What assures us of an original global\ntradition is the consistent role",
+    "start": 414.945,
+    "duration": 5.697
+  },
+  {
+    "text": "of the cosmic mountain as both world\naxis and stable support of the sky.",
+    "start": 420.667,
+    "duration": 5.615
+  },
+  {
+    "text": "The cosmic center and the apex of the world\nmountain meant exactly the same thing,",
+    "start": 426.307,
+    "duration": 5.544
+  },
+  {
+    "text": "to which we must add the identification\nwith the exemplary site of creation itself,",
+    "start": 431.876,
+    "duration": 5.458
+  },
+  {
+    "text": "the birthplace of the\nprimeval paradise.",
+    "start": 437.359,
+    "duration": 4.02
+  },
+  {
+    "text": "Traced to its origins, all\nof the imagery is cosmic.",
+    "start": 441.404,
+    "duration": 4.05
+  },
+  {
+    "text": "The events occurred in the sky and were always\nfiltered through myth-making imagination.",
+    "start": 445.479,
+    "duration": 5.542
+  },
+  {
+    "text": "They did not occur down\nhere where we live.",
+    "start": 451.046,
+    "duration": 4.764
+  },
+  {
+    "text": "The greatest mistake we could make it to ask the\nlocal geography to explain the original idea.",
+    "start": 455.81,
+    "duration": 6.406
+  },
+  {
+    "text": "No terrestrial hill gave Olympus\nits name Aegus, meaning the \"axle\"",
+    "start": 462.241,
+    "duration": 5.457
+  },
+  {
+    "text": "nor did the Hebrews name Zion as the site\nof creation by some accident of geography.",
+    "start": 467.723,
+    "duration": 5.783
+  },
+  {
+    "text": "Upon the summit of Zion, the creator\nfashioned the city of heaven,",
+    "start": 473.531,
+    "duration": 4.441
+  },
+  {
+    "text": "the temple of heaven, or\nthe kingdom of heaven.",
+    "start": 477.997,
+    "duration": 3.653
+  },
+  {
+    "text": "The original referent was the cosmic\ncenter and summit where creation began.",
+    "start": 482.444,
+    "duration": 6.978
+  },
+  {
+    "text": "The themes are global, and they belong\nto the core of world myths and symbols.",
+    "start": 490.231,
+    "duration": 5.08
+  },
+  {
+    "text": "This memory held humanity in its\ngrip for thousands of years.",
+    "start": 495.336,
+    "duration": 4.354
+  },
+  {
+    "text": "And nothing could add greater\nconfusion than attempts to explain",
+    "start": 499.715,
+    "duration": 3.53
+  },
+  {
+    "text": "the symbolism of a sacred mountain\nby attributes of local geography.",
+    "start": 503.27,
+    "duration": 4.578
+  },
+  {
+    "text": "The archetype always\nprecedes the local symbol.",
+    "start": 507.873,
+    "duration": 3.439
+  },
+  {
+    "text": "All that a regional hill could ever\nprovide was a symbolic pointer back",
+    "start": 511.337,
+    "duration": 4.976
+  },
+  {
+    "text": "to the original cosmic\nmountain of the gods.",
+    "start": 516.338,
+    "duration": 3.062
+  },
+  {
+    "text": "In fact, the symbolic echoes\nwere far too numerous",
+    "start": 519.425,
+    "duration": 3.023
+  },
+  {
+    "text": "to be blended into one story\nby later chroniclers.",
+    "start": 522.473,
+    "duration": 3.481
+  },
+  {
+    "text": "Long ago the best students of\ncomparative symbolism recognized",
+    "start": 525.979,
+    "duration": 4.692
+  },
+  {
+    "text": "the linkage of the\nHebrew mount Zion",
+    "start": 530.696,
+    "duration": 2.699
+  },
+  {
+    "text": "to a similar memoriy shared\nwith their Canaanite neighbors",
+    "start": 533.42,
+    "duration": 3.743
+  },
+  {
+    "text": "of Mount Zaphon in the\nfarthest reaches of the north.",
+    "start": 537.188,
+    "duration": 3.982
+  },
+  {
+    "text": "Of course, in modern times the\nideas can only appear ludicrous.",
+    "start": 541.195,
+    "duration": 4.406
+  },
+  {
+    "text": "But it's the cross cultural integrity\nthat substantiates a global experience",
+    "start": 545.626,
+    "duration": 5.005
+  },
+  {
+    "text": "beneath the chaos of\nlocal myths and symbols.",
+    "start": 550.656,
+    "duration": 3.356
+  },
+  {
+    "text": "The axial supportive and heaven\nreaching role of the world mountain",
+    "start": 554.037,
+    "duration": 4.553
+  },
+  {
+    "text": "was its defining character, always attached\nto the land of the gods themselves.",
+    "start": 558.615,
+    "duration": 5.258
+  },
+  {
+    "text": "But always keep in mind that human imagination\nin the presence of this celestial column",
+    "start": 563.898,
+    "duration": 5.096
+  },
+  {
+    "text": "would see much more\nthan just a mountain.",
+    "start": 569.019,
+    "duration": 2.688
+  },
+  {
+    "text": "The archetypal form naturally inspired\nmultiple myths and interpretations.",
+    "start": 571.732,
+    "duration": 5.052
+  },
+  {
+    "text": "By symbolic extension, thousands of local\nprominences and man-made artifacts",
+    "start": 576.809,
+    "duration": 5.671
+  },
+  {
+    "text": "received their mythic content from the\nhuman memory of the cosmic mountain.",
+    "start": 582.505,
+    "duration": 5.278
+  },
+  {
+    "text": "In the shadow of a grand mythic tradition,\nmonumental construction was always commemorative.",
+    "start": 587.808,
+    "duration": 6.458
+  },
+  {
+    "text": "That's the core meaning\nof the word \"monument,\"",
+    "start": 594.291,
+    "duration": 2.838
+  },
+  {
+    "text": "a word receiving its original significance\nfrom the collective nostalgia",
+    "start": 597.154,
+    "duration": 4.943
+  },
+  {
+    "text": "for things formerly seen in\nthe sky but no longer present.",
+    "start": 602.122,
+    "duration": 4.515
+  },
+  {
+    "text": "By their devotion to sacred\nconstruction, humans on Earth",
+    "start": 606.662,
+    "duration": 3.663
+  },
+  {
+    "text": "strove to maintain a symbolic\nconnection to the gods,",
+    "start": 610.35,
+    "duration": 3.518
+  },
+  {
+    "text": "always painfully aware that the\noriginal connection was broken",
+    "start": 613.893,
+    "duration": 3.993
+  },
+  {
+    "text": "by heaven-altering catastrophe.",
+    "start": 617.911,
+    "duration": 2.553
+  },
+  {
+    "text": "Nothing weighed more heavily and powerfully on\nhuman minds than the nostalgia for Paradise,",
+    "start": 620.489,
+    "duration": 6.414
+  },
+  {
+    "text": "always mixed with a collective anxiety, the\nfear of doomsday, the great catastrophe",
+    "start": 626.928,
+    "duration": 6.404
+  },
+  {
+    "text": "which brought the paradisal\nepoch to its violent conclusion.",
+    "start": 633.357,
+    "duration": 4.693
+  },
+  {
+    "text": "Every collective memory of the cosmic\nmountain directs us back to the time",
+    "start": 638.391,
+    "duration": 5.447
+  },
+  {
+    "text": "before the sky fell, before the\ngods departed for remote realms,",
+    "start": 643.863,
+    "duration": 4.459
+  },
+  {
+    "text": "before, in the most reliable\nastronomical traditions,",
+    "start": 648.347,
+    "duration": 3.797
+  },
+  {
+    "text": "the great gods departed to\nbecome the now distant planets.",
+    "start": 652.169,
+    "duration": 5.378
+  },
+  {
+    "text": "This memory held humanity in its\ngrip for thousands of years.",
+    "start": 657.572,
+    "duration": 4.89
+  },
+  {
+    "text": "And nothing could add greater\nconfusion than attempts to explain",
+    "start": 662.487,
+    "duration": 4.174
+  },
+  {
+    "text": "the symbolism of sacred mountains and\npillars by attributes of local geography.",
+    "start": 666.686,
+    "duration": 5.575
+  },
+  {
+    "text": "The archetype always\nprecedes the local symbol.",
+    "start": 672.286,
+    "duration": 3.439
+  },
+  {
+    "text": "All that a regional Hill could ever\nprovide was a symbolic pointer back",
+    "start": 675.75,
+    "duration": 5.016
+  },
+  {
+    "text": "to the original cosmic\nmountain of the gods.",
+    "start": 680.791,
+    "duration": 3.076
+  },
+  {
+    "text": "In fact, the symbolic echoes\nwere far too numerous",
+    "start": 683.892,
+    "duration": 3.099
+  },
+  {
+    "text": "to be blended into one\nstory by later chroniclers.",
+    "start": 687.016,
+    "duration": 3.547
+  },
+  {
+    "text": "Of course, the disparities in local\ntraditions would spawn regional competition",
+    "start": 690.588,
+    "duration": 5.206
+  },
+  {
+    "text": "and a growing confusion between the archetype\nand the local symbol reflecting it.",
+    "start": 695.819,
+    "duration": 6.498
+  },
+  {
+    "text": "Many scholars have\nalready noted that",
+    "start": 702.342,
+    "duration": 2.948
+  },
+  {
+    "text": "Zion and Zaphon merged as\npointers back to a single archetype,",
+    "start": 705.315,
+    "duration": 4.985
+  },
+  {
+    "text": "and that fact should always take\nprecedence in comparative investigation.",
+    "start": 710.325,
+    "duration": 4.617
+  },
+  {
+    "text": "We know that the Greeks identified\nseveral local hills as Olympus",
+    "start": 714.967,
+    "duration": 4.606
+  },
+  {
+    "text": "just as the Hindus named\nmore than one mountain",
+    "start": 719.598,
+    "duration": 2.848
+  },
+  {
+    "text": "and innumerable man-made replicas\nafter their cosmic mountain Meru.",
+    "start": 722.471,
+    "duration": 5.413
+  },
+  {
+    "text": "The Greek sacred mountain\nIda in present-day Turkey",
+    "start": 729.699,
+    "duration": 4.083
+  },
+  {
+    "text": "had its counterpart in a Cretan\nmount of the same name.",
+    "start": 733.807,
+    "duration": 3.892
+  },
+  {
+    "text": "And that's just one illustration of a\nvast pattern of symbolic replication.",
+    "start": 737.724,
+    "duration": 6.111
+  },
+  {
+    "text": "But today, as is the case\nwith all archetypal forms,",
+    "start": 744.763,
+    "duration": 4.079
+  },
+  {
+    "text": "both the land of the gods and the\ntowering column of fire and light",
+    "start": 748.867,
+    "duration": 4.364
+  },
+  {
+    "text": "upon which it stood are\nnowhere to be seen.",
+    "start": 753.256,
+    "duration": 3.29
+  },
+  {
+    "text": "That's the heart to the dilemma we intend\nto resolve by taking up the diverse",
+    "start": 756.571,
+    "duration": 5.074
+  },
+  {
+    "text": "but intricately connected\nfeatures of the cosmic mountain,",
+    "start": 761.67,
+    "duration": 3.298
+  },
+  {
+    "text": "all ranging far beyond the\nmythic idea of the regional hill.",
+    "start": 764.993,
+    "duration": 5.446
+  }
+]

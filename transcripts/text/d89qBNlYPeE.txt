@@ -1,0 +1,562 @@
+[
+  {
+    "text": "okay what's the matter with matter at",
+    "start": 23.29,
+    "duration": 5.53
+  },
+  {
+    "text": "the human scale it's something like a",
+    "start": 27.02,
+    "duration": 4.2
+  },
+  {
+    "text": "rock you can hold it in your hand it",
+    "start": 28.82,
+    "duration": 6.42
+  },
+  {
+    "text": "feels weighty it looks solid it has",
+    "start": 31.22,
+    "duration": 6.54
+  },
+  {
+    "text": "sharp boundaries it has continuous",
+    "start": 35.24,
+    "duration": 6.66
+  },
+  {
+    "text": "extension and definite location it's",
+    "start": 37.76,
+    "duration": 7.5
+  },
+  {
+    "text": "there if you look at it through an",
+    "start": 41.9,
+    "duration": 5.22
+  },
+  {
+    "text": "electron microscope the solidity is",
+    "start": 45.26,
+    "duration": 4.92
+  },
+  {
+    "text": "mostly empty space there are a few dark",
+    "start": 47.12,
+    "duration": 5.16
+  },
+  {
+    "text": "splotches scattered around that you can",
+    "start": 50.18,
+    "duration": 4.68
+  },
+  {
+    "text": "call atoms of matter but you can't hold",
+    "start": 52.28,
+    "duration": 4.86
+  },
+  {
+    "text": "them in your hand you can't weigh them",
+    "start": 54.86,
+    "duration": 5.04
+  },
+  {
+    "text": "on your bathroom scale the boundaries",
+    "start": 57.14,
+    "duration": 5.04
+  },
+  {
+    "text": "are fuzzy and trail off into the toe of",
+    "start": 59.9,
+    "duration": 5.7
+  },
+  {
+    "text": "a probability curve the splotches don't",
+    "start": 62.18,
+    "duration": 5.4
+  },
+  {
+    "text": "have definite locations they are merely",
+    "start": 65.6,
+    "duration": 3.6
+  },
+  {
+    "text": "regions of increasing probability",
+    "start": 67.58,
+    "duration": 4.65
+  },
+  {
+    "text": "function the idea of continuous",
+    "start": 69.2,
+    "duration": 5.63
+  },
+  {
+    "text": "extension is nonsensical at this scale a",
+    "start": 72.23,
+    "duration": 5.52
+  },
+  {
+    "text": "closer look shows that the splotches too",
+    "start": 74.83,
+    "duration": 5.62
+  },
+  {
+    "text": "are mostly empty space calling them",
+    "start": 77.75,
+    "duration": 6.23
+  },
+  {
+    "text": "matter is only analogous not homologous",
+    "start": 80.45,
+    "duration": 8.7
+  },
+  {
+    "text": "atoms aren't really there you've entered",
+    "start": 83.98,
+    "duration": 8.2
+  },
+  {
+    "text": "the realm of cognitive operations you've",
+    "start": 89.15,
+    "duration": 5.64
+  },
+  {
+    "text": "entered the land of metaphor you've",
+    "start": 92.18,
+    "duration": 4.17
+  },
+  {
+    "text": "entered you don't know what you're",
+    "start": 94.79,
+    "duration": 4.29
+  },
+  {
+    "text": "talking about you're imagining things",
+    "start": 96.35,
+    "duration": 5.37
+  },
+  {
+    "text": "by that I mean that you're making images",
+    "start": 99.08,
+    "duration": 5.31
+  },
+  {
+    "text": "of sensations and concepts that you",
+    "start": 101.72,
+    "duration": 5.4
+  },
+  {
+    "text": "judge to be unities and the images that",
+    "start": 104.39,
+    "duration": 4.86
+  },
+  {
+    "text": "you're making have their roots in the",
+    "start": 107.12,
+    "duration": 5.99
+  },
+  {
+    "text": "human scale of everyday life as a",
+    "start": 109.25,
+    "duration": 6.72
+  },
+  {
+    "text": "materialist I must confess that I don't",
+    "start": 113.11,
+    "duration": 6.37
+  },
+  {
+    "text": "know what matter is the closer I look",
+    "start": 115.97,
+    "duration": 5.73
+  },
+  {
+    "text": "the more matter turns out to be not",
+    "start": 119.48,
+    "duration": 5.46
+  },
+  {
+    "text": "there a field of view with an idea of",
+    "start": 121.7,
+    "duration": 6.66
+  },
+  {
+    "text": "solidity hiding somewhere I think that",
+    "start": 124.94,
+    "duration": 6.96
+  },
+  {
+    "text": "there must be some thing there but thing",
+    "start": 128.36,
+    "duration": 7.29
+  },
+  {
+    "text": "is an idea a cognitive operation ideas",
+    "start": 131.9,
+    "duration": 6.78
+  },
+  {
+    "text": "matter that the idea of matter is not",
+    "start": 135.65,
+    "duration": 7.44
+  },
+  {
+    "text": "matter the idea isn't all there is to it",
+    "start": 138.68,
+    "duration": 7.47
+  },
+  {
+    "text": "the pain in my shin when I knock against",
+    "start": 143.09,
+    "duration": 5.22
+  },
+  {
+    "text": "the coffee table in the dark is not an",
+    "start": 146.15,
+    "duration": 4.41
+  },
+  {
+    "text": "idea I don't imagine",
+    "start": 148.31,
+    "duration": 5.94
+  },
+  {
+    "text": "pain its raw data that's given unbidden",
+    "start": 150.56,
+    "duration": 5.85
+  },
+  {
+    "text": "and i hope i won't be given any more of",
+    "start": 154.25,
+    "duration": 5.64
+  },
+  {
+    "text": "it only after i stop whimpering and try",
+    "start": 156.41,
+    "duration": 6.299
+  },
+  {
+    "text": "to tell someone if only myself what",
+    "start": 159.89,
+    "duration": 6.3
+  },
+  {
+    "text": "happened do ideas ideas of things like",
+    "start": 162.709,
+    "duration": 9.211
+  },
+  {
+    "text": "coffee tables creep in if I were to be",
+    "start": 166.19,
+    "duration": 7.379
+  },
+  {
+    "text": "consistently philosophical I'd",
+    "start": 171.92,
+    "duration": 4.2
+  },
+  {
+    "text": "contemplate the question what else could",
+    "start": 173.569,
+    "duration": 6.151
+  },
+  {
+    "text": "it be but while I'm seeing stars which I",
+    "start": 176.12,
+    "duration": 5.729
+  },
+  {
+    "text": "presume are not part of the coffee table",
+    "start": 179.72,
+    "duration": 4.59
+  },
+  {
+    "text": "idea I'm not interested in alternative",
+    "start": 181.849,
+    "duration": 5.131
+  },
+  {
+    "text": "theories I only want one that will",
+    "start": 184.31,
+    "duration": 4.8
+  },
+  {
+    "text": "enable me to avoid that batam of",
+    "start": 186.98,
+    "duration": 4.71
+  },
+  {
+    "text": "experience in the future I don't care if",
+    "start": 189.11,
+    "duration": 5.43
+  },
+  {
+    "text": "the theory is atomic or platonic I want",
+    "start": 191.69,
+    "duration": 4.609
+  },
+  {
+    "text": "results",
+    "start": 194.54,
+    "duration": 4.32
+  },
+  {
+    "text": "neurology studies show that even before",
+    "start": 196.299,
+    "duration": 5.44
+  },
+  {
+    "text": "were born our cognitive operations are",
+    "start": 198.86,
+    "duration": 5.07
+  },
+  {
+    "text": "operating by the time we're old enough",
+    "start": 201.739,
+    "duration": 4.201
+  },
+  {
+    "text": "to study theoretical physics",
+    "start": 203.93,
+    "duration": 4.8
+  },
+  {
+    "text": "we're in mid thought we're developing",
+    "start": 205.94,
+    "duration": 6.15
+  },
+  {
+    "text": "and revising and replacing ideas that",
+    "start": 208.73,
+    "duration": 6.539
+  },
+  {
+    "text": "came from we know not whence our",
+    "start": 212.09,
+    "duration": 5.25
+  },
+  {
+    "text": "theories and their assumptions are far",
+    "start": 215.269,
+    "duration": 4.44
+  },
+  {
+    "text": "from any foundation far from any",
+    "start": 217.34,
+    "duration": 6.33
+  },
+  {
+    "text": "justification what we need all we need",
+    "start": 219.709,
+    "duration": 7.891
+  },
+  {
+    "text": "our results not secured foundations not",
+    "start": 223.67,
+    "duration": 8.73
+  },
+  {
+    "text": "settled assumptions science is",
+    "start": 227.6,
+    "duration": 7.009
+  },
+  {
+    "text": "provisional its theories are true",
+    "start": 232.4,
+    "duration": 4.559
+  },
+  {
+    "text": "provided the assumptions the initial",
+    "start": 234.609,
+    "duration": 5.44
+  },
+  {
+    "text": "propositions are true or insofar as they",
+    "start": 236.959,
+    "duration": 5.701
+  },
+  {
+    "text": "are true furthermore we're not aware of",
+    "start": 240.049,
+    "duration": 5.97
+  },
+  {
+    "text": "many perhaps most of the assumptions we",
+    "start": 242.66,
+    "duration": 5.85
+  },
+  {
+    "text": "remember if we've read in a history that",
+    "start": 246.019,
+    "duration": 4.381
+  },
+  {
+    "text": "some of them have changed over time and",
+    "start": 248.51,
+    "duration": 5.759
+  },
+  {
+    "text": "perhaps they will again science occupies",
+    "start": 250.4,
+    "duration": 7.019
+  },
+  {
+    "text": "a middle position a mutable position a",
+    "start": 254.269,
+    "duration": 6.601
+  },
+  {
+    "text": "mortal position it occupies a human",
+    "start": 257.419,
+    "duration": 7.081
+  },
+  {
+    "text": "position we start theorizing at some",
+    "start": 260.87,
+    "duration": 5.76
+  },
+  {
+    "text": "arbitrary location an intellectual",
+    "start": 264.5,
+    "duration": 4.56
+  },
+  {
+    "text": "midair and immediately commit an excess",
+    "start": 266.63,
+    "duration": 6.03
+  },
+  {
+    "text": "we lay a cornerstone intending to build",
+    "start": 269.06,
+    "duration": 6.3
+  },
+  {
+    "text": "a cathedral of ultimate truth on it from",
+    "start": 272.66,
+    "duration": 4.77
+  },
+  {
+    "text": "that high point our enterprise sinks",
+    "start": 275.36,
+    "duration": 4.44
+  },
+  {
+    "text": "into conceit arrogance and absurdity if",
+    "start": 277.43,
+    "duration": 4.89
+  },
+  {
+    "text": "we are made aware of that excess",
+    "start": 279.8,
+    "duration": 5.25
+  },
+  {
+    "text": "may leap to a second excess of thinking",
+    "start": 282.32,
+    "duration": 4.95
+  },
+  {
+    "text": "that if a theory isn't absolutely true",
+    "start": 285.05,
+    "duration": 5.69
+  },
+  {
+    "text": "nothing is true and anything goes and",
+    "start": 287.27,
+    "duration": 6.54
+  },
+  {
+    "text": "then we have the experience of pain in",
+    "start": 290.74,
+    "duration": 6.88
+  },
+  {
+    "text": "our shins matter in the sense of pain in",
+    "start": 293.81,
+    "duration": 6.27
+  },
+  {
+    "text": "our shins only exists at the scale of",
+    "start": 297.62,
+    "duration": 5.37
+  },
+  {
+    "text": "coffee tables we don't stub our toes on",
+    "start": 300.08,
+    "duration": 6.15
+  },
+  {
+    "text": "atoms or stars but we do understand",
+    "start": 302.99,
+    "duration": 5.91
+  },
+  {
+    "text": "atoms and stars by picking out their",
+    "start": 306.23,
+    "duration": 5.58
+  },
+  {
+    "text": "similarities with coffee tables matter",
+    "start": 308.9,
+    "duration": 5.28
+  },
+  {
+    "text": "appears in mid scale and we build",
+    "start": 311.81,
+    "duration": 5.46
+  },
+  {
+    "text": "metaphorical universes on it afterward",
+    "start": 314.18,
+    "duration": 5.22
+  },
+  {
+    "text": "we make excuses and call those excuses",
+    "start": 317.27,
+    "duration": 7.14
+  },
+  {
+    "text": "foundations confusing logic with pain we",
+    "start": 319.4,
+    "duration": 7.05
+  },
+  {
+    "text": "know a few specific things for a little",
+    "start": 324.41,
+    "duration": 2.61
+  },
+  {
+    "text": "while",
+    "start": 326.45,
+    "duration": 4.53
+  },
+  {
+    "text": "geocentrism for 1,400 years gravity for",
+    "start": 327.02,
+    "duration": 8.46
+  },
+  {
+    "text": "300 years plasma for who knows we know",
+    "start": 330.98,
+    "duration": 6.48
+  },
+  {
+    "text": "enough to get us through the night so we",
+    "start": 335.48,
+    "duration": 3.54
+  },
+  {
+    "text": "can struggle with it again in the",
+    "start": 337.46,
+    "duration": 4.08
+  },
+  {
+    "text": "morning but we don't know so much that",
+    "start": 339.02,
+    "duration": 5.51
+  },
+  {
+    "text": "we can take tomorrow off",
+    "start": 341.54,
+    "duration": 2.99
+  }
+]

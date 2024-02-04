@@ -1,0 +1,697 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe,",
+    "start": 7.228,
+    "duration": 2.825
+  },
+  {
+    "text": "brought to you by The\nThunderbolts Project™",
+    "start": 10.078,
+    "duration": 2.346
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 12.449,
+    "duration": 3.549
+  },
+  {
+    "text": "On this series, we reported\non the increasing frequency",
+    "start": 17.149,
+    "duration": 3.699
+  },
+  {
+    "text": "with which astrophysical\nliterature acknowledge a fact",
+    "start": 20.873,
+    "duration": 3.096
+  },
+  {
+    "text": "which was long verboten\nin the space sciences.",
+    "start": 23.994,
+    "duration": 2.822
+  },
+  {
+    "text": "The existence of electric currents that\nflow through the so-called vacuum of space.",
+    "start": 26.841,
+    "duration": 5.205
+  },
+  {
+    "text": "At the vastest cosmic scales, many\nastrophysicists now recognize the",
+    "start": 32.071,
+    "duration": 5.155
+  },
+  {
+    "text": "\"fundamentally electromagnetic\nstructure\" of the stupendous jets",
+    "start": 37.251,
+    "duration": 3.989
+  },
+  {
+    "text": "hundreds of thousands of light years long\nemanating from active galactic nuclei.",
+    "start": 41.265,
+    "duration": 5.039
+  },
+  {
+    "text": "At a much smaller scale, in our own\nneighborhood in the solar system,",
+    "start": 46.329,
+    "duration": 3.978
+  },
+  {
+    "text": "electric current systems are known to\nlink the gas giants Jupiter and Saturn",
+    "start": 50.308,
+    "duration": 4.499
+  },
+  {
+    "text": "with their respective moons.",
+    "start": 54.808,
+    "duration": 2.071
+  },
+  {
+    "text": "And on our own planet, in recent\nyears with improved technology",
+    "start": 56.904,
+    "duration": 3.975
+  },
+  {
+    "text": "has come ever finer evidence of\ntremendous electric currents",
+    "start": 60.904,
+    "duration": 3.746
+  },
+  {
+    "text": "that are connected to\npreviously unknown phenomena.",
+    "start": 64.675,
+    "duration": 3.146
+  },
+  {
+    "text": "In 2017, we reported on the discovery\nof so-called supersonic plasma jets",
+    "start": 67.846,
+    "duration": 5.948
+  },
+  {
+    "text": "high in the Earth's atmosphere",
+    "start": 73.819,
+    "duration": 1.748
+  },
+  {
+    "text": "which reach temperatures\napproaching 10,000 degrees Celsius.",
+    "start": 75.592,
+    "duration": 4.182
+  },
+  {
+    "text": "A Phys.org report described the\nsurprising discovery as follows,",
+    "start": 79.799,
+    "duration": 4.314
+  },
+  {
+    "text": "\"The theory that there are\nhuge electric currents,",
+    "start": 84.138,
+    "duration": 2.743
+  },
+  {
+    "text": "powered by solar wind and guided through\nthe ionosphere by Earth's magnetic field,",
+    "start": 86.906,
+    "duration": 4.677
+  },
+  {
+    "text": "was postulated more than a century ago by\nNorwegian scientist Kristian Birkeland...",
+    "start": 91.608,
+    "duration": 4.777
+  },
+  {
+    "text": "While much is known about\nthese current systems,",
+    "start": 96.41,
+    "duration": 2.855
+  },
+  {
+    "text": "recent observations...have revealed that they\nare associated with large electrical fields.\"",
+    "start": 99.29,
+    "duration": 5.438
+  },
+  {
+    "text": "Nevertheless, antiquated\nnotions of charge neutrality",
+    "start": 104.753,
+    "duration": 3.995
+  },
+  {
+    "text": "and disconnected bodies in empty space\ncontinue to dominate the space sciences.",
+    "start": 108.773,
+    "duration": 5.352
+  },
+  {
+    "text": "In this episode, our guest Richard Moore\nexplores the role of electric currents",
+    "start": 114.15,
+    "duration": 5.183
+  },
+  {
+    "text": "called Birkeland currents throughout\nour electric solar system.",
+    "start": 119.358,
+    "duration": 4.21
+  },
+  {
+    "text": "We're on the verge of a paradigm\nshift in cosmology",
+    "start": 123.593,
+    "duration": 4.367
+  },
+  {
+    "text": "and it's being pursued\nby the scientists",
+    "start": 127.985,
+    "duration": 3.975
+  },
+  {
+    "text": "that are putting together something\ncalled the Electric Universe model.",
+    "start": 131.985,
+    "duration": 3.84
+  },
+  {
+    "text": "And it's really rather unique\nkind of collaboration going on,",
+    "start": 135.85,
+    "duration": 4.215
+  },
+  {
+    "text": "kind of ironic collaboration,",
+    "start": 140.09,
+    "duration": 1.784
+  },
+  {
+    "text": "where the EU scientists\nare pursuing the theory",
+    "start": 141.899,
+    "duration": 4.099
+  },
+  {
+    "text": "and doing experiments that can\nbe done in the laboratory.",
+    "start": 146.023,
+    "duration": 3.47
+  },
+  {
+    "text": "And then meanwhile, the\nmainstream cosmologists",
+    "start": 149.518,
+    "duration": 3.58
+  },
+  {
+    "text": "who completely dismiss the model\nor even ignore it entirely,",
+    "start": 153.099,
+    "duration": 3.712
+  },
+  {
+    "text": "ironically they are helping develop the\nEU model with all of their space probes",
+    "start": 156.836,
+    "duration": 6.379
+  },
+  {
+    "text": "because every\nsingle space probe",
+    "start": 163.24,
+    "duration": 2.652
+  },
+  {
+    "text": "is, turns out to be confirming,\nverifying the EU model",
+    "start": 165.917,
+    "duration": 5.518
+  },
+  {
+    "text": "and even though that's happening",
+    "start": 171.46,
+    "duration": 1.905
+  },
+  {
+    "text": "the mainstream still doesn't\nrecognize what they're doing.",
+    "start": 173.39,
+    "duration": 4.179
+  },
+  {
+    "text": "So it's a very interesting kind of ironic\ncollaboration between pioneers on the one hand",
+    "start": 177.594,
+    "duration": 5.935
+  },
+  {
+    "text": "and the mainstream people who don't\nrealize quite what's going on.",
+    "start": 183.554,
+    "duration": 3.748
+  },
+  {
+    "text": "So it all started, I think, with\nKristian Birkeland way back in 1908.",
+    "start": 187.327,
+    "duration": 5.187
+  },
+  {
+    "text": "Combination of experiments and\ngoing out and observing the Aurora,",
+    "start": 192.539,
+    "duration": 3.892
+  },
+  {
+    "text": "he came up with the theory",
+    "start": 196.456,
+    "duration": 1.726
+  },
+  {
+    "text": "that the Auroras are caused by the\nelectric current from the Sun.",
+    "start": 198.207,
+    "duration": 3.602
+  },
+  {
+    "text": "This was completely rejected\nby the mainstream cosmologists",
+    "start": 201.834,
+    "duration": 4.091
+  },
+  {
+    "text": "primarily by a man named Sidney Chapman who\nreally dismissed and attacked the whole idea",
+    "start": 205.95,
+    "duration": 5.782
+  },
+  {
+    "text": "because the mainstream people didn't\nbelieve that currents can flow through",
+    "start": 211.757,
+    "duration": 3.846
+  },
+  {
+    "text": "what they thought\nwas empty space.",
+    "start": 215.628,
+    "duration": 1.764
+  },
+  {
+    "text": "But then, in 2007, just\nabout a century later,",
+    "start": 217.417,
+    "duration": 4.132
+  },
+  {
+    "text": "the THEMIS satellites found evidence\nof what they called magnetic ropes",
+    "start": 221.574,
+    "duration": 4.919
+  },
+  {
+    "text": "connecting the Earth's upper atmosphere\ndirectly to the Sun.",
+    "start": 226.518,
+    "duration": 3.321
+  },
+  {
+    "text": "In other words, they were confirming\nKristian Birkeland's original theory.",
+    "start": 229.864,
+    "duration": 4.824
+  },
+  {
+    "text": "So what they did, they described\nit as thirty kilovolt battery in the space",
+    "start": 234.713,
+    "duration": 5.203
+  },
+  {
+    "text": "creating flux rope pumps\ninto the upper atmosphere.",
+    "start": 239.941,
+    "duration": 5.362
+  },
+  {
+    "text": "Even though it was confirming\nBirkeland's theories,",
+    "start": 245.328,
+    "duration": 3.712
+  },
+  {
+    "text": "they didn't really quite see it as\ncurrents, they saw it as magnetic ropes.",
+    "start": 249.065,
+    "duration": 4.82
+  },
+  {
+    "text": "Now, the reason that the\ncurrent comes in at the poles",
+    "start": 253.91,
+    "duration": 3.831
+  },
+  {
+    "text": "is because of the\nEarth's magnetic field.",
+    "start": 257.766,
+    "duration": 2.199
+  },
+  {
+    "text": "As the current comes\nout from the Sun,",
+    "start": 259.99,
+    "duration": 2.165
+  },
+  {
+    "text": "it's focused in by the\nmagnetic field into the poles.",
+    "start": 262.18,
+    "duration": 3.91
+  },
+  {
+    "text": "These currents that come\nfrom the Sun to the Earth,",
+    "start": 266.115,
+    "duration": 2.958
+  },
+  {
+    "text": "the mainstream calls\nthat the solar wind",
+    "start": 269.098,
+    "duration": 2.994
+  },
+  {
+    "text": "as if it was something blown away\nfrom the Sun by kinetic forces.",
+    "start": 272.117,
+    "duration": 4.347
+  },
+  {
+    "text": "They aren't really recognizing\nthat it's an electrical gradient",
+    "start": 276.489,
+    "duration": 3.449
+  },
+  {
+    "text": "which is causing the current to flow\nout to the Earth and other planets.",
+    "start": 279.963,
+    "duration": 3.84
+  },
+  {
+    "text": "So now let's take a look at the\nstructure of the Birkeland current.",
+    "start": 283.828,
+    "duration": 4.354
+  },
+  {
+    "text": "As a current flows through\nplasma, it creates its own magnetic field",
+    "start": 288.207,
+    "duration": 5.656
+  },
+  {
+    "text": "which contains itself, forces it to be\nfocused into these rope-like currents.",
+    "start": 293.888,
+    "duration": 6.354
+  },
+  {
+    "text": "And in 2016, one of these\nspace probes found",
+    "start": 300.267,
+    "duration": 6.269
+  },
+  {
+    "text": "that these rope-like\ncurrents go into Saturn.",
+    "start": 306.561,
+    "duration": 2.985
+  },
+  {
+    "text": "So it's showing that the currents go\nall the way through the solar system",
+    "start": 309.571,
+    "duration": 4.398
+  },
+  {
+    "text": "reaching even the outer planets,\njust as they do with the Earth.",
+    "start": 313.994,
+    "duration": 4.851
+  },
+  {
+    "text": "So again, mainstream cosmologists ignorant\nof the properties of Birkeland currents",
+    "start": 318.87,
+    "duration": 5.324
+  },
+  {
+    "text": "attribute this rope shape to an imaginary\nthing they call magnetic reconnection.",
+    "start": 324.219,
+    "duration": 5.334
+  },
+  {
+    "text": "In fact, in this image we can\nsee that there's a gradient",
+    "start": 329.578,
+    "duration": 4.578
+  },
+  {
+    "text": "with the Sun being more positive and the\nouter shell of the heliosphere more negative",
+    "start": 334.181,
+    "duration": 5.319
+  },
+  {
+    "text": "so that there's this gradient\nthat forces electrons toward the Sun",
+    "start": 339.525,
+    "duration": 4.747
+  },
+  {
+    "text": "and positive ions\naway from the Sun.",
+    "start": 344.3,
+    "duration": 2.413
+  },
+  {
+    "text": "So what they call a wind is\nactually an electrical gradient",
+    "start": 346.738,
+    "duration": 4.916
+  },
+  {
+    "text": "which is what causes these\ncurrents to come out from the Sun.",
+    "start": 351.679,
+    "duration": 3.767
+  },
+  {
+    "text": "And then, another probe, we\ncan see in this NASA study,",
+    "start": 355.471,
+    "duration": 4.463
+  },
+  {
+    "text": "they found that there's a\nflow of electrical energy",
+    "start": 359.959,
+    "duration": 3.583
+  },
+  {
+    "text": "that goes by every moon, every\nplanet, every asteroid and comet,",
+    "start": 363.567,
+    "duration": 4.053
+  },
+  {
+    "text": "are all influenced in one way\nor another by these currents",
+    "start": 367.645,
+    "duration": 4.097
+  },
+  {
+    "text": "which the mainstream\ncontinues to call - a wind.",
+    "start": 371.767,
+    "duration": 3.806
+  },
+  {
+    "text": "Now, let's look a little closer at\nwhat a Birkeland current is like.",
+    "start": 376.168,
+    "duration": 4.916
+  },
+  {
+    "text": "Each one of the\nstrands of the rope,",
+    "start": 381.109,
+    "duration": 2.277
+  },
+  {
+    "text": "as we can see in this image and\nlooking at a cross-section,",
+    "start": 383.411,
+    "duration": 3.395
+  },
+  {
+    "text": "it's made of concentric cylinders of current\nthat rotate in alternate directions",
+    "start": 386.831,
+    "duration": 6.317
+  },
+  {
+    "text": "and we can actually, again, with\nthe help of mainstream probes,",
+    "start": 393.173,
+    "duration": 4.467
+  },
+  {
+    "text": "we can see this counter rotation,",
+    "start": 397.665,
+    "duration": 2.613
+  },
+  {
+    "text": "we can see it happening in\nthe Aurora on the Earth.",
+    "start": 400.303,
+    "duration": 3.517
+  },
+  {
+    "text": "And then we can also see it in the\npoles of Jupiter, Saturn and Neptune.",
+    "start": 403.845,
+    "duration": 6.529
+  },
+  {
+    "text": "Clearly, these are all caused\nby the same phenomenon,",
+    "start": 410.399,
+    "duration": 2.865
+  },
+  {
+    "text": "these counter-rotating\nBirkeland currents.",
+    "start": 413.289,
+    "duration": 2.345
+  },
+  {
+    "text": "Now, in the case of\na planet like Mars,",
+    "start": 415.659,
+    "duration": 3.038
+  },
+  {
+    "text": "where they don't have a\nstrong magnetic field,",
+    "start": 418.722,
+    "duration": 2.44
+  },
+  {
+    "text": "in this image we can see that the aurora can\nhappen over the entire surface of the planet.",
+    "start": 421.187,
+    "duration": 5.023
+  },
+  {
+    "text": "Since it's not focused\ninto the poles,",
+    "start": 426.235,
+    "duration": 3.145
+  },
+  {
+    "text": "the current can come in\ntoward the planet itself",
+    "start": 429.405,
+    "duration": 2.569
+  },
+  {
+    "text": "and we can see an aurora\nover the entire surface.",
+    "start": 431.999,
+    "duration": 3.62
+  },
+  {
+    "text": "Similarly, on Mars, because there's not a magnetic\nfield to constrain the currents to the poles,",
+    "start": 435.62,
+    "duration": 7.317
+  },
+  {
+    "text": "we can have streams of currents\ncoming right down to the surface",
+    "start": 442.962,
+    "duration": 3.586
+  },
+  {
+    "text": "and creating huge tornadoes,",
+    "start": 446.573,
+    "duration": 2.769
+  },
+  {
+    "text": "electrical tornadoes that are many, many\ntimes the size of any that occur on earth.",
+    "start": 449.367,
+    "duration": 5.302
+  },
+  {
+    "text": "Now, let's move on now\nto the effect on comets.",
+    "start": 454.694,
+    "duration": 3.562
+  },
+  {
+    "text": "A comet is moving rapidly, you know,\nit has a very exagerated eliptical orbit,",
+    "start": 458.281,
+    "duration": 5.879
+  },
+  {
+    "text": "so that it's coming rapidly from the\nnegatively charged part of the solar system",
+    "start": 464.185,
+    "duration": 4.137
+  },
+  {
+    "text": "toward the more\npositively charged part.",
+    "start": 468.347,
+    "duration": 2.491
+  },
+  {
+    "text": "And that causes the\ncomet to discharge",
+    "start": 470.863,
+    "duration": 3.473
+  },
+  {
+    "text": "creating a tail that points in the\ndirection of the electrical field.",
+    "start": 474.361,
+    "duration": 5.046
+  },
+  {
+    "text": "According to the EU model then,",
+    "start": 479.432,
+    "duration": 1.808
+  },
+  {
+    "text": "the only difference between an\nasteroid and a comet is the orbit.",
+    "start": 481.265,
+    "duration": 3.392
+  },
+  {
+    "text": "It's not that there's any\ndifference in what they're made of,",
+    "start": 484.682,
+    "duration": 3.066
+  },
+  {
+    "text": "it's just because a comet has an\nexaggerated orbit and it discharges",
+    "start": 487.773,
+    "duration": 4.078
+  },
+  {
+    "text": "whereas the asteroids, which are\ncomparatively circular in their orbit,",
+    "start": 491.876,
+    "duration": 4.099
+  },
+  {
+    "text": "they don't discharge.",
+    "start": 496.0,
+    "duration": 2.157
+  },
+  {
+    "text": "So, the mainstream has this theory\nthat comets are dusty snowballs",
+    "start": 498.158,
+    "duration": 5.217
+  },
+  {
+    "text": "and they say the tail is due to\nthe sublimation of water.",
+    "start": 503.4,
+    "duration": 4.227
+  },
+  {
+    "text": "However, when space probes have\nactually reached a comet,",
+    "start": 507.652,
+    "duration": 4.817
+  },
+  {
+    "text": "as we can see in this image, they can see\nthey're just rocky bodies, like asteroids.",
+    "start": 512.494,
+    "duration": 5.049
+  },
+  {
+    "text": "They're not at all\ndirty snowballs.",
+    "start": 517.568,
+    "duration": 2.505
+  },
+  {
+    "text": "So, once again, the mainstream is confirming\nand verifying with their probes",
+    "start": 520.098,
+    "duration": 4.343
+  },
+  {
+    "text": "what the Electric Universe\nhas said all along.",
+    "start": 524.466,
+    "duration": 2.795
+  },
+  {
+    "text": "As Arthur Schopenhauer said,",
+    "start": 527.286,
+    "duration": 2.708
+  },
+  {
+    "text": "\"All truth passes\nthrough three stages.",
+    "start": 530.019,
+    "duration": 2.789
+  },
+  {
+    "text": "First, it is ridiculed.",
+    "start": 532.833,
+    "duration": 1.804
+  },
+  {
+    "text": "Second, it is violently opposed",
+    "start": 534.662,
+    "duration": 2.378
+  },
+  {
+    "text": "and then third, it is accepted\nas being self-evident.",
+    "start": 537.065,
+    "duration": 3.044
+  },
+  {
+    "text": "Now, where we are right now is that the\nEU model is being ridiculed and ignored.",
+    "start": 540.134,
+    "duration": 6.555
+  },
+  {
+    "text": "It hasn't quite been violently\nopposed yet because",
+    "start": 546.714,
+    "duration": 3.323
+  },
+  {
+    "text": "it hasn't been acknowledged enough in\nthe mainstream to even be seen as a threat",
+    "start": 550.062,
+    "duration": 5.569
+  },
+  {
+    "text": "but we can see by the trends that are\nhappening with these discoveries",
+    "start": 555.656,
+    "duration": 4.107
+  },
+  {
+    "text": "that can't go on much longer.",
+    "start": 559.788,
+    "duration": 2.412
+  }
+]

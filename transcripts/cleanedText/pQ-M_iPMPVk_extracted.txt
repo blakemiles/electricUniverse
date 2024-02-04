@@ -1,0 +1,274 @@
+[Music]
+An open question in biology is, how do the
+shapes of creatures come about? How does, for
+example, a certain frog species obtain
+its particular shape and not some other?
+How do its legs and toes and claws always get
+their particular shape and not some other?
+The same question for all the internal
+bits: the spine, the liver, the brain.
+How do each of these always come to the same
+shape and interconnect in the same way, particular
+for this species and no other. Most 
+textbooks still repeat the 70-year old idea
+that the DNA alone, somehow determines
+everything, though there is surprisingly
+little evidence for this. I would like to highlight
+some of the evidence for the role of electricity
+in how plant and animal shapes come to be,
+and also say a few words about the role
+of electric fields in how inorganic
+objects obtain their shapes.
+I was motivated to give this talk after
+reading about the work of the Michael Levin lab
+at Tufts University in Boston.
+For more than a decade, the lab of
+Dr. Levin has been overturning some long-held
+beliefs about how biological shapes arise.
+Back in the late 1950’s, when DNA was
+being discovered and its role was
+starting to be understood,
+Watson and Crick championed the idea that
+the DNA determines everything about the 
+organism. They called this the ‘Central Dogma’
+of biology. For the past 70 years,
+most textbooks and funding have
+unquestioningly followed this Dogma.
+It is a form of predeterminism
+all over again, since it assumes that the
+information flows only one way from the DNA out
+and nothing an organism could do would ever
+change that. Crick was very vocal that finally,
+he a mere man, had once and for
+all eliminated the need for a god,
+or any intelligence in the universe, since 
+everything about us flows from our DNA.
+Bombastic cheekiness aside, we can 
+still run experiments to test the idea.
+Over the past 70 years, many 
+thousands of experiments have been run
+to elucidate the role of DNA 
+in developmental biology.
+But try as we might, we could never show
+that genes actually create any forms.
+What exactly in the DNA determines that an
+arm be shaped just so, and not otherwise?
+How is the inside of the mouth formed just
+right, to meld with the nose above and the
+throat below? Search the literature and
+you will find that the best we can do
+is to show that disabling certain sections of
+DNA, will cause some body part to form
+incorrectly. But this does not mean
+that the DNA is causing the form
+of that body part. I was always 
+surprised at such sloppy thinking.
+That would be like me showing that I can
+prevent you from driving to the store if
+I give you a flat tire. Correct, you cannot
+drive to the store if you have a flat tire,
+but the tire was never the 
+cause of you going to the store.
+Just because mucking with some DNA causes
+an arm to form incorrectly, does not mean
+that the genes cause the shape of 
+the arm. Using a cooking metaphor,
+which is surprisingly accurate, ingredients 
+do not by themselves cause anything.
+You need a recipe that tells you
+what to do with the ingredients.
+And what is the meal? How many people are you
+cooking for? What is the order of the evening? All
+that makes a real difference. Our 
+genes do not necessarily tell our
+bodies what to make, or when to make it.
+These decisions are made mostly outside
+the genes. Everyone should know
+that we do not really understand
+DNA. Every decade, the advanced text-
+books need to be rewritten because we find
+out that the system is way more complicated
+than we previously thought. What we call
+genes are really a very small part of the total 
+DNA. Genes are that small part of the code
+that contain the blueprint for building 
+proteins. We still do not know what
+most of the DNA does. The collection 
+of all the genes in your DNA
+is much like a giant ingredient list. If
+you had a cookbook of all the recipes
+you could ever make and you made an
+index of all the ingredients needed for
+all those recipes, that is what the genes are.
+All the blueprints for how to make each
+of the ingredients you might ever need. But again,
+genes constitute only a very small part of the DNA.
+The work in Dr. Levin 's lab is impressive
+by any measure. These are virtuoso
+level skills. They alter the DNA of
+individual cells to change the number of
+ion pumps the cell makes for itself.
+This makes these particular cells more
+or less electrically polarized relative to what 
+they would have been in the wild-type.
+At certain times in the development of
+the embryo, if enough cells in one place
+can be tricked into creating just the right
+electrical alterations, then body parts will grow
+in that location. An eye will grow inside
+of a stomach, a toe might grow on an elbow.
+The 70-year old Central Dogma of biology
+states that DNA, isolated inside the nucleus,
+causes all shapes and forms to appear.
+What does Levin's result show?
+That an electric field external to the nucleus, 
+caused the shapes and forms to appear
+when and where they did. It does not 
+mean that the fields create the form itself,
+but it does mean that the field
+can cause the shape to appear.
+What does this mean for the Central
+Dogma? Things get really tricky,
+because Dr. Levin, in altering the
+genes in the cells, which cause
+more ion channels to form on the cell
+wall, which causes a different electrical
+potential of the cell relative to its surroundings.
+So you could argue that the DNA is
+controlling everything. But the 
+argument has become muddied.
+Why does the entire eye form in 
+the electrified location and not just
+pieces of an eye? And how is it that
+we instinctually know that the eye
+should not be in the stomach? In Levin 's cancer
+research, they show that changing wild-type
+electrical fields can start and stop
+cancer cell growth. Highly malleable cells,
+such as stem cells and cancer cells,
+have less-defined electrical potentials
+relative to their surroundings.
+Whereas healthy, mature cells have higher
+electrical potentials. One of 
+the hallmarks of cancer cells is
+that they have lost their
+relationship with the larger body.
+They are an out-of-control growth
+of cells that are part of nothing.
+They have no function beyond their self-interests.
+Here Levin 's results come very close to
+actually disproving Crick's Central Dogma
+with regard to the form and function,
+since electric fields, external to the
+nucleus, can destroy all form and function.
+On a more personal note, the Levin lab results
+are terrifying to me, because here we are
+again, bumbling into areas we do not understand
+with tools too powerful for us to wield
+with wisdom. Has this new
+technology allowed us to add
+beauty to the world? Not so far. To date we
+are only making grotesque monsters with legs
+growing out of their heads. The poor creatures
+live, somehow and it turns my stomach to
+imagine that. I'm afraid we are right
+back where we were with the DNA story.
+We knew that mucking with the DNA will cause
+monsters. And now we know that mucking with the
+electric fields will cause monsters. It 
+does not prove the DNA is causing the
+proper shape, nor does it necessarily
+prove that the electrical field
+is causing the proper shape. Dr. Levin 's
+lab is justifying all this with the
+promise of new medical treatments,
+if we can just make it through a few
+more decades of producing monsters.
+I  am also surprised that Dr. Levin does not
+seem to reference Dr. Robert
+Becker, who already showed most
+of these principles 40 years ago. You can see
+a good summary of Becker's work in his book,
+The Body Electric. Dr. Becker, a 
+practicing physician, discovered that
+controlling electric fields could heal burn
+victims and could let salamander tails grow back
+properly. Why not give credit where credit 
+is due? I fear it is because it became known
+that Robert Becker had a spiritual side. He 
+maintained that humans were more than
+just sacks of chemicals. I fear that since
+Dr. Becker did not believe in pure materialist
+reductionism, many journals will
+not allow reference to his work.
+Let us look at two more sets of
+experiments from Dr. Levin 's lab.
+Then we can step back and
+ask, why does it all matter?
+These experiments involve planarian flat worms.
+In the wild, if the tail of the worm gets
+chopped off, then a new tail will 
+grow. If the head of the worm gets
+chopped off, a new head will grow,
+brain and all. Pretty amazing.
+The wild-type worm has an
+electrical gradient along its body,
+more positive towards the head.
+The researchers cut off the tail.
+Then artificially gave that end a positive charge.
+This caused a new head to grow off the
+back end. We now have a new
+shape: a two-headed worm.
+This new two-headed worm then propagates.
+It reproduces asexually, as all
+planarians do. Is this a new species? I think so.
+Yet the DNA has not changed. You can see
+that the connection between the DNA
+of the animal and the shape of the
+animal is becoming less clear. How could
+the DNA remember that this new worm species
+has two heads? So, all future 
+progeny must also have two heads.
+Returning to the cooking metaphor. It looks
+like the genes are available to get the raw
+ingredients produced, but the recipe
+and the plans for the full meal are
+being handled at quite another level,
+quite outside the world of genes.
+In a different experiment, they went 
+to the wild-type, cut off its head,
+then while the new head was forming,
+they modified the electrical potential of some
+cells and ended up producing the head
+and brain types of another species
+of planaria. Let that sink in. The DNA 
+is still that of the original species,
+but the form, the shape, of the new worm
+head, is that of a related species of worm.
+We have created a new species,
+but we have not altered the DNA.
+In my opinion, any notion of DNA
+determining the shapes of creatures
+is on pretty shaky ground. Why 
+does any of this matter? It matters
+because the story of DNA that we grew
+up with and still teach to our children,
+is not only wrong. It is actually harmful
+to our spirit because it gives us a false
+understanding of ourselves and of
+our relationship to the universe.
+We were told that a simple molecule with
+sequences of four molecular letters determines
+everything about us. We were assured
+that not only our shape, but our entire
+being is supposedly a simple unfolding
+of some molecular computer program into
+which we have no input. I find all 
+aspects of this dogma incorrect
+and harmful. As a scientist, I am trying to
+reconstruct a cosmology that is more accurate
+and more meaningful. In the second half we
+will look at the question of whether matter
+is even capable of organizing itself. And if not,
+then where could all these shapes be coming from?
+[Music]

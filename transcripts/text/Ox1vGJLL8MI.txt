@@ -1,0 +1,577 @@
+[
+  {
+    "text": "[Music]",
+    "start": 2.3,
+    "duration": 5.37
+  },
+  {
+    "text": "Awareness of plasma behavior changes everything.",
+    "start": 13.04,
+    "duration": 3.99
+  },
+  {
+    "text": "I've outlined in the previous episodes of this story arc\nhow it expands explanatory opportunities into domains",
+    "start": 17.03,
+    "duration": 8.24
+  },
+  {
+    "text": "of greater size and power and intricacy \nthan is possible with ideas of gas and gravity.",
+    "start": 25.27,
+    "duration": 7.37
+  },
+  {
+    "text": "More and bigger events can happen faster\nand with discontinuous changes and",
+    "start": 32.64,
+    "duration": 5.2
+  },
+  {
+    "text": "emergent properties not present in individual elements.\nIt changes how we think along with what we think.",
+    "start": 37.84,
+    "duration": 8.48
+  },
+  {
+    "text": "The change in thinking will affect not only the underlying\nmetaphysical assumptions of the physical sciences, but",
+    "start": 46.32,
+    "duration": 6.64
+  },
+  {
+    "text": "also those of other areas of thought such as \nhistory. It affects not only past thinking, but",
+    "start": 52.96,
+    "duration": 6.64
+  },
+  {
+    "text": "also modern thinking. In this episode we'll \nbe playing with the recent centuries’ thinking.",
+    "start": 59.6,
+    "duration": 7.6
+  },
+  {
+    "text": "One implication of faster is a shortening of history.\nAncient history, which is stories we tell in the present,",
+    "start": 67.2,
+    "duration": 8.0
+  },
+  {
+    "text": "is based largely on our present interpretations of\ntexts, which were written by and for the rulers.",
+    "start": 75.2,
+    "duration": 7.27
+  },
+  {
+    "text": "It's no secret that their purpose was not to produce\nan objective and dispassionate account of events,",
+    "start": 82.47,
+    "duration": 6.89
+  },
+  {
+    "text": "but to justify and to glorify the king. It's more\naccurate to call them propaganda than records. It's not",
+    "start": 89.36,
+    "duration": 7.75
+  },
+  {
+    "text": "surprising that they contain many paradoxes.\nThose paradoxes may be partly resolved",
+    "start": 97.11,
+    "duration": 6.81
+  },
+  {
+    "text": "with stratigraphy-based and cataclysm\nbenchmark revisions. For example, the history -",
+    "start": 103.92,
+    "duration": 7.36
+  },
+  {
+    "text": "I should say histories, because there are several\nconflicting ones - of the roman empire seems to describe",
+    "start": 111.28,
+    "duration": 7.76
+  },
+  {
+    "text": "three episodes that are largely repeats\nof each other. Emperors with similar",
+    "start": 119.04,
+    "duration": 5.43
+  },
+  {
+    "text": "names, but in different locations, and\nassigned to different times, engaged in",
+    "start": 124.47,
+    "duration": 5.84
+  },
+  {
+    "text": "similar activities and succeeded each other in similar\nsequences. The stratigraphy of the ruins has always",
+    "start": 130.31,
+    "duration": 7.37
+  },
+  {
+    "text": "been confusing; it's as if strata also repeated themselves\nafter an unknown dark age, the historian's equivalent of",
+    "start": 137.68,
+    "duration": 8.8
+  },
+  {
+    "text": "the astronomer’s dark matter. And the end of each episode\nwas marked by catastrophic destruction and tales of",
+    "start": 146.48,
+    "duration": 8.16
+  },
+  {
+    "text": "comets, bloody auroras, plagues and earthquakes.\nEach episode was located in a different region.",
+    "start": 154.64,
+    "duration": 6.31
+  },
+  {
+    "text": "The Early Empire in the East collapsed in the 3rd\ncentury CE. The Middle Empire in Europe collapsed in the",
+    "start": 160.95,
+    "duration": 7.85
+  },
+  {
+    "text": "6th century CE, and the Late Empire, around\nItaly, collapsed in the 10th century CE.",
+    "start": 168.8,
+    "duration": 7.68
+  },
+  {
+    "text": "One revision, to be found at Q-mag.org, proposes that\nthe three episodes occurred simultaneously in the three",
+    "start": 176.48,
+    "duration": 8.39
+  },
+  {
+    "text": "regions and were recorded with the\nregional characteristics and customs.",
+    "start": 184.87,
+    "duration": 5.44
+  },
+  {
+    "text": "Afterward, historians stitched them\ntogether diachronically in a sequence.",
+    "start": 190.31,
+    "duration": 5.53
+  },
+  {
+    "text": "The benchmarks are collapses, which were \na single, regional if not global, cataclysm.",
+    "start": 195.84,
+    "duration": 6.39
+  },
+  {
+    "text": "Suggestively, tree ring and other physical anomalies have\nbeen associated with those dates, indicating that the",
+    "start": 202.23,
+    "duration": 6.97
+  },
+  {
+    "text": "collapse was environmental, as well as \ncivilizational. The revisionist proposal is that the",
+    "start": 209.2,
+    "duration": 6.56
+  },
+  {
+    "text": "first millennium of the common era actually\nhad a duration of only three to four centuries.",
+    "start": 215.76,
+    "duration": 8.24
+  },
+  {
+    "text": "Other revisionists contend that something similar\nhappened with the first three centuries of the second",
+    "start": 224.0,
+    "duration": 5.84
+  },
+  {
+    "text": "millennium. If all these revisions hold up, the \nduration of the common era would be cut in half.",
+    "start": 229.84,
+    "duration": 8.08
+  },
+  {
+    "text": "Furthermore, other stratigraphic investigations\nwith similar catastrophic benchmarks in mind,",
+    "start": 237.92,
+    "duration": 6.31
+  },
+  {
+    "text": "suggest the necessity of revising BCE history.\nThere are many instances of similar",
+    "start": 244.23,
+    "duration": 6.17
+  },
+  {
+    "text": "events, and similar names, in different\nregions and assigned to different times.",
+    "start": 250.4,
+    "duration": 6.32
+  },
+  {
+    "text": "Many civilizations collapsed suddenly in\nall-consuming devastations of fire and",
+    "start": 256.72,
+    "duration": 5.44
+  },
+  {
+    "text": "earthquake and they left similar strata.\nAgain, if all revisions hold up, the three",
+    "start": 262.16,
+    "duration": 6.72
+  },
+  {
+    "text": "millennia or so of that era would collapse\ninto something on the order of one millennium.",
+    "start": 268.88,
+    "duration": 6.8
+  },
+  {
+    "text": "In total, the conventional five millennia of\nwestern history actually would have lasted only",
+    "start": 275.68,
+    "duration": 6.72
+  },
+  {
+    "text": "two millennia. Again, my point is not to argue\nfor these shockingly extreme revisions, but to",
+    "start": 282.4,
+    "duration": 8.15
+  },
+  {
+    "text": "suggest the more extensive possibilities\nof the wider sensibilities implied by",
+    "start": 290.63,
+    "duration": 5.37
+  },
+  {
+    "text": "plasma behavior and a larger and faster world-\nview. If the energy distribution of space",
+    "start": 296.0,
+    "duration": 7.6
+  },
+  {
+    "text": "plasma phenomena follows a power law,\nlower-energy events would be more common",
+    "start": 303.6,
+    "duration": 5.28
+  },
+  {
+    "text": "than higher-energy ones, and the\ncatastrophic episodes would be",
+    "start": 308.88,
+    "duration": 3.92
+  },
+  {
+    "text": "interspersed with more moderate disruptive events.\nFor example, the Carrington event of 1859",
+    "start": 312.8,
+    "duration": 6.95
+  },
+  {
+    "text": "has been attributed to a solar flare.\nThe flare caused a magnetic storm that,",
+    "start": 319.75,
+    "duration": 5.53
+  },
+  {
+    "text": "among other effects, induced anomalous currents\nin the recently erected telegraph network.",
+    "start": 325.28,
+    "duration": 6.63
+  },
+  {
+    "text": "Sparks flew between the wires and\nsupports; operators were shocked and some",
+    "start": 331.91,
+    "duration": 5.45
+  },
+  {
+    "text": "were able to send messages after\ndisconnecting from the power sources.",
+    "start": 337.36,
+    "duration": 5.11
+  },
+  {
+    "text": "In 2012 a flare of similar magnitude missed the earth\nby nine days. If it had hit with the same intensity as",
+    "start": 342.47,
+    "duration": 8.65
+  },
+  {
+    "text": "the Carrington event, it would have\nknocked out power grids and distribution",
+    "start": 351.12,
+    "duration": 4.4
+  },
+  {
+    "text": "stations and perhaps have damaged many electronics.\nThat would have been disruptive, but not",
+    "start": 355.52,
+    "duration": 6.08
+  },
+  {
+    "text": "empire-ending catastrophic. The Great Chicago Fire\nof 1871, if neglected reports are anywhere close",
+    "start": 361.6,
+    "duration": 10.15
+  },
+  {
+    "text": "to accurate, occurred at the same time to the\nhour as the Peshtigo Fire, farther to the north.",
+    "start": 371.75,
+    "duration": 7.28
+  },
+  {
+    "text": "Stories of widespread prairie fires at\nabout the same time trickled back from",
+    "start": 379.03,
+    "duration": 4.41
+  },
+  {
+    "text": "trappers and homesteaders on the plains.\nAltogether, the reports suggest the",
+    "start": 383.44,
+    "duration": 5.59
+  },
+  {
+    "text": "occurrence of a conflagration that covered the\nnorthern plains from Wisconsin to the Rockies.",
+    "start": 389.03,
+    "duration": 6.25
+  },
+  {
+    "text": "A few reports of strange fires came from San Francisco.\nSome eyewitnesses claimed that tornadoes",
+    "start": 395.28,
+    "duration": 7.03
+  },
+  {
+    "text": "of fire descended from the sky, and that \nwood and stone buildings alike were consumed.",
+    "start": 402.31,
+    "duration": 6.81
+  },
+  {
+    "text": "Some victims fell dead in unburned fields.\nAnd some bodies were unmarked, but",
+    "start": 409.12,
+    "duration": 5.35
+  },
+  {
+    "text": "had coins in their pockets that were melted.\nHow much of this might be fire-induced",
+    "start": 414.47,
+    "duration": 5.28
+  },
+  {
+    "text": "fantasy, and how much might be the\npreviously unrecognized effects of a",
+    "start": 419.75,
+    "duration": 4.88
+  },
+  {
+    "text": "region-wide plasma discharge from space?\nSetting willful belief and disbelief aside,",
+    "start": 424.63,
+    "duration": 7.53
+  },
+  {
+    "text": "how might these stories be tested? In 1871 such\nreports were entertainment, except in Chicago.",
+    "start": 432.16,
+    "duration": 10.64
+  },
+  {
+    "text": "Today, when much of the country has become\nChicago, such an event would be catastrophic.",
+    "start": 442.8,
+    "duration": 5.67
+  },
+  {
+    "text": "A global catastrophic event would\ncause everyone to respond with typical",
+    "start": 448.47,
+    "duration": 5.44
+  },
+  {
+    "text": "trauma-induced behavior such as denial,\namnesia and compulsive repetition or acting out.",
+    "start": 453.91,
+    "duration": 7.84
+  },
+  {
+    "text": "The psychological knot of fixation from the\ntrauma would be unconscious and long- lasting.",
+    "start": 461.75,
+    "duration": 5.69
+  },
+  {
+    "text": "It would produce similar images and\nfolklore around the globe, transmitted by",
+    "start": 467.44,
+    "duration": 4.96
+  },
+  {
+    "text": "traditions and culture. Perhaps also by some genetic\nmechanism. Carl Jung, among many psychologists,",
+    "start": 472.4,
+    "duration": 7.6
+  },
+  {
+    "text": "discovered that some of his patients\nreproduced images from antiquity or myth",
+    "start": 480.0,
+    "duration": 4.63
+  },
+  {
+    "text": "that they would not likely have seen in their \ndaily lives. The neurotic behavioral emergence of",
+    "start": 484.63,
+    "duration": 6.81
+  },
+  {
+    "text": "repressed global trauma from the age of\nmyth would be masked by amnesia and",
+    "start": 491.44,
+    "duration": 5.03
+  },
+  {
+    "text": "denial, as well as by the absence of\ncontrasting behavior. Everybody does it.",
+    "start": 496.47,
+    "duration": 6.09
+  },
+  {
+    "text": "But it would result in imitating the old\ngripping stories about a war of the gods.",
+    "start": 502.56,
+    "duration": 6.16
+  },
+  {
+    "text": "One should ask, why do they grip? Much of \nhumanity's present behavior that strikes us as crazy -",
+    "start": 508.72,
+    "duration": 7.83
+  },
+  {
+    "text": "wars, much of politics, much of religion, even much\nof science - may be the neurotic consequences of",
+    "start": 516.55,
+    "duration": 7.93
+  },
+  {
+    "text": "traumatic global catastrophes in a not so distant \npast. One example may be the ubiquity of a",
+    "start": 524.48,
+    "duration": 7.91
+  },
+  {
+    "text": "mythic theme of centralization and hierarchy. The heavenly\ncity of the gods, with power radiating from the center.",
+    "start": 532.39,
+    "duration": 8.0
+  },
+  {
+    "text": "The mythic compulsion is, ‘as above, so below’. We must\nimitate the gods. So people build centrally arranged",
+    "start": 540.39,
+    "duration": 9.37
+  },
+  {
+    "text": "cities with city centers dominated by towers and ringed\nwith suburbs. They organize societies into centrally",
+    "start": 549.76,
+    "duration": 7.6
+  },
+  {
+    "text": "commanded states with a ruler - king,\npresident, or even bureaucracy - at the top.",
+    "start": 557.36,
+    "duration": 6.47
+  },
+  {
+    "text": "They regiment themselves into military chains-\nof-command. Their family structures follow the",
+    "start": 563.83,
+    "duration": 5.85
+  },
+  {
+    "text": "pattern of patriarchy, father rule. The compulsion is\ncontained in the suffix archy, rule, exerting power over",
+    "start": 569.68,
+    "duration": 9.12
+  },
+  {
+    "text": "others as the gods did over our ancestors, as \ndistinguished from intrinsic development or mutual",
+    "start": 578.8,
+    "duration": 6.56
+  },
+  {
+    "text": "cooperation or symbiosis. People say that's just\nnatural; that other animal species do those things too.",
+    "start": 585.36,
+    "duration": 8.4
+  },
+  {
+    "text": "But that would be the meaning of global\ntrauma. All species would be traumatized.",
+    "start": 593.76,
+    "duration": 6.07
+  },
+  {
+    "text": "Outside of hierarchy, strictly speaking,\nmost organization in life is networking.",
+    "start": 599.83,
+    "duration": 6.81
+  },
+  {
+    "text": "Someone must be in charge, people say,\nbut who commands the flowers to bloom?",
+    "start": 606.64,
+    "duration": 7.43
+  },
+  {
+    "text": "We want to attribute such events, if we even recognize\nthem, to far-away places or to long-ago times.",
+    "start": 614.07,
+    "duration": 7.13
+  },
+  {
+    "text": "We want to believe that our world is stable,\nand that such cataclysms are impossible.",
+    "start": 621.2,
+    "duration": 5.68
+  },
+  {
+    "text": "But in a plasma universe they impinge on us. The traumatic\nevents are more recent and more likely to repeat.",
+    "start": 626.88,
+    "duration": 7.51
+  },
+  {
+    "text": "Our PTSD is stronger and more pervasive than we\nwould like to admit. The terror is closer to hand.",
+    "start": 634.39,
+    "duration": 7.77
+  },
+  {
+    "text": "The repressed memories leak out in\nanxieties of a looming doomsday. Climate",
+    "start": 642.16,
+    "duration": 5.76
+  },
+  {
+    "text": "change, pandemic, nuclear war, famine, civilizational\ncollapse. At the same time, the shift from a gas-",
+    "start": 647.92,
+    "duration": 9.35
+  },
+  {
+    "text": "and gravity cosmology, unsettles our\nmistaken certainty in that understanding.",
+    "start": 657.27,
+    "duration": 5.93
+  },
+  {
+    "text": "The novel and bigger understanding in\nthe makings of a plasma and electricity",
+    "start": 663.2,
+    "duration": 4.72
+  },
+  {
+    "text": "cosmology, is flooded with uncertainty.\nWe're at the beginning, and what we think",
+    "start": 667.92,
+    "duration": 5.35
+  },
+  {
+    "text": "we know about plasma is surely little\nmore than a glimpse at this time.",
+    "start": 673.27,
+    "duration": 5.05
+  },
+  {
+    "text": "Our world no longer makes as much sense as \nit did. Having said that, that humanity may be",
+    "start": 678.32,
+    "duration": 7.36
+  },
+  {
+    "text": "neurotic, I must remind myself of what Thomas\nSzasz, a controversial psychiatrist wrote,",
+    "start": 685.68,
+    "duration": 6.56
+  },
+  {
+    "text": "”To the psychiatrist the neurosis is the problem,\nbut to the patient the neurosis is the solution.”",
+    "start": 692.24,
+    "duration": 7.83
+  },
+  {
+    "text": "A neurosis is a coping or adapting mechanism,\nhowever sub-optimal, that aids survival.",
+    "start": 700.07,
+    "duration": 6.73
+  },
+  {
+    "text": "You have to dig a lot deeper than superficial\nsimilarities to understand what humanity's problem is.",
+    "start": 706.8,
+    "duration": 6.56
+  },
+  {
+    "text": "In view of the global trauma that may have\nhappened, we shouldn't be too hard on ourselves.",
+    "start": 713.36,
+    "duration": 6.08
+  },
+  {
+    "text": "We're doing pretty well. We crave answers,\nbut at this time what we need are questions.",
+    "start": 719.44,
+    "duration": 8.16
+  },
+  {
+    "text": "What we need is to expand opportunity of thinking\nas we've expanded our observational ability.",
+    "start": 727.6,
+    "duration": 6.56
+  },
+  {
+    "text": "For example, the Palomar telescope, which\naccompanied Big Bang thinking, has been",
+    "start": 734.16,
+    "duration": 4.79
+  },
+  {
+    "text": "expanded into the James Webb \nTelescope. But its images are still",
+    "start": 738.95,
+    "duration": 5.05
+  },
+  {
+    "text": "being interpreted with Big Bang thinking.\nWe crave certainty, which can only be had",
+    "start": 744.0,
+    "duration": 5.36
+  },
+  {
+    "text": "with an act of will, and a leap into belief, with the\nconsequent restriction of opportunity of thinking.",
+    "start": 749.36,
+    "duration": 7.27
+  },
+  {
+    "text": "What we need is doubt, especially with regard \nto the belief-fortified dogmas of modern science.",
+    "start": 756.63,
+    "duration": 8.0
+  },
+  {
+    "text": "What we need is not to take any of this too \nseriously. We need to be playing with thinking.",
+    "start": 764.63,
+    "duration": 8.77
+  },
+  {
+    "text": "[Music]",
+    "start": 773.4,
+    "duration": 34.72
+  }
+]

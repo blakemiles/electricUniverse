@@ -1,0 +1,1202 @@
+[
+  {
+    "text": "[Music]",
+    "start": 2.3,
+    "duration": 5.37
+  },
+  {
+    "text": "Every butte has a crack, but not \nall cracks are beautiful. Though",
+    "start": 11.12,
+    "duration": 5.2
+  },
+  {
+    "text": "some are magnificent, ruler-straight and\nparallel, some can be ugly, chaotic mangles.",
+    "start": 16.32,
+    "duration": 6.08
+  },
+  {
+    "text": "But there's a quixotic pattern to ugly\ncracks, so we must not discriminate.",
+    "start": 22.4,
+    "duration": 4.95
+  },
+  {
+    "text": "Whether they make lovely geometric\nshapes or chaotic mangles, a study of",
+    "start": 27.35,
+    "duration": 4.49
+  },
+  {
+    "text": "cracks is essential to Electric Universe science.\nThe reason is cracks are interfaces –",
+    "start": 31.84,
+    "duration": 6.96
+  },
+  {
+    "text": "boundary layers – and electrically,\nthat's where the action is.",
+    "start": 38.8,
+    "duration": 3.91
+  },
+  {
+    "text": "To understand any geology, the first\nthing to look for is boundary layers.",
+    "start": 42.71,
+    "duration": 4.81
+  },
+  {
+    "text": "Charge collects at boundary layers where\nit displays the effects of inductance",
+    "start": 47.52,
+    "duration": 4.0
+  },
+  {
+    "text": "and capacitance most prominently.\nTo begin with, the outside of Earth's",
+    "start": 51.52,
+    "duration": 4.55
+  },
+  {
+    "text": "crust is a boundary layer. Sonic\nshockwaves made the geometry, and",
+    "start": 56.07,
+    "duration": 5.05
+  },
+  {
+    "text": "electricity made the chemistry. Wind, \nalso motivated by electric currents,",
+    "start": 61.12,
+    "duration": 5.76
+  },
+  {
+    "text": "made things move – kinetics. Energy \ncame from within the Earth as a",
+    "start": 66.88,
+    "duration": 4.96
+  },
+  {
+    "text": "release of stored capacitance. That in a \nnutshell explains the face of the Earth.",
+    "start": 71.84,
+    "duration": 6.0
+  },
+  {
+    "text": "The creation of virtually every\nmountain, hill, and dale on the planet is",
+    "start": 77.84,
+    "duration": 3.2
+  },
+  {
+    "text": "summarized in those sentences.\nThe devil is in the details, however, so",
+    "start": 81.04,
+    "duration": 5.36
+  },
+  {
+    "text": "that's why we're looking at cracks.\nCracks are the remnant of capacitor",
+    "start": 86.4,
+    "duration": 5.6
+  },
+  {
+    "text": "interfaces in Nature's circuitry. They are\nboundary layers between different materials.",
+    "start": 92.0,
+    "duration": 6.24
+  },
+  {
+    "text": "The boundary layer separates two dielectrics\nwith a double layer of charge – a capacitor.",
+    "start": 98.24,
+    "duration": 6.15
+  },
+  {
+    "text": "The dielectric difference was due to\ndifference in dielectric properties of the",
+    "start": 104.39,
+    "duration": 4.08
+  },
+  {
+    "text": "material at the time it was laid down by plasma\nwinds. The dielectric properties differed due",
+    "start": 108.47,
+    "duration": 7.05
+  },
+  {
+    "text": "to the elemental and molecular makeup of the\nmaterial and the state it was in at the time.",
+    "start": 115.52,
+    "duration": 6.16
+  },
+  {
+    "text": "The material's temperature, density and \npressure influenced the material’s dielectric, and",
+    "start": 121.68,
+    "duration": 5.43
+  },
+  {
+    "text": "shockwaves produce sharp\ndiscontinuities in pressure, density,",
+    "start": 127.11,
+    "duration": 4.25
+  },
+  {
+    "text": "temperature, as well as charge density.\nFirst, let's dismiss cracks that aren't",
+    "start": 131.36,
+    "duration": 5.51
+  },
+  {
+    "text": "part of the electric circuit we want to examine.\nSome cracks are from thermal stresses as",
+    "start": 136.87,
+    "duration": 5.77
+  },
+  {
+    "text": "matter cooled and contracted, or\nstructural as matter shook and settled",
+    "start": 142.64,
+    "duration": 4.23
+  },
+  {
+    "text": "from seismic forces. These cracks are\ngenerally vertically aligned due to gravity.",
+    "start": 146.87,
+    "duration": 6.33
+  },
+  {
+    "text": "Gravity makes the fracture plane\nvertical because it's the path of least",
+    "start": 153.2,
+    "duration": 3.75
+  },
+  {
+    "text": "resistance, where gravity's force vector\nhas no influence holding the rock together.",
+    "start": 156.95,
+    "duration": 6.89
+  },
+  {
+    "text": "A good example is how hydraulic \nfracturing is done in oil and gas production.",
+    "start": 163.84,
+    "duration": 5.6
+  },
+  {
+    "text": "A fluid is pumped into the wellbore to\nthe bottom of the hydrocarbon formation,",
+    "start": 169.44,
+    "duration": 4.72
+  },
+  {
+    "text": "and pressurized until the wellbore\npressure exceeds the overburden pressure.",
+    "start": 174.16,
+    "duration": 5.43
+  },
+  {
+    "text": "Fluid pressure separates the rock\nvertically, creating a fissure that",
+    "start": 179.59,
+    "duration": 4.17
+  },
+  {
+    "text": "extends the contact to the wellbore upward\ninto the hydrocarbon-bearing formation.",
+    "start": 183.76,
+    "duration": 5.83
+  },
+  {
+    "text": "The practice allows access to\nhydrocarbons otherwise locked away in",
+    "start": 189.59,
+    "duration": 4.17
+  },
+  {
+    "text": "dead zones far from the well.\nBut that's just to illustrate that",
+    "start": 193.76,
+    "duration": 5.36
+  },
+  {
+    "text": "vertical fracturing is predictable, applied science.\nA cooling, contracting rock will fracture",
+    "start": 199.12,
+    "duration": 6.96
+  },
+  {
+    "text": "vertically for the same reason that\nis swelling the rock under pressure",
+    "start": 206.08,
+    "duration": 3.6
+  },
+  {
+    "text": "fractures vertically – Newton's laws.\nSome cracks are due to lightning. These",
+    "start": 209.68,
+    "duration": 7.03
+  },
+  {
+    "text": "are certainly electrical, but lightning finds its own \npath. It's not wave-guided by interfaces other",
+    "start": 216.79,
+    "duration": 6.72
+  },
+  {
+    "text": "than the surface it contacts, which \nstill leaves much freedom of motion.",
+    "start": 223.51,
+    "duration": 5.28
+  },
+  {
+    "text": "Therefore, lightning wanders, following\nconductive paths on the surface it strikes.",
+    "start": 228.79,
+    "duration": 5.29
+  },
+  {
+    "text": "It may be vertically oriented,\nvectored by the electric field,",
+    "start": 234.08,
+    "duration": 4.15
+  },
+  {
+    "text": "but it will generally not display a pure\ngeometry, such as straight lines and",
+    "start": 238.23,
+    "duration": 4.17
+  },
+  {
+    "text": "polygonal forms. Its form is chaotic.\nLightning-blasted rock often displays",
+    "start": 242.4,
+    "duration": 7.6
+  },
+  {
+    "text": "shearing where the blast fractured rock,\nor melting, burning or chemical reaction",
+    "start": 250.0,
+    "duration": 4.79
+  },
+  {
+    "text": "from the heat and charge. A dipolar \nmagnetic signature should be",
+    "start": 254.79,
+    "duration": 4.72
+  },
+  {
+    "text": "detectable across the current path.\nBut lightning scars are not the type of",
+    "start": 259.51,
+    "duration": 5.45
+  },
+  {
+    "text": "cracks we want to talk about today.\nWe want to discuss cracks generated by",
+    "start": 264.96,
+    "duration": 5.36
+  },
+  {
+    "text": "shockwaves and electricity at the shear\nzone between the land and plasma winds,",
+    "start": 270.32,
+    "duration": 6.0
+  },
+  {
+    "text": "at a time when Earth was embroiled\nin the epic maelstrom of creation.",
+    "start": 276.32,
+    "duration": 5.2
+  },
+  {
+    "text": "In other words, we want cracks made \nwhere the filthy underbelly, the Ouroboros",
+    "start": 281.52,
+    "duration": 4.72
+  },
+  {
+    "text": "scraped the land. The Ouroboros, or the\npenultimate representation of the concept anyway,",
+    "start": 286.24,
+    "duration": 8.0
+  },
+  {
+    "text": "is the plasma wind that wrapped the\nEarth during key stages of its evolution.",
+    "start": 294.24,
+    "duration": 6.56
+  },
+  {
+    "text": "Sharp discontinuities and plasma winds\ncaused by supersonic shockwaves left",
+    "start": 300.8,
+    "duration": 5.6
+  },
+  {
+    "text": "imprints in deposits of ionized dust,\nwhich manifested as cracks as the dust",
+    "start": 306.4,
+    "duration": 5.76
+  },
+  {
+    "text": "recombined to form rock. The \ndiscontinuity in a shockwave",
+    "start": 312.16,
+    "duration": 5.03
+  },
+  {
+    "text": "includes density, pressure,\ncharge density and dielectric properties, which",
+    "start": 317.19,
+    "duration": 4.72
+  },
+  {
+    "text": "electrically makes it act like a capacitor.\nTherefore, cracks in rocks are the",
+    "start": 321.91,
+    "duration": 5.93
+  },
+  {
+    "text": "all-important proof of wind formation\nand the circuitry in the plasma winds.",
+    "start": 327.84,
+    "duration": 7.12
+  },
+  {
+    "text": "To define a crack, first of all means an\nintrusion or separation between rock matrices,",
+    "start": 334.96,
+    "duration": 6.95
+  },
+  {
+    "text": "or the boundary between stratified\nlayers, whether the space between is a",
+    "start": 341.91,
+    "duration": 4.56
+  },
+  {
+    "text": "void or filled with material.\nTherefore, we include rock, veins, dikes,",
+    "start": 346.47,
+    "duration": 6.0
+  },
+  {
+    "text": "shelves, faults and similar geologic\nstructures, along with empty cracks.",
+    "start": 352.47,
+    "duration": 6.0
+  },
+  {
+    "text": "The difference is whether material is\npulled into the crack, or expelled from",
+    "start": 358.47,
+    "duration": 4.09
+  },
+  {
+    "text": "the crack by electric fields. Either way \nthe crack was made by shockwaves.",
+    "start": 362.56,
+    "duration": 7.12
+  },
+  {
+    "text": "That is why there are a lot of diagonal\ncracks. Also, polygonal cracks. There are",
+    "start": 369.68,
+    "duration": 5.92
+  },
+  {
+    "text": "triangles, rectangles, squares and\ndiamonds, everywhere in the rocks, the",
+    "start": 375.6,
+    "duration": 4.48
+  },
+  {
+    "text": "mountain flanks, and the outline of mountain peaks.\nThe mountains are composed of triangles",
+    "start": 380.08,
+    "duration": 6.48
+  },
+  {
+    "text": "at virtually every scale. These were caused by\nshockwaves. It's also why they form at particular",
+    "start": 386.56,
+    "duration": 8.47
+  },
+  {
+    "text": "angles. Mainstream theory assumes rock\nstrata always form horizontally, and then",
+    "start": 395.03,
+    "duration": 5.44
+  },
+  {
+    "text": "”uplift” shifts strata into various angles.\nUplift is assumed to be caused by the",
+    "start": 400.47,
+    "duration": 5.77
+  },
+  {
+    "text": "stretching and compression of the\ncrust due to tectonic movements.",
+    "start": 406.24,
+    "duration": 4.64
+  },
+  {
+    "text": "It is then assumed erosion from wind, ice,\nvegetation, and rain over millions or",
+    "start": 410.88,
+    "duration": 5.68
+  },
+  {
+    "text": "billions of years then polishes the crustal\nsurface into the forms we see today.",
+    "start": 416.56,
+    "duration": 6.8
+  },
+  {
+    "text": "The assumptions they make are actually ridiculous.\nMost rock is very brittle. Limestones and",
+    "start": 423.36,
+    "duration": 7.36
+  },
+  {
+    "text": "sandstones can break in your hands.\nIgneous rock like granite, break with a",
+    "start": 430.72,
+    "duration": 5.68
+  },
+  {
+    "text": "whack of a hammer. If the planet's crust churned the\nway they say, under the forces of compression and",
+    "start": 436.4,
+    "duration": 6.16
+  },
+  {
+    "text": "expansion, lifting and falling, all the while\nscraping and jostling for billions of years,",
+    "start": 442.56,
+    "duration": 6.32
+  },
+  {
+    "text": "the mountains would be piles of rubble,\nnot sharply defined tetrahedrons.",
+    "start": 448.88,
+    "duration": 6.48
+  },
+  {
+    "text": "Erosion would further break rocks apart,\nsmoothing their edges, rounding their",
+    "start": 455.36,
+    "duration": 5.11
+  },
+  {
+    "text": "corners, and dissolving any geometry they might\nhave had. The mainstream model of tectonics would",
+    "start": 460.47,
+    "duration": 6.81
+  },
+  {
+    "text": "leave piles of sand and rubble. Yet, \nwhat we see are sharply defined",
+    "start": 467.28,
+    "duration": 4.96
+  },
+  {
+    "text": "geometries that accurately and\npredictably follow the form of sonic",
+    "start": 472.24,
+    "duration": 4.23
+  },
+  {
+    "text": "shockwaves and the separation bubbles\nthey form at the wind-ground interface.",
+    "start": 476.47,
+    "duration": 7.05
+  },
+  {
+    "text": "When a shockwave forms, it forms at an\nangle to the wind's direction determined",
+    "start": 483.52,
+    "duration": 3.92
+  },
+  {
+    "text": "by the ratio of the wind's speed to the\nspeed of sound, called the Mach number. A",
+    "start": 487.44,
+    "duration": 4.96
+  },
+  {
+    "text": "Mach number of one or more means the\nwind is supersonic. A Mach number of two",
+    "start": 492.4,
+    "duration": 4.4
+  },
+  {
+    "text": "means the wind is twice the speed of sound, and \nso on. The incident angle the shockwave makes",
+    "start": 496.8,
+    "duration": 6.23
+  },
+  {
+    "text": "with the ground varies with the Mach\nnumber, so it can be used to determine if",
+    "start": 503.03,
+    "duration": 4.81
+  },
+  {
+    "text": "winds were consistent, forming at consistent\nangle or variable in either speed or direction.",
+    "start": 507.84,
+    "duration": 6.87
+  },
+  {
+    "text": "If you know the density of the\natmosphere you can determine the",
+    "start": 514.71,
+    "duration": 3.05
+  },
+  {
+    "text": "velocity of the wind from the Mach angle.\nShockwaves reflect from an interface,",
+    "start": 517.76,
+    "duration": 6.8
+  },
+  {
+    "text": "like the ground, just like a beam\nof light reflects from a mirror.",
+    "start": 524.56,
+    "duration": 4.0
+  },
+  {
+    "text": "The angle of reflection complements the incident\nangle. The ground forms a plane shockwaves",
+    "start": 528.56,
+    "duration": 6.08
+  },
+  {
+    "text": "reflect from. Wherever supersonic winds blew,\nand evidence suggests that was nearly the",
+    "start": 534.64,
+    "duration": 6.08
+  },
+  {
+    "text": "entire face of the Earth, standing waves formed\nand reflected from the ground from every channel of",
+    "start": 540.72,
+    "duration": 6.16
+  },
+  {
+    "text": "jetstream wind. In fact, shockwaves formed\nwhenever a jet stream wind changed direction or",
+    "start": 546.88,
+    "duration": 6.48
+  },
+  {
+    "text": "expanded or sheared against the Earth or another\nwind. Therefore, shockwaves patterned the",
+    "start": 553.36,
+    "duration": 5.52
+  },
+  {
+    "text": "winds. And the wind rippled with shock-\nwaves as they deposited dust and sand,",
+    "start": 558.88,
+    "duration": 6.24
+  },
+  {
+    "text": "and the deposits retained those patterns.\nFigure 9 compares images of a diagram of",
+    "start": 565.12,
+    "duration": 7.76
+  },
+  {
+    "text": "a standing shockwave reflecting from\na surface from wind tunnel tests",
+    "start": 572.88,
+    "duration": 5.44
+  },
+  {
+    "text": "with an impression of a shockwave reflection\nin a mountain exposed by a road cut.",
+    "start": 578.32,
+    "duration": 6.0
+  },
+  {
+    "text": "Every feature of the laboratory-produced\nshockwave is evident in the road cut. The",
+    "start": 584.32,
+    "duration": 6.0
+  },
+  {
+    "text": "angle between the incident shockwave\nand the reflected shockwave forms a Y.",
+    "start": 590.32,
+    "duration": 5.76
+  },
+  {
+    "text": "Inside the Y there is a step in the stratigraphy.\nThe Y forms a discontinuity where the",
+    "start": 596.08,
+    "duration": 6.96
+  },
+  {
+    "text": "layers take a step down as if this wedge sank.\nThey also angle, or dip differently, just",
+    "start": 603.04,
+    "duration": 7.28
+  },
+  {
+    "text": "as the pressure regimes inside the Y in the\ndiagram do. The stratigraphy inside and out of the",
+    "start": 610.32,
+    "duration": 7.92
+  },
+  {
+    "text": "discontinuity closely matches the\n”stratigraphy” of pressure regimes in the",
+    "start": 618.24,
+    "duration": 5.44
+  },
+  {
+    "text": "boundary layer of supersonic winds –\nbecause this hill was formed in the",
+    "start": 623.68,
+    "duration": 4.96
+  },
+  {
+    "text": "boundary layer of a supersonic wind.\nLook people, this ain't no damn coincidence.",
+    "start": 628.64,
+    "duration": 7.68
+  },
+  {
+    "text": "How could this happen by conventional theory?\nHow could this wedge drop a few feet and",
+    "start": 636.32,
+    "duration": 5.84
+  },
+  {
+    "text": "neatly fit the Y without its edges even getting\nruffled? The Y isn't straight; it has a hyperbolic",
+    "start": 642.16,
+    "duration": 8.16
+  },
+  {
+    "text": "compound curve. How could the wedge sink and \nstill match this curve perfectly without pinching or",
+    "start": 650.32,
+    "duration": 6.4
+  },
+  {
+    "text": "leaving gaps, and without disturbing the\ngeometry of the curves or strata inside",
+    "start": 656.72,
+    "duration": 5.92
+  },
+  {
+    "text": "or on either side of the discontinuity?\nWhy does the angle of the wedge strata",
+    "start": 662.64,
+    "duration": 5.36
+  },
+  {
+    "text": "shift with respect to surroundings on the\nleft and the lower right, but not at the upper",
+    "start": 668.0,
+    "duration": 5.36
+  },
+  {
+    "text": "right where the strata remains consistent\nacross the discontinuity? How come,",
+    "start": 673.36,
+    "duration": 6.4
+  },
+  {
+    "text": "while falling into the crack, the wedge became\nthicker and the big white band of strata at the top,",
+    "start": 679.76,
+    "duration": 5.92
+  },
+  {
+    "text": "but only on one side of it? None of this makes sense,\nunless you consider wind deposition at the boundary",
+    "start": 685.68,
+    "duration": 7.52
+  },
+  {
+    "text": "layer of a standing shockwave reflection.\nThe discontinuities are the impressions",
+    "start": 693.2,
+    "duration": 5.6
+  },
+  {
+    "text": "left by the incident and reflected shock\nwaves. They form a sharp geometric",
+    "start": 698.8,
+    "duration": 5.59
+  },
+  {
+    "text": "boundary with no evidence of friction between.\nAs dust deposited, it met this shockwave",
+    "start": 704.39,
+    "duration": 6.56
+  },
+  {
+    "text": "and followed the pressure and charge\ndensity profile of the shockwave.",
+    "start": 710.95,
+    "duration": 4.32
+  },
+  {
+    "text": "Dust was sucked down into this hole by pressure\ndifferentials across the boundary layer, but layered in",
+    "start": 715.27,
+    "duration": 5.93
+  },
+  {
+    "text": "proportionate thickness to the step voltages\nthat segregated each pressure regime,",
+    "start": 721.2,
+    "duration": 5.75
+  },
+  {
+    "text": "and the type of dust being delivered by the\nplasma wind. The wind had to pile this dust and",
+    "start": 726.95,
+    "duration": 7.05
+  },
+  {
+    "text": "gravel pretty fast, because the layers filled\nconcurrently. That is, these layers didn't stack up one",
+    "start": 734.0,
+    "duration": 8.24
+  },
+  {
+    "text": "after the other. They fire-hosed in, each layer at the\nsame time, segregated by the dielectric properties of",
+    "start": 742.24,
+    "duration": 7.36
+  },
+  {
+    "text": "the dust and the electric winds. It's \namazing when you think about it, but",
+    "start": 749.6,
+    "duration": 5.67
+  },
+  {
+    "text": "this was all one flow, segregated like a\nrainbow that came suddenly to a stop and",
+    "start": 755.27,
+    "duration": 6.17
+  },
+  {
+    "text": "compacted itself into a mountain,\nfreezing in that moment this shock",
+    "start": 761.44,
+    "duration": 4.72
+  },
+  {
+    "text": "reflection and the effect of its sudden pressure\nanomaly in the airflow. See the damn pattern.",
+    "start": 766.16,
+    "duration": 7.52
+  },
+  {
+    "text": "These images are scientific proof, a direct link\nbetween repeatable, empirical tests and nature.",
+    "start": 773.68,
+    "duration": 8.15
+  },
+  {
+    "text": "This is far more evidence than anything\ngeologists have presented for any of",
+    "start": 781.83,
+    "duration": 3.93
+  },
+  {
+    "text": "their tectonic theories. Any. Ever.\nTheir theories are built on the big",
+    "start": 785.76,
+    "duration": 6.07
+  },
+  {
+    "text": "ideas of arrogant, goateed bow tied phonies,\nwithout a shred of empirical evidence.",
+    "start": 791.83,
+    "duration": 5.53
+  },
+  {
+    "text": "Their evidence is conveniently shrouded in the\ndepths of time. Millions and billions of years of",
+    "start": 797.36,
+    "duration": 6.88
+  },
+  {
+    "text": "imperceptible, sand grain-by-sand grain\nmovement, which they are still working to",
+    "start": 804.24,
+    "duration": 4.64
+  },
+  {
+    "text": "explain how CO2 made happen.\nWho are we to question them?",
+    "start": 808.88,
+    "duration": 5.68
+  },
+  {
+    "text": "Actually, there's no need to question them.\nJust stop listening to them and for",
+    "start": 814.56,
+    "duration": 5.83
+  },
+  {
+    "text": "christ's sake stop giving them money.\nThe shock features exhibited in the road",
+    "start": 820.39,
+    "duration": 5.44
+  },
+  {
+    "text": "cut is only a small part in the full picture\nof a supersonic wind-generated shockwave.",
+    "start": 825.83,
+    "duration": 5.61
+  },
+  {
+    "text": "It's best to think of a shockwaves as the membrane\nof a bubble. On one side of the membrane is a gas of",
+    "start": 831.44,
+    "duration": 6.39
+  },
+  {
+    "text": "higher pressure than on the other.\nThe entire bubble structure is very",
+    "start": 837.83,
+    "duration": 4.41
+  },
+  {
+    "text": "complex however, with regions of\nexpansion and compression, recirculation,",
+    "start": 842.24,
+    "duration": 5.2
+  },
+  {
+    "text": "laminar flow and turbulence and a supersonic\nwind is passing through the bubble.",
+    "start": 847.44,
+    "duration": 5.83
+  },
+  {
+    "text": "In a dusty plasma, it gets even more\ncomplex, with electric fields, sheets of",
+    "start": 853.27,
+    "duration": 5.29
+  },
+  {
+    "text": "current and step voltages across the membranes,\nwhich is no longer the physics of fluid",
+    "start": 858.56,
+    "duration": 5.6
+  },
+  {
+    "text": "dynamics, but of magneto-hydrodynamics.\nThe following image shows where I think",
+    "start": 864.16,
+    "duration": 6.56
+  },
+  {
+    "text": "the road cut feature came from. This \npart of the shockwave, circled in red,",
+    "start": 870.72,
+    "duration": 6.23
+  },
+  {
+    "text": "is a part of the structure that dips\ninto the separation bubble, which is the",
+    "start": 876.95,
+    "duration": 3.68
+  },
+  {
+    "text": "turbulent region at the base of the bubble.\nThe separation bubble is where dust",
+    "start": 880.63,
+    "duration": 4.64
+  },
+  {
+    "text": "collects, which ultimately buried the tip of the \nshockwave. The shockwave is not the primary",
+    "start": 885.27,
+    "duration": 6.33
+  },
+  {
+    "text": "incident wave, but it's a harmonic\nreflection of it that does not always",
+    "start": 891.6,
+    "duration": 4.47
+  },
+  {
+    "text": "form, but depends on conditions.\nNote the fine vertical lines to the",
+    "start": 896.07,
+    "duration": 5.85
+  },
+  {
+    "text": "right of the primary shockwave in the image.\nThese are stepwise gradations of",
+    "start": 901.92,
+    "duration": 5.68
+  },
+  {
+    "text": "pressure in the airflow throughout the shockwave\nstructure. In the plasma these gradations are also",
+    "start": 907.6,
+    "duration": 7.44
+  },
+  {
+    "text": "steps in potential. These vertical gradations can\nbe seen in rocks crisscrossing the diagonal shock",
+    "start": 915.04,
+    "duration": 7.2
+  },
+  {
+    "text": "waves produced by the Mach angle.\nSometimes dust can fill the entire",
+    "start": 922.24,
+    "duration": 6.64
+  },
+  {
+    "text": "lambda foot structure. In the diagram where the\nincident and reflected shock meet at a triple point,",
+    "start": 928.88,
+    "duration": 7.92
+  },
+  {
+    "text": "in which case you get mountains like\nthis. To be clear, some mountains are",
+    "start": 936.8,
+    "duration": 4.95
+  },
+  {
+    "text": "formed inside the separation bubble\nor separated flow zone which is the",
+    "start": 941.75,
+    "duration": 5.2
+  },
+  {
+    "text": "wedge at the very bottom of the structure.\nAnd some mountains fill the entire",
+    "start": 946.95,
+    "duration": 5.53
+  },
+  {
+    "text": "lambda shock structure, the large triangular feature.\nThe lambda foot manifests at the base of",
+    "start": 952.48,
+    "duration": 7.35
+  },
+  {
+    "text": "every shock reflection, so it is a\nrepeating fractal element of the shock",
+    "start": 959.83,
+    "duration": 4.56
+  },
+  {
+    "text": "wave and appears at different scales.\nThe stratigraphy in the separation bubble",
+    "start": 964.39,
+    "duration": 6.41
+  },
+  {
+    "text": "”dips”, meaning it's angled with respect \nto horizontal, consistent with the wind's",
+    "start": 970.8,
+    "duration": 5.59
+  },
+  {
+    "text": "vector inside the shock bubble, because \nthat is how the wind layers its dust load.",
+    "start": 976.39,
+    "duration": 6.56
+  },
+  {
+    "text": "Mountains that fill the entire lambda\nstructure may have stratigraphy that",
+    "start": 982.95,
+    "duration": 4.65
+  },
+  {
+    "text": "dips at a shallower angle than the dip of the\nMach angle displayed by its flat triangular face,",
+    "start": 987.6,
+    "duration": 7.12
+  },
+  {
+    "text": "because the wind was vectored upward and dust\nfell, filling the lambda foot from the bottom.",
+    "start": 994.72,
+    "duration": 7.44
+  },
+  {
+    "text": "Although this should not be taken as\na hard and fast rule because there's",
+    "start": 1002.16,
+    "duration": 3.84
+  },
+  {
+    "text": "always variables. Generally speaking,\nof wind-generated mountains,",
+    "start": 1006.0,
+    "duration": 4.48
+  },
+  {
+    "text": "it can be said that is why shallow\ndipping hills, foothills and mountains",
+    "start": 1010.48,
+    "duration": 3.84
+  },
+  {
+    "text": "have layered stratigraphy that dips with\nthe contour of the mountain, while larger",
+    "start": 1014.32,
+    "duration": 4.56
+  },
+  {
+    "text": "triangular peaks are more like layered\nbricks, not necessarily horizontal, but a",
+    "start": 1018.88,
+    "duration": 5.28
+  },
+  {
+    "text": "relatively shallow angle at odds with its outline.\nMount Everest is a good example of a big",
+    "start": 1024.16,
+    "duration": 7.19
+  },
+  {
+    "text": "lambda foot mountain. In fact at 29,029 feet I'm\npretty confident it's the biggest, baddest lambda",
+    "start": 1031.35,
+    "duration": 7.68
+  },
+  {
+    "text": "foot ever. Follow its stratigraphy, such as \nits famous “yellow band” and you can see the",
+    "start": 1039.03,
+    "duration": 6.97
+  },
+  {
+    "text": "dip in relation to the facets of its outline.\nThat's how mountains are formed.",
+    "start": 1046.0,
+    "duration": 6.96
+  },
+  {
+    "text": "The evidence is everywhere, and looking\nat cracks yields well, mountains of",
+    "start": 1052.96,
+    "duration": 4.56
+  },
+  {
+    "text": "information about their genesis.\nThe interface between stratigraphic",
+    "start": 1057.52,
+    "duration": 4.96
+  },
+  {
+    "text": "layers are cracks by my definition, in\ncase you think I'm losing the thread;",
+    "start": 1062.48,
+    "duration": 5.04
+  },
+  {
+    "text": "talking about the shape of mountains instead \nof cracks. Cracks are the remnant signature of",
+    "start": 1067.52,
+    "duration": 5.36
+  },
+  {
+    "text": "shockwaves and electric currents\nproduced in the storm that built the",
+    "start": 1072.88,
+    "duration": 3.76
+  },
+  {
+    "text": "mountain, just as the outline of the\nmountain is. The contour of the mountain,",
+    "start": 1076.64,
+    "duration": 5.12
+  },
+  {
+    "text": "the cracks in it, and the dip of its\nsediments are all related to shockwaves.",
+    "start": 1081.76,
+    "duration": 5.6
+  },
+  {
+    "text": "The angles in their layers and contours\nas pure information about their creation,",
+    "start": 1087.36,
+    "duration": 5.12
+  },
+  {
+    "text": "because information is always a waveform,\nand the mountains store the waveform.",
+    "start": 1092.48,
+    "duration": 7.12
+  },
+  {
+    "text": "The shockwave and shockwave reflections\nform an electric field across the walls",
+    "start": 1099.6,
+    "duration": 4.56
+  },
+  {
+    "text": "of the wave in the manner of a capacitor.\nA double layer forms on the interface as",
+    "start": 1104.16,
+    "duration": 5.28
+  },
+  {
+    "text": "with a dielectric field between. The \ncharged layers can be the same or",
+    "start": 1109.44,
+    "duration": 4.88
+  },
+  {
+    "text": "opposite polarity to the charge of the dust being\ndeposited, leaving either a void or hardened rock.",
+    "start": 1114.32,
+    "duration": 6.88
+  },
+  {
+    "text": "A hardened seam will have more\nconductive material, like the quartz and",
+    "start": 1121.2,
+    "duration": 3.68
+  },
+  {
+    "text": "rock veins, than the surrounding rock matrix.\nMineral-bearing veins for instance, bear",
+    "start": 1124.88,
+    "duration": 6.88
+  },
+  {
+    "text": "conductive minerals like gold, silver and\ncopper because these conductive",
+    "start": 1131.76,
+    "duration": 4.72
+  },
+  {
+    "text": "materials were attracted by the electric field of the\nshockwave, either as a vapor from the atmosphere, or",
+    "start": 1136.48,
+    "duration": 6.48
+  },
+  {
+    "text": "by diffusion through the ground.\nDiffusion through the ground is how",
+    "start": 1142.96,
+    "duration": 5.04
+  },
+  {
+    "text": "consensus theory works, with the\nattractor being hydrothermal venting.",
+    "start": 1148.0,
+    "duration": 5.44
+  },
+  {
+    "text": "Why hydrothermal venting should attract\nmetals from far and wide isn't clear.",
+    "start": 1153.44,
+    "duration": 5.76
+  },
+  {
+    "text": "An electric field does that though, without \nquestion. So our theory is already better if",
+    "start": 1159.2,
+    "duration": 5.59
+  },
+  {
+    "text": "Occam's razor means anything.\nThe quartz veins and the images of",
+    "start": 1164.79,
+    "duration": 4.49
+  },
+  {
+    "text": "granite were created by an emerging effect\nof shockwaves, called traveling waves.",
+    "start": 1169.28,
+    "duration": 6.32
+  },
+  {
+    "text": "Note there are four wide quartz veins in the\nlarger image, in two pairs that parallel each other",
+    "start": 1175.6,
+    "duration": 7.36
+  },
+  {
+    "text": "diagonally across this granite face.\nTraveling waves are semi-stable",
+    "start": 1182.96,
+    "duration": 5.28
+  },
+  {
+    "text": "reflected waves that migrate through a shockwave\nstructure due to instabilities in the bubble.",
+    "start": 1188.24,
+    "duration": 6.64
+  },
+  {
+    "text": "The even vertical lines that appear in\nfigure 10 are examples in a steady wind,",
+    "start": 1194.88,
+    "duration": 5.44
+  },
+  {
+    "text": "but shockwave bubbles can wobble\njust like soap bubbles, producing",
+    "start": 1200.32,
+    "duration": 3.92
+  },
+  {
+    "text": "instabilities as wind speed and direction varies.\nThey move in harmony to the shockwave",
+    "start": 1204.24,
+    "duration": 5.67
+  },
+  {
+    "text": "frequency in repeating patterns and \nthat is why there is a pair-of-a-pair,",
+    "start": 1209.91,
+    "duration": 4.49
+  },
+  {
+    "text": "of similarly structured, highly complex\nrepeating forms in these rock veins.",
+    "start": 1214.4,
+    "duration": 7.44
+  },
+  {
+    "text": "The next image shows clastic dykes in Washington \nstate. These dikes are vertical-to-diagonal",
+    "start": 1222.4,
+    "duration": 7.04
+  },
+  {
+    "text": "intrusions in a sedimentary hill exposed by \nroad cut. Each dike is layered vertically with",
+    "start": 1229.44,
+    "duration": 7.59
+  },
+  {
+    "text": "different fineness of sediment graded \nfrom silt to gravel, in each separate layer.",
+    "start": 1237.03,
+    "duration": 6.33
+  },
+  {
+    "text": "The sediments inside the dikes are completely\ndifferent material than the hill they intrude in.",
+    "start": 1243.36,
+    "duration": 7.12
+  },
+  {
+    "text": "It's as if each vertical layer of the\ndike sucked a different dust down into it",
+    "start": 1250.48,
+    "duration": 5.28
+  },
+  {
+    "text": "from somewhere other than the mountain \nit's in. And that's exactly right. Each layer",
+    "start": 1255.76,
+    "duration": 6.64
+  },
+  {
+    "text": "in this dike was a separate funnel \nof air pulling dust down from",
+    "start": 1262.4,
+    "duration": 4.8
+  },
+  {
+    "text": "different regions of the shockwave bubble, \nwhere different grades and types of rock",
+    "start": 1267.2,
+    "duration": 4.47
+  },
+  {
+    "text": "were flowing in segregated jet stream winds.\nThe “funnels” were traveling waves that",
+    "start": 1271.67,
+    "duration": 6.57
+  },
+  {
+    "text": "deposited these dikes in little, downward-\npointing pressure regime spikes,",
+    "start": 1278.24,
+    "duration": 5.6
+  },
+  {
+    "text": "while the separation bubble filled around \nthem. It's hard to think on this scale.",
+    "start": 1283.84,
+    "duration": 7.19
+  },
+  {
+    "text": "The cracks, dikes, and veins just shown\nwere produced in the very bottom of a",
+    "start": 1291.36,
+    "duration": 4.55
+  },
+  {
+    "text": "shockwave structure like the one shown in this image.\nThey formed in the turbulent back-end of the",
+    "start": 1295.91,
+    "duration": 6.57
+  },
+  {
+    "text": "separation bubble, a result of\nfriction where the wind literally",
+    "start": 1302.48,
+    "duration": 4.48
+  },
+  {
+    "text": "scraped the ground. Mountains like Everest, the \nMatterhorn, and thousands of lesser peaks were",
+    "start": 1306.96,
+    "duration": 6.16
+  },
+  {
+    "text": "formed by dust filling the entire lambda foot\nstructure, forged by winds and electric potentials",
+    "start": 1313.12,
+    "duration": 6.55
+  },
+  {
+    "text": "that are nearly incomprehensible.\nSupersonic winds had to wrap the entire planet.",
+    "start": 1319.67,
+    "duration": 7.05
+  },
+  {
+    "text": "Earth looked like Jupiter, only a lot worse.\nThe fastest winds rolled up and down and",
+    "start": 1326.72,
+    "duration": 6.24
+  },
+  {
+    "text": "swept against the ground because they were\ndriven by electric currents coupled to Earth's.",
+    "start": 1332.96,
+    "duration": 5.76
+  },
+  {
+    "text": "Higher winds moved slower, circulating\npositive charge in a halo over the",
+    "start": 1338.72,
+    "duration": 4.48
+  },
+  {
+    "text": "concomitant destruction and creation below.\nHence the Ouroboros.",
+    "start": 1343.2,
+    "duration": 5.76
+  },
+  {
+    "text": "It did circle the Earth, winding and coiling like\na serpent eating its tail. It's all circuitry.",
+    "start": 1348.96,
+    "duration": 8.56
+  },
+  {
+    "text": "Every feature points to the actions\nupstream in the current path.",
+    "start": 1357.52,
+    "duration": 4.56
+  },
+  {
+    "text": "That is why the true creation story is knowable.\nThe patterns remain that tell the story.",
+    "start": 1362.08,
+    "duration": 7.28
+  },
+  {
+    "text": "Frequencies, harmonies, wavelengths, and \nwave guides. Shockwaves are wave guides.",
+    "start": 1369.36,
+    "duration": 6.48
+  },
+  {
+    "text": "Everything is electric. Everyone needs \nto know this, the sooner the better.",
+    "start": 1375.84,
+    "duration": 8.04
+  },
+  {
+    "text": "[Music]",
+    "start": 1387.47,
+    "duration": 27.12
+  }
+]

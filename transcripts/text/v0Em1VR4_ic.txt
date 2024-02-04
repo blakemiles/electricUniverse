@@ -1,0 +1,3577 @@
+[
+  {
+    "text": "[Music]",
+    "start": 0.99,
+    "duration": 3.119
+  },
+  {
+    "text": "[Music]",
+    "start": 13.3,
+    "duration": 9.73
+  },
+  {
+    "text": "dr. bill Mullen classics degree from",
+    "start": 24.05,
+    "duration": 11.8
+  },
+  {
+    "text": "Harvard in 1968 and PhD from University",
+    "start": 30.15,
+    "duration": 9.27
+  },
+  {
+    "text": "of Texas postdoctoral fellow at Berkeley",
+    "start": 35.85,
+    "duration": 5.31
+  },
+  {
+    "text": "I mean the man's been all over the place",
+    "start": 39.42,
+    "duration": 3.33
+  },
+  {
+    "text": "but he's finally put down roots since",
+    "start": 41.16,
+    "duration": 4.38
+  },
+  {
+    "text": "the 80s at Bard College in New York but",
+    "start": 42.75,
+    "duration": 5.22
+  },
+  {
+    "text": "we're glad that he uprooted himself long",
+    "start": 45.54,
+    "duration": 6.33
+  },
+  {
+    "text": "enough to be here with us today dr. bill",
+    "start": 47.97,
+    "duration": 15.86
+  },
+  {
+    "text": "Mullen Thank You Tweedledee so",
+    "start": 51.87,
+    "duration": 15.14
+  },
+  {
+    "text": "hieroglyphics and the ancient sky",
+    "start": 63.83,
+    "duration": 8.77
+  },
+  {
+    "text": "remembering assimilating easing forever",
+    "start": 67.01,
+    "duration": 10.51
+  },
+  {
+    "text": "a little over 40 years ago and as we've",
+    "start": 72.6,
+    "duration": 8.159
+  },
+  {
+    "text": "been saying in the Bible 40 years means",
+    "start": 77.52,
+    "duration": 7.68
+  },
+  {
+    "text": "a very long time this 40 years ago I had",
+    "start": 80.759,
+    "duration": 6.511
+  },
+  {
+    "text": "the youthful presumption to write an",
+    "start": 85.2,
+    "duration": 4.769
+  },
+  {
+    "text": "essay entitled a reading of the Pyramid",
+    "start": 87.27,
+    "duration": 6.629
+  },
+  {
+    "text": "Texts published in the Talbots Paul say",
+    "start": 89.969,
+    "duration": 7.131
+  },
+  {
+    "text": "series Immanuel Velikovsky reconsidered",
+    "start": 93.899,
+    "duration": 5.75
+  },
+  {
+    "text": "reading in that title meant of course",
+    "start": 97.1,
+    "duration": 7.089
+  },
+  {
+    "text": "interpretation today matured I hope by",
+    "start": 99.649,
+    "duration": 7.271
+  },
+  {
+    "text": "those forty years I will be giving you",
+    "start": 104.189,
+    "duration": 5.46
+  },
+  {
+    "text": "another reading of the Pyramid Texts and",
+    "start": 106.92,
+    "duration": 5.699
+  },
+  {
+    "text": "other Egyptian writings you should be",
+    "start": 109.649,
+    "duration": 5.131
+  },
+  {
+    "text": "forewarned that by reading I mean not",
+    "start": 112.619,
+    "duration": 4.92
+  },
+  {
+    "text": "only interpreting but also a good",
+    "start": 114.78,
+    "duration": 5.969
+  },
+  {
+    "text": "measure of reading out loud with these",
+    "start": 117.539,
+    "duration": 6.951
+  },
+  {
+    "text": "texts and therein Cantore rhythms my",
+    "start": 120.749,
+    "duration": 6.781
+  },
+  {
+    "text": "interpretation is summed up in my four",
+    "start": 124.49,
+    "duration": 4.68
+  },
+  {
+    "text": "gerron's",
+    "start": 127.53,
+    "duration": 7.22
+  },
+  {
+    "text": "verbal nouns in my subtitle so",
+    "start": 129.17,
+    "duration": 11.68
+  },
+  {
+    "text": "remembering assimilating easing forever",
+    "start": 134.75,
+    "duration": 9.79
+  },
+  {
+    "text": "in these gerunds refer to structures of",
+    "start": 140.85,
+    "duration": 7.1
+  },
+  {
+    "text": "thought habitual to the priestly scribes",
+    "start": 144.54,
+    "duration": 7.73
+  },
+  {
+    "text": "who composed texts for the dead the",
+    "start": 147.95,
+    "duration": 7.2
+  },
+  {
+    "text": "same structures of thought I will argue",
+    "start": 152.27,
+    "duration": 6.45
+  },
+  {
+    "text": "so as for fundamental and omnipresent",
+    "start": 155.15,
+    "duration": 6.5
+  },
+  {
+    "text": "ways in which Egyptians thought",
+    "start": 158.72,
+    "duration": 5.73
+  },
+  {
+    "text": "accommodated itself to cosmic",
+    "start": 161.65,
+    "duration": 6.76
+  },
+  {
+    "text": "catastrophes and ultimately learned to",
+    "start": 164.45,
+    "duration": 9.09
+  },
+  {
+    "text": "cease to fear them to forget them at its",
+    "start": 168.41,
+    "duration": 8.91
+  },
+  {
+    "text": "simplest forgetting came to take the",
+    "start": 173.54,
+    "duration": 6.66
+  },
+  {
+    "text": "form of the fading away of an earlier",
+    "start": 177.32,
+    "duration": 6.51
+  },
+  {
+    "text": "meaning of a single hieroglyphic into a",
+    "start": 180.2,
+    "duration": 7.77
+  },
+  {
+    "text": "non cataclysmic later meaning let's",
+    "start": 183.83,
+    "duration": 5.64
+  },
+  {
+    "text": "begin by looking at a single",
+    "start": 187.97,
+    "duration": 5.94
+  },
+  {
+    "text": "hieroglyphic on the title here the so",
+    "start": 189.47,
+    "duration": 4.86
+  },
+  {
+    "text": "called",
+    "start": 193.91,
+    "duration": 4.8
+  },
+  {
+    "text": "I of Horus it is a Falcons eye the",
+    "start": 194.33,
+    "duration": 6.9
+  },
+  {
+    "text": "vertical line an enclosed area to its",
+    "start": 198.71,
+    "duration": 5.58
+  },
+  {
+    "text": "left or plausibly enough interpreted by",
+    "start": 201.23,
+    "duration": 6.15
+  },
+  {
+    "text": "Egyptologists as the typical black line",
+    "start": 204.29,
+    "duration": 5.94
+  },
+  {
+    "text": "coming down from the Falcons head though",
+    "start": 207.38,
+    "duration": 4.83
+  },
+  {
+    "text": "you will find other interpretations in",
+    "start": 210.23,
+    "duration": 5.7
+  },
+  {
+    "text": "this room to the right however is a line",
+    "start": 212.21,
+    "duration": 8.01
+  },
+  {
+    "text": "curving in on itself a curl and this",
+    "start": 215.93,
+    "duration": 6.3
+  },
+  {
+    "text": "line is simply not to be found on",
+    "start": 220.22,
+    "duration": 2.7
+  },
+  {
+    "text": "Falcons",
+    "start": 222.23,
+    "duration": 3.81
+  },
+  {
+    "text": "I'm sure because I checked with a cadet",
+    "start": 222.92,
+    "duration": 5.28
+  },
+  {
+    "text": "and the falconry Club at the United",
+    "start": 226.04,
+    "duration": 4.71
+  },
+  {
+    "text": "States Air Force Academy and with due",
+    "start": 228.2,
+    "duration": 5.37
+  },
+  {
+    "text": "diligence he sent me copious Falcon",
+    "start": 230.75,
+    "duration": 4.89
+  },
+  {
+    "text": "photos and none of which was the",
+    "start": 233.57,
+    "duration": 6.06
+  },
+  {
+    "text": "mysterious curl to be seen in recent",
+    "start": 235.64,
+    "duration": 6.75
+  },
+  {
+    "text": "work F Cochrane whom I hoped would be",
+    "start": 239.63,
+    "duration": 5.55
+  },
+  {
+    "text": "here to speak after me has argued that",
+    "start": 242.39,
+    "duration": 5.94
+  },
+  {
+    "text": "this curl is the hair of the comet Venus",
+    "start": 245.18,
+    "duration": 6.21
+  },
+  {
+    "text": "whose rampage on earth and sky he",
+    "start": 248.33,
+    "duration": 6.12
+  },
+  {
+    "text": "associates with the planet Mars he",
+    "start": 251.39,
+    "duration": 6.06
+  },
+  {
+    "text": "argues forcibly in unpublished work but",
+    "start": 254.45,
+    "duration": 7.17
+  },
+  {
+    "text": "also in a chapter in his recent 2010 on",
+    "start": 257.45,
+    "duration": 6.99
+  },
+  {
+    "text": "fossil God's and forgotten worlds the",
+    "start": 261.62,
+    "duration": 7.11
+  },
+  {
+    "text": "chapter the Horus star that Horus is",
+    "start": 264.44,
+    "duration": 6.0
+  },
+  {
+    "text": "none other than the name for the planet",
+    "start": 268.73,
+    "duration": 5.22
+  },
+  {
+    "text": "Mars and the two goddess Hathor is none",
+    "start": 270.44,
+    "duration": 6.63
+  },
+  {
+    "text": "other than the name for Venus the curl",
+    "start": 273.95,
+    "duration": 5.85
+  },
+  {
+    "text": "on the eye of horus he argues would be",
+    "start": 277.07,
+    "duration": 5.849
+  },
+  {
+    "text": "specifically depicting the hair of Venus",
+    "start": 279.8,
+    "duration": 5.3
+  },
+  {
+    "text": "in cometary form",
+    "start": 282.919,
+    "duration": 6.271
+  },
+  {
+    "text": "the curl cochran points out can be found",
+    "start": 285.1,
+    "duration": 6.97
+  },
+  {
+    "text": "on the red crown one of the two crowns",
+    "start": 289.19,
+    "duration": 6.12
+  },
+  {
+    "text": "of the Pharaoh as commonly depicted as",
+    "start": 292.07,
+    "duration": 6.27
+  },
+  {
+    "text": "wearing a mysterious curl moving up from",
+    "start": 295.31,
+    "duration": 5.85
+  },
+  {
+    "text": "the Crown's base and this curl can be",
+    "start": 298.34,
+    "duration": 5.46
+  },
+  {
+    "text": "found in representations accompanying",
+    "start": 301.16,
+    "duration": 6.21
+  },
+  {
+    "text": "other hieroglyphic texts independent of",
+    "start": 303.8,
+    "duration": 8.06
+  },
+  {
+    "text": "either the Eye of Horus or the red crown",
+    "start": 307.37,
+    "duration": 9.12
+  },
+  {
+    "text": "another such glyph is a this is another",
+    "start": 311.86,
+    "duration": 8.17
+  },
+  {
+    "text": "this is the second of my Horus with the",
+    "start": 316.49,
+    "duration": 6.33
+  },
+  {
+    "text": "red crown the white crown together Anna",
+    "start": 320.03,
+    "duration": 7.16
+  },
+  {
+    "text": "on the moving up from the right the curl",
+    "start": 322.82,
+    "duration": 8.04
+  },
+  {
+    "text": "another such glyph is a disc with the",
+    "start": 327.19,
+    "duration": 6.19
+  },
+  {
+    "text": "famous your Reyes affixed to it on the",
+    "start": 330.86,
+    "duration": 7.77
+  },
+  {
+    "text": "far left a Cobra that spitfyre we do not",
+    "start": 333.38,
+    "duration": 8.52
+  },
+  {
+    "text": "see such a thing in today's sky the",
+    "start": 338.63,
+    "duration": 7.23
+  },
+  {
+    "text": "third gift is a circle with four sets of",
+    "start": 341.9,
+    "duration": 6.9
+  },
+  {
+    "text": "parallel lines inside converging on its",
+    "start": 345.86,
+    "duration": 9.57
+  },
+  {
+    "text": "center this is on the far right used in",
+    "start": 348.8,
+    "duration": 9.839
+  },
+  {
+    "text": "words for city or town it's standard",
+    "start": 355.43,
+    "duration": 7.64
+  },
+  {
+    "text": "interpretation is of two crossroads",
+    "start": 358.639,
+    "duration": 7.951
+  },
+  {
+    "text": "intersecting enclosed in a disc there's",
+    "start": 363.07,
+    "duration": 6.19
+  },
+  {
+    "text": "no evidence of circular walls or actual",
+    "start": 366.59,
+    "duration": 4.829
+  },
+  {
+    "text": "streets intersecting at right angles",
+    "start": 369.26,
+    "duration": 4.74
+  },
+  {
+    "text": "there any relation to the plan of a",
+    "start": 371.419,
+    "duration": 5.761
+  },
+  {
+    "text": "normal Egyptian city Dave Talbot has",
+    "start": 374.0,
+    "duration": 5.28
+  },
+  {
+    "text": "shown the dominance of this figure in",
+    "start": 377.18,
+    "duration": 6.989
+  },
+  {
+    "text": "cultures around the globe and sees it as",
+    "start": 379.28,
+    "duration": 7.199
+  },
+  {
+    "text": "visible in the ancient sky and",
+    "start": 384.169,
+    "duration": 4.62
+  },
+  {
+    "text": "interpreted by different cultures as",
+    "start": 386.479,
+    "duration": 5.281
+  },
+  {
+    "text": "different forms it does not in any",
+    "start": 388.789,
+    "duration": 5.671
+  },
+  {
+    "text": "obvious way depict the way Egyptians",
+    "start": 391.76,
+    "duration": 5.909
+  },
+  {
+    "text": "design cities for Talbot it is the",
+    "start": 394.46,
+    "duration": 5.579
+  },
+  {
+    "text": "celestial City one of his many",
+    "start": 397.669,
+    "duration": 3.301
+  },
+  {
+    "text": "archetypes",
+    "start": 400.039,
+    "duration": 3.361
+  },
+  {
+    "text": "which are counterintuitive because they",
+    "start": 400.97,
+    "duration": 4.879
+  },
+  {
+    "text": "are not seen in today's world",
+    "start": 403.4,
+    "duration": 5.85
+  },
+  {
+    "text": "my final glyph the second from the left",
+    "start": 405.849,
+    "duration": 7.241
+  },
+  {
+    "text": "is the simplest a circle with a dot in",
+    "start": 409.25,
+    "duration": 6.36
+  },
+  {
+    "text": "the middle to be found as part of the",
+    "start": 413.09,
+    "duration": 4.949
+  },
+  {
+    "text": "spelling of the word raw",
+    "start": 415.61,
+    "duration": 5.519
+  },
+  {
+    "text": "it is used in everyday phrases such as",
+    "start": 418.039,
+    "duration": 7.5
+  },
+  {
+    "text": "rah Neb translating everyday translate",
+    "start": 421.129,
+    "duration": 7.141
+  },
+  {
+    "text": "it every day and fitting the context as",
+    "start": 425.539,
+    "duration": 6.24
+  },
+  {
+    "text": "such but why a dot in the middle of the",
+    "start": 428.27,
+    "duration": 4.609
+  },
+  {
+    "text": "circle",
+    "start": 431.779,
+    "duration": 3.78
+  },
+  {
+    "text": "my thesis can be summed up and",
+    "start": 432.879,
+    "duration": 4.301
+  },
+  {
+    "text": "symbolized by the last of these",
+    "start": 435.559,
+    "duration": 2.431
+  },
+  {
+    "text": "hieroglyphs",
+    "start": 437.18,
+    "duration": 3.78
+  },
+  {
+    "text": "if this glyph as Dave Talbot has been",
+    "start": 437.99,
+    "duration": 4.699
+  },
+  {
+    "text": "arguing for 40 years",
+    "start": 440.96,
+    "duration": 4.709
+  },
+  {
+    "text": "once depicted the presence of a smaller",
+    "start": 442.689,
+    "duration": 5.32
+  },
+  {
+    "text": "planet in front of a much more massive",
+    "start": 445.669,
+    "duration": 4.68
+  },
+  {
+    "text": "one and we've had the great pleasure of",
+    "start": 448.009,
+    "duration": 5.52
+  },
+  {
+    "text": "seeing this in glorious color and just",
+    "start": 450.349,
+    "duration": 7.38
+  },
+  {
+    "text": "now a presence of a planet aligned",
+    "start": 453.529,
+    "duration": 7.051
+  },
+  {
+    "text": "between it and our Pole and therefore",
+    "start": 457.729,
+    "duration": 4.891
+  },
+  {
+    "text": "seen from the earth as it's at its",
+    "start": 460.58,
+    "duration": 6.179
+  },
+  {
+    "text": "centre the larger disk the larger planet",
+    "start": 462.62,
+    "duration": 6.81
+  },
+  {
+    "text": "and the the discs of the point in the",
+    "start": 466.759,
+    "duration": 6.171
+  },
+  {
+    "text": "center or the small circle in the centre",
+    "start": 469.43,
+    "duration": 7.529
+  },
+  {
+    "text": "you must also have over long time come",
+    "start": 472.93,
+    "duration": 6.039
+  },
+  {
+    "text": "to be used by Egyptian writers of",
+    "start": 476.959,
+    "duration": 5.401
+  },
+  {
+    "text": "hieroglyphic language to mean simply the",
+    "start": 478.969,
+    "duration": 8.28
+  },
+  {
+    "text": "Sun we see today in other words it was",
+    "start": 482.36,
+    "duration": 6.929
+  },
+  {
+    "text": "read by Egyptians as the Sun who's",
+    "start": 487.249,
+    "duration": 5.13
+  },
+  {
+    "text": "reliable rising in the east and setting",
+    "start": 489.289,
+    "duration": 5.88
+  },
+  {
+    "text": "in the West were symbols of stability",
+    "start": 492.379,
+    "duration": 7.59
+  },
+  {
+    "text": "and sent eternity an older understanding",
+    "start": 495.169,
+    "duration": 9.72
+  },
+  {
+    "text": "of a glyph had faded into a newer one as",
+    "start": 499.969,
+    "duration": 8.28
+  },
+  {
+    "text": "an example of a better and is example of",
+    "start": 504.889,
+    "duration": 6.89
+  },
+  {
+    "text": "this latter meaning here is the famous",
+    "start": 508.249,
+    "duration": 7.111
+  },
+  {
+    "text": "adoration of Raw at the beginning of the",
+    "start": 511.779,
+    "duration": 7.57
+  },
+  {
+    "text": "papyrus of ani adoration of Roffe when",
+    "start": 515.36,
+    "duration": 6.63
+  },
+  {
+    "text": "he rises in the eastern horizon of",
+    "start": 519.349,
+    "duration": 6.42
+  },
+  {
+    "text": "heaven can you see the the circle with",
+    "start": 521.99,
+    "duration": 6.99
+  },
+  {
+    "text": "the dot at the center just as one of",
+    "start": 525.769,
+    "duration": 6.781
+  },
+  {
+    "text": "five components of a glyph over the",
+    "start": 528.98,
+    "duration": 7.08
+  },
+  {
+    "text": "second word raw all right so we have it",
+    "start": 532.55,
+    "duration": 6.539
+  },
+  {
+    "text": "spell it with a mouth and an arm raw we",
+    "start": 536.06,
+    "duration": 5.459
+  },
+  {
+    "text": "have the picture raw and then we have",
+    "start": 539.089,
+    "duration": 6.48
+  },
+  {
+    "text": "the symbol of a god all right so this is",
+    "start": 541.519,
+    "duration": 7.711
+  },
+  {
+    "text": "a perfectly normal use of it in Egyptian",
+    "start": 545.569,
+    "duration": 8.871
+  },
+  {
+    "text": "which let me use this one cosmic cliff",
+    "start": 549.23,
+    "duration": 10.04
+  },
+  {
+    "text": "now to unveil the four somewhat cryptic",
+    "start": 554.44,
+    "duration": 8.02
+  },
+  {
+    "text": "participial nouns or jaren's which form",
+    "start": 559.27,
+    "duration": 6.4
+  },
+  {
+    "text": "my subtitle remembering assimilating",
+    "start": 562.46,
+    "duration": 7.62
+  },
+  {
+    "text": "easing for every taken as an ensemble I",
+    "start": 565.67,
+    "duration": 6.87
+  },
+  {
+    "text": "will argue they bring to the surface",
+    "start": 570.08,
+    "duration": 5.58
+  },
+  {
+    "text": "some of the deepest patterns of meaning",
+    "start": 572.54,
+    "duration": 6.12
+  },
+  {
+    "text": "in Egyptian texts and in no instance",
+    "start": 575.66,
+    "duration": 5.79
+  },
+  {
+    "text": "better than in the process by which this",
+    "start": 578.66,
+    "duration": 7.77
+  },
+  {
+    "text": "glyph comes to mean our daily Sun I will",
+    "start": 581.45,
+    "duration": 7.14
+  },
+  {
+    "text": "give examples of these Jarrod's at work",
+    "start": 586.43,
+    "duration": 4.98
+  },
+  {
+    "text": "from two representative sets of Egyptian",
+    "start": 588.59,
+    "duration": 6.03
+  },
+  {
+    "text": "writing an earlier and a later the first",
+    "start": 591.41,
+    "duration": 5.1
+  },
+  {
+    "text": "from the Pyramid Texts of the Old",
+    "start": 594.62,
+    "duration": 5.15
+  },
+  {
+    "text": "Kingdom specifically from the spells of",
+    "start": 596.51,
+    "duration": 7.5
+  },
+  {
+    "text": "the pyramid of who knows the oldest to",
+    "start": 599.77,
+    "duration": 6.91
+  },
+  {
+    "text": "contain inscriptions by the way here you",
+    "start": 604.01,
+    "duration": 5.01
+  },
+  {
+    "text": "can see a reconstruction the funerary",
+    "start": 606.68,
+    "duration": 5.16
+  },
+  {
+    "text": "temple leading down to the Nile the",
+    "start": 609.02,
+    "duration": 6.21
+  },
+  {
+    "text": "causeway the mortuary temple greeting",
+    "start": 611.84,
+    "duration": 6.6
+  },
+  {
+    "text": "the body or sarcophagus and then if you",
+    "start": 615.23,
+    "duration": 7.05
+  },
+  {
+    "text": "look at the schematic diagram once",
+    "start": 618.44,
+    "duration": 6.51
+  },
+  {
+    "text": "you've arrived at the enter entrance you",
+    "start": 622.28,
+    "duration": 5.07
+  },
+  {
+    "text": "can see a burial chamber I don't know if",
+    "start": 624.95,
+    "duration": 5.88
+  },
+  {
+    "text": "I should get into using this or not but",
+    "start": 627.35,
+    "duration": 6.6
+  },
+  {
+    "text": "the sarcophagus is brought through here",
+    "start": 630.83,
+    "duration": 6.84
+  },
+  {
+    "text": "it arrives at a burial chamber and the",
+    "start": 633.95,
+    "duration": 5.94
+  },
+  {
+    "text": "ritual of resurrection is to get the",
+    "start": 637.67,
+    "duration": 5.1
+  },
+  {
+    "text": "Kings body out of the sarcophagus at",
+    "start": 639.89,
+    "duration": 5.67
+  },
+  {
+    "text": "this western side and move into this",
+    "start": 642.77,
+    "duration": 7.08
+  },
+  {
+    "text": "eastern side from which Polaris will be",
+    "start": 645.56,
+    "duration": 7.86
+  },
+  {
+    "text": "happy to remember there is an exit for",
+    "start": 649.85,
+    "duration": 7.04
+  },
+  {
+    "text": "the Kings soul headed north all right",
+    "start": 653.42,
+    "duration": 6.95
+  },
+  {
+    "text": "inside you can see how splendidly",
+    "start": 656.89,
+    "duration": 7.21
+  },
+  {
+    "text": "preserved the hieroglyphs are there",
+    "start": 660.37,
+    "duration": 8.26
+  },
+  {
+    "text": "stars on the ceiling and various designs",
+    "start": 664.1,
+    "duration": 9.18
+  },
+  {
+    "text": "here but then if you look at most of the",
+    "start": 668.63,
+    "duration": 7.34
+  },
+  {
+    "text": "wall is perfectly preserved hieroglyphs",
+    "start": 673.28,
+    "duration": 6.03
+  },
+  {
+    "text": "only a one break and",
+    "start": 675.97,
+    "duration": 5.38
+  },
+  {
+    "text": "this is as though you were reading in",
+    "start": 679.31,
+    "duration": 4.98
+  },
+  {
+    "text": "the world's oldest book because most",
+    "start": 681.35,
+    "duration": 6.98
+  },
+  {
+    "text": "stable book the pyramid has no space",
+    "start": 684.29,
+    "duration": 6.66
+  },
+  {
+    "text": "into which to collapse so it remains",
+    "start": 688.33,
+    "duration": 6.34
+  },
+  {
+    "text": "stable and the lifts are in stone and",
+    "start": 690.95,
+    "duration": 6.87
+  },
+  {
+    "text": "legible and we can read them today the",
+    "start": 694.67,
+    "duration": 5.91
+  },
+  {
+    "text": "second set of inscriptions is from the",
+    "start": 697.82,
+    "duration": 5.64
+  },
+  {
+    "text": "book of the heavenly cow in the New",
+    "start": 700.58,
+    "duration": 5.699
+  },
+  {
+    "text": "Kingdom I will show you the Helena cow",
+    "start": 703.46,
+    "duration": 8.22
+  },
+  {
+    "text": "right now it is from the scene on the a",
+    "start": 706.279,
+    "duration": 9.031
+  },
+  {
+    "text": "number of New Kingdom teen tombs most",
+    "start": 711.68,
+    "duration": 5.82
+  },
+  {
+    "text": "particularly the Hall of columns and the",
+    "start": 715.31,
+    "duration": 5.58
+  },
+  {
+    "text": "tomb of Seti the first and to get a",
+    "start": 717.5,
+    "duration": 7.02
+  },
+  {
+    "text": "better glance you can see how the cow is",
+    "start": 720.89,
+    "duration": 8.19
+  },
+  {
+    "text": "heavenly or celestial because the bark",
+    "start": 724.52,
+    "duration": 9.15
+  },
+  {
+    "text": "of the Sun goes across it like this and",
+    "start": 729.08,
+    "duration": 8.31
+  },
+  {
+    "text": "sets there we will come to the story",
+    "start": 733.67,
+    "duration": 6.18
+  },
+  {
+    "text": "about how this cow became the heaven on",
+    "start": 737.39,
+    "duration": 5.37
+  },
+  {
+    "text": "which the Sun moved in a just a moment I",
+    "start": 739.85,
+    "duration": 6.51
+  },
+  {
+    "text": "want to make clear that by using old and",
+    "start": 742.76,
+    "duration": 6.99
+  },
+  {
+    "text": "New Kingdom examples I am just by the",
+    "start": 746.36,
+    "duration": 5.88
+  },
+  {
+    "text": "way making a point that there's no",
+    "start": 749.75,
+    "duration": 5.64
+  },
+  {
+    "text": "essential difference between the two in",
+    "start": 752.24,
+    "duration": 4.98
+  },
+  {
+    "text": "other words don't expect that I will",
+    "start": 755.39,
+    "duration": 6.18
+  },
+  {
+    "text": "find in the Pyramid Texts secrets about",
+    "start": 757.22,
+    "duration": 6.48
+  },
+  {
+    "text": "the ancient sky different than those I",
+    "start": 761.57,
+    "duration": 4.53
+  },
+  {
+    "text": "find in the New Kingdom texts alright",
+    "start": 763.7,
+    "duration": 5.16
+  },
+  {
+    "text": "this is one pattern I see earlier and",
+    "start": 766.1,
+    "duration": 8.73
+  },
+  {
+    "text": "later so let me in a way in a",
+    "start": 768.86,
+    "duration": 8.4
+  },
+  {
+    "text": "preliminary way go through my jaren's",
+    "start": 774.83,
+    "duration": 5.1
+  },
+  {
+    "text": "with examples in the order in which I've",
+    "start": 777.26,
+    "duration": 5.85
+  },
+  {
+    "text": "arranged them I will then use examples",
+    "start": 779.93,
+    "duration": 9.54
+  },
+  {
+    "text": "from my two sets of texts to to show",
+    "start": 783.11,
+    "duration": 9.12
+  },
+  {
+    "text": "their evident pattern of meaning in the",
+    "start": 789.47,
+    "duration": 7.17
+  },
+  {
+    "text": "Egyptian mind and proceed from there the",
+    "start": 792.23,
+    "duration": 7.76
+  },
+  {
+    "text": "first round gerund remembering",
+    "start": 796.64,
+    "duration": 5.55
+  },
+  {
+    "text": "designates the narrating of these",
+    "start": 799.99,
+    "duration": 4.75
+  },
+  {
+    "text": "anomalous events in the sky which",
+    "start": 802.19,
+    "duration": 5.06
+  },
+  {
+    "text": "affected the earth catastrophic lay",
+    "start": 804.74,
+    "duration": 4.95
+  },
+  {
+    "text": "Egyptian literature is curiously",
+    "start": 807.25,
+    "duration": 3.86
+  },
+  {
+    "text": "deficient",
+    "start": 809.69,
+    "duration": 3.82
+  },
+  {
+    "text": "in straightforward tales of world",
+    "start": 811.11,
+    "duration": 5.52
+  },
+  {
+    "text": "destruction by celestial beings more",
+    "start": 813.51,
+    "duration": 5.49
+  },
+  {
+    "text": "often in Egypt such events are just",
+    "start": 816.63,
+    "duration": 5.9
+  },
+  {
+    "text": "alluded to in a cryptic phrase or",
+    "start": 819.0,
+    "duration": 5.91
+  },
+  {
+    "text": "cryptic if the reader does not already",
+    "start": 822.53,
+    "duration": 5.71
+  },
+  {
+    "text": "know the story but both a narrative and",
+    "start": 824.91,
+    "duration": 7.44
+  },
+  {
+    "text": "an illusion are forms of remembering and",
+    "start": 828.24,
+    "duration": 6.84
+  },
+  {
+    "text": "I will treat both as such by looking at",
+    "start": 832.35,
+    "duration": 7.11
+  },
+  {
+    "text": "my two chosen texts assimilating next is",
+    "start": 835.08,
+    "duration": 7.47
+  },
+  {
+    "text": "my word for the omnipresent spells by",
+    "start": 839.46,
+    "duration": 6.66
+  },
+  {
+    "text": "which the deceased becomes one God or",
+    "start": 842.55,
+    "duration": 6.75
+  },
+  {
+    "text": "another in simple declarations such as I",
+    "start": 846.12,
+    "duration": 7.62
+  },
+  {
+    "text": "am raw such assimilation is to be seen",
+    "start": 849.3,
+    "duration": 7.74
+  },
+  {
+    "text": "in all mortuary texts not just royal",
+    "start": 853.74,
+    "duration": 7.71
+  },
+  {
+    "text": "ones as god of the dead Osiris has pride",
+    "start": 857.04,
+    "duration": 6.75
+  },
+  {
+    "text": "of place in the Book of the Dead which",
+    "start": 861.45,
+    "duration": 4.41
+  },
+  {
+    "text": "anyone wealthy enough could Commission",
+    "start": 863.79,
+    "duration": 4.61
+  },
+  {
+    "text": "ascribe to fashion for his tomb in the",
+    "start": 865.86,
+    "duration": 5.37
+  },
+  {
+    "text": "well-known papyrus of ani from which I",
+    "start": 868.4,
+    "duration": 4.78
+  },
+  {
+    "text": "showed you the first line a second ago",
+    "start": 871.23,
+    "duration": 5.22
+  },
+  {
+    "text": "we read incessantly of Osiris on me",
+    "start": 873.18,
+    "duration": 5.78
+  },
+  {
+    "text": "doing this or that of the next world",
+    "start": 876.45,
+    "duration": 6.45
+  },
+  {
+    "text": "Osiris Omni converted into the god",
+    "start": 878.96,
+    "duration": 7.68
+  },
+  {
+    "text": "Osiris assimilated into the great God in",
+    "start": 882.9,
+    "duration": 7.08
+  },
+  {
+    "text": "the Pyramid Texts the King is commonly",
+    "start": 886.64,
+    "duration": 5.68
+  },
+  {
+    "text": "assimilated into the being of the",
+    "start": 889.98,
+    "duration": 7.5
+  },
+  {
+    "text": "greatest of all gods hot war my third",
+    "start": 892.32,
+    "duration": 9.51
+  },
+  {
+    "text": "term easing is a short word for a lovely",
+    "start": 897.48,
+    "duration": 7.77
+  },
+  {
+    "text": "process it refers to the many ways in",
+    "start": 901.83,
+    "duration": 5.7
+  },
+  {
+    "text": "which the deceased is said to be at",
+    "start": 905.25,
+    "duration": 6.39
+  },
+  {
+    "text": "peace and at ease peace consists of",
+    "start": 907.53,
+    "duration": 6.33
+  },
+  {
+    "text": "doing things deemed Pleasant in Egyptian",
+    "start": 911.64,
+    "duration": 5.73
+  },
+  {
+    "text": "life sailing in a stately Barker barge",
+    "start": 913.86,
+    "duration": 7.2
+  },
+  {
+    "text": "such as a God might sail in smelling a",
+    "start": 917.37,
+    "duration": 7.2
+  },
+  {
+    "text": "lotus playing a board game wandering in",
+    "start": 921.06,
+    "duration": 5.67
+  },
+  {
+    "text": "Pleasant fields such as the Greeks would",
+    "start": 924.57,
+    "duration": 6.45
+  },
+  {
+    "text": "call elision these mortuary texts allude",
+    "start": 926.73,
+    "duration": 6.66
+  },
+  {
+    "text": "occasionally to catastrophes in the for",
+    "start": 931.02,
+    "duration": 5.4
+  },
+  {
+    "text": "time the combat between Horus and Seth",
+    "start": 933.39,
+    "duration": 6.18
+  },
+  {
+    "text": "or the raging of the eye of the Sun or",
+    "start": 936.42,
+    "duration": 6.12
+  },
+  {
+    "text": "the eye of horus but for the most part",
+    "start": 939.57,
+    "duration": 4.819
+  },
+  {
+    "text": "they speak of present and it",
+    "start": 942.54,
+    "duration": 6.57
+  },
+  {
+    "text": "recurrent serenity the eye of horus is",
+    "start": 944.389,
+    "duration": 7.331
+  },
+  {
+    "text": "too clear to have been returned to the",
+    "start": 949.11,
+    "duration": 5.519
+  },
+  {
+    "text": "deceased like Horus the deceased has",
+    "start": 951.72,
+    "duration": 4.919
+  },
+  {
+    "text": "been judged by the court of the gods and",
+    "start": 954.629,
+    "duration": 4.981
+  },
+  {
+    "text": "found vindicated as reward for his",
+    "start": 956.639,
+    "duration": 5.64
+  },
+  {
+    "text": "purity the deceased has spells from",
+    "start": 959.61,
+    "duration": 4.649
+  },
+  {
+    "text": "mounting to the very bark of the Sun",
+    "start": 962.279,
+    "duration": 5.49
+  },
+  {
+    "text": "itself there he is said perpetually to",
+    "start": 964.259,
+    "duration": 6.24
+  },
+  {
+    "text": "reverse the sky from east to west in the",
+    "start": 967.769,
+    "duration": 5.55
+  },
+  {
+    "text": "company of this most radiantly visible",
+    "start": 970.499,
+    "duration": 8.52
+  },
+  {
+    "text": "god of the present the idea of a",
+    "start": 973.319,
+    "duration": 7.981
+  },
+  {
+    "text": "perpetual present takes me to my last",
+    "start": 979.019,
+    "duration": 6.531
+  },
+  {
+    "text": "gerund a word I made up for evering I",
+    "start": 981.3,
+    "duration": 7.32
+  },
+  {
+    "text": "use it as a transitive verb for what the",
+    "start": 985.55,
+    "duration": 5.709
+  },
+  {
+    "text": "spells of the scribes mean to affect for",
+    "start": 988.62,
+    "duration": 5.639
+  },
+  {
+    "text": "the deceased the King will live for",
+    "start": 991.259,
+    "duration": 5.31
+  },
+  {
+    "text": "millions of years in eternity and",
+    "start": 994.259,
+    "duration": 5.37
+  },
+  {
+    "text": "everlasting us he's entered a state of",
+    "start": 996.569,
+    "duration": 6.031
+  },
+  {
+    "text": "being which is totally secure and whose",
+    "start": 999.629,
+    "duration": 5.851
+  },
+  {
+    "text": "changes are only those of a cosmos",
+    "start": 1002.6,
+    "duration": 5.64
+  },
+  {
+    "text": "dominated by the unending circling of",
+    "start": 1005.48,
+    "duration": 6.69
+  },
+  {
+    "text": "the Sun psychologically one may say that",
+    "start": 1008.24,
+    "duration": 6.839
+  },
+  {
+    "text": "all anxiety whether triggered by memory",
+    "start": 1012.17,
+    "duration": 5.729
+  },
+  {
+    "text": "of world destruction or by the thought",
+    "start": 1015.079,
+    "duration": 6.87
+  },
+  {
+    "text": "of personal death has been allayed and",
+    "start": 1017.899,
+    "duration": 7.321
+  },
+  {
+    "text": "once we admit psychological thinking it",
+    "start": 1021.949,
+    "duration": 5.821
+  },
+  {
+    "text": "is easy to go further in analyzing the",
+    "start": 1025.22,
+    "duration": 5.069
+  },
+  {
+    "text": "true dynamic of this forever",
+    "start": 1027.77,
+    "duration": 7.7
+  },
+  {
+    "text": "it is denial a denial enabling amnesia",
+    "start": 1030.289,
+    "duration": 10.05
+  },
+  {
+    "text": "forgetting so now let's go through",
+    "start": 1035.47,
+    "duration": 7.329
+  },
+  {
+    "text": "quotations from the two sets of texts I",
+    "start": 1040.339,
+    "duration": 4.921
+  },
+  {
+    "text": "mentioned at the beginning each of which",
+    "start": 1042.799,
+    "duration": 4.35
+  },
+  {
+    "text": "represents one or more of the four",
+    "start": 1045.26,
+    "duration": 4.59
+  },
+  {
+    "text": "processes to which these two texts are",
+    "start": 1047.149,
+    "duration": 6.061
+  },
+  {
+    "text": "devoted in a brief paper such as this",
+    "start": 1049.85,
+    "duration": 5.91
+  },
+  {
+    "text": "one you must of course take my word for",
+    "start": 1053.21,
+    "duration": 4.98
+  },
+  {
+    "text": "it that I have not been selective for my",
+    "start": 1055.76,
+    "duration": 3.419
+  },
+  {
+    "text": "own purposes",
+    "start": 1058.19,
+    "duration": 3.42
+  },
+  {
+    "text": "I submit that my reading of either of",
+    "start": 1059.179,
+    "duration": 5.071
+  },
+  {
+    "text": "these two texts in their totality the",
+    "start": 1061.61,
+    "duration": 6.0
+  },
+  {
+    "text": "book of the heavenly Gao or the Pyramid",
+    "start": 1064.25,
+    "duration": 6.09
+  },
+  {
+    "text": "of Lunas will find that my for Gerrans",
+    "start": 1067.61,
+    "duration": 5.67
+  },
+  {
+    "text": "are the dominant themes and that they",
+    "start": 1070.34,
+    "duration": 4.68
+  },
+  {
+    "text": "are representative of the body of a",
+    "start": 1073.28,
+    "duration": 3.59
+  },
+  {
+    "text": "gypsy or Egyptian",
+    "start": 1075.02,
+    "duration": 6.5
+  },
+  {
+    "text": "mortuary tax as a whole so we begin with",
+    "start": 1076.87,
+    "duration": 7.95
+  },
+  {
+    "text": "remembering to be red parks and also in",
+    "start": 1081.52,
+    "duration": 5.52
+  },
+  {
+    "text": "the tomb of Seti the first in the",
+    "start": 1084.82,
+    "duration": 4.47
+  },
+  {
+    "text": "narrative of how tours destruction of",
+    "start": 1087.04,
+    "duration": 5.79
+  },
+  {
+    "text": "mankind a story dear to all the test",
+    "start": 1089.29,
+    "duration": 8.04
+  },
+  {
+    "text": "refers for its explicitness raw the self",
+    "start": 1092.83,
+    "duration": 7.14
+  },
+  {
+    "text": "begotten and self created and the",
+    "start": 1097.33,
+    "duration": 5.22
+  },
+  {
+    "text": "creator of mankind by the weeping of his",
+    "start": 1099.97,
+    "duration": 7.17
+  },
+  {
+    "text": "eye that grown old and weary and it had",
+    "start": 1102.55,
+    "duration": 7.17
+  },
+  {
+    "text": "come to his attention that humans were",
+    "start": 1107.14,
+    "duration": 4.919
+  },
+  {
+    "text": "complaining of his age and plotting",
+    "start": 1109.72,
+    "duration": 5.78
+  },
+  {
+    "text": "against him the Council of the Gods",
+    "start": 1112.059,
+    "duration": 7.441
+  },
+  {
+    "text": "approved his response that his eye be",
+    "start": 1115.5,
+    "duration": 6.07
+  },
+  {
+    "text": "brought to him with all its destructive",
+    "start": 1119.5,
+    "duration": 3.2
+  },
+  {
+    "text": "power",
+    "start": 1121.57,
+    "duration": 4.47
+  },
+  {
+    "text": "let sure I go forth it wise to the",
+    "start": 1122.7,
+    "duration": 6.31
+  },
+  {
+    "text": "council and destroy for you those who",
+    "start": 1126.04,
+    "duration": 6.15
+  },
+  {
+    "text": "revile you with slander for there is no",
+    "start": 1129.01,
+    "duration": 6.08
+  },
+  {
+    "text": "I whatsoever that can go before it and",
+    "start": 1132.19,
+    "duration": 6.0
+  },
+  {
+    "text": "resist it when it makes its progress in",
+    "start": 1135.09,
+    "duration": 7.18
+  },
+  {
+    "text": "the form of hot or hot or and another",
+    "start": 1138.19,
+    "duration": 8.07
+  },
+  {
+    "text": "version then went forth a segment slew",
+    "start": 1142.27,
+    "duration": 6.6
+  },
+  {
+    "text": "the rebels so many of them that raw",
+    "start": 1146.26,
+    "duration": 4.83
+  },
+  {
+    "text": "repented and called her back",
+    "start": 1148.87,
+    "duration": 5.7
+  },
+  {
+    "text": "come come in peace hot or for the work",
+    "start": 1151.09,
+    "duration": 6.69
+  },
+  {
+    "text": "is accomplished but the goddess found",
+    "start": 1154.57,
+    "duration": 5.34
+  },
+  {
+    "text": "the destruction of humans too sweet to",
+    "start": 1157.78,
+    "duration": 5.149
+  },
+  {
+    "text": "stop she waited about in their blood",
+    "start": 1159.91,
+    "duration": 6.71
+  },
+  {
+    "text": "until a divine ruse distracted her",
+    "start": 1162.929,
+    "duration": 7.361
+  },
+  {
+    "text": "Mandrake's and beer were added to the",
+    "start": 1166.62,
+    "duration": 6.97
+  },
+  {
+    "text": "human blood she had shed and mashed into",
+    "start": 1170.29,
+    "duration": 7.71
+  },
+  {
+    "text": "a potent brew which made her so drunk",
+    "start": 1173.59,
+    "duration": 6.54
+  },
+  {
+    "text": "that she lost her interest in her",
+    "start": 1178.0,
+    "duration": 5.25
+  },
+  {
+    "text": "rampage a remnant of human beings were",
+    "start": 1180.13,
+    "duration": 7.04
+  },
+  {
+    "text": "left in which rock took no more interest",
+    "start": 1183.25,
+    "duration": 6.39
+  },
+  {
+    "text": "this narrative contains all the elements",
+    "start": 1187.17,
+    "duration": 5.32
+  },
+  {
+    "text": "found around the world for a great",
+    "start": 1189.64,
+    "duration": 5.76
+  },
+  {
+    "text": "memory of destruction visited by sky",
+    "start": 1192.49,
+    "duration": 5.63
+  },
+  {
+    "text": "beings on inhabitants of the earth a",
+    "start": 1195.4,
+    "duration": 5.909
+  },
+  {
+    "text": "high God becomes cognizant of the",
+    "start": 1198.12,
+    "duration": 6.34
+  },
+  {
+    "text": "vicious imperfections of the humans he",
+    "start": 1201.309,
+    "duration": 4.571
+  },
+  {
+    "text": "created",
+    "start": 1204.46,
+    "duration": 3.64
+  },
+  {
+    "text": "through his agency some being from the",
+    "start": 1205.88,
+    "duration": 5.21
+  },
+  {
+    "text": "sky destroyed vast portions of humanity",
+    "start": 1208.1,
+    "duration": 6.38
+  },
+  {
+    "text": "in the end though the God repents and",
+    "start": 1211.09,
+    "duration": 6.61
+  },
+  {
+    "text": "relents enough for some humans to be",
+    "start": 1214.48,
+    "duration": 5.35
+  },
+  {
+    "text": "alive to tell the tale of their distance",
+    "start": 1217.7,
+    "duration": 4.61
+  },
+  {
+    "text": "to their descendants and in so doing",
+    "start": 1219.83,
+    "duration": 8.22
+  },
+  {
+    "text": "deposit some kind of meaning for it when",
+    "start": 1222.31,
+    "duration": 8.38
+  },
+  {
+    "text": "we look for remembering now in the texts",
+    "start": 1228.05,
+    "duration": 4.01
+  },
+  {
+    "text": "of the Pyramid of Una's",
+    "start": 1230.69,
+    "duration": 4.59
+  },
+  {
+    "text": "we find the great catastrophes only",
+    "start": 1232.06,
+    "duration": 6.46
+  },
+  {
+    "text": "tersely alluded to in spells whose",
+    "start": 1235.28,
+    "duration": 5.94
+  },
+  {
+    "text": "primary purpose is to facilitate the",
+    "start": 1238.52,
+    "duration": 6.84
+  },
+  {
+    "text": "Kings rebirth and felicity since these",
+    "start": 1241.22,
+    "duration": 6.15
+  },
+  {
+    "text": "spells are often wrapped repeated in",
+    "start": 1245.36,
+    "duration": 4.68
+  },
+  {
+    "text": "later pyramids and that of unas was the",
+    "start": 1247.37,
+    "duration": 4.77
+  },
+  {
+    "text": "name of different pharaohs inserted i",
+    "start": 1250.04,
+    "duration": 5.04
+  },
+  {
+    "text": "will generalize by referring not to",
+    "start": 1252.14,
+    "duration": 6.99
+  },
+  {
+    "text": "Eunice but simply to the king and one",
+    "start": 1255.08,
+    "duration": 6.39
+  },
+  {
+    "text": "extended passage the spells repeatedly",
+    "start": 1259.13,
+    "duration": 6.56
+  },
+  {
+    "text": "begins king except the eye of horus the",
+    "start": 1261.47,
+    "duration": 7.5
+  },
+  {
+    "text": "vicissitudes of that eye above all on",
+    "start": 1265.69,
+    "duration": 5.92
+  },
+  {
+    "text": "the combat between Horus and Seth are",
+    "start": 1268.97,
+    "duration": 5.85
+  },
+  {
+    "text": "then named in the set of phrases except",
+    "start": 1271.61,
+    "duration": 6.78
+  },
+  {
+    "text": "the Eye of Horus which went away which",
+    "start": 1274.82,
+    "duration": 7.47
+  },
+  {
+    "text": "Seth trampled which he pulled out which",
+    "start": 1278.39,
+    "duration": 6.45
+  },
+  {
+    "text": "he carried off on which he caused",
+    "start": 1282.29,
+    "duration": 5.82
+  },
+  {
+    "text": "devastation which escaped from Seth",
+    "start": 1284.84,
+    "duration": 7.35
+  },
+  {
+    "text": "which he rejoined and the so called",
+    "start": 1288.11,
+    "duration": 6.6
+  },
+  {
+    "text": "resurrection ritual by which the",
+    "start": 1292.19,
+    "duration": 5.25
+  },
+  {
+    "text": "sarcophagus is brought into the final",
+    "start": 1294.71,
+    "duration": 5.85
+  },
+  {
+    "text": "burial chamber the Kings Herald tells",
+    "start": 1297.44,
+    "duration": 7.53
+  },
+  {
+    "text": "him to go to your father to autumn who",
+    "start": 1300.56,
+    "duration": 7.8
+  },
+  {
+    "text": "has given birth to Horus in his identity",
+    "start": 1304.97,
+    "duration": 6.63
+  },
+  {
+    "text": "as the one at which the earth shakes and",
+    "start": 1308.36,
+    "duration": 7.29
+  },
+  {
+    "text": "the sky trembles in such language there",
+    "start": 1311.6,
+    "duration": 7.74
+  },
+  {
+    "text": "is never an overtly narrative intent the",
+    "start": 1315.65,
+    "duration": 6.27
+  },
+  {
+    "text": "phrases of the spell subsumed the past",
+    "start": 1319.34,
+    "duration": 5.7
+  },
+  {
+    "text": "and are always aimed at transformation",
+    "start": 1321.92,
+    "duration": 9.0
+  },
+  {
+    "text": "of the King in the present I of Horus to",
+    "start": 1325.04,
+    "duration": 8.57
+  },
+  {
+    "text": "come high and big towards the king",
+    "start": 1330.92,
+    "duration": 6.06
+  },
+  {
+    "text": "behold King you were more soul and more",
+    "start": 1333.61,
+    "duration": 4.25
+  },
+  {
+    "text": "in control",
+    "start": 1336.98,
+    "duration": 4.51
+  },
+  {
+    "text": "the gods of the Mont Nile remembering",
+    "start": 1337.86,
+    "duration": 5.84
+  },
+  {
+    "text": "thus is for the sake of transforming",
+    "start": 1341.49,
+    "duration": 5.48
+  },
+  {
+    "text": "cosmic disturbance and in so doing",
+    "start": 1343.7,
+    "duration": 6.849
+  },
+  {
+    "text": "bringing the king to ease control",
+    "start": 1346.97,
+    "duration": 7.32
+  },
+  {
+    "text": "exultation my next gerund assimilating",
+    "start": 1350.549,
+    "duration": 6.771
+  },
+  {
+    "text": "refers to the recurrent assertion that",
+    "start": 1354.29,
+    "duration": 6.54
+  },
+  {
+    "text": "the deceased is some Godhead or other",
+    "start": 1357.32,
+    "duration": 6.04
+  },
+  {
+    "text": "the proportion between narrative and",
+    "start": 1360.83,
+    "duration": 5.77
+  },
+  {
+    "text": "spell are reversed in my new Ingham New",
+    "start": 1363.36,
+    "duration": 5.79
+  },
+  {
+    "text": "Kingdom and Old Kingdom texts the New",
+    "start": 1366.6,
+    "duration": 4.459
+  },
+  {
+    "text": "Kingdom book of the heavenly cow",
+    "start": 1369.15,
+    "duration": 4.05
+  },
+  {
+    "text": "consists mostly of the elaborate",
+    "start": 1371.059,
+    "duration": 5.201
+  },
+  {
+    "text": "narrative I have summarized after hot",
+    "start": 1373.2,
+    "duration": 5.19
+  },
+  {
+    "text": "Wars all but total destruction of",
+    "start": 1376.26,
+    "duration": 5.87
+  },
+  {
+    "text": "humankind we next read of the old sons",
+    "start": 1378.39,
+    "duration": 7.409
+  },
+  {
+    "text": "determination to retire what he wants it",
+    "start": 1382.13,
+    "duration": 6.19
+  },
+  {
+    "text": "turns out is to distance himself from",
+    "start": 1385.799,
+    "duration": 5.25
+  },
+  {
+    "text": "earth and humans and to mount up to a",
+    "start": 1388.32,
+    "duration": 6.66
+  },
+  {
+    "text": "new sky one provided for him by not at",
+    "start": 1391.049,
+    "duration": 7.701
+  },
+  {
+    "text": "his command in the form of a cow note",
+    "start": 1394.98,
+    "duration": 6.06
+  },
+  {
+    "text": "trembled because of the new height of",
+    "start": 1398.75,
+    "duration": 5.5
+  },
+  {
+    "text": "the sky so rah decreed that supports of",
+    "start": 1401.04,
+    "duration": 6.5
+  },
+  {
+    "text": "the sky come into being only after a",
+    "start": 1404.25,
+    "duration": 6.66
+  },
+  {
+    "text": "complex of narrative a complex narrative",
+    "start": 1407.54,
+    "duration": 5.889
+  },
+  {
+    "text": "of the instating of a new world order",
+    "start": 1410.91,
+    "duration": 6.06
+  },
+  {
+    "text": "does the instruction briefly turn to the",
+    "start": 1413.429,
+    "duration": 6.24
+  },
+  {
+    "text": "deceased and provide him with spells to",
+    "start": 1416.97,
+    "duration": 6.63
+  },
+  {
+    "text": "assimilate him to a godhood I am this",
+    "start": 1419.669,
+    "duration": 6.691
+  },
+  {
+    "text": "pure magic which is in the mouth and in",
+    "start": 1423.6,
+    "duration": 6.6
+  },
+  {
+    "text": "the body of raw I am raw the luminous",
+    "start": 1426.36,
+    "duration": 8.04
+  },
+  {
+    "text": "one I am raw amid his court his nine",
+    "start": 1430.2,
+    "duration": 7.92
+  },
+  {
+    "text": "made of magic I passed by uninjured I",
+    "start": 1434.4,
+    "duration": 6.51
+  },
+  {
+    "text": "belong to the flame which the soul of",
+    "start": 1438.12,
+    "duration": 7.35
+  },
+  {
+    "text": "fire thus you see narrative morphs into",
+    "start": 1440.91,
+    "duration": 8.16
+  },
+  {
+    "text": "spells by which assimilation to raw is",
+    "start": 1445.47,
+    "duration": 7.829
+  },
+  {
+    "text": "consummated in the old kingdom the",
+    "start": 1449.07,
+    "duration": 6.51
+  },
+  {
+    "text": "spells of the Pyramid Texts are likewise",
+    "start": 1453.299,
+    "duration": 5.041
+  },
+  {
+    "text": "aimed at assimilating the deceased into",
+    "start": 1455.58,
+    "duration": 5.94
+  },
+  {
+    "text": "multiple gods they contain no extended",
+    "start": 1458.34,
+    "duration": 5.67
+  },
+  {
+    "text": "narrative but abound in such",
+    "start": 1461.52,
+    "duration": 5.19
+  },
+  {
+    "text": "assimilations the spells have one",
+    "start": 1464.01,
+    "duration": 4.71
+  },
+  {
+    "text": "difference from our New Kingdom texts",
+    "start": 1466.71,
+    "duration": 4.14
+  },
+  {
+    "text": "and the Pyramid Texts the",
+    "start": 1468.72,
+    "duration": 5.07
+  },
+  {
+    "text": "King assimilates himself not just into",
+    "start": 1470.85,
+    "duration": 6.15
+  },
+  {
+    "text": "the gods of creation and regularity but",
+    "start": 1473.79,
+    "duration": 6.27
+  },
+  {
+    "text": "also the ferocious gods who have shown",
+    "start": 1477.0,
+    "duration": 5.97
+  },
+  {
+    "text": "themselves capable of wreaking havoc in",
+    "start": 1480.06,
+    "duration": 4.07
+  },
+  {
+    "text": "the cosmos",
+    "start": 1482.97,
+    "duration": 4.28
+  },
+  {
+    "text": "sometimes he takes on Horus his face and",
+    "start": 1484.13,
+    "duration": 6.49
+  },
+  {
+    "text": "destructive power the king will come",
+    "start": 1487.25,
+    "duration": 6.1
+  },
+  {
+    "text": "with his faith that of the great God who",
+    "start": 1490.62,
+    "duration": 6.09
+  },
+  {
+    "text": "is Lord of rage who grew among the end",
+    "start": 1493.35,
+    "duration": 6.21
+  },
+  {
+    "text": "who grew strong from the injury to him",
+    "start": 1496.71,
+    "duration": 6.06
+  },
+  {
+    "text": "Horus will grant you the fire of his I",
+    "start": 1499.56,
+    "duration": 6.96
+  },
+  {
+    "text": "that it's circle or around that it put",
+    "start": 1502.77,
+    "duration": 7.14
+  },
+  {
+    "text": "tempest among the evildoers put its well",
+    "start": 1506.52,
+    "duration": 6.48
+  },
+  {
+    "text": "under the primordial God's he will",
+    "start": 1509.91,
+    "duration": 7.01
+  },
+  {
+    "text": "strike shoes armed from under the sky",
+    "start": 1513.0,
+    "duration": 7.74
+  },
+  {
+    "text": "this is one hieroglyphic texts where at",
+    "start": 1516.92,
+    "duration": 6.01
+  },
+  {
+    "text": "the very end of the second line you can",
+    "start": 1520.74,
+    "duration": 6.0
+  },
+  {
+    "text": "see for transformations into Horus and",
+    "start": 1522.93,
+    "duration": 7.59
+  },
+  {
+    "text": "the last hieroglyph is the falcon all",
+    "start": 1526.74,
+    "duration": 4.2
+  },
+  {
+    "text": "right",
+    "start": 1530.52,
+    "duration": 3.0
+  },
+  {
+    "text": "sometimes Horus is mentioned only in the",
+    "start": 1530.94,
+    "duration": 5.1
+  },
+  {
+    "text": "background and the Kings threatening",
+    "start": 1533.52,
+    "duration": 4.5
+  },
+  {
+    "text": "presence in the sky is claimed as",
+    "start": 1536.04,
+    "duration": 6.42
+  },
+  {
+    "text": "something unseen before shaking in the",
+    "start": 1538.02,
+    "duration": 8.04
+  },
+  {
+    "text": "sky we saw something new say that",
+    "start": 1542.46,
+    "duration": 7.4
+  },
+  {
+    "text": "primordial gods Court are the nine gods",
+    "start": 1546.06,
+    "duration": 7.41
+  },
+  {
+    "text": "Horus is in the light the King will take",
+    "start": 1549.86,
+    "duration": 8.5
+  },
+  {
+    "text": "hold of the sky will open its orbit the",
+    "start": 1553.47,
+    "duration": 7.38
+  },
+  {
+    "text": "king is Bane sometimes the King spreads",
+    "start": 1558.36,
+    "duration": 5.7
+  },
+  {
+    "text": "terror all on his own the king is baying",
+    "start": 1560.85,
+    "duration": 6.83
+  },
+  {
+    "text": "to the heart is the son of shoes heart",
+    "start": 1564.06,
+    "duration": 6.54
+  },
+  {
+    "text": "extended to the limit with scorching",
+    "start": 1567.68,
+    "duration": 6.16
+  },
+  {
+    "text": "lights the king is the fire and the top",
+    "start": 1570.6,
+    "duration": 6.42
+  },
+  {
+    "text": "of the wind to the sky's limits to the",
+    "start": 1573.84,
+    "duration": 5.58
+  },
+  {
+    "text": "Earth's limit when the arms of the",
+    "start": 1577.02,
+    "duration": 4.92
+  },
+  {
+    "text": "lightning bolts had become discharged",
+    "start": 1579.42,
+    "duration": 6.12
+  },
+  {
+    "text": "why am need I stress here that the",
+    "start": 1581.94,
+    "duration": 8.0
+  },
+  {
+    "text": "terror is a new electrical phenomenon I",
+    "start": 1585.54,
+    "duration": 7.26
+  },
+  {
+    "text": "now enter the second half of my proposed",
+    "start": 1589.94,
+    "duration": 7.33
+  },
+  {
+    "text": "structuring easing and forever ring the",
+    "start": 1592.8,
+    "duration": 6.54
+  },
+  {
+    "text": "two gerunds which move away from the",
+    "start": 1597.27,
+    "duration": 5.43
+  },
+  {
+    "text": "terror in tomb from terror in two modes",
+    "start": 1599.34,
+    "duration": 4.98
+  },
+  {
+    "text": "of forgetting it",
+    "start": 1602.7,
+    "duration": 4.45
+  },
+  {
+    "text": "listen to the sweet details of ease",
+    "start": 1604.32,
+    "duration": 5.26
+  },
+  {
+    "text": "inserted at the final stretch of",
+    "start": 1607.15,
+    "duration": 4.59
+  },
+  {
+    "text": "narrative in the book of the heavenly",
+    "start": 1609.58,
+    "duration": 6.39
+  },
+  {
+    "text": "cow in a spell efficacious for whoever",
+    "start": 1611.74,
+    "duration": 6.09
+  },
+  {
+    "text": "shall recite the words of this",
+    "start": 1615.97,
+    "duration": 5.97
+  },
+  {
+    "text": "composition behind his ears shall be",
+    "start": 1617.83,
+    "duration": 6.63
+  },
+  {
+    "text": "pure and natrone and sweet-smelling",
+    "start": 1621.94,
+    "duration": 6.15
+  },
+  {
+    "text": "salve shall be on his lips he shall be",
+    "start": 1624.46,
+    "duration": 6.42
+  },
+  {
+    "text": "arrayed in a new double tunic and his",
+    "start": 1628.09,
+    "duration": 5.55
+  },
+  {
+    "text": "body shall be purified with the water of",
+    "start": 1630.88,
+    "duration": 6.24
+  },
+  {
+    "text": "the Nile easing in the book of the",
+    "start": 1633.64,
+    "duration": 6.18
+  },
+  {
+    "text": "heavenly cow has as its conclusion",
+    "start": 1637.12,
+    "duration": 5.43
+  },
+  {
+    "text": "spells to enable the deceased to move",
+    "start": 1639.82,
+    "duration": 6.12
+  },
+  {
+    "text": "around after death some of its promises",
+    "start": 1642.55,
+    "duration": 5.52
+  },
+  {
+    "text": "are negative sentences of protection",
+    "start": 1645.94,
+    "duration": 5.52
+  },
+  {
+    "text": "such as I pass by uninjured",
+    "start": 1648.07,
+    "duration": 6.12
+  },
+  {
+    "text": "I belong to the flame which is the soul",
+    "start": 1651.46,
+    "duration": 3.84
+  },
+  {
+    "text": "of fire",
+    "start": 1654.19,
+    "duration": 4.14
+  },
+  {
+    "text": "I have no adversaries among men God",
+    "start": 1655.3,
+    "duration": 6.72
+  },
+  {
+    "text": "spirits among the dead or at anything in",
+    "start": 1658.33,
+    "duration": 6.99
+  },
+  {
+    "text": "the whole of this land others make more",
+    "start": 1662.02,
+    "duration": 6.27
+  },
+  {
+    "text": "positive promises as for anyone who",
+    "start": 1665.32,
+    "duration": 5.61
+  },
+  {
+    "text": "knows the divine words and the spells in",
+    "start": 1668.29,
+    "duration": 5.13
+  },
+  {
+    "text": "his mouth he can ascend and descend",
+    "start": 1670.93,
+    "duration": 6.3
+  },
+  {
+    "text": "within the sky the entire composition",
+    "start": 1673.42,
+    "duration": 7.08
+  },
+  {
+    "text": "comes to an end with such promises short",
+    "start": 1677.23,
+    "duration": 6.36
+  },
+  {
+    "text": "but decisive in stressing the ease the",
+    "start": 1680.5,
+    "duration": 7.86
+  },
+  {
+    "text": "deceased may enjoy through its spells to",
+    "start": 1683.59,
+    "duration": 7.38
+  },
+  {
+    "text": "turn to the Pyramid Texts there are this",
+    "start": 1688.36,
+    "duration": 5.01
+  },
+  {
+    "text": "easing of the king is not always purged",
+    "start": 1690.97,
+    "duration": 5.09
+  },
+  {
+    "text": "entirely of catastrophic consciousness",
+    "start": 1693.37,
+    "duration": 6.81
+  },
+  {
+    "text": "as so often in any court the Kings power",
+    "start": 1696.06,
+    "duration": 6.7
+  },
+  {
+    "text": "may be part of his beauty as in this",
+    "start": 1700.18,
+    "duration": 6.57
+  },
+  {
+    "text": "spell how fair the sight how pleasant",
+    "start": 1702.76,
+    "duration": 7.71
+  },
+  {
+    "text": "the beholding to God say of this God's",
+    "start": 1706.75,
+    "duration": 7.14
+  },
+  {
+    "text": "going forth to the sky atop him his",
+    "start": 1710.47,
+    "duration": 7.26
+  },
+  {
+    "text": "souls that he sides his terror at his",
+    "start": 1713.89,
+    "duration": 8.88
+  },
+  {
+    "text": "feet his magic more often though the",
+    "start": 1717.73,
+    "duration": 7.23
+  },
+  {
+    "text": "serenity of the king is wedded to his",
+    "start": 1722.77,
+    "duration": 4.35
+  },
+  {
+    "text": "assent to the company of the heavenly",
+    "start": 1724.96,
+    "duration": 7.23
+  },
+  {
+    "text": "deities in orderly movement you shall",
+    "start": 1727.12,
+    "duration": 7.68
+  },
+  {
+    "text": "become clean in the cool waters of the",
+    "start": 1732.19,
+    "duration": 3.73
+  },
+  {
+    "text": "stars",
+    "start": 1734.8,
+    "duration": 3.64
+  },
+  {
+    "text": "shall board the bark of Raw on the",
+    "start": 1735.92,
+    "duration": 6.03
+  },
+  {
+    "text": "shoulders of Horace Oh ferryman who",
+    "start": 1738.44,
+    "duration": 6.63
+  },
+  {
+    "text": "faces forward fetch for the king the",
+    "start": 1741.95,
+    "duration": 5.69
+  },
+  {
+    "text": "latter whose name is salve of",
+    "start": 1745.07,
+    "duration": 6.359
+  },
+  {
+    "text": "contentment on the back of Osiris that",
+    "start": 1747.64,
+    "duration": 6.34
+  },
+  {
+    "text": "the king go forth to the sky upon it",
+    "start": 1751.429,
+    "duration": 7.5
+  },
+  {
+    "text": "that he escort raw in the sky we come at",
+    "start": 1753.98,
+    "duration": 8.18
+  },
+  {
+    "text": "last to the gerund I made I made use of",
+    "start": 1758.929,
+    "duration": 6.241
+  },
+  {
+    "text": "forever hang in the book of the",
+    "start": 1762.16,
+    "duration": 4.269
+  },
+  {
+    "text": "celestial cow",
+    "start": 1765.17,
+    "duration": 3.84
+  },
+  {
+    "text": "the most striking affirmation the king",
+    "start": 1766.429,
+    "duration": 4.62
+  },
+  {
+    "text": "will take his place forever in the order",
+    "start": 1769.01,
+    "duration": 5.1
+  },
+  {
+    "text": "of the new cosmos occurs in an",
+    "start": 1771.049,
+    "duration": 7.821
+  },
+  {
+    "text": "illustration on the wall there the king",
+    "start": 1774.11,
+    "duration": 8.73
+  },
+  {
+    "text": "shown three times with his skirt and his",
+    "start": 1778.87,
+    "duration": 7.929
+  },
+  {
+    "text": "urias joins the company of a male God",
+    "start": 1782.84,
+    "duration": 6.98
+  },
+  {
+    "text": "eternity and a female God",
+    "start": 1786.799,
+    "duration": 7.591
+  },
+  {
+    "text": "everlastingness and in both cases the",
+    "start": 1789.82,
+    "duration": 7.09
+  },
+  {
+    "text": "activity is holding up the sky with a",
+    "start": 1794.39,
+    "duration": 6.51
+  },
+  {
+    "text": "support to show you the next slide your",
+    "start": 1796.91,
+    "duration": 7.259
+  },
+  {
+    "text": "more particularly are the Eternity with",
+    "start": 1800.9,
+    "duration": 7.76
+  },
+  {
+    "text": "the name thereof below it's him and",
+    "start": 1804.169,
+    "duration": 7.071
+  },
+  {
+    "text": "everlastingness with the name below here",
+    "start": 1808.66,
+    "duration": 7.36
+  },
+  {
+    "text": "so they are joining the king in holding",
+    "start": 1811.24,
+    "duration": 9.1
+  },
+  {
+    "text": "up the sky all three like shoes support",
+    "start": 1816.02,
+    "duration": 7.05
+  },
+  {
+    "text": "the new sky which raah has mandated and",
+    "start": 1820.34,
+    "duration": 4.92
+  },
+  {
+    "text": "which is now made up of the sky goddess",
+    "start": 1823.07,
+    "duration": 8.489
+  },
+  {
+    "text": "nut as a cow in which - who's in - whose",
+    "start": 1825.26,
+    "duration": 9.18
+  },
+  {
+    "text": "body rah has retired from earth and the",
+    "start": 1831.559,
+    "duration": 5.701
+  },
+  {
+    "text": "underworld the accompanying spells can",
+    "start": 1834.44,
+    "duration": 6.15
+  },
+  {
+    "text": "veil the same message the one who",
+    "start": 1837.26,
+    "duration": 5.19
+  },
+  {
+    "text": "recites this spell shall live in the",
+    "start": 1840.59,
+    "duration": 4.5
+  },
+  {
+    "text": "necropolis and respect for him shall be",
+    "start": 1842.45,
+    "duration": 4.44
+  },
+  {
+    "text": "greater than for those who are upon",
+    "start": 1845.09,
+    "duration": 4.829
+  },
+  {
+    "text": "earth if they ask what are your names",
+    "start": 1846.89,
+    "duration": 7.159
+  },
+  {
+    "text": "the answer is eternity in everlasting us",
+    "start": 1849.919,
+    "duration": 7.681
+  },
+  {
+    "text": "then they are bound to say this is truly",
+    "start": 1854.049,
+    "duration": 6.611
+  },
+  {
+    "text": "a nod the language could not be clearer",
+    "start": 1857.6,
+    "duration": 7.59
+  },
+  {
+    "text": "that there is a new world order and that",
+    "start": 1860.66,
+    "duration": 7.63
+  },
+  {
+    "text": "it is to last for",
+    "start": 1865.19,
+    "duration": 5.54
+  },
+  {
+    "text": "what we see at the end of the book of",
+    "start": 1868.29,
+    "duration": 5.56
+  },
+  {
+    "text": "the heavenly cow occurs farm off and",
+    "start": 1870.73,
+    "duration": 6.63
+  },
+  {
+    "text": "throughout the Pyramid Texts there the",
+    "start": 1873.85,
+    "duration": 5.88
+  },
+  {
+    "text": "celestial melding of serenity and",
+    "start": 1877.36,
+    "duration": 5.46
+  },
+  {
+    "text": "orderly motion leads naturally to an",
+    "start": 1879.73,
+    "duration": 5.82
+  },
+  {
+    "text": "assertion that the new order brought",
+    "start": 1882.82,
+    "duration": 5.49
+  },
+  {
+    "text": "about by the Kings arrival in the sky",
+    "start": 1885.55,
+    "duration": 7.26
+  },
+  {
+    "text": "will be stable and at ease forever on",
+    "start": 1888.31,
+    "duration": 8.07
+  },
+  {
+    "text": "heaven and earth alike he will remain",
+    "start": 1892.81,
+    "duration": 7.08
+  },
+  {
+    "text": "undisturbed by any memory of terrifying",
+    "start": 1896.38,
+    "duration": 7.53
+  },
+  {
+    "text": "phenomenon the King's house in the sky",
+    "start": 1899.89,
+    "duration": 7.5
+  },
+  {
+    "text": "shall never perish the Kings seat on the",
+    "start": 1903.91,
+    "duration": 7.59
+  },
+  {
+    "text": "earth will never end most tenderly the",
+    "start": 1907.39,
+    "duration": 7.29
+  },
+  {
+    "text": "king becomes the son of autumn rah in a",
+    "start": 1911.5,
+    "duration": 7.74
+  },
+  {
+    "text": "perpetual embrace autumn rah your son",
+    "start": 1914.68,
+    "duration": 7.92
+  },
+  {
+    "text": "has come to you the King has come to you",
+    "start": 1919.24,
+    "duration": 7.14
+  },
+  {
+    "text": "it resolved him to you encircling with",
+    "start": 1922.6,
+    "duration": 6.75
+  },
+  {
+    "text": "your arms this is the son of your body",
+    "start": 1926.38,
+    "duration": 7.44
+  },
+  {
+    "text": "forever we have the same archetype here",
+    "start": 1929.35,
+    "duration": 7.77
+  },
+  {
+    "text": "as Christ returning to sit forever at",
+    "start": 1933.82,
+    "duration": 7.29
+  },
+  {
+    "text": "the right hand of the Father so I have",
+    "start": 1937.12,
+    "duration": 6.39
+  },
+  {
+    "text": "proposed a schematic separation of",
+    "start": 1941.11,
+    "duration": 5.58
+  },
+  {
+    "text": "smells into four processes or four",
+    "start": 1943.51,
+    "duration": 3.99
+  },
+  {
+    "text": "gerron's",
+    "start": 1946.69,
+    "duration": 2.94
+  },
+  {
+    "text": "but we have already seemed some",
+    "start": 1947.5,
+    "duration": 4.8
+  },
+  {
+    "text": "overlapping and my survey would not be",
+    "start": 1949.63,
+    "duration": 4.83
+  },
+  {
+    "text": "complete without giving you one example",
+    "start": 1952.3,
+    "duration": 6.18
+  },
+  {
+    "text": "in which all four gerron's are conflated",
+    "start": 1954.46,
+    "duration": 8.13
+  },
+  {
+    "text": "from the Pyramid Texts the King has come",
+    "start": 1958.48,
+    "duration": 7.8
+  },
+  {
+    "text": "from the isle of flame the king has put",
+    "start": 1962.59,
+    "duration": 7.71
+  },
+  {
+    "text": "order in the place of chaos the king is",
+    "start": 1966.28,
+    "duration": 6.42
+  },
+  {
+    "text": "he who owns the linens guarded by the",
+    "start": 1970.3,
+    "duration": 5.55
+  },
+  {
+    "text": "Cobra of fire during the night of the",
+    "start": 1972.7,
+    "duration": 5.37
+  },
+  {
+    "text": "great flood that comes from the Great",
+    "start": 1975.85,
+    "duration": 5.73
+  },
+  {
+    "text": "Goddess the King will appear as the fair",
+    "start": 1978.07,
+    "duration": 7.11
+  },
+  {
+    "text": "god as the water lily at the nose of raw",
+    "start": 1981.58,
+    "duration": 6.42
+  },
+  {
+    "text": "when he comes forth from the place of",
+    "start": 1985.18,
+    "duration": 8.31
+  },
+  {
+    "text": "radiance every day there is an implicit",
+    "start": 1988.0,
+    "duration": 7.83
+  },
+  {
+    "text": "remembering of a deluge brought by a",
+    "start": 1993.49,
+    "duration": 5.22
+  },
+  {
+    "text": "major deity during the night of the",
+    "start": 1995.83,
+    "duration": 3.53
+  },
+  {
+    "text": "flood",
+    "start": 1998.71,
+    "duration": 3.56
+  },
+  {
+    "text": "comes from the Great Goddess note also",
+    "start": 1999.36,
+    "duration": 5.819
+  },
+  {
+    "text": "that the King is implicitly assimilated",
+    "start": 2002.27,
+    "duration": 5.789
+  },
+  {
+    "text": "into raw or Horace in his possession of",
+    "start": 2005.179,
+    "duration": 6.451
+  },
+  {
+    "text": "the Urrea spit fired his enemies but",
+    "start": 2008.059,
+    "duration": 6.12
+  },
+  {
+    "text": "most of the imagery invokes pleasurable",
+    "start": 2011.63,
+    "duration": 5.34
+  },
+  {
+    "text": "ease the King appears is the beautiful",
+    "start": 2014.179,
+    "duration": 5.25
+  },
+  {
+    "text": "water lily which Ross smells on his",
+    "start": 2016.97,
+    "duration": 5.43
+  },
+  {
+    "text": "coming forth and the final phrase",
+    "start": 2019.429,
+    "duration": 4.801
+  },
+  {
+    "text": "constitutes the purest",
+    "start": 2022.4,
+    "duration": 4.649
+  },
+  {
+    "text": "of affirmations of what I have called",
+    "start": 2024.23,
+    "duration": 5.52
+  },
+  {
+    "text": "forever Aang when it comes forth from",
+    "start": 2027.049,
+    "duration": 7.051
+  },
+  {
+    "text": "the place of radiance every day here we",
+    "start": 2029.75,
+    "duration": 7.35
+  },
+  {
+    "text": "have its concise and affirmation as of",
+    "start": 2034.1,
+    "duration": 7.11
+  },
+  {
+    "text": "the assuring ly recurrent as any that",
+    "start": 2037.1,
+    "duration": 6.77
+  },
+  {
+    "text": "Egyptian culture was accustomed to make",
+    "start": 2041.21,
+    "duration": 6.959
+  },
+  {
+    "text": "every day rah Ned as I said at the",
+    "start": 2043.87,
+    "duration": 6.999
+  },
+  {
+    "text": "beginning is more literally every Sun",
+    "start": 2048.169,
+    "duration": 5.911
+  },
+  {
+    "text": "and the same disc with a circle at the",
+    "start": 2050.869,
+    "duration": 5.911
+  },
+  {
+    "text": "center of it is used in the spelling of",
+    "start": 2054.08,
+    "duration": 5.339
+  },
+  {
+    "text": "raw when he smells the water lilies",
+    "start": 2056.78,
+    "duration": 8.22
+  },
+  {
+    "text": "fragrance the kinds of language I have",
+    "start": 2059.419,
+    "duration": 8.7
+  },
+  {
+    "text": "quoted throughout will not be unfamiliar",
+    "start": 2065.0,
+    "duration": 5.46
+  },
+  {
+    "text": "to any one who has had any exposure to",
+    "start": 2068.119,
+    "duration": 7.52
+  },
+  {
+    "text": "Egyptian civilization this civilization",
+    "start": 2070.46,
+    "duration": 9.149
+  },
+  {
+    "text": "claims a long memory of the past it is",
+    "start": 2075.639,
+    "duration": 6.22
+  },
+  {
+    "text": "replete with humans who are or who",
+    "start": 2079.609,
+    "duration": 5.25
+  },
+  {
+    "text": "become divinities its elite is",
+    "start": 2081.859,
+    "duration": 5.631
+  },
+  {
+    "text": "everywhere depicted in positions of ease",
+    "start": 2084.859,
+    "duration": 5.491
+  },
+  {
+    "text": "except perhaps for the Pharaoh sallies",
+    "start": 2087.49,
+    "duration": 5.32
+  },
+  {
+    "text": "forth in a decisive battle which",
+    "start": 2090.35,
+    "duration": 4.71
+  },
+  {
+    "text": "annihilates an enemy armies such as",
+    "start": 2092.81,
+    "duration": 6.059
+  },
+  {
+    "text": "danger artists images of I would simply",
+    "start": 2095.06,
+    "duration": 6.09
+  },
+  {
+    "text": "stress that it is the last of my Forge",
+    "start": 2098.869,
+    "duration": 5.49
+  },
+  {
+    "text": "errands which is the best-known Egypt",
+    "start": 2101.15,
+    "duration": 5.94
+  },
+  {
+    "text": "has long represented the - presented to",
+    "start": 2104.359,
+    "duration": 6.181
+  },
+  {
+    "text": "the world a lapidary facade of stability",
+    "start": 2107.09,
+    "duration": 7.56
+  },
+  {
+    "text": "and perdurable order his prestige",
+    "start": 2110.54,
+    "duration": 6.9
+  },
+  {
+    "text": "deferred to by such general venerable",
+    "start": 2114.65,
+    "duration": 6.15
+  },
+  {
+    "text": "Greek visitors as Sola Herodotus and",
+    "start": 2117.44,
+    "duration": 8.34
+  },
+  {
+    "text": "Plato in conclusion I wish to set up a",
+    "start": 2120.8,
+    "duration": 8.43
+  },
+  {
+    "text": "paradox consisting of two terms which",
+    "start": 2125.78,
+    "duration": 6.19
+  },
+  {
+    "text": "seemed at first incompatible but on",
+    "start": 2129.23,
+    "duration": 6.73
+  },
+  {
+    "text": "further inspection are complementary the",
+    "start": 2131.97,
+    "duration": 6.0
+  },
+  {
+    "text": "first term I take from Thunderbolts of",
+    "start": 2135.96,
+    "duration": 5.22
+  },
+  {
+    "text": "the Gods we would not be going too far",
+    "start": 2137.97,
+    "duration": 7.139
+  },
+  {
+    "text": "to suggest that civilization itself was",
+    "start": 2141.18,
+    "duration": 6.27
+  },
+  {
+    "text": "a bursting forth of new and creative",
+    "start": 2145.109,
+    "duration": 5.581
+  },
+  {
+    "text": "forms of remembering all harking back to",
+    "start": 2147.45,
+    "duration": 6.33
+  },
+  {
+    "text": "some aspect of a primeval conflict",
+    "start": 2150.69,
+    "duration": 7.29
+  },
+  {
+    "text": "between order and chaos second term of",
+    "start": 2153.78,
+    "duration": 6.72
+  },
+  {
+    "text": "my paradox is one known to any",
+    "start": 2157.98,
+    "duration": 5.85
+  },
+  {
+    "text": "philosopher of memory namely that we",
+    "start": 2160.5,
+    "duration": 6.03
+  },
+  {
+    "text": "remember some things only by forgetting",
+    "start": 2163.83,
+    "duration": 6.63
+  },
+  {
+    "text": "others memory has to be selective in",
+    "start": 2166.53,
+    "duration": 6.41
+  },
+  {
+    "text": "order not to overwhelm us",
+    "start": 2170.46,
+    "duration": 5.46
+  },
+  {
+    "text": "so I would add to the truth of Talbot",
+    "start": 2172.94,
+    "duration": 5.05
+  },
+  {
+    "text": "and Thornhill sentence and other truth",
+    "start": 2175.92,
+    "duration": 6.09
+  },
+  {
+    "text": "that civilization was also a bursting",
+    "start": 2177.99,
+    "duration": 6.869
+  },
+  {
+    "text": "forth of new and creative forms of",
+    "start": 2182.01,
+    "duration": 6.23
+  },
+  {
+    "text": "forgetting through selectivity and",
+    "start": 2184.859,
+    "duration": 6.121
+  },
+  {
+    "text": "selectivity about remembering the past",
+    "start": 2188.24,
+    "duration": 5.619
+  },
+  {
+    "text": "can lead to denial about what is",
+    "start": 2190.98,
+    "duration": 6.66
+  },
+  {
+    "text": "possible in the future the primary",
+    "start": 2193.859,
+    "duration": 6.99
+  },
+  {
+    "text": "denial in Egyptian culture is that the",
+    "start": 2197.64,
+    "duration": 5.459
+  },
+  {
+    "text": "New World Order established by Roz",
+    "start": 2200.849,
+    "duration": 5.671
+  },
+  {
+    "text": "removal to the sky described in the book",
+    "start": 2203.099,
+    "duration": 7.051
+  },
+  {
+    "text": "of the celestial cow could ever again be",
+    "start": 2206.52,
+    "duration": 7.23
+  },
+  {
+    "text": "undone the Pharaoh himself is depicted",
+    "start": 2210.15,
+    "duration": 6.66
+  },
+  {
+    "text": "as helping eternity in everlasting us",
+    "start": 2213.75,
+    "duration": 5.94
+  },
+  {
+    "text": "hold up the sky in the illustration of",
+    "start": 2216.81,
+    "duration": 6.36
+  },
+  {
+    "text": "this book on the tomb walls if the",
+    "start": 2219.69,
+    "duration": 5.64
+  },
+  {
+    "text": "deceased is to accompany rah in his",
+    "start": 2223.17,
+    "duration": 5.37
+  },
+  {
+    "text": "barks perpetual daily traversal from",
+    "start": 2225.33,
+    "duration": 5.97
+  },
+  {
+    "text": "rising to setting and if daily is",
+    "start": 2228.54,
+    "duration": 6.09
+  },
+  {
+    "text": "expressed in the two words every Sun and",
+    "start": 2231.3,
+    "duration": 5.01
+  },
+  {
+    "text": "there is nothing to be feared in the",
+    "start": 2234.63,
+    "duration": 6.57
+  },
+  {
+    "text": "future the Egyptian afterlife may",
+    "start": 2236.31,
+    "duration": 6.539
+  },
+  {
+    "text": "resemble that of the Blessed and the",
+    "start": 2241.2,
+    "duration": 3.69
+  },
+  {
+    "text": "Christian heaven but there is no",
+    "start": 2242.849,
+    "duration": 5.131
+  },
+  {
+    "text": "apocalypse or Last Judgment preceding",
+    "start": 2244.89,
+    "duration": 5.91
+  },
+  {
+    "text": "the consummation of Christian beatitude",
+    "start": 2247.98,
+    "duration": 6.66
+  },
+  {
+    "text": "and the beatific vision for cultures",
+    "start": 2250.8,
+    "duration": 5.549
+  },
+  {
+    "text": "with a profound nur sense of the",
+    "start": 2254.64,
+    "duration": 4.709
+  },
+  {
+    "text": "fragility of the cosmos in which man is",
+    "start": 2256.349,
+    "duration": 5.151
+  },
+  {
+    "text": "but the servant of the gods",
+    "start": 2259.349,
+    "duration": 4.431
+  },
+  {
+    "text": "and a goomy underworld is our last",
+    "start": 2261.5,
+    "duration": 5.16
+  },
+  {
+    "text": "station one does better to turn to the",
+    "start": 2263.78,
+    "duration": 6.68
+  },
+  {
+    "text": "civilizations of Greece and Mesopotamia",
+    "start": 2266.66,
+    "duration": 9.03
+  },
+  {
+    "text": "in Egypt for evering becomes a form of",
+    "start": 2270.46,
+    "duration": 8.97
+  },
+  {
+    "text": "forgetting thank you",
+    "start": 2275.69,
+    "duration": 3.74
+  },
+  {
+    "text": "[Music]",
+    "start": 2292.24,
+    "duration": 7.129
+  }
+]

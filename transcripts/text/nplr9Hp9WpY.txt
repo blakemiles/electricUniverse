@@ -1,0 +1,697 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe,",
+    "start": 8.095,
+    "duration": 2.807
+  },
+  {
+    "text": "brought to you by The\nThunderbolts Project™",
+    "start": 10.927,
+    "duration": 2.351
+  },
+  {
+    "text": "at Thunderbolts.info.",
+    "start": 13.303,
+    "duration": 3.505
+  },
+  {
+    "text": "In a recent Space News episode, we\nbegan the first of a series of reports",
+    "start": 17.221,
+    "duration": 4.244
+  },
+  {
+    "text": "that challenge the very underpinnings\nof consensus scientific theory",
+    "start": 21.49,
+    "duration": 3.662
+  },
+  {
+    "text": "on the nature of stars,\nincluding our own Sun.",
+    "start": 25.177,
+    "duration": 3.299
+  },
+  {
+    "text": "Ever finer technological data continues\nto provide increasing opportunities",
+    "start": 28.501,
+    "duration": 4.578
+  },
+  {
+    "text": "to test the respective predictions\nof the Electric Universe theory",
+    "start": 33.104,
+    "duration": 3.701
+  },
+  {
+    "text": "versus those of the\nInstitutional Science.",
+    "start": 36.83,
+    "duration": 2.84
+  },
+  {
+    "text": "As Wal Thornhill explains in the\nfirst of this two-part episode,",
+    "start": 39.695,
+    "duration": 3.893
+  },
+  {
+    "text": "new discoveries all point\ntoward the perhaps",
+    "start": 43.613,
+    "duration": 2.838
+  },
+  {
+    "text": "inevitable confirmation of\nthe Electric Star theory.",
+    "start": 46.476,
+    "duration": 3.308
+  },
+  {
+    "text": "Scientists don't\nunderstand stars.",
+    "start": 50.562,
+    "duration": 2.823
+  },
+  {
+    "text": "Not a single feature of\nthe Sun is predictable,",
+    "start": 53.41,
+    "duration": 2.888
+  },
+  {
+    "text": "based on the standard\nmodel of the Sun.",
+    "start": 56.323,
+    "duration": 2.709
+  },
+  {
+    "text": "We can't see inside the Sun except for a peep\nthrough the holes punched in the photosphere",
+    "start": 59.057,
+    "duration": 5.074
+  },
+  {
+    "text": "we call sunspots",
+    "start": 64.156,
+    "duration": 1.685
+  },
+  {
+    "text": "and there we don't see energy trying\nto escape from inside the Sun.",
+    "start": 65.866,
+    "duration": 4.304
+  },
+  {
+    "text": "It's cooler down there.",
+    "start": 70.195,
+    "duration": 2.064
+  },
+  {
+    "text": "That's why the\nsun-spots appear dark.",
+    "start": 72.284,
+    "duration": 2.76
+  },
+  {
+    "text": "But as usual, a model once adopted\nas a standard becomes a belief.",
+    "start": 75.069,
+    "duration": 5.557
+  },
+  {
+    "text": "Stars are believed to be isolated\nthermonuclear campfires in the sky",
+    "start": 80.651,
+    "duration": 5.226
+  },
+  {
+    "text": "that eventually burn out.",
+    "start": 85.902,
+    "duration": 2.307
+  },
+  {
+    "text": "All data must be fitted somehow to\nthe model or discarded as an error.",
+    "start": 88.234,
+    "duration": 5.697
+  },
+  {
+    "text": "The operative word is \"somehow.\"",
+    "start": 93.956,
+    "duration": 2.81
+  },
+  {
+    "text": "No alternative\nmodel is possible.",
+    "start": 96.955,
+    "duration": 2.857
+  },
+  {
+    "text": "That is how we, fallible mortals,\napply the scientific method.",
+    "start": 99.837,
+    "duration": 4.548
+  },
+  {
+    "text": "Many who are familiar with the\nElectric Universe have said to me",
+    "start": 104.41,
+    "duration": 3.369
+  },
+  {
+    "text": "they can't watch\nastronomy programs",
+    "start": 107.804,
+    "duration": 2.071
+  },
+  {
+    "text": "because the blatant\nmisinformation makes them angry.",
+    "start": 109.9,
+    "duration": 3.078
+  },
+  {
+    "text": "The programs begin with a litany of\n\"facts\", most of which are baseless.",
+    "start": 113.003,
+    "duration": 5.18
+  },
+  {
+    "text": "For example, a popular online lecture\nin physics enthuses, and I quote,",
+    "start": 118.208,
+    "duration": 5.618
+  },
+  {
+    "text": "\"A star is born when nuclear\nfusion ignites and produces heat.",
+    "start": 123.851,
+    "duration": 3.915
+  },
+  {
+    "text": "The star is formed first when\nmatter falls in gravitationally,",
+    "start": 127.791,
+    "duration": 3.725
+  },
+  {
+    "text": "matter attracts each other, and falls in and\nheats up to tens of millions of degrees",
+    "start": 131.541,
+    "duration": 5.429
+  },
+  {
+    "text": "― then nuclear fusion produces\nenergy and the star is born.",
+    "start": 136.995,
+    "duration": 4.735
+  },
+  {
+    "text": "Our sun was born about\n5 billion years ago.\"",
+    "start": 141.755,
+    "duration": 4.985
+  },
+  {
+    "text": "So goes the myth!",
+    "start": 146.765,
+    "duration": 1.504
+  },
+  {
+    "text": "There is not a single\nfact in any of this.",
+    "start": 148.294,
+    "duration": 2.665
+  },
+  {
+    "text": "It ignores the recent evidence of\nstars being born in molecular clouds",
+    "start": 150.984,
+    "duration": 4.172
+  },
+  {
+    "text": "along glowing current filaments.",
+    "start": 155.181,
+    "duration": 1.959
+  },
+  {
+    "text": "It doesn't match the story!",
+    "start": 157.165,
+    "duration": 2.036
+  },
+  {
+    "text": "The discovery shows dust and\ngas is efficiently scavenged",
+    "start": 159.226,
+    "duration": 3.55
+  },
+  {
+    "text": "over many light-years towards\nthe current filament.",
+    "start": 162.801,
+    "duration": 3.617
+  },
+  {
+    "text": "Unlike weak\ngravitational collapse",
+    "start": 166.443,
+    "duration": 2.642
+  },
+  {
+    "text": "which is limited in range and directed\nradially inwards, towards a center of mass.",
+    "start": 169.11,
+    "duration": 5.497
+  },
+  {
+    "text": "Any rotation of the cloud inhibits gravitational\ncollapse, giving time for the heat,",
+    "start": 174.632,
+    "duration": 5.213
+  },
+  {
+    "text": "generated by matter spiraling\ninwards, to be radiated away.",
+    "start": 179.87,
+    "duration": 4.573
+  },
+  {
+    "text": "Nuclear fusion in stellar\ncores, composed somehow",
+    "start": 184.468,
+    "duration": 3.861
+  },
+  {
+    "text": "of the lightest element hydrogen,\nis the improbable claimed result.",
+    "start": 188.354,
+    "duration": 5.568
+  },
+  {
+    "text": "The fusion model of stellar energy was\ngrasped at, more than a century ago,",
+    "start": 193.947,
+    "duration": 4.862
+  },
+  {
+    "text": "simply because it seemed like the\nonly option for an isolated star",
+    "start": 198.834,
+    "duration": 3.829
+  },
+  {
+    "text": "producing prodigious energy\nfor unimaginable time spans.",
+    "start": 202.688,
+    "duration": 4.561
+  },
+  {
+    "text": "Yet, as our project manager and chief\nengineer of the SAFIRE experiment,",
+    "start": 207.274,
+    "duration": 4.263
+  },
+  {
+    "text": "which is designed to test an electrical\nmodel of stars, pointed out,",
+    "start": 211.562,
+    "duration": 4.555
+  },
+  {
+    "text": "\"The steady shining of countless stars\nin the night sky requires they be lit",
+    "start": 216.411,
+    "duration": 4.127
+  },
+  {
+    "text": "by a simple controlled process.\"",
+    "start": 220.563,
+    "duration": 2.678
+  },
+  {
+    "text": "The hydrogen bomb model applied to stars\nis not simple, stable or testable.",
+    "start": 223.266,
+    "duration": 5.078
+  },
+  {
+    "text": "If it were the answer, a night sky\nshould resemble a fireworks show.",
+    "start": 228.369,
+    "duration": 5.141
+  },
+  {
+    "text": "Meanwhile, our experimental attempts to\nforce nature to conform to our beliefs",
+    "start": 233.535,
+    "duration": 4.683
+  },
+  {
+    "text": "have led nowhere in the\nquest for fusion power",
+    "start": 238.243,
+    "duration": 3.385
+  },
+  {
+    "text": "― like the Sun.―",
+    "start": 241.653,
+    "duration": 1.676
+  },
+  {
+    "text": "Clearly, scientists\ndon't understand stars;",
+    "start": 243.354,
+    "duration": 3.205
+  },
+  {
+    "text": "their birth, how they shine\nand their supposed death.",
+    "start": 246.584,
+    "duration": 4.807
+  },
+  {
+    "text": "Recent reports highlight\nthis obvious fact.",
+    "start": 251.416,
+    "duration": 3.338
+  },
+  {
+    "text": "Phys.org's reported on September\n12 last year and I quote,",
+    "start": 254.779,
+    "duration": 5.258
+  },
+  {
+    "text": "\"Stars form within the dense regions\nof diffuse molecular clouds,",
+    "start": 260.062,
+    "duration": 4.431
+  },
+  {
+    "text": "but the physical processes\nthat determine the locations,",
+    "start": 264.518,
+    "duration": 3.355
+  },
+  {
+    "text": "rate, and efficiency of star\nformation are poorly understood.",
+    "start": 267.898,
+    "duration": 4.366
+  },
+  {
+    "text": "Recent thinking envisions an\napproximate two-step process:",
+    "start": 272.289,
+    "duration": 4.105
+  },
+  {
+    "text": "first, a network of dense filaments\nform, due to large scale turbulence,",
+    "start": 276.419,
+    "duration": 4.942
+  },
+  {
+    "text": "and then fragmentation into cores\noccurs as gravity starts to dominate.",
+    "start": 281.386,
+    "duration": 4.913
+  },
+  {
+    "text": "In the dense gas, the structure\nformation is affected by motions",
+    "start": 286.324,
+    "duration": 3.733
+  },
+  {
+    "text": "induced primarily\nby three processes:",
+    "start": 290.082,
+    "duration": 2.706
+  },
+  {
+    "text": "supersonic turbulence, self-gravity,\nand magnetic fields.\"",
+    "start": 292.813,
+    "duration": 6.253
+  },
+  {
+    "text": "The words \"Poorly understood\" are\ncode for, \"We have no idea.\"",
+    "start": 299.091,
+    "duration": 4.748
+  },
+  {
+    "text": "There is no known way that supersonic\nturbulence and magical magnetic fields",
+    "start": 303.864,
+    "duration": 4.544
+  },
+  {
+    "text": "can produce the many light-years\nlong, constant-width,",
+    "start": 308.433,
+    "duration": 3.633
+  },
+  {
+    "text": "glowing filaments and their\nstructured magnetic fields.",
+    "start": 312.091,
+    "duration": 3.928
+  },
+  {
+    "text": "Astrophysicists are ignorant of Hannes\nAlfven's prediction, made decades ago,",
+    "start": 316.044,
+    "duration": 4.536
+  },
+  {
+    "text": "that stars would be formed\nprecisely that way,",
+    "start": 320.605,
+    "duration": 2.544
+  },
+  {
+    "text": "by powerful scavenging of matter\nalong magnetically pinched",
+    "start": 323.174,
+    "duration": 3.964
+  },
+  {
+    "text": "galactic current filaments\ninside molecular clouds.",
+    "start": 327.163,
+    "duration": 4.156
+  },
+  {
+    "text": "The reason given by\none astrophysicist;",
+    "start": 331.344,
+    "duration": 2.462
+  },
+  {
+    "text": "\"We know there's electricity in\nspace but it doesn't do anything.\"",
+    "start": 333.831,
+    "duration": 3.835
+  },
+  {
+    "text": "Such is the dysfunction of\nnarrow specialism in science.",
+    "start": 337.691,
+    "duration": 4.035
+  },
+  {
+    "text": "So a star is not formed when\nmatter falls in gravitationally",
+    "start": 341.751,
+    "duration": 3.921
+  },
+  {
+    "text": "and matter doesn't fall in and heat\nup to tens of millions of degrees.",
+    "start": 345.697,
+    "duration": 4.642
+  },
+  {
+    "text": "The electrical accretion process\nstratifies elements radially,",
+    "start": 350.364,
+    "duration": 3.629
+  },
+  {
+    "text": "according to their\nionization potential.",
+    "start": 354.018,
+    "duration": 2.503
+  },
+  {
+    "text": "It produces cool cores of heavy\nelements, like beads on a string.",
+    "start": 356.546,
+    "duration": 4.358
+  },
+  {
+    "text": "But nuclear fusion in a cool,\nheavy element core is impossible.",
+    "start": 360.929,
+    "duration": 4.718
+  },
+  {
+    "text": "So it makes far more sense that stars\nare a cosmic electrical phenomenon",
+    "start": 365.672,
+    "duration": 4.052
+  },
+  {
+    "text": "involving their photospheres.",
+    "start": 369.749,
+    "duration": 2.603
+  },
+  {
+    "text": "Fusion occurs on the\nSun, not in it!",
+    "start": 372.377,
+    "duration": 3.342
+  },
+  {
+    "text": "All stars produce the heavy elements seen\nin their spectra by warm plasma fusion",
+    "start": 375.744,
+    "duration": 5.269
+  },
+  {
+    "text": "and neutron capture in\ntheir photo- spheres.",
+    "start": 381.038,
+    "duration": 2.657
+  },
+  {
+    "text": "In contrast of the brute force\napproach of particle physicists",
+    "start": 383.72,
+    "duration": 3.372
+  },
+  {
+    "text": "requiring incredible pressure\nand millions of degrees.",
+    "start": 387.117,
+    "duration": 3.224
+  },
+  {
+    "text": "Earlier in May last year, there\nappeared a groundbreaking paper",
+    "start": 390.366,
+    "duration": 3.881
+  },
+  {
+    "text": "in the journal Astronomy\nAnd Astrophysics,",
+    "start": 394.272,
+    "duration": 2.648
+  },
+  {
+    "text": "which showed a slingshot effect in a\nstar-birthing filament of the Orion Nebula.",
+    "start": 396.945,
+    "duration": 6.096
+  },
+  {
+    "text": "These glowing filaments snake\nabout inside the nebula",
+    "start": 403.066,
+    "duration": 3.601
+  },
+  {
+    "text": "like the radiant filaments\nin novelty plasma balls.",
+    "start": 406.692,
+    "duration": 4.014
+  },
+  {
+    "text": "The stars are formed while\nmoving with the filament",
+    "start": 410.731,
+    "duration": 3.303
+  },
+  {
+    "text": "but as the star gets more\nmassive it is slung out,",
+    "start": 414.059,
+    "duration": 2.881
+  },
+  {
+    "text": "ready formed and switched on as the\nglowing filament accelerates away.",
+    "start": 416.965,
+    "duration": 4.655
+  },
+  {
+    "text": "This may help explain the\nsize limit of stars.",
+    "start": 421.645,
+    "duration": 3.348
+  },
+  {
+    "text": "Stars are the electromagnetic\noffspring of electric galaxies.",
+    "start": 425.018,
+    "duration": 4.581
+  },
+  {
+    "text": "So nearby stars have rotation axes\nthat line up closely with each other",
+    "start": 429.624,
+    "duration": 4.752
+  },
+  {
+    "text": "because they are all spun up along the\nsame, rotating, electrical umbilical cord,",
+    "start": 434.401,
+    "duration": 5.725
+  },
+  {
+    "text": "known as a Birkeland Current.",
+    "start": 440.151,
+    "duration": 2.673
+  },
+  {
+    "text": "Do we have evidence for the alignment of\nspinning stars born in the same event?",
+    "start": 442.849,
+    "duration": 4.211
+  },
+  {
+    "text": "Yes we do, and as usual it\nhas mystified researchers.",
+    "start": 447.085,
+    "duration": 4.624
+  },
+  {
+    "text": "On March 14th this year, John Ross in the\nAustralian national newspaper reported,",
+    "start": 451.734,
+    "duration": 5.137
+  },
+  {
+    "text": "\"Australian astronomers studying\nstars' internal upheavals",
+    "start": 456.896,
+    "duration": 4.074
+  },
+  {
+    "text": "have opened a new fault line in theories\nabout the universe's formation.",
+    "start": 460.995,
+    "duration": 4.413
+  },
+  {
+    "text": "Researchers monitoring 'starquakes'\n― the stellar equivalent of earthquakes ―",
+    "start": 465.433,
+    "duration": 4.907
+  },
+  {
+    "text": "have found a startling symmetry in dozens\nof swollen stars known as red giants.",
+    "start": 470.365,
+    "duration": 5.296
+  },
+  {
+    "text": "The findings open a new mystery around\nthe formation of clusters of stars",
+    "start": 475.686,
+    "duration": 4.951
+  },
+  {
+    "text": "from swirling clouds\nof molecules and gas.",
+    "start": 480.662,
+    "duration": 3.322
+  },
+  {
+    "text": "Co-author Dennis Stello said these gas\nclouds rotated on their own internal axes.",
+    "start": 484.009,
+    "duration": 6.204
+  },
+  {
+    "text": "Astronomers had assumed the initial\nspin orientation would become scrambled",
+    "start": 490.238,
+    "duration": 4.3
+  },
+  {
+    "text": "by the colossal turbulence generated when\nthey coalesced into families of stars.\"",
+    "start": 494.563,
+    "duration": 4.943
+  },
+  {
+    "text": "\"The results were\nunexpected,\" said Dr. Stello.",
+    "start": 499.935,
+    "duration": 3.181
+  },
+  {
+    "text": "\"We found that the spins of most of the\nstars were aligned with each other.",
+    "start": 503.141,
+    "duration": 4.118
+  },
+  {
+    "text": "Previously it had been assumed\nthat massive turbulence",
+    "start": 507.284,
+    "duration": 2.994
+  },
+  {
+    "text": "would have scrambled the rotational energy\nof the clouds where the stars were born,",
+    "start": 510.303,
+    "duration": 4.117
+  },
+  {
+    "text": "and prevented this alignment.\"",
+    "start": 514.445,
+    "duration": 2.086
+  },
+  {
+    "text": "This statement shows characteristic\nblindness toward earlier evidence",
+    "start": 516.556,
+    "duration": 4.064
+  },
+  {
+    "text": "that also doesn't fit the\naccepted story of star birth.",
+    "start": 520.645,
+    "duration": 3.324
+  },
+  {
+    "text": "So the published paper doesn't refer\nto the filamentary star-birth paper,",
+    "start": 523.994,
+    "duration": 4.147
+  },
+  {
+    "text": "where the answer to the\nmystery clearly lies.",
+    "start": 528.166,
+    "duration": 3.094
+  },
+  {
+    "text": "Specialists tend to ignore other\nspecialists, even in their own field,",
+    "start": 531.285,
+    "duration": 4.268
+  },
+  {
+    "text": "when findings are off the\nedges of their belief map.",
+    "start": 535.578,
+    "duration": 3.188
+  },
+  {
+    "text": "Such is the dysfunctional\nstate of modern science.",
+    "start": 538.791,
+    "duration": 3.317
+  },
+  {
+    "text": "For continuous updates on Space\nNews from the Electric Universe,",
+    "start": 543.283,
+    "duration": 4.07
+  },
+  {
+    "text": "stay tuned to",
+    "start": 547.378,
+    "duration": 1.124
+  },
+  {
+    "text": "Thunderbolts.info",
+    "start": 548.527,
+    "duration": 1.524
+  }
+]

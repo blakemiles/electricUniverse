@@ -1,0 +1,1587 @@
+[
+  {
+    "text": "Welcome to the Electricity of Life, brought to you\nby the Thunderbolts Project™ at Thunderbolts.info",
+    "start": 7.55,
+    "duration": 11.53
+  },
+  {
+    "text": "In the 21st century, scientific discovery\nroutinely forces a new perspective on",
+    "start": 19.08,
+    "duration": 5.07
+  },
+  {
+    "text": "the nature of reality, including physical\nphenomena at every scale in the cosmos.",
+    "start": 24.15,
+    "duration": 5.0
+  },
+  {
+    "text": "One of the strangest beliefs in\ncosmology is that celestial bodies exist",
+    "start": 29.15,
+    "duration": 5.11
+  },
+  {
+    "text": "in isolation, with no connection or\ninfluence on one another. However, today",
+    "start": 34.26,
+    "duration": 5.7
+  },
+  {
+    "text": "our most powerful telescopes reveal\nastonishing networks of plasma filaments",
+    "start": 39.96,
+    "duration": 4.56
+  },
+  {
+    "text": "which connect stars and galaxies across\nunfathomable distances. It's been said",
+    "start": 44.52,
+    "duration": 5.69
+  },
+  {
+    "text": "that no man is an island and likewise,\nin our Electric Universe, no islands exist",
+    "start": 50.21,
+    "duration": 6.04
+  },
+  {
+    "text": "in space. For generations,\na similar strange belief about the human",
+    "start": 56.25,
+    "duration": 5.57
+  },
+  {
+    "text": "body has prevailed in the world of\nWestern medicine. Specialization means",
+    "start": 61.82,
+    "duration": 5.38
+  },
+  {
+    "text": "treating each organ and part of the body\nas a separate isolated instrument and",
+    "start": 67.2,
+    "duration": 4.98
+  },
+  {
+    "text": "just as finer technological data reveals\nthe connectedness of the most distant",
+    "start": 72.18,
+    "duration": 4.92
+  },
+  {
+    "text": "celestial objects, today, mainstream\nmedicine increasingly recognizes the",
+    "start": 77.1,
+    "duration": 5.12
+  },
+  {
+    "text": "basis for a more integrative approach\nto human health. Just as an electrical",
+    "start": 82.22,
+    "duration": 5.25
+  },
+  {
+    "text": "circuitry connects distant celestial\nobjects, the electrical circuitry of the",
+    "start": 87.47,
+    "duration": 4.68
+  },
+  {
+    "text": "body is a stupendous, complex network\ncentral to life. One of the leading",
+    "start": 92.15,
+    "duration": 5.98
+  },
+  {
+    "text": "pioneers in integrative health is Dr.\nJerry Tennant, a world-renowned",
+    "start": 98.13,
+    "duration": 4.87
+  },
+  {
+    "text": "ophthalmologist whose book series\n”Healing is Voltage” describes his",
+    "start": 103.0,
+    "duration": 4.1
+  },
+  {
+    "text": "groundbreaking research into the body's\ncircuitry. Recently, Dr. Tennant offered a",
+    "start": 107.1,
+    "duration": 5.46
+  },
+  {
+    "text": "series of presentations as part of a\ncontinuing medical education class for",
+    "start": 112.56,
+    "duration": 4.34
+  },
+  {
+    "text": "Naturopathic Doctors in Arizona.\nDr. Tennant and his group have kindly",
+    "start": 116.9,
+    "duration": 4.99
+  },
+  {
+    "text": "granted us permission to share these\npresentations in a series of videos.",
+    "start": 121.89,
+    "duration": 5.13
+  },
+  {
+    "text": "In this introductory episode, Dr. Tennant\nbegins with a remarkable summary of his",
+    "start": 127.02,
+    "duration": 4.79
+  },
+  {
+    "text": "personal and professional journey. To\nfurther explore Dr. Tennant’s resources",
+    "start": 131.81,
+    "duration": 5.17
+  },
+  {
+    "text": "and materials, you may visit the links\nin the description box of this video.",
+    "start": 136.98,
+    "duration": 5.03
+  },
+  {
+    "text": "This is Dr. Jerry Tennant. I'd like to\ndiscuss with you some concepts about",
+    "start": 142.01,
+    "duration": 5.61
+  },
+  {
+    "text": "”Healing is Voltage”. First of all, a Notice:\nTennant Institute is a Private Expressive",
+    "start": 147.62,
+    "duration": 5.86
+  },
+  {
+    "text": "Association, as defined by law, and is\nunder the direction of Jerry Tennant, MD,",
+    "start": 153.48,
+    "duration": 5.43
+  },
+  {
+    "text": "MD(H), PScD. This lecture is given under the\nauspices of my Arizona MD(H} license and",
+    "start": 158.91,
+    "duration": 6.99
+  },
+  {
+    "text": "Not my Texas MD license, partially with\nthe support of a contribution by Synergy",
+    "start": 165.9,
+    "duration": 5.22
+  },
+  {
+    "text": "Medical Group. Participation in the\nseminar implies that the participant has",
+    "start": 171.12,
+    "duration": 5.45
+  },
+  {
+    "text": "given an acknowledgement of the rights\nnoted above and others recognized by law,",
+    "start": 176.57,
+    "duration": 5.0
+  },
+  {
+    "text": "and asserts first, ninth and 14th Amendment\nrights. Participation means, “I voluntarily",
+    "start": 181.57,
+    "duration": 6.35
+  },
+  {
+    "text": "license Jerry Tennant, MD, MD(H), PScD to\ncounsel me with his Arizona MD(H) license.",
+    "start": 187.92,
+    "duration": 8.78
+  },
+  {
+    "text": "Disclosure of Interest, I likely have a\nfinancial interest in patented and/or",
+    "start": 196.7,
+    "duration": 6.09
+  },
+  {
+    "text": "trademark devices and books that carry\nmy name. The concepts presented here were",
+    "start": 202.79,
+    "duration": 5.77
+  },
+  {
+    "text": "contributed to by many people, including\nthe staff of the Tennant institute, Dr.",
+    "start": 208.56,
+    "duration": 5.85
+  },
+  {
+    "text": "Steven Evans, Dr. Max Collins,\nDr. Nathan Bryan, CareyLyn Carter, Leo",
+    "start": 214.41,
+    "duration": 6.65
+  },
+  {
+    "text": "Szymborski, Dr. Robert Gilbert, Dr.\nRichard Hull, Eileen McKusick, Dr. Dan",
+    "start": 221.06,
+    "duration": 8.32
+  },
+  {
+    "text": "Winter and Dr. Karim from Cairo, Egypt\nin bio geometry. So, I was trained as an",
+    "start": 229.38,
+    "duration": 8.88
+  },
+  {
+    "text": "ophthalmologist and had a great deal of\nenjoyment and fun, and in doing so I was",
+    "start": 238.26,
+    "duration": 6.53
+  },
+  {
+    "text": "able to do a lot of different things in\nophthalmology but one of the things that",
+    "start": 244.79,
+    "duration": 3.69
+  },
+  {
+    "text": "I did was to do the majority of the\nresearch for the laser from the company",
+    "start": 248.48,
+    "duration": 6.52
+  },
+  {
+    "text": "called Visx used in Lasik surgery.\nSo, as an ophthalmologist, I was able to",
+    "start": 255.0,
+    "duration": 7.33
+  },
+  {
+    "text": "accomplish many of the things that\npeople strive to do. I was successful in",
+    "start": 262.33,
+    "duration": 5.25
+  },
+  {
+    "text": "my efforts as an ophthalmologist. I\nchanged the way ophthalmology is",
+    "start": 267.58,
+    "duration": 5.04
+  },
+  {
+    "text": "practiced by introducing and helping to\ndevelop the techniques for outpatient",
+    "start": 272.62,
+    "duration": 5.58
+  },
+  {
+    "text": "eye surgery. I developed intraocular\nlenses that were widely used in eyes",
+    "start": 278.2,
+    "duration": 7.11
+  },
+  {
+    "text": "after cataract surgery, and one of the\nthings that I was able to do was the",
+    "start": 285.31,
+    "duration": 5.1
+  },
+  {
+    "text": "majority, as I mentioned, of research for\nthe laser used in Lasik surgery. So, one",
+    "start": 290.41,
+    "duration": 5.97
+  },
+  {
+    "text": "of the problems was that we didn't\nrecognize that the laser wouldn't kill",
+    "start": 296.38,
+    "duration": 4.26
+  },
+  {
+    "text": "viruses, and so I treated a gentleman\nfrom Europe who had leukemia and also",
+    "start": 300.64,
+    "duration": 6.75
+  },
+  {
+    "text": "had scarring in his cornea, and I used\nthe laser to carve the scar off his",
+    "start": 307.39,
+    "duration": 5.91
+  },
+  {
+    "text": "cornea. What we didn't understand at\nthe time was that the laser would not kill",
+    "start": 313.3,
+    "duration": 4.44
+  },
+  {
+    "text": "viruses and as the viruses escaped his\ncornea, they went up through my mask,",
+    "start": 317.74,
+    "duration": 4.98
+  },
+  {
+    "text": "through my nose and into my brain, and I\ndeveloped encephalitis. That resulted in",
+    "start": 322.72,
+    "duration": 5.69
+  },
+  {
+    "text": "me having overwhelming fatigue. I got to\nthe place where I could see a patient, I",
+    "start": 328.41,
+    "duration": 4.96
+  },
+  {
+    "text": "knew what was wrong with him, but I\ncouldn't remember how to write a",
+    "start": 333.37,
+    "duration": 2.52
+  },
+  {
+    "text": "prescription.\nAlso, I developed spastic movements, which",
+    "start": 335.89,
+    "duration": 3.87
+  },
+  {
+    "text": "doesn't work really well if you're\noperating inside somebody's eyeball. And",
+    "start": 339.76,
+    "duration": 3.99
+  },
+  {
+    "text": "I came to the place that I could\nonly have two or three hours a day in",
+    "start": 343.75,
+    "duration": 7.05
+  },
+  {
+    "text": "which I could think clearly enough to\nunderstand the newspaper. Otherwise, I spent",
+    "start": 350.8,
+    "duration": 4.32
+  },
+  {
+    "text": "about 16 hours a day sleeping. I also\nhad a bleeding disorder and had some",
+    "start": 355.12,
+    "duration": 7.1
+  },
+  {
+    "text": "bleeding under my skin. If you'll notice\nthe picture with the dogs, you'll see",
+    "start": 362.22,
+    "duration": 5.71
+  },
+  {
+    "text": "that I had viruses in my brain and\nviruses in my spleen, and these two dogs",
+    "start": 367.93,
+    "duration": 5.67
+  },
+  {
+    "text": "seem to understand where my problems\nwere. So, the brown dog, Teager, would",
+    "start": 373.6,
+    "duration": 4.8
+  },
+  {
+    "text": "always come and lay on my head, and\nthe Hawaii dog, Poo, would come and",
+    "start": 378.4,
+    "duration": 6.18
+  },
+  {
+    "text": "curl up next to my spleen. So, I always\nconsidered these two dogs the original",
+    "start": 384.58,
+    "duration": 4.29
+  },
+  {
+    "text": "bio modulators. So, as you can see in the\nimage of me, I was robust and had a great",
+    "start": 388.87,
+    "duration": 9.33
+  },
+  {
+    "text": "life, but then slowly over time, as you\ncan see, I began to fade away and where I",
+    "start": 398.2,
+    "duration": 6.03
+  },
+  {
+    "text": "was basically totally dysfunctional.\nI eventually figured out that the",
+    "start": 404.23,
+    "duration": 5.79
+  },
+  {
+    "text": "difference between peak performance\nand death was voltage. So, in the",
+    "start": 410.02,
+    "duration": 9.63
+  },
+  {
+    "text": "two or three hours a day I could think,\nI began to read cellular biology books",
+    "start": 419.65,
+    "duration": 3.57
+  },
+  {
+    "text": "with the concept that, if I could figure\nout how to one make one cell work, I",
+    "start": 423.22,
+    "duration": 5.16
+  },
+  {
+    "text": "could figure out how to make them all\nwork. Because after all cells look",
+    "start": 428.38,
+    "duration": 4.86
+  },
+  {
+    "text": "different but they really have the same\nhardware, just different software. And in",
+    "start": 433.24,
+    "duration": 7.05
+  },
+  {
+    "text": "all of the cellular biology books I\nbegan to realize that cells had to have",
+    "start": 440.29,
+    "duration": 6.42
+  },
+  {
+    "text": "voltage to work. So, for a moment let's\nlook at the concept of regeneration",
+    "start": 446.71,
+    "duration": 8.67
+  },
+  {
+    "text": "versus healing. If I cut myself with a\nknife, then the skin will heal, leaving",
+    "start": 455.38,
+    "duration": 6.6
+  },
+  {
+    "text": "behind perhaps a small scar. On\nthe other hand, if I cut off a finger,",
+    "start": 461.98,
+    "duration": 4.71
+  },
+  {
+    "text": "but that finger actually regrows,\nthen that's called regeneration. And",
+    "start": 466.69,
+    "duration": 5.6
+  },
+  {
+    "text": "regeneration is controlled by voltage. So,\nthe purpose of this lecture, among others",
+    "start": 472.29,
+    "duration": 7.93
+  },
+  {
+    "text": "is to focus on the role of voltage in\nstem cell function, along with exosomes",
+    "start": 480.22,
+    "duration": 4.68
+  },
+  {
+    "text": "and recovery from chronic disease. This\nsubject cannot be adequately covered in",
+    "start": 484.9,
+    "duration": 5.28
+  },
+  {
+    "text": "the few minutes we have allotted, but it\nis hoped that this lecture will focus your",
+    "start": 490.18,
+    "duration": 4.35
+  },
+  {
+    "text": "attention on its role so you will want to\nlearn more. Now the foundation work of",
+    "start": 494.53,
+    "duration": 8.85
+  },
+  {
+    "text": "this subject was done by Robert Becker and\nby Dr. Bjorn Nordstrom. Becker wrote the",
+    "start": 503.38,
+    "duration": 6.83
+  },
+  {
+    "text": "book “The Body Electric”, Nordstrom wrote\nthe book “Biologically Closed Electric",
+    "start": 510.21,
+    "duration": 4.82
+  },
+  {
+    "text": "Circuits”. So each of us, working in this\nfield, are standing on the shoulders of",
+    "start": 515.03,
+    "duration": 4.24
+  },
+  {
+    "text": "these pioneers. So, in Becker's\nwork, he was interested in",
+    "start": 519.27,
+    "duration": 6.69
+  },
+  {
+    "text": "the subject of, if a human loses a piece\nof bone, they grow more bone, but if they",
+    "start": 525.96,
+    "duration": 6.18
+  },
+  {
+    "text": "lose another body part, it's replaced\nwith scar. And he wondered why that was.",
+    "start": 532.14,
+    "duration": 4.71
+  },
+  {
+    "text": "Why is it that the human can make bone,\nbut has difficulty replacing other",
+    "start": 536.85,
+    "duration": 5.76
+  },
+  {
+    "text": "organs. So, to study this, he used the\nsalamander. The salamander has",
+    "start": 542.61,
+    "duration": 4.74
+  },
+  {
+    "text": "essentially the same anatomy as the\nhuman, that is the same number of bones,",
+    "start": 547.35,
+    "duration": 4.02
+  },
+  {
+    "text": "muscles and nerves and in the same\narrangement. But unlike the human, the",
+    "start": 551.37,
+    "duration": 6.87
+  },
+  {
+    "text": "salamander is capable of growing an exact\nreplacement of an arm, leg, eye, ear, up",
+    "start": 558.24,
+    "duration": 5.46
+  },
+  {
+    "text": "to a third of its brain, almost all of\nits digestive tract and up to half of its",
+    "start": 563.7,
+    "duration": 4.8
+  },
+  {
+    "text": "heart. A salamander is so efficient at\nregeneration, that it does not get cancer.",
+    "start": 568.5,
+    "duration": 6.59
+  },
+  {
+    "text": "The regeneration of the salamander\ncannot be explained by chemical-",
+    "start": 575.09,
+    "duration": 4.39
+  },
+  {
+    "text": "mechanistic views of traditional\nmedicine. So, Becker studied the",
+    "start": 579.48,
+    "duration": 8.19
+  },
+  {
+    "text": "salamander by studying its voltage\npatterns. So, he found that, if you cut off",
+    "start": 587.67,
+    "duration": 7.5
+  },
+  {
+    "text": "the salamander’s arm, then over the next days,\nit would actually grow a new arm. So, a",
+    "start": 595.17,
+    "duration": 10.94
+  },
+  {
+    "text": "salamander’s base voltage is minus 10\nmillivolts, compared to a human which is",
+    "start": 606.11,
+    "duration": 5.05
+  },
+  {
+    "text": "minus 25 millivolts, as we'll discuss\nlater. As the arm is amputated, the",
+    "start": 611.16,
+    "duration": 6.45
+  },
+  {
+    "text": "voltage drops to approximately plus 25\nmillivolts of “electron stealer”. So again,",
+    "start": 617.61,
+    "duration": 7.35
+  },
+  {
+    "text": "it goes from minus 10 millivolts of\nelectron donor, to plus 25 millivolts of",
+    "start": 624.96,
+    "duration": 6.21
+  },
+  {
+    "text": "electron stealer. Then, as\nthe voltage begins to recover,",
+    "start": 631.17,
+    "duration": 4.56
+  },
+  {
+    "text": "and as it does so, it eventually gets up\nto minus 30 millivolts of electron donor.",
+    "start": 635.73,
+    "duration": 6.65
+  },
+  {
+    "text": "And as this occurs, then stem cells are\nformed and the salamander grows a",
+    "start": 642.38,
+    "duration": 9.16
+  },
+  {
+    "text": "new arm in somewhere around 25 to 30\ndays. Now, Becker found that, after you",
+    "start": 651.54,
+    "duration": 10.62
+  },
+  {
+    "text": "amputate the arm, the skin grows over the\nstump and then at somewhere around a",
+    "start": 662.16,
+    "duration": 7.56
+  },
+  {
+    "text": "week or so, stem cells begin to\naccumulate in the stump and by two weeks",
+    "start": 669.72,
+    "duration": 9.27
+  },
+  {
+    "text": "or so, there is a large number of stem\ncells. And then by three weeks, the arm is",
+    "start": 678.99,
+    "duration": 8.9
+  },
+  {
+    "text": "beginning to regrow and somewhere in\nthe neighborhood of day 25 or so, the",
+    "start": 687.89,
+    "duration": 10.68
+  },
+  {
+    "text": "hand begins to form. Now, he found some\nother very interesting things. So, if he",
+    "start": 698.57,
+    "duration": 8.49
+  },
+  {
+    "text": "amputated the arm and waited until the\nstem cells formed and he extracted those",
+    "start": 707.06,
+    "duration": 8.07
+  },
+  {
+    "text": "and made an incision\nsomewhere else in the body,",
+    "start": 715.13,
+    "duration": 5.01
+  },
+  {
+    "text": "the salamander would grow whatever the\nlocal area was. So, for example, if he",
+    "start": 720.14,
+    "duration": 8.49
+  },
+  {
+    "text": "amputated an arm, early on extracted\nthe stem cells, made a slit by the",
+    "start": 728.63,
+    "duration": 6.32
+  },
+  {
+    "text": "salamander’s hind leg and put the stem\ncells in there, it would grow another",
+    "start": 734.95,
+    "duration": 5.32
+  },
+  {
+    "text": "hind leg from those stem cells. On the\nother hand, if he waited until the stem",
+    "start": 740.27,
+    "duration": 5.79
+  },
+  {
+    "text": "cells were more mature, before he\nextracted them, it was totally different.",
+    "start": 746.06,
+    "duration": 6.0
+  },
+  {
+    "text": "So, he amputated the arm, he waits till\nthe stem cells are somewhat matured,",
+    "start": 752.06,
+    "duration": 6.5
+  },
+  {
+    "text": "extracts them, makes an incision on the\ntop of the salamander’s head and puts",
+    "start": 758.56,
+    "duration": 5.83
+  },
+  {
+    "text": "them in there,\nthe salamander will grow an arm at the",
+    "start": 764.39,
+    "duration": 4.0
+  },
+  {
+    "text": "top of his head. So, what became obvious\nis that early on, the stem cells had not",
+    "start": 768.39,
+    "duration": 7.29
+  },
+  {
+    "text": "been programmed into what they were to\nbecome, and wherever you put them, they",
+    "start": 775.68,
+    "duration": 5.25
+  },
+  {
+    "text": "would become or regenerate one of those\nbody parts. On the other hand, if you left",
+    "start": 780.93,
+    "duration": 7.08
+  },
+  {
+    "text": "them a bit longer, they would be\nprogrammed to become what they were",
+    "start": 788.01,
+    "duration": 5.26
+  },
+  {
+    "text": "locally, and then when you extracted them\nand put them elsewhere, they would",
+    "start": 793.27,
+    "duration": 5.9
+  },
+  {
+    "text": "continue to grow that organ. Now, in the\nlower right picture, you see an image of",
+    "start": 799.17,
+    "duration": 7.2
+  },
+  {
+    "text": "a dog that was on the news recently, who\nhad a tail growing out from between his",
+    "start": 806.37,
+    "duration": 4.38
+  },
+  {
+    "text": "eyebrows. And of course, they didn't seem\nto understand how this could happen, but",
+    "start": 810.75,
+    "duration": 5.06
+  },
+  {
+    "text": "looking at Becker's work, it's quite\nobvious. The stem cells from this dog's",
+    "start": 815.81,
+    "duration": 5.5
+  },
+  {
+    "text": "tail had been programmed to grow another\ntail, but somehow got moved and inserted",
+    "start": 821.31,
+    "duration": 7.01
+  },
+  {
+    "text": "between his eyes, and thus grew a tail\nthere. In this image, we see an amputation",
+    "start": 828.32,
+    "duration": 11.98
+  },
+  {
+    "text": "of a salamander’s arm at 48 hours, and\nyou can see the bone sticking out the end.",
+    "start": 840.3,
+    "duration": 5.78
+  },
+  {
+    "text": "You can see the skin and the muscles\nhave retracted somewhat. Here at 18 days,",
+    "start": 846.08,
+    "duration": 6.12
+  },
+  {
+    "text": "you can see the stem cells that are\nquite prominent. This is a collection",
+    "start": 852.2,
+    "duration": 5.19
+  },
+  {
+    "text": "of stem cells that are called a blastema,\nand you can see, begin to see, the",
+    "start": 857.39,
+    "duration": 6.24
+  },
+  {
+    "text": "differentiation of the muscle cells.\nHere at 42 days, the limb pattern is",
+    "start": 863.63,
+    "duration": 6.81
+  },
+  {
+    "text": "completely restored and as the\nsalamander continues to grow the new",
+    "start": 870.44,
+    "duration": 5.68
+  },
+  {
+    "text": "arm. Now, this is an image of a young boy\nwho was a passenger on a four-wheeler;",
+    "start": 876.12,
+    "duration": 8.9
+  },
+  {
+    "text": "the driver of the four-wheeler turned it\ntoo sharply and actually caused the",
+    "start": 885.02,
+    "duration": 5.49
+  },
+  {
+    "text": "four-wheeler to roll, resulting in this\ninjury. This boy was taken to the",
+    "start": 890.51,
+    "duration": 6.42
+  },
+  {
+    "text": "hospital, then taken to surgery\nand the wound was cleaned up.",
+    "start": 896.93,
+    "duration": 4.46
+  },
+  {
+    "text": "The surgeons felt that this was going\nto require attention by the plastic",
+    "start": 901.39,
+    "duration": 6.67
+  },
+  {
+    "text": "surgeons, and that perhaps that recovery\nwould be difficult. I received a call",
+    "start": 908.06,
+    "duration": 10.08
+  },
+  {
+    "text": "from his father, and he sent me a picture\nthat you saw. So, I quickly sent him a bio",
+    "start": 918.14,
+    "duration": 7.56
+  },
+  {
+    "text": "transducer and a bio modulator which,\nof course, that bio transducer puts out",
+    "start": 925.7,
+    "duration": 5.92
+  },
+  {
+    "text": "scalar energy and the bio modulator puts\nout electromagnetic energy. The boy had",
+    "start": 931.62,
+    "duration": 5.39
+  },
+  {
+    "text": "been crying constantly since his injury,\nin spite of the narcotics that they were",
+    "start": 937.01,
+    "duration": 5.35
+  },
+  {
+    "text": "giving him. Within minutes, after they\nplaced the devices in this position as",
+    "start": 942.36,
+    "duration": 5.84
+  },
+  {
+    "text": "you can see, the boy quit crying. The\nfollowing day, he was taken back to",
+    "start": 948.2,
+    "duration": 6.85
+  },
+  {
+    "text": "surgery and the plastic surgeon\nshowed up. But the general",
+    "start": 955.05,
+    "duration": 6.71
+  },
+  {
+    "text": "surgeons were able to close this\nprimarily without a skin graft. And the",
+    "start": 961.76,
+    "duration": 6.24
+  },
+  {
+    "text": "plastic surgeons were saying, “so, why are\nwe here?” as they left the operating room.",
+    "start": 968.0,
+    "duration": 5.43
+  },
+  {
+    "text": "Well the picture on the right is a\nrecent photograph of this boy's foot. You",
+    "start": 973.43,
+    "duration": 6.21
+  },
+  {
+    "text": "can see that it healed quite well.\nAnd this boy now can play soccer and",
+    "start": 979.64,
+    "duration": 5.77
+  },
+  {
+    "text": "football, and has no apparent symptoms\nthat he ever had this injury. So, to some",
+    "start": 985.41,
+    "duration": 7.2
+  },
+  {
+    "text": "degree you will have to acknowledge that\nthis was, in some regards, regeneration as",
+    "start": 992.61,
+    "duration": 9.59
+  },
+  {
+    "text": "well as improved healing, by\nrestoring the voltage to the area.",
+    "start": 1002.2,
+    "duration": 8.29
+  },
+  {
+    "text": "So, you must realize that the human body\nis an electronic device. Now, any cellular",
+    "start": 1010.49,
+    "duration": 9.3
+  },
+  {
+    "text": "biology book will tell you that cells\nare designed to run at a pH of",
+    "start": 1019.79,
+    "duration": 3.99
+  },
+  {
+    "text": "7.35 to 7.45. pH is\nactually the measurement of",
+    "start": 1023.78,
+    "duration": 5.61
+  },
+  {
+    "text": "voltage in a solution. So, if you have\na copper wire, if the switch is on,",
+    "start": 1029.39,
+    "duration": 6.66
+  },
+  {
+    "text": "electrons flow through it and if you\nturn the switch off, they do not. And",
+    "start": 1036.05,
+    "duration": 4.5
+  },
+  {
+    "text": "that's called conductive electricity.\nBut a liquid is completely different, and",
+    "start": 1040.55,
+    "duration": 4.62
+  },
+  {
+    "text": "that is, a liquid has the ability to be\neither an electron donor, or an electron",
+    "start": 1045.17,
+    "duration": 4.06
+  },
+  {
+    "text": "stealer. And so, if you take a pH meter,\nwhich is a type of sophisticated",
+    "start": 1049.23,
+    "duration": 8.34
+  },
+  {
+    "text": "voltmeter, it has a switch in which you\ncan measure in millivolts or you can",
+    "start": 1057.57,
+    "duration": 5.45
+  },
+  {
+    "text": "measure in pH. So, by convention, if the\nliquid is an electron stealer, you put a",
+    "start": 1063.02,
+    "duration": 9.6
+  },
+  {
+    "text": "plus sign in front of the voltage and if\nit's an electron donor, you put a minus",
+    "start": 1072.62,
+    "duration": 4.29
+  },
+  {
+    "text": "sign in front of it and then you convert\nit to a logarithmic scale that goes from",
+    "start": 1076.91,
+    "duration": 4.5
+  },
+  {
+    "text": "zero to 14. So, plus 400 millivolts of\nelectron stealer is the same as a pH",
+    "start": 1081.41,
+    "duration": 6.67
+  },
+  {
+    "text": "of 0, and minus 400 millivolts of\nelectron donor is the same as a pH of 14.",
+    "start": 1088.08,
+    "duration": 5.59
+  },
+  {
+    "text": "if it's neither electron\ndonor nor an electron stealer,",
+    "start": 1093.67,
+    "duration": 5.03
+  },
+  {
+    "text": "it's a pH of 7. Now, I mentioned that\nall cellular biology books will tell you",
+    "start": 1098.7,
+    "duration": 10.53
+  },
+  {
+    "text": "that cells are designed to\nrun at a pH of 7.35 to 7.45.",
+    "start": 1109.23,
+    "duration": 4.77
+  },
+  {
+    "text": "So, 7.35 is synonym\nof -20 millivolts of",
+    "start": 1114.0,
+    "duration": 7.59
+  },
+  {
+    "text": "electron donor, and 7.45 is\nsynonym of  -25 millivolts of",
+    "start": 1121.59,
+    "duration": 5.3
+  },
+  {
+    "text": "electron donor. So, what you see is that\ncells are designed to run between minus",
+    "start": 1126.89,
+    "duration": 5.11
+  },
+  {
+    "text": "20 and minus 25 millivolts. Now, some\npeople get confused because, if you",
+    "start": 1132.0,
+    "duration": 5.1
+  },
+  {
+    "text": "take a cell and put it into a petri\ndish, and put an electrode inside the",
+    "start": 1137.1,
+    "duration": 4.38
+  },
+  {
+    "text": "cell, and another outside the cell, and\nmeasure the voltage across the cell",
+    "start": 1141.48,
+    "duration": 4.31
+  },
+  {
+    "text": "membrane, you'll get\nabout minus 90 millivolts.",
+    "start": 1145.79,
+    "duration": 3.57
+  },
+  {
+    "text": "However the environment in which cells\nare designed to run, is between minus 20",
+    "start": 1149.36,
+    "duration": 5.4
+  },
+  {
+    "text": "and minus 25 millivolts. So, cells\nneed minus 25 millivolts to run",
+    "start": 1154.76,
+    "duration": 8.08
+  },
+  {
+    "text": "correctly, and minus 50 millivolts to\nmake new cells. So, this leads us to",
+    "start": 1162.84,
+    "duration": 6.87
+  },
+  {
+    "text": "understand that all chronic disease is\ncharacterized by having inadequate",
+    "start": 1169.71,
+    "duration": 3.8
+  },
+  {
+    "text": "voltage. Let me say that one more time,\nall chronic disease is characterized by",
+    "start": 1173.51,
+    "duration": 7.41
+  },
+  {
+    "text": "having inadequate voltage. Now, the\nother thing that's important to realize in",
+    "start": 1180.92,
+    "duration": 7.09
+  },
+  {
+    "text": "understanding chronic disease, is that\nwe're constantly wearing ourselves out",
+    "start": 1188.01,
+    "duration": 3.62
+  },
+  {
+    "text": "and having to make new cells. So,\ndifferent sources have slightly",
+    "start": 1191.63,
+    "duration": 5.32
+  },
+  {
+    "text": "different times, because studies are\nbased on tissue turnover time from",
+    "start": 1196.95,
+    "duration": 4.7
+  },
+  {
+    "text": "natural stable isotope labeling, which\nvaries according to bomb testing and",
+    "start": 1201.65,
+    "duration": 4.77
+  },
+  {
+    "text": "other environmental factors. However,\nin general you will find that you get new",
+    "start": 1206.42,
+    "duration": 9.46
+  },
+  {
+    "text": "cells in the macula of your eye every\n48 hours; the lining of your guts is",
+    "start": 1215.88,
+    "duration": 4.62
+  },
+  {
+    "text": "replaced every 3 days; your skin is 6\nweeks old; your liver is 8 weeks old; your",
+    "start": 1220.5,
+    "duration": 7.32
+  },
+  {
+    "text": "nervous system is between\n8 and 12 months old,",
+    "start": 1227.82,
+    "duration": 3.78
+  },
+  {
+    "text": "etc. So, what's critical to understand is\nthat chronic disease only occurs when we",
+    "start": 1231.6,
+    "duration": 7.67
+  },
+  {
+    "text": "lose the ability to make new cells that\nwork. So, let me say that one more time:",
+    "start": 1239.27,
+    "duration": 4.09
+  },
+  {
+    "text": "chronic disease only occurs when we lose\nthe ability to make new cells that work.",
+    "start": 1243.36,
+    "duration": 5.24
+  },
+  {
+    "text": "So what's it take to make new cells that\nwork. Well, as I mentioned, cells run at",
+    "start": 1248.6,
+    "duration": 5.11
+  },
+  {
+    "text": "minus 25 millivolts, but it requires\nminus 50 millivolts to make new cells.",
+    "start": 1253.71,
+    "duration": 5.16
+  },
+  {
+    "text": "And as we also pointed out, if you measure\nacross a cell membrane and a petri dish,",
+    "start": 1258.87,
+    "duration": 4.08
+  },
+  {
+    "text": "you'll get about minus 90 millivolts. So,\nwe need to make new cells, we need minus",
+    "start": 1262.95,
+    "duration": 5.64
+  },
+  {
+    "text": "50 millivolts, but we also need all of\nthe materials that are necessary to make",
+    "start": 1268.59,
+    "duration": 3.78
+  },
+  {
+    "text": "new cells. This is called “nutrition” and\nrequires a functional digestive system,",
+    "start": 1272.37,
+    "duration": 4.61
+  },
+  {
+    "text": "including stomach acid. And finally, we\nmust deal with any toxins that destroy",
+    "start": 1276.98,
+    "duration": 5.68
+  },
+  {
+    "text": "cells as fast as we make them. The most\ncommon toxins are heavy metals like",
+    "start": 1282.66,
+    "duration": 4.38
+  },
+  {
+    "text": "mercury, dental toxins, GMO foods with\npesticide, called Roundup or glyphosate.",
+    "start": 1287.04,
+    "duration": 6.65
+  },
+  {
+    "text": "So, what's the body's voltage and wiring\nsystem? Well the body has five battery",
+    "start": 1293.69,
+    "duration": 5.71
+  },
+  {
+    "text": "packs. The most important that are\nperhaps, or at least the largest, is our",
+    "start": 1299.4,
+    "duration": 4.29
+  },
+  {
+    "text": "muscles. Our muscles are rechargeable\nbatteries and the fascia around the",
+    "start": 1303.69,
+    "duration": 4.56
+  },
+  {
+    "text": "muscles serves as the body's wiring\nsystem. Our cell membranes are small",
+    "start": 1308.25,
+    "duration": 4.47
+  },
+  {
+    "text": "batteries called “capacitors”. Water inside\nthe cell membrane is called EZ water,",
+    "start": 1312.72,
+    "duration": 5.95
+  },
+  {
+    "text": "which is H3O2 - and it's an electron\ndonor form of water. Inside the",
+    "start": 1318.67,
+    "duration": 6.2
+  },
+  {
+    "text": "mitochondria we have a rechargeable\nbattery system called “ADP/ATP” and then",
+    "start": 1324.87,
+    "duration": 5.52
+  },
+  {
+    "text": "finally our DNA has its own battery,\nusing scalar energy. So, this diagram was",
+    "start": 1330.39,
+    "duration": 7.8
+  },
+  {
+    "text": "sent to me by Dr. Al-Tubaikh, who is\nalso a medical artist and I'm grateful",
+    "start": 1338.19,
+    "duration": 5.94
+  },
+  {
+    "text": "for his sending this to me. What one sees\nhere, is that we have the muscle battery",
+    "start": 1344.13,
+    "duration": 7.23
+  },
+  {
+    "text": "packs. So, one must understand that the\nmuscles are piezoelectric. So, what does",
+    "start": 1351.36,
+    "duration": 11.58
+  },
+  {
+    "text": "that funny word mean? If you take a piece\nof quartz and you squeeze it with a pair",
+    "start": 1362.94,
+    "duration": 4.73
+  },
+  {
+    "text": "of pliers, it emits electrons. So, the\nprocess of distorting something and",
+    "start": 1367.67,
+    "duration": 6.43
+  },
+  {
+    "text": "causing it to emit electrons, is\ncalled piezoelectricity. So, one of the",
+    "start": 1374.1,
+    "duration": 5.57
+  },
+  {
+    "text": "reasons that we exercise, is that doing\nso causes the muscles to emit electrons.",
+    "start": 1379.67,
+    "duration": 6.98
+  },
+  {
+    "text": "Our muscles are rechargeable batteries\nas well, and so every time we exercise, we",
+    "start": 1386.65,
+    "duration": 4.83
+  },
+  {
+    "text": "are actually recharging our muscle\nbattery packs. Now in addition, our",
+    "start": 1391.48,
+    "duration": 5.88
+  },
+  {
+    "text": "muscles are stacked one on top of each\nother in a very specific order to create",
+    "start": 1397.36,
+    "duration": 5.79
+  },
+  {
+    "text": "a battery pack. And it's that pack of our\nstack of muscle batteries is surrounded",
+    "start": 1403.15,
+    "duration": 6.09
+  },
+  {
+    "text": "by a stocking of fascia and thus this\nstack of muscle batteries and fascia",
+    "start": 1409.24,
+    "duration": 6.56
+  },
+  {
+    "text": "creates the muscle battery pack for\nevery organ, that is to say, every organ",
+    "start": 1415.8,
+    "duration": 6.55
+  },
+  {
+    "text": "in the body has its own battery pack,\nand such a pack of muscles is called an",
+    "start": 1422.35,
+    "duration": 5.35
+  },
+  {
+    "text": "acupuncture meridian. Now, each\nacupuncture meridian extends from a leg",
+    "start": 1427.7,
+    "duration": 10.22
+  },
+  {
+    "text": "to the brain, or an arm to the brain, and\nthen makes a loop and comes back to near",
+    "start": 1437.92,
+    "duration": 5.49
+  },
+  {
+    "text": "its origin. So, these large muscles then\nare acupuncture circuits, [they] are the",
+    "start": 1443.41,
+    "duration": 10.08
+  },
+  {
+    "text": "major battery for all of our organs. Now,\neach of these circuits runs through very",
+    "start": 1453.49,
+    "duration": 7.05
+  },
+  {
+    "text": "specific teeth and thus our teeth are an\nintegrated part of every circuit. As the",
+    "start": 1460.54,
+    "duration": 7.94
+  },
+  {
+    "text": "voltage from the muscle battery packs\ngets to the cell membranes, we have",
+    "start": 1468.48,
+    "duration": 4.69
+  },
+  {
+    "text": "another battery pack here, or a\nbattery that is called a capacitor, and",
+    "start": 1473.17,
+    "duration": 4.44
+  },
+  {
+    "text": "that's the cell membrane. Now, if you\ntake an electron conductor and a second",
+    "start": 1477.61,
+    "duration": 12.97
+  },
+  {
+    "text": "electron conductor, and separate them by\nan insulator, you have what's called a",
+    "start": 1490.58,
+    "duration": 4.4
+  },
+  {
+    "text": "capacitor. A capacitor is actually a type\nof small battery; the difference is that",
+    "start": 1494.98,
+    "duration": 5.67
+  },
+  {
+    "text": "a regular battery can discharge\nelectrons slowly, whereas if a capacitor",
+    "start": 1500.65,
+    "duration": 5.7
+  },
+  {
+    "text": "is asked to deliver electrons,\nit empties itself and",
+    "start": 1506.35,
+    "duration": 5.22
+  },
+  {
+    "text": "so it then has to recharge. Well, our cell\nmembranes are made by opposing pairs of",
+    "start": 1511.57,
+    "duration": 8.88
+  },
+  {
+    "text": "specific types of phospholipids, that\nhave a ball on one end and two legs on",
+    "start": 1520.45,
+    "duration": 5.25
+  },
+  {
+    "text": "the other. The balls are electron\nconductors and the legs are electron",
+    "start": 1525.7,
+    "duration": 7.77
+  },
+  {
+    "text": "insulators and thus they form a\ncapacitor. So, we have our muscle battery",
+    "start": 1533.47,
+    "duration": 6.06
+  },
+  {
+    "text": "packs, then we have the cell membrane,\nwhich is a capacitor or a small battery,",
+    "start": 1539.53,
+    "duration": 5.01
+  },
+  {
+    "text": "and just inside the cell membrane we\nhave what's called EZ water, which I will",
+    "start": 1544.54,
+    "duration": 6.41
+  },
+  {
+    "text": "explain more about in just a moment, and\nthen we have our mitochondria. Now, inside",
+    "start": 1550.95,
+    "duration": 7.48
+  },
+  {
+    "text": "the mitochondria we have a rechargeable\nbattery system; when the battery's",
+    "start": 1558.43,
+    "duration": 4.17
+  },
+  {
+    "text": "discharged, it's called ADP and when it's\ncharged is called ATP. And then finally",
+    "start": 1562.6,
+    "duration": 5.46
+  },
+  {
+    "text": "we have the DNA, which has its own power\nsystem in that scalar energy inflows",
+    "start": 1568.06,
+    "duration": 7.11
+  },
+  {
+    "text": "into the center of the DNA to give it\nits voltage. So, here we see a diagram of",
+    "start": 1575.17,
+    "duration": 8.97
+  },
+  {
+    "text": "the EZ water; EZ stands for “Exclusion\nZone” and so, you can see in the upper",
+    "start": 1584.14,
+    "duration": 11.55
+  },
+  {
+    "text": "image on the right, the EZ zone\nis thinner and if you expose it to",
+    "start": 1595.69,
+    "duration": 6.68
+  },
+  {
+    "text": "specifically, infrared light, it expands\ninto a larger battery pack, if you please.",
+    "start": 1602.37,
+    "duration": 9.36
+  },
+  {
+    "text": "Next, we have the DNA battery.\nSo, the characteristics of DNA was first",
+    "start": 1611.73,
+    "duration": 8.44
+  },
+  {
+    "text": "elucidated by Rosalind Franklin in 1952.\nHer work was stolen by Watson and Crick",
+    "start": 1620.17,
+    "duration": 7.05
+  },
+  {
+    "text": "and they received a Nobel Prize\nfor the technology that they took",
+    "start": 1627.22,
+    "duration": 7.69
+  },
+  {
+    "text": "from Dr. Franklin. Nevertheless, you\ncan see on the left her original picture,",
+    "start": 1634.91,
+    "duration": 7.49
+  },
+  {
+    "text": "photographing the DNA from within. Now\nmost pictures of DNA that you see are",
+    "start": 1642.4,
+    "duration": 5.02
+  },
+  {
+    "text": "from the side, but when you look\nat it from the end, you can see its",
+    "start": 1647.42,
+    "duration": 6.3
+  },
+  {
+    "text": "torsional pattern and also the hole down\nthrough the center. So, scalar energy",
+    "start": 1653.72,
+    "duration": 5.01
+  },
+  {
+    "text": "implodes down through this hole or canal\nin the center of DNA to energize it,",
+    "start": 1658.73,
+    "duration": 8.46
+  },
+  {
+    "text": "because scalar energy will implode\ninto anything that's golden mean,",
+    "start": 1667.19,
+    "duration": 6.72
+  },
+  {
+    "text": "and certainly DNA is golden mean. Now,\nthe scalar energy as it implodes into",
+    "start": 1673.91,
+    "duration": 9.79
+  },
+  {
+    "text": "the DNA, is capable of reading the code\nthere. It's capable of transmitting that",
+    "start": 1683.7,
+    "duration": 8.06
+  },
+  {
+    "text": "code to a new cell, if a cell division\noccurs. It's also capable of",
+    "start": 1691.76,
+    "duration": 6.81
+  },
+  {
+    "text": "communicating with nearby cells, through\nthe use of the scalar energy. This work",
+    "start": 1698.57,
+    "duration": 7.95
+  },
+  {
+    "text": "has been recently published by\nKonstantin Miele, a physician/",
+    "start": 1706.52,
+    "duration": 5.28
+  },
+  {
+    "text": "physicists in Germany. Now, let's look a\nbit at the voltage oxygen control",
+    "start": 1711.8,
+    "duration": 6.91
+  },
+  {
+    "text": "mechanisms. So, if we look at the fetus,\neveryone understands that there is the",
+    "start": 1718.71,
+    "duration": 8.49
+  },
+  {
+    "text": "umbilical cord that comes from mother,\nproviding blood and nutrition to the",
+    "start": 1727.2,
+    "duration": 5.84
+  },
+  {
+    "text": "growing fetus. But it's important to know\nthat this umbilical cord also brings",
+    "start": 1733.04,
+    "duration": 5.01
+  },
+  {
+    "text": "voltage into the fetus. Now, as you can\nsee, the fetus has very little room for",
+    "start": 1738.05,
+    "duration": 6.3
+  },
+  {
+    "text": "exercising inside the uterus, and thus\nthe normal mechanism of charging our",
+    "start": 1744.35,
+    "duration": 6.9
+  },
+  {
+    "text": "muscle battery packs is impractical\nin a fetus, that is in the process of",
+    "start": 1751.25,
+    "duration": 5.37
+  },
+  {
+    "text": "growing its muscle battery packs\nand acupuncture wiring system, and",
+    "start": 1756.62,
+    "duration": 5.51
+  },
+  {
+    "text": "there's just not room for that. Well,\nat the time of birth, a string is tied",
+    "start": 1762.13,
+    "duration": 7.86
+  },
+  {
+    "text": "around the umbilical cord and it is cut,\nso that it leaves the new baby free from",
+    "start": 1769.99,
+    "duration": 7.72
+  },
+  {
+    "text": "the umbilical cord. This then\nscars over on the end and",
+    "start": 1777.71,
+    "duration": 4.13
+  },
+  {
+    "text": "becomes our umbilicus. Now, it's at this\npoint when the umbilical cord is cut,",
+    "start": 1781.84,
+    "duration": 6.77
+  },
+  {
+    "text": "that the baby switches from this fetal\nor original wiring system, to the muscle",
+    "start": 1788.61,
+    "duration": 8.96
+  },
+  {
+    "text": "battery pack acupuncture system. Now, here\nyou can see that surrounding the blood",
+    "start": 1797.57,
+    "duration": 7.94
+  },
+  {
+    "text": "vessels, we have a fibrous sheath and\nthis fibrous sheath, like the fascia, is",
+    "start": 1805.51,
+    "duration": 7.37
+  },
+  {
+    "text": "capable of acting as a wiring system\nand moving electrons from place to place.",
+    "start": 1812.88,
+    "duration": 8.32
+  },
+  {
+    "text": "So, one of the things you should\nremember is that around our blood",
+    "start": 1821.2,
+    "duration": 5.22
+  },
+  {
+    "text": "vessels and also surrounding our muscle\nbattery packs, we have this fibrous",
+    "start": 1826.42,
+    "duration": 6.38
+  },
+  {
+    "text": "connective tissue. Around the muscle\nbattery packs, it's called fascia",
+    "start": 1832.8,
+    "duration": 5.27
+  },
+  {
+    "text": "and it has a different name around the",
+    "start": 1838.07,
+    "duration": 4.52
+  },
+  {
+    "text": "the arteries and veins\ncalled tunica adventitia. An",
+    "start": 1842.59,
+    "duration": 6.0
+  },
+  {
+    "text": "important thing to know is that these\nstructures are semiconductors. So, what's",
+    "start": 1848.59,
+    "duration": 5.52
+  },
+  {
+    "text": "a semiconductor? A semiconductor is a\ncollection of molecules, arranged in such",
+    "start": 1854.11,
+    "duration": 4.48
+  },
+  {
+    "text": "a way that electrons flow through them\nat the speed of light, but only in one",
+    "start": 1858.59,
+    "duration": 4.46
+  },
+  {
+    "text": "direction. So, understanding that, helps us\nunderstand how the body can quickly move",
+    "start": 1863.05,
+    "duration": 5.61
+  },
+  {
+    "text": "electrons from one place to the other.\nFor example, if you put an essential oil",
+    "start": 1868.66,
+    "duration": 5.07
+  },
+  {
+    "text": "on the foot, the frequencies of those\nare in the brain at the speed of light,",
+    "start": 1873.73,
+    "duration": 4.92
+  },
+  {
+    "text": "because those frequencies travel through\nthe fasciae which is a semiconductor. Now,",
+    "start": 1878.65,
+    "duration": 8.25
+  },
+  {
+    "text": "in the fetus, as you can see, then we\nhave this wiring system going to all of the",
+    "start": 1886.9,
+    "duration": 6.09
+  },
+  {
+    "text": "organs and in this slide you can see how\nthat works. So, it goes from the placenta",
+    "start": 1892.99,
+    "duration": 4.6
+  },
+  {
+    "text": "through the umbilical cord, to basically\nevery organ in the body, using the",
+    "start": 1897.59,
+    "duration": 5.3
+  },
+  {
+    "text": "semiconductor of the tissue\naround the vessels. Now, because the",
+    "start": 1902.89,
+    "duration": 9.93
+  },
+  {
+    "text": "umbilicus scars, where it was cut\nfrom the umbilical cord, it is blocked;",
+    "start": 1912.82,
+    "duration": 7.17
+  },
+  {
+    "text": "electrons cannot flow through there.\nHowever if you simply put the bio",
+    "start": 1919.99,
+    "duration": 6.78
+  },
+  {
+    "text": "transducer with its scalar energy over\nthe umbilicus, what you will find is that",
+    "start": 1926.77,
+    "duration": 4.84
+  },
+  {
+    "text": "it reorganizes the scar as we'll discuss\nlater and once it does so, electrons can",
+    "start": 1931.61,
+    "duration": 6.87
+  },
+  {
+    "text": "now flow through it, and so now we\nare capable of again using the original",
+    "start": 1938.48,
+    "duration": 6.68
+  },
+  {
+    "text": "fetal wiring system. So, when you open\nthis system, now you have access to that",
+    "start": 1945.16,
+    "duration": 6.58
+  },
+  {
+    "text": "original wiring system that goes to\nevery cell in the body. One of the",
+    "start": 1951.74,
+    "duration": 4.95
+  },
+  {
+    "text": "reasons that this is important and\nuseful, is that this system is rarely",
+    "start": 1956.69,
+    "duration": 6.32
+  },
+  {
+    "text": "blocked, whereas muscle battery packs can\nbe blocked by scars, dental infections,",
+    "start": 1963.01,
+    "duration": 7.41
+  },
+  {
+    "text": "emotions, etc.\n[Music]",
+    "start": 1970.42,
+    "duration": 22.43
+  }
+]

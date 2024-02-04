@@ -1,0 +1,687 @@
+[
+  {
+    "text": "Welcome to Space News from the Electric\nUniverse, brought to you by the",
+    "start": 6.77,
+    "duration": 4.18
+  },
+  {
+    "text": "Thunderbolts Project™ at Thunderbolts.info.\nHow and when did the asteroids and",
+    "start": 10.95,
+    "duration": 10.4
+  },
+  {
+    "text": "comets in our solar system form? For many\ndecades, astronomers have embraced the",
+    "start": 21.35,
+    "duration": 5.43
+  },
+  {
+    "text": "story that these small rocky bodies are\nthe primordial leftovers of our solar",
+    "start": 26.78,
+    "duration": 4.21
+  },
+  {
+    "text": "system's formation; supposedly from a nebular\ncloud, four and a half billion years ago.",
+    "start": 30.99,
+    "duration": 5.1
+  },
+  {
+    "text": "Of course, as viewers of this series\nhave long known, science discovery has",
+    "start": 36.09,
+    "duration": 4.83
+  },
+  {
+    "text": "done little to nothing to support this\nview. In fact, one of the great surprises",
+    "start": 40.92,
+    "duration": 4.65
+  },
+  {
+    "text": "of the Space Age is that asteroids and comet\nnuclei appear remarkably similar. They",
+    "start": 45.57,
+    "duration": 5.82
+  },
+  {
+    "text": "have complex rocky and rubble-strewn surfaces. The\nElectric Universe has always proposed the “radical",
+    "start": 51.39,
+    "duration": 8.0
+  },
+  {
+    "text": "hypothesis” that comets, asteroids and\nmeteoroids were torn from planetary",
+    "start": 59.39,
+    "duration": 4.8
+  },
+  {
+    "text": "surfaces by interplanetary lightning in\nan epoch of planetary instability. A",
+    "start": 64.19,
+    "duration": 5.46
+  },
+  {
+    "text": "major piece of this puzzle is the\nevidence for electrical scarring on",
+    "start": 69.65,
+    "duration": 4.32
+  },
+  {
+    "text": "planets and moons and one of the most\ndramatic examples of such scarring may",
+    "start": 73.97,
+    "duration": 4.36
+  },
+  {
+    "text": "be the enormous trench, Valles Marineris\non Mars. In this episode, retired nuclear",
+    "start": 78.33,
+    "duration": 6.32
+  },
+  {
+    "text": "engineer Ray Gallucci offers an\nindependent analysis of the specific",
+    "start": 84.65,
+    "duration": 4.3
+  },
+  {
+    "text": "role that Mars may have played in\ncreating the asteroid belt. Today I'd",
+    "start": 88.95,
+    "duration": 4.73
+  },
+  {
+    "text": "like to talk on the plausibility of the\nelectrical birth of the asteroid belt",
+    "start": 93.68,
+    "duration": 5.02
+  },
+  {
+    "text": "from the Electric Universe perspective.\nSome background on the asteroid belt.",
+    "start": 98.7,
+    "duration": 6.08
+  },
+  {
+    "text": "Traditionally the asteroid belt formed\nfrom the primordial solar nebula as a",
+    "start": 104.78,
+    "duration": 5.5
+  },
+  {
+    "text": "group of planetesimals form proto\nplanets, and this is taken from the",
+    "start": 110.28,
+    "duration": 5.22
+  },
+  {
+    "text": "asteroid belt discussion in Wikipedia.\nBetween Mars and Jupiter however,",
+    "start": 115.5,
+    "duration": 5.47
+  },
+  {
+    "text": "gravitational perturbations from Jupiter\nimbued the proto planets with too much",
+    "start": 120.97,
+    "duration": 4.6
+  },
+  {
+    "text": "orbital energy for them to accrete into\na planet. The collisions became too",
+    "start": 125.57,
+    "duration": 5.4
+  },
+  {
+    "text": "violent and most of the proto planets\nshattered.",
+    "start": 130.97,
+    "duration": 2.81
+  },
+  {
+    "text": "As a result, 99.9 percent of the asteroid\nbelt’s original mass was lost in the",
+    "start": 133.78,
+    "duration": 7.05
+  },
+  {
+    "text": "first 100 million years. Now, on the\nElectric Universe  Theory, the EU Theory",
+    "start": 140.83,
+    "duration": 6.51
+  },
+  {
+    "text": "of asteroid formation does not require\nthat one object smash into another one",
+    "start": 147.34,
+    "duration": 5.04
+  },
+  {
+    "text": "for there to be craters; and there's a\ndiscussion video on Thunderbolts.info,",
+    "start": 152.38,
+    "duration": 7.18
+  },
+  {
+    "text": "Dawn Approaches the Asteroid Belt and\nI'll be taking some quotes from there.",
+    "start": 159.56,
+    "duration": 5.12
+  },
+  {
+    "text": "Electric arcs can gouge surfaces and\nscoop out material, accelerating it into",
+    "start": 164.68,
+    "duration": 5.67
+  },
+  {
+    "text": "space, leaving clean, deep pits. Comets\nalso exhibit surface features that are",
+    "start": 170.35,
+    "duration": 6.27
+  },
+  {
+    "text": "the same as those observed on asteroids,\nso the conclusion is that the two are",
+    "start": 176.62,
+    "duration": 4.71
+  },
+  {
+    "text": "really one thing and not “dirty snowballs”\nversus “rocky bodies.” Let's talk",
+    "start": 181.33,
+    "duration": 6.78
+  },
+  {
+    "text": "about Vesta which is the second largest\nasteroid. Vesta with a diameter",
+    "start": 188.11,
+    "duration": 5.01
+  },
+  {
+    "text": "of approximately 530 kilometers, compares\nto Saturn's moon Enceladus or Mimas in",
+    "start": 193.12,
+    "duration": 7.64
+  },
+  {
+    "text": "size, again taken from that Thunderbolts\npresentation. There are indications that",
+    "start": 200.76,
+    "duration": 5.59
+  },
+  {
+    "text": "Vesta has experienced some powerful\ncollisions in the past, since one of the",
+    "start": 206.35,
+    "duration": 5.6
+  },
+  {
+    "text": "craters near Vesta’s South Pole is 460\nkilometers in diameter, which is more",
+    "start": 211.95,
+    "duration": 5.5
+  },
+  {
+    "text": "than 80% of the asteroid size. The crater\nis close to 13 kilometers below the mean",
+    "start": 217.45,
+    "duration": 6.62
+  },
+  {
+    "text": "elevation of the terrain with a rim\nabout six kilometers above. There was an",
+    "start": 224.07,
+    "duration": 5.47
+  },
+  {
+    "text": "18 km-high central peak as well. The\nquestion that's asked in the Electric",
+    "start": 229.54,
+    "duration": 6.0
+  },
+  {
+    "text": "Universe presentation is, why did an\nimpact that removed more than 1% of the",
+    "start": 235.54,
+    "duration": 4.65
+  },
+  {
+    "text": "asteroids mass not blast it into pieces?\nEspecially given that the size of the",
+    "start": 240.19,
+    "duration": 5.85
+  },
+  {
+    "text": "crater is almost the size of the\ndiameter of the asteroid itself.",
+    "start": 246.04,
+    "duration": 4.31
+  },
+  {
+    "text": "Continuing with Vesta, other asteroids as\nwell as small moons exhibit craters that",
+    "start": 250.35,
+    "duration": 5.79
+  },
+  {
+    "text": "should have exploded them into fragments\nwhen they were hit. According to gravity-",
+    "start": 256.14,
+    "duration": 4.65
+  },
+  {
+    "text": "based models, they are loosely compacted\nand act like big sand piles and absorb",
+    "start": 260.79,
+    "duration": 5.53
+  },
+  {
+    "text": "the impacts without\nshattering. They have no hard crust to",
+    "start": 266.32,
+    "duration": 3.8
+  },
+  {
+    "text": "begin with, so they haven't fractured\ndespite repeated pounding. Plasma arcs do",
+    "start": 270.12,
+    "duration": 4.97
+  },
+  {
+    "text": "not disturb the surrounding surfaces\nwhen they are used in industrial",
+    "start": 275.09,
+    "duration": 3.06
+  },
+  {
+    "text": "applications. Based on laboratory\nanalysis, that is what has occurred on",
+    "start": 278.15,
+    "duration": 5.31
+  },
+  {
+    "text": "Vesta and in all the asteroids, moons and\nplanets of the solar system: plasma",
+    "start": 283.46,
+    "duration": 4.98
+  },
+  {
+    "text": "discharge erosion.... So again, that's the\nElectric Universe Theory. Now let's look",
+    "start": 288.44,
+    "duration": 5.65
+  },
+  {
+    "text": "at the Valles Marineris on Mars and this\nis taken from the Wikipedia entry on",
+    "start": 294.09,
+    "duration": 6.35
+  },
+  {
+    "text": "Valles Marineris. This is a system of\ncanyons that runs more than 4,000",
+    "start": 300.44,
+    "duration": 4.77
+  },
+  {
+    "text": "kilometers long (that's 2,500 miles) it's\n200 kilometers wide",
+    "start": 305.21,
+    "duration": 4.9
+  },
+  {
+    "text": "(that's 120 miles) and it's up to 7\nkilometers, deep or 23,000 feet. It's one",
+    "start": 310.11,
+    "duration": 6.54
+  },
+  {
+    "text": "of the larger canyons of the solar\nsystem. Valles Marineris is located along",
+    "start": 316.65,
+    "duration": 4.76
+  },
+  {
+    "text": "the equator of Mars and stretches for\nnearly a quarter of the planet’s",
+    "start": 321.41,
+    "duration": 4.15
+  },
+  {
+    "text": "circumference. It has recently been\nsuggested that Valles Marineris is a",
+    "start": 325.56,
+    "duration": 4.68
+  },
+  {
+    "text": "large tectonic crack, formed as the crust\nthickened and was subsequently widened",
+    "start": 330.24,
+    "duration": 5.13
+  },
+  {
+    "text": "by erosion. Some channels may have been\nformed by water or carbon dioxide and",
+    "start": 335.37,
+    "duration": 5.37
+  },
+  {
+    "text": "this is the Wikipedia explanation of\nValles Marineris and this is what the",
+    "start": 340.74,
+    "duration": 6.98
+  },
+  {
+    "text": "mainstream physics holds: that it's all\ndue to tectonic activities. The picture",
+    "start": 347.72,
+    "duration": 5.74
+  },
+  {
+    "text": "shows there - you can see how long Valles\nMarineris is. I mean it is a huge surface",
+    "start": 353.46,
+    "duration": 5.0
+  },
+  {
+    "text": "feature on Mars itself and we note that\nin the 1970’s the engineer Ralph",
+    "start": 358.46,
+    "duration": 5.07
+  },
+  {
+    "text": "Juergens first proposed that Valles\nMarineris is the scar left by a giant",
+    "start": 363.53,
+    "duration": 5.22
+  },
+  {
+    "text": "interplanetary lightning bolt, not\nnecessarily a tectonic activity. Let's",
+    "start": 368.75,
+    "duration": 6.58
+  },
+  {
+    "text": "talk about an analogy with laboratory\nplasma. Recently, geologic researcher",
+    "start": 375.33,
+    "duration": 6.23
+  },
+  {
+    "text": "Michael Steinbacher and experimentalist\nBilly Yelverton, exploring the theory of",
+    "start": 381.56,
+    "duration": 5.8
+  },
+  {
+    "text": "planetary electrical scarring, have\ncollaborated to replicate the complex",
+    "start": 387.36,
+    "duration": 5.13
+  },
+  {
+    "text": "conditions that might have been present\nin an epoch of planetary instability; and",
+    "start": 392.49,
+    "duration": 5.39
+  },
+  {
+    "text": "this is taken from the Thunderbolts\nvideo: Valles Marineris in the laboratory,",
+    "start": 397.88,
+    "duration": 6.0
+  },
+  {
+    "text": "a Space News from 2015 and there's a\npicture there of the scarring that was",
+    "start": 403.88,
+    "duration": 6.06
+  },
+  {
+    "text": "done in the laboratory. And my\nobservation is, even the most jaded",
+    "start": 409.94,
+    "duration": 4.56
+  },
+  {
+    "text": "skeptic should admit some resemblance to\nValles Marineris. If you just go back to",
+    "start": 414.5,
+    "duration": 5.31
+  },
+  {
+    "text": "the previous slide and you look at the\npicture of Valles Marineris there, and",
+    "start": 419.81,
+    "duration": 4.71
+  },
+  {
+    "text": "then you look at the laboratory version\nof the plasma scarring, I think it's",
+    "start": 424.52,
+    "duration": 4.86
+  },
+  {
+    "text": "pretty obvious that there's certainly a\nsimilarity. So, now I would like to",
+    "start": 429.38,
+    "duration": 4.45
+  },
+  {
+    "text": "consider if Mars was the sole source of\nthe asteroid belt.",
+    "start": 433.83,
+    "duration": 3.8
+  },
+  {
+    "text": "So rather than delve into the electrical\nplasma arc discharge as the potential",
+    "start": 437.63,
+    "duration": 5.58
+  },
+  {
+    "text": "creator of Valles Marineris, I'm going to\nfocus on the mass of Mars surface",
+    "start": 443.21,
+    "duration": 4.35
+  },
+  {
+    "text": "potentially ejected during such an\nencounter with a closely placed passing",
+    "start": 447.56,
+    "duration": 4.68
+  },
+  {
+    "text": "planetesimal, comparable in size to the\nlargest of the known asteroids which",
+    "start": 452.24,
+    "duration": 4.47
+  },
+  {
+    "text": "happens to be also known as dwarf planets,\nnow that Pluto has been demoted, and",
+    "start": 456.71,
+    "duration": 4.2
+  },
+  {
+    "text": "this asteroid is Ceres. I'm going to take\nan independent look and see is the",
+    "start": 460.91,
+    "duration": 5.1
+  },
+  {
+    "text": "amount of mass in the asteroid belt\nconsistent with what might have been",
+    "start": 466.01,
+    "duration": 3.36
+  },
+  {
+    "text": "ejected from Mars? The maximum amount of\nMars’ surface ejected during such an",
+    "start": 469.37,
+    "duration": 4.89
+  },
+  {
+    "text": "encounter would have been - there's a\ncalculation there based on the volume",
+    "start": 474.26,
+    "duration": 4.26
+  },
+  {
+    "text": "of the depth and expanse of Valles\nMarineris. It calculates out to 2.2 times",
+    "start": 478.52,
+    "duration": 6.45
+  },
+  {
+    "text": "10 to the 19th kilograms. From the\nestimated total mass of the asteroid belt,",
+    "start": 484.97,
+    "duration": 5.7
+  },
+  {
+    "text": "which is about three times 10 to the\n21st kilograms, more than a hundred times",
+    "start": 490.67,
+    "duration": 4.41
+  },
+  {
+    "text": "greater than the maximum estimated\nmass that could have been ejected from",
+    "start": 495.08,
+    "duration": 3.93
+  },
+  {
+    "text": "Valles Marineris. Ejection solely of Mars\nsurface material could not have",
+    "start": 499.01,
+    "duration": 5.1
+  },
+  {
+    "text": "generated the entire asteroid belt. It’s\nabout a factor of 100 to small; not that",
+    "start": 504.11,
+    "duration": 6.0
+  },
+  {
+    "text": "it could not have contributed to it, but\nwe need to find some other mass in order",
+    "start": 510.11,
+    "duration": 3.93
+  },
+  {
+    "text": "to account for the asteroid belt. Let's\nconsider a contribution from a",
+    "start": 514.04,
+    "duration": 4.98
+  },
+  {
+    "text": "planetesimal. The total mass of the\nasteroid belt, 3 times 10 to the 21st",
+    "start": 519.02,
+    "duration": 5.11
+  },
+  {
+    "text": "kilogram, with less than 1% arising for\nMars itself, that 3 times 10 to the 21st",
+    "start": 524.13,
+    "duration": 6.14
+  },
+  {
+    "text": "kilogram, that would be the minimal mass\nneeded for the planetesimal,",
+    "start": 530.27,
+    "duration": 3.99
+  },
+  {
+    "text": "if it were completely disintegrated and\nits debris contained within the belt.",
+    "start": 534.26,
+    "duration": 3.87
+  },
+  {
+    "text": "Again, I'm going to just talk about a\ncollision, or about, it's not a collision",
+    "start": 538.13,
+    "duration": 4.11
+  },
+  {
+    "text": "but an interaction, electrical\ninteraction between Mars and one",
+    "start": 542.24,
+    "duration": 3.96
+  },
+  {
+    "text": "planetesimal. I mean there could have\nbeen multiple, but let's look at if it",
+    "start": 546.2,
+    "duration": 3.42
+  },
+  {
+    "text": "had one and what would the size of\nthat one planetesimals have had to be.",
+    "start": 549.62,
+    "duration": 4.68
+  },
+  {
+    "text": "Let's assume the same density as the\nlargest asteroid or dwarf planet, which",
+    "start": 554.3,
+    "duration": 4.38
+  },
+  {
+    "text": "is Ceres, the corresponding radius would\nhave been the cube root of this formula",
+    "start": 558.68,
+    "duration": 5.13
+  },
+  {
+    "text": "here, which is based on the size of the\nmass of the asteroid belt, the mean density",
+    "start": 563.81,
+    "duration": 4.95
+  },
+  {
+    "text": "of Ceres etc. This planetesimal would have\nhad to have a radius of 690 kilometers.",
+    "start": 568.76,
+    "duration": 8.84
+  },
+  {
+    "text": "Ceres itself has a mass just under 10\nto the 21st kilograms at a radius of 473",
+    "start": 577.6,
+    "duration": 6.91
+  },
+  {
+    "text": "kilometers.\nSo, the postulated planetesimal would",
+    "start": 584.51,
+    "duration": 3.57
+  },
+  {
+    "text": "have been roughly three times as massive\nand 50% wider than the currently known",
+    "start": 588.08,
+    "duration": 4.83
+  },
+  {
+    "text": "largest asteroid, which is Ceres. Let's\nput this in some perspective. Mars",
+    "start": 592.91,
+    "duration": 7.44
+  },
+  {
+    "text": "itself has a mass of 6.4\ntimes 10 to the 23rd kilogram and a",
+    "start": 600.35,
+    "duration": 4.8
+  },
+  {
+    "text": "radius of 3,390 kilometers. So, the\nplanetesimal would have been only about",
+    "start": 605.15,
+    "duration": 5.51
+  },
+  {
+    "text": "0.5% as massive and 2% as wide as Mars.\nQuite a small entity, but certainly not",
+    "start": 610.66,
+    "duration": 6.58
+  },
+  {
+    "text": "far out of line with Ceres. If this was\nall going to come from one planetesimal,",
+    "start": 617.24,
+    "duration": 4.83
+  },
+  {
+    "text": "the asteroid belt, in an interaction\nwith Mars, it would not have had to been",
+    "start": 622.07,
+    "duration": 4.26
+  },
+  {
+    "text": "that much larger than Ceres which\nis the largest one currently known.",
+    "start": 626.33,
+    "duration": 4.1
+  },
+  {
+    "text": "Despite the moon being roughly 25% the\nwidth of the earth, in other words 1,737",
+    "start": 630.43,
+    "duration": 6.52
+  },
+  {
+    "text": "km versus 6,371 km, we note that its mass is\nonly slightly above 1% that of Earth, which is",
+    "start": 636.95,
+    "duration": 8.49
+  },
+  {
+    "text": "around seven point three times 10 to the\n22nd kilograms versus Earth's mass of",
+    "start": 645.44,
+    "duration": 4.95
+  },
+  {
+    "text": "just under 6 times 10 to the 24th\nkilograms. The ratio of the moon's mass",
+    "start": 650.39,
+    "duration": 5.25
+  },
+  {
+    "text": "to that of Earth is only about twice the\nratio of the proposed planetesimal to",
+    "start": 655.64,
+    "duration": 4.59
+  },
+  {
+    "text": "that of Mars, despite a much greater\ndifference in size. I mean the moon is",
+    "start": 660.23,
+    "duration": 4.56
+  },
+  {
+    "text": "quite large compared to the earth itself,\nas moons go relative to their planets.",
+    "start": 664.79,
+    "duration": 5.03
+  },
+  {
+    "text": "And so, what Mars would have needed for\nthis interaction would have been",
+    "start": 669.82,
+    "duration": 4.38
+  },
+  {
+    "text": "something a lot smaller than our own moon.\nTherefore the planetesimal need only have been",
+    "start": 674.2,
+    "duration": 5.76
+  },
+  {
+    "text": "comparibly as dense as other lone\nasteroids to have generated the asteroid",
+    "start": 679.96,
+    "duration": 4.11
+  },
+  {
+    "text": "belt via an electrical discharge\ninteraction with Mars.",
+    "start": 684.07,
+    "duration": 4.16
+  },
+  {
+    "text": "So, in conclusion, is the Electric\nUniverse Theory’s explanation for the",
+    "start": 688.23,
+    "duration": 5.04
+  },
+  {
+    "text": "formation of the asteroid belt plausible?\nAt least from the perspective of",
+    "start": 693.27,
+    "duration": 4.21
+  },
+  {
+    "text": "the amount of mass involved, I did a\ncrude analysis and I have a positive",
+    "start": 697.48,
+    "duration": 4.26
+  },
+  {
+    "text": "answer to that. However, I leave it to the\nElectric Universe theorists to continue",
+    "start": 701.74,
+    "duration": 4.53
+  },
+  {
+    "text": "their explanation of the phenomenology\nand its plausibility, towards which they",
+    "start": 706.27,
+    "duration": 4.35
+  },
+  {
+    "text": "appear to be off to a good start.",
+    "start": 710.62,
+    "duration": 3.45
+  },
+  {
+    "text": "[Music]",
+    "start": 714.07,
+    "duration": 5.93
+  }
+]

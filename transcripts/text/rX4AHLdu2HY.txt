@@ -1,0 +1,707 @@
+[
+  {
+    "text": "[Music]",
+    "start": 2.3,
+    "duration": 5.37
+  },
+  {
+    "text": "It is well known that Ptolemy, in his \nattempt to establish Greek astronomy on",
+    "start": 11.36,
+    "duration": 4.23
+  },
+  {
+    "text": "a sound scientific foundation, drew \nupon ancient observations made by",
+    "start": 15.59,
+    "duration": 4.49
+  },
+  {
+    "text": "Babylonian sky watchers in order to\ndevelop his models for predicting the",
+    "start": 20.08,
+    "duration": 3.76
+  },
+  {
+    "text": "motions of the Sun, Moon and planets.\nWhat was true in Ptolemy’s time remains",
+    "start": 23.84,
+    "duration": 4.88
+  },
+  {
+    "text": "true today. In order to fine-tune their\ntheories on such fundamental matters as",
+    "start": 28.72,
+    "duration": 4.56
+  },
+  {
+    "text": "the length of the day, or changes in the\nEarth's rate of rotation, astronomers",
+    "start": 33.28,
+    "duration": 4.56
+  },
+  {
+    "text": "analyzed ancient observations of the moon made by\nancient Babylonian, Chinese and Arabic astronomers.",
+    "start": 37.84,
+    "duration": 6.55
+  },
+  {
+    "text": "In a recent book on the role of ancient\nobservations in modern astronomy, John",
+    "start": 44.39,
+    "duration": 4.25
+  },
+  {
+    "text": "Steele underscored the point. Quote,\n”Astronomy always has been and still is a",
+    "start": 48.64,
+    "duration": 5.12
+  },
+  {
+    "text": "science that relies on the use of past observations.\nUnlike most sciences, astronomy can never",
+    "start": 53.76,
+    "duration": 6.16
+  },
+  {
+    "text": "be truly experimental: astronomers can only observe\nthe astronomical phenomena that present themselves...",
+    "start": 59.92,
+    "duration": 6.96
+  },
+  {
+    "text": "Perhaps uniquely in the sciences,\nastronomers therefore, are forced to rely",
+    "start": 66.88,
+    "duration": 4.4
+  },
+  {
+    "text": "upon empirical data collected by their predecessors.”\nEnd of quote. Yet, while modern astronomers regularly",
+    "start": 71.28,
+    "duration": 6.8
+  },
+  {
+    "text": "employ ancient astronomical observations\nrecorded in Babylonian diary texts and",
+    "start": 78.08,
+    "duration": 5.12
+  },
+  {
+    "text": "Chinese annals to test their measurements and \nformulate their theories, they typically pay little heed",
+    "start": 83.2,
+    "duration": 5.59
+  },
+  {
+    "text": "to the innumerable ancient artworks\ndepicting the respective celestial",
+    "start": 88.79,
+    "duration": 4.0
+  },
+  {
+    "text": "bodies. This decision represents a significant\noversight. Consider the example provided by the",
+    "start": 92.79,
+    "duration": 6.09
+  },
+  {
+    "text": "so-called ‘Lamat’ sign, one of the most familiar\nglyphs in the Mayan codices long believed to denote",
+    "start": 98.88,
+    "duration": 5.91
+  },
+  {
+    "text": "the planet Venus. In the Dresden codices elsewhere,\nthe Lamat glyph is often coupled with the prefix",
+    "start": 104.79,
+    "duration": 6.09
+  },
+  {
+    "text": "‘chak’, signifying red or great, and given \nthe fact various Maya cultures denoted the",
+    "start": 110.88,
+    "duration": 7.44
+  },
+  {
+    "text": "Morningstar by the name red, or great, star, the\nphrase ‘chak ek’ is typically translated as Great Star",
+    "start": 118.32,
+    "duration": 8.52
+  },
+  {
+    "text": "Venus. The Lamat sign is archaic in\nnature, early exemplars appearing already",
+    "start": 126.84,
+    "duration": 5.47
+  },
+  {
+    "text": "in pre-classic times circa 1,000 to 400 BCE.\nMartha Macri emphasized the remarkable",
+    "start": 132.31,
+    "duration": 7.21
+  },
+  {
+    "text": "continuity of these images and their\nattendant symbolism over the millennia.",
+    "start": 139.52,
+    "duration": 3.84
+  },
+  {
+    "text": "Quote, “The Venus star logograph is depicted\non portable objects from the Preclassic,",
+    "start": 143.36,
+    "duration": 5.76
+  },
+  {
+    "text": "Classic and Postclassic periods into the 16th century.\nThis continuity of an image that is",
+    "start": 149.12,
+    "duration": 6.16
+  },
+  {
+    "text": "graphically complex and semantically\nconsistent is evidence not of the",
+    "start": 155.28,
+    "duration": 4.16
+  },
+  {
+    "text": "borrowing of a word or concept, but of\nthe transmission of a specific image",
+    "start": 159.44,
+    "duration": 4.79
+  },
+  {
+    "text": "over an extensive geographic and\ntemporal range.” End of quote.",
+    "start": 164.23,
+    "duration": 4.57
+  },
+  {
+    "text": "A number of recent studies have\nquestioned the glyphs direct link to",
+    "start": 168.8,
+    "duration": 3.04
+  },
+  {
+    "text": "Venus with various scholars arguing that\nLamat sign serves as a generic term for",
+    "start": 171.84,
+    "duration": 4.8
+  },
+  {
+    "text": "star, rather than signifying any particular planetary\nbody. That said, the general consensus among",
+    "start": 176.64,
+    "duration": 6.31
+  },
+  {
+    "text": "Mayanists appears to be that the Lamat sign ’Red\nek’ is a logogram denoting quote, ‘star’, ‘planet’",
+    "start": 182.95,
+    "duration": 7.92
+  },
+  {
+    "text": "’Venus’. End of quote. How then are we to\nunderstand the great star of Mayan cosmology?",
+    "start": 190.87,
+    "duration": 6.08
+  },
+  {
+    "text": "The first point to be made is that the\nGreat Red Star was almost certainly not",
+    "start": 196.95,
+    "duration": 4.64
+  },
+  {
+    "text": "the planet Venus. Rather, it was the planet\nMars, or Mars and Venus in conjunction.",
+    "start": 201.59,
+    "duration": 6.33
+  },
+  {
+    "text": "This identification is explicit among the Skidi\nPawnee, renowned for their astronomy-based",
+    "start": 207.92,
+    "duration": 5.59
+  },
+  {
+    "text": "religious beliefs, who described the mythical\nMorning Star as a powerful warrior and red in color.",
+    "start": 213.51,
+    "duration": 6.41
+  },
+  {
+    "text": "According to the Skidi creation myth, a\ngrand conjunction between Mars and Venus",
+    "start": 219.92,
+    "duration": 5.03
+  },
+  {
+    "text": "marked the origin of all living beings. Quote, ”The \nsecond god placed in the heavens was Evening star,",
+    "start": 224.95,
+    "duration": 6.97
+  },
+  {
+    "text": "known to the white people as Venus...She was a\nbeautiful woman. By speaking and waving her hands she",
+    "start": 231.92,
+    "duration": 6.08
+  },
+  {
+    "text": "could perform wonders. Through this star\nand Morning Star all things were created.”",
+    "start": 238.0,
+    "duration": 5.68
+  },
+  {
+    "text": "Analogous reports will be found among\nother Amerindian tribes, although it",
+    "start": 243.68,
+    "duration": 4.16
+  },
+  {
+    "text": "must be admitted that the evidence is often disjointed\nin nature and open to alternative interpretations.",
+    "start": 247.84,
+    "duration": 5.75
+  },
+  {
+    "text": "Among the Puget Indians of the northwest\ncoast, the Morning Star is not only",
+    "start": 253.59,
+    "duration": 4.24
+  },
+  {
+    "text": "described as red, it is carefully\ndistinguished from the Evening star",
+    "start": 257.83,
+    "duration": 3.77
+  },
+  {
+    "text": "which is described as white. So too, \nthe Osage remember the Morning Star",
+    "start": 261.6,
+    "duration": 5.36
+  },
+  {
+    "text": "as a red god; quote, “Great Star or Red Star,\na male being, is the Morning Star. \"",
+    "start": 266.96,
+    "duration": 8.16
+  },
+  {
+    "text": "The very same idea is common\nto the Delaware Indians. Quote,",
+    "start": 275.12,
+    "duration": 4.07
+  },
+  {
+    "text": "”The Delaware call Morning Star the \nGreat Star or Red Star.” End of quote.",
+    "start": 279.19,
+    "duration": 5.13
+  },
+  {
+    "text": "The recurring emphasis among Amerindian\ncultures upon the red color of the Great",
+    "start": 284.32,
+    "duration": 5.04
+  },
+  {
+    "text": "Star must command our attention. As \nthe most prominent red star in the sky, it",
+    "start": 289.36,
+    "duration": 5.04
+  },
+  {
+    "text": "stands to reason that ancient sky watchers would\nhave described Mars as red or ruddy in color.",
+    "start": 294.4,
+    "duration": 5.92
+  },
+  {
+    "text": "Venus on the other hand, typically\npresents a whitish color and is rarely,",
+    "start": 300.32,
+    "duration": 4.15
+  },
+  {
+    "text": "if ever, denoted by a name signifying red.\nEqually telling is the fact that in all",
+    "start": 304.47,
+    "duration": 6.81
+  },
+  {
+    "text": "of the tribes referenced above,\nthe mythical Morning Star is always",
+    "start": 311.28,
+    "duration": 3.91
+  },
+  {
+    "text": "described as a male warrior, exactly as in\nMesoamerican lore. Here too it is difficult, if not",
+    "start": 315.19,
+    "duration": 6.41
+  },
+  {
+    "text": "impossible, to find an ethnographic\nreport describing the planet Venus as a",
+    "start": 321.6,
+    "duration": 4.4
+  },
+  {
+    "text": "masculine warrior anywhere in the continent\napart from disputed examples from Mesoamerica.",
+    "start": 326.0,
+    "duration": 5.68
+  },
+  {
+    "text": "Given the antiquity of these Amerindian\nmythological traditions, not to mention",
+    "start": 331.68,
+    "duration": 4.4
+  },
+  {
+    "text": "the likely common ancestry and\nhistorical relation between the vast",
+    "start": 336.08,
+    "duration": 3.83
+  },
+  {
+    "text": "majority of the indigenous tribes on the North American\ncontinent, it stands to reason that the traditions",
+    "start": 339.91,
+    "duration": 5.93
+  },
+  {
+    "text": "attached to the Morningstar and\nMesoamerican narratives and codices",
+    "start": 345.84,
+    "duration": 3.44
+  },
+  {
+    "text": "belong to the same general belief system.\nIn short, whether it is the red color",
+    "start": 349.28,
+    "duration": 4.47
+  },
+  {
+    "text": "ascribed to the Great Star, or its\nmasculine nature or intimate connection",
+    "start": 353.75,
+    "duration": 4.16
+  },
+  {
+    "text": "to war, the preponderance of evidence\nfavors an identification with the planet",
+    "start": 357.91,
+    "duration": 4.56
+  },
+  {
+    "text": "Mars, the Red Planet par excellence.\nTo return to the unique constellation",
+    "start": 362.47,
+    "duration": 6.09
+  },
+  {
+    "text": "depicted in the Lamat glyph, if \nMayanists are in agreement, the",
+    "start": 368.56,
+    "duration": 4.56
+  },
+  {
+    "text": "Lamat glyph has something to do with stars and/\nor Venus, exactly what the image represents",
+    "start": 373.12,
+    "duration": 5.35
+  },
+  {
+    "text": "remains a matter of much conjecture.\nIf the four-rayed star represents a star",
+    "start": 378.47,
+    "duration": 5.13
+  },
+  {
+    "text": "or Venus, what are we to make of the four\ncircular dots? Susan Milbrath, an anthropologist",
+    "start": 383.6,
+    "duration": 6.0
+  },
+  {
+    "text": "specializing in ancient Mesoamerican\nastronomy, suggested that the glyph has",
+    "start": 389.6,
+    "duration": 4.4
+  },
+  {
+    "text": "reference to the four phases of Venus's\nappearance and disappearance. Quote, “The",
+    "start": 394.0,
+    "duration": 4.96
+  },
+  {
+    "text": "fact that there are four circles in a cross-shaped\nframe, naturally suggests the four phases of",
+    "start": 398.96,
+    "duration": 5.92
+  },
+  {
+    "text": "Venus associated with four different directions.”\nEnd of quote. Although a great deal of ink has been",
+    "start": 404.88,
+    "duration": 6.31
+  },
+  {
+    "text": "employed in discussing the possible\nastronomical significance of the",
+    "start": 411.19,
+    "duration": 3.53
+  },
+  {
+    "text": "Lamat's role in Mesoamerican symbolism,\nprecious little thought has been devoted",
+    "start": 414.72,
+    "duration": 4.64
+  },
+  {
+    "text": "to the natural historical roots of the glyph \nitself. Most scholars, with Milbrath, have",
+    "start": 419.36,
+    "duration": 5.67
+  },
+  {
+    "text": "concluded that the glyph is abstract\nin nature and encodes some arcane",
+    "start": 425.03,
+    "duration": 3.93
+  },
+  {
+    "text": "astronomical knowledge about Venus.\nThe possibility that the Lamat glyph",
+    "start": 428.96,
+    "duration": 4.56
+  },
+  {
+    "text": "faithfully depicted an actual star\nconstellation of prehistoric sky has",
+    "start": 433.52,
+    "duration": 4.39
+  },
+  {
+    "text": "never been entertained, to the best of my \nknowledge. Yet, there is much reason to believe",
+    "start": 437.91,
+    "duration": 4.25
+  },
+  {
+    "text": "that this is exactly what the icon represents,\nnamely an accurate depiction of the Great",
+    "start": 442.16,
+    "duration": 5.52
+  },
+  {
+    "text": "Star during a prehistoric period. The\nfact that analogous pictographs we",
+    "start": 447.68,
+    "duration": 4.72
+  },
+  {
+    "text": "found around the globe, offers compelling\nevidence in support of this proposition.",
+    "start": 452.4,
+    "duration": 4.79
+  },
+  {
+    "text": "A NUZ cylinder seal, purportedly dating\nto the mid-second millennium BCE, depicts",
+    "start": 457.19,
+    "duration": 4.97
+  },
+  {
+    "text": "a star surrounded by four dots. The \nresemblance between the Mesopotamian",
+    "start": 462.16,
+    "duration": 4.8
+  },
+  {
+    "text": "and Mesoamerican glyphs is undeniable.\nNot only is there a central four-rayed",
+    "start": 466.96,
+    "duration": 4.88
+  },
+  {
+    "text": "star, but four circles or orbs are set \nin the corners, exactly as in the Lamat",
+    "start": 471.84,
+    "duration": 5.12
+  },
+  {
+    "text": "sign. Not unlike the longevity of \nthe Lamat glyph in Mesoamerican",
+    "start": 476.96,
+    "duration": 4.63
+  },
+  {
+    "text": "iconography, the quadripartite star symbol\npersisted for millennia in Mesopotamia.",
+    "start": 481.59,
+    "duration": 6.49
+  },
+  {
+    "text": "The symbolic importance of the stellar\nimage is indicated by the fact that",
+    "start": 488.08,
+    "duration": 3.6
+  },
+  {
+    "text": "Assyrian kings had it depicted on their royal \ngarments. Other Mesopotamian cylinder seals",
+    "start": 491.68,
+    "duration": 6.07
+  },
+  {
+    "text": "substitute a flower-like form or\ncruciform structure for the central star.",
+    "start": 497.75,
+    "duration": 4.97
+  },
+  {
+    "text": "One early cylinder seal represents a four- petaled\nflower star with four circles or dots at its corners.",
+    "start": 502.72,
+    "duration": 7.44
+  },
+  {
+    "text": "In another cylinder seal, a cruciform structure\nis represented together with circular dots.",
+    "start": 510.16,
+    "duration": 5.92
+  },
+  {
+    "text": "While the most common form of the\nLamat in Mesoamerica shows a central",
+    "start": 516.08,
+    "duration": 4.16
+  },
+  {
+    "text": "four-rayed star, other early examples of the\nglyph show a flower-like object or cross instead.",
+    "start": 520.24,
+    "duration": 7.68
+  },
+  {
+    "text": "As we will discover, these variant forms, all \nfamiliar symbols of stars among Ameindian",
+    "start": 527.92,
+    "duration": 4.8
+  },
+  {
+    "text": "cultures, offer a valuable clue as to\nthe celestial origins of the Lamat glyph.",
+    "start": 532.72,
+    "duration": 6.32
+  },
+  {
+    "text": "What are we to make of this iconographic \nevidence? If nothing else, the presence of",
+    "start": 539.04,
+    "duration": 4.72
+  },
+  {
+    "text": "analogous stellar images on opposite\nsides of the Atlantic in very early",
+    "start": 543.76,
+    "duration": 4.0
+  },
+  {
+    "text": "times, suggest the probability that such\nartworks encode some readily observable",
+    "start": 547.76,
+    "duration": 4.63
+  },
+  {
+    "text": "astronomical reality, be it a prominent\nstar or constellation. Yet the fact",
+    "start": 552.39,
+    "duration": 5.12
+  },
+  {
+    "text": "remains that it is impossible to point\nto an object in the present sky that",
+    "start": 557.51,
+    "duration": 3.44
+  },
+  {
+    "text": "depicts a four-rayed star surrounded by\nfour dots. Hence the mystery presented by",
+    "start": 560.95,
+    "duration": 5.05
+  },
+  {
+    "text": "these widespread anomalous stellar images.\nI discussed the Lamat glyph and the",
+    "start": 566.0,
+    "duration": 5.51
+  },
+  {
+    "text": "many faces of Venus and other works noting\nits possible relationship to the planet Venus.",
+    "start": 571.51,
+    "duration": 5.37
+  },
+  {
+    "text": "At the time I was operating under the\nassumption that the image depicted a",
+    "start": 576.88,
+    "duration": 3.51
+  },
+  {
+    "text": "conjunction of Mars and Venus in which\nthe red planet appeared in front of the",
+    "start": 580.39,
+    "duration": 4.33
+  },
+  {
+    "text": "larger orb, but I had no idea how to explain the\nfour smaller dots surrounding the central star.",
+    "start": 584.72,
+    "duration": 6.64
+  },
+  {
+    "text": "Upon discussing the matter with Anthony \nPeratt in 2002, he pointed out that the dots are",
+    "start": 591.36,
+    "duration": 5.36
+  },
+  {
+    "text": "indicative of intense synchrotron radiation\nproduced by four parallel Birkeland",
+    "start": 596.72,
+    "duration": 5.35
+  },
+  {
+    "text": "currents resulting from a high-current Z-pinch event.\nAccording to Peratt, quote “...the only known",
+    "start": 602.07,
+    "duration": 6.65
+  },
+  {
+    "text": "mechanism that produces synchrotron\nradiation are electrons spiraling about",
+    "start": 608.72,
+    "duration": 4.72
+  },
+  {
+    "text": "a magnetic field at nearly the speed of light.”\nIndeed, in high-energy/density plasma",
+    "start": 613.44,
+    "duration": 6.24
+  },
+  {
+    "text": "experiments conducted at the Los Alamos\nLabs in the 1990s, Peratt himself had",
+    "start": 619.68,
+    "duration": 5.44
+  },
+  {
+    "text": "generated very similar images.\nIn the image on the left one finds a",
+    "start": 625.12,
+    "duration": 4.95
+  },
+  {
+    "text": "close analog to the classic Lamat sign\ndepicted in the first figure here, in",
+    "start": 630.07,
+    "duration": 5.13
+  },
+  {
+    "text": "which a central star is surrounded by four small\ncircles. In the figure on the right, the central",
+    "start": 635.2,
+    "duration": 5.75
+  },
+  {
+    "text": "star takes on a rosette-shaped image,\nnot unlike that depicted in other figures here.",
+    "start": 640.95,
+    "duration": 6.32
+  },
+  {
+    "text": "I returned to the Lamat symbolism in\nthe Great Star published in 2002 and",
+    "start": 647.27,
+    "duration": 5.05
+  },
+  {
+    "text": "once again reached out to Dr. Peratt for instruction\nin clarifying the various structures in question.",
+    "start": 652.32,
+    "duration": 5.84
+  },
+  {
+    "text": "In 2009 he wrote me as follows, quote, “Of\ncourse this symbol is found all over the",
+    "start": 658.16,
+    "duration": 5.6
+  },
+  {
+    "text": "place...It is indeed Venus and Mars in front\nbut the quincunx is yet in front of Mars.",
+    "start": 663.76,
+    "duration": 6.63
+  },
+  {
+    "text": "See my Physica Scripta article that\npurposely does not show everything yet.",
+    "start": 670.39,
+    "duration": 5.12
+  },
+  {
+    "text": "Too early and I’ll have to find an \nalias to publish under.” End of quote.",
+    "start": 675.51,
+    "duration": 5.13
+  },
+  {
+    "text": "Alas, in the intervening years, Tony has yet to\nelaborate on his groundbreaking experimental findings.",
+    "start": 680.64,
+    "duration": 6.63
+  },
+  {
+    "text": "Findings which help elucidate the\ntestimony provided by the ancient",
+    "start": 687.27,
+    "duration": 3.53
+  },
+  {
+    "text": "pictographs and glyphs associated with the celestial\nbodies. Yet one thing is certain, in the case of",
+    "start": 690.8,
+    "duration": 6.15
+  },
+  {
+    "text": "the Lamat sign, a pictograph is indeed worth a thousand\nwords. In summary, the Lamat sign will never be",
+    "start": 696.95,
+    "duration": 6.97
+  },
+  {
+    "text": "explained by reference to the present sky or \nto the familiar periodicities of the planet Venus.",
+    "start": 703.92,
+    "duration": 5.84
+  },
+  {
+    "text": "Indeed it is our position that the\nstellar image in question represents a",
+    "start": 709.76,
+    "duration": 3.68
+  },
+  {
+    "text": "veritable smoking gun pointing to an\nextraordinary planetary conjunction in",
+    "start": 713.44,
+    "duration": 4.32
+  },
+  {
+    "text": "relatively recent prehistory,\nlikely during the neolithic period.",
+    "start": 717.76,
+    "duration": 5.28
+  },
+  {
+    "text": "If so, and if in fact the Lamat sign\ndepicts a grand conjunction between Mars",
+    "start": 723.04,
+    "duration": 4.79
+  },
+  {
+    "text": "and Venus during the brief period \nwhen the two planets were lined along a",
+    "start": 727.83,
+    "duration": 3.61
+  },
+  {
+    "text": "shared polar axis, it follows that high-energy\ndischarge events characterize this conjunction, and",
+    "start": 731.44,
+    "duration": 6.39
+  },
+  {
+    "text": "it must have been a memorable and likely\nvery dangerous period in Earth history.",
+    "start": 737.83,
+    "duration": 6.5
+  },
+  {
+    "text": "[Music]",
+    "start": 744.33,
+    "duration": 32.07
+  }
+]

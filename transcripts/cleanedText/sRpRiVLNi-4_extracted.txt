@@ -1,0 +1,432 @@
+Welcome to Space News from
+the Electric Universe,
+brought to you by
+The Thunderbolts Project™
+at Thunderbolts.info
+Today, physicist Eugene
+Bagashov continues his analysis
+of the scientific missions to the
+asteroids Bennu and Ryugu respectively.
+As Eugene explained in
+the previous episode,
+one of the hypotheses scientists have proposed
+to explain a number of asteroid anomalies
+is that many asteroids are
+essentially "rubble piles."
+In fact, when asteroids have
+occasionally displayed dramatic
+and completely unexpected
+comet-like tails,
+the explanation astronomers have offered
+is that the so called rubble piles
+simply began spinning faster and
+faster, hurling material into space.
+However, as Eugene explains as
+he continues his discussion,
+the latest scientific data offers little support
+for the rubble-pile asteroid hypothesis.
+Let us now talk about the other issue,
+that is the spin of these asteroids.
+Currently, Ryugu has a spin period of
+7.63 hours and Bennu of 4.29 hours.
+But here the interesting
+stuff begins.
+One thing that the researchers from
+Hayabusa2 Mission keep referring to
+is the hypothetical long-term trend
+in slowing down of the spin of Ryugu.
+In that way they are able to, more or less,
+explain on the basis of the rubble pile model,
+the surface slopes of the asteroid and also
+the distribution of boulders on its surface.
+And they attribute this hypothetical
+spinning down to the so called
+Yarkovsky-O'Keefe-Razdievskii-Paddack
+effect or YORP.
+This effect basically implies that
+the irregular form of the asteroid
+leads to the imbalance in its thermal
+emission in different directions,
+which in turn causes the object to
+experience some very small torque,
+and on long timescales it might alter
+the rotational period quite a bit,
+introduce tilting of the spin axis,
+wobbling and other things like that.
+Well ok, perhaps,
+but let us look at Bennu now.
+Here we see not the hypothetical but actually
+observed spinning up of the asteroid.
+It has been derived from a series
+of ground- based observations,
+the earliest one being made in 1999,
+and now confirmed by the OSIRIS-REx data.
+Bennu is spinning
+faster and faster,
+losing about a second of
+spin period each century.
+That would mean that the doubling of the spin
+rate would happen in only 1.5 million years
+and the rubble-pile model used by
+the researchers in OSIRIS-REx team
+predicts that it would be incompatible
+with the stability of the asteroid.
+At this rate of spinning up,
+it should have been torn apart by
+centrifugal forces very long time ago.
+Perhaps the reasonable conclusion
+that should follow from that
+is that the body should be much
+younger than even ten million years
+but the researchers are obviously
+not happy with that conclusion,
+so to somehow cope with this, they invoke
+additional and not very plausible assumptions
+such as some unexplained long-term cycles
+of spinning up and spinning down etc.
+But that's not even
+the real problem.
+The problem is that they're trying to
+explain the observed spinning up of Bennu,
+with the same YORP effect
+that Hayabusa2 team
+is using to explain the hypothetical
+spinning down of asteroid Ryugu.
+It starts to make really
+little sense from that point.
+Now, it is true that theoretically,
+and I repeat ― theoretically,
+YORP might indeed lead to both
+spinning up and spinning down
+and that would depend mostly on the
+shape and orientation of the object,
+but the thing is that Bennu and Ryugu
+have almost exactly the same shape.
+More than that, they have
+almost the same orientation
+Take a look at this
+picture for example.
+Here I've plotted the orbits of
+inner solar system planets, that is;
+Mercury, Venus, Earth, and Mars.
+On the next picture, I've added
+Bennu's orbit in darker blue
+and on the third picture,
+I've also added Ryugu's orbit in red.
+So if I now add here the
+orientations of their spin axes,
+you'd immediately
+understand what I mean.
+Numerically speaking, their spin
+axes differ less than 8 degrees
+so they're pointing almost
+in the same spot in the sky.
+Note also that they are both
+spinning backwards, just like Venus,
+here I've plotted all the
+other planets' spin axes.
+So from that I conclude that if YORP is
+indeed acting upon both of these asteroids,
+it should follow that it would have
+the same effect on both of them
+and therefore either Hayabusa2 or OSIRIS-REx
+team is wrong in interpreting their data
+or maybe even both of them,
+but since we're already
+looking at orbital diagrams,
+which I personally enjoy doing,
+let me note another thing that
+might not be immediately evident.
+Both these asteroids
+essentially,
+at some point of their orbits,
+cross the orbit of Earth.
+I have indicated these
+crossings with purple circles.
+In fact, both these asteroids might potentially
+impact Earth in the next couple of centuries,
+and I'm only mentioning this
+to support my next statement
+that in my opinion,
+the orbits of these objects
+might indicate that they actually originate
+from this area of the solar system
+and they're not some intruders
+from the inner asteroid belt.
+It would only seem logical that if they
+both originated from the catastrophes
+that involved, for example, planet
+Earth and Mars, or maybe Venus too,
+they wouldn't stray too far from the
+area where this catastrophe occurred.
+That would potentially explain
+why both these asteroids
+move roughly between
+Earth and Mars,
+even more so if one looks at the exact
+arrangement of the orbit of Ryugu,
+another fascinating
+thing would surface,
+that its perihelion is really
+well aligned with Earth's,
+if one discards the difference
+in orbital inclination.
+The coincidence is
+quite incredible,
+both Earth's and Ryugu's ecliptic
+longitude of perihelion is 102 degrees.
+Here I've shown the perihelia
+positions with thin black lines.
+Yes, potentially it is
+possible to explain all of that
+through some long-term
+gravitational interactions,
+tidal forces and resonances,
+and things like that,
+but remember that first we need
+to somehow drag these objects here
+from the inner asteroid belt
+without them being destroyed
+or thrown away into the outer system
+by these gravitational interactions.
+So maybe it would be reasonable
+to assume that these alignments
+are the result of these asteroids being
+born from some catastrophic processes
+involving the inner
+planets in the first place,
+maybe not even the Earth
+but the Moon for example,
+as I've noted that the spin
+axes of Bennu and Ryugu
+are almost exactly opposite
+to the Lunar spin axis
+depicted with grey
+arrow in this picture.
+There's only 4 to 5 degrees
+difference between them.
+OK, let's now return to the
+issue of the spin rate change.
+What are the options from the
+standpoint of electrical excavation
+of these bodies from
+planetary crusts?
+Of course, theoretically here
+YORP effect might also play a role
+so that explanation is possible,
+but at the same time I wish to repeat
+the points made in the previous video
+following from that paper
+with liquid droplets,
+that perhaps these objects continue to
+very slowly relax to a more spherical shape
+after being squashed by electrical
+forces during the time of their birth.
+In this case, as more and more
+matter moves closer to the spin axis,
+the angular momentum conservation would dictate
+that the body should spin faster and faster.
+If that is true, theoretically if
+we'd observe the objects long enough,
+we would see the very slow
+shrinking of their equatorial radii
+in favor of higher
+latitudes radii.
+Unfortunately however, we haven't
+been able to determine their shape
+with good enough
+precision previously.
+The mean value of ground-based radar observations
+gives a diameter of Bennu of 492 meters,
+while OSIRIS-REx shows a
+490 meters of diameter,
+so one could say that indeed
+the Equator is shrinking,
+but the error bars of the
+first measurement are so big
+that they include the second
+value as possible too.
+And finally, at the moment
+I wouldn't even discount
+possible electromagnetic effects
+of spinning up the asteroid,
+especially if it's at
+least slightly magnetized.
+Its interaction with the solar wind
+plasma might potentially induce a torque
+that would spin it up or down
+depending on the field configuration.
+Now, let's discuss the surface
+properties of these asteroids.
+One thing that both Hayabusa2
+and OSIRIS-REx teams indicate
+is the noticeable
+lack of small craters.
+They assume that it is the consequence of
+either the dynamic reshaping of the surface
+or of the presence of regolith, that
+is dust, that would quickly bury them.
+The problem with that however,
+is that both Ryugu and Bennu
+demonstrate some craters even
+in the equatorial region,
+which suggests that
+their equatorial bulges
+appeared before subsequent
+alteration of their surfaces
+and the surface hasn't
+completely relaxed ever since.
+But researchers
+themselves acknowledge,
+especially in case of Ryugu with
+its hypothetical spinning down,
+that the equatorial bulges
+should be really old
+so why didn't they also reshape during all
+these supposed hundreds of millions of years?
+Large craters also did not relax to
+the overall shape of their surroundings
+and their depth to diameter
+ratios of about 0.16
+are consistent with other
+asteroids such as Eros and Vesta
+which have this parameter of about 0.15
+but not in any way represent rubble piles.
+That seems not really consistent
+with a rubble pile hypothesis
+and perhaps indicates a higher internal
+strength of the underlying material
+than what is assumed
+by the researchers.
+Conversely, in the electrical
+scenario, some of the craters
+might have appeared due to
+plasma discharges on the surface
+as it was rebalancing its electric potential
+after the initial catastrophic event
+that has led to the
+formation of the body.
+So perhaps the deficit of small
+craters might be explained
+if one assumes that the strength
+of the surface is underestimated
+so that only really energetic
+processes would leave craters.
+And it doesn't really matter if we're
+talking about discharges or impacts here.
+It's quite peculiar that asteroid
+Ryugu has twice more large boulders
+than asteroid Itokawa per unit of
+area, but the same number of craters,
+and in the case of Bennu, the
+researchers themselves admit
+that these boulders
+and their complexity
+"...imply energetic events that
+far exceed what Bennu can support."
+The researchers actually sometimes start
+contradicting themselves and state that,
+"Evidence for structural strength
+includes Bennuis nonhydrostatic shape,
+the high-standing longitudinal ridges, the long
+linear grooves, and apparent mass wasting.
+A fluid-like
+hydrostatic shape ...
+with Bennu's density and
+rotation rate is not stable."
+So how then is, this supposedly
+rubble-pile object exists?
+Maybe it's not a
+rubble pile after all?
+With regards to the
+regolith, I should note that
+it seems that there is much less
+of it than what was assumed.
+For example, MASCOT lander has found no regolith
+where it landed on the surface of Ryugu
+and the same seems true for the
+photos from other two landers.
+It's definitely very rocky out
+there but also not very dusty.
+In fact, OSIRIS-REx team has been
+complaining in some of the papers
+that the abundance of rock and the
+deficit of pristine flat dusty areas
+might compromise the success of
+the mission, since initially they,
+"...hypothesized that, over time, gravel
+migration had built up the equatorial ridge
+that was apparent in
+the radar shape model.
+Even though the equatorial
+region is the geopotential low,
+it is in fact dominated by
+large concentrations of boulders
+with little apparent
+fine-grained regolith.
+Bennu does not contain the extensive
+patches of fine-grained regolith
+according to which we
+designed the mission."
+Other fascinating find is a relatively
+low values of thermal inertia,
+on average 350 for Bennu
+and 200 to 500 for Ryugu,
+where the units are joules,
+divided by meters squared,
+divided by Kelvin, divided
+by square root of a second.
+Compare that to some other
+similar objects' thermal inertia,
+for example asteroid
+Itokawa has 750
+and the lowest thermal inertia
+documented in a meteorite is 770
+in the meteorite Cold Bokkeveld.
+Basically, thermal inertia is a measure of how
+hard it is to heat up or cool down a body,
+so in my opinion, low values of thermal
+inertia of asteroids Bennu and Ryugu
+would imply a relatively
+good heat conduction
+and therefore a relatively strong internal
+structure, at least in the near surface layer
+that would allow the heat to be quickly
+transferred to and from the asteroids.
+Now, this is not a definite
+evidence for that per se,
+as the properties of boulders and even small
+amounts of dust covering the surface
+would also play a huge role in the
+measured value of thermal inertia,
+but coupled to some other
+hints that I've mentioned,
+in my opinion it provides a
+more or less coherent picture.
+Speaking of boulders,
+Hayabusa2 team
+acknowledges that they seem
+to be internally strong.
+I quote, "The shallower slope
+in the small size range suggests
+a non-negligible mechanical strength of
+individual boulders/pebbles on Ryugu."
+And also I quote,
+"...the boulders on Ryugu have survived impact
+processes during catastrophic disruption,
+the re-accumulation process and
+more recent impacts on Ryugu;
+they are not dust balls
+with little cohesion."
+So if these boulders are supposed to
+represent some primordial material
+and they demonstrate
+significant internal strength,
+why is the rest of these asteroids
+considered to be so weak?
+Maybe they aren't after all.
+We'll examine some more evidence
+for that in the next video
+and also talk about the recent finding
+of dust grains in space around Bennu.
+Stay tuned for part 3

@@ -1,0 +1,617 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe,",
+    "start": 7.133,
+    "duration": 2.88
+  },
+  {
+    "text": "brought to you by\nThe Thunderbolts Project™",
+    "start": 10.038,
+    "duration": 2.378
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 12.441,
+    "duration": 3.387
+  },
+  {
+    "text": "On this series, we've explored the\nsignificance of common forms and shapes",
+    "start": 16.475,
+    "duration": 4.463
+  },
+  {
+    "text": "seen throughout the cosmos.",
+    "start": 20.939,
+    "duration": 2.029
+  },
+  {
+    "text": "Plasma, the fourth state of matter,\npervades all of the universe",
+    "start": 22.969,
+    "duration": 4.646
+  },
+  {
+    "text": "and the unique structures\nproduced in plasma laboratories",
+    "start": 27.64,
+    "duration": 3.124
+  },
+  {
+    "text": "are clearly seen at\nall scales in space.",
+    "start": 30.789,
+    "duration": 3.461
+  },
+  {
+    "text": "From the filamentations seen\neverywhere in the universe,",
+    "start": 34.275,
+    "duration": 3.618
+  },
+  {
+    "text": "from the giant snake-like filaments\nreaching from the surface of the Sun",
+    "start": 37.918,
+    "duration": 4.41
+  },
+  {
+    "text": "to the dark cores of sunspots,",
+    "start": 42.353,
+    "duration": 2.196
+  },
+  {
+    "text": "to the networks of long thin\nfilaments along which stars form",
+    "start": 44.574,
+    "duration": 4.399
+  },
+  {
+    "text": "like pearls on a string,",
+    "start": 48.998,
+    "duration": 1.923
+  },
+  {
+    "text": "to the hourglass\nshapes of nebulae",
+    "start": 50.946,
+    "duration": 2.509
+  },
+  {
+    "text": "and the similar double-lobed form that appears\nto be the common shape of comet nuclei,",
+    "start": 53.48,
+    "duration": 5.13
+  },
+  {
+    "text": "a form reliably produced by the\nelectromagnetic z-pinch effect in plasma,",
+    "start": 58.635,
+    "duration": 4.957
+  },
+  {
+    "text": "and even the spiraling structures achieved\nby parallel currents in the laboratory",
+    "start": 63.617,
+    "duration": 5.101
+  },
+  {
+    "text": "uncannily matching the\nform of the spiral galaxy.",
+    "start": 68.719,
+    "duration": 3.773
+  },
+  {
+    "text": "Plasma particle beams also produce\ndistinct geometric shapes",
+    "start": 72.517,
+    "duration": 4.343
+  },
+  {
+    "text": "that can prove difficult or even impossible\nto explain through non-plasma processes",
+    "start": 76.885,
+    "duration": 5.044
+  },
+  {
+    "text": "when seen in nature.",
+    "start": 81.93,
+    "duration": 1.371
+  },
+  {
+    "text": "One such shape is the\nhexagon or polygon",
+    "start": 83.326,
+    "duration": 3.259
+  },
+  {
+    "text": "which is a generally straight-\nedged closed-plane form.",
+    "start": 86.61,
+    "duration": 3.928
+  },
+  {
+    "text": "The hexagonal craters commonly\nobserved on planets and moons",
+    "start": 90.563,
+    "duration": 4.056
+  },
+  {
+    "text": "challenge planetary scientists",
+    "start": 94.644,
+    "duration": 2.149
+  },
+  {
+    "text": "since kinetic impact experiments\ndo not produce such craters.",
+    "start": 96.818,
+    "duration": 4.19
+  },
+  {
+    "text": "However, as seen in these\nexperiments by Jacob Gable,",
+    "start": 101.033,
+    "duration": 3.358
+  },
+  {
+    "text": "it is a form routinely produced by\nelectrical discharge to a solid surface.",
+    "start": 104.416,
+    "duration": 5.114
+  },
+  {
+    "text": "Another hexagon in nature has puzzled\nastronomers since its discovery decades ago.",
+    "start": 109.555,
+    "duration": 5.558
+  },
+  {
+    "text": "As far back as 1988, scientists\nstudying data from the Voyager mission",
+    "start": 115.138,
+    "duration": 5.1
+  },
+  {
+    "text": "found evidence for a hexagonal atmospheric\nstructure at the North Pole of Saturn.",
+    "start": 120.239,
+    "duration": 4.871
+  },
+  {
+    "text": "Decades later, NASA's Cassini-Huygens\nspacecraft shared with the world",
+    "start": 125.135,
+    "duration": 4.471
+  },
+  {
+    "text": "the first complete images\nof the bizarre cloud pattern.",
+    "start": 129.631,
+    "duration": 3.775
+  },
+  {
+    "text": "Planetary scientists have\nstruggled for an explanation",
+    "start": 133.431,
+    "duration": 3.287
+  },
+  {
+    "text": "since the form is not seen in\nany other planetary atmosphere.",
+    "start": 136.743,
+    "duration": 4.172
+  },
+  {
+    "text": "But in recent years, simple\nfluidic experiments on Earth",
+    "start": 140.94,
+    "duration": 4.245
+  },
+  {
+    "text": "have succeeded in producing\na hexagonal structure",
+    "start": 145.21,
+    "duration": 2.872
+  },
+  {
+    "text": "providing an explanation that planetary\nscientists have heretofore favored.",
+    "start": 148.107,
+    "duration": 4.558
+  },
+  {
+    "text": "However, Thunderbolts picture of the\nday managing editor Stephen Smith",
+    "start": 152.69,
+    "duration": 4.422
+  },
+  {
+    "text": "outlines just some of the problems\nwith this theory in a recent article.",
+    "start": 157.137,
+    "duration": 3.776
+  },
+  {
+    "text": "He writes,",
+    "start": 160.938,
+    "duration": 1.189
+  },
+  {
+    "text": "\"The fluid dynamic experiment seems\nto provide a plausible description",
+    "start": 162.152,
+    "duration": 4.032
+  },
+  {
+    "text": "of what is happening on Saturn\nif several factors are ignored.",
+    "start": 166.209,
+    "duration": 4.077
+  },
+  {
+    "text": "First, there are concentric\nrings around the hexagon,",
+    "start": 170.311,
+    "duration": 3.095
+  },
+  {
+    "text": "each with different\ntemperatures.",
+    "start": 173.431,
+    "duration": 2.053
+  },
+  {
+    "text": "Second, Saturn's North and South Poles\nare hotter than theories predict.",
+    "start": 175.509,
+    "duration": 5.079
+  },
+  {
+    "text": "Third, there are\naurorae at the poles.",
+    "start": 180.613,
+    "duration": 3.1
+  },
+  {
+    "text": "Fourth, there are powerful\ncurrents of electric charge",
+    "start": 183.738,
+    "duration": 3.477
+  },
+  {
+    "text": "entering and leaving\nSaturn's poles,",
+    "start": 187.24,
+    "duration": 2.245
+  },
+  {
+    "text": "connecting it to its\nfamily of moons.",
+    "start": 189.51,
+    "duration": 2.337
+  },
+  {
+    "text": "As previous Picture of\nthe Day articles argue,",
+    "start": 191.848,
+    "duration": 2.733
+  },
+  {
+    "text": "the plumes of Enceladus,\nfor instance,",
+    "start": 194.606,
+    "duration": 2.162
+  },
+  {
+    "text": "demonstrate that charge exchange\nbetween it and Saturn.\"",
+    "start": 196.793,
+    "duration": 3.041
+  },
+  {
+    "text": "Recently, scientific reports\nhave pointed definitively",
+    "start": 199.859,
+    "duration": 3.778
+  },
+  {
+    "text": "toward a non-fluid\ndynamics explanation.",
+    "start": 203.662,
+    "duration": 3.087
+  },
+  {
+    "text": "As reported on September 6\n2018 on sciencealert.com",
+    "start": 206.774,
+    "duration": 5.115
+  },
+  {
+    "text": "\"There's something strange\nover Saturn's north pole.",
+    "start": 211.914,
+    "duration": 3.102
+  },
+  {
+    "text": "A tremendous structure\ntowering high above the clouds",
+    "start": 215.041,
+    "duration": 3.511
+  },
+  {
+    "text": "indicates that the planet's\npeculiar hexagonal formation",
+    "start": 218.577,
+    "duration": 3.55
+  },
+  {
+    "text": "is much, much bigger than\nwas initially apparent.\"",
+    "start": 222.128,
+    "duration": 3.189
+  },
+  {
+    "text": "In 2014, scientists using Cassini's\ncomposite infrared spectrometer",
+    "start": 225.342,
+    "duration": 5.163
+  },
+  {
+    "text": "had begun studying Saturn's\nnorthern stratosphere,",
+    "start": 230.53,
+    "duration": 2.995
+  },
+  {
+    "text": "a region hundreds of kilometers\nabove the atmospheric hexagon.",
+    "start": 233.55,
+    "duration": 3.792
+  },
+  {
+    "text": "The shocking discovery came",
+    "start": 237.367,
+    "duration": 2.106
+  },
+  {
+    "text": "when they began observing a vortex\nfar above the famous hexagon.",
+    "start": 239.498,
+    "duration": 3.785
+  },
+  {
+    "text": "One of the investigators\nsays of their discovery,",
+    "start": 243.308,
+    "duration": 2.971
+  },
+  {
+    "text": "\"As the polar vortex became more and more\nvisible, we noticed it had hexagonal edges,",
+    "start": 246.28,
+    "duration": 5.146
+  },
+  {
+    "text": "and realized that we were\nseeing the pre-existing hexagon",
+    "start": 251.451,
+    "duration": 3.242
+  },
+  {
+    "text": "at much higher altitudes\nthan previously thought.\"",
+    "start": 254.718,
+    "duration": 3.281
+  },
+  {
+    "text": "As acknowledged in the\nScience Alert article,",
+    "start": 258.0,
+    "duration": 2.424
+  },
+  {
+    "text": "\"...since wind conditions change\ndramatically with altitude,",
+    "start": 260.449,
+    "duration": 3.387
+  },
+  {
+    "text": "the fact that the hexagon shape persists\nso much higher than the cloud tops",
+    "start": 263.861,
+    "duration": 4.498
+  },
+  {
+    "text": "is a baffling conundrum.\"",
+    "start": 268.384,
+    "duration": 2.117
+  },
+  {
+    "text": "The Electric Universe\nposition has always been",
+    "start": 270.526,
+    "duration": 3.238
+  },
+  {
+    "text": "that the key to understanding\nSaturn's hexagon",
+    "start": 273.789,
+    "duration": 2.64
+  },
+  {
+    "text": "is the planet's electrical\nconnection to the Sun.",
+    "start": 276.454,
+    "duration": 2.914
+  },
+  {
+    "text": "The so-called magnetic ropes\nthat have been discovered",
+    "start": 279.393,
+    "duration": 3.282
+  },
+  {
+    "text": "stretching the nearly 900 million\nmiles from the Sun to Saturn,",
+    "start": 282.7,
+    "duration": 3.776
+  },
+  {
+    "text": "are one clue to this connection.",
+    "start": 286.501,
+    "duration": 2.343
+  },
+  {
+    "text": "The Sun is primarily an\nelectrical phenomenon",
+    "start": 288.869,
+    "duration": 3.24
+  },
+  {
+    "text": "at the focus of a galactic\n\"glow discharge\"",
+    "start": 292.11,
+    "duration": 3.539
+  },
+  {
+    "text": "and electric currents flowing\nfrom the Sun to planets",
+    "start": 295.674,
+    "duration": 2.902
+  },
+  {
+    "text": "has implications for many\natmospheric phenomena",
+    "start": 298.601,
+    "duration": 2.996
+  },
+  {
+    "text": "including the tremendous\nwinds of gas giant planets",
+    "start": 301.622,
+    "duration": 3.33
+  },
+  {
+    "text": "and also jet streams and\nweather patterns on Earth.",
+    "start": 304.977,
+    "duration": 3.221
+  },
+  {
+    "text": "Based on this perspective, in 2005,\nphysicist Wal Thornhill made a prediction",
+    "start": 308.223,
+    "duration": 5.775
+  },
+  {
+    "text": "that could only seem preposterous\nfrom a conventional viewpoint.",
+    "start": 314.023,
+    "duration": 3.569
+  },
+  {
+    "text": "Thornhill analyzed the mysterious hotspot\nin the vortex at Saturn's South Pole.",
+    "start": 317.617,
+    "duration": 5.074
+  },
+  {
+    "text": "The hotspot puzzled\nplanetary scientists",
+    "start": 322.716,
+    "duration": 2.938
+  },
+  {
+    "text": "because, as described by\nthe Keck Observatory,",
+    "start": 325.679,
+    "duration": 2.904
+  },
+  {
+    "text": "\"...both the distinct boundary of a warm\npolar vortex some 30 degrees latitude",
+    "start": 328.608,
+    "duration": 5.136
+  },
+  {
+    "text": "from the southern pole and a\nvery hot 'tip' right at the pole",
+    "start": 333.769,
+    "duration": 3.1
+  },
+  {
+    "text": "were completely unexpected.\"",
+    "start": 336.894,
+    "duration": 2.307
+  },
+  {
+    "text": "Thornhill wrote of this feature,",
+    "start": 339.226,
+    "duration": 1.834
+  },
+  {
+    "text": "\"Its compactness is due to the\nelectromagnetic pinch effect",
+    "start": 341.085,
+    "duration": 3.412
+  },
+  {
+    "text": "where it enters\nSaturn's atmosphere.\"",
+    "start": 344.522,
+    "duration": 2.237
+  },
+  {
+    "text": "He then stated,",
+    "start": 346.784,
+    "duration": 1.171
+  },
+  {
+    "text": "\"The Electric Universe also\npredicts, experimentum crucis,",
+    "start": 347.98,
+    "duration": 4.095
+  },
+  {
+    "text": "that BOTH poles should be hot,\nnot one hot and the other cold.\"",
+    "start": 352.1,
+    "duration": 4.499
+  },
+  {
+    "text": "In 2008, the Cassini spacecraft\nconfirmed the astonishing prediction.",
+    "start": 356.624,
+    "duration": 5.243
+  },
+  {
+    "text": "Astonishing because the\nfreezing cold North Pole",
+    "start": 361.892,
+    "duration": 2.84
+  },
+  {
+    "text": "had been deprived of sunlight\nfor more than 12 years.",
+    "start": 364.757,
+    "duration": 3.56
+  },
+  {
+    "text": "Thornhill explained,",
+    "start": 368.342,
+    "duration": 1.475
+  },
+  {
+    "text": "\"The polar hot spot and the\nlong-lived hexagonal feature",
+    "start": 369.842,
+    "duration": 3.327
+  },
+  {
+    "text": "result from a continuous\nelectric current",
+    "start": 373.17,
+    "duration": 2.607
+  },
+  {
+    "text": "flowing from the Sun into\nthe pole of Saturn.\"",
+    "start": 375.802,
+    "duration": 2.821
+  },
+  {
+    "text": "On the peculiar hexagonal form, consider\nthe side-by-side images on your screen.",
+    "start": 378.648,
+    "duration": 5.534
+  },
+  {
+    "text": "On the left are vortices of an electron\nbeam etched onto a carbon witness plate.",
+    "start": 384.207,
+    "duration": 5.429
+  },
+  {
+    "text": "On the right are vortices of an electron\nbeam photographed on a fluorescent screen.",
+    "start": 389.661,
+    "duration": 5.361
+  },
+  {
+    "text": "The hexagonal form is a distinct feature\nof a well-documented plasma phenomenon",
+    "start": 395.047,
+    "duration": 5.224
+  },
+  {
+    "text": "called 'The Diocotron Instability'",
+    "start": 400.296,
+    "duration": 2.082
+  },
+  {
+    "text": "and the phenomenon observed in the\nlaboratory is remarkably scalable.",
+    "start": 402.403,
+    "duration": 4.227
+  },
+  {
+    "text": "As noted by Dr. Anthony Peratt in\n'Physics of the Plasma Universe',",
+    "start": 406.655,
+    "duration": 4.52
+  },
+  {
+    "text": "\"The vortices of the diocotron\ninstability are found to occur",
+    "start": 411.2,
+    "duration": 3.698
+  },
+  {
+    "text": "over 12 orders of magnitude\nin beam current.",
+    "start": 414.899,
+    "duration": 3.182
+  },
+  {
+    "text": "This mechanism was first introduced to\nexplain auroral curtains by Hannes Alfvén.\"",
+    "start": 418.106,
+    "duration": 5.578
+  },
+  {
+    "text": "The persistence of the hexagonal feature, hundreds\nof kilometers above the Saturnian clouds,",
+    "start": 423.709,
+    "duration": 5.814
+  },
+  {
+    "text": "is the clearest possible indication it\nis being driven by energy from above",
+    "start": 429.548,
+    "duration": 4.92
+  },
+  {
+    "text": "and cannot be explained\nby simple fluid dynamics.",
+    "start": 434.493,
+    "duration": 3.65
+  },
+  {
+    "text": "But the basic concept of electric\ncurrents flowing from the Sun",
+    "start": 438.168,
+    "duration": 3.983
+  },
+  {
+    "text": "interacting dynamically with\nelectrically charged bodies,",
+    "start": 442.176,
+    "duration": 3.342
+  },
+  {
+    "text": "remains a road to new\ntheoretical pathways",
+    "start": 445.543,
+    "duration": 2.903
+  },
+  {
+    "text": "that planetary scientists\nhave yet to follow.",
+    "start": 448.471,
+    "duration": 3.118
+  }
+]

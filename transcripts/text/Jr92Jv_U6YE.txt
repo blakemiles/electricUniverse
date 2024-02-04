@@ -1,0 +1,762 @@
+[
+  {
+    "text": "You've just entered the\ntheater of an alien sky.",
+    "start": 12.642,
+    "duration": 3.357
+  },
+  {
+    "text": "If the words and images seem strange\nto you, there's a reason for this.",
+    "start": 16.645,
+    "duration": 4.367
+  },
+  {
+    "text": "Our world was once a\nvastly different place.",
+    "start": 21.037,
+    "duration": 4.635
+  },
+  {
+    "text": "To experience this won't hurt you\nand there is nothing to fear.",
+    "start": 25.697,
+    "duration": 7.442
+  },
+  {
+    "text": "Invitation to Jordan Peterson",
+    "start": 34.152,
+    "duration": 5.772
+  },
+  {
+    "text": "Tonight's talk, this is the most popular\ntalk we've ever done in 15 years.",
+    "start": 40.909,
+    "duration": 4.671
+  },
+  {
+    "text": "Please welcome one of the world's great\npublic intellectuals, Jordan Peterson!",
+    "start": 45.605,
+    "duration": 4.836
+  },
+  {
+    "text": "Well, that was nice.",
+    "start": 55.638,
+    "duration": 2.753
+  },
+  {
+    "text": "It's not surprising that we've been asked\nto comment on the YouTube presence",
+    "start": 59.473,
+    "duration": 4.137
+  },
+  {
+    "text": "of Canadian psychologist\nJordan Peterson.",
+    "start": 63.635,
+    "duration": 3.237
+  },
+  {
+    "text": "It seems his star rose spectacularly\nafter a record-setting interview",
+    "start": 66.897,
+    "duration": 4.561
+  },
+  {
+    "text": "with Britain's Channel\n4 host Kathy Newman.",
+    "start": 71.483,
+    "duration": 3.796
+  },
+  {
+    "text": "Posted on YouTube in January, the interview\nattracted over 11 million views",
+    "start": 75.28,
+    "duration": 5.402
+  },
+  {
+    "text": "in about six months",
+    "start": 80.707,
+    "duration": 1.393
+  },
+  {
+    "text": "with an overwhelmingly\npositive rating,",
+    "start": 82.125,
+    "duration": 2.427
+  },
+  {
+    "text": "not to mention the multitude of repostings\nof the same or similar material",
+    "start": 84.577,
+    "duration": 4.652
+  },
+  {
+    "text": "garnering up to a\nmillion views each.",
+    "start": 89.254,
+    "duration": 2.92
+  },
+  {
+    "text": "Prior to this remarkable turn, there\nwas little to distinguish Peterson",
+    "start": 92.199,
+    "duration": 4.024
+  },
+  {
+    "text": "from other qualified\npresenters on YouTube.",
+    "start": 96.248,
+    "duration": 2.751
+  },
+  {
+    "text": "But now when Peterson gives public\npresentations auditoriums sell out.",
+    "start": 99.024,
+    "duration": 5.282
+  },
+  {
+    "text": "Just one cautionary\nnote is required here.",
+    "start": 104.331,
+    "duration": 3.341
+  },
+  {
+    "text": "Though Peterson is most definitely not\nan evangelist for any religious view,",
+    "start": 107.697,
+    "duration": 4.71
+  },
+  {
+    "text": "he does single out the dominant religion\nof the Western world, Christianity,",
+    "start": 112.432,
+    "duration": 4.645
+  },
+  {
+    "text": "as an indispensable\nforce in our culture.",
+    "start": 117.102,
+    "duration": 2.823
+  },
+  {
+    "text": "And he frequently states his personal\nview that civilization would collapse",
+    "start": 119.95,
+    "duration": 4.454
+  },
+  {
+    "text": "were a culture to fully abandon\nits broad religious heritage.",
+    "start": 124.429,
+    "duration": 4.231
+  },
+  {
+    "text": "Due to the diversity of people\ncontributing to the Thunderbolts Project,",
+    "start": 128.685,
+    "duration": 4.227
+  },
+  {
+    "text": "we've avoided contemporary\npolitics and religion",
+    "start": 132.937,
+    "duration": 2.963
+  },
+  {
+    "text": "when discussing the\nElectric Universe movement.",
+    "start": 135.925,
+    "duration": 2.883
+  },
+  {
+    "text": "After many years of observing this rule, we\ncan now say that without this constraint",
+    "start": 138.833,
+    "duration": 4.884
+  },
+  {
+    "text": "the Thunderbolts Project\ncould never have emerged",
+    "start": 143.742,
+    "duration": 2.869
+  },
+  {
+    "text": "as the most popular internet voice\nof the Electric Universe idea.",
+    "start": 146.636,
+    "duration": 4.563
+  },
+  {
+    "text": "So we've asked ourselves how to\nrespond to our own supporters",
+    "start": 151.224,
+    "duration": 3.856
+  },
+  {
+    "text": "urging us to take up\nPeterson and his work.",
+    "start": 155.105,
+    "duration": 2.968
+  },
+  {
+    "text": "The answer has come from looking more closely\nat how he acquired his current perspective.",
+    "start": 158.098,
+    "duration": 4.99
+  },
+  {
+    "text": "His academic training placed an\nemphasis on the mythic archetypes,",
+    "start": 163.113,
+    "duration": 4.325
+  },
+  {
+    "text": "the deepest structures of human\nthought in ancient times",
+    "start": 167.463,
+    "duration": 3.57
+  },
+  {
+    "text": "echoing across all\nof human history",
+    "start": 171.058,
+    "duration": 2.454
+  },
+  {
+    "text": "and continuing to\ninfluence our world today.",
+    "start": 173.537,
+    "duration": 3.001
+  },
+  {
+    "text": "By their cultural impact,\nPeterson observes,",
+    "start": 176.563,
+    "duration": 3.239
+  },
+  {
+    "text": "the archetypes have provided\nguidelines to humanity",
+    "start": 179.827,
+    "duration": 3.514
+  },
+  {
+    "text": "inspiring people to live productively\nand responsibly in the world.",
+    "start": 183.366,
+    "duration": 4.784
+  },
+  {
+    "text": "Though we don't have an answer to offer on\ncontemporary religious and political questions,",
+    "start": 188.816,
+    "duration": 5.173
+  },
+  {
+    "text": "we've noted that Peterson's\nhistoric subject matter",
+    "start": 194.014,
+    "duration": 2.857
+  },
+  {
+    "text": "is pretty close to that\nof psychologist Carl Jung",
+    "start": 196.896,
+    "duration": 3.108
+  },
+  {
+    "text": "who saw in the world's great myths a\nrepeated presence of certain first forms",
+    "start": 200.029,
+    "duration": 5.24
+  },
+  {
+    "text": "evident in the early expressions\nof human consciousness.",
+    "start": 205.294,
+    "duration": 3.733
+  },
+  {
+    "text": "By archetypes Jung meant deeply\nembedded recurrent patterns",
+    "start": 209.052,
+    "duration": 4.346
+  },
+  {
+    "text": "of sacred beliefs and\npractices the world over.",
+    "start": 213.423,
+    "duration": 3.464
+  },
+  {
+    "text": "Bringing the ancient mythic and\nsymbolic structures to light",
+    "start": 216.912,
+    "duration": 3.791
+  },
+  {
+    "text": "became the first priority in Jung's\napproach to human psychology.",
+    "start": 220.728,
+    "duration": 4.718
+  },
+  {
+    "text": "So we see in Peterson's presentations\na clearly stated respect for Jung",
+    "start": 226.392,
+    "duration": 5.044
+  },
+  {
+    "text": "and for such comparative\nmythologists as Joseph Campbell.",
+    "start": 231.461,
+    "duration": 4.203
+  },
+  {
+    "text": "And it's worth emphasizing that\nmost comparative mythology",
+    "start": 235.689,
+    "duration": 3.478
+  },
+  {
+    "text": "does not require a student\nof ancient history",
+    "start": 239.192,
+    "duration": 2.773
+  },
+  {
+    "text": "to know how an archetype arose.",
+    "start": 241.99,
+    "duration": 2.247
+  },
+  {
+    "text": "What really counts, they would say,\nis the archetype's cultural function.",
+    "start": 244.262,
+    "duration": 4.578
+  },
+  {
+    "text": "One discerns its role as the culture\nstrives to affirm its own identity",
+    "start": 249.504,
+    "duration": 4.976
+  },
+  {
+    "text": "in a changing world.",
+    "start": 254.505,
+    "duration": 2.388
+  },
+  {
+    "text": "But for us, there is also a deeper\nlevel of analysis available,",
+    "start": 257.509,
+    "duration": 4.249
+  },
+  {
+    "text": "one almost never expressed in popular\ntreatments of the archetypes.",
+    "start": 261.783,
+    "duration": 4.52
+  },
+  {
+    "text": "Our claim is that the real\nobstacle to deeper insight",
+    "start": 266.328,
+    "duration": 3.764
+  },
+  {
+    "text": "is the one that prevents an investigator from\nseeing what will ultimately become obvious.",
+    "start": 270.117,
+    "duration": 5.972
+  },
+  {
+    "text": "The archetypes did not originate\nin today's natural world",
+    "start": 276.114,
+    "duration": 4.163
+  },
+  {
+    "text": "nor did they emerge\nfrom a vacuum.",
+    "start": 280.302,
+    "duration": 2.36
+  },
+  {
+    "text": "They arose as the\neffect of a prior cause.",
+    "start": 282.687,
+    "duration": 3.477
+  },
+  {
+    "text": "A prior cause within a natural order\nthat disappeared thousands of years ago.",
+    "start": 286.189,
+    "duration": 6.303
+  },
+  {
+    "text": "If we're correct in this\nfundamental conclusion,",
+    "start": 293.443,
+    "duration": 3.052
+  },
+  {
+    "text": "just imagine the scale of the disconnect when\ntrying to comprehend the ancient archetypes",
+    "start": 296.52,
+    "duration": 5.568
+  },
+  {
+    "text": "in terms of familiar\nnatural experience today.",
+    "start": 302.089,
+    "duration": 3.318
+  },
+  {
+    "text": "All we'll have available to us are the\nlater projections of mythic themes",
+    "start": 305.408,
+    "duration": 5.077
+  },
+  {
+    "text": "onto fragments of\nthe natural world",
+    "start": 310.51,
+    "duration": 2.428
+  },
+  {
+    "text": "while the original provocation\nremains forever elusive.",
+    "start": 312.939,
+    "duration": 4.689
+  },
+  {
+    "text": "Well the remarkable truth is that by following\nrational ground rules for comparative analysis,",
+    "start": 317.653,
+    "duration": 6.024
+  },
+  {
+    "text": "hundreds of archetypes can\nbe reliably identified",
+    "start": 323.678,
+    "duration": 3.693
+  },
+  {
+    "text": "and not just by their\nown essential qualities",
+    "start": 327.396,
+    "duration": 3.383
+  },
+  {
+    "text": "but by seeing them in terms of\norigin and timeless significance.",
+    "start": 330.804,
+    "duration": 4.467
+  },
+  {
+    "text": "All archetypes have a direct connection\nto an extraordinary natural experience",
+    "start": 335.296,
+    "duration": 5.208
+  },
+  {
+    "text": "and all are inseparably\nconnected to each other",
+    "start": 340.529,
+    "duration": 3.188
+  },
+  {
+    "text": "with no more than two or three degrees\nof separation between any of them.",
+    "start": 343.718,
+    "duration": 5.541
+  },
+  {
+    "text": "With this specificity in\nfront of us, we can assure",
+    "start": 352.529,
+    "duration": 3.083
+  },
+  {
+    "text": "anyone coming into this\ndiscussion for the first time",
+    "start": 355.637,
+    "duration": 3.305
+  },
+  {
+    "text": "that the answers given will not\nallow us to simply perpetuate",
+    "start": 358.967,
+    "duration": 4.055
+  },
+  {
+    "text": "modern-day interpretations\nof ancient myths and symbols.",
+    "start": 363.047,
+    "duration": 4.285
+  },
+  {
+    "text": "And so we've stated our conclusion\nemphatically and repeatedly",
+    "start": 367.357,
+    "duration": 4.291
+  },
+  {
+    "text": "that the archetypes point\nback to a former time.",
+    "start": 371.673,
+    "duration": 3.587
+  },
+  {
+    "text": "And the most persuasive answer requires the\nclearest connection between cause and effect",
+    "start": 375.285,
+    "duration": 5.967
+  },
+  {
+    "text": "as the cause itself becomes\nlogically inescapable.",
+    "start": 381.277,
+    "duration": 3.681
+  },
+  {
+    "text": "That's it, we will then say.",
+    "start": 384.959,
+    "duration": 2.349
+  },
+  {
+    "text": "But next comes the greatest challenge\narising from a vast field of evidence,",
+    "start": 387.333,
+    "duration": 5.331
+  },
+  {
+    "text": "confirming that each and every\narchetype arose explosively",
+    "start": 392.689,
+    "duration": 4.174
+  },
+  {
+    "text": "in response to earth-shaking\nand mind-altering events.",
+    "start": 396.888,
+    "duration": 4.027
+  },
+  {
+    "text": "To many newcomers that proposed\ncause will seem preposterous.",
+    "start": 400.94,
+    "duration": 4.377
+  },
+  {
+    "text": "Yet after decades of\nsystematic research,",
+    "start": 405.342,
+    "duration": 3.502
+  },
+  {
+    "text": "we have never found any other\nplausible cause of a single archetype.",
+    "start": 408.869,
+    "duration": 5.594
+  },
+  {
+    "text": "And that means no justification\nfor ignoring the cause",
+    "start": 414.488,
+    "duration": 3.912
+  },
+  {
+    "text": "that fits the evidence precisely.",
+    "start": 418.425,
+    "duration": 3.021
+  },
+  {
+    "text": "For those close to The\nThunderbolts Project,",
+    "start": 421.471,
+    "duration": 2.883
+  },
+  {
+    "text": "the greatest surprise has come from the\npredictive ability of the reconstruction offered.",
+    "start": 424.379,
+    "duration": 4.919
+  },
+  {
+    "text": "What one would expect to find within\nthe framework proposed, one does find.",
+    "start": 429.323,
+    "duration": 5.638
+  },
+  {
+    "text": "In this regard, it seems that Jordan\nPeterson himself has delivered to us",
+    "start": 434.986,
+    "duration": 4.744
+  },
+  {
+    "text": "several examples\nwell worth exploring.",
+    "start": 439.755,
+    "duration": 2.804
+  },
+  {
+    "text": "In number 7 of his Maps of Meaning\nseries he takes up what some have called",
+    "start": 442.56,
+    "duration": 4.837
+  },
+  {
+    "text": "The Consilience Test for assessing\nthe overall integrity of an idea.",
+    "start": 447.422,
+    "duration": 4.665
+  },
+  {
+    "text": "That test becomes\nparticularly useful",
+    "start": 452.112,
+    "duration": 2.986
+  },
+  {
+    "text": "when a novel idea reaches across multiple\nlayers or patterns of fact, he states.",
+    "start": 455.123,
+    "duration": 5.611
+  },
+  {
+    "text": "Of course, we've drawn\non this very principle",
+    "start": 460.759,
+    "duration": 2.52
+  },
+  {
+    "text": "when we proposed what we've called the acid\ntest of the historic polar configuration --",
+    "start": 463.304,
+    "duration": 5.603
+  },
+  {
+    "text": "the centerpiece of\nour reconstruction.",
+    "start": 468.932,
+    "duration": 2.701
+  },
+  {
+    "text": "Do the mythic archetypes\nbecome predictable",
+    "start": 471.658,
+    "duration": 3.248
+  },
+  {
+    "text": "when seen from the perspective\nof this evolving configuration?",
+    "start": 474.931,
+    "duration": 3.615
+  },
+  {
+    "text": "Our claim has been that hundreds of\narchetypes meet the acid tests unequivocally.",
+    "start": 478.571,
+    "duration": 5.628
+  },
+  {
+    "text": "A level of specificity that could\nnot be possible by cherry-picking.",
+    "start": 484.224,
+    "duration": 5.106
+  },
+  {
+    "text": "When comparing our claims to\nPeterson's tests of consilience,",
+    "start": 489.355,
+    "duration": 4.288
+  },
+  {
+    "text": "one difference should be noted",
+    "start": 493.668,
+    "duration": 2.077
+  },
+  {
+    "text": "and this difference shows up in virtually all\ncomparative studies of the mythic archetypes.",
+    "start": 495.77,
+    "duration": 5.062
+  },
+  {
+    "text": "The more familiar studies, such as the\nhighly popular work of Joseph Campbell,",
+    "start": 500.857,
+    "duration": 4.78
+  },
+  {
+    "text": "invariably stop short of anything\nthat could be called an explanation.",
+    "start": 505.662,
+    "duration": 4.586
+  },
+  {
+    "text": "While describing\nundeniable patterns,",
+    "start": 510.273,
+    "duration": 3.141
+  },
+  {
+    "text": "they do not penetrate to a\nproposed origin or first cause.",
+    "start": 513.439,
+    "duration": 4.501
+  },
+  {
+    "text": "The archetypes are simply there as a\nprofound influence on human conduct",
+    "start": 517.965,
+    "duration": 5.06
+  },
+  {
+    "text": "and cultural evolution over time.",
+    "start": 523.05,
+    "duration": 3.068
+  },
+  {
+    "text": "But this is where our challenge to today's\nmost pervasive scientific illusion",
+    "start": 527.054,
+    "duration": 5.203
+  },
+  {
+    "text": "enters the picture.",
+    "start": 532.282,
+    "duration": 1.277
+  },
+  {
+    "text": "The illusion that we've called\nthe uniformity principle.",
+    "start": 533.584,
+    "duration": 3.566
+  },
+  {
+    "text": "Others have called\nit uniformitarianism.",
+    "start": 537.175,
+    "duration": 3.161
+  },
+  {
+    "text": "The uniformity principle suggests to\nastronomers and planetary scientists",
+    "start": 540.361,
+    "duration": 5.402
+  },
+  {
+    "text": "that they can retro-calculate the\nposition of any planet in the ancient sky",
+    "start": 545.788,
+    "duration": 4.578
+  },
+  {
+    "text": "at any historical juncture based\non today's planetary motions.",
+    "start": 550.391,
+    "duration": 5.116
+  },
+  {
+    "text": "They will not realize that in\nthe 19th and 20th centuries,",
+    "start": 555.532,
+    "duration": 3.722
+  },
+  {
+    "text": "this disregard for\nancient testimony",
+    "start": 559.279,
+    "duration": 2.52
+  },
+  {
+    "text": "was the greatest mistake\nof modern science.",
+    "start": 561.824,
+    "duration": 2.662
+  },
+  {
+    "text": "A mistake that continues to echo through\nall of the scientific disciplines today.",
+    "start": 564.511,
+    "duration": 5.129
+  },
+  {
+    "text": "Of course when living in\nthe shadow of this mistake,",
+    "start": 570.906,
+    "duration": 2.988
+  },
+  {
+    "text": "the very idea of Earth-\naltering events in the past",
+    "start": 573.919,
+    "duration": 3.593
+  },
+  {
+    "text": "will appear preposterous.",
+    "start": 577.537,
+    "duration": 1.918
+  },
+  {
+    "text": "But allow the ancient\nwitnesses to speak",
+    "start": 579.48,
+    "duration": 2.907
+  },
+  {
+    "text": "and a vastly different\nsky will reveal itself.",
+    "start": 582.412,
+    "duration": 3.65
+  },
+  {
+    "text": "We've proposed that all\nof world mythology,",
+    "start": 586.545,
+    "duration": 2.699
+  },
+  {
+    "text": "all of the enchanting stories and symbols and\ncommemorative practices that have come down to us",
+    "start": 589.269,
+    "duration": 5.901
+  },
+  {
+    "text": "are explained by an ancient\ngathering of planets close to Earth.",
+    "start": 595.195,
+    "duration": 4.077
+  },
+  {
+    "text": "We make that claim based\non global evidence.",
+    "start": 599.297,
+    "duration": 3.484
+  },
+  {
+    "text": "Yes, in innumerable instances\nevidence is remarkably explicit,",
+    "start": 604.33,
+    "duration": 4.935
+  },
+  {
+    "text": "but explicit will not mean obvious\nto a person looking somewhere else.",
+    "start": 609.29,
+    "duration": 4.924
+  },
+  {
+    "text": "No one could explain or has\never explained the archetypes",
+    "start": 614.239,
+    "duration": 3.74
+  },
+  {
+    "text": "in the absence of an\nextraordinary human experience.",
+    "start": 618.004,
+    "duration": 3.023
+  },
+  {
+    "text": "And that's the historical truth we'll\ncontinue to highlight in these Discourses.",
+    "start": 621.052,
+    "duration": 5.387
+  },
+  {
+    "text": "It's also why we\ninvite Jordan Peterson",
+    "start": 626.464,
+    "duration": 2.752
+  },
+  {
+    "text": "who's contributed so much to public\ndiscussion of the archetypes,",
+    "start": 629.241,
+    "duration": 3.651
+  },
+  {
+    "text": "to join us in a common exploration of\nfirst causes and their implications.",
+    "start": 632.917,
+    "duration": 5.531
+  },
+  {
+    "text": "Few sciences or social sciences\ncould possibly escape the effects",
+    "start": 638.473,
+    "duration": 4.878
+  },
+  {
+    "text": "that followed from the most fundamental\ntheoretical error in our time.",
+    "start": 643.376,
+    "duration": 5.777
+  }
+]

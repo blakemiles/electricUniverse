@@ -1,0 +1,882 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe,",
+    "start": 7.18,
+    "duration": 2.9
+  },
+  {
+    "text": "brought to you by The\nThunderbolts Project™",
+    "start": 10.1,
+    "duration": 2.35
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 12.48,
+    "duration": 2.39
+  },
+  {
+    "text": "In recent years, an incredible development\nhas transpired in the space sciences.",
+    "start": 18.92,
+    "duration": 5.72
+  },
+  {
+    "text": "Mainstream astronomical literature\nnow rather routinely acknowledges",
+    "start": 24.67,
+    "duration": 4.48
+  },
+  {
+    "text": "the existence of electric\ncurrents in space.",
+    "start": 29.17,
+    "duration": 3.18
+  },
+  {
+    "text": "But the question is, how significant\na role do these electric currents play",
+    "start": 32.37,
+    "duration": 4.31
+  },
+  {
+    "text": "in the dynamics of the universe?",
+    "start": 36.71,
+    "duration": 1.98
+  },
+  {
+    "text": "In our most recent Space News,",
+    "start": 38.72,
+    "duration": 2.22
+  },
+  {
+    "text": "we reported on the discovery of a\nradio-emitting plasma filament",
+    "start": 40.96,
+    "duration": 3.89
+  },
+  {
+    "text": "which connects two\ngalaxy clusters.",
+    "start": 44.88,
+    "duration": 2.49
+  },
+  {
+    "text": "If electric currents connect celestial\nobjects at such vast cosmic distances,",
+    "start": 47.4,
+    "duration": 5.05
+  },
+  {
+    "text": "as plasma cosmologists have\nproposed for decades,",
+    "start": 52.48,
+    "duration": 3.08
+  },
+  {
+    "text": "then how might we also detect electric\ncurrrents in our own celestial neighborhood?",
+    "start": 55.58,
+    "duration": 5.26
+  },
+  {
+    "text": "Today, physicist Eugene\nBagashov and several colleagues",
+    "start": 60.87,
+    "duration": 3.39
+  },
+  {
+    "text": "are attempting to\nanswer this question",
+    "start": 64.29,
+    "duration": 1.94
+  },
+  {
+    "text": "through a detailed analysis of the\nconditions near our solar system.",
+    "start": 66.25,
+    "duration": 4.12
+  },
+  {
+    "text": "In part 3 of this four-\npart presentation,",
+    "start": 70.4,
+    "duration": 2.7
+  },
+  {
+    "text": "Eugene continues his discussion\non the evidence for plasma currents",
+    "start": 73.13,
+    "duration": 3.98
+  },
+  {
+    "text": "connecting our solar system with\nthe nearby interstellar environment.",
+    "start": 77.13,
+    "duration": 4.05
+  },
+  {
+    "text": "Let's examine some other evidence that\nthe local interstellar chimney structure,",
+    "start": 81.8,
+    "duration": 4.11
+  },
+  {
+    "text": "where our solar system is situated,\nrepresents a large scale plasma filament.",
+    "start": 85.93,
+    "duration": 5.04
+  },
+  {
+    "text": "One of the interesting pieces of evidence is\nthe existence of the so-called Gould Belt,",
+    "start": 90.99,
+    "duration": 4.55
+  },
+  {
+    "text": "the belt of bright stars, molecular\nclouds and star-forming regions",
+    "start": 95.56,
+    "duration": 4.05
+  },
+  {
+    "text": "encircling the Sun at an average\ndistance of about 1,000 light years",
+    "start": 99.64,
+    "duration": 3.82
+  },
+  {
+    "text": "and having a thickness of\nabout 2,000 light-years.",
+    "start": 103.49,
+    "duration": 3.31
+  },
+  {
+    "text": "Perhaps the most fascinating\nfeature of that belt,",
+    "start": 106.83,
+    "duration": 2.63
+  },
+  {
+    "text": "if we look at it in\ngalactic coordinates,",
+    "start": 109.49,
+    "duration": 2.22
+  },
+  {
+    "text": "is that it doesn't quite coincide\nwith the galactic equator,",
+    "start": 111.73,
+    "duration": 3.32
+  },
+  {
+    "text": "that is the galactic disk,",
+    "start": 115.08,
+    "duration": 1.58
+  },
+  {
+    "text": "but is tilted with respect to it to\nan angle of 18 degrees or about so.",
+    "start": 116.69,
+    "duration": 4.93
+  },
+  {
+    "text": "In galactic coordinates, it makes\nit look like a sine wave",
+    "start": 121.65,
+    "duration": 3.2
+  },
+  {
+    "text": "with an amplitude of 18 degrees.",
+    "start": 124.87,
+    "duration": 2.41
+  },
+  {
+    "text": "This structure seems to be the\nlargest of such sort in our vicinity,",
+    "start": 127.31,
+    "duration": 3.86
+  },
+  {
+    "text": "so it's not quite clear how it came\nto be and why is it tilted that way.",
+    "start": 131.19,
+    "duration": 4.95
+  },
+  {
+    "text": "But, as we've previously seen,",
+    "start": 136.17,
+    "duration": 1.91
+  },
+  {
+    "text": "the local chimney is also not strictly\nperpendicular to the galactic plane",
+    "start": 138.11,
+    "duration": 3.73
+  },
+  {
+    "text": "but slightly tilted.",
+    "start": 141.86,
+    "duration": 1.41
+  },
+  {
+    "text": "And if we compare the relative positions\nof the Gould Belt and the local chimney,",
+    "start": 143.29,
+    "duration": 4.23
+  },
+  {
+    "text": "it would become clear that the Belt,\nsort of, wraps around the chimney",
+    "start": 147.54,
+    "duration": 3.68
+  },
+  {
+    "text": "and is most likely related to it, rather than\nthe larger structure of the galaxy itself.",
+    "start": 151.24,
+    "duration": 5.33
+  },
+  {
+    "text": "Moreover, the whole structure of the\nChimney, plus the Gould Belt around it",
+    "start": 156.59,
+    "duration": 4.06
+  },
+  {
+    "text": "would immediately start to resemble\nthe famous Squatterman Figure,",
+    "start": 160.67,
+    "duration": 3.62
+  },
+  {
+    "text": "a typical shape produced\nby the plasma discharge.",
+    "start": 164.32,
+    "duration": 3.3
+  },
+  {
+    "text": "We see a current\ncolumn in the center",
+    "start": 167.65,
+    "duration": 2.24
+  },
+  {
+    "text": "that widens at the bigger distances\nup and down from the center",
+    "start": 169.91,
+    "duration": 3.35
+  },
+  {
+    "text": "and we see the torus around it\nrepresented by the Gould Belt.",
+    "start": 173.28,
+    "duration": 3.83
+  },
+  {
+    "text": "Take another look at this picture\nand you'll see what I mean.",
+    "start": 177.13,
+    "duration": 3.12
+  },
+  {
+    "text": "The characteristic circles are there\non both sides of the chimney.",
+    "start": 180.28,
+    "duration": 3.8
+  },
+  {
+    "text": "In my opinion, it is highly unlikely\nthat such a configuration",
+    "start": 184.11,
+    "duration": 3.3
+  },
+  {
+    "text": "was produced by some chaotic\ngravitational interactions.",
+    "start": 187.43,
+    "duration": 3.92
+  },
+  {
+    "text": "Moreover, another prominent structure\nof the so-called Lockman Hole",
+    "start": 191.37,
+    "duration": 4.05
+  },
+  {
+    "text": "coincides with the axis\nof the local chimney.",
+    "start": 195.45,
+    "duration": 2.91
+  },
+  {
+    "text": "Lockman Hole is defined as a region of a\nmuch lower density of neutral hydrogen,",
+    "start": 198.39,
+    "duration": 4.68
+  },
+  {
+    "text": "so it looks much more transparent in\nextreme ultraviolet and soft X-ray range",
+    "start": 203.1,
+    "duration": 4.68
+  },
+  {
+    "text": "and it doesn't glow as much\nitself in the infrared.",
+    "start": 207.81,
+    "duration": 3.62
+  },
+  {
+    "text": "But it might just be the case that the very fact\nthat there's not much neutral material there,",
+    "start": 211.45,
+    "duration": 4.72
+  },
+  {
+    "text": "is only the consequence\nof a higher ionization.",
+    "start": 216.19,
+    "duration": 3.11
+  },
+  {
+    "text": "There's a stronger current shooting\nnear the center of the local chimney",
+    "start": 219.32,
+    "duration": 3.66
+  },
+  {
+    "text": "so we don't see many\nneutral atoms along its way.",
+    "start": 223.01,
+    "duration": 3.17
+  },
+  {
+    "text": "One might also look at the parameter\ncalled the Interstellar Extinction.",
+    "start": 226.2,
+    "duration": 3.99
+  },
+  {
+    "text": "and has nothing to do with mass\ndie-offs of species or something.",
+    "start": 230.22,
+    "duration": 3.85
+  },
+  {
+    "text": "It means the extinction of light",
+    "start": 234.1,
+    "duration": 1.84
+  },
+  {
+    "text": "that is its absorption or scattering\nby the interestellar dust or atoms.",
+    "start": 235.97,
+    "duration": 4.47
+  },
+  {
+    "text": "So if we look at both galactic\nhemispheres, north and south",
+    "start": 240.47,
+    "duration": 3.49
+  },
+  {
+    "text": "and measure this\nparameter across the sky,",
+    "start": 243.98,
+    "duration": 2.34
+  },
+  {
+    "text": "we'd see that right near the\ngalactic north and south,",
+    "start": 246.34,
+    "duration": 2.99
+  },
+  {
+    "text": "perpendicular to the galactic plane,\nthere are quite prominent clearings",
+    "start": 249.35,
+    "duration": 3.73
+  },
+  {
+    "text": "represented by the black\nplumes on this picture.",
+    "start": 253.1,
+    "duration": 2.77
+  },
+  {
+    "text": "The northern one, which you can see on\nthe left, is exactly a Lockman Hole.",
+    "start": 255.9,
+    "duration": 4.34
+  },
+  {
+    "text": "It's evident that both of them more or\nless coincide with galactic north and south",
+    "start": 260.27,
+    "duration": 4.19
+  },
+  {
+    "text": "but not quite, they are slightly\ntilted, just like the chimney axis is.",
+    "start": 264.49,
+    "duration": 4.57
+  },
+  {
+    "text": "So they represent exactly that, the openings\nof the tube-like local chimney structure",
+    "start": 269.08,
+    "duration": 4.9
+  },
+  {
+    "text": "into the space below and\nabove the galactic disk.",
+    "start": 274.01,
+    "duration": 2.84
+  },
+  {
+    "text": "The existence of these clearings has been\nquite an asset for extragalactic astronomy",
+    "start": 276.88,
+    "duration": 4.75
+  },
+  {
+    "text": "as they represent the more or less transparent\nwindows into the outer universe.",
+    "start": 281.66,
+    "duration": 5.27
+  },
+  {
+    "text": "Perhaps another piece of\nevidence for plasma processes",
+    "start": 286.96,
+    "duration": 2.9
+  },
+  {
+    "text": "might be various anomalous readings\nof chemical compositions of stars,",
+    "start": 289.88,
+    "duration": 3.75
+  },
+  {
+    "text": "both in our vicinity and\nin the farther cosmos.",
+    "start": 293.65,
+    "duration": 3.38
+  },
+  {
+    "text": "Again, Pleiades cluster\nmay be a great example,",
+    "start": 297.06,
+    "duration": 2.92
+  },
+  {
+    "text": "but as some of the\npapers indicate,",
+    "start": 300.0,
+    "duration": 1.84
+  },
+  {
+    "text": "the problem seems to persist\nfor stellar clusters in general.",
+    "start": 301.86,
+    "duration": 3.69
+  },
+  {
+    "text": "The spectral characteristics\nof even the most typical stars",
+    "start": 305.58,
+    "duration": 3.14
+  },
+  {
+    "text": "somehow often violate\nthe expectations,",
+    "start": 308.74,
+    "duration": 2.97
+  },
+  {
+    "text": "and perhaps it may all be\ntied to their positions",
+    "start": 311.73,
+    "duration": 2.81
+  },
+  {
+    "text": "with respect to the surrounding\nfilamentary structures.",
+    "start": 314.56,
+    "duration": 3.01
+  },
+  {
+    "text": "Some works have actually directly stated\nthat the anomalous stellar chemistry",
+    "start": 317.59,
+    "duration": 4.3
+  },
+  {
+    "text": "might be linked to the larger scale magnetic\nfields in the corresponding regions.",
+    "start": 321.91,
+    "duration": 4.55
+  },
+  {
+    "text": "One of the mechanisms of production\nof these chemical anomalies,",
+    "start": 326.48,
+    "duration": 3.42
+  },
+  {
+    "text": "as Don Scott himself indicates\nin one of his papers,",
+    "start": 329.93,
+    "duration": 3.28
+  },
+  {
+    "text": "might be in the so-called\nMarklund Convection,",
+    "start": 333.24,
+    "duration": 2.44
+  },
+  {
+    "text": "the sorting of the chemical elements\nin a Birkeland current column,",
+    "start": 335.7,
+    "duration": 3.45
+  },
+  {
+    "text": "according to their\nionization potential.",
+    "start": 339.17,
+    "duration": 2.48
+  },
+  {
+    "text": "In fact, that might be one of the\nreasons why there's less hydrogen",
+    "start": 341.67,
+    "duration": 3.62
+  },
+  {
+    "text": "in the center of the\nlocal chimney column,",
+    "start": 345.31,
+    "duration": 2.13
+  },
+  {
+    "text": "just because, according to\nMarklund, Alfven and Scott,",
+    "start": 347.46,
+    "duration": 3.24
+  },
+  {
+    "text": "hydrogen would prefer to gather at\nthe outermost shells of the chimney,",
+    "start": 350.72,
+    "duration": 3.83
+  },
+  {
+    "text": "sorted out by the\nconvection in plasma.",
+    "start": 354.58,
+    "duration": 3.34
+  },
+  {
+    "text": "That way or another, this mechanism\ndefinitely deserves a lot of attention",
+    "start": 357.94,
+    "duration": 3.93
+  },
+  {
+    "text": "with regards to\nstellar chemistry,",
+    "start": 361.89,
+    "duration": 1.82
+  },
+  {
+    "text": "and plasma filaments might just be the right\ntool that the astrophysics was missing so far",
+    "start": 363.74,
+    "duration": 4.63
+  },
+  {
+    "text": "to explain many of these\nobserved peculiarities.",
+    "start": 368.4,
+    "duration": 3.68
+  },
+  {
+    "text": "Another evidence for the actual existence\nof the plasma currents in the local chimney",
+    "start": 372.1,
+    "duration": 4.46
+  },
+  {
+    "text": "might be represented by the\nscattering of the radio waves.",
+    "start": 376.59,
+    "duration": 3.29
+  },
+  {
+    "text": "It has been previously\nshown that this process,",
+    "start": 379.91,
+    "duration": 2.58
+  },
+  {
+    "text": "which depends on the properties\nof interstellar medium,",
+    "start": 382.51,
+    "duration": 2.75
+  },
+  {
+    "text": "does not occur homogenously in\nthe area of the local chimney.",
+    "start": 385.29,
+    "duration": 3.77
+  },
+  {
+    "text": "Which would mean that there are areas\nof higher and lower plasma density",
+    "start": 389.08,
+    "duration": 3.76
+  },
+  {
+    "text": "and perhaps, current strength.",
+    "start": 392.87,
+    "duration": 1.7
+  },
+  {
+    "text": "Speaking of current strength, one of\nthe hypotheses in the Electric Universe",
+    "start": 394.59,
+    "duration": 4.46
+  },
+  {
+    "text": "is the possible relation of the\nbrightness and temperature of the stars",
+    "start": 399.07,
+    "duration": 3.55
+  },
+  {
+    "text": "to the current density of the plasma\nfilaments that interact with them.",
+    "start": 402.65,
+    "duration": 3.88
+  },
+  {
+    "text": "In that regard, I wish to\nbring up an interesting paper",
+    "start": 406.55,
+    "duration": 3.16
+  },
+  {
+    "text": "that discusses the changes in measured\ntemperature of the star Arcturus,",
+    "start": 409.74,
+    "duration": 3.83
+  },
+  {
+    "text": "the brightest star in the\nnorthern celestial hemisphere,",
+    "start": 413.6,
+    "duration": 3.15
+  },
+  {
+    "text": "over the span of\nseveral decades.",
+    "start": 416.78,
+    "duration": 2.26
+  },
+  {
+    "text": "The graph given in this\npaper is quite astonishing.",
+    "start": 419.06,
+    "duration": 3.39
+  },
+  {
+    "text": "It almost seems like the temperature\nof the star was steadily rising",
+    "start": 422.47,
+    "duration": 3.52
+  },
+  {
+    "text": "over a very short time span,\nat least in astrophysical terms.",
+    "start": 426.01,
+    "duration": 4.22
+  },
+  {
+    "text": "I haven't seen any explanations for that\naccording to the current astrophysical models,",
+    "start": 430.25,
+    "duration": 4.73
+  },
+  {
+    "text": "but in the framework that\nwe are dealing with here,",
+    "start": 435.0,
+    "duration": 2.53
+  },
+  {
+    "text": "perhaps we might assume that Arcturus\nwas just pretty quickly moving",
+    "start": 437.54,
+    "duration": 3.37
+  },
+  {
+    "text": "into the area with a\nhigher current density,",
+    "start": 440.93,
+    "duration": 2.3
+  },
+  {
+    "text": "and therefore its\nbrightness increased.",
+    "start": 443.26,
+    "duration": 2.53
+  },
+  {
+    "text": "It's not very hard to believe in",
+    "start": 445.82,
+    "duration": 2.17
+  },
+  {
+    "text": "as, although it's pretty close to\nus, only some 37 light years or so,",
+    "start": 448.02,
+    "duration": 4.47
+  },
+  {
+    "text": "its velocity relative to the Sun\nis very high, some 122 km/second.",
+    "start": 452.52,
+    "duration": 5.7
+  },
+  {
+    "text": "That's about half of our own\nspeed around the galactic center.",
+    "start": 458.24,
+    "duration": 3.75
+  },
+  {
+    "text": "Most of the other\nobjects in our vicinity",
+    "start": 462.01,
+    "duration": 2.29
+  },
+  {
+    "text": "typically have speeds of maybe\ntens of km/s, relative to us.",
+    "start": 464.33,
+    "duration": 5.04
+  },
+  {
+    "text": "That is not the only\nexample of such sort.",
+    "start": 469.4,
+    "duration": 2.73
+  },
+  {
+    "text": "Perhaps another one might be represented\nby another very bright star,",
+    "start": 472.15,
+    "duration": 3.56
+  },
+  {
+    "text": "in this case the brightest\nstar in the whole sky, Sirius.",
+    "start": 475.73,
+    "duration": 3.85
+  },
+  {
+    "text": "It has been a mystery for quite a long\ntime, why the ancient civilizations,",
+    "start": 479.6,
+    "duration": 4.41
+  },
+  {
+    "text": "including Egyptians, Greeks and\nRomans, called Sirius a red star.",
+    "start": 484.04,
+    "duration": 4.51
+  },
+  {
+    "text": "It is clearly bright\nblue right now,",
+    "start": 488.57,
+    "duration": 2.07
+  },
+  {
+    "text": "and couldn't possibly have been\nred, even 2,000 year ago",
+    "start": 490.66,
+    "duration": 3.12
+  },
+  {
+    "text": "according to the\ncurrent stellar models.",
+    "start": 493.81,
+    "duration": 2.57
+  },
+  {
+    "text": "But perhaps the change in color of\nSirius was caused by the same reason",
+    "start": 496.4,
+    "duration": 3.95
+  },
+  {
+    "text": "as brightening of Arcturus--the shift with\nrespect to the surrounding plasma streams.",
+    "start": 500.37,
+    "duration": 5.03
+  },
+  {
+    "text": "We might see that on the scales\nof the local interstellar cloud,",
+    "start": 505.43,
+    "duration": 3.95
+  },
+  {
+    "text": "Sirius seems to currently occupy a\nsomewhat clearer filamentary area.",
+    "start": 509.4,
+    "duration": 4.59
+  },
+  {
+    "text": "That may indicate a stronger\ncurrent in the surroundings",
+    "start": 514.01,
+    "duration": 3.24
+  },
+  {
+    "text": "and therefore higher\ntemperature of the star,",
+    "start": 517.28,
+    "duration": 3.07
+  },
+  {
+    "text": "whereas in ancient times",
+    "start": 520.37,
+    "duration": 2.01
+  },
+  {
+    "text": "it might have been connected to the\nlocal current filaments more poorly",
+    "start": 522.4,
+    "duration": 3.46
+  },
+  {
+    "text": "and demonstrate a\nsomewhat dimmer red color.",
+    "start": 525.89,
+    "duration": 3.31
+  },
+  {
+    "text": "Another, perhaps more general consideration\nthat we might take into account,",
+    "start": 529.23,
+    "duration": 4.65
+  },
+  {
+    "text": "concerns the frequency shifts of electromagnetic\nwaves that travel within space plasmas.",
+    "start": 533.91,
+    "duration": 5.41
+  },
+  {
+    "text": "There has been some debate about\nthe possible intrinsic redshifts",
+    "start": 539.35,
+    "duration": 3.41
+  },
+  {
+    "text": "of astrophysical objects as\npromoted by Halton Arp, etc,",
+    "start": 542.78,
+    "duration": 3.83
+  },
+  {
+    "text": "but there is a possibility that\neven the regular wave of light",
+    "start": 546.64,
+    "duration": 3.12
+  },
+  {
+    "text": "may change its frequency when\nit propagates through plasma.",
+    "start": 549.79,
+    "duration": 3.2
+  },
+  {
+    "text": "One of the known examples of that effect\nis the frequency blueshift of laser beams.",
+    "start": 553.02,
+    "duration": 5.36
+  },
+  {
+    "text": "It is known that under\ncertain conditions,",
+    "start": 558.41,
+    "duration": 2.66
+  },
+  {
+    "text": "when the electromagnetic wave\nencounters an area of strong ionization,",
+    "start": 561.1,
+    "duration": 3.89
+  },
+  {
+    "text": "its frequency might rise\nquite significantly.",
+    "start": 565.02,
+    "duration": 3.38
+  },
+  {
+    "text": "Then there is a hypothesis that\nan inverse process, a redshift,",
+    "start": 568.42,
+    "duration": 3.7
+  },
+  {
+    "text": "might also occur in\ncertain conditions,",
+    "start": 572.14,
+    "duration": 2.25
+  },
+  {
+    "text": "say if the plasma is very hot\nbut has a very low density.",
+    "start": 574.41,
+    "duration": 4.18
+  },
+  {
+    "text": "So it could be seen that a lot of effects\nthat might usually be attributed to,",
+    "start": 578.61,
+    "duration": 4.46
+  },
+  {
+    "text": "for example,\nDoppler frequency shift,",
+    "start": 583.1,
+    "duration": 2.12
+  },
+  {
+    "text": "might theoretically be related to the\ndistribution of various cosmic plasma structures",
+    "start": 585.24,
+    "duration": 4.62
+  },
+  {
+    "text": "that the light that we observe\nwas travelling through.",
+    "start": 589.88,
+    "duration": 3.05
+  },
+  {
+    "text": "Jim Weninger proposed an idea that, for\nexample, the so called Flyby Anomalies",
+    "start": 592.95,
+    "duration": 4.42
+  },
+  {
+    "text": "might be explained through that.",
+    "start": 597.39,
+    "duration": 2.46
+  },
+  {
+    "text": "A Flyby Anomaly is an unexpected\ninstantaneous change in speed of a spacecraft",
+    "start": 599.88,
+    "duration": 4.97
+  },
+  {
+    "text": "that performs a gravitational\nmaneuver near Earth or other planet,",
+    "start": 604.87,
+    "duration": 3.87
+  },
+  {
+    "text": "at least one other\nexample would be Jupiter.",
+    "start": 608.77,
+    "duration": 2.95
+  },
+  {
+    "text": "So, since the velocity of a spacecraft\nis measured through Doppler effect,",
+    "start": 611.75,
+    "duration": 3.78
+  },
+  {
+    "text": "it is quite possible that some similar\nplasma processes in the vicinity of Earth",
+    "start": 615.55,
+    "duration": 4.19
+  },
+  {
+    "text": "cause this frequency change,\nand not the actual change in velocity.",
+    "start": 619.77,
+    "duration": 4.12
+  },
+  {
+    "text": "If all that is correct, this is yet another\nindication that we need to pay more attention",
+    "start": 623.92,
+    "duration": 5.15
+  },
+  {
+    "text": "to the distrinbution of plasmas in\nthe neighborhood of the solar system,",
+    "start": 629.09,
+    "duration": 3.69
+  },
+  {
+    "text": "the local interstellar\ncloud and the local chimney.",
+    "start": 632.81,
+    "duration": 2.98
+  },
+  {
+    "text": "Stay tuned for part 4",
+    "start": 636.81,
+    "duration": 3.68
+  }
+]

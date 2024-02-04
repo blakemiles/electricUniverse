@@ -1,0 +1,572 @@
+[
+  {
+    "text": "[Music]",
+    "start": 2.3,
+    "duration": 5.37
+  },
+  {
+    "text": "The world of science is in the midst of\nan accelerated changing of paradigms.",
+    "start": 12.88,
+    "duration": 5.84
+  },
+  {
+    "text": "What I mean by paradigm is a set of\nmetaphysical assumptions, or a worldview,",
+    "start": 18.72,
+    "duration": 5.04
+  },
+  {
+    "text": "by which all subsequent observations and reasoning\nare interpreted. Physics is what we think about.",
+    "start": 23.76,
+    "duration": 7.2
+  },
+  {
+    "text": "Metaphysics is how we think about it.\nFor example, for the past two centuries,",
+    "start": 30.96,
+    "duration": 5.92
+  },
+  {
+    "text": "scientists have assumed that the present is the key\nto the past. Before that, they assumed that the past",
+    "start": 36.88,
+    "duration": 6.8
+  },
+  {
+    "text": "was the key to the present. The assumptions\nare a free choice; the consequences are not.",
+    "start": 43.68,
+    "duration": 8.08
+  },
+  {
+    "text": "We're mostly unaware of the paradigms\nthat shape the way we think, and when",
+    "start": 51.76,
+    "duration": 4.4
+  },
+  {
+    "text": "they change we become confused. We \nbegin to doubt values and ideas that",
+    "start": 56.16,
+    "duration": 5.76
+  },
+  {
+    "text": "we've taken for granted. We begin \nto recognize falsifying evidence.",
+    "start": 61.92,
+    "duration": 5.28
+  },
+  {
+    "text": "We begin to consider alternative explanatory \nideas. Familiar relationships fall apart.",
+    "start": 67.2,
+    "duration": 7.68
+  },
+  {
+    "text": "We no longer know what to think.\nMetaphysics overshadows physics.",
+    "start": 74.88,
+    "duration": 6.32
+  },
+  {
+    "text": "With the previous worldview in doubt, we\nhave few benchmarks to judge new ideas.",
+    "start": 81.2,
+    "duration": 6.64
+  },
+  {
+    "text": "As with beginning to assemble a jigsaw\npuzzle from a pile of pieces, we must",
+    "start": 87.84,
+    "duration": 4.88
+  },
+  {
+    "text": "push pieces around to find what \nfits. We need to play with them.",
+    "start": 92.72,
+    "duration": 5.35
+  },
+  {
+    "text": "I'll use as an example the differences\nbetween the Electric Universe - EU model",
+    "start": 98.07,
+    "duration": 6.25
+  },
+  {
+    "text": "of cosmology, and the Standard Model.\nThe EU model assumes that electricity",
+    "start": 104.32,
+    "duration": 7.04
+  },
+  {
+    "text": "and plasma ideas are the most\nimportant for explanatory purposes.",
+    "start": 111.36,
+    "duration": 4.71
+  },
+  {
+    "text": "The Standard Model assumes that gravity\nand gas ideas are the most important.",
+    "start": 116.07,
+    "duration": 6.08
+  },
+  {
+    "text": "Discussions of the differences between\nthe models often seem confused by lack",
+    "start": 122.15,
+    "duration": 4.89
+  },
+  {
+    "text": "of clarity and how we think about the ideas.\nSome of it seems to arise from imprecision",
+    "start": 127.04,
+    "duration": 5.6
+  },
+  {
+    "text": "in the use of such words as observations,\ndata, evidence, facts, and theories.",
+    "start": 132.64,
+    "duration": 8.8
+  },
+  {
+    "text": "People tend to use those words\ninterchangeably, but they can be applied",
+    "start": 141.44,
+    "duration": 4.4
+  },
+  {
+    "text": "more carefully to mark distinctions in the process\nof knowing. I think of observations as groups of",
+    "start": 145.84,
+    "duration": 6.64
+  },
+  {
+    "text": "nerve activations, and data as strings of electrical\non-off signals without interpretation by some",
+    "start": 152.48,
+    "duration": 7.52
+  },
+  {
+    "text": "theory. They are the immediate responses\nof detectors, whether biological or",
+    "start": 160.0,
+    "duration": 5.59
+  },
+  {
+    "text": "electronic, to stimuli. Noting the colors of a traffic\nlight and holiday lights, or the number a meter",
+    "start": 165.59,
+    "duration": 7.69
+  },
+  {
+    "text": "needle points to, are all observations.\nEvidence is a group of observations or",
+    "start": 173.28,
+    "duration": 6.16
+  },
+  {
+    "text": "data selected to be relevant to a\npreconceived, but evolving idea of the",
+    "start": 179.44,
+    "duration": 5.76
+  },
+  {
+    "text": "phenomenon that's of interest.\nEvidence is ambiguous; it can be relevant",
+    "start": 185.2,
+    "duration": 5.11
+  },
+  {
+    "text": "to several different phenomena and its\nmeaning will be different with each one.",
+    "start": 190.31,
+    "duration": 5.37
+  },
+  {
+    "text": "Observations of red light are relevant both\nto traffic signals and to holiday lights,",
+    "start": 195.68,
+    "duration": 6.16
+  },
+  {
+    "text": "but you won't get a ticket for not\nstopping at a Christmas tree.",
+    "start": 201.84,
+    "duration": 4.16
+  },
+  {
+    "text": "Still, evidence isn't arbitrary;\na light is red and not green.",
+    "start": 206.0,
+    "duration": 5.68
+  },
+  {
+    "text": "A meter needle points to three, and not to eight.\nFacts are evidence interpreted by a theory.",
+    "start": 211.68,
+    "duration": 8.63
+  },
+  {
+    "text": "The theory provides the meaning.\nFor the theory of traffic signals, red",
+    "start": 220.31,
+    "duration": 4.81
+  },
+  {
+    "text": "means stop. With a theory of circuits,\na meter reading of 3 means 3 Volts.",
+    "start": 225.12,
+    "duration": 6.39
+  },
+  {
+    "text": "Evidence tells you that something is,\ntheory tells you what something is.",
+    "start": 231.51,
+    "duration": 6.72
+  },
+  {
+    "text": "Facts make sense of evidence. A \ntheory is a set of interrelated ideas",
+    "start": 238.23,
+    "duration": 6.25
+  },
+  {
+    "text": "that are constrained and shaped by facts,\nbut that also define and determine what",
+    "start": 244.48,
+    "duration": 4.64
+  },
+  {
+    "text": "facts are. Theories and facts are inter-\nrelated. Facts can't exist apart from",
+    "start": 249.12,
+    "duration": 6.39
+  },
+  {
+    "text": "the theory that they support,\nand it also gives them meaning.",
+    "start": 255.51,
+    "duration": 4.17
+  },
+  {
+    "text": "This is what is meant by the\nphrase, ’facts are theory-laden’.",
+    "start": 259.68,
+    "duration": 4.48
+  },
+  {
+    "text": "Conversely, theories are fact-laden.\nThese are not independent processes, but",
+    "start": 264.16,
+    "duration": 5.92
+  },
+  {
+    "text": "different emphases on a single, evolving\nprocess of making sense that's circular,",
+    "start": 270.08,
+    "duration": 6.08
+  },
+  {
+    "text": "iterative and reflexive. ’Making’ is a creative act\nthat involves imaginative interpretation; it's an",
+    "start": 276.16,
+    "duration": 7.52
+  },
+  {
+    "text": "intrinsic aspect. ’Making sense’ is not simply\nseeing what's naively there. A successful ‘making’",
+    "start": 283.68,
+    "duration": 8.72
+  },
+  {
+    "text": "results in a narrative or story that is\ncoherent, consistent, and corresponds with",
+    "start": 292.4,
+    "duration": 5.92
+  },
+  {
+    "text": "the theory's interpretation of the selected \nevidence. These definitions are soft; they add",
+    "start": 298.32,
+    "duration": 6.64
+  },
+  {
+    "text": "clarity to the usual vagueness, but \ndon't entirely eliminate it. Additional",
+    "start": 304.96,
+    "duration": 5.84
+  },
+  {
+    "text": "confusion arises from thinking that\nElectric Universe ideas are simply added",
+    "start": 310.8,
+    "duration": 4.8
+  },
+  {
+    "text": "on to accepted ideas, of what's called the Standard\nModel. This has been called the inertia of prior",
+    "start": 315.6,
+    "duration": 7.24
+  },
+  {
+    "text": "belief. Rather, EU ideas are founded on\ndifferent selections of observations and",
+    "start": 322.84,
+    "duration": 5.48
+  },
+  {
+    "text": "data - different evidence - and the different\ninterpretations of evidence - different facts.",
+    "start": 328.32,
+    "duration": 7.2
+  },
+  {
+    "text": "We observe lights. We select for our evidence the\nones in the sky that appear to move around the",
+    "start": 335.52,
+    "duration": 6.39
+  },
+  {
+    "text": "Earth. We call them stars. Before \nNewton, the interpretation that",
+    "start": 341.91,
+    "duration": 5.45
+  },
+  {
+    "text": "made sense of this evidence was that \nthe stars moved in perfect circles, in the",
+    "start": 347.36,
+    "duration": 4.08
+  },
+  {
+    "text": "perfect heavens by their intrinsic nature.\nAfter Newton, the idea of gravitational",
+    "start": 351.44,
+    "duration": 6.56
+  },
+  {
+    "text": "force replaced that geometric idea.\nWith gravity, things have an intrinsic",
+    "start": 358.0,
+    "duration": 5.12
+  },
+  {
+    "text": "property of mass, whose nature is \nto attract other mass with an inverse",
+    "start": 363.12,
+    "duration": 4.56
+  },
+  {
+    "text": "square of the distance relationship.\nWith ideas of electrically active plasma,",
+    "start": 367.68,
+    "duration": 6.23
+  },
+  {
+    "text": "things have an inherent property of\ncharge, whose nature is to attract",
+    "start": 373.91,
+    "duration": 4.33
+  },
+  {
+    "text": "opposite charge and to repel \nlike charge, while inducing spin.",
+    "start": 378.24,
+    "duration": 5.92
+  },
+  {
+    "text": "Mixing these ideas, is like mixing \nwater and dirt - you get mud.",
+    "start": 384.16,
+    "duration": 5.75
+  },
+  {
+    "text": "The EU model has a different cognitive\nframework from Newtonian and",
+    "start": 389.91,
+    "duration": 4.09
+  },
+  {
+    "text": "relativistic mechanics. We must unlearn\nseveral assumptions that we usually take",
+    "start": 394.0,
+    "duration": 5.44
+  },
+  {
+    "text": "for granted without being aware of them.\nWe presume that space is dark and empty,",
+    "start": 399.44,
+    "duration": 6.4
+  },
+  {
+    "text": "or practically so. It's empty because\nit's dark. We don't sense anything, so",
+    "start": 405.84,
+    "duration": 5.84
+  },
+  {
+    "text": "there must not be anything there.\nBut now that scientists have invented",
+    "start": 411.68,
+    "duration": 4.95
+  },
+  {
+    "text": "sensors that detect stimuli outside\nour biologically limited ranges, radio,",
+    "start": 416.63,
+    "duration": 6.89
+  },
+  {
+    "text": "infrared, ultraviolet, X-ray and gamma ray\ntelescopes and so on, we know that space",
+    "start": 423.52,
+    "duration": 7.92
+  },
+  {
+    "text": "is full and bright. It's full of radiating plasma.\nThe inertia of prior belief leads us to think",
+    "start": 431.44,
+    "duration": 7.68
+  },
+  {
+    "text": "that the few atoms and particles\nin space behave as a familiar gas.",
+    "start": 439.12,
+    "duration": 5.04
+  },
+  {
+    "text": "We take it for granted that mass and\nvelocity are the important parameters",
+    "start": 444.16,
+    "duration": 3.84
+  },
+  {
+    "text": "and movements are determined by collisions.\nBut a century of experimentation with",
+    "start": 448.0,
+    "duration": 5.19
+  },
+  {
+    "text": "plasma has shown that the primary\ncharacteristics are electromagnetic -",
+    "start": 453.19,
+    "duration": 4.97
+  },
+  {
+    "text": "Birkeland Currents, double layers, cell\nformation, pinch effects, sorting of",
+    "start": 458.16,
+    "duration": 6.0
+  },
+  {
+    "text": "constituents, multiple velocities,\nevolving instabilities, electrically",
+    "start": 464.16,
+    "duration": 5.84
+  },
+  {
+    "text": "versus thermally generated radiation.\nWe never question that the weak force of",
+    "start": 470.0,
+    "duration": 5.36
+  },
+  {
+    "text": "gravity dominates. But again, both lab\nexperiments and observations in space",
+    "start": 475.36,
+    "duration": 5.83
+  },
+  {
+    "text": "have shown that plasma forces can be many orders\nof magnitude greater than those of gravity and gas.",
+    "start": 481.19,
+    "duration": 7.21
+  },
+  {
+    "text": "For example, the arms of spiral galaxies\nshould show that the stars move more",
+    "start": 488.4,
+    "duration": 5.44
+  },
+  {
+    "text": "slowly with distance from the center if they\nare orbiting a central gravitating mass.",
+    "start": 493.84,
+    "duration": 5.91
+  },
+  {
+    "text": "Doppler evidence shows them to have\nabout the same velocity, as if the galaxy",
+    "start": 499.75,
+    "duration": 5.05
+  },
+  {
+    "text": "were being stirred from the edge.\nOne EU model speculation is that a",
+    "start": 504.8,
+    "duration": 6.07
+  },
+  {
+    "text": "galaxy is a transverse pinch in a giant intergalactic\nBirkeland Current with multiple filaments.",
+    "start": 510.87,
+    "duration": 7.04
+  },
+  {
+    "text": "The filaments twist around the axis and\ntheir location around the periphery of",
+    "start": 517.91,
+    "duration": 4.73
+  },
+  {
+    "text": "the galaxy drives its rotation. It's more like\nan electric motor than a mechanical clock.",
+    "start": 522.64,
+    "duration": 6.8
+  },
+  {
+    "text": "Marklund Convection builds up\nquasi-neutral plasma that spirals away",
+    "start": 529.44,
+    "duration": 4.64
+  },
+  {
+    "text": "from the peripheral filaments.\nThe increased ion and current densities",
+    "start": 534.08,
+    "duration": 4.64
+  },
+  {
+    "text": "push the plasma into glow mode and\ngenerate stars and secondary pinches.",
+    "start": 538.72,
+    "duration": 5.44
+  },
+  {
+    "text": "Think of a ring galaxy with somewhat\nevenly spaced hot spots, hydrogen-2 regions",
+    "start": 544.16,
+    "duration": 6.23
+  },
+  {
+    "text": "near the edge. The hot spots would be where the\nfilaments cross the intergalactic pinch plane.",
+    "start": 550.39,
+    "duration": 6.97
+  },
+  {
+    "text": "Keep in mind that this is a simplistic\nillustration for the purpose of",
+    "start": 557.36,
+    "duration": 4.24
+  },
+  {
+    "text": "contrasting an idea of electrically- driven,\nfar from equilibrium resonant motion,",
+    "start": 561.6,
+    "duration": 6.32
+  },
+  {
+    "text": "with the unquestioned idea of inertial\ngravitational rotation at energy equilibrium.",
+    "start": 567.92,
+    "duration": 6.4
+  },
+  {
+    "text": "Real galaxies are surely more complex.\nWe also take for granted that",
+    "start": 574.32,
+    "duration": 5.36
+  },
+  {
+    "text": "equilibrium conditions prevail,\nfully specifiable and represented",
+    "start": 579.68,
+    "duration": 4.48
+  },
+  {
+    "text": "mathematically with continuous functions.\nIn contrast, plasma conditions are often",
+    "start": 584.16,
+    "duration": 6.16
+  },
+  {
+    "text": "far from equilibrium and discontinuous.\nAn excess of energy flows through active",
+    "start": 590.32,
+    "duration": 6.16
+  },
+  {
+    "text": "plasma, and some of it is dissipated in\nthe evolving instabilities and radiation.",
+    "start": 596.48,
+    "duration": 6.0
+  },
+  {
+    "text": "Conditions are better represented by\nthe mathematics of complexity, with",
+    "start": 602.48,
+    "duration": 4.68
+  },
+  {
+    "text": "discontinuities, bifurcations,\nresonance states and emergent orders.",
+    "start": 607.16,
+    "duration": 6.91
+  },
+  {
+    "text": "The EU model is not the Standard Model of a\nfour-dimensional non-linear geometry, relativity,",
+    "start": 614.07,
+    "duration": 7.61
+  },
+  {
+    "text": "or a differential calculus of continuous variables,\nNewtonian mechanics and ideal gas theory.",
+    "start": 621.68,
+    "duration": 6.88
+  },
+  {
+    "text": "It's not the hypothetical and\nmetaphorical abstractions of",
+    "start": 628.56,
+    "duration": 3.92
+  },
+  {
+    "text": "mathematical model making. It's observed behavior,\nputting the empirical back in empirical method.",
+    "start": 632.48,
+    "duration": 7.35
+  },
+  {
+    "text": "And it's not a finished theory. Only a\nhandful of experimenters have been",
+    "start": 639.83,
+    "duration": 4.41
+  },
+  {
+    "text": "looking into the nature of plasma for scarcely a\ncentury and their investigations are also permeated",
+    "start": 644.24,
+    "duration": 7.36
+  },
+  {
+    "text": "with the vagueness I'm describing.\nThe unconscious assumptions of familiar",
+    "start": 651.6,
+    "duration": 5.28
+  },
+  {
+    "text": "gravity and gas thinking prejudice\neveryone's judgment and often can only",
+    "start": 656.88,
+    "duration": 5.12
+  },
+  {
+    "text": "be corrected over time by trial and error \nprocesses. The EU model is a work in progress.",
+    "start": 662.0,
+    "duration": 7.64
+  },
+  {
+    "text": "[Music]",
+    "start": 669.64,
+    "duration": 22.6
+  },
+  {
+    "text": "[Music]",
+    "start": 693.8,
+    "duration": 10.25
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "text": "You have just entered\nthe theater of an alien sky.",
+    "start": 5.339,
+    "duration": 3.111
+  },
+  {
+    "text": "If the words and images seem strange to\nyou, there's a reason for this -",
+    "start": 8.45,
+    "duration": 4.749
+  },
+  {
+    "text": "our world was once\na vastly different place.",
+    "start": 13.199,
+    "duration": 3.49
+  },
+  {
+    "text": "To experience this won't hurt you\nand there is nothing to fear.",
+    "start": 16.689,
+    "duration": 5.501
+  },
+  {
+    "text": "This little video will be the\nfirst in a series looking",
+    "start": 34.84,
+    "duration": 3.0
+  },
+  {
+    "text": "at celestial events that\nchanged human history",
+    "start": 37.84,
+    "duration": 3.25
+  },
+  {
+    "text": "and catalyzed the birth\nof the great civilizations.",
+    "start": 41.09,
+    "duration": 3.469
+  },
+  {
+    "text": "Nothing I'll propose in this series\nwill be found in familiar text books",
+    "start": 44.559,
+    "duration": 4.45
+  },
+  {
+    "text": "but the events can be\nconfirmed by factual",
+    "start": 49.009,
+    "duration": 3.189
+  },
+  {
+    "text": "evidence. That means fundamental\nfacts that are not in dispute.",
+    "start": 52.198,
+    "duration": 4.57
+  },
+  {
+    "text": "It happened just a few\nthousand years ago",
+    "start": 72.53,
+    "duration": 4.23
+  },
+  {
+    "text": "when we lived in the\npresence of the gods.",
+    "start": 76.76,
+    "duration": 5.55
+  },
+  {
+    "text": "Planetary powers ruled\nthe celestial theater",
+    "start": 82.31,
+    "duration": 3.069
+  },
+  {
+    "text": "in the lost age of\ngods and wonders.",
+    "start": 85.379,
+    "duration": 7.551
+  },
+  {
+    "text": "Planets gathered in close\ncongregation, as if alive,",
+    "start": 92.93,
+    "duration": 4.31
+  },
+  {
+    "text": "engaging each other\nelectrically.",
+    "start": 97.24,
+    "duration": 6.999
+  },
+  {
+    "text": "But then the gods grew\nviolent and they went to war,",
+    "start": 119.14,
+    "duration": 3.81
+  },
+  {
+    "text": "driving human witnesses to take shelter\nin caves and rocky enclosures.",
+    "start": 122.95,
+    "duration": 14.839
+  },
+  {
+    "text": "Humans left to remember - to\nremember the powers of the gods -",
+    "start": 137.789,
+    "duration": 6.22
+  },
+  {
+    "text": "formations and\ncosmic events",
+    "start": 144.009,
+    "duration": 3.801
+  },
+  {
+    "text": "not to be\nforgotten.",
+    "start": 147.81,
+    "duration": 2.94
+  },
+  {
+    "text": "Yes, how could we know how? How could we know\nthat extraordinary natural phenomena",
+    "start": 166.83,
+    "duration": 5.5
+  },
+  {
+    "text": "in the sky above our early\nancestors provoked an",
+    "start": 172.33,
+    "duration": 3.78
+  },
+  {
+    "text": "outpouring of human imagination? Of\ncourse, the ancient witnesses did not",
+    "start": 176.11,
+    "duration": 4.77
+  },
+  {
+    "text": "understand and they relentlessly\nmisinterpreted their experience,",
+    "start": 180.88,
+    "duration": 4.079
+  },
+  {
+    "text": "but this experience was the most\nawe-inspiring and terrifying occasion",
+    "start": 184.959,
+    "duration": 6.441
+  },
+  {
+    "text": "in all of\nhuman history.",
+    "start": 191.4,
+    "duration": 4.21
+  },
+  {
+    "text": "Every ancient monument was, by\nit's very nature, commemorative.",
+    "start": 195.61,
+    "duration": 4.2
+  },
+  {
+    "text": "Every crowning of a king,\nevery sacred marriage,",
+    "start": 199.81,
+    "duration": 3.659
+  },
+  {
+    "text": "every sacrifice to the gods,\nevery sacred temple and city,",
+    "start": 203.469,
+    "duration": 4.79
+  },
+  {
+    "text": "every obelisk,\npyramid and tower",
+    "start": 208.259,
+    "duration": 3.04
+  },
+  {
+    "text": "re-enacted a critical juncture in a\nremembered age of gods and wonders.",
+    "start": 211.299,
+    "duration": 5.61
+  },
+  {
+    "text": "This truth comes down\nto us without exception.",
+    "start": 216.909,
+    "duration": 3.53
+  },
+  {
+    "text": "And the over-riding, fatal\nmistake in modern perception",
+    "start": 220.439,
+    "duration": 3.931
+  },
+  {
+    "text": "is the assumption that\nthe mythic archetypes",
+    "start": 224.37,
+    "duration": 3.119
+  },
+  {
+    "text": "can somehow find their explanation\nin phenomena occurring today.",
+    "start": 227.489,
+    "duration": 4.511
+  },
+  {
+    "text": "But the events that provoked the global\narchetypes, and the entire symbolic",
+    "start": 232.0,
+    "duration": 4.909
+  },
+  {
+    "text": "content of the\nfirst civilizations",
+    "start": 236.909,
+    "duration": 2.57
+  },
+  {
+    "text": "can be systematically\nreconstructed.",
+    "start": 239.479,
+    "duration": 4.701
+  },
+  {
+    "text": "Rational and well-established\nprinciples will enable us to draw",
+    "start": 244.18,
+    "duration": 4.43
+  },
+  {
+    "text": "reliable conclusions from a\ncrowd of unreliable witnesses.",
+    "start": 248.61,
+    "duration": 3.869
+  },
+  {
+    "text": "That's the long-overlooked\ntruth of the matter,",
+    "start": 252.479,
+    "duration": 4.009
+  },
+  {
+    "text": "and it's that message I intend to\nconfirm in this video series.",
+    "start": 256.488,
+    "duration": 4.411
+  },
+  {
+    "text": "Not that long ago\nour world was, indeed,",
+    "start": 260.899,
+    "duration": 3.951
+  },
+  {
+    "text": "a very different place.",
+    "start": 264.85,
+    "duration": 1.529
+  }
+]

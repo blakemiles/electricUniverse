@@ -1,0 +1,637 @@
+[
+  {
+    "text": "We begin with a brief history of geometry.\nWhy is it that within every great philosopher",
+    "start": 15.51,
+    "duration": 5.52
+  },
+  {
+    "text": "astronomer, or scientist, there lies a great \ngeometer? It seems that the geometer turns",
+    "start": 21.03,
+    "duration": 7.37
+  },
+  {
+    "text": "astronomer, or astronomer turns geometer, and \nvice versa. The classic definition of geometer is a",
+    "start": 28.4,
+    "duration": 7.67
+  },
+  {
+    "text": "mathematician whose area of study is geometry.\nNow think about it. You have Plato and",
+    "start": 36.07,
+    "duration": 5.93
+  },
+  {
+    "text": "the Platonic solids; the sound of the\nspheres or Musica Universalis; and the",
+    "start": 42.0,
+    "duration": 5.03
+  },
+  {
+    "text": "theory of first-principle-geometry being\ntaught that all atoms and material is",
+    "start": 47.03,
+    "duration": 5.2
+  },
+  {
+    "text": "formed out of nested Platonic solids spinning.\nYou have Archimedes and Archimedean",
+    "start": 52.23,
+    "duration": 5.69
+  },
+  {
+    "text": "solids as well as the Archimedean \nspirals. There are others, such as the",
+    "start": 57.92,
+    "duration": 4.63
+  },
+  {
+    "text": "pre-Socratic philosopher Anaxagoras\nfrom around 467 BCE who theorized his",
+    "start": 62.55,
+    "duration": 6.73
+  },
+  {
+    "text": "vortex motion of the Universe in his book, “The Nature\nof Things”. Johannes Kepler was a strong believer in",
+    "start": 69.28,
+    "duration": 6.87
+  },
+  {
+    "text": "geometry and tried to prove the five platonic solids\nmust be related to the structure of the Universe.",
+    "start": 76.15,
+    "duration": 6.57
+  },
+  {
+    "text": "This idea was announced in his cosmographic mystery\npublished in 1596. The mathematical study of vortices",
+    "start": 82.72,
+    "duration": 8.24
+  },
+  {
+    "text": "continues with James Clark Maxwell's vortex analogy of\nthe electromagnetic field and Lord Calvin’s theory that",
+    "start": 90.96,
+    "duration": 7.44
+  },
+  {
+    "text": "atoms were vortex rings in an all-pervading ether.\nThere are so many more examples like",
+    "start": 98.4,
+    "duration": 6.24
+  },
+  {
+    "text": "Pythagoras, Euclid and the father \nof geometry, Apollonius of Perga.",
+    "start": 104.64,
+    "duration": 6.32
+  },
+  {
+    "text": "It seems that the spiral shape is at the\ncore of the structure of the Universe.",
+    "start": 110.96,
+    "duration": 5.19
+  },
+  {
+    "text": "The whirlpool or the water spiral is a\npart of worldwide folklore and it is a",
+    "start": 116.15,
+    "duration": 5.45
+  },
+  {
+    "text": "magical and religious symbol for the origins of life\nand energy. Whirlpools are considered gates to the",
+    "start": 121.6,
+    "duration": 7.43
+  },
+  {
+    "text": "netherworlds. Ancient lore has it that whirlwinds\nprovide circuitry for gods, demons and witches.",
+    "start": 129.03,
+    "duration": 8.17
+  },
+  {
+    "text": "In the old testament, whirlwinds are\ndescribed as a direct connection to us,",
+    "start": 137.2,
+    "duration": 4.96
+  },
+  {
+    "text": "mere mortals. For example, ”Then the Lord \nanswered Job out of the whirlwind.”",
+    "start": 142.16,
+    "duration": 6.15
+  },
+  {
+    "text": "And “Elijah went up by a whirlwind into heaven.”\nIn 1835, here we have Eugenio Beltrami and",
+    "start": 148.31,
+    "duration": 8.41
+  },
+  {
+    "text": "the Beltrami vortex. This is the geometry of what we in\nthe Electric Universe refer to as Birkeland Currents.",
+    "start": 156.72,
+    "duration": 7.76
+  },
+  {
+    "text": "Also what Don Scott did the math of a\nforce-free field-aligned current and the",
+    "start": 164.48,
+    "duration": 5.6
+  },
+  {
+    "text": "same exact behavior as Marklund convection, as well\nas the German concept of the ether ”zitterbewegung”.",
+    "start": 170.08,
+    "duration": 7.92
+  },
+  {
+    "text": "In physics the zitterbewegung, jittery\nmotion in German, is the predicted rapid",
+    "start": 178.0,
+    "duration": 5.84
+  },
+  {
+    "text": "oscillatory motion of elementary particles.\nSpeaking of electromagnetism being the",
+    "start": 183.84,
+    "duration": 6.24
+  },
+  {
+    "text": "primal organizer of elements along\ncylindrical coaxial filaments, will hop",
+    "start": 190.08,
+    "duration": 5.51
+  },
+  {
+    "text": "directly into artist Dr. Walter Russell’s work.\nYou can see the same, or similar things,",
+    "start": 195.59,
+    "duration": 6.25
+  },
+  {
+    "text": "as Birkeland Currents, and the multiple\nvortex of tornadic winds that Andy Hall",
+    "start": 201.84,
+    "duration": 5.44
+  },
+  {
+    "text": "describes in his “Eye of the Storm” series.\nWe also have Viktor Schauberger's work,",
+    "start": 207.28,
+    "duration": 5.51
+  },
+  {
+    "text": "here showing longitudinal vortexes. What's more is it's\nshowing the double spiral longitudinal vortexes here.",
+    "start": 212.79,
+    "duration": 8.08
+  },
+  {
+    "text": "Now observe the similarities of the\nDoherty set, even down to the toroidal",
+    "start": 220.87,
+    "duration": 4.33
+  },
+  {
+    "text": "construction of the double helical minimal energy\nfilament itself. So, what exactly is the Doherty set?",
+    "start": 225.2,
+    "duration": 7.59
+  },
+  {
+    "text": "The Doherty set is an emergent, first\nprinciple, magnetohydrodynamic geometry.",
+    "start": 232.79,
+    "duration": 6.05
+  },
+  {
+    "text": "Magnetohydrodynamics is the study of\nthe magnetic properties and behavior of",
+    "start": 238.84,
+    "duration": 4.67
+  },
+  {
+    "text": "electrically conducting fluids. Examples \nof such magnetofluids include plasmas,",
+    "start": 243.51,
+    "duration": 6.64
+  },
+  {
+    "text": "liquid metals, salt water and electrolytes.\nHow can we validate what the Doherty set is?",
+    "start": 250.15,
+    "duration": 7.45
+  },
+  {
+    "text": "Easy, by using the inverse square law.\nThe inverse square law shows that light,",
+    "start": 257.6,
+    "duration": 5.36
+  },
+  {
+    "text": "electromagnetic radiation, gravity, and \nelectricity, all obey the same scaling rule.",
+    "start": 262.96,
+    "duration": 6.88
+  },
+  {
+    "text": "The Doherty set is, among other things, a \nseries of cascading spherical pressure gradients.",
+    "start": 269.84,
+    "duration": 6.48
+  },
+  {
+    "text": "The projective super geometry is a simplex.\nBut it is nonetheless doing only one thing,",
+    "start": 276.32,
+    "duration": 6.96
+  },
+  {
+    "text": "which is repeating the initial Bessel\nfunction, iteratively, over and over again,",
+    "start": 283.28,
+    "duration": 5.44
+  },
+  {
+    "text": "like a beating drum, recursively building\nup progressive geometry, along an",
+    "start": 288.72,
+    "duration": 5.28
+  },
+  {
+    "text": "interconnected chain-like so-called space-\ntime or more accurately, a plasma fractal.",
+    "start": 294.0,
+    "duration": 7.68
+  },
+  {
+    "text": "Yes, Birkeland Currents are fractal.\nA fractal is a curve or geometric figure,",
+    "start": 301.68,
+    "duration": 6.56
+  },
+  {
+    "text": "each part of which has the same statistical character\nas the whole. Fractals are useful in modeling",
+    "start": 308.24,
+    "duration": 6.79
+  },
+  {
+    "text": "structures, such as eroded coastlines, or \nsnowflakes in which similar patterns recur at",
+    "start": 315.03,
+    "duration": 5.93
+  },
+  {
+    "text": "progressively smaller scales, and in\ndescribing partly random, or chaotic",
+    "start": 320.96,
+    "duration": 4.56
+  },
+  {
+    "text": "phenomena, such as crystal growth,\nfluid turbulence, and galaxy formation.",
+    "start": 325.52,
+    "duration": 6.23
+  },
+  {
+    "text": "The Doherty set can be thought of like\nthe Mandelbrot set, but instead of",
+    "start": 331.75,
+    "duration": 4.41
+  },
+  {
+    "text": "exploring the complex and imaginary fields and\nfractions, this scalable geometry exposes plasma, or",
+    "start": 336.16,
+    "duration": 7.75
+  },
+  {
+    "text": "ether, or what mainstream cosmologists refer to\nas the just mentioned space time, to be fractal.",
+    "start": 343.91,
+    "duration": 9.53
+  },
+  {
+    "text": "Speaking of fractals, let's look at the Mueller set.\nThe Mueller fractal is the basis of global scaling",
+    "start": 353.44,
+    "duration": 6.8
+  },
+  {
+    "text": "developed by Hartmut Mueller. We can \nobserve the similarities here and",
+    "start": 360.24,
+    "duration": 4.16
+  },
+  {
+    "text": "how octaves as well as harmonies of\nsound also abide by similar scaling laws.",
+    "start": 364.4,
+    "duration": 5.76
+  },
+  {
+    "text": "So one might intuitively assume that\nfundamentally, on every scale there must exist this",
+    "start": 370.16,
+    "duration": 5.59
+  },
+  {
+    "text": "wave-nested-within-wave behavior and \nindeed, that is exactly what the Doherty set is.",
+    "start": 375.75,
+    "duration": 7.05
+  },
+  {
+    "text": "Is it possible, that in a Universe of electromagnetic\ninduction, the Doherty set is the master key of",
+    "start": 382.8,
+    "duration": 5.67
+  },
+  {
+    "text": "electromagnetism itself? And in the big picture,\nperhaps the geometry of the Electric Universe model?",
+    "start": 388.47,
+    "duration": 8.09
+  },
+  {
+    "text": "I met professor Donald E. Scott at the\nThunderbolts EU 2017 conference, for the",
+    "start": 396.56,
+    "duration": 6.07
+  },
+  {
+    "text": "sole purpose of showing him\nmy cartographs and geometry.",
+    "start": 402.63,
+    "duration": 4.25
+  },
+  {
+    "text": "Don was baffled and exclaimed that I\ndiscovered it before him, which we will",
+    "start": 406.88,
+    "duration": 4.15
+  },
+  {
+    "text": "find out. Many people were on to this idea\nbefore us, so I then gave my whole body",
+    "start": 411.03,
+    "duration": 5.21
+  },
+  {
+    "text": "of work to Don Scott for a review and he said\nquote, ”Buddy, I have examined (I believe all) the",
+    "start": 416.24,
+    "duration": 8.07
+  },
+  {
+    "text": "links and YouTube videos you sent me.\nThey are quite impressive because you",
+    "start": 424.31,
+    "duration": 4.97
+  },
+  {
+    "text": "are clearly able to include the wild\ncomplexity of what the interior",
+    "start": 429.28,
+    "duration": 4.0
+  },
+  {
+    "text": "structure of a Birkeland (force-free,\nfield-aligned current) would look like,",
+    "start": 433.28,
+    "duration": 4.88
+  },
+  {
+    "text": "if we were able to get inside one.”\n”Nice work. I see that you are aware of",
+    "start": 438.16,
+    "duration": 5.52
+  },
+  {
+    "text": "the complex structure that my model\nsays is inside a Birkeland Current.",
+    "start": 443.68,
+    "duration": 4.95
+  },
+  {
+    "text": "But, in another sense the overall\nproperty is quite simple: it is a set of",
+    "start": 448.63,
+    "duration": 4.56
+  },
+  {
+    "text": "concentric spirals whose pitch angle increases\nsmoothly and continuously with radial distance.”",
+    "start": 453.19,
+    "duration": 7.93
+  },
+  {
+    "text": "It is important to understand that the words ‘helix’\nand ‘vortex’ are not the same. They are not synonymous.",
+    "start": 461.12,
+    "duration": 7.44
+  },
+  {
+    "text": "A helix is a twisting spiral path, wrapped around\na cylinder. Example. A rope wound around an",
+    "start": 468.56,
+    "duration": 6.88
+  },
+  {
+    "text": "infinitely long pipe. That is the shape of a Birkeland\nCurrent. On the other hand, a vortex is also a",
+    "start": 475.44,
+    "duration": 7.52
+  },
+  {
+    "text": "twisting spiral path, but it is like a rope wound\naround a cone. It is a finite length, not infinitely",
+    "start": 482.96,
+    "duration": 8.0
+  },
+  {
+    "text": "long. All vortices come to a point. They\nare not like a Birkeland Current, many of",
+    "start": 490.96,
+    "duration": 5.76
+  },
+  {
+    "text": "which are light years in length.\nMarklund convection is a physical process",
+    "start": 496.72,
+    "duration": 4.96
+  },
+  {
+    "text": "that goes on in a certain class of Birkeland Current.\nIt depends on there being actual charged particles",
+    "start": 501.68,
+    "duration": 5.76
+  },
+  {
+    "text": "and electric fields present to interact with each\nother. A process is very different from a shape,",
+    "start": 507.44,
+    "duration": 8.0
+  },
+  {
+    "text": "but a shape can also be many processes.\nNow, let's compare all of this to the",
+    "start": 515.44,
+    "duration": 7.51
+  },
+  {
+    "text": "spiral Periodic Table of Elements. Here's \nWalter Russell's Periodic Table of Elements.",
+    "start": 522.95,
+    "duration": 7.05
+  },
+  {
+    "text": "And here is the Doherty Periodic Table of Elements.\nHave a look-see at the meandering of the",
+    "start": 530.39,
+    "duration": 7.84
+  },
+  {
+    "text": "wave crest and wave trough.\n”We are all electric creatures floating",
+    "start": 538.72,
+    "duration": 5.36
+  },
+  {
+    "text": "in the electric sea of this electric \nuniverse. In more simple words,",
+    "start": 544.08,
+    "duration": 6.24
+  },
+  {
+    "text": "we might say everything in the Universe\nis trying to become every other thing;",
+    "start": 550.32,
+    "duration": 5.04
+  },
+  {
+    "text": "and every condition of everything is trying\nto become every other condition.” The Universe",
+    "start": 555.36,
+    "duration": 8.08
+  },
+  {
+    "text": "indeed seems to be mimicry on all scales,\neverything becoming everything else. Lest we forget",
+    "start": 563.44,
+    "duration": 8.86
+  },
+  {
+    "text": "James Clark Maxwell himself was a great\ngeometer. Just look at the skills of this",
+    "start": 572.39,
+    "duration": 4.65
+  },
+  {
+    "text": "cartographer. He is a map maker and an excellent\none at that. We are all mapping it out in one way or",
+    "start": 577.04,
+    "duration": 6.23
+  },
+  {
+    "text": "another. Ah yes, hopf fibrations, spinors, and twistor\ntheory which fundamentally use Maxwell's equations.",
+    "start": 583.27,
+    "duration": 10.56
+  },
+  {
+    "text": "Look at the similarities there. We have to do a brief\non British physicist Tony Skyrme, or at least his",
+    "start": 593.83,
+    "duration": 7.05
+  },
+  {
+    "text": "work on skyrmions which are theorized\nto be the structure of ball lightning.",
+    "start": 600.88,
+    "duration": 6.32
+  },
+  {
+    "text": "”These objects are quite intricate from a\ngeometric point of view,” said Dr. Sugic.",
+    "start": 607.44,
+    "duration": 5.68
+  },
+  {
+    "text": "\"They resemble a complex system of interlocking \nrings, with the hole forming a particle-like structure.",
+    "start": 613.12,
+    "duration": 7.2
+  },
+  {
+    "text": "What’s particularly interesting is \nthe skyrmion's topological properties -",
+    "start": 620.32,
+    "duration": 5.04
+  },
+  {
+    "text": "they can be distorted, stretched or\nsqueezed, but will not come apart.",
+    "start": 625.36,
+    "duration": 5.52
+  },
+  {
+    "text": "This robustness is one of the properties that\nscientists are most interested in exploiting.”",
+    "start": 630.88,
+    "duration": 6.39
+  },
+  {
+    "text": "If this is true, and these structures\nare inherent in the Doherty set,",
+    "start": 637.27,
+    "duration": 4.17
+  },
+  {
+    "text": "this gives more credence to the predictive power of\nthe set to show off the inner and outer interactions of",
+    "start": 641.44,
+    "duration": 6.07
+  },
+  {
+    "text": "skyrmion behavior, and a seemingly\ninfinite amount of applied combinatorics.",
+    "start": 647.51,
+    "duration": 6.32
+  },
+  {
+    "text": "What these examples show, is magnetic and\nelectromagnetic behavior exhibiting precise geometries.",
+    "start": 653.83,
+    "duration": 7.44
+  },
+  {
+    "text": "We can even think of it as a \ntoroidal node, a filamental Universe.",
+    "start": 661.27,
+    "duration": 5.61
+  },
+  {
+    "text": "It is all double helical, but it is helical\nbecause of its toroidal construction,",
+    "start": 666.88,
+    "duration": 5.92
+  },
+  {
+    "text": "and this idea is true on all scales. ”Most \nof the so-called laws of nature are habits.”",
+    "start": 672.8,
+    "duration": 9.03
+  },
+  {
+    "text": "Idea and memory is constructed within the\nself-descriptive circuit, along with being and form.",
+    "start": 681.83,
+    "duration": 7.12
+  },
+  {
+    "text": "The field creates the form. Higher order magnitudes\nof this integrated information system build up",
+    "start": 688.95,
+    "duration": 6.81
+  },
+  {
+    "text": "cascading morphic resonance, or morphogenetic \nfields. These are quaternion, just like the",
+    "start": 695.76,
+    "duration": 6.31
+  },
+  {
+    "text": "construction of baryonic matter and cell \ngrowth, as well as multiplicity in living systems.",
+    "start": 702.07,
+    "duration": 7.29
+  },
+  {
+    "text": "In mathematics, the Cayley-Dickson construction\nnamed after Arthur Cayley and Leonard Dixon,",
+    "start": 709.36,
+    "duration": 6.0
+  },
+  {
+    "text": "produces a sequence of algebras over \na field of real numbers, each with twice",
+    "start": 715.36,
+    "duration": 4.56
+  },
+  {
+    "text": "the dimension of the previous one.\nThe number of filaments, nested inside of",
+    "start": 719.92,
+    "duration": 5.52
+  },
+  {
+    "text": "filaments, nested inside of filaments, is\na Cayley-Dickson construction. This nesting",
+    "start": 725.44,
+    "duration": 5.28
+  },
+  {
+    "text": "behavior is indicative of coaxial cables and filaments\nas well. Getting back into it, we have Benoit",
+    "start": 730.72,
+    "duration": 7.91
+  },
+  {
+    "text": "Mandelbrot and the fractal revolution which directly\nled to the telecommunication and computing age with",
+    "start": 738.63,
+    "duration": 6.57
+  },
+  {
+    "text": "the introduction of fractal antennas.\nNature is fractal, communication is",
+    "start": 745.2,
+    "duration": 4.96
+  },
+  {
+    "text": "fractal, electricity is fractal. Think fractals,\nfilaments, frequencies – f f f. In music,",
+    "start": 750.16,
+    "duration": 9.28
+  },
+  {
+    "text": "three f’s is a fortissimo, meaning very, very \nloud. I find it very pertinent, because this is",
+    "start": 759.44,
+    "duration": 9.35
+  },
+  {
+    "text": "indeed a very loud message to the world.\nThere is a fractality to everything. We",
+    "start": 768.95,
+    "duration": 7.21
+  },
+  {
+    "text": "are the break in the symmetry. Iterative,\nconstructive and destructive feedback",
+    "start": 776.16,
+    "duration": 4.64
+  },
+  {
+    "text": "loops integrate coherent harmonic\ncircuitry. Worded differently,",
+    "start": 780.8,
+    "duration": 4.56
+  },
+  {
+    "text": "coherence or consciousness in the ether is geometric\nand is composed of a series of fractal feedback loops.",
+    "start": 785.36,
+    "duration": 8.32
+  },
+  {
+    "text": "As self-organizing systems, our integrated \ninformation circuitry is inter-scalar.",
+    "start": 793.68,
+    "duration": 5.92
+  },
+  {
+    "text": "This is a gestalt-type of thinking - the\nparts are related to the whole and the",
+    "start": 799.6,
+    "duration": 4.72
+  },
+  {
+    "text": "whole is related to the parts type of ideation.\nGeometry, and especially the Doherty set",
+    "start": 804.32,
+    "duration": 6.24
+  },
+  {
+    "text": "play an interdisciplinary role in our lives, everyday\nphenomena, and the progression of human knowledge.",
+    "start": 810.56,
+    "duration": 7.51
+  },
+  {
+    "text": "It is self-evident that geometry is a critical\ncomponent of the Electric Universe model of cosmology.",
+    "start": 818.07,
+    "duration": 8.61
+  }
+]

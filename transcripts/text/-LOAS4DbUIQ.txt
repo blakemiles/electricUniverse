@@ -1,0 +1,717 @@
+[
+  {
+    "text": "You've just entered the\ntheater of an alien sky.",
+    "start": 4.614,
+    "duration": 3.3
+  },
+  {
+    "text": "If the words and images\nseem strange to you,",
+    "start": 8.7,
+    "duration": 2.38
+  },
+  {
+    "text": "there's a reason for this.",
+    "start": 11.08,
+    "duration": 2.295
+  },
+  {
+    "text": "Our world was once a\nvastly different place.",
+    "start": 13.4,
+    "duration": 4.0
+  },
+  {
+    "text": "To experience this\nwon't hurt you",
+    "start": 17.948,
+    "duration": 2.522
+  },
+  {
+    "text": "and there is nothing to fear.",
+    "start": 20.495,
+    "duration": 3.125
+  },
+  {
+    "text": "Rituals of Remembering\nand Forgetting",
+    "start": 26.882,
+    "duration": 3.614
+  },
+  {
+    "text": "In these Discourses we\npropose that our Earth",
+    "start": 32.348,
+    "duration": 3.124
+  },
+  {
+    "text": "was formerly joined in a close\ncongregation of planets,",
+    "start": 35.497,
+    "duration": 3.616
+  },
+  {
+    "text": "unlike anything observed today.",
+    "start": 39.138,
+    "duration": 3.009
+  },
+  {
+    "text": "Based on converging\nevidence globally,",
+    "start": 43.662,
+    "duration": 2.812
+  },
+  {
+    "text": "we can name the gathered bodies and\nidentify an extraordinary correspondence",
+    "start": 46.499,
+    "duration": 4.84
+  },
+  {
+    "text": "between celestial events\nas seen from Earth",
+    "start": 51.364,
+    "duration": 3.022
+  },
+  {
+    "text": "and a massive outpouring\nof myths and symbols,",
+    "start": 54.411,
+    "duration": 3.148
+  },
+  {
+    "text": "all inseparably linked to the rapid\nrise of the ancient civilizations.",
+    "start": 57.584,
+    "duration": 5.467
+  },
+  {
+    "text": "In the final analysis, the only\nreason to accept or even to consider",
+    "start": 63.758,
+    "duration": 4.72
+  },
+  {
+    "text": "the reconstruction presented\nhere is predictive ability.",
+    "start": 68.478,
+    "duration": 4.104
+  },
+  {
+    "text": "If the claimed events occurred,",
+    "start": 72.607,
+    "duration": 2.328
+  },
+  {
+    "text": "would we reasonably expect the\nunique narratives and sacred forms",
+    "start": 74.96,
+    "duration": 4.767
+  },
+  {
+    "text": "coming down to us as worldwide\nor archetypal content.",
+    "start": 79.752,
+    "duration": 4.789
+  },
+  {
+    "text": "Our overriding advantage in\nthis respect is specificity.",
+    "start": 84.566,
+    "duration": 4.291
+  },
+  {
+    "text": "It's none of the concrete patterns\nrevealed to us are predictable",
+    "start": 88.882,
+    "duration": 4.059
+  },
+  {
+    "text": "under today's common\nassumptions, not a single one.",
+    "start": 92.966,
+    "duration": 4.008
+  },
+  {
+    "text": "And yet all are concretely\nand specifically predictable",
+    "start": 97.554,
+    "duration": 4.064
+  },
+  {
+    "text": "in the light of the reconstructed\npolar configuration.",
+    "start": 101.643,
+    "duration": 3.991
+  },
+  {
+    "text": "With this episode we will\nbegin enumerating the polar",
+    "start": 108.232,
+    "duration": 3.712
+  },
+  {
+    "text": "configuration's predictive\nability in broader terms",
+    "start": 111.969,
+    "duration": 3.549
+  },
+  {
+    "text": "to lay the groundwork for\nthe episodes to follow.",
+    "start": 115.543,
+    "duration": 3.68
+  },
+  {
+    "text": "The history of recorded human thought\nbegan with the myth-making epoch.",
+    "start": 119.996,
+    "duration": 4.894
+  },
+  {
+    "text": "Enigmatic symbols and magical\npractices told a story of creation,",
+    "start": 125.088,
+    "duration": 5.09
+  },
+  {
+    "text": "catastrophe and\nregeneration of the world.",
+    "start": 130.203,
+    "duration": 3.848
+  },
+  {
+    "text": "Of course the greatest\nmystery of all",
+    "start": 134.765,
+    "duration": 2.52
+  },
+  {
+    "text": "is the very existence of the mythic\narchetypes or common themes.",
+    "start": 137.31,
+    "duration": 4.385
+  },
+  {
+    "text": "We can count them\nby the hundreds.",
+    "start": 141.72,
+    "duration": 2.928
+  },
+  {
+    "text": "Why did every ancient culture\ndeclare that the sky changed",
+    "start": 144.673,
+    "duration": 4.177
+  },
+  {
+    "text": "or that towering gods once ruled\nthe world, then went away?",
+    "start": 148.875,
+    "duration": 4.359
+  },
+  {
+    "text": "Such mysteries invariably\ndirect our attention to deeper",
+    "start": 153.424,
+    "duration": 3.927
+  },
+  {
+    "text": "and progressively more\nspecific questions;",
+    "start": 157.376,
+    "duration": 2.888
+  },
+  {
+    "text": "Why did the world's\nfirst astronomers",
+    "start": 160.422,
+    "duration": 2.408
+  },
+  {
+    "text": "so consistently name the\ngreat gods as planets?",
+    "start": 162.83,
+    "duration": 3.566
+  },
+  {
+    "text": "What was the meaning of the so-called great\nconjunction or perfect conjunction of planets,",
+    "start": 166.421,
+    "duration": 5.552
+  },
+  {
+    "text": "said to have marked the\nbeginning of time?",
+    "start": 171.998,
+    "duration": 3.193
+  },
+  {
+    "text": "And not only that, the planet\nSaturn as a primeval Sun?",
+    "start": 175.216,
+    "duration": 4.871
+  },
+  {
+    "text": "How did the planet Venus earn its\nworldwide identity as the mother goddess?",
+    "start": 180.444,
+    "duration": 5.681
+  },
+  {
+    "text": "Or the planet Mars its global\nreputation as a great warrior?",
+    "start": 187.593,
+    "duration": 5.182
+  },
+  {
+    "text": "And what was the nature of the\nworld altering catastrophe,",
+    "start": 192.981,
+    "duration": 3.712
+  },
+  {
+    "text": "said to have ended\nthis celebrated epoch?",
+    "start": 196.718,
+    "duration": 3.342
+  },
+  {
+    "text": "Like hundreds of other\nmythic archetypes,",
+    "start": 200.267,
+    "duration": 2.895
+  },
+  {
+    "text": "such themes never make sense when\nreferred to our present sky.",
+    "start": 203.187,
+    "duration": 4.196
+  },
+  {
+    "text": "Always they speak for things\nnot seen in our own time.",
+    "start": 207.408,
+    "duration": 4.099
+  },
+  {
+    "text": "How did this\ndisconnection occur?",
+    "start": 211.532,
+    "duration": 2.863
+  },
+  {
+    "text": "We can follow the archetypes\nacross all of human history",
+    "start": 215.537,
+    "duration": 3.595
+  },
+  {
+    "text": "as associated art\nand mythic imagery,",
+    "start": 219.157,
+    "duration": 3.13
+  },
+  {
+    "text": "sacred narratives and\ncountless magical practices",
+    "start": 222.312,
+    "duration": 3.705
+  },
+  {
+    "text": "take us back to a lost\nage of gods and wonders.",
+    "start": 226.042,
+    "duration": 3.938
+  },
+  {
+    "text": "What was the human experience that\nprovoked this ground floor human memory?",
+    "start": 230.005,
+    "duration": 7.245
+  },
+  {
+    "text": "Reconstructing the ancient experience requires\nsystematic cross-cultural comparison.",
+    "start": 237.71,
+    "duration": 6.055
+  },
+  {
+    "text": "That is how we come to recognize\ndifferent myths and symbols",
+    "start": 243.79,
+    "duration": 4.077
+  },
+  {
+    "text": "pointing back to the same events, all\noccurring in the earliest remembered time.",
+    "start": 247.892,
+    "duration": 6.317
+  },
+  {
+    "text": "Within this framework it's only to be\nexpected that an urgent collective memory",
+    "start": 254.234,
+    "duration": 5.321
+  },
+  {
+    "text": "would grow fragmented and\nconfused across the centuries.",
+    "start": 259.58,
+    "duration": 4.349
+  },
+  {
+    "text": "Towering forms in the sky progressively\nlost their cosmic dimensions",
+    "start": 264.35,
+    "duration": 5.164
+  },
+  {
+    "text": "to become legendary ancestors\nof those telling the stories.",
+    "start": 269.539,
+    "duration": 4.427
+  },
+  {
+    "text": "Even the most powerful memories\nslowly gave way to localization,",
+    "start": 274.49,
+    "duration": 4.857
+  },
+  {
+    "text": "every tribal community on earth declaring\nits possession of the original story.",
+    "start": 279.372,
+    "duration": 6.538
+  },
+  {
+    "text": "In this way each regional culture\ncould cling to a proclaimed lineage",
+    "start": 286.942,
+    "duration": 4.798
+  },
+  {
+    "text": "of divinely ordained kings,\nof world-conquering warriors",
+    "start": 291.765,
+    "duration": 4.361
+  },
+  {
+    "text": "and radiant mother figures.",
+    "start": 296.151,
+    "duration": 2.638
+  },
+  {
+    "text": "Competitive claims of this sort lie at the\nheart of all localized mythic rhetoric,",
+    "start": 300.758,
+    "duration": 5.891
+  },
+  {
+    "text": "one effect amongst many was the incessant\ndrive towards regional expansion",
+    "start": 306.674,
+    "duration": 5.264
+  },
+  {
+    "text": "through wars of conquest, always the\nso-called \"holy war\" was animated",
+    "start": 311.963,
+    "duration": 5.091
+  },
+  {
+    "text": "by a perceived divine mission\ndescending from the gods themselves.",
+    "start": 317.079,
+    "duration": 4.967
+  },
+  {
+    "text": "This universal fact will become a key in\nour analysis of the warrior hero theme.",
+    "start": 322.071,
+    "duration": 6.106
+  },
+  {
+    "text": "But there's more to\nthis historic pattern.",
+    "start": 328.202,
+    "duration": 2.613
+  },
+  {
+    "text": "All of the broadly\ndistributed archetypes",
+    "start": 330.84,
+    "duration": 2.813
+  },
+  {
+    "text": "bear identifiable relationships\nto remembered cosmic events.",
+    "start": 333.678,
+    "duration": 4.494
+  },
+  {
+    "text": "To appreciate the\nimpact on humanity,",
+    "start": 338.197,
+    "duration": 2.78
+  },
+  {
+    "text": "the events themselves must be brought\nfully into the light of day.",
+    "start": 341.002,
+    "duration": 4.612
+  },
+  {
+    "text": "In our own time, historians and\ncomparative students of religion",
+    "start": 345.639,
+    "duration": 4.228
+  },
+  {
+    "text": "can only explain world mythology as a\ncarnival of pre-scientific ignorance.",
+    "start": 349.892,
+    "duration": 5.096
+  },
+  {
+    "text": "The specialists just assume\nthat they understand",
+    "start": 355.013,
+    "duration": 3.037
+  },
+  {
+    "text": "what our early ancestors\ndid not understand.",
+    "start": 358.05,
+    "duration": 2.945
+  },
+  {
+    "text": "But that explanation ignores\nhundreds of global patterns",
+    "start": 361.249,
+    "duration": 4.038
+  },
+  {
+    "text": "that would not even be possible in the\nabsence of extraordinary natural events.",
+    "start": 365.312,
+    "duration": 5.697
+  },
+  {
+    "text": "The truth is that expertise will lead\nnowhere in the absence of understanding.",
+    "start": 371.009,
+    "duration": 4.988
+  },
+  {
+    "text": "The great myths arose in an age of\nplanetary instability and cosmic violence,",
+    "start": 376.022,
+    "duration": 5.483
+  },
+  {
+    "text": "including close\napproaches of planets",
+    "start": 381.53,
+    "duration": 2.672
+  },
+  {
+    "text": "and earth-shaking electrical\nexchanges between planets.",
+    "start": 384.227,
+    "duration": 4.15
+  },
+  {
+    "text": "The conclusion in these Discourses\nis that our world, our sky,",
+    "start": 388.402,
+    "duration": 4.811
+  },
+  {
+    "text": "has not always been the stable\nreferent we experience today.",
+    "start": 393.238,
+    "duration": 4.509
+  },
+  {
+    "text": "The events that inspired a transformation\nof human consciousness were cosmic.",
+    "start": 398.358,
+    "duration": 5.104
+  },
+  {
+    "text": "These events are\nnot occurring now.",
+    "start": 403.487,
+    "duration": 2.486
+  },
+  {
+    "text": "Hence it is futile to look for answers\nin the appearance of the sky today.",
+    "start": 405.998,
+    "duration": 4.868
+  },
+  {
+    "text": "The present is not\nthe key to the past.",
+    "start": 410.891,
+    "duration": 2.618
+  },
+  {
+    "text": "Allow for another vantage point\nand everything will make sense.",
+    "start": 413.534,
+    "duration": 3.8
+  },
+  {
+    "text": "But of course, a new vantage point requires\nthat common assumptions be suspended",
+    "start": 417.359,
+    "duration": 4.956
+  },
+  {
+    "text": "to allow the test\nof predictability.",
+    "start": 422.34,
+    "duration": 3.143
+  },
+  {
+    "text": "Of the hundreds of archetypes\nwe've previously named,",
+    "start": 425.508,
+    "duration": 3.299
+  },
+  {
+    "text": "how many would be expected\nunder today's assumptions?",
+    "start": 428.832,
+    "duration": 3.405
+  },
+  {
+    "text": "Not a single one!",
+    "start": 432.262,
+    "duration": 2.19
+  },
+  {
+    "text": "Would you expect the ancient stories of a\nformer central luminary or primeval sun",
+    "start": 434.477,
+    "duration": 5.139
+  },
+  {
+    "text": "different from the body\nwe call sun today?",
+    "start": 439.641,
+    "duration": 2.772
+  },
+  {
+    "text": "Would you expect the preposterous location\nof that body at the celestial pole",
+    "start": 442.438,
+    "duration": 4.951
+  },
+  {
+    "text": "or expect the ludicrous\nidentity of that very luminary",
+    "start": 447.414,
+    "duration": 4.017
+  },
+  {
+    "text": "with the remote planet Saturn?",
+    "start": 451.456,
+    "duration": 2.499
+  },
+  {
+    "text": "Our advantage is that every\ntenet in this reconstruction",
+    "start": 454.257,
+    "duration": 3.921
+  },
+  {
+    "text": "carries explicit testable and\ninescapable implications.",
+    "start": 458.203,
+    "duration": 4.017
+  },
+  {
+    "text": "Once named, the\narchetypes leap out at us",
+    "start": 462.245,
+    "duration": 3.127
+  },
+  {
+    "text": "and as the archetypes are named",
+    "start": 465.397,
+    "duration": 2.183
+  },
+  {
+    "text": "so are the implied relationships\nto other named archetypes.",
+    "start": 467.605,
+    "duration": 3.534
+  },
+  {
+    "text": "This fundamental unity, the ground\nfloor of the human experience,",
+    "start": 471.164,
+    "duration": 4.098
+  },
+  {
+    "text": "is for us the acid test, drawing us into a\ncritical examination of the causative events",
+    "start": 475.287,
+    "duration": 6.5
+  },
+  {
+    "text": "without which no archetypes\ncould even exist.",
+    "start": 481.812,
+    "duration": 4.369
+  },
+  {
+    "text": "The goal is to identify the unified\nsubstructure of human memory.",
+    "start": 486.36,
+    "duration": 4.655
+  },
+  {
+    "text": "The process starts by naming\nthe cross-cultural themes",
+    "start": 491.04,
+    "duration": 3.553
+  },
+  {
+    "text": "and allowing the implications\nto shine through.",
+    "start": 494.618,
+    "duration": 3.132
+  },
+  {
+    "text": "If indeed a common memory lurks\nwithin the historical record,",
+    "start": 497.775,
+    "duration": 4.031
+  },
+  {
+    "text": "the historical detective\nmust first distinguish",
+    "start": 501.831,
+    "duration": 3.238
+  },
+  {
+    "text": "between the archetype and\nits localized expressions.",
+    "start": 505.094,
+    "duration": 3.188
+  },
+  {
+    "text": "Always keep in mind that the\nancient tools of remembering",
+    "start": 508.307,
+    "duration": 3.357
+  },
+  {
+    "text": "invariably became agents\nof forgetfulness as well.",
+    "start": 511.689,
+    "duration": 3.61
+  },
+  {
+    "text": "That's because no local symbol, no\nmythic fragment, no magical reenactment,",
+    "start": 515.324,
+    "duration": 4.968
+  },
+  {
+    "text": "could even begin to capture the full\nintegrity of the original experience.",
+    "start": 520.317,
+    "duration": 4.706
+  },
+  {
+    "text": "No particular myth could possibly\nlead to any reliable conclusions",
+    "start": 525.048,
+    "duration": 5.397
+  },
+  {
+    "text": "as to things actually\nseen in the sky.",
+    "start": 530.47,
+    "duration": 2.8
+  },
+  {
+    "text": "The truth is that\nregional storytelling",
+    "start": 533.295,
+    "duration": 2.933
+  },
+  {
+    "text": "always fostered more\nforgetfulness than remembering.",
+    "start": 536.253,
+    "duration": 3.935
+  },
+  {
+    "text": "And yet, through systematic\ncross-cultural comparison,",
+    "start": 540.213,
+    "duration": 4.199
+  },
+  {
+    "text": "something deeper will reveal\nitself, a dependable integrity",
+    "start": 544.437,
+    "duration": 4.72
+  },
+  {
+    "text": "hidden in the underlying\npoints of agreement",
+    "start": 549.182,
+    "duration": 2.621
+  },
+  {
+    "text": "for an astonishing archetypal\naccord begins to shine through.",
+    "start": 551.828,
+    "duration": 4.706
+  },
+  {
+    "text": "In fact, every logical conclusion\nto be discussed in these Discourses",
+    "start": 556.559,
+    "duration": 4.403
+  },
+  {
+    "text": "will follow simply and directly\nfrom three indisputable facts:",
+    "start": 560.987,
+    "duration": 5.049
+  },
+  {
+    "text": "Firstly, no archetype follows logically\nfrom any natural events observed today.",
+    "start": 566.061,
+    "duration": 6.068
+  },
+  {
+    "text": "Secondly, all archetypes are\nprovably connected to each other,",
+    "start": 572.129,
+    "duration": 4.741
+  },
+  {
+    "text": "no isolated archetypes exist.",
+    "start": 576.87,
+    "duration": 2.694
+  },
+  {
+    "text": "And thirdly, a unified\nexplanation is available to us",
+    "start": 579.589,
+    "duration": 4.73
+  },
+  {
+    "text": "if we allow the archetypes to speak for\nnatural events not occurring today.",
+    "start": 584.344,
+    "duration": 6.58
+  },
+  {
+    "text": "We have named the celestial provocation\nas the polar configuration.",
+    "start": 591.542,
+    "duration": 4.913
+  },
+  {
+    "text": "By giving attention to the impact of these\ngathered planets on human imagination,",
+    "start": 596.645,
+    "duration": 5.27
+  },
+  {
+    "text": "all of the recurrent themes become\nwitnesses to a story told around the world",
+    "start": 601.94,
+    "duration": 5.321
+  },
+  {
+    "text": "and that means hundreds of\narchetypes hiding in plain sight.",
+    "start": 607.286,
+    "duration": 6.087
+  },
+  {
+    "text": "Always look for the\nunderlying form!",
+    "start": 614.723,
+    "duration": 3.64
+  }
+]

@@ -1,0 +1,697 @@
+[
+  {
+    "text": "[Music]",
+    "start": 2.3,
+    "duration": 5.37
+  },
+  {
+    "text": "Our solar system is unusual in many ways\nand one of the strangest features is the",
+    "start": 10.96,
+    "duration": 5.11
+  },
+  {
+    "text": "asteroid belt. Mainstream science\nwill tell you that these are just the",
+    "start": 16.07,
+    "duration": 3.69
+  },
+  {
+    "text": "remnants of the formation process of the \nsolar system. Jupiter is said to have halted the",
+    "start": 19.76,
+    "duration": 5.35
+  },
+  {
+    "text": "formation of a body in its zone. Others \nhave speculated that this was the",
+    "start": 25.11,
+    "duration": 4.56
+  },
+  {
+    "text": "remains of a destroyed planet.\nVelikovsky felt Venus was a newly-formed",
+    "start": 29.67,
+    "duration": 4.72
+  },
+  {
+    "text": "body that had been ejected from Jupiter.\nVenus at this stage was like a comet",
+    "start": 34.39,
+    "duration": 5.21
+  },
+  {
+    "text": "with a large tail. When Mars clashed with\nVenus, asteroids, meteorites, and gases",
+    "start": 39.6,
+    "duration": 5.04
+  },
+  {
+    "text": "were torn from the trailing part of Venus\nand began a semi-independent existence,",
+    "start": 44.64,
+    "duration": 5.52
+  },
+  {
+    "text": "some following the orbit of Mars and some other\nparts. The Electric Universe would build on",
+    "start": 50.16,
+    "duration": 5.91
+  },
+  {
+    "text": "this concept but would place the origin\nof Venus in Saturn, not in Jupiter. It",
+    "start": 56.07,
+    "duration": 5.45
+  },
+  {
+    "text": "therefore stands to reason that\nthese asteroids hold the clues to",
+    "start": 61.52,
+    "duration": 3.67
+  },
+  {
+    "text": "understanding what might have happened\nto our solar system in the past. Vesta",
+    "start": 65.19,
+    "duration": 4.17
+  },
+  {
+    "text": "is one of the largest objects in the\nasteroid belt, second only behind Ceres.",
+    "start": 69.36,
+    "duration": 4.88
+  },
+  {
+    "text": "It has a diameter of 326 miles. Its mass\nconstitutes a staggering nine percent of",
+    "start": 74.24,
+    "duration": 6.16
+  },
+  {
+    "text": "the mass of the Asteroid Belt. It is also\nthe brightest asteroid that is visible",
+    "start": 80.4,
+    "duration": 4.48
+  },
+  {
+    "text": "from Earth. It was first discovered\nback in 1802 by Heinrich Olbers.",
+    "start": 84.88,
+    "duration": 5.19
+  },
+  {
+    "text": "He proposed that these two objects (Ceres and\nVesta) were the remnants of a destroyed planet.",
+    "start": 90.07,
+    "duration": 5.13
+  },
+  {
+    "text": "Vesta's density is lower than those of\nthe four terrestrial planets, but higher",
+    "start": 95.2,
+    "duration": 4.8
+  },
+  {
+    "text": "than most of the asteroids and all of\nthe moons in the solar system, except Io.",
+    "start": 100.0,
+    "duration": 5.6
+  },
+  {
+    "text": "In 2011, Nasa's Dawn mission\narrived to study the asteroid.",
+    "start": 105.6,
+    "duration": 4.15
+  },
+  {
+    "text": "In 2012, an analysis of its shape and\ngravitational field concluded that it",
+    "start": 109.75,
+    "duration": 5.21
+  },
+  {
+    "text": "was not in hydrostatic equilibrium. They speculated\nthat it has a more dense core at the center.",
+    "start": 114.96,
+    "duration": 6.79
+  },
+  {
+    "text": "Vesta has been identified as the source\nof a very common class of meteorite",
+    "start": 121.75,
+    "duration": 4.72
+  },
+  {
+    "text": "which makes up about six percent of the\nmeteorites which fall to Earth. It boasts",
+    "start": 126.47,
+    "duration": 4.73
+  },
+  {
+    "text": "some remarkable features across its surface.\nOne of the largest is the Rheasilvia",
+    "start": 131.2,
+    "duration": 4.08
+  },
+  {
+    "text": "basin which almost rivals Olympus\nMons in terms of height.",
+    "start": 135.28,
+    "duration": 5.2
+  },
+  {
+    "text": "And this is located on the southern pole.\nAstronomers believe that an impact was",
+    "start": 140.48,
+    "duration": 4.88
+  },
+  {
+    "text": "responsible for excavating about one\npercent of the volume of Vesta and",
+    "start": 145.36,
+    "duration": 4.56
+  },
+  {
+    "text": "producing the smaller fragments\nthat rained down on Earth.",
+    "start": 149.92,
+    "duration": 3.59
+  },
+  {
+    "text": "The crater itself looks like no other\ncrater I have ever seen, but we will",
+    "start": 153.51,
+    "duration": 4.41
+  },
+  {
+    "text": "return to this point in a little while.\nAll over the surface there is evidence",
+    "start": 157.92,
+    "duration": 4.24
+  },
+  {
+    "text": "of scarring; many of these so-called\ncraters have sharp edges with no spray",
+    "start": 162.16,
+    "duration": 5.12
+  },
+  {
+    "text": "marks and are more likely indicative \nof electrical etching, where material is",
+    "start": 167.28,
+    "duration": 4.64
+  },
+  {
+    "text": "removed from the surface during repeated \ndischarges. If you look at the entire surface, you",
+    "start": 171.92,
+    "duration": 5.92
+  },
+  {
+    "text": "will start to notice what looks like\ntroughs running across the entire length",
+    "start": 177.84,
+    "duration": 4.31
+  },
+  {
+    "text": "of the asteroid. These have presented\nastronomers with quite a mystery. Some",
+    "start": 182.15,
+    "duration": 5.53
+  },
+  {
+    "text": "have speculated that they might be the\nremnants of a cataclysmic impact. When",
+    "start": 187.68,
+    "duration": 4.24
+  },
+  {
+    "text": "you examine the location of these troughs,\nthey do seem to ring around two massive craters.",
+    "start": 191.92,
+    "duration": 5.67
+  },
+  {
+    "text": "Now astronomers usually try and date\nfeatures by a process called crater counting.",
+    "start": 197.59,
+    "duration": 5.21
+  },
+  {
+    "text": "Here the assumption is that the craters\nwill occur randomly. Older surfaces would",
+    "start": 202.8,
+    "duration": 4.4
+  },
+  {
+    "text": "therefore have been hit more often than\nyounger ones and will therefore display",
+    "start": 207.2,
+    "duration": 4.31
+  },
+  {
+    "text": "more scars. But when they examined the\ncraters on Vesta, they found that there",
+    "start": 211.51,
+    "duration": 4.49
+  },
+  {
+    "text": "wasn't enough information to solidly\ndetermine how the basin and troughs were",
+    "start": 216.0,
+    "duration": 4.48
+  },
+  {
+    "text": "related to each other. This means that\nthey cannot conclusively link the age of",
+    "start": 220.48,
+    "duration": 4.72
+  },
+  {
+    "text": "either crater to the age of the troughs. When \nwe examine the images of both poles of Vesta,",
+    "start": 225.2,
+    "duration": 6.8
+  },
+  {
+    "text": "something rather remarkable stands out\nimmediately. They simply do not look like",
+    "start": 232.0,
+    "duration": 4.56
+  },
+  {
+    "text": "craters at all. In the south pole we see\nthe elevated part off-center in the basin.",
+    "start": 236.56,
+    "duration": 6.48
+  },
+  {
+    "text": "All around the basin the land is higher with what\nappears as a much sharper ridge to the right.",
+    "start": 243.04,
+    "duration": 6.08
+  },
+  {
+    "text": "All along the left and leading both the\ntop and bottom, we see marks that, if this",
+    "start": 249.12,
+    "duration": 5.67
+  },
+  {
+    "text": "was a much larger body, would be\ninterpreted as erosion due to water flow.",
+    "start": 254.79,
+    "duration": 5.6
+  },
+  {
+    "text": "Yet, there is no flowing water on Vesta,\nnor has there ever been any. Further out,",
+    "start": 260.39,
+    "duration": 5.61
+  },
+  {
+    "text": "to the upper right-hand side are the trench lines\nthat encircle about three quarters of the area.",
+    "start": 266.0,
+    "duration": 5.91
+  },
+  {
+    "text": "These features and their connection are\nreally not as obvious when you examine",
+    "start": 271.91,
+    "duration": 4.09
+  },
+  {
+    "text": "individual images on the surface.\nNow many of you will recognize these",
+    "start": 276.0,
+    "duration": 4.32
+  },
+  {
+    "text": "types of features from Mars, where \nelectrical scarring reshaped the landscape.",
+    "start": 280.32,
+    "duration": 5.76
+  },
+  {
+    "text": "Here we seem to have uncovered a relic like no\nothers. Here are examples of dome craters. The",
+    "start": 286.08,
+    "duration": 6.64
+  },
+  {
+    "text": "southern, and to a lesser extent, the \nnorthern basin, has very clear rampart edges.",
+    "start": 292.72,
+    "duration": 6.08
+  },
+  {
+    "text": "Slightly off-center, in the southern\nbasin, we also find the peak which is not",
+    "start": 298.8,
+    "duration": 5.11
+  },
+  {
+    "text": "visible in the northern hemisphere.\nMore remarkable is the river-like shapes",
+    "start": 303.91,
+    "duration": 5.05
+  },
+  {
+    "text": "that seem to fan away and towards the\ncentral basin. They are very reminiscent",
+    "start": 308.96,
+    "duration": 4.23
+  },
+  {
+    "text": "of those found on Mars and also Earth,\nalthough in the latter case most now",
+    "start": 313.19,
+    "duration": 4.56
+  },
+  {
+    "text": "contain water in the form of rivers,\nhiding their origin from view.",
+    "start": 317.75,
+    "duration": 4.97
+  },
+  {
+    "text": "The other pole on Vesta also contains\nsome very strange land features, none",
+    "start": 322.72,
+    "duration": 4.56
+  },
+  {
+    "text": "more striking than what appears as large\nareas which are very smooth. They are located",
+    "start": 327.28,
+    "duration": 6.47
+  },
+  {
+    "text": "around, and inside many of the large craters.\nWe also see examples of dome craters,",
+    "start": 333.75,
+    "duration": 6.72
+  },
+  {
+    "text": "which is a clear sign of electrical\ndischarge. So how can we account for all",
+    "start": 340.47,
+    "duration": 4.65
+  },
+  {
+    "text": "of these phenomena at once?\nElectrical discharge experiments readily",
+    "start": 345.12,
+    "duration": 4.4
+  },
+  {
+    "text": "produce craters with central peaks. Wal\nThornhill envisions that twin Birkeland",
+    "start": 349.52,
+    "duration": 4.8
+  },
+  {
+    "text": "filaments, rotating around each other,\nwould create the dished peaks.",
+    "start": 354.32,
+    "duration": 4.71
+  },
+  {
+    "text": "The large basin also has sides that appear\non three of the sides to be hexagonal",
+    "start": 359.03,
+    "duration": 5.85
+  },
+  {
+    "text": "with a large distortion appearing on the\nleft-hand side of the basin. Hexagonal",
+    "start": 364.88,
+    "duration": 4.56
+  },
+  {
+    "text": "edges are observed in some plasma experiments,\nbut also in examples like the north pole",
+    "start": 369.44,
+    "duration": 6.31
+  },
+  {
+    "text": "of Saturn. All the scarring we see probably\nstems from the event that caused its creation.",
+    "start": 375.75,
+    "duration": 6.33
+  },
+  {
+    "text": "If there was a large discharge between\ntwo large bodies in the solar system,",
+    "start": 382.08,
+    "duration": 4.72
+  },
+  {
+    "text": "this is likely to have excavated\nmaterial from the surface of one of them.",
+    "start": 386.8,
+    "duration": 4.32
+  },
+  {
+    "text": "This is the origin of the asteroid belt.\nThese boulders and dust would have been",
+    "start": 391.12,
+    "duration": 4.63
+  },
+  {
+    "text": "torn away from the parent body. In the \nnear-vacuum of space, the large discharge",
+    "start": 395.75,
+    "duration": 4.33
+  },
+  {
+    "text": "would have structured according to Don Scott's\nmodel, with a series of concentric shells,",
+    "start": 400.08,
+    "duration": 6.16
+  },
+  {
+    "text": "with smallerfilaments within each of these, \nas we saw in Peratt's experiments.",
+    "start": 406.24,
+    "duration": 5.2
+  },
+  {
+    "text": "Now I'll be honest, explaining all of these\nfeatures at once is extremely difficult.",
+    "start": 411.44,
+    "duration": 5.28
+  },
+  {
+    "text": "But here are four possible ways that we could\nexplain all of the features as we see on Vesta.",
+    "start": 416.72,
+    "duration": 7.28
+  },
+  {
+    "text": "The first one, a body the size of Vesta\nwould act as a focus for a Birkeland",
+    "start": 424.0,
+    "duration": 5.12
+  },
+  {
+    "text": "current, due to the presence of a\nhigh density of charged particles.",
+    "start": 429.12,
+    "duration": 4.79
+  },
+  {
+    "text": "In this case a discharge would tend to pinch in\nat Vesta. At a certain threshold the discharge",
+    "start": 433.91,
+    "duration": 5.93
+  },
+  {
+    "text": "beam would start to break up into\nsmaller vortex-like current bundles",
+    "start": 439.84,
+    "duration": 4.72
+  },
+  {
+    "text": "and these will tend to pinch at the\nsurface of the asteroid, causing the",
+    "start": 444.56,
+    "duration": 3.6
+  },
+  {
+    "text": "material to be etched away. The \nridges along the equator might be",
+    "start": 448.16,
+    "duration": 4.24
+  },
+  {
+    "text": "caused by discharges that occur from the equator,\nout to the first shell of the Birkeland current.",
+    "start": 452.4,
+    "duration": 6.07
+  },
+  {
+    "text": "An alternative explanation is that a discharge\noccurred directly onto Vesta. If we assume the",
+    "start": 458.47,
+    "duration": 8.25
+  },
+  {
+    "text": "asteroid had a spinbefore the discharge and\nthat the removal of material from one pole would",
+    "start": 466.72,
+    "duration": 4.4
+  },
+  {
+    "text": "alter the stability of the spin axis and\nmight cause an effect similar to the",
+    "start": 471.12,
+    "duration": 4.88
+  },
+  {
+    "text": "tennis racket theorem, where the\ninstability of one of the three axes of",
+    "start": 476.0,
+    "duration": 4.47
+  },
+  {
+    "text": "rotation can cause the object to flip\nover, and then back in rapid succession.",
+    "start": 480.47,
+    "duration": 5.93
+  },
+  {
+    "text": "Could this account for both poles being etched?\nExamining the surface features, we see",
+    "start": 486.4,
+    "duration": 5.28
+  },
+  {
+    "text": "spiral marks in the northern pole region.\nAre these caused by etching as Vesta",
+    "start": 491.68,
+    "duration": 4.88
+  },
+  {
+    "text": "turned over from one side to the other?\nDid the filaments then break down even",
+    "start": 496.56,
+    "duration": 4.72
+  },
+  {
+    "text": "further, leading to much sharper and\nsmaller etching lines on the southern",
+    "start": 501.28,
+    "duration": 4.4
+  },
+  {
+    "text": "hemisphere? Was enough material then\netched out of the southern pole to",
+    "start": 505.68,
+    "duration": 4.07
+  },
+  {
+    "text": "stabilize the rotation, stopping a further \nflip? The third possibility is something",
+    "start": 509.75,
+    "duration": 5.52
+  },
+  {
+    "text": "called cathode spots. Now an electrical\ncomet acts as a cathode and the Sun acts",
+    "start": 515.27,
+    "duration": 5.12
+  },
+  {
+    "text": "as an anode, and the assumption is that\ncomets are essentially more negative in",
+    "start": 520.39,
+    "duration": 4.81
+  },
+  {
+    "text": "relation to the object like the Sun.\nCould Vesta have become more negative",
+    "start": 525.2,
+    "duration": 5.12
+  },
+  {
+    "text": "and less positive with respect to a\nnearby highly charged body such as Venus?",
+    "start": 530.32,
+    "duration": 6.16
+  },
+  {
+    "text": "If this is true then it discharged to\nthe surface similar to the first one",
+    "start": 536.48,
+    "duration": 4.0
+  },
+  {
+    "text": "that we discussed, and then a phenomenon,\ncalled cathode spots, could explain some",
+    "start": 540.48,
+    "duration": 4.64
+  },
+  {
+    "text": "of the etching marks that we see along the equator\nof Vesta. As the material was excavated during the",
+    "start": 545.12,
+    "duration": 6.48
+  },
+  {
+    "text": "discharge, fine dust would be ejected around\nVesta, which would be partially ionized. This",
+    "start": 551.6,
+    "duration": 6.4
+  },
+  {
+    "text": "plasma forms a ring around the equator.\nThis is inherently unstable and causes",
+    "start": 558.0,
+    "duration": 5.83
+  },
+  {
+    "text": "the formation of cathode spots,\nor short-duration arcs to the surface.",
+    "start": 563.83,
+    "duration": 4.97
+  },
+  {
+    "text": "These melt the surface material. They\nionize it and produce dense plasma with",
+    "start": 568.8,
+    "duration": 5.03
+  },
+  {
+    "text": "copious electrons which can in turn\nenhance the cathode emissions further.",
+    "start": 573.83,
+    "duration": 5.12
+  },
+  {
+    "text": "These energized electrons form a highly\nconducting plasma channel to the first",
+    "start": 578.95,
+    "duration": 4.88
+  },
+  {
+    "text": "cylinder of the larger discharge channel.\nThese arc discharges often create the",
+    "start": 583.83,
+    "duration": 5.21
+  },
+  {
+    "text": "form of grooves pitted out of the\nsurface of the cathode. The last",
+    "start": 589.04,
+    "duration": 3.91
+  },
+  {
+    "text": "possibility is slightly more radical.\nNow some of you will be familiar with a",
+    "start": 592.95,
+    "duration": 4.32
+  },
+  {
+    "text": "series that I created showing Anthony Peratt's\nconcept of how galaxies form in a plasma universe.",
+    "start": 597.27,
+    "duration": 7.12
+  },
+  {
+    "text": "What he discovered was that plasma\nsheets tend to break down into filaments,",
+    "start": 604.39,
+    "duration": 4.25
+  },
+  {
+    "text": "which in turn tend to pair up and wrap around each\nother. There was a delicate balance between the",
+    "start": 608.64,
+    "duration": 5.28
+  },
+  {
+    "text": "repulsion of like charges at short range\nand the long-range attraction due to the",
+    "start": 613.92,
+    "duration": 5.35
+  },
+  {
+    "text": "magnetic field each filament created.\nThis means that as the two filaments",
+    "start": 619.27,
+    "duration": 4.56
+  },
+  {
+    "text": "approached, an area is created between\nthe two filaments where local material,",
+    "start": 623.83,
+    "duration": 4.97
+  },
+  {
+    "text": "which is not part of the filament, gets\ncompressed. In Peratt's model, this",
+    "start": 628.8,
+    "duration": 4.32
+  },
+  {
+    "text": "central area would eventually form the\ngalaxy. What if an ongoing discharge",
+    "start": 633.12,
+    "duration": 4.88
+  },
+  {
+    "text": "between two larger bodies was\nejecting material and dust into the",
+    "start": 638.0,
+    "duration": 4.39
+  },
+  {
+    "text": "surrounding space? The discharge channel\nwas becoming unstable and breaking down",
+    "start": 642.39,
+    "duration": 4.97
+  },
+  {
+    "text": "into smaller filaments, which in turn\nstarted to spiral around each other.",
+    "start": 647.36,
+    "duration": 4.8
+  },
+  {
+    "text": "Could this actually compress the material\nbetween the filaments back into a sphere?",
+    "start": 652.16,
+    "duration": 5.44
+  },
+  {
+    "text": "Peratt described the compression area \nas being similar to those conditions that",
+    "start": 657.6,
+    "duration": 4.56
+  },
+  {
+    "text": "Eric Lerner had tested in his laboratory\nusing a dense plasma focus device.",
+    "start": 662.16,
+    "duration": 4.88
+  },
+  {
+    "text": "Could this environment lead to secondary\ndischarges that etched out the marks that we see?",
+    "start": 667.04,
+    "duration": 5.68
+  },
+  {
+    "text": "Now Peratt was very clear that he felt\nthere were no jets that would exist from",
+    "start": 672.72,
+    "duration": 4.23
+  },
+  {
+    "text": "the core to the two filaments. Instead, \nhe saw these as plasma bridges that,",
+    "start": 676.95,
+    "duration": 5.53
+  },
+  {
+    "text": "depending on the viewing angle, would look \nlike jets. But it was also clear that he did not",
+    "start": 682.48,
+    "duration": 6.0
+  },
+  {
+    "text": "model the core in his simulations. So\nwhat we see as just large asteroids,",
+    "start": 688.48,
+    "duration": 5.44
+  },
+  {
+    "text": "actually contain many secrets that\nhelp us to try and reconstruct the",
+    "start": 693.92,
+    "duration": 4.08
+  },
+  {
+    "text": "circumstances under which they formed.\nThe more we examine these lumps of rock,",
+    "start": 698.0,
+    "duration": 5.27
+  },
+  {
+    "text": "the more that they reveal about the cataclysmic\nelectrical events that have shaped our past.",
+    "start": 703.27,
+    "duration": 7.65
+  },
+  {
+    "text": "[Music]",
+    "start": 713.3,
+    "duration": 15.5
+  }
+]

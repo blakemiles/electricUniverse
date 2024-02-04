@@ -1,0 +1,507 @@
+[
+  {
+    "text": "Welcome to Space News from the Electric\nUniverse, brought to you by The",
+    "start": 0.0,
+    "duration": 11.73
+  },
+  {
+    "text": "Thunderbolts Project at Thunderbolts.info.",
+    "start": 11.73,
+    "duration": 2.76
+  },
+  {
+    "text": "A new discovery is again challenging\nplanetary scientists' ideas about impacts",
+    "start": 14.49,
+    "duration": 7.379
+  },
+  {
+    "text": "from space and the rate at which they\nare thought to strike the Earth. For",
+    "start": 21.869,
+    "duration": 4.23
+  },
+  {
+    "text": "decades, many scientists have believed\nthat asteroid bombardments, such as that",
+    "start": 26.099,
+    "duration": 4.621
+  },
+  {
+    "text": "which is thought to have killed the\ndinosaurs, occur on our planet at regular",
+    "start": 30.72,
+    "duration": 4.14
+  },
+  {
+    "text": "intervals of about every 26 million\nyears. A popular theory was that a dim",
+    "start": 34.86,
+    "duration": 5.039
+  },
+  {
+    "text": "companion star called Nemesis would\napproach our Sun at 26 million year",
+    "start": 39.899,
+    "duration": 4.59
+  },
+  {
+    "text": "intervals, inevitably causing mass\nextinctions on Earth. However, the",
+    "start": 44.489,
+    "duration": 4.951
+  },
+  {
+    "text": "companion star has never been found and\nthe problems for the hypothesis have",
+    "start": 49.44,
+    "duration": 4.529
+  },
+  {
+    "text": "continued to grow. Recently, a team of\nscientists performed analysis of 22",
+    "start": 53.969,
+    "duration": 4.77
+  },
+  {
+    "text": "craters on Earth, which are thought to\nhave formed from impacts within the last",
+    "start": 58.739,
+    "duration": 3.75
+  },
+  {
+    "text": "five hundred million years. A phys.org\nreport on the study describes the",
+    "start": 62.489,
+    "duration": 5.13
+  },
+  {
+    "text": "research as follows, \"The timeline of\nevents was represented in a circle",
+    "start": 67.619,
+    "duration": 4.411
+  },
+  {
+    "text": "with a particular range - in this case, 26\nmillion years. If events repeated",
+    "start": 72.03,
+    "duration": 5.31
+  },
+  {
+    "text": "themselves regularly within this time-\nspan, the points would have arranged",
+    "start": 77.34,
+    "duration": 4.02
+  },
+  {
+    "text": "themselves in a particular area of the\ncircle. The researchers showed that there",
+    "start": 81.36,
+    "duration": 4.259
+  },
+  {
+    "text": "was no such accumulation.\" The greatest\nproblem that the study revealed is that",
+    "start": 85.619,
+    "duration": 4.561
+  },
+  {
+    "text": "some massive so-called impact craters\nappeared to be almost precisely the same",
+    "start": 90.18,
+    "duration": 4.38
+  },
+  {
+    "text": "age, even though they appear on different\ncontinents. The co-author of the study",
+    "start": 94.56,
+    "duration": 5.04
+  },
+  {
+    "text": "states, \"Some of these craters could have\nbeen formed by the collision of an",
+    "start": 99.6,
+    "duration": 4.14
+  },
+  {
+    "text": "asteroid accompanied by a moon. But in\nother cases, the impact sites are too far",
+    "start": 103.74,
+    "duration": 5.519
+  },
+  {
+    "text": "away from each other for this to be the\nexplanation.\" When asked to explain the",
+    "start": 109.259,
+    "duration": 4.351
+  },
+  {
+    "text": "appearance of Chicxulub crater in Mexico\nand the Boltysh crater in the Ukraine,",
+    "start": 113.61,
+    "duration": 4.259
+  },
+  {
+    "text": "which are thought to have each formed from\nimpacts around the same time about 66",
+    "start": 117.869,
+    "duration": 4.53
+  },
+  {
+    "text": "million years ago; the author states, \"We\nhave no definitive explanation for that.\"",
+    "start": 122.399,
+    "duration": 5.131
+  },
+  {
+    "text": "But one of the greatest mistakes in\nmodern geology is the assumption that",
+    "start": 127.53,
+    "duration": 4.02
+  },
+  {
+    "text": "the only\nprocesses responsible for craters are",
+    "start": 131.55,
+    "duration": 2.79
+  },
+  {
+    "text": "either impacts or volcanism. On this\nseries, we have repeatedly reported on",
+    "start": 134.34,
+    "duration": 5.28
+  },
+  {
+    "text": "the experimental research which has\nproven that electrical discharges",
+    "start": 139.62,
+    "duration": 3.6
+  },
+  {
+    "text": "produced almost every known type of\ncrater, including many heretofore",
+    "start": 143.22,
+    "duration": 4.32
+  },
+  {
+    "text": "anomalous crater types; from crater\nchains to hexagonal craters, smaller",
+    "start": 147.54,
+    "duration": 7.98
+  },
+  {
+    "text": "craters appearing preferentially on the\nrims of larger craters and the",
+    "start": 155.52,
+    "duration": 5.01
+  },
+  {
+    "text": "improbably high rate of highly circular\ncraters. In fact airless worlds, such as",
+    "start": 160.53,
+    "duration": 6.12
+  },
+  {
+    "text": "Mercury, the dwarf planet Ceres and our\nown Moon, reveal bodies that bear startling",
+    "start": 166.65,
+    "duration": 6.21
+  },
+  {
+    "text": "resemblances to the cratered surfaces in\nan industrial process called electrical",
+    "start": 172.86,
+    "duration": 4.41
+  },
+  {
+    "text": "discharge machining. In the Electric\nUniverse theory, Earth also features",
+    "start": 177.27,
+    "duration": 6.15
+  },
+  {
+    "text": "dramatic craters which formed not from\nimpacts but from high-energy electrical",
+    "start": 183.42,
+    "duration": 4.59
+  },
+  {
+    "text": "discharges. Let us look closely at one of\nthe most dramatic and widely studied",
+    "start": 188.01,
+    "duration": 4.77
+  },
+  {
+    "text": "alleged impact craters on Earth. The\nelectrical interpretation changes",
+    "start": 192.78,
+    "duration": 4.44
+  },
+  {
+    "text": "everything institutional science tells\nus about so-called extinction-level",
+    "start": 197.22,
+    "duration": 3.87
+  },
+  {
+    "text": "events due to giant impacts from space.\nThe aforementioned Chicxulub crater is",
+    "start": 201.09,
+    "duration": 5.73
+  },
+  {
+    "text": "widely accepted to be the impact site of\nthe asteroid that killed off the",
+    "start": 206.82,
+    "duration": 3.9
+  },
+  {
+    "text": "dinosaurs. In 2006, The Thunderbolts\nProject published The Picture Of The Day",
+    "start": 210.72,
+    "duration": 5.4
+  },
+  {
+    "text": "article that analyzes in depth the\nevidence that, scientists believe,",
+    "start": 216.12,
+    "duration": 3.81
+  },
+  {
+    "text": "supports the giant impact theory of the\ncrater's formation. We summarize the",
+    "start": 219.93,
+    "duration": 5.309
+  },
+  {
+    "text": "analysis here. The crater is a circular\nstructure up to 300 kilometers across,",
+    "start": 225.239,
+    "duration": 4.651
+  },
+  {
+    "text": "which mostly lies under the water off\nthe coast of the Yucatan Peninsula in",
+    "start": 229.89,
+    "duration": 5.04
+  },
+  {
+    "text": "the Gulf of Mexico. The crater's multiple\nconcentric rings are thought to have",
+    "start": 234.93,
+    "duration": 4.47
+  },
+  {
+    "text": "resulted from the shock of the impact\nwhich would have blasted debris high",
+    "start": 239.4,
+    "duration": 4.08
+  },
+  {
+    "text": "into the atmosphere and around the world.\nA layer of iridium-enriched sediment has",
+    "start": 243.48,
+    "duration": 5.22
+  },
+  {
+    "text": "been found worldwide, supposedly the\nresult of the debris cloud from the",
+    "start": 248.7,
+    "duration": 4.259
+  },
+  {
+    "text": "theoretical impact event. Other evidence\nis thought to exist in the form of",
+    "start": 252.959,
+    "duration": 4.411
+  },
+  {
+    "text": "melted spherules and shocked quartz\ncrystals, found in formations around the",
+    "start": 257.37,
+    "duration": 4.049
+  },
+  {
+    "text": "Gulf, which are believed to be debris\nleft by the impact",
+    "start": 261.419,
+    "duration": 3.131
+  },
+  {
+    "text": "induced tsunami. Above the bed of\nspherules is a thick layer of jumbled",
+    "start": 264.55,
+    "duration": 5.01
+  },
+  {
+    "text": "rocks, including large boulders and\ncobbles. The distribution of the iridium",
+    "start": 269.56,
+    "duration": 5.759
+  },
+  {
+    "text": "layer is contrary to the expected drift\nof a debris cloud. Impacts from various",
+    "start": 275.319,
+    "duration": 5.22
+  },
+  {
+    "text": "angles have been proposed to try to\nexplain both the crater asymmetry and",
+    "start": 280.539,
+    "duration": 4.021
+  },
+  {
+    "text": "distribution of ejecta. Cores inside the\ncrater reveal Upper Cretaceous fossils",
+    "start": 284.56,
+    "duration": 5.43
+  },
+  {
+    "text": "in undisturbed layers -- fossils of the\ncreatures that the impact was supposed",
+    "start": 289.99,
+    "duration": 4.079
+  },
+  {
+    "text": "to have wiped out. Clearly, these layers\nwere laid down after the events.",
+    "start": 294.069,
+    "duration": 5.431
+  },
+  {
+    "text": "Additionally, the alleged tsunami\ndeposits in Mexico, Guatemala and Belize,",
+    "start": 299.5,
+    "duration": 5.129
+  },
+  {
+    "text": "show layering that suggested some were\nlaid down over a long time. These include",
+    "start": 304.629,
+    "duration": 5.671
+  },
+  {
+    "text": "separate layers with embedded spherules\nthat had been claimed to be direct",
+    "start": 310.3,
+    "duration": 3.6
+  },
+  {
+    "text": "ejecta fallout from the Chicxulub impact.\nRecent investigation linked two such",
+    "start": 313.9,
+    "duration": 5.85
+  },
+  {
+    "text": "layers to \"two events separated by\nthousands of years during which",
+    "start": 319.75,
+    "duration": 4.83
+  },
+  {
+    "text": "limestones accumulated and\ninvertebrates burrowed down on the ocean",
+    "start": 324.58,
+    "duration": 3.929
+  },
+  {
+    "text": "floor.\" Extinctions always seem to\ncoincide with both continental flood",
+    "start": 328.509,
+    "duration": 4.77
+  },
+  {
+    "text": "basalts and imagined meteorite impacts\nbut under the prevailing interpretation",
+    "start": 333.279,
+    "duration": 5.221
+  },
+  {
+    "text": "the odds of this happening\nsimultaneously are vanishingly small. The",
+    "start": 338.5,
+    "duration": 4.56
+  },
+  {
+    "text": "electrical origin of the Chicxulub\ncrater and surrounding geology resolves",
+    "start": 343.06,
+    "duration": 4.44
+  },
+  {
+    "text": "all of the contradictions of the\nevidence. The electrical current of the",
+    "start": 347.5,
+    "duration": 3.9
+  },
+  {
+    "text": "cosmic thunderbolt, lasting longer than\nthe forces of an impact, would have",
+    "start": 351.4,
+    "duration": 4.229
+  },
+  {
+    "text": "melted large amounts of material and\nformed vast clouds of spherules, a key",
+    "start": 355.629,
+    "duration": 4.831
+  },
+  {
+    "text": "signature of electrical discharge. Indeed,\nmore than 99 percent of the global",
+    "start": 360.46,
+    "duration": 4.139
+  },
+  {
+    "text": "iridium layer is made of the spherules--\ndroplets that condensed from vaporized",
+    "start": 364.599,
+    "duration": 4.981
+  },
+  {
+    "text": "rock. Only the remaining 1% of the debris\nconsisted of rock pulverized directly",
+    "start": 369.58,
+    "duration": 6.089
+  },
+  {
+    "text": "into dust. The spherule-producing\nability of discharges has been",
+    "start": 375.669,
+    "duration": 4.231
+  },
+  {
+    "text": "demonstrated in laboratory experiments.\nAlso, the electromagnetic pinch effect in",
+    "start": 379.9,
+    "duration": 5.009
+  },
+  {
+    "text": "a discharge channel can generate\nextremely large pressures sufficient to",
+    "start": 384.909,
+    "duration": 4.41
+  },
+  {
+    "text": "shock quartz crystals. When it comes to\nthe question of mass extinctions, it is",
+    "start": 389.319,
+    "duration": 5.16
+  },
+  {
+    "text": "not clear that an impact like the one\nclaimed to have created the Chicxulub",
+    "start": 394.479,
+    "duration": 3.751
+  },
+  {
+    "text": "crater is sufficient to cause such a thing.\nThe complexities of the evidence for",
+    "start": 398.23,
+    "duration": 4.41
+  },
+  {
+    "text": "extinctions do not find simple\nexplanations in either impact or",
+    "start": 402.64,
+    "duration": 3.78
+  },
+  {
+    "text": "volcanic models. But the one obvious\nfactor that is never mentioned is that",
+    "start": 406.42,
+    "duration": 4.74
+  },
+  {
+    "text": "the dinosaur megafauna cannot survive on\nthe present Earth because they are too",
+    "start": 411.16,
+    "duration": 4.23
+  },
+  {
+    "text": "heavy to live. It seems to be forgotten\nthat the early dinosaur discoveries forced",
+    "start": 415.39,
+    "duration": 5.04
+  },
+  {
+    "text": "scientists to conclude that they must\nhave been waders to offset their great",
+    "start": 420.43,
+    "duration": 3.6
+  },
+  {
+    "text": "weight. Whatever happened to the\ndinosaurs was far more than a puny",
+    "start": 424.03,
+    "duration": 4.35
+  },
+  {
+    "text": "asteroid impact could inflict. Nothing\nwas the same on Earth after a global",
+    "start": 428.38,
+    "duration": 5.04
+  },
+  {
+    "text": "alteration of Earth's gravity. The\ntriumph of the impact model was not so",
+    "start": 433.42,
+    "duration": 4.29
+  },
+  {
+    "text": "much because of its adequacy in\nexplaining the evidence as it was a",
+    "start": 437.71,
+    "duration": 3.12
+  },
+  {
+    "text": "default result. Only impact and volcanic\nexplanations were considered. And the",
+    "start": 440.83,
+    "duration": 5.43
+  },
+  {
+    "text": "spherules and shocked quartz clearly ruled\nout vulcanism. As theoretical",
+    "start": 446.26,
+    "duration": 4.23
+  },
+  {
+    "text": "geophysicist Jay Melosh says, \"We know so\nlittle about impacts.\" But an electrical",
+    "start": 450.49,
+    "duration": 6.39
+  },
+  {
+    "text": "mechanism was never considered because\nastronomers assure geologists that the",
+    "start": 456.88,
+    "duration": 4.08
+  },
+  {
+    "text": "planets have always been under present\norbits and electrical events in space",
+    "start": 460.96,
+    "duration": 4.41
+  },
+  {
+    "text": "never happen.",
+    "start": 465.37,
+    "duration": 2.81
+  },
+  {
+    "text": "For continuous updates on Space News\nfrom the Electric Universe, stay tuned to",
+    "start": 468.18,
+    "duration": 5.07
+  },
+  {
+    "text": "Thunderbolts.info",
+    "start": 473.25,
+    "duration": 3.53
+  }
+]

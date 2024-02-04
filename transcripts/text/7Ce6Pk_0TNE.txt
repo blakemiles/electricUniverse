@@ -1,0 +1,667 @@
+[
+  {
+    "text": "Welcome the Space News\nfrom the Electric Universe",
+    "start": 0.001,
+    "duration": 2.879
+  },
+  {
+    "text": "brought to you by The\nThunderbolts Project™",
+    "start": 2.905,
+    "duration": 2.26
+  },
+  {
+    "text": "at thunderbolts.info",
+    "start": 5.19,
+    "duration": 3.31
+  },
+  {
+    "text": "On February 15th 2013, a large\nmeteor exploded violently",
+    "start": 8.763,
+    "duration": 5.26
+  },
+  {
+    "text": "in the sky over the\nUrals region Russia.",
+    "start": 14.048,
+    "duration": 3.102
+  },
+  {
+    "text": "Thousands of homes and buildings were\ndamaged and more than 1,400 were injured",
+    "start": 17.175,
+    "duration": 5.049
+  },
+  {
+    "text": "by the explosion which\nproduced as much energy",
+    "start": 22.249,
+    "duration": 2.78
+  },
+  {
+    "text": "as two dozen Hiroshima\nsized atomic bombs.",
+    "start": 25.054,
+    "duration": 3.804
+  },
+  {
+    "text": "The object was the largest to\nstrike the Earth in over a century",
+    "start": 28.883,
+    "duration": 3.546
+  },
+  {
+    "text": "since the Tunguska\nmeteor of 1908.",
+    "start": 32.454,
+    "duration": 3.203
+  },
+  {
+    "text": "Astronomers tell us that meteors\nare electrically neutral rocks",
+    "start": 35.682,
+    "duration": 4.01
+  },
+  {
+    "text": "that sometimes explode due to heating\nand pressure in Earth's atmosphere.",
+    "start": 39.717,
+    "duration": 5.216
+  },
+  {
+    "text": "But when we examine the Russian meteor,\ndoes this explanation fit with the facts?",
+    "start": 45.457,
+    "duration": 6.34
+  },
+  {
+    "text": "Well, it was big, they say it was the biggest\nthing to hit the Earth in 100 years.",
+    "start": 52.308,
+    "duration": 6.468
+  },
+  {
+    "text": "It didn't really hit the\nsurface of the Earth",
+    "start": 59.252,
+    "duration": 2.276
+  },
+  {
+    "text": "because it exploded\nhigh in the atmosphere",
+    "start": 61.553,
+    "duration": 2.839
+  },
+  {
+    "text": "and this itself raises\nan important question",
+    "start": 64.417,
+    "duration": 2.725
+  },
+  {
+    "text": "because it's not actually\nunderstood how all this happened.",
+    "start": 67.167,
+    "duration": 4.152
+  },
+  {
+    "text": "Ironically the event was caught on many\ncameras because Russian drivers,",
+    "start": 71.787,
+    "duration": 4.76
+  },
+  {
+    "text": "in order to defend\nthemselves in court",
+    "start": 76.572,
+    "duration": 2.837
+  },
+  {
+    "text": "or to collect insurance, had\ninstalled dashboard cameras.",
+    "start": 79.434,
+    "duration": 4.904
+  },
+  {
+    "text": "So many were driving eastward in the\nvicinity of Chelyabinsk, Russia,",
+    "start": 84.941,
+    "duration": 6.031
+  },
+  {
+    "text": "February 15th, and suddenly\nthey and their cameras",
+    "start": 90.997,
+    "duration": 4.342
+  },
+  {
+    "text": "had a perfect view of\nan incredible spectacle",
+    "start": 95.364,
+    "duration": 3.537
+  },
+  {
+    "text": "as this cosmic intruder\nlit up the dawn sky.",
+    "start": 98.926,
+    "duration": 4.457
+  },
+  {
+    "text": "Based on infrasound data from around\nthe world, NASA scientists now say",
+    "start": 104.532,
+    "duration": 4.806
+  },
+  {
+    "text": "that the meteorite was more than 1,000\ntimes larger than originally believed",
+    "start": 109.363,
+    "duration": 5.439
+  },
+  {
+    "text": "this modified conclusion reveals\nthe difficulty for astronomers",
+    "start": 114.827,
+    "duration": 4.513
+  },
+  {
+    "text": "in explaining the extraordinary\nenergies of the exploding meteor.",
+    "start": 119.365,
+    "duration": 4.599
+  },
+  {
+    "text": "The evolving scientific interpretations\nduring the day are interesting",
+    "start": 124.709,
+    "duration": 5.151
+  },
+  {
+    "text": "particularly the interpretations\nof size based on visual data.",
+    "start": 129.885,
+    "duration": 4.828
+  },
+  {
+    "text": "Initial estimates, coming from\nthe Russian Academy of Sciences",
+    "start": 134.738,
+    "duration": 3.911
+  },
+  {
+    "text": "implied a small body\nweighing perhaps 10 tons",
+    "start": 138.674,
+    "duration": 4.453
+  },
+  {
+    "text": "but just a bit later in the morning\nastonishing infrasound data",
+    "start": 143.152,
+    "duration": 4.329
+  },
+  {
+    "text": "from stations as far\naway as Greenland and Africa came in",
+    "start": 147.506,
+    "duration": 4.087
+  },
+  {
+    "text": "at the low frequencies of infrasound\nwell below human hearing",
+    "start": 151.618,
+    "duration": 4.212
+  },
+  {
+    "text": "the event was heard\naround the world.",
+    "start": 155.855,
+    "duration": 2.894
+  },
+  {
+    "text": "NASA then released new\nestimates of size,",
+    "start": 158.774,
+    "duration": 3.488
+  },
+  {
+    "text": "not 10 tons, but 10,000 tons!",
+    "start": 162.287,
+    "duration": 4.411
+  },
+  {
+    "text": "The implied energies were\nincomparably greater",
+    "start": 166.723,
+    "duration": 3.179
+  },
+  {
+    "text": "than the visual trail in the\nsky had initially suggested.",
+    "start": 169.927,
+    "duration": 4.333
+  },
+  {
+    "text": "In fact, that trail alone made\nit look as if the bolide",
+    "start": 174.285,
+    "duration": 3.956
+  },
+  {
+    "text": "was fully degraded before\nreaching the ground.",
+    "start": 178.266,
+    "duration": 3.749
+  },
+  {
+    "text": "Complicating this question of size is the\nfact that the envisioned 10,000 ton body",
+    "start": 182.991,
+    "duration": 6.516
+  },
+  {
+    "text": "failed to create any\nimpact site on Earth.",
+    "start": 189.532,
+    "duration": 3.926
+  },
+  {
+    "text": "But if the picture\nis left in confusion",
+    "start": 193.483,
+    "duration": 2.887
+  },
+  {
+    "text": "that's because no one has addressed the\nevident electrical component of the event.",
+    "start": 196.37,
+    "duration": 5.371
+  },
+  {
+    "text": "Infrasound is the efficient vehicle for\nsound transmission from electrical blasts",
+    "start": 201.766,
+    "duration": 6.354
+  },
+  {
+    "text": "such as lightning from\nthe upper atmosphere.",
+    "start": 208.145,
+    "duration": 2.976
+  },
+  {
+    "text": "It's electrical energy that fills in\nthe missing pieces of the story.",
+    "start": 211.146,
+    "duration": 5.149
+  },
+  {
+    "text": "Scientists loosely concluded that the\nrock was perhaps 55 feet in diameter",
+    "start": 216.881,
+    "duration": 6.128
+  },
+  {
+    "text": "arriving at 40,000 miles per hour,\nproducing a trail some 125 miles long.",
+    "start": 223.034,
+    "duration": 7.983
+  },
+  {
+    "text": "A huge explosion high in the atmosphere\nproduced a shockwave injuring 1,400 people,",
+    "start": 232.236,
+    "duration": 6.941
+  },
+  {
+    "text": "largely from flying glass.",
+    "start": 239.202,
+    "duration": 2.061
+  },
+  {
+    "text": "That explosion makes this an\nunprecedented event in modern times.",
+    "start": 241.288,
+    "duration": 5.031
+  },
+  {
+    "text": "This entire display\noccurred in just 30 seconds,",
+    "start": 246.937,
+    "duration": 3.997
+  },
+  {
+    "text": "and it's been assumed that\nthe explosion occurred",
+    "start": 250.959,
+    "duration": 2.778
+  },
+  {
+    "text": "because of internal\nheat and pressure.",
+    "start": 253.762,
+    "duration": 2.449
+  },
+  {
+    "text": "But how likely is it that in just\n30 seconds the center of the rock",
+    "start": 256.236,
+    "duration": 4.903
+  },
+  {
+    "text": "could be heated to the temperatures\nrequired for it to explode?",
+    "start": 261.164,
+    "duration": 4.663
+  },
+  {
+    "text": "When larger meteorites\nhave landed on the Earth",
+    "start": 265.852,
+    "duration": 3.587
+  },
+  {
+    "text": "very quickly, they became stone-cold due\nto the freezing internal temperatures.",
+    "start": 269.439,
+    "duration": 6.117
+  },
+  {
+    "text": "If you're wondering about this\nyou might try an experiment.",
+    "start": 276.524,
+    "duration": 3.394
+  },
+  {
+    "text": "Take an acetylene torch to a\ngood-sized rock for 30 seconds,",
+    "start": 279.943,
+    "duration": 4.753
+  },
+  {
+    "text": "you'll create a surface temperature\nover 1,600 degree Celsius,",
+    "start": 284.988,
+    "duration": 4.987
+  },
+  {
+    "text": "more than 3,000\ndegrees Fahrenheit,",
+    "start": 290.0,
+    "duration": 2.705
+  },
+  {
+    "text": "you'll see that the heat from melting\nrock has not been transferred",
+    "start": 292.73,
+    "duration": 4.086
+  },
+  {
+    "text": "more than a few inches at most.",
+    "start": 296.841,
+    "duration": 2.588
+  },
+  {
+    "text": "But somehow due to energies\ninside the Russian fireball,",
+    "start": 299.454,
+    "duration": 4.755
+  },
+  {
+    "text": "it exploded so violently\nand so completely",
+    "start": 304.234,
+    "duration": 3.42
+  },
+  {
+    "text": "that only tiny gravelly\npieces could be found.",
+    "start": 307.679,
+    "duration": 3.794
+  },
+  {
+    "text": "And incidentally it was\nbriefly thought that",
+    "start": 311.498,
+    "duration": 2.54
+  },
+  {
+    "text": "a 20 foot hole in the ice of\na lake west of Chelyabinsk",
+    "start": 314.063,
+    "duration": 4.155
+  },
+  {
+    "text": "was caused by residual\nchunk of the bolide,",
+    "start": 318.243,
+    "duration": 3.731
+  },
+  {
+    "text": "so divers investigated,\nthey could find nothing.",
+    "start": 321.999,
+    "duration": 4.164
+  },
+  {
+    "text": "Disintegration began some\n30 miles above the Earth",
+    "start": 326.899,
+    "duration": 3.785
+  },
+  {
+    "text": "then in just half a minute\nit released the energy",
+    "start": 330.709,
+    "duration": 2.999
+  },
+  {
+    "text": "of some 20 or more Hiroshima\nsized atomic bombs",
+    "start": 333.733,
+    "duration": 4.18
+  },
+  {
+    "text": "including a blinding flash that was described\nby one observer as bright as 10 Suns.",
+    "start": 337.938,
+    "duration": 6.886
+  },
+  {
+    "text": "Onlookers had to turn\naway from the glare.",
+    "start": 344.849,
+    "duration": 3.23
+  },
+  {
+    "text": "It's hard to see how the common\npicture could even work.",
+    "start": 348.104,
+    "duration": 3.499
+  },
+  {
+    "text": "Heat the leading edge of the rock\njust to a melting temperature",
+    "start": 351.628,
+    "duration": 3.69
+  },
+  {
+    "text": "and every bit of melted rock would\ncontinually be blown off the object",
+    "start": 355.343,
+    "duration": 4.521
+  },
+  {
+    "text": "by the winds at thousands\nof miles per hour.",
+    "start": 359.889,
+    "duration": 3.77
+  },
+  {
+    "text": "How could this spectacular blaster of light\nby this object be produced in such a way?",
+    "start": 364.404,
+    "duration": 6.492
+  },
+  {
+    "text": "The blinding flare-up\nsaturated the cameras,",
+    "start": 370.921,
+    "duration": 3.574
+  },
+  {
+    "text": "a perfect analogy to the electric glare\nof an arc furnace or an arc welder.",
+    "start": 374.52,
+    "duration": 6.53
+  },
+  {
+    "text": "One video in particular\nrequires closer examination,",
+    "start": 381.662,
+    "duration": 4.166
+  },
+  {
+    "text": "because it's suggestive of exploding\nmaterial much like you see in arc welding",
+    "start": 385.853,
+    "duration": 5.331
+  },
+  {
+    "text": "projected in the direction\nof the objects flight.",
+    "start": 391.209,
+    "duration": 3.595
+  },
+  {
+    "text": "We can't vouch for the authenticity of\nthis video, nor should we ignore it.",
+    "start": 395.193,
+    "duration": 6.289
+  },
+  {
+    "text": "We can only hope it will be scrutinized\nup to the level it deserves.",
+    "start": 401.507,
+    "duration": 5.813
+  },
+  {
+    "text": "What is certain is that\nthe meteor did explode",
+    "start": 409.332,
+    "duration": 3.498
+  },
+  {
+    "text": "and in the manner expected\nof a charged body",
+    "start": 412.855,
+    "duration": 3.154
+  },
+  {
+    "text": "disintegrating under\nelectrical stresses.",
+    "start": 416.034,
+    "duration": 2.781
+  },
+  {
+    "text": "You see this in an\nexploding capacitor",
+    "start": 418.84,
+    "duration": 2.723
+  },
+  {
+    "text": "as non conductive material\nviolently breaks down,",
+    "start": 421.588,
+    "duration": 3.64
+  },
+  {
+    "text": "that's the electrical interpretation\nof this Russian meteor explosion.",
+    "start": 425.253,
+    "duration": 5.659
+  },
+  {
+    "text": "Another example in the\nelectrical viewpoint",
+    "start": 433.043,
+    "duration": 3.365
+  },
+  {
+    "text": "would be the sudden flaring and\ndisintegration of negatively charged comets,",
+    "start": 436.433,
+    "duration": 5.323
+  },
+  {
+    "text": "as occurred in the cases\nof the comet Elenin,",
+    "start": 441.781,
+    "duration": 3.648
+  },
+  {
+    "text": "comet Holmes,",
+    "start": 445.454,
+    "duration": 2.3
+  },
+  {
+    "text": "comet Schwassmann-Wachmann,",
+    "start": 447.779,
+    "duration": 3.223
+  },
+  {
+    "text": "comet LINEAR and others",
+    "start": 451.027,
+    "duration": 3.124
+  },
+  {
+    "text": "the demise of the comets occured\nnot due to warming from the Sun,",
+    "start": 454.176,
+    "duration": 4.656
+  },
+  {
+    "text": "but in response to charged\nparticles from the Sun.",
+    "start": 458.857,
+    "duration": 4.107
+  },
+  {
+    "text": "Astronomers now suggest that the Russian\nmeteor should serve as a catalyst",
+    "start": 463.943,
+    "duration": 4.529
+  },
+  {
+    "text": "for developing anti-asteroid\nand meteor defense systems.",
+    "start": 468.497,
+    "duration": 4.142
+  },
+  {
+    "text": "But to proponents at the Electric Universe,\nthe Russian meteor validates the notion",
+    "start": 472.664,
+    "duration": 5.365
+  },
+  {
+    "text": "that the Earth possesses a natural\ndefense against impacting bodies.",
+    "start": 478.054,
+    "duration": 4.742
+  },
+  {
+    "text": "Celestial intruders such\nas asteroids and meteors",
+    "start": 482.821,
+    "duration": 3.328
+  },
+  {
+    "text": "are more likely to produce catastrophe,\nnot from the kinetic forces of impact",
+    "start": 486.149,
+    "duration": 4.44
+  },
+  {
+    "text": "but rather from electrical\ndischarge explosions.",
+    "start": 490.614,
+    "duration": 3.781
+  },
+  {
+    "text": "Not to be forgotten in this connection\nis the famous predecessor event,",
+    "start": 494.42,
+    "duration": 5.349
+  },
+  {
+    "text": "the Tunguska explosion in 1908,",
+    "start": 499.794,
+    "duration": 3.724
+  },
+  {
+    "text": "when a cometary or asteroidial\nbody exploded above Siberia",
+    "start": 503.543,
+    "duration": 5.004
+  },
+  {
+    "text": "leveling 800 square miles of\nforest, some 80 million trees,",
+    "start": 508.572,
+    "duration": 4.687
+  },
+  {
+    "text": "breaking windows more than 100 miles away,\nbut leaving no appreciable impact crater.",
+    "start": 513.284,
+    "duration": 6.135
+  },
+  {
+    "text": "Both the recent event and the Tunguska event\nremind us of Wal Thornhill's suggestion,",
+    "start": 520.332,
+    "duration": 6.738
+  },
+  {
+    "text": "that the Earth has a natural\nelectrical defense system,",
+    "start": 527.095,
+    "duration": 4.276
+  },
+  {
+    "text": "one that would cause a larger\nbodies to disintegrate",
+    "start": 531.396,
+    "duration": 3.216
+  },
+  {
+    "text": "on entering the charged region\nof Earth's upper atmosphere.",
+    "start": 534.637,
+    "duration": 4.26
+  },
+  {
+    "text": "This wouldn't eliminate\nthe catastrophic effects,",
+    "start": 539.206,
+    "duration": 3.51
+  },
+  {
+    "text": "but it would surely displace\nthe most popular image",
+    "start": 542.741,
+    "duration": 3.436
+  },
+  {
+    "text": "of asteroidal catastrophe\non the Internet today.",
+    "start": 546.202,
+    "duration": 3.855
+  },
+  {
+    "text": "So perhaps one fact is more significant\nthan has been acknowledged:",
+    "start": 550.082,
+    "duration": 4.803
+  },
+  {
+    "text": "despite hundreds injuries, not a\nsingle individual died in this event.",
+    "start": 554.91,
+    "duration": 6.539
+  },
+  {
+    "text": "Something far more devastating\nwould surely have occurred",
+    "start": 561.943,
+    "duration": 3.801
+  },
+  {
+    "text": "if the object had released the\nenergy of its explosive blast",
+    "start": 565.769,
+    "duration": 4.546
+  },
+  {
+    "text": "by striking the\nsurface of the Earth.",
+    "start": 570.34,
+    "duration": 4.258
+  },
+  {
+    "text": "For continuous updates on Space\nNews from the Electric Universe",
+    "start": 576.604,
+    "duration": 3.94
+  },
+  {
+    "text": "stay tuned to",
+    "start": 580.569,
+    "duration": 1.279
+  },
+  {
+    "text": "Thunderbolts.info",
+    "start": 581.873,
+    "duration": 2.777
+  }
+]

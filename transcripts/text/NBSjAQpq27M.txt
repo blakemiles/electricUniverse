@@ -1,0 +1,947 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe,",
+    "start": 7.188,
+    "duration": 2.825
+  },
+  {
+    "text": "brought to you by The\nThunderbolts Project™",
+    "start": 10.038,
+    "duration": 2.362
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 12.425,
+    "duration": 2.539
+  },
+  {
+    "text": "Where did asteroids come from?",
+    "start": 19.194,
+    "duration": 2.222
+  },
+  {
+    "text": "For decades, in the standard\nstory of our solar system,",
+    "start": 21.441,
+    "duration": 3.49
+  },
+  {
+    "text": "we have been told that asteroids,\nas well as comets and meteoroids,",
+    "start": 24.956,
+    "duration": 3.73
+  },
+  {
+    "text": "are the so-called leftovers\nof the early solar system.",
+    "start": 28.71,
+    "duration": 3.421
+  },
+  {
+    "text": "In this view, comets and even\nasteroids have been proposed",
+    "start": 32.156,
+    "duration": 3.421
+  },
+  {
+    "text": "as a possible source\nof our planet's oceans.",
+    "start": 35.602,
+    "duration": 2.873
+  },
+  {
+    "text": "Of course, when spacecraft\nhave visited comets",
+    "start": 38.5,
+    "duration": 2.757
+  },
+  {
+    "text": "they've not found anything like the\ndirty snowballs of conventional theory.",
+    "start": 41.282,
+    "duration": 4.601
+  },
+  {
+    "text": "In this conclusion to his\nthree-part presentation,",
+    "start": 45.908,
+    "duration": 2.739
+  },
+  {
+    "text": "physicist Eugene Bagashov explores\nthe latest scientific papers",
+    "start": 48.672,
+    "duration": 3.522
+  },
+  {
+    "text": "into the evidence for the water of the\nasteroids Bennu and Ryugu, respectively,",
+    "start": 52.219,
+    "duration": 4.621
+  },
+  {
+    "text": "and what it means for an understanding of\nthe solar system's history and origins.",
+    "start": 56.865,
+    "duration": 4.855
+  },
+  {
+    "text": "Spectral data from both Ryugu\nand Bennu seems pretty similar.",
+    "start": 61.745,
+    "duration": 3.669
+  },
+  {
+    "text": "One of the prominent features of spectra\nof these bodies is the high absorption",
+    "start": 65.439,
+    "duration": 3.902
+  },
+  {
+    "text": "at the infrared wavelength\nof about 2.7 microns,",
+    "start": 69.366,
+    "duration": 3.944
+  },
+  {
+    "text": "and the researchers acknowledge that it\nmust be associated with the OH- groups",
+    "start": 73.335,
+    "duration": 4.627
+  },
+  {
+    "text": "in the minerals on the surface.",
+    "start": 77.987,
+    "duration": 1.713
+  },
+  {
+    "text": "However, their idea of how it\ngot there is pretty peculiar.",
+    "start": 79.725,
+    "duration": 3.643
+  },
+  {
+    "text": "They think that it's the remnants of\nthe water that formed in the inner belt",
+    "start": 83.393,
+    "duration": 3.777
+  },
+  {
+    "text": "together with the parent\nasteroids of Bennu and Ryugu",
+    "start": 87.195,
+    "duration": 2.909
+  },
+  {
+    "text": "and later was evaporated when they\nmigrated into the inner solar system.",
+    "start": 90.129,
+    "duration": 4.524
+  },
+  {
+    "text": "Now of course, we are well\naware of another process",
+    "start": 94.678,
+    "duration": 3.043
+  },
+  {
+    "text": "which is considered to be fundamental\nfor the electric comet hypothesis,",
+    "start": 97.746,
+    "duration": 3.784
+  },
+  {
+    "text": "the idea that hydroxyl groups\nand water itself might be formed",
+    "start": 101.555,
+    "duration": 3.476
+  },
+  {
+    "text": "due to the electrochemical interaction\nbetween the protons from the solar wind",
+    "start": 105.056,
+    "duration": 4.035
+  },
+  {
+    "text": "and oxygen in the minerals on\nthe surface of an airless body,",
+    "start": 109.116,
+    "duration": 3.3
+  },
+  {
+    "text": "such as a comet or an asteroid.",
+    "start": 112.441,
+    "duration": 2.242
+  },
+  {
+    "text": "A few years ago, this process has been\nconfirmed in the laboratory experiments",
+    "start": 114.708,
+    "duration": 4.407
+  },
+  {
+    "text": "that were simulating the interaction\nof the solar wind with silicates.",
+    "start": 119.14,
+    "duration": 3.622
+  },
+  {
+    "text": "For more details, I'd recommend watching\nThunderbolts Project documentary",
+    "start": 122.787,
+    "duration": 3.752
+  },
+  {
+    "text": "The Electric Comet",
+    "start": 126.564,
+    "duration": 1.151
+  },
+  {
+    "text": "and brilliant Franklin Anariba's talks available\nat the Thunderbolts Project YouTube channel.",
+    "start": 127.739,
+    "duration": 5.171
+  },
+  {
+    "text": "So in principle, the detection of OH\nsignal should be considered trivial",
+    "start": 132.935,
+    "duration": 4.371
+  },
+  {
+    "text": "and not really indicative of\nanything in the EU perspective.",
+    "start": 137.33,
+    "duration": 3.532
+  },
+  {
+    "text": "These bodies might have\nbeen formed anywhere,",
+    "start": 140.887,
+    "duration": 2.63
+  },
+  {
+    "text": "including the inner\nsolar system itself,",
+    "start": 143.542,
+    "duration": 2.246
+  },
+  {
+    "text": "and still demonstrate the\nsame spectral absorption line.",
+    "start": 145.813,
+    "duration": 3.395
+  },
+  {
+    "text": "Nevertheless, with regards to\nthat, even in research papers",
+    "start": 149.233,
+    "duration": 3.594
+  },
+  {
+    "text": "the scientists from both teams\nkeep repeating the mantra",
+    "start": 152.852,
+    "duration": 3.09
+  },
+  {
+    "text": "that it was the asteroids and comets\nthat brought water to the Earth",
+    "start": 155.967,
+    "duration": 3.385
+  },
+  {
+    "text": "whereas it is already known that there\nis at least as much water in the mantle",
+    "start": 159.377,
+    "duration": 3.872
+  },
+  {
+    "text": "as on the surface of our planet.",
+    "start": 163.274,
+    "duration": 2.713
+  },
+  {
+    "text": "How would Ryugu and Bennu keep any\nsignificant amount of water ice anyway",
+    "start": 166.567,
+    "duration": 4.219
+  },
+  {
+    "text": "if the temperatures on their surface are\nhigher than the sublimation limit for water?",
+    "start": 170.81,
+    "duration": 4.633
+  },
+  {
+    "text": "It's probably important\nto emphasize here",
+    "start": 175.468,
+    "duration": 2.524
+  },
+  {
+    "text": "that what Hayabusa2 and\nOsiris-Rex are observing",
+    "start": 178.017,
+    "duration": 2.798
+  },
+  {
+    "text": "is only structural OH-\ngroups, not the water itself.",
+    "start": 180.84,
+    "duration": 3.842
+  },
+  {
+    "text": "Even more so, they have\nto go quite a long way",
+    "start": 184.707,
+    "duration": 2.902
+  },
+  {
+    "text": "to somehow get rid of the\nwater in their scenario.",
+    "start": 187.634,
+    "duration": 3.085
+  },
+  {
+    "text": "In particular, Hayabusa2 scientists have to\nimply a significant radioactive heating",
+    "start": 190.744,
+    "duration": 5.052
+  },
+  {
+    "text": "of the parent body of Ryugu asteroid\nin order to heat it up enough",
+    "start": 195.821,
+    "duration": 3.913
+  },
+  {
+    "text": "to produce the water-poor minerals\nthat are observed on its surface.",
+    "start": 199.759,
+    "duration": 4.499
+  },
+  {
+    "text": "And on top of that, they have\nto imply impact scenario",
+    "start": 204.283,
+    "duration": 3.569
+  },
+  {
+    "text": "as they note that in order to produce\nthe observed spectrum of Ryugu,",
+    "start": 207.877,
+    "duration": 3.767
+  },
+  {
+    "text": "a short-term catastrophic\nheating is also needed.",
+    "start": 211.669,
+    "duration": 3.141
+  },
+  {
+    "text": "But at the same time, they note that impacts\nwould heat only a part of the surface,",
+    "start": 214.835,
+    "duration": 4.328
+  },
+  {
+    "text": "so they need a lot of them.",
+    "start": 219.188,
+    "duration": 1.908
+  },
+  {
+    "text": "So maybe in this case a single short-term\nelectrical heating would be more appropriate.",
+    "start": 221.121,
+    "duration": 5.53
+  },
+  {
+    "text": "Otherwise, the spectra\nof both Bennu and Ryugu",
+    "start": 226.676,
+    "duration": 3.034
+  },
+  {
+    "text": "are more or less consistent with the\nhigh abundance of phyllosilicates,",
+    "start": 229.735,
+    "duration": 3.545
+  },
+  {
+    "text": "that is essentially\nsedimentary rock.",
+    "start": 233.305,
+    "duration": 2.609
+  },
+  {
+    "text": "Now, how would sedimentary\nrock end up on a tiny asteroid",
+    "start": 235.939,
+    "duration": 3.754
+  },
+  {
+    "text": "otherwise than as a result of its\nejection from a much larger planet,",
+    "start": 239.718,
+    "duration": 3.607
+  },
+  {
+    "text": "is a good question that we should\naddress to the Astrophysical community.",
+    "start": 243.349,
+    "duration": 3.747
+  },
+  {
+    "text": "Moreover, the present data from Osiris-Rex\nshows that the specific spectral feature",
+    "start": 247.121,
+    "duration": 5.298
+  },
+  {
+    "text": "of magnesium-rich Phyllosilicates\nat 16 micrometers is not observed,",
+    "start": 252.444,
+    "duration": 4.465
+  },
+  {
+    "text": "from which the researchers conclude that\nthe minerals should be iron-rich instead",
+    "start": 256.934,
+    "duration": 4.471
+  },
+  {
+    "text": "and that's not all there is.",
+    "start": 261.43,
+    "duration": 2.722
+  },
+  {
+    "text": "\"... spectra of Bennu also exhibit\ntwo features at 555 and 340 cm^(-1)",
+    "start": 264.177,
+    "duration": 6.984
+  },
+  {
+    "text": "that are probably attributable,\nat least in part, to magnetite.\"",
+    "start": 271.186,
+    "duration": 5.103
+  },
+  {
+    "text": "In my opinion, this is\na potential indication",
+    "start": 276.314,
+    "duration": 2.594
+  },
+  {
+    "text": "that this asteroid was once part\nof a larger planet such as Mars,",
+    "start": 278.933,
+    "duration": 3.688
+  },
+  {
+    "text": "although I wouldn't discount Venus\nand Earth or Moon and Mercury, too.",
+    "start": 282.646,
+    "duration": 4.126
+  },
+  {
+    "text": "In previous decades, there has been some\ndebate regarding possible formation",
+    "start": 286.797,
+    "duration": 4.365
+  },
+  {
+    "text": "of nano crystals of magnetite\nin Martian meteorites",
+    "start": 291.187,
+    "duration": 3.244
+  },
+  {
+    "text": "due to the influence of\nhypothetical bacterial life,",
+    "start": 294.456,
+    "duration": 2.57
+  },
+  {
+    "text": "though the shapes of crystals don't seem to\nmatch the ones produced by bacteria on Earth.",
+    "start": 297.051,
+    "duration": 5.001
+  },
+  {
+    "text": "I think it would be very funny if the\nsamples collected at Ryugu and Bennu",
+    "start": 302.077,
+    "duration": 3.981
+  },
+  {
+    "text": "would show these biogenic\ncrystals of magnetite instead,",
+    "start": 306.083,
+    "duration": 3.26
+  },
+  {
+    "text": "proving that these rocks\noriginate from Earth.",
+    "start": 309.368,
+    "duration": 2.477
+  },
+  {
+    "text": "But that is only one of\nmany possibilities, of course.",
+    "start": 311.87,
+    "duration": 3.145
+  },
+  {
+    "text": "Most likely the minerals\nwould be transformed too much",
+    "start": 315.04,
+    "duration": 2.743
+  },
+  {
+    "text": "during their excavation\nprocess anyway.",
+    "start": 317.808,
+    "duration": 3.276
+  },
+  {
+    "text": "Last thing I wish to mention with\nregards to the spectrum of these objects",
+    "start": 321.109,
+    "duration": 3.778
+  },
+  {
+    "text": "is that it demonstrates\nreddening at large phase angles,",
+    "start": 324.912,
+    "duration": 3.169
+  },
+  {
+    "text": "that is when the detector is\nplaced far away from the line",
+    "start": 328.106,
+    "duration": 3.025
+  },
+  {
+    "text": "connecting the Sun\nand the asteroid.",
+    "start": 331.156,
+    "duration": 2.083
+  },
+  {
+    "text": "At the moment, scientists cannot\nexplain this peculiar property,",
+    "start": 333.264,
+    "duration": 3.811
+  },
+  {
+    "text": "but perhaps it is caused by a much higher degree\nof ordering of the material on the surface,",
+    "start": 337.1,
+    "duration": 4.838
+  },
+  {
+    "text": "which would be consistent with\nthe scenario of their excavation",
+    "start": 341.963,
+    "duration": 3.311
+  },
+  {
+    "text": "under the influence of\nextremely strong electric fields",
+    "start": 345.299,
+    "duration": 2.862
+  },
+  {
+    "text": "but probably pretty hard to explain\nfrom a rubble pile standpoint.",
+    "start": 348.186,
+    "duration": 4.034
+  },
+  {
+    "text": "Speaking of the electric comet ideas,\na recent press release by NASA",
+    "start": 352.245,
+    "duration": 4.143
+  },
+  {
+    "text": "states that some unexpected dust particles\nwere observed near the asteroid Bennu.",
+    "start": 356.413,
+    "duration": 4.931
+  },
+  {
+    "text": "Now, I would envision\ntwo scenarios here.",
+    "start": 361.369,
+    "duration": 3.051
+  },
+  {
+    "text": "First of all, those might be some\nsort of electrostatic dust fountains",
+    "start": 364.445,
+    "duration": 3.801
+  },
+  {
+    "text": "that are produced due to the potential\ndifference across the surface of the asteroid.",
+    "start": 368.271,
+    "duration": 4.491
+  },
+  {
+    "text": "It is well known and acknowledged\nthat the dayside of such objects",
+    "start": 372.787,
+    "duration": 3.432
+  },
+  {
+    "text": "should be charged positively\nwith respect to the nightside.",
+    "start": 376.244,
+    "duration": 3.193
+  },
+  {
+    "text": "There are two primary\ncauses of that effect.",
+    "start": 379.462,
+    "duration": 2.835
+  },
+  {
+    "text": "Firstly, the photo ionization of the surface on\nthe dayside makes it more positively charged",
+    "start": 382.322,
+    "duration": 5.214
+  },
+  {
+    "text": "and secondly, the solar wind is\nblocked by the asteroid itself,",
+    "start": 387.56,
+    "duration": 3.398
+  },
+  {
+    "text": "so that it's night side is experiencing\na plasma shadowing, so to speak,",
+    "start": 390.983,
+    "duration": 4.253
+  },
+  {
+    "text": "and the solar wind protons cannot expand into\nthis shadowed region as quickly as electrons,",
+    "start": 395.261,
+    "duration": 5.292
+  },
+  {
+    "text": "so together this might cause potential\ndifferences of the order of a few hundred volts",
+    "start": 400.578,
+    "duration": 4.888
+  },
+  {
+    "text": "between the day side\nand the night side.",
+    "start": 405.491,
+    "duration": 2.203
+  },
+  {
+    "text": "But of course, so more localized potential\ndifferences on the surface are also possible",
+    "start": 407.719,
+    "duration": 4.589
+  },
+  {
+    "text": "due to some topographic features, different elemental\ncomposition and albedo across the surface,",
+    "start": 412.333,
+    "duration": 5.23
+  },
+  {
+    "text": "its potential local\nmagnetization, and so on.",
+    "start": 417.588,
+    "duration": 3.344
+  },
+  {
+    "text": "It's interesting that the\nresearchers themselves",
+    "start": 420.957,
+    "duration": 2.427
+  },
+  {
+    "text": "note some peculiar reflectance differences\nacross the surface of both asteroids",
+    "start": 423.409,
+    "duration": 4.302
+  },
+  {
+    "text": "and they also note that it might be produced\nthrough some process of dust transfer,",
+    "start": 427.736,
+    "duration": 4.308
+  },
+  {
+    "text": "the nature of which\n\"remains unclear\".",
+    "start": 432.069,
+    "duration": 4.09
+  },
+  {
+    "text": "However, to be completely fair, the\ngravity on these asteroids it's so weak",
+    "start": 436.184,
+    "duration": 4.148
+  },
+  {
+    "text": "that according to the\nresearchers, at least on Bennu,",
+    "start": 440.357,
+    "duration": 3.524
+  },
+  {
+    "text": "\"...material can achieve orbit\nthrough downslope migration.\"",
+    "start": 443.906,
+    "duration": 4.459
+  },
+  {
+    "text": "So dust particles might just be\nrolling downhill and end up in space.",
+    "start": 448.39,
+    "duration": 4.515
+  },
+  {
+    "text": "That is if we assume that no other\nforces are acting upon this dust,",
+    "start": 452.93,
+    "duration": 3.805
+  },
+  {
+    "text": "which is obviously not the case.",
+    "start": 456.759,
+    "duration": 2.333
+  },
+  {
+    "text": "But anyway, the second\nscenario I would envision",
+    "start": 459.117,
+    "duration": 2.8
+  },
+  {
+    "text": "is, that these are not dust\nparticles in the first place.",
+    "start": 461.942,
+    "duration": 3.076
+  },
+  {
+    "text": "Unfortunately I don't know all\nthe details of this detection,",
+    "start": 465.043,
+    "duration": 3.587
+  },
+  {
+    "text": "as the only information we have on it is\nbasically one paragraph from NASA press release.",
+    "start": 468.655,
+    "duration": 4.695
+  },
+  {
+    "text": "So perhaps the option I'd like\nto propose might be ruled out,",
+    "start": 473.375,
+    "duration": 3.364
+  },
+  {
+    "text": "but from the publicly available data\nit still seems to be a viable option.",
+    "start": 476.764,
+    "duration": 4.793
+  },
+  {
+    "text": "So I'd propose that these bright dots\nthat we see on the NavCam images",
+    "start": 481.582,
+    "duration": 4.563
+  },
+  {
+    "text": "might actually be just charged particles\nemanating from the vicinity of Bennu,",
+    "start": 486.17,
+    "duration": 4.1
+  },
+  {
+    "text": "and picked up by the camera.",
+    "start": 490.295,
+    "duration": 1.862
+  },
+  {
+    "text": "What exactly these\nparticles are,",
+    "start": 492.182,
+    "duration": 2.057
+  },
+  {
+    "text": "ions or electrons, or maybe\neven photons, is not clear yet",
+    "start": 494.264,
+    "duration": 3.781
+  },
+  {
+    "text": "but any of these, as far as I understand,\ncould trigger the camera matrix pixels.",
+    "start": 498.069,
+    "duration": 4.511
+  },
+  {
+    "text": "And it is clear, I think, that in\nthis case, whatever they are,",
+    "start": 502.605,
+    "duration": 3.571
+  },
+  {
+    "text": "their production should be caused\nby some electromagnetic interaction",
+    "start": 506.201,
+    "duration": 3.427
+  },
+  {
+    "text": "of the solar wind plasma, or maybe\nthe cosmic rays with the asteroid.",
+    "start": 509.653,
+    "duration": 4.282
+  },
+  {
+    "text": "Continuing this topic, it's quite a\nshame that both Hayabusa2 and Osiris-Rex",
+    "start": 513.96,
+    "duration": 4.786
+  },
+  {
+    "text": "are very poorly equipped to study the really\nimportant properties of Ryugu and Bennu,",
+    "start": 518.771,
+    "duration": 4.528
+  },
+  {
+    "text": "that is their interaction\nwith space plasma.",
+    "start": 523.324,
+    "duration": 2.754
+  },
+  {
+    "text": "It might sound ridiculous, but none of\nthese spacecraft have Langmuir probes,",
+    "start": 526.103,
+    "duration": 4.053
+  },
+  {
+    "text": "plasma wave suits of instruments, or any\ndetectors of charged particles whatsoever.",
+    "start": 530.181,
+    "duration": 4.931
+  },
+  {
+    "text": "The only thing we have in this department,\nis the magnetometer on Mascot lander",
+    "start": 535.137,
+    "duration": 4.724
+  },
+  {
+    "text": "that spent some 17 hours on\nRyugu in early October of 2018",
+    "start": 539.886,
+    "duration": 4.699
+  },
+  {
+    "text": "and then died when\nits batteries ran out.",
+    "start": 544.61,
+    "duration": 2.577
+  },
+  {
+    "text": "Well, hopefully we'll see some data from\nit eventually, as so far I've seen none.",
+    "start": 547.212,
+    "duration": 5.621
+  },
+  {
+    "text": "I suspect that the instrument might show\nsome remnant magnetization of Ryugu,",
+    "start": 552.858,
+    "duration": 4.387
+  },
+  {
+    "text": "as if it represents a\npiece of planetary crust",
+    "start": 557.269,
+    "duration": 2.447
+  },
+  {
+    "text": "it should bear some imprint\nof its magnetic field.",
+    "start": 559.741,
+    "duration": 2.821
+  },
+  {
+    "text": "But also, if it was excavated electrically,\nthe currents running through and around it",
+    "start": 562.587,
+    "duration": 4.674
+  },
+  {
+    "text": "would also generate some fields that\nmight be retained in the asteroidal rock.",
+    "start": 567.286,
+    "duration": 4.419
+  },
+  {
+    "text": "Perhaps this magnetometer might\nregister some other interesting effects,",
+    "start": 571.73,
+    "duration": 3.944
+  },
+  {
+    "text": "for example the changing magnetic fields\nduring the progression of day and night cycle,",
+    "start": 575.699,
+    "duration": 4.286
+  },
+  {
+    "text": "as the surface of the asteroid charges\nand recharges positively and negatively,",
+    "start": 580.009,
+    "duration": 4.391
+  },
+  {
+    "text": "or the variation of\nthe magnetic field",
+    "start": 584.425,
+    "duration": 2.031
+  },
+  {
+    "text": "due to the interaction of the\nasteroid with the solar wind plasma.",
+    "start": 586.481,
+    "duration": 3.775
+  },
+  {
+    "text": "There is a slight hope that Rex's X-ray\nspectrometer on board of Osiris-Rex",
+    "start": 590.281,
+    "duration": 4.712
+  },
+  {
+    "text": "at some point might detect soft X-rays resulting\nfrom Bennu's interaction with the solar wind.",
+    "start": 595.018,
+    "duration": 5.739
+  },
+  {
+    "text": "The hope is only slight, because the\nlowest value of energy it might detect",
+    "start": 600.782,
+    "duration": 4.251
+  },
+  {
+    "text": "is 700 electron volts which\nmight be a bit too high,",
+    "start": 605.058,
+    "duration": 3.893
+  },
+  {
+    "text": "as for example Rosetta\nmission has shown",
+    "start": 608.976,
+    "duration": 2.119
+  },
+  {
+    "text": "that the negative electric\npotential of Comet 67P nucleus",
+    "start": 611.12,
+    "duration": 3.114
+  },
+  {
+    "text": "with respect to the ambient solar\nwind is only about 200 to 400 volts,",
+    "start": 614.259,
+    "duration": 4.85
+  },
+  {
+    "text": "and only about 200 volts of\npotential difference were detected",
+    "start": 619.134,
+    "duration": 3.128
+  },
+  {
+    "text": "by Cassini spacecraft at\nthe Saturnian moon Hyperion,",
+    "start": 622.287,
+    "duration": 3.242
+  },
+  {
+    "text": "and Pluto emits X-rays charge\nexchange with the solar wind",
+    "start": 625.554,
+    "duration": 3.641
+  },
+  {
+    "text": "at only 300 to 600 volts\nof potential difference.",
+    "start": 629.22,
+    "duration": 4.016
+  },
+  {
+    "text": "Summing it all up, I would say that\nthe data that has been released so far",
+    "start": 633.261,
+    "duration": 4.01
+  },
+  {
+    "text": "does not contradict the scenario under\nwhich the asteroids Bennu and Ryugu",
+    "start": 637.296,
+    "duration": 4.0
+  },
+  {
+    "text": "represent a\nrelatively homogeneous,",
+    "start": 641.321,
+    "duration": 2.032
+  },
+  {
+    "text": "internally strong but highly porous rocks\nthat have been electrically excavated",
+    "start": 643.378,
+    "duration": 4.44
+  },
+  {
+    "text": "from the surface of one of the\nbodies in the inner solar system",
+    "start": 647.843,
+    "duration": 3.187
+  },
+  {
+    "text": "during a relatively recent\nplanetary catastrophe.",
+    "start": 651.055,
+    "duration": 3.14
+  },
+  {
+    "text": "Their complex surfaces indicate\nthat most likely this material",
+    "start": 654.22,
+    "duration": 3.824
+  },
+  {
+    "text": "does not originate\nfrom the asteroid belt.",
+    "start": 658.068,
+    "duration": 2.469
+  },
+  {
+    "text": "However, as I've noted\nin the very beginning,",
+    "start": 660.562,
+    "duration": 2.505
+  },
+  {
+    "text": "the so-called\nrubble pile scenario",
+    "start": 663.092,
+    "duration": 2.0
+  },
+  {
+    "text": "also does not directly contradict\nthe Electric Universe paradigm.",
+    "start": 665.117,
+    "duration": 3.74
+  },
+  {
+    "text": "But, my personal opinion\nis that these bodies",
+    "start": 668.882,
+    "duration": 2.424
+  },
+  {
+    "text": "are most likely internally\nhomogeneous and strong.",
+    "start": 671.33,
+    "duration": 3.712
+  },
+  {
+    "text": "As the instrumentation onboard of both\nHayabusa2 and Osiris-Rex spacecraft",
+    "start": 675.067,
+    "duration": 4.413
+  },
+  {
+    "text": "is very limited in terms of studying the\nplasma environments of Ryugu and Bennu,",
+    "start": 679.505,
+    "duration": 4.135
+  },
+  {
+    "text": "we're left with only observations of secondary\nevidence for their electrical activity,",
+    "start": 683.665,
+    "duration": 4.416
+  },
+  {
+    "text": "like these dust particles\nor whatever they are,",
+    "start": 688.106,
+    "duration": 2.631
+  },
+  {
+    "text": "that were spotted in\nthe vicinity of Bennu.",
+    "start": 690.762,
+    "duration": 2.747
+  },
+  {
+    "text": "But hopefully, we'll be able to draw at\nleast some conclusions from these missions.",
+    "start": 693.534,
+    "duration": 4.212
+  },
+  {
+    "text": "It would be especially interesting\nto see the results of the analysis",
+    "start": 697.771,
+    "duration": 3.494
+  },
+  {
+    "text": "of collected samples when\nthey would return to Earth,",
+    "start": 701.29,
+    "duration": 2.644
+  },
+  {
+    "text": "but that is still\nquite a long time away.",
+    "start": 703.959,
+    "duration": 2.286
+  }
+]

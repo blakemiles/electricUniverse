@@ -1,0 +1,787 @@
+[
+  {
+    "text": "You've just entered the\ntheater of an alien sky.",
+    "start": 12.653,
+    "duration": 3.429
+  },
+  {
+    "text": "If the words and images seem strange\nto you, there's a reason for this.",
+    "start": 16.107,
+    "duration": 5.161
+  },
+  {
+    "text": "Our world was once a\nvastly different place.",
+    "start": 21.293,
+    "duration": 4.35
+  },
+  {
+    "text": "To experience this won't hurt you, ",
+    "start": 25.668,
+    "duration": 2.746
+  },
+  {
+    "text": "and there is nothing to fear.",
+    "start": 28.446,
+    "duration": 2.096
+  },
+  {
+    "text": "The Labyrinth\nThe Crane Dance of Theseus",
+    "start": 37.502,
+    "duration": 4.183
+  },
+  {
+    "text": "In following the ancient\nstory of the labyrinth,",
+    "start": 42.01,
+    "duration": 3.485
+  },
+  {
+    "text": "the most obvious question is why?",
+    "start": 45.52,
+    "duration": 3.078
+  },
+  {
+    "text": "From what human experience did\nthis remarkable ancient idea arise?",
+    "start": 48.623,
+    "duration": 5.777
+  },
+  {
+    "text": "In our investigation of\nthe theme, the first clue",
+    "start": 54.425,
+    "duration": 3.421
+  },
+  {
+    "text": "emerges from the archetypal\npersonalities we've come to recognize.",
+    "start": 57.871,
+    "duration": 4.396
+  },
+  {
+    "text": "Mother goddess, warrior\nhero, and chaos monster,",
+    "start": 62.292,
+    "duration": 4.911
+  },
+  {
+    "text": "all with a displaced\nsovereign power",
+    "start": 67.228,
+    "duration": 3.372
+  },
+  {
+    "text": "lurking in the background.",
+    "start": 70.625,
+    "duration": 2.697
+  },
+  {
+    "text": "For several decades, we sought\nto illuminate such archetypes.",
+    "start": 73.347,
+    "duration": 4.42
+  },
+  {
+    "text": "In that work, we've\ndescribed the emergence",
+    "start": 77.792,
+    "duration": 2.872
+  },
+  {
+    "text": "and progressive evolution of an\nextraordinary spectacle in the Heavens.",
+    "start": 80.689,
+    "duration": 4.436
+  },
+  {
+    "text": "A gathering of\nplanets close to Earth.",
+    "start": 85.15,
+    "duration": 3.24
+  },
+  {
+    "text": "Planets, inspiring the myth-making\nepoch of human history.",
+    "start": 88.415,
+    "duration": 5.013
+  },
+  {
+    "text": "A radical claim is that the\narchetypes, the global patterns,",
+    "start": 93.453,
+    "duration": 4.825
+  },
+  {
+    "text": "are explained uniquely and concretely by\nthe planetary history we've reconstructed.",
+    "start": 98.303,
+    "duration": 6.118
+  },
+  {
+    "text": "Specifically, a gathering of\nplanets extremely close to Earth.",
+    "start": 104.446,
+    "duration": 5.296
+  },
+  {
+    "text": "Yes, that idea will\nappear preposterous,",
+    "start": 109.767,
+    "duration": 3.88
+  },
+  {
+    "text": "but preposterous only until one\nsees that hundreds of archetypes,",
+    "start": 113.672,
+    "duration": 5.293
+  },
+  {
+    "text": "hundreds of global cross cultural\nthemes become predictable.",
+    "start": 118.989,
+    "duration": 6.203
+  },
+  {
+    "text": "And not just as general themes",
+    "start": 125.217,
+    "duration": 2.624
+  },
+  {
+    "text": "but down to hundreds of\nhighly specific details.",
+    "start": 127.866,
+    "duration": 3.867
+  },
+  {
+    "text": "As newcomers to this topic\nwill quickly discover,",
+    "start": 131.758,
+    "duration": 3.972
+  },
+  {
+    "text": "it's the apparent absurdity of mythology\nthat ultimately changes the picture,",
+    "start": 135.755,
+    "duration": 5.535
+  },
+  {
+    "text": "to the extent that things\nbegin to make sense.",
+    "start": 141.315,
+    "duration": 3.402
+  },
+  {
+    "text": "Nothing in our familiar experience\nwould anticipate, much less account for,",
+    "start": 145.471,
+    "duration": 4.945
+  },
+  {
+    "text": "the archetypal theme of\nexternalized intestines.",
+    "start": 150.441,
+    "duration": 5.334
+  },
+  {
+    "text": "A theme we noted briefly\nin our prior discourse.",
+    "start": 155.8,
+    "duration": 3.607
+  },
+  {
+    "text": "That theme arose in relation to the remarkable\nface of the Mesopotamian giant Humbaba",
+    "start": 159.432,
+    "duration": 6.263
+  },
+  {
+    "text": "displaying nothing else\nthan knotted intestines.",
+    "start": 165.72,
+    "duration": 4.127
+  },
+  {
+    "text": "But actually, it's this transparently\nabsurd feature that opens the door",
+    "start": 170.449,
+    "duration": 4.459
+  },
+  {
+    "text": "to a much broader\nfield of evidence.",
+    "start": 174.933,
+    "duration": 2.284
+  },
+  {
+    "text": "From the Americas to Africa\nand the South Pacific,",
+    "start": 177.242,
+    "duration": 3.804
+  },
+  {
+    "text": "we find recollections of the\ndancing warrior trickster hero",
+    "start": 181.071,
+    "duration": 4.738
+  },
+  {
+    "text": "either unraveling\nhis own intestines",
+    "start": 185.834,
+    "duration": 2.865
+  },
+  {
+    "text": "or the intestines of\nan alter ego figure.",
+    "start": 188.724,
+    "duration": 3.234
+  },
+  {
+    "text": "That such bizarre imagery would\noccur from one land to another,",
+    "start": 191.983,
+    "duration": 4.43
+  },
+  {
+    "text": "surely requires an explanation.",
+    "start": 196.438,
+    "duration": 3.055
+  },
+  {
+    "text": "And a believable, fact-based\nexplanation must be possible.",
+    "start": 199.518,
+    "duration": 5.741
+  },
+  {
+    "text": "One of numerous examples will be found\namongst the North American Ojibwe",
+    "start": 205.894,
+    "duration": 5.444
+  },
+  {
+    "text": "whose trickster Nanabozho\nloses his intestines",
+    "start": 211.363,
+    "duration": 3.87
+  },
+  {
+    "text": "in his wanderings and\nhangs them in a tree.",
+    "start": 215.258,
+    "duration": 3.188
+  },
+  {
+    "text": "Well, that's not an idea one would expect\nin the normal course of human experience,",
+    "start": 218.471,
+    "duration": 5.43
+  },
+  {
+    "text": "either primitive or modern.",
+    "start": 223.926,
+    "duration": 2.421
+  },
+  {
+    "text": "In some tales, intestines are pulled\nfrom the trickster causing his death.",
+    "start": 226.372,
+    "duration": 5.429
+  },
+  {
+    "text": "In closely linked stories, they\nbecome food for other creatures,",
+    "start": 231.826,
+    "duration": 4.427
+  },
+  {
+    "text": "or the trickster himself eat\nfragments of his own intestines,",
+    "start": 236.278,
+    "duration": 4.305
+  },
+  {
+    "text": "thinking they are food.",
+    "start": 240.608,
+    "duration": 1.735
+  },
+  {
+    "text": "Well such absurdities are, as\nwe've repeatedly discovered,",
+    "start": 242.368,
+    "duration": 4.288
+  },
+  {
+    "text": "the window to the hidden\nsubstructure of collective memories",
+    "start": 246.681,
+    "duration": 4.224
+  },
+  {
+    "text": "crying out for investigation.",
+    "start": 250.93,
+    "duration": 2.37
+  },
+  {
+    "text": "For those who will follow the logical\nground rules of this investigation,",
+    "start": 253.325,
+    "duration": 4.722
+  },
+  {
+    "text": "the outcome will be a full and\nconvincing explanation of world mythology,",
+    "start": 258.072,
+    "duration": 6.031
+  },
+  {
+    "text": "down to virtually all of\nthe recurrent patterns.",
+    "start": 264.128,
+    "duration": 3.779
+  },
+  {
+    "text": "If our fundamental\nobservation is correct,",
+    "start": 267.932,
+    "duration": 2.972
+  },
+  {
+    "text": "it could not be otherwise.",
+    "start": 270.929,
+    "duration": 2.208
+  },
+  {
+    "text": "It seems that the labyrinthine\ndance of the hero Theseus,",
+    "start": 273.162,
+    "duration": 3.967
+  },
+  {
+    "text": "as cited in our\nprevious Discourse,",
+    "start": 277.154,
+    "duration": 2.628
+  },
+  {
+    "text": "gives us some powerful clues.",
+    "start": 279.807,
+    "duration": 2.568
+  },
+  {
+    "text": "The dance had its own\nunique and awkward form",
+    "start": 282.4,
+    "duration": 3.345
+  },
+  {
+    "text": "called the crane dance,",
+    "start": 285.77,
+    "duration": 1.915
+  },
+  {
+    "text": "made famous by the Warrior's successful\nentry into the Cretan labyrinth.",
+    "start": 287.709,
+    "duration": 5.563
+  },
+  {
+    "text": "At the level of common perception, the\nwhole thing is indeed ridiculous.",
+    "start": 293.297,
+    "duration": 5.204
+  },
+  {
+    "text": "But that's why it's so\nessential to view the story",
+    "start": 298.526,
+    "duration": 3.212
+  },
+  {
+    "text": "through the lens of\nour starting point,",
+    "start": 301.763,
+    "duration": 2.023
+  },
+  {
+    "text": "the reconstructed\npolar configuration.",
+    "start": 303.811,
+    "duration": 3.393
+  },
+  {
+    "text": "Suddenly the crane dance of\nTheseus becomes predictable.",
+    "start": 307.228,
+    "duration": 4.443
+  },
+  {
+    "text": "A uniquely appropriate visual\nimage of the off-axis movements",
+    "start": 311.696,
+    "duration": 5.474
+  },
+  {
+    "text": "of the legendary warrior,",
+    "start": 317.195,
+    "duration": 1.855
+  },
+  {
+    "text": "the masculine power Mars\nin his labyrinthian dance.",
+    "start": 319.075,
+    "duration": 4.827
+  },
+  {
+    "text": "This awkward bobbing movement\nwould not even be possible",
+    "start": 323.927,
+    "duration": 4.556
+  },
+  {
+    "text": "without the off-axis\ndisplacement suggested here.",
+    "start": 328.523,
+    "duration": 4.957
+  },
+  {
+    "text": "Of course, given our overarching\ninterest in the global sub-structure,",
+    "start": 333.505,
+    "duration": 4.341
+  },
+  {
+    "text": "we could not possibly limit our\nattention to test one localized idea.",
+    "start": 337.87,
+    "duration": 5.359
+  },
+  {
+    "text": "Numerous Hindu myths\ndescribing the dance of Shiva",
+    "start": 343.255,
+    "duration": 3.93
+  },
+  {
+    "text": "are complemented by wide-ranging\nimages of a hero or trickster",
+    "start": 347.265,
+    "duration": 4.663
+  },
+  {
+    "text": "whose arms and legs mimic\nthe whorl- or swastika- form",
+    "start": 352.344,
+    "duration": 4.715
+  },
+  {
+    "text": "of the discharge streamers we've\nnoted in our previous Discourse.",
+    "start": 357.084,
+    "duration": 4.787
+  },
+  {
+    "text": "It was said that the warrior Shiva\nheld his consort Sati above his head.",
+    "start": 361.896,
+    "duration": 5.398
+  },
+  {
+    "text": "Again, as we should expect.",
+    "start": 367.319,
+    "duration": 2.258
+  },
+  {
+    "text": "And in their violent whirling\nmovements the body or essence of Sati",
+    "start": 369.602,
+    "duration": 5.083
+  },
+  {
+    "text": "was dispersed in flame.",
+    "start": 374.71,
+    "duration": 2.544
+  },
+  {
+    "text": "Another seeming absurdity,",
+    "start": 377.279,
+    "duration": 2.598
+  },
+  {
+    "text": "but a perfect reflection\nof the discharge activity,",
+    "start": 379.902,
+    "duration": 3.624
+  },
+  {
+    "text": "we've located at the visual\ncenter of the labyrinth.",
+    "start": 383.551,
+    "duration": 4.236
+  },
+  {
+    "text": "Here's the description of Shiva's\ndance by Stella Kramrisch",
+    "start": 387.812,
+    "duration": 4.366
+  },
+  {
+    "text": "in her book The\nPresence of Shiva,",
+    "start": 392.203,
+    "duration": 2.935
+  },
+  {
+    "text": "\"He danced exceedingly,\nhis arms flailing the regions,",
+    "start": 395.163,
+    "duration": 4.945
+  },
+  {
+    "text": "The stars were scattered\nby the swish of his hair.",
+    "start": 400.133,
+    "duration": 3.524
+  },
+  {
+    "text": "Death, love and despair syncopated the\nescalating speed of his Tandava dance;",
+    "start": 403.682,
+    "duration": 6.894
+  },
+  {
+    "text": "the earth shook while Siva went on\ndancing in frenzy, his eyes whirling...",
+    "start": 410.601,
+    "duration": 6.03
+  },
+  {
+    "text": "As Shiva danced on and on, the body\nof Sati became lighter and lighter,",
+    "start": 416.656,
+    "duration": 6.226
+  },
+  {
+    "text": "and he saw that limbs and\nparts had fallen from it.\"",
+    "start": 422.907,
+    "duration": 4.124
+  },
+  {
+    "text": "In the end, all that was\nleft was the mythic yoni,",
+    "start": 427.056,
+    "duration": 4.353
+  },
+  {
+    "text": "the core feminine\nidentity of the goddess,",
+    "start": 431.434,
+    "duration": 3.459
+  },
+  {
+    "text": "which means of course the\narchetypal goddess, the planet Venus.",
+    "start": 434.918,
+    "duration": 5.951
+  },
+  {
+    "text": "A comparative analysis will\nshow that the god's forearms,",
+    "start": 440.894,
+    "duration": 4.413
+  },
+  {
+    "text": "here described as\nflailing the regions,",
+    "start": 445.332,
+    "duration": 3.055
+  },
+  {
+    "text": "are beyond any reasonable doubt\nthe arms of the equal end cross.",
+    "start": 448.412,
+    "duration": 4.406
+  },
+  {
+    "text": "The cross that in prior,\nmore stable phases,",
+    "start": 452.843,
+    "duration": 3.343
+  },
+  {
+    "text": "marked out the four regions of four\nquarters of the celestial habitation.",
+    "start": 456.211,
+    "duration": 5.491
+  },
+  {
+    "text": "In other words, the seemingly outrageous\ndepictions are indeed internally consistent.",
+    "start": 461.727,
+    "duration": 5.898
+  },
+  {
+    "text": "As noted in our\nprevious Discourse,",
+    "start": 467.65,
+    "duration": 2.861
+  },
+  {
+    "text": "when the fourfold discharge\nwas set in a whirling motion,",
+    "start": 470.536,
+    "duration": 3.965
+  },
+  {
+    "text": "the effect was a\nswastika-like pattern.",
+    "start": 474.526,
+    "duration": 3.09
+  },
+  {
+    "text": "And so in ancient Sumerian symbolism\nwe see the arms of the swastika",
+    "start": 477.641,
+    "duration": 4.993
+  },
+  {
+    "text": "in their undeniable connection to the\nlong flowing hair of female figures,",
+    "start": 482.658,
+    "duration": 5.904
+  },
+  {
+    "text": "reminding us of the words of the\nSumerian Inanna, the planet Venus,",
+    "start": 488.587,
+    "duration": 4.566
+  },
+  {
+    "text": "to her consort Damuzi,",
+    "start": 493.178,
+    "duration": 2.732
+  },
+  {
+    "text": "\"I will whirl my hair\nin heaven for you.\"",
+    "start": 495.935,
+    "duration": 3.794
+  },
+  {
+    "text": "When the mythic imagery is\nseen in its original context,",
+    "start": 499.754,
+    "duration": 4.28
+  },
+  {
+    "text": "no image of the swastika\nmakes more sense",
+    "start": 504.059,
+    "duration": 3.012
+  },
+  {
+    "text": "than that of the goddess's\nluminous whirling hair",
+    "start": 507.096,
+    "duration": 3.439
+  },
+  {
+    "text": "at the center of the labyrinth.",
+    "start": 510.559,
+    "duration": 1.956
+  },
+  {
+    "text": "An obvious complement is the\noccasional image of the Medusa head",
+    "start": 512.54,
+    "duration": 4.39
+  },
+  {
+    "text": "with its wildly disheveled hair\nat the center of the labyrinth",
+    "start": 516.955,
+    "duration": 4.291
+  },
+  {
+    "text": "giving rise to the symmetrical\nthree legs of the Triskelion.",
+    "start": 521.271,
+    "duration": 4.572
+  },
+  {
+    "text": "As we previously observed,",
+    "start": 525.868,
+    "duration": 2.545
+  },
+  {
+    "text": "it was from that chaotic\ndischarge activity",
+    "start": 528.438,
+    "duration": 3.226
+  },
+  {
+    "text": "that the more stable symmetrical\ndischarge phases emerged.",
+    "start": 531.697,
+    "duration": 4.458
+  },
+  {
+    "text": "Consider also the underlined similarity\nof Theseus's archetypal dance",
+    "start": 536.616,
+    "duration": 5.353
+  },
+  {
+    "text": "to the famous dance\nof the hindu Shiva",
+    "start": 541.994,
+    "duration": 2.527
+  },
+  {
+    "text": "also occurring in\nconjunction with a goddess,",
+    "start": 544.546,
+    "duration": 3.422
+  },
+  {
+    "text": "who becomes the warrior's\nconsort as we should expect.",
+    "start": 547.993,
+    "duration": 4.343
+  },
+  {
+    "text": "And not just a goddess,",
+    "start": 552.36,
+    "duration": 1.893
+  },
+  {
+    "text": "but the goddess Venus in\nparticular, as we should also expect.",
+    "start": 554.278,
+    "duration": 4.546
+  },
+  {
+    "text": "In the Iliad, Homer tells us that the\nlegendary King Daedalus, quoting here,",
+    "start": 559.283,
+    "duration": 5.565
+  },
+  {
+    "text": "\"once wrought in Knosos broad a\ndancing-ground for fair-haired Ariadne.\"",
+    "start": 564.873,
+    "duration": 6.932
+  },
+  {
+    "text": "Of course the fair-haired Ariadne is a recognized\nalter ego of the fair-haired Aphrodite,",
+    "start": 571.83,
+    "duration": 5.926
+  },
+  {
+    "text": "or Venus.",
+    "start": 577.781,
+    "duration": 1.378
+  },
+  {
+    "text": "But perhaps the best clue is provided\nby the golden thread of Ariadne,",
+    "start": 579.184,
+    "duration": 5.411
+  },
+  {
+    "text": "said to have been unraveled by Theseus\nas he danced through the winding passages.",
+    "start": 584.62,
+    "duration": 6.318
+  },
+  {
+    "text": "By this identification,\nthe unraveling thread",
+    "start": 590.963,
+    "duration": 3.447
+  },
+  {
+    "text": "becomes a perfect analog\nto the unwinding intestines",
+    "start": 594.435,
+    "duration": 4.234
+  },
+  {
+    "text": "appearing in other variations\nof the same archetypal theme.",
+    "start": 598.694,
+    "duration": 5.119
+  },
+  {
+    "text": "As we repeatedly noted, the\nsymbolic spiraling life breath,",
+    "start": 603.838,
+    "duration": 4.99
+  },
+  {
+    "text": "in its mythic interpretation as\na coiled cord or lock of hair,",
+    "start": 608.853,
+    "duration": 4.944
+  },
+  {
+    "text": "meant nothing else than\nthe cometary essence",
+    "start": 613.822,
+    "duration": 3.32
+  },
+  {
+    "text": "of the Venus goddess herself.",
+    "start": 617.167,
+    "duration": 2.493
+  },
+  {
+    "text": "In this realization, it becomes clear\nthat the hero's unraveling of the thread",
+    "start": 619.685,
+    "duration": 5.177
+  },
+  {
+    "text": "in his meandering dance",
+    "start": 624.887,
+    "duration": 2.358
+  },
+  {
+    "text": "is in fact a corollary\nto the Hindu Shiva's",
+    "start": 627.269,
+    "duration": 3.64
+  },
+  {
+    "text": "whirling dispersal of the\nessence of his consort Sati,",
+    "start": 630.934,
+    "duration": 4.957
+  },
+  {
+    "text": "the goddess Venus.",
+    "start": 635.916,
+    "duration": 2.611
+  },
+  {
+    "text": "To oversimplify a complex story, we can see\nthat the hero unwinding the golden thread",
+    "start": 638.552,
+    "duration": 7.574
+  },
+  {
+    "text": "means the same thing as the hero\nunwinding his own intestines,",
+    "start": 646.151,
+    "duration": 3.937
+  },
+  {
+    "text": "which means the same\nthing as the hero",
+    "start": 650.113,
+    "duration": 2.459
+  },
+  {
+    "text": "making his way through the\npassages of the labyrinth,",
+    "start": 652.597,
+    "duration": 3.7
+  },
+  {
+    "text": "which means the same\nthing as the awkward dance",
+    "start": 656.322,
+    "duration": 3.443
+  },
+  {
+    "text": "or the crane dance of the\nhero and the goddess.",
+    "start": 659.789,
+    "duration": 3.982
+  },
+  {
+    "text": "So the seeming competition\nbetween incompatible storytelling",
+    "start": 663.796,
+    "duration": 4.332
+  },
+  {
+    "text": "is instantly resolved by allowing the\nunderlying events to shine through.",
+    "start": 668.153,
+    "duration": 5.609
+  }
+]

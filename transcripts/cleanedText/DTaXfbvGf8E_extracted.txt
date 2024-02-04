@@ -1,0 +1,943 @@
+The SAFIRE technology was designed and
+built to replicate the atmosphere of the
+Sun in a laboratory on Earth, and
+to test the Electric Sun model.
+These are the
+factors we control.
+These are some of the things the
+SAFIRE lab is now capable of.
+These are some of
+our recent discoveries.
+In our tests and experiments, we have found
+no disparities with the Electric Sun model.
+In fact, all the evidence to date
+indicates that electricity is the primal
+force in the universe.
+Michael Clarage arrives from Boston.
+We have just completed our latest
+experiments in the lab and were
+confronted with mountains of information
+and imagery from a score of data recorders.
+The plan is to park ourselves in
+my garage for two weeks and prepare
+for the upcoming
+conference in the UK.
+Analyzing the SAFIRE data
+is like going through a
+door only to discover
+another door beyond.
+Doors upon doors opening
+to unfamiliar territory.
+We're looking for a coherent story
+that we can present at the conference.
+Something that happens in a few seconds
+in the lab can take weeks to analyze.
+Turning those analyses into a
+45 minute PowerPoint presentation is
+another challenge all together.
+A year ago, the SAFIRE review team set
+the agenda for the next 12 months.
+The plan was to focus on three things: energy,
+transmutation, and finding parallels
+between the SAFIRE Sun in the
+lab and the Sun in the sky.
+During the year, we also gave
+talks at the Electric Universe
+UK conference in 2018, the New England
+Venture summit, and MIT in Boston.
+It is two days away from the conference in
+Bath, and we still don't have our story yet.
+Scott Mainwaring and I go over the
+material to be presented at the
+conference tomorrow.
+Scott was responsible for our original
+mandate which was to test the Electric
+Sun model by replicating the atmosphere
+of the Sun in a lab on Earth.
+Given the discoveries of the last 12 months,
+Scott states that we fulfilled our
+research objectives
+and our mandate.
+The International Science Foundation has
+given us the amazing luxury of doing
+pure science for
+the last five years.
+Now it is for us to turn what we've
+learned into something useful, something
+beneficial to humanity.
+I realize the story Michael and I've
+been struggling to articulate is only
+partly about what we've
+discovered this past year.
+The more complete story needs
+to include our new mandate.
+Ladies and gentlemen, Monty Childs and
+Dr. Michael Clarage, the SAFIRE project.
+You can hear everything can you?
+I even hear myself.
+So we're gonna start from the beginning,
+there's two fundamental components to
+thermodynamics when you're
+heating something up.
+If you have a pot of water and you
+have a candle underneath it, it
+might take an hour to heat it up to bring it to
+a boil, then it stabilizes at that temperature.
+So that's what we
+call steady state.
+What's important is that if you take a
+blowtorch from the mine down the road, OK,
+that they use to melt steel, and put
+underneath the pot; that rise in
+temperature is gonna happen maybe within
+a couple of seconds, and the water will
+come to its steady state or maybe
+it'll go on and just vaporize.
+So I want you to keep that in mind
+as we walk through this section.
+In the lab, when we're running
+that particular bright ball, so
+Ben's there, he's capturing his video, we're
+capturing video on our screens and the computers...
+The anode, you heard me saying that 'bring
+it back, bring the power back, bring it
+back, bring it back back,
+please bring it back!'
+Reason is because we're reaching the
+reactor maximum temperature and we
+weren't able to stop it.
+Dr. Lowell Morgan, myself and a guy named
+Tommy Mello who actually works in
+development of computational fluid
+dynamics code, and that code is used by
+NASA and Lockheed and others, all
+kinds of corporations to do
+thermodynamic analysis, in other words
+rocket engines, cooling systems and the
+transfer of heat and energy.
+It's very complex, very
+expensive, but it's very
+powerful software, and
+that's what we use today.
+So we can predict very accurately,
+if we understand that the factors
+involved, how something
+should perform.
+And that's how they design your car
+engines, so they don't overheat any more.
+Our calculations showed that we needed,
+in order for us to reach maximum reactor
+temperature, our power supply
+had to be at 100% power output.
+So just imagine a hundred percent, means that
+you've got a blowtorch underneath the pot.
+The max. temperature of the chamber
+should be about 113 degrees Celsius.
+The other numbers we just kind
+of tested at different levels of what
+kind of temperatures that
+the chamber should respond to.
+The seven percent, we're gonna
+get into in a few seconds, is
+actually where the power was set, when
+you see that anode and where we're
+actually creating the
+transmutation of elements.
+This is a model, some of you may have seen
+it from 2016, when we did the analysis.
+When it's cooled, with the cooling
+systems at full power, shouldn't
+reach much higher than
+about 110-113 degrees.
+At a full power, cooling system
+on, steady-state, 110-113 degrees.
+When we did our calculations, each of us did them
+separately, we were all within 50 degrees of each other.
+Without cooling the chamber, it
+would heat up to 500 degrees Celsius.
+So that hundred degrees, or 110, actually
+represents 500 degrees Celsius without cooling.
+So when I say 50 degrees,
+you might say well that's 50%
+but it's actually 50 degrees of 500 and
+then we put cooling on it and it should come
+to this, so for three years we've been
+running the experiment and SAFIRE has
+responded predictably, until now.
+We have on our SCADA system, you see here in
+the screen above, it's at 113 degrees,
+we have thermocouples, we have 12
+thermocouples all around the chamber,
+measuring to make
+sure that it's stable.
+And we can monitor these
+things cause it's important.
+So what this graph
+is, is a video.
+The red line represents the infrared
+camera, that's the one we're
+looking at the anode to tell what its
+temperature is, so it doesn't, it's not
+compromised thermally or melt.
+The blue one is called a
+bolometer, it measures,
+you might say, a relative energy
+measurement of what's coming off the end.
+It's not a total measurement of energy
+as such of what SAFIRE is putting out.
+The Gold Line is
+actually the thermocouple.
+So this is a day's worth of experiment
+sped up a couple of thousand times.
+That’s what our day looks like, we
+work very quickly, as you can see.
+Isn’t that interesting,
+we're at the peak.
+So it's climbing and falling, we're
+changing chemistry, you might say the gas
+composition, power settings, and we're
+monitoring the thermal temperature of
+the anode and the chamber.
+Yes, that is the anode melting.
+We didn't know it at the time, because it was
+happening so slowly, but we realized what
+was happening, we had to shut 
+SAFIRE down, it got too hot.
+What I want you to observe here is the
+angle of that yellow line and that is
+real-time rise in 
+temperature over time.
+This is the real-time, and the rise in
+temperature over time is identical to
+what we calculated at hundred percent
+max power, but we're only at 7%.
+The fall here represents after we shut it down, 
+as you saw in the video, we couldn't control
+at that point of time so we
+start dialing the power back.
+And we were only at 7%.
+For me, doing mechanical engineering and
+what I do, everybody gets excited, well,
+it's all this heat, probably it's
+like, can we run the reactor?
+Now, this next picture is
+not a black and white, this
+next picture shows you when we change
+the composition of the catalyst, it
+actually takes heat out of the system to
+a point where the anode, if you can see
+it here, doesn't even register and that's
+at max. power, dials turned up to 11, OK?
+And that's what we get,
+so we can cool it down.
+So we can introduce certain compositions and
+things and take energy out of the system.
+100 percent max power gives
+you a hundred percent maximum
+thermal stable state energy
+or heat in the chamber.
+Seven percent gave us a hundred
+percent plus because we couldn't
+track where it was going to stop.
+I don't like to boast about our error so our
+calculations were only off by 93 percent.
+I'm 62 and I'm telling the truth,
+I've never been off 93 percent of anything
+in the engineering I've done in the
+past, and that's a big number.
+It's not just me, it was Lowell, it was 
+Tommy, chamber shouldn't be doing this.
+SAFIRE can create, control, contain, and
+repeat any number of plasma regimes.
+For five years, SAFIRE has performed exactly within
+the limits it was designed for, until now.
+This recent catalytic event was not
+predicted and according to plasma
+physics, it should not
+have happened but it did.
+This is calling into question our
+understanding of plasma physics and will
+require a new math and a collaboration
+of complementary disciplines to resolve.
+These recent catalytic events have not
+been observed before, they're new and
+show the potential for a clean,
+energy-efficient reactor.
+Transmutation -- finally!
+2017, we had some interesting
+results but we weren't in a
+place to talk about 
+it with confidence.
+Today we are.
+So this is before, this is
+during a plasma discharge.
+What's interesting about this is that the
+plasma double layers have collapsed down
+and become very intense around the anode
+and now it's giving a uniform coronal glow.
+Just keep this in mind as we go
+through this presentation.
+And this is after, and we said
+well, that's interesting.
+In other words, so we decided
+it was time to subject it to what's
+called Scanning Electron
+Microscopy (SEM) and EDAX.
+They kind of go 
+hand in hand.
+Technology's been around for thirty years
+and scanning electron microscopy is just
+a very powerful microscope.
+EDAX basically is technology where they
+energize the elements that are on the
+sample and they can tell you
+definitively what those elements are.
+And they use it for forensic sciences, all
+kinds of things, and it's a standard
+piece of equipment, it's about a million
+bucks for one, I would say, standard or
+common, but it's very good.
+So this is June and
+another lab that we work with
+and what we did with the sample so, when
+you go over a sample like this on
+scanning electron microscope, it's almost
+like scanning over top of a planetary
+surface, so just imagine that you're
+in a satellite or a rocket, and you're
+saying well, that's interesting!
+So pretend you're in there, zooming in with
+the microscope, things get interesting...
+And then we said, what
+are you doing there?
+A ball and then you can get into
+all kinds of discussions about how a
+sphere can form in 
+an experiment like this.
+And there's a lot of people who would agree
+that to get a sphere like this has to
+form in a non-gravitational environment,
+so if you want to make spheres you throw
+particles up that are heated and as they
+glide through the atmosphere they become spherical.
+We don't know what it was, we
+didn't know why was there.
+There's better pictures of this, but just
+take a look at something, there's some
+almost like tectonic 
+thing happening here.
+We can't tell you some of the
+things that we did to get there
+but we can show 
+you the results.
+So if you see some of the elements missing,
+that's some of the elements that we
+can't discuss, but what's interesting is,
+these elements that you see were not in
+the chamber before, and SAFIRE is
+making lanthanum and it's making cerium.
+It's making carbon, 
+it's making oxygen.
+So we went and scanned another region and
+said well, that's interesting, that
+doesn't look like the 
+base materials at all.
+And this is what we found, we found
+phosphorus and silicon and titanium and
+oxygen and magnesium and calcium and
+sodium and potassium and aluminum and
+carbon and chlorine and sulfur.
+Those were also not, we know
+definitively they were not in there.
+What you see here in
+the previous slide is that these
+formations are actually
+growing out of the surface.
+Growing, that's 
+what it looked like.
+This looks like actually a
+fish egg sack full of particles.
+So we said well, nobody's gonna
+believe us, because well, we’re the
+SAFIRE team and of course we're
+completely biased, that's how they're
+gonna see it so we said, this particular
+agency said, we have a lab for you if you
+want to validate your results
+and send it down to this lab.
+And it's a lab that they use 
+and Lockheed uses it and others...
+We say OK, why don’t you go on scan 
+the sample and tell us what you find.
+And this is what they found.
+Wow, that's a really interesting ball,
+and what is going on there. It's like these
+particles forming in here 
+and they confirmed the
+fact that the predominant elements of 
+that ball are cerium and lanthanum.
+These are heavy elements.
+And they scanned another area,
+and they came up with
+titanium, chromium, zinc,
+phosphorus and carbon.
+What we did is, because our EDAX machine isn't
+as good as theirs, they have a bigger budget.
+They can resolve for carbon and
+some of the lighter elements
+and they resolved some of the predominant
+elements there, in fact SAFIRE is making
+carbon, zinc is not there
+and neither is phosphorus.
+So this is some of things that it's
+making but there's even more coming.
+What's interesting is the topography and
+this is as close as we're gonna get.
+This is basically, you might say 
+it doesn't look like crystals but in
+metallurgy you use the
+word crystalline structure.
+You can see how the top surface of the main
+nodules in the material have been eroded.
+What's also interesting is the vent
+holes that are here in this material.
+So we said well, that's 
+interesting, let's go and take a
+look down in between these mountains or
+these guys and we found other
+things like calcium and chlorine and
+carbon and potassium, and these are
+certified materials, so we got them 
+from a certified company, certified
+spectroscopy done on the materials
+before we actually put it in the chamber.
+So we want to make sure we're doing right
+science before we start making claims
+like this, especially
+these kinds of claims.
+We start with the periodic table
+of elements and we're using the word
+catalyst because we can't think of a
+better term to use for the types of gas
+constituent or composition and the
+materials that we have that
+the anode is being exposed to.
+So we're just saying these 
+are catalysts, we introduced those
+into the chamber and when we fired it up
+and that nice bright anode that you saw
+that looks like a Sun, this is what it returned,
+these are the new elements minus the catalyst.
+The aluminum and silica we wrote 
+off because well, our probe is
+alumina, so we figure well, maybe this is
+contamination meaning it may be making it, may
+not be, we're just going to say
+look, let's just dismiss it.
+But you have a pile 
+more that SAFIRE is making.
+Now, what's cool about this is 
+that we can repeat the experiment.
+OK, and get the same results and we've
+dialed it up, then we dialed it down, and we
+can, you know, it's tuned that's what
+Wal was talking about, you know,
+good technology bringing to bear modern
+technology that Birkeland didn't have.
+Well, this is what modern technology can
+bring us, it can bring us some answers or
+actually many more questions.
+So, optical spectroscopy; this
+is Michael's thing, I'm
+his Padawan, OK, when it comes to
+optical spectroscopy, but he's going to talk
+to you what we found in the atmosphere.
+The optical spectroscopy is used to
+study the atmosphere of the discharge.
+What Monty was talking about is a
+surface analysis of the metal.
+Optical spectroscopy is used again to
+study the atmosphere around the anode.
+I'm gonna have to go over there, okay. This is
+wavelengths of light coming out of the
+chamber and optical spectroscopy is like
+a really fancy prism that shows you the
+rainbow colors that are
+in your glowing sample.
+It's a wonderful science, it's
+been perfected for so many decades that
+it's one of the most reliable tools that
+an astronomer or a plasma physicist has to study.
+When you light up the chamber
+at low discharge with a simple
+atmosphere, you might see that line and
+maybe one more here, OK, because it's a
+very simple discharge, it's
+easy to know what's in there.
+When you turn up the power and
+you get things really rolling
+in there, you get this
+whole sea of lines.
+A lot of elements 
+produce similar lines.
+When your circuits are complicated, it's
+not so easy but it's a wonderful game, it's
+like Sudoku on steroids, if you try
+to find out what elements might be
+producing the lines that you're seeing.
+It's part of the art
+of the science there.
+And it took us a while but then we
+noticed this triplet here, this a triplet
+of lines that are 
+very close together.
+This triplet here and this triplet here,
+and our intuition said,
+let's focus on those because that's so
+unique of a fingerprint, no group of
+elements would make that,
+it's got to be one.
+That was the 
+intuition at least.
+And if you ask your optical spectroscopy
+software to match the known lines of
+different elements, after a lot of
+hunting, we came across manganese and
+manganese lies exactly on this triplet,
+this triplet, and this triplet.
+It's basically impossible that that could be
+any other, statistically impossible, any
+other element or 
+group of elements.
+These other ones, we don't 
+know yet, we're still
+hunting, it takes a 
+lot of hours to hunt
+this sort of a diagram.
+So that means that we have
+manganese, which is another
+metal that is in the atmosphere but not
+on the surface, right, we don't know why
+but it's very clear
+that that's happening.
+We also saw in the atmosphere the
+green ones here, the lithium is also
+in the atmosphere that was not on the
+surface, the manganese and then the
+sodium, the Na there that appears in both,
+the surface of the anode and in the atmosphere.
+One of my challenges when we designed
+SAFIRE was that, okay, we can do
+post-experimental analysis on lots of materials,
+but the real challenge is, when is it happening?
+So if you do see transmutation,
+do you know when or under
+what conditions these
+reactions are happening?
+And so what we can tell you today
+is, we know now when it's happening.
+It's because the spectroscopy tells us, we can
+dial it up and we see it come up, then we
+dial it down and it disappears except
+for the prominent lines of the
+particular gas constituent
+we have in there.
+So what we can tell you is that
+manganese is not one of the gas, part of
+the gas compositions, we know that, and
+this is laboratory quality stuff, and not
+with that kind of signal.
+You're gonna enjoy this.
+So always when we're running these
+experiments, part of my job is to
+keep in mind the connection
+with cosmology.
+Cosmology allows you to place
+everything that you might experience as
+a human on this planet
+into some framework, and that has
+definitely been at the start of the
+SAFIRE project as well.
+Here is some framework to put
+some of these results in.
+This is his normal rate,
+speed, Monty, keep up!
+Planets, very dynamic electrical systems,
+currents flowing in and out, and from
+what we know now, it's not as simple,
+it's not simply a current like flowing
+through a wire into something and
+out the other end, current flows in and
+out of the North Pole, current flows 
+in and out of the South Pole.
+I just drew one of the ring currents up there, 
+I think we're up to about four or five now,
+that we know about, it's
+very complicated stuff.
+So let's take that starting point
+as what we know about our local
+environment, put it inside the solar
+system, so stars also, they do have and we
+will eventually measure currents going
+in and out of their poles as well.
+The numbers are a little tough to nail down
+but a planet might have ten to the
+seventh, so ten million amps, more or less
+flowing in, a star might have a billion
+amps flowing in and out of it.
+You start to see the pattern when you
+draw the pictures, this is a cosmic
+blueprint, if you will, for how electrical
+structures are formed.
+Each star is also following this blueprint but
+then its sub members also follow the blueprint.
+The planets are receiving their energy
+from their star, the star is connected to
+its source of power, the planets are
+connected to their source of power and
+their source of
+power is their Sun.
+So you have to imagine if not direct
+currents flowing between them, at least
+some sort of resonance or induction, but the
+planets only get their power from their Sun.
+If you imagine one of those 
+being Jupiter, say one of those
+planets there, and we look at the sky,
+we see Jupiter as a dot, pretty small dot,
+right, but the magnetosphere of Jupiter,
+the body, the real body of Jupiter is
+huge, it would take up, if you did this
+with your arm to the nighttime sky,
+that's how big the body of Jupiter 
+would look if we had eyes to see it.
+OK, so composition of planets, as Wal
+so well said years ago, we understand
+planetary formation so little currently,
+that we need a different theory of
+planetary formation for every
+planet in our solar system.
+One of the patterns
+that we see in electrical systems
+throughout all of nature
+is membranes, boundaries.
+The plasma naturally forms
+its own version of a membrane or a boundary.
+So we'll start with our star,
+shorthand it, right, and then we'll ask
+how does the star fit in its world, the
+neighborhoods that it comes from and lives in?
+So that green there is an
+interstellar filament which you can kind
+of see in the background of the slide
+here, and the stars are set up on those filaments.
+Before the advent of the
+Herschel and Planck Space Telescopes, we
+honestly believed that the stars were
+randomly distributed in the sky.
+We believed that, right, and then once you see
+the filaments, every star we see in the
+sky is on a filament, there's
+no randomness to it
+if you can see the
+underlying structure behind it.
+There's also these other blobs that we
+see now and as a scientific community
+we're bounded by what we already know about and so
+they have a name, they're called protostars.
+Any time somebody uses the word 
+proto, you know they don't know
+what they're talking about, right?
+So I don't think they're stars, they might be,
+I don't know, the point is, they might be
+something else, they don't have to be on
+this track that we call be a star, right,
+they could be something else that is
+needed in the interstellar medium.
+We have found, to date, over 200 organic
+molecules in the interstellar medium.
+I'm sure that number will continue to
+grow exponentially as we study more and more.
+One of the big questions, of course,
+is where do they come from, how do they
+form, how do they get there?
+Now what about the inorganics
+in the interstellar medium?
+Again, the number keeps growing but these
+have been known about for quite a while.
+That group right there, of 11
+elements -- inorganics, metals,
+are known to be out there
+in the interstellar medium.
+How did they get there, why are 
+they there, big questions, right?
+We thought well, wait a minute, we
+have a list to compare this to,
+why don't we compare this known list
+from stars and interstellar medium,
+why don't we compare that to which 
+ones we find in SAFIRE, right?
+Yeah, so pretty good, right?
+I think the evidence 
+speaks for itself.
+I think the evidence speaks for itself, 
+might even demand a verdict, yes, right.
+Dark mode plasma, this is something 
+that, for our research, started
+from Scott Mainwaring who quoted that
+wonderful line from Edgar Allan Poe
+about there being dark
+stars in the sky.
+I don't know the exact quote, but
+it was in the back of our
+minds all this time as to well, what's
+going on in a plasma environment that's
+under tension but 
+it's not discharging?
+That's an important question, right, and
+even though it was on our docket for
+exploration, when we found it 
+we weren't looking for it.
+Life in the lab.
+Yes, so here's an image of dark mode 
+plasma, yeah, this is our anode, right,
+and so just to give you a picture that's
+in the center of the chamber, but the
+probe, our voltage probe comes in from
+the outside and measures the floating
+potential of the plasma as it's 
+moving around in the chamber.
+And at a certain point, the probe
+started going crazy but
+there's no discharge in the chamber, and
+we spent some time studying the spatial
+extent of that 
+strange phenomenon.
+It varies in size depending upon the
+parameters in the atmosphere right, how
+big that that boundary is.
+What's amazing about 
+this is that we have
+a very sharp voltage drop just
+off the surface of the anode,
+a plasma double-layer and there's
+no visible plasma, voltage goes to almost
+zero and it goes right back
+up to, almost, anode potential.
+And there's no plasma.
+So I want to contrast it to the glow 
+mode to see, you get a reference, we
+would call that a form of glow mode and
+at the middle, a very clear atmosphere, very
+clear boundary at the
+edge of the discharge.
+When you run the potential probe 
+through that, you see that chart on
+the left, so that's
+electrical potential, that's
+the voltage at that point in space, at
+that point in the plasma, and you can see
+when you come up, there's that sharp
+boundary coming up from the left side,
+that's sharp boundary, that's that outer
+edge of the blue ball, glowing mode, and
+as you come in, the potential rises
+very steeply, you'll notice the potential
+drops down basically to zero, right
+before you touch the anode, and then, when
+you touch the anode, it jumps up to 
+the voltage we set the anode to.
+This is what we saw running 
+the probe in and out of the
+dark mode so we had the chamber under
+tension, a lot of volts, you don't see
+anything going on, but then you can see
+that's the chart of what the probe is
+telling us is in the chamber.
+There's a lot of arguments about what it is 
+this is telling us, and as a contrast you can
+see some stack over each other, very
+different behavior, very different shapes,
+very different sizes of potential in there...
+I want to emphasize that we don't
+know what it means, OK, there's some
+previous research on this sort of thing
+where the probe you're running in a
+chamber discharge shows this kind of
+really rapid and intense pulsations,
+but no one's studied it spatially.
+It brings you right up against the problem
+we've known since the ‘20s which is, you
+can't actually measure anything
+without affecting it.
+There's this idealization that 
+you can somehow measure something
+that's really there even if you're not looking at
+it, OK, but that's not the truth of nature.
+So we know it's an interaction
+between our probe and the anode, but
+nature is always that way.
+If you think about the solar system and the
+electrical distribution in the solar
+system, it's not just a
+Sun sitting there in isolation,
+there's planets, there's comets, and all
+of those, you could say, serve as the
+probe in the solar system and so they're
+going to be experiencing something like this.
+I'll talk tomorrow about some of the
+astronomical implications of that.
+The SAFIRE team is now developing 
+the new mandate for SAFIRE.
+We're going to take what we've learned
+and turn it into something useful.
+For the immediate future, we are focused
+primarily on clean energy generation.
+We have already designed a
+prototype energy generator.
+But some of these things really came
+together in the last, maybe three weeks, and
+we're saying, what's 
+the SAFIRE story?
+OK, so we want to change the conversation from
+zero-point energy and free energy to efficiency.
+We're gonna be talking about
+that a little bit more
+tomorrow, because there's
+no free lunch.
+If you think about your cars, the oil is
+out there and it's in the ground and it
+gets sequestered, then it gets pulled and
+it's put into tanks then it's refined
+and then it's pumped into your tank
+where it's actually focused and you burn
+it, you harvest the energy
+that has to offer.
+Actually the same thing happens
+with a hydroelectric dam, now you've
+got this river running through it, put up
+a dam, focus that potential energy
+into one particular place, we do
+the same thing with uranium.
+We want to, on our SAFIRE team, change the
+conversation from zero-point energy and
+these kinds of things out there, because
+we don't believe they happen like that.
+We don't see it in nature.
+Energy generation is all about efficiency, how
+one determines efficiency is much debated,
+but the Wall Street Journal factored in
+the cost of the fuel itself, the cost of
+production, the cost of damage that 
+fuel and oil production does to the
+environment; and came up
+with a picture like this.
+Ultimately, nature itself shows us
+the most efficient way to do things.
+SAFIRE will fit somewhere
+in this picture.
+The fact that the main fuel is hydrogen,
+the most abundant element in the
+universe, and that the process is clean
+and produces no negative side effects or
+waste products makes SAFIRE a very
+attractive energy generating technology.
+Elemental transmutation occurs both in nature and
+in the laboratory and is not a new phenomenon.
+Studies done at MIT have shown
+that when radioactive waste
+is exposed to hydrogen isotope nuclei,
+the observed decay rate of the
+radioactive material is
+effectively increased.
+SAFIRE produces copious amounts 
+of hydrogen nuclei that interact
+with other elements, creating self-organizing
+spherical plasma double layer shells.
+Within these shells, electrons,
+ions, and molecules, are trapped by
+powerful electromagnetic fields.
+This is where radioactive material would
+be exposed to the hydrogen nuclei
+to remediate the radioactivity
+of that material.
+One of the confusing aspects, if you only
+think that gravity and turbulence and
+heat are your causal factors, none of
+this is ever, you can never explain this
+how there's so much structure.
+We see a spatial structure there, right, one
+of the benefits of the current suite of
+telescopes around the Earth is that you
+can also see elements and energetic
+states of elements, and those
+are segregated also.
+So what you might be looking at
+here is a center region of
+hydrogen that has been collected in the
+middle, and then that bright boundary
+might be a layer of excited hydrogen.
+Right outside of that, that
+orange boundary might be cold
+carbon monoxide just sitting right there,
+right next to that inner shell, and then
+right outside of that you might find energized calcium
+sitting right next to those other layers.
+How that happens?
+We see that naturally in the SAFIRE
+chamber, all those double layers and
+different structures you see, those are
+segregated and separated different
+elements, molecules, and energetic states.
+And we're not trying to
+force it to do that.
+We don't have a giant billion-dollar 
+ITER machine that uses 20
+mega-watts of energy to try to just
+contain the plasma so it doesn't blow apart.
+We're not trying to force anything
+in our chamber, we are studying what
+nature shows us, what it gives us
+naturally of her own design.
+So, summary.
+So we have energy, we have transmutation
+and we have the Sun and interstellar medium.
+We see a cohesive picture.
+The Electric Sun model gave us the 
+premise with which to engineer the
+SAFIRE reactor.
+Once constructed, the proof
+of concept bell jar version of
+SAFIRE was up and running within minutes.
+Likewise, once constructed, the
+44,000 part SAFIRE reactor was also up
+and running within minutes.
+At every step of the way, the Electric
+Sun model's predictions proved accurate.
+What if the process used to
+create the SAFIRE Sun turns out to
+be similar to the process that 
+creates the real Sun and stars?
+The scientific community would
+have a field day with door opening.
+That would be
+the big picture.
+In all our experiments and discoveries, we have 
+found no disparities with the Electric Sun model.
+All the evidence to date points to
+electricity as the primal force in nature.
+We believe the SAFIRE
+project validates and supports the
+Electric Sun model.
+SAFIRE's new mandate is to create
+beneficial and commercially viable
+transformative technologies 
+for Humanity.
+That's what tomorrow's talk will be
+about, it'll be really the story and
+where do we go from here, and what should
+we do with SAFIRE, should we stop the research?
+Caesar, up -- down, OK,
+off with their heads.
+So I guess, we'll leave that
+with you, I hope you've enjoyed it.

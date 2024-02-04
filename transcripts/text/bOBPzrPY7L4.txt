@@ -1,0 +1,2642 @@
+[
+  {
+    "text": "Solar System Formation, Quantum\nVibration and Natural Disasters",
+    "start": 8.96,
+    "duration": 7.593
+  },
+  {
+    "text": "Good morning everybody!",
+    "start": 17.172,
+    "duration": 1.953
+  },
+  {
+    "text": "So today are we talking about\na very interesting topic",
+    "start": 20.711,
+    "duration": 6.384
+  },
+  {
+    "text": "of solar system formation, quantum\nvibration and natural disaster.",
+    "start": 27.12,
+    "duration": 5.202
+  },
+  {
+    "text": "What motivates me into this research is\nmainly the topic of natural disaster.",
+    "start": 32.504,
+    "duration": 5.403
+  },
+  {
+    "text": "I would like to be\nable to predict",
+    "start": 38.2,
+    "duration": 3.529
+  },
+  {
+    "text": "when all those major natural\ndisaster will occur in the future.",
+    "start": 41.754,
+    "duration": 5.846
+  },
+  {
+    "text": "And that leads me to understanding the\nconnections between space weather",
+    "start": 47.625,
+    "duration": 6.729
+  },
+  {
+    "text": "and all the climate change and\nmany other activities on Earth.",
+    "start": 54.379,
+    "duration": 5.193
+  },
+  {
+    "text": "And that also leads me to\nconducting more intensive research",
+    "start": 59.597,
+    "duration": 4.832
+  },
+  {
+    "text": "on how solar activities arise.",
+    "start": 64.43,
+    "duration": 4.219
+  },
+  {
+    "text": "And also go all the way into\nhow the solar system would form.",
+    "start": 68.674,
+    "duration": 7.005
+  },
+  {
+    "text": "So hopefully this will be an\ninteresting topic to discuss",
+    "start": 76.036,
+    "duration": 6.235
+  },
+  {
+    "text": "and be beneficial\nto everyone here.",
+    "start": 82.296,
+    "duration": 3.103
+  },
+  {
+    "text": "So I would like to start\nwith the term simplicity.",
+    "start": 86.831,
+    "duration": 10.184
+  },
+  {
+    "text": "So in order for human\nto understand anything",
+    "start": 97.04,
+    "duration": 4.864
+  },
+  {
+    "text": "and be able to implement\nwhat they understand,",
+    "start": 101.929,
+    "duration": 3.18
+  },
+  {
+    "text": "it starts with really\nsimple concept such as,",
+    "start": 105.134,
+    "duration": 4.689
+  },
+  {
+    "text": "if we understand\nhow the bird flies",
+    "start": 109.848,
+    "duration": 3.956
+  },
+  {
+    "text": "we can actually imitate birds\nand build a flying machine.",
+    "start": 113.829,
+    "duration": 4.826
+  },
+  {
+    "text": "If we understand the\nwheel, how the wheels work,",
+    "start": 118.68,
+    "duration": 3.283
+  },
+  {
+    "text": "we create can create a vehicle.",
+    "start": 121.988,
+    "duration": 2.762
+  },
+  {
+    "text": "So in this case we want to understand\nhow natural disasters occur",
+    "start": 124.775,
+    "duration": 6.439
+  },
+  {
+    "text": "and we have to use the simple\nconcept to understand this.",
+    "start": 131.239,
+    "duration": 4.124
+  },
+  {
+    "text": "So what means simple?",
+    "start": 135.569,
+    "duration": 3.056
+  },
+  {
+    "text": "It means it's simple to be observed.",
+    "start": 138.65,
+    "duration": 2.594
+  },
+  {
+    "text": "Anyone can observe\nwhat I observed.",
+    "start": 141.269,
+    "duration": 3.67
+  },
+  {
+    "text": "Through all the perceptions\nthat everyone has.",
+    "start": 144.964,
+    "duration": 3.719
+  },
+  {
+    "text": "And also in terms of natural\ndisaster observation,",
+    "start": 150.018,
+    "duration": 5.774
+  },
+  {
+    "text": "it just apply simple\nobservations such as",
+    "start": 155.817,
+    "duration": 3.862
+  },
+  {
+    "text": "rain, floods, tornado formations,\nearthquakes, volcanic eruptions.",
+    "start": 159.704,
+    "duration": 7.605
+  },
+  {
+    "text": "And these are natural\nobservations.",
+    "start": 167.334,
+    "duration": 3.285
+  },
+  {
+    "text": "There's more artificial observations\nthat human have come up with.",
+    "start": 170.644,
+    "duration": 5.937
+  },
+  {
+    "text": "Such as fluctuation of magnetic fields,\nelectric fields and all kind of stuff",
+    "start": 176.606,
+    "duration": 5.771
+  },
+  {
+    "text": "which are the\nsecondary observation",
+    "start": 182.402,
+    "duration": 2.167
+  },
+  {
+    "text": "that not many people can observe\nsuch change by themselves.",
+    "start": 184.594,
+    "duration": 4.903
+  },
+  {
+    "text": "It relies on\nscientific instruments.",
+    "start": 189.522,
+    "duration": 3.096
+  },
+  {
+    "text": "Same thing for the Sun.",
+    "start": 192.643,
+    "duration": 2.246
+  },
+  {
+    "text": "The natural way to\nobserve the Sun,",
+    "start": 194.914,
+    "duration": 2.699
+  },
+  {
+    "text": "well, back like hundreds of years\nthousands of years, is (to) sunspots.",
+    "start": 197.638,
+    "duration": 5.134
+  },
+  {
+    "text": "And of course, using\nreally simple instruments,",
+    "start": 202.797,
+    "duration": 4.715
+  },
+  {
+    "text": "scientists and astronomers can\ngenerate a sunspot index.",
+    "start": 207.537,
+    "duration": 6.196
+  },
+  {
+    "text": "It's called sunspot number.",
+    "start": 213.758,
+    "duration": 1.849
+  },
+  {
+    "text": "And that can be highly beneficial to\nunderstand the Sun, simple as that.",
+    "start": 215.632,
+    "duration": 5.792
+  },
+  {
+    "text": "In addition to a\nmore complex index",
+    "start": 221.449,
+    "duration": 3.635
+  },
+  {
+    "text": "such as solar flares,\ngeomagnetic storm",
+    "start": 225.109,
+    "duration": 5.089
+  },
+  {
+    "text": "or coronal hole, coronal\nmass ejections and so forth.",
+    "start": 230.223,
+    "duration": 4.856
+  },
+  {
+    "text": "And of course, it has to be simple\nto reproduce and verify it.",
+    "start": 236.325,
+    "duration": 3.826
+  },
+  {
+    "text": "Just like I have mentioned.\nIt has to be natural.",
+    "start": 240.176,
+    "duration": 3.751
+  },
+  {
+    "text": "Something everyone can do.",
+    "start": 243.952,
+    "duration": 3.229
+  },
+  {
+    "text": "It's not too expensive to do it.",
+    "start": 247.206,
+    "duration": 2.809
+  },
+  {
+    "text": "So we don't need billions of dollars\nto prove something the way it is.",
+    "start": 250.04,
+    "duration": 4.32
+  },
+  {
+    "text": "It's just how we see things.",
+    "start": 254.385,
+    "duration": 2.681
+  },
+  {
+    "text": "And of course, what we\nsee is what we get.",
+    "start": 258.304,
+    "duration": 4.271
+  },
+  {
+    "text": "It's a direct conclusion based\non direct observations.",
+    "start": 262.94,
+    "duration": 4.822
+  },
+  {
+    "text": "We can also conduct physical\nexperiments just to confirm",
+    "start": 267.787,
+    "duration": 3.746
+  },
+  {
+    "text": "that we understand the behavior\nof what we tried to observe.",
+    "start": 271.558,
+    "duration": 5.078
+  },
+  {
+    "text": "And of course, this is based\non personal experience",
+    "start": 276.661,
+    "duration": 2.968
+  },
+  {
+    "text": "that began where, you know,\nfrom our child ages to now.",
+    "start": 279.654,
+    "duration": 6.601
+  },
+  {
+    "text": "So in order to work in the right\ndirection, we need the right perceptions.",
+    "start": 287.16,
+    "duration": 7.117
+  },
+  {
+    "text": "And in order to do that I need to rely\non the teaching from great philosophers",
+    "start": 294.302,
+    "duration": 7.396
+  },
+  {
+    "text": "and scholars around the world",
+    "start": 301.699,
+    "duration": 2.817
+  },
+  {
+    "text": "that's living\ntoday, in this room,",
+    "start": 304.541,
+    "duration": 2.887
+  },
+  {
+    "text": "as well as those, you know, that lived\nin the past thousands of years.",
+    "start": 307.453,
+    "duration": 6.972
+  },
+  {
+    "text": "And they all come to\nreally the same conclusion",
+    "start": 314.704,
+    "duration": 3.401
+  },
+  {
+    "text": "when we want to observe something. That\neverything has to happen for a reason.",
+    "start": 318.13,
+    "duration": 5.352
+  },
+  {
+    "text": "They have to have\ncause and effects.",
+    "start": 323.775,
+    "duration": 3.445
+  },
+  {
+    "text": "And of course, how did you\nfind cause and effects?",
+    "start": 327.245,
+    "duration": 2.771
+  },
+  {
+    "text": "In general sense, we use the\nterm \"Dependent origination\",",
+    "start": 330.041,
+    "duration": 4.262
+  },
+  {
+    "text": "that all things arise in dependence\nupon multiple cause and condition.",
+    "start": 334.328,
+    "duration": 5.229
+  },
+  {
+    "text": "Not a single one.",
+    "start": 339.582,
+    "duration": 1.763
+  },
+  {
+    "text": "For example, I was born.\nI cannot be born by myself.",
+    "start": 341.925,
+    "duration": 5.257
+  },
+  {
+    "text": "I relied on my\nmother and my father.",
+    "start": 347.207,
+    "duration": 2.928
+  },
+  {
+    "text": "And of course my father and\nmy mother cannot be born",
+    "start": 350.16,
+    "duration": 3.903
+  },
+  {
+    "text": "if they don't have air, food\nand water supplying to them.",
+    "start": 354.088,
+    "duration": 5.535
+  },
+  {
+    "text": "So everything depends\non each other.",
+    "start": 359.648,
+    "duration": 2.387
+  },
+  {
+    "text": "There's no single isolated island\nof anything that's causing something.",
+    "start": 362.06,
+    "duration": 5.267
+  },
+  {
+    "text": "So everything is all-conditioned.",
+    "start": 367.352,
+    "duration": 3.196
+  },
+  {
+    "text": "And of course we want to study something\nand to be pretty much neutral or not biased.",
+    "start": 372.54,
+    "duration": 7.78
+  },
+  {
+    "text": "We always, we always see something\nin dualities, just like we see a coin.",
+    "start": 380.345,
+    "duration": 5.188
+  },
+  {
+    "text": "These always have two sides.",
+    "start": 385.558,
+    "duration": 2.342
+  },
+  {
+    "text": "And of course, we see\nthings the way it is.",
+    "start": 389.884,
+    "duration": 3.705
+  },
+  {
+    "text": "Simple to say, but what I mean is,\neverything is subject to change.",
+    "start": 394.279,
+    "duration": 7.146
+  },
+  {
+    "text": "For example, this\nuniverse. The assumption",
+    "start": 401.679,
+    "duration": 6.501
+  },
+  {
+    "text": "that this universe is electrically\nneutral is also impermanent.",
+    "start": 408.205,
+    "duration": 5.716
+  },
+  {
+    "text": "Same thing for an electrical\nbias. It's also impermanent.",
+    "start": 414.835,
+    "duration": 6.872
+  },
+  {
+    "text": "There's nothing really constant or\nstaying the same way without changing.",
+    "start": 422.033,
+    "duration": 5.283
+  },
+  {
+    "text": "And of course, since\neverything is conditioned,",
+    "start": 428.276,
+    "duration": 3.332
+  },
+  {
+    "text": "there's no something dictating\neverything ultimately.",
+    "start": 431.633,
+    "duration": 3.778
+  },
+  {
+    "text": "So there's no true essence\nin what we actually observe",
+    "start": 435.436,
+    "duration": 4.853
+  },
+  {
+    "text": "and that, in general sense,\nis called concept non-self.",
+    "start": 440.314,
+    "duration": 4.991
+  },
+  {
+    "text": "So next...",
+    "start": 448.542,
+    "duration": 1.922
+  },
+  {
+    "text": "Okay, so now we go to the\ntopic of quantum vibration.",
+    "start": 456.48,
+    "duration": 4.318
+  },
+  {
+    "text": "The simple concept of this term.",
+    "start": 460.996,
+    "duration": 4.514
+  },
+  {
+    "text": "I refer to the minimum amount of physical\nentity involved in an interaction.",
+    "start": 465.535,
+    "duration": 5.8
+  },
+  {
+    "text": "So in in this case, what we\ncan do in this universe",
+    "start": 471.36,
+    "duration": 5.695
+  },
+  {
+    "text": "is all about changing.",
+    "start": 477.08,
+    "duration": 2.222
+  },
+  {
+    "text": "Depending on what we are actually\nlooking at and pay attention to,",
+    "start": 479.327,
+    "duration": 5.197
+  },
+  {
+    "text": "there's always at least two states that\nwe can define of what we observed.",
+    "start": 485.357,
+    "duration": 5.831
+  },
+  {
+    "text": "For example, if we look at charge,",
+    "start": 491.189,
+    "duration": 3.697
+  },
+  {
+    "text": "we can see positive charge\nand negative charge.",
+    "start": 494.911,
+    "duration": 4.261
+  },
+  {
+    "text": "If we want to look\nat electricity,",
+    "start": 499.537,
+    "duration": 3.832
+  },
+  {
+    "text": "there are electromagnetic\nand electrostatic.",
+    "start": 503.679,
+    "duration": 4.089
+  },
+  {
+    "text": "You want to study wave,",
+    "start": 507.793,
+    "duration": 2.784
+  },
+  {
+    "text": "there's two type of waves. There's\ntransverse wave and longitude wave.",
+    "start": 510.602,
+    "duration": 3.991
+  },
+  {
+    "text": "If you want to look at\n(how) matter movements,",
+    "start": 514.982,
+    "duration": 4.341
+  },
+  {
+    "text": "it can be perceived as\ncontractions or expansions",
+    "start": 519.348,
+    "duration": 4.69
+  },
+  {
+    "text": "and also can arise from chaos\ninto order and vice versa.",
+    "start": 524.063,
+    "duration": 5.663
+  },
+  {
+    "text": "And this is just some example of what\nyou can see and perceive in reality.",
+    "start": 529.751,
+    "duration": 4.931
+  },
+  {
+    "text": "And all this exists in\nall state of matter;",
+    "start": 534.707,
+    "duration": 4.977
+  },
+  {
+    "text": "plasma, gas, liquid, and solid.",
+    "start": 539.709,
+    "duration": 5.167
+  },
+  {
+    "text": "And of course, all these\nproperties exist in space",
+    "start": 544.901,
+    "duration": 6.475
+  },
+  {
+    "text": "or someone can call this vacuum.",
+    "start": 551.733,
+    "duration": 2.356
+  },
+  {
+    "text": "It's an ever-changing\nenvironment.",
+    "start": 554.383,
+    "duration": 2.415
+  },
+  {
+    "text": "So next we're going to the main\nconcept of this presentation.",
+    "start": 557.293,
+    "duration": 5.39
+  },
+  {
+    "text": "So I need to get, obtain some guidance\nfrom one (of the) great scholar here,",
+    "start": 565.167,
+    "duration": 10.411
+  },
+  {
+    "text": "which is Nikola Tesla.",
+    "start": 575.603,
+    "duration": 1.96
+  },
+  {
+    "text": "One of his quotes is, \"If you want to\nfind the secrets of the universe,",
+    "start": 577.588,
+    "duration": 4.101
+  },
+  {
+    "text": "(we) think in terms of energy,\nfrequency and vibration.\"",
+    "start": 581.714,
+    "duration": 6.353
+  },
+  {
+    "text": "And of course, in this conference we refer\nenergy, want to focus on electrical energy.",
+    "start": 588.092,
+    "duration": 8.493
+  },
+  {
+    "text": "So we're going into the, the first experiment\nof how we try to create a plasma ball,",
+    "start": 596.916,
+    "duration": 8.326
+  },
+  {
+    "text": "okay, using electrical potential.",
+    "start": 605.267,
+    "duration": 3.752
+  },
+  {
+    "text": "This is a brute force way\nto create a plasma ball",
+    "start": 609.044,
+    "duration": 6.771
+  },
+  {
+    "text": "so we can learn and understand how we, how\nthe plasma behaves as a spherical shape.",
+    "start": 615.84,
+    "duration": 7.222
+  },
+  {
+    "text": "So in this case we\nhave a tube, vacuum tube.",
+    "start": 623.087,
+    "duration": 6.442
+  },
+  {
+    "text": "We supply 9 kilo-volts AC power into\nthe one electrode at the center,",
+    "start": 629.554,
+    "duration": 7.648
+  },
+  {
+    "text": "and there's one side on another plate. And\nthen we start by vacuum the tube out",
+    "start": 637.227,
+    "duration": 7.92
+  },
+  {
+    "text": "so we create an easy\ncondition to produce plasma.",
+    "start": 645.172,
+    "duration": 5.772
+  },
+  {
+    "text": "So from here just pay\nattention to the video here.",
+    "start": 650.969,
+    "duration": 5.41
+  },
+  {
+    "text": "So the power is already\nsupplied to this tube",
+    "start": 657.09,
+    "duration": 5.868
+  },
+  {
+    "text": "and of course, once\nthe condition is right",
+    "start": 662.983,
+    "duration": 3.151
+  },
+  {
+    "text": "you have a plasmasphere created\nin the center of the chamber.",
+    "start": 666.159,
+    "duration": 5.929
+  },
+  {
+    "text": "So this looks very\nmuch like the Sun.",
+    "start": 672.659,
+    "duration": 3.576
+  },
+  {
+    "text": "But of course, the Sun has more\ncomplex behavior than this.",
+    "start": 676.26,
+    "duration": 3.475
+  },
+  {
+    "text": "So one I want, the one I want to\nshow you is, you can see the plume",
+    "start": 679.76,
+    "duration": 4.212
+  },
+  {
+    "text": "that's showing up here?",
+    "start": 683.997,
+    "duration": 3.079
+  },
+  {
+    "text": "And that's, kind of, similar way that\nwe observed in this plasma ball.",
+    "start": 687.101,
+    "duration": 6.296
+  },
+  {
+    "text": "So the point I'm trying to make here is\nthat, if you wait a little bit longer,",
+    "start": 693.757,
+    "duration": 4.792
+  },
+  {
+    "text": "we want to change the conditions\nsurrounding this plasma ball",
+    "start": 698.574,
+    "duration": 3.577
+  },
+  {
+    "text": "and see how the plasma ball\nbehave according to this change.",
+    "start": 702.176,
+    "duration": 5.222
+  },
+  {
+    "text": "In this case we leak the air,",
+    "start": 707.423,
+    "duration": 1.978
+  },
+  {
+    "text": "you can leak the air inside this\nplasma ball, this plasma chamber.",
+    "start": 709.426,
+    "duration": 5.76
+  },
+  {
+    "text": "And if you wait a little bit more, you'll\nnotice something change to this sphere.",
+    "start": 715.932,
+    "duration": 7.938
+  },
+  {
+    "text": "So right now, it's\nnot changing yet.",
+    "start": 729.037,
+    "duration": 2.517
+  },
+  {
+    "text": "Let's keep observing\na little bit.",
+    "start": 739.354,
+    "duration": 2.625
+  },
+  {
+    "text": "Now started to change.",
+    "start": 744.047,
+    "duration": 1.861
+  },
+  {
+    "text": "See how activities\nstart to increase",
+    "start": 745.933,
+    "duration": 3.325
+  },
+  {
+    "text": "so that's when we have more massive\ngas leaking into the system",
+    "start": 749.283,
+    "duration": 8.947
+  },
+  {
+    "text": "(and) so the different plasma\ndensity in the chamber.",
+    "start": 758.255,
+    "duration": 2.838
+  },
+  {
+    "text": "And you could also notice the uniform\nglow at the edge of the plate.",
+    "start": 761.118,
+    "duration": 5.426
+  },
+  {
+    "text": "So from here we go\ninto conclusion.",
+    "start": 766.569,
+    "duration": 4.609
+  },
+  {
+    "text": "This is just not the whole\ncomplete picture of the Sun",
+    "start": 771.203,
+    "duration": 3.774
+  },
+  {
+    "text": "but I, the point I try to make here is\nthat the Sun is not the Sun by itself.",
+    "start": 775.002,
+    "duration": 5.396
+  },
+  {
+    "text": "The activity of the Sun was not dictated\nfrom the thing that's come from inside.",
+    "start": 780.423,
+    "duration": 6.312
+  },
+  {
+    "text": "But in this case it does have the\noutside influence of the activity.",
+    "start": 786.76,
+    "duration": 7.189
+  },
+  {
+    "text": "So during, the high vacuum pressure chamber,\nit looks like high solar activity.",
+    "start": 793.974,
+    "duration": 7.976
+  },
+  {
+    "text": "And there's more filaments like it\nbecause there's more gas inside.",
+    "start": 801.975,
+    "duration": 6.648
+  },
+  {
+    "text": "It's more electrical discharge,\nactivities become more frequent.",
+    "start": 808.648,
+    "duration": 4.667
+  },
+  {
+    "text": "And of course, you have more magnetic\nfields -- you have more currents.",
+    "start": 813.34,
+    "duration": 5.085
+  },
+  {
+    "text": "And this called is solar\nmaximum, in pinyin,",
+    "start": 818.45,
+    "duration": 4.289
+  },
+  {
+    "text": "of course and of course we produce\nhigh X-ray emissions, more frequency",
+    "start": 822.764,
+    "duration": 6.073
+  },
+  {
+    "text": "and of course high\nnumber of sunspots.",
+    "start": 828.862,
+    "duration": 3.283
+  },
+  {
+    "text": "On the other hand, in doing\nthe low vacuum pressure,",
+    "start": 832.17,
+    "duration": 5.164
+  },
+  {
+    "text": "the plasma will\nbecome more uniform",
+    "start": 838.032,
+    "duration": 3.52
+  },
+  {
+    "text": "and it's really similar to the\nlow solar activity cycles.",
+    "start": 841.577,
+    "duration": 5.751
+  },
+  {
+    "text": "And it looks they have less filament-\nlike electrical discharge activities,",
+    "start": 847.353,
+    "duration": 6.438
+  },
+  {
+    "text": "weaker magnetic field, all those\nflux lines are less present.",
+    "start": 853.816,
+    "duration": 5.795
+  },
+  {
+    "text": "Would be, we can define as a\nstrong electric activity.",
+    "start": 859.636,
+    "duration": 5.348
+  },
+  {
+    "text": "Solar minimum, low X-ray emission.",
+    "start": 865.009,
+    "duration": 4.569
+  },
+  {
+    "text": "So of course, in this we find\na low number of sunspots.",
+    "start": 869.603,
+    "duration": 4.497
+  },
+  {
+    "text": "So this is going to one of the factors\nthat I actually used for understanding",
+    "start": 874.125,
+    "duration": 4.776
+  },
+  {
+    "text": "how this plasma density affects the\nSun as well as the Earth in general.",
+    "start": 878.926,
+    "duration": 7.436
+  },
+  {
+    "text": "So next slide...",
+    "start": 887.839,
+    "duration": 2.087
+  },
+  {
+    "text": "Of course, if you want to compare this\nto the outer edge of the solar system,",
+    "start": 889.951,
+    "duration": 4.31
+  },
+  {
+    "text": "this is what I believe, something using\na really cheap way to generate it.",
+    "start": 894.286,
+    "duration": 6.358
+  },
+  {
+    "text": "It looks like a heliopause to me.",
+    "start": 901.648,
+    "duration": 2.417
+  },
+  {
+    "text": "I believe, this is very similar to what\nRalph Juergens maybe had visualized,",
+    "start": 905.708,
+    "duration": 6.087
+  },
+  {
+    "text": "maybe.",
+    "start": 911.82,
+    "duration": 1.259
+  },
+  {
+    "text": "And he, what he said is the Sun itself is\nthe focus of cosmic electrical discharge.",
+    "start": 913.104,
+    "duration": 6.518
+  },
+  {
+    "text": "So we just do just that.",
+    "start": 919.647,
+    "duration": 1.977
+  },
+  {
+    "text": "But this is a brute force way to fuse the\nplasma into the center of the sphere.",
+    "start": 921.649,
+    "duration": 6.959
+  },
+  {
+    "text": "And of course, there's more efficient\nway to do that. It's the resonance system",
+    "start": 928.633,
+    "duration": 4.922
+  },
+  {
+    "text": "So now we move through...",
+    "start": 934.371,
+    "duration": 2.722
+  },
+  {
+    "text": "going through more factor details\nof how we can create a system",
+    "start": 938.062,
+    "duration": 5.415
+  },
+  {
+    "text": "that mimic the Sun through\nquantum vibrations.",
+    "start": 943.502,
+    "duration": 3.672
+  },
+  {
+    "text": "Now, I introduced the terms\nfrequency and vibration.",
+    "start": 947.199,
+    "duration": 6.379
+  },
+  {
+    "text": "And of course to do, to understand this and\nmaybe hard to do in plasma, plasma medium.",
+    "start": 954.15,
+    "duration": 6.846
+  },
+  {
+    "text": "I choose to learn this type of behavior\nfrom the work from dr. Hans Jenny,",
+    "start": 961.021,
+    "duration": 10.648
+  },
+  {
+    "text": "which is, what he does is, he made an experiment\non a membrane full of very fine powder.",
+    "start": 971.694,
+    "duration": 7.157
+  },
+  {
+    "text": "He put acoustic wave perpendicular\nto this mat diaphragme",
+    "start": 978.876,
+    "duration": 7.555
+  },
+  {
+    "text": "so it created vibrations\non this diaphragme.",
+    "start": 986.456,
+    "duration": 3.545
+  },
+  {
+    "text": "So from here, you start to see that material\nstarted to condense at the center of the things",
+    "start": 990.026,
+    "duration": 8.225
+  },
+  {
+    "text": "and you see it looks\nspherical, just like the Sun.",
+    "start": 998.276,
+    "duration": 4.568
+  },
+  {
+    "text": "And of course, if you zoom inside, you\nstart to see circulations, convection",
+    "start": 1002.869,
+    "duration": 6.235
+  },
+  {
+    "text": "that is occurring in\nthis half-sphere shape.",
+    "start": 1009.129,
+    "duration": 4.55
+  },
+  {
+    "text": "If you look carefully, you see that\nkind of look like nanoflares as well.",
+    "start": 1014.378,
+    "duration": 5.75
+  },
+  {
+    "text": "And of course, once we\nincrease the frequency,",
+    "start": 1020.153,
+    "duration": 3.683
+  },
+  {
+    "text": "the sphere cannot sustain by just\nbeing, remaining static, it starts to spin.",
+    "start": 1023.861,
+    "duration": 5.492
+  },
+  {
+    "text": "And of course, once\nthe frequency changes,",
+    "start": 1029.378,
+    "duration": 3.15
+  },
+  {
+    "text": "there's an alteration in frequency,\nyou start to see eruptions.",
+    "start": 1032.553,
+    "duration": 3.555
+  },
+  {
+    "text": "Some chaotic process\ngoing on in the sphere.",
+    "start": 1036.133,
+    "duration": 4.092
+  },
+  {
+    "text": "It could happen over a short\nperiod of time as well.",
+    "start": 1040.677,
+    "duration": 3.095
+  },
+  {
+    "text": "And of course, the spin can\nchange when the frequency changes.",
+    "start": 1043.797,
+    "duration": 4.848
+  },
+  {
+    "text": "And of course anyone (who) interested\nin learning more about this video,",
+    "start": 1048.67,
+    "duration": 5.17
+  },
+  {
+    "text": "you can find it on YouTube.",
+    "start": 1053.865,
+    "duration": 2.11
+  },
+  {
+    "text": "So from here, we learn the properties\nof what happened in space",
+    "start": 1056.402,
+    "duration": 6.966
+  },
+  {
+    "text": "using the vibration of sound.",
+    "start": 1063.402,
+    "duration": 4.327
+  },
+  {
+    "text": "And I will tie this later back to how\nthe electric properties work later on.",
+    "start": 1068.019,
+    "duration": 6.332
+  },
+  {
+    "text": "So in this case we look at\ninternal behavior of this sphere.",
+    "start": 1074.376,
+    "duration": 5.802
+  },
+  {
+    "text": "We started to observe that\nthrough quantum vibrations,",
+    "start": 1080.203,
+    "duration": 3.663
+  },
+  {
+    "text": "its arising of the spherical shape with\ncirculation and convection properties.",
+    "start": 1083.891,
+    "duration": 5.467
+  },
+  {
+    "text": "And if you look at the Sun,\nwe see this acting the same way.",
+    "start": 1089.383,
+    "duration": 3.611
+  },
+  {
+    "text": "We see meridional\ncirculations inside the Sun.",
+    "start": 1093.019,
+    "duration": 4.723
+  },
+  {
+    "text": "And of course it has, this things\nseem to have explosion and ejection.",
+    "start": 1098.345,
+    "duration": 7.327
+  },
+  {
+    "text": "It's really similar to\nthe way the Sun behaves,",
+    "start": 1105.697,
+    "duration": 2.942
+  },
+  {
+    "text": "that is, having active regions\nand coronal mass ejection.",
+    "start": 1108.64,
+    "duration": 5.705
+  },
+  {
+    "text": "So I believe what happened is\nthere are some frequencies",
+    "start": 1114.37,
+    "duration": 4.63
+  },
+  {
+    "text": "that tie into such\nactivities of the Sun.",
+    "start": 1119.025,
+    "duration": 4.457
+  },
+  {
+    "text": "And if you look into\nexternal behavior,",
+    "start": 1124.148,
+    "duration": 3.387
+  },
+  {
+    "text": "we see that the sun spins, just like the\nway this spherical ball had rotation.",
+    "start": 1127.56,
+    "duration": 7.792
+  },
+  {
+    "text": "And of course it produces, it seems like\nejecting mass, just like the Sun does.",
+    "start": 1135.377,
+    "duration": 6.227
+  },
+  {
+    "text": "And of course, it looks like a\nParker spiral in the larger scale.",
+    "start": 1141.629,
+    "duration": 5.291
+  },
+  {
+    "text": "And this can be compared to\none of the ALMA telescope",
+    "start": 1146.945,
+    "duration": 5.601
+  },
+  {
+    "text": "that observed the red giant\nstar R Sculptoris.",
+    "start": 1152.571,
+    "duration": 4.524
+  },
+  {
+    "text": "Of course, last but not least, one of the properties\nthat we can observe is standing wave.",
+    "start": 1157.12,
+    "duration": 6.238
+  },
+  {
+    "text": "And this is the mode that I\nwould like to talk about today",
+    "start": 1163.359,
+    "duration": 4.507
+  },
+  {
+    "text": "and this mode really resembles the\norbital plane of the solar system.",
+    "start": 1168.604,
+    "duration": 6.591
+  },
+  {
+    "text": "And if you want to look back into\ntime to other star systems,",
+    "start": 1175.22,
+    "duration": 4.999
+  },
+  {
+    "text": "you start to see a resonant ring that was\nobserved in HL Tauri protoplanetary disk.",
+    "start": 1180.244,
+    "duration": 9.125
+  },
+  {
+    "text": "And of course, we go\ninto conclusion here.",
+    "start": 1190.876,
+    "duration": 2.772
+  },
+  {
+    "text": "Observations",
+    "start": 1193.673,
+    "duration": 1.588
+  },
+  {
+    "text": "Of course, changing vibration frequency\ncreates various types of activities",
+    "start": 1195.286,
+    "duration": 4.859
+  },
+  {
+    "text": "That's applied to\nobjects in space.",
+    "start": 1200.716,
+    "duration": 3.222
+  },
+  {
+    "text": "Such activity matches with the characteristic\nof the Sun and the solar system,",
+    "start": 1203.963,
+    "duration": 6.745
+  },
+  {
+    "text": "part of it.",
+    "start": 1211.184,
+    "duration": 1.883
+  },
+  {
+    "text": "And of course, organisation of matters\nis resulting of vacuum vibration.",
+    "start": 1213.092,
+    "duration": 5.318
+  },
+  {
+    "text": "It could be done at\nresonant frequency,",
+    "start": 1218.435,
+    "duration": 2.374
+  },
+  {
+    "text": "so that's how we reinforce the energy\ninto condensing it into the matter.",
+    "start": 1220.834,
+    "duration": 6.868
+  },
+  {
+    "text": "You can call that order\narising from chaos.",
+    "start": 1227.727,
+    "duration": 3.639
+  },
+  {
+    "text": "And of course, energy used to create\nand sustain the sphere alone,",
+    "start": 1232.535,
+    "duration": 3.578
+  },
+  {
+    "text": "ultimately comes from\nthe surrounding.",
+    "start": 1236.138,
+    "duration": 3.016
+  },
+  {
+    "text": "And of course, there's two\ntypes of wave patterns",
+    "start": 1241.424,
+    "duration": 2.749
+  },
+  {
+    "text": "that we can observe from\nthe previous experiments.",
+    "start": 1244.198,
+    "duration": 3.007
+  },
+  {
+    "text": "One is a spin which is a spiral wave",
+    "start": 1247.23,
+    "duration": 2.75
+  },
+  {
+    "text": "and the other is a standing wave.",
+    "start": 1250.005,
+    "duration": 2.331
+  },
+  {
+    "text": "And I will pay more attention\nto the standing wave behavior.",
+    "start": 1252.361,
+    "duration": 4.599
+  },
+  {
+    "text": "So such standing wave behavior\ncan be observed by experiment.",
+    "start": 1256.985,
+    "duration": 4.711
+  },
+  {
+    "text": "Simple experiment\njust as this one",
+    "start": 1261.721,
+    "duration": 2.15
+  },
+  {
+    "text": "which is plasma discharge tube.",
+    "start": 1263.896,
+    "duration": 2.536
+  },
+  {
+    "text": "So by having vacuum and producing\nejecting high-voltage into the electrodes,",
+    "start": 1266.457,
+    "duration": 8.631
+  },
+  {
+    "text": "you start to see\ncolumns of plasma.",
+    "start": 1275.113,
+    "duration": 3.181
+  },
+  {
+    "text": "And that looks pretty much\nlike a subperiodic structure",
+    "start": 1278.319,
+    "duration": 7.065
+  },
+  {
+    "text": "when it starts to stabilize.",
+    "start": 1285.409,
+    "duration": 3.072
+  },
+  {
+    "text": "So now it will become\nstabilized in the video.",
+    "start": 1289.027,
+    "duration": 3.438
+  },
+  {
+    "text": "You start to see a lot of columns just like\nwe observed in the HL Tauri protoplanetary disc.",
+    "start": 1293.499,
+    "duration": 9.261
+  },
+  {
+    "text": "So next, we extend this understanding but\nit may be a little harder to do in plasma",
+    "start": 1303.292,
+    "duration": 6.257
+  },
+  {
+    "text": "so we go back to solid\nprop, solid model",
+    "start": 1309.574,
+    "duration": 4.364
+  },
+  {
+    "text": "using soundwave again.",
+    "start": 1313.963,
+    "duration": 2.285
+  },
+  {
+    "text": "So now we take a look at how we can\ncreate organized system using soundwave.",
+    "start": 1316.273,
+    "duration": 7.538
+  },
+  {
+    "text": "And this is a, this is experiment called\ncenter, Circular Centered Chladni Plate",
+    "start": 1323.836,
+    "duration": 5.733
+  },
+  {
+    "text": "which you can check\nonline as well.",
+    "start": 1329.594,
+    "duration": 3.519
+  },
+  {
+    "text": "So in this case we have\na plate, a solid plate.",
+    "start": 1333.138,
+    "duration": 2.963
+  },
+  {
+    "text": "A center of it ties to\nthe speaker below.",
+    "start": 1336.126,
+    "duration": 3.302
+  },
+  {
+    "text": "It puts a lot of small particles.",
+    "start": 1340.692,
+    "duration": 3.77
+  },
+  {
+    "text": "As we change the frequency, those\nparticles they automatically organize",
+    "start": 1346.144,
+    "duration": 4.901
+  },
+  {
+    "text": "around the center\nof the focus point.",
+    "start": 1351.07,
+    "duration": 3.767
+  },
+  {
+    "text": "And this looks pretty\nmuch like the Asteroid belt.",
+    "start": 1354.862,
+    "duration": 4.126
+  },
+  {
+    "text": "So by increasing the frequency,",
+    "start": 1359.684,
+    "duration": 4.56
+  },
+  {
+    "text": "you start to see\nthat the matter",
+    "start": 1365.109,
+    "duration": 2.469
+  },
+  {
+    "text": "or that scattering around this\nplate start to be more fine",
+    "start": 1367.603,
+    "duration": 5.983
+  },
+  {
+    "text": "and create a more defined circle.\nSuch as the one shown here.",
+    "start": 1373.611,
+    "duration": 6.222
+  },
+  {
+    "text": "So the more frequency you put\nin, the more rings it creates.",
+    "start": 1382.198,
+    "duration": 5.643
+  },
+  {
+    "text": "So it, for me it looks pretty\nmuch like our solar system.",
+    "start": 1387.866,
+    "duration": 6.489
+  },
+  {
+    "text": "So we move to the next slide.",
+    "start": 1396.791,
+    "duration": 3.341
+  },
+  {
+    "text": "More three-dimensional wheel relies on Argonne\nNational Labs using acoustic levitation.",
+    "start": 1400.157,
+    "duration": 6.749
+  },
+  {
+    "text": "In this case of course, we see\nthat, put a spherical foam",
+    "start": 1407.279,
+    "duration": 7.282
+  },
+  {
+    "text": "and it seems like it's\nsuspended over the air.",
+    "start": 1414.586,
+    "duration": 2.605
+  },
+  {
+    "text": "So you see, notice the vibration\nthat occur in these spheres.",
+    "start": 1417.849,
+    "duration": 6.723
+  },
+  {
+    "text": "Of course, the sphere will be in the\nnode where it's the most stable.",
+    "start": 1424.873,
+    "duration": 5.365
+  },
+  {
+    "text": "And of course, it moves\nwith frequencies.",
+    "start": 1430.928,
+    "duration": 2.73
+  },
+  {
+    "text": "So it looks pretty much\nlike our Solar System.",
+    "start": 1434.436,
+    "duration": 5.377
+  },
+  {
+    "text": "In our case we want to study about\nhow the Sun translates power,",
+    "start": 1440.392,
+    "duration": 7.156
+  },
+  {
+    "text": "transmits power into the Earth.",
+    "start": 1447.573,
+    "duration": 2.921
+  },
+  {
+    "text": "And of course, if it looks\nreally similar to these things,",
+    "start": 1450.519,
+    "duration": 3.394
+  },
+  {
+    "text": "what we should observe is\nthat, if the Sun vibrates",
+    "start": 1453.938,
+    "duration": 5.537
+  },
+  {
+    "text": "then the planets will\nvibrate. Simple as that.",
+    "start": 1459.5,
+    "duration": 5.444
+  },
+  {
+    "text": "But what kind of\nvibration is this?",
+    "start": 1466.662,
+    "duration": 2.42
+  },
+  {
+    "text": "We talk, we all talk about\nlongitude wave for all along.",
+    "start": 1469.566,
+    "duration": 5.341
+  },
+  {
+    "text": "So I want to continue in\nthis mode of propagation",
+    "start": 1474.932,
+    "duration": 5.017
+  },
+  {
+    "text": "so we construct a model of resonant\ncoupling in the solar system.",
+    "start": 1479.974,
+    "duration": 5.109
+  },
+  {
+    "text": "We assume the Sun is the\ncenter of solar system",
+    "start": 1485.41,
+    "duration": 3.567
+  },
+  {
+    "text": "and of course, through\nstanding wave effects",
+    "start": 1489.002,
+    "duration": 3.115
+  },
+  {
+    "text": "the Earth's probably in the\nthird node of vibration.",
+    "start": 1492.142,
+    "duration": 5.8
+  },
+  {
+    "text": "So we assumed the distance is about\n149,600,000 kilometers away",
+    "start": 1499.204,
+    "duration": 7.741
+  },
+  {
+    "text": "and assume this mode of propagation\ntravels about speed of light",
+    "start": 1506.97,
+    "duration": 4.504
+  },
+  {
+    "text": "so that's eight times, 3 times\n(eight) 10 to the power of 8 m/s.",
+    "start": 1511.499,
+    "duration": 4.928
+  },
+  {
+    "text": "So that turns out to be\nabout 3 mHz of vibration.",
+    "start": 1516.452,
+    "duration": 4.826
+  },
+  {
+    "text": "So what's important\nabout this frequency?",
+    "start": 1521.453,
+    "duration": 3.261
+  },
+  {
+    "text": "If we take a look at the\nhelioseismic activity,",
+    "start": 1524.739,
+    "duration": 3.858
+  },
+  {
+    "text": "this is using GOLF instrument.",
+    "start": 1529.46,
+    "duration": 2.861
+  },
+  {
+    "text": "This instrument is installed in Soho,",
+    "start": 1532.346,
+    "duration": 2.419
+  },
+  {
+    "text": "so what we measure is the p-mode.",
+    "start": 1534.79,
+    "duration": 3.299
+  },
+  {
+    "text": "It's acoustic pressure wave of the\nSun at the surface of the Sun.",
+    "start": 1538.114,
+    "duration": 4.382
+  },
+  {
+    "text": "And at that time the scientists wanted\nto look into interior of the Sun",
+    "start": 1542.521,
+    "duration": 4.986
+  },
+  {
+    "text": "and what they have found",
+    "start": 1547.532,
+    "duration": 1.911
+  },
+  {
+    "text": "is the resonant frequency of such\nmode occurs right around 3 mHz.",
+    "start": 1549.468,
+    "duration": 7.762
+  },
+  {
+    "text": "And in general terms, few physicists\nlike to call this \"5 minute oscillation\".",
+    "start": 1557.626,
+    "duration": 7.967
+  },
+  {
+    "text": "So,",
+    "start": 1566.872,
+    "duration": 1.054
+  },
+  {
+    "text": "and of course what\nhappened on Earth?",
+    "start": 1569.386,
+    "duration": 2.228
+  },
+  {
+    "text": "It might be really difficult to\ndetect such frequency vibration.",
+    "start": 1571.639,
+    "duration": 3.729
+  },
+  {
+    "text": "It has to be excited to a large\nevent such as earthquake.",
+    "start": 1575.393,
+    "duration": 6.022
+  },
+  {
+    "text": "So in this case, we look\nat the earthquakes.",
+    "start": 1581.638,
+    "duration": 3.715
+  },
+  {
+    "text": "The great Chilean\nearthquake happened in 1960.",
+    "start": 1585.378,
+    "duration": 4.484
+  },
+  {
+    "text": "And of course, what we observed",
+    "start": 1589.887,
+    "duration": 2.365
+  },
+  {
+    "text": "is about the same frequency spectrum\noccur when the earthquakes occur.",
+    "start": 1592.277,
+    "duration": 4.324
+  },
+  {
+    "text": "So we have helioseismic monitoring\nstation spread across the globe",
+    "start": 1596.626,
+    "duration": 5.108
+  },
+  {
+    "text": "and measuring the, how the Earth is\nvibrating according to the stimulation.",
+    "start": 1601.759,
+    "duration": 5.611
+  },
+  {
+    "text": "And we found one of the fundamental\nmodes falls between 1 to 5 mHz.",
+    "start": 1607.395,
+    "duration": 5.585
+  },
+  {
+    "text": "And of course, such\nvibration doesn't end here.",
+    "start": 1613.005,
+    "duration": 4.245
+  },
+  {
+    "text": "It goes into the comet as well.",
+    "start": 1617.275,
+    "duration": 3.401
+  },
+  {
+    "text": "In comet Hale-Bopp, scientists have\nobserved interaction of comets",
+    "start": 1620.701,
+    "duration": 7.348
+  },
+  {
+    "text": "with the surrounding plasma\nright around the same frequency.",
+    "start": 1628.074,
+    "duration": 4.688
+  },
+  {
+    "text": "In this case, the coma will have\nthe same vibration frequency",
+    "start": 1632.787,
+    "duration": 4.813
+  },
+  {
+    "text": "around about 3, 2\nto 3 mHz.",
+    "start": 1640.413,
+    "duration": 6.455
+  },
+  {
+    "text": "Actually, it should be like\n2 to about 4 mHz",
+    "start": 1646.869,
+    "duration": 4.413
+  },
+  {
+    "text": "with the center\naround this frequency.",
+    "start": 1651.307,
+    "duration": 2.418
+  },
+  {
+    "text": "So next, if we understand that\nhow vibrations actually interact,",
+    "start": 1654.592,
+    "duration": 5.254
+  },
+  {
+    "text": "I mean how the energy interacts, among the\nobjects in space in the solar system,",
+    "start": 1659.871,
+    "duration": 6.175
+  },
+  {
+    "text": "we should be able to\nconstruct a model",
+    "start": 1666.071,
+    "duration": 3.341
+  },
+  {
+    "text": "of energy transmission\nbased on resonance system.",
+    "start": 1669.437,
+    "duration": 3.489
+  },
+  {
+    "text": "So it relies on Tesla invention.",
+    "start": 1672.951,
+    "duration": 4.07
+  },
+  {
+    "text": "One of the power transmission of\nhis patent, it's filed in May 15, 1900.",
+    "start": 1677.046,
+    "duration": 9.267
+  },
+  {
+    "text": "So it consist of two spheres, two\nballs of spheres, conductive spheres,",
+    "start": 1686.338,
+    "duration": 6.014
+  },
+  {
+    "text": "inside can be dielectrics.",
+    "start": 1692.377,
+    "duration": 2.608
+  },
+  {
+    "text": "And of course, it ties to great\nspiral, to the pole of this thing.",
+    "start": 1695.01,
+    "duration": 8.688
+  },
+  {
+    "text": "So we call this the\nSun and the Earth.",
+    "start": 1704.074,
+    "duration": 4.156
+  },
+  {
+    "text": "And of course, by having a\ngenerator tied to the primary,",
+    "start": 1708.803,
+    "duration": 5.515
+  },
+  {
+    "text": "start to see, I can, I did a\nlaboratory experiment on this.",
+    "start": 1714.343,
+    "duration": 6.25
+  },
+  {
+    "text": "So in this case we\nhave the generator.",
+    "start": 1720.618,
+    "duration": 2.933
+  },
+  {
+    "text": "We should see it at the\ncenter of this video here.",
+    "start": 1723.576,
+    "duration": 4.891
+  },
+  {
+    "text": "I cannot simulate 3\nmilliHertz vibration",
+    "start": 1728.492,
+    "duration": 3.285
+  },
+  {
+    "text": "so I use 3 megahertz, about 1\nbillion times higher in frequency.",
+    "start": 1731.802,
+    "duration": 7.101
+  },
+  {
+    "text": "50% duty cycle is\nin an square wave",
+    "start": 1738.928,
+    "duration": 4.118
+  },
+  {
+    "text": "and of course, this thing connected to\nthe primary side of the transformer",
+    "start": 1743.071,
+    "duration": 6.424
+  },
+  {
+    "text": "which in this case can represent\nsomething coming out from the galactic,",
+    "start": 1749.987,
+    "duration": 5.011
+  },
+  {
+    "text": "from the galaxy.",
+    "start": 1755.023,
+    "duration": 1.96
+  },
+  {
+    "text": "Of course, there's a spiral, flat spiral\ncore connected to the core of the sphere.",
+    "start": 1757.008,
+    "duration": 7.075
+  },
+  {
+    "text": "And of course one side\ngoes into the secondary",
+    "start": 1764.108,
+    "duration": 4.163
+  },
+  {
+    "text": "and go to the pole\nof another sphere.",
+    "start": 1768.296,
+    "duration": 5.752
+  },
+  {
+    "text": "And of course, we tap the\npower from the outside core.",
+    "start": 1774.049,
+    "duration": 3.488
+  },
+  {
+    "text": "And that's go to a LEDs.\nIn this case I use 6 LEDs.",
+    "start": 1777.562,
+    "duration": 4.629
+  },
+  {
+    "text": "Please notice the\nbrightness of the LEDs",
+    "start": 1782.216,
+    "duration": 2.765
+  },
+  {
+    "text": "because we're gonna do some,\nplaying some interaction gears.",
+    "start": 1785.006,
+    "duration": 3.35
+  },
+  {
+    "text": "There's 4 different types of things you can\ndo with the system to modulate the power.",
+    "start": 1788.381,
+    "duration": 6.345
+  },
+  {
+    "text": "One is to modulate the potential\nor power of this generator.",
+    "start": 1794.759,
+    "duration": 5.036
+  },
+  {
+    "text": "Second, see the LEDs when\nwe change the frequency.",
+    "start": 1799.82,
+    "duration": 6.022
+  },
+  {
+    "text": "Of course this LED doesn't light up.\nIt's only lit up when it's peaked.",
+    "start": 1805.867,
+    "duration": 5.171
+  },
+  {
+    "text": "So at resonance.\nAt 3 megahertz.",
+    "start": 1811.063,
+    "duration": 3.917
+  },
+  {
+    "text": "At other resonant frequency,\nat other frequency",
+    "start": 1815.005,
+    "duration": 3.385
+  },
+  {
+    "text": "it doesn't match with\nthis characteristic.",
+    "start": 1818.415,
+    "duration": 3.071
+  },
+  {
+    "text": "So another way to\nmodulate the power",
+    "start": 1821.511,
+    "duration": 3.211
+  },
+  {
+    "text": "is to detune the capacitor which\nis the spherical ball here.",
+    "start": 1824.747,
+    "duration": 4.922
+  },
+  {
+    "text": "I used my hand as\na demonstration.",
+    "start": 1829.694,
+    "duration": 3.03
+  },
+  {
+    "text": "So when I have a hand or something\nthat moves approaching this spherical ball,",
+    "start": 1832.749,
+    "duration": 5.69
+  },
+  {
+    "text": "you see the LEDs start to dim.",
+    "start": 1838.464,
+    "duration": 2.862
+  },
+  {
+    "text": "So it can modulate the power\nof the transmitter side.",
+    "start": 1842.795,
+    "duration": 4.034
+  },
+  {
+    "text": "For example with this ball, if hand represented\na CME, it passed through the Earth,",
+    "start": 1846.854,
+    "duration": 5.671
+  },
+  {
+    "text": "you start to see fluctuation\nof these LED lights as well.",
+    "start": 1852.55,
+    "duration": 5.237
+  },
+  {
+    "text": "So this ball can represent\nan open plate capacitor.",
+    "start": 1858.977,
+    "duration": 5.428
+  },
+  {
+    "text": "If you have some\nsecondary effects,",
+    "start": 1864.77,
+    "duration": 2.591
+  },
+  {
+    "text": "secondary plate will be\nformed automatically in space.",
+    "start": 1867.386,
+    "duration": 4.334
+  },
+  {
+    "text": "And of course, it can be outer from,\nfrom the external environment.",
+    "start": 1871.745,
+    "duration": 5.094
+  },
+  {
+    "text": "From all these observations...",
+    "start": 1877.473,
+    "duration": 1.816
+  },
+  {
+    "text": "So four major approaches to\nmodulate Earth's electrical environment.",
+    "start": 1879.314,
+    "duration": 4.619
+  },
+  {
+    "text": "One is to modulate the entire solar\nsystem, galactic generator amplitudes.",
+    "start": 1883.958,
+    "duration": 7.261
+  },
+  {
+    "text": "Second is to modulate the\ngalactic generator frequency",
+    "start": 1891.244,
+    "duration": 4.551
+  },
+  {
+    "text": "and that ties to how, (to) the\nvariation of 11-year solar cycle.",
+    "start": 1895.82,
+    "duration": 5.231
+  },
+  {
+    "text": "The third is to change plasma environments\naround the local generator sphere,",
+    "start": 1902.123,
+    "duration": 4.473
+  },
+  {
+    "text": "it's called Sun.",
+    "start": 1906.621,
+    "duration": 1.404
+  },
+  {
+    "text": "Either through\ncelestial body passage,",
+    "start": 1908.05,
+    "duration": 2.826
+  },
+  {
+    "text": "just like how the comet\napproaches the Sun...",
+    "start": 1910.901,
+    "duration": 3.307
+  },
+  {
+    "text": "Of course, we also observed some\nheliocentric planetary alignments",
+    "start": 1914.233,
+    "duration": 4.531
+  },
+  {
+    "text": "seem to have some effects\non solar activities.",
+    "start": 1918.789,
+    "duration": 3.973
+  },
+  {
+    "text": "As well as other types of\nalignments of bodies in space.",
+    "start": 1922.787,
+    "duration": 7.142
+  },
+  {
+    "text": "And the third, sorry,",
+    "start": 1929.93,
+    "duration": 1.361
+  },
+  {
+    "text": "the fourth is the change in the plasma\nenvironment in the local receiver sphere",
+    "start": 1931.316,
+    "duration": 4.828
+  },
+  {
+    "text": "through wave propagations. One\nis the longitude and transverse wave",
+    "start": 1936.169,
+    "duration": 4.303
+  },
+  {
+    "text": "We can also have particles propagation\nthat modulates the upper atmosphere",
+    "start": 1941.24,
+    "duration": 6.026
+  },
+  {
+    "text": "such as coronal mass\nejection and solar wind.",
+    "start": 1947.291,
+    "duration": 3.464
+  },
+  {
+    "text": "And also of course, if there's\na heliocentric alignment,",
+    "start": 1950.78,
+    "duration": 3.441
+  },
+  {
+    "text": "they have to be\ngeocentric alignments.",
+    "start": 1954.246,
+    "duration": 2.164
+  },
+  {
+    "text": "Because the Earth is considered\nanother resonant cavity",
+    "start": 1956.435,
+    "duration": 4.663
+  },
+  {
+    "text": "And of course of some significance,\ncelestial body passage",
+    "start": 1961.123,
+    "duration": 3.86
+  },
+  {
+    "text": "could affect some electrical\nproperties around the Earth.",
+    "start": 1965.008,
+    "duration": 3.407
+  },
+  {
+    "text": "So that's called a local\nchange in plasma environment.",
+    "start": 1968.44,
+    "duration": 3.463
+  },
+  {
+    "text": "From here, and this is another\njust something I ensure you",
+    "start": 1973.103,
+    "duration": 4.784
+  },
+  {
+    "text": "that when the comets\napproach the Sun,",
+    "start": 1977.912,
+    "duration": 2.921
+  },
+  {
+    "text": "of course you got\nthe eruption occur.",
+    "start": 1980.858,
+    "duration": 3.104
+  },
+  {
+    "text": "So I believe this is something\ndue to the cavity being detuned",
+    "start": 1983.987,
+    "duration": 4.563
+  },
+  {
+    "text": "due to the plasma\nenvironment change,",
+    "start": 1988.575,
+    "duration": 3.109
+  },
+  {
+    "text": "so just like the way I put my\nhand close to the spherical ball",
+    "start": 1992.033,
+    "duration": 4.721
+  },
+  {
+    "text": "so the capacitor is detuned,\nthe whole circuit is detuned.",
+    "start": 1996.779,
+    "duration": 4.602
+  },
+  {
+    "text": "So from all\nthese observations,",
+    "start": 2002.121,
+    "duration": 3.324
+  },
+  {
+    "text": "now all the properties allow all types\nof plasma waves to exist in space",
+    "start": 2005.47,
+    "duration": 6.141
+  },
+  {
+    "text": "in addition to an electromagnetic\none; which is electrostatic",
+    "start": 2011.636,
+    "duration": 4.827
+  },
+  {
+    "text": "and of course the thing\nthat I want to address",
+    "start": 2016.82,
+    "duration": 3.813
+  },
+  {
+    "text": "is the one that has\nno magnetic field.",
+    "start": 2021.284,
+    "duration": 3.545
+  },
+  {
+    "text": "So for the electromagnetic wave propagation\nit's called B, vector B here, is none",
+    "start": 2024.854,
+    "duration": 6.996
+  },
+  {
+    "text": "for electromagnetics\nor light wave.",
+    "start": 2031.875,
+    "duration": 3.165
+  },
+  {
+    "text": "But for the electrostatics\nnow, there something exists",
+    "start": 2035.065,
+    "duration": 5.259
+  },
+  {
+    "text": "that could explain a\nlot of phenomenons",
+    "start": 2040.705,
+    "duration": 2.586
+  },
+  {
+    "text": "which cannot be explained using\nconventional understanding",
+    "start": 2043.316,
+    "duration": 4.613
+  },
+  {
+    "text": "such as Ion acoustic\nwave, Plasma oscillation.",
+    "start": 2047.954,
+    "duration": 4.437
+  },
+  {
+    "text": "And I believe this\nexists in space as well.",
+    "start": 2052.416,
+    "duration": 3.217
+  },
+  {
+    "text": "And I'm going to show you some\nevidence of existence of such wave",
+    "start": 2055.658,
+    "duration": 6.562
+  },
+  {
+    "text": "in terms of, the connection\nwith natural disaster,",
+    "start": 2062.966,
+    "duration": 4.482
+  },
+  {
+    "text": "the thing I've been done\nin the past 6 years.",
+    "start": 2067.473,
+    "duration": 3.23
+  },
+  {
+    "text": "First we go to the case study\nof the Nepal earthquake,",
+    "start": 2071.609,
+    "duration": 4.438
+  },
+  {
+    "text": "magnitude of 7.8, occured on March\n21st, sorry March 25th 2015.",
+    "start": 2076.072,
+    "duration": 6.904
+  },
+  {
+    "text": "During that time, if you\ntrack the sunspot number,",
+    "start": 2083.001,
+    "duration": 4.102
+  },
+  {
+    "text": "we see that the sunspots\nreach 10 weeks local maximum.",
+    "start": 2087.128,
+    "duration": 5.103
+  },
+  {
+    "text": "On March 19, approximately.\nMarch 20 or 19.",
+    "start": 2092.256,
+    "duration": 5.307
+  },
+  {
+    "text": "And of course, we observed changing\nclimates during that time.",
+    "start": 2098.049,
+    "duration": 4.894
+  },
+  {
+    "text": "Those who live in equator attract, the\ntemperature during the time is extremely hot.",
+    "start": 2102.968,
+    "duration": 6.593
+  },
+  {
+    "text": "Near equator, about 24 to 48\nhours before the earthquakes.",
+    "start": 2109.586,
+    "duration": 4.822
+  },
+  {
+    "text": "And those who have\nobserved such thing,",
+    "start": 2114.409,
+    "duration": 2.81
+  },
+  {
+    "text": "they know that earthquakes have a strong\nties to sudden change in the weather.",
+    "start": 2117.244,
+    "duration": 6.11
+  },
+  {
+    "text": "Of course, in the inner epicenter we\nsee extreme cold and windy condition.",
+    "start": 2124.099,
+    "duration": 5.09
+  },
+  {
+    "text": "If you ask the Nepal people, before,\nright before the earthquakes.",
+    "start": 2129.214,
+    "duration": 5.792
+  },
+  {
+    "text": "If you look in space,",
+    "start": 2135.031,
+    "duration": 1.067
+  },
+  {
+    "text": "what we see is a strong coronal mass ejection\noccuring between March 20 to March 23rd.",
+    "start": 2136.099,
+    "duration": 7.77
+  },
+  {
+    "text": "We've got M4 X-ray\nflares on March 21st.",
+    "start": 2143.894,
+    "duration": 5.892
+  },
+  {
+    "text": "And of course, low level\nof geomagnetic storm.",
+    "start": 2149.811,
+    "duration": 3.481
+  },
+  {
+    "text": "If we understand such connection,",
+    "start": 2153.317,
+    "duration": 2.419
+  },
+  {
+    "text": "that geomagnetic storm can be either ineffective\nin terms of understanding the disconnection.",
+    "start": 2155.761,
+    "duration": 8.254
+  },
+  {
+    "text": "And of course during that time\nwe observed geocentric alignment",
+    "start": 2164.436,
+    "duration": 6.723
+  },
+  {
+    "text": "between Earth, Mercury and Mars.",
+    "start": 2171.184,
+    "duration": 3.612
+  },
+  {
+    "text": "We look into the timelines of\nhow this natural disaster arise.",
+    "start": 2176.208,
+    "duration": 4.542
+  },
+  {
+    "text": "We start from April 21st.",
+    "start": 2180.775,
+    "duration": 3.003
+  },
+  {
+    "text": "We observed non-Earth-directed\ncoronal mass ejection.",
+    "start": 2183.803,
+    "duration": 4.398
+  },
+  {
+    "text": "So again, the coronal mass\nejection in this model",
+    "start": 2188.226,
+    "duration": 3.685
+  },
+  {
+    "text": "is a symptom of a fluctuation\nin resonant frequency.",
+    "start": 2191.936,
+    "duration": 4.777
+  },
+  {
+    "text": "It's happened to be right\nat the peak of the sunspot.",
+    "start": 2197.428,
+    "duration": 3.111
+  },
+  {
+    "text": "So it highlighted in\nthe arrow area here.",
+    "start": 2201.342,
+    "duration": 3.292
+  },
+  {
+    "text": "Of course, during a time we have a Nepal\nforeshock magnitude of 5.1 earthquakes,",
+    "start": 2204.937,
+    "duration": 6.567
+  },
+  {
+    "text": "we have a great volcanic\neruption in Chile,",
+    "start": 2212.205,
+    "duration": 3.512
+  },
+  {
+    "text": "largest eruption in many years,",
+    "start": 2216.431,
+    "duration": 2.961
+  },
+  {
+    "text": "and of course (we) followed\nby another CMEs.",
+    "start": 2220.014,
+    "duration": 3.722
+  },
+  {
+    "text": "You can see that all this events\nhappen almost simultaneously.",
+    "start": 2226.083,
+    "duration": 5.474
+  },
+  {
+    "text": "Just like a travel\nat speed of light.",
+    "start": 2231.582,
+    "duration": 3.413
+  },
+  {
+    "text": "And of course, about 3 days later",
+    "start": 2236.506,
+    "duration": 3.39
+  },
+  {
+    "text": "we observed the main shock,\nearthquake in Nepal magnitude of 7.8.",
+    "start": 2239.921,
+    "duration": 7.411
+  },
+  {
+    "text": "A 3 days period, it matches with the speed of the\nsolar wind travel from the Sun to the Earth.",
+    "start": 2247.357,
+    "duration": 7.004
+  },
+  {
+    "text": "So the next case study is one\nof the really famous case.",
+    "start": 2257.043,
+    "duration": 4.962
+  },
+  {
+    "text": "It's a Japan earthquake between\nMarch 7 to March 11, 2011.",
+    "start": 2262.632,
+    "duration": 6.843
+  },
+  {
+    "text": "What's special about this case is that if you\nlook at the sunspot number graph on the top,",
+    "start": 2269.5,
+    "duration": 7.939
+  },
+  {
+    "text": "you see that's the highest sunspot\nnumber in the last two years.",
+    "start": 2277.464,
+    "duration": 4.911
+  },
+  {
+    "text": "And it's also not only that.",
+    "start": 2282.4,
+    "duration": 3.127
+  },
+  {
+    "text": "It rise up rapidly almost expensed\nexponentially in the past 30 days.",
+    "start": 2285.528,
+    "duration": 7.989
+  },
+  {
+    "text": "So this is highly significant\nevents to pay attention to.",
+    "start": 2293.542,
+    "duration": 4.766
+  },
+  {
+    "text": "And it reached the\nmaximum on March 8th.",
+    "start": 2298.333,
+    "duration": 3.416
+  },
+  {
+    "text": "During March 7, of course, we see\na massive coronal mass ejection",
+    "start": 2302.143,
+    "duration": 5.431
+  },
+  {
+    "text": "as well as",
+    "start": 2308.893,
+    "duration": 2.606
+  },
+  {
+    "text": "we see expansion of coronal holes\nstarting from March 7 through March 10.",
+    "start": 2311.5,
+    "duration": 7.313
+  },
+  {
+    "text": "If many of us have read\nsome literature, we also see",
+    "start": 2318.838,
+    "duration": 3.979
+  },
+  {
+    "text": "ionospheric heating around this time-\nframe before the earthquakes in Japan.",
+    "start": 2322.818,
+    "duration": 4.918
+  },
+  {
+    "text": "Of course, there's a foreshock, happens\nalmost simultaneously within the day",
+    "start": 2328.538,
+    "duration": 6.873
+  },
+  {
+    "text": "of the high solar activity\nevents in terms of sunspots.",
+    "start": 2336.118,
+    "duration": 4.578
+  },
+  {
+    "text": "You see Japan foreshock\naround 7.1 magnitudes",
+    "start": 2340.721,
+    "duration": 4.984
+  },
+  {
+    "text": "and then about 3 days later you got a\nmain shock of earthquakes. Magnitude's 9.1.",
+    "start": 2345.73,
+    "duration": 7.204
+  },
+  {
+    "text": "So again, it matches with the\nspeed of solar wind.",
+    "start": 2353.323,
+    "duration": 3.426
+  },
+  {
+    "text": "But again, if we pay attention\nonly to the direction of CMEs,",
+    "start": 2356.774,
+    "duration": 5.767
+  },
+  {
+    "text": "some must may have missed such an\nopportunity to predict the earthquake.",
+    "start": 2362.566,
+    "duration": 6.742
+  },
+  {
+    "text": "And the last but not least is if\nsomething happened during the maximum,",
+    "start": 2372.025,
+    "duration": 6.586
+  },
+  {
+    "text": "there's always something going\nto happen during the minimum.",
+    "start": 2378.636,
+    "duration": 3.268
+  },
+  {
+    "text": "In this case, on December 23rd\nbetween December 23rd 24th, 2004,",
+    "start": 2381.929,
+    "duration": 6.554
+  },
+  {
+    "text": "sunspot has switch to\n10 weeks extreme minimum.",
+    "start": 2388.508,
+    "duration": 5.954
+  },
+  {
+    "text": "Around December\n17 to December 28.",
+    "start": 2394.763,
+    "duration": 5.492
+  },
+  {
+    "text": "If we look at the\ncoronal mass ejection,",
+    "start": 2400.28,
+    "duration": 3.009
+  },
+  {
+    "text": "it became the most extreme and the\nmost intense on the 23rd of December.",
+    "start": 2403.723,
+    "duration": 6.399
+  },
+  {
+    "text": "Again, it's not (an)\nEarth-directed CME.",
+    "start": 2410.147,
+    "duration": 3.201
+  },
+  {
+    "text": "And of course, if we looked\ninto the coronal hole data,",
+    "start": 2417.047,
+    "duration": 3.98
+  },
+  {
+    "text": "you see a sudden expansion of coronal\nholes facing the Earth during that time.",
+    "start": 2421.052,
+    "duration": 5.285
+  },
+  {
+    "text": "And it started around\nthe 24th of December.",
+    "start": 2426.362,
+    "duration": 3.561
+  },
+  {
+    "text": "You zoom into the graph, you see the\nsame thing, same pattern repeated.",
+    "start": 2430.44,
+    "duration": 4.953
+  },
+  {
+    "text": "You got CME precursor, global\nforeshock occuring on the 23rd",
+    "start": 2435.919,
+    "duration": 5.897
+  },
+  {
+    "text": "and of course the main shock\nfollowed two and a half days later.",
+    "start": 2441.841,
+    "duration": 4.404
+  },
+  {
+    "text": "So we've got two effects here.",
+    "start": 2446.27,
+    "duration": 1.862
+  },
+  {
+    "text": "One is a simultaneous reaction\nbetween the Sun and the Earth,",
+    "start": 2448.157,
+    "duration": 5.631
+  },
+  {
+    "text": "pretty much approaching\nthe speed of light,",
+    "start": 2454.273,
+    "duration": 2.878
+  },
+  {
+    "text": "and the other is the propagation\nthat takes about 2 to 4 days afterward.",
+    "start": 2457.176,
+    "duration": 6.013
+  },
+  {
+    "text": "So conclusion here is\nthat I propose a theory",
+    "start": 2463.705,
+    "duration": 4.929
+  },
+  {
+    "text": "of quantum vibrations and in\nrelation to solar system formation.",
+    "start": 2468.659,
+    "duration": 4.196
+  },
+  {
+    "text": "Such theory may help explain various\ncharacteristics of the Sun and its surrounding space",
+    "start": 2473.443,
+    "duration": 5.762
+  },
+  {
+    "text": "as well as understanding how the\nEarth interacts with the surrounding.",
+    "start": 2479.23,
+    "duration": 4.383
+  },
+  {
+    "text": "The evidence of quantum vibration can\nbe found in helio-seismic activities",
+    "start": 2484.051,
+    "duration": 4.667
+  },
+  {
+    "text": "and geo-seismic activities as well\nas in comet interaction with Solar wind.",
+    "start": 2488.743,
+    "duration": 5.18
+  },
+  {
+    "text": "Of course, it suggests that the longitude wave\nis, exists in space in both vacuum and plasma.",
+    "start": 2495.129,
+    "duration": 6.752
+  },
+  {
+    "text": "And there's an engineer that has\nproved that the speed of light,",
+    "start": 2501.906,
+    "duration": 6.926
+  },
+  {
+    "text": "the longitude wave has\ntrouble at speed of light",
+    "start": 2508.857,
+    "duration": 3.684
+  },
+  {
+    "text": "which are going to\nbe mentioned later",
+    "start": 2512.566,
+    "duration": 3.863
+  },
+  {
+    "text": "in the next slide.",
+    "start": 2516.72,
+    "duration": 1.64
+  },
+  {
+    "text": "And of course the earthquake,",
+    "start": 2519.369,
+    "duration": 2.408
+  },
+  {
+    "text": "I'm talking about a very\nstrong significant earthquake,",
+    "start": 2521.802,
+    "duration": 3.672
+  },
+  {
+    "text": "or high frequency earthquake\nthat happened during one, some days.",
+    "start": 2525.499,
+    "duration": 4.774
+  },
+  {
+    "text": "It seems to be a direct evidence of\nlongitude energy vibration in space.",
+    "start": 2530.733,
+    "duration": 5.38
+  },
+  {
+    "text": "And of in course longitude\npower coupling,",
+    "start": 2536.986,
+    "duration": 2.539
+  },
+  {
+    "text": "strong earthquake can occur without\nthe presence of geometric storm.",
+    "start": 2539.55,
+    "duration": 3.815
+  },
+  {
+    "text": "And it solved the mystery of\nwhy we see strong earthquake",
+    "start": 2543.39,
+    "duration": 3.356
+  },
+  {
+    "text": "when there's no geomagnetic\nstorm in some cases.",
+    "start": 2546.771,
+    "duration": 3.054
+  },
+  {
+    "text": "I would like to (give) thanks to\nThe Thunderbolts Project",
+    "start": 2551.183,
+    "duration": 3.651
+  },
+  {
+    "text": "for providing me the opportunity\nto present this work",
+    "start": 2554.859,
+    "duration": 3.256
+  },
+  {
+    "text": "and Mitch Battros who's the first person\nwho made me aware of the connection",
+    "start": 2558.14,
+    "duration": 7.182
+  },
+  {
+    "text": "through his website --\nNatural disaster reports.",
+    "start": 2565.347,
+    "duration": 3.646
+  },
+  {
+    "text": "Stan Deyo who has done a lot of resonant\nvibration connection experiments,",
+    "start": 2569.557,
+    "duration": 5.978
+  },
+  {
+    "text": "same thing for Nassim Haramein.",
+    "start": 2575.56,
+    "duration": 2.447
+  },
+  {
+    "text": "Musa Abdullahi, he provides theoretical\nverification of longitude wave in space",
+    "start": 2578.293,
+    "duration": 4.52
+  },
+  {
+    "text": "and you can find his proof,\nmathematical proof in his website.",
+    "start": 2582.838,
+    "duration": 5.041
+  },
+  {
+    "text": "Ben Davison, he provides a great\npublic outreach to the world",
+    "start": 2587.904,
+    "duration": 5.521
+  },
+  {
+    "text": "so make the public aware of\nthe such connection of space weather",
+    "start": 2593.45,
+    "duration": 4.369
+  },
+  {
+    "text": "and all things that's\nchanged on Earth.",
+    "start": 2597.844,
+    "duration": 2.579
+  },
+  {
+    "text": "And of course, the serveral youtubers\nwho have done a wonderful job in doing,",
+    "start": 2600.448,
+    "duration": 5.719
+  },
+  {
+    "text": "reporting all the solar activities,\nreporting all the Earth changes,",
+    "start": 2606.192,
+    "duration": 4.869
+  },
+  {
+    "text": "things that's going on",
+    "start": 2611.086,
+    "duration": 1.927
+  },
+  {
+    "text": "so that everyone's aware that\nwe are more than just the Earth",
+    "start": 2613.038,
+    "duration": 5.372
+  },
+  {
+    "text": "and we are all connected to\neverything in our solar system",
+    "start": 2618.435,
+    "duration": 4.746
+  },
+  {
+    "text": "and also our galaxy\nand our universe.",
+    "start": 2623.206,
+    "duration": 3.102
+  },
+  {
+    "text": "And thank you very much\nfor your attention!",
+    "start": 2626.309,
+    "duration": 5.156
+  }
+]

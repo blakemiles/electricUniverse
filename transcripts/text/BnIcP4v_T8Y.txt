@@ -1,0 +1,1087 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe,",
+    "start": 7.275,
+    "duration": 2.762
+  },
+  {
+    "text": "brought to you by The\nThunderbolts Project™",
+    "start": 10.062,
+    "duration": 2.356
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 12.443,
+    "duration": 3.423
+  },
+  {
+    "text": "The surfaces of the rocky\nbodies in our Solar System",
+    "start": 17.371,
+    "duration": 3.405
+  },
+  {
+    "text": "testify to events that planetary\nscientists have never considered.",
+    "start": 20.801,
+    "duration": 4.61
+  },
+  {
+    "text": "The interpretive manual\nof standard geology",
+    "start": 25.436,
+    "duration": 3.276
+  },
+  {
+    "text": "limited to processes\nsuch as random impacts,",
+    "start": 28.737,
+    "duration": 3.296
+  },
+  {
+    "text": "wind and water erosion\nand volcanism,",
+    "start": 32.058,
+    "duration": 3.07
+  },
+  {
+    "text": "has never successfully explained countless\nof the features we see on rocky planets.",
+    "start": 35.153,
+    "duration": 5.194
+  },
+  {
+    "text": "For decades, experiments with electrical\ndischarges in the laboratory",
+    "start": 40.372,
+    "duration": 4.236
+  },
+  {
+    "text": "have reproduced some of\nthe most puzzling craters",
+    "start": 44.633,
+    "duration": 2.781
+  },
+  {
+    "text": "and other features seen\non planets and moons.",
+    "start": 47.439,
+    "duration": 3.028
+  },
+  {
+    "text": "Within the Electric\nUniverse community,",
+    "start": 50.492,
+    "duration": 2.343
+  },
+  {
+    "text": "a growing number of enquirers are\nexploring the surface of our planet",
+    "start": 52.86,
+    "duration": 3.982
+  },
+  {
+    "text": "identifying the indelible marks left\nby high-energy electrical discharges.",
+    "start": 56.867,
+    "duration": 5.531
+  },
+  {
+    "text": "In this episode, Thunderbolts\ncolleague Andy Hall",
+    "start": 62.423,
+    "duration": 3.416
+  },
+  {
+    "text": "continues his remarkable\nseries of presentations",
+    "start": 65.864,
+    "duration": 2.862
+  },
+  {
+    "text": "with his two-part exploration\nof the 'Lightning-Scarred Earth'.",
+    "start": 68.751,
+    "duration": 4.221
+  },
+  {
+    "text": "The blue-white arc of a\nlightning bolt stuns the senses.",
+    "start": 73.344,
+    "duration": 3.814
+  },
+  {
+    "text": "Blinding radiance, elemental\nbeauty, awesome power",
+    "start": 77.183,
+    "duration": 4.212
+  },
+  {
+    "text": "and primordial danger flash\ninto existence from thin air",
+    "start": 81.42,
+    "duration": 3.987
+  },
+  {
+    "text": "and vanish before\nthe mind catches-up.",
+    "start": 85.432,
+    "duration": 2.766
+  },
+  {
+    "text": "We stare, immobile,\nunthinking and awestruck.",
+    "start": 88.223,
+    "duration": 3.874
+  },
+  {
+    "text": "In that moment, a channel of air the\ndiameter of a quarter heats 50,000 degrees,",
+    "start": 92.122,
+    "duration": 5.498
+  },
+  {
+    "text": "as trillions of electrons\ncascade to Earth.",
+    "start": 97.645,
+    "duration": 2.802
+  },
+  {
+    "text": "The volume of air blows-up, radiating\nenergy across the spectrum,",
+    "start": 100.472,
+    "duration": 4.448
+  },
+  {
+    "text": "and sending sonic\nbooms across the sky.",
+    "start": 104.945,
+    "duration": 3.041
+  },
+  {
+    "text": "Lightning also pummels the land, creating\npressure waves exceeding 70,000 atmospheres --",
+    "start": 108.011,
+    "duration": 6.644
+  },
+  {
+    "text": "that's 1 million psi.",
+    "start": 114.68,
+    "duration": 1.953
+  },
+  {
+    "text": "It can create a layer of shocked quartz and\nvitrify surrounding rock into glass.",
+    "start": 116.658,
+    "duration": 5.334
+  },
+  {
+    "text": "Lightning is an interaction\nbetween the Earth and sky.",
+    "start": 122.017,
+    "duration": 3.383
+  },
+  {
+    "text": "Its cause is an electric field\nbetween the electric storm above",
+    "start": 125.425,
+    "duration": 3.499
+  },
+  {
+    "text": "and the ground beneath our feet.",
+    "start": 128.949,
+    "duration": 1.84
+  },
+  {
+    "text": "'Ground' in this case is\nalso a technical term,",
+    "start": 130.814,
+    "duration": 3.275
+  },
+  {
+    "text": "meaning the ambient voltage\npotential of the soil.",
+    "start": 134.114,
+    "duration": 3.294
+  },
+  {
+    "text": "Earth is a negatively\ncharged body in space",
+    "start": 137.433,
+    "duration": 2.807
+  },
+  {
+    "text": "and current flows up from\nground to atmosphere,",
+    "start": 140.265,
+    "duration": 2.785
+  },
+  {
+    "text": "normally in a drift of ions and\nelectrons that is invisible.",
+    "start": 143.075,
+    "duration": 3.56
+  },
+  {
+    "text": "Storms reverse this current flow, causing\nelectrons to avalanche back to Earth.",
+    "start": 146.66,
+    "duration": 5.431
+  },
+  {
+    "text": "The Earth and sky are\npart of a circuit.",
+    "start": 152.116,
+    "duration": 2.347
+  },
+  {
+    "text": "Storms result from\ncapacitance in this circuit.",
+    "start": 154.488,
+    "duration": 3.488
+  },
+  {
+    "text": "The atmosphere stores energy\nin the form of ionic charge,",
+    "start": 158.001,
+    "duration": 4.021
+  },
+  {
+    "text": "and releases it through\nlightning, among other effects.",
+    "start": 162.047,
+    "duration": 3.487
+  },
+  {
+    "text": "The ground is one plate of the capacitor\nwhere positive charge collects.",
+    "start": 165.559,
+    "duration": 3.9
+  },
+  {
+    "text": "As negative charge\nbuilds in the cloud,",
+    "start": 169.46,
+    "duration": 2.746
+  },
+  {
+    "text": "it is repulsed from the ground below,\nand positive ions are drawn in.",
+    "start": 172.231,
+    "duration": 4.047
+  },
+  {
+    "text": "The ground reaches up\nwith plasma tendrils.",
+    "start": 176.303,
+    "duration": 3.065
+  },
+  {
+    "text": "They collect especially around tall structures,\npooling densely at sharp projections,",
+    "start": 179.393,
+    "duration": 5.178
+  },
+  {
+    "text": "surrounding them with a halo of charge the\ncascading electrons target for connection.",
+    "start": 184.596,
+    "duration": 5.008
+  },
+  {
+    "text": "When a connection is made, the arc\ntouches Earth, spreading current",
+    "start": 189.629,
+    "duration": 3.612
+  },
+  {
+    "text": "in horizontal arcs across the\nsurface as much as 20 meters away.",
+    "start": 193.266,
+    "duration": 4.224
+  },
+  {
+    "text": "This is a death zone.",
+    "start": 197.515,
+    "duration": 1.523
+  },
+  {
+    "text": "If you're in it, you are part\nof a 200,000 amp circuit.",
+    "start": 199.063,
+    "duration": 4.053
+  },
+  {
+    "text": "The horizontal arcing\nis a side flash --",
+    "start": 203.141,
+    "duration": 2.646
+  },
+  {
+    "text": "a scatter of arcs tendrils that follow\nsurface conduction across the ground,",
+    "start": 205.812,
+    "duration": 4.664
+  },
+  {
+    "text": "radially away from\nthe point of impact.",
+    "start": 210.501,
+    "duration": 2.61
+  },
+  {
+    "text": "The ground potential,\ntype, and shape of the surface",
+    "start": 213.136,
+    "duration": 3.657
+  },
+  {
+    "text": "influences the character\nof the side flash.",
+    "start": 216.818,
+    "duration": 2.785
+  },
+  {
+    "text": "Dry sand acquires\ncharge very easily",
+    "start": 219.628,
+    "duration": 3.568
+  },
+  {
+    "text": "and so lightning attracts charged\nparticles and will sweep sand to it",
+    "start": 223.221,
+    "duration": 4.492
+  },
+  {
+    "text": "leaving a display of the\nentire strike zone.",
+    "start": 227.738,
+    "duration": 2.835
+  },
+  {
+    "text": "Sand in the strike zone where\ncurrent surges across the surface,",
+    "start": 230.598,
+    "duration": 4.225
+  },
+  {
+    "text": "pulls inward leaving a shallow crater\nwith a cone of sand in the center.",
+    "start": 234.848,
+    "duration": 4.254
+  },
+  {
+    "text": "It's like grabbing a\nbedspread in the center,",
+    "start": 239.127,
+    "duration": 2.761
+  },
+  {
+    "text": "pulling it up and\ndropping it in a pile.",
+    "start": 241.913,
+    "duration": 2.739
+  },
+  {
+    "text": "The following photos were\ntaken near Kayenta, Arizona",
+    "start": 244.677,
+    "duration": 3.695
+  },
+  {
+    "text": "on desert plains to the\nsouth of Comb Ridge.",
+    "start": 248.397,
+    "duration": 3.425
+  },
+  {
+    "text": "The form is like an anthill,\nbut these are not anthills.",
+    "start": 251.847,
+    "duration": 4.316
+  },
+  {
+    "text": "Ants dig rock from below ground\nand pile it outside the hole.",
+    "start": 256.188,
+    "duration": 4.151
+  },
+  {
+    "text": "These are built\njust the opposite way.",
+    "start": 260.364,
+    "duration": 2.148
+  },
+  {
+    "text": "The sand is swept-up from the surroundings,\nleaving a pile at the center of a crater.",
+    "start": 262.537,
+    "duration": 5.232
+  },
+  {
+    "text": "Besides, these don't\nhave ants or antholes.",
+    "start": 267.794,
+    "duration": 3.987
+  },
+  {
+    "text": "The mounds of sand are composed\nof fine, almost powder sand.",
+    "start": 271.806,
+    "duration": 4.349
+  },
+  {
+    "text": "But the tops of the mounds\nare dusted with pebbles.",
+    "start": 276.18,
+    "duration": 3.126
+  },
+  {
+    "text": "The pebbles are sand that was drawn\ninto the lightning channel and fused",
+    "start": 279.331,
+    "duration": 5.079
+  },
+  {
+    "text": "before falling back to Earth\nwhen the flame extinguished,",
+    "start": 284.435,
+    "duration": 3.371
+  },
+  {
+    "text": "falling to cover the mound, like\ncandy sprinkles on an ice cream cone.",
+    "start": 287.831,
+    "duration": 4.413
+  },
+  {
+    "text": "Nothing grows inside the\ncraters, or on the mounds.",
+    "start": 292.269,
+    "duration": 3.372
+  },
+  {
+    "text": "It's as if the\nsoil is sterilized.",
+    "start": 295.666,
+    "duration": 2.603
+  },
+  {
+    "text": "PH tests show the soil\nto be highly alkaline.",
+    "start": 298.294,
+    "duration": 4.086
+  },
+  {
+    "text": "What meager growth\nthere is are low, ground-",
+    "start": 302.405,
+    "duration": 2.87
+  },
+  {
+    "text": "covering grasses and weeds around\nthe perimeter of the craters.",
+    "start": 305.3,
+    "duration": 3.769
+  },
+  {
+    "text": "The desert in this region of Northern\nArizona is carpeted with lightning strikes",
+    "start": 309.094,
+    "duration": 4.558
+  },
+  {
+    "text": "that left crater and mound\nfeatures like these.",
+    "start": 313.677,
+    "duration": 2.851
+  },
+  {
+    "text": "The land is on the Colorado Plateau,\njust south of Monument Valley.",
+    "start": 316.553,
+    "duration": 4.067
+  },
+  {
+    "text": "They form what some call 'fairy\nrings' when seen from the air.",
+    "start": 320.645,
+    "duration": 4.097
+  },
+  {
+    "text": "The next images show clusters of them.",
+    "start": 324.767,
+    "duration": 2.555
+  },
+  {
+    "text": "The craters vary in size from 15\nto 30 feet in diameter, or larger.",
+    "start": 327.347,
+    "duration": 4.75
+  },
+  {
+    "text": "The size of the central cone is\nproportionate to the size of the crater,",
+    "start": 332.122,
+    "duration": 3.894
+  },
+  {
+    "text": "ranging from about 8\nto 18 inches tall.",
+    "start": 336.041,
+    "duration": 3.69
+  },
+  {
+    "text": "The strikes especially cluster where\nblack rock crusts over the sand.",
+    "start": 339.756,
+    "duration": 5.166
+  },
+  {
+    "text": "The lightning seems to have\npunched through, scattering rock",
+    "start": 344.947,
+    "duration": 3.485
+  },
+  {
+    "text": "and leaving the craters\nbare, where nothing grows.",
+    "start": 348.457,
+    "duration": 3.55
+  },
+  {
+    "text": "Whether the lightning is\nattracted to the rock",
+    "start": 352.032,
+    "duration": 2.977
+  },
+  {
+    "text": "or the rock was made with\nthe lightning isn't known,",
+    "start": 355.034,
+    "duration": 3.536
+  },
+  {
+    "text": "but the rock provides a clue.",
+    "start": 358.595,
+    "duration": 2.057
+  },
+  {
+    "text": "It appears the lightning\ncame in a coherent event",
+    "start": 360.677,
+    "duration": 3.372
+  },
+  {
+    "text": "that peppered the land, punching\nthrough and shattering the rock.",
+    "start": 364.074,
+    "duration": 3.743
+  },
+  {
+    "text": "That, at least, is how it appears.",
+    "start": 367.842,
+    "duration": 1.984
+  },
+  {
+    "text": "It's as if there were two events.",
+    "start": 369.851,
+    "duration": 2.094
+  },
+  {
+    "text": "One that torched and melted the surface\nof the land, creating the cap rock,",
+    "start": 371.97,
+    "duration": 4.529
+  },
+  {
+    "text": "and a subsequent one that shattered\nthe rock with lightning.",
+    "start": 376.524,
+    "duration": 3.743
+  },
+  {
+    "text": "What amazes is the number of them\nclustered in particular areas.",
+    "start": 380.292,
+    "duration": 4.419
+  },
+  {
+    "text": "They rarely overlap, spaced\nfairly even, but randomly apart.",
+    "start": 384.736,
+    "duration": 4.849
+  },
+  {
+    "text": "There are hundreds of thousands,\nif not millions of them",
+    "start": 389.61,
+    "duration": 3.46
+  },
+  {
+    "text": "scarring the land just\nsouth of Comb Ridge.",
+    "start": 393.095,
+    "duration": 2.853
+  },
+  {
+    "text": "There are regions\naround the world",
+    "start": 395.973,
+    "duration": 1.92
+  },
+  {
+    "text": "where features like these carpet the\nland for hundreds of square miles.",
+    "start": 397.918,
+    "duration": 4.095
+  },
+  {
+    "text": "They are seen in desert\nlands especially",
+    "start": 402.038,
+    "duration": 2.637
+  },
+  {
+    "text": "since there is little\nundergrowth to obscure them.",
+    "start": 404.7,
+    "duration": 3.194
+  },
+  {
+    "text": "The next image is from Namibia.",
+    "start": 407.919,
+    "duration": 2.595
+  },
+  {
+    "text": "Here the features connect\nwith filaments of stream beds.",
+    "start": 410.539,
+    "duration": 4.147
+  },
+  {
+    "text": "But note how they connect in linear arrays\nand branch radially like little stars.",
+    "start": 414.711,
+    "duration": 5.149
+  },
+  {
+    "text": "They are electric discharge patterns.",
+    "start": 419.885,
+    "duration": 3.294
+  },
+  {
+    "text": "Each feature seems to be a shallow\nbasin or spring where water collects.",
+    "start": 423.204,
+    "duration": 5.343
+  },
+  {
+    "text": "Map resolution doesn't\nallow better detail",
+    "start": 428.572,
+    "duration": 3.013
+  },
+  {
+    "text": "but these features are larger\nthan the Arizona features.",
+    "start": 431.61,
+    "duration": 3.37
+  },
+  {
+    "text": "Many cover several acres.",
+    "start": 435.005,
+    "duration": 2.276
+  },
+  {
+    "text": "Much of the country of Uzbekistan is\nalso carpeted with similar features,",
+    "start": 437.306,
+    "duration": 4.949
+  },
+  {
+    "text": "as the following images from a small\nportion of eastern Uzbekistan show.",
+    "start": 442.28,
+    "duration": 5.149
+  },
+  {
+    "text": "The Uzbekistan features are\nlarger and more numerous still.",
+    "start": 447.454,
+    "duration": 4.033
+  },
+  {
+    "text": "They also appear to be shallow basins\nwhere the geology is distinctly changed,",
+    "start": 451.512,
+    "duration": 5.472
+  },
+  {
+    "text": "and there appears to\nbe a source of water.",
+    "start": 457.009,
+    "duration": 2.342
+  },
+  {
+    "text": "In the last image, there appears\nto be a home, or ranch",
+    "start": 459.376,
+    "duration": 3.56
+  },
+  {
+    "text": "with a livestock tank, well,\nor catchment at the center.",
+    "start": 462.961,
+    "duration": 3.572
+  },
+  {
+    "text": "It makes sense that water is\nfound where lightning has struck.",
+    "start": 466.558,
+    "duration": 4.344
+  },
+  {
+    "text": "Subsurface water is a\nsource of ionization",
+    "start": 470.927,
+    "duration": 3.275
+  },
+  {
+    "text": "that intensifies charge density,\nand therefore the electric field,",
+    "start": 474.227,
+    "duration": 3.901
+  },
+  {
+    "text": "attracting lightning\nto its location.",
+    "start": 478.129,
+    "duration": 2.848
+  },
+  {
+    "text": "Standing surface water won't do that\nbecause ions have no point to collect --",
+    "start": 480.978,
+    "duration": 5.304
+  },
+  {
+    "text": "they spread evenly over\nthe surface of the water.",
+    "start": 486.307,
+    "duration": 3.07
+  },
+  {
+    "text": "But subterranean water\nis trapped in the earth,",
+    "start": 489.402,
+    "duration": 2.743
+  },
+  {
+    "text": "where ions can collect\nand build concentration,",
+    "start": 492.17,
+    "duration": 2.984
+  },
+  {
+    "text": "locally intensifying\nthe electric field.",
+    "start": 495.179,
+    "duration": 2.743
+  },
+  {
+    "text": "Pits, craters, and rilles\nformed by lightning",
+    "start": 497.947,
+    "duration": 2.734
+  },
+  {
+    "text": "leave depressions over aquifers that\nare natural for springs and wells.",
+    "start": 500.706,
+    "duration": 4.793
+  },
+  {
+    "text": "But what about larger features --\nbigger than pits and piles of sand.",
+    "start": 505.524,
+    "duration": 4.803
+  },
+  {
+    "text": "Can lightning make a mountain?",
+    "start": 510.352,
+    "duration": 2.259
+  },
+  {
+    "text": "Volcanoes form mountains by extruding\nmolten rock to the surface",
+    "start": 512.636,
+    "duration": 4.25
+  },
+  {
+    "text": "from hot pools of magma\nbeneath the crust.",
+    "start": 516.911,
+    "duration": 3.174
+  },
+  {
+    "text": "This is conventional understanding, and it\nisn't in dispute in the Electric Universe.",
+    "start": 520.11,
+    "duration": 4.512
+  },
+  {
+    "text": "After all, volcanoes can be\nwitnessed doing this in real time.",
+    "start": 524.647,
+    "duration": 3.856
+  },
+  {
+    "text": "The resulting strato-volcanoes, cinder cones,\nlava flows, ash deposits and lahars",
+    "start": 528.528,
+    "duration": 5.604
+  },
+  {
+    "text": "are seen across the globe.",
+    "start": 534.157,
+    "duration": 2.316
+  },
+  {
+    "text": "What creates magma chambers and causes\nthem to erupt is not understood.",
+    "start": 536.498,
+    "duration": 4.482
+  },
+  {
+    "text": "Consensus science has a number of speculative\ntheories based on conventional beliefs",
+    "start": 541.005,
+    "duration": 4.907
+  },
+  {
+    "text": "about the make-up and dynamics\nof the interior of the earth.",
+    "start": 545.937,
+    "duration": 3.325
+  },
+  {
+    "text": "It's these theories EU\nhas a problem with.",
+    "start": 549.287,
+    "duration": 3.196
+  },
+  {
+    "text": "EU theory proposes the mechanism\nfor heating and erupting volcanoes",
+    "start": 552.508,
+    "duration": 4.627
+  },
+  {
+    "text": "is electrical discharge\nbeneath Earth's crust.",
+    "start": 557.16,
+    "duration": 2.656
+  },
+  {
+    "text": "But our theories are\nalso speculative",
+    "start": 559.841,
+    "duration": 2.119
+  },
+  {
+    "text": "because there is no way to look\ninside the Earth to be sure.",
+    "start": 561.985,
+    "duration": 3.102
+  },
+  {
+    "text": "One type of geologic feature\nattributed to volcanism",
+    "start": 565.112,
+    "duration": 3.516
+  },
+  {
+    "text": "can be challenged by\nEU Theory, however.",
+    "start": 568.653,
+    "duration": 2.688
+  },
+  {
+    "text": "These are buttes believed by the consensus\nto be the ancient throats of volcanoes,",
+    "start": 571.366,
+    "duration": 5.294
+  },
+  {
+    "text": "where a magma plug\nfroze in the throat,",
+    "start": 576.685,
+    "duration": 2.344
+  },
+  {
+    "text": "and later erosion exposed them\nleaving a hardened pinnacle.",
+    "start": 579.054,
+    "duration": 4.379
+  },
+  {
+    "text": "Archetypal of these is Shiprock, a\ntall butte that lies near Four Corners,",
+    "start": 583.458,
+    "duration": 5.156
+  },
+  {
+    "text": "where the U.S. States of Arizona,\nUtah, Colorado and New Mexico meet.",
+    "start": 588.639,
+    "duration": 3.95
+  },
+  {
+    "text": "It lies in the heart\nof Navajo lands",
+    "start": 592.614,
+    "duration": 3.276
+  },
+  {
+    "text": "Some Navajo traditionalists argue\nShiprock is the work of the 'Star People'.",
+    "start": 595.915,
+    "duration": 4.693
+  },
+  {
+    "text": "Could it be they know more about it\nthan our consensus scientists do?",
+    "start": 600.633,
+    "duration": 4.24
+  },
+  {
+    "text": "We can use this butte and\nthe surrounding landscape",
+    "start": 604.898,
+    "duration": 2.808
+  },
+  {
+    "text": "to discuss how such features were actually\nformed by lightning in the distant past",
+    "start": 607.731,
+    "duration": 4.328
+  },
+  {
+    "text": "when lightning was a\n'Thunderbolt of the Gods'.",
+    "start": 612.084,
+    "duration": 2.865
+  },
+  {
+    "text": "But first, let's look at\nsome of the absurdities",
+    "start": 614.974,
+    "duration": 2.492
+  },
+  {
+    "text": "in consensus theory\nconcerning its formation.",
+    "start": 617.491,
+    "duration": 3.305
+  },
+  {
+    "text": "Shiprock does (not) sit near a\nregion of true volcanic activity.",
+    "start": 620.821,
+    "duration": 4.823
+  },
+  {
+    "text": "Northern Arizona has volcanoes\nalong the Mogollon Rim",
+    "start": 625.669,
+    "duration": 3.334
+  },
+  {
+    "text": "that lie to the South and West\nof the Four Corners region.",
+    "start": 629.028,
+    "duration": 3.033
+  },
+  {
+    "text": "This is part of a super-volcanic\ncomplex much like Yellowstone.",
+    "start": 632.086,
+    "duration": 3.98
+  },
+  {
+    "text": "Yet Shiprock itself, and\na number of similar formations",
+    "start": 636.091,
+    "duration": 4.206
+  },
+  {
+    "text": "are well removed from\nthose volcanic fields,",
+    "start": 640.322,
+    "duration": 2.887
+  },
+  {
+    "text": "standing alone on the\nhigh desert plains.",
+    "start": 643.234,
+    "duration": 2.676
+  },
+  {
+    "text": "They are attributed to an ancient volcanic\ncomplex called the Navajo Volcanic Field",
+    "start": 645.935,
+    "duration": 4.943
+  },
+  {
+    "text": "but are not surrounded by\nlava flows, ash deposits,",
+    "start": 650.903,
+    "duration": 3.444
+  },
+  {
+    "text": "or any other features provably\nvolcanic in origin.",
+    "start": 654.372,
+    "duration": 2.918
+  },
+  {
+    "text": "In fact, for these to be considered\nthe throats of ancient volcanoes,",
+    "start": 657.315,
+    "duration": 4.103
+  },
+  {
+    "text": "the consensus assumes it formed 2,500\nto 3,000 feet below Earth's surface",
+    "start": 661.443,
+    "duration": 6.13
+  },
+  {
+    "text": "and became exposed after\nmillions of years of erosion.",
+    "start": 667.598,
+    "duration": 3.78
+  },
+  {
+    "text": "In other words, 3,000 feet of vertical surface\nlands had to be completely eroded away,",
+    "start": 671.403,
+    "duration": 6.566
+  },
+  {
+    "text": "leaving just the butte poking out\nof the flat, sandstone desert floor.",
+    "start": 677.994,
+    "duration": 4.427
+  },
+  {
+    "text": "Shiprock is 1,500\nfeet of broken rock,",
+    "start": 682.446,
+    "duration": 3.813
+  },
+  {
+    "text": "meaning 1,500 feet of\nsurrounding plateau washed away,",
+    "start": 686.284,
+    "duration": 4.266
+  },
+  {
+    "text": "in addition to the 3,000 feet of overburden,",
+    "start": 690.575,
+    "duration": 2.821
+  },
+  {
+    "text": "along with the lava fields, ash deposits\nand other traces of volcanic field,",
+    "start": 693.421,
+    "duration": 4.939
+  },
+  {
+    "text": "without washing away the butte.",
+    "start": 698.385,
+    "duration": 2.765
+  },
+  {
+    "text": "Let's just say that it's hard\nto conceive how wind and water",
+    "start": 701.175,
+    "duration": 3.079
+  },
+  {
+    "text": "could have washed across the land carrying\naway trillions of tons of other rock",
+    "start": 704.279,
+    "duration": 4.464
+  },
+  {
+    "text": "but left this shard standing.",
+    "start": 708.768,
+    "duration": 2.243
+  },
+  {
+    "text": "It's not made of kryptonite. It's no\nharder than the surrounding sandstone.",
+    "start": 711.036,
+    "duration": 4.802
+  },
+  {
+    "text": "Exposed to millions of\nyears of such abuse,",
+    "start": 715.863,
+    "duration": 2.839
+  },
+  {
+    "text": "it would have dissolved like a\npopsicle in an Arizona summer.",
+    "start": 718.727,
+    "duration": 3.76
+  },
+  {
+    "text": "Nor is there any evidence of how, or\nwhere this material disappeared to.",
+    "start": 722.512,
+    "duration": 4.855
+  },
+  {
+    "text": "There's no deposit of silts, or\nremains of past river channels,",
+    "start": 727.392,
+    "duration": 3.834
+  },
+  {
+    "text": "anywhere in the western hemisphere\nto provide evidence of this.",
+    "start": 731.251,
+    "duration": 3.75
+  },
+  {
+    "text": "How any river or inland sea could have\nwashed the land away without a trace,",
+    "start": 735.026,
+    "duration": 4.88
+  },
+  {
+    "text": "leaving these 'volcanic\nplugs' is a mystery",
+    "start": 739.931,
+    "duration": 3.006
+  },
+  {
+    "text": "that the consensus can only explain\nby invoking billions of years.",
+    "start": 742.962,
+    "duration": 3.558
+  },
+  {
+    "text": "It's the only excuse they know",
+    "start": 746.545,
+    "duration": 2.5
+  },
+  {
+    "text": "and they feel it safe as long as\nthey ignore the Electric Universe.",
+    "start": 749.07,
+    "duration": 3.952
+  },
+  {
+    "text": "Shiprock and its\nneighboring buttes",
+    "start": 753.047,
+    "duration": 2.56
+  },
+  {
+    "text": "are made of sandstone and a\nsimilar material called Minette.",
+    "start": 755.632,
+    "duration": 3.268
+  },
+  {
+    "text": "Minette is chemically the\nsame as the surrounding stone",
+    "start": 758.925,
+    "duration": 3.334
+  },
+  {
+    "text": "except it is highly potassic and\napparently fused together by heat.",
+    "start": 762.284,
+    "duration": 4.145
+  },
+  {
+    "text": "The composition of the rock is not\nhard, highly compressed, or consolidated",
+    "start": 766.454,
+    "duration": 5.132
+  },
+  {
+    "text": "such that it could withstand\nthe kind of flood waters",
+    "start": 771.611,
+    "duration": 2.897
+  },
+  {
+    "text": "required to wash away\nthe surrounding land.",
+    "start": 774.509,
+    "duration": 2.556
+  },
+  {
+    "text": "Nor is it like any rock we can witness\nbeing produced by volcanoes today.",
+    "start": 777.09,
+    "duration": 5.374
+  },
+  {
+    "text": "A more plausible and\nresponsible theory",
+    "start": 782.489,
+    "duration": 3.026
+  },
+  {
+    "text": "is that they were made the way\nthe Navajo say it was made.",
+    "start": 785.54,
+    "duration": 3.663
+  },
+  {
+    "text": "In part two of 'Lightning-Scarred\nEarth', we'll look closer at Shiprock",
+    "start": 789.228,
+    "duration": 4.133
+  },
+  {
+    "text": "and other features caused by lightning,\nand their role in mountain building.",
+    "start": 793.386,
+    "duration": 4.166
+  },
+  {
+    "text": "Thank you.",
+    "start": 797.577,
+    "duration": 1.125
+  },
+  {
+    "text": "For continuous updates on Space\nNews from the Electric Universe,",
+    "start": 799.551,
+    "duration": 3.985
+  },
+  {
+    "text": "stay tuned to",
+    "start": 803.561,
+    "duration": 1.19
+  },
+  {
+    "text": "Thunderbolts.info",
+    "start": 804.776,
+    "duration": 1.411
+  }
+]

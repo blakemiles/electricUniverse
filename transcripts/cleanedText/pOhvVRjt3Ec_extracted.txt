@@ -1,0 +1,322 @@
+[Music]
+As many of you viewers of these
+Thunderbolt videos are aware, in 2015 I
+was able to complete the derivation
+of a mathematical/physical model of a
+so-called force-free current, also
+sometimes called a field-aligned current.
+What motivated this project was my
+earlier interest in determining the
+exact shape of those electric plasma
+currents that flow from the Sun,
+the awesome distance of some 93 million
+miles to supply power, to light up
+Earth's auroras. Christian Birkeland
+predicted the existence of these flows
+way back in 1908. Only when satellites
+detected the magnetic signatures of
+electric currents in the auroras
+in 1973, was Birkeland's hypothesis
+irrefutably validated, though for another
+couple of decades, many astronomers
+resisted the implications of his
+discovery and some still do. They don't
+like the idea of electricity up there.
+The flows he discovered are now called
+Birkeland Currents in his honor. My 
+model is described by a set of five
+equations that can be used to produce
+three-dimensional images of both the internal,
+and the external, appearance and the
+workings of a typical Birkeland Current.
+It's based on answering a very simple
+question, “If we have a moving plasma cloud
+consisting of positive and negative ions,
+protons, electrons, and other particles
+such as neutral atoms in otherwise
+completely empty space, and we leave it
+absolutely alone - we don't touch it, what shape, what
+structure, if any, will this stream attempt to take on?
+What forces will these moving charges
+impose on each other, and how will they
+respond? What will the result be?”
+The derivation is a fairly complex one
+that involves some fancy vector calculus,
+but the structural shape that results is
+elegantly simple, and testable. It turns out that
+the flow is essentially a cylindrical tube that
+contains plasma moving in co-axial,
+spiral, that is helical paths. As we get
+farther away from the central axis of the
+flow, the pitch angles of those spiral pathways
+gradually increase. This produces an
+intertwined internal structure that has several
+self-maintaining properties. Nothing leaks out of the
+resulting flow, for one. And this immediately explains
+why BC’s can maintain their integrity
+over distances of millions of miles, and
+now we think perhaps even millions of light 
+years. One of the unique properties of any
+Birkeland Current can be seen by viewing a
+cross-section of the structure of the model.
+This clearly shows counter-rotation.
+There are clockwise flows at certain
+radial distances out from the center axis,
+and counterclockwise rotation at other
+distances. We have known for many
+years that Birkeland Currents power the
+auroral displays we see in the night sky,
+but were counter-rotating plasmas observed?
+It was quickly discovered that, yes counter-
+rotation is often seen in Earth's auroras.
+And it's also seen in NASA videos of the poles of
+several of the planets, especially Saturn and Jupiter.
+This is evidence that what we're saying is
+correct, that counter-rotation does exist in these
+Birkeland Currents. It seems that the
+coaxial counter-rotation property is a
+unique property of Birkeland Currents. No
+other natural process that we are aware
+of produces it. So, in my mind the
+race was on to find more examples.
+If you see coaxial counter-rotation
+anywhere, keep your eyes open for the
+Birkeland Current that causes it.
+Birkeland Currents can carry electrical
+charges in both directions, much like a
+coaxial cable carries normal electrical
+currents, here on Earth. When we 
+power up a light bulb, it takes two wires,
+one to carry charge from the voltage
+source to the light, and another wire to
+carry those charges back to the ground
+terminal of the source, to complete the
+circuit as it's called. When charges
+are delivered to Earth by a Birkeland
+Current, they work their way down to the
+surface from the top of the atmosphere.
+Quite often that journey results in the beautiful
+auroral lights. But sometimes also they create other
+visible discharges in the Earth's high
+altitude plasma, such as the so-called
+elves, sprites, and gnomes seen 
+by the pilots of high-flying aircraft.
+Thinking about the now accepted fact
+that Birkeland Currents power the auroras
+and recognizing that those auroras 
+often exhibit coaxial counter-rotation,
+I wondered if the wind patterns high above
+Earth's poles also behaved in a similar way.
+There's an internet website
+called earth.nullschool.net
+that shows wind and water patterns
+in Earth's oceans and atmosphere.
+If you go to that site, you can click on the 
+word “Earth” to bring up the menu and
+select “HD” - high def, and then pick “Mode”
+equals “Air”, “Animate” equals “Wind”, “Height”
+equals “10” hPa (hectopascals). This 
+is at an altitude of approximately
+35 kilometers; that's the highest level
+that the earth.null school gives us.
+Set “Overlay” to “Wind” and “Projection”
+to “O” and in the image click and drag the
+Earth's Northern hemisphere down to
+show the North Pole. Then go over to the
+control line of the menu and change the
+date, I think it's the second symbol, to
+Year 2022, Month of January – 01, and date – 08.
+If you click on any wind flow, you will see
+its direction and velocity in the 
+upper left. To close the menu click
+on the word “Earth” and you can see the whole Earth.
+Hannes Alfven said that moving plasma,
+when it contacts neutral gas, can drag
+the gas along with it. With that in mind
+and using the right-hand rule, point your right
+thumb in the direction of the axial current,
+and then your curved fingers will show the direction
+of the magnetic field and the moving plasma.
+Doing this, we see that the Birkeland
+Current's central axial current is moving
+positive charges up and out of the North Pole.
+If you turn the Earth over by dragging the Pole
+with your mouse, you can see a similar,
+but much weaker current emerging
+from the South Polar region. The 
+Earth in its orbit is closest to the
+Sun in January. At that time its North
+Pole is pointing away from the Sun. The
+Electric Universe model presumes the Sun
+is charged to a higher voltage than its
+surroundings and therefore, there will be
+an electric field radiating outward from it.
+With those facts in mind, we expected
+that in January, there might be a strong
+inward current from the higher voltage neighbor-
+hood of the Sun entering the Earth's South Pole,
+and outward at the North Pole flowing away from
+the Sun. Similarly, it was thought that in June
+there might be a slightly weaker current
+going into the North Pole and out the
+South Pole. Weaker because we're farther
+away from the Sun. Nothing even remotely
+akin to that was observed; that was 
+not seen at all. Well what was observed:
+monthly examinations were made by
+sampling the earth.nullschool.net
+website video images over a five-year
+time span, June of 2014 through June of
+2019, and the important observed results
+were actually two. The first was during
+the northern hemisphere summer;
+that's called aphelion. Earth is as
+far from the Sun as it gets. Current enters 
+into both the North and South poles. Th
+The second thing that we observed was
+that during the Northern hemisphere
+winter, that's called perihelion, Earth is closest
+to the Sun, current is directed out of both the
+North and South poles. What should we make 
+of this? How do we interpret it? What's going on?
+From December through February, the
+Northern hemisphere winter, perihelion,
+Earth is nearest the Sun and according
+to Electric Universe theory, it should be
+picking up positive charge in this
+higher voltage region. But we see from
+our observations that the Birkeland
+Current is directed out of both
+hemispheres during this time. Earth 
+is therefore losing positive charge
+via the Birkeland Current during this period.
+Just the opposite of what we might think.
+Six months later, a similar surprise 
+awaited us. Earth in its elliptical orbit is
+farthest from the Sun then, at its aphelion, 
+around the 4th of July and thus at its
+greatest orbital distance. The Sun's 
+electric field is producing a lower
+voltage neighborhood there.
+Therefore Earth ought to be dumping
+positive charge out into that lower
+voltage neighborhood. But if we look at
+the nullschool.net site, it's clear that the Birkeland
+Current is dumping positive charge into Earth.
+Now, this unexpected behavior of the Sun-
+Earth BC was observed at every single
+one of the observed aphelion-perihelion times
+during the five years we observed the site.
+What could the explanation be for what we 
+observed? After considering this apparent
+contradiction we came, after much thought, to the
+following conclusion. There is no contradiction.
+There are two different processes going on.
+One, Earth when it's closest to the Sun in
+January, is indeed collecting charge,
+just as the EU theory says it should.
+And it does this from all possible directions
+through the extremely large surface area
+of Earth's toroidal, that is to say
+doughnut-shaped plasmasphere that
+completely surrounds the Earth. The
+charges come from positive-charged
+interplanetary plasma through
+which the Earth is moving. And two,
+but during this same time we've observed
+that the Birkeland Current stream that
+directly connects the Sun to Earth's poles,
+is removing positive charges from Earth.
+The Birkeland Current is acting like a
+pipeline that carries charge directly
+out of two comparatively small cusps in
+Earth's magnetosphere near its poles,
+back towards the outer coronal region of the Sun.
+So, both these processes are going on simultaneously.
+Therefore, this newly discovered
+Birkeland Current mechanism apparently
+works to stabilize Earth's net charge
+over the course of the year. It's a
+natural compensating negative feedback
+mechanism which tends to neutralize, or
+at least minimize, any seasonal variation in Earth's
+net charge. The Birkeland Current supplies positive
+charge when Earth is losing it from its
+surrounding plasma, because it's passing
+through the low voltage region, and then
+the Birkeland Current removes the excess
+charge Earth is taking on while it's
+passing through the Sun's high voltage
+region and is collecting charge. This 
+counter-flow of charge, provided by
+the Birkeland Current that directly
+connects the Sun to Earth, effectively
+counteracts any fluctuation in Earth's
+charge that might otherwise perturb its
+orbital stability. The Birkeland Current
+also provides a return path for all of
+the electric charge delivered here by
+Coronal Mass Ejections and the solar
+wind. It doesn't pile up on Earth. Where does 
+it go? It goes back to the Birkeland Current.
+There are many instances of such
+automatic negative stabilizing feedback
+mechanisms in astrophysics. An 
+obvious one is the ability of a
+Birkeland Current to self-repair itself
+from any damage done by a perturbation
+in one or more of its current density components. 
+Anyway, there are a variety of things
+that one can see by manipulating the
+menu choices of this excellent website.
+One of the most informative is to get an
+image on a date when the 10 hectopascal
+flow is quite regular, circular or at
+least smooth. We can suggest one out of
+the bunch might be December 17 2014. That's 
+2014-12-17. Then select a series of lower altitudes.
+Higher hectopascal pressure levels mean
+you're going down, and the pressure in
+the atmosphere is getting larger. So, go
+down to 70, 250 and go all the way down
+to the surface. Anyway, notice that the
+farther down, the closer to the surface
+we get, the more chaotic, less smooth and
+regular, and slower, the patterns become.
+It makes sense because if you place
+the mouse pointer over a wider, closely
+spaced faster wind flow, you can 
+left- click and measure its velocity.
+Generally the higher our altitude, the 
+faster and more regular the wind flows are.
+This demonstrates that the Birkeland
+Current which is quite well-formed as it
+comes through space, drives the flow at its
+highest 10 hectopascal level, way up at the top.
+This flow frictionally drives the air at
+the next lower level and so on. The
+lowest levels experience frictional
+contact with the geographical surface
+features and this breaks up the smooth,
+almost circular global flows, and reduces
+their velocities compared to what we see at the
+higher levels. What this makes clear is that Earth's
+polar wind patterns are driven from
+outside electrically, and not by any
+surface or internal Earth-bound processes or
+dynamos - the favorite word of astronomers when
+they don't know what's going on. The 
+main outside source of these polar winds
+is quite obviously the varying strength
+and polarity, that is to say direction,
+of the Birkeland Current system of
+electrically charged particles that it
+delivers here both to and from the Sun.
+In other words, we now have undeniable
+scientific evidence of cause and effect.
+Solar Birkeland Currents cause patterns
+in the polar winds which affect
+the weather on the planet.
+Yet another verification of the 
+Electric Universe model of cosmology.
+[Music]

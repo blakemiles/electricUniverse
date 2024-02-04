@@ -1,0 +1,582 @@
+[
+  {
+    "text": "[Music]",
+    "start": 2.3,
+    "duration": 5.37
+  },
+  {
+    "text": "In previous episodes of this seven-arc\nseries, we covered how the development of",
+    "start": 11.51,
+    "duration": 5.45
+  },
+  {
+    "text": "new instruments has accompanied, or gene-\nrated, fundamental shifts in scientific thinking.",
+    "start": 16.96,
+    "duration": 5.84
+  },
+  {
+    "text": "The instruments measure overlooked\ndiscrepancies and detect unimagined",
+    "start": 22.8,
+    "duration": 4.79
+  },
+  {
+    "text": "qualities. The previous explanatory ideas\nwon't stretch over the new evidence",
+    "start": 27.59,
+    "duration": 5.29
+  },
+  {
+    "text": "without patching, and the patches become awkward \nand arbitrary. At some point scientists decide that the",
+    "start": 32.88,
+    "duration": 7.44
+  },
+  {
+    "text": "old patched ideas are too much of a nuisance\nand they come up with new ideas that fit better.",
+    "start": 40.32,
+    "duration": 7.12
+  },
+  {
+    "text": "Brahe’s more precise instruments\narguably led to the replacement of",
+    "start": 47.44,
+    "duration": 4.63
+  },
+  {
+    "text": "Ptolemy's kinematic model of planetary\nmotions with Newton's dynamic model.",
+    "start": 52.07,
+    "duration": 5.85
+  },
+  {
+    "text": "Patching Ptolemy's perfect circles \nwith ellipses, especially when strong",
+    "start": 57.92,
+    "duration": 4.56
+  },
+  {
+    "text": "objections were already raised against\nhis linear equant element, would have",
+    "start": 62.48,
+    "duration": 4.72
+  },
+  {
+    "text": "been playing with dogmatic thinking.\nThe great increase of instrumentation in",
+    "start": 67.2,
+    "duration": 5.44
+  },
+  {
+    "text": "the 18th and 19th centuries, led \nto the replacement of Newton's",
+    "start": 72.64,
+    "duration": 4.96
+  },
+  {
+    "text": "dynamic model with Einstein's rubber\nspace-time model in the 20th century.",
+    "start": 77.6,
+    "duration": 6.0
+  },
+  {
+    "text": "Gravity as a force was abandoned in\nfavor of gravity as a warped coordinate",
+    "start": 83.6,
+    "duration": 5.44
+  },
+  {
+    "text": "system. But the use of the same term for\nboth conditions caused confusion. People",
+    "start": 89.04,
+    "duration": 6.0
+  },
+  {
+    "text": "still talked about gravity as a force.\nThe invention of electronic instruments",
+    "start": 95.04,
+    "duration": 6.32
+  },
+  {
+    "text": "and the ability to send them into space,\nhas now brought a flood of new data that",
+    "start": 101.36,
+    "duration": 4.96
+  },
+  {
+    "text": "doesn't fit Einstein's space-time. But \ninstead of looking for clearer explanations,",
+    "start": 106.32,
+    "duration": 6.24
+  },
+  {
+    "text": "theoreticians are playing with dogmatic \nthinking. Early in the 20th century, astronomers",
+    "start": 112.56,
+    "duration": 6.08
+  },
+  {
+    "text": "categorically ruled out the possibility\nthat electricity might compete with",
+    "start": 118.64,
+    "duration": 4.47
+  },
+  {
+    "text": "gravity as a cosmic force. That decision became\na dogma that prevented them from even looking at",
+    "start": 123.11,
+    "duration": 6.48
+  },
+  {
+    "text": "plasma experiments. With little knowledge of the\nactual behavior of plasma, they hid the new data",
+    "start": 129.59,
+    "duration": 7.05
+  },
+  {
+    "text": "behind ad-hoc excuses of collapsed\nmatter, and undetectable dark matter, and",
+    "start": 136.64,
+    "duration": 5.67
+  },
+  {
+    "text": "unexplained dark energy. They patched Einstein's rubber\nidea with fantasies that were invented to make the",
+    "start": 142.31,
+    "duration": 7.92
+  },
+  {
+    "text": "math work and to save the theory. But \nthe theory is obscured by the stitches.",
+    "start": 150.23,
+    "duration": 6.41
+  },
+  {
+    "text": "For example, the idea of neutron stars began as\na patch to conventional gravity and gas theories.",
+    "start": 156.64,
+    "duration": 8.48
+  },
+  {
+    "text": "Some stars appeared to be too small to\ncontain enough conventional matter to",
+    "start": 165.12,
+    "duration": 5.04
+  },
+  {
+    "text": "produce their observed gravitational influence and\nlight output. So astronomers invented an untestable",
+    "start": 170.16,
+    "duration": 7.6
+  },
+  {
+    "text": "form of collapsed matter. They imagined\nthat the increasing and unresisting",
+    "start": 177.76,
+    "duration": 5.28
+  },
+  {
+    "text": "gravity of a shrinking star would squeeze\nthe electrons of atoms onto their nuclei.",
+    "start": 183.04,
+    "duration": 6.4
+  },
+  {
+    "text": "This allowed many more atoms to be packed\ntogether, enhancing gravity and radiant output.",
+    "start": 189.44,
+    "duration": 6.71
+  },
+  {
+    "text": "When they found motions and energetic\noutbursts that exceeded the neutron",
+    "start": 196.15,
+    "duration": 4.57
+  },
+  {
+    "text": "star's capacities, they presumed that\nthe now irresistible bending of gravity",
+    "start": 200.72,
+    "duration": 5.68
+  },
+  {
+    "text": "followed their equations of collapse\nto the mathematical point of zero.",
+    "start": 206.4,
+    "duration": 5.04
+  },
+  {
+    "text": "They didn't seem to realize that they were crossing\nthe empirical border into metaphysical nonsense,",
+    "start": 211.44,
+    "duration": 6.4
+  },
+  {
+    "text": "because gravity would bend space-time \nso strongly nothing - not even light - could",
+    "start": 217.84,
+    "duration": 5.6
+  },
+  {
+    "text": "escape the collapsed star. So it \nwould be unobservable. Hence this",
+    "start": 223.44,
+    "duration": 5.12
+  },
+  {
+    "text": "second patch was named a black hole.\nOnly crackpots remarked that the point",
+    "start": 228.56,
+    "duration": 6.39
+  },
+  {
+    "text": "that exploded at the beginning of the\nBig Bang would have been the mother of",
+    "start": 234.95,
+    "duration": 4.17
+  },
+  {
+    "text": "black holes, and therefore the Big Bang couldn't have\nhappened. But it turned out that much was escaping,",
+    "start": 239.12,
+    "duration": 7.36
+  },
+  {
+    "text": "if not from the black hole, at least from \nnearby. The black hole was reconceived",
+    "start": 246.48,
+    "duration": 5.92
+  },
+  {
+    "text": "as the mathematical point, as well as the nearby\nphenomena. It could be observed after all.",
+    "start": 252.4,
+    "duration": 6.55
+  },
+  {
+    "text": "In fact, black holes often appeared not just to\npull everything in, but to blow everything out.",
+    "start": 258.95,
+    "duration": 7.52
+  },
+  {
+    "text": "They were transformed into white holes with magical\nmathematics. Astronomers never considered that the",
+    "start": 266.47,
+    "duration": 6.81
+  },
+  {
+    "text": "nearby phenomena might be caused \nby something other than a black hole.",
+    "start": 273.28,
+    "duration": 6.16
+  },
+  {
+    "text": "Similar difficulties of too much energy\nin too small a space, also turned up in",
+    "start": 279.44,
+    "duration": 5.6
+  },
+  {
+    "text": "observations of galactic motions.\nGalaxies and clusters were moving too",
+    "start": 285.04,
+    "duration": 4.96
+  },
+  {
+    "text": "fast for their mutual gravity to hold the cluster\ntogether. Most clusters should have dissipated",
+    "start": 290.0,
+    "duration": 6.47
+  },
+  {
+    "text": "long ago, and stars in the arms of spiral \ngalaxies should move slower, the farther they were",
+    "start": 296.47,
+    "duration": 7.05
+  },
+  {
+    "text": "from the center. But they appeared to be moving at\nabout the same speed, regardless of their distance.",
+    "start": 303.52,
+    "duration": 6.8
+  },
+  {
+    "text": "In fact, the entire universe was more\nenergetic than could be explained by the",
+    "start": 310.32,
+    "duration": 4.8
+  },
+  {
+    "text": "gravity of its calculated mass. So \ndark matter and dark energy were",
+    "start": 315.12,
+    "duration": 5.51
+  },
+  {
+    "text": "imagined to save the theory of\ngravity from complete falsification.",
+    "start": 320.63,
+    "duration": 5.37
+  },
+  {
+    "text": "Those patches made 96 percent of the\nresulting universe of theory unobservable.",
+    "start": 326.0,
+    "duration": 6.63
+  },
+  {
+    "text": "Astronomy abandoned scientific principles and\nsank into dark speculations about dark phantasms.",
+    "start": 332.63,
+    "duration": 8.17
+  },
+  {
+    "text": "Black holes and collapsed matter are\nnot explanations, they're excuses.",
+    "start": 340.8,
+    "duration": 5.28
+  },
+  {
+    "text": "They try to squeeze the abundance\nof energy that's observed and that's",
+    "start": 346.08,
+    "duration": 4.16
+  },
+  {
+    "text": "available in electrically active plasma,\nout of the dearth of energy that is all",
+    "start": 350.24,
+    "duration": 5.2
+  },
+  {
+    "text": "theories of gravity and gas can supply.\nDark matter and dark energy hide a",
+    "start": 355.44,
+    "duration": 5.75
+  },
+  {
+    "text": "pretense of bloated gravity behind an empirically\ndishonest claim of invisibility and untestability.",
+    "start": 361.19,
+    "duration": 8.65
+  },
+  {
+    "text": "Because astronomers believed in the 19th\ncentury gravity and gas universe before",
+    "start": 369.84,
+    "duration": 5.12
+  },
+  {
+    "text": "plasma was discovered, they believed that\nelectricity, in what they imagined to be",
+    "start": 374.96,
+    "duration": 5.51
+  },
+  {
+    "text": "empty space, was impossible. The \nold theories became a belief system,",
+    "start": 380.47,
+    "duration": 5.13
+  },
+  {
+    "text": "a dogma that was absolutely true and \nunquestionable. What else could it be, believers",
+    "start": 385.6,
+    "duration": 6.8
+  },
+  {
+    "text": "exclaimed, transforming the question into a foregone\nconclusion. Many observations confirm relativity,",
+    "start": 392.4,
+    "duration": 7.35
+  },
+  {
+    "text": "they declared. But confirmation only\nconfirms what the believers already know.",
+    "start": 399.75,
+    "duration": 5.61
+  },
+  {
+    "text": "The new evidence and new ideas \nconfront them with what they don't know.",
+    "start": 405.36,
+    "duration": 4.95
+  },
+  {
+    "text": "Discovery lies in the dis-confirmations, the \nanomalies. Discovery lies in searching for and",
+    "start": 410.31,
+    "duration": 6.41
+  },
+  {
+    "text": "testing alternative explanations.\nEven as the traditionalists retreated",
+    "start": 416.72,
+    "duration": 5.44
+  },
+  {
+    "text": "into dark dogma, the pioneers of radiant\nmatter that Langmuir later renamed",
+    "start": 422.16,
+    "duration": 5.68
+  },
+  {
+    "text": "plasma, and Birkeland's terella,\nwere exploring electricity in space.",
+    "start": 427.84,
+    "duration": 5.68
+  },
+  {
+    "text": "Striations and bubbles, plasma - not gas -\nbound by double layers and sorted by its",
+    "start": 433.52,
+    "duration": 6.88
+  },
+  {
+    "text": "various characteristics, and moving by a\nhand that could be much heavier than gravity.",
+    "start": 440.4,
+    "duration": 6.72
+  },
+  {
+    "text": "Theoreticians shunned the new\nexperimental findings, because they",
+    "start": 447.12,
+    "duration": 3.68
+  },
+  {
+    "text": "couldn't be expressed in prestigious\nmathematical generalities, from which the",
+    "start": 450.8,
+    "duration": 4.64
+  },
+  {
+    "text": "real universe of observation could be \ndeduced. Hannes Alfven, an early plasma",
+    "start": 455.44,
+    "duration": 6.24
+  },
+  {
+    "text": "experimenter and one of the founders of \nplasma cosmology, wrote this about the situation.",
+    "start": 461.68,
+    "duration": 5.84
+  },
+  {
+    "text": "”The cosmical plasma physics of today\nis to some extent the playground of",
+    "start": 467.52,
+    "duration": 4.88
+  },
+  {
+    "text": "theoreticians who have never seen a plasma in a\nlaboratory. Many of them still believe in formulas",
+    "start": 472.4,
+    "duration": 6.63
+  },
+  {
+    "text": "which we know from laboratory experiments to \nbe wrong. Several of the basic concepts on which",
+    "start": 479.03,
+    "duration": 6.56
+  },
+  {
+    "text": "theories of cosmical plasmas are founded are not\napplicable to the condition prevailing in the cosmos.”",
+    "start": 485.59,
+    "duration": 6.97
+  },
+  {
+    "text": "”They are generally accepted by most\ntheoreticians, they are developed with",
+    "start": 492.56,
+    "duration": 4.96
+  },
+  {
+    "text": "the most sophisticated mathematical methods;\nand it is only the plasma itself which does not",
+    "start": 497.52,
+    "duration": 5.67
+  },
+  {
+    "text": " ‘understand’ how beautiful the theories\nare and absolutely refuses to obey them.”",
+    "start": 503.19,
+    "duration": 8.09
+  },
+  {
+    "text": "Hiding in conceptual darkness and\nplaying mathematical games with",
+    "start": 511.28,
+    "duration": 4.16
+  },
+  {
+    "text": "imaginary objects negates the found-\national assumptions of scientific thinking.",
+    "start": 515.44,
+    "duration": 5.51
+  },
+  {
+    "text": "The objects of investigation must be sensible,\nthat is able to be sensed, able to be detected.",
+    "start": 520.95,
+    "duration": 6.41
+  },
+  {
+    "text": "They must be amenable to experimentation.\nThey must be explainable, not solely predictable.",
+    "start": 527.36,
+    "duration": 6.47
+  },
+  {
+    "text": "Theoreticians must not only follow the\nmath, but also follow the language,",
+    "start": 533.83,
+    "duration": 5.93
+  },
+  {
+    "text": "theories must mean something.\nScientists must search for alternative",
+    "start": 539.76,
+    "duration": 4.63
+  },
+  {
+    "text": "explanations and test them for coherence\nand correspondence with the alternative",
+    "start": 544.39,
+    "duration": 5.29
+  },
+  {
+    "text": "interpretations of the selected evidence .\nAd-hoc patches complicate theories. The",
+    "start": 549.68,
+    "duration": 5.68
+  },
+  {
+    "text": "Standard Model is suffocating itself under its\narbitrary patches. Plasma is detectable with many",
+    "start": 555.36,
+    "duration": 7.36
+  },
+  {
+    "text": "instruments. It can be generated in\nlaboratories and its properties observed.",
+    "start": 562.72,
+    "duration": 5.52
+  },
+  {
+    "text": "Explanations of its behavior can be\nproposed and tested. Its observed",
+    "start": 568.24,
+    "duration": 4.56
+  },
+  {
+    "text": "properties correspond with the observed\nbehaviors of cosmic phenomena, and",
+    "start": 572.8,
+    "duration": 4.8
+  },
+  {
+    "text": "provides simple and straightforward explan-\nations. But its electrical properties are not",
+    "start": 577.6,
+    "duration": 6.16
+  },
+  {
+    "text": "allowed in the Standard Model.\nMechanical inventions and the mysterious",
+    "start": 583.76,
+    "duration": 5.07
+  },
+  {
+    "text": "mathematics must stand in for electrical \nactivity. The alternative to patching is the",
+    "start": 588.83,
+    "duration": 7.33
+  },
+  {
+    "text": "development of new fundamentals. The \nold theories and the old thinking served",
+    "start": 596.16,
+    "duration": 5.2
+  },
+  {
+    "text": "well to get us where we now are, but\nthey're becoming a hindrance. They're",
+    "start": 601.36,
+    "duration": 4.47
+  },
+  {
+    "text": "becoming obscured by dogmatic thinking.\nSpace age evidence is surprising and unexpected.",
+    "start": 605.83,
+    "duration": 7.21
+  },
+  {
+    "text": "Predictions from the old theories are not found.\nContrary evidence that falsifies them is found.",
+    "start": 613.04,
+    "duration": 7.03
+  },
+  {
+    "text": "We should stop pretending that the old gravity-\nand-gas thinking is adequate for our needs.",
+    "start": 620.07,
+    "duration": 6.32
+  },
+  {
+    "text": "But the revolutionary effects of such \na change in thinking will not be limited",
+    "start": 626.39,
+    "duration": 4.73
+  },
+  {
+    "text": "to one discipline. The previous metaphysics of\nuniform and gradual change affected all of thinking.",
+    "start": 631.12,
+    "duration": 7.04
+  },
+  {
+    "text": "Now the possibilities of larger and\nfaster changes in the natural world",
+    "start": 638.16,
+    "duration": 5.11
+  },
+  {
+    "text": "will revolutionize all disciplines. The \nempirical world has moved into a new",
+    "start": 643.27,
+    "duration": 5.68
+  },
+  {
+    "text": "conceptual space. A new way of \nthinking is emerging, one that rejects",
+    "start": 648.95,
+    "duration": 5.05
+  },
+  {
+    "text": "the worshipful belief that only\ngravity is of importance in cosmology.",
+    "start": 654.0,
+    "duration": 4.88
+  },
+  {
+    "text": "An awareness of the greater energy and\npower of electrical activity and plasma",
+    "start": 658.88,
+    "duration": 4.88
+  },
+  {
+    "text": "systems in space opens our thinking\nand our worldview to larger and faster",
+    "start": 663.76,
+    "duration": 5.36
+  },
+  {
+    "text": "working explanatory possibilities. The Electric\nUniverse model of cosmology is one such possibility.",
+    "start": 669.12,
+    "duration": 8.09
+  },
+  {
+    "text": "[Music]",
+    "start": 677.21,
+    "duration": 17.91
+  },
+  {
+    "text": "[Music]",
+    "start": 696.42,
+    "duration": 15.41
+  }
+]

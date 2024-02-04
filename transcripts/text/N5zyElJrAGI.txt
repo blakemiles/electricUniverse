@@ -1,0 +1,92 @@
+[
+  {
+    "text": "extraordinary ideas have driven the",
+    "start": 4.7,
+    "duration": 5.109
+  },
+  {
+    "text": "greatest advances in science and in",
+    "start": 7.56,
+    "duration": 4.94
+  },
+  {
+    "text": "human knowledge",
+    "start": 9.809,
+    "duration": 2.691
+  },
+  {
+    "text": "the electric universe is the gateway to",
+    "start": 21.64,
+    "duration": 5.29
+  },
+  {
+    "text": "the science of future in order to",
+    "start": 24.619,
+    "duration": 4.41
+  },
+  {
+    "text": "progress we need to think the",
+    "start": 26.93,
+    "duration": 6.33
+  },
+  {
+    "text": "unthinkable in the history of scientific",
+    "start": 29.029,
+    "duration": 6.511
+  },
+  {
+    "text": "ideas there is a pattern of how new",
+    "start": 33.26,
+    "duration": 5.34
+  },
+  {
+    "text": "ideas merge but if we can overcome our",
+    "start": 35.54,
+    "duration": 5.37
+  },
+  {
+    "text": "self-importance we are poised now to",
+    "start": 38.6,
+    "duration": 4.08
+  },
+  {
+    "text": "understand the Earth's electrical",
+    "start": 40.91,
+    "duration": 4.5
+  },
+  {
+    "text": "environment in a way that will relate to",
+    "start": 42.68,
+    "duration": 5.909
+  },
+  {
+    "text": "the park to the hole we are exploring a",
+    "start": 45.41,
+    "duration": 5.789
+  },
+  {
+    "text": "world of new meaning and that is very",
+    "start": 48.589,
+    "duration": 5.331
+  },
+  {
+    "text": "exciting",
+    "start": 51.199,
+    "duration": 2.721
+  },
+  {
+    "text": "discovery by discovery one surprise at a",
+    "start": 91.99,
+    "duration": 6.04
+  },
+  {
+    "text": "time all of science is coming into the",
+    "start": 95.24,
+    "duration": 5.659
+  },
+  {
+    "text": "electric universe",
+    "start": 98.03,
+    "duration": 2.869
+  }
+]

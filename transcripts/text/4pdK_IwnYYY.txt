@@ -1,0 +1,532 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe,",
+    "start": 0.0,
+    "duration": 3.12
+  },
+  {
+    "text": "brought to you by the The\nThunderbolts Project™ at",
+    "start": 3.145,
+    "duration": 2.657
+  },
+  {
+    "text": "Thunderbolts.info",
+    "start": 5.827,
+    "duration": 2.847
+  },
+  {
+    "text": "This month on Space News, we reported\non a recent study that confirms",
+    "start": 9.198,
+    "duration": 4.499
+  },
+  {
+    "text": "electrostatic dust transportation\noccurs on airless bodies in space,",
+    "start": 13.722,
+    "duration": 4.471
+  },
+  {
+    "text": "including comets,\nasteroids and moons.",
+    "start": 18.218,
+    "duration": 3.089
+  },
+  {
+    "text": "The NASA-funded research suggested\nthat electrostatic effects",
+    "start": 21.332,
+    "duration": 3.41
+  },
+  {
+    "text": "could explain a number of\nmysterious discoveries",
+    "start": 24.767,
+    "duration": 2.989
+  },
+  {
+    "text": "including the emission of fluffy dust\nparticles from the nucleus of Comet 67p,",
+    "start": 27.781,
+    "duration": 5.223
+  },
+  {
+    "text": "the formation of weird dust configurations\non 67p on the asteroid Eros.",
+    "start": 33.029,
+    "duration": 6.039
+  },
+  {
+    "text": "And the surprisingly smooth\nsurface of Saturn's moon Atlas.",
+    "start": 39.632,
+    "duration": 4.348
+  },
+  {
+    "text": "The investigators observed electrostatic\neffects in the laboratory",
+    "start": 44.005,
+    "duration": 3.604
+  },
+  {
+    "text": "when dust was exposed both to UV\nradiation and to plasma.",
+    "start": 47.609,
+    "duration": 4.716
+  },
+  {
+    "text": "Nevertheless, few astronomers today consider\nelectrical effects on comets or asteroids",
+    "start": 52.35,
+    "duration": 5.592
+  },
+  {
+    "text": "when attempting to explain the still\nmysterious behaviour of these bodies.",
+    "start": 57.967,
+    "duration": 4.436
+  },
+  {
+    "text": "This may be evidenced in recently\npublished scientific research",
+    "start": 62.428,
+    "duration": 3.421
+  },
+  {
+    "text": "into a newly discovered active\nasteroid called P/2016 G1.",
+    "start": 65.874,
+    "duration": 5.471
+  },
+  {
+    "text": "The object has been studied, in part,\nto try to answer an ongoing question.",
+    "start": 71.37,
+    "duration": 4.553
+  },
+  {
+    "text": "Should asteroids that show comet-like\nactivity be categorized as main belt comets?",
+    "start": 75.948,
+    "duration": 6.11
+  },
+  {
+    "text": "The team observed that asteroid\nP/2016 G1 became active",
+    "start": 82.083,
+    "duration": 4.416
+  },
+  {
+    "text": "350 days before perihelion or its\nclosest approach to the Sun.",
+    "start": 86.524,
+    "duration": 5.419
+  },
+  {
+    "text": "Over a period of 24 days,",
+    "start": 91.968,
+    "duration": 2.262
+  },
+  {
+    "text": "the asteroid emitted a total dust\nmass of at least 17,000 tons.",
+    "start": 94.23,
+    "duration": 4.917
+  },
+  {
+    "text": "The only hypotheses scientists\nhave considered are impacts,",
+    "start": 99.172,
+    "duration": 3.944
+  },
+  {
+    "text": "thermal fracturing, rotational\ninstabilities and sublimating ices.",
+    "start": 103.141,
+    "duration": 5.573
+  },
+  {
+    "text": "The explanation the team is settled on is\nthat an impact partially destroyed the body,",
+    "start": 108.739,
+    "duration": 4.854
+  },
+  {
+    "text": "causing the subsequent\nemissions of dust.",
+    "start": 113.618,
+    "duration": 2.699
+  },
+  {
+    "text": "Their paper states,",
+    "start": 116.342,
+    "duration": 2.022
+  },
+  {
+    "text": "\"We speculate that this dust ejection\ncould be associated to an impact,",
+    "start": 118.389,
+    "duration": 4.236
+  },
+  {
+    "text": "and that the subsequent\nmodeled activity",
+    "start": 122.65,
+    "duration": 2.19
+  },
+  {
+    "text": "is due to the asteroid\npartial or total disruption.",
+    "start": 124.865,
+    "duration": 3.212
+  },
+  {
+    "text": "The impact itself had produced the\nejection of some 240 tons of dust.\"",
+    "start": 128.102,
+    "duration": 4.581
+  },
+  {
+    "text": "The team noted that,",
+    "start": 132.929,
+    "duration": 1.984
+  },
+  {
+    "text": "\"...a conspicuous westward feature\nin the head of the comet-like object",
+    "start": 134.938,
+    "duration": 3.783
+  },
+  {
+    "text": "indicates that a significant\nfraction of the dust was ejected",
+    "start": 138.746,
+    "duration": 3.323
+  },
+  {
+    "text": "along a privileged direction,\nright at the beginning of the event.\"",
+    "start": 142.094,
+    "duration": 3.401
+  },
+  {
+    "text": "Let us also consider\nthe case of P/2013 P5,",
+    "start": 145.52,
+    "duration": 4.33
+  },
+  {
+    "text": "an asteroid which was recently\nreclassified as a main belt comet.",
+    "start": 149.875,
+    "duration": 4.22
+  },
+  {
+    "text": "The asteroid astonished\nscientists around the world",
+    "start": 154.12,
+    "duration": 3.038
+  },
+  {
+    "text": "when it suddenly displayed\nsix comet-like tails.",
+    "start": 157.183,
+    "duration": 3.513
+  },
+  {
+    "text": "One scientist said at the time, \"It's hard\nto believe we're looking at an asteroid.\"",
+    "start": 160.721,
+    "duration": 4.832
+  },
+  {
+    "text": "The mystery for\nastronomers was apparent.",
+    "start": 165.578,
+    "duration": 2.667
+  },
+  {
+    "text": "How can a rocky asteroid\ngrow and maintain",
+    "start": 168.27,
+    "duration": 3.063
+  },
+  {
+    "text": "highly collimated jets of material,\nforming the comet tails?",
+    "start": 171.358,
+    "duration": 4.403
+  },
+  {
+    "text": "An ad hoc theory arose\nto the effect that",
+    "start": 175.786,
+    "duration": 2.674
+  },
+  {
+    "text": "the asteroid suddenly began\nspinning faster for some reason.",
+    "start": 178.485,
+    "duration": 3.827
+  },
+  {
+    "text": "Possibly because, as one\nscientist suggested,",
+    "start": 182.337,
+    "duration": 2.853
+  },
+  {
+    "text": "pressure from sunlight exerted\na torque on the body.",
+    "start": 185.215,
+    "duration": 3.344
+  },
+  {
+    "text": "This change in the asteroid spin-rate\nmay have caused material to,",
+    "start": 188.584,
+    "duration": 3.864
+  },
+  {
+    "text": "\"avalanche down slope towards the\nequator and maybe shatter and fall off,",
+    "start": 192.473,
+    "duration": 4.528
+  },
+  {
+    "text": "eventually drifting into\nspace to make a tail.\"",
+    "start": 197.026,
+    "duration": 2.833
+  },
+  {
+    "text": "It was then suggested\nthat radiation pressure",
+    "start": 199.884,
+    "duration": 2.579
+  },
+  {
+    "text": "stretched and comfined the\ndust into the comet tails.",
+    "start": 202.488,
+    "duration": 3.64
+  },
+  {
+    "text": "If mainstream astronomy is now recognizing\nelectrostatic dust transportation",
+    "start": 206.153,
+    "duration": 4.394
+  },
+  {
+    "text": "on airless bodies in space then why is\nthis not among the hypotheses considered",
+    "start": 210.572,
+    "duration": 4.909
+  },
+  {
+    "text": "for asteroid or comets'\ndust emission?",
+    "start": 215.506,
+    "duration": 2.683
+  },
+  {
+    "text": "Traditionally, astronomers have only\nenvisioned minor electrostatic effects",
+    "start": 218.214,
+    "duration": 3.951
+  },
+  {
+    "text": "on asteroids and comet nuclei",
+    "start": 222.19,
+    "duration": 2.36
+  },
+  {
+    "text": "due to direct surface exposure to\nsolar radiation and the solar wind.",
+    "start": 224.575,
+    "duration": 4.529
+  },
+  {
+    "text": "But for decades, surprising discoveries\nin the study of both comets and asteroids",
+    "start": 229.129,
+    "duration": 4.968
+  },
+  {
+    "text": "have demanded new\ntheoretical pathways.",
+    "start": 234.122,
+    "duration": 2.897
+  },
+  {
+    "text": "Mysterious comet-like behaviours from\nasteroids are not a mystery.",
+    "start": 237.043,
+    "duration": 4.323
+  },
+  {
+    "text": "Comets and asteroids are not as different\nas astronomers have long believed.",
+    "start": 241.391,
+    "duration": 4.319
+  },
+  {
+    "text": "In the Electric Universe theory,\nas developed by Wal Thornhill,",
+    "start": 245.735,
+    "duration": 3.42
+  },
+  {
+    "text": "asteroids, comets and meteoroids were all\nborn in interplanetary electrical events.",
+    "start": 249.18,
+    "duration": 5.799
+  },
+  {
+    "text": "Their distinctive orbital\ngroupings and spectral features",
+    "start": 255.004,
+    "duration": 3.279
+  },
+  {
+    "text": "point to separate catastrophic events\nand to different planetary bodies",
+    "start": 258.308,
+    "duration": 4.058
+  },
+  {
+    "text": "involved in different phases\nof solar system history.",
+    "start": 262.391,
+    "duration": 2.75
+  },
+  {
+    "text": "Comet activity, including the production\nof the familiar coma and tail",
+    "start": 265.166,
+    "duration": 5.109
+  },
+  {
+    "text": "are not the result of sublimating\nices due to solar warming.",
+    "start": 270.3,
+    "duration": 3.724
+  },
+  {
+    "text": "A long-standing mystery is why\ncomets sometimes flare or even explode",
+    "start": 274.635,
+    "duration": 4.451
+  },
+  {
+    "text": "at vast distances from the Sun, much too\nfar to explain through solar warming.",
+    "start": 279.111,
+    "duration": 4.898
+  },
+  {
+    "text": "This will happen when a comet\nexperiences a sudden voltage spike",
+    "start": 284.036,
+    "duration": 3.853
+  },
+  {
+    "text": "when traveling through varying\nregions of electrical potential.",
+    "start": 287.914,
+    "duration": 3.642
+  },
+  {
+    "text": "One such source of a voltage\nspike is solar flares,",
+    "start": 291.581,
+    "duration": 3.828
+  },
+  {
+    "text": "a subject of growing\nscientific interest.",
+    "start": 295.434,
+    "duration": 2.648
+  },
+  {
+    "text": "At the recent Thunderbolts\nconference in Phoenix - Arizona,",
+    "start": 298.107,
+    "duration": 3.239
+  },
+  {
+    "text": "the Russian scientist dr.\nSubhon Ibadov",
+    "start": 301.371,
+    "duration": 2.6
+  },
+  {
+    "text": "proposed that a capacitor-like breakdown\noccurs between a comet's charged subsurface",
+    "start": 303.996,
+    "duration": 4.808
+  },
+  {
+    "text": "and a differently charged surface due\nto arriving protons from the Sun.",
+    "start": 308.829,
+    "duration": 4.211
+  },
+  {
+    "text": "In the electric universe\ntheory of Wal Thornhill,",
+    "start": 313.381,
+    "duration": 2.815
+  },
+  {
+    "text": "any body moving on an elliptical orbit\nwithin the Sun's weak electric field",
+    "start": 316.221,
+    "duration": 4.465
+  },
+  {
+    "text": "can exhibit comet-like\nelectrical discharge activity.",
+    "start": 320.711,
+    "duration": 3.382
+  },
+  {
+    "text": "Though of course on a\nmuch smaller scale,",
+    "start": 324.118,
+    "duration": 2.422
+  },
+  {
+    "text": "such behavior may have\nbeen recently witnessed",
+    "start": 326.565,
+    "duration": 2.552
+  },
+  {
+    "text": "when astronomers observed giant plumes\njetting from the surface of Mars.",
+    "start": 329.142,
+    "duration": 5.285
+  },
+  {
+    "text": "Scientists recently reported the\ncompletely unexpected discovery",
+    "start": 334.452,
+    "duration": 3.624
+  },
+  {
+    "text": "that a coronal mass ejection hit Mars\nimmediately before the plume was first spotted.",
+    "start": 338.101,
+    "duration": 5.642
+  },
+  {
+    "text": "The NewScientist report\non the Discovery states,",
+    "start": 343.768,
+    "duration": 3.096
+  },
+  {
+    "text": "\"One possibility is that plasma could be\ninteracting with ice grains or dust",
+    "start": 346.889,
+    "duration": 4.146
+  },
+  {
+    "text": "lower down in the atmosphere and\nelectrically charging them,",
+    "start": 351.06,
+    "duration": 3.354
+  },
+  {
+    "text": "boosting them higher, but it's not clear\nhow the effect would be big.\"",
+    "start": 354.439,
+    "duration": 4.386
+  },
+  {
+    "text": "A similar phenomena may have been witnessed\non the aforementioned asteroid P/2016 G1.",
+    "start": 358.85,
+    "duration": 5.796
+  },
+  {
+    "text": "Just as the Martian plumes\nwere not caused by an impact,",
+    "start": 364.671,
+    "duration": 3.286
+  },
+  {
+    "text": "the asteroid's emission of dust, which initially\nejected along a preferential direction,",
+    "start": 367.982,
+    "duration": 5.093
+  },
+  {
+    "text": "was most likely caused\nby an electrical discharge.",
+    "start": 373.1,
+    "duration": 3.461
+  },
+  {
+    "text": "Investigating scientists should explore the\nchanges in the asteroids' plasma environment",
+    "start": 376.586,
+    "duration": 4.791
+  },
+  {
+    "text": "such as the asteroid's proximity\nto a planet's magnetotail.",
+    "start": 381.402,
+    "duration": 3.201
+  },
+  {
+    "text": "Just as the Earth's magnetotail\nhas been found to create",
+    "start": 384.628,
+    "duration": 2.959
+  },
+  {
+    "text": "regular electrostatic\ndust storms on the Moon.",
+    "start": 387.612,
+    "duration": 3.069
+  },
+  {
+    "text": "With each new discovery, it seems\nthat the behaviors of comets,",
+    "start": 390.706,
+    "duration": 3.713
+  },
+  {
+    "text": "asteroids and all bodies\nwithin our Sun's domain",
+    "start": 394.444,
+    "duration": 3.257
+  },
+  {
+    "text": "provide greater and greater affirmation\nthat we live in an electric universe.",
+    "start": 397.726,
+    "duration": 5.308
+  },
+  {
+    "text": "For continuous updates on Space\nNews from the Electric Universe,",
+    "start": 404.25,
+    "duration": 4.055
+  },
+  {
+    "text": "stay tuned to",
+    "start": 408.33,
+    "duration": 1.258
+  },
+  {
+    "text": "Thunderbolts.info",
+    "start": 409.613,
+    "duration": 2.784
+  }
+]

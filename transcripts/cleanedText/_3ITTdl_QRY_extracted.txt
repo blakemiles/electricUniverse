@@ -1,0 +1,343 @@
+Welcome to Space News 
+from the Electric Universe,
+brought to you by The Thunderbolts
+Project™ at Thunderbolts. info
+In part one of this presentation, our
+guest Andrew Hall began the seventh
+installment of his Eye
+of the Storm series.
+A series devoted to exploring some of the most 
+dramatic and puzzling geological features on planet Earth.
+As Andrew has explained, the lifelike emanations of
+electrified plasma tell us much about mysterious dendritic
+and filamentary geological patterns.
+Nor is it coincidental that plasma
+filaments find a stunning analog in a global
+mythical archetype, that is the sinuous form
+and fiery breath of the cosmic dragon.
+There are several junctions and other
+features along the Colorado and its
+tributaries highlighted in the next image.
+We're going to explain each feature. But first, some
+explanation of what kind of current flows in the earth.
+It's alternating current and direct current 
+both. Alternating current is super-positioned
+on a direct current carrier wave. Voltage difference
+is relative, with no absolute positive or negative.
+This is true of the mineral water, plasma,
+and solid-state matter that conducts electricity
+throughout the system, too. It's important
+to understand because Nature doesn't
+work with the kind of tidy insulated
+circuitry and constant voltage, battery-operated
+predictability that your cell phone uses.
+AC circuits oscillate in voltage, current and
+impedance as frequency changes. Everything is
+dynamic, with feedback and noise adding complexity.
+But Nature manages to make order from the chaos.
+The reason is resonance. The beauty of Nature
+is that it allows malleability in its shape 
+to find the path of least resistance
+and therefore balance itself out, like water filling
+a lake. When balance is reached there is resonance.
+So dragons have rules. They have 
+to play their part in the circuit
+and the type of circuit they are
+part of is what defines the rules.
+The type of circuit the Colorado River follows is
+called an RLC circuit. An RLC circuit combines the
+fundamental elements of resistor, inductor and
+capacitor connected across a voltage supply. Nature
+has to comply with physics. So, logic 
+leads to choosing an RLC circuit model
+since Nature has all three fundamental elements
+in its makeup. There are parallel and series RLC
+circuits, and hybrid combinations of those. In the
+case of the dragon that carved the Colorado River,
+a parallel circuit is required. The full
+explanation for why that is will take us
+into another chapter in Eye of the Storm,
+but we'll start with discussing the
+geometry of junctions. The image below highlights
+nine junctions in green where the Colorado
+joins its major tributaries. You'll 
+note they all have a distinctive shape.
+Power in an RLC is not consumed by
+line resistance alone, but impedance
+which has reactive, vector components.
+The inductor and capacitor elements of
+the circuit have reactance, which opposes
+current flow like a resistor, but occurs
+90 degrees out of phase with resistance.
+Inductive current is at a vector rotated 90 degrees
+counterclockwise to the supply line current.
+Capacitive current is at a 90 degree
+rotation clockwise to the line current. The 
+resultant current is not the arithmetic sum of
+currents, but the vector sum, which produces
+current at a resultant angle from the original
+line current. In a parallel RLC circuit, the 
+voltage across each element remains the same
+and current gets divided. Current 
+shifts vector in a parallel RLC
+circuit, which is what we see: the
+river channel splits in two directions
+at, or near 180 degrees apart. Keep in mind, rivers
+flow downhill, but the dragon travels upstream,
+so a junction is a bifurcation, not a confluence.
+This indicates the currents bifurcated
+because line current went to zero,
+while capacitive and inductive currents--
+the reactive currents-- initiated
+current flow along the new vectors.
+The new vectors are at 180 degrees opposed to
+each other, with the inductive current angle 90
+degrees counter-clockwise from the supply line
+current, and the capacitive current at 90 degrees
+clockwise from the supply line current,
+creating a junction that looks like a “T”.
+This is precisely what happens when a parallel
+RLC circuit achieves resonant frequency.
+Supply line resistance goes up with frequency.
+As resistance goes up, line current is
+restricted in reactive current increases.
+You can visualize reactive current
+as leakage from a perforated pipe, where more
+and more fluid or current escapes through the
+perforations, shooting out perpendicular
+to the direction of supply flow if the
+pressure is allowed to build with resistance
+inside the pipe. Resonant frequency causes line
+resistance to go to infinity. Well, 
+it doesn't actually go to infinity,
+but it goes just as high as it needs to stop the
+line current. When line current goes to zero,
+reactive current shoots out like fluid under
+pressure, perpendicular to the conductor.
+This is because of Kirchhoff's current
+law that says the sum of all currents
+entering a junction is equal to the sum
+of all currents leaving that junction.
+Therefore, when resonant frequency is reached,
+line current cannot overcome resistance
+and goes to zero. All the current then shoots
+out as reactive current at vectors 90 degrees
+from the line current. That is 
+what causes the river to bifurcate
+in a “T” shape. Reactive power is
+commonly considered to be stored power
+in transmission systems. Inductive 
+reactance stores in a magnetic field
+and capacitive reactance stores in an electric
+field. On power grids, we use capacitors and
+generators to provide these fields to capture
+the energy and return it to the system.
+Nature doesn't have ready-made devices to store
+energy, so reactive power simply squirts out
+at new current vectors, it's energy consumed by
+impedance. Of course reactive power is much more
+complex than water in a pipe. The 
+comparison is meant to illustrate
+for those who aren't familiar with the concept.
+This isn't the place to review equations,
+but the basics of RLC circuits and the
+geometry of reactive power can be found in any
+circuit fundamentals textbook.
+There are a couple of other things to
+note about the shapes of these junctions.
+First they rarely make perfect “T” junctions.
+Most reactive discharge appears at less than 90 
+degree rotation from the line voltage, producing a “Y”
+shape instead of a “T”. This is most likely due
+to the DC bias in the current. Resonance causes
+AC line current to go to zero, but not DC.
+So the resultant current vectors are the
+vector sum of the total reactive current
+with the remaining DC line voltage, producing
+a “Y” instead of a “T”. The second thing to note is
+that the inductive current path (the branch rotated
+counterclockwise, or north in 
+the case of the Colorado River)
+continues in that direction more or less straight
+to the next junction, following the north pointing
+magnetic field. The capacitive current does
+something completely different, however, and it does
+this consistently at every “T” junction: it shoots
+south a short distance and abruptly curls east,
+back to the original supply line vector.
+Capacitive current discharges clockwise,
+to the south of the line current in a direction
+90 degrees from the prevailing electric field
+in response to a far-field charge 
+buildup. The far-field charge builds in a
+capacitance response reactance to the charge
+building in the supply line as frequency rises and
+chokes off supply line current. But once it
+discharges, it equalizes charge differentials
+and the far-field voltage it is responding
+to, disappears. The current immediately
+turns back to align with the prevailing
+electric field - the original supply line
+current vector. That is why the southern
+branch always makes an immediate sharp turn
+eastward and realigns, at least
+briefly, with the supply line current.
+This is really important because Nature
+following precisely a form expected from
+electrical discharge and repeating it over
+and over again, is hard to call coincidence.
+If we look at the big picture and we
+draw lines to represent the prevailing
+electric field aligned with the supply line
+current, it's easy to see that the Colorado River
+and its tributaries, or more precisely,
+the dragon that carved the river,
+is a discharge that follows the electric field in a
+stepwise manner, with resonant reactive surges that
+bifurcate into inductive current
+branches that moves the discharge
+north into the strongest voltage lane which aims it
+to the Eye of the Storm in the four corners region
+of Northern Arizona and Utah. The electric field is
+between the accumulating material on the Colorado
+Plateau, and the San Andreas Fault, marked in red
+in the image. Why this is will be discussed in the
+next few chapters, but it's the reason the Colorado
+is a parallel RLC circuit. The capacitive current
+branches all make a brief step to the south
+and turn abruptly back east to realign with
+the prevailing electric field, first 
+producing the Gila tributary, which I mark in A,
+and then the Bill Williams tributary in B 
+and when it reaches the resonant
+RLC discharge at lake Mead, it finally found the
+lane of maximum electric field potential mark C,
+and thereafter shoots east to the Eye of
+the Storm centered at Monument Valley,
+carving some amazing canyons 
+and other features along its way.
+In the next chapter of Eye of the 
+Storm we'll discuss these canyons,
+other types of branching, other features and their
+likely causes. But before we close this chapter, let's
+consider what a dragon looks like.
+In myth, references to dragons can
+be confusing, because sometimes they boil 
+the sea, sometimes they ravage the land and
+sometimes they take wing. The discharge that
+scraped the land in surface conductive arcing,
+also created its own weather and 
+induced following jet stream winds.
+Depending on perspective, one might
+describe a dragon as a submarine,
+serpent, or flying demon. Following jet
+stream winds choked with dust, swirling
+from cyclone to cyclone, had to look like animate
+serpent bodies glowing with internal lightning.
+In its early path it scraped the earth's
+surface, following surface water laid down by
+storm and tsunami. Water is its 
+conductor. Just as in the atmosphere,
+water is the conductor. Like it is in our bodies, 
+and plants and pretty much all of Nature.
+Water is dipolar, and in the field of a
+strong electric potential, the polarity
+of its molecules align coherently and facilitate
+current. It is liquid, so flows through pores and
+rocks and soil, providing electrical continuity
+across vast stretches of Earth. Earth's crust
+is saturated with water, even deserts, but for
+the very shallow top layer of sand and mountain.
+Water provides the “surface conductance”
+for the ground-to-ground discharge.
+So that's another rule, the dragon to follow 
+water. But it doesn't always follow surface
+water. The storm that drew forth the Colorado,
+the storm over the Colorado plateau was
+laying down layer upon layer of
+dry sediments, burying lakes,
+inland seas in their drainage. The dragon
+burrowed into the ground beneath these
+dry deposits and followed the water like a tree
+root. All along its jagged path, on either side
+the land was pummeled. A dense magnetic field
+surrounded the current as it pulsed and sparked.
+And this drew lightning from the raging plasma
+clouds above, inducing a following storm system of
+winds, whirlwinds, and mesocyclones that
+conflicted with the ambient winds, creating
+shockwaves all around. On the ground,
+whirlwinds at the maw of the beast sucked tons
+of billowing dust to wrap around 
+the plasma at the core of the arc,
+filling its body within the confines of a
+magnetic sheath. It formed a lion's mane or
+feathered appearance at its head as it drew
+in streamers of dust. The arc advanced in
+explosive, staccato bangs, jumping from node to
+node, connecting dots across the landscape. But
+heavy ionic matter moved more slowly,
+being either pulled with, or drawn
+against the current, as dictated by
+charge polarity. These horizontal
+whirlwinds might have looked like ultra-
+high-speed trains racing across the land.
+It likely wore an inner vest of elemental
+conductors, and molten silica around a super-heated
+plasma core. An outer coat of ragged
+dust, drawn to its maw as it advanced,
+wrapped tight to its body by ferrous
+material caught in the magnetic field.
+Shock waves patterned this cloak into
+diamond-shaped scales that pulsed with light
+and X-rays. It spit lightning and flames in 
+70-mile arcs, while shockwaves boomed
+from its flanks. Sounds just like a dragon,
+ huh? But why take my word for it?
+Listen to an eyewitness account:
+“I will not conceal his limbs,
+his mighty power as graceful proportions.
+Who can remove his outer coat? Who can
+approach him with a double bridle?
+Who can open the doors of his face, with
+his terrible teeth all around? His rows of scales
+are his pride; shut up tightly as with a seal;
+one is so near another that no air can come
+between them. They are joined one to another. They
+stick together and cannot be parted.
+His sneezings flash forth light;
+and his eyes are like the eyelids of the morning.
+Out of his mouth go burning lights;
+sparks of fire shoot out. Smoke goes out of his
+nostrils; as from a boiling pot and burning rushes.
+His breath kindles coals, and a 
+flame goes out of his mouth.
+His undersides are like sharp potshards.
+He spreads pointed marks in the mire,
+he makes the deep boil like a pot. He
+makes the sea like a pot of ointment.
+He leaves a shining wake behind him;
+one would think the deep had white hair.
+On Earth there is nothing like him, which is made
+without fear. He beholds everything high. He is king
+over all the children of pride. That's 
+Job 41 in the bible folks. And it's not
+talking about a fish or a whale.
+Leviathan in the bible is a dragon, much
+like the other demigods from the 
+sea in every ancient tradition.
+So I committed to Thunderbolts ten
+chapters for the Eye of the Storm series.
+This is chapter Seven. Chapter Eight will
+discuss more about dragons and the rules
+they live by. Chapter Nine will delve under
+the crust of the earth to see what's there,
+and Chapter Ten will summarize 
+all that we have discussed
+and conclude this examination of the Colorado
+Plateau. In the end, if you read and comprehend
+all ten chapters and study up on circuit theory,
+you will have the tool, wisdom that is, to
+evaluate your part of the world on your 
+own. Come join the club. Thank you.
+[Music]

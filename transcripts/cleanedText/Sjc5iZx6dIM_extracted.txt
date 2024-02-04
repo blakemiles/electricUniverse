@@ -1,0 +1,317 @@
+[Music]
+In June of 2022, I offered an explanation of why dark
+matter doesn't exist. That line of reasoning came directly
+from an application of the properties of the Electric Sun 
+model. The mainstream, accepted model has no way
+to describe or explain dark matter. I 
+presented that discussion in my latest
+book “The Interconnected Cosmos”, and also in
+there are explanations of several other phenomena
+that can only be understood by referencing
+the properties of the Electric Sun model.
+One of these is the so-called solar wind.
+Now, a gigantic flow of electrically
+charged particles is more accurately called an electric
+current. But astronomers had already completely
+convinced themselves that there was no
+possibility of separated charges moving
+through interplanetary space, when in 1962 the Mariner-2
+space probe that was on its way to Venus, detected it.
+Astronomers didn't know what to make of this.
+Ignoring the earlier 1908 prediction by
+Kristian Birkeland that electric corpuscles
+such as this would indeed be discovered,
+Eugene Parker named the flow the solar
+wind, effectively robbing from Birkeland the
+recognition he so richly deserved for his now validated
+prediction. Also naming it a wind, successfully
+camouflaged its true electrical nature. Anyway, later the Ulysses Solar Probe
+discovered that this wind came in two
+varieties, an irregular, relatively slow type of
+flow with speeds of up to 400 kilometers
+per second - that's not slow - but there's
+also a fast one with speeds up to twice
+that, 800 kilometers per second. So there
+are two different types, two different
+speeds of these two different solar winds.
+The slow one typically comes from the Sun's
+equatorially-located so-called ’streamer belt’.
+The fast type comes from the relatively
+peaceful surface that we see when we
+look down through coronal holes at the
+normal surface of the smooth photosphere.
+In my book, I point out “...that some
+skeptics have made much of the idea that
+electrons are found in both the fast and
+slow solar winds along with positive ions.
+Yes. That's true. But that doesn't mean
+that the net flow of charge is zero. In a
+plasma, electrons and ions are separated.
+If they weren't, we wouldn't have a
+plasma, we would have a simple neutral gas
+flow.” But in interplanetary space they are
+separated; negative electrons are generally
+attracted toward the positively charged Sun,
+and positive ions are repelled by that Sun.
+These forces are generally relatively weak.
+An interplanetary electric field of only a
+few volts or even microvolts per kilometer
+is sufficient - given that it extends 
+over millions of kilometers to accelerate
+those solar wind ions to speeds of 400 kilometers
+per second and 800 kilometers per second.
+But consider what occurs when an
+electron, moving in toward the Sun
+approaches an ion that is moving outward away 
+from the Sun. As the ion and the electron get closer
+to each other, the attractive force between them
+increases. The strength of the attractive force
+applied to the positive ion is exactly
+equal to the force applied to the electron.
+These are purely attractive electrical forces and
+they're equal because both particles have exactly the
+same amount of electric charge
+and they are of opposite sign.
+But the ion has about 1800 times the mass of the 
+electron. It's sort of like a tug-of-war between a
+mouse running in one direction and an
+elephant going in the other direction.
+They're both pulling with the same amount of force on
+the stretched spring between them. But the elephant
+- the plus ion - continues merely on his trajectory 
+carrying the poor mouse - the electron -
+roughly in his direction. The ion does not capture the
+electron, because recombination would quench the plasma.
+So the electron often ends up being dragged along by
+the ion but wildly oscillating around the ion at what is
+called the “plasma frequency.” So how does the Electric
+Sun model explain the two different solar winds?
+The essence of the Electric Sun is shown in this image.
+In this diagram the horizontal axis of each plot
+is the radial distance outward from a point
+just below the Sun's photospheric surface.
+That surface is opaque; we can't see down through it.
+That's why some people think that is a surface.
+The top plot shows how the voltage
+changes as we go out from the surface.
+It isn't really a surface, it's a layer. But 
+it's analogous to what we would get if
+we plotted a cross section of the dam at
+the end of a reservoir that holds back
+water. The middle plot shows three different 
+charge layers that create that voltage distribution.
+They are three very thin concentric
+spherical shells that surround the Sun.
+The height of those triangular regions that 
+you see, shows the force per unit charge
+that a positive ion would experience at those
+various radial distances. A positive value of that
+is an outward force. So, any 
+ion that can get to a point in the
+chromosphere (this would be between points b 
+and d), will fall down the voltage hill just like
+a ball rolls down a hill. Dropping down the
+voltage hill makes the ion go faster and faster.
+In other words, it accelerates.
+Its velocity is plotted in the bottom curve.
+This next image shows what happens
+normally, when the level of the most
+energetic ions within the body of the Sun have just
+enough energy to leak over the top of the voltage dam.
+The purple is the water and you can 
+see it just being a little higher than the
+photospheric tuft and it's leaking over the top 
+there. If the effective height of the dam can
+be varied, the volume - that's called the density
+flow; how much stuff is flowing there - can be varied.
+This flow, as it passes out of the image
+toward the lower right, experiences turbulence.
+This is measured as the temperature of
+the ion flow; this creates the anomalous
+extremely high temperature of the lower corona
+that begins here something like two million Kelvin.
+Clearly our dam on the Sun is electrical; not
+made of steel and cement that holds back a fluid.
+It's made from what astronomers call photospheric
+granules. But plasma scientists call them anode tufts.
+The flow, as it moves off to the right is called the
+fast solar wind. Its velocity is due solely to the height
+of the dam - the height of the voltage
+drop through which the ions fall.
+Its density, that is how many amperes it contains
+or how many gallons per minute are flowing,
+is controlled by the height of the
+floodgate, the little floodgate at the
+top and a very minor movement of that floodgate
+can really change the amount of the flow.
+The solar wind actually stopped for
+a day or two a few years ago. Why?
+Did somebody raise the floodgate and cut the water flow?
+Needless to say the Standard Model has
+no explanation for this phenomenon, but the Electric
+Sun does. The higher the face of the dam, the
+greater the velocity of the water when it
+gets to the bottom. It's just that simple.
+But what happens if in some region the dam is 
+taken away? You visualize somebody blows a hole in
+the dam, or the dike breaks. Then water,
+or ions in our case, would flood out from the reservoir.
+The density of the flood would be greater,
+more gallons per second, more amperes. But
+the velocity would be lower because the
+stuff would be falling from a lower height.
+Not over the top of the dam wall which
+is way up high. The lower voltage, in the
+real case a lower height from the water analogy.
+The real explanation is obvious from this diagram.
+This is the same cross section we saw earlier, but a
+sunspot is a place where there is no photospheric tuft to
+create a dam. So, if you remove the black
+line, all you're left with is the interior of
+the Sun. There is at voltage V1 on the vertical axis
+and the the ions - you can see the red curve - just
+flood outward from that out toward the
+lower corona. They're not restrained in
+any way as the path of the ions coming
+through the granules, the ones on
+the top, they have to get up over that higher voltage V2.
+And then they fall higher - it's steeper - drop down
+to where they created some turbulence.
+But anyway a Sunspot is a place where
+there are no photospheric tufts to
+create the dam and the Sun's internal
+energy, being that voltage V1 and the
+energy level of the dam itself is V2, so
+in a Sunspot the internal ions are
+unrestrained and are able to get out of
+the Sun by just falling from level V1.
+So they aren't going as fast as those
+that fall all the way down from level V2.
+And this is how the slow solar wind is
+created from sunspots. The 
+voluminous but relatively slow
+moving ions of the slow solar wind
+flow easily up and out of a sunspot.
+So we see here the same region of the Sun in all
+three images. The top picture is the photosphere which
+is the innermost layer that is closest
+to the center of the Sun, the one that's
+at lowest solar altitude, if you want to
+think of it that way, and it obviously
+includes a beautiful big sunspot group. The middle
+picture is taken at a slightly higher level than
+the one at the top, and it's of the chromo-
+sphere. In reality that's of course above
+the photosphere. And the bottom picture is 
+higher still in altitude, and it's a picture of the
+lower part of the corona which extends
+outward from that point out to those
+several radiuses of the values of the 
+Sun. So the layer that's at the lowest
+altitude on the Sun, the photosphere
+at the top in this image, and the layer
+that's located at the highest solar altitude, the 
+lower corona, appears in the bottom of the image.
+You can see the effect of ions that pour
+up from the sunspots. They create a high
+level of turbulence when they enter the
+chromosphere and even more when they hit
+the lower corona, so you can see they're white.
+The photosphere is covered by granulation.
+It consists of closely packed plasma tufts.
+The chromosphere is a layer that begins
+about 250 miles above the photosphere
+and it's about a thousand miles thick.
+The lower corona begins just above the
+chromosphere and it extends outward a
+distance of several solar radii. The 
+dark region at the bottom left of
+this image is a coronal hole. It's simply
+an area in the Sun's corona that's
+located above a nice normal quiescent
+photospheric region that is devoid of
+any sunspots or other irregularities.
+These holes are associated with quiet Sun.
+It may seem to an inexperienced person
+and to some scaremongers on the internet
+that coronal holes are something to be
+feared or worried about. They aren't.
+They're just not disturbed regions
+from which coronal mass ejections
+or any other violent ejections of matter
+usually emanate. They're peaceful regions
+more than any other area such as
+the streamer belt. It's a normal
+region on the Sun where the photosphere
+has a smooth appearance and tufting is
+relatively uniform and undisturbed. And 
+that's where the fast solar wind comes from.
+Please summarize the important
+properties of the so-called solar wind.
+First, there's a factor of two difference
+between the maximum velocities of the two winds.
+Secondly, the density of the slow wind is
+well over that of the fast wind. The amount of
+matter, the amount of stuff, in the slow
+wind is 85 percent greater than in the
+more controlled fast wind. Slow 
+wind just pours out of an open hole,
+so that's why there's more material in it. Thirdly, 
+temperature is a measure of the random
+excitement motion of the particles in a 
+plasma. In the fast wind this level is six
+times greater than in the slow wind.
+In the fast wind ions collide forcefully
+with the bottom of their great fall.
+Slow wind ions easily escape without
+falling through a great voltage drop, so they're
+not as turbulent as the as the fast solar wind.
+Fourth, the random motions of electrons in the
+two winds are relatively in the same order of
+magnitude, the slow wind electrons being only about
+30 percent more excited than those in the fast wind.
+But this observation was made at roughly Earth's distance
+from the Sun. If you realize that the electrons in
+both winds at that point are coming in toward the
+Sun from the outer regions of the solar system.
+And so they have not yet been through the mixing effects,
+the scrambling effects of the tuft voltage drops just
+above the photosphere. That lies in
+their future when they get closer in.
+Fifth, in the Electric Sun model the
+turbulence of the fast wind ions is
+caused by their falling through this high 
+voltage drop. And that explains the extreme
+temperature of the lower corona which has
+baffled astronomers for decades. Sixth and final,
+the Electric Sun model explains the
+fluctuations in the volume, that is to
+say the quantity of material, in the fast solar wind
+and how it once was cut off for more than a day.
+Now, none of these six observed facts are
+explained by the Standard Model of cosmology.
+They all result from electrical forces that the ions
+experience. They're prime pieces of evidence of the
+validity of the Electric Sun model which
+is a major component of the overall
+Electric Universe hypothesis or the
+Electric Universe model of cosmology.
+In the Standard Model their eyes are wide shut to
+the obvious presence of electricity in the cosmos.
+But those that use common sense 
+and think for themselves can see the
+magnificence of our truly Electric Universe.
+How long do you think it'll be before
+astronomers open their eyes to what
+is actually going on in the cosmos?
+Is conventional science presently living
+in a reincarnation of the middle ages,
+where there was a privileged class,
+consisting of the king, the nobles and the clergy
+who held all the power and the general
+population believed whatever nobility told them?
+And the ascendance of real empirical science
+would not emerge for many centuries to come,
+until enough people caught on
+that the emperor had no clothes.
+[Music]

@@ -1,0 +1,502 @@
+[
+  {
+    "text": "Welcome to Space News from the Electric Universe, brought\nto you by The Thunderbolts Project™ at Thunderbolts.info",
+    "start": 6.77,
+    "duration": 6.9
+  },
+  {
+    "text": "A new scientific report provides\nstunning confirmation of a foundational",
+    "start": 13.67,
+    "duration": 9.79
+  },
+  {
+    "text": "prediction of the Electric Universe\nhypothesis. For many years, one of the",
+    "start": 23.46,
+    "duration": 4.97
+  },
+  {
+    "text": "great mysteries in planetary science\nhas been the heating in the upper",
+    "start": 28.43,
+    "duration": 3.64
+  },
+  {
+    "text": "atmospheres of gas giant planets. The\napparent anomaly cannot be explained due",
+    "start": 32.07,
+    "duration": 5.88
+  },
+  {
+    "text": "to simple solar heating, given the\nplanet's tremendous distance from the",
+    "start": 37.95,
+    "duration": 4.01
+  },
+  {
+    "text": "Sun. Today, a team of scientists who have\nstudied data from NASA's Cassini mission",
+    "start": 41.96,
+    "duration": 5.59
+  },
+  {
+    "text": "say they have an answer. The team\ncomposed the most comprehensive mapping",
+    "start": 47.55,
+    "duration": 4.5
+  },
+  {
+    "text": "to date of both temperature and density\nin the upper atmosphere of the gas giant",
+    "start": 52.05,
+    "duration": 4.98
+  },
+  {
+    "text": "Saturn. Based on their analysis, they've\nconcluded that rather than solar heating,",
+    "start": 57.03,
+    "duration": 5.52
+  },
+  {
+    "text": "the tell-tale clue to the anomalous\ntemperatures is Saturn's aurorae, which are",
+    "start": 62.55,
+    "duration": 4.59
+  },
+  {
+    "text": "induced by electric currents. A phys.org\nreport summarizes the findings as",
+    "start": 67.14,
+    "duration": 5.37
+  },
+  {
+    "text": "follows. “The upper layers in the\natmospheres of gas giants Saturn, Jupiter",
+    "start": 72.51,
+    "duration": 5.67
+  },
+  {
+    "text": "Uranus and Neptune, are hot,\njust like Earth's. But unlike Earth, the",
+    "start": 78.18,
+    "duration": 5.54
+  },
+  {
+    "text": "Sun is too far from these outer planets\nto account for the high temperatures.",
+    "start": 83.72,
+    "duration": 3.91
+  },
+  {
+    "text": "Their heat source has been one of the\ngreat mysteries of planetary science.”",
+    "start": 87.63,
+    "duration": 5.46
+  },
+  {
+    "text": "The report then explains the scientists’\nexplanation. “Electric currents, triggered",
+    "start": 93.09,
+    "duration": 5.09
+  },
+  {
+    "text": "by interactions between solar winds and\ncharged particles from Saturn's moons,",
+    "start": 98.18,
+    "duration": 4.32
+  },
+  {
+    "text": "spark the auroras and heat the upper\natmosphere.” While this analysis may be a",
+    "start": 102.5,
+    "duration": 5.89
+  },
+  {
+    "text": "step in the right direction for\nplanetary scientists, it is also another",
+    "start": 108.39,
+    "duration": 3.86
+  },
+  {
+    "text": "instance when the theoretical\npredictions of the Electric Universe",
+    "start": 112.25,
+    "duration": 3.0
+  },
+  {
+    "text": "have been far ahead of the curve over\ninstitutionalized science. On the",
+    "start": 115.25,
+    "duration": 5.25
+  },
+  {
+    "text": "question of atmospheric and temperature\nanomalies at Saturn, in 2005 Thunderbolts",
+    "start": 120.5,
+    "duration": 5.5
+  },
+  {
+    "text": "chief science adviser, physicist Wal\nThornhill offered a prediction that",
+    "start": 126.0,
+    "duration": 4.11
+  },
+  {
+    "text": "could only seem preposterous\nfrom conventional reasoning.",
+    "start": 130.11,
+    "duration": 3.3
+  },
+  {
+    "text": "On his website, Thornhill analyzed the\nmysterious hot spot in the vortex at",
+    "start": 133.41,
+    "duration": 4.86
+  },
+  {
+    "text": "Saturn’s South Pole. The hot spot\npuzzled planetary scientists because, as",
+    "start": 138.27,
+    "duration": 5.25
+  },
+  {
+    "text": "described by the Keck Observatory “...both\nthe distinct boundary of a warm polar",
+    "start": 143.52,
+    "duration": 4.65
+  },
+  {
+    "text": "vortex some 30 degrees latitude from the\nsouthern pole and a very hot ‘tip’ right",
+    "start": 148.17,
+    "duration": 5.07
+  },
+  {
+    "text": "at the pole, were completely unexpected.”\nThornhill wrote of this feature “It's",
+    "start": 153.24,
+    "duration": 5.55
+  },
+  {
+    "text": "compactness is due to the\nelectromagnetic pinch effect where it",
+    "start": 158.79,
+    "duration": 3.45
+  },
+  {
+    "text": "enters Saturn's atmosphere.” He then\nstated “The Electric Universe also",
+    "start": 162.24,
+    "duration": 4.8
+  },
+  {
+    "text": "predicts, experimentum crucis, that both\npoles should be hot, not one hot and the",
+    "start": 167.04,
+    "duration": 6.12
+  },
+  {
+    "text": "other cold.” In 2008, the Cassini\nspacecraft confirmed the astonishing",
+    "start": 173.16,
+    "duration": 5.37
+  },
+  {
+    "text": "prediction. Astonishing, because the\nfreezing cold North Pole had been",
+    "start": 178.53,
+    "duration": 4.47
+  },
+  {
+    "text": "deprived of sunlight for more than 12\nyears. Thornhill explained, “The polar",
+    "start": 183.0,
+    "duration": 5.49
+  },
+  {
+    "text": "hotspot and long-lived hexagonal feature\nresult from a continuous electric",
+    "start": 188.49,
+    "duration": 4.89
+  },
+  {
+    "text": "current flowing from the Sun into the\npole of Saturn.” in stark contrast to the",
+    "start": 193.38,
+    "duration": 5.22
+  },
+  {
+    "text": "conventional view of the Sun as an\nisolated body, powered by internal",
+    "start": 198.6,
+    "duration": 3.9
+  },
+  {
+    "text": "thermonuclear reactions, the Electric\nUniverse proposes that the Sun is",
+    "start": 202.5,
+    "duration": 4.47
+  },
+  {
+    "text": "primarily an electrical phenomenon\nat the focus of a galactic “glow",
+    "start": 206.97,
+    "duration": 4.41
+  },
+  {
+    "text": "discharge”. In this view, electric currents\nflowing from the Sun to planets has",
+    "start": 211.38,
+    "duration": 5.25
+  },
+  {
+    "text": "implications for many atmospheric\nphenomena, including the tremendous winds,",
+    "start": 216.63,
+    "duration": 4.38
+  },
+  {
+    "text": "as well as X-ray and temperature\nanomalies of gas giant planets, and also",
+    "start": 221.01,
+    "duration": 5.22
+  },
+  {
+    "text": "jet streams and weather patterns on\nEarth. While scientists today",
+    "start": 226.23,
+    "duration": 4.25
+  },
+  {
+    "text": "increasingly recognize the role of\nelectric currents in planetary science,",
+    "start": 230.48,
+    "duration": 3.64
+  },
+  {
+    "text": "they still view the electric currents as\nbyproducts of localized phenomena in",
+    "start": 234.12,
+    "duration": 4.92
+  },
+  {
+    "text": "closed systems. And yet, one of the\nclearest evidences of external electric",
+    "start": 239.04,
+    "duration": 4.65
+  },
+  {
+    "text": "currents driving extreme atmospheric\nphenomena, can be found with the",
+    "start": 243.69,
+    "duration": 4.23
+  },
+  {
+    "text": "aforementioned hexagon which was\ndiscovered at Saturn's North Pole in the",
+    "start": 247.92,
+    "duration": 3.72
+  },
+  {
+    "text": "1980s. For a number of years, planetary\nscientists have favored the explanation",
+    "start": 251.64,
+    "duration": 5.46
+  },
+  {
+    "text": "that fluid experiments resolve the\nhexagonal feature. However, as we reported",
+    "start": 257.1,
+    "duration": 5.22
+  },
+  {
+    "text": "in 2018, recent observations\nhave pointed definitively",
+    "start": 262.32,
+    "duration": 4.29
+  },
+  {
+    "text": "away from the fluid dynamics explanation.\nUsing images obtained by NASA's Cassini",
+    "start": 266.61,
+    "duration": 5.04
+  },
+  {
+    "text": "spacecraft a team of scientists observed\nan unexpected towering vortex, far above",
+    "start": 271.65,
+    "duration": 5.72
+  },
+  {
+    "text": "the famous hexagon. A Science Alert\nreport on the observation states, “There's",
+    "start": 277.37,
+    "duration": 5.28
+  },
+  {
+    "text": "something strange over\nSaturn's North Pole.",
+    "start": 282.65,
+    "duration": 2.41
+  },
+  {
+    "text": "A tremendous structure towering high\nabove the clouds indicates that the",
+    "start": 285.06,
+    "duration": 4.22
+  },
+  {
+    "text": "planet’s peculiar hexagonal formation is\nmuch, much bigger than was initially",
+    "start": 289.28,
+    "duration": 4.75
+  },
+  {
+    "text": "apparent.” One of the investigators said\nof the discovery, “As the polar vortex",
+    "start": 294.03,
+    "duration": 4.74
+  },
+  {
+    "text": "became more and more visible, we noticed\nit had hexagonal edges, and realized that",
+    "start": 298.77,
+    "duration": 5.13
+  },
+  {
+    "text": "we were seeing the pre-existing hexagon\nat much higher altitudes than previously",
+    "start": 303.9,
+    "duration": 4.31
+  },
+  {
+    "text": "thought.” The problematic nature of this\ndiscovery is noted in the Science Alert",
+    "start": 308.21,
+    "duration": 4.69
+  },
+  {
+    "text": "article which states, “...since wind\nconditions change dramatically with",
+    "start": 312.9,
+    "duration": 4.31
+  },
+  {
+    "text": "altitude, the fact that the hexagon shape\npersists so much higher than the cloud",
+    "start": 317.21,
+    "duration": 4.75
+  },
+  {
+    "text": "tops, is a baffling conundrum.” In other\nwords, the persistence of the hexagonal",
+    "start": 321.96,
+    "duration": 5.4
+  },
+  {
+    "text": "feature hundreds of kilometers above\nthe clouds, is the clearest possible",
+    "start": 327.36,
+    "duration": 4.35
+  },
+  {
+    "text": "indication it is being driven by energy\nfrom above and cannot be explained by",
+    "start": 331.71,
+    "duration": 4.76
+  },
+  {
+    "text": "simple fluid dynamics. The Electric\nUniverse explanation, as noted earlier by",
+    "start": 336.47,
+    "duration": 5.53
+  },
+  {
+    "text": "Thornhill, points to decades of\nexperimental research by plasma",
+    "start": 342.0,
+    "duration": 3.5
+  },
+  {
+    "text": "scientists which reveals the importance\nof hexagons seen throughout nature.",
+    "start": 345.5,
+    "duration": 4.83
+  },
+  {
+    "text": "Consider the side-by-side images on your\nscreen. On the left are vortices of an",
+    "start": 350.33,
+    "duration": 5.5
+  },
+  {
+    "text": "electron beam, etched onto a carbon\nwitness plate. On the right are vortices",
+    "start": 355.83,
+    "duration": 4.73
+  },
+  {
+    "text": "of an electron beam, photographed on a\nfluorescent screen. The hexagonal form",
+    "start": 360.56,
+    "duration": 5.02
+  },
+  {
+    "text": "is a distinct feature of a\nwell-documented plasma phenomenon called",
+    "start": 365.58,
+    "duration": 3.57
+  },
+  {
+    "text": "the “diocotron instability.” And the\nphenomenon observed in the laboratory, is",
+    "start": 369.15,
+    "duration": 4.71
+  },
+  {
+    "text": "remarkably scalable. As explained by Dr.\nAnthony Peratt in Physics of the Plasma",
+    "start": 373.86,
+    "duration": 4.97
+  },
+  {
+    "text": "Universe, “The vortices of the diocotron\ninstability are found to occur over 12",
+    "start": 378.83,
+    "duration": 5.44
+  },
+  {
+    "text": "orders of magnitude in beam current.\nThis mechanism was first introduced to",
+    "start": 384.27,
+    "duration": 4.82
+  },
+  {
+    "text": "explain auroral curtains by Hannes\nAlfvén.” As we've also discussed ad",
+    "start": 389.09,
+    "duration": 4.96
+  },
+  {
+    "text": "nauseam on this series,\nanother signature of the external Birkeland",
+    "start": 394.05,
+    "duration": 3.83
+  },
+  {
+    "text": "currents that drive atmospheric\nphenomena is the counter-rotation seen",
+    "start": 397.88,
+    "duration": 4.41
+  },
+  {
+    "text": "at the poles of Saturn, Jupiter, Neptune,\nand in the auroral displays on our own",
+    "start": 402.29,
+    "duration": 5.97
+  },
+  {
+    "text": "planet. it was in 2015 that Dr. Donald\nScott published his mathematical",
+    "start": 408.26,
+    "duration": 5.04
+  },
+  {
+    "text": "modeling of the structure of a Birkeland\ncurrent which is identified visually as",
+    "start": 413.3,
+    "duration": 4.34
+  },
+  {
+    "text": "counter-rotating cylindrical shells\nAgain, today more than ever,",
+    "start": 417.64,
+    "duration": 4.81
+  },
+  {
+    "text": "mainstream science is exploring the\ncritical role of electric currents in",
+    "start": 422.45,
+    "duration": 3.9
+  },
+  {
+    "text": "atmospheric science. Consider the recent\narticle published by the American",
+    "start": 426.35,
+    "duration": 4.89
+  },
+  {
+    "text": "Geophysical Union's Earth and Space\nScience News entitled “Electric Currents",
+    "start": 431.24,
+    "duration": 4.86
+  },
+  {
+    "text": "in Outer Space Run the Show” which is a\nsummary of the 2018 book: Electric",
+    "start": 436.1,
+    "duration": 5.01
+  },
+  {
+    "text": "Currents in Geospace and Beyond.\nThe article bluntly states “It is now",
+    "start": 441.11,
+    "duration": 5.46
+  },
+  {
+    "text": "understood that outer space is\nfundamentally electrical in nature.”",
+    "start": 446.57,
+    "duration": 4.64
+  },
+  {
+    "text": "However, while the aforementioned\nbook does explore in detail the role of",
+    "start": 451.21,
+    "duration": 4.24
+  },
+  {
+    "text": "electric currents on and near the Earth,\nit does not take the theoretical leap",
+    "start": 455.45,
+    "duration": 4.2
+  },
+  {
+    "text": "proposed by the Electric Universe, which\nis that the Sun is itself an electrical",
+    "start": 459.65,
+    "duration": 4.68
+  },
+  {
+    "text": "phenomenon with a direct electromagnetic\nconnection to the earth. And yet, with",
+    "start": 464.33,
+    "duration": 5.04
+  },
+  {
+    "text": "each passing year, new discoveries render\nsmaller and smaller the theoretical leap",
+    "start": 469.37,
+    "duration": 5.13
+  },
+  {
+    "text": "required by mainstream science to reach\nthis conclusion. Electric currents,",
+    "start": 474.5,
+    "duration": 5.4
+  },
+  {
+    "text": "driving atmospheric phenomena, is just\none of countless telltale signs that",
+    "start": 479.9,
+    "duration": 4.95
+  },
+  {
+    "text": "we live in an Electric Universe. [Music]",
+    "start": 484.85,
+    "duration": 19.15
+  }
+]

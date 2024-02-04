@@ -1,0 +1,172 @@
+[Music]
+Pulsars are mysterious objects that 
+emit electromagnetic radiation in a
+clockwork-like fashion. The period of
+this pulsing can be extremely short.
+Back in 1967, Jocelyn Bell Burnell, using
+a newly commissioned radio telescope,
+discovered a very strange signal.
+It was initially dismissed as radio
+interference by her supervisor. But
+continued observation showed that it
+appeared at the same declination and
+right ascension, which ruled out a
+terrestrial source of interference. They 
+eventually were able to resolve the signal
+as a series of pulses, evenly 
+spaced every 1.32 seconds.
+At the time, no astronomical object of
+that nature had ever been observed.
+Speculation as to the origin of the
+signal started to grow, with some even
+suggesting that the signal might be beamed
+to Earth from extraterrestrial intelligence.
+In December of the same year she managed
+to discover a second pulsar and ruled out
+the idea of it being a signal from ETs.
+In 1968 Thomas Gould suggested that
+pulsars were highly magnetized,
+rapidly rotating neutron stars.
+This model required a high energy plasma
+beam to be emitted from the poles of a
+spinning neutron star, and accelerated
+along the star's dipole magnetic field,
+emitting radiation as pulses towards the observer.
+Like the sweeping lights from a lighthouse.
+Since then many more pulsars have been
+observed, and the shortest pulse ever
+detected was a staggering 1.4 milliseconds.
+Where does the neutron star come from
+and why does it rotate so fast?
+The mainstream idea is that these
+objects are the remnants of a supernova
+explosion. The central region of a star
+collapses, crushing together every
+proton and electron into a neutron.
+The dense core of the star is all that
+is left. The angular momentum of the
+original star is conserved, meaning the much
+smaller object has to rotate at an incredible speed.
+The only way for those beams to be produced is
+in the presence of a very strong magnetic field.
+But all we have are neutrons.
+The origin of the critically strong
+magnetic field required for their model is therefore
+unclear. To add to these problems, a new pulsar
+has been discovered, which seems to rewrite a lot of
+these ideas. The pulsar had one of the slowest pulse
+rates ever seen, at 76 seconds. Most are 
+between a few seconds down to milliseconds.
+Apart from the unexpected pulse rate,
+it also seems to reside in what scientists
+call the “neutron star graveyard.”
+This is a region of space where they
+don't expect to detect any radio emissions, 
+at all. This is because they theorize that
+neutron stars here, are at the end of
+their life cycle and therefore not active.
+It is also unique, as it appears to produce at
+least seven distinctly different pulse shapes,
+whereas most neutron stars don't exhibit much 
+variety. This makes it hard for them to explain,
+using their model of a rotating beam.
+One particular type of pulse shows a
+strong quasi-periodic structure. This suggests that
+a type of oscillation is driving the radio emissions.
+This is a large clue to understanding
+what causes the pulses in the pulsar.
+Anthony Peratt and Kevin Healy have
+proposed a completely different mechanism,
+which would not require a fast spinning
+plasma beam, but instead, utilize the
+known properties of transmission lines.
+This is similar to the way planetary
+magnetospheres are described. If the 
+star is surrounded by a disk of plasma,
+then it is likely that it is electro-
+magnetically coupled to the
+magnetosphere via field-aligned currents.
+In a lossless line with perfect end-conductors,
+the pulses propagate back and
+forth forever. In reality, the kinetic
+energy of the relativistic current
+flowing along the guide’s magnetic field
+is lost in synchrotron radiation. Any 
+disturbance on a transmission line,
+such as an arc discharge or an
+interruption of steady-state conditions,
+results in initiation of travelling waves,
+which propagate towards the ends of the line,
+where they may be reflected and modified,
+attenuated and distorted by any losses
+until they die out. Field-aligned current pulses
+propagate at high latitudes along the dipole
+magnetic field. Two regions of high density
+plasma terminate this magnetospheric
+transmission line: plasma near the 
+pulsar surface, and plasma at the disk.
+The transmission line may also contain
+a double layer. This structure forms a
+toroid and the relativistic current pulses
+propagate within the toroid waveguide.
+The pulsar's magnetospheric transmission
+line can be modeled by two current-
+conducting boundaries that represent the
+inward and outward field-aligned currents.
+The line is terminated by two conductors -
+the pulsar surface and the disc. A voltage
+pulse is launched from the pulsar surface.
+This ends up being reflected back, which
+changes its polarity. In both simulations and
+experiments carried out by Peratt and Healy,
+they saw both single and double pulse profiles.
+When they included the effects of plasma
+flowing between the current boundaries,
+some important modifications were observed.
+As the electric field propagates along the line,
+electrons accelerate away from the boundary.
+Due to the intense magnetic field
+associated with the current pulse, they
+are constrained to flow along the ExB
+drift, rather than across the line.
+This means that the entire line acts as a
+continuous source of low level radiation and noise.
+All pulsars show this background radiation.
+Whether the radiated pulse has a single
+or double pulse profile, will depend on the extent
+of the radiation region at the pulsar surface.
+If the radiating current is confined to
+a shallow region instead of an extended
+region, a single pulse profile
+will replace the double profile.
+This effect is actually frequency dependent.
+Lower frequencies are associated with
+fields that are extended in the emission region
+and are more likely to show pulse structure.
+The source of the radiation energy is
+not contained within the pulsar, but may
+instead derive from either the pulsar's
+interaction with its environment, or by
+energy delivered by an external circuit.
+This means that pulsars do not have to
+be composed of neutrons. They are 
+simply no different than a normal star.
+What has changed is its electrical 
+environment causing a resonance in
+the circuit, which creates the pulses.
+In the distant past, this star might have
+suffered a catastrophic short circuit.
+So violent is the discharge, that it is
+not only creating heavy elements in the process,
+but also explodes the entire surface double layer.
+With nothing to hold back the charges,
+the majority of the material that made
+up the star races outwards in an explosion.
+In some cases, a remnant remains after this process.
+The electrical power input continues 
+to drive the magnetospheric circuit to
+produce the characteristic pulsar emissions. No 
+neutrons, no spinning beams, simply a star that has
+changed its electrical environment, causing a
+resonance in its circuit which creates the pulses.
+[Music]

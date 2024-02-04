@@ -1,0 +1,742 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe,",
+    "start": 7.267,
+    "duration": 2.784
+  },
+  {
+    "text": "brought to you by The\nThunderbolts Project™",
+    "start": 10.076,
+    "duration": 2.348
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 12.449,
+    "duration": 2.413
+  },
+  {
+    "text": "A new investigation into the wind\npatterns in Earth's upper atmosphere may",
+    "start": 18.44,
+    "duration": 4.39
+  },
+  {
+    "text": "provide critical insight into our\nplanet's electrical environment, and its",
+    "start": 22.83,
+    "duration": 3.959
+  },
+  {
+    "text": "relationship to the Sun.",
+    "start": 26.789,
+    "duration": 1.791
+  },
+  {
+    "text": "In countless past episodes,\nretired professor of",
+    "start": 28.589,
+    "duration": 3.851
+  },
+  {
+    "text": "electrical engineering Dr. Donald Scott\nhas outlined his mathematical modeling",
+    "start": 32.48,
+    "duration": 3.849
+  },
+  {
+    "text": "of a Birkeland current structure, and its\nvisual identification as counterrotating cylinders.",
+    "start": 36.329,
+    "duration": 6.251
+  },
+  {
+    "text": "Recently, Dr. Scott invited\nmembers of the Electric Universe",
+    "start": 42.58,
+    "duration": 2.99
+  },
+  {
+    "text": "community to begin tracking our planet's\nwind patterns, which can be viewed in",
+    "start": 45.57,
+    "duration": 4.469
+  },
+  {
+    "text": "real-time through the website\nseen on your screen.",
+    "start": 50.039,
+    "duration": 3.43
+  },
+  {
+    "text": "In his own investigation, Dr. Scott\nhas made what may be an important",
+    "start": 53.479,
+    "duration": 4.001
+  },
+  {
+    "text": "discovery -- an apparent periodicity to the counter\n-rotational patterns seen at our planet's poles.",
+    "start": 57.48,
+    "duration": 5.819
+  },
+  {
+    "text": "In this episode, Dr. Scott\nexplains the potential significance of",
+    "start": 63.299,
+    "duration": 5.25
+  },
+  {
+    "text": "this discovery for the Electric Universe\nmodel of the Sun, and its connection to Earth.",
+    "start": 68.549,
+    "duration": 4.991
+  },
+  {
+    "text": "Back on May 10th of this year, I did a\nSpace News and there was a sort of",
+    "start": 73.94,
+    "duration": 6.13
+  },
+  {
+    "text": "put my toe into this area of\nearth.nullschool.net site, and",
+    "start": 80.07,
+    "duration": 6.24
+  },
+  {
+    "text": "the major point, I think that I was\ntrying to make there is, that it seems to",
+    "start": 86.31,
+    "duration": 4.739
+  },
+  {
+    "text": "me that if you can, as you can\nwith nullschool, look at various",
+    "start": 91.049,
+    "duration": 4.32
+  },
+  {
+    "text": "levels, you know, in the various altitudes\nin the atmosphere of Earth and",
+    "start": 95.369,
+    "duration": 6.331
+  },
+  {
+    "text": "you can see very clearly that the\nouter reaches of Earth's atmosphere are very",
+    "start": 101.7,
+    "duration": 7.32
+  },
+  {
+    "text": "ordered, they are quite circular \nmost of the time and, as",
+    "start": 109.02,
+    "duration": 6.84
+  },
+  {
+    "text": "contrasted to, if you go down farther\ninto the atmosphere, those patterns get",
+    "start": 115.86,
+    "duration": 4.71
+  },
+  {
+    "text": "all chaotic and messed up and the winds...\nto me the conclusion is",
+    "start": 120.57,
+    "duration": 6.479
+  },
+  {
+    "text": "obvious that the Earth masses\ndisrupt those beautiful circular patterns.",
+    "start": 127.049,
+    "duration": 6.481
+  },
+  {
+    "text": "And so I think that's the evidence of\nthe fact that the structure of those",
+    "start": 133.53,
+    "duration": 5.7
+  },
+  {
+    "text": "circling flows are created by the\nincoming Birkeland currents that have",
+    "start": 139.23,
+    "duration": 6.06
+  },
+  {
+    "text": "those nice concentric circular forms to\nthem and the further down you get, the",
+    "start": 145.29,
+    "duration": 5.58
+  },
+  {
+    "text": "more disrupted it gets; it's kind of like\nwatching the crash of an airplane into a",
+    "start": 150.87,
+    "duration": 4.95
+  },
+  {
+    "text": "mountain, I mean, it's\nvery nice before it hits.",
+    "start": 155.82,
+    "duration": 3.64
+  },
+  {
+    "text": "So anyway, that was my main point\nin that first Space News.",
+    "start": 159.46,
+    "duration": 4.67
+  },
+  {
+    "text": "But then, when I looked at it and I\nlooked, as I always do, at some of the",
+    "start": 164.15,
+    "duration": 4.48
+  },
+  {
+    "text": "comments that were made, there was a\ncommenter, his name, he put that his name is",
+    "start": 168.63,
+    "duration": 5.34
+  },
+  {
+    "text": "Dr. BH, so hello to Dr. BH whoever he is!",
+    "start": 173.97,
+    "duration": 4.57
+  },
+  {
+    "text": "And he asked, he said, do these patterns\nchange as the seasons and the dominant",
+    "start": 178.56,
+    "duration": 5.34
+  },
+  {
+    "text": "hemispheres align with the Sun,\ncan you show a connection this way?",
+    "start": 183.9,
+    "duration": 4.69
+  },
+  {
+    "text": "And I began to think, I said yeah,\nhey that sounds, that's a good question!",
+    "start": 188.59,
+    "duration": 3.88
+  },
+  {
+    "text": "So I got to wondering\nwhether there might be some periodicity,",
+    "start": 192.52,
+    "duration": 2.87
+  },
+  {
+    "text": "maybe yearly periodicity in the general\nform of those high-altitude wind circulations.",
+    "start": 195.39,
+    "duration": 6.15
+  },
+  {
+    "text": "Of course, most people realize,\nwhen they're asked what causes",
+    "start": 201.54,
+    "duration": 2.669
+  },
+  {
+    "text": "the seasons, the answer is not that the\nsummer is caused by the Earth being",
+    "start": 204.209,
+    "duration": 4.56
+  },
+  {
+    "text": "closer to the Sun than\nit is in the winter.",
+    "start": 208.769,
+    "duration": 2.641
+  },
+  {
+    "text": "Anyhow, what is the cause?",
+    "start": 211.46,
+    "duration": 1.05
+  },
+  {
+    "text": "Well, we, most people realize the Earth's\nrotational axis is fixed in inertial",
+    "start": 212.51,
+    "duration": 5.74
+  },
+  {
+    "text": "space, that is to say, the axis of Earth\nalways points in one direction.",
+    "start": 218.25,
+    "duration": 4.89
+  },
+  {
+    "text": "Of course, walk out at night and look up,\nit's our old friend Polaris, the North",
+    "start": 223.14,
+    "duration": 4.23
+  },
+  {
+    "text": "Star or the pole star, and so as the\nEarth travels around in this path around",
+    "start": 227.37,
+    "duration": 5.76
+  },
+  {
+    "text": "the Sun, it doesn't look at the Sun or\naway from the Sun, it looks directly at",
+    "start": 233.13,
+    "duration": 4.74
+  },
+  {
+    "text": "Polaris and it keeps looking at Polaris, every\nminute of every day of every hour of every year.",
+    "start": 237.87,
+    "duration": 4.68
+  },
+  {
+    "text": "When Earth gets to the\npoint in its orbit where its axis of",
+    "start": 242.55,
+    "duration": 3.78
+  },
+  {
+    "text": "rotation is pointing the North Pole away\nfrom the Sun, that's the Northern",
+    "start": 246.33,
+    "duration": 4.14
+  },
+  {
+    "text": "Hemisphere's winter solstice, that's what\ncauses the winter and the summer.",
+    "start": 250.47,
+    "duration": 5.85
+  },
+  {
+    "text": "So anyhow, with those facts in mind, I\nfigured a priori before I looked at",
+    "start": 256.32,
+    "duration": 5.159
+  },
+  {
+    "text": "nullschool again,",
+    "start": 261.479,
+    "duration": 0.841
+  },
+  {
+    "text": "that in December there might be a strong,\ninward directed Birkeland current from",
+    "start": 262.349,
+    "duration": 6.611
+  },
+  {
+    "text": "the Sun entering Earth's South Pole, because\nthe South Pole is pointed more toward the Sun.",
+    "start": 268.96,
+    "duration": 5.54
+  },
+  {
+    "text": "Well anyway, to make a long story\nshort, that isn't what happens.",
+    "start": 274.5,
+    "duration": 2.92
+  },
+  {
+    "text": "Nothing remotely even akin to that \nwas observed, at least by me, when I",
+    "start": 277.42,
+    "duration": 4.89
+  },
+  {
+    "text": "looked at the earth.nullschool.net site.",
+    "start": 282.31,
+    "duration": 4.27
+  },
+  {
+    "text": "What I did see, during the height of the\nNorthern Hemisphere summer, that is",
+    "start": 286.58,
+    "duration": 6.56
+  },
+  {
+    "text": "aphelion, Earth farthest from the Sun,\ncurrent enters into both the North and",
+    "start": 293.14,
+    "duration": 6.3
+  },
+  {
+    "text": "the South Poles, generally.",
+    "start": 299.44,
+    "duration": 2.11
+  },
+  {
+    "text": "Now you know how I discovered\nthat, I took my",
+    "start": 301.6,
+    "duration": 2.85
+  },
+  {
+    "text": "finger, it's the old right-\nhand rule, you put",
+    "start": 304.45,
+    "duration": 3.03
+  },
+  {
+    "text": "your fingers in the direction of the\nwind flow, the current flow, and then",
+    "start": 307.56,
+    "duration": 3.46
+  },
+  {
+    "text": "your thumb is going to be pointed in the\ndirection of the, assuming that our",
+    "start": 311.02,
+    "duration": 3.24
+  },
+  {
+    "text": "theory is right, in the direction of the\nBirkeland current that causes that rotation.",
+    "start": 314.26,
+    "duration": 5.21
+  },
+  {
+    "text": "And then, during the Northern\nHemisphere winter, that is perihelion, the",
+    "start": 319.47,
+    "duration": 5.83
+  },
+  {
+    "text": "Earth is closest to the Sun, the North\nPole is pointed away from the Sun, the",
+    "start": 325.3,
+    "duration": 6.75
+  },
+  {
+    "text": "South Pole is directed toward the Sun,\nand what do you observe, you observe that",
+    "start": 332.05,
+    "duration": 6.54
+  },
+  {
+    "text": "current is directed out of both the\nNorth and the South Poles.",
+    "start": 338.59,
+    "duration": 3.89
+  },
+  {
+    "text": "So it's strictly not what your intuition, at least\nnot what my intuition tells me what happened.",
+    "start": 342.48,
+    "duration": 7.1
+  },
+  {
+    "text": "Well anyway, if you look at that\ntable you can see that overall, what",
+    "start": 349.58,
+    "duration": 5.45
+  },
+  {
+    "text": "happens is that in those, those\nfour lines in that table, and if you",
+    "start": 355.03,
+    "duration": 5.25
+  },
+  {
+    "text": "look at the third and fourth columns\nthere, the northern hemisphere current",
+    "start": 360.28,
+    "duration": 4.8
+  },
+  {
+    "text": "and the southern hemisphere current, you\ncan see that in the summer in the",
+    "start": 365.08,
+    "duration": 5.28
+  },
+  {
+    "text": "northern hemisphere, that is to say the\nsecond row within that table, the current",
+    "start": 370.36,
+    "duration": 5.34
+  },
+  {
+    "text": "is in, both at the North Pole\nand at the South Pole.",
+    "start": 375.7,
+    "duration": 3.83
+  },
+  {
+    "text": "And the last line in the\ntable, when it's winter in the north and",
+    "start": 379.53,
+    "duration": 4.68
+  },
+  {
+    "text": "of course, we're closest to the Sun, the\nnorthern hemisphere current is out and",
+    "start": 384.21,
+    "duration": 5.65
+  },
+  {
+    "text": "the southern hemisphere current is out.",
+    "start": 389.86,
+    "duration": 1.94
+  },
+  {
+    "text": "So you've got this really strange, sort\nof, in out, in out, out, in out, in,",
+    "start": 391.8,
+    "duration": 5.35
+  },
+  {
+    "text": "sort of arrangement,",
+    "start": 397.15,
+    "duration": 1.9
+  },
+  {
+    "text": "and what's the punchline,\nwhat's the bottom line?",
+    "start": 399.08,
+    "duration": 3.42
+  },
+  {
+    "text": "And my conclusion is, that if\nyou look at the second row",
+    "start": 402.5,
+    "duration": 3.94
+  },
+  {
+    "text": "and the last row, you can see that in the\nsummer in the north, which is the winter",
+    "start": 406.449,
+    "duration": 5.671
+  },
+  {
+    "text": "in the south, the current is going in at\nboth poles; and in the winter in the",
+    "start": 412.12,
+    "duration": 5.94
+  },
+  {
+    "text": "north and the summer being in the south,\ncurrent is going out of both poles.",
+    "start": 418.06,
+    "duration": 7.5
+  },
+  {
+    "text": "So there's a seasonal year-long cycle, in\nwhich these flows completely",
+    "start": 425.56,
+    "duration": 6.0
+  },
+  {
+    "text": "reverse, and it's at those solstices.",
+    "start": 431.56,
+    "duration": 4.26
+  },
+  {
+    "text": "So let me summarize, I've written it down,\nlet me read what I've written.",
+    "start": 435.82,
+    "duration": 4.62
+  },
+  {
+    "text": "From December through February,\nthe southern hemisphere",
+    "start": 440.449,
+    "duration": 3.89
+  },
+  {
+    "text": "summer, the North Pole is pointed away\nfrom the Sun, Earth is nearest the Sun,",
+    "start": 444.34,
+    "duration": 5.31
+  },
+  {
+    "text": "it's at perihelion, and what I'm talking\nabout is row four of the table, the",
+    "start": 449.65,
+    "duration": 5.82
+  },
+  {
+    "text": "Birkeland current is directed\nout of both hemispheres.",
+    "start": 455.47,
+    "duration": 4.05
+  },
+  {
+    "text": "If you look at figure one, that is,\nthe Birkeland current is directed",
+    "start": 459.52,
+    "duration": 6.09
+  },
+  {
+    "text": "out of both hemispheres, strong at the\nNorth Pole, figure one, and weak at the",
+    "start": 465.639,
+    "duration": 4.891
+  },
+  {
+    "text": "South Pole, figure two.",
+    "start": 470.53,
+    "duration": 1.95
+  },
+  {
+    "text": "Incidentally, that figure one,\nthe strong currents, are",
+    "start": 472.52,
+    "duration": 5.059
+  },
+  {
+    "text": "something well over 300-350 km/h,\nthat's moving.",
+    "start": 477.58,
+    "duration": 6.01
+  },
+  {
+    "text": "The weak currents are more like\n50 kilometers per hour.",
+    "start": 483.599,
+    "duration": 4.091
+  },
+  {
+    "text": "Now I see it's strong at the North Pole\nin Figure 1, and weak at the South Pole,",
+    "start": 487.69,
+    "duration": 5.4
+  },
+  {
+    "text": "and you can see what I mean.",
+    "start": 493.09,
+    "duration": 1.42
+  },
+  {
+    "text": "Anyway, both currents being out,\nthe Earth is losing",
+    "start": 494.53,
+    "duration": 6.03
+  },
+  {
+    "text": "positive charge during that season, the\nEarth is like a capacitor, if you have",
+    "start": 500.56,
+    "duration": 4.02
+  },
+  {
+    "text": "current flowing out every hole\nin the north and in the",
+    "start": 504.58,
+    "duration": 4.92
+  },
+  {
+    "text": "south is going out, well, clearly, the\nEarth is losing positive charge.",
+    "start": 509.5,
+    "duration": 3.99
+  },
+  {
+    "text": "If the Earth is, at that time, closest to the\nSun, that says that according to EU",
+    "start": 513.49,
+    "duration": 7.5
+  },
+  {
+    "text": "Theory, that that would be a position of\nrelatively higher voltage, we are closer",
+    "start": 520.99,
+    "duration": 6.33
+  },
+  {
+    "text": "to the Sun, higher voltage, the Sun is\nvery strongly positively charged.",
+    "start": 527.32,
+    "duration": 4.99
+  },
+  {
+    "text": "Therefore, we ought to be collecting some\npositive charge from the surrounding",
+    "start": 532.31,
+    "duration": 5.009
+  },
+  {
+    "text": "plasma, through which Earth is moving.",
+    "start": 537.319,
+    "duration": 3.15
+  },
+  {
+    "text": "I'm just talking about this plasma\nocean that we float in.",
+    "start": 540.539,
+    "duration": 3.061
+  },
+  {
+    "text": "Now, if you put in there the\nBirkeland currents that I'm",
+    "start": 543.6,
+    "duration": 5.419
+  },
+  {
+    "text": "talking about, those seem to\nhave the opposite effect.",
+    "start": 549.019,
+    "duration": 4.451
+  },
+  {
+    "text": "If the Earth is losing\ncharge and the Birkeland current is",
+    "start": 553.479,
+    "duration": 4.511
+  },
+  {
+    "text": "directed out of both hemispheres and\nit's strong at the northern pole, that is,",
+    "start": 557.99,
+    "duration": 6.959
+  },
+  {
+    "text": "look at Figure one, you can see that the\nrotation is quite strong, and weaker at",
+    "start": 564.949,
+    "duration": 4.74
+  },
+  {
+    "text": "the South Pole, that's\nfigure two, but still directed",
+    "start": 569.689,
+    "duration": 4.921
+  },
+  {
+    "text": "out of both hemispheres at that point,\nand that's what's important, and so the",
+    "start": 574.61,
+    "duration": 4.919
+  },
+  {
+    "text": "effect of this newly observed Birkeland\ncurrent mechanism appears to provide a",
+    "start": 579.529,
+    "duration": 4.62
+  },
+  {
+    "text": "means through which the Earth may dump\nsuch added positive charge over this",
+    "start": 584.149,
+    "duration": 5.221
+  },
+  {
+    "text": "part of the year.",
+    "start": 589.37,
+    "duration": 0.779
+  },
+  {
+    "text": "So if it's normally collecting it\nfrom the ocean of plasma",
+    "start": 590.15,
+    "duration": 3.57
+  },
+  {
+    "text": "through which it's floating,\nand that Birkeland current is connected",
+    "start": 593.749,
+    "duration": 3.57
+  },
+  {
+    "text": "to the North Pole and the South Pole,\nand the charge is flowing out, it's sort",
+    "start": 597.319,
+    "duration": 6.301
+  },
+  {
+    "text": "of a Birkeland current is sort of\nneutralizing the pick-up of the",
+    "start": 603.62,
+    "duration": 4.019
+  },
+  {
+    "text": "charge that is happening.",
+    "start": 607.639,
+    "duration": 1.84
+  },
+  {
+    "text": "Anyway, for the three months\nof the year at the South",
+    "start": 609.48,
+    "duration": 2.899
+  },
+  {
+    "text": "hemisphere winter, that is the South Pole\npointed away from the Sun, Earth is",
+    "start": 612.379,
+    "duration": 6.06
+  },
+  {
+    "text": "farthest from the Sun, it's at aphelion,\nI'm talking about row two of the table,",
+    "start": 618.439,
+    "duration": 4.861
+  },
+  {
+    "text": "the circulation pattern indicates that\nBirkeland currents simultaneously enter",
+    "start": 623.3,
+    "duration": 5.399
+  },
+  {
+    "text": "down into Earth at both the North\nand the South Poles.",
+    "start": 628.699,
+    "duration": 3.841
+  },
+  {
+    "text": "Now, if you look at figure three,\nyou'll see that that",
+    "start": 632.54,
+    "duration": 2.98
+  },
+  {
+    "text": "entering in is pretty weak at the North\nPole but quite strong at the South Pole.",
+    "start": 635.52,
+    "duration": 5.859
+  },
+  {
+    "text": "So Earth effectively gains positive\ncharge during this season but it's",
+    "start": 641.379,
+    "duration": 6.101
+  },
+  {
+    "text": "farthest from the Sun, and so therefore\nEarth ought to be losing charge, but the",
+    "start": 647.48,
+    "duration": 6.019
+  },
+  {
+    "text": "action of the Birkeland current apparently\ncounters any such loss of charge.",
+    "start": 653.499,
+    "duration": 5.03
+  },
+  {
+    "text": "So the essence of it all is that\nyes, there is a yearly periodicity during",
+    "start": 658.529,
+    "duration": 5.75
+  },
+  {
+    "text": "which everything completely\nreverses direction,",
+    "start": 664.279,
+    "duration": 2.191
+  },
+  {
+    "text": "and it acts in a very complex way,\nas we can see.",
+    "start": 666.47,
+    "duration": 5.07
+  },
+  {
+    "text": "The question is, is the Earth at\naphelion, that is far away, or perihelion,",
+    "start": 671.6,
+    "duration": 3.87
+  },
+  {
+    "text": "close in, and I think this fits with\nWal's idea with which I again firmly",
+    "start": 675.47,
+    "duration": 5.37
+  },
+  {
+    "text": "agree, that the Sun's electric field creates\na higher voltage region near the Sun and",
+    "start": 680.84,
+    "duration": 5.4
+  },
+  {
+    "text": "a lower voltage region farther out.",
+    "start": 686.24,
+    "duration": 2.31
+  },
+  {
+    "text": "But, so we understand a little bit, but this\nis a rich, I think, and complicated area",
+    "start": 688.55,
+    "duration": 7.17
+  },
+  {
+    "text": "that's open for research that nobody\nseems to have discovered, yet.",
+    "start": 695.72,
+    "duration": 5.93
+  }
+]

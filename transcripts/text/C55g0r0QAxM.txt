@@ -1,0 +1,482 @@
+[
+  {
+    "text": "You've just entered the\ntheater of an alien sky.",
+    "start": 12.653,
+    "duration": 3.429
+  },
+  {
+    "text": "If the words and images seem strange\nto you, there's a reason for this.",
+    "start": 16.107,
+    "duration": 5.161
+  },
+  {
+    "text": "Our world was once a\nvastly different place.",
+    "start": 21.293,
+    "duration": 4.35
+  },
+  {
+    "text": "To experience this won't hurt you,\nand there is nothing to fear.",
+    "start": 25.668,
+    "duration": 5.874
+  },
+  {
+    "text": "The Labyrinth\nWindow to the Ancient Archetypes",
+    "start": 36.64,
+    "duration": 4.24
+  },
+  {
+    "text": "In previous Discourses, we followed\nmultiple paths of evidence to describe",
+    "start": 41.88,
+    "duration": 6.4
+  },
+  {
+    "text": "the mythic labyrinth, the dancing ground",
+    "start": 48.28,
+    "duration": 2.58
+  },
+  {
+    "text": "of the legendary mother\ngoddess and warrior hero.",
+    "start": 50.86,
+    "duration": 3.64
+  },
+  {
+    "text": "Our claim has been that\nthis enigmatic theme has its archetypal",
+    "start": 54.5,
+    "duration": 4.879
+  },
+  {
+    "text": "origins in extraordinary celestial phenomena.",
+    "start": 59.379,
+    "duration": 3.971
+  },
+  {
+    "text": "Events did not occur down here\non any local landscape but in the sky, in",
+    "start": 63.35,
+    "duration": 5.33
+  },
+  {
+    "text": "the original theater of the gods.",
+    "start": 68.68,
+    "duration": 2.65
+  },
+  {
+    "text": "And so, as we gain insight into the most\nfundamental archetypes, we unavoidably",
+    "start": 71.33,
+    "duration": 6.86
+  },
+  {
+    "text": "encounter the phenomenon of\nlocalization, a universal aspect of",
+    "start": 78.19,
+    "duration": 4.65
+  },
+  {
+    "text": "storytelling in ancient times but only\nrarely discussed in modern day",
+    "start": 82.84,
+    "duration": 4.59
+  },
+  {
+    "text": "treatments of mythic traditions.",
+    "start": 87.43,
+    "duration": 3.71
+  },
+  {
+    "text": "Localization refers to the ancient habit\nof projecting the original mythic",
+    "start": 91.14,
+    "duration": 4.54
+  },
+  {
+    "text": "archetypes on the familiar and\naccessible local landscapes, to the",
+    "start": 95.68,
+    "duration": 6.03
+  },
+  {
+    "text": "extent that a thousand local symbols\ncame to be confused with the celestial",
+    "start": 101.71,
+    "duration": 4.92
+  },
+  {
+    "text": "forms and events of the original\nmyth-making epoch.",
+    "start": 106.63,
+    "duration": 3.87
+  },
+  {
+    "text": "Every sacred mountain\non Earth, named after a cosmic prototype,",
+    "start": 110.5,
+    "duration": 5.7
+  },
+  {
+    "text": "came to be remembered as a place where",
+    "start": 116.2,
+    "duration": 2.52
+  },
+  {
+    "text": "the Creator God himself\nstood in primeval times.",
+    "start": 118.72,
+    "duration": 4.79
+  },
+  {
+    "text": "Every sacred city came to\nbe celebrated as the city of heaven,",
+    "start": 123.51,
+    "duration": 4.019
+  },
+  {
+    "text": "the original dwelling of the gods.",
+    "start": 127.529,
+    "duration": 3.121
+  },
+  {
+    "text": "This pattern of confusion was repeated\nthousands of times around the world, the",
+    "start": 130.65,
+    "duration": 5.559
+  },
+  {
+    "text": "later symbol came to be seen as the\nthing originally symbolized, and that's",
+    "start": 136.209,
+    "duration": 5.131
+  },
+  {
+    "text": "the pervasive mistake we're required to\nrecognize and to unravel in any",
+    "start": 141.34,
+    "duration": 5.07
+  },
+  {
+    "text": "investigation of mythic origins.",
+    "start": 146.41,
+    "duration": 2.09
+  },
+  {
+    "text": "As for later symbolic elaborations, a good\nexample is the appearance of",
+    "start": 148.5,
+    "duration": 5.98
+  },
+  {
+    "text": "commemorative knotwork, the connection\nfitting perfectly with our earlier",
+    "start": 154.48,
+    "duration": 5.3
+  },
+  {
+    "text": "identification of the labyrinth\nas the original Gordian knot.",
+    "start": 159.78,
+    "duration": 4.72
+  },
+  {
+    "text": "In seeking out the later\nechoes of the mythic theme,",
+    "start": 164.5,
+    "duration": 3.72
+  },
+  {
+    "text": "many useful clues will be found in the\nsymbolic knotwork of Ireland and",
+    "start": 168.22,
+    "duration": 4.98
+  },
+  {
+    "text": "Scandinavia, with striking\nparallels in the labyrinth.",
+    "start": 173.2,
+    "duration": 3.38
+  },
+  {
+    "text": "I'm now fully satisfied that\nat root, the two mythic threads arose",
+    "start": 176.58,
+    "duration": 5.53
+  },
+  {
+    "text": "from precisely the same human experience.",
+    "start": 182.11,
+    "duration": 2.939
+  },
+  {
+    "text": "And so, it's no coincidence that familiar\nthemes we've covered in these Discourses,",
+    "start": 185.049,
+    "duration": 5.69
+  },
+  {
+    "text": "show up in the complex\nknotwork of Northern Europe.",
+    "start": 190.739,
+    "duration": 4.761
+  },
+  {
+    "text": "From entwining twin serpents to\nthe symbolism of the ram's horns.",
+    "start": 195.5,
+    "duration": 5.0
+  },
+  {
+    "text": "The labyrinth and sacred knotwork also\noverlap in the Chinese image of the",
+    "start": 200.5,
+    "duration": 5.16
+  },
+  {
+    "text": "Pan Chang called the endless knot or\nknot of happiness and here too we",
+    "start": 205.66,
+    "duration": 5.76
+  },
+  {
+    "text": "discover that the knotwork theme can't",
+    "start": 211.42,
+    "duration": 2.34
+  },
+  {
+    "text": "be separated from the mythic\nintestines of the labyrinth.",
+    "start": 213.76,
+    "duration": 3.74
+  },
+  {
+    "text": "Chinese legends\ndescribed the entwined Pan Chang as a",
+    "start": 217.5,
+    "duration": 4.09
+  },
+  {
+    "text": "knot formed from the intestines\nof a slain enemy.",
+    "start": 221.59,
+    "duration": 3.97
+  },
+  {
+    "text": "All of which remind us again\nof the so called Fortress of Intestines",
+    "start": 225.56,
+    "duration": 4.88
+  },
+  {
+    "text": "to which Humbaba, the enemy slain by\nGilgamesh, gave his name.",
+    "start": 230.44,
+    "duration": 5.039
+  },
+  {
+    "text": "As we've discovered so consistently, it's\nwhen seeming absurdities fall into line with",
+    "start": 235.479,
+    "duration": 5.581
+  },
+  {
+    "text": "an inherently logical expectation, that\nwe know we're on the right track.",
+    "start": 241.06,
+    "duration": 5.78
+  },
+  {
+    "text": "I should hasten to add that the most\ncommon association of the labyrinth",
+    "start": 246.84,
+    "duration": 4.66
+  },
+  {
+    "text": "revealed by cross-cultural comparison\nwas with the famous cave or cavern",
+    "start": 251.5,
+    "duration": 5.339
+  },
+  {
+    "text": "entered by the hero, as we should also expect.",
+    "start": 256.839,
+    "duration": 3.7
+  },
+  {
+    "text": "Dorothy Norman in her book \"The\nHero\" writes, \"In those cases where the",
+    "start": 260.539,
+    "duration": 5.06
+  },
+  {
+    "text": "ritual has been preserved, the labyrinth\nitself, or a drawing of it, is invariably",
+    "start": 265.599,
+    "duration": 5.85
+  },
+  {
+    "text": "situated at the entrance\nof the cave or dwelling.\"",
+    "start": 271.449,
+    "duration": 4.09
+  },
+  {
+    "text": "Of course, that pattern is\nentirely logical if the labyrinth",
+    "start": 275.539,
+    "duration": 4.221
+  },
+  {
+    "text": "entered by the hero meant precisely the\nsame thing as the famous cavern of the",
+    "start": 279.76,
+    "duration": 5.879
+  },
+  {
+    "text": "hero's initiation.",
+    "start": 285.639,
+    "duration": 1.96
+  },
+  {
+    "text": "And so our conclusion; the predicted\nsymbolic equations noted here can be",
+    "start": 287.599,
+    "duration": 5.82
+  },
+  {
+    "text": "fully verified by any independent researcher\nwho will follow the available keys.",
+    "start": 293.419,
+    "duration": 5.26
+  },
+  {
+    "text": "The hero bound within a knot, as\nobserved by the comparative symbolists",
+    "start": 298.679,
+    "duration": 4.97
+  },
+  {
+    "text": "Chevalier and Gheerbrant, is equivalent to\nthe hero being swallowed by the monster,",
+    "start": 303.649,
+    "duration": 5.52
+  },
+  {
+    "text": "another universal motif, and so the\ndisgorging of the hero by the monster is",
+    "start": 309.169,
+    "duration": 5.941
+  },
+  {
+    "text": "simply a variant on untying the knot,\nsignifying at the same time the god's",
+    "start": 315.11,
+    "duration": 5.489
+  },
+  {
+    "text": "release and the defeat of the Chaos\nmonster.",
+    "start": 320.599,
+    "duration": 3.66
+  },
+  {
+    "text": "So the labyrinth is a challenge to the\nhero and conceptually it's only a short",
+    "start": 324.259,
+    "duration": 5.55
+  },
+  {
+    "text": "distance to the mythic riddle or paradox,\na common folklore variant of the",
+    "start": 329.809,
+    "duration": 5.58
+  },
+  {
+    "text": "critical juncture in the biography of",
+    "start": 335.389,
+    "duration": 2.52
+  },
+  {
+    "text": "the hero for his victory is\nsynonymous with meeting a test.",
+    "start": 337.909,
+    "duration": 4.49
+  },
+  {
+    "text": "In other words, the\ntest turns out to be the critical turn",
+    "start": 342.399,
+    "duration": 4.33
+  },
+  {
+    "text": "in the biography of the hero, meaning\nthat it gives the hero his defining role.",
+    "start": 346.729,
+    "duration": 5.601
+  },
+  {
+    "text": "When Oedipus answered the riddle of the\nSphinx correctly, what happened next?",
+    "start": 352.33,
+    "duration": 5.47
+  },
+  {
+    "text": "He was not only saved, but the devouring\ngoddess plunged over the precipice.",
+    "start": 357.8,
+    "duration": 5.929
+  },
+  {
+    "text": "Among those comparative symbolists who\ndiscovered the essential connections,",
+    "start": 363.729,
+    "duration": 4.9
+  },
+  {
+    "text": "though certainly not accounted for them,\nI would list J.C. Cooper who writes in \"An",
+    "start": 368.629,
+    "duration": 5.34
+  },
+  {
+    "text": "Illustrated Encyclopedia Of Traditional\nSymbols\", \"The labyrinth is related to the",
+    "start": 373.969,
+    "duration": 6.331
+  },
+  {
+    "text": "symbolism of the cave and with\ninitiation rites, it also shares the",
+    "start": 380.3,
+    "duration": 5.519
+  },
+  {
+    "text": "symbolism of the knot in binding and\nloosing, restricting but uniting... The",
+    "start": 385.819,
+    "duration": 6.0
+  },
+  {
+    "text": "labyrinth in a square depicts the four\ncardinal points and the cosmos and may",
+    "start": 391.819,
+    "duration": 5.7
+  },
+  {
+    "text": "be connected with the swastika.\"",
+    "start": 397.519,
+    "duration": 2.15
+  },
+  {
+    "text": "Yes indeed, the very symbolic relationships\nwe've already noted, but while Cooper's",
+    "start": 399.669,
+    "duration": 6.64
+  },
+  {
+    "text": "summary of associated symbols is\ngenerally accurate, it offers no clue at",
+    "start": 406.309,
+    "duration": 5.13
+  },
+  {
+    "text": "all on the origins of the pervasive\nlabyrinth archetype.",
+    "start": 411.439,
+    "duration": 3.861
+  },
+  {
+    "text": "For us that is a giant shortcoming, since\nuncovering the integral origins of world",
+    "start": 415.3,
+    "duration": 5.92
+  },
+  {
+    "text": "mythology is our overriding purpose.",
+    "start": 421.22,
+    "duration": 3.169
+  },
+  {
+    "text": "But now we can confidently say that the\nlabyrinth theme did not arise from",
+    "start": 424.389,
+    "duration": 5.441
+  },
+  {
+    "text": "anything in today's familiar\nnatural experience.",
+    "start": 429.83,
+    "duration": 3.309
+  },
+  {
+    "text": "The cavernous form was\nentirely celestial, towering over humanity.",
+    "start": 433.139,
+    "duration": 6.0
+  },
+  {
+    "text": "Of course, that's been our\nmessage all along; it's only by seeing",
+    "start": 439.139,
+    "duration": 4.611
+  },
+  {
+    "text": "the named mythic powers as planets close\nto Earth, that we're able to bring the",
+    "start": 443.75,
+    "duration": 5.58
+  },
+  {
+    "text": "global patterns to light.",
+    "start": 449.33,
+    "duration": 1.299
+  },
+  {
+    "text": "And as we're now prepared to\ndemonstrate, that means a",
+    "start": 450.629,
+    "duration": 5.03
+  },
+  {
+    "text": "concrete explanation for all of the\nacknowledged archetypal personalities of",
+    "start": 455.659,
+    "duration": 5.19
+  },
+  {
+    "text": "world mythology, a coherent ancient story\nunfolding in an extraordinary phase of",
+    "start": 460.849,
+    "duration": 7.081
+  },
+  {
+    "text": "solar system history.",
+    "start": 467.93,
+    "duration": 3.859
+  }
+]

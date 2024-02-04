@@ -1,0 +1,527 @@
+[
+  {
+    "text": "[Music]",
+    "start": 2.3,
+    "duration": 5.37
+  },
+  {
+    "text": "Mainstream astronomers’ reliance on\ngravity as the primal force shaping the",
+    "start": 12.0,
+    "duration": 4.32
+  },
+  {
+    "text": "Universe, has restricted them to thinking\nin terms of spherical explosions and",
+    "start": 16.32,
+    "duration": 4.64
+  },
+  {
+    "text": "voids or bubbles, created by dying stars.\nAround these supposed voids, gas",
+    "start": 20.96,
+    "duration": 6.0
+  },
+  {
+    "text": "filaments can be seen arcing away. Our\nSun sits in the middle of an enormous",
+    "start": 26.96,
+    "duration": 5.75
+  },
+  {
+    "text": "void called the ‘local bubble’. They \nsay this contains million-degree",
+    "start": 32.71,
+    "duration": 4.73
+  },
+  {
+    "text": "ionized hydrogen gas surrounded by a\nwall of colder, denser neutral gas.",
+    "start": 37.44,
+    "duration": 6.08
+  },
+  {
+    "text": "Within this hot bubble, gas density is much \nsparser. At first they thought that the local",
+    "start": 43.52,
+    "duration": 5.92
+  },
+  {
+    "text": "bubble was an asymmetric cavity of \n330 to 490 light years in diameter. This",
+    "start": 49.44,
+    "duration": 6.95
+  },
+  {
+    "text": "implied that two bubbles might have collided and\nmerged. The most important point to note is that",
+    "start": 56.39,
+    "duration": 6.48
+  },
+  {
+    "text": "they believe the local bubble is deficient in\nneutral gas. In all the literature they keep",
+    "start": 62.87,
+    "duration": 5.85
+  },
+  {
+    "text": "describing it as ‘neutral gas deficient’, rather \nthan simply stating that it is highly ionized.",
+    "start": 68.72,
+    "duration": 6.88
+  },
+  {
+    "text": "Further mappings reveal that the\nionized pockets actually form a tunnel",
+    "start": 75.6,
+    "duration": 4.48
+  },
+  {
+    "text": "that extends at least 820 light years\ntowards Ursa Major, suggesting that it",
+    "start": 80.08,
+    "duration": 5.6
+  },
+  {
+    "text": "might connect at least a thousand\nlight years into the galactic halo.",
+    "start": 85.68,
+    "duration": 4.72
+  },
+  {
+    "text": "As the research continues, it starts to\nbecome clear that our ‘local bubble’ was",
+    "start": 90.4,
+    "duration": 5.12
+  },
+  {
+    "text": "actually part of a larger cylindrical\ncavity that pierces through the disk of",
+    "start": 95.52,
+    "duration": 4.48
+  },
+  {
+    "text": "the galaxy, dubbed the ‘local chimney’.\nSo how do they explain the formation of",
+    "start": 100.0,
+    "duration": 5.28
+  },
+  {
+    "text": "the bubbles, and how can they explain\nthe structure of the local chimney?",
+    "start": 105.28,
+    "duration": 4.64
+  },
+  {
+    "text": "They believe supernova explosions are\nresponsible for creating these voids.",
+    "start": 109.92,
+    "duration": 4.87
+  },
+  {
+    "text": "In the case of the local chimney, they\nspeculate that energetic supernova",
+    "start": 114.79,
+    "duration": 3.92
+  },
+  {
+    "text": "explosions created fast-moving expanding bubbles\nof hot gas that collided with surrounding cold gas",
+    "start": 118.71,
+    "duration": 6.97
+  },
+  {
+    "text": "of the interstellar space, which in turn \nbecame compressed into thin shells.",
+    "start": 125.68,
+    "duration": 5.76
+  },
+  {
+    "text": "Eventually these shells of cold gas meet\nother expanding hot cavities and break",
+    "start": 131.44,
+    "duration": 5.76
+  },
+  {
+    "text": "up, forming small tunnels or path-\nways between the expanding voids.",
+    "start": 137.2,
+    "duration": 5.52
+  },
+  {
+    "text": "Towards the center of the local chimney\nwe find the Pleiades, and it is here that",
+    "start": 142.72,
+    "duration": 4.4
+  },
+  {
+    "text": "astronomers search for the possible source of a\nsupernovae. A little further out from these are a",
+    "start": 147.12,
+    "duration": 5.11
+  },
+  {
+    "text": "belt of stars, called the Gould belt. These\nare massive hot OB-type stars. These",
+    "start": 152.23,
+    "duration": 5.77
+  },
+  {
+    "text": "provide a clue as to what might be going on.\nThe supposed young stars appear to form",
+    "start": 158.0,
+    "duration": 5.59
+  },
+  {
+    "text": "a ring, centered on the Pleiades and have\nmotions that appear to imply that they",
+    "start": 163.59,
+    "duration": 5.05
+  },
+  {
+    "text": "are also orbiting around this point. Yet, there \nis not enough mass for this to be possible.",
+    "start": 168.64,
+    "duration": 6.72
+  },
+  {
+    "text": "Let's just take a little step back here.\nAre we surprised that our Sun sits in a",
+    "start": 175.36,
+    "duration": 4.48
+  },
+  {
+    "text": "bubble of ionized hydrogen? No, this is exactly what we\nwould expect to find. Our Sun sits on a filament which",
+    "start": 179.84,
+    "duration": 7.92
+  },
+  {
+    "text": "powers our star. The fact \nthat this structure seems to",
+    "start": 187.76,
+    "duration": 3.92
+  },
+  {
+    "text": "take on a cylindrical appearance,\nshould also not come as a surprise.",
+    "start": 191.68,
+    "duration": 4.72
+  },
+  {
+    "text": "So what are we to make of the boundary layer\nof cooler gas surrounding this structure?",
+    "start": 196.4,
+    "duration": 4.55
+  },
+  {
+    "text": "Assuming that the filament takes on a\nsimple Birkeland Current structure, we",
+    "start": 200.95,
+    "duration": 4.49
+  },
+  {
+    "text": "would expect recombination to occur.\nMarklund identified this process and",
+    "start": 205.44,
+    "duration": 5.12
+  },
+  {
+    "text": "showed that the elements will become preferentially\nsorted according to their ionization energy.",
+    "start": 210.56,
+    "duration": 5.92
+  },
+  {
+    "text": "This means that hydrogen and helium would always\nbe found towards the outer edge of the filament.",
+    "start": 216.48,
+    "duration": 5.75
+  },
+  {
+    "text": "So comparing the density of hydrogen\ninside the filament to the outer edges,",
+    "start": 222.23,
+    "duration": 5.13
+  },
+  {
+    "text": "you should see a sharp increase in the\ndensity, and the appearance of a wall.",
+    "start": 227.36,
+    "duration": 4.87
+  },
+  {
+    "text": "If we examine this image, then we see\nthat the areas in white are low density,",
+    "start": 232.23,
+    "duration": 4.64
+  },
+  {
+    "text": "probably hot, ionized gas. So in other words, \nplasma. The darker colored areas are thought to",
+    "start": 236.87,
+    "duration": 6.41
+  },
+  {
+    "text": "be cold dense gas, possibly largely molecular in\nnature. We can clearly see that many areas seem",
+    "start": 243.28,
+    "duration": 6.87
+  },
+  {
+    "text": "to connect to each other, forming a sort of \nnetwork. Now it is important to point out that",
+    "start": 250.15,
+    "duration": 4.57
+  },
+  {
+    "text": "there is likely to be many smaller\nfilaments connecting and overlapping,",
+    "start": 254.72,
+    "duration": 4.47
+  },
+  {
+    "text": "creating this blurred white part of the image.\nFrom Jim Wenninger’s work on Arcturus, we",
+    "start": 259.19,
+    "duration": 5.44
+  },
+  {
+    "text": "can see that the motion of the stars may\nreveal parts of this structure nearby us,",
+    "start": 264.63,
+    "duration": 5.21
+  },
+  {
+    "text": "with us circling around the local Arcturus filament.\nSome astronomers have wondered if the",
+    "start": 269.84,
+    "duration": 5.68
+  },
+  {
+    "text": "local bubble, or chimney system of\nthe interlocking gaseous cavities is",
+    "start": 275.52,
+    "duration": 4.48
+  },
+  {
+    "text": "characteristic of the entire Milky Way.\nAstronomers looking at an updated map of",
+    "start": 280.0,
+    "duration": 5.6
+  },
+  {
+    "text": "cold local interstellar gas in the galactic\nplane, see an inner empty region with",
+    "start": 285.6,
+    "duration": 5.68
+  },
+  {
+    "text": "finger-like extensions or tunnels that\npoke through the surrounding wall and",
+    "start": 291.28,
+    "duration": 4.56
+  },
+  {
+    "text": "reach into the nearby regions of the\ngalaxy. These regions are known to",
+    "start": 295.84,
+    "duration": 4.32
+  },
+  {
+    "text": "contain large amounts of hot, ionized,\nlow- density gas that can be detected at",
+    "start": 300.16,
+    "duration": 6.16
+  },
+  {
+    "text": "radio and ultraviolet wavelengths.\nRight next to our local bubble,",
+    "start": 306.32,
+    "duration": 4.4
+  },
+  {
+    "text": "astronomers have identified a new bubble called the\nPer-Tau shell. It is thought to extend for about 500",
+    "start": 310.72,
+    "duration": 7.12
+  },
+  {
+    "text": "light years and spans two well-studied\nmolecular clouds, called Taurus and Perseus.",
+    "start": 317.84,
+    "duration": 6.48
+  },
+  {
+    "text": "Using a special technique, they were able\nto create three-dimensional maps of the",
+    "start": 324.32,
+    "duration": 3.52
+  },
+  {
+    "text": "local cloud structures. If we examine the Chameleon\nmolecular cloud, we can see a series of filaments",
+    "start": 327.84,
+    "duration": 6.32
+  },
+  {
+    "text": "that seem to connect via a hub-like structure.\nWith a void in the center, it is also physically",
+    "start": 334.16,
+    "duration": 6.08
+  },
+  {
+    "text": "connected to the Musca dark cloud. The Taurus \ncloud extends between 131 and 168 parsecs.",
+    "start": 340.24,
+    "duration": 8.79
+  },
+  {
+    "text": "When viewed from the top, you might \nbe able to notice that it consists of two",
+    "start": 349.03,
+    "duration": 3.93
+  },
+  {
+    "text": "layers, separated by about 10 to 15 parsecs.\nThis layering is consistent with several",
+    "start": 352.96,
+    "duration": 6.48
+  },
+  {
+    "text": "previous studies. Musca is a clear example\nof a filament on both the two-dimensional and",
+    "start": 359.44,
+    "duration": 5.75
+  },
+  {
+    "text": "three-dimensional image. It is \ntermed a dark cloud, meaning that",
+    "start": 365.19,
+    "duration": 3.69
+  },
+  {
+    "text": "it contains a myriad of sub-micron sized\nsolid particles, often referred to as",
+    "start": 368.88,
+    "duration": 5.36
+  },
+  {
+    "text": "intergalactic dust grains. They tend \nto block out visible light, making them",
+    "start": 374.24,
+    "duration": 4.16
+  },
+  {
+    "text": "appear dark. They are thought to be\ncomposed of largely molecular gas, rather",
+    "start": 378.4,
+    "duration": 4.72
+  },
+  {
+    "text": "than containing ionized material.\nUltraviolet starlight is considered the",
+    "start": 383.12,
+    "duration": 4.79
+  },
+  {
+    "text": "main source of ionization in H2 regions,\nand in H1 regions it ionizes elements",
+    "start": 387.91,
+    "duration": 5.61
+  },
+  {
+    "text": "with low ionization potentials.\nThis has led to the belief that it is",
+    "start": 393.52,
+    "duration": 4.32
+  },
+  {
+    "text": "the only ionizer and that in dark\nclouds, where starlight is absorbed, the",
+    "start": 397.84,
+    "duration": 4.4
+  },
+  {
+    "text": "ionization may go down to zero. This \nis not necessarily correct, because",
+    "start": 402.24,
+    "duration": 5.12
+  },
+  {
+    "text": "in many cases, most ionization of cosmic\nplasma is produced by hydromagnetic",
+    "start": 407.36,
+    "duration": 5.6
+  },
+  {
+    "text": "transfer of kinetic energy into\nelectrical currents which ionize.",
+    "start": 412.96,
+    "duration": 5.51
+  },
+  {
+    "text": "One common theme that they identified,\nwas a point I touched on earlier - the",
+    "start": 418.47,
+    "duration": 4.65
+  },
+  {
+    "text": "creation of the atomic hydrogen\nenvelopes around the molecular clouds.",
+    "start": 423.12,
+    "duration": 4.96
+  },
+  {
+    "text": "They also discovered that the widths\nbetween the outer and inner envelopes",
+    "start": 428.08,
+    "duration": 3.92
+  },
+  {
+    "text": "had a consistent ratio of 3.4. When \nthey identified the radial density",
+    "start": 432.0,
+    "duration": 5.44
+  },
+  {
+    "text": "profiles, they found that it was\ninconsistent with a filament driven only",
+    "start": 437.44,
+    "duration": 4.0
+  },
+  {
+    "text": "by gravity, and was much better suited to\none where the filaments were magnetized.",
+    "start": 441.44,
+    "duration": 5.28
+  },
+  {
+    "text": "Previous studies of the structures\nof magnetic fields in the solar",
+    "start": 446.72,
+    "duration": 3.12
+  },
+  {
+    "text": "neighborhood cloud, have found strong\ncoupling between the gas column density",
+    "start": 449.84,
+    "duration": 4.96
+  },
+  {
+    "text": "and the magnetic field orientation;\nwhich is consistent with the idea that",
+    "start": 454.8,
+    "duration": 4.23
+  },
+  {
+    "text": "magnetic fields play an important role\nin structuring the interstellar medium",
+    "start": 459.03,
+    "duration": 4.56
+  },
+  {
+    "text": "in and around, the local molecular cloud.\nDespite all of this, they still favor the",
+    "start": 463.59,
+    "duration": 5.53
+  },
+  {
+    "text": "formation of bubbles through supernovae.\nIf the galaxy is composed of a network",
+    "start": 469.12,
+    "duration": 5.12
+  },
+  {
+    "text": "of filaments that carry slow moving ions these form\nmagnetic fields that hold the structure together.",
+    "start": 474.24,
+    "duration": 6.63
+  },
+  {
+    "text": "Hannes Alfven pointed out that these\nstructures are capable of transferring",
+    "start": 480.87,
+    "duration": 3.93
+  },
+  {
+    "text": "energy over vast distances, and \ndissipating the energy across the",
+    "start": 484.8,
+    "duration": 4.0
+  },
+  {
+    "text": "double layer with a voltage drop.\nIt is important to understand that the",
+    "start": 488.8,
+    "duration": 4.0
+  },
+  {
+    "text": "current required to accomplish this, may \nvery well consist of low energy particles.",
+    "start": 492.8,
+    "duration": 6.0
+  },
+  {
+    "text": "The plasma and material in these areas is not\nsimply mixed together through random collisions.",
+    "start": 498.8,
+    "duration": 6.0
+  },
+  {
+    "text": "Plasmas have a tendency to produce large\nvariations in the chemical composition.",
+    "start": 504.8,
+    "duration": 5.44
+  },
+  {
+    "text": "One mechanism is due to the different\nlaws of motion of the non-ionized and",
+    "start": 510.24,
+    "duration": 4.23
+  },
+  {
+    "text": "ionized components of a magnetized \nplasma. The condensation of non-volatile",
+    "start": 514.47,
+    "duration": 5.68
+  },
+  {
+    "text": "substances to grains, constitutes another separation\nmechanism. Any charged grains of dust, or ions, will",
+    "start": 520.15,
+    "duration": 7.36
+  },
+  {
+    "text": "feel an attraction towards the filament.\nAs they move towards the filament, if",
+    "start": 527.51,
+    "duration": 4.17
+  },
+  {
+    "text": "they gain enough speed, they can cause\nnon-ionized material to become ionized.",
+    "start": 531.68,
+    "duration": 5.27
+  },
+  {
+    "text": "This is particularly so in areas where a pinch \noccurs. This can cause large areas of low",
+    "start": 536.95,
+    "duration": 6.49
+  },
+  {
+    "text": "density to be created. At the same time Marklund\nconvection will sort material into radial shells.",
+    "start": 543.44,
+    "duration": 6.56
+  },
+  {
+    "text": "Together, these could explain the network of\nbubbles we see throughout our local neighborhood.",
+    "start": 550.0,
+    "duration": 7.16
+  },
+  {
+    "text": "[Music]",
+    "start": 566.5,
+    "duration": 27.2
+  }
+]

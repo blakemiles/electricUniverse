@@ -1,0 +1,887 @@
+[
+  {
+    "text": "You've just entered the\ntheater of an alien sky.",
+    "start": 5.968,
+    "duration": 3.541
+  },
+  {
+    "text": "If the words and images seem strange\nto you, there's a reason for this.",
+    "start": 9.841,
+    "duration": 4.198
+  },
+  {
+    "text": "Our world was once a\nvastly different place.",
+    "start": 14.563,
+    "duration": 4.432
+  },
+  {
+    "text": "To experience this won't hurt you\nand there is nothing to fear.",
+    "start": 19.02,
+    "duration": 5.593
+  },
+  {
+    "text": "Symbols of the World Mountain",
+    "start": 27.402,
+    "duration": 4.063
+  },
+  {
+    "text": "For well over a century the documented\ntraditions of the world mountain",
+    "start": 31.532,
+    "duration": 5.047
+  },
+  {
+    "text": "have invited scholarly\nattempts to explain them.",
+    "start": 36.604,
+    "duration": 3.605
+  },
+  {
+    "text": "The mountain rolls along the world axis to the\nvisual center of the sky at the celestial pole.",
+    "start": 40.479,
+    "duration": 7.381
+  },
+  {
+    "text": "But do any of the proposed\nexplanations actually work?",
+    "start": 47.905,
+    "duration": 4.333
+  },
+  {
+    "text": "That question can only be answered\nby penetrating to the core idea",
+    "start": 52.381,
+    "duration": 4.164
+  },
+  {
+    "text": "across a wide range of\nimaginative images.",
+    "start": 56.57,
+    "duration": 3.665
+  },
+  {
+    "text": "The celestial reference was\nnot just seen as a mountain",
+    "start": 60.26,
+    "duration": 3.835
+  },
+  {
+    "text": "but as much more than that.",
+    "start": 64.12,
+    "duration": 2.085
+  },
+  {
+    "text": "By following the theme back to its\nearliest expressions, we can reconstruct",
+    "start": 66.23,
+    "duration": 5.374
+  },
+  {
+    "text": "the concrete celestial form beneath\nthe full range of mythic symbols.",
+    "start": 71.629,
+    "duration": 5.284
+  },
+  {
+    "text": "The complex ancient images of a\ncosmic mountain can only find meaning",
+    "start": 76.938,
+    "duration": 5.269
+  },
+  {
+    "text": "in a human experience\nthat is not occurring today.",
+    "start": 82.232,
+    "duration": 4.293
+  },
+  {
+    "text": "Events in the skies above\nour early ancestors",
+    "start": 86.55,
+    "duration": 3.531
+  },
+  {
+    "text": "provoked an explosion\nof mythic content.",
+    "start": 90.327,
+    "duration": 3.317
+  },
+  {
+    "text": "In its first form, human witnesses saw\nthe great mountain as a cosmic pillar,",
+    "start": 93.685,
+    "duration": 5.348
+  },
+  {
+    "text": "the visual support of the sky.",
+    "start": 99.058,
+    "duration": 2.586
+  },
+  {
+    "text": "Its summit was the seed of a power\nremembered as the universal sovereign.",
+    "start": 101.669,
+    "duration": 5.141
+  },
+  {
+    "text": " ",
+    "start": 108.417,
+    "duration": 3.474
+  },
+  {
+    "text": "In the most archaic traditions,\nthe great column served as",
+    "start": 111.916,
+    "duration": 4.131
+  },
+  {
+    "text": "the perch, pedestal, or resting\nplace of the creator god himself.",
+    "start": 116.072,
+    "duration": 6.468
+  },
+  {
+    "text": "The ruler on the mountaintop\nwas the primeval Sun,",
+    "start": 123.92,
+    "duration": 4.085
+  },
+  {
+    "text": "the central luminary of the sky,\nnot the body we call Sun today.",
+    "start": 128.03,
+    "duration": 5.078
+  },
+  {
+    "text": "Ancient chronicles of kingship name\nthis luminary as the Father of Kings,",
+    "start": 133.133,
+    "duration": 5.142
+  },
+  {
+    "text": "the first in the mythic line of kings, the\none from whom kingship itself descended.",
+    "start": 138.3,
+    "duration": 6.083
+  },
+  {
+    "text": "In ancient Mesopotamia, this was the\nSumerian An, the Babylonian Anu.",
+    "start": 144.408,
+    "duration": 6.959
+  },
+  {
+    "text": "For the Egyptians,\nit was Atum-Ra.",
+    "start": 152.057,
+    "duration": 3.348
+  },
+  {
+    "text": "For the Greeks, the god Kronos.",
+    "start": 155.43,
+    "duration": 2.809
+  },
+  {
+    "text": "As we've observed in earlier\nepisodes of this series,",
+    "start": 158.264,
+    "duration": 3.717
+  },
+  {
+    "text": "ancient astronomical traditions\nidentify this archaic dominating power",
+    "start": 162.006,
+    "duration": 5.43
+  },
+  {
+    "text": "as the planet Saturn.",
+    "start": 167.461,
+    "duration": 1.66
+  },
+  {
+    "text": "Our present sky is not\nthe key to the past.",
+    "start": 169.146,
+    "duration": 4.532
+  },
+  {
+    "text": "Always the cosmic mountain appears\nas the site of mythic creation,",
+    "start": 175.9,
+    "duration": 5.748
+  },
+  {
+    "text": "and the mount itself is part\nof that creation story.",
+    "start": 181.673,
+    "duration": 4.724
+  },
+  {
+    "text": "Early traditions describe the\nmountain as a cosmic pillar,",
+    "start": 186.422,
+    "duration": 4.199
+  },
+  {
+    "text": "arising out of luminous ejecta",
+    "start": 190.646,
+    "duration": 2.678
+  },
+  {
+    "text": "that exploded from the primeval Sun\nas the central act of creation,",
+    "start": 193.349,
+    "duration": 4.514
+  },
+  {
+    "text": "a great shout producing a\ncloud of chaotic debris.",
+    "start": 197.888,
+    "duration": 4.433
+  },
+  {
+    "text": "In the archaic creation accounts, this\nexplosive outflow was the raw material,",
+    "start": 203.63,
+    "duration": 6.3
+  },
+  {
+    "text": "or primeval matter, from which the\nunique form of creation emerged.",
+    "start": 209.955,
+    "duration": 5.217
+  },
+  {
+    "text": " ",
+    "start": 215.188,
+    "duration": 2.968
+  },
+  {
+    "text": "Human imagination interpreted\nthis ejecta in many ways.",
+    "start": 218.181,
+    "duration": 4.769
+  },
+  {
+    "text": "It saw the clouds\nor waters of chaos,",
+    "start": 224.537,
+    "duration": 3.396
+  },
+  {
+    "text": "or an army of barbaric or frenzied\nwarriors yet to be controlled.",
+    "start": 227.958,
+    "duration": 5.292
+  },
+  {
+    "text": "The same ejecta was seen as the\ncreator's luminous speech.",
+    "start": 233.877,
+    "duration": 5.089
+  },
+  {
+    "text": "Visible words shouted into existence\nand gathered into concrete form,",
+    "start": 238.991,
+    "duration": 5.405
+  },
+  {
+    "text": "the world mountain providing\nthe creator with the support",
+    "start": 244.421,
+    "duration": 3.724
+  },
+  {
+    "text": "that served as his\nown lower limbs.",
+    "start": 248.17,
+    "duration": 3.372
+  },
+  {
+    "text": "Imaginative contemporary illustration\nof the Primeval Hill, the Akhut",
+    "start": 252.565,
+    "duration": 3.015
+  },
+  {
+    "text": "The Egyptian creation account\ndescribes the appearance of",
+    "start": 255.605,
+    "duration": 3.259
+  },
+  {
+    "text": "the world mountain from this\nejecta as a defining moment.",
+    "start": 258.889,
+    "duration": 4.136
+  },
+  {
+    "text": "It meant the emergence of the\nfar-famed Primeval Hill, the Akhut.",
+    "start": 263.05,
+    "duration": 4.884
+  },
+  {
+    "text": "Akhut, the name itself came\ndirectly from the ejecta,",
+    "start": 271.275,
+    "duration": 4.292
+  },
+  {
+    "text": "called Akhu, signifying the radiant words of power\nerupting as the primeval shout of creation.",
+    "start": 275.592,
+    "duration": 7.971
+  },
+  {
+    "text": "The text recall the\ncreator Atum or Ra alone",
+    "start": 284.483,
+    "duration": 4.265
+  },
+  {
+    "text": "wandering to and fro in the heavens before\nfinding a stationary resting place.",
+    "start": 288.773,
+    "duration": 5.811
+  },
+  {
+    "text": "\"I found no place where\nI could stand,\"",
+    "start": 294.609,
+    "duration": 3.06
+  },
+  {
+    "text": "the god recalls in the\nEgyptian creation account.",
+    "start": 297.694,
+    "duration": 3.255
+  },
+  {
+    "text": "\"I was alone. No other\nworked with me.\"",
+    "start": 300.949,
+    "duration": 3.045
+  },
+  {
+    "text": "For context the words\nare critically important.",
+    "start": 304.019,
+    "duration": 2.967
+  },
+  {
+    "text": "This celestial resting place was in\nfact the Akhut, the world mountain.",
+    "start": 307.011,
+    "duration": 5.669
+  },
+  {
+    "text": "Thus, the hieroglyph for the idea \"to stand\"\nconveys the sense of support and stability.",
+    "start": 312.68,
+    "duration": 6.279
+  },
+  {
+    "text": "\"That was before a perch had been formed\nfor me to sit on,\" the god states.",
+    "start": 318.984,
+    "duration": 5.298
+  },
+  {
+    "text": "The perch, described by its hieroglyph,\nwas the cosmic mountain or pillar,",
+    "start": 325.028,
+    "duration": 5.339
+  },
+  {
+    "text": "the very pillar that the Egyptians\npersonified as the god Shu.",
+    "start": 330.392,
+    "duration": 5.206
+  },
+  {
+    "text": "It was a common Egyptian practice to place\nemblems of the creator on the perch sign",
+    "start": 335.623,
+    "duration": 5.676
+  },
+  {
+    "text": "as a testament to the\ncritical role of Shu",
+    "start": 341.324,
+    "duration": 2.762
+  },
+  {
+    "text": "as the emerging pillar of the\nsky in the creation accounts.",
+    "start": 344.111,
+    "duration": 4.672
+  },
+  {
+    "text": "The equation of the god's\npedestal, the Pillar of Shu,",
+    "start": 348.808,
+    "duration": 3.572
+  },
+  {
+    "text": "and the Mount of Creation is\nunequivocal in the Egyptian language.",
+    "start": 352.405,
+    "duration": 4.307
+  },
+  {
+    "text": "The god Osiris, enthroned\nupon the Primeval Hill,",
+    "start": 356.737,
+    "duration": 3.562
+  },
+  {
+    "text": "\"was like an exalted one\nupon thy pedestal.\"",
+    "start": 360.324,
+    "duration": 3.428
+  },
+  {
+    "text": "And the god Anubis, the god\n\"who is on his mountain\"",
+    "start": 363.777,
+    "duration": 3.609
+  },
+  {
+    "text": "was called also, \"the god\nwho is on his pedestal.\"",
+    "start": 367.411,
+    "duration": 4.175
+  },
+  {
+    "text": "But the symbolism of the cosmic column\nranges across many mythic interpretations.",
+    "start": 372.959,
+    "duration": 5.578
+  },
+  {
+    "text": "It includes the hieroglyphic image of\nthe god Sept, a close counterpart of Shu.",
+    "start": 378.562,
+    "duration": 6.013
+  },
+  {
+    "text": "It includes the twin-peaked mountain,\nAkhut, that we previously discussed.",
+    "start": 384.6,
+    "duration": 5.427
+  },
+  {
+    "text": "And it includes all Egyptian words\nrelating to the etheric wind",
+    "start": 390.052,
+    "duration": 4.758
+  },
+  {
+    "text": "or fountain at the region\nbelow the creator.",
+    "start": 394.835,
+    "duration": 3.904
+  },
+  {
+    "text": "This luminous column served\nas the resting place of Atum,",
+    "start": 398.764,
+    "duration": 4.448
+  },
+  {
+    "text": "as made clear by\nthe coffin texts.",
+    "start": 403.237,
+    "duration": 3.011
+  },
+  {
+    "text": "\"The Great God lives, Fixed in the\nmiddle of the sky Upon his support.\"",
+    "start": 406.858,
+    "duration": 7.031
+  },
+  {
+    "text": "This pervasive language of a\ncosmic pillar and resting place",
+    "start": 414.516,
+    "duration": 4.315
+  },
+  {
+    "text": "constitutes a profound challenge\nto all common assumptions",
+    "start": 418.856,
+    "duration": 4.273
+  },
+  {
+    "text": "about the origins\nof ancient thought.",
+    "start": 423.154,
+    "duration": 2.965
+  },
+  {
+    "text": "Egyptian creation accounts\nconsistently refer",
+    "start": 426.597,
+    "duration": 3.231
+  },
+  {
+    "text": "to a time before the appearance\nof this resting place.",
+    "start": 429.853,
+    "duration": 3.622
+  },
+  {
+    "text": "But concrete translations are essential if\nwe are to capture events seen and heard.",
+    "start": 433.5,
+    "duration": 6.72
+  },
+  {
+    "text": "The texts make clear that in his\noriginal condition, Atum was alone.",
+    "start": 440.245,
+    "duration": 5.142
+  },
+  {
+    "text": "\"I was alone. I had not spit in the\nform of Shu, [the pillar of the sky.]\"",
+    "start": 445.412,
+    "duration": 5.252
+  },
+  {
+    "text": "\"I had not poured out Tefnut,\n[first form of the feminine power.]\"",
+    "start": 450.689,
+    "duration": 4.351
+  },
+  {
+    "text": "\"No other worked with me.\"",
+    "start": 455.04,
+    "duration": 2.675
+  },
+  {
+    "text": "\"Then I laid the foundation\nwith my own heart.\"",
+    "start": 458.217,
+    "duration": 3.668
+  },
+  {
+    "text": "\"I poured out the primeval\nAkhu in the form of Shu...\"",
+    "start": 461.933,
+    "duration": 5.235
+  },
+  {
+    "text": "The literal references\nis to explosive outflow,",
+    "start": 468.802,
+    "duration": 3.529
+  },
+  {
+    "text": "interpreted most emphatically\nas visible speech,",
+    "start": 472.356,
+    "duration": 3.299
+  },
+  {
+    "text": "called \"words of power\" shouted\nby the primeval Sun god.",
+    "start": 475.68,
+    "duration": 4.405
+  },
+  {
+    "text": "But the same outflow is interpreted as\nmasculine seed, water, fire, and wind.",
+    "start": 480.11,
+    "duration": 5.918
+  },
+  {
+    "text": "This primeval matter, the Akhu,",
+    "start": 486.053,
+    "duration": 2.985
+  },
+  {
+    "text": "is always identified as the raw material\nof creation in events seen and heard.",
+    "start": 489.063,
+    "duration": 6.73
+  },
+  {
+    "text": "Though our focus here will be on the\nemergence of the towering column",
+    "start": 496.451,
+    "duration": 4.24
+  },
+  {
+    "text": "personified as the god Shu, the\nEgyptian priests insisted that",
+    "start": 500.716,
+    "duration": 4.743
+  },
+  {
+    "text": "the same explosive events gave birth to\nthe first form of Shu's counterpart,",
+    "start": 505.484,
+    "duration": 4.618
+  },
+  {
+    "text": "the goddess Tefnut, appearing as the\nspiraling life breath of creation;",
+    "start": 510.127,
+    "duration": 4.971
+  },
+  {
+    "text": "a subject to which we'll devote\nconsiderable attention in due course.",
+    "start": 515.123,
+    "duration": 4.526
+  },
+  {
+    "text": "The creator announces: \"I could\nfind no place to stand.\"",
+    "start": 522.138,
+    "duration": 4.551
+  },
+  {
+    "text": "\"Words of power came forth from\nmy heart to lay a foundation.\"",
+    "start": 526.69,
+    "duration": 4.67
+  },
+  {
+    "text": "It was from this shout of visible words of\npower that the column of Shu emerged.",
+    "start": 532.035,
+    "duration": 6.264
+  },
+  {
+    "text": "\"I am Life, the Lord of\nYears, living forever...",
+    "start": 539.069,
+    "duration": 3.833
+  },
+  {
+    "text": "the eldest one that Atum\nmade in his words of power,\"",
+    "start": 542.927,
+    "duration": 3.687
+  },
+  {
+    "text": "the Akhu, \"in giving\nbirth to Shu.\"",
+    "start": 546.639,
+    "duration": 3.413
+  },
+  {
+    "text": "Or again Shu announces: \"I came into\nbeing in the limbs of the Self-Creator.\"",
+    "start": 551.623,
+    "duration": 5.705
+  },
+  {
+    "text": "\"He formed me through the\nactivity of his heart",
+    "start": 557.353,
+    "duration": 2.925
+  },
+  {
+    "text": "and he created me in his\nwords of power [the Akhu].\"",
+    "start": 560.303,
+    "duration": 4.438
+  },
+  {
+    "text": "Any attempt to interpret the fiery\nwords of power as an abstraction",
+    "start": 566.702,
+    "duration": 5.089
+  },
+  {
+    "text": "can only distort the explicit awe\nand terror of the human experience.",
+    "start": 571.816,
+    "duration": 5.333
+  },
+  {
+    "text": "The Egyptian priests clearly\nknew that the pillar god Shu,",
+    "start": 577.174,
+    "duration": 3.755
+  },
+  {
+    "text": "who held aloft the resting Atum,",
+    "start": 580.954,
+    "duration": 2.571
+  },
+  {
+    "text": "was the perch or pedestal upon which\nthe creator eventually rested.",
+    "start": 583.55,
+    "duration": 5.462
+  },
+  {
+    "text": "So while one coffin text reads:",
+    "start": 589.615,
+    "duration": 2.397
+  },
+  {
+    "text": "\"I'm raised aloft on my perch above\nyonder places of the Abyss,\"",
+    "start": 592.037,
+    "duration": 4.648
+  },
+  {
+    "text": "another speaks of the great perch:\n\"I do not fall on account of Shu.\"",
+    "start": 596.71,
+    "duration": 5.452
+  },
+  {
+    "text": "This resting place was also\ncalled the foundation of Ma'at.",
+    "start": 602.598,
+    "duration": 4.936
+  },
+  {
+    "text": "A stylized glyph of Ma'at is, in\nfact, an image of the Primeval Hill.",
+    "start": 607.559,
+    "duration": 5.658
+  },
+  {
+    "text": "Often the glyph is simply read as\nthe pedestal of the great god.",
+    "start": 613.242,
+    "duration": 4.213
+  },
+  {
+    "text": "In its root meaning, Ma'at denotes\nthe stable enduring foundation,",
+    "start": 617.48,
+    "duration": 4.605
+  },
+  {
+    "text": "the source of cosmic regularity.",
+    "start": 622.11,
+    "duration": 2.436
+  },
+  {
+    "text": "The creation texts say that the\ncreator \"rests upon Ma'at.\"",
+    "start": 624.571,
+    "duration": 4.321
+  },
+  {
+    "text": "Repeatedly, we see that the\nconcept of support or foundation",
+    "start": 629.36,
+    "duration": 4.444
+  },
+  {
+    "text": "merges with the mountain or hill. The word \"thes,\" for example,",
+    "start": 633.837,
+    "duration": 4.657
+  },
+  {
+    "text": "means \"support, to bear or\nlift up\" but also \"mountain.\"",
+    "start": 638.519,
+    "duration": 5.971
+  },
+  {
+    "text": "The reason for this is\nthat the only mountain",
+    "start": 647.158,
+    "duration": 2.842
+  },
+  {
+    "text": "with which the ritual\ncelebrations were concerned",
+    "start": 650.025,
+    "duration": 2.839
+  },
+  {
+    "text": "was the cosmic mountain,\nthe foundation of heaven.",
+    "start": 652.889,
+    "duration": 3.418
+  },
+  {
+    "text": "One finds no exceptions to this.",
+    "start": 656.332,
+    "duration": 2.315
+  },
+  {
+    "text": "\"May I endure in the sky like the cosmic\nmountain, like the primeval support,\"",
+    "start": 658.672,
+    "duration": 5.63
+  },
+  {
+    "text": "reads a hymn of the\nPyramid Texts.",
+    "start": 664.327,
+    "duration": 2.527
+  },
+  {
+    "text": "For this celestial peak, the Egyptians\ncontinually look back in their myths and rites.",
+    "start": 667.1,
+    "duration": 5.519
+  },
+  {
+    "text": "On behalf of the deceased king,",
+    "start": 672.746,
+    "duration": 1.901
+  },
+  {
+    "text": "the priest poured a heap of sand\non the floor inside the pyramid,",
+    "start": 674.672,
+    "duration": 4.566
+  },
+  {
+    "text": "placing atop the sand a statue of the\nking and reciting a prayer which began:",
+    "start": 679.263,
+    "duration": 5.51
+  },
+  {
+    "text": "\"Rise upon it, this land which came forth\nfrom Atum... Assume your form upon it.\"",
+    "start": 684.798,
+    "duration": 5.836
+  },
+  {
+    "text": "The sand poured out meant\nthe primeval matter",
+    "start": 690.96,
+    "duration": 3.58
+  },
+  {
+    "text": "and the hill so formed\nmeant the Primeval Hill.",
+    "start": 694.565,
+    "duration": 3.065
+  },
+  {
+    "text": "And so, according\nto T. Rundle Clark,",
+    "start": 697.655,
+    "duration": 2.96
+  },
+  {
+    "text": "\"Osiris sits in judgment in a\npalace in the Primeval Mound,",
+    "start": 700.64,
+    "duration": 4.705
+  },
+  {
+    "text": "which is the center\nof the world.\"",
+    "start": 705.37,
+    "duration": 2.733
+  },
+  {
+    "text": "\"May I be established upon my resting place\nlike the Lord of life,\" the king declares.",
+    "start": 708.492,
+    "duration": 6.297
+  },
+  {
+    "text": "One of the most familiar representations\nof the Primeval Hill is the obelisk.",
+    "start": 715.71,
+    "duration": 5.157
+  },
+  {
+    "text": "The small pyramidion on top of the\nobelisk denoted the Benben stone,",
+    "start": 720.892,
+    "duration": 4.626
+  },
+  {
+    "text": "the living soul of\nthe creator, Atum.",
+    "start": 725.543,
+    "duration": 2.841
+  },
+  {
+    "text": "\"Atum-Khepri, thou wert\nhigh as the Hill.",
+    "start": 728.611,
+    "duration": 3.346
+  },
+  {
+    "text": "Thou didst shine\nforth as Benben.\"",
+    "start": 731.99,
+    "duration": 3.0
+  },
+  {
+    "text": "Thus, the obelisk came to be employed as\nan idiograph for the Egyptian word \"men.\"",
+    "start": 735.717,
+    "duration": 6.057
+  },
+  {
+    "text": "The word meant the\n\"mountain\" or \"pedestal.\"",
+    "start": 741.799,
+    "duration": 3.461
+  },
+  {
+    "text": "But it also meant \"stability\"\nand \"to rest in one place.\"",
+    "start": 745.285,
+    "duration": 5.065
+  },
+  {
+    "text": "Derived from the same root\nis the Egyptian word \"mena\"",
+    "start": 751.174,
+    "duration": 3.892
+  },
+  {
+    "text": "or \"menat, the celestial\n\"mooring post.\"",
+    "start": 755.091,
+    "duration": 3.183
+  },
+  {
+    "text": "The Egyptians conceived\nthis stationary pillar",
+    "start": 758.299,
+    "duration": 2.621
+  },
+  {
+    "text": "as the stake around which the\nsecondary powers of heaven revolved.",
+    "start": 760.945,
+    "duration": 4.944
+  },
+  {
+    "text": "That's the meaning of Mena Uret,\n\"The Great Mooring Post,\"",
+    "start": 767.309,
+    "duration": 4.519
+  },
+  {
+    "text": "connecting the masculine post to the\ncomplementary symbolism of the mother goddess,",
+    "start": 771.828,
+    "duration": 5.454
+  },
+  {
+    "text": "whom we shall identify as the\nspiraling life breath of creation.",
+    "start": 777.307,
+    "duration": 5.164
+  },
+  {
+    "text": "As we delve more deeply into the symbolism,\nwe'll return to the special nuances",
+    "start": 784.348,
+    "duration": 5.204
+  },
+  {
+    "text": "of the cosmic column as world axis, the post,\npeg, stake, nail, or anchor of creation.",
+    "start": 789.577,
+    "duration": 7.083
+  },
+  {
+    "text": "The distinguished authority, Henri\nFrankfort, understood the principle well:",
+    "start": 797.207,
+    "duration": 5.556
+  },
+  {
+    "text": "\"Everywhere the site of creation, the\nfirst land to emerge from chaos,",
+    "start": 803.427,
+    "duration": 4.734
+  },
+  {
+    "text": "was thought to have been\ncharged with vital power.",
+    "start": 808.186,
+    "duration": 2.959
+  },
+  {
+    "text": "And each god counting as Creator was made\nto have some connection with this Hill.\"",
+    "start": 811.17,
+    "duration": 6.648
+  },
+  {
+    "text": "If the significance of this idea is to\ntruly register on human consciousness,",
+    "start": 819.852,
+    "duration": 5.901
+  },
+  {
+    "text": "it must be seen as something more than an\nobscure regional experience or abstraction.",
+    "start": 825.778,
+    "duration": 6.576
+  },
+  {
+    "text": "It is a worldwide memory preserved through\ncompeting imaginative interpretations",
+    "start": 832.379,
+    "duration": 5.751
+  },
+  {
+    "text": "all pointing back to a\nsingular experience.",
+    "start": 838.155,
+    "duration": 3.54
+  }
+]

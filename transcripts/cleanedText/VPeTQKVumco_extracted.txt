@@ -1,0 +1,299 @@
+Welcome to Space News from
+the Electric Universe,
+brought to you by The
+Thunderbolts Project™
+at Thunderbolts.info
+In Part 3 of this
+four-part presentation,
+physicist Eugene Bagashov
+continues his analysis
+of the New Horizons mission
+to the dwarf planet Pluto.
+In the Plutonian system, one of the great
+surprises for planetary scientists
+was a Chandra Observatory's
+detection of X-rays from Pluto.
+This is only one of several
+phenomena at the planet
+that sometimes draw the
+analogy of Pluto to a comet.
+In the Electric Universe Theory, as
+developed by physicist Wal Thornhill,
+any body on a significantly
+elliptical orbit
+can display comet-like
+characteristics.
+Today, Eugene Bagashov offers
+his own thoughts on this
+and other surprises from Pluto,
+including the mysterious behavior
+of the Plutonian atmosphere.
+Eugene Bagashov: In one of the
+previous Space News episodes on Pluto,
+I've mentioned the various
+atmospheric anomalies
+that have been detected at this dwarf
+planet by New Horizon spacecraft.
+Those include, for example,
+the low atmospheric pressure
+and at the same time the unexpectedly
+high location of haze layers.
+And in the paper called "The Atmosphere
+of Pluto as Observed by New Horizons"
+that came out in March of 2016,
+there are reports of some new
+misconceptions being observed.
+For example, it is said
+that the upper atmosphere,
+approximately 200
+kilometers and above,
+is much colder and much more
+compact than the models indicate.
+So, the authors have supposed there should
+be some "cooling agent" present there.
+Yet, they acknowledge the complete
+lack of evidence for such a presence.
+And it seems that the
+nitrogen escape into space
+is also a few orders of magnitude
+less than was previously thought,
+actually around
+10,000-times less.
+Such a huge mistake clearly
+means there is something wrong.
+Basically, the model that is
+being used doesn't seem to work.
+The temperature near the
+surface, on the other hand,
+was determined to be somewhat higher
+than it should be, around 45 Kelvin.
+The models seem to indicate that,
+at the given atmospheric pressure,
+the nitrogen ice will be in equilibrium with
+the atmosphere only at around 37 Kelvin.
+So, the atmosphere near the
+surface is 8 degrees too hot,
+if one might use this word
+for Pluto conditions at all.
+It's too hot for the nitrogen
+ice to just sit there.
+So, the scientists have supposed
+that the surface might possibly be
+covered with some other
+less volatile material.
+Yet, as I've noted in
+previous parts of his review,
+we clearly see nitrogen spectral
+signature on the surface.
+The mentioned paper also reports
+of an identification of at least
+20 haze layers in the
+Pluto's atmosphere,
+separated by distances of the
+order of tens of kilometers.
+The authors propose gravitational
+wave-like displacement
+as the physical reason for
+the observed layering.
+It is thought that the process might
+be initially driven by sublimation
+and the interaction
+of weak Pluto winds
+with the orographic
+features such as mountains.
+The proposed wind speeds are around
+one or two meters per second.
+But from the EU perspective,
+such layered structure
+makes one think about
+plasma behavior,
+which is not at all far-fetched,
+given their apparent lack of
+any significant protection
+from ionization by solar particles
+and galactic cosmic rays.
+In my opinion, it is entirely possible
+that the electromagnetic effects
+might be somehow ruining the models
+that are used by the New Horizons team
+to infer the temperature, pressure,
+and other relevant parameters.
+Another evidence for this comes from the
+recent paper quite straightforwardly titled
+"The Puzzling Detection of
+X-rays from Pluto by Chandra."
+Chandra is a well-known
+space X-ray observatory.
+Once in 2014 and on three
+occasions in 2015,
+it has been devoting its time
+to the Pluto observations
+in support of the New
+Horizons mission.
+As a result of approximately two
+days of total observation time,
+it has detected eight photons in the energy
+range from 300 to 600 electron volts
+while none has been detected in the
+range of 600 to 1000 electron volts.
+The detected events
+seem to be genuine,
+that is, not related to background
+sources or the instrument noise.
+And they all come from the square box
+with the side of 100 Pluto radii
+centered on the planet itself.
+Unfortunately, the instrument resolution
+couldn't allow for any more details.
+So, they have to originate
+from somewhere in the system.
+And maybe eight photons in two
+days doesn't sound like much.
+But considering how
+far away we are,
+if the same flux is going
+in every direction,
+we get a pretty impressive 200 megawatts
+of X-ray power flux leaving Pluto.
+This is about it 1,000-times weaker
+than the total power of Earth auroras
+during a decent
+geomagnetic storm.
+The question, however, is where
+do these X-ray photons come from?
+The authors of the paper rule out
+the possibility of auroras on Pluto
+since it is supposed not to have
+any significant magnetic field.
+Another possibility is
+scattering of solar X-rays
+but the spectrum is different and the
+power is up to 1,000-times too high.
+So, the last option that
+the authors propose
+is the so-called "solar
+wind charge exchange."
+Basically, this means that the solar
+wind ions strip away electrons
+from the atmospheric atoms,
+and those electrons settle
+in the solar wind atoms,
+making the neutral
+or less ionized,
+at the same time emitting a photon
+in this case in X-ray energy range.
+Very roughly speaking, it is the
+transport of negative charge
+from the atmosphere
+to the solar wind,
+which sounds pretty much
+like an electric current.
+Anyway, the interesting
+part is that this process
+will be more or less consistent
+in terms of spectrum,
+still is thought to be too weak to
+provide the needed number of events.
+The author state that one needs around
+40 times more solar wind hitting Pluto
+than should be available at
+this distance from the Sun.
+I quote: "The solar wind must be
+somehow significantly focused
+and enhanced within 60,000 km of
+Pluto for this mechanism to work."
+Do we know any means of focusing
+positively charged particles?
+Well, the most simple and straightforward
+answer would be with the electric field.
+If you suppose that Pluto
+bears the negative charge
+with respect to the solar wind
+coming from the inner heliosphere,
+it would indeed tend to focus it, almost
+like an electric lens, so to speak.
+It might as well happened that
+the charge would be big enough
+to accumulate the wind
+from a very big area.
+Thus generating the
+needed number of events.
+What is interesting is that
+the solar wind density,
+registered by SWAP instrument
+at the time of the fly-by,
+was actually around five-times
+bigger than expected.
+It was thought to be a result of the recent
+passage of coronal mass ejection shockwave
+but might at least partly be caused by the
+mentioned focusing of the solar wind.
+One of the arguments against the
+electric comet idea, by the way,
+is that the solar wind
+density is too low
+to produce the observed
+amount of water in comets.
+But very simple calculations show
+that it might be easily compensated
+by taking into account the
+negative charge of comet nuclei,
+which we know is present and the
+charge needed is very reasonable.
+For example, for the maximum of
+[Comet] 67P water emissions,
+my calculations gave the charge of
+the order of only tens of coulombs.
+Of course, here I've neglected Debye
+screening and other complex plasma effects,
+which might be very important but the
+core idea seems not at all impossible.
+So, it seems the specific electromagnetic
+effects might be responsible
+for the X-ray emissions on Pluto as
+well as the other mentioned anomalies.
+I'd like to mention that
+the comparison of Pluto
+with comets and 67P in particular
+is not too far-fetched.
+The X-rays detected by
+the Chandra telescope
+are in the energetic range of
+a few hundred electron volts,
+which obviously would correspond
+to the electrons being accelerated
+by the electric field of a few
+hundred volts potential difference,
+somewhere in the
+Pluto environment.
+And interestingly enough,
+the Rosetta probe,
+upon the arrival in the
+vicinity of the Comet 67P,
+have detected a mono-energetic beam of
+singly-negatively charged dust particles
+with energy of a few
+hundred electron volts.
+The fact that those particles
+had almost the same energy
+means they also most likely were
+accelerated by the electric field,
+and not were the result of some
+thermal processes or whatever.
+So, it seems that in general this
+kind of electric potential scale,
+a few hundred volts, might be
+characteristic of the interaction
+of very small bodies with
+interplanetary plasma.
+Another occasion of very similar
+negative beam detection
+is the Saturn's moon Hyperion, zapping the
+Cassini probe during its flyby in 2005.
+There the potential difference was
+of the same scale, around 200 volts.
+Stay tuned for Part 4
+For continuous updates on Space
+News from the Electric Universe,
+stay tuned to
+Thunderbolts.info

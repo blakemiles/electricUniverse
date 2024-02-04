@@ -1,0 +1,787 @@
+[Music]
+First off, I think I'd better apologize that I'm
+going to talk more about gravity than Electric
+Universe, but I think you can see a few connections
+as we go along. I didn't know how to organize this.
+Clearly I'm going to present it in a way
+that it wasn't derived, and what I'm
+trying to do here is simply to show some
+agreement with facts and ask questions.
+What does theory say, what does the evidence
+say? And what's next, I'm going to talk
+a little bit about the Electric Universe,
+if I can get through it. I've got too
+many slides, I'll admit. Okay, we'll go
+ahead. First of all, I think there's some
+guiding principles we need to follow. A reliable
+experiment trumps any theoretical claim, and
+rational explanation trumps any magical
+mechanism. There's quite a bit of magic
+in special relativity and that's partly
+why I say that one. I like this verse
+from Proverbs by Solomon. He was probably
+the leading scientist of his day and I think it's
+insightful. Here's a few nice quotes that
+I just couldn't help from putting in.
+The tendency of a group of human beings
+to quickly come to believe something
+that its individual members will later
+see is obviously false, is truly amazing.
+It is controversy that keeps science alive and keeps
+it moving. And, science is the organized skepticism
+in the reliability of expert opinion. I tend
+to agree strongly with those statements.
+Just a little background. I've written a bunch of papers;
+I figured I'd put them here, so if you have questions you
+can probably find them. The last one
+there hasn't been accepted yet, but I'm
+fairly confident it will be in the near future now. It's
+been in process for two years, fighting with some of the
+reviewers. Okay, now into some of the questions
+and answers. I've tended to put in red things
+that I disagree with (I haven't followed that
+carefully) and green are things that are true.
+And here's some things about GPS that I
+think they have pictured properly. And
+one of those is, what effects does
+gravitational potential have on atomic
+clocks? Clocks higher in the gravity field run
+faster. And, also, in motion, what does kinetic
+energy, not just velocity but kinetic energy,
+speed of movement, have on atomic
+clock rates? And it slows them down.
+And there's clear evidence for this. GPS
+in an elliptic orbit (it's not highly
+elliptic, but elliptic enough),
+when it's near perigee,, it's going faster,
+and it's slower in the gravity field. The
+two effects are identically equal and
+add together, and in fact the equations
+in different uses sometimes will compute
+the velocity and use that and double it.
+And sometimes they'll compute the potential and
+double that. Similarly on the surface of the earth,
+because we're spinning, a clock at the equator for
+example, is farther away from the center of the
+earth, it's got a [higher] gravitational potential,
+and that [higher] gravitational potential
+caused it to run faster. However,
+it's spinning which causes it to run
+slower. [These two effects] exactly cancel
+each other. So, if you had a mean sea
+level all the way around the earth, all the clocks
+would run at the same rate. Kind of interesting.
+Next is the theory of the Equivalence Principle.
+Gravity acts on electromagnetic radiation and here's
+what the recognized authorities say.
+And here is where we run into some real
+problems. The claims [that] the frequency/energy
+of electromagnetic radiation when rising in a
+gravitational field has a redshift. I.e., it
+decreases. When falling, it has a blueshift or
+increases. I show four people here, Einstein, Feynman,
+Clifford Will, and Neil Ashby. Will and Ashby are
+current theorists that are well recognized,
+and they all claim that this is the case.
+Well, they use an energy argument from
+Feynman and Einstein. One of them
+talks about frequency, one about energy.
+[This is the] same thing. The argument is made by
+the conservation of energy. It takes
+energy to move an atom up in a gravity
+field, and then you let it emit some
+radiation. You lower the atom back down
+and let it absorb the electromagnetic
+radiation. Well, the energy of the atom is
+different, they claim, and therefore the energy of
+the radiation that's gone between them has to change,
+or you wouldn't get back your original energy.
+Well, what's the problem with that? The
+critical assumption in the Einstein and
+Feynman energy argument is that the same
+amount of energy is required to emit radiation from
+an atom, independent of the gravitational potential.
+Well, this is not obviously true, and I will
+show that in fact it is obviously not true.
+First of all, the Transit system and GPS,
+both show that in fact, the frequency as
+it falls from satellite to ground, does
+not change. In fact, I find it highly
+interesting that Clifford Will admits on
+page 50 of his “Was Einstein Right?” that
+clocks are affected when you move them
+up and down in the gravity field. But he
+says, we can't really know if it's a clock
+rate because it's not measured in real time.
+Yeah, just some real beautiful logic here. So I claim
+that it is the frequency emitted which changes and not the
+frequency in transit. For example, the
+famous experiment at Stanford where they
+let radiation fall in a tower, it was the fact that the
+clocks that they measure the frequency with, is different,
+not the fact that the radiation changed.
+There's direct proof available from GPS
+to show that this frequency does not change in transit.
+I think this is the best case that I can make. GPS sends a
+modulated signal from satellite to ground that's
+binary encoded, and encoded in it is the time at
+which the signal left the clock, left the
+satellite, and the time at which it
+reaches the ground then can be measured.
+The difference in time sent and the
+time received is multiplied by the speed of light to get
+the distance. If the frequency or energy increased in
+transit during that time, the phase
+reversals would be wrong and the major
+distance would be short. Well, maybe it is
+short. But the integrated carrier frequency
+would get shorter and shorter because
+it's all continuously decreasing. And in
+fact, my old Hatch filter where I
+smoothed the code measurements with the
+carrier, to get higher accuracy, would
+diverge. It doesn't diverge, therefore the
+frequency cannot be changing as it falls.
+And here's that ‘outstanding logic’ again
+from world famous relativists. Clifford Will, I already
+mentioned he says you don't know whether it happens
+in real time or not. Neil Ashby, I call this
+‘double or nothing’ quote, “Second, the
+strong equivalence principle implies that light traveling
+downward in a gravitational field is shifted to a
+higher frequency; i.e., it is blue-shifted
+and gains energy. As a consequence,
+atomic clocks at a higher elevation of
+the gravitational field run faster.” I say
+what kind of logic are these people trained in?
+I think, quoting from Peter, just a phrase in the New
+Testament, “they are willingly ignorant.” I happen
+to know, for example, Clifford Will a graduate
+student of his called me once after he read one of my
+letters and said, I talked to Will about this and he
+says, “you're wrong and when he gets back
+from vacation he'll let you know.” Well,
+that was two years ago. I presume he's
+back from vacation by now. And Ashby
+recently submitted an article to that same magazine that
+I had my first paper in, on that list, and it essentially
+addressed the same issue that I addressed seven years
+earlier. Well, he came up with a weird explanation
+for the same thing that I explained, I
+think, logically. I criticized it back to
+the editor; turns out the editor is a friend of mine,
+or I would never have got the original paper published,
+so I sent the criticism back and that's been four or five
+months ago and the paper still hasn't appeared. So, I'm
+beginning to think that they are, as I
+said, ‘willingly ignorant’. They don't want
+to look at the facts. Okay, there are a lot of related
+questions though if you follow this logic to its
+natural conclusions. Incidentally, this
+Sheldon Harris again I saw one earlier
+of this same picture I think. “He hasn't made any
+progress with his theory, so he's beginning to work on his
+resemblance to Einstein.” Okay, where does
+gravitational potential energy come from? How does the
+gravitational force arise? Do inertial and structural mass
+diverge? How is the total energy split between structural
+energy and kinetic energy? Is the matter
+wave frequency or energy, defined by
+twice the classical kinetic energy? And
+can black holes exist? So let's look at
+some of the implications of that fact that
+the frequency doesn't change as it falls.
+It has some huge implications. First of
+all we can reverse Einstein and Feynman
+to say, obviously if the frequency hasn't
+changed going up and down, then the
+energy hasn't changed of the particle itself.
+Well, that means that this energy of
+falling must have come from the structure itself.
+In other words, the rest mass energy
+(maybe I'll show later, I prefer to
+call it structural), the structural mass
+energy is what has changed and
+provided us our gravitational energy.
+Since radiant energy doesn't change,
+the kinetic energy of fall must come from
+the decrease of the rest-mass energy. And that's
+a big implication. There's some gravitational force
+implications. If gravitational energy
+comes from the rest-mass, the spatial
+gradient/derivative of the energy should
+give us the gravitational force. And it
+does very closely. If I use a gravitational scale factor
+for length and energy, etc., which we will go into a
+little more, Einstein has the square root
+one there. I have instead an isotropic
+one, (it's called that in some of the
+literature), but it's the one I get when I
+say that matter is made up of resonant,
+spinning ether blobs if you will, and because
+it takes reaction time of the ether at
+sea, that's where we get m c squared.
+In any case, if I use the exponential form, you'll
+see it differs only out there in the second order.
+But when I take that potential energy
+and take the gradient of it, a big
+difference. In the isotropic form I get the
+scale factor in the numerator here, right there,
+and if I use Einstein’s it goes in the
+denominator. In other words, the force
+would increase as I fall, even though I know I'm
+losing energy, structural energy, which I think is the
+gravitational potential energy. So, the isotropic
+form has to be the correct form for me to gain energy
+from the particle itself. Well, this has
+other interesting implications. In fact,
+if you pursue it to its logical, the G
+itself has a scale factor. I almost
+neutralize that by putting c-fourth in
+the denominator, and saying the force is
+generated by the energy of the rest
+mass energy, or structural energy of the
+source, and acting on the structural energy of the
+particle which now is decreasing in energy as it falls,
+and in fact this explains the Halton Arp low energy, I
+think. Because as you add more and more mass, it has less
+and less effect. Incidentally that rules out a black hole,
+among other things. But it also explains quite a bit of
+Halton Arp’s observations, I believe. Since they
+measure how much mass there is in a star by the
+orbiting stars around it, or whatever,
+this decreased force (because of this
+decreased F) also says that they're
+measuring the mass too low, which
+explains why some of the blue stars have a redshift
+that Halton Arp explained and fits together with it
+being a gravitational shift, and works out very nicely.
+Gravitational Scaling and No Black Holes.
+Shapiro experiment did radar time delay
+from Mars as it passes behind the Sun
+and showed that in fact the speed
+of light slows as the square of the
+gravitational scale factor. Local time intervals get
+longer by the inverse of s, clock frequency slowing,
+which implies that lengths shorten by s,
+and that means the structural energy
+decreases by s. The mass itself increases as the cube,
+but the energy decreases because of the speed of light
+changing. And black holes, the
+gravitational force is self-limiting, the
+structure and gravitational energy decrease
+proportional to s. Gravitational force does not act on
+electromagnetic radiation which means that any emissions
+from a black black hole if it were there, if it were
+straight up, it would have no effect. What
+you're seeing is just simply the lower
+frequency at which it was emitted. Now it is true that
+there's some refraction effects, so if it came out at
+an angle it would dim that result. But the major
+effect is there obviously could not be a black hole.
+Okay, Weak Equivalence Principle.
+Gravitational and inertial mass are equal, is
+the claim, and the energy implications of
+that. The velocity scale factor I give over
+here, and there's the total energy - the
+potential energy plus the kinetic. The
+components of the total energy, I say
+the structural and the kinetic are given
+here, and you'll notice that I've doubled the
+kinetic energy. And that's because I claim that
+there's a hidden component which is
+evidenced by the fact that a moving
+particle emits lower radiation. So, it has
+converted part of its structural mass,
+when it moves, into kinetic mass and that
+works out for a number of reasons, and it
+looks like it's great. The identification
+of the structural/gravitational and
+inertial mass then becomes like this.
+Inertial mass times the speed of light
+times s gives the total energy. And then
+the gravitational energy and the kinetic
+energy. Okay, problem is [that] the decreased
+potential energy causes the frequency
+radiated to decrease, and therefore
+decrease structural energy. Increased
+kinetic energy also causes it to
+decrease and the solution is the same.
+The structural and inertial mass diverge
+with velocity. There's actually been
+some evidence of that in some other papers that
+I don't cite here. The theory says rest mass is
+invariant with frame and energy
+conservation. The invariance of the rest
+mass - it's really interesting here. In special relativity
+they claim that the rest mass doesn't change. Well, if
+we work through the equations and we
+expect energy to be conserved, what we'd
+expect would be that the energy of the
+moving planet or whatever, would be
+decreased by the kinetic energy. And sure enough,
+when you plug that into this equation, you get that the
+structural mass has apparently decreased
+by the gravity’s motion factor. And
+that in fact resets them, so that if I'm
+going to measure them on the earth,
+they'll look like they're the same. We'll go into a
+little more of that. Note that it's numerical invariance
+and not physical invariance, for both
+speed of light, inertial mass and
+a number of other things. Confirmation of
+structural mass decrease and inertial mass
+increase with velocity, which is contrary
+to theory. The frequency of emission (and
+absorption) increases with potential
+energy, but decreases with kinetic energy
+(e.g. Pound-Rebka experiment) that I mentioned
+earlier. The frequency (energy) of matter
+waves is twice the classical kinetic
+energy. I've never seen anybody try
+to explain why. Direct tests of inertial
+and gravitational mass divergence (with
+fall) have always been performed at the
+same velocities. So, they're not even really
+looking for it. In a given frame the
+structural (gravitational) mass and the
+inertial mass are equal when stationary,
+because the kinetic energy is reset to
+zero in your moving frame. In a given
+frame, the structural (gravitational) mass
+and inertial mass may vary by the same
+amount as the gravitational potential
+energy is changed, if you're not moving up and down
+in that potential. Okay, on to the next. GPS and the
+Strong Equivalence Principle Theory.
+Here's what the experts say. The effects
+of acceleration and gravity are completely equivalent.
+Einstein said it. Feynman said it. Ashby
+says it in chapter 14 of the Global
+Positioning Bible, if you will, and let's
+just go on: What experiment says.
+Gravitational potential causes clock
+rate changes, but acceleration causes Doppler frequency
+changes. Well, there's a significant difference there.
+I can integrate my clock frequency
+changes and get time. I can't integrate
+Doppler frequency and get time. But by the
+previous argument from GPS, the frequency
+does not change when falling and
+the radiated frequency (clock rate)
+changed as a function of the
+gravitational potential. In GPS, the
+Doppler frequency can be distinguished
+from the clock rate by sending the clock
+reading via the same electromagnetic
+signal, i.e. it is modulated on the signal.
+Tracking millisecond pulsars can
+distinguish between clock rate and
+Doppler rate and [this] clearly shows that
+they aren't equal. Clock rate integrates
+into clock time but Doppler does not. The
+effects are not equivalent. I do admit
+there is one minute [tiny] effect that
+cancels and that is with the earth falling
+towards the Sun as it orbits, and the
+GPS also falling, it turns out, over that
+70 milliseconds, there's just enough tiny acceleration
+of the earth that it essentially cancels out that clock
+effect instantaneously. But, as we shall see,
+the integration of it still has good effects.
+On to theory again. Infinitesimal Lorentz Boosts
+(or transformations). The theory claims that
+there are valid means of adjusting SRT to accelerated
+frames. And I give a bunch of references for that.
+Experiment instead, agrees with Goy's hypothesis.
+He's a Prof. in Italy and he says that you can't do
+Lorentz transformations instantaneously, but
+you can set your clock rate instantaneously to
+whatever the velocity is at that point.
+And that's proven by the fact [that] in
+a muon storage ring the acceleration has no effect,
+but the velocity does directly affect it. And
+here I want to do a couple of experiments to
+illustrate a little bit of this. If you use GPS and
+free running clocks to measure the time
+and the speed of light in orbit around
+the earth, and I'm going to measure
+the speed of light across this bar, or
+even perhaps across this bar, if I gravity gradient
+stabilize it for example, so that this always points
+towards the earth, then these two clocks on the two edges
+run at exactly the same rate, because they're traveling
+at exactly the same rate and exactly the same
+potential. Meanwhile these two are traveling at
+slightly different speeds, and that speed is just exactly
+enough to cancel the difference in the potential.
+And so, all these clocks will run at the same rate
+if I'm not rotating this. The horizontal leg is just
+like GRACE and the GRACE satellites use GPS for
+time and they clearly show that, yes the clocks
+run at the same rate. They agree with
+the GPS time and GRACE is just two
+satellites in the same orbit, separated
+by a couple of hundred kilometers.
+But there are some interesting things
+that we can also learn here. For light
+traveling between those two satellites,
+it turns out it will be measured as
+c minus v, the velocity of the satellites.
+Because of the transit time, how far the
+satellites have moved in that transit time,
+we can reduce that to a distance
+traveled. We can compute a change in
+clock that would compensate for it and
+it turns out that it's exactly that v x over
+c squared negative. And for carrying
+a clock, if you look at the gamma factor
+and look at the center part term, which
+is caused by the orbit, you get that
+same correction. The first term can be
+made arbitrarily small by moving slowly.
+And this one is common to anything on
+the earth, so you can get exactly the same
+effect by carrying a clock from one to the other.
+Slow clock transport induces a clock bias,
+and Einstein two-way synchronization
+produces that same clock bias. So
+they will measure the speed of light as
+c, if in fact you try to synchronize them.
+But if you don't synchronize them and
+it's not rotating, you won't. Next: spin.
+What if we rotate it, or what if we stop
+the rotation (we were rotating the last
+one pointing towards the earth)? This one
+we’re not. And one way of doing that
+would be to spin this thing around its
+vertical axis, and now it won't rotate as it goes
+around the earth. The spin we could use to see that it
+would create the clock bias between the two that
+make it look like the speed of light is c between the two.
+These two clocks run at different rates,
+because of their gravitational potential.
+But lo and behold, if you integrate those two
+rates as this goes around the earth, this one
+will wind up being behind it, once you've
+gone a quarter of the way around, and it
+creates just exactly the right amount of
+clock bias to measure the speed of light
+of c again. Well, this is exactly what
+happens on the earth: the spin of the
+earth keeps the earth oriented the same
+way in space, and the spin and the
+gravitational potential of the sun, wind
+up causing it to make it look like the
+speed of light is c on the earth, even though
+it's not. Okay I think that's good enough.
+Next, theoretical claims for Lorentz
+transformation or boosts. If you make two
+non-collinear Lorentz transformations,
+they claim it'll create a torque. Nobody
+knows where the torque comes from, but
+Thomas gave an original derivation for
+that on the electron. Lorentz boosts of
+the earth causes the cancellation of the
+Sun's gravitational field, according to
+Ashby. Muller attempts to explain the
+torque and he actually gives a physical
+explanation which I think makes sense.
+The trouble is, if he were right, and if
+the Thomas procession explanation
+were right, you'd get twice as much. I do believe that
+the divergence of structural mass and inertial mass can
+cause the precession effect. The experiment: gravitational
+potential of the Sun does not affect the clocks.
+This does affect the clocks, whereas
+they claim that it didn't. The frequency
+effects integrate into the clock biases.
+And that's exactly by the process I just
+explained on that spinning ‘thing’. The earth is
+spinning; as a result you get some clock biases,
+that wind up making the speed of light look like it
+is the same in all directions. And when the orbit
+direction changes, the gravitational potential of the
+Sun is just enough to keep that bias the same amount. So,
+Ashby's claims are wrong. The fall of the
+earth does not cancel out any effect on
+the clocks caused by the gravitational field of
+the Sun. There's another fundamental question we
+can get back to. What about length contraction?
+Is it real? If so, what's the mechanism?
+I claim that the conservation of momentum requires
+length contraction of an orbit in a moving frame. How do
+I get this? Well, when you're moving,
+the inertial mass increases as the
+experiments have shown. It turns out
+that, if I'm in orbit around the earth for
+example, up here, my orbital speed adds
+to the earth speed. I'm going enough
+faster, then my mass is a little higher.
+Conservation of momentum says I have to
+move a little bit slower, therefore I'm
+going to wind up closer to the earth in
+front. Down here just the opposite effect.
+It cancels some of it. I get lower mass,
+therefore my speed has increased and I get a little
+closer to the earth on the tail end. I believe that exact
+same thing happens in the atoms and so forth. So,
+we get length contraction caused by conservation of
+momentum. Well, there's another amazing
+fact about it and that is it's exactly
+the same clock bias that will counteract that slow tiny
+velocity change and make it look like we have uniform
+momentum in an orbit around the earth,
+even when the momentum is not uniform.
+And the clock times. I could use this as a clock
+and see that there's clock slowing etc. Okay,
+theory says the speed of light is
+physically invariant. Wikipedia questions
+it and I say the real question is, is the
+speed of light physically invariant, or
+simply numerically invariant in a local
+inertial or local gravitational frame?
+Shapiro radar time delay shows the speed of light
+varies in a gravitational potential, and I say:
+lengths shorten, frequency decreases, speed
+of light decreases as the square, but it's
+locally invariant numerically. In other
+words, it's physically changed, but
+it has not mathematically changed in
+terms of a number I would measure
+locally. Now back to transformations.
+We get the Selleri transformation.
+Again, a Prof. in Italy, has developed a transformation
+where he says there's clock slowing and there's
+length contraction, which is why I've
+argued for those two. And he gives a
+simple set of equations for that
+Selleri transformation. It's the same
+as the Lorentz transformation except there's a
+time difference equation. If you manipulate the
+mathematics of that time difference and
+simplify it, it turns out that it's that same
+clock bias that you get from Einstein synchronization.
+So, yes, the Lorentz transformation works, but it's
+because you've changed the clock. And it
+turns out you've changed the scale. Over
+here we're looking at that clock slowing and it winds
+up when you look at everything, the speed of light is
+physically decreased by gamma squared,
+if you're going one way. If you're going
+back the other way, for example the earth.
+I call the earth a child frame of the Sun and
+the Sun a parent frame of the
+earth because the speed of light is
+physically different in the two frames,
+from what we've just looked at. And
+of course, there would be a galactic
+frame that's parent of the Sun, etc.
+So, numerically c is invariant, but physically
+it's not. Okay. One-way Sagnac effect
+on the earth. The measurement is the
+result of earth's rotation around its
+axis. I claim that that's absolutely false.
+Wang has done some experiments
+with conveyor belts and shown that
+their circular equation, right there,
+is really equivalent to the length, it 
+can be put in terms of the length. Well,
+on a one-way path, you'd expect it to 
+be half as big as the GPS experts claim.
+There's this triangle that it follows and they put it 
+in the same form for a one-way because of earth's
+rotation. But again, if you work it out,
+it turns out it's just v l over c squared.
+And when you put it in terms of where
+the satellite and the receiver are, it works
+out to be exactly the same as that v x
+distance along the equator. And so
+there's clock biases that have to be
+accounted for in GPS, to remove the
+Sagnac effect. Everybody asks why 
+there isn't one for orbits. Well, there isn't
+one for orbits because they're all
+affected by the same amount. So,
+you just adjust your clocks. The clocks have
+been adjusted and are automatically kept that
+way from the argument we've already
+given. A little bit more proof of that is
+GPS has to include all receiver motion in the
+effect, whether it's just rotational or not.
+And that's the ICD document that claims
+that that's the case. So again, it's not a
+rotation, it's the fact that the receiver and source 
+are moving. Okay. I then come up with what I
+call the Apparent Lorentz transformation. And I say
+it's the result of the Selleri transformation along this
+axis, added with a clock bias, or removed
+from a clock bias. There is a scale change
+across this, one way when you're going one way,
+and the other when you're going back the other way.
+Okay. And that has some implications later on. I say 
+why call the transformation an Alternate Lorentz
+transformation? Why not call it the
+Lorentz transformation? And I say, that's
+because the interpretation is dramatically different.
+Yes, the mathematics is the same, but the physical
+speed is different and there is a length contraction,
+even of the earth on the order of a few centimeters.
+Which incidentally, I came across the paper a long time
+ago. I haven't checked on it recently. When they tried to
+compute precise orbits with radar, of the planets,
+they did not get the right values. They tried it with and
+without Einstein's theories, and it didn't work either way
+very well. I claim that they're not taking into account
+this flattening effect and the speed of light
+changes as a function of direction here.
+The length contraction is different in
+different directions and incidentally
+that'll cause a very tiny change in
+your VLBI measurement of the milliarc
+seconds. So, there's some fun things that they don't
+account for, that I believe we're beginning to see the
+residual effects of that. The speed difference,
+the need to distinguish between parent frame and
+child frame, to know whether the scale 
+is changing up or down. It clarifies the
+need for a specific bias mechanism 
+to account for the clock bias. Special
+relativity in general, seems to think
+and is evidenced by the infinitesimal
+Lorentz transformation claims, that 
+the clocks will automatically be biased
+under acceleration, to still measure
+the speed of light to c. And that's
+clearly not the case. They have to be 
+in a gravitational field that's adjusting
+the clocks properly, or that will not
+happen. And as just seen by the great
+satellites they are not synchronized to
+measure the speed of light to c, because
+they have not been biased by that proper amount.
+Okay. So, I say it clarifies the need for
+Einstein re-synchronization if the acceleration
+is linear and not in a gravitational field.
+Okay. What's next? This is from Sheldon
+Harris's same ‘Einstein Simplified’ book.
+He says, “As I mentioned next week in my
+talk on reversible time!” So, I'm going
+to look a little bit here at what's next
+Next week (or later): To be explained.
+The anomalous Earth Gravity Assist. It's my 
+hypothesis that [it is] that same flattening of
+the earth’s gravitational potential upon 
+a solar orbit. It works fine for any orbit
+around the earth, because they have the
+same phenomena effects. But once I use
+the earth to send somebody else, I
+believe and in fact the largest earth
+gravity assist observed, came in directly
+orthogonal to what that flattening would
+be. So, I think (I haven't worked out 
+the details), but I believe that that will
+explain the extra acceleration seen on earth
+gravity assists. The apparent relativity of
+gravitational and electromagnetic forces.
+My last paper, that I still haven't had
+published, I show how a gravito-magnetic effect
+looks like a gravity effect in a moving system.
+I intend to try to do the same thing
+electromagnetically and I have that
+outlined and I believe it'll work. It's a
+little more complicated than the gravity
+one. Another interesting thing is that
+there's a speed kick of millisecond
+pulsars whenever they collapse down 
+more. I believe that's just a conservation
+of momentum effect and the direction of that momentum.
+They speed up and I believe it gives them a kinetic
+kick along the axis. Incidentally, 
+in that gravity one I found that if I
+have a spinning orbit and I speed it up,
+I also get the part of that spin energy
+goes into kinetic energy. So again, it indicates
+it's just like that hidden kinetic energy elsewhere.
+Spin energy can create hidden kinetic energy when you
+start moving. I haven't really done any work on this
+last point in 20 years, but 20 years ago
+I did do some work on the relationship
+between gravitational and electric forces.
+Now, this is hypothetical and you may
+have big objections to it. But never-
+theless, my conjecture is that there's a
+relationship between gravitational and kinetic.
+Gravitational potential, I believe, arises
+from compression of the ether and that's
+why it exponentially decays with distance
+from the planet. Gravitational forces
+arise from the compressive ether gradient.
+Gravitational force is locally generated
+by the local gradient (no travel time).
+Kinetic force is due to the shear gradient
+induced by the motion in the ether.
+Electric and magnetic, I believe, are simply
+oscillations of the other two. A lot of people think,
+and properly so, because there's 40 orders of magnitude
+difference between them, that gravity is residual
+electric. I believe it's just the opposite and when you 
+look at how concentrated the mass is in an atom for
+example, I think this might help explain
+the effect. The electrical potential
+arises from an oscillation in the ether density,
+I believe. And the electric force is due to the
+interaction gradient and direction of flow
+of that ether oscillation. I believe an
+electron, for example, is anti-rotating a phasing
+structure and makes it look like it’s coming in phase
+motion because of the rotation, while a positron would
+rotate in the opposite direction and it would look like it
+would be going out. Magnetic force is due to the
+oscillation of the shear induced by the motion, I believe.
+What is a little bit of supporting
+evidence for that? Well, for example in
+gravity there's no travel time. In the
+electromagnetic to the best of my knowledge
+and from what I've seen, it travels at
+the speed of light, and it looks like
+that next paper I'm working on. And that
+explains one of the differences between
+the electric and magnetic as well. There's only one
+sign to the charge, no repulsion, but if I have an
+oscillation, I can get plus and minus inward and
+outward phase motion. Apparent morphing of gravitational
+and kinetic into gravity-only. Same way, apparent 
+motion of electromagnetic forces with motion into
+electric only. Earthquakes induce electro-
+magnetic phenomena. With the one in
+Japan recently, they saw the ionosphere
+bump up right above it. So, I believe that
+motion of mass, oscillation of mass in
+particular, can create an electric field,
+a strong electric field. Io was mentioned
+in the talk before mine. I looked at it
+again, 20 years ago, and the decameter radiation
+occurred as Io was in front and behind [Jupiter]
+and had opposite patterns. So, I believe that's when you'd
+get the most oscillation of apparent gravity, because
+one's following the other in either case.
+And I believe it's what creates that
+strong electric field. And of course spiral galaxies.
+You saw that electric radiation between the stars, well
+those stars are following one another and create
+an oscillation. So, I believe that it's the gravity
+or the mass oscillation, which causes
+these huge electric forces. This is a big
+quote. I'll skip it since we're probably 
+low on time and I'd like for a little bit of
+time to ask questions. But one of the famous professors
+that looked at biochemical processes said at the tail end
+of explaining it to people, “There's no possibility
+whatever that this system could have arisen by chance.”
+I tend to think the same thing of
+physics. There's some remarkable
+mathematics and remarkable design as evidence.
+So, I say, “Be a King, like Solomon. Search out matter.”
+[Applause]
+[Music]

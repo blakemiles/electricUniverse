@@ -1,0 +1,367 @@
+[
+  {
+    "text": "You've just entered the\ntheater of an alien sky.",
+    "start": 5.219,
+    "duration": 4.091
+  },
+  {
+    "text": "If the words and images seem strange to\nyou there's a reason for this.",
+    "start": 9.31,
+    "duration": 3.998
+  },
+  {
+    "text": "Our world was once a\nvastly different place.",
+    "start": 13.308,
+    "duration": 4.262
+  },
+  {
+    "text": "To experience this won't hurt you\nand there is nothing to fear.",
+    "start": 17.57,
+    "duration": 5.048
+  },
+  {
+    "text": "The mythic archetype of a\ngreat ancestral warrior or hero",
+    "start": 35.679,
+    "duration": 4.071
+  },
+  {
+    "text": "is surely the most popular\nmythic theme of all time.",
+    "start": 39.75,
+    "duration": 3.939
+  },
+  {
+    "text": "And yet, thousands of years after the\nfirst expressions of the archetype,",
+    "start": 43.689,
+    "duration": 5.39
+  },
+  {
+    "text": "can anyone rightfully claim to\nhave penetrated the mystery?",
+    "start": 49.079,
+    "duration": 4.46
+  },
+  {
+    "text": "Even today, despite countless\nvolumes written on the subject,",
+    "start": 53.539,
+    "duration": 4.329
+  },
+  {
+    "text": "a convincing answer seems\nentirely out of reach.",
+    "start": 57.868,
+    "duration": 3.54
+  },
+  {
+    "text": "What human experience could have inspired\na worldwide image of a superhero",
+    "start": 61.408,
+    "duration": 6.251
+  },
+  {
+    "text": "rescuing the world, from chaos monsters?\nThat's just one of the globally repeated mysteries.",
+    "start": 67.659,
+    "duration": 8.63
+  },
+  {
+    "text": "Why the birth of this great ancestor\nfrom the womb of a revered mother goddess?",
+    "start": 76.289,
+    "duration": 6.551
+  },
+  {
+    "text": "Why the exposure or abandonment\nof the hero at birth?",
+    "start": 82.84,
+    "duration": 5.15
+  },
+  {
+    "text": "Or the murder or displacement of his father?",
+    "start": 87.99,
+    "duration": 3.809
+  },
+  {
+    "text": "Why was the god himself so\nfrequently identified as an",
+    "start": 91.799,
+    "duration": 5.41
+  },
+  {
+    "text": "unerring arrow, sword, spear or hammer, a weapon\nthat turns out to be a cosmic thunderbolt.",
+    "start": 97.209,
+    "duration": 7.041
+  },
+  {
+    "text": "Yes! A thunderbolt, but with no similarity\nto lightning in our sky today.",
+    "start": 104.25,
+    "duration": 5.749
+  },
+  {
+    "text": "Absolutely nothing makes sense\nunder any familiar references.",
+    "start": 111.099,
+    "duration": 5.151
+  },
+  {
+    "text": "And yet the themes are so fully\nconnected that one archetypal",
+    "start": 116.25,
+    "duration": 4.039
+  },
+  {
+    "text": "attribute leads seamlessly\nto another, then another.",
+    "start": 120.289,
+    "duration": 3.79
+  },
+  {
+    "text": "There must be an explanation, and yet\ncommon beliefs will not permit an explanation.",
+    "start": 124.079,
+    "duration": 5.841
+  },
+  {
+    "text": "That's the logical contradiction arising\nfrom today's accepted stories of human history",
+    "start": 129.92,
+    "duration": 6.029
+  },
+  {
+    "text": "and planetary history. The problem lies in an\nunsupported theoretical assumption.",
+    "start": 135.949,
+    "duration": 7.81
+  },
+  {
+    "text": "The assumption is: As today, so before.\nWell, that's a trap;",
+    "start": 143.759,
+    "duration": 5.491
+  },
+  {
+    "text": "It holds our attention on today's\nuneventful solar system,",
+    "start": 149.25,
+    "duration": 3.969
+  },
+  {
+    "text": "even as the human record\nspeaks with a thousand voices",
+    "start": 153.219,
+    "duration": 4.281
+  },
+  {
+    "text": "for a violent and catastrophic\nplanetary history.",
+    "start": 157.5,
+    "duration": 5.319
+  },
+  {
+    "text": "In popular accounts, the prominent heroes\nare quasi-divine, big and strong men",
+    "start": 162.819,
+    "duration": 5.451
+  },
+  {
+    "text": "who rescue humanity from chaos monsters.",
+    "start": 168.27,
+    "duration": 3.09
+  },
+  {
+    "text": "One astronomical tradition after another\nnames this warrior figure as the planet Mars.",
+    "start": 171.36,
+    "duration": 8.86
+  },
+  {
+    "text": "The farther back we go the more the\ndivine or celestial character",
+    "start": 191.28,
+    "duration": 4.199
+  },
+  {
+    "text": "of the hero stands out. Such Egyptian\nwarrior figures as Shu,",
+    "start": 195.479,
+    "duration": 5.301
+  },
+  {
+    "text": "or Horus, or Amon were originally \ncelestial figures beyond a shadow of a doubt,",
+    "start": 200.78,
+    "duration": 5.4
+  },
+  {
+    "text": "but later localized through\nregional storytelling.",
+    "start": 206.18,
+    "duration": 3.59
+  },
+  {
+    "text": "The same can be said of the ancient Sumerian\nand Akkadian counterparts, Damuzi",
+    "start": 209.77,
+    "duration": 5.18
+  },
+  {
+    "text": "or Tammuz, the Mars gods Ningirsu\nor Nergal, and even Gilgamesh.",
+    "start": 214.95,
+    "duration": 5.469
+  },
+  {
+    "text": "Eventually, localized cult practices\ntransformed such figures into legendary",
+    "start": 220.419,
+    "duration": 6.65
+  },
+  {
+    "text": "ancestors of those recounting the stories.\nOur answer to the dilemma",
+    "start": 227.069,
+    "duration": 7.161
+  },
+  {
+    "text": "lies in a testable reconstruction of\nthings never imagined in our time.",
+    "start": 234.23,
+    "duration": 5.1
+  },
+  {
+    "text": "The reconstruction leads us back to a\ngathering of planets close to Earth,",
+    "start": 239.33,
+    "duration": 5.43
+  },
+  {
+    "text": "all the events occurring prior to the\npresent organization of the solar system.",
+    "start": 244.76,
+    "duration": 4.589
+  },
+  {
+    "text": "Planets have not always\nmoved on their present courses.",
+    "start": 249.349,
+    "duration": 4.0
+  },
+  {
+    "text": "Our subject is the ancient\npolar configuration,",
+    "start": 253.349,
+    "duration": 4.011
+  },
+  {
+    "text": "where the warrior-hero finds a full and\ncomplete explanation in the activity of",
+    "start": 257.36,
+    "duration": 4.689
+  },
+  {
+    "text": "the dark, reddish, innermost sphere.",
+    "start": 262.049,
+    "duration": 5.6
+  },
+  {
+    "text": "The planet Mars was the centerpiece\nof the cosmic thunderbolt.",
+    "start": 267.649,
+    "duration": 4.321
+  },
+  {
+    "text": "The testability of this\nreconstruction lies in the contribution",
+    "start": 283.24,
+    "duration": 3.29
+  },
+  {
+    "text": "a visible forms and explicit\nsequences of events;",
+    "start": 286.53,
+    "duration": 3.77
+  },
+  {
+    "text": "all testifying to the global\nsubstructure of human memory.",
+    "start": 290.3,
+    "duration": 4.339
+  },
+  {
+    "text": "What will happen to our\nunderstanding of human history",
+    "start": 297.839,
+    "duration": 3.701
+  },
+  {
+    "text": "if it can be seen beyond\nany reasonable doubt",
+    "start": 301.54,
+    "duration": 3.31
+  },
+  {
+    "text": "that the warrior-hero archetype requires\ncelestial events having no parallel in",
+    "start": 304.85,
+    "duration": 5.56
+  },
+  {
+    "text": "natural experience today?",
+    "start": 310.41,
+    "duration": 2.029
+  },
+  {
+    "text": "What does it mean when\nthe warrior-king on Earth",
+    "start": 318.389,
+    "duration": 3.01
+  },
+  {
+    "text": "symbolically dons, as his crown, the\nrevered glory of heaven.",
+    "start": 321.399,
+    "duration": 4.571
+  },
+  {
+    "text": "That even meant the king's conjunction\nwith, and marriage to the archetypal star",
+    "start": 325.97,
+    "duration": 5.19
+  },
+  {
+    "text": "goddess, identifiable as the planet Venus.",
+    "start": 331.16,
+    "duration": 3.75
+  },
+  {
+    "text": "Many parallel symbols are equally\nimportant. Just one example is the",
+    "start": 338.978,
+    "duration": 4.372
+  },
+  {
+    "text": "identification of the exploding radiance,",
+    "start": 343.35,
+    "duration": 2.86
+  },
+  {
+    "text": "the essential quality of the star\ngoddess, as the warrior-king's",
+    "start": 346.21,
+    "duration": 4.39
+  },
+  {
+    "text": "shield, mythically his\ngift from the goddess.",
+    "start": 350.6,
+    "duration": 3.22
+  },
+  {
+    "text": "That identification magically confirms\nthe local king as an incarnation, or",
+    "start": 353.82,
+    "duration": 5.769
+  },
+  {
+    "text": "avatar of a celestial prototype, the\nwarrior king as mythic protector and",
+    "start": 359.589,
+    "duration": 5.639
+  },
+  {
+    "text": "owner of the terrifying glory. That's\nwhat the word hero literally means.",
+    "start": 365.228,
+    "duration": 5.742
+  },
+  {
+    "text": "Name any broadly repeated theme\nattached to the hero archetype,",
+    "start": 370.97,
+    "duration": 6.009
+  },
+  {
+    "text": "observe it's place in the reconstruction,",
+    "start": 376.979,
+    "duration": 3.04
+  },
+  {
+    "text": "and you'll find additional themes\nthat are just as explicit.",
+    "start": 380.019,
+    "duration": 3.76
+  },
+  {
+    "text": "No room for ambiguity or for simply\nmaking up explanations.",
+    "start": 383.779,
+    "duration": 4.62
+  },
+  {
+    "text": "Ask the question. Does\nany popular explanation",
+    "start": 388.399,
+    "duration": 4.13
+  },
+  {
+    "text": "actually work? In the context of our\nreconstruction, the required patterns",
+    "start": 392.529,
+    "duration": 4.949
+  },
+  {
+    "text": "must show up. Globally.\nIf the events occurred.",
+    "start": 397.478,
+    "duration": 3.792
+  },
+  {
+    "text": "We'll follow that logic to further conclusions\nin our next segment.",
+    "start": 401.27,
+    "duration": 5.5
+  }
+]

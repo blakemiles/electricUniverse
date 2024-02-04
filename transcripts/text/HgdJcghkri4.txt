@@ -1,0 +1,2312 @@
+[
+  {
+    "text": "From Cosmic Currents\nto the Electric Sun",
+    "start": 17.685,
+    "duration": 3.782
+  },
+  {
+    "text": "No pressure!",
+    "start": 23.507,
+    "duration": 2.135
+  },
+  {
+    "text": "What I want to do, and I'd like to thank\nMichael Clarage for his introductory talk.",
+    "start": 27.387,
+    "duration": 5.464
+  },
+  {
+    "text": "I thought\nthat was brilliant.",
+    "start": 32.876,
+    "duration": 1.808
+  },
+  {
+    "text": "What I wanted to do here is to talk about\nthe problem of trying to figure out",
+    "start": 35.517,
+    "duration": 5.173
+  },
+  {
+    "text": "how we connect an electric\nSun to cosmic currents.",
+    "start": 40.715,
+    "duration": 4.278
+  },
+  {
+    "text": "And just to talk initially about\nthe Electric Universe itself,",
+    "start": 47.128,
+    "duration": 5.007
+  },
+  {
+    "text": "I came across this quote from\nScience on the 16th of November.",
+    "start": 52.16,
+    "duration": 5.964
+  },
+  {
+    "text": "\"The most important characteristic\nof a paradigm is its fruitfulness.\"",
+    "start": 58.601,
+    "duration": 4.161
+  },
+  {
+    "text": "And I think Michael has pointed out the\nfruitfulness of the Electric Universe paradigm.",
+    "start": 62.787,
+    "duration": 5.389
+  },
+  {
+    "text": "There's a couple of things I just\nlike to read from that article,",
+    "start": 68.201,
+    "duration": 4.423
+  },
+  {
+    "text": "which I think are\nvery appropriate.",
+    "start": 72.649,
+    "duration": 2.066
+  },
+  {
+    "text": "It says, in the midst of a revolution,\nwhat counts as good evidence",
+    "start": 74.74,
+    "duration": 3.775
+  },
+  {
+    "text": "and reason in a discipline, are\nthemselves open to dispute.",
+    "start": 78.54,
+    "duration": 4.212
+  },
+  {
+    "text": "Important terms or concepts\nchange their meaning",
+    "start": 82.777,
+    "duration": 3.093
+  },
+  {
+    "text": "or even cease to be meaningful\nin the new paradigm.",
+    "start": 85.895,
+    "duration": 3.921
+  },
+  {
+    "text": "Modern science isn't\nfruitful, it's dogmatic.",
+    "start": 89.841,
+    "duration": 3.539
+  },
+  {
+    "text": "It generates no new insights and\nit produces no new outcomes,",
+    "start": 93.405,
+    "duration": 4.997
+  },
+  {
+    "text": "no new ways of\ngenerating evidence.",
+    "start": 98.427,
+    "duration": 3.477
+  },
+  {
+    "text": "Science in Kuhn's image, must be\nproductive or its paradigm must change.",
+    "start": 101.929,
+    "duration": 5.231
+  },
+  {
+    "text": "And that is the thing that's been driving\nme ever since I began this journey.",
+    "start": 107.185,
+    "duration": 5.879
+  },
+  {
+    "text": "So the question is what\nmakes the Sun shine?",
+    "start": 114.135,
+    "duration": 2.859
+  },
+  {
+    "text": "And this has been thrown\ninto sharp relief.",
+    "start": 117.019,
+    "duration": 2.745
+  },
+  {
+    "text": "Just recently with this\narticle published in Science,",
+    "start": 119.789,
+    "duration": 4.974
+  },
+  {
+    "text": "I think it was.",
+    "start": 124.788,
+    "duration": 1.276
+  },
+  {
+    "text": "And a couple of quotes there:",
+    "start": 126.312,
+    "duration": 1.571
+  },
+  {
+    "text": "\"Convective velocities\",",
+    "start": 127.908,
+    "duration": 1.531
+  },
+  {
+    "text": "that is the convection region of the\nSun, just beneath the photosphere,",
+    "start": 129.464,
+    "duration": 6.542
+  },
+  {
+    "text": "\"are 20 to 100 times weaker than\ncurrent theoretical estimates...\"",
+    "start": 136.031,
+    "duration": 4.426
+  },
+  {
+    "text": "That essentially means that the theory\nof how the Sun works is incorrect",
+    "start": 141.776,
+    "duration": 6.479
+  },
+  {
+    "text": "because somehow or another, the Sun is\nsupposed to get the intense radiation",
+    "start": 148.28,
+    "duration": 5.256
+  },
+  {
+    "text": "from the center, from the core",
+    "start": 153.561,
+    "duration": 2.326
+  },
+  {
+    "text": "out to the surface to give us the\nheat and light that we observe.",
+    "start": 155.912,
+    "duration": 4.026
+  },
+  {
+    "text": "And what we've found now is that",
+    "start": 160.479,
+    "duration": 1.782
+  },
+  {
+    "text": "one of the key links in that\ntransfer of energy is missing.",
+    "start": 162.286,
+    "duration": 4.467
+  },
+  {
+    "text": "Of course, this prompts\nthe question:",
+    "start": 167.225,
+    "duration": 2.056
+  },
+  {
+    "text": "What actually does transport the heat\nflux of the solar luminosity outwards?",
+    "start": 169.306,
+    "duration": 4.95
+  },
+  {
+    "text": "But a better question is:",
+    "start": 174.281,
+    "duration": 3.074
+  },
+  {
+    "text": "\"does Sun shine come\nfrom within the Sun?\"",
+    "start": 177.38,
+    "duration": 3.085
+  },
+  {
+    "text": "And the Electric Universe has said\nfrom the beginning that it doesn't.",
+    "start": 181.155,
+    "duration": 3.721
+  },
+  {
+    "text": "And this I think, is some\nconfirmatory evidence.",
+    "start": 184.901,
+    "duration": 5.006
+  },
+  {
+    "text": "If we look at star birth,\nas I said yesterday,",
+    "start": 189.932,
+    "duration": 3.846
+  },
+  {
+    "text": "star birth is a gravitational\naccident in the Big Bang cosmology.",
+    "start": 193.803,
+    "duration": 6.261
+  },
+  {
+    "text": "But this is a quote from over\n30 years ago, from Hannes Alfvén,",
+    "start": 200.762,
+    "duration": 4.688
+  },
+  {
+    "text": "\"There is a general belief that stars\nare forming by gravitational collapse;",
+    "start": 205.823,
+    "duration": 4.224
+  },
+  {
+    "text": "in spite of vigorous efforts\nno one has yet found",
+    "start": 210.072,
+    "duration": 3.025
+  },
+  {
+    "text": "any observational\nindication of confirmation.",
+    "start": 213.122,
+    "duration": 3.765
+  },
+  {
+    "text": "Thus the 'generally accepted'\ntheory of stellar formation",
+    "start": 216.912,
+    "duration": 3.599
+  },
+  {
+    "text": "may be one of a hundred\nunsupported dogmas",
+    "start": 220.536,
+    "duration": 2.831
+  },
+  {
+    "text": "which constitute a large part of\npresent-day astrophysics.\"",
+    "start": 223.392,
+    "duration": 3.468
+  },
+  {
+    "text": "Now, the reason for\nintroducing this is that",
+    "start": 227.351,
+    "duration": 2.27
+  },
+  {
+    "text": "if we're going to look at how\na star connects to the galaxy,",
+    "start": 229.646,
+    "duration": 3.904
+  },
+  {
+    "text": "one of the bits of evidence\nwe can look at is star birth.",
+    "start": 233.575,
+    "duration": 4.151
+  },
+  {
+    "text": "What actually goes on?",
+    "start": 237.751,
+    "duration": 2.026
+  },
+  {
+    "text": "And this is what the infrared\ntelescopes have been telling us",
+    "start": 239.802,
+    "duration": 4.063
+  },
+  {
+    "text": "that stars are formed along\ncosmic current filaments",
+    "start": 243.89,
+    "duration": 4.363
+  },
+  {
+    "text": "Of course, the reports don't talk about electric\ncurrent, they just talk about the filaments.",
+    "start": 248.278,
+    "duration": 5.439
+  },
+  {
+    "text": "This is a network of 27\nstar-forming filaments",
+    "start": 253.742,
+    "duration": 3.457
+  },
+  {
+    "text": "derived from the\nHerschel observatory.",
+    "start": 257.224,
+    "duration": 3.016
+  },
+  {
+    "text": "They're numbered there because in the\noriginal report they were very interested",
+    "start": 260.478,
+    "duration": 5.292
+  },
+  {
+    "text": "in the fact that the filaments are huge,\nstretching for tens of light-years,",
+    "start": 265.795,
+    "duration": 3.8
+  },
+  {
+    "text": "and regardless of their length or density,\nthe filament, the width is always the same.",
+    "start": 269.62,
+    "duration": 6.393
+  },
+  {
+    "text": "And what is that\nreminiscent of?",
+    "start": 276.038,
+    "duration": 2.272
+  },
+  {
+    "text": "A lightning bolt!",
+    "start": 278.335,
+    "duration": 1.516
+  },
+  {
+    "text": "The lightning bolt stretches\nfrom the clouds to the ground",
+    "start": 279.876,
+    "duration": 3.156
+  },
+  {
+    "text": "and its width remains roughly the\nsame over that entire distance.",
+    "start": 283.057,
+    "duration": 3.58
+  },
+  {
+    "text": "So what we're looking at in effect is\na form of cloud to cloud lightning.",
+    "start": 286.662,
+    "duration": 4.362
+  },
+  {
+    "text": "What's more, the stars within\nthese filaments flicker!",
+    "start": 291.049,
+    "duration": 4.657
+  },
+  {
+    "text": "Now, the gravitational model\ndoesn't allow for that",
+    "start": 295.731,
+    "duration": 2.774
+  },
+  {
+    "text": "because for it to flicker requires\nmaterial to be added to the star",
+    "start": 298.53,
+    "duration": 4.175
+  },
+  {
+    "text": "repeatedly and very quickly.",
+    "start": 302.73,
+    "duration": 3.524
+  },
+  {
+    "text": "So astronomers were\nsurprised to see",
+    "start": 306.279,
+    "duration": 2.016
+  },
+  {
+    "text": "the brightness of young objects\nvarying by more than 20%",
+    "start": 308.32,
+    "duration": 3.364
+  },
+  {
+    "text": "over just these few weeks,\nsince the accretion process",
+    "start": 311.709,
+    "duration": 2.959
+  },
+  {
+    "text": "should take years or\neven centuries...",
+    "start": 314.693,
+    "duration": 2.261
+  },
+  {
+    "text": "But of course, we all know how\nelectric lights can flicker.",
+    "start": 316.979,
+    "duration": 3.798
+  },
+  {
+    "text": "Lightning itself can flicker.",
+    "start": 320.802,
+    "duration": 2.168
+  },
+  {
+    "text": "The quote of course is:",
+    "start": 322.995,
+    "duration": 1.48
+  },
+  {
+    "text": "\"Yet again, Herschel\nobservations surprise us.\"",
+    "start": 324.5,
+    "duration": 3.245
+  },
+  {
+    "text": "This is a very recent image\nwhich shows a bipolar nebula.",
+    "start": 330.229,
+    "duration": 5.764
+  },
+  {
+    "text": "It's described as a newborn\nstar which is rather odd",
+    "start": 336.018,
+    "duration": 3.288
+  },
+  {
+    "text": "because most of the bipolar,",
+    "start": 339.331,
+    "duration": 1.868
+  },
+  {
+    "text": "in fact all of the bipolar\nnebulae that I've seen so far,",
+    "start": 341.224,
+    "duration": 3.938
+  },
+  {
+    "text": "have referred to them as dying\nstars ejecting material.",
+    "start": 345.187,
+    "duration": 4.226
+  },
+  {
+    "text": "But here we have one that's\nsupposed to be being born.",
+    "start": 349.438,
+    "duration": 3.032
+  },
+  {
+    "text": "So there seems to be\nsome confusion here.",
+    "start": 352.495,
+    "duration": 2.76
+  },
+  {
+    "text": "Also it says there are hundreds of\nlow-mass brown dwarfs in that cloud",
+    "start": 355.28,
+    "duration": 5.68
+  },
+  {
+    "text": "and this provides us\nwith some ideas about",
+    "start": 360.985,
+    "duration": 4.851
+  },
+  {
+    "text": "how stars are born,\nwhere they're born",
+    "start": 365.861,
+    "duration": 2.483
+  },
+  {
+    "text": "and also the chances of capture\na brown dwarf by bright stars",
+    "start": 368.369,
+    "duration": 4.029
+  },
+  {
+    "text": "which impinges of course\non the Saturn story.",
+    "start": 372.423,
+    "duration": 3.822
+  },
+  {
+    "text": "The red dust at the center is thought\nto produce the hourglass shape.",
+    "start": 376.27,
+    "duration": 3.592
+  },
+  {
+    "text": "This is the mantra that's used\nin all of these bipolar nebulas",
+    "start": 379.887,
+    "duration": 3.919
+  },
+  {
+    "text": "that it has to have a disk of matter\nright at the center of that hourglass",
+    "start": 383.831,
+    "duration": 5.777
+  },
+  {
+    "text": "which somehow causes the\nmaterial ejected from the star",
+    "start": 389.633,
+    "duration": 3.875
+  },
+  {
+    "text": "to take these particular\nshapes, the hourglass shape.",
+    "start": 393.533,
+    "duration": 3.823
+  },
+  {
+    "text": "This is another visible\nstellar circuit.",
+    "start": 397.381,
+    "duration": 2.38
+  },
+  {
+    "text": "This of course is supposed\nto be a dying star.",
+    "start": 399.786,
+    "duration": 2.586
+  },
+  {
+    "text": "It's an hourglass shape and it\nhas an odd-looking focus there.",
+    "start": 402.397,
+    "duration": 4.681
+  },
+  {
+    "text": "It's 8,000 light-years distant.",
+    "start": 407.103,
+    "duration": 2.231
+  },
+  {
+    "text": "Remember that example\nI gave yesterday",
+    "start": 409.359,
+    "duration": 2.898
+  },
+  {
+    "text": "where if the Earth's orbit was two inches\nacross and the Sun was a speck of dust,",
+    "start": 412.282,
+    "duration": 4.352
+  },
+  {
+    "text": "that you could measure the\ndistances of stars by miles.",
+    "start": 416.659,
+    "duration": 4.201
+  },
+  {
+    "text": "So that'll be 8,000 miles\naway, there's a speck of dust",
+    "start": 420.885,
+    "duration": 2.742
+  },
+  {
+    "text": "which has this particular\ninteresting shape.",
+    "start": 423.652,
+    "duration": 2.924
+  },
+  {
+    "text": "Here it says, the hourglass shape is produced\nby the expansion of a fast stellar wind",
+    "start": 426.601,
+    "duration": 4.469
+  },
+  {
+    "text": "within a slowly expanding cloud which is\ndenser near its equator than at its poles.",
+    "start": 431.095,
+    "duration": 4.91
+  },
+  {
+    "text": "Now these are all very\nspecial conditions.",
+    "start": 436.03,
+    "duration": 2.261
+  },
+  {
+    "text": "How and why are these\nconditions established?",
+    "start": 438.316,
+    "duration": 4.462
+  },
+  {
+    "text": "There was no real explanation\nof these objects.",
+    "start": 443.383,
+    "duration": 2.99
+  },
+  {
+    "text": "And the formation of the shape of the\ninner \"eye\" is not yet fully understood.",
+    "start": 446.398,
+    "duration": 4.546
+  },
+  {
+    "text": "It's interesting\nthey call it an eye",
+    "start": 450.969,
+    "duration": 1.976
+  },
+  {
+    "text": "because that was a very\npowerful reference in mythology",
+    "start": 452.97,
+    "duration": 3.506
+  },
+  {
+    "text": "to some of the things that were witnessed\nin the electrical events in prehistory.",
+    "start": 456.501,
+    "duration": 5.389
+  },
+  {
+    "text": "This is another visible\nstellar circuit.",
+    "start": 461.915,
+    "duration": 2.569
+  },
+  {
+    "text": "This one is 2,100 miles\naway as a speck of dust,",
+    "start": 464.509,
+    "duration": 4.527
+  },
+  {
+    "text": "if you would like to\nlook at it in that way",
+    "start": 469.061,
+    "duration": 2.383
+  },
+  {
+    "text": "to give you some perspective.",
+    "start": 471.469,
+    "duration": 1.876
+  },
+  {
+    "text": "This particular nebula represents\nthe spectacular 'last gasp'",
+    "start": 473.37,
+    "duration": 3.589
+  },
+  {
+    "text": "of a binary star system\nat the nebula center.",
+    "start": 476.984,
+    "duration": 2.623
+  },
+  {
+    "text": "You notice they're 'dying stars'.",
+    "start": 479.632,
+    "duration": 2.005
+  },
+  {
+    "text": "In the Electric Universe, the age\nor the life and death of the star",
+    "start": 481.662,
+    "duration": 5.247
+  },
+  {
+    "text": "is not measured at\nall in this way.",
+    "start": 486.934,
+    "duration": 2.012
+  },
+  {
+    "text": "Astronomers theorize that\nthe gravity of one star",
+    "start": 488.971,
+    "duration": 2.525
+  },
+  {
+    "text": "pulls some of the gas from\nthe surface of the other",
+    "start": 491.521,
+    "duration": 2.05
+  },
+  {
+    "text": "and flings it into a thin, dense\ndisc extending into space.",
+    "start": 493.596,
+    "duration": 3.737
+  },
+  {
+    "text": "This magic that gravity\nis asked to perform,",
+    "start": 497.358,
+    "duration": 4.15
+  },
+  {
+    "text": "can in no way explain all of the\ndetailed parts of this nebula.",
+    "start": 501.533,
+    "duration": 7.643
+  },
+  {
+    "text": "You'll notice that\nit's coaxial too.",
+    "start": 509.201,
+    "duration": 2.153
+  },
+  {
+    "text": "There's an outer cone and\nthen there's an inner one",
+    "start": 511.379,
+    "duration": 2.863
+  },
+  {
+    "text": "and then there's these strange\nbright objects here, here and here.",
+    "start": 514.267,
+    "duration": 4.186
+  },
+  {
+    "text": "None of these are explained\nby this particular model.",
+    "start": 518.478,
+    "duration": 3.591
+  },
+  {
+    "text": "And yet we have a\nquote like this,",
+    "start": 522.094,
+    "duration": 1.92
+  },
+  {
+    "text": "\"Such a disk and successfully account for\nthe jet-exhaust-like appearance of M2-9.\"",
+    "start": 524.039,
+    "duration": 6.584
+  },
+  {
+    "text": "I don't think so.",
+    "start": 530.648,
+    "duration": 1.586
+  },
+  {
+    "text": "Here's another visible stellar circuit\nand this one is really stunning.",
+    "start": 532.259,
+    "duration": 3.655
+  },
+  {
+    "text": "In fact, Peter Tuthill from\nSydney University said,",
+    "start": 535.939,
+    "duration": 2.929
+  },
+  {
+    "text": "\"The thing that really takes your breath\naway is the astonishing degree of symmetry",
+    "start": 538.893,
+    "duration": 5.415
+  },
+  {
+    "text": "within the intricate\nlinear form.\"",
+    "start": 544.333,
+    "duration": 3.205
+  },
+  {
+    "text": "Now, I'm not sure whether you can see it all\nthat well with the light on the screen",
+    "start": 547.563,
+    "duration": 4.221
+  },
+  {
+    "text": "but you can see these\ndescriptions here,",
+    "start": 551.809,
+    "duration": 3.523
+  },
+  {
+    "text": "the rungs here, there's rungs",
+    "start": 555.357,
+    "duration": 2.047
+  },
+  {
+    "text": "and there's thin filaments\nradiating from this central point.",
+    "start": 557.429,
+    "duration": 5.839
+  },
+  {
+    "text": "What I've done here is\nput my little addition.",
+    "start": 563.982,
+    "duration": 3.088
+  },
+  {
+    "text": "I'm calling these Birkeland\ncurrent filaments",
+    "start": 567.095,
+    "duration": 2.386
+  },
+  {
+    "text": "and I'm calling these rungs here\nacross those filaments, double layers.",
+    "start": 569.506,
+    "duration": 4.436
+  },
+  {
+    "text": "Because double layers are regions in\nplasma where particles are accelerated",
+    "start": 573.967,
+    "duration": 4.503
+  },
+  {
+    "text": "and you tend to get\na glow as a result.",
+    "start": 578.495,
+    "duration": 2.412
+  },
+  {
+    "text": "And you can have\nmultiple double layers",
+    "start": 580.932,
+    "duration": 2.271
+  },
+  {
+    "text": "when the plasma is changing in\ndensity as you move towards the star.",
+    "start": 583.228,
+    "duration": 3.529
+  },
+  {
+    "text": "So you see here's one that's\nquite bright, that rung there.",
+    "start": 586.782,
+    "duration": 4.325
+  },
+  {
+    "text": "\"A series of rungs and\nconical surfaces lie nested,",
+    "start": 591.132,
+    "duration": 3.246
+  },
+  {
+    "text": "one within the next, down\nto the heart of the system,",
+    "start": 594.403,
+    "duration": 2.951
+  },
+  {
+    "text": "where the hyperbolic bicone\nsurfaces are crossed",
+    "start": 597.379,
+    "duration": 3.018
+  },
+  {
+    "text": "by a dark lane running\nacross the principal axis.\"",
+    "start": 600.422,
+    "duration": 2.812
+  },
+  {
+    "text": "And of course, this is usually referred\nto as your disk of dust and so on,",
+    "start": 603.259,
+    "duration": 3.949
+  },
+  {
+    "text": "which produces this shape.",
+    "start": 607.233,
+    "duration": 2.423
+  },
+  {
+    "text": "But this is so intricate\nand beautiful",
+    "start": 609.681,
+    "duration": 3.313
+  },
+  {
+    "text": "that it cannot be formed by an explosion\nof gas and dust and that kind of thing.",
+    "start": 613.019,
+    "duration": 5.22
+  },
+  {
+    "text": "But, it does have all the characteristics\nof an electrical pinch discharge.",
+    "start": 618.264,
+    "duration": 5.749
+  },
+  {
+    "text": "\"It is fascinating to\ntake a second look",
+    "start": 624.038,
+    "duration": 2.058
+  },
+  {
+    "text": "at one of the most famous astronomical\nimages of them all: SN1987A.\"",
+    "start": 626.121,
+    "duration": 4.958
+  },
+  {
+    "text": "Now, this particular supernova\nis important in my life",
+    "start": 631.104,
+    "duration": 4.608
+  },
+  {
+    "text": "because I had a peer-reviewed paper\npublished on an electrical explanation",
+    "start": 635.737,
+    "duration": 5.012
+  },
+  {
+    "text": "of SN1987A in the IEEE\nPlasma Sciences journal.",
+    "start": 640.774,
+    "duration": 4.104
+  },
+  {
+    "text": "With the help of Tony Peratt",
+    "start": 644.903,
+    "duration": 3.395
+  },
+  {
+    "text": "who also had several\nother papers published,",
+    "start": 648.299,
+    "duration": 3.343
+  },
+  {
+    "text": "including one on the formation\nof Martian blueberries and so on",
+    "start": 651.667,
+    "duration": 3.752
+  },
+  {
+    "text": "in an electrical discharge\nin that same issue.",
+    "start": 655.444,
+    "duration": 4.0
+  },
+  {
+    "text": "So for me, that was a milestone.",
+    "start": 659.469,
+    "duration": 2.799
+  },
+  {
+    "text": "To get peer-reviewed papers\npublished on the Electric Universe",
+    "start": 662.293,
+    "duration": 4.142
+  },
+  {
+    "text": "is extremely difficult\nas you might imagine.",
+    "start": 666.46,
+    "duration": 2.88
+  },
+  {
+    "text": "This object is the 'Red\nSquare' as it's called.",
+    "start": 670.482,
+    "duration": 4.064
+  },
+  {
+    "text": "It's 34 times closer than the supernovae\nso you can see far more detail.",
+    "start": 674.571,
+    "duration": 5.568
+  },
+  {
+    "text": "It was described as \"...the best\nastrophysical laboratory yet [discovered]",
+    "start": 681.745,
+    "duration": 4.306
+  },
+  {
+    "text": "for studying the physics of",
+    "start": 686.076,
+    "duration": 3.245
+  },
+  {
+    "text": "generating the mysterious sharp polar-\nring systems like that around SN1987A.\"",
+    "start": 689.346,
+    "duration": 5.679
+  },
+  {
+    "text": "\"...a system as complex\nand fascinating as this",
+    "start": 695.701,
+    "duration": 2.655
+  },
+  {
+    "text": "is bound to keep us guessing\nfor years to come.\"",
+    "start": 698.381,
+    "duration": 2.815
+  },
+  {
+    "text": "Well as soon as I saw this,\nI published my explanation.",
+    "start": 701.221,
+    "duration": 3.293
+  },
+  {
+    "text": "And since then I've heard\nnothing from the experts",
+    "start": 704.539,
+    "duration": 4.995
+  },
+  {
+    "text": "but it's sitting there,\nwaiting for their discovery.",
+    "start": 709.559,
+    "duration": 3.272
+  },
+  {
+    "text": "This is the supernova I referred to and\nhere I'm only showing the central ring.",
+    "start": 713.515,
+    "duration": 4.714
+  },
+  {
+    "text": "The important thing about this diagram\nis that it gives you some impression",
+    "start": 718.254,
+    "duration": 4.048
+  },
+  {
+    "text": "of the complexity of what goes\non in these plasma discharges.",
+    "start": 722.327,
+    "duration": 4.118
+  },
+  {
+    "text": "For instance, this is the neck.",
+    "start": 726.47,
+    "duration": 2.916
+  },
+  {
+    "text": "If you consider, right at the very apex of\nthose hyperbolic curves sits this pinch.",
+    "start": 729.411,
+    "duration": 9.253
+  },
+  {
+    "text": "And this is from Tony Peratt,\nthis particular diagram.",
+    "start": 738.689,
+    "duration": 4.348
+  },
+  {
+    "text": "And as it pinches down, it forms\nthese particle beam columns",
+    "start": 743.062,
+    "duration": 4.458
+  },
+  {
+    "text": "right in the center of\nthis, sort of purplish spot,",
+    "start": 747.545,
+    "duration": 3.415
+  },
+  {
+    "text": "there is a central column but then\nit's surrounded by a ring of filaments",
+    "start": 750.985,
+    "duration": 4.112
+  },
+  {
+    "text": "and they take on\ncharacteristic numbers.",
+    "start": 755.122,
+    "duration": 2.411
+  },
+  {
+    "text": "Now around Supernova 1987A,\nthis is where the actual object,",
+    "start": 757.558,
+    "duration": 4.912
+  },
+  {
+    "text": "where the object\nwas that exploded,",
+    "start": 762.495,
+    "duration": 3.099
+  },
+  {
+    "text": "you have this ring\nof bright spots.",
+    "start": 765.619,
+    "duration": 3.953
+  },
+  {
+    "text": "There are three coaxial\nrings. There was one up here",
+    "start": 769.994,
+    "duration": 3.423
+  },
+  {
+    "text": "and this is symmetrical, so down here\nyou've got the same kind of feature,",
+    "start": 773.442,
+    "duration": 4.844
+  },
+  {
+    "text": "and there was a third\nring down here.",
+    "start": 778.311,
+    "duration": 2.065
+  },
+  {
+    "text": "But they're all coaxial,\nwhich is significant",
+    "start": 780.401,
+    "duration": 2.989
+  },
+  {
+    "text": "because it, more or less, says\nthat this is what was going on.",
+    "start": 783.415,
+    "duration": 3.116
+  },
+  {
+    "text": "It was sitting at the centre\nof a plasma z-pinch discharge.",
+    "start": 786.556,
+    "duration": 4.604
+  },
+  {
+    "text": "I predicted at the time\nthat these bright spots",
+    "start": 791.185,
+    "duration": 2.737
+  },
+  {
+    "text": "would not behave as if there was a\nshock-wave racing out from the star.",
+    "start": 793.947,
+    "duration": 5.265
+  },
+  {
+    "text": "I also said that they\nshould appear to rotate",
+    "start": 799.237,
+    "duration": 2.816
+  },
+  {
+    "text": "and that they will\nflicker in brightness.",
+    "start": 802.078,
+    "duration": 4.145
+  },
+  {
+    "text": "So far I haven't seen, I haven't\nfollowed up to check just to see",
+    "start": 806.248,
+    "duration": 3.529
+  },
+  {
+    "text": "but all of these predictions are sitting\nthere, waiting to be confirmed.",
+    "start": 809.802,
+    "duration": 3.963
+  },
+  {
+    "text": "What happened next was that\nwe found around the Sun,",
+    "start": 813.79,
+    "duration": 5.302
+  },
+  {
+    "text": "in the Sun's\ninterstellar interface,",
+    "start": 819.117,
+    "duration": 4.857
+  },
+  {
+    "text": "the IBEX mission discovered that there are\nenergetic neutral atoms, called ENA's,",
+    "start": 824.623,
+    "duration": 6.068
+  },
+  {
+    "text": "which were arriving in the Solar System\nand they took on this ring shape.",
+    "start": 830.716,
+    "duration": 4.342
+  },
+  {
+    "text": "What's more, they\nhad bright spots,",
+    "start": 835.059,
+    "duration": 3.359
+  },
+  {
+    "text": "these yellow and red spots.",
+    "start": 838.443,
+    "duration": 2.673
+  },
+  {
+    "text": "So we have around the\nSun, in plasma dark mode,",
+    "start": 841.141,
+    "duration": 5.548
+  },
+  {
+    "text": "because they're not\nvisibly bright,",
+    "start": 846.714,
+    "duration": 2.285
+  },
+  {
+    "text": "this same ring and it's also set\nperpendicular to the local magnetic field.",
+    "start": 849.515,
+    "duration": 6.082
+  },
+  {
+    "text": "So all of these things\nfit the electrical model.",
+    "start": 855.622,
+    "duration": 3.192
+  },
+  {
+    "text": "But it raises the question then,",
+    "start": 858.839,
+    "duration": 1.705
+  },
+  {
+    "text": "how does this connect to the\nSun, how does it power it?",
+    "start": 860.569,
+    "duration": 3.562
+  },
+  {
+    "text": "This is what I wrote\nback in 2005:",
+    "start": 864.369,
+    "duration": 2.436
+  },
+  {
+    "text": "\"The solar plasma and that of interstellar\nspace are two different plasmas",
+    "start": 866.83,
+    "duration": 3.65
+  },
+  {
+    "text": "which must therefore have a \"double layer\"\nor Langmuir plasma sheath between them.",
+    "start": 870.505,
+    "duration": 4.113
+  },
+  {
+    "text": "So to treat the heliospheric boundary\nsimply as a magnetohydrodynamic...\"",
+    "start": 874.643,
+    "duration": 4.097
+  },
+  {
+    "text": "it's a hell of a word\n\"...shock problem...\"",
+    "start": 878.765,
+    "duration": 2.15
+  },
+  {
+    "text": "it just means a magnetized fluid,",
+    "start": 880.94,
+    "duration": 2.086
+  },
+  {
+    "text": "and like something plowing through water\nor an aircraft plowing through the air",
+    "start": 883.051,
+    "duration": 5.093
+  },
+  {
+    "text": "\"...is naive.\"",
+    "start": 888.169,
+    "duration": 1.333
+  },
+  {
+    "text": "it's not what we will find.",
+    "start": 889.527,
+    "duration": 2.717
+  },
+  {
+    "text": "And of course, since that date the\nevidence has been piling up in favor",
+    "start": 892.269,
+    "duration": 5.293
+  },
+  {
+    "text": "of the fact that it is not\na hydrodynamic shock.",
+    "start": 897.587,
+    "duration": 2.816
+  },
+  {
+    "text": "In fact it was said that there\nis no shock, just recently.",
+    "start": 900.428,
+    "duration": 4.579
+  },
+  {
+    "text": "Also, this is just describing\nin terms of my diagram,",
+    "start": 905.814,
+    "duration": 6.178
+  },
+  {
+    "text": "that I used back then,\nwhat's going on.",
+    "start": 912.017,
+    "duration": 2.522
+  },
+  {
+    "text": "This is the Sun, this is your speck\nof dust, around it is the heliosphere",
+    "start": 915.078,
+    "duration": 4.651
+  },
+  {
+    "text": "which, remember I said, if the Sun is a\nspeck of dust this is 20 feet wide.",
+    "start": 919.754,
+    "duration": 4.531
+  },
+  {
+    "text": "The solar wind comes out and\nit goes, it continues on,",
+    "start": 926.044,
+    "duration": 6.025
+  },
+  {
+    "text": "it continues on out to these\nBirkeland current filaments.",
+    "start": 932.094,
+    "duration": 3.314
+  },
+  {
+    "text": "This is the looking at a\ncross-section through that cylinder.",
+    "start": 935.433,
+    "duration": 4.527
+  },
+  {
+    "text": "That supernova\ncylinder if you like.",
+    "start": 939.985,
+    "duration": 2.57
+  },
+  {
+    "text": "So here's one of these particle\nbeams coming down here.",
+    "start": 942.58,
+    "duration": 3.082
+  },
+  {
+    "text": "It meets the solar wind, it neutralizes\nsome of the ions coming from the Sun",
+    "start": 945.687,
+    "duration": 4.001
+  },
+  {
+    "text": "and those that are happened to be\nmoving in a way towards the heliosphere",
+    "start": 949.713,
+    "duration": 5.284
+  },
+  {
+    "text": "will come back in and be\nregistered by the IBEX mission.",
+    "start": 955.022,
+    "duration": 3.179
+  },
+  {
+    "text": "So this is what the IBEX mission\nfound, is these things here.",
+    "start": 958.226,
+    "duration": 3.753
+  },
+  {
+    "text": "And even more recently,",
+    "start": 963.701,
+    "duration": 2.469
+  },
+  {
+    "text": "as I said, the Sun's Z-pinch is aligned\nwith the local galactic magnetic field",
+    "start": 966.195,
+    "duration": 4.751
+  },
+  {
+    "text": "which is what the\nIBEX mission found.",
+    "start": 970.971,
+    "duration": 2.483
+  },
+  {
+    "text": "The ENA's come from solar wind ions\nmeeting the Z-pinch current cylinder",
+    "start": 973.731,
+    "duration": 4.146
+  },
+  {
+    "text": "and then returning back\ninto the Solar System.",
+    "start": 977.902,
+    "duration": 3.066
+  },
+  {
+    "text": "And also up here we have the possibility\nof double layers in this central column",
+    "start": 981.967,
+    "duration": 6.915
+  },
+  {
+    "text": "and evidence for these particle-\naccelerating double layers is arriving.",
+    "start": 989.727,
+    "duration": 5.343
+  },
+  {
+    "text": "Remember in the 'Red Square'\nimage, I showed you those rungs.",
+    "start": 995.095,
+    "duration": 4.759
+  },
+  {
+    "text": "It's this kind of thing\nthat forms the rung.",
+    "start": 999.879,
+    "duration": 2.554
+  },
+  {
+    "text": "So that if there are some out here, you\nwould also see this rung across this pinch.",
+    "start": 1002.458,
+    "duration": 7.501
+  },
+  {
+    "text": "And just very recently,\nDecember the 4th 2012,",
+    "start": 1012.467,
+    "duration": 5.964
+  },
+  {
+    "text": "the Voyager 1\ncrossed a boundary.",
+    "start": 1019.065,
+    "duration": 3.187
+  },
+  {
+    "text": "Now the expectation was that when\nVoyager 1 crossed this boundary,",
+    "start": 1022.277,
+    "duration": 4.9
+  },
+  {
+    "text": "these magnetic field lines would,\nall those particles and so on,",
+    "start": 1027.202,
+    "duration": 4.688
+  },
+  {
+    "text": "would be blown aside by\nthis headwind if you like,",
+    "start": 1031.915,
+    "duration": 5.332
+  },
+  {
+    "text": "and travel around the\nheliosphere like that.",
+    "start": 1037.272,
+    "duration": 4.165
+  },
+  {
+    "text": "Instead of that, what they found\nis that the particles suddenly,",
+    "start": 1041.462,
+    "duration": 3.642
+  },
+  {
+    "text": "they keep going, the magnetic\nfield keeps going out this way.",
+    "start": 1045.129,
+    "duration": 3.057
+  },
+  {
+    "text": "Which is what I said on the other\ndiagram, they continue on.",
+    "start": 1048.211,
+    "duration": 3.794
+  },
+  {
+    "text": "What's more, the particles\nseem to be accelerated here.",
+    "start": 1052.03,
+    "duration": 2.851
+  },
+  {
+    "text": "There are no slow solar wind\nparticles beyond this spot",
+    "start": 1054.906,
+    "duration": 4.362
+  },
+  {
+    "text": "and that is also expected\non that electrical model.",
+    "start": 1059.293,
+    "duration": 2.676
+  },
+  {
+    "text": "The quote here is of course \"...the\nnew region isn't what we expected,",
+    "start": 1061.994,
+    "duration": 3.476
+  },
+  {
+    "text": "but we've come to expect the\nunexpected from Voyager.\"",
+    "start": 1065.495,
+    "duration": 3.609
+  },
+  {
+    "text": "Here is an active\nstellar circuit",
+    "start": 1070.256,
+    "duration": 2.167
+  },
+  {
+    "text": "and Michael Clarage also showed you\nthis object, this is the Crab Nebula.",
+    "start": 1072.448,
+    "duration": 4.475
+  },
+  {
+    "text": "This object,",
+    "start": 1077.861,
+    "duration": 1.508
+  },
+  {
+    "text": "which shows you the complex\nactivity around this star.",
+    "start": 1079.394,
+    "duration": 6.168
+  },
+  {
+    "text": "It's supposed to be a neutron star\nwith a period of 33 milliseconds,",
+    "start": 1086.57,
+    "duration": 5.334
+  },
+  {
+    "text": "which means it's\nspinning extremely fast.",
+    "start": 1091.929,
+    "duration": 3.091
+  },
+  {
+    "text": "But you'll notice some of the\nthings that are going on here,",
+    "start": 1095.045,
+    "duration": 3.837
+  },
+  {
+    "text": "which I'll show you in\nmore detail in a moment.",
+    "start": 1098.907,
+    "duration": 3.065
+  },
+  {
+    "text": "These are called wisps\nand these are hotspots",
+    "start": 1101.997,
+    "duration": 3.243
+  },
+  {
+    "text": "and this is the central object.",
+    "start": 1105.265,
+    "duration": 1.821
+  },
+  {
+    "text": "But this thing here\nis of interest.",
+    "start": 1107.111,
+    "duration": 1.65
+  },
+  {
+    "text": "Because just recently, it's been found\nto be the source of intense gamma rays.",
+    "start": 1108.786,
+    "duration": 5.442
+  },
+  {
+    "text": "They are only discovered\nbecause, by accident,",
+    "start": 1114.253,
+    "duration": 3.165
+  },
+  {
+    "text": "because they only\noccur for a day or so",
+    "start": 1117.443,
+    "duration": 2.223
+  },
+  {
+    "text": "and you have to be looking at the object\njust at the right time to pick it up.",
+    "start": 1119.691,
+    "duration": 4.23
+  },
+  {
+    "text": "Now before I show you that close up, I'm\ngoing to talk about the plasma focus.",
+    "start": 1123.946,
+    "duration": 5.627
+  },
+  {
+    "text": "The plasma focus is a\nvery simple device",
+    "start": 1129.598,
+    "duration": 3.364
+  },
+  {
+    "text": "but it also is capable of producing the most\nconcentrated form of electromagnetic energy",
+    "start": 1132.987,
+    "duration": 8.3
+  },
+  {
+    "text": "and also the most concentrated source\nof neutrons and high-energy particles.",
+    "start": 1141.312,
+    "duration": 5.39
+  },
+  {
+    "text": "In a beam, you'll notice, in a jet!",
+    "start": 1146.727,
+    "duration": 2.213
+  },
+  {
+    "text": "All you've got is two\ndifferent conductors,",
+    "start": 1148.965,
+    "duration": 2.274
+  },
+  {
+    "text": "an outer electrode,\nan inner electrode.",
+    "start": 1151.264,
+    "duration": 2.833
+  },
+  {
+    "text": "And if you discharge this capacitor\nbank which stores electrical energy,",
+    "start": 1154.445,
+    "duration": 6.038
+  },
+  {
+    "text": "across this switch between\nthese two electrodes,",
+    "start": 1160.508,
+    "duration": 3.75
+  },
+  {
+    "text": "what happens is that a discharge\nmoves down the barrel,",
+    "start": 1164.283,
+    "duration": 4.431
+  },
+  {
+    "text": "comes out here, balloons\naround, comes back in here",
+    "start": 1168.739,
+    "duration": 2.686
+  },
+  {
+    "text": "and forms a particular\nkind of plasma instability",
+    "start": 1171.45,
+    "duration": 4.04
+  },
+  {
+    "text": "which is called a plasmoid.",
+    "start": 1175.515,
+    "duration": 1.84
+  },
+  {
+    "text": "And that is the most concentrated\nform of electromagnetic energy.",
+    "start": 1177.38,
+    "duration": 4.355
+  },
+  {
+    "text": "The plasmoid then breaks down and fires\na beam of particles out this way",
+    "start": 1181.76,
+    "duration": 6.074
+  },
+  {
+    "text": "and back that way.",
+    "start": 1187.859,
+    "duration": 1.221
+  },
+  {
+    "text": "Then, this direction is not shown because\nthe plasma gun, this is always closed off.",
+    "start": 1189.105,
+    "duration": 5.666
+  },
+  {
+    "text": "But in space, you'll get two\njets in different directions.",
+    "start": 1194.796,
+    "duration": 4.222
+  },
+  {
+    "text": "This one is negatively charged,\nthis one's positively charged.",
+    "start": 1199.019,
+    "duration": 3.081
+  },
+  {
+    "text": "So you get this beam of\nX-rays and particles.",
+    "start": 1202.125,
+    "duration": 2.36
+  },
+  {
+    "text": "And of course, if the energy is\nsufficient you will get gamma rays.",
+    "start": 1204.51,
+    "duration": 3.721
+  },
+  {
+    "text": "Now I'll run this\nlittle animation.",
+    "start": 1209.031,
+    "duration": 3.823
+  },
+  {
+    "text": "So, you'll notice there that one of\nthe forms of plasma instability",
+    "start": 1255.46,
+    "duration": 5.451
+  },
+  {
+    "text": "is the corkscrew shape or\na whirlwind or a tornado.",
+    "start": 1260.936,
+    "duration": 5.222
+  },
+  {
+    "text": "Because we'll come to\nthat again in a moment.",
+    "start": 1266.42,
+    "duration": 3.103
+  },
+  {
+    "text": "So we've come back to the\nheart of the Crab Nebula.",
+    "start": 1269.548,
+    "duration": 2.767
+  },
+  {
+    "text": "From this object in\nthis anvil feature,",
+    "start": 1272.34,
+    "duration": 5.321
+  },
+  {
+    "text": "powerful gamma rays were coming.",
+    "start": 1278.732,
+    "duration": 2.711
+  },
+  {
+    "text": "Now this is some distance from\nthis pulsar, which is here,",
+    "start": 1281.468,
+    "duration": 3.636
+  },
+  {
+    "text": "but this, in the Electric Universe terms, is part\nof the circuit to the star, along this axis.",
+    "start": 1285.129,
+    "duration": 6.67
+  },
+  {
+    "text": "You'll notice, it has a shape which might\nappeal to the plasma mythologists amongst us.",
+    "start": 1292.505,
+    "duration": 7.126
+  },
+  {
+    "text": "It has kind of upraised arms\nand then this strange shape.",
+    "start": 1299.656,
+    "duration": 3.919
+  },
+  {
+    "text": "Now amongst the petroglyphs\nyou'll find that;",
+    "start": 1303.6,
+    "duration": 5.087
+  },
+  {
+    "text": "I'll just get the\nrest of this up here...",
+    "start": 1309.21,
+    "duration": 2.729
+  },
+  {
+    "text": "The shape of the anvil feature is\ntypical of a plasma instability",
+    "start": 1312.775,
+    "duration": 3.865
+  },
+  {
+    "text": "or plasma focus effect,",
+    "start": 1316.665,
+    "duration": 1.88
+  },
+  {
+    "text": "but it can take on shapes\nwith, like a, duck's head.",
+    "start": 1318.57,
+    "duration": 3.127
+  },
+  {
+    "text": "Now there are many\npetroglyphs around the world,",
+    "start": 1321.722,
+    "duration": 2.618
+  },
+  {
+    "text": "which have this strange-headed\ncreature with the arms upraised.",
+    "start": 1324.365,
+    "duration": 3.942
+  },
+  {
+    "text": "It's a plasma instability!",
+    "start": 1328.824,
+    "duration": 2.157
+  },
+  {
+    "text": "And the other thing is that that is where\nthat plasmoid exists, right there.",
+    "start": 1331.006,
+    "duration": 6.546
+  },
+  {
+    "text": "So the burst of gamma rays is completely\nexplained in terms of a plasma gun effect",
+    "start": 1338.071,
+    "duration": 6.229
+  },
+  {
+    "text": "focused on this\nhalf of this pulsar,",
+    "start": 1344.325,
+    "duration": 3.38
+  },
+  {
+    "text": "(they) want us to call it a pulsar,\nit's actually a normal body,",
+    "start": 1347.73,
+    "duration": 2.746
+  },
+  {
+    "text": "there's no such thing\nas a neutron star.",
+    "start": 1350.501,
+    "duration": 2.524
+  },
+  {
+    "text": "But this circuit is driving\nthis star to such an extent",
+    "start": 1353.05,
+    "duration": 4.562
+  },
+  {
+    "text": "that the entire surroundings is lit\nup and is in motion, rapid motion.",
+    "start": 1357.637,
+    "duration": 5.362
+  },
+  {
+    "text": "As I said, it's reminiscent of the\nprehistoric petroglyph figures",
+    "start": 1363.024,
+    "duration": 3.68
+  },
+  {
+    "text": "with a 'duck's head'\natop upraised 'arms'.",
+    "start": 1366.729,
+    "duration": 2.638
+  },
+  {
+    "text": "Now this is another visible stellar circuit\nand you see here the hyperbolic cones.",
+    "start": 1369.392,
+    "duration": 7.334
+  },
+  {
+    "text": "The star is in here.",
+    "start": 1376.751,
+    "duration": 1.703
+  },
+  {
+    "text": "And here's its counterpart, the\nother half of the bipolar shape.",
+    "start": 1378.479,
+    "duration": 5.262
+  },
+  {
+    "text": "This one is, if you like, 450\nmiles away from the Sun,",
+    "start": 1383.766,
+    "duration": 4.281
+  },
+  {
+    "text": "in terms of that model I\ntalked about last night.",
+    "start": 1388.048,
+    "duration": 3.983
+  },
+  {
+    "text": "Now, all of these circuits have to\nsomehow tie up with the Sun circuit.",
+    "start": 1392.96,
+    "duration": 7.126
+  },
+  {
+    "text": "And this is the Sun circuit.",
+    "start": 1400.679,
+    "duration": 1.667
+  },
+  {
+    "text": "This was actually drawn, many\nyears ago, by Hannes Alfvén.",
+    "start": 1402.371,
+    "duration": 3.84
+  },
+  {
+    "text": "Only he considered the Sun, at\nthe center here, as the driver.",
+    "start": 1406.236,
+    "duration": 4.651
+  },
+  {
+    "text": "We're suggesting that no, the Sun is\nactually being driven by this circuit here.",
+    "start": 1410.912,
+    "duration": 6.297
+  },
+  {
+    "text": "So the puzzle now\nis to figure out",
+    "start": 1417.901,
+    "duration": 2.301
+  },
+  {
+    "text": "what is the connection between\nthis powerful circuit and the Sun,",
+    "start": 1420.227,
+    "duration": 4.752
+  },
+  {
+    "text": "which is sitting in this tiny little\nheliosphere in the centre of it all.",
+    "start": 1425.004,
+    "duration": 4.054
+  },
+  {
+    "text": "And we have to couple it to this circuit.",
+    "start": 1429.083,
+    "duration": 4.445
+  },
+  {
+    "text": "Now, I've taken on this project\nin collaboration with Don Scott",
+    "start": 1433.553,
+    "duration": 5.762
+  },
+  {
+    "text": "who made many...",
+    "start": 1439.34,
+    "duration": 1.329
+  },
+  {
+    "text": "many of you have probably read\nhis book The Electric Sky.",
+    "start": 1440.694,
+    "duration": 4.004
+  },
+  {
+    "text": "Now I think, this is one of\nthe most interesting and",
+    "start": 1444.723,
+    "duration": 4.062
+  },
+  {
+    "text": "puzzling things that I've had\nto work on for many years",
+    "start": 1448.81,
+    "duration": 3.548
+  },
+  {
+    "text": "and we hope to be able to\npresent at the next conference,",
+    "start": 1452.359,
+    "duration": 4.114
+  },
+  {
+    "text": "our version of what\nthis circuit looks like.",
+    "start": 1456.498,
+    "duration": 5.367
+  },
+  {
+    "text": "Because if we can do this, we\ncan look at the questions of",
+    "start": 1461.89,
+    "duration": 3.948
+  },
+  {
+    "text": "what causes the solar cycle,\nthe 11-year solar cycle.",
+    "start": 1465.839,
+    "duration": 3.929
+  },
+  {
+    "text": "We can look at the possibility\nof using radio telescopes",
+    "start": 1469.793,
+    "duration": 4.112
+  },
+  {
+    "text": "on that, which can\ntrace these circuits",
+    "start": 1473.93,
+    "duration": 2.586
+  },
+  {
+    "text": "to deduce and forecast what may\nhappen over the longer term.",
+    "start": 1476.541,
+    "duration": 6.285
+  },
+  {
+    "text": "All of these things I\nthink, would be of benefit",
+    "start": 1482.851,
+    "duration": 3.848
+  },
+  {
+    "text": "and only available from the\nElectric Universe model.",
+    "start": 1486.724,
+    "duration": 3.601
+  },
+  {
+    "text": "It's interesting. In all\nof the work I've done,",
+    "start": 1490.35,
+    "duration": 3.658
+  },
+  {
+    "text": "one of the most fruitful things to do is to\ngo back in time and look at the Pioneers.",
+    "start": 1494.033,
+    "duration": 4.946
+  },
+  {
+    "text": "And also look at the\narguments that went on",
+    "start": 1499.004,
+    "duration": 2.504
+  },
+  {
+    "text": "when certain things were accepted,\nlike Einstein's theories.",
+    "start": 1501.533,
+    "duration": 3.696
+  },
+  {
+    "text": "And if you read the articles\nbefore Einstein was accepted,",
+    "start": 1505.254,
+    "duration": 4.214
+  },
+  {
+    "text": "there were some brilliant papers\ndescribing the flaws in Einstein's work.",
+    "start": 1509.493,
+    "duration": 6.101
+  },
+  {
+    "text": "But there comes a point, a\ntipping point I suppose,",
+    "start": 1515.619,
+    "duration": 2.657
+  },
+  {
+    "text": "when Einstein was accepted and\nall of these arguments are lost.",
+    "start": 1518.301,
+    "duration": 5.325
+  },
+  {
+    "text": "Students never see them and I think\nthis is a great failing of education.",
+    "start": 1523.651,
+    "duration": 4.588
+  },
+  {
+    "text": "This chap here, amazingly, Sir\nWilliam Huggins said in 1885,",
+    "start": 1529.049,
+    "duration": 6.744
+  },
+  {
+    "text": "\"The grandest displays of terrestrial\nelectrical disturbances must be altogether",
+    "start": 1535.818,
+    "duration": 4.341
+  },
+  {
+    "text": "insignificant in comparison\nwith the electrical changes",
+    "start": 1540.184,
+    "duration": 2.767
+  },
+  {
+    "text": "which must accompany the ceaseless and\nfearful activity of the photosphere...",
+    "start": 1542.976,
+    "duration": 4.109
+  },
+  {
+    "text": "Surely it is not too much to say that\nour terrestrial experience of lightning",
+    "start": 1547.11,
+    "duration": 4.208
+  },
+  {
+    "text": "and of aurorae fails to supply\nus with any adequate basis",
+    "start": 1551.343,
+    "duration": 3.805
+  },
+  {
+    "text": "for a true conception of the electric\nforce in action on the Sun.\"",
+    "start": 1555.173,
+    "duration": 4.496
+  },
+  {
+    "text": "So the idea that the Sun was an electrical\nbody was a possibility in the 19th century",
+    "start": 1560.224,
+    "duration": 4.642
+  },
+  {
+    "text": "but we lost it in the\n20th, unfortunately.",
+    "start": 1564.891,
+    "duration": 2.856
+  },
+  {
+    "text": "Recently there was a discovery, a\npaper published about tornados",
+    "start": 1567.772,
+    "duration": 6.796
+  },
+  {
+    "text": "existing in the chromosphere,\nbetween the corona up here,",
+    "start": 1574.593,
+    "duration": 5.779
+  },
+  {
+    "text": "and the photosphere, down here on the Sun.",
+    "start": 1580.397,
+    "duration": 2.981
+  },
+  {
+    "text": "Now remember, I talked about\nthe plasma instability",
+    "start": 1583.403,
+    "duration": 3.102
+  },
+  {
+    "text": "which creates the corkscrew\nmotion or the tornadic motion.",
+    "start": 1586.53,
+    "duration": 4.398
+  },
+  {
+    "text": "This is an example of an electrical\nconnection between the Sun",
+    "start": 1590.953,
+    "duration": 4.446
+  },
+  {
+    "text": "at the photosphere,\nand the corona.",
+    "start": 1595.424,
+    "duration": 2.947
+  },
+  {
+    "text": "In other words, this is one\nof the circuit elements.",
+    "start": 1598.396,
+    "duration": 3.6
+  },
+  {
+    "text": "It's estimated, there are more than 10,000 of\nthem continuously present in the quiet Sun.",
+    "start": 1602.699,
+    "duration": 5.408
+  },
+  {
+    "text": "Surface and coronal\nvortices are connected.",
+    "start": 1608.496,
+    "duration": 2.967
+  },
+  {
+    "text": "They talk about\ncoronal vortices here",
+    "start": 1611.488,
+    "duration": 2.909
+  },
+  {
+    "text": "so I will come on to the\nsubject of sunspots.",
+    "start": 1614.422,
+    "duration": 2.635
+  },
+  {
+    "text": "And what of these\ngranulations on the Sun.",
+    "start": 1617.082,
+    "duration": 3.56
+  },
+  {
+    "text": "Once again, if we go back in time\nand look at Kristian Birkeland",
+    "start": 1621.309,
+    "duration": 4.043
+  },
+  {
+    "text": "at the turn of the century, of\nthe end of the 19th century,",
+    "start": 1625.377,
+    "duration": 5.012
+  },
+  {
+    "text": "he said \"...it might be imagined\nthat the interior of the Sun",
+    "start": 1630.927,
+    "duration": 3.277
+  },
+  {
+    "text": "formed the positive pole for\nenormous electric currents.\"",
+    "start": 1634.229,
+    "duration": 3.3
+  },
+  {
+    "text": "This fellow never ceases to\namaze me when I read his works.",
+    "start": 1637.554,
+    "duration": 5.815
+  },
+  {
+    "text": "\"...[this] assumption has the advantages\nof appearing to give a natural explanation",
+    "start": 1643.394,
+    "duration": 4.291
+  },
+  {
+    "text": "for the movement of the\nsunspots in various latitudes.\"",
+    "start": 1647.71,
+    "duration": 2.847
+  },
+  {
+    "text": "In other words, the\nsolar sunspot cycle.",
+    "start": 1650.558,
+    "duration": 3.222
+  },
+  {
+    "text": "\"In this case, the origin of the sunspot\nmust be that the presumptive, more or less",
+    "start": 1653.805,
+    "duration": 5.278
+  },
+  {
+    "text": "insulating photospheric envelope was\nsometimes pierced by disruptive discharges,",
+    "start": 1659.108,
+    "duration": 5.997
+  },
+  {
+    "text": "thus forming great\nelectric arcs.\"",
+    "start": 1665.13,
+    "duration": 2.816
+  },
+  {
+    "text": "Now it was discovered in the Space Age of\ncourse, that the Sun is surrounded by",
+    "start": 1667.971,
+    "duration": 4.189
+  },
+  {
+    "text": "a plasma ring, a\nplasma doughnut.",
+    "start": 1672.185,
+    "duration": 2.975
+  },
+  {
+    "text": "That's seen from the\npole looking down on it,",
+    "start": 1675.185,
+    "duration": 2.489
+  },
+  {
+    "text": "this is looking at\nthe equatorial region.",
+    "start": 1677.699,
+    "duration": 2.242
+  },
+  {
+    "text": "So the plasma doughnut is\nan energy storage ring",
+    "start": 1679.966,
+    "duration": 4.951
+  },
+  {
+    "text": "which can, when it becomes\nunstable, discharge to the Sun.",
+    "start": 1684.942,
+    "duration": 3.677
+  },
+  {
+    "text": "And that, I suggest, is\nthe origin of sunspots.",
+    "start": 1688.644,
+    "duration": 3.333
+  },
+  {
+    "text": "And this is looking\ndown into a sunspot.",
+    "start": 1693.064,
+    "duration": 2.981
+  },
+  {
+    "text": "This is penumbra, this is the\nouter region of the sunspot,",
+    "start": 1696.07,
+    "duration": 4.799
+  },
+  {
+    "text": "look like turbulent\nboiling hot jets or hot gas.",
+    "start": 1700.894,
+    "duration": 3.532
+  },
+  {
+    "text": "And of course, this comes back to that\npaper I showed you right at the beginning,",
+    "start": 1704.451,
+    "duration": 3.547
+  },
+  {
+    "text": "which says, there is no or virtually no\ndetectable convection occurring on the Sun.",
+    "start": 1708.023,
+    "duration": 5.212
+  },
+  {
+    "text": "Why is the sunspot dark if\nthe Sun is hotter beneath?",
+    "start": 1713.26,
+    "duration": 4.006
+  },
+  {
+    "text": "The simplest answer is that the Sun\nis thousands of degrees cooler below!",
+    "start": 1717.624,
+    "duration": 4.505
+  },
+  {
+    "text": "Penumbral filaments are\nglowing plasma tornadoes.",
+    "start": 1722.13,
+    "duration": 3.54
+  },
+  {
+    "text": "So this is the counterpart of\nthe tornado in the chronosphere.",
+    "start": 1725.695,
+    "duration": 3.657
+  },
+  {
+    "text": "This is going deeper\ninto the Sun.",
+    "start": 1729.377,
+    "duration": 2.193
+  },
+  {
+    "text": "This is a bit like on Earth where you\nsee at the top of the diffuse elves,",
+    "start": 1731.595,
+    "duration": 3.897
+  },
+  {
+    "text": "which can be 80 km or more wide,\nthen you come down to the jets",
+    "start": 1735.517,
+    "duration": 3.271
+  },
+  {
+    "text": "and the blue jets and so on and\nsprites which are much thinner,",
+    "start": 1738.813,
+    "duration": 3.437
+  },
+  {
+    "text": "and then you come down to\nlightning which is thinner still.",
+    "start": 1742.275,
+    "duration": 3.013
+  },
+  {
+    "text": "This is the same kind of effect.",
+    "start": 1745.313,
+    "duration": 2.47
+  },
+  {
+    "text": "They have bright edges, dark\ncores and a rotary motion.",
+    "start": 1748.917,
+    "duration": 3.437
+  },
+  {
+    "text": "Inset there is a fuel fire with a\nhelicopter engine above to create the vortex",
+    "start": 1752.379,
+    "duration": 7.077
+  },
+  {
+    "text": "and you can see how it has\nbright edges and a dark core.",
+    "start": 1759.481,
+    "duration": 4.295
+  },
+  {
+    "text": "And up here you can see\nthese filaments on the Sun,",
+    "start": 1763.801,
+    "duration": 3.007
+  },
+  {
+    "text": "bright edges and a dark core.",
+    "start": 1766.833,
+    "duration": 2.505
+  },
+  {
+    "text": "And bright 'lightning' flecks their tightly\npacked 'granular' tops and the descending bases.",
+    "start": 1769.611,
+    "duration": 4.87
+  },
+  {
+    "text": "It's like a descending tornado.",
+    "start": 1774.506,
+    "duration": 1.951
+  },
+  {
+    "text": "The funnel of a tornado.",
+    "start": 1776.482,
+    "duration": 2.215
+  },
+  {
+    "text": "In the actual sunspot\nitself, in the darkest part,",
+    "start": 1778.941,
+    "duration": 3.44
+  },
+  {
+    "text": "we see the tops of\neven thinner filaments.",
+    "start": 1782.406,
+    "duration": 2.317
+  },
+  {
+    "text": "And the tops of those are actually\nhotter than the surface of the Sun.",
+    "start": 1784.748,
+    "duration": 4.392
+  },
+  {
+    "text": "This is a diagram, I\nwon't go into it here.",
+    "start": 1790.263,
+    "duration": 2.246
+  },
+  {
+    "text": "It can be read both in Don Scott's book\nand on my website and his website.",
+    "start": 1792.534,
+    "duration": 4.188
+  },
+  {
+    "text": "It shows how the Sun regulates the\ncurrent flowing through the photosphere",
+    "start": 1796.747,
+    "duration": 3.934
+  },
+  {
+    "text": "to give us steady\nheat and light.",
+    "start": 1800.706,
+    "duration": 2.761
+  },
+  {
+    "text": "This is one of those amazing things\nwhere nature seems to have worked out",
+    "start": 1803.492,
+    "duration": 4.861
+  },
+  {
+    "text": "the simple way of doing\nthings. The same as we have",
+    "start": 1808.378,
+    "duration": 2.714
+  },
+  {
+    "text": "with transistors to\ncontrol electric current.",
+    "start": 1811.117,
+    "duration": 2.872
+  },
+  {
+    "text": "The spicules, these jets between the granules\non the Sun of course, are unexplained",
+    "start": 1814.014,
+    "duration": 5.931
+  },
+  {
+    "text": "in the standard model but they're\nnecessary in the electrical model",
+    "start": 1819.97,
+    "duration": 3.436
+  },
+  {
+    "text": "to provide the charge carriers for\nthe double layers (in) above the Sun.",
+    "start": 1823.431,
+    "duration": 4.561
+  },
+  {
+    "text": "This is the electric Sun. This can be seen\nin the online book of the Sun Electric.",
+    "start": 1829.177,
+    "duration": 5.969
+  },
+  {
+    "text": "And in that model the\nSun has a core here,",
+    "start": 1836.432,
+    "duration": 4.206
+  },
+  {
+    "text": "a very extensive atmosphere and then\nall of the photosphere out here",
+    "start": 1840.663,
+    "duration": 3.801
+  },
+  {
+    "text": "is like a global lightning storm\nor electric tornado storm.",
+    "start": 1844.489,
+    "duration": 4.94
+  },
+  {
+    "text": "If you like to look it that way.",
+    "start": 1849.454,
+    "duration": 1.663
+  },
+  {
+    "text": "And the energy flow is inwards\nand not outwards.",
+    "start": 1851.142,
+    "duration": 3.729
+  },
+  {
+    "text": "The corona is a familiar glow discharge\nphenomenon recognized by high-voltage engineers.",
+    "start": 1856.218,
+    "duration": 5.103
+  },
+  {
+    "text": "So, like the lights of a great city at\nnight, stars are lit at great distances",
+    "start": 1862.378,
+    "duration": 4.379
+  },
+  {
+    "text": "from where their power\nis being generated.",
+    "start": 1866.782,
+    "duration": 2.95
+  },
+  {
+    "text": "Each star is the focus of an electromagnetic\n'pinch' in the galactic current stream.",
+    "start": 1870.859,
+    "duration": 4.52
+  },
+  {
+    "text": "The details of which\nhave to be worked out.",
+    "start": 1875.404,
+    "duration": 2.842
+  },
+  {
+    "text": "And I suggest, the Sun sets\non 20th century science.",
+    "start": 1879.097,
+    "duration": 5.533
+  },
+  {
+    "text": "The data that's coming back from\nall of the marvelous spacecraft",
+    "start": 1885.448,
+    "duration": 4.309
+  },
+  {
+    "text": "that are focused on the Sun\nwatching it in stereo,",
+    "start": 1889.782,
+    "duration": 4.137
+  },
+  {
+    "text": "watching it in all different parts\nof the electromagnetic spectrum,",
+    "start": 1893.92,
+    "duration": 4.535
+  },
+  {
+    "text": "and it's all showing that the Sun is not\nunderstood in terms of the Standard Model.",
+    "start": 1898.48,
+    "duration": 5.459
+  },
+  {
+    "text": "Thunderbolts.info",
+    "start": 1908.284,
+    "duration": 6.133
+  }
+]

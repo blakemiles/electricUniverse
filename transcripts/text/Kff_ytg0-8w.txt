@@ -1,0 +1,3357 @@
+[
+  {
+    "text": "As you can imagine\nthere's a lot to be said",
+    "start": 12.372,
+    "duration": 2.403
+  },
+  {
+    "text": "about how do you form a\nshish kebob of planets",
+    "start": 14.8,
+    "duration": 2.713
+  },
+  {
+    "text": "and how do you capture\na star, a passing star.",
+    "start": 17.538,
+    "duration": 3.318
+  },
+  {
+    "text": "So this is going to be\na race against time.",
+    "start": 20.881,
+    "duration": 3.137
+  },
+  {
+    "text": "...the clicker",
+    "start": 24.909,
+    "duration": 2.071
+  },
+  {
+    "text": "we have",
+    "start": 32.765,
+    "duration": 1.31
+  },
+  {
+    "text": "now here it is, yep yep...",
+    "start": 36.36,
+    "duration": 2.624
+  },
+  {
+    "text": "we have the new\nless modest lectern",
+    "start": 39.58,
+    "duration": 5.749
+  },
+  {
+    "text": "THE STAR 'PROTO-SATURN'",
+    "start": 47.894,
+    "duration": 1.623
+  },
+  {
+    "text": "This is Saturn before it became a gas\ngiant planet in the solar system.",
+    "start": 49.542,
+    "duration": 4.987
+  },
+  {
+    "text": "And this is a quote\nfrom Roger Wescott,",
+    "start": 54.554,
+    "duration": 3.451
+  },
+  {
+    "text": "the late Roger Wescott who\nwas a good friend and",
+    "start": 58.03,
+    "duration": 3.499
+  },
+  {
+    "text": "used to come to the Kronia conferences\nand actually spoke at one or two,",
+    "start": 61.554,
+    "duration": 4.513
+  },
+  {
+    "text": "\"Pre-history was a\ndream turned nightmare.",
+    "start": 67.244,
+    "duration": 2.759
+  },
+  {
+    "text": "Mankind forgot the dream\nbecause it was too remote",
+    "start": 70.028,
+    "duration": 2.915
+  },
+  {
+    "text": "and the nightmare because\nit was too shocking.",
+    "start": 72.968,
+    "duration": 2.744
+  },
+  {
+    "text": "The prehistory that we have confabulated,\nhowever, is too bland to be believed.\"",
+    "start": 75.737,
+    "duration": 5.23
+  },
+  {
+    "text": "He was a professor of anthropology\nand linguistics at Drew University,",
+    "start": 82.784,
+    "duration": 3.968
+  },
+  {
+    "text": "Madison, New Jersey.",
+    "start": 86.777,
+    "duration": 2.015
+  },
+  {
+    "text": "What does the star\nProto-Saturn mean?",
+    "start": 88.817,
+    "duration": 3.165
+  },
+  {
+    "text": "It means a star became the gas\ngiant we now call Saturn.",
+    "start": 92.007,
+    "duration": 3.992
+  },
+  {
+    "text": "This claim is outrageous according\nto present-day cosmology",
+    "start": 96.024,
+    "duration": 3.326
+  },
+  {
+    "text": "and our understanding of stars",
+    "start": 99.375,
+    "duration": 2.014
+  },
+  {
+    "text": "but it is supported by\nlifetimes of forensic research",
+    "start": 101.414,
+    "duration": 3.056
+  },
+  {
+    "text": "into the earliest recorded\nmemories of mankind",
+    "start": 104.495,
+    "duration": 2.721
+  },
+  {
+    "text": "and it is confirmed by the recognition\nof global prehistoric petroglyphs",
+    "start": 107.241,
+    "duration": 4.806
+  },
+  {
+    "text": "as representations of the many\ndistinctive forms of plasma instability",
+    "start": 112.072,
+    "duration": 4.211
+  },
+  {
+    "text": "seen in the highest energy\nelectrical discharges.",
+    "start": 116.308,
+    "duration": 3.536
+  },
+  {
+    "text": "It has become crystal clear",
+    "start": 119.869,
+    "duration": 1.853
+  },
+  {
+    "text": "that the legendary Thunderbolts\nof the planetary gods were real",
+    "start": 121.747,
+    "duration": 3.536
+  },
+  {
+    "text": "and they accompanied a major recent\ndisturbance of the solar system",
+    "start": 125.308,
+    "duration": 4.424
+  },
+  {
+    "text": "but perhaps the greatest\npuzzle for scholars",
+    "start": 129.757,
+    "duration": 2.341
+  },
+  {
+    "text": "has been the references to\nSaturn as the first Sun",
+    "start": 132.123,
+    "duration": 3.189
+  },
+  {
+    "text": "and in my home in Australia\nthe original inhabitants",
+    "start": 135.337,
+    "duration": 2.957
+  },
+  {
+    "text": "have legends of a time\nwhen there were two suns,",
+    "start": 138.319,
+    "duration": 2.562
+  },
+  {
+    "text": "a greater and a lesser Sun.",
+    "start": 140.906,
+    "duration": 2.135
+  },
+  {
+    "text": "Details in their Dreamtime\nStories have no reference points",
+    "start": 143.066,
+    "duration": 3.661
+  },
+  {
+    "text": "other than in high-energy\nplasma experiments.",
+    "start": 146.752,
+    "duration": 2.696
+  },
+  {
+    "text": "They were not dreaming!",
+    "start": 149.473,
+    "duration": 2.335
+  },
+  {
+    "text": "My concern since I became\naware of this evidence",
+    "start": 151.833,
+    "duration": 2.682
+  },
+  {
+    "text": "has been to make classical physics\nsense of Saturn as a star",
+    "start": 154.54,
+    "duration": 3.521
+  },
+  {
+    "text": "and to understand the\nsequence of events",
+    "start": 158.086,
+    "duration": 2.173
+  },
+  {
+    "text": "that led to the seemingly peaceful\nsolar system we see today.",
+    "start": 160.284,
+    "duration": 4.555
+  },
+  {
+    "text": "So we have these big questions;",
+    "start": 168.093,
+    "duration": 2.969
+  },
+  {
+    "text": "Do we really have a 4.6 billion\nyear old clockwork solar system?",
+    "start": 171.087,
+    "duration": 4.518
+  },
+  {
+    "text": "How do planets form?",
+    "start": 175.63,
+    "duration": 2.769
+  },
+  {
+    "text": "...I beg your pardon...",
+    "start": 178.637,
+    "duration": 1.825
+  },
+  {
+    "text": "How do planets form?",
+    "start": 180.772,
+    "duration": 1.405
+  },
+  {
+    "text": "How did the atmosphere\nand ocean form?",
+    "start": 182.202,
+    "duration": 2.776
+  },
+  {
+    "text": "Was the past like the present?",
+    "start": 185.003,
+    "duration": 2.152
+  },
+  {
+    "text": "And I think from the\nevidence that you've seen",
+    "start": 187.18,
+    "duration": 2.197
+  },
+  {
+    "text": "that Dave Talbot and Ev\nCochran have provided,",
+    "start": 189.402,
+    "duration": 2.366
+  },
+  {
+    "text": "it certainly wasn't\nanything like the present.",
+    "start": 191.769,
+    "duration": 2.558
+  },
+  {
+    "text": "So if Saturn was a star\nwithin the memory of mankind,",
+    "start": 194.352,
+    "duration": 2.904
+  },
+  {
+    "text": "it throws some big questions\ninto sharp relief",
+    "start": 197.281,
+    "duration": 2.799
+  },
+  {
+    "text": "and in doing so it\nthrows a harsh light on",
+    "start": 200.105,
+    "duration": 2.389
+  },
+  {
+    "text": "to our self-satisfying fictional story\nof the earth and the solar system.",
+    "start": 202.519,
+    "duration": 5.243
+  },
+  {
+    "text": "The Origin of the Solar System",
+    "start": 210.59,
+    "duration": 2.762
+  },
+  {
+    "text": "Professor William McRae wrote;",
+    "start": 214.679,
+    "duration": 2.883
+  },
+  {
+    "text": "It is impossible to discover\nthe origin of the solar system",
+    "start": 217.587,
+    "duration": 2.918
+  },
+  {
+    "text": "by observing it now and working\nsteadily backwards in time",
+    "start": 220.53,
+    "duration": 3.235
+  },
+  {
+    "text": "in order to infer the\nwhole of its past history.",
+    "start": 223.79,
+    "duration": 5.227
+  },
+  {
+    "text": "The solar nebula model has no\nsuccessful predictions to its name!",
+    "start": 229.445,
+    "duration": 5.197
+  },
+  {
+    "text": "That's a bit of a\nsobering thought.",
+    "start": 234.667,
+    "duration": 2.552
+  },
+  {
+    "text": "The... Here we go, yeah.",
+    "start": 242.851,
+    "duration": 4.81
+  },
+  {
+    "text": "My meeting with Dr. Velikovsky",
+    "start": 247.686,
+    "duration": 2.178
+  },
+  {
+    "text": "I visited him in 1979 at his\nhome in Princeton, New Jersey,",
+    "start": 249.889,
+    "duration": 3.612
+  },
+  {
+    "text": "he very gracefully accepted\nmy family as well,",
+    "start": 253.526,
+    "duration": 5.652
+  },
+  {
+    "text": "I've got photos of my daughters\nwith him but none with me,",
+    "start": 259.203,
+    "duration": 2.904
+  },
+  {
+    "text": "I was rather shy of\nasking him for a photo.",
+    "start": 262.132,
+    "duration": 4.022
+  },
+  {
+    "text": "But the main question then was this\nproblem that he faced with astronomers.",
+    "start": 266.179,
+    "duration": 5.601
+  },
+  {
+    "text": "What don't we know about gravity, there's\nsomething really missing in our physics.",
+    "start": 271.805,
+    "duration": 5.546
+  },
+  {
+    "text": "Velikovsky argued that planets\nchange orbits, exchange Thunderbolts",
+    "start": 279.85,
+    "duration": 5.168
+  },
+  {
+    "text": "and quickly settle\ninto peaceful orbits.",
+    "start": 285.043,
+    "duration": 4.054
+  },
+  {
+    "text": "Rapid settling following chaos defies our\nunderstanding of gravitational systems",
+    "start": 290.274,
+    "duration": 4.888
+  },
+  {
+    "text": "which for more than a two-body\nsystem are chaotic as I said.",
+    "start": 295.187,
+    "duration": 3.249
+  },
+  {
+    "text": "If one planet departs from its\nnormal orbit by a small amount,",
+    "start": 298.461,
+    "duration": 3.617
+  },
+  {
+    "text": "it will affect the others and there's no\nway of restoring the original situation,",
+    "start": 302.103,
+    "duration": 4.081
+  },
+  {
+    "text": "the system flies apart.",
+    "start": 306.209,
+    "duration": 2.492
+  },
+  {
+    "text": "Our understanding of gravity and solar\nsystem mechanics is inadequate.",
+    "start": 309.084,
+    "duration": 5.084
+  },
+  {
+    "text": "So we have a new cosmology.",
+    "start": 316.406,
+    "duration": 2.399
+  },
+  {
+    "text": "A new forensic approach to old evidence\nproduced the recent history of the solar system",
+    "start": 318.83,
+    "duration": 4.323
+  },
+  {
+    "text": "that requires a critical\nexamination of modern science",
+    "start": 323.178,
+    "duration": 2.886
+  },
+  {
+    "text": "instead of dogmatic\nrejection of evidence.",
+    "start": 326.089,
+    "duration": 2.52
+  },
+  {
+    "text": "The result is an\nentirely new cosmology,",
+    "start": 328.634,
+    "duration": 2.618
+  },
+  {
+    "text": "the Electric Universe.",
+    "start": 331.277,
+    "duration": 1.794
+  },
+  {
+    "text": "The history of this new\ncosmological paradigm",
+    "start": 334.009,
+    "duration": 3.123
+  },
+  {
+    "text": "goes back to 'Worlds\nin Collision' in 1950.",
+    "start": 337.157,
+    "duration": 2.578
+  },
+  {
+    "text": "In the last chapter Velikovsky referred\nto Jupiter and Saturn as stars.",
+    "start": 339.76,
+    "duration": 5.004
+  },
+  {
+    "text": "And I quote,",
+    "start": 345.054,
+    "duration": 1.516
+  },
+  {
+    "text": "\"There I wrote with respect to\nthe future that some dark star",
+    "start": 346.595,
+    "duration": 3.454
+  },
+  {
+    "text": "like Jupiter or Saturn may\nbe in the path of the Sun",
+    "start": 350.074,
+    "duration": 3.164
+  },
+  {
+    "text": "and may be attracted to the\nsystem and cause havoc in it.\"",
+    "start": 353.263,
+    "duration": 3.292
+  },
+  {
+    "text": "That was in chapter 9, The end.",
+    "start": 356.58,
+    "duration": 3.112
+  },
+  {
+    "text": "Worlds in Collision comprises only\nthe last two acts of a cosmic drama,",
+    "start": 361.882,
+    "duration": 3.738
+  },
+  {
+    "text": "wrote Velikovsky in Kronos\nvolume 5 number 1 in 1979.",
+    "start": 365.645,
+    "duration": 4.459
+  },
+  {
+    "text": "That's the Kronos issue there.",
+    "start": 370.129,
+    "duration": 2.59
+  },
+  {
+    "text": "And then we have David Talbott's\nremarkable reconstruction",
+    "start": 372.744,
+    "duration": 3.213
+  },
+  {
+    "text": "of the earlier acts in\nour prehistoric skies",
+    "start": 375.982,
+    "duration": 2.572
+  },
+  {
+    "text": "that was published in 1980.",
+    "start": 378.579,
+    "duration": 2.276
+  },
+  {
+    "text": "Then in Aeon vol 5\nnumber 5 in January 2000,",
+    "start": 381.339,
+    "duration": 3.977
+  },
+  {
+    "text": "I first published my physical model of\nEarth's relationship to the Dark Star",
+    "start": 385.341,
+    "duration": 4.056
+  },
+  {
+    "text": "dubbed Proto-Saturn",
+    "start": 389.422,
+    "duration": 1.474
+  },
+  {
+    "text": "in Stars in an Electric Universe.",
+    "start": 390.921,
+    "duration": 2.917
+  },
+  {
+    "text": "It had appeared earlier\non my website as",
+    "start": 393.863,
+    "duration": 2.678
+  },
+  {
+    "text": "Other Stars Other Worlds\nOther Life in December 1999.",
+    "start": 396.566,
+    "duration": 4.84
+  },
+  {
+    "text": "And then we have all the\nbooks by Dwardu Cardona",
+    "start": 402.041,
+    "duration": 3.98
+  },
+  {
+    "text": "and they're all there,",
+    "start": 406.046,
+    "duration": 1.238
+  },
+  {
+    "text": "God Star published 2006,",
+    "start": 407.309,
+    "duration": 1.92
+  },
+  {
+    "text": "Metamorphic Star 2008,",
+    "start": 409.23,
+    "duration": 2.031
+  },
+  {
+    "text": "Primordial Star 2009,",
+    "start": 411.286,
+    "duration": 2.259
+  },
+  {
+    "text": "Flare Star 2011.",
+    "start": 413.57,
+    "duration": 2.38
+  },
+  {
+    "text": "So the evidential history is;",
+    "start": 419.245,
+    "duration": 2.73
+  },
+  {
+    "text": "Earth and Mars were satellites\norbiting a brown dwarf star;",
+    "start": 422.163,
+    "duration": 4.416
+  },
+  {
+    "text": "It was a very hospitable\nenvironment for life;",
+    "start": 426.936,
+    "duration": 3.19
+  },
+  {
+    "text": "Atmosphere, water and minerals\nwere deposited on the satellites;",
+    "start": 430.444,
+    "duration": 4.272
+  },
+  {
+    "text": "The system changed spectacularly\non encountering the Sun;",
+    "start": 435.051,
+    "duration": 3.945
+  },
+  {
+    "text": "The brown dwarf flared and\nejected a new satellite;",
+    "start": 439.268,
+    "duration": 3.836
+  },
+  {
+    "text": "An axial column of\nsatellites was formed;",
+    "start": 443.391,
+    "duration": 3.449
+  },
+  {
+    "text": "And intense plasma discharge\nphenomena were observed.",
+    "start": 447.109,
+    "duration": 4.347
+  },
+  {
+    "text": "The terms giant and dwarf\napplied to stars are misleading.",
+    "start": 452.741,
+    "duration": 3.898
+  },
+  {
+    "text": "That is calculated on the\nstandard model of the Sun",
+    "start": 456.664,
+    "duration": 3.434
+  },
+  {
+    "text": "And the notion of a star's age based\non its appearance or spectrum",
+    "start": 460.123,
+    "duration": 3.395
+  },
+  {
+    "text": "has no validity for\nthe same reason.",
+    "start": 463.543,
+    "duration": 2.681
+  },
+  {
+    "text": "Stars on the main sequence\nmay be characterized",
+    "start": 466.456,
+    "duration": 2.821
+  },
+  {
+    "text": "as self-regulating cosmic\npower transformers,",
+    "start": 469.302,
+    "duration": 2.404
+  },
+  {
+    "text": "as I spoke about this morning,",
+    "start": 471.731,
+    "duration": 1.88
+  },
+  {
+    "text": "that focus diffuse galactic\nelectrical energy to catalyze fusion",
+    "start": 473.636,
+    "duration": 3.674
+  },
+  {
+    "text": "in their photospheres to\nprovide radiant energy.",
+    "start": 477.335,
+    "duration": 2.839
+  },
+  {
+    "text": "Like the Sun, such stars\nderive their luminosity",
+    "start": 480.199,
+    "duration": 3.054
+  },
+  {
+    "text": "from very bright anode tufts\nin their plasma sheaths.",
+    "start": 483.278,
+    "duration": 3.618
+  },
+  {
+    "text": "Moving diagonally upward to the\nright, the current density increases.",
+    "start": 487.38,
+    "duration": 4.794
+  },
+  {
+    "text": "Anode tufting becomes more crowded\nand their mutual repulsion",
+    "start": 492.199,
+    "duration": 3.661
+  },
+  {
+    "text": "forces the photosphere to\ngrow to accommodate them.",
+    "start": 495.885,
+    "duration": 2.873
+  },
+  {
+    "text": "At the top right of the main\nsequence the light from those Tufts",
+    "start": 498.783,
+    "duration": 3.316
+  },
+  {
+    "text": "is electric blue of a true arc",
+    "start": 502.1,
+    "duration": 2.878
+  },
+  {
+    "text": "and the stars appear\nas blue giants,",
+    "start": 505.003,
+    "duration": 2.529
+  },
+  {
+    "text": "intensely hot objects appearing\nconsiderably larger than our Sun.",
+    "start": 507.557,
+    "duration": 4.05
+  },
+  {
+    "text": "As you might expect, blue giants tend\nto be concentrated on the central axes",
+    "start": 511.632,
+    "duration": 4.433
+  },
+  {
+    "text": "of our galaxy's\nspiral arm discharges.",
+    "start": 516.09,
+    "duration": 3.419
+  },
+  {
+    "text": "Red stars must collect\nmore electrons",
+    "start": 520.644,
+    "duration": 2.993
+  },
+  {
+    "text": "than the plasma can deliver\ncontinuously to its surface.",
+    "start": 523.662,
+    "duration": 3.046
+  },
+  {
+    "text": "So bright anode tufts\nare unnecessary.",
+    "start": 526.733,
+    "duration": 3.141
+  },
+  {
+    "text": "The anode expands instead by forming\na negative space charge sheath",
+    "start": 529.899,
+    "duration": 4.939
+  },
+  {
+    "text": "and as that sheath expands its\nelectric field grows stronger.",
+    "start": 534.863,
+    "duration": 4.185
+  },
+  {
+    "text": "Electrons caught up in the field are\naccelerated to ever greater energies",
+    "start": 539.073,
+    "duration": 3.904
+  },
+  {
+    "text": "and before long they become energetic\nenough to excite neutral particles",
+    "start": 543.002,
+    "duration": 3.617
+  },
+  {
+    "text": "they collide with in the outer sheath\nto take on a uniform red glow.",
+    "start": 546.644,
+    "duration": 5.569
+  },
+  {
+    "text": "A white dwarf is a star\nwhose discharge current",
+    "start": 554.653,
+    "duration": 2.953
+  },
+  {
+    "text": "is satisfied by all the\napproaching electrons,",
+    "start": 557.631,
+    "duration": 3.002
+  },
+  {
+    "text": "drift electrons plus those those\nrandomly move towards the anode.",
+    "start": 560.658,
+    "duration": 3.47
+  },
+  {
+    "text": "It has no anode tufting.",
+    "start": 564.153,
+    "duration": 2.126
+  },
+  {
+    "text": "It is rather like moving a low-energy\ncorona of a main-sequence star",
+    "start": 566.304,
+    "duration": 3.886
+  },
+  {
+    "text": "down into the atmosphere\nof the white dwarf star.",
+    "start": 570.215,
+    "duration": 3.012
+  },
+  {
+    "text": "That's why the star, that the dim star Sirius\nB is brighter in X-rays than Sirius A",
+    "start": 573.252,
+    "duration": 6.312
+  },
+  {
+    "text": "because the corona emits X-rays.",
+    "start": 579.589,
+    "duration": 2.591
+  },
+  {
+    "text": "So what is a brown dwarf?",
+    "start": 584.881,
+    "duration": 2.699
+  },
+  {
+    "text": "To summarize, a red or brown\ndwarf can be characterized",
+    "start": 587.605,
+    "duration": 3.503
+  },
+  {
+    "text": "as an independent gas\ngiant type object",
+    "start": 591.133,
+    "duration": 3.585
+  },
+  {
+    "text": "under low electrical stress\nfrom its galactic environment.",
+    "start": 594.743,
+    "duration": 3.606
+  },
+  {
+    "text": "A main-sequence star is\nelectrically stressed",
+    "start": 600.151,
+    "duration": 3.353
+  },
+  {
+    "text": "so it resorts to\nbecoming a tufted anode",
+    "start": 603.529,
+    "duration": 2.705
+  },
+  {
+    "text": "which, as I said, regulates\nthe output of the star,",
+    "start": 606.259,
+    "duration": 3.027
+  },
+  {
+    "text": "this is why most, all bright\nstars appear to twinkle.",
+    "start": 609.311,
+    "duration": 4.428
+  },
+  {
+    "text": "They don't change\nfrom day to day.",
+    "start": 613.764,
+    "duration": 3.751
+  },
+  {
+    "text": "Red Giants are normal stars under\nlow electrical stress.",
+    "start": 618.348,
+    "duration": 4.728
+  },
+  {
+    "text": "White Dwarfs are stars with a low\nluminosity coronal discharge only.",
+    "start": 623.101,
+    "duration": 5.157
+  },
+  {
+    "text": "...was that at the same point...",
+    "start": 632.379,
+    "duration": 1.524
+  },
+  {
+    "text": "Red Giant are normal stars and\nallow additional stress... and White Dwarfs...",
+    "start": 633.928,
+    "duration": 5.602
+  },
+  {
+    "text": "So, size matters.",
+    "start": 639.555,
+    "duration": 3.619
+  },
+  {
+    "text": "Brown Dwarfs come with a major\ndrawback for astronomers,",
+    "start": 643.571,
+    "duration": 3.093
+  },
+  {
+    "text": "their stellar radii are hard\nto determine accurately.",
+    "start": 646.689,
+    "duration": 3.23
+  },
+  {
+    "text": "In the Electric Universe, Brown\nDwarfs are not dwarf stars,",
+    "start": 649.944,
+    "duration": 3.157
+  },
+  {
+    "text": "instead all red stars have a bloated glowing\nanode sheath which expands and contracts",
+    "start": 653.126,
+    "duration": 5.007
+  },
+  {
+    "text": "in order to collect the amount of\nelectrons required for that discharge.",
+    "start": 658.158,
+    "duration": 4.575
+  },
+  {
+    "text": "As the anode sheath grows,\nits electric field grows",
+    "start": 663.122,
+    "duration": 3.289
+  },
+  {
+    "text": "which results in the prodigious and unexplained\nstellar winds from cool red giants.",
+    "start": 666.436,
+    "duration": 5.982
+  },
+  {
+    "text": "If the winds were due to the heat of the\ncorona, then this puts paid to that idea.",
+    "start": 672.443,
+    "duration": 6.992
+  },
+  {
+    "text": "In a December 2008 NASA report, the brightness\nof a brown dwarf at 17 light years distance",
+    "start": 681.903,
+    "duration": 5.217
+  },
+  {
+    "text": "was twice that expected for a brown\ndwarf with its particular temperature.",
+    "start": 687.145,
+    "duration": 4.578
+  },
+  {
+    "text": "The solution?",
+    "start": 692.382,
+    "duration": 1.363
+  },
+  {
+    "text": "The object must have twice\nthe surface area, they said.",
+    "start": 693.77,
+    "duration": 3.109
+  },
+  {
+    "text": "It must be twins.",
+    "start": 696.904,
+    "duration": 1.836
+  },
+  {
+    "text": "Such ad hocery is unnecessary\nin the Electric Universe model.",
+    "start": 698.765,
+    "duration": 3.636
+  },
+  {
+    "text": "A brown dwarf's photosphere\nis much larger",
+    "start": 702.426,
+    "duration": 2.514
+  },
+  {
+    "text": "than the standard model\nof such stars predict.",
+    "start": 704.965,
+    "duration": 2.964
+  },
+  {
+    "text": "The Cradle of Life",
+    "start": 709.653,
+    "duration": 2.159
+  },
+  {
+    "text": "And this goes back to the idea of the\nGarden of Eden period in man's memory.",
+    "start": 711.837,
+    "duration": 7.095
+  },
+  {
+    "text": "If you are a satellite orbiting\nwithin that anode glow,",
+    "start": 720.204,
+    "duration": 3.972
+  },
+  {
+    "text": "and this is not an\noutrageous idea",
+    "start": 724.201,
+    "duration": 1.792
+  },
+  {
+    "text": "because astronomers have suggested\nthe same thing for red giants",
+    "start": 726.018,
+    "duration": 3.196
+  },
+  {
+    "text": "that planets could actually\norbit within that star",
+    "start": 729.239,
+    "duration": 3.554
+  },
+  {
+    "text": "because the atmosphere\nis such low density.",
+    "start": 732.818,
+    "duration": 3.546
+  },
+  {
+    "text": "In fact, we orbit in the sun's\natmosphere if you like",
+    "start": 736.389,
+    "duration": 2.658
+  },
+  {
+    "text": "and it doesn't cause\nus any trouble.",
+    "start": 739.072,
+    "duration": 2.407
+  },
+  {
+    "text": "But within that glowing shell,",
+    "start": 741.941,
+    "duration": 2.579
+  },
+  {
+    "text": "the radiant energy received from that\nenvelope is constant over the entire globe.",
+    "start": 744.545,
+    "duration": 5.598
+  },
+  {
+    "text": "The light from the plasmasphere\nis not reflected light,",
+    "start": 750.168,
+    "duration": 3.884
+  },
+  {
+    "text": "it's a radiant energy.",
+    "start": 754.077,
+    "duration": 2.987
+  },
+  {
+    "text": "Brown Dwarfs radiate blue\nand ultraviolet light,",
+    "start": 757.089,
+    "duration": 3.1
+  },
+  {
+    "text": "even though they are cool at\na temperature around 950 K.",
+    "start": 760.214,
+    "duration": 3.616
+  },
+  {
+    "text": "This is further evidence that we are looking\nat a mix of an electrical red anode glow",
+    "start": 763.855,
+    "duration": 4.436
+  },
+  {
+    "text": "and coronal ultraviolet\nblue end of the spectrum.",
+    "start": 768.316,
+    "duration": 3.555
+  },
+  {
+    "text": "There are no seasons, no\ntropics, and no ice caps.",
+    "start": 774.399,
+    "duration": 2.999
+  },
+  {
+    "text": "A planet does not\nhave to rotate.",
+    "start": 777.399,
+    "duration": 1.624
+  },
+  {
+    "text": "Its axis can point in any direction,\nand its orbit can be eccentric,",
+    "start": 779.048,
+    "duration": 3.254
+  },
+  {
+    "text": "and you'll still get this beautiful,\neven temperature over the whole body.",
+    "start": 782.327,
+    "duration": 5.723
+  },
+  {
+    "text": "The radiant energy\nreceived by the planet",
+    "start": 792.357,
+    "duration": 2.286
+  },
+  {
+    "text": "will be strongest at the blue\nand red ends of the spectrum",
+    "start": 794.668,
+    "duration": 2.409
+  },
+  {
+    "text": "so photosynthesis, which relies on\nred light, would be very active.",
+    "start": 797.102,
+    "duration": 6.208
+  },
+  {
+    "text": "The sky light would\nbe a pale purple,",
+    "start": 803.335,
+    "duration": 2.283
+  },
+  {
+    "text": "which maybe is referred to by the\nclassical purple dawn of creation.",
+    "start": 805.643,
+    "duration": 4.507
+  },
+  {
+    "text": "And I know that in Canberra we have\nthis new Arboretum, which is fantastic,",
+    "start": 810.633,
+    "duration": 3.874
+  },
+  {
+    "text": "and all of the new trees that are being\nplanted are put in red plastic to start with.",
+    "start": 814.532,
+    "duration": 4.797
+  },
+  {
+    "text": "And I asked the head of the\nArboretum why they did that,",
+    "start": 819.354,
+    "duration": 3.152
+  },
+  {
+    "text": "and he said, the plants grow\nmuch better in red light.",
+    "start": 822.531,
+    "duration": 3.372
+  },
+  {
+    "text": "Water molecules dominate the\nspectra of brown dwarfs.",
+    "start": 829.57,
+    "duration": 3.294
+  },
+  {
+    "text": "So you want to know where the\nEarth's water came from?",
+    "start": 832.889,
+    "duration": 3.017
+  },
+  {
+    "text": "The light on Earth was dim and purplish\namid a continuous mist of water.",
+    "start": 835.931,
+    "duration": 4.185
+  },
+  {
+    "text": "No other bodies in the\nsystem were visible.",
+    "start": 840.141,
+    "duration": 2.76
+  },
+  {
+    "text": "This is what Dave\nmentioned yesterday.",
+    "start": 842.926,
+    "duration": 3.481
+  },
+  {
+    "text": "This explains the abundant water on Earth and\nmany satellites of the gas giant planets",
+    "start": 848.59,
+    "duration": 4.871
+  },
+  {
+    "text": "and the rings of Saturn.",
+    "start": 853.486,
+    "duration": 1.945
+  },
+  {
+    "text": "And the red light, warmth and water\nwas ideally suited for giant ferns,",
+    "start": 855.456,
+    "duration": 4.156
+  },
+  {
+    "text": "it explains the gigantic lush vegetation\nfound at the poles fossilized as coal.",
+    "start": 859.637,
+    "duration": 5.522
+  },
+  {
+    "text": "Now the problem faced by life\non planets orbiting a red star,",
+    "start": 868.681,
+    "duration": 3.728
+  },
+  {
+    "text": "I think you saw last\nthing, last night,",
+    "start": 872.434,
+    "duration": 3.142
+  },
+  {
+    "text": "which was this flaring red dwarf.",
+    "start": 875.601,
+    "duration": 3.513
+  },
+  {
+    "text": "So this tendency to\nflare up is a problem.",
+    "start": 880.019,
+    "duration": 3.221
+  },
+  {
+    "text": "The reason for this\nis that, as I said,",
+    "start": 883.265,
+    "duration": 2.042
+  },
+  {
+    "text": "the red stars don't have the current\nregulation afforded by the bright photosphere.",
+    "start": 885.332,
+    "duration": 4.94
+  },
+  {
+    "text": "So the response of a red star to a sudden\nelectrical disturbance in their environment",
+    "start": 890.297,
+    "duration": 4.27
+  },
+  {
+    "text": "is to shed charged\nmatter in a flare up.",
+    "start": 894.592,
+    "duration": 2.68
+  },
+  {
+    "text": "They may also change\nin apparent size",
+    "start": 897.297,
+    "duration": 2.381
+  },
+  {
+    "text": "as the anode glow accommodates\nto the electrical environment.",
+    "start": 899.679,
+    "duration": 3.291
+  },
+  {
+    "text": "I think this would account for the\ngreat dyings in the geological record,",
+    "start": 903.422,
+    "duration": 3.818
+  },
+  {
+    "text": "and the episodic deposit of vast sediment\nand mineral layers on the earth",
+    "start": 907.265,
+    "duration": 3.939
+  },
+  {
+    "text": "and on other bodies too. Every body\nthat's been looked at is layered.",
+    "start": 911.229,
+    "duration": 4.232
+  },
+  {
+    "text": "What's more, it explains for the first\ntime the oceans of salty water on Earth.",
+    "start": 916.256,
+    "duration": 4.158
+  },
+  {
+    "text": "Comets cannot be responsible",
+    "start": 920.439,
+    "duration": 1.66
+  },
+  {
+    "text": "because they have little or no water\nand little or no sodium chloride.",
+    "start": 922.124,
+    "duration": 3.853
+  },
+  {
+    "text": "To see how much of this I want to show\nyou because we saw this yesterday.",
+    "start": 930.828,
+    "duration": 4.903
+  },
+  {
+    "text": " ",
+    "start": 935.756,
+    "duration": 1.609
+  },
+  {
+    "text": "This is that, referring to that\nsuperflare you saw yesterday",
+    "start": 938.413,
+    "duration": 4.216
+  },
+  {
+    "text": "and you remember the\nastrophysicists said,",
+    "start": 942.654,
+    "duration": 3.019
+  },
+  {
+    "text": "anyone who was on a\nplanet orbiting that star",
+    "start": 945.698,
+    "duration": 2.6
+  },
+  {
+    "text": "at the time would be\nhaving a very bad day.",
+    "start": 948.323,
+    "duration": 2.61
+  },
+  {
+    "text": "I think the Earth has had its bad days, and\nthey're reflected in the geological record.",
+    "start": 950.958,
+    "duration": 5.043
+  },
+  {
+    "text": " ",
+    "start": 957.565,
+    "duration": 1.538
+  },
+  {
+    "text": "Mass Extinctions",
+    "start": 960.667,
+    "duration": 2.25
+  },
+  {
+    "text": "As I said, those flare-ups\ncan be so drastic",
+    "start": 965.716,
+    "duration": 3.651
+  },
+  {
+    "text": "that it would practically\nwipe out the life",
+    "start": 969.392,
+    "duration": 2.24
+  },
+  {
+    "text": "on, any existing life on those\nsatellites of that dwarf star.",
+    "start": 971.657,
+    "duration": 6.451
+  },
+  {
+    "text": "This raises an\ninteresting side issue,",
+    "start": 983.649,
+    "duration": 3.009
+  },
+  {
+    "text": "and that is, ironically, intelligent\nlife can't communicate through",
+    "start": 986.683,
+    "duration": 4.576
+  },
+  {
+    "text": "such a plasma shell\nusing radio waves.",
+    "start": 991.284,
+    "duration": 2.301
+  },
+  {
+    "text": "So the lack of intelligible radio signals\nin the SETI project is understandable.",
+    "start": 993.61,
+    "duration": 4.636
+  },
+  {
+    "text": "In fact, denizens of such worlds would most\nlikely be unaware of the universe at large.",
+    "start": 998.271,
+    "duration": 5.373
+  },
+  {
+    "text": "Now astronomers also submit\nthat orbiting a red dwarf",
+    "start": 1004.804,
+    "duration": 5.179
+  },
+  {
+    "text": "is possibly one of the best\nplaces to look for life.",
+    "start": 1010.008,
+    "duration": 2.911
+  },
+  {
+    "text": "What they've never considered\nis orbiting inside a red dwarf.",
+    "start": 1012.944,
+    "duration": 3.894
+  },
+  {
+    "text": " ",
+    "start": 1021.096,
+    "duration": 1.897
+  },
+  {
+    "text": "I don't think I'll\ntalk about this one,",
+    "start": 1023.392,
+    "duration": 2.395
+  },
+  {
+    "text": "this is a recent report\nof a spotty brown dwarf",
+    "start": 1025.812,
+    "duration": 3.447
+  },
+  {
+    "text": "which suggests there are things\norbiting within that red anode sheath",
+    "start": 1029.284,
+    "duration": 3.611
+  },
+  {
+    "text": "causing a dimming of the red glow behind\nwhere that satellite happens to be.",
+    "start": 1032.92,
+    "duration": 6.727
+  },
+  {
+    "text": "They're calling it weather",
+    "start": 1039.672,
+    "duration": 1.404
+  },
+  {
+    "text": "but of course if it's anode glow\nit has nothing to do with weather.",
+    "start": 1041.101,
+    "duration": 3.648
+  },
+  {
+    "text": " ",
+    "start": 1044.774,
+    "duration": 1.714
+  },
+  {
+    "text": "So this is a picture of the\nBrown Dwarf Proto-Saturn",
+    "start": 1047.958,
+    "duration": 4.065
+  },
+  {
+    "text": "as I see it. Now there would have been\nmany more bodies than you see there",
+    "start": 1052.048,
+    "duration": 3.921
+  },
+  {
+    "text": "but I've included Mars and\nEarth and Proto-Saturn",
+    "start": 1055.994,
+    "duration": 2.908
+  },
+  {
+    "text": "because they're the main\nplayers at this stage.",
+    "start": 1058.927,
+    "duration": 3.1
+  },
+  {
+    "text": "50% of red dwarfs have Earth-sized planets\nin their conventional habitable zone.",
+    "start": 1062.336,
+    "duration": 5.064
+  },
+  {
+    "text": "This suggests there are a large number\nhidden inside the red star's glow",
+    "start": 1067.425,
+    "duration": 4.282
+  },
+  {
+    "text": "and you can say that too\nbecause our gas giants",
+    "start": 1071.732,
+    "duration": 2.71
+  },
+  {
+    "text": "all have large numbers of\nsatellites orbiting quite closely.",
+    "start": 1074.467,
+    "duration": 3.464
+  },
+  {
+    "text": "But you'll note there is\nno Venus at this stage.",
+    "start": 1078.577,
+    "duration": 3.65
+  },
+  {
+    "text": "Gigantism",
+    "start": 1085.279,
+    "duration": 2.368
+  },
+  {
+    "text": "It wasn't just pterodactyls that\nstruggled to get up off the ground.",
+    "start": 1088.434,
+    "duration": 3.474
+  },
+  {
+    "text": "Scaling of muscle and\nbone strengths shows that",
+    "start": 1091.933,
+    "duration": 2.554
+  },
+  {
+    "text": "dinosaurs could not have raised their\nbodies off the ground in today's gravity.",
+    "start": 1094.512,
+    "duration": 5.07
+  },
+  {
+    "text": "For them to move about, Earth's gravity\nneeded to be about 1/3rd of today's.",
+    "start": 1099.782,
+    "duration": 5.242
+  },
+  {
+    "text": "Global extinction and\nfossilization requires far more",
+    "start": 1105.984,
+    "duration": 3.685
+  },
+  {
+    "text": "(pardon me)",
+    "start": 1109.694,
+    "duration": 1.165
+  },
+  {
+    "text": "than a simple impact",
+    "start": 1110.884,
+    "duration": 1.769
+  },
+  {
+    "text": "Clearly, we have no understanding\nof the cause of gravity.",
+    "start": 1113.129,
+    "duration": 3.935
+  },
+  {
+    "text": "Is Gravity Electrical?",
+    "start": 1119.572,
+    "duration": 2.753
+  },
+  {
+    "text": "Gigantism in the animal kingdom",
+    "start": 1122.906,
+    "duration": 2.772
+  },
+  {
+    "text": "...Sorry, beg your pardon.",
+    "start": 1125.703,
+    "duration": 1.688
+  },
+  {
+    "text": "The question is of fundamental\nimportance for cosmology",
+    "start": 1127.416,
+    "duration": 3.11
+  },
+  {
+    "text": "and our understanding\nof the solar system.",
+    "start": 1130.551,
+    "duration": 2.486
+  },
+  {
+    "text": "And the answer should provide insights\ninto the demise of the dinosaurs;",
+    "start": 1133.062,
+    "duration": 3.937
+  },
+  {
+    "text": "the sky our ancestors saw and\nwhy they feared 'doomsday'.",
+    "start": 1137.024,
+    "duration": 4.037
+  },
+  {
+    "text": "This is the crucial thing, this\nis the thing I asked Velikovsky;",
+    "start": 1141.086,
+    "duration": 3.287
+  },
+  {
+    "text": "What don't we understand\nabout gravity?",
+    "start": 1144.398,
+    "duration": 2.316
+  },
+  {
+    "text": "And of course, we're getting confirmation\nyou'd ever sought from this comet visit",
+    "start": 1146.739,
+    "duration": 5.075
+  },
+  {
+    "text": "because all the measurements say it\nhas very low mass, it can't be rock",
+    "start": 1151.839,
+    "duration": 4.477
+  },
+  {
+    "text": "and I'm saying no, you\ndon't understand gravity,",
+    "start": 1156.341,
+    "duration": 2.569
+  },
+  {
+    "text": "it may appear to be of low\ndensity but it's made of rock.",
+    "start": 1158.935,
+    "duration": 4.635
+  },
+  {
+    "text": "This is the kind of thing that\nthe Earth would have been,",
+    "start": 1163.904,
+    "duration": 2.903
+  },
+  {
+    "text": "a situation for the Earth when it was\norbiting Proto-Saturn presumably.",
+    "start": 1166.808,
+    "duration": 4.39
+  },
+  {
+    "text": "So we get to\nProto-Saturn's Capture.",
+    "start": 1173.039,
+    "duration": 4.534
+  },
+  {
+    "text": "Capture by the Sun is almost\nimpossible gravitationally",
+    "start": 1179.747,
+    "duration": 4.07
+  },
+  {
+    "text": "because there is no energy loss,\nthere's no way of losing energy,",
+    "start": 1183.842,
+    "duration": 3.162
+  },
+  {
+    "text": "a body coming in and swinging\naround the Sun will depart again",
+    "start": 1187.029,
+    "duration": 3.749
+  },
+  {
+    "text": "because there's nothing to put the\nbrakes on and make it go around the Sun.",
+    "start": 1190.803,
+    "duration": 5.359
+  },
+  {
+    "text": "Electrical capture has a huge\ncross-section by comparison.",
+    "start": 1198.154,
+    "duration": 4.593
+  },
+  {
+    "text": "Two stars will see each\nother electrically",
+    "start": 1202.772,
+    "duration": 3.539
+  },
+  {
+    "text": "once their heliospheres or astrospheres,\nas they call generically, touch.",
+    "start": 1206.336,
+    "duration": 5.789
+  },
+  {
+    "text": "Now the sun's heliosphere is 100\nAstronomical Units (AU) in radius,",
+    "start": 1212.15,
+    "duration": 6.045
+  },
+  {
+    "text": "another star would be\nsomething comparable,",
+    "start": 1218.22,
+    "duration": 2.814
+  },
+  {
+    "text": "so you're talking about\na huge cross-section.",
+    "start": 1221.059,
+    "duration": 3.935
+  },
+  {
+    "text": "So the chances of capture of an\nobject is far greater than gravity",
+    "start": 1225.019,
+    "duration": 5.476
+  },
+  {
+    "text": "would suggest.",
+    "start": 1230.52,
+    "duration": 1.779
+  },
+  {
+    "text": "I actually, I'll explain more about this\nwhen I give my presentation on cosmology,",
+    "start": 1235.206,
+    "duration": 4.817
+  },
+  {
+    "text": "this change in\ngravity and so on.",
+    "start": 1240.048,
+    "duration": 2.428
+  },
+  {
+    "text": "So Proto-Saturn changed\nfrom being a star,",
+    "start": 1245.446,
+    "duration": 2.911
+  },
+  {
+    "text": "that is an anode in\ninterstellar space,",
+    "start": 1248.382,
+    "duration": 2.507
+  },
+  {
+    "text": "to becoming a cathode or cometary\nbody in the Sun's heliosphere",
+    "start": 1250.914,
+    "duration": 4.464
+  },
+  {
+    "text": "and, like all cathodes, surface\nmaterial is electrically ejected",
+    "start": 1255.403,
+    "duration": 4.196
+  },
+  {
+    "text": "and the body may fragment under\ninternal electrical stress.",
+    "start": 1259.624,
+    "duration": 3.654
+  },
+  {
+    "text": "And this is the kind of thing\nwhich the ancients reported.",
+    "start": 1263.303,
+    "duration": 5.064
+  },
+  {
+    "text": "As you may expect in the electrical\nmodel, a brown dwarf desert",
+    "start": 1269.018,
+    "duration": 3.722
+  },
+  {
+    "text": "has been identified close to\nbright main sequence stars",
+    "start": 1272.765,
+    "duration": 3.035
+  },
+  {
+    "text": "because the brown dwarf switches\noff, becomes a gas giant",
+    "start": 1275.825,
+    "duration": 4.251
+  },
+  {
+    "text": "and this is what is\nseen by astronomers,",
+    "start": 1280.101,
+    "duration": 2.607
+  },
+  {
+    "text": "you won't find brown dwarfs\norbiting closely to bright stars.",
+    "start": 1282.733,
+    "duration": 4.911
+  },
+  {
+    "text": "So gravitational theory only\naccommodates accretion disks.",
+    "start": 1293.334,
+    "duration": 4.281
+  },
+  {
+    "text": "Expulsion disks are\nbelieved impossible",
+    "start": 1297.64,
+    "duration": 2.535
+  },
+  {
+    "text": "despite the copious evidence of\nstars ejecting matter in jets,",
+    "start": 1300.2,
+    "duration": 3.466
+  },
+  {
+    "text": "even the Sun does it in a modest\ncoronal mass ejection kind of way.",
+    "start": 1303.691,
+    "duration": 5.428
+  },
+  {
+    "text": "It's also interesting to\nnote the large number",
+    "start": 1309.144,
+    "duration": 3.044
+  },
+  {
+    "text": "of close-orbiting gas\ngiants about nearby stars.",
+    "start": 1312.213,
+    "duration": 3.356
+  },
+  {
+    "text": "This fits the electrical fissioning argument\nand not the nebular accretion model.",
+    "start": 1315.594,
+    "duration": 5.116
+  },
+  {
+    "text": "Gas giants have also been discovered\nat distances from their stars",
+    "start": 1320.735,
+    "duration": 3.967
+  },
+  {
+    "text": "where they couldn't have formed\nwithin the age of the star.",
+    "start": 1324.727,
+    "duration": 3.151
+  },
+  {
+    "text": "All of the impossible planets\nand stars being discovered",
+    "start": 1327.903,
+    "duration": 3.106
+  },
+  {
+    "text": "are not impossible in the\nElectric Universe model.",
+    "start": 1331.034,
+    "duration": 2.777
+  },
+  {
+    "text": "Instead, they are expected\nbased on that model.",
+    "start": 1333.836,
+    "duration": 4.065
+  },
+  {
+    "text": "I'll deal with this issue in\nmy presentation on cosmology.",
+    "start": 1337.926,
+    "duration": 4.46
+  },
+  {
+    "text": "So it explains why there\nare so many hot Jupiters,",
+    "start": 1345.172,
+    "duration": 2.733
+  },
+  {
+    "text": "have been found closely\norbiting a star and",
+    "start": 1347.93,
+    "duration": 2.594
+  },
+  {
+    "text": "it explains the expulsion\nrings and many satellites",
+    "start": 1350.735,
+    "duration": 3.042
+  },
+  {
+    "text": "of the gas giant planets\nin our solar system.",
+    "start": 1353.802,
+    "duration": 2.159
+  },
+  {
+    "text": "And the fact that Saturn's\nis the most spectacular",
+    "start": 1355.967,
+    "duration": 2.571
+  },
+  {
+    "text": "indicates that it was\nthe last or most recent",
+    "start": 1358.563,
+    "duration": 4.105
+  },
+  {
+    "text": "gas giant to flare\nup and eject matter.",
+    "start": 1363.065,
+    "duration": 5.055
+  },
+  {
+    "text": "Right.",
+    "start": 1371.173,
+    "duration": 1.032
+  },
+  {
+    "text": "Axial Tilt Families",
+    "start": 1372.802,
+    "duration": 2.252
+  },
+  {
+    "text": "A simple method of identifying\nrelated objects in the solar system",
+    "start": 1375.863,
+    "duration": 3.633
+  },
+  {
+    "text": "is to look at their axial tilts",
+    "start": 1379.521,
+    "duration": 1.792
+  },
+  {
+    "text": "because in the close relationship\nbetween a gas giant or a brown dwarf",
+    "start": 1381.338,
+    "duration": 4.386
+  },
+  {
+    "text": "and its close orbiting satellites,\nthere will generally be phase-lock.",
+    "start": 1385.749,
+    "duration": 3.856
+  },
+  {
+    "text": "The satellites all have the same\nface pointing towards the parent.",
+    "start": 1389.63,
+    "duration": 4.702
+  },
+  {
+    "text": "And as these close orbiting\nsatellites therefore",
+    "start": 1395.689,
+    "duration": 3.326
+  },
+  {
+    "text": "will have their rotation\naxis aligned with the parent.",
+    "start": 1399.04,
+    "duration": 5.475
+  },
+  {
+    "text": "Having the same\ndegree of axial tilt",
+    "start": 1406.62,
+    "duration": 3.123
+  },
+  {
+    "text": "modified by precession\nafter disturbance",
+    "start": 1409.768,
+    "duration": 2.804
+  },
+  {
+    "text": "like the tearing apart\nof the Saturnian system,",
+    "start": 1412.597,
+    "duration": 2.865
+  },
+  {
+    "text": "that tilt to the plane of\ntheir orbits, of the ecliptic,",
+    "start": 1416.01,
+    "duration": 5.177
+  },
+  {
+    "text": "should be roughly\nthe same and we can,",
+    "start": 1421.212,
+    "duration": 1.926
+  },
+  {
+    "text": "this is one way of trying to\nidentify members of the same family",
+    "start": 1423.163,
+    "duration": 4.14
+  },
+  {
+    "text": "because the Sun has\nan adopted family.",
+    "start": 1427.328,
+    "duration": 2.889
+  },
+  {
+    "text": "So when you look at the planets here,\nyou've got Mars and you've got Venus",
+    "start": 1432.06,
+    "duration": 5.04
+  },
+  {
+    "text": "and you've got Earth and you've\ngot Saturn, the main players",
+    "start": 1437.125,
+    "duration": 3.002
+  },
+  {
+    "text": "but Venus is the odd one out.",
+    "start": 1440.152,
+    "duration": 2.595
+  },
+  {
+    "text": "Because research shows with great certainty\nthat it was born from Proto-Saturn",
+    "start": 1442.772,
+    "duration": 4.659
+  },
+  {
+    "text": "in a massive flare up resulting\nfrom the initial adjustment",
+    "start": 1447.456,
+    "duration": 2.971
+  },
+  {
+    "text": "to the present Sun's quite\ndifferent electrical environment",
+    "start": 1450.452,
+    "duration": 3.022
+  },
+  {
+    "text": "and this is why there were all\nthose radiating streamers",
+    "start": 1453.499,
+    "duration": 3.5
+  },
+  {
+    "text": "because it was born as a comet\nfrom an already cometary body,",
+    "start": 1457.024,
+    "duration": 4.865
+  },
+  {
+    "text": "so the cometary body fissioned and\nthe resulting ejected body",
+    "start": 1461.914,
+    "duration": 6.548
+  },
+  {
+    "text": "went into, it was still\ncaptured by its parent",
+    "start": 1468.487,
+    "duration": 4.35
+  },
+  {
+    "text": "but it too was busily\ndischarging frantically",
+    "start": 1472.862,
+    "duration": 4.335
+  },
+  {
+    "text": "trying to adjust to its\nelectrical environment.",
+    "start": 1477.222,
+    "duration": 2.268
+  },
+  {
+    "text": "So all the radiating streamers and\nthe colossal Venus Comet appearances",
+    "start": 1479.515,
+    "duration": 7.259
+  },
+  {
+    "text": "can be explained by this model.",
+    "start": 1486.799,
+    "duration": 2.448
+  },
+  {
+    "text": "Now, when Venus was ejecting\nmaterial it occurred equatorial,",
+    "start": 1492.545,
+    "duration": 7.549
+  },
+  {
+    "text": "we were sitting underneath\nthis chain of objects",
+    "start": 1500.119,
+    "duration": 3.411
+  },
+  {
+    "text": "and the streamers were coming\nout radiating from Venus",
+    "start": 1503.555,
+    "duration": 5.752
+  },
+  {
+    "text": "and this is actually what\nwe see on Venus today,",
+    "start": 1509.332,
+    "duration": 4.327
+  },
+  {
+    "text": "the scars are wrapped\naround the equator.",
+    "start": 1513.684,
+    "duration": 3.459
+  },
+  {
+    "text": "But also when these\nbodies are ejected",
+    "start": 1518.048,
+    "duration": 3.76
+  },
+  {
+    "text": "the main body may be\nspinning this way",
+    "start": 1521.833,
+    "duration": 2.663
+  },
+  {
+    "text": "and the material is\nejected in a stream,",
+    "start": 1524.521,
+    "duration": 2.303
+  },
+  {
+    "text": "it's given a backward\nkick by its parent",
+    "start": 1526.849,
+    "duration": 3.688
+  },
+  {
+    "text": "and the result is that\nthe satellite initially,",
+    "start": 1530.562,
+    "duration": 3.046
+  },
+  {
+    "text": "at least, has a backward rotation\nand this is what Venus has,",
+    "start": 1533.633,
+    "duration": 3.61
+  },
+  {
+    "text": "very slow backward rotation.",
+    "start": 1537.268,
+    "duration": 2.054
+  },
+  {
+    "text": "It had no time before the\nsystem was totally disrupted",
+    "start": 1540.522,
+    "duration": 4.375
+  },
+  {
+    "text": "to achieve phase lock\nwith Proto-Saturn.",
+    "start": 1544.922,
+    "duration": 2.855
+  },
+  {
+    "text": "So we look at Saturn.",
+    "start": 1552.804,
+    "duration": 1.995
+  },
+  {
+    "text": "In June 2004, the Electric\nUniverse was the only model",
+    "start": 1557.569,
+    "duration": 3.728
+  },
+  {
+    "text": "to predict the surface features\nof smog shrouded Titan.",
+    "start": 1561.322,
+    "duration": 3.723
+  },
+  {
+    "text": "Titan, being a huge moon which\nwould be classed as a planet",
+    "start": 1565.07,
+    "duration": 3.757
+  },
+  {
+    "text": "if it was separate from Saturn.",
+    "start": 1568.852,
+    "duration": 2.874
+  },
+  {
+    "text": "These surface features were predicted\nbefore they were revealed in detail",
+    "start": 1572.932,
+    "duration": 4.748
+  },
+  {
+    "text": "by the Huygens probe from\nthe Cassini spacecraft.",
+    "start": 1577.705,
+    "duration": 3.072
+  },
+  {
+    "text": "In \"Cassini's Homecoming\" I wrote,",
+    "start": 1581.085,
+    "duration": 2.724
+  },
+  {
+    "text": "\"A scenario follows that is so alien to any\nconventional theory of Saturn's history",
+    "start": 1583.834,
+    "duration": 4.539
+  },
+  {
+    "text": "but should be easily tested against\ninformation gained from the Cassini mission.",
+    "start": 1588.398,
+    "duration": 4.663
+  },
+  {
+    "text": "It shows striking connections between many\nseemingly unrelated facts about certain planets.\"",
+    "start": 1593.086,
+    "duration": 5.686
+  },
+  {
+    "text": "That is something that conventional cosmogony\nor cosmology has not been able to do.",
+    "start": 1599.814,
+    "duration": 6.266
+  },
+  {
+    "text": "Until recently, Saturn was an\nindependent brown dwarf star",
+    "start": 1611.47,
+    "duration": 3.352
+  },
+  {
+    "text": "with his own entourage of\nclose orbiting small planets",
+    "start": 1614.847,
+    "duration": 2.904
+  },
+  {
+    "text": "and Dave Talbott alluded\nto those last night",
+    "start": 1617.776,
+    "duration": 4.481
+  },
+  {
+    "text": "with the circling\nobjects around the god,",
+    "start": 1622.282,
+    "duration": 3.515
+  },
+  {
+    "text": "the god Saturn.",
+    "start": 1625.822,
+    "duration": 1.674
+  },
+  {
+    "text": "The tilt of Saturn at 27 degrees to the\necliptic plane is itself an enigma",
+    "start": 1628.228,
+    "duration": 4.908
+  },
+  {
+    "text": "unless it formed\nindependently from the Sun",
+    "start": 1633.161,
+    "duration": 2.894
+  },
+  {
+    "text": "and the axial tilts of Saturn,\nEarth and Mars are very similar.",
+    "start": 1636.08,
+    "duration": 3.701
+  },
+  {
+    "text": "Are we on the same page?\nNo, let me catch up.",
+    "start": 1640.288,
+    "duration": 3.822
+  },
+  {
+    "text": "The Titan is very\nimportant to study",
+    "start": 1648.718,
+    "duration": 1.929
+  },
+  {
+    "text": "because it may be a sibling\nof the Earth, Mars and Venus.",
+    "start": 1650.672,
+    "duration": 3.848
+  },
+  {
+    "text": "It's an enigma, having a massive\natmosphere mainly of nitrogen",
+    "start": 1654.545,
+    "duration": 3.519
+  },
+  {
+    "text": "with the pressure of the surface 1.6\ntimes that of Earth's air at sea level,",
+    "start": 1658.089,
+    "duration": 4.341
+  },
+  {
+    "text": "this is for a smaller body,",
+    "start": 1662.455,
+    "duration": 2.436
+  },
+  {
+    "text": "and anomalously high nitrogen 15 levels\nin a 95% nitrogen 14 atmosphere.",
+    "start": 1664.916,
+    "duration": 6.023
+  },
+  {
+    "text": "It is not a body more\nthan 4 billion years old.",
+    "start": 1670.964,
+    "duration": 3.76
+  },
+  {
+    "text": "The Electric Universe was the only\nmodel to predict the surface features",
+    "start": 1674.749,
+    "duration": 3.853
+  },
+  {
+    "text": "before Huygens descended\nand photographed it",
+    "start": 1678.627,
+    "duration": 3.708
+  },
+  {
+    "text": "and that was based on the kind of electrical\nsculpting seen on Venus, Mars and Earth.",
+    "start": 1682.36,
+    "duration": 5.072
+  },
+  {
+    "text": "The earliest reports from scientists\nare usually the most revealing",
+    "start": 1687.457,
+    "duration": 3.451
+  },
+  {
+    "text": "before they have time to recover\nfrom shock and make up stories.",
+    "start": 1690.933,
+    "duration": 3.547
+  },
+  {
+    "text": "So what was discovered in the\nfirst close flyby of Titan?",
+    "start": 1694.505,
+    "duration": 3.933
+  },
+  {
+    "text": "In New Scientist of November\n6, 2004, just after the event,",
+    "start": 1698.463,
+    "duration": 5.179
+  },
+  {
+    "text": "Titan images add to moon's\nmystery wrote Stephen Battersby.",
+    "start": 1703.667,
+    "duration": 5.046
+  },
+  {
+    "text": "The world got its first peek at the\nsurface of Saturn's moon Titan last week.",
+    "start": 1708.738,
+    "duration": 4.45
+  },
+  {
+    "text": "The images were taken as Cassini's,\nCassini-Huygens spacecraft swept past the moon.",
+    "start": 1713.213,
+    "duration": 5.406
+  },
+  {
+    "text": "The images show a landscape that\nis clearly still being shaped.",
+    "start": 1718.644,
+    "duration": 3.286
+  },
+  {
+    "text": "Where'd we heard that before?",
+    "start": 1721.955,
+    "duration": 1.624
+  },
+  {
+    "text": "We heard that about Venus.",
+    "start": 1723.604,
+    "duration": 1.71
+  },
+  {
+    "text": "Although Titan must have suffered\nnumerous meteor impacts in the past,",
+    "start": 1725.339,
+    "duration": 3.755
+  },
+  {
+    "text": "its surface today is\nlargely crater free.",
+    "start": 1729.119,
+    "duration": 2.427
+  },
+  {
+    "text": "Once again, just like Venus.",
+    "start": 1731.571,
+    "duration": 2.149
+  },
+  {
+    "text": "Somehow these scars must have\nbeen eroded or filled in.",
+    "start": 1734.03,
+    "duration": 3.438
+  },
+  {
+    "text": "There's that operative\nword \"somehow\".",
+    "start": 1737.493,
+    "duration": 3.055
+  },
+  {
+    "text": "We are seeing a place that is\nalive geologically speaking",
+    "start": 1740.573,
+    "duration": 3.544
+  },
+  {
+    "text": "says Charles Elachi. This is\nwhat they said about Venus,",
+    "start": 1744.142,
+    "duration": 2.856
+  },
+  {
+    "text": "it must have overturned the\nentire surface recently.",
+    "start": 1747.023,
+    "duration": 3.059
+  },
+  {
+    "text": "That's precisely what was said about\nVenus when the Magellan orbiter revealed",
+    "start": 1751.534,
+    "duration": 4.092
+  },
+  {
+    "text": "that planet's surface.\nIt is only supposition",
+    "start": 1755.651,
+    "duration": 2.778
+  },
+  {
+    "text": "that Titans surface\nis still being shaped.",
+    "start": 1758.454,
+    "duration": 2.16
+  },
+  {
+    "text": "It is based on the belief that Titan must have\nsuffered numerous meteor impacts in the past",
+    "start": 1760.639,
+    "duration": 4.657
+  },
+  {
+    "text": "and therefore something must have occurred\nfrom within the moon to fill the craters.",
+    "start": 1765.321,
+    "duration": 4.456
+  },
+  {
+    "text": "However, like Venus, there may have\nbeen no impact craters to fill.",
+    "start": 1769.802,
+    "duration": 4.501
+  },
+  {
+    "text": "Some initial comments\nby Cassini team members,",
+    "start": 1777.351,
+    "duration": 3.181
+  },
+  {
+    "text": "accompanying this picture\nin that little insert there",
+    "start": 1780.557,
+    "duration": 2.87
+  },
+  {
+    "text": "of Titan from the\ndescending Huygens probe,",
+    "start": 1783.452,
+    "duration": 2.769
+  },
+  {
+    "text": "reflected on the Venus-like\nappearance of features on Titan.",
+    "start": 1786.246,
+    "duration": 3.952
+  },
+  {
+    "text": "Now I'd predicted these\nbefore the event.",
+    "start": 1790.223,
+    "duration": 2.949
+  },
+  {
+    "text": "\"These remind me of what we have\nobserved in the past on Venus.\"",
+    "start": 1793.197,
+    "duration": 3.778
+  },
+  {
+    "text": "This is a quote. Another quote,",
+    "start": 1797.0,
+    "duration": 1.948
+  },
+  {
+    "text": "\"We now have the key to understanding\nwhat shapes Titan's landscape.\"",
+    "start": 1798.973,
+    "duration": 3.68
+  },
+  {
+    "text": "- said Dr. Martin Tomasco, principal\ninvestigator for the descent imager.",
+    "start": 1802.678,
+    "duration": 4.318
+  },
+  {
+    "text": "He added, \"Geological evidence for\nprecipitation, erosion, mechanical abrasion",
+    "start": 1808.4,
+    "duration": 4.61
+  },
+  {
+    "text": "and other fluvial activity says that\nthe physical processes shaping Titan",
+    "start": 1813.035,
+    "duration": 3.665
+  },
+  {
+    "text": "are much the same as\nthose shaping Earth.\"",
+    "start": 1816.725,
+    "duration": 2.441
+  },
+  {
+    "text": "Oh yeah",
+    "start": 1819.191,
+    "duration": 1.659
+  },
+  {
+    "text": "But nonpolar liquid methane\nis not like liquid water",
+    "start": 1820.875,
+    "duration": 4.191
+  },
+  {
+    "text": "as Jerry Pollack\nwould tell anyone.",
+    "start": 1825.091,
+    "duration": 2.683
+  },
+  {
+    "text": "In the atmosphere such molecules\nform smog, not heavy rain drops.",
+    "start": 1827.799,
+    "duration": 4.28
+  },
+  {
+    "text": "This demonstrates the problem\nof interpreting evidence",
+    "start": 1832.104,
+    "duration": 2.879
+  },
+  {
+    "text": "when your thinking is limited to\nflowing liquids to carve channels.",
+    "start": 1835.008,
+    "duration": 3.773
+  },
+  {
+    "text": "The channels on Titan bear the hallmarks\nof lightning imprinted on the surface.",
+    "start": 1838.806,
+    "duration": 4.755
+  },
+  {
+    "text": "As I've done there, I've\ninverted the black and white",
+    "start": 1843.586,
+    "duration": 3.805
+  },
+  {
+    "text": "and turned it up the other way to\nmake it look more like lightning.",
+    "start": 1847.416,
+    "duration": 4.257
+  },
+  {
+    "text": "The channels on Titan bear the hallmarks\nof lightning imprinted on the surface.",
+    "start": 1851.698,
+    "duration": 4.893
+  },
+  {
+    "text": "And the lack of a methane\nocean was predicted",
+    "start": 1856.616,
+    "duration": 2.623
+  },
+  {
+    "text": "because Titan's atmosphere is not yet\nin equilibrium, after recent events.",
+    "start": 1859.264,
+    "duration": 4.126
+  },
+  {
+    "text": "So a vast reservoir of methane is not\nneeded to make good the losses expected",
+    "start": 1863.415,
+    "duration": 4.445
+  },
+  {
+    "text": "over the 4.7 billion years\nrequired by the solar nebula model.",
+    "start": 1867.885,
+    "duration": 3.915
+  },
+  {
+    "text": "Because the expectation was\nthat the Huygens Lander,",
+    "start": 1871.825,
+    "duration": 3.857
+  },
+  {
+    "text": "the Huygens probe,",
+    "start": 1875.707,
+    "duration": 1.449
+  },
+  {
+    "text": "would go through the clouds that it'd\nphotograph it on the way down",
+    "start": 1877.181,
+    "duration": 3.475
+  },
+  {
+    "text": "and then it would plop into a\nmethane or ethane ocean.",
+    "start": 1880.681,
+    "duration": 3.64
+  },
+  {
+    "text": "They never found it.",
+    "start": 1884.346,
+    "duration": 1.921
+  },
+  {
+    "text": "Titan's Enigmatic Atmosphere",
+    "start": 1890.995,
+    "duration": 3.167
+  },
+  {
+    "text": "Titan's atmosphere is\nbelieved by many scientists",
+    "start": 1894.187,
+    "duration": 2.654
+  },
+  {
+    "text": "to be similar to Earth's early\natmosphere, billions of years ago.",
+    "start": 1896.866,
+    "duration": 3.549
+  },
+  {
+    "text": "This is the usual story, we're out there\nto try and show how the earth was born.",
+    "start": 1900.44,
+    "duration": 5.332
+  },
+  {
+    "text": "Toby Owen, principal\nscientist at JPL said,",
+    "start": 1905.797,
+    "duration": 3.878
+  },
+  {
+    "text": "\"What we've got is a very\nprimitive atmosphere that",
+    "start": 1909.7,
+    "duration": 2.56
+  },
+  {
+    "text": "has been preserved for\n4.6 billion years.",
+    "start": 1912.285,
+    "duration": 2.698
+  },
+  {
+    "text": "Titan gives us a chance\nfor cosmic time travel,",
+    "start": 1915.008,
+    "duration": 2.975
+  },
+  {
+    "text": "going back to the very earliest days of\nEarth when it had a similar atmosphere.",
+    "start": 1918.008,
+    "duration": 4.068
+  },
+  {
+    "text": "All conjecture.",
+    "start": 1922.101,
+    "duration": 1.97
+  },
+  {
+    "text": "But in a sense Toby\nOwens may be right.",
+    "start": 1924.096,
+    "duration": 2.63
+  },
+  {
+    "text": "Titan can give us insights about\nthe Proto-Saturnian environment",
+    "start": 1926.751,
+    "duration": 4.127
+  },
+  {
+    "text": "but just take off about five\nzeros from that age figure.",
+    "start": 1930.903,
+    "duration": 4.051
+  },
+  {
+    "text": "The striking disparity in nitrogen\nisotopes is telling us something",
+    "start": 1934.979,
+    "duration": 3.584
+  },
+  {
+    "text": "about the way planetary atmospheres are\nformed rather than how they evolved.",
+    "start": 1938.588,
+    "duration": 4.494
+  },
+  {
+    "text": "Hannes Alfvén wrote in Evolution\nof the Solar System, and I quote:",
+    "start": 1943.107,
+    "duration": 4.471
+  },
+  {
+    "text": "\"The Laplacian concept of\na homogeneous gas disc",
+    "start": 1947.603,
+    "duration": 2.839
+  },
+  {
+    "text": "provides the general background\nfor most current speculations.",
+    "start": 1950.467,
+    "duration": 3.687
+  },
+  {
+    "text": "The advent of magnetohydrodynamics\nabout 25 years ago,",
+    "start": 1954.179,
+    "duration": 3.856
+  },
+  {
+    "text": "and experimental and theoretical progress in\nsolar and magnetic and magnetospheric physics",
+    "start": 1958.06,
+    "duration": 5.154
+  },
+  {
+    "text": "have made this concept obsolete",
+    "start": 1963.239,
+    "duration": 2.194
+  },
+  {
+    "text": "but this seems not yet\nto be fully understood.",
+    "start": 1965.458,
+    "duration": 2.923
+  },
+  {
+    "text": "While acknowledging Alfvén's point,\nit is possible to go a step further",
+    "start": 1969.206,
+    "duration": 4.585
+  },
+  {
+    "text": "and invoke several processes available\nin the plasma discharge model",
+    "start": 1973.816,
+    "duration": 5.238
+  },
+  {
+    "text": "that would affect\nTitan's atmosphere.",
+    "start": 1979.079,
+    "duration": 5.713
+  },
+  {
+    "text": "Was Titan captured or born\nearlier by Proto-Saturn",
+    "start": 1984.817,
+    "duration": 3.317
+  },
+  {
+    "text": "in a major electrical event\nin its recent history?",
+    "start": 1988.159,
+    "duration": 2.69
+  },
+  {
+    "text": "This is hinted at by\nTitan's eccentric orbit",
+    "start": 1990.874,
+    "duration": 2.534
+  },
+  {
+    "text": "which cannot have persisted\nfor billions of years",
+    "start": 1993.409,
+    "duration": 2.889
+  },
+  {
+    "text": "and isotopes will separate in the\ncombined electric and magnetic fields",
+    "start": 1996.323,
+    "duration": 3.685
+  },
+  {
+    "text": "of a cosmic plasma discharge.",
+    "start": 2000.009,
+    "duration": 2.338
+  },
+  {
+    "text": "So this is where we get into the problem\nof nitrogen in planetary atmospheres,",
+    "start": 2002.372,
+    "duration": 9.24
+  },
+  {
+    "text": "you've got Venus with it's heavy\ncarbon dioxide atmosphere.",
+    "start": 2011.637,
+    "duration": 3.601
+  },
+  {
+    "text": "How did these happen?",
+    "start": 2015.263,
+    "duration": 1.364
+  },
+  {
+    "text": "Why are these differences?",
+    "start": 2016.652,
+    "duration": 1.776
+  },
+  {
+    "text": "And it comes down to the electrical\neffects on atmospheric molecules",
+    "start": 2018.453,
+    "duration": 10.668
+  },
+  {
+    "text": "which I don't think\nI'll discuss here,",
+    "start": 2030.121,
+    "duration": 3.527
+  },
+  {
+    "text": "just, I've done so many,",
+    "start": 2033.673,
+    "duration": 1.902
+  },
+  {
+    "text": "I have so many slide preparations, I'm not\nquite sure which things I've addressed.",
+    "start": 2035.6,
+    "duration": 5.606
+  },
+  {
+    "text": "Ah, here we go, yes.",
+    "start": 2041.231,
+    "duration": 1.564
+  },
+  {
+    "text": "We come to Venus.",
+    "start": 2042.82,
+    "duration": 2.948
+  },
+  {
+    "text": "Saturn's last-born",
+    "start": 2045.769,
+    "duration": 1.874
+  },
+  {
+    "text": "and a birth witnessed\nby humanity.",
+    "start": 2047.668,
+    "duration": 2.776
+  },
+  {
+    "text": "The planet shows a\nsurprisingly young surface",
+    "start": 2051.476,
+    "duration": 2.724
+  },
+  {
+    "text": "that gave rise to ad hoc\ntheories of resurfacing events.",
+    "start": 2054.225,
+    "duration": 3.251
+  },
+  {
+    "text": "They're unnecessary.\nVenus is a baby.",
+    "start": 2057.501,
+    "duration": 3.57
+  },
+  {
+    "text": "The Electric Universe account\nexplains its hellish temperature",
+    "start": 2062.124,
+    "duration": 3.198
+  },
+  {
+    "text": "having been born recently from the\ninterior of a brown dwarf star",
+    "start": 2065.347,
+    "duration": 3.664
+  },
+  {
+    "text": "and its thick 96% carbon dioxide\nand 4% nitrogen atmosphere",
+    "start": 2069.036,
+    "duration": 5.5
+  },
+  {
+    "text": "was inherited from its\nbrown dwarf parent,",
+    "start": 2075.891,
+    "duration": 2.877
+  },
+  {
+    "text": "was subsequently modified\nby cosmic discharges.",
+    "start": 2078.769,
+    "duration": 3.321
+  },
+  {
+    "text": "The amount of nitrogen in the Venusian\natmosphere is relatively small,",
+    "start": 2084.059,
+    "duration": 3.566
+  },
+  {
+    "text": "compared to the amount\nof carbon dioxide,",
+    "start": 2087.65,
+    "duration": 2.004
+  },
+  {
+    "text": "but because the atmosphere is so\nmuch thicker than that on Earth",
+    "start": 2089.681,
+    "duration": 3.316
+  },
+  {
+    "text": "its total nitrogen content is roughly\nfour times higher than the Earth's,",
+    "start": 2093.022,
+    "duration": 4.017
+  },
+  {
+    "text": "even though on Earth nitrogen makes\nup about 78% of the atmosphere.",
+    "start": 2097.064,
+    "duration": 4.498
+  },
+  {
+    "text": "But Venus may have begun with\nmore nitrogen, more like the Earth.",
+    "start": 2101.587,
+    "duration": 4.425
+  },
+  {
+    "text": "Now nitrogen, and this isn't\nunderstood by astrophysicists,",
+    "start": 2106.037,
+    "duration": 5.813
+  },
+  {
+    "text": "is catalyzed by hot iron\natoms to carbon monoxide,",
+    "start": 2111.875,
+    "duration": 4.293
+  },
+  {
+    "text": "the two molecules have very\nlittle energy difference.",
+    "start": 2116.193,
+    "duration": 2.704
+  },
+  {
+    "text": "So if you get a catalytic\neffect on a hot iron surface,",
+    "start": 2118.922,
+    "duration": 5.307
+  },
+  {
+    "text": "it will convert nitrogen\nto carbon monoxide.",
+    "start": 2124.254,
+    "duration": 3.228
+  },
+  {
+    "text": "And the carbon monoxide and\nwater on a hot surface",
+    "start": 2128.865,
+    "duration": 3.581
+  },
+  {
+    "text": "gives you carbon\ndioxide and hydrogen.",
+    "start": 2132.471,
+    "duration": 2.157
+  },
+  {
+    "text": "The hydrogen, being a very light\ngas of course, escapes to space",
+    "start": 2134.653,
+    "duration": 3.259
+  },
+  {
+    "text": "and it's still escaping --\nit's been shown.",
+    "start": 2137.937,
+    "duration": 2.92
+  },
+  {
+    "text": "The heavier deuterium\ntends to be left behind",
+    "start": 2140.882,
+    "duration": 2.839
+  },
+  {
+    "text": "which might explain Venus's 10 times higher\nratio of deuterium to hydrogen than the Earth('s)",
+    "start": 2143.746,
+    "duration": 5.587
+  },
+  {
+    "text": "and solar UV light is\ntotally inadequate",
+    "start": 2149.358,
+    "duration": 2.831
+  },
+  {
+    "text": "as an explanation if we accept\nthe short history of Venus.",
+    "start": 2152.214,
+    "duration": 3.538
+  },
+  {
+    "text": "Now notably, if water is being consumed\nat the surface and being converted",
+    "start": 2156.22,
+    "duration": 4.889
+  },
+  {
+    "text": "into carbon dioxide with the surface carbon\nmonoxide and the hydrogen is escaping,",
+    "start": 2161.134,
+    "duration": 6.51
+  },
+  {
+    "text": "it's very interesting that water\nwas found to mysteriously decrease",
+    "start": 2167.669,
+    "duration": 4.438
+  },
+  {
+    "text": "as the surface was approached\nby the Venus landing craft.",
+    "start": 2172.132,
+    "duration": 3.229
+  },
+  {
+    "text": "In other words, that reaction\nis still taking place today.",
+    "start": 2175.386,
+    "duration": 3.592
+  },
+  {
+    "text": "So here we see the\nVenus's equatorial scars",
+    "start": 2183.04,
+    "duration": 3.42
+  },
+  {
+    "text": "were caused by spectacular\nradial discharging",
+    "start": 2186.485,
+    "duration": 2.508
+  },
+  {
+    "text": "which was faithfully recorded\nby the petroglyph artists.",
+    "start": 2189.018,
+    "duration": 3.427
+  },
+  {
+    "text": "The thicker the atmosphere the more\nfilamentary the surface lightning becomes",
+    "start": 2192.47,
+    "duration": 4.456
+  },
+  {
+    "text": "as you see.",
+    "start": 2196.951,
+    "duration": 1.634
+  },
+  {
+    "text": "Venus carried away significant\ncharge from its parent",
+    "start": 2199.055,
+    "duration": 3.011
+  },
+  {
+    "text": "so that it still has a\ncometary magneto tail",
+    "start": 2202.091,
+    "duration": 2.783
+  },
+  {
+    "text": "which was detected\nback in the 80's",
+    "start": 2204.899,
+    "duration": 2.392
+  },
+  {
+    "text": "and its mountains glow with plasma\ndischarges that reflect radar",
+    "start": 2207.316,
+    "duration": 3.987
+  },
+  {
+    "text": "and this puzzled the\nscientists greatly:",
+    "start": 2211.328,
+    "duration": 2.827
+  },
+  {
+    "text": "Why are the mountains of Venus shiny\nwhen we look at them in radar?",
+    "start": 2214.18,
+    "duration": 5.255
+  },
+  {
+    "text": "And I wrote at the time,",
+    "start": 2219.46,
+    "duration": 1.574
+  },
+  {
+    "text": "it's because they're all, got St.\nElmo's fire type discharges",
+    "start": 2221.059,
+    "duration": 4.158
+  },
+  {
+    "text": "at above a certain elevation",
+    "start": 2225.242,
+    "duration": 2.05
+  },
+  {
+    "text": "and that's why just the peaks\nwere glowing in the radar signal.",
+    "start": 2228.062,
+    "duration": 4.447
+  },
+  {
+    "text": "Battle-Scarred Mars",
+    "start": 2234.369,
+    "duration": 3.117
+  },
+  {
+    "text": "The devastated face of Mars shows the\ncolossal gash of Valles Marineris",
+    "start": 2237.88,
+    "duration": 4.304
+  },
+  {
+    "text": "stretching a third of the\nway around the planet.",
+    "start": 2242.209,
+    "duration": 2.81
+  },
+  {
+    "text": "Carl Sagan in the Scientific\nAmerican of September 1975 wrote,",
+    "start": 2245.044,
+    "duration": 4.561
+  },
+  {
+    "text": "\"The ultimate objective of comparative\nplanetology it might be said,",
+    "start": 2249.63,
+    "duration": 3.893
+  },
+  {
+    "text": "is something like a vast computer program\ninto which we insert a few input parameters,",
+    "start": 2253.548,
+    "duration": 4.723
+  },
+  {
+    "text": "perhaps the initial mass, composition\nand angular momentum of a proto planet",
+    "start": 2258.296,
+    "duration": 4.361
+  },
+  {
+    "text": "and the population of neighboring\nobjects that strike it",
+    "start": 2262.682,
+    "duration": 3.016
+  },
+  {
+    "text": "and then derive the complete\nevolution of the planet.\"",
+    "start": 2265.699,
+    "duration": 3.265
+  },
+  {
+    "text": "End of quote.",
+    "start": 2268.989,
+    "duration": 1.799
+  },
+  {
+    "text": "Sagan's statement, it epitomizes everything\nthat's wrong with modern science",
+    "start": 2270.979,
+    "duration": 4.201
+  },
+  {
+    "text": "based on computer generated\nmodels of virtual-reality.",
+    "start": 2275.205,
+    "duration": 3.496
+  },
+  {
+    "text": "The first law of computing is,",
+    "start": 2278.726,
+    "duration": 1.78
+  },
+  {
+    "text": "and since I was in the computer\nindustry all my working life,",
+    "start": 2280.531,
+    "duration": 3.101
+  },
+  {
+    "text": "garbage in equals garbage out.",
+    "start": 2283.657,
+    "duration": 2.96
+  },
+  {
+    "text": "Planetologists have adopted\ntheir story of the earth,",
+    "start": 2286.642,
+    "duration": 3.396
+  },
+  {
+    "text": "sorry, adapted their story of the Earth\nto accommodate their findings on Mars.",
+    "start": 2290.063,
+    "duration": 4.63
+  },
+  {
+    "text": "So we now have eras called the Noachian,\nthe Hesperian and the Amazonian",
+    "start": 2294.718,
+    "duration": 4.631
+  },
+  {
+    "text": "based on crater counting.",
+    "start": 2299.374,
+    "duration": 1.745
+  },
+  {
+    "text": "But crater counting assumes the conventional\nstory of formation of the solar system",
+    "start": 2301.144,
+    "duration": 4.285
+  },
+  {
+    "text": "which, as I've shown, has no\nreal evidential support.",
+    "start": 2305.454,
+    "duration": 3.276
+  },
+  {
+    "text": "In fact, the evidence\nis strongly against it.",
+    "start": 2308.755,
+    "duration": 3.006
+  },
+  {
+    "text": "In my next presentation,\nwhich is later today,",
+    "start": 2312.847,
+    "duration": 5.346
+  },
+  {
+    "text": "I will talk about\nthe damage on Mars",
+    "start": 2318.218,
+    "duration": 3.063
+  },
+  {
+    "text": "but Mars was stripped of\natmosphere, water and rocks.",
+    "start": 2321.306,
+    "duration": 3.682
+  },
+  {
+    "text": "And the modern evidence,",
+    "start": 2326.554,
+    "duration": 2.734
+  },
+  {
+    "text": "we are still receiving\nMars rocks on Earth today!!",
+    "start": 2329.313,
+    "duration": 3.728
+  },
+  {
+    "text": "And the evidence of Mars' battles\nwith cosmic Thunderbolts",
+    "start": 2334.936,
+    "duration": 3.104
+  },
+  {
+    "text": "is written hugely\non its \"scar-face\".",
+    "start": 2338.065,
+    "duration": 2.672
+  },
+  {
+    "text": "That was the name given to Mars\nby the North American Indians.",
+    "start": 2340.762,
+    "duration": 4.008
+  },
+  {
+    "text": "What can conventional planetologists\ndo with evidence like that?",
+    "start": 2345.779,
+    "duration": 4.539
+  },
+  {
+    "text": "And of course we have the MAVEN\nmission that is going to tell us",
+    "start": 2351.101,
+    "duration": 3.372
+  },
+  {
+    "text": "how Mars atmosphere was stripped\noff over 4 billion years.",
+    "start": 2354.498,
+    "duration": 4.112
+  },
+  {
+    "text": "So whatever that mission\nwas designed to do,",
+    "start": 2359.794,
+    "duration": 2.444
+  },
+  {
+    "text": "the question, initial question,\nis irrelevant and wrong.",
+    "start": 2362.263,
+    "duration": 5.806
+  },
+  {
+    "text": "And this is the really\ninteresting thing.",
+    "start": 2370.743,
+    "duration": 2.817
+  },
+  {
+    "text": "Is Earth a former Saturnian?",
+    "start": 2373.585,
+    "duration": 2.642
+  },
+  {
+    "text": "And the first question is...",
+    "start": 2377.242,
+    "duration": 2.817
+  },
+  {
+    "text": "Why continents and\noceans of water?",
+    "start": 2380.084,
+    "duration": 3.38
+  },
+  {
+    "text": "There's no other body\nin the solar system",
+    "start": 2383.489,
+    "duration": 2.34
+  },
+  {
+    "text": "with continents and oceanic\ntype basins like the Earth.",
+    "start": 2385.854,
+    "duration": 3.204
+  },
+  {
+    "text": "Each planet has its own\nstory of electrical birth",
+    "start": 2389.083,
+    "duration": 3.228
+  },
+  {
+    "text": "and the scars of interplanetary thunderbolts\nin order to achieve orbitals' harmony.",
+    "start": 2392.336,
+    "duration": 5.546
+  },
+  {
+    "text": "This is where the battles these cosmic\nbattles with the Thunderbolts of the Gods",
+    "start": 2397.907,
+    "duration": 4.713
+  },
+  {
+    "text": "can scar the face of\na planet terribly",
+    "start": 2402.645,
+    "duration": 3.077
+  },
+  {
+    "text": "but also the birth process\nitself can do the same.",
+    "start": 2405.747,
+    "duration": 4.669
+  },
+  {
+    "text": "Electrical sculpting of planetary\nfeatures is the most powerful concept",
+    "start": 2412.4,
+    "duration": 4.025
+  },
+  {
+    "text": "missing from planetary\nscientists' toolkit.",
+    "start": 2416.45,
+    "duration": 2.751
+  },
+  {
+    "text": "The Earth's unique oceanic basins\nwith their mid-oceanic raised ridges",
+    "start": 2419.226,
+    "duration": 4.197
+  },
+  {
+    "text": "and orthogonal coronal pattern,",
+    "start": 2423.448,
+    "duration": 2.483
+  },
+  {
+    "text": "if you have a powerful discharge, high voltage\ndischarge you get coronal discharges",
+    "start": 2425.956,
+    "duration": 5.17
+  },
+  {
+    "text": "at right angles to the\nmain discharge channel.",
+    "start": 2431.151,
+    "duration": 2.892
+  },
+  {
+    "text": "And I would suggest that the Earth\nprobably suffered the massive",
+    "start": 2436.406,
+    "duration": 4.604
+  },
+  {
+    "text": "ocean basin carving as\na feature of its birth.",
+    "start": 2441.035,
+    "duration": 3.843
+  },
+  {
+    "text": "It was a pole to pole discharge.",
+    "start": 2444.903,
+    "duration": 3.372
+  },
+  {
+    "text": "Mountain ranges with their\nelectrically sculpted ridges and gullies",
+    "start": 2449.445,
+    "duration": 3.523
+  },
+  {
+    "text": "and backbones of intrusive\nmelted rock called granite",
+    "start": 2452.969,
+    "duration": 2.825
+  },
+  {
+    "text": "signify surface and subterranean telluric\ncurrents unimagined by geologists.",
+    "start": 2455.819,
+    "duration": 5.23
+  },
+  {
+    "text": "Global tectonics is a failed\nparadigm because it assumes",
+    "start": 2461.074,
+    "duration": 3.24
+  },
+  {
+    "text": "undisturbed evolution of the Earth\nin place over millions of years.",
+    "start": 2464.339,
+    "duration": 3.954
+  },
+  {
+    "text": "Brown dwarfs flare and deposit minerals\nand gases on their satellites.",
+    "start": 2469.769,
+    "duration": 4.436
+  },
+  {
+    "text": "The flare ejects stellar matter from the\nbrown dwarf equatorially or axially,",
+    "start": 2475.101,
+    "duration": 4.818
+  },
+  {
+    "text": "most usually equatorially.",
+    "start": 2479.944,
+    "duration": 2.316
+  },
+  {
+    "text": "The composition will vary depending on the\ndepth from which matter is dredged up",
+    "start": 2482.285,
+    "duration": 4.307
+  },
+  {
+    "text": "and the chance encounter between that\nejected matter and each satellite.",
+    "start": 2486.617,
+    "duration": 4.337
+  },
+  {
+    "text": "This I think explains the water and\nmineral deposits on Earth largely.",
+    "start": 2492.456,
+    "duration": 4.928
+  },
+  {
+    "text": "So the rings of Saturn are a water\nice remnant of flaring activity.",
+    "start": 2499.002,
+    "duration": 4.197
+  },
+  {
+    "text": "Saturn was the source of the copious\namounts of surface water on the Earth",
+    "start": 2503.224,
+    "duration": 4.594
+  },
+  {
+    "text": "and probably the sodium and\nthe chlorine in particular",
+    "start": 2507.843,
+    "duration": 3.757
+  },
+  {
+    "text": "because it's hard to get\nchlorine out of rocks.",
+    "start": 2511.625,
+    "duration": 2.76
+  },
+  {
+    "text": "Each planet has its own birth\ndrama and complex history,",
+    "start": 2516.386,
+    "duration": 3.951
+  },
+  {
+    "text": "this is why this solar system is a\ncomplete fruit salad of objects",
+    "start": 2520.362,
+    "duration": 4.054
+  },
+  {
+    "text": "with all sorts of different\nsurfaces and characteristics,",
+    "start": 2524.441,
+    "duration": 4.797
+  },
+  {
+    "text": "axial tilts, rotation\nrates and so on.",
+    "start": 2529.263,
+    "duration": 3.881
+  },
+  {
+    "text": "They are all\nindividuals, you know.",
+    "start": 2533.169,
+    "duration": 3.014
+  },
+  {
+    "text": "This explains why the Earth, Mars\nand Venus appear so different",
+    "start": 2537.808,
+    "duration": 3.365
+  },
+  {
+    "text": "even though they may be\nmembers of the same family.",
+    "start": 2541.198,
+    "duration": 3.006
+  },
+  {
+    "text": "There is no nebula gradation of\nphysical properties of the planets",
+    "start": 2544.229,
+    "duration": 4.568
+  },
+  {
+    "text": "and the ad-hoc suggestion of migration of\nplanets only serves to confuse the issue.",
+    "start": 2548.822,
+    "duration": 4.907
+  },
+  {
+    "text": "All the Electric Universe does is\nwork with the forensic evidence",
+    "start": 2553.754,
+    "duration": 3.898
+  },
+  {
+    "text": "about the most recent chapter\nin solar system history.",
+    "start": 2557.677,
+    "duration": 6.362
+  },
+  {
+    "text": "So The Future?",
+    "start": 2565.661,
+    "duration": 2.69
+  },
+  {
+    "text": "Professor Wescott is right,\nmankind's survival is astonishing.",
+    "start": 2568.376,
+    "duration": 4.975
+  },
+  {
+    "text": "Of course, there are reports\nglobally of dreadful heat and cold",
+    "start": 2573.376,
+    "duration": 3.303
+  },
+  {
+    "text": "while the Earth established this\nnew home in the solar system.",
+    "start": 2576.704,
+    "duration": 3.061
+  },
+  {
+    "text": "This is to be expected\non a cometary orbit.",
+    "start": 2579.79,
+    "duration": 2.389
+  },
+  {
+    "text": "It seems to me that part of\nthe answer for our survival",
+    "start": 2582.204,
+    "duration": 2.998
+  },
+  {
+    "text": "lay in the great heat\nreservoirs of the oceans",
+    "start": 2585.227,
+    "duration": 2.636
+  },
+  {
+    "text": "but there was also the exchange of\nelectrical energy via the cometary discharge",
+    "start": 2587.888,
+    "duration": 4.362
+  },
+  {
+    "text": "which may have provided\nsome additional heat",
+    "start": 2592.275,
+    "duration": 2.456
+  },
+  {
+    "text": "while circularizing the\norbit of the Earth,",
+    "start": 2594.756,
+    "duration": 2.174
+  },
+  {
+    "text": "as I'll discuss later.",
+    "start": 2596.955,
+    "duration": 1.694
+  },
+  {
+    "text": "But as Roger Wescott makes clear,",
+    "start": 2599.275,
+    "duration": 2.272
+  },
+  {
+    "text": "we may have no future if we do not\nunderstand our irrational behavior",
+    "start": 2601.572,
+    "duration": 3.785
+  },
+  {
+    "text": "trying to imitate the\npower of the old gods",
+    "start": 2605.382,
+    "duration": 3.102
+  },
+  {
+    "text": "in our ability to destroy each\nother and the environment.",
+    "start": 2608.509,
+    "duration": 4.832
+  },
+  {
+    "text": "Velikovsky as a psychoanalyst,\nfelt his most important legacy,",
+    "start": 2613.366,
+    "duration": 3.827
+  },
+  {
+    "text": "as he makes clear in\nMankind in Amnesia,",
+    "start": 2617.218,
+    "duration": 2.947
+  },
+  {
+    "text": "was to help us understand\nour catastrophic past",
+    "start": 2620.19,
+    "duration": 3.376
+  },
+  {
+    "text": "and by so doing begin to heal\nfrom those psychic wounds.",
+    "start": 2623.591,
+    "duration": 4.82
+  },
+  {
+    "text": "Fear is a great cattle prod.",
+    "start": 2628.436,
+    "duration": 2.188
+  },
+  {
+    "text": "But we are not cattle.",
+    "start": 2630.649,
+    "duration": 1.687
+  },
+  {
+    "text": "Thank you!",
+    "start": 2632.361,
+    "duration": 1.398
+  }
+]

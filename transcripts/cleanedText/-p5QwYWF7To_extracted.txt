@@ -1,0 +1,216 @@
+Welcome to Space News from
+the Electric Universe,
+brought to you by The
+Thunderbolts Project™
+at Thunderbolts.info
+Today, we continue our exploration
+of the early scientific data from NASA's
+historic Parker Solar Probe
+mission to the Sun.
+In part one, Dr. Donald Scott
+began his analysis of some of the most
+intriguing early findings, including the
+probe's "unexpected" detection of
+magnetic reversals as it moved in
+the plasma solar environment.
+As one new report describes,
+"Unexpectedly, the probe
+also detected a series of flips in the
+Sun's magnetic fields -- dubbed "switchbacks"
+-- as streaming winds of plasma
+flowed past the spacecraft. During these
+periods, the magnetic field suddenly
+reversed itself by 180 degrees and then,
+seconds to hours later, flipped back."
+As Dr. Scott continues, he explains why the
+so-called "switchbacks" could be the
+telltale signs of the Birkeland currents
+hypothesized by the Electric Sun model.
+In describing the switchbacks, or
+magnetic reversals the Parker Probe has
+seen, press release stated, "These
+reversals happen at a high rate of
+occurrence. That high rate
+is surprising. In fact
+the nature of these
+structures remains unknown.
+Well, we can help them with that,
+I think, but anyway, we know
+that the Parker Probe is traveling at a speed
+of approximately 430 thousand miles an hour.
+That's fast, it's in fact, it's
+a hundred ninety kilometers per second.
+And so, in a couple of minutes, the probe
+travels about 15,000 kilometers, so that
+distance could very well be the
+thickness of one of the layers in the
+Birkeland current which would be the
+cause of those magnetic reversals, as it
+goes through the Birkeland current.
+The press release also announced that, close
+to the Sun the solar wind seems to get
+sped up by powerful "rogue waves"
+that move through the magnetic field.
+The quote from the press release states,
+"We'd suddenly see a spike in the
+flow, where in just a couple of seconds
+the solar wind would start flowing at
+300,000 miles an hour faster."
+That's about a hundred and thirty-four
+kilometers per second increase in the
+speed of the solar wind that they're
+observing, and if the velocity of the
+wind is about 400 kilometers a second,
+the press release said they were
+doubling the speed, it's not quite
+doubling, also they quote, they said there
+are jets of plasma in these streamers.
+Well, I maintain, the
+increases in the solar wind
+speed may indeed be
+caused by double layers.
+Now, in the past, our
+viewers have seen this image that I've
+included here, of what
+a double layer looks like.
+So just to refresh the viewer,
+there are three plots there.
+The top graph is the voltage that we would
+measure as a function of radius distance
+out from the Sun, so you can see that the
+voltage is dropping rather precipitously
+from point c to d to e, and that results
+in the middle plot which
+is the electric field
+that is produced by that
+sharp drop in voltage.
+Now, there's nothing
+mysterious about that electric field.
+It's just the force on a positive ion
+and if the electric field is positive, as
+you see it, there it
+is, that means that
+the force on that positive ion is
+outward, in the positive direction.
+Outward from the
+Sun, is the positive direction.
+So, the bottom plot
+there is the plot of the charge
+distribution that would be there to
+cause what those other two plots look like.
+That's from Maxwell's equations, but
+if we look at the charge distribution
+there, you can see that there are two
+spherical shells, one of positive ions
+and then right on top of that, a shell of
+negative charges, mostly probably electrons.
+And that's why it's called a
+double layer, the plus and the minus
+layer are right there together.
+And there are two different
+spherical shells
+in that double layer,
+the inner half, the
+inner one is positive, and the
+outer half is negative.
+And in between, in the center
+of that, that the layer is at,
+is an extremely strong electric field.
+Now, that electric field,
+if it's strong enough, can
+actually rip apart any charged
+intruder into the double layer.
+So the SAFIRE experiment,
+that everybody has
+been hearing about,
+it has worked out so
+well for us, that experiment produced an
+image of a whole series of these double
+layers surrounding the anode, the Sun, and
+the most powerful one is right there
+above the, or actually on the surface of
+the anode, and that's completely
+consistent with Juergens' Electric Sun
+model, because that's the photosphere,
+that's where the sunspots
+all happen and in that
+double layer there, all
+sorts of things occur.
+And then, as you go out
+from that layer outward from
+the Sun, the double layers get dimmer and
+weaker, you can see them finally
+disappear off in the distance.
+And we don't see any of those double layers
+around the Sun with our eyes or with
+telescopes now, simply because they're, if
+they're there, they're in the dark mode
+of plasma operation, they're in the same
+mode of plasma operation that surrounds
+the North Pole of the Earth and it's
+dark mode, we don't see that either.
+Unless, of course, there's an Aurora
+at which time the plasma jumps into the
+glow mode, and as it did in that
+photograph that Monty so kindly sent us.
+But normally, it's not visible,
+it's a dark mode plasma and so are those
+double layers around the Sun.
+Also, and things are
+happening very quickly these
+days, in a new paper
+entitled "Probing the
+energetic particle environment near the
+Sun," the authors seem to acknowledge that
+magnetic reconnection
+can't actually explain
+some of the effects
+they're observing.
+I was waiting, predicting that
+we would hear about magnetic
+reconnection but I'm very
+pleased that they have
+essentially written that
+off, at least in this paper.
+And they said instead,
+"We find a variety of energetic
+particle events accelerated
+both locally and remotely including by
+co-rotating interaction regions, and
+impulsive events driven by acceleration
+near the Sun, and an event related to a
+coronal mass ejection."
+But so, they used the word co-rotating and I
+wonder if, by using the word co-rotating,
+did they actually mean counter-rotating?
+Nothing more was said and so, we'll have
+to wait to see what they have discovered,
+but they've discovered, everything that
+they have discovered is certainly
+explainable by Birkeland currents.
+Also, incidentally, regarding the question of
+how all those other elements get onto
+the face of the Sun, that we discussed
+earlier, one of the most important
+results of the SAFIRE team was their
+discovery that in their electrical
+plasma discharge, and we
+remember that was in a
+hydrogen atmosphere, just
+like the Sun, it's hydrogen.
+The transmutation of
+elements occurs, that's the kind of
+process that the old prehistoric alchemists
+were looking, they wanted to change lead
+into gold or something like that.
+They've actually, SAFIRE has done it in
+microscopic amounts, but they've done it.
+So that in a plasma discharge, hydrogen
+apparently can give birth to a long list
+of other elements, not just water, that
+were not there before the discharge started.
+So that may well be how those
+other elements got onto the
+Sun and get onto the Sun as we speak.
+And the point is, fairy dust
+has nothing to do with it.

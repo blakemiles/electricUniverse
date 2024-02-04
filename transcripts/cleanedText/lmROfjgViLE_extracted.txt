@@ -1,0 +1,276 @@
+Welcome to Space News from the Electric
+Universe, brought to you by The
+Thunderbolts Project at Thunderbolts.info
+In a recent Space News episode,
+we reported on two 2016 scientific studies
+that each serve potentially fatal blows
+to the hypothesis of dark matter.
+The first of these studies, reported in
+September of last year, found that the
+acceleration and the rotation curves of
+both spiral and irregular galaxies could
+be explained by visible mass alone with
+no Dark Matter necessary. Professor of
+physics and astronomy David Meritt says
+of the findings: "Galaxy rotation curves
+have traditionally been explained via an
+ad-hoc hypothesis that galaxies are
+surrounded by dark matter. The relation
+discovered by McGaugh at al. is a serious,
+and possibly fatal, challenge to this
+hypothesis, since it shows that rotation
+curves are precisely determined by the
+distribution of the normal matter alone.
+Nothing in the standard cosmological
+model predicts this, and it is almost
+impossible to imagine how that model
+could be modified to explain it, without
+discarding the Dark Matter hypothesis
+completely." Another study reported in
+December presented a statistical
+analysis of mini spiral galaxies, and
+found a so-called "unexpected
+interaction" between dark matter and
+ordinary matter. A co-author of the study
+states: "Most dark matter, according to
+the most credible hypotheses, would be
+non-baryonic or WIMP. It would not
+interact with ordinary matter except
+through gravitational force. Our
+observations, however, disagree with this
+notion." In this episode, physicist
+Eugene Bagashov analyzes additional recent
+studies that raise even further doubt of
+the Dark Matter hypothesis and he
+explores the growing scientific case for
+dark matter alternatives. Following the
+recent Space News episode featuring
+astronomer Barry Setterfield,
+I'd like to briefly review some of the
+other recent studies regarding the
+dark mater hypothesis. First of all, there
+have been news from several experiments that
+theoretically could detect processes
+involving dark matter particles. For
+example, the team of researchers working
+with Fermi Space Telescope indicates that
+there are no signs of dark matter
+particle annihilation nor decay. These
+processes should take place if dark
+matter particles could interact not only
+gravitationally but also perhaps through
+weak nuclear force. The gamma-ray flux,
+measured by the Fermi telescope from low
+Earth orbit, over the course of several
+years, so far have not shown the evidence
+for any significant Dark Matter presence.
+Experiments on and below the surface of
+the Earth have also failed to detect any
+specific Dark Matter processes. There
+have been news from PANDA X experiment in
+China. They've used 300 kilograms of liquid
+xenon to detect the collisions of its
+atoms with the supposedly present dark
+matter particles and over the course of at
+least 66 days, haven't detected any single
+event. At the same time the article
+published by the team of experimenters,
+claims that this laboratory at present is
+the most sensitive to dark matter on
+earth. Another similar experiment called
+LUX is also using liquid xenon and it
+also have recently reported the complete
+absence of events of Dark Matter
+candidate detection. 20 months of
+observations, from October 2014 to May
+2016, had yielded zero observed events.
+Third experiment, using the same
+technique, is Xenon 100. 477 days of
+data taking have not resulted in a
+detection of a single dark matter
+particle interaction. The Large Hadron
+Collider, which once was a big hope for
+finding lots of what is called new
+physics, has also not produced any new
+findings in the recent years. What it
+does now is basically refining the
+previous measurements with more and more
+statistics and putting more and more
+strict constraints on the theoretical
+physicists' proliferative imagination;
+speaking of which I would like to
+remember a story from the end of 2015
+when there was a message from
+experimenters at LHC stating a
+possible detection of a two-photon peak
+at the energy of around 750 Giga electron
+volts. This was quickly followed by
+literally hundreds of papers submitted
+by theoretical physicists, each stating
+his own hypothesis on what this peak might
+stand for. Some of the versions included
+possible Dark Matter connection, but
+perhaps the most embarrassing was the
+fact that this peak just disappeared a
+few months later after accumulating more
+data. It turned out to be just a
+statistical artifact. But the social
+phenomenon of these theoretical physicists
+to rush has itself turned into the
+object of public and scientific
+attention, including some jokes and
+sarcastic publications. In the previous
+episode of Space News on dark matter,
+Barry Setterfield has already made the
+point that there is a more or less
+suitable mathematical alternative to the
+Dark Matter hypothesis, the Modified
+Newtonian Dynamics or MOND for short. In
+the recent years
+other theories have also appeared. Some
+of them are quite eclectic, trying to tie
+various physical concepts with
+gravitation. I think the most interesting
+of them is the so-called entropic or
+emergent gravity. It seems that a few
+people were developing it even earlier but
+the most popular version of it nowadays
+is the one proposed by Erik Verlinde.
+In his paper, published in 2010,
+he states that the amount of information
+associated with matter and its location
+could be measured in terms of entropy.
+Changes in this entropy, when matter is
+displaced, lead to an entropic force
+which, as he shows later, takes the form
+of gravity. So its origin lies in the
+tendency of the system to maximize its
+entropy and is thus thermodynamic in
+nature and isn't actually a result of any
+fundamental force of nature. I'll remind
+that, today, four forces are considered to
+be fundamental and that is electromagnetism,
+gravitation, weak and strong nuclear
+forces. In case of Verlinde's theory,
+the fundamental interaction that leads
+to emergence of gravity would most likely
+be electromagnetic. He also gives
+examples of other emergent forces such
+as osmosis and similar entropic forces
+in colloidal systems where the
+fundamental interaction is clearly
+electromagnetic since all the mechanical
+forces, such as pressure or elasticity,
+are electromagnetic in nature. Now I'll
+try to explain, in simple terms, how I
+interpret the basic idea of Verlinde's
+theory. Let us consider,
+as an example, the system
+of two point masses, A and B. We always might
+draw a sphere centered on one of those,
+for example A, with the radius equal to
+the distance from A to B. In this case,
+the mass B would lie on the sphere. Such
+a system might be treated in
+informational sense. That is, for example,
+the position of the body B with respect
+to A, might encode some information.
+Let's say we'd divide the whole sphere in
+100 sectors of the same area and each
+sector would correspond to some number.
+Then the current position of the body
+B on the sphere would point at one of
+those numbers, thus giving us the
+according information. Let us now
+consider another case when the body B
+is slightly closer to the body A. Now we
+might repeat the same drawing procedure
+but soon we would find that the number
+of sectors, that we might divide the
+sphere in, is actually less. If we try to
+keep the same area of sectors it is
+obvious that we couldn't fit the same
+amount on the smaller sphere. So the
+amount of information that we might
+encode in this the smaller system became
+less. Thermodynamically, this means that
+the entropy has increased and the system
+now might provide less ordering. So the
+system with masses situated closer
+together is thermodynamically more
+stable and it is in this
+direction that the evolution of the
+closed system would go. And there is an
+effective entropic force that arises to
+guide this evolution. It is possible to
+formally derive the according equations
+and Verlinde does that in his
+paper. In my opinion, the idea is quite
+interesting and, at the very least,
+deserves a careful and thorough
+analysis. However, there are some problems
+and perhaps the weakest part of this
+theory is its reliance, at least in
+mathematical terms, on the so-called
+holographic principle and AdS/CFT
+correspondence. Both of those are pretty
+specific theoretical conjectures and are
+highly speculative in nature. Anyway, what
+interests us here in the given context
+is that, based on his own approach,
+Verlinde seemed to have succeeded in
+acquiring equations that are practically
+identical to Milgrom's MOND equations
+for large-scale gravitating systems such
+as galaxies. And more than that, in
+December of 2016, there appeared a
+publication that claimed incredibly
+accurate confirmation of Verlinde's
+predictions for the case of gravitational
+lensing. Of course, the very
+phenomenon of gravitational lensing is
+somewhat doubtful though Verlinde's theory
+could actually shed more light on its
+nature. If gravitation is not even a
+fundamental force but some emergent
+effect, maybe this would also concern the
+propagation of electromagnetic waves. That
+way or another, the theory is there and
+the publications that seem to suggest
+its practical value are starting to
+appear. So now, not only we don't register
+any dark matter particles but we also
+have at least three alternatives to Dark
+Matter hypothesis itself. First one comes
+from plasma dynamics, the second one is
+MOND and the third one is Verlinde's
+emergent gravity. In my opinion, it is a
+very good situation for science as such
+and one should try to encourage the
+existing controversy since it is the
+controversy that is the real life of
+science.
+This actually brings hope for the
+academia as a whole with its dogmas of
+settled science and possibly could even
+serve as a sort of a pivotal point for
+the scientific revolutions in other
+areas in the coming years. With the
+current political situation in both the
+European Union and the United States, as
+well as the imminent stock market and
+banking system crisis, it is entirely
+possible that they would spark major
+scientific debates in the areas that only
+recently were considered to be totally
+settled. But as the scientific
+institutions would try to adapt to the
+new reality and shifted financial flows,
+the situation would become different. In
+my opinion this provides a certain
+opportunity for many alternative schools
+of thought, including the Electric
+Universe paradigm.
+For continuous updates on Space News
+from the Electric Universe, stay tuned
+to Thunderbolts.info

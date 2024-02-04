@@ -1,0 +1,287 @@
+There are many names associated with the
+development of the electric and plasma
+universe. Some get more recognition than
+others. In this episode, I want to cover
+someone who is often cited by the late
+Wal Thornhill, but probably is a name
+that you are not familiar with. Charles
+Edward Rose Bruce was a quite remarkable
+man who saw a deep connection between sparks,
+discharges, lightning and the cosmos at large.
+Who was he and what remarkable insights did 
+he provide? He was born the son of a tailor and
+graduated from the University of
+Edinburgh with first class honors in
+mathematics and natural philosophy.
+He then joined the Electrical Research
+Association in Leatherhead, England.
+Bruce's early years at the Electrical
+Research Association was spent working
+on the analysis of oil-based circuit
+breakers. He published a sequence of
+papers on the subject, including one that
+won The Institution of Electrical
+Engineers’ Kelvin premium award. This
+helped keep the ERA at the leading edge of the
+rapidly growing circuit breaker technology.
+Then in 1939, he shifted his attention to
+lightning. Two years later, he would
+publish a paper simply titled, “The
+Lightning Discharge” which would end up
+being heavily cited and once more
+win him the Kelvin premium award. His
+contributions to the subject include
+the significant strengthening of the
+electrical gradient, known to occur in lightning strikes, 
+as well as a demonstration that the grounding of
+transmission lines would be counter-
+productive. After attending a lecture
+on astrophysics at the Edinburgh University in 1941, he
+became very interested in exploring this, together with his
+understanding of electricity. During this lecture,
+the lecturer referred to a solar prominence which
+reached a height of 1 million kilometers in an 
+hour. Charles Bruce quickly deduced that its
+velocity of propagation was almost exactly that of a
+lightning leader stroke and that, since it moved like
+lightning it probably was lightning of some 
+form. Soon after this, he developed a theory
+that solar prominences consisted of electrical discharges
+in plasma, rather than that of moving solar matter.
+He would go on to publish over a hundred
+papers concerning the electrical basis
+of various cosmological phenomena.
+In 1946 and 1947 he was elected as a
+fellow of The Institute of Physics and
+The Institute of Electrical Engineers.
+Despite this, his work would be largely ignored by
+mainstream science. In 1944, he produced a privately
+published monograph titled, “A New
+Approach in Astrophysics and Cosmogony”.
+It was spurred on by a lack of success
+in mainstream science at the time, to
+explain the major phenomena in astrophysics.
+He saw that gravitational masses, like stars,
+were centers of energy liberation and also the origin 
+of high-speed electrically charged particles, which
+over time, results in the formation of huge 
+charged atmospheres, so that masses
+beyond a certain size become centers
+of extensive and mainly radial electric
+fields. These naturally give rise to conduction
+processes tending to neutralize the currents. It is the
+resulting electrical discharges which determine
+the nature and direction of universal evolution.
+He still viewed stars as being composed
+of material that at the heart is powered
+by nuclear reactions. This engine would provide the
+separation of charge and lead to the discharge events.
+This would then be the start of a new
+sequence, the atmosphere condensing on a
+reduced scale of aggregation which in turn would 
+become the center of an extensive radial electric field.
+He saw the same mechanism happening in nebulae,
+stars, and planets. Now this is very different in some
+respects from the Electric Sun model we have
+today, but you will recognize many similarities.
+He points out that it is no coincidence
+that the photosphere has the appearance,
+temperature, and spectrum of an electric arc. A large
+number of arcs occur in parallel. These quickly result in
+neutralization of the accumulated space charge in their
+neighborhood and go out. These are therefore not stable
+discharges, but are more like a transient
+spark. In his view it is the coming and
+going of these discharges which accounts for
+the observed granulation of the solar surface.
+In his model, sunspots are explained because those huge
+discharges drain away the current from the neighboring
+photospheric arc channels and extinguish those 
+arcs. He saw that there was much evidence in
+support of his model. This included
+solar flares which, at the time, had been
+shown to have circular magnetic fields
+surrounding them. He estimated that the
+current of these was about 10 to the 14
+amps. These give rise to a broadening of
+the hydrogen alpha lines due to the
+Zeeman effect. The variation of these
+line widths follows the rapid rise of
+the current in the flare to a maximum,
+followed by the slower fall, analogous to what is
+observed in terrestrial lightning current waves.
+The Crab Nebula’s filamentary structure
+provides striking visual evidence of the
+origin of this structure in electrical discharges. The 
+light from the Crab Nebula also shows substantial
+polarization which has allowed them to
+partially map the magnetic fields in the Nebula.
+The result of this mapping is that the field is such
+as would be observed if the filaments carried currents.
+Novae show light curves that have
+a sudden onset followed by a slower
+decline. This is characteristic of an
+electrical discharge. The rapid increase
+in emission line width in the Nova
+spectrum is generally believed to be a
+Doppler broadening but is also readily
+explained as Zeeman broadening.
+In 1958, Bruce presented one of his
+papers at the second USAF conference on
+atmospheric electricity. In it he pointed
+out that there should exist galaxies
+which are radiating an inordinate amount
+of energy, which should correspond to the
+naked-eye phase of a Nova outburst.
+And this peak-current phase of a galactic
+discharge should last for millions of years.
+Four years later, the first quasar was
+discovered, and in due course their lifetimes were
+recognized to be millions to tens of millions of years.
+Much of this work was driven by his
+desire to understand lightning. Based on
+his extensive studies of atmospheric
+electrostatic field building and
+electrical discharge characteristics, he
+developed a new theory of discharge
+propagation for the breakdown of
+electrostatic fields in cosmological
+atmospheres, which is different 
+from normal long spark or terrestrial
+lightning discharges. The main difference
+is categorized by the temperature in the
+leader stroke, which for cosmological atmospheres,
+would be of the order of eight million degrees.
+In long cosmical electric discharges,
+a point is reached at which a radical
+change will occur in the whole propagation 
+process. In the discharge channel, a jet of gas
+will be generated, which will flow along
+the axis of the channel towards its
+advancing head. As the temperature of 
+the channel rises, so also will the velocity
+of the jet. At a certain point, the velocity of the hot
+gas will exceed that of the normal process of voltage
+breakdown in a hydrogen atmosphere.
+From that point onwards, the propagation
+will depend on the jet of hot gas. And the
+ velocity will depend on its temperature.
+These velocities could exceed 4,000 kilometers 
+per second. In this paper on the extension of
+atmospheric to space electricity, he points out that 
+there are two thermometers which can be used to
+estimate the temperature of the electrical discharges,
+whether in a laboratory, atmospheric or cosmic.
+The first derives from an effect which
+was first emphasized by Velaski in 1937.
+The pressure in the actual regions of
+an electric discharge is increased by an
+amount proportional to the product of
+the current and the current density as a
+result of the movement of the conducting particles in 
+the discharge's own magnetic field. In an electric arc the
+current density increases at and towards
+the electrode spots. Therefore, pressure
+gradients are set up which give rise to the anode and
+cathode jets. Their velocity will be that of the sound
+in the gas. If it can be determined, we 
+will have a measure of the temperature.
+Applied to the lightning discharge, the theory explains
+the existence of metallic lines in the spectrum of the
+discharge up to the heights of two meters above the ground.
+And applied to an arc weld, it explains the physical
+basis of arc welding. The second thermometer derives
+from an observed relationship between the level
+of excitation and the discharge temperature. If, for
+example, the level of excitation observed is nine electron-
+volts, then the discharge temperature will be 10,000
+times more in Kelvin, so in this case 9,000 Kelvin.
+Based on this, he outlined that discharges in cosmic
+sources should be characterized by the following: rate of
+propagation; the speed of breakdown is
+proportional to the breakdown field and
+the mean free path; the limiting field is
+proportional to the gas pressure; and the
+mean free path is inversely proportional
+to it. So, there is no resultant dependence
+on the rate of propagation on the pressure.
+It may be possible for the discharge to
+generate a plasma jet with a velocity higher than the
+rate of voltage breakdown. In this case, the discharge may
+then propagate at the plasma velocity. Magnetic fields
+will be associated with a flow of current in a discharge.
+The fields are circular around the axis of the discharge.
+This can be recognized by the polarization and Zeeman
+broadening of the radiation emitted from within 
+them. Pinch effect. The conducting particles in
+an electric discharge are within the
+discharge's own magnetic field which
+exert upon them a centripetal force
+proportional to the current and the
+current density. This results in an increase of
+the pressure towards the axis of the discharge.
+Plasma jets. If either the current or the
+current density varies along the channel
+of a discharge, there will be a corresponding gradient
+of the axial pressure. This creates a jet of hot gas,
+or plasma, which will be accelerated
+along the discharge. This is the origin
+of the anode- and cathode-jets observed
+in the laboratory discharges. The speed
+of the jet is limited to the speed of sound
+in the medium of which it is composed.
+In ionized hydrogen, the sonic speed is
+12 kilometers per second at 10,000 Kelvin.
+It varies as the square root of the
+absolute temperature. The velocities
+observed in the discharge plasmas may be interpreted
+in terms of the temperature of the discharge.
+Current waveform. The current in an
+electrical discharge builds up rapidly
+to a peak value and then decays on a slower time 
+scale. Anomalous waveforms, sometimes shown by
+high current lightning strokes, arise from 
+the self-extinction by the pinch effect.
+Radiation of atmospherics. A lightning flash or other
+discharge radiates atmospherics of a characteristic
+waveform. Parallel discharges will attract one 
+another. Balls of hot plasma escape at sudden
+bends in the discharge. The bends
+constitute holes in the magnetic field
+of the discharge through which the gas compressed by
+the field, can escape. His many years of research on
+atmospheric astrophysics convinced him
+that not only was the Sun dominated by
+electrical discharge, but the universe
+was so to speak, all electric. And that
+the electric fields and their breakdown
+in electrical discharges account for the
+observed phenomena, and accelerate 
+the process of universal evolution from the
+universe to galaxies, from galaxies to 
+stars, and from stars to planets. He viewed
+atmospheric astrophysics as merely 
+an extension of atmospheric electricity.
+In his view, these would be a far 
+better explanation for the existence of
+magnetic fields, relativistic electrons, gas jets,
+the formation of spiral arms, stellar nova, etc.
+He noted that many phenomena seen
+above the surface of stars, can be
+explained as analogues, but on a much
+larger scale, of lightning discharges
+observed in the atmosphere of Earth.
+Although Bruce felt that the charging
+mechanism for each process was contained
+locally, he thought that it was not a vital
+precondition of the recognition of
+electrical discharges as observed
+phenomena. As Professor Birch remarked,
+to deny the existence of what cannot be
+explained would leave very little work
+to do. He felt it very probable that the
+charging mechanism for each phenomenon
+was the same: a collision between solid
+particles. The asymmetrical interaction of particles
+of similar materials leads to charge segregation.
+[Music]

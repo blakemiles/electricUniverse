@@ -1,0 +1,652 @@
+[
+  {
+    "text": "Welcome to Space News from the Electric\nUniverse, brought to you by",
+    "start": 0.0,
+    "duration": 3.659
+  },
+  {
+    "text": "The Thunderbolts Project at Thunderbolts dot\ninfo.",
+    "start": 3.659,
+    "duration": 3.361
+  },
+  {
+    "text": "It is a fact known to any high school\nstudent, electric currents produce",
+    "start": 7.68,
+    "duration": 5.459
+  },
+  {
+    "text": "magnetic fields.",
+    "start": 13.139,
+    "duration": 1.92
+  },
+  {
+    "text": "Incredibly, this law of physics is\nvirtually nowhere evident in the",
+    "start": 15.059,
+    "duration": 3.961
+  },
+  {
+    "text": "so-called Standard Model of the universe.",
+    "start": 19.02,
+    "duration": 2.73
+  },
+  {
+    "text": "It is therefore no surprise that many\nso-called baffling discoveries in the",
+    "start": 21.75,
+    "duration": 4.109
+  },
+  {
+    "text": "space sciences have involved the\ndetection of magnetic fields at",
+    "start": 25.859,
+    "duration": 3.721
+  },
+  {
+    "text": "virtually all scales throughout the\nuniverse. A Universetoday article from",
+    "start": 29.58,
+    "duration": 4.86
+  },
+  {
+    "text": "2011 describes the conundrum for\nastronomers. It states, \"The mention of",
+    "start": 34.44,
+    "duration": 5.16
+  },
+  {
+    "text": "cosmic-scale magnetic fields is still\nlikely to be met with an uncomfortable",
+    "start": 39.6,
+    "duration": 4.2
+  },
+  {
+    "text": "silence in some astronomical circles -- and\nafter a bit of foot-shuffling and throat-",
+    "start": 43.8,
+    "duration": 4.439
+  },
+  {
+    "text": "clearing, the discussion will be moved on\nto safer topics. But look, they're out",
+    "start": 48.239,
+    "duration": 4.861
+  },
+  {
+    "text": "there.",
+    "start": 53.1,
+    "duration": 0.54
+  },
+  {
+    "text": "They probably do play a role in galaxy\nevolution, if not galaxy formation, and",
+    "start": 53.64,
+    "duration": 4.98
+  },
+  {
+    "text": "are certainly a feature of the\ninterstellar medium and the",
+    "start": 58.62,
+    "duration": 2.7
+  },
+  {
+    "text": "intergalactic medium.\" In recent years",
+    "start": 61.32,
+    "duration": 3.15
+  },
+  {
+    "text": "one of the great mysteries in\nastrophysics was the detection of",
+    "start": 64.47,
+    "duration": 3.09
+  },
+  {
+    "text": "astonishingly powerful magnetic fields\nin so-called young galaxies. A 2008",
+    "start": 67.56,
+    "duration": 5.64
+  },
+  {
+    "text": "report on such a discovery reads,\n\"Astronomers have made the first direct",
+    "start": 73.2,
+    "duration": 4.44
+  },
+  {
+    "text": "measurement of the magnetic field in a\nyoung, distant galaxy, and the result is",
+    "start": 77.64,
+    "duration": 4.47
+  },
+  {
+    "text": "a big surprise.",
+    "start": 82.11,
+    "duration": 1.56
+  },
+  {
+    "text": "Looking at a faraway protogalaxy seen\nas it was 6.5 billion years ago, the",
+    "start": 83.67,
+    "duration": 5.43
+  },
+  {
+    "text": "scientists measured a magnetic field at\nleast 10 times stronger than that of our",
+    "start": 89.1,
+    "duration": 4.019
+  },
+  {
+    "text": "own Milky Way.",
+    "start": 93.119,
+    "duration": 1.411
+  },
+  {
+    "text": "They had expected just the opposite.\"",
+    "start": 94.53,
+    "duration": 2.47
+  },
+  {
+    "text": "But what is the cause of these magnetic\nfields?",
+    "start": 97.0,
+    "duration": 3.06
+  },
+  {
+    "text": "The answer to this question, which we\nrevealed in the opening statement of",
+    "start": 100.06,
+    "duration": 3.63
+  },
+  {
+    "text": "this report, remains elusive for\nastrophysicists. Today, increasingly fine",
+    "start": 103.69,
+    "duration": 5.46
+  },
+  {
+    "text": "data across the entire electromagnetic\nspectrum only deepens the astronomical",
+    "start": 109.15,
+    "duration": 4.59
+  },
+  {
+    "text": "mysteries. Recently, scientists in\nGermany, using the Hubble Space Telescope,",
+    "start": 113.74,
+    "duration": 4.26
+  },
+  {
+    "text": "have detected extremely strong magnetic\nfields in the quasar which is believed",
+    "start": 118.0,
+    "duration": 5.16
+  },
+  {
+    "text": "to be about 4 billion light-years from\nEarth. The magnetic fields were measured",
+    "start": 123.16,
+    "duration": 4.26
+  },
+  {
+    "text": "at 200 million Gauss. In comparison, the\nstrength of the magnetic field at",
+    "start": 127.42,
+    "duration": 4.86
+  },
+  {
+    "text": "Earth's surface is only about one Gauss.\nThe scientists state that the magnetic",
+    "start": 132.28,
+    "duration": 4.29
+  },
+  {
+    "text": "fields are very close to the quasar's\ntheoretical central black hole and they",
+    "start": 136.57,
+    "duration": 4.95
+  },
+  {
+    "text": "suggest that the magnetic fields play a\nrole in expelling matter from the black",
+    "start": 141.52,
+    "duration": 4.17
+  },
+  {
+    "text": "hole's accretion disk.",
+    "start": 145.69,
+    "duration": 1.92
+  },
+  {
+    "text": "However, how confident should\nastrophysicists be in their ideas about",
+    "start": 147.61,
+    "duration": 3.75
+  },
+  {
+    "text": "magnetic fields in space or their\nbelief in the existence of black holes.",
+    "start": 151.36,
+    "duration": 4.56
+  },
+  {
+    "text": "Scientists from the university of\nGöttingen in Germany have detected, for",
+    "start": 156.67,
+    "duration": 4.68
+  },
+  {
+    "text": "the first time, the existence of very\nstrong magnetic field of 200 million",
+    "start": 161.35,
+    "duration": 4.47
+  },
+  {
+    "text": "Gauss immediately next to a supermassive\nblack hole in a quasar four billion",
+    "start": 165.82,
+    "duration": 5.729
+  },
+  {
+    "text": "light-years distant. As a comparison, the\nmagnetic fields on Earth are measured in",
+    "start": 171.549,
+    "duration": 4.351
+  },
+  {
+    "text": "the range of one Gauss.",
+    "start": 175.9,
+    "duration": 1.71
+  },
+  {
+    "text": "The report states that, \"The existence of\nsuch magnetic fields could explain why",
+    "start": 177.61,
+    "duration": 4.8
+  },
+  {
+    "text": "so much of the matter, which happens it\nto enter into the surroundings field of a",
+    "start": 182.41,
+    "duration": 4.079
+  },
+  {
+    "text": "Black Hole, still manages to escape.\" Now",
+    "start": 186.489,
+    "duration": 3.601
+  },
+  {
+    "text": "years ago I was at a meeting of\nprofessionals",
+    "start": 190.09,
+    "duration": 3.48
+  },
+  {
+    "text": "where leading astrophysicists admitted,\n\"When we don't understand something we",
+    "start": 193.57,
+    "duration": 4.68
+  },
+  {
+    "text": "blame it on magnetism!\"",
+    "start": 198.25,
+    "duration": 1.739
+  },
+  {
+    "text": "But what that leading astrophysicists\ndidn't say is that astrophysicists don't",
+    "start": 199.989,
+    "duration": 4.441
+  },
+  {
+    "text": "understand how the magnetic fields are\ngenerated!",
+    "start": 204.43,
+    "duration": 2.91
+  },
+  {
+    "text": "If you have a look at Scholarpedia on the\nweb and it says and I quote, \"The origin of",
+    "start": 207.34,
+    "duration": 5.04
+  },
+  {
+    "text": "the first magnetic fields in the\nuniverse is still a mystery\"",
+    "start": 212.38,
+    "duration": 3.24
+  },
+  {
+    "text": "and it goes on, \"It calls for a mechanism\nto sustain and organize the magnetic",
+    "start": 215.62,
+    "duration": 4.74
+  },
+  {
+    "text": "field.\" Of course mysterious dynamos are\ncalled upon to provide these magnetic",
+    "start": 220.36,
+    "duration": 5.25
+  },
+  {
+    "text": "fields.",
+    "start": 225.61,
+    "duration": 0.84
+  },
+  {
+    "text": "You'll notice in astrophysics that these\ndynamos are in fact inside the Earth,",
+    "start": 226.45,
+    "duration": 4.11
+  },
+  {
+    "text": "inside the Sun and now inside galaxies\nbut no one knows how they work,",
+    "start": 230.56,
+    "duration": 5.31
+  },
+  {
+    "text": "they've never been shown theoretically\nto work so they remain mysterious.",
+    "start": 235.87,
+    "duration": 3.75
+  },
+  {
+    "text": "Meanwhile, plasma cosmologists have shown\nboth theoretically and experimentally that",
+    "start": 240.31,
+    "duration": 5.039
+  },
+  {
+    "text": "the magnetic fields in galaxies are due\nto electric currents flowing into the",
+    "start": 245.349,
+    "duration": 4.591
+  },
+  {
+    "text": "centers along the spiral arms of the\ngalaxy.",
+    "start": 249.94,
+    "duration": 3.329
+  },
+  {
+    "text": "Now when the current reaches the center\nof the galaxy",
+    "start": 253.269,
+    "duration": 3.0
+  },
+  {
+    "text": "it is twisted into a plasmoid where all\nof the electromagnetic energy is stored",
+    "start": 256.269,
+    "duration": 5.041
+  },
+  {
+    "text": "until that plasmoid becomes\nunstable and ejects matter in jets along",
+    "start": 261.31,
+    "duration": 5.579
+  },
+  {
+    "text": "the galaxy axis, as observed. And all of\nthis was published and is easy to read",
+    "start": 266.889,
+    "duration": 5.431
+  },
+  {
+    "text": "in Eric Lerner's book, The Big Bang Never\nHappened. In plasma physics the plasmoid",
+    "start": 272.32,
+    "duration": 6.24
+  },
+  {
+    "text": "is the most concentrated form of\nelectromagnetic energy known.",
+    "start": 278.56,
+    "duration": 4.02
+  },
+  {
+    "text": "You can store the energy of a room full\nof capacitors in something a few",
+    "start": 282.58,
+    "duration": 4.2
+  },
+  {
+    "text": "millimeters across, the tiny donut-shaped\nplasmoid. That plasmoid of course, to",
+    "start": 286.78,
+    "duration": 5.759
+  },
+  {
+    "text": "contain that energy, has an intense\nmagnetic field itself generated just by",
+    "start": 292.539,
+    "duration": 4.861
+  },
+  {
+    "text": "the electric currents and the way they\ntwist themselves together.",
+    "start": 297.4,
+    "duration": 3.78
+  },
+  {
+    "text": "So this discovery confirms the plasma\ncosmology model.",
+    "start": 301.18,
+    "duration": 4.38
+  },
+  {
+    "text": "This means of course that black holes\nare mathematical fiction.",
+    "start": 305.56,
+    "duration": 3.6
+  },
+  {
+    "text": "Now at our Electric Universe conferences\nin the past year or two,",
+    "start": 309.16,
+    "duration": 4.2
+  },
+  {
+    "text": "Steve Crothers has shown that the\nmathematics of black holes is nonsense;",
+    "start": 313.36,
+    "duration": 3.54
+  },
+  {
+    "text": "that the most significant argument\nagainst them is that the mathematics",
+    "start": 316.9,
+    "duration": 3.9
+  },
+  {
+    "text": "invoke a universe where there is no\nother matter,",
+    "start": 320.8,
+    "duration": 3.089
+  },
+  {
+    "text": "it exists on its own, they can be no\nother matter in its universe.",
+    "start": 323.889,
+    "duration": 4.231
+  },
+  {
+    "text": "If you want to have a simple explanation",
+    "start": 328.12,
+    "duration": 3.299
+  },
+  {
+    "text": "you could look at his paper called, Black\nHoles, Unicorns, and All That Jazz. At the",
+    "start": 331.419,
+    "duration": 4.47
+  },
+  {
+    "text": "heart of all of this is the problem that\nphysicists themselves don't understand",
+    "start": 335.889,
+    "duration": 4.951
+  },
+  {
+    "text": "magnetism, gravity or mass",
+    "start": 340.84,
+    "duration": 3.009
+  },
+  {
+    "text": "so this talk about what's going on in the\ncenters of galaxies is complete nonsense.",
+    "start": 343.849,
+    "duration": 3.6
+  },
+  {
+    "text": "I'll be talking about all of these\nsubjects and particularly \"The Long Road",
+    "start": 347.449,
+    "duration": 5.7
+  },
+  {
+    "text": "to Understanding Gravity\" at my\npresentation at the Electric Universe",
+    "start": 353.149,
+    "duration": 4.92
+  },
+  {
+    "text": "conference this year in Phoenix, in June.",
+    "start": 358.069,
+    "duration": 3.0
+  },
+  {
+    "text": "There's a great deal of evidence against\nBlack Holes from other observations that",
+    "start": 362.04,
+    "duration": 4.71
+  },
+  {
+    "text": "have been made in recent years,",
+    "start": 366.75,
+    "duration": 2.16
+  },
+  {
+    "text": "one is the idea that these massive\ngravitational concentrations called",
+    "start": 368.91,
+    "duration": 5.16
+  },
+  {
+    "text": "Black Holes will cause gravitational\nlensing.",
+    "start": 374.07,
+    "duration": 3.21
+  },
+  {
+    "text": "Now, the stars orbiting the so-called\nsupermassive black hole at the center of",
+    "start": 377.28,
+    "duration": 6.18
+  },
+  {
+    "text": "the Milky Way have been observed over a\nnumber of years and they orbit this",
+    "start": 383.46,
+    "duration": 4.44
+  },
+  {
+    "text": "so-called Black Hole at high speeds and\ntheir orbits have been tracked but in",
+    "start": 387.9,
+    "duration": 4.98
+  },
+  {
+    "text": "no case has there been any evidence of\ngravitational lensing of those stars.",
+    "start": 392.88,
+    "duration": 5.55
+  },
+  {
+    "text": "Another thing that was observed recently\nand was tracked was a cloud of gas and",
+    "start": 398.43,
+    "duration": 5.37
+  },
+  {
+    "text": "dust which was approaching the center of\nthe Milky Way, the so-called black hole,",
+    "start": 403.8,
+    "duration": 5.46
+  },
+  {
+    "text": "and it was expected to be gobbled up by\nthe black hole but that didn't happen",
+    "start": 409.26,
+    "duration": 4.5
+  },
+  {
+    "text": "and that was a surprise.",
+    "start": 413.76,
+    "duration": 2.31
+  },
+  {
+    "text": "The point is, it's not a black hole and\ntherefore the forces in action there are",
+    "start": 416.07,
+    "duration": 4.29
+  },
+  {
+    "text": "not purely gravitational as this\nresearch has just shown.",
+    "start": 420.36,
+    "duration": 3.27
+  },
+  {
+    "text": "Like the theoretical wormhole celebrated\nin the recent blockbuster film",
+    "start": 424.49,
+    "duration": 4.709
+  },
+  {
+    "text": "\"Interstellar\", black holes are a beloved\nstaple of science fiction and popular",
+    "start": 429.199,
+    "duration": 5.011
+  },
+  {
+    "text": "science media routinely present the\ntheoretical Black Hole as a science fact.",
+    "start": 434.21,
+    "duration": 5.1
+  },
+  {
+    "text": "How might the general public form\nindependent opinions on such a complex",
+    "start": 439.31,
+    "duration": 3.9
+  },
+  {
+    "text": "and arcane subject?",
+    "start": 443.21,
+    "duration": 2.7
+  },
+  {
+    "text": "The public is at a disadvantage with\nscience reporting these days because",
+    "start": 445.91,
+    "duration": 4.02
+  },
+  {
+    "text": "it's done by press release and the\noriginal papers which present the data",
+    "start": 449.93,
+    "duration": 5.25
+  },
+  {
+    "text": "are usually interpreted in such a way as\nto make these assertions and assumptions",
+    "start": 455.18,
+    "duration": 6.63
+  },
+  {
+    "text": "real objects. We have artists' impressions\nof black holes, we have artists'",
+    "start": 461.81,
+    "duration": 5.25
+  },
+  {
+    "text": "impressions of all kinds of things in\nspace --",
+    "start": 467.06,
+    "duration": 2.49
+  },
+  {
+    "text": "none of which are images of something\nthat has been actually observed. As",
+    "start": 469.55,
+    "duration": 6.51
+  },
+  {
+    "text": "Einstein once said but didn't actually\nfollow; the ideas of the most important",
+    "start": 476.06,
+    "duration": 5.73
+  },
+  {
+    "text": "thing, not the mathematics, and yet the\nideas are often not well organized logically",
+    "start": 481.79,
+    "duration": 6.84
+  },
+  {
+    "text": "or well expressed so that the public can\nbe misled. But not only the public, the",
+    "start": 488.63,
+    "duration": 4.98
+  },
+  {
+    "text": "scientists themselves mislead themselves.\nThe Electric Universe, on the other hand,",
+    "start": 493.61,
+    "duration": 4.92
+  },
+  {
+    "text": "follows the tradition of classical\nphysics where there is a freewheeling",
+    "start": 498.53,
+    "duration": 5.64
+  },
+  {
+    "text": "exchange of ideas and those ideas are\norganized into a coherent big picture,",
+    "start": 504.17,
+    "duration": 6.78
+  },
+  {
+    "text": "something which makes sense of a widely\ndisparate set of information from",
+    "start": 510.95,
+    "duration": 6.089
+  },
+  {
+    "text": "different disciplines. The Electric\nUniverse has not been surprised by any",
+    "start": 517.039,
+    "duration": 4.981
+  },
+  {
+    "text": "of these surprises for astronomers and\nastrophysicists simply because it starts",
+    "start": 522.02,
+    "duration": 5.7
+  },
+  {
+    "text": "from a much bigger picture,",
+    "start": 527.72,
+    "duration": 2.01
+  },
+  {
+    "text": "it accepts empirical evidence from\nplasma cosmologists, which astronomers",
+    "start": 529.73,
+    "duration": 5.16
+  },
+  {
+    "text": "unfortunately ignore, and the result is\nthat we have been able to predict things",
+    "start": 534.89,
+    "duration": 7.29
+  },
+  {
+    "text": "in advance and to accommodate new\ninformation and actually find",
+    "start": 542.18,
+    "duration": 5.34
+  },
+  {
+    "text": "confirmation in new information week by\nweek, as it comes in.",
+    "start": 547.52,
+    "duration": 4.53
+  },
+  {
+    "text": "For continuous updates on Space News\nfrom the Electric Universe stay tuned",
+    "start": 552.7,
+    "duration": 6.42
+  },
+  {
+    "text": "to Thunderbolts.info",
+    "start": 559.12,
+    "duration": 1.68
+  }
+]

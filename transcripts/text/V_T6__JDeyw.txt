@@ -1,0 +1,1087 @@
+[
+  {
+    "text": "[Music]",
+    "start": 2.53,
+    "duration": 10.45
+  },
+  {
+    "text": "is it possible to identify the events",
+    "start": 9.55,
+    "duration": 5.2
+  },
+  {
+    "text": "that shape the surface of the planet",
+    "start": 12.98,
+    "duration": 4.15
+  },
+  {
+    "text": "Mars",
+    "start": 14.75,
+    "duration": 5.109
+  },
+  {
+    "text": "a planet of vast but unrecognized",
+    "start": 17.13,
+    "duration": 7.799
+  },
+  {
+    "text": "landscapes Vista after Vista eluding",
+    "start": 19.859,
+    "duration": 12.27
+  },
+  {
+    "text": "every attempt to explain them scientists",
+    "start": 24.929,
+    "duration": 8.971
+  },
+  {
+    "text": "labor to solve the mysteries through",
+    "start": 32.129,
+    "duration": 4.801
+  },
+  {
+    "text": "textbook theory but if as we have",
+    "start": 33.9,
+    "duration": 5.58
+  },
+  {
+    "text": "claimed the cause was electrical they",
+    "start": 36.93,
+    "duration": 9.12
+  },
+  {
+    "text": "will never get the expected answers many",
+    "start": 39.48,
+    "duration": 8.94
+  },
+  {
+    "text": "details of a new interpretation come",
+    "start": 46.05,
+    "duration": 4.23
+  },
+  {
+    "text": "from laboratory experiments with",
+    "start": 48.42,
+    "duration": 4.739
+  },
+  {
+    "text": "electric discharge but how far can this",
+    "start": 50.28,
+    "duration": 5.459
+  },
+  {
+    "text": "new interpretation take us toward an",
+    "start": 53.159,
+    "duration": 6.47
+  },
+  {
+    "text": "understanding of Marjan history",
+    "start": 55.739,
+    "duration": 3.89
+  },
+  {
+    "text": "one advantage of the electrical",
+    "start": 61.78,
+    "duration": 4.72
+  },
+  {
+    "text": "perspective is that it's every",
+    "start": 64.22,
+    "duration": 4.41
+  },
+  {
+    "text": "implication can be tested against",
+    "start": 66.5,
+    "duration": 5.18
+  },
+  {
+    "text": "massive layers of evidence now available",
+    "start": 68.63,
+    "duration": 6.0
+  },
+  {
+    "text": "including wide-ranging experiments with",
+    "start": 71.68,
+    "duration": 12.34
+  },
+  {
+    "text": "electric arcs if as we've proposed Mars",
+    "start": 74.63,
+    "duration": 11.79
+  },
+  {
+    "text": "was immersed in hemispheric discharged",
+    "start": 84.02,
+    "duration": 4.98
+  },
+  {
+    "text": "the planet can be viewed as a laboratory",
+    "start": 86.42,
+    "duration": 5.43
+  },
+  {
+    "text": "in space for testing the electrical",
+    "start": 89.0,
+    "duration": 14.96
+  },
+  {
+    "text": "hypothesis as seen in lightning displays",
+    "start": 91.85,
+    "duration": 14.49
+  },
+  {
+    "text": "electric arcs exhibit dendritic",
+    "start": 103.96,
+    "duration": 7.93
+  },
+  {
+    "text": "branching of Lichtenberg patterns these",
+    "start": 106.34,
+    "duration": 7.29
+  },
+  {
+    "text": "look very much like the dendritic",
+    "start": 111.89,
+    "duration": 8.18
+  },
+  {
+    "text": "erosion created by flowing water and",
+    "start": 113.63,
+    "duration": 9.36
+  },
+  {
+    "text": "electric arcs exploding across a surface",
+    "start": 120.07,
+    "duration": 5.829
+  },
+  {
+    "text": "can produce sinuous channels that also",
+    "start": 122.99,
+    "duration": 6.56
+  },
+  {
+    "text": "resemble fluid erosion",
+    "start": 125.899,
+    "duration": 3.651
+  },
+  {
+    "text": "but there are differences an electric",
+    "start": 133.42,
+    "duration": 6.69
+  },
+  {
+    "text": "discharge to a solid surface electron",
+    "start": 137.11,
+    "duration": 5.64
+  },
+  {
+    "text": "pathways frequently create dark spotting",
+    "start": 140.11,
+    "duration": 5.489
+  },
+  {
+    "text": "or chains of craters running along the",
+    "start": 142.75,
+    "duration": 6.3
+  },
+  {
+    "text": "channel floors are closed by the",
+    "start": 145.599,
+    "duration": 5.761
+  },
+  {
+    "text": "presence of crater concentrations in",
+    "start": 149.05,
+    "duration": 4.8
+  },
+  {
+    "text": "relation to surface channels offers a",
+    "start": 151.36,
+    "duration": 4.73
+  },
+  {
+    "text": "fundamental test of the electrical",
+    "start": 153.85,
+    "duration": 4.98
+  },
+  {
+    "text": "hypothesis",
+    "start": 156.09,
+    "duration": 6.52
+  },
+  {
+    "text": "[Music]",
+    "start": 158.83,
+    "duration": 3.78
+  },
+  {
+    "text": "[Music]",
+    "start": 168.88,
+    "duration": 4.46
+  },
+  {
+    "text": "an electric experiments we also see",
+    "start": 173.85,
+    "duration": 5.23
+  },
+  {
+    "text": "coronal streamers radiating",
+    "start": 177.1,
+    "duration": 4.05
+  },
+  {
+    "text": "perpendicularly from the primary",
+    "start": 179.08,
+    "duration": 6.42
+  },
+  {
+    "text": "discharge channel both the cratering and",
+    "start": 181.15,
+    "duration": 6.93
+  },
+  {
+    "text": "the coronal discharge are keys to a new",
+    "start": 185.5,
+    "duration": 5.85
+  },
+  {
+    "text": "understanding of the margins surface",
+    "start": 188.08,
+    "duration": 8.52
+  },
+  {
+    "text": "[Music]",
+    "start": 191.35,
+    "duration": 5.25
+  },
+  {
+    "text": "in electric arcs cut the great channels",
+    "start": 202.1,
+    "duration": 4.83
+  },
+  {
+    "text": "on Mars",
+    "start": 205.59,
+    "duration": 6.14
+  },
+  {
+    "text": "[Music]",
+    "start": 206.93,
+    "duration": 7.81
+  },
+  {
+    "text": "Nergal Valles is some three miles or",
+    "start": 211.73,
+    "duration": 6.69
+  },
+  {
+    "text": "more in width and 250 miles in length",
+    "start": 214.74,
+    "duration": 6.81
+  },
+  {
+    "text": "yes it did look like a dry riverbed when",
+    "start": 218.42,
+    "duration": 5.52
+  },
+  {
+    "text": "first seen by the Mariner 9 mission in",
+    "start": 221.55,
+    "duration": 7.29
+  },
+  {
+    "text": "1972 but the original confidence of",
+    "start": 223.94,
+    "duration": 7.39
+  },
+  {
+    "text": "planetary scientists soon gave way to",
+    "start": 228.84,
+    "duration": 6.53
+  },
+  {
+    "text": "doubts bent a contradiction",
+    "start": 231.33,
+    "duration": 4.04
+  },
+  {
+    "text": "a river can take many twists and turns",
+    "start": 243.319,
+    "duration": 7.471
+  },
+  {
+    "text": "along its path but it's tributaries will",
+    "start": 247.609,
+    "duration": 5.61
+  },
+  {
+    "text": "not look like the blunt alcoves of",
+    "start": 250.79,
+    "duration": 8.31
+  },
+  {
+    "text": "Nergal Valles margin channels exhibit",
+    "start": 253.219,
+    "duration": 8.251
+  },
+  {
+    "text": "the predictable features of an electric",
+    "start": 259.1,
+    "duration": 6.93
+  },
+  {
+    "text": "scar rotating cylindrical arcs",
+    "start": 261.47,
+    "duration": 7.169
+  },
+  {
+    "text": "sputtering along the primary discharge",
+    "start": 266.03,
+    "duration": 5.49
+  },
+  {
+    "text": "path produced scaloppine of the channel",
+    "start": 268.639,
+    "duration": 6.0
+  },
+  {
+    "text": "walls with sharp angular projections",
+    "start": 271.52,
+    "duration": 7.19
+  },
+  {
+    "text": "that are inconsistent with fluid flow",
+    "start": 274.639,
+    "duration": 4.071
+  },
+  {
+    "text": "the same process left overlapping",
+    "start": 280.449,
+    "duration": 5.141
+  },
+  {
+    "text": "craters and alcoves that make no sense",
+    "start": 283.25,
+    "duration": 7.46
+  },
+  {
+    "text": "in terms of familiar erosional patterns",
+    "start": 285.59,
+    "duration": 5.12
+  },
+  {
+    "text": "[Music]",
+    "start": 306.52,
+    "duration": 6.78
+  },
+  {
+    "text": "we see virtually identical craters",
+    "start": 310.32,
+    "duration": 6.16
+  },
+  {
+    "text": "alcoves and sharply cut stubby gouges",
+    "start": 313.3,
+    "duration": 7.07
+  },
+  {
+    "text": "along the needy Valles",
+    "start": 316.48,
+    "duration": 3.89
+  },
+  {
+    "text": "[Music]",
+    "start": 321.35,
+    "duration": 9.17
+  },
+  {
+    "text": "numerous other margin drills underscore",
+    "start": 327.61,
+    "duration": 5.85
+  },
+  {
+    "text": "the same enigma and the unanswered",
+    "start": 330.52,
+    "duration": 7.25
+  },
+  {
+    "text": "questions grow year by year",
+    "start": 333.46,
+    "duration": 4.31
+  },
+  {
+    "text": "[Music]",
+    "start": 343.71,
+    "duration": 6.459
+  },
+  {
+    "text": "planetary scientists identify depression",
+    "start": 353.09,
+    "duration": 7.889
+  },
+  {
+    "text": "such as these as collapsed lava tubes",
+    "start": 355.71,
+    "duration": 5.269
+  },
+  {
+    "text": "lava tubes form is flowing molten rock",
+    "start": 362.18,
+    "duration": 5.82
+  },
+  {
+    "text": "cools and hardens at its surface",
+    "start": 365.729,
+    "duration": 4.651
+  },
+  {
+    "text": "insulating the law of a below so it",
+    "start": 368.0,
+    "duration": 4.78
+  },
+  {
+    "text": "continues to flow in a tube that",
+    "start": 370.38,
+    "duration": 6.24
+  },
+  {
+    "text": "eventually empties when an empty lava",
+    "start": 372.78,
+    "duration": 6.389
+  },
+  {
+    "text": "tube collapses the result will be an",
+    "start": 376.62,
+    "duration": 5.549
+  },
+  {
+    "text": "entrance to a lava tube cave a good",
+    "start": 379.169,
+    "duration": 6.72
+  },
+  {
+    "text": "example is Barker's cave in Australia so",
+    "start": 382.169,
+    "duration": 5.97
+  },
+  {
+    "text": "a cave entrance is the first thing to",
+    "start": 385.889,
+    "duration": 6.691
+  },
+  {
+    "text": "look for on Mars the second thing to",
+    "start": 388.139,
+    "duration": 6.9
+  },
+  {
+    "text": "look for is a rubble field created by a",
+    "start": 392.58,
+    "duration": 6.75
+  },
+  {
+    "text": "collapsing roof and a third thing to",
+    "start": 395.039,
+    "duration": 7.201
+  },
+  {
+    "text": "look for is abundant outflow since the",
+    "start": 399.33,
+    "duration": 5.369
+  },
+  {
+    "text": "emptying of a lava tube requires an",
+    "start": 402.24,
+    "duration": 5.239
+  },
+  {
+    "text": "outflow region",
+    "start": 404.699,
+    "duration": 2.78
+  },
+  {
+    "text": "but in reviewing innumerable instances",
+    "start": 412.129,
+    "duration": 6.81
+  },
+  {
+    "text": "of claimed lava tube collapse on Mars we",
+    "start": 414.619,
+    "duration": 8.61
+  },
+  {
+    "text": "find no cave entrance no rubble field",
+    "start": 418.939,
+    "duration": 10.1
+  },
+  {
+    "text": "from a collapsed roof and no outflow the",
+    "start": 423.229,
+    "duration": 8.91
+  },
+  {
+    "text": "depression stand alone with literally",
+    "start": 429.039,
+    "duration": 5.17
+  },
+  {
+    "text": "nothing to support the theoretical",
+    "start": 432.139,
+    "duration": 8.971
+  },
+  {
+    "text": "interpretation like any fluid lava flow",
+    "start": 434.209,
+    "duration": 9.81
+  },
+  {
+    "text": "follows topographical relief always",
+    "start": 441.11,
+    "duration": 6.059
+  },
+  {
+    "text": "running downhill the channel seen here",
+    "start": 444.019,
+    "duration": 5.67
+  },
+  {
+    "text": "change direction randomly in apparent",
+    "start": 447.169,
+    "duration": 6.27
+  },
+  {
+    "text": "disregard for topography they make",
+    "start": 449.689,
+    "duration": 6.33
+  },
+  {
+    "text": "90-degree turns unrelated to surface",
+    "start": 453.439,
+    "duration": 7.98
+  },
+  {
+    "text": "gradients and they also cross over each",
+    "start": 456.019,
+    "duration": 9.68
+  },
+  {
+    "text": "other with no disturbance of either",
+    "start": 461.419,
+    "duration": 4.28
+  },
+  {
+    "text": "these depressions cannot be collapsed",
+    "start": 466.689,
+    "duration": 7.26
+  },
+  {
+    "text": "lava tubes look what are they",
+    "start": 469.579,
+    "duration": 4.37
+  },
+  {
+    "text": "what you see here is not the planet Mars",
+    "start": 476.88,
+    "duration": 6.37
+  },
+  {
+    "text": "it is a surface affected by a very high",
+    "start": 480.27,
+    "duration": 6.67
+  },
+  {
+    "text": "voltage but micro amp current creating a",
+    "start": 483.25,
+    "duration": 10.08
+  },
+  {
+    "text": "complex of gouges and craters again in",
+    "start": 486.94,
+    "duration": 9.39
+  },
+  {
+    "text": "electrical terms craters and channels",
+    "start": 493.33,
+    "duration": 12.75
+  },
+  {
+    "text": "are inseparable companions in responding",
+    "start": 496.33,
+    "duration": 11.43
+  },
+  {
+    "text": "to the mysterious channels and",
+    "start": 506.08,
+    "duration": 4.47
+  },
+  {
+    "text": "depressions on Mars many planetary",
+    "start": 507.76,
+    "duration": 5.28
+  },
+  {
+    "text": "scientists thought they saw spreading",
+    "start": 510.55,
+    "duration": 5.52
+  },
+  {
+    "text": "and fracturing and indeed evidence of",
+    "start": 513.04,
+    "duration": 5.79
+  },
+  {
+    "text": "fracturing is present on Mars as seen",
+    "start": 516.07,
+    "duration": 6.06
+  },
+  {
+    "text": "here here there are no associated",
+    "start": 518.83,
+    "duration": 6.24
+  },
+  {
+    "text": "creators or creator chains and the",
+    "start": 522.13,
+    "duration": 4.8
+  },
+  {
+    "text": "nature of the stresses acting on the",
+    "start": 525.07,
+    "duration": 8.13
+  },
+  {
+    "text": "surface is an open question planetary",
+    "start": 526.93,
+    "duration": 8.7
+  },
+  {
+    "text": "scientists think in the same terms when",
+    "start": 533.2,
+    "duration": 4.32
+  },
+  {
+    "text": "considering the region of a vernest",
+    "start": 535.63,
+    "duration": 5.1
+  },
+  {
+    "text": "caulis they identify the channels as",
+    "start": 537.52,
+    "duration": 7.52
+  },
+  {
+    "text": "cracks or fractures but why the",
+    "start": 540.73,
+    "duration": 6.36
+  },
+  {
+    "text": "concentrations of craters and crater",
+    "start": 545.04,
+    "duration": 7.57
+  },
+  {
+    "text": "chains a rotating electric arc traveling",
+    "start": 547.09,
+    "duration": 7.32
+  },
+  {
+    "text": "across the surface can alternately",
+    "start": 552.61,
+    "duration": 4.74
+  },
+  {
+    "text": "sputter forward to produce linear chains",
+    "start": 554.41,
+    "duration": 6.18
+  },
+  {
+    "text": "of creators or advance on a continuous",
+    "start": 557.35,
+    "duration": 5.88
+  },
+  {
+    "text": "path to cut channels as if by a router",
+    "start": 560.59,
+    "duration": 7.76
+  },
+  {
+    "text": "with uniform depth and parallel sides",
+    "start": 563.23,
+    "duration": 5.12
+  },
+  {
+    "text": "a question of crater formation on rocky",
+    "start": 592.24,
+    "duration": 11.55
+  },
+  {
+    "text": "planets and moons must be reopened the",
+    "start": 600.16,
+    "duration": 6.06
+  },
+  {
+    "text": "impact explanation would mean it's only",
+    "start": 603.79,
+    "duration": 5.1
+  },
+  {
+    "text": "necessary to count craters in order to",
+    "start": 606.22,
+    "duration": 9.809
+  },
+  {
+    "text": "calculate the age of a surface but",
+    "start": 608.89,
+    "duration": 9.33
+  },
+  {
+    "text": "electric discharge on a hemispheric",
+    "start": 616.029,
+    "duration": 4.531
+  },
+  {
+    "text": "scale could quickly create a surface",
+    "start": 618.22,
+    "duration": 4.32
+  },
+  {
+    "text": "that looks a billion years old",
+    "start": 620.56,
+    "duration": 7.17
+  },
+  {
+    "text": "- those counting craters plasma",
+    "start": 622.54,
+    "duration": 8.01
+  },
+  {
+    "text": "scientist dr. CJ ransom of Venus at",
+    "start": 627.73,
+    "duration": 5.25
+  },
+  {
+    "text": "laboratories conducted a series of",
+    "start": 630.55,
+    "duration": 6.39
+  },
+  {
+    "text": "experiments with electric arcs electric",
+    "start": 632.98,
+    "duration": 6.27
+  },
+  {
+    "text": "discharge produced surface cratering",
+    "start": 636.94,
+    "duration": 4.86
+  },
+  {
+    "text": "patterns closely resembling those",
+    "start": 639.25,
+    "duration": 7.62
+  },
+  {
+    "text": "observed on planets and moons even the",
+    "start": 641.8,
+    "duration": 7.59
+  },
+  {
+    "text": "surface darkening in central bumps or",
+    "start": 646.87,
+    "duration": 5.52
+  },
+  {
+    "text": "mounds of so many craters on Mars were",
+    "start": 649.39,
+    "duration": 7.28
+  },
+  {
+    "text": "present in the laboratory experiment",
+    "start": 652.39,
+    "duration": 4.28
+  },
+  {
+    "text": "electric arcs can also produce cratering",
+    "start": 657.96,
+    "duration": 5.22
+  },
+  {
+    "text": "patterns that could never be produced by",
+    "start": 660.839,
+    "duration": 7.981
+  },
+  {
+    "text": "impact complex terracing of crater",
+    "start": 663.18,
+    "duration": 8.28
+  },
+  {
+    "text": "floors and crater walls are a common",
+    "start": 668.82,
+    "duration": 5.12
+  },
+  {
+    "text": "effect of a rotating electric arc or",
+    "start": 671.46,
+    "duration": 9.27
+  },
+  {
+    "text": "discharged streamer across the surface",
+    "start": 673.94,
+    "duration": 9.61
+  },
+  {
+    "text": "of Mars we observe countless examples of",
+    "start": 680.73,
+    "duration": 6.75
+  },
+  {
+    "text": "exotic terracing impact Theory was never",
+    "start": 683.55,
+    "duration": 9.42
+  },
+  {
+    "text": "able to resolve the mysteries so-called",
+    "start": 687.48,
+    "duration": 8.25
+  },
+  {
+    "text": "bull's-eye craters with a central crater",
+    "start": 692.97,
+    "duration": 5.76
+  },
+  {
+    "text": "inside a larger crater are surprisingly",
+    "start": 695.73,
+    "duration": 6.299
+  },
+  {
+    "text": "common on Mars but this be a rare",
+    "start": 698.73,
+    "duration": 7.41
+  },
+  {
+    "text": "accident that explanation is reduced to",
+    "start": 702.029,
+    "duration": 6.991
+  },
+  {
+    "text": "absurdity when two such craters are seen",
+    "start": 706.14,
+    "duration": 7.83
+  },
+  {
+    "text": "side-by-side in fact several bullseye",
+    "start": 709.02,
+    "duration": 7.5
+  },
+  {
+    "text": "craters appear within the same region of",
+    "start": 713.97,
+    "duration": 7.35
+  },
+  {
+    "text": "Mars but an ionized discharge path of",
+    "start": 716.52,
+    "duration": 6.78
+  },
+  {
+    "text": "lightning does allow for subsequent",
+    "start": 721.32,
+    "duration": 5.31
+  },
+  {
+    "text": "discharge along the same path the",
+    "start": 723.3,
+    "duration": 6.15
+  },
+  {
+    "text": "bullseye crater is a logical extension",
+    "start": 726.63,
+    "duration": 7.77
+  },
+  {
+    "text": "of the electric model and when it comes",
+    "start": 729.45,
+    "duration": 8.25
+  },
+  {
+    "text": "to improbable events side by side these",
+    "start": 734.4,
+    "duration": 5.49
+  },
+  {
+    "text": "two craters with central Peaks each",
+    "start": 737.7,
+    "duration": 4.8
+  },
+  {
+    "text": "terminating in another crater will",
+    "start": 739.89,
+    "duration": 6.889
+  },
+  {
+    "text": "certainly never be explained by impact",
+    "start": 742.5,
+    "duration": 4.279
+  },
+  {
+    "text": "impacts do not create hexagonal craters",
+    "start": 748.3,
+    "duration": 4.89
+  },
+  {
+    "text": "but look closely at this region of Mars",
+    "start": 753.94,
+    "duration": 6.149
+  },
+  {
+    "text": "and you'll see several hexagons an",
+    "start": 756.95,
+    "duration": 6.6
+  },
+  {
+    "text": "observed form taken by rotating plasma",
+    "start": 760.089,
+    "duration": 5.831
+  },
+  {
+    "text": "as seen in the planet Saturn's",
+    "start": 763.55,
+    "duration": 11.13
+  },
+  {
+    "text": "electrified polar hexagon in an extended",
+    "start": 765.92,
+    "duration": 12.3
+  },
+  {
+    "text": "discharge systematic cratering pitting",
+    "start": 774.68,
+    "duration": 9.029
+  },
+  {
+    "text": "or etching can be the norm that's why in",
+    "start": 778.22,
+    "duration": 7.77
+  },
+  {
+    "text": "industrial applications electric",
+    "start": 783.709,
+    "duration": 4.141
+  },
+  {
+    "text": "discharge machining can achieve",
+    "start": 785.99,
+    "duration": 5.82
+  },
+  {
+    "text": "exceptionally dependable results the",
+    "start": 787.85,
+    "duration": 5.79
+  },
+  {
+    "text": "microscopic pitting of electric",
+    "start": 791.81,
+    "duration": 4.29
+  },
+  {
+    "text": "discharge can give a consistent depth",
+    "start": 793.64,
+    "duration": 5.73
+  },
+  {
+    "text": "and a remarkably smooth surface despite",
+    "start": 796.1,
+    "duration": 5.33
+  },
+  {
+    "text": "the fact that the surface is entirely",
+    "start": 799.37,
+    "duration": 7.89
+  },
+  {
+    "text": "constituted of craters or pits the same",
+    "start": 801.43,
+    "duration": 7.9
+  },
+  {
+    "text": "effect can be observed on seemingly",
+    "start": 807.26,
+    "duration": 4.44
+  },
+  {
+    "text": "smooth surfaces in the northern",
+    "start": 809.33,
+    "duration": 5.04
+  },
+  {
+    "text": "hemisphere of Mars surfaces that have",
+    "start": 811.7,
+    "duration": 6.44
+  },
+  {
+    "text": "been excavated miles deep",
+    "start": 814.37,
+    "duration": 3.77
+  },
+  {
+    "text": "[Music]",
+    "start": 823.53,
+    "duration": 6.23
+  },
+  {
+    "text": "but look more closely with the help of",
+    "start": 827.24,
+    "duration": 6.27
+  },
+  {
+    "text": "recent high-rise images and smooth",
+    "start": 829.76,
+    "duration": 6.15
+  },
+  {
+    "text": "surfaces are revealed to be nothing more",
+    "start": 833.51,
+    "duration": 5.1
+  },
+  {
+    "text": "than fields of small densely packed",
+    "start": 835.91,
+    "duration": 3.84
+  },
+  {
+    "text": "craters",
+    "start": 838.61,
+    "duration": 4.319
+  },
+  {
+    "text": "[Music]",
+    "start": 839.75,
+    "duration": 3.179
+  },
+  {
+    "text": "the baffling crater field seen here like",
+    "start": 846.8,
+    "duration": 6.599
+  },
+  {
+    "text": "so many others on Mars is a perfect",
+    "start": 850.16,
+    "duration": 5.849
+  },
+  {
+    "text": "counterpart to an electrically machined",
+    "start": 853.399,
+    "duration": 3.401
+  },
+  {
+    "text": "surface",
+    "start": 856.009,
+    "duration": 10.071
+  },
+  {
+    "text": "[Music]",
+    "start": 856.8,
+    "duration": 9.28
+  }
+]

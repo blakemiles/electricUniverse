@@ -1,0 +1,2568 @@
+In 2013 the SAFIRE
+project was created.
+The objective was to replicate the Sun's
+atmosphere in a laboratory on Earth.
+A lab was designed and built
+and at its heart was the
+SAFIRE plasma engine,
+the only one of its
+kind on the planet.
+Okay we can see you and Colin
+and you see me in the background
+talking to you on the cell.
+Today, four years later the SAFIRE
+team gives a tour of the lab,
+via the web to a scientific review panel
+scattered all over North America.
+Two things define SAFIRE:
+a unique premise,
+and a remarkably
+powerful methodology.
+The premise driving the project is the idea
+that electricity plays an essential role
+in the functioning of
+the Sun's atmosphere.
+The methodology used to build
+and run the SAFIRE lab
+comes from the world of
+engineering and manufacturing.
+It is a statistical procedure that
+allows for incredibly precise control
+over the design and
+managing of experiments.
+This combination of
+premise and methodology
+has yielded remarkable,
+if not startling results.
+In August of 2017 the SAFIRE team
+presented its most recent discoveries
+at the Electric Universe conference,
+”Future Science” in Phoenix Arizona
+You were just
+listening to SAFIRE
+and that's just the beginning.
+So, SAFIRE has proven
+itself to be capable
+to contain, control and stabilize,
+high energy dense plasmas.
+And you're going to
+see that tonight.
+We're seeing chemistry changes;
+we are slowing the
+speed of light down;
+we're seeing variations in electron density,
+comparable to the photosphere-heliosphere;
+and nuclear bombs.
+Electrical confinement
+of high-energy photons.
+These are just some
+of the things,
+and all of these things here, are due
+to charged plasma affecting matter
+of a different
+electrical potential.
+So, this time I want to
+take the opportunity,
+which is usually saved until the end of
+the presentation, because time is short,
+to thank the other
+very key members
+who are contributing so much
+the success of this endeavor.
+So, first of all I like to thank
+Scott and Bruce Mainwaring
+for their ongoing and unwavering
+financial and moral support.
+Dr. James Ryder for your insight, for an ear
+to hear, and with help herding the cats;
+and Dr. Lowell Morgan for
+your amazing knowledge
+and insight into the
+complexities of plasma physics.
+Wal Thornhill for your work in the
+Electric Universe model in cosmology,
+and Dr. Donald Scott for your work in developing
+a more mature model of the electric Sun.
+Jan Onderco for your hard
+work in data acquisition.
+Leighton McMillan
+for your hard work
+and the assistance in building
+SAFIRE in such a short time.
+Jason Lickver for your work in
+mechanical engineering and telemetry.
+I'd like to thank
+you Susan Schirott
+for your untiring help in administration,
+finance and legal matters,
+helping to make this project
+go so much smoother.
+Tracey Childs for your
+ongoing financial work
+and for always being an
+awesome woman in my life.
+Ben Ged Low for your work on the team
+and pulling this presentation together.
+And none of this would have started
+without you David Talbott,
+making that providential call to
+persuade me to take on this project.
+So now I would like to
+introduce part of our team
+who are joining me tonight to assist
+in presenting our discoveries.
+Please welcome Dr. Michael
+Clarage and Dr. Paul Anderson
+Research objectives:
+there's a lot of detail to it but
+fundamentally SAFIRE stands for:
+Stellar Atmospheric
+Function In Regulation;
+the objective sounds
+way out, there
+but basically the contract says
+we’re to do everything we can
+to recreate a “Star in a Jar”
+and test the Electric Universe
+and test the electric Sun model.
+So, the technology we're going to use
+in SAFIRE or have been using in SAFIRE:
+We have Floating Potential,
+Plasma Potential, Plasma Density,
+Ion Current Density, Electron
+Energy Distribution,
+Electron Temperature,
+Mass Spectroscopy,
+Optical Spectroscopy,
+Thermal Measurements,
+Infrared Thermography, Radio
+Frequency Measurements,
+Electromagnetic Measurements,
+Scanning Electron Microscopy,
+Optical Microscopy,
+Voltage across the Plasma,
+Current across the Plasma,
+Voltage feeding the Plasma
+Current feeding the Plasma, and Video
+Capture of the Plasma Phenomena.
+And we're going to discuss each one
+of these with you in detail tonight;
+just kidding.
+What we will show you however,
+is how we use this technology
+to reveal some of the most startling
+discoveries we made this year instead.
+Now, Michael you're up.
+- I'm up;
+- Let's get started.
+Optical spectroscopy.
+So, Jim Ryder said
+everything we know is from light
+I'll think about that
+but almost everything we know about
+the Sun is definitely from light.
+And optical spectroscopy is a
+really good friend, as a scientist.
+Every element emits very
+characteristic frequencies;
+a lot, you could imagine, like every
+species of bird has its own song,
+and you would never confuse a
+chickadee with a seagull, right?
+So, if you study these
+elements spectrographically,
+each one is quite unique,
+and we can learn a lot about
+what's going on for those atoms,
+by things like the relative
+heights of those spectral lines;
+the widths of those spectral lines;
+the shape of those spectral lines.
+Here's three different discharge
+regimes in our plasma.
+On the left, you can see there's
+the center anode, very bright
+and then around
+it is halo, okay.
+Those are double layers
+in a halo around that.
+In the middle panel you can see that
+the double layer is gone, right?
+Just the center anode is there
+and on the right-hand panel
+we basically just cranked
+all the dials up to 11
+and that got a super
+high-powered discharge.
+You can see there, that's our
+spectrographic probe tip
+it's a fiber optic that we can move
+around anywhere we want in the chamber,
+to study what's going on.
+And so right there, that fiber-optic tip
+is looking right into the double layer.
+Okay it's not looking at the anode,
+it's looking at the double layer.
+The next one the
+double layer is gone
+so the probe tip is just looking
+at the general plasma discharge.
+And then the last one
+we moved the probe,
+but it's looking at this super
+high power discharge.
+So, we'll just look at
+one spectrographic line.
+This is like one note.
+One note being emitted
+by the hydrogen, okay.
+It's the 656 nanometer line,
+one of the most famous spectrographic
+lines in the universe.
+And we can measure
+the width of that,
+and inside the double layer we see
+the width is 0.12 nanometers, okay?
+That's pretty tiny; these are
+pretty good instruments we have.
+We boosted the resolution spectrographically
+by about a factor of 4 or 5, just recently.
+So we're getting...
+it's good right?
+That's pretty good resolution.
+Then the double layer goes away.
+The width of that line, same
+line, hydrogen emission,
+the width goes down
+to 0.07 nanometers
+and then for the third one, the super-high
+power one, it jumps back up to 0.09.
+This made us super excited to be
+able to see this and measure this.
+Because one of the reasons these
+lines can change their shape like this,
+and get broader and more narrow,
+is the number of free electrons
+running around in the plasma
+and if there's a lot of free
+electrons running around the plasma,
+you can kind of picture that they're
+crashing into hydrogen atoms,
+and causing extra wobbles on top
+of the note that's being emitted,
+that tends to broaden
+the line more, okay.
+That may seem like a small change, you
+know, 0.05 nanometers from 0.12 to 0.07,
+but that represents like 50 to 100 times
+change in the free electron density.
+So double layers have
+within them about 100 times
+more free electrons running
+around than not, okay.
+This is super exciting
+that we can measure this.
+If you just stick in a probe into one
+place, and you get one measurement,
+you're not necessarily so sure you can
+guarantee what you're looking at.
+But if you can measure
+changes like this,
+then you have much more
+confidence as a scientist,
+that you're actually observing
+something that you can talk about.
+And where do we see
+comparable changes, you know,
+in free electron density?
+Well, we see those changes going from
+the photosphere to the chromosphere,
+from the chromosphere to the corona
+out at the end of the heliopause.
+So, we're actually getting
+into the realm where we have
+changing conditions in our chamber,
+and the ability to measure them,
+that are also going
+on in our star.
+That summarizes that.
+Yeah, it’s too early to stop.
+Do you think it's too early?
+I think it's too early to stop.
+I think they're just
+absorbing right now.
+So we'll just take a
+breath and keep going?
+Sure you can take a
+breath, I'll keep going.
+Okay.
+It’s not always this
+much fun in the lab.
+Some more yelling and screaming
+going on, things like this.
+So, the next section is where we get
+into the fun part: statistics, okay.
+But it's really,
+really important,
+because Design Of Experiments
+(DOE), actually is the mainstay.
+It's the foundation of the
+work that we're doing,
+because in science today there's a
+lot of stuff that's in question,
+and we're not going to be subject
+to those kinds of questions.
+So we impose what's called
+Design of Experiments
+and Dr. Paul Anderson is going to take you
+through what we've been doing with SAFIRE
+and I think you're going to be amazed
+about some of the findings with them,
+all right. Thank You, Monty.
+So just as Monty said,
+we want to investigate some basic plasma
+physics that is occurring in our chamber.
+The first thing we did,
+was in looking at our chamber,
+was that we wanted to
+tame the plasma, okay.
+And I'm going to show you first a video
+here, of the plasma as we know it now.
+We can move the cathodes as you can
+see, we can stabilize double layers,
+we can change the double layers
+as a function of distance.
+At the same time we can also change gas
+concentration and type of gas in there.
+It wasn't always that pretty;
+some of our initial plasmas were
+pretty dirty, very unstable.
+If you look at a lot of old plasma literature
+before they even named it a plasma,
+they commented on how difficult it was to
+contain this energy, and understand it.
+So, these are some of
+our initial discharges.
+Lots of impurities on some of the
+materials that we use for the anode;
+striking different discharges;
+a lot of instabilities
+in the plasma.
+And what we wanted, we eventually
+wanted it to look like this. Right?
+This is a very simple plasma,
+which entails a simple anode on
+the left, and a cathode on right,
+and this is
+basically a 1D plasma
+where you're striking a discharge
+between these two electrodes.
+You can adjust the gas pressure,
+the gas type in this,
+as well as the
+voltage in this system.
+Fairly straightforward.
+This is a top view of SAFIRE;
+it's not as straightforward
+as the plasma tube.
+This is looking down on SAFIRE
+from Monty's model here,
+and as Monty listed previously,
+all the instruments that we have,
+we have them there
+for a reason,
+and every single run we use all the
+control instrumentation for the chamber
+as well as driving all the
+detection that Monty mentioned.
+So there's a number
+of detectors on here
+as well as the fundamental
+control of the chamber.
+So, through a lot of data
+acquisition and controlling,
+we're able to now control that plasma
+chamber and carry out experiments.
+So, one of the first things we had
+to confront is how to drive it
+and understanding the gas input like this
+is just one aspect of the gas input here.
+This is the gas and
+vacuum control system.
+We also had to
+understand our SOPs,
+to implement safety procedures
+when you're working with
+2,000 liters of hydrogen at
+high temperature, right?
+So, we had a number
+of things to control,
+in addition to wanting
+to control the plasma.
+So, we looked in a literature and we
+talked about it and we said okay,
+well learning to drive this, let's
+concentrate on plasma experiments
+that are well documented and that's
+why we came up with Paschen’s law.
+We decided to choose
+Paschen’s law to understand
+the plasma ignition in
+the SAFIRE apparatus.
+So, Paschen’s law describes a point of current
+flow at a particular electric potential
+through an ionizable gas, or gas
+between two electrodes, okay.
+So, fundamentally we have two
+electrodes, positive and negative;
+you have a gas, you have a
+certain pressure of that gas,
+usually conducted under vacuum,
+and you have a distance between those
+electrodes and you strike a voltage
+and there's no current flow initially,
+until you get to a certain point
+where that voltage can overcome
+ionized gas and conduct a current.
+Now, when that occurs,
+(there) is a certain voltage.
+Okay, so we decided
+to do that in SAFIRE.
+So, this is a classic
+Paschen curve in hydrogen.
+The other gases also have other
+curves that are very similar.
+They exhibit the same minimum;
+so if you notice here in the
+graph, or X-axis here,
+being a term of PD,
+pressure and distance.
+Notice it's in a
+logarithmic scale.
+So, it's a reduced variable, you have
+both pressure and distance in one axis.
+In our Y-axis, we have our voltage
+that we strike to obtain a discharge.
+So, if you go ahead and do a bunch of plots at
+different pressures at different distances,
+you'll end up falling on a curve
+like this for your electrodes.
+So, what we did in SAFIRE we went
+ahead and did a SAFIRE apparatus
+with a spherical anode and our two cathodes
+at various distances, equidistant.
+As much as we wanted to vary both
+of them, we kept them constant.
+And we discovered already SAFIRE
+is acting very differently
+than a typical plasma
+discharge apparatus.
+We had to use a modified version of
+Paschen's curve which you see there,
+of the law, and we also found that the gamma
+term which is in that lower denominator,
+in the denominator, that did
+adjust with different distances,
+and so that's something
+new that we're exploring,
+and we hope to get a
+publication out of this.
+So you'll notice that
+already we have a departure
+from regular plasma physics in a
+regular anode-cathode discharge;
+say a discharge tube.
+Another reason why we did this
+is, okay we ignited the plasma,
+but what is the
+morphology of the plasma,
+what does it look like at
+these various settings?
+So it's kind of an experiment with
+killing two birds with one stone,
+in that we determine the
+ignition characteristics,
+which we needed to
+control the plasma,
+and we also explored the
+morphology of the plasma.
+So, that was a very powerful
+thing: we were able to pursue
+some various regimes and then
+establish our Design Of Experiments.
+So, we discovered that
+the configuration
+is a significant departure
+from typical plasma apparatus,
+that you may have from its
+typical anode and cathode.
+So then we went into the
+Design Of Experiments.
+We decided on where we're going to look,
+what kind of plasma regimes we want,
+because ultimately we want to dial
+in stability for experiments.
+There's no use in doing
+experiments for double layers
+if they appear for one
+microsecond and then go away.
+We wanted them nice and stable.
+Now to obtain stability
+in any system,
+whether it's in SAFIRE or whether
+it's in your kitchen, baking bread
+we, need reproducible results.
+But that only comes from
+understanding your factors;
+factor is another
+word for variable.
+So, to understand those factors and
+variables, you need more experiments, right?
+Traditionally this is called
+the Edisonian approach:
+you have more factors, you do more
+experiments, you get more data.
+The problem with that is, that just
+because you do more experiments,
+you might not be
+increasing the resolution.
+In other words, the
+signal-to-noise.
+The signal-to-noise that
+you're looking for;
+you need to increase that
+signal from the noise,
+so you get reproducible results,
+and you know you're stable.
+And what Design Of Experiments
+does, it's a methodology.
+It increases the resolution,
+but also it decreases the number
+of experiments you have to do.
+So, I urge many of you who are
+experimentalists, or who are curious,
+to look up Design Of Experiments
+and to learn the techniques.
+Because it is extremely valuable
+in both saving time and resources
+and it greatly increases
+your resolution.
+Now, again I won't
+go into why that is.
+I discuss a little bit of it in my past
+presentation and you can read about it online,
+but basically what you're doing
+is, you're conducting experiments
+where you're making sure
+your points are orthogonal.
+So, in other words two factors
+are always opposite each other;
+you're making things symmetric
+in your design space.
+Just an example of what
+that does for you:
+on the on the right column here,
+you can see the efficiency.
+That's a measure of the
+experimental variance.
+You can actually calculate the
+variance in your experiment,
+prior to even doing
+experiments with your design.
+Now OFAT is stands for One
+Factor At a Time.
+That's how traditional
+experimentation is done;
+that's how the Edisonian
+approach is done.
+And so, you can see here, it's comparison
+between a traditional number of runs,
+where you're kind of a shotgun
+approach to experimentation,
+and what's called a
+full factorial DOE.
+There are many types of DOE’s out there, but
+this is just the most basic taught DOE.
+You can see that just with
+three factors, right?
+say pressure, type of gas, and
+distance of the cathodes, right?
+that's three factors, three
+variables
+with the number of runs for
+OFAT you need 16 runs,
+that gives you a certain experimental
+variance, or efficiency, of 2.
+But you're half that number of
+runs with your full factorial DOE.
+And as you get upwards, now you say, wow
+128 runs, that's still a lot of runs.
+But as I said, there are other DOE formulations
+that you can pursue to help with this,
+to help decrease that number more and still
+maintain that experimental efficiency,
+without having to
+do 512 experiments.
+So, in a nutshell that's
+really what DOE is.
+We explored this first in phase
+1; this is our phase 1 setup.
+Very simple; we had an anode in a
+bell jar surrounded by a cathode;
+we had a voltmeter did add some other
+instrumentation crammed in there.
+But for the purposes of this,
+this was a just a snapshot
+of one of the bell jar
+experiments with a small anode.
+And really what we determined
+through Design Of Experiments
+is these various regimes that
+the plasma goes through.
+So, we were already kind of dialing in
+the anode, even in a small bell jar,
+so logic would assume we could do
+that when we scale up as well.
+And actually it does, when
+you use the right approach,
+when you use Designs
+Of Experiments.
+So, we're really happy
+with our various regimes.
+This is a snapshot of, I would say,
+the main regimes we work with.
+That's not to say that there
+aren't others in between there.
+So, I'll just go through here a
+little bit and show you close up.
+I call this a dark
+quiescent phase;
+this is right on the edge, very small
+changes here, this is not stable.
+Very small changes in either voltage or
+current, can lead to this extinguishing.
+But there is still a plasma layer
+around the edge of the anode.
+Now as we increase our current,
+we obtain what we call ”tufts”
+These are anode tufts.
+These have been
+experimentally seen before,
+but we can now control them,
+we can control the number,
+the concentration in a square area, and
+they're always equidistant from each other.
+As you increase the energy, and as you
+increase the current in the system,
+they start to grow in size
+and also squeeze together,
+until you reach a point where
+they actually start to coalesce.
+And this is what we refer
+to as moving tufts.
+This can also be adjusted in
+terms of pressure and current.
+So, as these things start to
+move, they actually spin more,
+and eventually what comes into
+being is this double layer phase,
+multiple double layers, that are controlled
+by current and gas pressure.
+So this was probably the most
+double layers we obtained,
+I would say, with a
+three inch anode.
+This is a 3-inch anode.
+This is a 3-inch anode so those tufts, I
+think we reached up to about 7 or 8 tufts
+at least in the Design Of
+Experiments that we got.
+Monty: “Yeah they're big”,
+and they're stable
+and also we have
+quiescent phase:
+this looks familiar, doesn't it?
+We even got some holes in that,
+arising from something,
+we don't know.
+And that layer is
+fairly significant.
+It stands off the
+surface of the anode,
+and we also have these asymmetric
+double layers that occur over time.
+Time is also a factor, but we
+weren't able to quantify it yet
+because what happens over
+time, is your anode heats up.
+Thermionic emission happens,
+it changes the properties
+so that's the one factor that we
+have to dial in a little bit more.
+As we don't understand the effect
+of time on this anode yet,
+but we know it affects it.
+And also the Zeppelin high-intensity,
+kind of let it loose phase.
+So, those are stable
+regimes, all right,
+so to dial in the plasma, also we
+want to work with different anodes,
+different size anodes.
+The top is a 1.5 cm [errata: inches, see 26:16]
+anode, the bottom is a 3-inch anode.
+You'll notice that we're
+obtaining the same regimes;
+a little bit different shapes, but for the
+most part we're getting the same numbers,
+and at proportionally
+the same current.
+And what do I mean
+by proportionately?
+Well, when you're impinging a 1.5-inch
+anode compared to a 3-inch anode,
+the current density is a
+lot higher on that, right?
+So, we had to adjust our current density
+properly to obtain the same response.
+So, that's what we did in this experiment,
+and these are just some numbers.
+If you want to have
+fun with the numbers,
+we're calculating that we're getting
+about 85 W/cm2 in the top discharge,
+but you can see in the bottom
+one, where we throw in 22 Amps,
+we're getting a little bit less
+wattage there with the calculation,
+but within error
+you're almost there.
+So we're tracking very well with scalability
+of the plasma between different sizes
+and as you can see, the
+current is the main driver,
+that's what has to be adjusted.
+Now you say here, I may say
+indications of a transformer.
+Well that's only in a way.
+That's why we have it in quotes right?
+Transformer.
+So, as double layers form,
+plasma resistance decreases and
+current flow is less impeded.
+Michael alluded to that earlier:
+electrons are more intense or more
+concentrated in these double layers.
+Why is that?
+We want to study some more.
+But now is where we get
+into our statistics.
+What you see on the graph is
+an actual by predicted plot.
+This is what comes out of
+Design Of Experiments, okay?
+It may just look like a straight line
+to you, but this is very powerful,
+because what it enables you to
+do is to predict things, okay?
+So, the top graph here has,
+as you can see on the Y-axis
+or the vertical axis
+(thank you),
+on a vertical axis you
+have voltage actuals.
+So that's the voltage
+we actually measure
+and what do you see here?
+voltage predicted.
+So, when you read papers
+scientific papers,
+or any kind of reports that have prediction
+values, that's what they're referring to.
+They're building a model and they're seeing
+how well the model can predict the voltage,
+or whatever response
+they're studying.
+So, we can look here that the equation
+of the line is pretty darn good,
+considering the fact that we're
+working with a plasma, okay?
+it's R-Square
+value is about 0.92.
+You look at the error, it's only plus
+or minus 10 Volts in that prediction.
+We had a number of responses,
+or a number of observations
+in this set of experiments,
+31 experiments.
+So, we have sufficient
+degrees of freedom,
+when we're only looking at
+three or four factors,
+to determine which of
+the factors do what.
+We want to know, is pressure
+a factor,
+is the number of double layers
+a factor, current, right?
+And that's what this is, so you
+can see here the green circle.
+The parameter estimates are what
+you'd back out of statistics.
+That tells you the most
+important factor in your model,
+and what is this telling us?
+It’s telling us the pressure is
+actually a pretty darn important thing
+in this Design Of Experiments.
+So, your pressure is leading those
+significant changes in your voltage.
+Kind of
+makes sense, right?
+Followed by your number
+of double layers.
+Now double layers, and we're
+struggling with this right now,
+double layers can either be a response
+or it can also affect the system.
+Just like V = IR, the typical
+Ohm's law V = IR
+what is your response and
+what is your factor?
+It depends on how you set
+up your measurements,
+and it depends on what
+you're measuring.
+So, our current though, is also an
+important factor, as you can see there:
+parameter estimate of about 10,
+but you see these other
+things down here.
+The pressure is multiplied by
+the number of double layers
+and the number of double layers
+is multiplied by current.
+These are what's known as second-order interactions,
+higher-order interactions right here.
+And what that means is that
+they also have an effect
+and they're needed to
+explain the model.
+They're significant enough to
+be needed to explain the model.
+Actually I left this last one in
+here; you see that 0.14 p value
+p-value is a measure
+of statistic.
+That one is below 0.05,
+that means that that parameter is
+significant, it's real in a model.
+You should definitely include it
+so that one's 0.15-ish and so
+that's not a significant factor.
+I just left that in there,
+just so you could see,
+but all the other ones are
+significant, they're below 0.05.
+So, pressure exerts the largest
+effect, followed by double layers
+and the second-order interactions
+decrease that voltage response.
+Again, what happens, what
+can we do now with that?
+That's just a bunch of numbers.
+How do we visualize what
+happens in a dynamic system?
+And that's where modern software
+and modern computers come in,
+because they enable us to do
+these Designs Of Experiments.
+So, as we create double layers,
+what you see here on this graph,
+you have three factors which are
+your X-axis which you can vary now.
+We have a model that's
+about 92% accurate,
+and we also have a voltage, our
+predictive voltage in our system.
+So as we change these factors we can
+observe what happens through the voltage,
+so if you keep your eyes on
+the number of double layers
+I'm going to increase the
+number of double layers here.
+Now what happens to
+the other curves?
+There's slope changes right?
+I'm going back and forth here.
+So, if the slope changes, that means
+that there's a second-order interaction.
+There's a higher-order interaction
+between all these factors.
+What it also means is that this model
+says, that if we change our current,
+or our pressure,
+does the voltage change?
+No, it doesn't according
+to the model.
+Now one statistician said
+“all models are wrong,
+but some are useful”.
+So, that's where
+we're at right now.
+But you can also see
+something else.
+You can see the unfortunate
+area here that says,
+hey you've got to do more
+experiments there.
+That's a confidence interval,
+it doesn't have enough data to give
+you a smaller confidence interval.
+So this curve could actually
+come down a little bit
+as long as it’s within
+the confidence interval.
+But that's the power of
+Design Of Experiments:
+you wouldn't be able
+to plot this out
+if you were to do one factor at
+a time in a shotgun approach.
+So again, I changed
+another factor here.
+I decrease the current so you can see
+the spread in the confidence interval
+across all these guys here.
+So we have a little
+bit more work to do.
+That's the end of a kind of plasma,
+physics, stability and spectroscopy.
+I don't know; you feel
+like keep it going,
+or you want a question and
+answer session for a little bit?
+Okay, let's move on.
+Monty: Let's move on,
+well, predictions in thermodynamics,
+like Paul was saying,
+what did you say about models?
+All models are wrong,
+some are useful.
+Yeah, all models are
+wrong, some are useful.
+I stood up here two years
+ago, we spent a lot of money
+developing and designing SAFIRE,
+predicting the kind of thermal
+responses we get out of this.
+Because we knew we had a lot
+of energy, of 180 kilowatts.
+That’s what the design was
+predicting at the time,
+and the thermodynamics model is based
+on what's called total heat flux.
+You heat up the core, okay?
+And I'll show you a
+picture of that.
+Well the thermal response
+is 120 degrees Celsius,
+but basically we
+heat up the core
+and we put an certain amount of
+energy in there that heats up the gas
+and other things are starting to
+respond, but the final response,
+based on the design, is a 110
+degree chamber temperature,
+and the temperature in and
+around the core here...
+I think I can do this,
+there it is.....
+would be about 2500
+degrees Celsius.
+And this also is telling you
+how fast the gas is moving.
+It's moving quite slowly, and
+that's what we were predicting.
+Now the people who are working on this,
+would be guys like Dr. Lowell Morgan,
+Tommy Mello who actually
+develops the coding
+for what's called
+computational fluid dynamics.
+This is really high-end stuff,
+it's stuff that we use to develop
+to do analysis on, rocket engines and
+jet engines, and so many other things.
+And we're very good
+at what we do.
+This is how we kind
+of make a living.
+However you're going to find out
+that our predictions were wrong.
+So, we did another model and this here,
+what you're going to look at here,
+right in this area here,
+this is our analysis of
+putting in one of our probes
+and see what the kind of
+thermal response that we get,
+and what the model is telling us is that
+the temperatures of the gas,
+just off and around the
+surface of the anode,
+should be around 2,300 to
+2,500 degrees Celsius:
+well within the constraints or you might
+say the operating limits of tungsten,
+which is what the tips are made
+of, our Langmuir probe tips.
+But what really happened, and
+you want to watch this video.
+Show you here, what you're
+looking at here is the probe tip
+and we're going to play this video
+and this is a very low-power plasma
+[Laughter]
+So, where you say,
+“now you see it,
+and now you don't.”
+Langmuir probes are about
+8,000 bucks a pop,
+and I had to make a telephone
+call because we pull it out.
+Before I get into that, I just want to let
+you know the actual power at that time
+was 182 Watts, that's a 182
+Watt light bulb imagine, okay?
+and we're going like,
+what is going on.
+So when we opened up SAFIRE,
+we discovered what was left,
+and this is what the tip looked
+like after it vaporized.
+This is just the residual tungsten you
+see here, on that kind of nodule.
+That's what was left of it, and everyone
+who knows anything about tungsten,
+it takes about
+6,600º C to boil it.
+To vaporize it, you
+need more energy,
+and in thermodynamics, some
+of you probably already know,
+there's a time domain
+associated with it.
+How much heat is lost
+in the system as well.
+So, it's not just 6,600 degrees;
+if you're gonna
+vaporize it that quick,
+it would typically point to temperatures
+that are much higher than that,
+not the 2,300 degrees
+we predicted,
+because you know the tungsten
+should have heated up,
+might have started glowing a little
+bit, but it should have lived in there.
+Well, obviously it didn't, and
+this is what a tip looks like
+at the top, before and after.
+Now, the white stuff is alumina
+and its melting temperature
+is about 3,600 degrees Celsius.
+So, I made a call.
+Actually, I should back up a little bit
+here because I got a story to tell you.
+I called a company,
+a great company.
+I'm not going to
+mention who it is.
+We had gone into great
+detail with them,
+as to what kind of process
+we were going to get.
+And they said, “We have
+the probe for you.”
+And so we bought two of the
+probes and we put the one in
+and I showed him, he talked to me
+and I said, “this is what happened”
+we showed them what was left of the
+probe tip and he came back and said,
+“Your plasma is too hot”.
+I said, ”Really, you think”?
+I said, ”You guys knew and
+understood the plasma we have,
+and we went over this
+with you guys in detail”
+and I'm thinking, “What am
+I going to tell Scott?”
+Then these guys say, “Let me know
+when you like to buy a new one”.
+So, I called Scott
+and I told him,
+”We just vaporized a Langmuir probe
+and we did it with only 182 Watts,
+and we don't understand what's going on
+in SAFIRE; it shouldn't have done this.”
+And Scott says, ”Wow, you
+know what that means?”
+I’m thinking, I
+just lost my job.
+”Yeah it means that our
+thermodynamic modeling is wrong.”
+I'm thinking “I'm
+out of my job”,
+and he says,
+“Well, yes, maybe,
+but what's amazing, it means that you have a
+lot of energy impinging on the probe tip.
+You might have an effective
+way of boiling water”
+and the he said, in his
+deep voice “Do it again”.
+I'm going nuts: the (probe) guy
+just said, my plasma is too hot.
+The boss is saying, do it again
+and I'm thinking I'm gonna have to
+spend another $8,000 on probes.
+These things like eight thousand, I
+said eight thousand bucks a pop,
+we got to get control
+over this thing.
+Because otherwise you know we're going
+to burn through money pretty quick,
+so we decide to make a new one.
+Bigger, stronger.
+I'll put higher pressure nitrogen
+into the core and cool the core
+and make all of it ceramic to
+withstand the temperatures.
+That's going to work,
+so that's it.
+That's the new and improved Langmuir
+probe, much bigger, thicker tip
+we figured that, since the
+plasma is so intense,
+we don't have to worry
+about the small wire.
+We'll put something in thicker
+and even get some measurements.
+What really happened... again.
+So, I'm going to
+play a video here,
+and this is where we got some serious
+questions and Lowell got involved.
+Just watch what happens here:
+this is a macro lens.
+Everything looks wonderful
+and good; we're happy.
+Adiós!
+Yes, that’s what we said.
+Well, we’ve lived so far; that's
+good, let's just keep it going....
+The motion I can see in the probe, is
+from the forces that are in the plasma
+and then it really did
+some amazing stuff.
+So, we were happy,
+it actually survived
+but the thermionic emissions
+which we're going to get into,
+that's what you call
+thermionic emission.
+That's not, you might say, the plasma;
+the plasma has gone out by now,
+so this is just a radiation.
+This is like when you light
+a tungsten light bulb.
+This is what you get, so the
+radiation here just grows immensely.
+We don't know right now
+why the color changes,
+we know that we're obviously
+getting other emissions in here,
+probably from the tungsten, and this
+is happening in like nanoseconds.
+So we go from this beautiful
+violet color to these colors;
+we don't know what this stuff is
+that's flying around in there.
+We think it could be copper
+and/or iron or whatever.
+We were able to capture
+some of these images,
+but we would have to say that the
+atmosphere in SAFIRE is somewhat hostile.
+What was interesting is the
+crater on the side of the anode.
+So, we decided, well you know what,
+let's take a closer look at this thing,
+because we were still getting information
+back from the tip, which is good news
+and so this is what tungsten looks like
+after it's been machined with diamonds.
+It has a kind of a sintered
+look to it, a powdery look,
+and this is what the tip looked like
+after we pulled it out of the chamber.
+So, we're seeing some cracking within the
+alumina a little bit; we weren't too concerned.
+The bright blue color was
+kind of interesting,
+but we had a closer
+look at the tip,
+and we were seeing the grinding
+marks from the diamond wheel.
+We didn't see any physical
+deterioration of the tip,
+and that was just
+great news for us.
+And we thought, okay we've got something
+that looks like it's going to survive;
+and we took a look at the alumina and
+it looks like it will start to melt,
+so we knew that the temperature was around
+3,600 degrees, maybe a little hotter,
+but still in good shape.
+And then what I did,
+is I just took my pliers and
+we changed the probe up;
+we just retained and I put my
+pliers and pull it out, and it crumbled.
+If you know anything about tungsten
+it doesn't normally just crumble
+and I thought well we you know
+we've got a bit of a problem here
+so I put it under
+the microscope.
+I looked at it and I said that
+doesn't look like tungsten;
+comparatively to the two, there's
+been a huge change in its structure,
+but not on the outside.
+The surface on the outside just
+looked like it was when we put it in.
+So, we started taking
+a closer look at this
+and it was like, what is
+all this white stuff.
+And you can see the fracture in the
+tungsten is very sharp; it's very clean;
+it's not like we've bent it
+or anything, it just broke.
+So, we decided and this
+one Paul got involved;
+he says, listen I know some guys
+on the University of Toronto;
+let's get this thing and get some
+scanning electron microscopy done.
+So, we did and I'm going over
+the material in the tungsten.
+If you know anything about materials,
+what you're looking at here,
+well the black stuff,
+could be contamination,
+but the kind of geometrical
+shapes that you see there,
+above that other stuff that
+looks like shale, is tungsten.
+It looks like it was
+getting melted.
+That shale isn't how
+it normally looks,
+but this is on the
+inside of the tip.
+On the outside of the tip it
+wasn't being affected at all.
+Not at all.
+When we did the scanning, when we did the
+SEM, it was coming back it was tungsten.
+the molecular structure, the crystalline
+structure, looked just like it should.
+We looked inside and this is what
+we found, and we found a lot more.
+So, we took a look at the anode,
+that big crater that
+was left on the side.
+There's some interesting stuff.
+It was kind of like, okay there's an intense
+plasma discharge kind of steel material.
+So, we thought okay,
+this is kind of like,
+you know, it's
+really cool artwork.
+We didn't see anything that was
+kind of, you know, too outrageous.
+We saw this area here and I thought,
+well let's take a closer look.
+I don't know why, I
+just picked a spot,
+and I thought what the
+heck is that nodule
+at center of the top of that
+mountain that's in the crater here?
+And this is what the scanning
+electron microscopy showed up.
+Now, if you know anything about this,
+when you have really bright spots in SEM,
+it usually means you have really heavy
+materials in there, heavy elements,
+and they start to emit.
+So, now I'm going to
+head back to Paul,
+and he's going to go through SEM
+and tell you what we found.
+Thank you, Monty.
+So, scanning
+electron microscopy.
+There's also an additional
+technique on here:
+energy dispersive spectroscopy
+and what I'll do is I'll
+show you a quick slide on
+where that energy dispersive
+spectroscopy comes in.
+I should have had a slide on the
+scanning electron microscope as well,
+but if you picture just a regular
+optical microscope that you can find.
+You look through the top and it
+goes through a series of lenses;
+the light comes up from the bottom,
+through your sample and you can see it.
+And really the way SEM works, is that you
+replace your eye with an electron source,
+an electron gun that gets shot
+through a series of magnetic lenses,
+which then hits your sample, which is
+mounted and again this happens in a vacuum,
+and then a detector
+is off to the side
+to detect the electrons I
+bounce off your sample.
+So, not only do you get a secondary electron
+image if you will, an emitted image,
+but you also get other stuff
+coming off of that as well.
+So, if you have the right detectors
+in your electron microscope,
+you can detect other things.
+And in this case, energy
+dispersive microscopy,
+is where the beam
+hits the material
+and more of the inner core
+electrons get excited,
+and then relax back
+and emit the X-rays.
+So, you see these characteristic X-rays,
+it’s just a depiction of an atom,
+that electron gets excited, gets
+bumped off and then relaxes down
+and emits that
+characteristic X-ray.
+So, each element
+has a fingerprint,
+much like spectroscopy that
+Michael was speaking about.
+It's another technique
+to look at elemental
+quantities in materials
+in an electron microscope.
+So, clean iron: this is
+just the iron anode.
+We're going to look at both the iron
+anode, as well as the tungsten tip here.
+So, what do you get
+from clean iron?
+You get a slide here;
+this is the probe tip.
+You can adjust that to be a line graph, or
+an area; you can integrate over an area.
+In this case, we were just looking to see
+what was there, so we did the probe tip.
+And you can see that
+the composition,
+the oxygen comes from surface
+oxygen absorbed on it.
+You have your silicon
+and manganese as well,
+which are impurities in your
+iron, but mostly iron.
+You can see there:
+almost 98% iron.
+And you get that from these
+characteristic X-ray energies.
+These energies are in
+Kilo Electron Volts,
+and again each atom, each element has a
+characteristic series of frequencies
+that it will emit at certain
+electron impingement energy levels.
+So, another clean iron spectrum.
+We did a series of these, just to look,
+kind of get a feel for the average here.
+In this case, there's a lot of oxygen on
+this one, which is not too surprising.
+Sometimes you get
+lots of oxygen.
+So, going back to Monty's
+original optical spectroscope:
+here you can see this nodule;
+and the secondary electron image
+here, you can see this lighting up.
+It can either be
+heavier, it can also be
+something that doesn't
+conduct electrons very well;
+so it brightens a lot.
+It can emit electrons;
+it charges.
+So what Monty did actually, Monty
+did all this microscopy here.
+He put the probe actually
+on that nodule first.
+And what did we see?
+We see some of these other elements here,
+namely aluminum and oxygen, a lot more oxygen,
+so that's kind of in line
+with aluminum oxide.
+It could be something
+from the probe.
+It could be something, some dust particle
+from the probe that's embedded in there.
+But there's also these
+other amounts in there.
+We saw manganese before.
+There’s titanium,
+there's also cerium.
+Cerium might be an impurity
+from that probe housing.
+But then, when you increase
+your magnification
+and you go look at the morphology
+of the crater around this material,
+it gets a little bit unusual,
+in that we are finding barium,
+significant amounts of barium.
+We also saw the other
+materials as well,
+that you would associate with
+the alumina from the probe tip,
+but it's also dispersed
+in that crater.
+But, nonetheless a lot of elements
+there that weren't originally there.
+Now, in the same way we can
+look at the tungsten probe tip
+and we look at the
+clean probe tip:
+the aluminum, the silicon,
+probably from the housing, right?
+It’s got alumina around
+the actual metal.
+We also detect sodium
+and potassium.
+I put in a question mark, because
+that could come from contamination;
+it could come from whatever
+the preparation was.
+And then we have ytterbium (Yb).
+That was also a shoulder
+peak on a few of these.
+So, it might be peak overlap, or it could
+be real; we need higher resolution.
+Then we start to see some other
+elements here, such as cobalt, tin.
+Copper is probably from the cathode, but
+this is the inside of the tungsten probe.
+So, it could be contamination, or it
+could be there from other mechanisms.
+We don't know, we got
+to do more experiments.
+Electron microscopy
+is very selective:
+I spent many years doing
+electron microscopy
+and you can find anything you want in your
+sample, to make your professors happy.
+Not that I did that, but
+I was very careful,
+because that's exactly
+what they taught me.
+They taught me, listen you don't just take
+a few pictures, you got to take a lot.
+You got to go through it, so that you're
+representing your sample honestly.
+And that's something
+that we did:
+we looked at a
+lot of parts of this.
+We still need to
+do more experiments;
+one set of experiments
+is never enough,
+especially when you're
+doing elemental analysis.
+So, obviously, we need
+some more verification
+and we got to think of where these
+impurities could come from.
+But looking back
+at this micrograph
+you see that this area
+here is sintered.
+And as a reminder,
+like Monty said,
+the melting point of
+tungsten is around 3,600º C
+- well, melting really.
+Boiling is 6,600 right, yeah.
+Now, our anode was
+only at 1,000 C.
+So, we have some temperature
+disparities here.
+We also have sintering
+of the material;
+we have stress fractures
+here, along the grain boundaries
+and we have this weird sintered kind of
+explosion from the inside of the matrix.
+So, again: impurities maybe?
+Calcium, aluminum could arise
+from alumina materials.
+As far as we know there is no barium,
+cerium, titanium in the chamber.
+You look at all the
+materials that go in;
+the next step is looking at the
+processing of the materials we use.
+Maybe there are impurities in the
+processing of materials that we use.
+Highly likely not, because a lot
+of these materials are very pure.
+So we know what’s in the chamber,
+we know there are impurities.
+What we see in this analysis, we see
+something that is not accounted for.
+Now I'll go out on a limb here, I
+mean there's a lot of data out there,
+and take it for face value in the Low
+Energy Nuclear Reaction (LENR) community
+that has done a number of
+studies on transmutation.
+A lot of the craters that they observe and
+that they see transmutation occurring in,
+have the same kind
+of characteristics.
+They actually come out from
+the lattice of the material.
+Now they work a lot with palladium
+and platinum and noble metals
+that are highly
+loaded with hydrogen.
+So, they load these
+things up with hydrogen
+and then they observe these reactions that
+occur over time, and they're very minute.
+Very small changes in the overall
+concentration of materials.
+Nonetheless they are real, because
+they can pinpoint these craters,
+they can analyze the materials they’re in,
+and they see these changes happening.
+So, these are just a few select
+papers, recent ones that came out
+with some transmutation reports.
+Commercial enterprises have
+repeated this as well.
+Mitsubishi, and recently Toyota
+replicated Mitsubishi studies
+here with some of
+their R&D investment,
+seeing that there's transmutation
+in certain complexes.
+So, validation of results.
+As I said, one data
+set isn't enough,
+especially when you're dealing
+with certain kinds of reactions.
+At the University of Toronto
+I am going to follow up,
+using laser ablation-inductively
+coupled mass spectrometry.
+So, that's pretty much the SEM.
+But now instead of just doing a probe and
+looking at the X-ray energies coming off
+you're actually going to laser
+ablate, or laser vaporize materials
+that are in certain areas
+that you highlight,
+that is then analyzed with a mass spectrometer,
+a very accurate mass spectrometer.
+So, this is a technique that the Toyota
+folks used to validate Mitsubishi's results
+and will hopefully eventually return,
+and do augmented studies on,
+not only the anode but possibly
+other parts of the reactor.
+We're about to pause
+now again, if we want.
+Yeah, go ahead, yeah, sure,
+you need the microphone,
+you need the microphone.
+“We know that in the Sun will happen,
+in the nuclear reaction that happen is,
+hydrogen the main
+fuel in the top,
+and reach a million degrees
+in the solar corona.
+So, what do you aim,
+what temperature do you aim
+to reach in the container.
+What kind of container?
+Is it going to be a
+magnetic container,
+like the one that they use,
+or are trying to use now?
+We were actually going to
+talk about that,
+because the temperatures that we're seeing
+right now, there are two responses.
+And why I was talking about
+the thermodynamics,
+is because right now, standard
+thermodynamics cannot
+answer for why we're
+getting some of these, for
+what you would see, for what
+we call, “thermal responses”.
+So, think of your
+microwave at home.
+In fact, the energy you are putting in there
+isn’t thermal, like a convection oven,
+but you can still heat up
+materials that are in there.
+So, the kind of energies that
+we're going to be getting into,
+we're going to be talking
+about this very shortly,
+would be analogous to
+that kind of thing.
+So temperature,...
+... that's a whole discussion and
+we can get into what temperature is
+in the context of plasma physics,
+which isn't, you might say, standard,
+thermal or black body radiation
+kind of responses that you got.
+So, the temperatures that
+we're seeing here, would be
+looks like (they are) orders of
+magnitude beyond what we predicted,
+in layman's terms.
+But in real terms
+it's not a thermal
+temperature in that context.
+We're going to be
+getting into this.
+Okay, another question?
+Well presumably, you were going to use
+your probe to test different things,
+but then your probe
+got destroyed.
+Does that mean you've
+been kind of sidetracked
+into to figuring out what's
+going on to the probe,
+before you get on to what you're
+going to use the probe for?
+Well, obviously, you have
+to look at the failure mode
+to determine what it is you're
+going to be doing next.
+And we're already looking
+at that, so
+we take a look at the actual time component
+that it took in order for this to happen.
+So, the amount of time it took for
+the probe to see this much damage,
+is about 15-20 seconds,
+which if anybody who knows anything
+about TIG (Tungsten Inert Gas) welding,
+that's not a very long time,
+because normally some of the arcs
+that you get in TIG welders,
+and this is type of
+tungsten we're using,
+you could weld for half an
+hour, or maybe even an hour,
+before you have to take
+the tip out and grind it.
+But we weren't seeing any
+deterioration on the tip.
+This is internal.
+We got big questions here; this
+shouldn't be happening in that context.
+So, those temperatures, in
+some of the TIG welding,
+the arc itself can
+reach 19,000 degrees.
+So, [we could be seeing], the responses that
+we're getting here are an indication of
+much higher temperatures.
+So now, what does that mean?
+Well, we did get the tip
+and in we did get it out.
+And it was in one piece, and
+we were still getting data.
+So, what we have to do now, is come
+up with a way to get a controller
+that, as we move it down through those
+double layers, and back out again,
+we can collect the data and bias the probe
+quickly, we are talking milliseconds,
+and grab that data and get the heck
+out of Dodge before she gets smoked.
+Okay, that's what we have to do,
+and that's not going to be easy,
+because you get into floating potentials,
+and other types of technologies,
+which to do that, there’s
+going to be some challenges.
+One more?
+Yeah, okay maybe one more.
+It might be a quick question,
+may not be long one.
+It's really quick.
+As a control, did you look
+at the probe by SEM before?
+I know you looked after,
+but did you look before?
+Yeah, we have one shot of
+the probe tip in there;
+the standard tungsten,
+like I showed.
+No, I see tungsten;
+we didn't show the
+graph, but we did do it.
+Yeah, we use different types
+of tungsten you can get,
+with thorium and a bunch of other
+types of elements that are in there.
+Though this was just
+a pure tungsten tip.
+So, I mean 99.5%
+or 99.9% tungsten.
+Okay, let's move on.
+So, now we're going to get into the
+measurement of the plasma and double layers.
+Data that we were able to get
+from the probes once we got them
+to a place we could use them.
+So, we found quite by accident
+what appeared to be a small voltage
+drop, just off the surface of the anode
+and according to our research
+objectives, we were supposed to find.
+But it wasn't much at all.
+We saw initially about a 30 Volt
+drop, just off the surface,
+but it got us to thinking that maybe
+the probe tip is just too long.
+And so, these are
+the double layers,
+and this is not scaled properly,
+but just to show
+you how it works.
+So the tungsten tip that you see
+there, between the two red marks,
+is the length of the tip
+that's exposed to the plasma.
+And that's actually what picks up
+the electrical characteristics
+of the plasma that's
+measuring it.
+So, as you can see right here
+between the two red lines
+there's a few double
+layers that are in there.
+And what happens
+in effect is that,
+because the tip is long and it's
+measuring a few double layers,
+we think what we get is more of an
+average of what the voltage is.
+It's measuring across those.
+So, we decided well let's
+just shorten it down.
+And so, we did,
+and when we did, basically,
+this is what we saw:
+and the voltage drop here
+was almost 300 Volts.
+It was 270 Volts, I think
+or something wasn't it?
+And the distance was
+0.03 millimeters.
+It's really thin, okay?
+But it's a very
+powerful double layer.
+So, we've done the test a number of times and
+we validated this particular measurement;
+this sharp voltage drop.
+The actual curve coming off of
+the back, can vary a little bit,
+but the sharp voltage
+drop that you see here,
+is typical of all the plots
+we're seeing in SAFIRE.
+So, we can confidently
+say today,
+in fact there is a sharp voltage
+drop that Dr. Donald Scott predicted
+and that is in fact
+what we're seeing here.
+And it's pretty big.
+So, with that, this is where
+Michael is going to take over,
+because he was doing
+some analysis on this
+and this is getting into
+his area of expertise.
+You get all the fun stuff.
+I do.
+So, we can look at global
+properties of the plasma,
+the discharge,
+electrical properties,
+or we can also look at properties at
+a particular point in the plasma.
+So, what Monty just talked
+through with the Langmuir probe,
+that's because we're trying to get measurements
+at particular points in the plasma.
+But it's also worthwhile
+knowing and analyzing
+what's going on with a
+discharge as a whole.
+So, here's plots of current and
+voltage across the whole discharge
+and you can see in the bottom
+some pictures of what's going on
+in the chamber at that point.
+So, at Point A, we have a
+pretty quiet discharge,
+with a few anode tufts on there.
+Then we crank up the current.
+What happens?
+The plasma responds by increasing
+the voltage drop across the plasma,
+and by creating a lot more
+of those little tufts,
+and actually eventually
+sending them into motion.
+Then at point B you can see
+that red line shoot up again.
+That's because we cranked
+the current knob;
+so, we pushed more current
+through the plasma.
+And in response, you can see the voltage
+goes up again across the plasma,
+and we create a lot of double layers;
+six or seven double layers there.
+That wiggle in the blue line,
+we don't know what that is yet.
+That's not our power supply,
+so to be looked at later;
+and I'm not actually going to talk much
+about what happened at the end there.
+We had a big release of energy, but I can't
+talk much about what was going on there.
+Okay, then you can also look at
+the resistance across the chamber
+and the power consumed by, or
+transformed by the discharge.
+So, the green Line is the resistance
+across the whole discharge,
+and the black line is the
+power consumed or transformed
+and it's those same regimes,
+same A, B, C and D.
+So, the first thing that happened,
+when you created all the little tufts:
+that green Line drops way down.
+That's the resistance
+of the plasma.
+It goes way down, when
+those tufts are created
+and there's that initial
+increase in the power consumed.
+Then, at point B they've
+cranked the current more,
+the resistance goes down even more,
+as we're creating double layers
+and the power consumption
+goes way up.
+So, the plasma is responding
+to how we're pushing it
+and one of the ways, and we can repeat
+again and we need to study more, is
+it responds in ways to
+lower its resistance
+and greatly increase the amount
+of power it can transform.
+We designed SAFIRE to be able
+to vary voltage and current independently.
+This particular run, we were
+just varying the current,
+but no one knows yet, in a cosmological
+setting, what the driver is.
+Whether voltage primarily drives
+things, or current drives things,
+or some combination of them.
+So, we have built in the flexibility
+to control them independently.
+And this may seem
+like basic research,
+but it is, and it's
+so needed because,
+even though we know double layers are
+everywhere, they're over our heads right now,
+they're in the magnetosphere,
+they're in solar flares etc.,
+there's not that much known about how
+to write down the circuit diagram
+for double layers in astronomy.
+There is almost nothing
+known about that.
+So, this research
+that we're doing here
+is entirely done largely to help give
+direction to future astrophysicists,
+so they know what to look for in
+magnetospheres and solar flares etc.
+and how to interpret what they're seeing
+in terms of electrical circuitry.
+This is absolutely
+fundamental, what we're doing.
+So, let's switch then to the
+point measurements, okay,
+so now we're not talking about the
+global plasma, we're talking about
+that point where the
+Langmuir probe is.
+And we go up close, the left-hand
+side is close to the anode.
+The anode actually starts at
+the number 1, not at zero,
+the surface of the anode,
+and then we move
+out to the right
+and we go out basically to
+the end of the chamber.
+The red X's are the floating
+potential, with our new probe.
+That means you stick
+a probe in there,
+it's going to raise up to a certain
+electrical potential on its own,
+just from being
+inserted in the plasma.
+We measure that, we move it out
+and we take measurements,
+that's the red line.
+And you can see that it goes
+from 300 Volts down to zero.
+Totally makes sense:
+we had our anode of 300 Volts,
+you move the probe all the way out to the
+end of the chamber, it goes down to zero.
+Then the fun starts
+and you can calculate other parameters in the
+plasma, like the electric field strength.
+So, electric field strength is
+how much your electrical
+potential changes with distance.
+And so, if I had a chamber that
+had a 300 Volt anode here,
+and the end of the chamber, which was
+a meter away, went down to zero,
+you would say that the change in the
+electric potential is 300 Volts per meter.
+Okay, that's how you
+describe electric fields:
+300 Volts per meter,
+is the change.
+But what we found very
+clearly from this data,
+and I'm sorry I didn't label
+the vertical axis better,
+but that green peak,
+that's the electric field,
+that peak has nothing to do
+with those numbers on the left.
+That green peak is at about 8,000 Volts
+per meter, not 300 Volts per meter,
+which you might think, if you
+just looked at the rough numbers.
+So, this is great because it's showing
+us that these discharge plasmas,
+they have the ability to sustain within
+them, much more intense regimes,
+much more intensive is going
+on than you would ever guess,
+if you just were stepping back and
+looking at your power supply, right?
+If you look at your power
+supply, you would never guess
+that there was 8,000 Volts per
+meter electric fields in there.
+The black line is charge density,
+so these double layers exist
+because charge is positive and negative
+charges build up next to each other.
+So, we can see we're starting to be able to
+measure those charge density fluctuations.
+It's the left hand side
+there, the black line
+when it gets a little bit closer to
+the anode, it drops way, way down.
+I didn't include
+it on this graph.
+I couldn't get that on there
+but just so you know that
+that black line drops way down,
+if we get one fraction of a
+millimeter closer to the anode.
+And then the blue one is the
+resistance of the chamber.
+So, since we have a designed a double
+probe also, we didn't show you that one,
+we can stick those
+two wires in there
+and measure the resistance of the plasma
+across that little gap between the two wires
+and so you can see the resistance is basically
+infinite, as you get closer to the anode,
+drops to almost zero, climbs back
+up, falls back down and that last
+rise at the end there
+of the resistance line,
+I'm pretty sure, is heading back up to
+essentially, you know huge, huge numbers.
+I love this graph.
+I'm very proud that we
+were able to make this,
+because you don't often see so many
+plasma parameters, all taken together
+and displayed together and, similar
+to what I was saying about
+the overall plasma electrical
+characteristics is so needed for astronomy
+so you can start making
+circuit diagrams,
+this sort of ability to see all these
+different parameters in the plasma,
+at the same time,
+on the same graph,
+is what we need in order to start
+digging into what's going on,
+what's the physics inside
+of this plasma here.
+And since a lot of these results
+were done pretty recently,
+more analysis kept coming in the
+day, we were supposed to submit it.
+Lowell gave me this graph,
+okay, I'll put this in there,
+before we hit ”send”, he
+sends me another graph.
+Okay, I'll put
+this one in there.
+This is the electron temperature
+in the different areas, that plasma close,
+we're getting close, to the anode, okay?
+So it's going up and down;
+see how, that close to the
+anode there, it's at 7.
+Okay, that's Electronvolt,
+7 Electronvolt electrons.
+That's pretty hot for
+earthly conditions.
+If I had a jar of 7 Electronvolt electrons,
+and you stuck your thermometer in there,
+it would read about 81,000 degrees.
+That would be the effective
+comparable temperature to it.
+So, we have in SAFIRE tens of thousands
+of degree fluctuations in temperature
+taking place over millimeters or centimeters,
+safely, no one's being hurt, right?
+Not yet, and we can control
+it, we can reproduce it,
+and as we saw with the probes,
+we're starting to see how
+to release that energy.
+But we'll talk more about that very
+soon; about the release of the energy.
+Now, it's important to
+point out that the team
+does have a paper published
+from previous work.
+This was written by Lowell
+Morgan and Montgomery Childs.
+It was published in the Plasma Sources
+Science and Technology journal.
+This looked at
+previous discharges,
+mostly from the point of how
+much light was being emitted.
+So, a really good analysis
+by Lowell on this one.
+One of the main
+conclusions from this,
+we're trying to answer, how
+do these double layers form.
+Believe it or not, no one really knows
+how these double layers form, okay.
+it's pretty interesting;
+Lowell's idea was, that the production
+of negative ions and electrons,
+creates instabilities
+in the plasma,
+which leads then to the
+segregation of the charges.
+If you want, we can certainly
+get you this paper,
+that you can dig into
+his analysis on that.
+Again to remind people, I'm
+excited by some of our results,
+because we're seeing fluctuations
+in these parameters,
+that are comparable to the sort of fluctuations
+we need to have to be able to say, yes
+we're looking at astronomical
+quantities here, comparable quantities.
+We should just take a breath in,
+before getting into radiation.
+So everybody breathe.
+We were talking about the ITER,
+Tokamak experiments, you know
+and see the sheer amount of
+money that's going into them.
+And it seems like we're trying to force
+nature to do something it doesn't want to do,
+with these magnetic confinement
+fusion experiments.
+And you know, you put another
+50 million dollars into it,
+and then you get much stronger
+magnetic fields to try,
+and it still just doesn't work.
+You can't make the plasma do it
+and I don't know if you can
+see it from the videos,
+but we're in the lab
+working on this plasma.
+We're not actually driving it so hard,
+we're not forcing nature to do anything.
+That's certainly how I feel it.
+It seems like, we turn it up
+and then the plasma responds,
+and everybody's happy, we're not
+forcing anybody to do anything, right?
+So, I feel that's one of the things that, it
+feels to me like we're on the right track,
+because it doesn't have that feeling of forcing
+something that nature doesn't want to do.
+Plasmas are certainly Dr.
+Morgan's specialty.
+We said, could you please,
+take a look at this.
+Take a look at why, what
+happened to our tungsten probe.
+Okay, from what you know, can
+you please dig into this.
+So, we spent some
+time looking at that.
+Radiation trapping.
+So we're going to talk
+about that really soon.
+How to envision that.
+So, I knew that biology had
+complicated chemistry.
+Biochemistry, is
+complicated stuff, right?
+Light and life, it has all these
+things and I'm starting to realize:
+plasma chemistry is really also equally
+complicated, and it makes me wonder about
+what sort of chemistry
+is being done on stars.
+It's really complicated stuff.
+So, Lowell came back with... right,
+this is not a result of thermodynamics.
+traditional temperature
+that melted this probe.
+You have to look at radiation
+hydrodynamics which, he explained to us,
+is really one of the most complicated
+areas in Applied Physics.
+There's not much that you could
+say is more complicated;
+it's why Livermore and Los Alamos
+labs always have the best computers,
+because you need supercomputers
+to do these analyses.
+I wrote down this
+quote from him that
+”nuclear weapons have very little
+to do with nuclear physics
+and a lot to do with
+radiation hydrogen dynamics”
+Okay, let's talk about radiation trapping
+and slowing of the speed of light.
+Imagine that this whole room
+is the SAFIRE chamber, okay.
+The stage is the anode, and all
+of us are hydrogen atoms, okay.
+And being hydrogen atoms, like we said that
+every species of bird has its own song,
+so we can all talk to each other, for all
+hydrogen atoms, we can exchange thoughts
+and tell each other things and exchange
+photons and energy, stuff like that;
+and the anode is up here, and electrical
+energy is being pushed out
+to all of us, from
+the stage here.
+Okay, so you got the
+picture, right?
+Now imagine that that
+whole side of the room,
+you're now all
+helium atoms, Okay?
+To the rest of us, that side
+of the room just went dark.
+We can't see them anymore,
+we can't hear them anymore,
+because we are now on
+different wavelengths.
+We cannot exchange energy
+with them anymore.
+Okay, so we'll leave
+them for a second.
+We'll just focus on this side.
+Electrical energy comes
+off of the stage
+and let's imagine that it gets absorbed
+by two people on the front row, okay?
+They hold on to it for a
+while, they get excited,
+they're bubbly, they can't
+sit still in their seats;
+they're getting all
+kind of pumped up,
+but they hold onto the energy, hold onto
+the excitement for a while; maybe 30 s.
+While they're holding onto it,
+two more people on the front
+row get some of this energy.
+They get all excited,
+they can't sit in their seats they
+can’t wait to tell somebody something.
+After about thirty seconds, those first
+two people finally can turn around
+and they communicate their
+excitement to somebody behind them.
+But then that person who gets that
+excitement behind him in the second row,
+they also have to hold
+on to it for a while.
+They can't just turn around and
+tell the person behind them.
+So, there's this slow
+progression of this excitement.
+If it were a different scenario,
+if you weren't hydrogen
+and I wasn't communicating to
+this specific frequency of light,
+which I'll mention soon, then
+as soon as you got excited,
+you would just turn around and
+talk to the person behind you.
+As soon as you told, they
+would just turn around
+and tell the next
+person behind them,
+and that excitement would go out through
+the hall at the speed of light, right out.
+But that's not what happens.
+There's a specific resonant
+frequency that hydrogen has.
+It's 122 nanometers;
+that's pretty hot stuff.
+That's the level of energy that we
+see coming off of solar flares,
+coronal loops, things like that.
+That's how we see that
+level of intensity.
+When hydrogen gets that, it
+holds on to it for a while.
+In fact, it holds on to it
+thousands of times longer,
+than it takes to just exchange the
+information with another hydrogen atom.
+So it's that particular way
+that hydrogen manifests
+that slows down the speed of light, the
+progression of light, by thousands of times,
+and ends up building a huge
+amount of energy in that region.
+We didn't forget
+about the helium’s.
+So, the helium's they don't see
+anything going on over here.
+It's dark, they can't
+hear anything,
+and one of you gets the bright
+idea: let's build a probe
+and we'll put it across
+the aisle and we'll see.
+So it's like a couple of guys go
+running back to the breakout room,
+they take apart some
+of Ricky's paintings.
+They get the wood frames,
+they stick some dried sage that I saw
+over there on the table in that,
+and two guys put the probe
+across the center aisle
+and it touches into that
+region and bursts into flames.
+Ashes fall on the floor.
+So that's how they know: that look, we
+couldn't see it, it wasn't visible to us,
+but as soon as we put our
+probe in there, it got fried.
+That's radiation trapping and
+slowing down the speed of light.
+That's what we have going
+on in our chamber,
+and that's my....
+Now you know all about radiation
+hydrodynamics that you need to know.
+How'd I do Lowell,
+was that okay?
+... yeah and you know what's interesting
+also is that this whole arrangement is...
+You could call it electrostatic.
+We just have a battery, we
+just have 300 Volts.
+So it's an electrostatic
+machine we have.
+So we have an electrostatic machine that can
+trap photons, high-energy photons.
+We have an electrostatic machine that
+can slow down the speed of light.
+We have an electrostatic
+machine that can release
+in an instant very large
+quantities of energy.
+And we're controlling it.
+We can predict how to
+get to these regimes.
+This is a plot of the expected
+temperature the probe tip would get to.
+And so, you can see
+under certain regimes,
+which are the left and right axes there, of
+hydrogen density and electron temperature,
+the red area there:
+10,000 degrees predicted.
+When that poor probe goes
+into the hydrogen section,
+you could expect that much
+energy to go into the probe,
+raising it up to about
+10,000 degrees.
+Now, does that explain
+everything we saw?
+I don't know,
+but it certainly is the right way
+to start analyzing this problem.
+Monty: A lot going on this year
+and we were really getting concerned
+towards the end of the project,
+whether or not we were
+even going to do this.
+We started getting the analysis back,
+and we sure were
+getting really excited.
+There was actually hope, even though
+thermodynamics can't resolve for these things,
+radiation hydrodynamics can;
+plus a lot of other things.
+So, we see ourselves as, now that
+SAFIRE, I would say, is stable,
+we can get these stable plasmas,
+we're now in a place where I would
+say, with pretty good confidence,
+that we can start to actually do a number of
+experiments and get really good data back.
+But these results are,
+in my view spectacular.
+The chemistry changes:
+(we) don't know.
+We shouldn't have barium
+in there, or titanium,
+no idea where the
+stuff came from.
+We can be guessing, but
+we should find out.
+Variations in electron density comparable to the
+photosphere, heliosphere and nuclear bombs.
+Those are the only places that we see
+these kinds of intense, dense plasmas.
+Electrical confinement
+of high-energy photons.
+That's a lot.
+And what we're saying here in effect is
+that, and what Michael was talking about,
+and the transformation characteristics
+of the plasma, the double layers,
+those double layers, when Paul's talking
+about second-order interactions,
+what we're talking about, it's
+like an audio feedback loop
+that just keeps getting bigger and
+bigger except that in a double layer
+it gets to a point that the
+double layer forms,
+and the plasma now
+becomes stable.
+Up to that point, electrically you
+can see a lot of activity,
+but when the double layer forms,
+it goes stable and
+it it's very robust.
+So, it'd be like the
+double layer,
+and I'm going to jump out
+here a little bit too,
+because I think we're
+really at that place,
+where we have our atmosphere
+in the Earth, 350 miles up.
+Conventional science says, it is gravity
+that holds our atmosphere here.
+But mechanical engineering, I mean, we
+have big machines that try to contain,
+or get vacuums that aren’t
+even close to space vacuums.
+What I'm trying to say in effect
+is that only 300-mile distance,
+we've got a space vacuum that can
+suck your eyeballs out of your house.
+I mean, out of your head (it has
+been a long day), out of your head,
+and yet there's no mechanical
+device retaining our atmosphere.
+And what we are seeing, what
+we forgot to mention actually,
+is we do have a pressure
+delta in SAFIRE.
+That's a big deal because I think
+Langmuir predicted theoretically,
+that we should see this.
+I mean that's what Lowell is....
+What we're saying in effect is,
+when we get a vacuum in a chamber,
+a gas would fill this
+room, or the chamber,
+and the pressure in itself would
+be equal throughout the chamber.
+But when these double layers form,
+that's not what's happening.
+So, we do actually have
+higher pressure
+inside these double layers than
+we do actually have outside,
+in the greater
+part of the chamber.
+So, you actually have
+a plasma force field
+that actually can contain
+these molecules, these gases.
+That's a big deal.
+So, the core of
+SAFIRE is cooler.
+The highest temperatures we thought
+we saw was maybe around 1,000º C;
+and obviously the temperatures,
+or the effective temperature,
+or you might say, the response temperatures
+we are getting with the probes,
+are many orders above that.
+Way, way, way above that.
+So these are things that we're exploring
+with SAFIRE and I think that's really it.
+These questions we are going
+to leave on the screen here
+and I guess we're open for
+questions and answers.
+[Applause]
+Other way
+that's good!
+eighty-five
+”So the temperature of the anode
+right now in the hydrogen is 600”
+”It has been at 600, even though we had
+like kilowatts going through there.
+Yeah,
+that's good.”
+”..a lot hotter with
+the nitrogen..”
+Shortly after the 2017
+Phoenix conference,
+the SAFIRE team discovered a
+unique process that initiates
+and sustains the
+plasma double layers.
+This was a major discovery,
+because it is these
+plasma double layers
+that produce both the extraordinarily
+high energy densities
+and the electric field that contains
+these energies within the plasma.
+This new advancement in plasma
+science demonstrates a process,
+that consistently creates, contains
+and controls the plasma double layers
+in stable exothermic
+plasma reactions.
+Although the energies
+and densities
+are comparable to the Sun's
+photosphere and nuclear bombs,
+the data shows no harmful side
+effects, such as radioactivity.
+But the science of what is actually happening
+at the molecular and atomic levels
+is not yet fully understood.
+Understanding these reactions,
+will give valuable insight
+into the way the Sun's
+atmosphere functions,
+and provide the foundation by which these
+energies can be beneficially harnessed
+This research will be the
+top priority of 2018.

@@ -1,0 +1,427 @@
+[
+  {
+    "text": "on the surface of today's most",
+    "start": 24.82,
+    "duration": 5.26
+  },
+  {
+    "text": "well-studied comet we see fields of",
+    "start": 27.38,
+    "duration": 5.37
+  },
+  {
+    "text": "rubble everywhere from great boulders",
+    "start": 30.08,
+    "duration": 5.88
+  },
+  {
+    "text": "down to gravel sand and dust a surface",
+    "start": 32.75,
+    "duration": 5.85
+  },
+  {
+    "text": "littered with debris but was not",
+    "start": 35.96,
+    "duration": 5.099
+  },
+  {
+    "text": "supposed to be there is just to boldly",
+    "start": 38.6,
+    "duration": 5.639
+  },
+  {
+    "text": "present why would an evaporating clump",
+    "start": 41.059,
+    "duration": 5.28
+  },
+  {
+    "text": "of ice and dust look more like the",
+    "start": 44.239,
+    "duration": 5.13
+  },
+  {
+    "text": "debris strewn surface of Mars than any",
+    "start": 46.339,
+    "duration": 5.491
+  },
+  {
+    "text": "comet that scientists ever dared to",
+    "start": 49.369,
+    "duration": 7.351
+  },
+  {
+    "text": "dream of the debris of 67p will force a",
+    "start": 51.83,
+    "duration": 6.99
+  },
+  {
+    "text": "confrontation with fundamental",
+    "start": 56.72,
+    "duration": 4.5
+  },
+  {
+    "text": "assumptions for proponents of the",
+    "start": 58.82,
+    "duration": 4.619
+  },
+  {
+    "text": "electric comet this is an open",
+    "start": 61.22,
+    "duration": 4.95
+  },
+  {
+    "text": "invitation to pose the unasked question",
+    "start": 63.439,
+    "duration": 5.821
+  },
+  {
+    "text": "is there a logical evidence-based",
+    "start": 66.17,
+    "duration": 7.11
+  },
+  {
+    "text": "connection of the 67p rubble field to",
+    "start": 69.26,
+    "duration": 7.08
+  },
+  {
+    "text": "the origins of the comet as to its birth",
+    "start": 73.28,
+    "duration": 7.74
+  },
+  {
+    "text": "as a comet it's only reasonable to see",
+    "start": 76.34,
+    "duration": 7.2
+  },
+  {
+    "text": "the rubble field in such terms because",
+    "start": 81.02,
+    "duration": 4.83
+  },
+  {
+    "text": "the tiny nuclei of comets are not",
+    "start": 83.54,
+    "duration": 5.1
+  },
+  {
+    "text": "appreciable attractors the vast",
+    "start": 85.85,
+    "duration": 5.1
+  },
+  {
+    "text": "emptiness of interplanetary or",
+    "start": 88.64,
+    "duration": 5.4
+  },
+  {
+    "text": "interstellar space picking up just one",
+    "start": 90.95,
+    "duration": 5.25
+  },
+  {
+    "text": "Boulder in a million years would be a",
+    "start": 94.04,
+    "duration": 5.13
+  },
+  {
+    "text": "remarkable feat but those who have",
+    "start": 96.2,
+    "duration": 5.7
+  },
+  {
+    "text": "explored the electric comet hypothesis",
+    "start": 99.17,
+    "duration": 5.13
+  },
+  {
+    "text": "know quite well what the rubble field is",
+    "start": 101.9,
+    "duration": 7.23
+  },
+  {
+    "text": "telling us the comet was born in intense",
+    "start": 104.3,
+    "duration": 7.41
+  },
+  {
+    "text": "electrical exchanges between planets",
+    "start": 109.13,
+    "duration": 5.34
+  },
+  {
+    "text": "when planets moved on vastly different",
+    "start": 111.71,
+    "duration": 7.949
+  },
+  {
+    "text": "paths than they moved today within the",
+    "start": 114.47,
+    "duration": 7.53
+  },
+  {
+    "text": "electric universe community researchers",
+    "start": 119.659,
+    "duration": 5.041
+  },
+  {
+    "text": "have across several decades explored",
+    "start": 122.0,
+    "duration": 4.92
+  },
+  {
+    "text": "pervasive evidence for planetary",
+    "start": 124.7,
+    "duration": 5.339
+  },
+  {
+    "text": "instability and violent close approaches",
+    "start": 126.92,
+    "duration": 6.56
+  },
+  {
+    "text": "of planets in the not so distant past",
+    "start": 130.039,
+    "duration": 6.06
+  },
+  {
+    "text": "seen in electrical terms at it's very",
+    "start": 133.48,
+    "duration": 6.069
+  },
+  {
+    "text": "birth 67p was immersed and debris from a",
+    "start": 136.099,
+    "duration": 6.12
+  },
+  {
+    "text": "planetary surface even the nucleus",
+    "start": 139.549,
+    "duration": 5.131
+  },
+  {
+    "text": "itself looks like a jumble of debris on",
+    "start": 142.219,
+    "duration": 3.071
+  },
+  {
+    "text": "a large",
+    "start": 144.68,
+    "duration": 3.009
+  },
+  {
+    "text": "scale what we see are massively",
+    "start": 145.29,
+    "duration": 4.85
+  },
+  {
+    "text": "disordered and fractured blocks",
+    "start": 147.689,
+    "duration": 5.19
+  },
+  {
+    "text": "constituted of rock and apparently no",
+    "start": 150.14,
+    "duration": 6.01
+  },
+  {
+    "text": "ice at all along the towering cliffs of",
+    "start": 152.879,
+    "duration": 6.301
+  },
+  {
+    "text": "67p we see the telltale signature of",
+    "start": 156.15,
+    "duration": 5.61
+  },
+  {
+    "text": "geological strata of course that would",
+    "start": 159.18,
+    "duration": 4.35
+  },
+  {
+    "text": "be one of the first things to look for",
+    "start": 161.76,
+    "duration": 4.77
+  },
+  {
+    "text": "wants the idea of violent removal from a",
+    "start": 163.53,
+    "duration": 7.379
+  },
+  {
+    "text": "planetary surface actually registers the",
+    "start": 166.53,
+    "duration": 6.629
+  },
+  {
+    "text": "visible straight has seen so clearly on",
+    "start": 170.909,
+    "duration": 5.16
+  },
+  {
+    "text": "separate fragments of 67p have no",
+    "start": 173.159,
+    "duration": 5.071
+  },
+  {
+    "text": "consistent alignment with that of other",
+    "start": 176.069,
+    "duration": 5.521
+  },
+  {
+    "text": "fragments by all indications massive",
+    "start": 178.23,
+    "duration": 5.339
+  },
+  {
+    "text": "blocks of material some of it looking",
+    "start": 181.59,
+    "duration": 4.799
+  },
+  {
+    "text": "very much like mountainous terrain were",
+    "start": 183.569,
+    "duration": 5.76
+  },
+  {
+    "text": "removed from a rocky planet to form a",
+    "start": 186.389,
+    "duration": 6.511
+  },
+  {
+    "text": "conglomerate on a grand scale and that's",
+    "start": 189.329,
+    "duration": 6.03
+  },
+  {
+    "text": "what the electric comet hypothesis has",
+    "start": 192.9,
+    "duration": 5.669
+  },
+  {
+    "text": "always maintained crustal material torn",
+    "start": 195.359,
+    "duration": 5.52
+  },
+  {
+    "text": "from a planetary surface and intense",
+    "start": 198.569,
+    "duration": 4.92
+  },
+  {
+    "text": "electrical exchanges between planets",
+    "start": 200.879,
+    "duration": 5.151
+  },
+  {
+    "text": "with extreme selective heating and",
+    "start": 203.489,
+    "duration": 5.191
+  },
+  {
+    "text": "significant electrical fusing of the",
+    "start": 206.03,
+    "duration": 6.73
+  },
+  {
+    "text": "removed debris it's the planetary origin",
+    "start": 208.68,
+    "duration": 5.97
+  },
+  {
+    "text": "of the comet that underpins our",
+    "start": 212.76,
+    "duration": 4.74
+  },
+  {
+    "text": "prediction of a host of complex silicate",
+    "start": 214.65,
+    "duration": 5.369
+  },
+  {
+    "text": "and clay materials that would not be",
+    "start": 217.5,
+    "duration": 5.25
+  },
+  {
+    "text": "expected or even possible in the deep",
+    "start": 220.019,
+    "duration": 5.64
+  },
+  {
+    "text": "freeze and vacuum of remote space such",
+    "start": 222.75,
+    "duration": 5.099
+  },
+  {
+    "text": "materials would be common on the surface",
+    "start": 225.659,
+    "duration": 5.25
+  },
+  {
+    "text": "of a rocky planet in particular a planet",
+    "start": 227.849,
+    "duration": 7.5
+  },
+  {
+    "text": "in the habitable zone of the Sun that's",
+    "start": 230.909,
+    "duration": 6.871
+  },
+  {
+    "text": "why we so eagerly await the reports on",
+    "start": 235.349,
+    "duration": 6.39
+  },
+  {
+    "text": "ejected dust from 67p we expect the",
+    "start": 237.78,
+    "duration": 6.0
+  },
+  {
+    "text": "presence of complex crystalline",
+    "start": 241.739,
+    "duration": 4.951
+  },
+  {
+    "text": "structures not the rudimentary Stardust",
+    "start": 243.78,
+    "duration": 6.0
+  },
+  {
+    "text": "of popular comet theory not the residue",
+    "start": 246.69,
+    "duration": 5.699
+  },
+  {
+    "text": "of an imagined nebular cloud a billion",
+    "start": 249.78,
+    "duration": 5.579
+  },
+  {
+    "text": "years ago but rather the residue of",
+    "start": 252.389,
+    "duration": 6.09
+  },
+  {
+    "text": "planetary catastrophe recorded just a",
+    "start": 255.359,
+    "duration": 5.85
+  },
+  {
+    "text": "few thousand years ago by humans on",
+    "start": 258.479,
+    "duration": 5.301
+  },
+  {
+    "text": "earth",
+    "start": 261.209,
+    "duration": 2.571
+  },
+  {
+    "text": "you",
+    "start": 276.87,
+    "duration": 2.06
+  }
+]

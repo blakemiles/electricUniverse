@@ -1,0 +1,2577 @@
+[
+  {
+    "text": "presents\nExposing the Myths of \"Settled Science\"",
+    "start": 5.89,
+    "duration": 4.262
+  },
+  {
+    "text": "at the\nNatural Philosophy Alliance",
+    "start": 10.569,
+    "duration": 2.269
+  },
+  {
+    "text": "20th\nAnnual Conference\nCollege Park Maryland",
+    "start": 13.244,
+    "duration": 2.781
+  },
+  {
+    "text": "Exposing the Myths of Settled Science\nsubtitled - A Guide for the Perplexed -",
+    "start": 21.389,
+    "duration": 4.97
+  },
+  {
+    "text": "And I do understand that the\nNPA members are not perplexed,",
+    "start": 26.384,
+    "duration": 3.674
+  },
+  {
+    "text": "but I ask people here today.",
+    "start": 32.287,
+    "duration": 2.878
+  },
+  {
+    "text": "How many believe that the foundational\nassumptions of the theoretical sciences",
+    "start": 35.19,
+    "duration": 5.419
+  },
+  {
+    "text": "deserve to be called\nsettled science?",
+    "start": 40.634,
+    "duration": 3.123
+  },
+  {
+    "text": "That they are fully secure?",
+    "start": 43.782,
+    "duration": 2.655
+  },
+  {
+    "text": "How did I know that?",
+    "start": 47.754,
+    "duration": 2.268
+  },
+  {
+    "text": "Not even close I heard.",
+    "start": 50.665,
+    "duration": 2.36
+  },
+  {
+    "text": "Just a few observations, 'The myths of\nsettled science rely upon public confusion'.",
+    "start": 53.47,
+    "duration": 5.53
+  },
+  {
+    "text": "I think everyone here understands that\nthat's true to one degree or another.",
+    "start": 59.193,
+    "duration": 4.27
+  },
+  {
+    "text": "In every field people are confused because\nthey don't know what or whom to believe.",
+    "start": 63.488,
+    "duration": 6.449
+  },
+  {
+    "text": "They think the issues are too deep to be\ngrasped by outsiders or by us plebeians.",
+    "start": 71.175,
+    "duration": 7.237
+  },
+  {
+    "text": "Imagination is trapped in the\nmyths of settled science...",
+    "start": 79.165,
+    "duration": 4.554
+  },
+  {
+    "text": "without realizing how\nthese myths arose.",
+    "start": 83.744,
+    "duration": 3.967
+  },
+  {
+    "text": "It's incredible to discover how a couple of\ncore assumptions, foundational assumptions",
+    "start": 88.323,
+    "duration": 7.686
+  },
+  {
+    "text": "filtered into the entire domain, the\nentire edifice of theoretical science.",
+    "start": 96.224,
+    "duration": 5.633
+  },
+  {
+    "text": "The two assumptions are:",
+    "start": 101.882,
+    "duration": 1.847
+  },
+  {
+    "text": "● Gravity alone rules the cosmos.",
+    "start": 103.754,
+    "duration": 4.293
+  },
+  {
+    "text": "● Gravity's behavior must be interpreted\nthrough the lens of relativity theory.",
+    "start": 108.523,
+    "duration": 6.28
+  },
+  {
+    "text": "And I'm just going to concentrate on\nthe first one because I do understand",
+    "start": 114.828,
+    "duration": 4.681
+  },
+  {
+    "text": "that the second one gets a lot of\nattention by members of the NPA.",
+    "start": 119.534,
+    "duration": 5.557
+  },
+  {
+    "text": "Just a quick outline here of the innumerable\ndomains of specialized investigation",
+    "start": 125.764,
+    "duration": 6.955
+  },
+  {
+    "text": "that depend ultimately upon the\nfoundational idea that gravity is king.",
+    "start": 132.719,
+    "duration": 6.792
+  },
+  {
+    "text": "There is no other force doing real\nwork across cosmic distances.",
+    "start": 139.536,
+    "duration": 4.688
+  },
+  {
+    "text": "I presume everybody\ncan see the type,",
+    "start": 153.262,
+    "duration": 2.288
+  },
+  {
+    "text": "I tried to make the type\ndeliberately large here.",
+    "start": 155.575,
+    "duration": 3.449
+  },
+  {
+    "text": "And yet, a new vantage\npoint is emerging today,",
+    "start": 163.135,
+    "duration": 4.795
+  },
+  {
+    "text": "and that vantage point\nis highlighting",
+    "start": 168.494,
+    "duration": 4.127
+  },
+  {
+    "text": "the newly discovered roles of\nelectricity across the cosmos.",
+    "start": 172.646,
+    "duration": 5.278
+  },
+  {
+    "text": "Now, there's no sound playing,\nobviously, there is on my system",
+    "start": 180.281,
+    "duration": 5.071
+  },
+  {
+    "text": "and that's not gonna\nmean a lot, but...",
+    "start": 185.377,
+    "duration": 2.387
+  },
+  {
+    "text": "We always thought that the\nearth was the unique location",
+    "start": 188.033,
+    "duration": 6.647
+  },
+  {
+    "text": "of electrical activity\nat energies of this sort.",
+    "start": 194.705,
+    "duration": 3.541
+  },
+  {
+    "text": "And yet, now we know that the electric force\nis active from microcosm to macrocosm.",
+    "start": 199.365,
+    "duration": 8.696
+  },
+  {
+    "text": "And how many people here\nwould want to defend the idea that",
+    "start": 209.759,
+    "duration": 5.783
+  },
+  {
+    "text": "spectacular structures in space\nof this sort can be reconstructed",
+    "start": 215.567,
+    "duration": 5.691
+  },
+  {
+    "text": "through Newton's\ngravitational equation?",
+    "start": 221.283,
+    "duration": 3.35
+  },
+  {
+    "text": "We honors pioneers such as Kristian\nBirkeland and Hannes Alfvén",
+    "start": 225.173,
+    "duration": 5.477
+  },
+  {
+    "text": "experimental pioneers in the\nrole of electricity in space,",
+    "start": 230.65,
+    "duration": 5.384
+  },
+  {
+    "text": "and dozens of others\ncould be mentioned.",
+    "start": 236.059,
+    "duration": 3.711
+  },
+  {
+    "text": "The key components of an\nElectric Universe paradigm",
+    "start": 239.795,
+    "duration": 3.621
+  },
+  {
+    "text": "are first, electric current\nacross cosmic distances,",
+    "start": 243.441,
+    "duration": 4.675
+  },
+  {
+    "text": "that's across interstellar\nand intergalactic distances;",
+    "start": 248.141,
+    "duration": 5.022
+  },
+  {
+    "text": "electric galaxy formation;\nelectric star formation;",
+    "start": 253.188,
+    "duration": 4.141
+  },
+  {
+    "text": "electric sun and\nelectrified heliosphere;",
+    "start": 257.354,
+    "duration": 3.081
+  },
+  {
+    "text": "electrical scarring\nof planets and moons;",
+    "start": 260.46,
+    "duration": 3.587
+  },
+  {
+    "text": "electric comets, that's comets\nplunging through the electric field",
+    "start": 264.072,
+    "duration": 4.387
+  },
+  {
+    "text": "of the Sun to discharge\nelectrically;",
+    "start": 268.484,
+    "duration": 2.999
+  },
+  {
+    "text": "electricity of life, a huge new domain",
+    "start": 271.508,
+    "duration": 3.195
+  },
+  {
+    "text": "of investigation within the\nElectric Universe community today;",
+    "start": 274.728,
+    "duration": 3.991
+  },
+  {
+    "text": "the quantum role of\nthe electric force.",
+    "start": 278.72,
+    "duration": 4.605
+  },
+  {
+    "text": "I know many people in the\nNPA are exploring this",
+    "start": 283.35,
+    "duration": 3.296
+  },
+  {
+    "text": "and the connection to the\nunderpinnings of gravity itself;",
+    "start": 286.671,
+    "duration": 4.862
+  },
+  {
+    "text": "and the electrified ancient sky,",
+    "start": 291.558,
+    "duration": 2.261
+  },
+  {
+    "text": "that's my own field of\nconcentrated study for decades",
+    "start": 293.819,
+    "duration": 4.469
+  },
+  {
+    "text": "and I'm really not going to even\ntouch that field here today,",
+    "start": 298.313,
+    "duration": 3.858
+  },
+  {
+    "text": "other than to say it does bring\nthe Electric Universe with it.",
+    "start": 302.196,
+    "duration": 3.695
+  },
+  {
+    "text": "Now, I formulated what I call a core\nprediction of the Electric Universe",
+    "start": 305.916,
+    "duration": 4.637
+  },
+  {
+    "text": "based simply on observation of what's in the science news these days.",
+    "start": 310.578,
+    "duration": 5.791
+  },
+  {
+    "text": "When we examine energetic events\nin space, we will always find",
+    "start": 316.394,
+    "duration": 4.411
+  },
+  {
+    "text": "electromagnetic intensities far beyond the\nability of prior theory to explain them.",
+    "start": 320.83,
+    "duration": 6.649
+  },
+  {
+    "text": "And this has been born out to the\nmost extraordinary degree",
+    "start": 329.157,
+    "duration": 4.278
+  },
+  {
+    "text": "and this incidentally\nis why we called our",
+    "start": 333.46,
+    "duration": 3.455
+  },
+  {
+    "text": "conference earlier this\nyear 'The Tipping Point'.",
+    "start": 336.94,
+    "duration": 3.404
+  },
+  {
+    "text": "It's not a reference to a\npsychological / cultural phenomenon",
+    "start": 340.369,
+    "duration": 4.23
+  },
+  {
+    "text": "this phenomenon hasn't entered into\npopular consciousness at all yet.",
+    "start": 344.624,
+    "duration": 4.36
+  },
+  {
+    "text": "It hasn't found its way even any clear and\nmeaningful way into the scientific media,",
+    "start": 349.009,
+    "duration": 8.165
+  },
+  {
+    "text": "but the facts as we say, 'discovery\nby discovery one surprise at a time',",
+    "start": 357.199,
+    "duration": 7.984
+  },
+  {
+    "text": "taking the entire field of inquiry into\nthe Electric Universe unannounced.",
+    "start": 365.208,
+    "duration": 5.75
+  },
+  {
+    "text": "And the admonition is",
+    "start": 374.231,
+    "duration": 2.58
+  },
+  {
+    "text": "question all theoretical assumptions\nwhen they stopped working.",
+    "start": 376.836,
+    "duration": 5.49
+  },
+  {
+    "text": "The big picture of space\nwe say is broken,",
+    "start": 383.286,
+    "duration": 3.173
+  },
+  {
+    "text": "broken in more ways than\none, it's not working",
+    "start": 386.484,
+    "duration": 2.861
+  },
+  {
+    "text": "and it's broken\nin the sense that",
+    "start": 389.37,
+    "duration": 1.908
+  },
+  {
+    "text": "the picture of the cosmos is\none of isolated islands.",
+    "start": 391.303,
+    "duration": 3.587
+  },
+  {
+    "text": "An isolated island means that to\ndiscover what's going on dynamically",
+    "start": 394.915,
+    "duration": 5.679
+  },
+  {
+    "text": "you can only find the answer\nby looking inside the island,",
+    "start": 400.619,
+    "duration": 4.462
+  },
+  {
+    "text": "the larger context of surrounding space has\nnothing to contribute by way of an answer.",
+    "start": 405.106,
+    "duration": 6.56
+  },
+  {
+    "text": "Thanks to the explosion of\ntechnology in recent decades",
+    "start": 412.472,
+    "duration": 5.286
+  },
+  {
+    "text": "we have the opportunity\nto see objects in space",
+    "start": 417.783,
+    "duration": 2.926
+  },
+  {
+    "text": "across the entire\nelectromagnetic spectrum",
+    "start": 420.709,
+    "duration": 2.846
+  },
+  {
+    "text": "Well, this is the ideal for anyone\npursuing the Electric Universe paradigm.",
+    "start": 423.58,
+    "duration": 7.093
+  },
+  {
+    "text": "Here was galaxy M87, just\nbefore the space-age.",
+    "start": 430.698,
+    "duration": 4.489
+  },
+  {
+    "text": "Now, M87 courtesy of\nHubble Telescope",
+    "start": 436.37,
+    "duration": 4.801
+  },
+  {
+    "text": "and a structure spreading thousands of light\nyears across the deep vacuum of space.",
+    "start": 441.196,
+    "duration": 7.452
+  },
+  {
+    "text": "X-ray emissions concentrated\nalong this jet,",
+    "start": 450.345,
+    "duration": 3.67
+  },
+  {
+    "text": "remembering that this\njet is across a vacuum",
+    "start": 454.04,
+    "duration": 3.967
+  },
+  {
+    "text": "greater than we can produce\nand any laboratory.",
+    "start": 458.032,
+    "duration": 3.249
+  },
+  {
+    "text": "It is entirely enigmatic in an\nelectrically neutral Cosmos.",
+    "start": 461.306,
+    "duration": 6.069
+  },
+  {
+    "text": "At the core of M87 we see emissions\nin radio and X-ray wavelengths,",
+    "start": 469.093,
+    "duration": 7.88
+  },
+  {
+    "text": "but actually across\nthe entire spectrum",
+    "start": 476.998,
+    "duration": 2.338
+  },
+  {
+    "text": "and that's the signature\nof synchrotron radiation,",
+    "start": 479.361,
+    "duration": 2.561
+  },
+  {
+    "text": "the highest magnitude radiation\nknown to science today.",
+    "start": 481.947,
+    "duration": 5.868
+  },
+  {
+    "text": "And synchrotron radiation was first\npredicted by Nobel Laureate,",
+    "start": 489.223,
+    "duration": 5.481
+  },
+  {
+    "text": "father of modern plasma\nscience, Hannes Alfvén.",
+    "start": 494.729,
+    "duration": 3.5
+  },
+  {
+    "text": "But what does standard theory see?",
+    "start": 499.94,
+    "duration": 3.06
+  },
+  {
+    "text": "Standard theory sees this\nspeck that is identified,",
+    "start": 503.593,
+    "duration": 6.221
+  },
+  {
+    "text": "theoretically, as the\nirresistible attractor.",
+    "start": 509.839,
+    "duration": 4.135
+  },
+  {
+    "text": "But what is it doing?",
+    "start": 513.999,
+    "duration": 1.478
+  },
+  {
+    "text": "It is shooting charged particles away\nfrom the black hole at the center of M87.",
+    "start": 515.502,
+    "duration": 7.904
+  },
+  {
+    "text": "It's important for everyone considering\nan Electric Universe paradigm",
+    "start": 523.431,
+    "duration": 5.23
+  },
+  {
+    "text": "to wrap their minds\nas best they can",
+    "start": 529.558,
+    "duration": 2.99
+  },
+  {
+    "text": "around the distance involved\nin this stupendous jets.",
+    "start": 532.573,
+    "duration": 4.508
+  },
+  {
+    "text": "How far does light\ntravel in a second?",
+    "start": 537.106,
+    "duration": 3.698
+  },
+  {
+    "text": "186,000 miles",
+    "start": 540.829,
+    "duration": 2.391
+  },
+  {
+    "text": "How far does it\ntravel in a year?",
+    "start": 543.245,
+    "duration": 2.03
+  },
+  {
+    "text": "It's something like\n5.88 trillion miles",
+    "start": 545.3,
+    "duration": 3.976
+  },
+  {
+    "text": "and that is a light\nyear of course.",
+    "start": 549.301,
+    "duration": 2.132
+  },
+  {
+    "text": "These distances are typically\ncounted in parsecs.",
+    "start": 551.458,
+    "duration": 4.814
+  },
+  {
+    "text": "A parsec is 3.26 light-years.",
+    "start": 556.297,
+    "duration": 4.282
+  },
+  {
+    "text": "This jet is 50,000 parsecs,",
+    "start": 560.604,
+    "duration": 5.649
+  },
+  {
+    "text": "and now it's measured\nelectrically.",
+    "start": 566.278,
+    "duration": 3.808
+  },
+  {
+    "text": "Measurement of the Electric\nCurrent in a Kpc-Scale Jet.",
+    "start": 570.111,
+    "duration": 5.462
+  },
+  {
+    "text": "\"We obtained for the first time a direct determination\nof a galactic-scale electric current (~3 x 10^18 A).\"",
+    "start": 576.232,
+    "duration": 6.673
+  },
+  {
+    "text": "It's just unfathomable\nwhat is occurring across",
+    "start": 582.93,
+    "duration": 4.062
+  },
+  {
+    "text": "this unimaginable distance\nof vacuum in space,",
+    "start": 587.017,
+    "duration": 5.387
+  },
+  {
+    "text": "\"Our analysis strongly supports a model where\nthe jet energy flow is mainly electromagnetic.\"",
+    "start": 592.429,
+    "duration": 7.151
+  },
+  {
+    "text": "There are no islands in space.",
+    "start": 601.409,
+    "duration": 2.36
+  },
+  {
+    "text": "Just imagine having to\ndefend the idea that",
+    "start": 603.794,
+    "duration": 3.648
+  },
+  {
+    "text": "infinitesimal speck inside that glow to the\nlower left is producing all of this.",
+    "start": 607.467,
+    "duration": 6.121
+  },
+  {
+    "text": "The truth is that if you\nhad an electron microscope",
+    "start": 613.613,
+    "duration": 4.564
+  },
+  {
+    "text": "to look at this image at this scale,\nyou would not see the black hole.",
+    "start": 618.202,
+    "duration": 4.702
+  },
+  {
+    "text": "And if the image that you\ndid see was brought up",
+    "start": 622.929,
+    "duration": 3.68
+  },
+  {
+    "text": "and you had another electron microscope to\nlook, you still wouldn't see the black hole.",
+    "start": 626.61,
+    "duration": 5.267
+  },
+  {
+    "text": "How did it happen that we became\nso confined theoretically",
+    "start": 632.837,
+    "duration": 5.578
+  },
+  {
+    "text": "that we are required to look\ninside that galactic core",
+    "start": 638.44,
+    "duration": 4.745
+  },
+  {
+    "text": "and ignore the charged particles\nthat constitute a sea of plasma",
+    "start": 643.21,
+    "duration": 5.686
+  },
+  {
+    "text": "feeling this unbelievable\nvolume of space",
+    "start": 648.921,
+    "duration": 3.744
+  },
+  {
+    "text": "and it really is impossible to\nwrap our minds around that.",
+    "start": 652.69,
+    "duration": 3.81
+  },
+  {
+    "text": "Galaxies are immersed in the\nsurrounding electromagnetic emissions.",
+    "start": 657.453,
+    "duration": 7.682
+  },
+  {
+    "text": "There's the galaxy.",
+    "start": 667.372,
+    "duration": 2.027
+  },
+  {
+    "text": "And again, why would we ignore\nthe power of charged particles",
+    "start": 669.424,
+    "duration": 5.676
+  },
+  {
+    "text": "in that immense volume of space\nthat constitutes the context",
+    "start": 675.125,
+    "duration": 5.99
+  },
+  {
+    "text": "of this galaxies appearance?",
+    "start": 681.14,
+    "duration": 2.713
+  },
+  {
+    "text": "And now we know that magnetic\nfields pervade the universe,",
+    "start": 685.004,
+    "duration": 5.176
+  },
+  {
+    "text": "and we see this as science coming to the\nElectric Universe through the back door.",
+    "start": 691.37,
+    "duration": 6.576
+  },
+  {
+    "text": "It is not possible in the vacuum of\nspace to create a magnetic field",
+    "start": 697.971,
+    "duration": 4.506
+  },
+  {
+    "text": "or to sustain a magnetic field in\nthe absence of electric currents.",
+    "start": 702.502,
+    "duration": 5.378
+  },
+  {
+    "text": "We're talking about converging\nevidence, and we can bring the focus",
+    "start": 709.799,
+    "duration": 4.034
+  },
+  {
+    "text": "down to our own cosmic\nneighborhood and explore the sun",
+    "start": 713.858,
+    "duration": 4.102
+  },
+  {
+    "text": "and ask ourselves now the question\nthat has never been ask in",
+    "start": 718.603,
+    "duration": 4.815
+  },
+  {
+    "text": "70 years of solar physics.",
+    "start": 723.443,
+    "duration": 2.113
+  },
+  {
+    "text": "Is the Sun truly\nan island in space",
+    "start": 727.158,
+    "duration": 5.183
+  },
+  {
+    "text": "with no electrical connection to\nbillions of stars in the sea of plasma",
+    "start": 733.712,
+    "duration": 5.48
+  },
+  {
+    "text": "that constitute the Milky Way?",
+    "start": 739.217,
+    "duration": 2.522
+  },
+  {
+    "text": "Interestingly, we now see,\ncourtesy of the new technologies,",
+    "start": 743.294,
+    "duration": 6.897
+  },
+  {
+    "text": "the new telescopes and so on,",
+    "start": 750.216,
+    "duration": 2.218
+  },
+  {
+    "text": "we see star formation along concentrated\nplasma filaments or current filaments",
+    "start": 752.459,
+    "duration": 6.939
+  },
+  {
+    "text": "and the expression 'Beads on a String' is\ncoming into the popular scientific lexicon.",
+    "start": 759.423,
+    "duration": 5.847
+  },
+  {
+    "text": "\"Beads on a String\"",
+    "start": 765.295,
+    "duration": 1.091
+  },
+  {
+    "text": "Well, that's the very phrasing used by\nHannes Alfvén and such plasma scientists",
+    "start": 766.411,
+    "duration": 5.593
+  },
+  {
+    "text": "as Anthony Peratt who we\ngot to know quite well.",
+    "start": 772.029,
+    "duration": 3.74
+  },
+  {
+    "text": "\"Beads on a String\"",
+    "start": 775.794,
+    "duration": 2.216
+  },
+  {
+    "text": "Now, does gravity\ncreate filamentation?",
+    "start": 778.035,
+    "duration": 3.41
+  },
+  {
+    "text": "Can gravity act on a filamentation to create\na concentration of matter in a sphere?",
+    "start": 781.47,
+    "duration": 5.899
+  },
+  {
+    "text": "That concentration into a star forming\nregion and the birth of a sun or star",
+    "start": 787.394,
+    "duration": 9.005
+  },
+  {
+    "text": "is the language of the\nplasma cosmologist.",
+    "start": 796.424,
+    "duration": 3.435
+  },
+  {
+    "text": "And here's an amazing fact,\nwe didn't do this graph here:",
+    "start": 801.605,
+    "duration": 4.379
+  },
+  {
+    "text": "the width of those filaments has\nnow been measured in infrared,",
+    "start": 806.009,
+    "duration": 5.073
+  },
+  {
+    "text": "and they are\nstrikingly consistent.",
+    "start": 811.107,
+    "duration": 4.148
+  },
+  {
+    "text": "This is from the Herschel\ntelescope, and you can see",
+    "start": 817.231,
+    "duration": 4.153
+  },
+  {
+    "text": "the region on the\nelectromagnetic spectrum",
+    "start": 822.368,
+    "duration": 3.563
+  },
+  {
+    "text": "where they are able\nto actually measure",
+    "start": 825.956,
+    "duration": 3.563
+  },
+  {
+    "text": "the widths of these\nfilaments quite precisely.",
+    "start": 829.544,
+    "duration": 3.019
+  },
+  {
+    "text": "And again, that is a prediction\nof plasma cosmology.",
+    "start": 832.588,
+    "duration": 4.269
+  },
+  {
+    "text": "\"This consistency of the widths\ndemands an explanation.\"",
+    "start": 837.616,
+    "duration": 4.246
+  },
+  {
+    "text": "\"...Herschel has shown that newly-born stars\nare often found in the densest parts of them.\"",
+    "start": 842.823,
+    "duration": 5.522
+  },
+  {
+    "text": "That's a prediction of\nplasma cosmology.",
+    "start": 848.37,
+    "duration": 3.219
+  },
+  {
+    "text": "Then, to explore the heliospheric\nboundary, we resorted to the IBEX mission.",
+    "start": 853.778,
+    "duration": 7.127
+  },
+  {
+    "text": "The Interstellar\nBoundary Explorer",
+    "start": 860.93,
+    "duration": 2.003
+  },
+  {
+    "text": "It was funded on the basis of 30\npredictions, and every prediction failed!",
+    "start": 862.958,
+    "duration": 5.849
+  },
+  {
+    "text": "The thing that's really shocking is\nthis ribbon of energetic neutral atoms.",
+    "start": 869.982,
+    "duration": 5.92
+  },
+  {
+    "text": "Why in the deep vacuum of space",
+    "start": 875.927,
+    "duration": 2.507
+  },
+  {
+    "text": "would atoms ever be energized\nor gather into a ribbon?",
+    "start": 878.459,
+    "duration": 5.189
+  },
+  {
+    "text": "This is what happens in an electrical\ninterpretation of the heliospheric boundary.",
+    "start": 883.673,
+    "duration": 6.276
+  },
+  {
+    "text": "Voyager's out there now, and it's left\nthem all scratching their heads.",
+    "start": 890.724,
+    "duration": 4.106
+  },
+  {
+    "text": "I'm not the one to\nargue a point here",
+    "start": 894.855,
+    "duration": 4.698
+  },
+  {
+    "text": "but I can tell you if you will follow\nWal Thornhill's predictions",
+    "start": 899.578,
+    "duration": 3.46
+  },
+  {
+    "text": "with respect to what is found\nat the heliosphere boundary,",
+    "start": 903.063,
+    "duration": 3.268
+  },
+  {
+    "text": "you will see a remarkable accord.",
+    "start": 906.356,
+    "duration": 2.614
+  },
+  {
+    "text": "And nothing that was anticipated\nby conventional theory,",
+    "start": 908.97,
+    "duration": 4.69
+  },
+  {
+    "text": "which imagined the heliosphere\nmoving to neutral space,",
+    "start": 913.685,
+    "duration": 4.138
+  },
+  {
+    "text": "kinda like a comet that’s warping the\nmagnetosphere into kind of comet-like tail,",
+    "start": 917.848,
+    "duration": 7.652
+  },
+  {
+    "text": "it's not there.",
+    "start": 925.525,
+    "duration": 1.395
+  },
+  {
+    "text": "\"It's a huge surprise. In some sense we have\ntouched the intergalactic medium,",
+    "start": 927.301,
+    "duration": 4.093
+  },
+  {
+    "text": "but we're still inside\nthe sun's house.\"",
+    "start": 931.419,
+    "duration": 2.263
+  },
+  {
+    "text": "\"The models that have been thought to predict\nwhat should happen are all incorrect.\"",
+    "start": 933.707,
+    "duration": 4.964
+  },
+  {
+    "text": "This is not a small thing.",
+    "start": 938.696,
+    "duration": 2.202
+  },
+  {
+    "text": "So, we come right to the\nSun itself and ask,",
+    "start": 941.244,
+    "duration": 3.222
+  },
+  {
+    "text": "well, we know its big and round,",
+    "start": 944.491,
+    "duration": 1.874
+  },
+  {
+    "text": "but do we really know much\nmore about it accurately.",
+    "start": 946.39,
+    "duration": 3.404
+  },
+  {
+    "text": "It's been on the table for decades",
+    "start": 952.377,
+    "duration": 4.235
+  },
+  {
+    "text": "the idea that the Sun\ncould be a glow discharge",
+    "start": 956.637,
+    "duration": 3.226
+  },
+  {
+    "text": "responding to an\nelectrified environment.",
+    "start": 959.888,
+    "duration": 2.797
+  },
+  {
+    "text": "Geissler tubes, Crookes\ntubes, neon tubes",
+    "start": 962.71,
+    "duration": 4.927
+  },
+  {
+    "text": "and all those exquisite\ncultural expressions.",
+    "start": 967.662,
+    "duration": 3.46
+  },
+  {
+    "text": "Controlled Fusion?",
+    "start": 976.342,
+    "duration": 1.943
+  },
+  {
+    "text": "It is time to actually raise the\nthermonuclear Sun model to doubt,",
+    "start": 978.31,
+    "duration": 6.499
+  },
+  {
+    "text": "to serious questioning.",
+    "start": 984.834,
+    "duration": 2.865
+  },
+  {
+    "text": "We know thermonuclear fusion occurs;\nwe've seen it out of control.",
+    "start": 987.724,
+    "duration": 6.206
+  },
+  {
+    "text": "But we were so confident in the\nthermonuclear core of the Sun",
+    "start": 993.955,
+    "duration": 4.678
+  },
+  {
+    "text": "that we have spent hundreds\nof billions of dollars",
+    "start": 998.658,
+    "duration": 3.082
+  },
+  {
+    "text": "believing we could replicate\nthat within 20 years.",
+    "start": 1001.765,
+    "duration": 3.244
+  },
+  {
+    "text": "The 20-year timetable\nwas announced in 1950,",
+    "start": 1005.034,
+    "duration": 3.125
+  },
+  {
+    "text": "and we're still seeing\nthe 20-year timetable.",
+    "start": 1008.184,
+    "duration": 2.731
+  },
+  {
+    "text": "This is a tokamak.",
+    "start": 1010.94,
+    "duration": 3.13
+  },
+  {
+    "text": "\"In any useful fusion device, the energy\noutput must exceed the energy required",
+    "start": 1014.095,
+    "duration": 6.499
+  },
+  {
+    "text": "to confine and heat the plasma.\"",
+    "start": 1020.619,
+    "duration": 3.038
+  },
+  {
+    "text": "It has never happened!",
+    "start": 1023.682,
+    "duration": 1.942
+  },
+  {
+    "text": "Is it possible for us to begin\nwondering if our assumption",
+    "start": 1025.649,
+    "duration": 5.035
+  },
+  {
+    "text": "about what was possible and what is\noccurring in the Sun is actually incorrect.",
+    "start": 1030.709,
+    "duration": 6.229
+  },
+  {
+    "text": "This then forces on us a\nquestion of logic and reasoning",
+    "start": 1036.963,
+    "duration": 5.376
+  },
+  {
+    "text": "on the basis of\nthings we now know.",
+    "start": 1042.364,
+    "duration": 2.172
+  },
+  {
+    "text": "How many attributes of the Sun follow from\nthe assumption of a thermonuclear core?",
+    "start": 1044.561,
+    "duration": 6.246
+  },
+  {
+    "text": "It's incredible,\nnot a single one.",
+    "start": 1050.832,
+    "duration": 4.779
+  },
+  {
+    "text": "This will drive some people crazy, and\nthey'll immediately challenges us on this,",
+    "start": 1055.636,
+    "duration": 5.33
+  },
+  {
+    "text": "but I believe it's\nabsolutely true.",
+    "start": 1060.991,
+    "duration": 2.72
+  },
+  {
+    "text": "One question can be formulated\nin these different ways,",
+    "start": 1063.736,
+    "duration": 4.657
+  },
+  {
+    "text": "and do gases just boil off the\nsurface of the Sun as \"wind\"",
+    "start": 1068.418,
+    "duration": 3.392
+  },
+  {
+    "text": "as that last question is posed?",
+    "start": 1071.835,
+    "duration": 2.24
+  },
+  {
+    "text": "Are surface features driven\nentirely from below?",
+    "start": 1074.1,
+    "duration": 4.096
+  },
+  {
+    "text": "Are sunspot penumbra the \"convection\ncells\" we assume them to be?",
+    "start": 1078.684,
+    "duration": 4.816
+  },
+  {
+    "text": "Now, I believe that the answer\nto all of these questions is",
+    "start": 1083.525,
+    "duration": 5.32
+  },
+  {
+    "text": "not just no, but a definitive\n- No - in the sense that",
+    "start": 1088.87,
+    "duration": 4.85
+  },
+  {
+    "text": "when all the evidence bearing on\nthe question, once you ask it,",
+    "start": 1093.72,
+    "duration": 4.625
+  },
+  {
+    "text": "it is not a coincidence that it's\nalways pointing to the negative answer.",
+    "start": 1098.37,
+    "duration": 5.726
+  },
+  {
+    "text": "So, \"The Neutrino Problem\"",
+    "start": 1109.158,
+    "duration": 2.23
+  },
+  {
+    "text": "that was the phrase\nfrom solar physics",
+    "start": 1111.413,
+    "duration": 2.75
+  },
+  {
+    "text": "when they examined the\nneutrino production of the Sun",
+    "start": 1114.188,
+    "duration": 5.266
+  },
+  {
+    "text": "and they found it was just one-third of\nwhat was predicted by their model.",
+    "start": 1119.479,
+    "duration": 5.565
+  },
+  {
+    "text": "Since then, there's been a lot of\nrationalization as to what's happening",
+    "start": 1125.069,
+    "duration": 3.507
+  },
+  {
+    "text": "to neutrinos on their course from the Sun\nand that's not something for me to get into.",
+    "start": 1128.601,
+    "duration": 4.385
+  },
+  {
+    "text": "But I can tell you, that in electrical terms,\nthere is an answer to the neutrino issue",
+    "start": 1133.011,
+    "duration": 7.216
+  },
+  {
+    "text": "that comes from a completely\ndifferent way of seen everything.",
+    "start": 1140.252,
+    "duration": 5.044
+  },
+  {
+    "text": "When a coronal mass ejection, a particularly\nstrong coronal mass ejection occurs,",
+    "start": 1145.965,
+    "duration": 6.258
+  },
+  {
+    "text": "the neutrino count goes up.",
+    "start": 1152.248,
+    "duration": 2.314
+  },
+  {
+    "text": "Now, a coronal mass\nejection is a surface event.",
+    "start": 1155.236,
+    "duration": 4.547
+  },
+  {
+    "text": "Once we see that a surface\nevent is creating neutrinos",
+    "start": 1161.291,
+    "duration": 5.786
+  },
+  {
+    "text": "thermonuclear reactions are\noccurring at the surface.",
+    "start": 1167.102,
+    "duration": 3.898
+  },
+  {
+    "text": "How can we ignore the simple\nfact that the surface of the Sun",
+    "start": 1171.025,
+    "duration": 5.68
+  },
+  {
+    "text": "is incomparably greater then the focal\npoint of a coronal mass ejection.",
+    "start": 1176.73,
+    "duration": 7.994
+  },
+  {
+    "text": "Could we redirect scientific investigation,\nat least long enough, to determine",
+    "start": 1185.144,
+    "duration": 7.735
+  },
+  {
+    "text": "if the Sun is dynamically\npresenting behavior consistent with",
+    "start": 1192.904,
+    "duration": 5.939
+  },
+  {
+    "text": "thermonuclear reactions\nat the surface?",
+    "start": 1198.868,
+    "duration": 3.367
+  },
+  {
+    "text": "There was on Wikipedia a\nvery well presented page",
+    "start": 1202.26,
+    "duration": 5.439
+  },
+  {
+    "text": "on surface thermonuclear\nreactions on the Sun,",
+    "start": 1207.724,
+    "duration": 4.39
+  },
+  {
+    "text": "and you can imagine\nwhat happened to it.",
+    "start": 1212.139,
+    "duration": 2.579
+  },
+  {
+    "text": "A year and a half or two\nyears ago it was taken down.",
+    "start": 1214.743,
+    "duration": 3.116
+  },
+  {
+    "text": "Solar Constancy\n&\nSolar Variability",
+    "start": 1218.162,
+    "duration": 2.165
+  },
+  {
+    "text": "I see the issue of constancy on the one\nhand and variability on the other hand",
+    "start": 1220.352,
+    "duration": 6.437
+  },
+  {
+    "text": "as posing questions that are\nsimply not been asked.",
+    "start": 1226.814,
+    "duration": 3.353
+  },
+  {
+    "text": "We can pose them from\ninterdisciplinary vantage point",
+    "start": 1230.192,
+    "duration": 3.559
+  },
+  {
+    "text": "just looking at issues\nof logic and reasoning.",
+    "start": 1233.776,
+    "duration": 3.644
+  },
+  {
+    "text": "In visible light the Sun does not\nvary more than one-tenth of 1%",
+    "start": 1238.38,
+    "duration": 5.675
+  },
+  {
+    "text": "over the entire solar cycle.",
+    "start": 1244.08,
+    "duration": 2.292
+  },
+  {
+    "text": "That's the general rule.",
+    "start": 1247.328,
+    "duration": 2.018
+  },
+  {
+    "text": "At higher frequencies, which are\nnot coincidentally at higher elevations",
+    "start": 1250.4,
+    "duration": 6.435
+  },
+  {
+    "text": "the variability grows profound.",
+    "start": 1256.86,
+    "duration": 3.394
+  },
+  {
+    "text": "Here's the variability\nin ultraviolet light.",
+    "start": 1260.279,
+    "duration": 3.197
+  },
+  {
+    "text": "And in X-rays through one solar cycle,\nthe Sun virtually blinks out.",
+    "start": 1263.817,
+    "duration": 7.688
+  },
+  {
+    "text": "Additionally, you have in X-rays this\nequally profound regional variation.",
+    "start": 1272.442,
+    "duration": 6.708
+  },
+  {
+    "text": "And we have to reflect on how could\nit happen that a thermonuclear core",
+    "start": 1279.175,
+    "duration": 4.677
+  },
+  {
+    "text": "would produce by heat transferred\noutward a uniquely stable photosphere.",
+    "start": 1283.877,
+    "duration": 6.883
+  },
+  {
+    "text": "And then as you rise\ninto a higher elevations,",
+    "start": 1290.785,
+    "duration": 3.416
+  },
+  {
+    "text": "you get profound\nvariability of emissions.",
+    "start": 1294.226,
+    "duration": 4.342
+  },
+  {
+    "text": "What is causing\nthat variability?",
+    "start": 1298.973,
+    "duration": 2.84
+  },
+  {
+    "text": "Well, here is something that bears\ndirectly on that kind of question.",
+    "start": 1301.838,
+    "duration": 5.392
+  },
+  {
+    "text": "And the line you see\nthere is a voltage curve",
+    "start": 1307.255,
+    "duration": 3.651
+  },
+  {
+    "text": "that was initially\nproduced by Ralph Juergens,",
+    "start": 1310.931,
+    "duration": 3.21
+  },
+  {
+    "text": "a brilliant engineer, who as you might say\nthe father of the electric sun hypothesis,",
+    "start": 1314.166,
+    "duration": 5.853
+  },
+  {
+    "text": "this goes back four\nor five decades.",
+    "start": 1320.044,
+    "duration": 2.615
+  },
+  {
+    "text": "What that curve is, is a\ncurve of the glow discharge,",
+    "start": 1322.684,
+    "duration": 3.866
+  },
+  {
+    "text": "the voltage curve of\nthe glow discharge.",
+    "start": 1326.575,
+    "duration": 2.787
+  },
+  {
+    "text": "Wal Thornhill then has worked with this, and\nDon Scott has worked with this curve",
+    "start": 1329.387,
+    "duration": 5.916
+  },
+  {
+    "text": "to explore how a voltage curve could\nrelate to the known layers of the Sun.",
+    "start": 1335.328,
+    "duration": 6.027
+  },
+  {
+    "text": "A breakthrough occurred with Don\nScott when he looked at that curve",
+    "start": 1341.38,
+    "duration": 4.023
+  },
+  {
+    "text": "and he said, that is the configuration,\nthat's the profile of a transistor.",
+    "start": 1345.428,
+    "duration": 7.992
+  },
+  {
+    "text": "And this gave rise then to a breakthrough\nconcept of a transistor action on the Sun.",
+    "start": 1353.602,
+    "duration": 7.722
+  },
+  {
+    "text": "And if you look at that curve that is\nstable across the photosphere",
+    "start": 1361.349,
+    "duration": 4.591
+  },
+  {
+    "text": "just the slightest elevation\nor depression of that curve,",
+    "start": 1365.965,
+    "duration": 4.378
+  },
+  {
+    "text": "if it's a transistor, would be\nregulating to a much greater degree",
+    "start": 1370.368,
+    "duration": 6.011
+  },
+  {
+    "text": "other activity of the Sun,\njust as a transistor does.",
+    "start": 1376.404,
+    "duration": 4.109
+  },
+  {
+    "text": "I am not qualified to evaluate the\ntransistor effect in the Sun,",
+    "start": 1380.538,
+    "duration": 4.831
+  },
+  {
+    "text": "but I have asked several\nelectric engineers,",
+    "start": 1385.394,
+    "duration": 3.106
+  },
+  {
+    "text": "one is here today,\nin fact - Hi Roger,",
+    "start": 1388.525,
+    "duration": 3.483
+  },
+  {
+    "text": "and everyone has said,\nit makes perfect sense.",
+    "start": 1392.033,
+    "duration": 4.272
+  },
+  {
+    "text": "The spicules of the Sun have to be\ninvestigated from a new vantage point",
+    "start": 1397.394,
+    "duration": 4.3
+  },
+  {
+    "text": "and so much of this has to do with the\ninter-facial dynamics of different plasma regions",
+    "start": 1401.719,
+    "duration": 5.29
+  },
+  {
+    "text": "and charged particles being launched\ninto higher regions and so on.",
+    "start": 1407.034,
+    "duration": 4.036
+  },
+  {
+    "text": "And to both Don Scott\nand Wal Thornhill",
+    "start": 1411.095,
+    "duration": 4.573
+  },
+  {
+    "text": "place a great emphasis on the\nstudy of the spicule dynamics.",
+    "start": 1415.693,
+    "duration": 4.779
+  },
+  {
+    "text": "Solar Wind",
+    "start": 1420.744,
+    "duration": 4.578
+  },
+  {
+    "text": "Certain aspects of the\nSun are so clear-cut",
+    "start": 1425.347,
+    "duration": 4.907
+  },
+  {
+    "text": "in demonstrating that the sun\nhas this electrical underpinning.",
+    "start": 1430.279,
+    "duration": 5.824
+  },
+  {
+    "text": "But we hear from NASA that:",
+    "start": 1436.128,
+    "duration": 2.5
+  },
+  {
+    "text": "\"[The solar wind] defies a complete\ndescription by any one theory.\"",
+    "start": 1438.653,
+    "duration": 4.919
+  },
+  {
+    "text": "They say, \"It's hotter than expected,\nfor one, and no one has yet agreed",
+    "start": 1444.581,
+    "duration": 3.889
+  },
+  {
+    "text": "which of several theories\noffers the best explanation...\"",
+    "start": 1448.495,
+    "duration": 3.84
+  },
+  {
+    "text": "But these statements are made\nbecause there's no acknowledgment",
+    "start": 1452.36,
+    "duration": 4.24
+  },
+  {
+    "text": "that an electric sun hypothesis\ndeserves consideration.",
+    "start": 1456.625,
+    "duration": 4.682
+  },
+  {
+    "text": "And I believe that this chart is\nthe single most important chart",
+    "start": 1462.371,
+    "duration": 4.973
+  },
+  {
+    "text": "that has come out\nthe electric sun concept",
+    "start": 1467.369,
+    "duration": 3.761
+  },
+  {
+    "text": "because it is showing you charged particles\ndoing what only an electric field can do.",
+    "start": 1471.155,
+    "duration": 6.666
+  },
+  {
+    "text": "You see down at the Sun's\nsurface into the lower corona",
+    "start": 1478.329,
+    "duration": 4.006
+  },
+  {
+    "text": "and into the upper corona\nspectacular acceleration.",
+    "start": 1482.36,
+    "duration": 4.285
+  },
+  {
+    "text": "And then, across interplanetary\nspace 96 million miles",
+    "start": 1486.67,
+    "duration": 6.43
+  },
+  {
+    "text": "these charged particles are slowly,\nmile by mile, being accelerated,",
+    "start": 1493.125,
+    "duration": 6.81
+  },
+  {
+    "text": "very slowly and immeasurably\nat any particular point",
+    "start": 1499.96,
+    "duration": 6.688
+  },
+  {
+    "text": "but, this is published fact, accelerated\nacross interplanetary distances",
+    "start": 1506.673,
+    "duration": 6.697
+  },
+  {
+    "text": "and they are not\nlittle rocket ships.",
+    "start": 1513.395,
+    "duration": 2.449
+  },
+  {
+    "text": "Something is acting on\nthese charged particles,",
+    "start": 1515.869,
+    "duration": 3.854
+  },
+  {
+    "text": "and that something as demonstrated\nin the laboratory for centuries,",
+    "start": 1519.748,
+    "duration": 5.051
+  },
+  {
+    "text": "that something is\nan electric field.",
+    "start": 1524.824,
+    "duration": 2.935
+  },
+  {
+    "text": "It's always good when there's an issue\nof principle or dynamic activity",
+    "start": 1529.107,
+    "duration": 6.319
+  },
+  {
+    "text": "with a model behind it,\ntake it to the extremes.",
+    "start": 1535.451,
+    "duration": 3.122
+  },
+  {
+    "text": "And the transistor effect would in fact allow\nfor the solar wind to completely stop",
+    "start": 1538.89,
+    "duration": 5.591
+  },
+  {
+    "text": "because it's being regulated by a superior\nregulator, which is across the photosphere.",
+    "start": 1544.506,
+    "duration": 5.565
+  },
+  {
+    "text": "And in January 2005, a coronal mass\nejection reach the earth in 30 minutes.",
+    "start": 1550.096,
+    "duration": 7.058
+  },
+  {
+    "text": "It was traveling a quarter the speed of\nlight by the time it reached the Earth.",
+    "start": 1557.179,
+    "duration": 5.798
+  },
+  {
+    "text": "So, it's not a small matter\nto simply acknowledge",
+    "start": 1563.667,
+    "duration": 4.74
+  },
+  {
+    "text": "that an electric field is\nself-evidently present.",
+    "start": 1568.432,
+    "duration": 3.468
+  },
+  {
+    "text": "There is nothing known to science\nwhich could accomplish that extreme",
+    "start": 1571.925,
+    "duration": 3.832
+  },
+  {
+    "text": "other than any electric field.",
+    "start": 1575.782,
+    "duration": 2.197
+  },
+  {
+    "text": "Photosphere",
+    "start": 1578.469,
+    "duration": 2.673
+  },
+  {
+    "text": "It's imagery of this sort that has convinced\nfolks that through the convective zone",
+    "start": 1581.167,
+    "duration": 7.331
+  },
+  {
+    "text": "temperatures plasma are\nbubbling upward",
+    "start": 1588.523,
+    "duration": 4.29
+  },
+  {
+    "text": "to form granulation or\ncellular structures.",
+    "start": 1592.838,
+    "duration": 3.407
+  },
+  {
+    "text": "But we have to ask the question,",
+    "start": 1596.847,
+    "duration": 1.896
+  },
+  {
+    "text": "\"Are all energetic events on the Sun being\ndriven by forces acting from below?\"",
+    "start": 1598.768,
+    "duration": 5.251
+  },
+  {
+    "text": "That's the bedrock of standard theory:\neverything is energized from below.",
+    "start": 1604.044,
+    "duration": 5.029
+  },
+  {
+    "text": "Is there no evidence for\nelectrical action from above?",
+    "start": 1609.098,
+    "duration": 3.142
+  },
+  {
+    "text": "The evidence appears to be everywhere\nif we'll just ask the question.",
+    "start": 1612.265,
+    "duration": 5.079
+  },
+  {
+    "text": "Here's the idea of the magnetic\nflux-injection hypothesis",
+    "start": 1619.151,
+    "duration": 5.302
+  },
+  {
+    "text": "if you look at these\ntwisted magnetic fields,",
+    "start": 1624.478,
+    "duration": 2.975
+  },
+  {
+    "text": "which looks suspiciously\nlike Birkeland Currents,",
+    "start": 1627.478,
+    "duration": 3.048
+  },
+  {
+    "text": "they are all being pushed\nup from below in this model.",
+    "start": 1630.551,
+    "duration": 5.598
+  },
+  {
+    "text": "It's called the flux-\ninjection hypothesis.",
+    "start": 1636.174,
+    "duration": 3.378
+  },
+  {
+    "text": "I spent a lot of time\njust asking myself,",
+    "start": 1639.577,
+    "duration": 3.125
+  },
+  {
+    "text": "well, if the Sun is electrical\nthat hypothesis won't stand up.",
+    "start": 1642.727,
+    "duration": 4.435
+  },
+  {
+    "text": "And so I looked into the literature,\nand I found an article by Peter Shuck",
+    "start": 1647.187,
+    "duration": 6.314
+  },
+  {
+    "text": "this is the best article I\nfound, honestly, on the subject",
+    "start": 1653.526,
+    "duration": 3.052
+  },
+  {
+    "text": "quite apart from my preference\nat finding such a thing.",
+    "start": 1656.603,
+    "duration": 2.971
+  },
+  {
+    "text": "it is the best article I could find in\nterms of systematic evaluation",
+    "start": 1659.599,
+    "duration": 4.588
+  },
+  {
+    "text": "and he says in that article in\nno uncertain terms,",
+    "start": 1664.212,
+    "duration": 4.281
+  },
+  {
+    "text": "the flux-injection\nhypothesis does not work.",
+    "start": 1668.933,
+    "duration": 5.554
+  },
+  {
+    "text": "The budget of energy that must be present\nin the lower region is not available.",
+    "start": 1674.512,
+    "duration": 6.369
+  },
+  {
+    "text": "Shuck determined that the flux injection hypothesis\ndoesn't work and must be dropped.\nWhat he found instead was...",
+    "start": 1680.906,
+    "duration": 5.351
+  },
+  {
+    "text": "What he found instead was a sudden explosion\ntriggered from above more like lightning.",
+    "start": 1686.693,
+    "duration": 7.488
+  },
+  {
+    "text": "And that takes you right back to the\nworker of Charles Bruce in England,",
+    "start": 1694.369,
+    "duration": 4.157
+  },
+  {
+    "text": "again decades ago a real\npioneer who noticed",
+    "start": 1698.551,
+    "duration": 3.449
+  },
+  {
+    "text": "that the signature spectroscopically\nof this energetic activity on the Sun",
+    "start": 1702.025,
+    "duration": 5.436
+  },
+  {
+    "text": "is the signature of lightning;\nthis is an electrified surface.",
+    "start": 1707.486,
+    "duration": 4.815
+  },
+  {
+    "text": "Sunspots\n&\nConvection",
+    "start": 1712.326,
+    "duration": 3.273
+  },
+  {
+    "text": "We can take this whole issue\nfurther by looking at sunspots",
+    "start": 1715.624,
+    "duration": 3.318
+  },
+  {
+    "text": "you have a spotless sun\nand a more normal sun.",
+    "start": 1718.967,
+    "duration": 4.037
+  },
+  {
+    "text": "And when we look into the sunspot what\nwe see is the cooler subsurface region.",
+    "start": 1723.029,
+    "duration": 7.097
+  },
+  {
+    "text": "But if it is millions of\ndegrees rushing upward",
+    "start": 1730.151,
+    "duration": 4.414
+  },
+  {
+    "text": "through the convective zone, how does it\nhappen that we cannot find in the center",
+    "start": 1734.59,
+    "duration": 5.26
+  },
+  {
+    "text": "of any sunspot any indication of\nsubsurface super temperatures?",
+    "start": 1739.875,
+    "duration": 5.3
+  },
+  {
+    "text": "So, sunspots are\nlike an acid test",
+    "start": 1748.229,
+    "duration": 4.078
+  },
+  {
+    "text": "because you see these penumbral\nfilaments on the margin",
+    "start": 1752.332,
+    "duration": 3.598
+  },
+  {
+    "text": "and they can only be one thing\nunder the standard model.",
+    "start": 1755.955,
+    "duration": 2.954
+  },
+  {
+    "text": "They are convection cells.\nYou have to have convection,",
+    "start": 1758.934,
+    "duration": 3.033
+  },
+  {
+    "text": "the heat has to get out somewhere\nand they think they see it",
+    "start": 1761.992,
+    "duration": 3.205
+  },
+  {
+    "text": "and they talk about\noverturning convection",
+    "start": 1765.222,
+    "duration": 2.729
+  },
+  {
+    "text": "but when you pull back\nup into the chromosphere",
+    "start": 1767.976,
+    "duration": 3.185
+  },
+  {
+    "text": "it's not quite what they were expecting and\nyou see everything is actually dominated",
+    "start": 1771.186,
+    "duration": 4.831
+  },
+  {
+    "text": "and confided contained\nby magnetic fields.",
+    "start": 1776.042,
+    "duration": 3.801
+  },
+  {
+    "text": "It's charged particles moving\nalong the filamentary pathways.",
+    "start": 1779.868,
+    "duration": 4.169
+  },
+  {
+    "text": "What does this have to\ndo with temperature?",
+    "start": 1784.062,
+    "duration": 2.346
+  },
+  {
+    "text": "Well, they decided that this was\noverturning convection.",
+    "start": 1786.433,
+    "duration": 4.22
+  },
+  {
+    "text": "It depends how you diagnose\nsomething like this.",
+    "start": 1791.401,
+    "duration": 2.556
+  },
+  {
+    "text": "Wow, that looks like the\nstuff is just pouring out.",
+    "start": 1793.982,
+    "duration": 2.863
+  },
+  {
+    "text": "But this is actually quite deceptive\nbecause what you're seeing",
+    "start": 1796.87,
+    "duration": 3.188
+  },
+  {
+    "text": "actually is material moving\noutward and show you more closely.",
+    "start": 1800.083,
+    "duration": 3.66
+  },
+  {
+    "text": "The stuff around the\npenumbra is moving outward",
+    "start": 1803.768,
+    "duration": 2.592
+  },
+  {
+    "text": "and that's what you're\nseeing in that image",
+    "start": 1806.385,
+    "duration": 2.116
+  },
+  {
+    "text": "but the penumbra, the stuff is\npouring into the sunspot.",
+    "start": 1808.526,
+    "duration": 4.62
+  },
+  {
+    "text": "And Wal Thornhill has such an\nelementary explanation.",
+    "start": 1815.55,
+    "duration": 5.58
+  },
+  {
+    "text": "He says, this is like\ntornadoes touching down.",
+    "start": 1821.164,
+    "duration": 5.32
+  },
+  {
+    "text": "It's an electrical phenomena,\nand the discharging",
+    "start": 1826.76,
+    "duration": 3.281
+  },
+  {
+    "text": "you actually watch this\novertime and you can see,",
+    "start": 1830.066,
+    "duration": 3.758
+  },
+  {
+    "text": "and in other NASA animations,\nyou can see how",
+    "start": 1833.849,
+    "duration": 4.636
+  },
+  {
+    "text": "what Wal Thornhill would predict,\nwhich is an explosive glow",
+    "start": 1838.51,
+    "duration": 5.203
+  },
+  {
+    "text": "at a particular point that\ncomes and goes but at the tips",
+    "start": 1843.738,
+    "duration": 4.144
+  },
+  {
+    "text": "they're dipping down, it's a\ntornado touching down",
+    "start": 1847.907,
+    "duration": 4.03
+  },
+  {
+    "text": "I don't think any anyone ever in the\nhistory of the electric's sun hypothesis",
+    "start": 1851.962,
+    "duration": 5.066
+  },
+  {
+    "text": "before Wal Thornhill proposed that\nthese twisting, helical filaments",
+    "start": 1857.053,
+    "duration": 5.944
+  },
+  {
+    "text": "where actually tornado-like\nelectrically-driven filaments.",
+    "start": 1863.022,
+    "duration": 5.324
+  },
+  {
+    "text": "Where's the\nConvection",
+    "start": 1868.371,
+    "duration": 1.402
+  },
+  {
+    "text": "But then again there's the\noverturning convection hypothesis.",
+    "start": 1869.798,
+    "duration": 3.753
+  },
+  {
+    "text": "And for years now solar physicists have been\nseeking to find overturning convection and verify,",
+    "start": 1873.576,
+    "duration": 6.668
+  },
+  {
+    "text": "through temperature profiles and so on, that\nit's superheated material rising surface",
+    "start": 1880.269,
+    "duration": 5.776
+  },
+  {
+    "text": "they've been looking to the filaments\nof the penumbra and suggesting,",
+    "start": 1886.07,
+    "duration": 4.521
+  },
+  {
+    "text": "well, maybe the temperature is being siphoned\nup through the center the penumbra.",
+    "start": 1890.616,
+    "duration": 5.705
+  },
+  {
+    "text": "Where is the convection?",
+    "start": 1896.346,
+    "duration": 1.624
+  },
+  {
+    "text": "Well, again you can find an article\n'searching for overturning convection'",
+    "start": 1897.995,
+    "duration": 5.818
+  },
+  {
+    "text": "by Professor Rubio of\nItaly and company",
+    "start": 1903.838,
+    "duration": 3.926
+  },
+  {
+    "text": "\"Despite the excellent\nquality of the data set,",
+    "start": 1908.454,
+    "duration": 3.315
+  },
+  {
+    "text": "we do not detect downflows that could be associated\nwith overturning convection in deep layers.\"",
+    "start": 1911.769,
+    "duration": 6.832
+  },
+  {
+    "text": "\"The lack of a clear detection of\noverturning downflows may simply indicate",
+    "start": 1918.626,
+    "duration": 5.552
+  },
+  {
+    "text": "that they do not exist.\"",
+    "start": 1924.179,
+    "duration": 2.562
+  },
+  {
+    "text": "Well, that would be\nnews because you",
+    "start": 1926.766,
+    "duration": 3.166
+  },
+  {
+    "text": "if you have no convection,\nyou have no nuclear furnace.",
+    "start": 1929.957,
+    "duration": 5.069
+  },
+  {
+    "text": "Well, they did an \"MRI\" of the Sun,\nthey were so confident in convection,",
+    "start": 1935.051,
+    "duration": 4.635
+  },
+  {
+    "text": "that means they could look into\nthe deeper layers of the Sun",
+    "start": 1939.711,
+    "duration": 4.812
+  },
+  {
+    "text": "through magnetic resonance imaging,",
+    "start": 1944.548,
+    "duration": 2.751
+  },
+  {
+    "text": "and they were quite confident that\nthat's how they would confirm",
+    "start": 1947.324,
+    "duration": 5.027
+  },
+  {
+    "text": "that the motion of those charged\nparticles convected upwards",
+    "start": 1952.376,
+    "duration": 5.3
+  },
+  {
+    "text": "would explain the magnetic\nfield of the Sun.",
+    "start": 1957.701,
+    "duration": 3.666
+  },
+  {
+    "text": "At best they found 1% of the\nconvection they needed.",
+    "start": 1962.225,
+    "duration": 5.375
+  },
+  {
+    "text": "And notice this, \"The result...\nupends our understanding",
+    "start": 1967.625,
+    "duration": 4.909
+  },
+  {
+    "text": "of how heat is transported\noutwards by the Sun...\"",
+    "start": 1972.559,
+    "duration": 4.378
+  },
+  {
+    "text": "See, it upends our understanding\nof what we know is happening.",
+    "start": 1976.962,
+    "duration": 4.002
+  },
+  {
+    "text": "They don't question whether what they\nthink they know is actually known,",
+    "start": 1980.989,
+    "duration": 4.438
+  },
+  {
+    "text": "is actually true.",
+    "start": 1985.452,
+    "duration": 1.557
+  },
+  {
+    "text": "Same here, \"...and challenges existing\nexplanations of the formation of sunspots",
+    "start": 1987.034,
+    "duration": 4.596
+  },
+  {
+    "text": "and magnetic field generation\".",
+    "start": 1991.63,
+    "duration": 2.753
+  },
+  {
+    "text": "But no fundamental questioning\nof the nuclear core hypothesis",
+    "start": 1994.408,
+    "duration": 6.736
+  },
+  {
+    "text": "even though it requires something\nthat is clearly not happening.",
+    "start": 2001.169,
+    "duration": 6.241
+  },
+  {
+    "text": "Coronal\nHeating",
+    "start": 2007.426,
+    "duration": 2.21
+  },
+  {
+    "text": "Corona heating, this is discussed\nso much within our circle,",
+    "start": 2009.661,
+    "duration": 3.213
+  },
+  {
+    "text": "I'm not gonna make a\nbig deal out of this.",
+    "start": 2012.899,
+    "duration": 2.248
+  },
+  {
+    "text": "I just like the humor\nastronomer Jay Pasachoff",
+    "start": 2015.172,
+    "duration": 3.895
+  },
+  {
+    "text": "saying that it's been solved\na dozen times.",
+    "start": 2019.092,
+    "duration": 5.463
+  },
+  {
+    "text": "And since he said that it's been\nsolved another dozen times.",
+    "start": 2024.58,
+    "duration": 4.228
+  },
+  {
+    "text": "And they continue to solve it,",
+    "start": 2028.833,
+    "duration": 2.309
+  },
+  {
+    "text": "and what they get lasts\nonly weeks or months.",
+    "start": 2031.167,
+    "duration": 6.002
+  },
+  {
+    "text": "I'm gonna give a ridiculously\nelementary example of coronal heating",
+    "start": 2038.439,
+    "duration": 6.671
+  },
+  {
+    "text": "from a radically\ndifferent vantage point,",
+    "start": 2045.135,
+    "duration": 2.857
+  },
+  {
+    "text": "the vantage point that would\nemphasize inter-facial boundaries",
+    "start": 2048.017,
+    "duration": 5.743
+  },
+  {
+    "text": "between two domains, both of which\nare contributing to a dynamic event.",
+    "start": 2053.76,
+    "duration": 6.112
+  },
+  {
+    "text": "Here's a candle; where's the\nheat, the maximum heat?",
+    "start": 2059.897,
+    "duration": 3.91
+  },
+  {
+    "text": "It's not down at the fuel supply.",
+    "start": 2063.832,
+    "duration": 2.387
+  },
+  {
+    "text": "It's in the interface of the fuel\nsupply and the surrounding oxygen.",
+    "start": 2066.244,
+    "duration": 5.402
+  },
+  {
+    "text": "In 1996, I was caught in a ridiculous\ndebate with some people on it",
+    "start": 2071.671,
+    "duration": 5.113
+  },
+  {
+    "text": "all talk I will call\ntalk origins, and I said",
+    "start": 2076.809,
+    "duration": 2.642
+  },
+  {
+    "text": "you know if you put\na candle in space",
+    "start": 2079.476,
+    "duration": 3.408
+  },
+  {
+    "text": "so that you didn't have gravity\nand you didn't have convection,",
+    "start": 2082.909,
+    "duration": 3.553
+  },
+  {
+    "text": "you'd get a spherical flame, and you\nwould see that the maximum energies",
+    "start": 2086.487,
+    "duration": 4.711
+  },
+  {
+    "text": "are at the boundary of that\nfuel and the surrounding oxygen.",
+    "start": 2091.223,
+    "duration": 6.736
+  },
+  {
+    "text": "And it just happened that a couple years ago\nthat in the International Space Station",
+    "start": 2097.984,
+    "duration": 5.202
+  },
+  {
+    "text": "they put a candle, and that's\nexactly what you do get here.",
+    "start": 2103.211,
+    "duration": 4.633
+  },
+  {
+    "text": "That is an example of inter-facial dynamics\nthat can be applied to the Electric Sun",
+    "start": 2107.869,
+    "duration": 7.43
+  },
+  {
+    "text": "where you do not get to ignore the surrounding\ncontribution of the plasma environment",
+    "start": 2115.3,
+    "duration": 6.23
+  },
+  {
+    "text": "through the heat of the Sun and all of\nthe electromagnetic emissions of the Sun",
+    "start": 2121.555,
+    "duration": 5.575
+  },
+  {
+    "text": "and all of the layers\nof the Sun's atmosphere",
+    "start": 2127.155,
+    "duration": 3.204
+  },
+  {
+    "text": "with such a different levels of\nconstancy and variability.",
+    "start": 2130.384,
+    "duration": 4.578
+  },
+  {
+    "text": "Polar Jets",
+    "start": 2135.528,
+    "duration": 2.261
+  },
+  {
+    "text": "I'd gonna make sure that I\nget to this presentation.",
+    "start": 2137.814,
+    "duration": 3.778
+  },
+  {
+    "text": "Polar jets that they help to complete\nthe image of solar sized magnet here",
+    "start": 2141.617,
+    "duration": 6.205
+  },
+  {
+    "text": "but this is not new, I mean, Birkeland's\nexperiment gave you polar jets",
+    "start": 2147.847,
+    "duration": 4.654
+  },
+  {
+    "text": "and essentially gave you the core or\nthe focal point of the hourglass form",
+    "start": 2152.526,
+    "duration": 6.206
+  },
+  {
+    "text": "that has been hypothesized by\nthe Electric Sun proponents.",
+    "start": 2158.757,
+    "duration": 5.396
+  },
+  {
+    "text": "And you see in such nebula\nas in the Butterfly Nebula.",
+    "start": 2164.178,
+    "duration": 6.799
+  },
+  {
+    "text": "Torus",
+    "start": 2171.62,
+    "duration": 2.555
+  },
+  {
+    "text": "The torus that Birkeland produced in\nhis lab is such a beautiful example of",
+    "start": 2174.2,
+    "duration": 7.375
+  },
+  {
+    "text": "the relationship between\nexperimentation and theory.",
+    "start": 2181.6,
+    "duration": 3.489
+  },
+  {
+    "text": "Forget the math until you have got a\nbasis in observation and experiment",
+    "start": 2185.114,
+    "duration": 5.252
+  },
+  {
+    "text": "to direct the mathematicians.",
+    "start": 2190.391,
+    "duration": 3.273
+  },
+  {
+    "text": "Discharging from the\ntorus to the sphere,",
+    "start": 2194.543,
+    "duration": 3.701
+  },
+  {
+    "text": "the magnetized sphere of his terella,\nyou see the polar jets there.",
+    "start": 2198.269,
+    "duration": 4.75
+  },
+  {
+    "text": "And, by golly, the sun has a torus\nalso projected into an axial view.",
+    "start": 2203.749,
+    "duration": 6.475
+  },
+  {
+    "text": "And notice this.",
+    "start": 2210.249,
+    "duration": 2.253
+  },
+  {
+    "text": "How does it occur that the\nequatorial atmosphere rotates",
+    "start": 2212.994,
+    "duration": 7.145
+  },
+  {
+    "text": "36 times for every 25 times\nof the circumpolar rotation?",
+    "start": 2220.139,
+    "duration": 6.954
+  },
+  {
+    "text": "How would something...",
+    "start": 2227.812,
+    "duration": 3.067
+  },
+  {
+    "text": "How would something\ndriving the Sun from within",
+    "start": 2230.904,
+    "duration": 4.756
+  },
+  {
+    "text": "produce super-rotation at the\nouter layer and at the equator.",
+    "start": 2235.834,
+    "duration": 5.917
+  },
+  {
+    "text": "I mean, actually you're looking here at\ntwo levels of differential rotation",
+    "start": 2241.776,
+    "duration": 4.716
+  },
+  {
+    "text": "because it's not just the equatorial\natmosphere that is rotating fast,",
+    "start": 2246.517,
+    "duration": 4.605
+  },
+  {
+    "text": "it's rotating faster\nthan the surface below.",
+    "start": 2251.147,
+    "duration": 2.672
+  },
+  {
+    "text": "Now, Wal Thornhill got me to thinking about\nsomething, this is a number of years back,",
+    "start": 2253.844,
+    "duration": 4.292
+  },
+  {
+    "text": "he said, the sunspot appears to be,\nif you follow Birkeland's experiment,",
+    "start": 2258.161,
+    "duration": 4.731
+  },
+  {
+    "text": "the location of a discharge moving right\nthrough the visible layer the Sun's atmosphere.",
+    "start": 2262.917,
+    "duration": 6.139
+  },
+  {
+    "text": "I was looking at this and I\nthought well this is interesting",
+    "start": 2269.081,
+    "duration": 3.308
+  },
+  {
+    "text": "it looks to me as if that discharge is\nparting the waves, you might say,",
+    "start": 2272.389,
+    "duration": 4.956
+  },
+  {
+    "text": "and anchoring to a slower-moving\nsubsurface layer.",
+    "start": 2277.37,
+    "duration": 4.982
+  },
+  {
+    "text": "And for that reason, it is\nresisting being moved along",
+    "start": 2282.377,
+    "duration": 4.979
+  },
+  {
+    "text": "by the super-rotating equatorial\natmosphere of the Sun.",
+    "start": 2287.381,
+    "duration": 5.014
+  },
+  {
+    "text": "I just think things\nof this sort would...",
+    "start": 2292.42,
+    "duration": 2.048
+  },
+  {
+    "text": "These stand in such total and\nself-evident defiance of a standard model",
+    "start": 2294.493,
+    "duration": 5.191
+  },
+  {
+    "text": "that you have to begin looking from\nan interdisciplinary vantage point,",
+    "start": 2299.709,
+    "duration": 4.691
+  },
+  {
+    "text": "complemented by increasingly\nspecialized research.",
+    "start": 2304.4,
+    "duration": 3.438
+  },
+  {
+    "text": "You have to begin looking at a new\npicture of the Sun from the ground up",
+    "start": 2307.838,
+    "duration": 5.292
+  },
+  {
+    "text": "because what we were given 70\nyears ago has failed every test.",
+    "start": 2313.155,
+    "duration": 5.313
+  },
+  {
+    "text": "Earth-Sun\nConnection",
+    "start": 2318.493,
+    "duration": 1.942
+  },
+  {
+    "text": "Perfect example, again, of\nthe experimental approach",
+    "start": 2320.619,
+    "duration": 3.603
+  },
+  {
+    "text": "and its impact on the future of science\nwas the work of Kristian Birkeland",
+    "start": 2324.247,
+    "duration": 4.565
+  },
+  {
+    "text": "who said, our earth aurora is being\nproduced by charged particles from the Sun",
+    "start": 2328.837,
+    "duration": 5.879
+  },
+  {
+    "text": "entering the upper\natmosphere of our Earth.",
+    "start": 2334.741,
+    "duration": 3.467
+  },
+  {
+    "text": "Sydney Chapman, a mathematician and\nDean of the Earth-Sun Relationship Studies,",
+    "start": 2339.72,
+    "duration": 8.59
+  },
+  {
+    "text": "said the Earth was insulated,\ninsulated by its magnetosphere,",
+    "start": 2348.335,
+    "duration": 4.724
+  },
+  {
+    "text": "and charged particles could not enter the\nupper atmosphere of the earth directly.",
+    "start": 2353.084,
+    "duration": 6.162
+  },
+  {
+    "text": "And then in the 70's, we discovered\nthat charged particles from the Sun",
+    "start": 2359.28,
+    "duration": 7.94
+  },
+  {
+    "text": "were indeed entering the\nEarth's upper atmosphere.",
+    "start": 2367.245,
+    "duration": 3.989
+  },
+  {
+    "text": "And now we call those\nparticle streams",
+    "start": 2371.519,
+    "duration": 4.241
+  },
+  {
+    "text": "Birkeland Currents in honor\nof the experimentalist.",
+    "start": 2375.76,
+    "duration": 4.809
+  },
+  {
+    "text": "We have look closely enough to see that the\ncurrents are moving in cylindrical forms",
+    "start": 2380.594,
+    "duration": 5.165
+  },
+  {
+    "text": "and ironically Don Scott has\nproduced a recent paper,",
+    "start": 2385.784,
+    "duration": 3.27
+  },
+  {
+    "text": "which I hope people will have a chance\nto access in the next few months,",
+    "start": 2389.079,
+    "duration": 3.799
+  },
+  {
+    "text": "that gives the\nmathematical bases",
+    "start": 2392.903,
+    "duration": 2.793
+  },
+  {
+    "text": "for this cylindrical or embedded\ncylindrical form of the auroras of Earth.",
+    "start": 2395.721,
+    "duration": 6.66
+  },
+  {
+    "text": "There are no islands in space!",
+    "start": 2403.051,
+    "duration": 2.308
+  },
+  {
+    "text": "And certainly anyone who has followed the\nevidence for the Earth-Sun connection,",
+    "start": 2405.384,
+    "duration": 4.713
+  },
+  {
+    "text": "the circuitry\nconnecting both bodies,",
+    "start": 2410.122,
+    "duration": 3.569
+  },
+  {
+    "text": "would have to agree that\nyou're not looking at islands.",
+    "start": 2413.716,
+    "duration": 3.865
+  },
+  {
+    "text": "Question all theoretical\nassumptions!",
+    "start": 2419.137,
+    "duration": 3.388
+  },
+  {
+    "text": "And that concludes my talk.",
+    "start": 2423.143,
+    "duration": 2.335
+  },
+  {
+    "text": "Thank you.",
+    "start": 2428.515,
+    "duration": 1.0
+  },
+  {
+    "text": "Exposing the Myths of \"Settled Science\"",
+    "start": 2433.798,
+    "duration": 2.675
+  },
+  {
+    "text": "The Thunderbolts Project™",
+    "start": 2444.144,
+    "duration": 4.575
+  }
+]

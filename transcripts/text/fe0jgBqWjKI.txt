@@ -1,0 +1,612 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe,",
+    "start": 7.173,
+    "duration": 2.92
+  },
+  {
+    "text": "brought to you by The\nThunderbolts Project™",
+    "start": 10.118,
+    "duration": 2.298
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 12.441,
+    "duration": 3.343
+  },
+  {
+    "text": "In recent years, a profound development\nhas been unfolding in astrophysics,",
+    "start": 16.228,
+    "duration": 5.03
+  },
+  {
+    "text": "the inevitable acknowledgement\nof tremendous electric currents",
+    "start": 21.292,
+    "duration": 3.79
+  },
+  {
+    "text": "at the largest cosmic scales.",
+    "start": 25.107,
+    "duration": 2.277
+  },
+  {
+    "text": "One of the most stupendous\nelectromagnetic cosmic phenomena",
+    "start": 27.409,
+    "duration": 3.486
+  },
+  {
+    "text": "is the collimated, light years long,\njets produced at active galactic nuclei.",
+    "start": 30.92,
+    "duration": 5.53
+  },
+  {
+    "text": "Recently, the obvious\nelectrical nature of these jets",
+    "start": 36.475,
+    "duration": 3.317
+  },
+  {
+    "text": "has been explored in scientific papers\npublished in peer-reviewed journals.",
+    "start": 39.817,
+    "duration": 4.72
+  },
+  {
+    "text": "One such paper entitled",
+    "start": 44.562,
+    "duration": 1.893
+  },
+  {
+    "text": "\"The jets of active galactic nuclei\nas giant coaxial cables\" summarizes,",
+    "start": 46.48,
+    "duration": 5.733
+  },
+  {
+    "text": "\"...our results have now yielded firm\nevidence that many ― possibly all ―",
+    "start": 52.238,
+    "duration": 4.34
+  },
+  {
+    "text": "active galactic nuclei jets have\ninward currents along their axes",
+    "start": 56.603,
+    "duration": 4.479
+  },
+  {
+    "text": "and outward currents in a more extended\nregion surrounding the jets....",
+    "start": 61.107,
+    "duration": 4.117
+  },
+  {
+    "text": "It also indicates that astrophysical jets are\nfundamentally electromagnetic structures...\"",
+    "start": 65.249,
+    "duration": 6.324
+  },
+  {
+    "text": "Another paper entitled \"Electric\nCurrents along Astrophysical Jets\"",
+    "start": 71.598,
+    "duration": 4.496
+  },
+  {
+    "text": "also argues for cosmic-scale\nelectric currents",
+    "start": 76.119,
+    "duration": 3.29
+  },
+  {
+    "text": "though also doing so from the\nframework of gravitational theory.",
+    "start": 79.434,
+    "duration": 3.901
+  },
+  {
+    "text": "The author states, \"Several researchers\nhave reported direct evidence",
+    "start": 83.36,
+    "duration": 4.123
+  },
+  {
+    "text": "for large-scale electric\ncurrents along astrophysical jets.",
+    "start": 87.508,
+    "duration": 4.277
+  },
+  {
+    "text": "Quite unexpectedly, their directions are\nnot random as would have been the case",
+    "start": 91.81,
+    "duration": 4.515
+  },
+  {
+    "text": "if the magnetic field were generated\nby a magnetohydrodynamic dynamo.",
+    "start": 96.35,
+    "duration": 4.398
+  },
+  {
+    "text": "Instead, in all\nkiloparsec-scale detections,",
+    "start": 100.773,
+    "duration": 3.786
+  },
+  {
+    "text": "the inferred electric currents are found\nto flow away from the galactic nucleus.",
+    "start": 104.584,
+    "duration": 4.551
+  },
+  {
+    "text": "This unexpected break of symmetry\nsuggests that a battery mechanism",
+    "start": 109.16,
+    "duration": 4.172
+  },
+  {
+    "text": "is operating around the\ncentral black hole.\"",
+    "start": 113.357,
+    "duration": 2.982
+  },
+  {
+    "text": "And here we see emphasized the fundamental\ndifferences between Standard Astrophysical Theory",
+    "start": 116.364,
+    "duration": 5.175
+  },
+  {
+    "text": "and Plasma Cosmology and\nthe Electric Universe.",
+    "start": 121.564,
+    "duration": 3.241
+  },
+  {
+    "text": "Astrophysicists can only imagine\ncolossal gravity, a black hole,",
+    "start": 124.83,
+    "duration": 4.392
+  },
+  {
+    "text": "producing tremendous magnetism which then\nproduces the stupendous electric currents.",
+    "start": 129.247,
+    "duration": 4.968
+  },
+  {
+    "text": "In this episode, retired professor of\nelectrical engineering, Donald Scott,",
+    "start": 134.24,
+    "duration": 4.807
+  },
+  {
+    "text": "offers the Electric\nUniverse interpretation,",
+    "start": 139.072,
+    "duration": 2.726
+  },
+  {
+    "text": "first addressing a basic\nproblem in cosmology:",
+    "start": 141.823,
+    "duration": 3.011
+  },
+  {
+    "text": "what is the real source\nof magnetism in space?",
+    "start": 144.859,
+    "duration": 3.499
+  },
+  {
+    "text": "We have to realize that magnetic fields are\ncaused by one thing and one thing only.",
+    "start": 148.383,
+    "duration": 4.655
+  },
+  {
+    "text": "That's the movement of charge, in\nother words, electric currents.",
+    "start": 153.063,
+    "duration": 3.602
+  },
+  {
+    "text": "Electric currents create magnetic fields and\nwhen magnetic fields collide with conductors,",
+    "start": 156.69,
+    "duration": 7.752
+  },
+  {
+    "text": "then currents will be induced, that is to\nsay initiated, created in those conductors.",
+    "start": 164.467,
+    "duration": 6.697
+  },
+  {
+    "text": "You can't have one\nwithout the other.",
+    "start": 171.189,
+    "duration": 2.006
+  },
+  {
+    "text": "But anyway, they've been very reluctant\nto mention electric currents until",
+    "start": 173.22,
+    "duration": 5.22
+  },
+  {
+    "text": "very, very recently, when they do,\nindeed, mention electric currents.",
+    "start": 178.465,
+    "duration": 3.679
+  },
+  {
+    "text": "So, one was \"Electric Currents along\nAstrophysical Jets\" by Ioannis Contopoulos.",
+    "start": 182.169,
+    "duration": 7.483
+  },
+  {
+    "text": "When I saw this, I went,",
+    "start": 189.677,
+    "duration": 1.333
+  },
+  {
+    "text": "\"Wow, electric currents and jets, that\nsounds just like Birkeland currents!\"",
+    "start": 191.035,
+    "duration": 3.872
+  },
+  {
+    "text": "Until you begin to\nread the article,",
+    "start": 194.932,
+    "duration": 2.721
+  },
+  {
+    "text": "and I do admit they do mention\nelectric currents, so that's,",
+    "start": 197.678,
+    "duration": 3.843
+  },
+  {
+    "text": "that's two points to\nremember and that's good.",
+    "start": 201.546,
+    "duration": 2.47
+  },
+  {
+    "text": "But I think it's the first\nsentence in the article,",
+    "start": 204.041,
+    "duration": 2.698
+  },
+  {
+    "text": "\"Astrophysical black holes and\ntheir surrounding accretion disks",
+    "start": 206.739,
+    "duration": 5.005
+  },
+  {
+    "text": "are believed to be threaded by grand\ndesign helical magnetic fields.",
+    "start": 211.769,
+    "duration": 4.728
+  },
+  {
+    "text": "There is strong\ntheoretical evidence.\"",
+    "start": 216.522,
+    "duration": 2.606
+  },
+  {
+    "text": "Now, I don't know what \"strong\ntheoretical evidence\" means.",
+    "start": 219.153,
+    "duration": 2.604
+  },
+  {
+    "text": "There's either strong observational\nevidence or a well-believed theory",
+    "start": 221.782,
+    "duration": 4.719
+  },
+  {
+    "text": "but there's no such thing as\n\"strong theoretical evidence.\"",
+    "start": 226.526,
+    "duration": 3.317
+  },
+  {
+    "text": "\"But the main driver of their winds\nand jets is the Lorentz force",
+    "start": 229.868,
+    "duration": 4.033
+  },
+  {
+    "text": "generated by these fields and their\nassociated electric currents.\"",
+    "start": 233.926,
+    "duration": 3.181
+  },
+  {
+    "text": "That's good.",
+    "start": 237.132,
+    "duration": 0.755
+  },
+  {
+    "text": "The Lorentz forces certainly are\nat play in Birkeland currents.",
+    "start": 237.912,
+    "duration": 4.421
+  },
+  {
+    "text": "Then they go on and said, \"Several\nresearchers have reported",
+    "start": 242.358,
+    "duration": 4.123
+  },
+  {
+    "text": "direct evidence for large-scale electric\ncurrents along astrophysical jets.\"",
+    "start": 246.506,
+    "duration": 4.994
+  },
+  {
+    "text": "Good!",
+    "start": 251.525,
+    "duration": 1.009
+  },
+  {
+    "text": "\"Quite unexpectedly, their directions are\nnot random as would have been the case",
+    "start": 252.559,
+    "duration": 5.833
+  },
+  {
+    "text": "if the magnetic field were generated\nby a magnetohydrodynamic dynamo.\"",
+    "start": 258.417,
+    "duration": 5.288
+  },
+  {
+    "text": "Oh, oh, there we\ngo again, dynamos.",
+    "start": 263.73,
+    "duration": 3.647
+  },
+  {
+    "text": "If you look up the definition\nof dynamo in Wikipedia,",
+    "start": 267.402,
+    "duration": 3.428
+  },
+  {
+    "text": "and I did it just to\nbe sure I was right.",
+    "start": 270.855,
+    "duration": 2.484
+  },
+  {
+    "text": "The dynamo is an electrical generator\nthat produces direct current.",
+    "start": 273.364,
+    "duration": 3.495
+  },
+  {
+    "text": "In other words, it's\na DC generator.",
+    "start": 276.884,
+    "duration": 1.785
+  },
+  {
+    "text": "It's a way Edison made DC current\nin Chicago, I think it was.",
+    "start": 278.694,
+    "duration": 4.089
+  },
+  {
+    "text": "But that has nothing to do, really,\nwith what's going on in space.",
+    "start": 282.808,
+    "duration": 5.379
+  },
+  {
+    "text": "I don't think we really have any use for\ndynamos and what they use this word,",
+    "start": 288.212,
+    "duration": 4.961
+  },
+  {
+    "text": "almost like a magic Shibboleth\nthat it's a dynamo caused it.",
+    "start": 293.198,
+    "duration": 3.927
+  },
+  {
+    "text": "Anyway, \"Magnetic fields are\nan important constituent",
+    "start": 297.15,
+    "duration": 2.832
+  },
+  {
+    "text": "of cosmic plasmas at all\nastrophysical scales.",
+    "start": 300.007,
+    "duration": 2.796
+  },
+  {
+    "text": "They are thought to be produced by 'seed'\nfields generated by random currents",
+    "start": 302.828,
+    "duration": 6.371
+  },
+  {
+    "text": "that are amplified by dynamo action\nin planetary and stellar interiors,",
+    "start": 309.224,
+    "duration": 5.268
+  },
+  {
+    "text": "accretion disks and generally\nrotating astrophysical plasmas.\"",
+    "start": 314.517,
+    "duration": 4.999
+  },
+  {
+    "text": "I mean, other than the fact that\nthey mentioned astrophysical plasma,",
+    "start": 319.541,
+    "duration": 3.711
+  },
+  {
+    "text": "everything there is\nwrong or non-existent.",
+    "start": 323.277,
+    "duration": 2.241
+  },
+  {
+    "text": "There's no such thing as accretion\ndisk, they like to think about.",
+    "start": 325.543,
+    "duration": 2.832
+  },
+  {
+    "text": "It's well-known that Tony Peratt said\nthat in the Los Alamos laboratory,",
+    "start": 328.4,
+    "duration": 4.387
+  },
+  {
+    "text": "they would try to simulate an accretion\ndisk and totally failed, miserably.",
+    "start": 332.812,
+    "duration": 4.991
+  },
+  {
+    "text": "They couldn't do it and if they mixed\nplasma in with their simulation",
+    "start": 337.828,
+    "duration": 5.25
+  },
+  {
+    "text": "and allowed for Maxwell's\nequations to be used as well,",
+    "start": 343.103,
+    "duration": 3.773
+  },
+  {
+    "text": "then yes, you could get\nthe thing to accrete.",
+    "start": 346.901,
+    "duration": 2.362
+  },
+  {
+    "text": "But without plasma,\nwithout electricity,",
+    "start": 349.288,
+    "duration": 2.255
+  },
+  {
+    "text": "there's no such thing as a\nmagnetic accretion disk.",
+    "start": 351.568,
+    "duration": 3.187
+  },
+  {
+    "text": "But anyway, there's another paper\nwhich I think is less obviously wrong",
+    "start": 354.78,
+    "duration": 5.356
+  },
+  {
+    "text": "in many of its points but still\nhas some things to worry about.",
+    "start": 360.161,
+    "duration": 3.262
+  },
+  {
+    "text": "That one is \"The jets of AGMs (active\ngalactic nuclei) as giant coaxial cables.\"",
+    "start": 363.448,
+    "duration": 7.101
+  },
+  {
+    "text": "This paper was written by Denise C.\nGabuzda and her associate authors",
+    "start": 370.574,
+    "duration": 5.049
+  },
+  {
+    "text": "Nagle and Roche in the Department of Physics\nat the University College Cork, Ireland.",
+    "start": 375.648,
+    "duration": 4.772
+  },
+  {
+    "text": "And the first sentence\nin that paper is,",
+    "start": 380.445,
+    "duration": 2.095
+  },
+  {
+    "text": "\"Active galactic nuclei (AGNs)\nrelease vast amounts of energy,",
+    "start": 382.565,
+    "duration": 4.451
+  },
+  {
+    "text": "whose ultimate source is a supermassive\nblack hole in the galactic nucleus.",
+    "start": 387.041,
+    "duration": 5.425
+  },
+  {
+    "text": "In so-called radio-loud AGNs...\"",
+    "start": 392.491,
+    "duration": 3.226
+  },
+  {
+    "text": "Remember that radio-loud,\nthat's important.",
+    "start": 395.742,
+    "duration": 2.676
+  },
+  {
+    "text": "\"Radio loud AGNs, two relativistic jets\nof plasma emanate from the nucleus,",
+    "start": 398.418,
+    "duration": 7.39
+  },
+  {
+    "text": "presumably along the rotational\naxis of the black hole.\"",
+    "start": 405.833,
+    "duration": 4.857
+  },
+  {
+    "text": "In other words, they can't let go of black\nholes and gravity and all this other nonsense,",
+    "start": 410.715,
+    "duration": 4.84
+  },
+  {
+    "text": "when the evidence is right\nin front of their face!",
+    "start": 415.58,
+    "duration": 2.52
+  },
+  {
+    "text": "She says, radio-loud AGNs.",
+    "start": 418.125,
+    "duration": 3.499
+  },
+  {
+    "text": "What makes loud radio noise?",
+    "start": 421.649,
+    "duration": 2.129
+  },
+  {
+    "text": "Answer ― double layers.",
+    "start": 423.803,
+    "duration": 2.205
+  },
+  {
+    "text": "That's been well known for decades since\nHannes Alfven won the Nobel Prize in 1970.",
+    "start": 426.033,
+    "duration": 6.015
+  },
+  {
+    "text": "Let me just conclude by saying, in\nthe end of that paper by Gabuzda,",
+    "start": 432.073,
+    "duration": 4.87
+  },
+  {
+    "text": "her Figure 2 is almost\nan identical figure",
+    "start": 436.968,
+    "duration": 5.117
+  },
+  {
+    "text": "to one that I published in my paper\nin \"Progress In Physics\" in 2015.",
+    "start": 442.11,
+    "duration": 6.245
+  },
+  {
+    "text": "It's a cross section of\nthe Birkeland current.",
+    "start": 448.38,
+    "duration": 2.384
+  },
+  {
+    "text": "It shows counter-rotating currents and\nmagnetic fields and that's indeed true.",
+    "start": 450.789,
+    "duration": 5.821
+  },
+  {
+    "text": "So if she gets it that right, why can't she\nlet go of the supermassive black holes?",
+    "start": 456.635,
+    "duration": 6.124
+  },
+  {
+    "text": "There's no excuse for anyone with any claim\nto being an investigator of cosmic phenomena",
+    "start": 462.784,
+    "duration": 6.295
+  },
+  {
+    "text": "as not to know about the\nseminal prizable work",
+    "start": 469.104,
+    "duration": 3.499
+  },
+  {
+    "text": "of people like C.E.R. Bruce, Ralph\nJuergens, Earl Milton, Wal Thornhill,",
+    "start": 472.628,
+    "duration": 5.117
+  },
+  {
+    "text": "Tony Peratt, Hannes Alfven,\nBirkeland, and many others.",
+    "start": 477.77,
+    "duration": 6.425
+  },
+  {
+    "text": "These people have staked out\ntheir rightful claims years ago",
+    "start": 484.22,
+    "duration": 3.325
+  },
+  {
+    "text": "and it's shameful that their work is\nbeing ignored as if they never had lived",
+    "start": 487.57,
+    "duration": 3.869
+  },
+  {
+    "text": "and worked for years to\npromote these concepts.",
+    "start": 491.464,
+    "duration": 3.128
+  },
+  {
+    "text": "For continuous updates on Space\nNews from the Electric Universe,",
+    "start": 495.882,
+    "duration": 4.087
+  },
+  {
+    "text": "stay tuned to",
+    "start": 499.994,
+    "duration": 1.174
+  },
+  {
+    "text": "Thunderbolts.info",
+    "start": 501.193,
+    "duration": 1.59
+  }
+]

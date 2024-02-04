@@ -1,0 +1,837 @@
+[
+  {
+    "text": "[Music]",
+    "start": 1.36,
+    "duration": 5.38
+  },
+  {
+    "text": "Well, about a week or so ago at a NASA press\nconference, the investigators who are in",
+    "start": 14.0,
+    "duration": 6.48
+  },
+  {
+    "text": "in charge of the Parker Solar Probe\ndescribed their new findings from the",
+    "start": 20.48,
+    "duration": 5.03
+  },
+  {
+    "text": "first flybys of that probe. Now as far as I have\nbeen able to find out, the probe has made about",
+    "start": 25.51,
+    "duration": 8.97
+  },
+  {
+    "text": "three closer and closer passages to the\nSun and it will continue to do that for",
+    "start": 34.48,
+    "duration": 6.23
+  },
+  {
+    "text": "several years and hopefully, if it doesn't \nburn up, it'll continue to do that.",
+    "start": 40.71,
+    "duration": 5.77
+  },
+  {
+    "text": "But in any event, the NASA press\nconference included the statement,",
+    "start": 46.48,
+    "duration": 4.88
+  },
+  {
+    "text": "which is sort of typical of them, quote,\n“This is the first time we've been",
+    "start": 51.36,
+    "duration": 4.16
+  },
+  {
+    "text": "able to fly a spacecraft into the atmosphere\nof a star.” I said that last time too and I",
+    "start": 55.52,
+    "duration": 5.6
+  },
+  {
+    "text": "commented on that kind of statement,\nit all depends on what you call the",
+    "start": 61.12,
+    "duration": 4.24
+  },
+  {
+    "text": "atmosphere of a star. What is the Sun's atmosphere.\nWell, the Sun's local plasma extends out to",
+    "start": 65.36,
+    "duration": 6.07
+  },
+  {
+    "text": "the end of the heliosphere which\nends in what we call the heliopause,",
+    "start": 71.43,
+    "duration": 5.77
+  },
+  {
+    "text": "and that's several times the distance out of \nPluto. So, by definition, any probe or satellite",
+    "start": 77.2,
+    "duration": 6.72
+  },
+  {
+    "text": "that gets out of Earth's atmosphere\nis in the Sun's atmosphere, if you",
+    "start": 83.92,
+    "duration": 3.68
+  },
+  {
+    "text": "realize the Sun's atmosphere goes out that \nfar. But actually the proper question is how",
+    "start": 87.6,
+    "duration": 6.47
+  },
+  {
+    "text": "close to the Sun's photospheric surface\nwill the Parker probe get? Will it get",
+    "start": 94.07,
+    "duration": 5.61
+  },
+  {
+    "text": "into the Sun's corona? Will it get below the corona?\nNo, certainly not. It will not get below the",
+    "start": 99.68,
+    "duration": 5.52
+  },
+  {
+    "text": "corona. Nothing in the foreseeable future will\never get through that kind of temperature. But",
+    "start": 105.2,
+    "duration": 5.76
+  },
+  {
+    "text": "NASA says that the probe will in 2025\nget within a distance of four million",
+    "start": 110.96,
+    "duration": 6.79
+  },
+  {
+    "text": "miles. Okay, I think as I said last time,\nthat four million miles is about nine",
+    "start": 117.75,
+    "duration": 5.45
+  },
+  {
+    "text": "solar radii. That is, if you take a picture\nof the Sun during the full solar eclipse and",
+    "start": 123.2,
+    "duration": 6.96
+  },
+  {
+    "text": "see the corona there, if you look and scale the\ndistance let's say from the center of the Sun to the",
+    "start": 130.16,
+    "duration": 6.4
+  },
+  {
+    "text": "edge of the black dot, the shadow\nof the moon in front of the Sun, that's",
+    "start": 136.56,
+    "duration": 4.56
+  },
+  {
+    "text": "of course the solar radius. And so, if you \nmeasure out 10 times that distance,that's",
+    "start": 141.12,
+    "duration": 5.36
+  },
+  {
+    "text": "where ‘closest approach’ of the Parker probe\nwill get. It used to be said that the farthest out",
+    "start": 146.48,
+    "duration": 5.83
+  },
+  {
+    "text": "that the corona extends is about five solar \nradii. So I said last time, and I still think it,",
+    "start": 152.31,
+    "duration": 5.85
+  },
+  {
+    "text": "that the Parker probe was not going\nto get even close to the outermost",
+    "start": 158.16,
+    "duration": 4.24
+  },
+  {
+    "text": "regions of the corona. But recently \nNASA says no, no, the corona",
+    "start": 162.4,
+    "duration": 4.72
+  },
+  {
+    "text": "extends out to something like five\nmillion miles: 12 solar radii. And so,",
+    "start": 167.12,
+    "duration": 6.24
+  },
+  {
+    "text": "depending on, I guess, the feelings of the\nSun at the moment, how far it extends its",
+    "start": 173.36,
+    "duration": 6.87
+  },
+  {
+    "text": "corona, it may touch the outer reaches of \nthe corona. But they're assuming it's going to.",
+    "start": 180.23,
+    "duration": 7.21
+  },
+  {
+    "text": "The press release goes on to say that\nthe present data that they're getting",
+    "start": 187.44,
+    "duration": 3.76
+  },
+  {
+    "text": "back quote, “...hints at the likely\nbirthplace of dynamic solar winds, which",
+    "start": 191.2,
+    "duration": 4.88
+  },
+  {
+    "text": "bathe our entire solar system in energy.” And that's\ncertainly true. They continue to say, “It describes",
+    "start": 196.08,
+    "duration": 5.84
+  },
+  {
+    "text": "startling reversals (that is to say\nswitchbacks) in the Sun's magnetic fields.",
+    "start": 201.92,
+    "duration": 5.76
+  },
+  {
+    "text": "It detects dust in the solar wind\nand it shows that solar winds spin.”",
+    "start": 207.68,
+    "duration": 5.76
+  },
+  {
+    "text": "And they say of course in their airy\nfrivolous language, “...it spins like",
+    "start": 213.44,
+    "duration": 4.07
+  },
+  {
+    "text": "children riding on a playground carousel.”\nAnyway, if you can get through that,",
+    "start": 217.51,
+    "duration": 4.41
+  },
+  {
+    "text": "whenever you hear about things spinning,\njust quietly think about the fact that",
+    "start": 221.92,
+    "duration": 4.39
+  },
+  {
+    "text": "force-free currents are collections of\ncounter-rotating spinning magnetic field",
+    "start": 226.31,
+    "duration": 4.97
+  },
+  {
+    "text": "and current pathways. I submit \nand I have submitted for a long",
+    "start": 231.28,
+    "duration": 3.36
+  },
+  {
+    "text": "while, that they're about the only natural\nphenomena that do consist of concentric",
+    "start": 234.64,
+    "duration": 5.84
+  },
+  {
+    "text": "counter-rotating cylinders, that do\nindeed spin, or at least a twist. In one of",
+    "start": 240.48,
+    "duration": 5.83
+  },
+  {
+    "text": "our last Space News segments, we discussed\nreports that the Voyager probes have observed",
+    "start": 246.31,
+    "duration": 5.69
+  },
+  {
+    "text": "unexpected rotation of the magnetic\nfield through which it is traveling. That",
+    "start": 252.0,
+    "duration": 3.84
+  },
+  {
+    "text": "is the Voyagers, they're out at the heliopause\nand my comment at that time says that wow,",
+    "start": 255.84,
+    "duration": 6.31
+  },
+  {
+    "text": "that's fantastic because that would\nfit like a hand into a glove with our",
+    "start": 263.68,
+    "duration": 5.2
+  },
+  {
+    "text": "Juergens’ Electric Sun model. And that\nwould say that, yes they have left the",
+    "start": 268.88,
+    "duration": 5.2
+  },
+  {
+    "text": "heliosphere out through the heliopause, but it still\nhasn't left the giant Birkeland current that feeds",
+    "start": 274.08,
+    "duration": 8.72
+  },
+  {
+    "text": "this whole solar system and feeds our\nSun, still seeing the rotating magnetic",
+    "start": 282.8,
+    "duration": 5.52
+  },
+  {
+    "text": "fields within that Birkeland current.\nTo get back to the present though, and",
+    "start": 288.32,
+    "duration": 4.64
+  },
+  {
+    "text": "the present report, I feel it's very\nlikely that the pointed tops of the",
+    "start": 292.96,
+    "duration": 4.64
+  },
+  {
+    "text": "so-called coronal caps, regions where\nthe arrays of plasma that are leaving up",
+    "start": 297.6,
+    "duration": 6.15
+  },
+  {
+    "text": "through the corona, instead of diverging\nfrom a central point, i.e. the Sun,",
+    "start": 303.75,
+    "duration": 5.53
+  },
+  {
+    "text": "after they leave, they seem to at\ncertain places at least, come back",
+    "start": 309.28,
+    "duration": 4.4
+  },
+  {
+    "text": "together again and form a triangular or at least a\nconical kind of a cap. But anyway, a long time EU",
+    "start": 313.68,
+    "duration": 6.79
+  },
+  {
+    "text": "member, a good friend of ours, Chris Reeve\napparently asked the question, isn't it",
+    "start": 320.47,
+    "duration": 4.65
+  },
+  {
+    "text": "possible that these switchbacks are\nsimply the probe moving through the",
+    "start": 325.12,
+    "duration": 4.24
+  },
+  {
+    "text": "counter-flowing Birkeland current cylinders of\neach filament? And when I saw that, I said hurrah,",
+    "start": 329.36,
+    "duration": 6.8
+  },
+  {
+    "text": "thank you Chris. Yes, it absolutely is, of course, \nyes. It's quite likely that the coronal caps,",
+    "start": 336.16,
+    "duration": 6.31
+  },
+  {
+    "text": "those pointed hat shapes we observe \nin the outer regions of the corona, are",
+    "start": 342.47,
+    "duration": 4.49
+  },
+  {
+    "text": "exactly where Birkeland currents form.\nThose Birkeland currents extend out to",
+    "start": 346.96,
+    "duration": 4.32
+  },
+  {
+    "text": "places like the north poles of the planets.\nSo, Birkeland currents would explain the",
+    "start": 351.28,
+    "duration": 4.88
+  },
+  {
+    "text": "spinning and the reversal of direction of\nmagnetic fields that the Parker Solar Probe",
+    "start": 356.16,
+    "duration": 5.92
+  },
+  {
+    "text": "observes and that the investigators\nhave found so typically surprising.",
+    "start": 362.08,
+    "duration": 6.72
+  },
+  {
+    "text": "Why are there all sorts of different\nelements? You know manganese, calcium, iron",
+    "start": 368.8,
+    "duration": 6.32
+  },
+  {
+    "text": "sulfur, oxygen you name it, all the \nother elements, in addition to the",
+    "start": 375.12,
+    "duration": 5.91
+  },
+  {
+    "text": "hydrogen and helium that their model\nsays has to be there. But their model",
+    "start": 381.03,
+    "duration": 5.21
+  },
+  {
+    "text": "of nuclear fusion does not produce\nmanganese, calcium, oxygen, sulfur and all",
+    "start": 386.24,
+    "duration": 6.23
+  },
+  {
+    "text": "the raft of other elements.\nAnd so, where does it come from?",
+    "start": 392.47,
+    "duration": 4.97
+  },
+  {
+    "text": "In deeper outer cosmic space there are\nnovae explosions. Suns explode and they",
+    "start": 397.44,
+    "duration": 6.72
+  },
+  {
+    "text": "pepper the universe with\n(and Scott adds parenthetically, fairy",
+    "start": 404.16,
+    "duration": 5.68
+  },
+  {
+    "text": "dust) that sprinkles throughout the\ngalaxies and intergalactic space",
+    "start": 409.84,
+    "duration": 5.52
+  },
+  {
+    "text": "and that's how all these other kinds of elements\nthat the Sun doesn't generate, that's how",
+    "start": 415.36,
+    "duration": 5.83
+  },
+  {
+    "text": "they get on the Sun. It's like a snow\nstorm and they come in from",
+    "start": 421.19,
+    "duration": 3.93
+  },
+  {
+    "text": "deeper outer space. Now, if you believe\nthat, I got a bridge that connects Manhattan",
+    "start": 425.12,
+    "duration": 5.44
+  },
+  {
+    "text": "and Brooklyn that I would be very willing \nto sell you. Alfven and all the earlier",
+    "start": 430.56,
+    "duration": 5.52
+  },
+  {
+    "text": "plasma physicists were well aware that most\nplasmas are what are called dusty plasmas.",
+    "start": 436.08,
+    "duration": 9.83
+  },
+  {
+    "text": "And that means that they contain neutrals.\nA fully ionized plasma is very rare.",
+    "start": 445.91,
+    "duration": 6.49
+  },
+  {
+    "text": "They say that the outer regions of the\ncoronas of our Sun and probably other stars,",
+    "start": 452.4,
+    "duration": 7.04
+  },
+  {
+    "text": "are fully ionized plasma. But 99% of \nmost plasmas are not fully ionized.",
+    "start": 459.44,
+    "duration": 6.31
+  },
+  {
+    "text": "In fact, Hannes Alfven was quoted as saying if the\nplasma was more than ten percent ionized it could",
+    "start": 465.75,
+    "duration": 7.69
+  },
+  {
+    "text": "be considered a fully ionized plasma,\nbecause the forces between the ions and",
+    "start": 473.44,
+    "duration": 6.15
+  },
+  {
+    "text": "electrons that were there,\nare so much stronger than the",
+    "start": 479.59,
+    "duration": 4.0
+  },
+  {
+    "text": "gravitation between the neutrals, that the neutrals\nand the gravitational effects just don't count.",
+    "start": 483.59,
+    "duration": 6.57
+  },
+  {
+    "text": "So, that's a long-winded way of saying,\nsure, plasmas are dusty, that's where the",
+    "start": 490.16,
+    "duration": 4.56
+  },
+  {
+    "text": "dust comes from. It comes from within the Sun.\nAs the ions and the electrons come blasting",
+    "start": 494.72,
+    "duration": 6.24
+  },
+  {
+    "text": "out of the Sun, they bring neutrals with them\nand that's where it came from. I don't think",
+    "start": 500.96,
+    "duration": 4.79
+  },
+  {
+    "text": "you have to depend on asteroids\nmelting near the Sun to explain that.",
+    "start": 505.75,
+    "duration": 7.13
+  },
+  {
+    "text": "In describing the switchbacks, or magnetic \nreversals, the Parker Probe is seeing,",
+    "start": 512.88,
+    "duration": 5.67
+  },
+  {
+    "text": "the press release stated, quote\n”These reversals happen at a high rate of",
+    "start": 518.55,
+    "duration": 4.65
+  },
+  {
+    "text": "occurrence. That high rate is surprising. In fact\nthe nature of these structures remains unknown.”",
+    "start": 523.2,
+    "duration": 6.48
+  },
+  {
+    "text": "Well, we can help them with that, I think.\nBut anyway, we know that the Parker Probe",
+    "start": 529.68,
+    "duration": 4.4
+  },
+  {
+    "text": "is traveling at a speed of approximately\n430,000 miles an hour. Now, that's fast.",
+    "start": 534.08,
+    "duration": 7.43
+  },
+  {
+    "text": "In fact it's 190 kilometers per second.\nAnd so in in a couple of minutes the",
+    "start": 541.51,
+    "duration": 6.25
+  },
+  {
+    "text": "probe travels about 15,000 kilometers.\nThat distance could very well be the",
+    "start": 547.76,
+    "duration": 5.68
+  },
+  {
+    "text": "thickness of one of the layers in the\nBirkeland current which would be the",
+    "start": 553.44,
+    "duration": 3.36
+  },
+  {
+    "text": "cause of those magnetic reversals\nas the probe goes through the",
+    "start": 556.8,
+    "duration": 3.92
+  },
+  {
+    "text": "Birkeland current. The press release also\nannounced that close to the, Sun the",
+    "start": 560.72,
+    "duration": 4.16
+  },
+  {
+    "text": "solar wind seems to get sped up by powerful\n”rogue waves” quote, unquote, that move",
+    "start": 564.88,
+    "duration": 5.68
+  },
+  {
+    "text": "through the magnetic field. The quote \nfrom the press release states quote,",
+    "start": 570.56,
+    "duration": 5.2
+  },
+  {
+    "text": "”We'd suddenly see a spike in the flow\nwhere in just a couple of seconds the",
+    "start": 575.76,
+    "duration": 5.36
+  },
+  {
+    "text": "solar wind would start flowing at 300,000\nmiles an hour faster. That's about",
+    "start": 581.12,
+    "duration": 4.71
+  },
+  {
+    "text": "134 kilometers per second increase in the\nspeed of the solar wind that they're observing.",
+    "start": 585.83,
+    "duration": 6.41
+  },
+  {
+    "text": "And if the velocity of the wind is about\n400 kilometers a second, the press release",
+    "start": 592.24,
+    "duration": 4.0
+  },
+  {
+    "text": "said they were doubling the speed -\nit's not quite doubling. Also, they",
+    "start": 596.24,
+    "duration": 3.76
+  },
+  {
+    "text": "said there are jets of plasma in \nthese streamers. Well, I maintain the",
+    "start": 600.0,
+    "duration": 4.39
+  },
+  {
+    "text": "increases in the solar wind speed may\nindeed be caused by double layers.",
+    "start": 604.39,
+    "duration": 5.05
+  },
+  {
+    "text": "Now in the in the past our viewers have seen\nthis image that I've included here, of what a",
+    "start": 609.44,
+    "duration": 6.63
+  },
+  {
+    "text": "double layer looks like. So just to \nrefresh for the viewer. There are three",
+    "start": 616.07,
+    "duration": 5.69
+  },
+  {
+    "text": "plots there. The top graph is the voltage\nthat we would measure as a function of",
+    "start": 621.76,
+    "duration": 6.63
+  },
+  {
+    "text": "radius distance out from the Sun. So you\ncan see that the voltage is dropping",
+    "start": 628.39,
+    "duration": 4.73
+  },
+  {
+    "text": "rather precipitously from point c to d, to e.\nAnd that results in the middle plot",
+    "start": 633.12,
+    "duration": 6.48
+  },
+  {
+    "text": "which is the electric field that is\nproduced by that sharp drop in voltage.",
+    "start": 639.6,
+    "duration": 4.23
+  },
+  {
+    "text": "Now there's nothing mysterious about\nthat electric field. It's just the force",
+    "start": 643.83,
+    "duration": 4.09
+  },
+  {
+    "text": "on a positive ion and if the electric field\nis positive, as you see it there it is,",
+    "start": 647.92,
+    "duration": 5.52
+  },
+  {
+    "text": "that means that the force on that\npositive ion is outward in the positive",
+    "start": 653.44,
+    "duration": 4.8
+  },
+  {
+    "text": "direction. Outward from the Sun is the\npositive direction. So, the bottom plot",
+    "start": 658.24,
+    "duration": 6.96
+  },
+  {
+    "text": "there is the plot of the charge distribution\nthat would be there to cause what those other",
+    "start": 665.2,
+    "duration": 6.96
+  },
+  {
+    "text": "two plots look like. That's from\nMaxwell's equations, but",
+    "start": 672.16,
+    "duration": 4.0
+  },
+  {
+    "text": "if we look at the charge distribution there,\nyou can see that there are two spherical shells.",
+    "start": 676.16,
+    "duration": 7.35
+  },
+  {
+    "text": "One of positive ions and then\nright on top of that a shell of",
+    "start": 683.51,
+    "duration": 4.09
+  },
+  {
+    "text": "negative charges, mostly probably electrons,\nand that's why it's called a double layer.",
+    "start": 687.6,
+    "duration": 4.16
+  },
+  {
+    "text": "The plus and the minus layer are right there\ntogether. And there are two different spherical",
+    "start": 691.76,
+    "duration": 5.84
+  },
+  {
+    "text": "shells in that double layer: the inner half\nis positive and the outer half is negative,",
+    "start": 697.6,
+    "duration": 6.08
+  },
+  {
+    "text": "and in between, in the center of that double\nlayer is an extremely strong electric field.",
+    "start": 703.68,
+    "duration": 7.27
+  },
+  {
+    "text": "Now that electric field, if it's strong\nenough, can actually rip apart any charged",
+    "start": 710.95,
+    "duration": 6.25
+  },
+  {
+    "text": "intruder into the double layer. So the\nSAFIRE experiment that everybody has",
+    "start": 717.2,
+    "duration": 5.28
+  },
+  {
+    "text": "been hearing about and that's worked out so\nwell for us, that experiment produced an image",
+    "start": 722.48,
+    "duration": 6.0
+  },
+  {
+    "text": "of a whole series of these double layers\nsurrounding the anode, the Sun.",
+    "start": 728.48,
+    "duration": 5.12
+  },
+  {
+    "text": "And the most powerful one is right there\nabove, or actually on the surface of the anode.",
+    "start": 733.6,
+    "duration": 6.16
+  },
+  {
+    "text": "And that's completely consistent with\nJuergen's Electric Sun model, because",
+    "start": 739.76,
+    "duration": 4.4
+  },
+  {
+    "text": "that's the photosphere. That's \nwhere the sunspots all happen and",
+    "start": 744.16,
+    "duration": 4.08
+  },
+  {
+    "text": "in that double layer there's where all sorts\nof things occur. And then, as you go out from",
+    "start": 748.24,
+    "duration": 5.36
+  },
+  {
+    "text": "that layer, outward from the Sun, the \ndouble layers get dimmer and weaker.",
+    "start": 753.6,
+    "duration": 4.16
+  },
+  {
+    "text": "You can see them finally disappear, off in \nthe distance. We don't see any of those",
+    "start": 757.76,
+    "duration": 6.07
+  },
+  {
+    "text": "double layers around the Sun with\nour eyes or with telescopes now,",
+    "start": 763.83,
+    "duration": 4.73
+  },
+  {
+    "text": "simply because if they're there, they're \nin the dark mode of plasma operation.",
+    "start": 768.56,
+    "duration": 6.07
+  },
+  {
+    "text": "They're in the same mode of plasma operation that\nsurrounds the north pole of the Earth, and it's the",
+    "start": 774.63,
+    "duration": 6.17
+  },
+  {
+    "text": "dark mode, we don't see that either unless\nof course there's an aurora at which time",
+    "start": 780.8,
+    "duration": 6.0
+  },
+  {
+    "text": "the plasma jumps into the glow mode\nas it did in that photograph that",
+    "start": 786.8,
+    "duration": 6.08
+  },
+  {
+    "text": "Monty (Childs) so kindly sent us.\nBut normally it's not visible,",
+    "start": 792.88,
+    "duration": 4.56
+  },
+  {
+    "text": "it's a dark mode plasma and so are\nthose double layers around the Sun.",
+    "start": 797.44,
+    "duration": 4.56
+  },
+  {
+    "text": "Also, things are happening very\nquickly these days. In a new paper",
+    "start": 802.0,
+    "duration": 4.39
+  },
+  {
+    "text": "entitled, “Probing the energetic particle\nenvironment near the Sun,” the authors",
+    "start": 806.39,
+    "duration": 5.53
+  },
+  {
+    "text": "seem to acknowledge that magnetic\nreconnection can't actually explain some",
+    "start": 811.92,
+    "duration": 4.8
+  },
+  {
+    "text": "of the effects they're observing. I was \nwaiting, predicting that we would hear about",
+    "start": 816.72,
+    "duration": 5.35
+  },
+  {
+    "text": "magnetic reconnection, but I'm very pleased that\nthey have essentially written that off, at least in",
+    "start": 822.07,
+    "duration": 6.0
+  },
+  {
+    "text": "this paper. They said instead, “We find a\nvariety of energetic particle events accelerated",
+    "start": 828.07,
+    "duration": 8.73
+  },
+  {
+    "text": "both locally and remotely, including \nby co-rotating interaction regions,",
+    "start": 836.8,
+    "duration": 7.2
+  },
+  {
+    "text": "and impulsive events driven by acceleration near\nthe Sun and an event related to a coronal mass",
+    "start": 844.0,
+    "duration": 6.39
+  },
+  {
+    "text": "ejection.” Unquote. So they use the word\nco-rotating and I wonder if by using the word",
+    "start": 850.39,
+    "duration": 6.8
+  },
+  {
+    "text": "co-rotating did they actually mean counter \nrotating? Nothing more was said and so we'll have",
+    "start": 857.19,
+    "duration": 7.2
+  },
+  {
+    "text": "to wait to see what they have \ndiscovered. But they've discovered,",
+    "start": 864.39,
+    "duration": 4.49
+  },
+  {
+    "text": "everything that they have discovered is\ncertainly explainable by Birkeland currents.",
+    "start": 868.88,
+    "duration": 4.8
+  },
+  {
+    "text": "Also, incidentally, regarding the question\nof how all those other elements get onto",
+    "start": 873.68,
+    "duration": 4.8
+  },
+  {
+    "text": "the face of the Sun, that we discussed earlier,\none of the most important results of the",
+    "start": 878.48,
+    "duration": 5.59
+  },
+  {
+    "text": "SAFIRE team, was their discovery \nthat in their electrical plasma discharge",
+    "start": 884.07,
+    "duration": 5.69
+  },
+  {
+    "text": "(and remember that was in a hydrogen\natmosphere just like the Sun is hydrogen),",
+    "start": 889.76,
+    "duration": 5.68
+  },
+  {
+    "text": "the transmutation of elements occurs.\nThat's the kind of process that the old",
+    "start": 895.44,
+    "duration": 5.92
+  },
+  {
+    "text": "prehistoric alchemists were looking for.\nThey wanted to change lead into gold or",
+    "start": 901.36,
+    "duration": 4.24
+  },
+  {
+    "text": "something like that. Well, actually\nSAFIRE has done it, in microscopic",
+    "start": 905.6,
+    "duration": 4.56
+  },
+  {
+    "text": "amounts, but they've done it. So that in a plasma\ndischarge, hydrogen apparently can give birth to a",
+    "start": 910.16,
+    "duration": 6.79
+  },
+  {
+    "text": "long list of other elements. Not just one, that \nwere not there before the discharge started.",
+    "start": 916.95,
+    "duration": 7.12
+  },
+  {
+    "text": "So that may well be how those other elements got\nonto the Sun and get out of the Sun, as we speak.",
+    "start": 924.07,
+    "duration": 7.93
+  },
+  {
+    "text": "And the point is fairy dust has nothing to do with it.",
+    "start": 932.0,
+    "duration": 6.51
+  },
+  {
+    "text": "[Music]",
+    "start": 939.62,
+    "duration": 27.12
+  }
+]

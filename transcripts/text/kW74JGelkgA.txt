@@ -1,0 +1,357 @@
+[
+  {
+    "text": "Welcome to Space News\nfrom the Electric Universe",
+    "start": 7.44,
+    "duration": 2.72
+  },
+  {
+    "text": "brought to you by the Thunderbolts\nProject™ at Thunderbolts.info",
+    "start": 10.16,
+    "duration": 7.76
+  },
+  {
+    "text": "The following presentation is an adaptation \nof the Mel Acheson Picture Of the Day article,",
+    "start": 19.68,
+    "duration": 5.2
+  },
+  {
+    "text": "Blindness, Stupidity and Speculation.\nThe link to the article may be found in the",
+    "start": 24.88,
+    "duration": 5.52
+  },
+  {
+    "text": "description box of this video.\nIgnorance is not bliss. In discussing the",
+    "start": 30.4,
+    "duration": 6.48
+  },
+  {
+    "text": "question of progress in scientific revolutions,\nKuhn noted “There are losses as well as gains,",
+    "start": 36.88,
+    "duration": 6.32
+  },
+  {
+    "text": "and scientists tend to be\npeculiarly blind to the former.”",
+    "start": 43.2,
+    "duration": 3.67
+  },
+  {
+    "text": "In a footnote, he\nelaborates, “Because science",
+    "start": 46.87,
+    "duration": 3.2
+  },
+  {
+    "text": "students ’know the \nright answers’, it is",
+    "start": 50.09,
+    "duration": 2.71
+  },
+  {
+    "text": "particularly difficult to make them\nanalyze an older science in its own terms.”",
+    "start": 52.8,
+    "duration": 5.36
+  },
+  {
+    "text": "Noting that in his broadest use of paradigm,\nKuhn included instrumentation with theory.",
+    "start": 58.16,
+    "duration": 5.28
+  },
+  {
+    "text": "I would apply his footnote to data. Because\nscientists know the right procedures,",
+    "start": 63.44,
+    "duration": 4.96
+  },
+  {
+    "text": "it is particularly difficult to make\nthem attend to evidence outside the",
+    "start": 68.4,
+    "duration": 3.92
+  },
+  {
+    "text": "sensitivities of their instruments.\nChapman refused to look at, or even to",
+    "start": 72.32,
+    "duration": 4.96
+  },
+  {
+    "text": "discuss Alphén’s experiments that contradicted\nthe ”perfect insulator” theory of space.",
+    "start": 77.28,
+    "duration": 6.4
+  },
+  {
+    "text": "Modern astronomers refused to look at\nArp's display of connections among",
+    "start": 83.68,
+    "duration": 4.16
+  },
+  {
+    "text": "objects of different redshifts. Now\nThomas Gold presents a most",
+    "start": 87.84,
+    "duration": 4.4
+  },
+  {
+    "text": "clear-cut example of scientific\nblindness and loss of data",
+    "start": 92.24,
+    "duration": 3.68
+  },
+  {
+    "text": "in his book The Deep Hot Biosphere.\nHe writes “The invention of the",
+    "start": 95.92,
+    "duration": 5.04
+  },
+  {
+    "text": "seismograph meant that it was no longer\nnecessary to experience an earthquake directly,",
+    "start": 100.96,
+    "duration": 4.96
+  },
+  {
+    "text": "or to interview someone who had, in \norder to assemble data on the event.",
+    "start": 105.92,
+    "duration": 4.4
+  },
+  {
+    "text": "Eyewitness reports were no longer believed \nto hold any value for the scientific venture.”",
+    "start": 110.32,
+    "duration": 5.36
+  },
+  {
+    "text": "Gold then proceeds to describe many eyewitness\nreports from ancient times to modern.",
+    "start": 115.68,
+    "duration": 5.36
+  },
+  {
+    "text": "A constellation of recurring\nphenomena becomes apparent:",
+    "start": 121.04,
+    "duration": 3.6
+  },
+  {
+    "text": "”Eruptions, flames, noises, odors\nasphyxiation, fountains of water, and mud”",
+    "start": 124.64,
+    "duration": 7.67
+  },
+  {
+    "text": "often occur before the quake.\nGold concludes on page 147:",
+    "start": 132.31,
+    "duration": 5.05
+  },
+  {
+    "text": "”The accumulated observations maintained\nin folklore and contemplated by the",
+    "start": 137.36,
+    "duration": 4.32
+  },
+  {
+    "text": "intelligentsia of the time, meant \nthat the ancients recognized a",
+    "start": 141.68,
+    "duration": 3.68
+  },
+  {
+    "text": "variety of phenomena that seemed to serve\nwell as warnings of an impending quake.",
+    "start": 145.36,
+    "duration": 5.12
+  },
+  {
+    "text": "In some ways, folklore is \nof more practical value to",
+    "start": 150.48,
+    "duration": 3.36
+  },
+  {
+    "text": "residents of earthquake-prone regions\nthan is our modern science.” He describes",
+    "start": 153.84,
+    "duration": 5.11
+  },
+  {
+    "text": "several incidents where people were able\nto evacuate their villages and towns a",
+    "start": 158.95,
+    "duration": 4.09
+  },
+  {
+    "text": "few hours before an earthquake\nbecause they were alerted by odors, fogs,",
+    "start": 163.04,
+    "duration": 5.27
+  },
+  {
+    "text": "or unusual animal behavior.\nFolklore has saved many lives;",
+    "start": 168.31,
+    "duration": 5.61
+  },
+  {
+    "text": "seismographs and stress meters have\nyet to achieve one correct prediction-",
+    "start": 173.92,
+    "duration": 4.48
+  },
+  {
+    "text": "probably because they're\nmeasuring only effects, not",
+    "start": 178.4,
+    "duration": 3.36
+  },
+  {
+    "text": "causes. Gold adduces this evidence, and\nseveral chapters more, to support his",
+    "start": 181.76,
+    "duration": 5.28
+  },
+  {
+    "text": "theory of upwelling primordial gas from\ndeep within the earth. He also mentions",
+    "start": 187.04,
+    "duration": 5.6
+  },
+  {
+    "text": "the near impossibility of attracting\nany attention to the theory,",
+    "start": 192.64,
+    "duration": 3.92
+  },
+  {
+    "text": "or even to the observations\nthat call into question",
+    "start": 196.56,
+    "duration": 3.12
+  },
+  {
+    "text": "the prevailing assumptions. He writes, ”Thus\nmany scientists seem to have fallen into the rut",
+    "start": 199.68,
+    "duration": 6.16
+  },
+  {
+    "text": "of the nearest convenient theory. They\nexplore the terrain of this rut very",
+    "start": 205.84,
+    "duration": 4.72
+  },
+  {
+    "text": "effectively, down to the\nminutest features within the",
+    "start": 210.56,
+    "duration": 3.03
+  },
+  {
+    "text": "walls, yet they will not\nclimb out for another look.",
+    "start": 213.59,
+    "duration": 4.25
+  },
+  {
+    "text": "This fear of “another look” is more\nthan mere scientific blindness.",
+    "start": 217.84,
+    "duration": 4.64
+  },
+  {
+    "text": "It's a deliberate squeezing shut \nof one's intellectual eyes,",
+    "start": 222.48,
+    "duration": 3.92
+  },
+  {
+    "text": "a rejection of insight, a refusal to learn.\nIt's directly connected to belief, to the",
+    "start": 226.4,
+    "duration": 6.64
+  },
+  {
+    "text": "assumption that one possesses\nthe only possible right answer,",
+    "start": 233.04,
+    "duration": 3.6
+  },
+  {
+    "text": "which therefore obviates\none’s considering further",
+    "start": 236.64,
+    "duration": 3.04
+  },
+  {
+    "text": "questions or “other looks.” Ignorance can\nbe overcome with persistence and study.",
+    "start": 239.68,
+    "duration": 5.68
+  },
+  {
+    "text": "Ignorance, indeed, is the beginning of \nlearning. But the refusal to learn is stupidity,",
+    "start": 245.36,
+    "duration": 6.23
+  },
+  {
+    "text": "and for it there is no remedy. Scientists\nhave limited time, as do we all.",
+    "start": 251.59,
+    "duration": 5.68
+  },
+  {
+    "text": "It's understandable that they\nshould ignore many things not",
+    "start": 257.27,
+    "duration": 3.29
+  },
+  {
+    "text": "immediately pertinent to their current work. \nSometimes even the pertinent must be",
+    "start": 260.56,
+    "duration": 5.28
+  },
+  {
+    "text": "ignored. But that's merely “ignore-ance.”\nThe mark of stupidity, and of the belief",
+    "start": 265.84,
+    "duration": 5.84
+  },
+  {
+    "text": "behind it, is the use of the term “impossible”\nand the accompanying rejection of",
+    "start": 271.68,
+    "duration": 4.88
+  },
+  {
+    "text": "speculation. Let us consider\nThomas Gold again. He writes,",
+    "start": 276.56,
+    "duration": 5.04
+  },
+  {
+    "text": "”The history of science offers example\nafter example of apparently inexplicable",
+    "start": 281.6,
+    "duration": 4.96
+  },
+  {
+    "text": "features for which perfectly rational\nexplanations were finally found.",
+    "start": 286.56,
+    "duration": 4.56
+  },
+  {
+    "text": "In nearly all such cases, assumptions\nthat were universally believed obscured",
+    "start": 291.12,
+    "duration": 5.44
+  },
+  {
+    "text": "the truth so effectively that no progress\ntoward a solution seemed possible.”",
+    "start": 296.56,
+    "duration": 5.35
+  },
+  {
+    "text": "”Yet it is to just such apparently inexplicable\nfeatures that we must hope to find clues",
+    "start": 301.91,
+    "duration": 5.12
+  },
+  {
+    "text": "that will show us how to un-\nburden ourselves of false beliefs.",
+    "start": 307.03,
+    "duration": 4.33
+  },
+  {
+    "text": "”Speculation is a vital step in this process.\nIt was once speculated that the earth",
+    "start": 311.36,
+    "duration": 5.11
+  },
+  {
+    "text": "revolved around the sun. Without \nthis speculation, I do not think",
+    "start": 316.47,
+    "duration": 3.93
+  },
+  {
+    "text": "that any systematic avenue of research\nwould have produced the evidence that",
+    "start": 320.4,
+    "duration": 3.76
+  },
+  {
+    "text": "clinched this theory. At a time \nwhen proposed solutions are",
+    "start": 324.16,
+    "duration": 3.59
+  },
+  {
+    "text": "still speculative, they are \nthe driving force for the",
+    "start": 327.75,
+    "duration": 3.05
+  },
+  {
+    "text": "researches that will prove \nthem right or wrong",
+    "start": 330.8,
+    "duration": 2.72
+  },
+  {
+    "text": "and will thereby put our thinking \non a new and better track.”",
+    "start": 333.52,
+    "duration": 6.05
+  },
+  {
+    "text": "[Music]",
+    "start": 339.57,
+    "duration": 19.48
+  }
+]

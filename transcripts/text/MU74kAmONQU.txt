@@ -1,0 +1,637 @@
+[
+  {
+    "text": "Welcome to Space News from The Electric",
+    "start": 0.0,
+    "duration": 9.71
+  },
+  {
+    "text": "Universe, brought to you by The\nThunderbolts Project at Thunderbolts.info.",
+    "start": 9.71,
+    "duration": 4.8
+  },
+  {
+    "text": "In Part One of this presentation\nphycicist Wal Thornhill began laying the",
+    "start": 14.51,
+    "duration": 7.26
+  },
+  {
+    "text": "foundations for a new theoretical\nunderstanding of our sun and all stars.",
+    "start": 21.77,
+    "duration": 4.63
+  },
+  {
+    "text": "Standard theory remains that stars are\nborn due to the gravitational collapse",
+    "start": 26.4,
+    "duration": 5.12
+  },
+  {
+    "text": "of material in nebular clouds over vast\nspans of time. We're told that stars die",
+    "start": 31.52,
+    "duration": 6.3
+  },
+  {
+    "text": "when they inevitably exhaust their fuel,\nor simply explode. But for many years",
+    "start": 37.82,
+    "duration": 5.8
+  },
+  {
+    "text": "countless discoveries have contradicted\nthese fundamental concepts. In this",
+    "start": 43.62,
+    "duration": 5.45
+  },
+  {
+    "text": "episode Thornhill further explores the\nElectric Universe predictions and",
+    "start": 49.07,
+    "duration": 4.41
+  },
+  {
+    "text": "explanations for a variety of stellar\nphenomena. So, let's return to the",
+    "start": 53.48,
+    "duration": 5.02
+  },
+  {
+    "text": "declaration of our esteemed internet\nlecturer that our sun was born about 5",
+    "start": 58.5,
+    "duration": 4.68
+  },
+  {
+    "text": "billion years ago. There is no evidence\nwhatsoever for this categorical",
+    "start": 63.18,
+    "duration": 4.32
+  },
+  {
+    "text": "statement. With the thermonuclear model\ndiscredited by the observational",
+    "start": 67.5,
+    "duration": 4.32
+  },
+  {
+    "text": "evidence, the complex life story of stars\nis exposed as fiction. Two recent reports",
+    "start": 71.82,
+    "duration": 5.97
+  },
+  {
+    "text": "support this judgment, out of a countless\nnumber of others, expressing surprise at",
+    "start": 77.79,
+    "duration": 4.74
+  },
+  {
+    "text": "unexpected discoveries. On March 6, (2017)\nphys.org headlined a report, “Star",
+    "start": 82.53,
+    "duration": 6.36
+  },
+  {
+    "text": "clusters discovery could upset the\nastronomical applecart.” It begins, “The",
+    "start": 88.89,
+    "duration": 5.54
+  },
+  {
+    "text": "discovery of young stars in old clusters\ncould send scientists back to the drawing",
+    "start": 94.43,
+    "duration": 3.97
+  },
+  {
+    "text": "board.” Because models of stellar\nevolution are based on the assumption",
+    "start": 98.4,
+    "duration": 4.25
+  },
+  {
+    "text": "that stars within star clusters formed\nfrom the same material at roughly the",
+    "start": 102.65,
+    "duration": 3.94
+  },
+  {
+    "text": "same time.  However “back to the drawing\nboard” always means embroidering the set",
+    "start": 106.59,
+    "duration": 5.61
+  },
+  {
+    "text": "of beliefs permanently inscribed on the\nboard. No physicist shows the",
+    "start": 112.2,
+    "duration": 4.68
+  },
+  {
+    "text": "intellectual integrity to wipe the board\nclean of its own scientific Big Bang",
+    "start": 116.88,
+    "duration": 3.9
+  },
+  {
+    "text": "myth and start afresh; it's all too hard\nand scary. So, Dr. Kenji Bekky from the",
+    "start": 120.78,
+    "duration": 6.36
+  },
+  {
+    "text": "International Center for Radio Astronomy\nResearch says, “The formation of these",
+    "start": 127.14,
+    "duration": 4.7
+  },
+  {
+    "text": "younger stars could have been\nfueled by gas entering the clusters from",
+    "start": 131.84,
+    "duration": 3.52
+  },
+  {
+    "text": "interstellar space.” However, observations\nshowed “that there was no correlation",
+    "start": 135.36,
+    "duration": 4.74
+  },
+  {
+    "text": "between interstellar hydrogen gas and\nthe location of the clusters we were",
+    "start": 140.1,
+    "duration": 4.17
+  },
+  {
+    "text": "studying.” “We believe the younger stars\nhave actually been created out of the",
+    "start": 144.27,
+    "duration": 4.56
+  },
+  {
+    "text": "matter ejected from older stars as they\ndie, which means we have discovered",
+    "start": 148.83,
+    "duration": 5.28
+  },
+  {
+    "text": "multiple generations of stars belonging\nto the same cluster.” The words “We believe”",
+    "start": 154.11,
+    "duration": 6.12
+  },
+  {
+    "text": "are accurate; the discovery of multiple\ngenerations of stars is not. The notion",
+    "start": 160.23,
+    "duration": 6.51
+  },
+  {
+    "text": "of the age of a star is based on\nplotting a point on the",
+    "start": 166.74,
+    "duration": 3.27
+  },
+  {
+    "text": "Hertzsprung-Russell diagram where the\nstar leaves the main sequence after the",
+    "start": 170.01,
+    "duration": 4.41
+  },
+  {
+    "text": "exhaustion of its main fuel. But we have\nshown that stars do not exhaust their",
+    "start": 174.42,
+    "duration": 4.77
+  },
+  {
+    "text": "fuel any more than an electric light\ndoes. Stars don't die because their fuel",
+    "start": 179.19,
+    "duration": 5.01
+  },
+  {
+    "text": "runs out, or mysteriously explodes.\nThe Hertzsprung-Russell diagram is simply a",
+    "start": 184.2,
+    "duration": 4.68
+  },
+  {
+    "text": "plot of points, and not an evolutionary\nsequence. Stars have been observed to",
+    "start": 188.88,
+    "duration": 5.13
+  },
+  {
+    "text": "change swiftly and inexplicably from one\nlocation to another on the diagram. When",
+    "start": 194.01,
+    "duration": 5.13
+  },
+  {
+    "text": "viewed correctly as a mirror image, the\ndiagram represents the change in color",
+    "start": 199.14,
+    "duration": 5.06
+  },
+  {
+    "text": "and brightness of a star as the\nelectrical energy focused on it,",
+    "start": 204.2,
+    "duration": 3.73
+  },
+  {
+    "text": "increases along the x-axis. Sharp\ndiscontinuities exist in experimental",
+    "start": 207.93,
+    "duration": 6.45
+  },
+  {
+    "text": "gas discharges between dark mode, glow\nmode and arc mode. These discontinuities",
+    "start": 214.38,
+    "duration": 5.67
+  },
+  {
+    "text": "simply explain the sharply different\nappearances of faint white dwarfs, bright",
+    "start": 220.05,
+    "duration": 5.64
+  },
+  {
+    "text": "sun-like stars and red, so-called dwarfs,\nand red giant stars. The red color is due",
+    "start": 225.69,
+    "duration": 7.62
+  },
+  {
+    "text": "to an extensive anode glow and the faint\nwhite color is simply a coronal glow of",
+    "start": 233.31,
+    "duration": 5.34
+  },
+  {
+    "text": "a normally constituted stellar body\nlacking a bright arc mode photosphere. No",
+    "start": 238.65,
+    "duration": 6.03
+  },
+  {
+    "text": "imaginary ultra-dense dwarf object is\nrequired. There is no need to invent an",
+    "start": 244.68,
+    "duration": 5.7
+  },
+  {
+    "text": "ad hoc requirement for stars to have\nexploded and then somehow gather their",
+    "start": 250.38,
+    "duration": 4.62
+  },
+  {
+    "text": "widely scattering dust gravitationally\nto give birth to younger stars in the",
+    "start": 255.0,
+    "duration": 4.7
+  },
+  {
+    "text": "cluster. Stellar explosions are often\ninvoked to clear dust and gas from star",
+    "start": 259.7,
+    "duration": 5.26
+  },
+  {
+    "text": "clusters.\nAstronomers can't have it both ways, but",
+    "start": 264.96,
+    "duration": 4.2
+  },
+  {
+    "text": "critically, none of this complicated\n”ad-hoc-ary” fits the observations of",
+    "start": 269.16,
+    "duration": 5.28
+  },
+  {
+    "text": "filamentary star birth inside molecular\nclouds. The second report appeared on May 18,",
+    "start": 274.44,
+    "duration": 6.4
+  },
+  {
+    "text": "last year in phys.org, titled, “Stellar\nmystery deepens.” A Monash University-led",
+    "start": 280.84,
+    "duration": 6.9
+  },
+  {
+    "text": "research team made an unexpected\ndiscovery that a large group of stars",
+    "start": 287.74,
+    "duration": 3.69
+  },
+  {
+    "text": "are dying prematurely, challenging our\naccepted view of stellar evolution. Their",
+    "start": 291.43,
+    "duration": 5.45
+  },
+  {
+    "text": "results revealed that large numbers of\nhelium burning stars are dying",
+    "start": 296.88,
+    "duration": 3.96
+  },
+  {
+    "text": "prematurely in the M4 globular cluster.\nProfessor Lattanzio from the Max Planck",
+    "start": 300.84,
+    "duration": 5.56
+  },
+  {
+    "text": "Institute for Astrophysics said, Globular\nclusters are some of the oldest objects",
+    "start": 306.4,
+    "duration": 5.16
+  },
+  {
+    "text": "in the Universe. Although we have some\nideas for what is going on in them, every",
+    "start": 311.56,
+    "duration": 5.25
+  },
+  {
+    "text": "time we look carefully we find\nsomething unexpected. They are both",
+    "start": 316.81,
+    "duration": 3.87
+  },
+  {
+    "text": "fascinating and frustrating at the\nsame time.” The international team found that",
+    "start": 320.68,
+    "duration": 4.76
+  },
+  {
+    "text": "about half of the stars tend to skip the\nred giant phase, instead becoming white",
+    "start": 325.44,
+    "duration": 5.08
+  },
+  {
+    "text": "dwarfs, millions of years ahead of\nschedule, demonstrating once again what's",
+    "start": 330.52,
+    "duration": 4.64
+  },
+  {
+    "text": "wrong with the modern scientific method\ncharacterized as shut up and simulate.",
+    "start": 335.16,
+    "duration": 4.92
+  },
+  {
+    "text": "Professor Lattanzio continued: “Computer\nsimulations do not agree with this",
+    "start": 340.08,
+    "duration": 5.53
+  },
+  {
+    "text": "observation; so as well as continuing\nobservations, new computer models will",
+    "start": 345.61,
+    "duration": 5.6
+  },
+  {
+    "text": "need to be generated to better\nunderstand what is taking place in the",
+    "start": 351.21,
+    "duration": 3.4
+  },
+  {
+    "text": "cores of these stars.” But the computer\nmodels are built on missing or invalid",
+    "start": 354.61,
+    "duration": 4.52
+  },
+  {
+    "text": "concepts: there's nothing going on in the\ncores of stars, and globular clusters are",
+    "start": 359.13,
+    "duration": 6.03
+  },
+  {
+    "text": "not understood. So, the mathematical\ncomputer simulations produce a virtual,",
+    "start": 365.16,
+    "duration": 4.84
+  },
+  {
+    "text": "unreal cosmos that, like the movies, can\nbe programmed to produce anything you",
+    "start": 370.0,
+    "duration": 5.72
+  },
+  {
+    "text": "can imagine and the artist's impressions\nwe see in science reports are little",
+    "start": 375.72,
+    "duration": 5.08
+  },
+  {
+    "text": "more than glossy advertising material,\nbut much more deceptive, because it is",
+    "start": 380.8,
+    "duration": 4.76
+  },
+  {
+    "text": "falsely labeled ‘real science’. There is no\nreal mystery here. With no nuclear fire",
+    "start": 385.56,
+    "duration": 6.63
+  },
+  {
+    "text": "inside, stars don't die by bloating to a\nred giant and collapsing to a white",
+    "start": 392.19,
+    "duration": 4.99
+  },
+  {
+    "text": "dwarf as their fire goes out.\nThe life and death stories of stars are",
+    "start": 397.18,
+    "duration": 4.63
+  },
+  {
+    "text": "fictional: the bloated appearance of red\ngiants is not due to internal pressure",
+    "start": 401.81,
+    "duration": 4.38
+  },
+  {
+    "text": "caused by hypothetical helium burning at\n100 million degrees in the core of a",
+    "start": 406.19,
+    "duration": 5.1
+  },
+  {
+    "text": "star. It is a purely electrical effect,\nwitnessed in laboratory low pressure gas",
+    "start": 411.29,
+    "duration": 4.71
+  },
+  {
+    "text": "discharge tubes. Red stars are those that\nsatisfy their need for electrons from",
+    "start": 416.0,
+    "duration": 5.01
+  },
+  {
+    "text": "the surrounding plasma by expanding the\nsurface area over which they collect",
+    "start": 421.01,
+    "duration": 4.56
+  },
+  {
+    "text": "electrons, by growing a large plasma\nsheath that becomes the effective anode",
+    "start": 425.57,
+    "duration": 5.01
+  },
+  {
+    "text": "in space. The growth process is\nself-limiting, because as the sheath",
+    "start": 430.58,
+    "duration": 4.47
+  },
+  {
+    "text": "expands, its electric field grows\nstronger. Electrons caught up in the",
+    "start": 435.05,
+    "duration": 4.38
+  },
+  {
+    "text": "field are accelerated until they become\nenergetic enough to excite neutral",
+    "start": 439.43,
+    "duration": 3.81
+  },
+  {
+    "text": "particles they chance to collide with\nand the huge sheath becomes a uniform",
+    "start": 443.24,
+    "duration": 4.41
+  },
+  {
+    "text": "red anode glow: it becomes a red giant\nstar. The electric field driving this",
+    "start": 447.65,
+    "duration": 6.24
+  },
+  {
+    "text": "process will also give rise to a massive\nflow of positive ions away from the star,",
+    "start": 453.89,
+    "duration": 4.11
+  },
+  {
+    "text": "or in more conventional terms,\na prodigious stellar wind. Such loss of",
+    "start": 458.0,
+    "duration": 5.94
+  },
+  {
+    "text": "matter is the characteristic feature of\nred giants; standard stellar theory is",
+    "start": 463.94,
+    "duration": 4.38
+  },
+  {
+    "text": "at a loss to explain this, since the\nstar is said to be too cold to boil off",
+    "start": 468.32,
+    "duration": 4.32
+  },
+  {
+    "text": "a stellar wind. Arthur Eddington himself\nexpressed his puzzlement about white",
+    "start": 472.64,
+    "duration": 4.95
+  },
+  {
+    "text": "dwarfs, “Strange objects, which persist in\nshowing a type of spectrum entirely out",
+    "start": 477.59,
+    "duration": 5.19
+  },
+  {
+    "text": "of keeping with their luminosity, may\nultimately teach us more than a host",
+    "start": 482.78,
+    "duration": 4.35
+  },
+  {
+    "text": "which radiates according to rule.” He was\nright: a white dwarf appears extremely",
+    "start": 487.13,
+    "duration": 5.28
+  },
+  {
+    "text": "hot, white and under-luminous because it\nis a faint, white coronal discharge. As",
+    "start": 492.41,
+    "duration": 4.83
+  },
+  {
+    "text": "usual, a thin plasma sheath will be\nformed between the plasma of the star",
+    "start": 497.24,
+    "duration": 5.04
+  },
+  {
+    "text": "and the plasma of space. The electric\nfield across the plasma sheath is",
+    "start": 502.28,
+    "duration": 4.05
+  },
+  {
+    "text": "capable of accelerating electrons to\ngenerate ultraviolet light and X-rays",
+    "start": 506.33,
+    "duration": 3.96
+  },
+  {
+    "text": "when they hit atoms in the atmosphere,\nand the power dissipated is capable of",
+    "start": 510.29,
+    "duration": 4.65
+  },
+  {
+    "text": "raising the temperature of a thin plasma\nlayer to tens of thousands of degrees.",
+    "start": 514.94,
+    "duration": 4.2
+  },
+  {
+    "text": "The spectral lines are broadened,\nsometimes to the point of disappearance,",
+    "start": 519.14,
+    "duration": 4.5
+  },
+  {
+    "text": "due to the coronal electric field. This\ngives the misleading impression that",
+    "start": 523.64,
+    "duration": 4.92
+  },
+  {
+    "text": "hydrogen, whose\nspectral lines are smeared the most, is",
+    "start": 528.56,
+    "duration": 3.69
+  },
+  {
+    "text": "missing in many of these stars and that\ntherefore, they are remnants of larger",
+    "start": 532.25,
+    "duration": 5.31
+  },
+  {
+    "text": "stars that have conventionally lost or\nburned their hydrogen fuel. So, globular",
+    "start": 537.56,
+    "duration": 5.82
+  },
+  {
+    "text": "clusters are not some of the oldest\nobjects in the universe. Their",
+    "start": 543.38,
+    "duration": 3.99
+  },
+  {
+    "text": "spherical shape of a dense collection of\nstars, and their elliptical orbits about",
+    "start": 547.37,
+    "duration": 4.4
+  },
+  {
+    "text": "the galactic center, hint at a quasar\nstyle birth process from the plasmoid at",
+    "start": 551.77,
+    "duration": 4.99
+  },
+  {
+    "text": "the heart of the galaxy. If so, the\nelectromagnetic environment inside the",
+    "start": 556.76,
+    "duration": 4.8
+  },
+  {
+    "text": "globular cluster is different to that in\nopen clusters of stars. So we should",
+    "start": 561.56,
+    "duration": 4.71
+  },
+  {
+    "text": "expect an unusual distribution of white\ndwarfs and red giant stars and the",
+    "start": 566.27,
+    "duration": 5.81
+  },
+  {
+    "text": "puzzling observation that some globular\ncluster stars have 100 times more iron",
+    "start": 572.08,
+    "duration": 4.09
+  },
+  {
+    "text": "than others, could also be explained by\nelectromagnetic sorting of elements",
+    "start": 576.17,
+    "duration": 4.71
+  },
+  {
+    "text": "within the globular cluster at its birth.\nThe fact we don't understand stars in",
+    "start": 580.88,
+    "duration": 6.12
+  },
+  {
+    "text": "the 21st century, highlights what Arthur\nKoestler wrote in The sleepwalkers, “The",
+    "start": 587.0,
+    "duration": 4.86
+  },
+  {
+    "text": "history of cosmic theories, in particular,\nmay without exaggeration be called a",
+    "start": 591.86,
+    "duration": 4.26
+  },
+  {
+    "text": "history of collective obsessions and\ncontrolled schizophrenia; and the manner",
+    "start": 596.12,
+    "duration": 4.59
+  },
+  {
+    "text": "in which some of the most important\nindividual discoveries were arrived at",
+    "start": 600.71,
+    "duration": 3.69
+  },
+  {
+    "text": "reminds one more of a sleepwalker’s\nperformance than an electronic brain’s.”",
+    "start": 604.4,
+    "duration": 4.2
+  },
+  {
+    "text": "Science is still in its childhood and we\nbehave as infants. We give far too much",
+    "start": 608.6,
+    "duration": 6.54
+  },
+  {
+    "text": "credit to scientists for knowing what\nthey are talking about.",
+    "start": 615.14,
+    "duration": 5.11
+  },
+  {
+    "text": "For continuous updates on Space News\nfrom the Electric Universe, stay tuned to",
+    "start": 620.25,
+    "duration": 5.13
+  },
+  {
+    "text": "Thunderbolts.info. [Music]",
+    "start": 625.38,
+    "duration": 12.49
+  },
+  {
+    "text": "[Music]",
+    "start": 640.66,
+    "duration": 34.51
+  }
+]

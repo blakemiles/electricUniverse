@@ -1,0 +1,4277 @@
+[
+  {
+    "text": "Our celestial neighbour,\nthe planet Mars.",
+    "start": 52.671,
+    "duration": 4.175
+  },
+  {
+    "text": "Astronomers once considered Mars to be a long\nbarren and geologically dead rock in space.",
+    "start": 59.486,
+    "duration": 6.139
+  },
+  {
+    "text": "But since the arrival of our\nprobes beginning in the 1960s,",
+    "start": 67.654,
+    "duration": 4.139
+  },
+  {
+    "text": "the planet has\ncome alive for us.",
+    "start": 71.818,
+    "duration": 2.173
+  },
+  {
+    "text": "It does not reveal the inactive\nand worn down landscape",
+    "start": 75.177,
+    "duration": 3.211
+  },
+  {
+    "text": "astronomers and planetary\nscientists had expected.",
+    "start": 78.413,
+    "duration": 3.851
+  },
+  {
+    "text": "Nevertheless, investigators continued\nto apply geologic concepts",
+    "start": 84.311,
+    "duration": 5.158
+  },
+  {
+    "text": "based on their understanding\nof the Earth and the Moon.",
+    "start": 89.494,
+    "duration": 3.491
+  },
+  {
+    "text": "They could only see volcanism, erosion,\nsurface movement and surface collapse,",
+    "start": 93.01,
+    "duration": 6.133
+  },
+  {
+    "text": "all punctuated by episodic impacts\nfrom space over billions of years.",
+    "start": 99.168,
+    "duration": 6.362
+  },
+  {
+    "text": "What force created the sharply cut gouges\nand depressions across the surface of Mars,",
+    "start": 106.899,
+    "duration": 6.506
+  },
+  {
+    "text": "looking as if a giant trowel\ndescended to scoop out material,",
+    "start": 113.43,
+    "duration": 4.575
+  },
+  {
+    "text": "at radically different and\nirreconcilable depths.",
+    "start": 118.03,
+    "duration": 3.706
+  },
+  {
+    "text": "Running north to south, we see massive\ninterwoven scratches or grooves",
+    "start": 128.64,
+    "duration": 5.278
+  },
+  {
+    "text": "extending hundreds of miles.",
+    "start": 133.943,
+    "duration": 2.54
+  },
+  {
+    "text": "And how remarkable that a planet\nonly half the diameter of Earth",
+    "start": 139.632,
+    "duration": 4.199
+  },
+  {
+    "text": "exhibits canyons on a scale dwarfing\nanything seen on our own planet.",
+    "start": 143.856,
+    "duration": 4.847
+  },
+  {
+    "text": "And mountains that would\ntower over Mount Everest.",
+    "start": 150.827,
+    "duration": 3.758
+  },
+  {
+    "text": "Today, no planet outside the Earth has\nreceived more attention than Mars,",
+    "start": 158.356,
+    "duration": 5.634
+  },
+  {
+    "text": "but the mysteries and theoretical\ncontradictions have grown spectacularly.",
+    "start": 164.015,
+    "duration": 6.579
+  },
+  {
+    "text": "For decades now,\ninvestigators have wondered",
+    "start": 174.927,
+    "duration": 3.206
+  },
+  {
+    "text": "why the two hemispheres of Mars look as\nif they were formed in different worlds.",
+    "start": 178.158,
+    "duration": 5.759
+  },
+  {
+    "text": "A southern hemisphere\ndominated by craters,",
+    "start": 189.567,
+    "duration": 3.18
+  },
+  {
+    "text": "a northern hemisphere with only\nsparsely scattered craters.",
+    "start": 195.852,
+    "duration": 3.84
+  },
+  {
+    "text": "And note, the contrasting crustal\ndepths of the two hemispheres.",
+    "start": 202.188,
+    "duration": 4.24
+  },
+  {
+    "text": "Shallow crust in the North, much\nthicker crust in the South.",
+    "start": 209.034,
+    "duration": 5.021
+  },
+  {
+    "text": "Why would a planet evolving in isolation\ndisplay such a profound dichotomy?",
+    "start": 215.667,
+    "duration": 6.38
+  },
+  {
+    "text": "It's as if, some unknown force excavated\nthe northern crust miles deep.",
+    "start": 224.046,
+    "duration": 5.46
+  },
+  {
+    "text": "The hemispheric removal\nof crustal material",
+    "start": 230.895,
+    "duration": 3.053
+  },
+  {
+    "text": "requires a force external to\nMars, acting on the planet.",
+    "start": 233.973,
+    "duration": 5.014
+  },
+  {
+    "text": "But when it comes\nto external events",
+    "start": 241.155,
+    "duration": 2.516
+  },
+  {
+    "text": "scientific convention has\nonly one thing to work with:",
+    "start": 243.696,
+    "duration": 3.835
+  },
+  {
+    "text": "random collisions.",
+    "start": 247.556,
+    "duration": 2.78
+  },
+  {
+    "text": "Could a planetoid or huge\nasteroid crashing into Mars",
+    "start": 250.361,
+    "duration": 3.98
+  },
+  {
+    "text": "have removed millions of\ncubic miles of crust?",
+    "start": 254.366,
+    "duration": 4.66
+  },
+  {
+    "text": "A shattering impact",
+    "start": 260.493,
+    "duration": 4.779
+  },
+  {
+    "text": "is all that theory would allow.",
+    "start": 265.297,
+    "duration": 2.36
+  },
+  {
+    "text": "But what would Martian\nhistory look like",
+    "start": 270.31,
+    "duration": 3.544
+  },
+  {
+    "text": "were we to include\nelectrical events?",
+    "start": 273.879,
+    "duration": 3.575
+  },
+  {
+    "text": "Events on a scale sufficient to sculpt the\nsurface of the Red Planet from pole to pole.",
+    "start": 280.858,
+    "duration": 7.399
+  },
+  {
+    "text": "Of all the enigmatic\nfeatures in the solar system",
+    "start": 306.055,
+    "duration": 3.437
+  },
+  {
+    "text": "perhaps none provokes\ngreater amazement",
+    "start": 309.517,
+    "duration": 2.94
+  },
+  {
+    "text": "than Valles Marineris.",
+    "start": 312.482,
+    "duration": 2.544
+  },
+  {
+    "text": "The largest canyon on\nany planet or moon,",
+    "start": 321.232,
+    "duration": 3.429
+  },
+  {
+    "text": "the deep trench complex stretches a\nthird of the way around the planet,",
+    "start": 324.686,
+    "duration": 4.3
+  },
+  {
+    "text": "hundreds of times larger\nthan the Grand Canyon.",
+    "start": 329.747,
+    "duration": 3.24
+  },
+  {
+    "text": "It would reach from San Francisco\nto New York and beyond.",
+    "start": 333.012,
+    "duration": 5.38
+  },
+  {
+    "text": "Prior theory of planet formation had never\nanticipated such a chasm on a small planet.",
+    "start": 341.518,
+    "duration": 7.459
+  },
+  {
+    "text": "What natural force excavated\nthis colossal trench?",
+    "start": 351.293,
+    "duration": 4.664
+  },
+  {
+    "text": "With the arrival of\nthe Mariner probes,",
+    "start": 361.888,
+    "duration": 2.636
+  },
+  {
+    "text": "NASA scientists thought the chasm\ncould have been cut by water erosion,",
+    "start": 364.549,
+    "duration": 5.025
+  },
+  {
+    "text": "though nothing even close was ever achieved\nby water on the known watery planet Earth.",
+    "start": 371.229,
+    "duration": 5.637
+  },
+  {
+    "text": "In any erosional hypothesis, three million\ncubic miles of material were removed.",
+    "start": 379.25,
+    "duration": 7.24
+  },
+  {
+    "text": "3,000,000 cubic miles! And\nit had to go somewhere.",
+    "start": 386.515,
+    "duration": 6.12
+  },
+  {
+    "text": "Neither the means of fluid drainage, nor\nthe vast outflow required are in evidence.",
+    "start": 392.66,
+    "duration": 5.5
+  },
+  {
+    "text": "Now, we know that Valles Marineris\nreaches to a greater depth",
+    "start": 399.153,
+    "duration": 4.178
+  },
+  {
+    "text": "than any outflow channel\noriginally envisioned.",
+    "start": 403.356,
+    "duration": 4.177
+  },
+  {
+    "text": "And the tributaries\nimagined by some",
+    "start": 409.102,
+    "duration": 2.786
+  },
+  {
+    "text": "turned out to be cleanly cut\nalcoves and stubby depressions.",
+    "start": 411.913,
+    "duration": 4.189
+  },
+  {
+    "text": "They are not connected to\nfeeder streams at all.",
+    "start": 416.127,
+    "duration": 3.887
+  },
+  {
+    "text": "One portion of the Valles Marineris system,\nin particular, underscores our point here.",
+    "start": 428.699,
+    "duration": 6.912
+  },
+  {
+    "text": "Planetary scientists acknowledge that Hebes\nCanyon,",
+    "start": 435.636,
+    "duration": 4.078
+  },
+  {
+    "text": "much larger than our Grand Canyon, is an\ninseparable part of Valles Marineris.",
+    "start": 439.739,
+    "duration": 6.118
+  },
+  {
+    "text": "The scientists have now acknowledged\nit was certainly not created by water.",
+    "start": 445.882,
+    "duration": 6.06
+  },
+  {
+    "text": "Hebes Chasma: \"a fairly large canyon in the Valles Marineris\ncomplex that has absolutely no inlet or outlet on the surface.\"",
+    "start": 451.967,
+    "duration": 8.86
+  },
+  {
+    "text": "Nor is it plausible to suggest\nthat surface spreading",
+    "start": 464.105,
+    "duration": 3.507
+  },
+  {
+    "text": "created the massive caisson\nof Valles Marineris",
+    "start": 467.637,
+    "duration": 2.998
+  },
+  {
+    "text": "with its repeated morphology\nof sharply scalloped walls.",
+    "start": 470.66,
+    "duration": 4.172
+  },
+  {
+    "text": "The surface\nwas not torn, it was carved",
+    "start": 474.857,
+    "duration": 3.754
+  },
+  {
+    "text": "and the detailed images\nimply a removal of material",
+    "start": 478.636,
+    "duration": 4.153
+  },
+  {
+    "text": "along the entire\nlength of the chasm,",
+    "start": 482.814,
+    "duration": 2.983
+  },
+  {
+    "text": "a process clearly illustrated by the\nneatly machined so-called tributaries",
+    "start": 485.822,
+    "duration": 5.41
+  },
+  {
+    "text": "all the way up to their rounded,\ncleanly cut terminations.",
+    "start": 491.257,
+    "duration": 4.42
+  },
+  {
+    "text": "Whatever formed the canyon complex could not\nstop at the margins of the primary channel,",
+    "start": 496.357,
+    "duration": 6.08
+  },
+  {
+    "text": "but added irregular craters and crater\nchains, and surface grooves and gouges.",
+    "start": 502.462,
+    "duration": 5.92
+  },
+  {
+    "text": "So, the question can\nnot be escaped.",
+    "start": 511.129,
+    "duration": 2.5
+  },
+  {
+    "text": "Is there anything known\nto science today",
+    "start": 513.654,
+    "duration": 3.29
+  },
+  {
+    "text": "that can account for the\nextraordinary profile",
+    "start": 516.969,
+    "duration": 3.248
+  },
+  {
+    "text": "of Valles Marineris?",
+    "start": 520.242,
+    "duration": 2.68
+  },
+  {
+    "text": "There is an explanation\nwell-known to science",
+    "start": 524.27,
+    "duration": 3.22
+  },
+  {
+    "text": "though it's never entered\nthe geologist's lexicon.",
+    "start": 527.515,
+    "duration": 4.084
+  },
+  {
+    "text": "Lightning!",
+    "start": 535.433,
+    "duration": 1.559
+  },
+  {
+    "text": "In the plasma laboratory,\nit's power is demonstrated",
+    "start": 539.926,
+    "duration": 3.614
+  },
+  {
+    "text": "in electric discharge\nexperiments.",
+    "start": 543.565,
+    "duration": 2.88
+  },
+  {
+    "text": "But the form unfamiliar to conventional\nscience today is the cosmic thunderbolt.",
+    "start": 555.733,
+    "duration": 6.872
+  },
+  {
+    "text": "It was the brilliant engineer Ralph\nJuergens, who first suggested decades ago,",
+    "start": 571.472,
+    "duration": 5.46
+  },
+  {
+    "text": "that cosmic thunderbolts\ncarved Valles Marineris.",
+    "start": 576.957,
+    "duration": 3.74
+  },
+  {
+    "text": "\"..This entire region resembles nothing so much\nas an area zapped by a powerful electric arc\nadvancing unsteadily across the surface...\"",
+    "start": 580.722,
+    "duration": 9.579
+  },
+  {
+    "text": "With the benefit of\nmore recent data,",
+    "start": 590.326,
+    "duration": 2.14
+  },
+  {
+    "text": "electrical theorist Wallace Thornhill\nreturned to this extraordinary possibility.",
+    "start": 592.491,
+    "duration": 5.419
+  },
+  {
+    "text": "\"Valles Marineris was created within minutes by a giant\nelectric arc sweeping across the surface of Mars...",
+    "start": 597.935,
+    "duration": 8.44
+  },
+  {
+    "text": "...Rock and soil were lifted into space and some fell\nback to create the great, strewn fields of boulders\nfirst seen by the Viking and Pathfinder landers.\"",
+    "start": 606.812,
+    "duration": 10.82
+  },
+  {
+    "text": "Yes, the electric hypothesis\nwill unnerve many scientists",
+    "start": 619.487,
+    "duration": 4.539
+  },
+  {
+    "text": "but it is the only hypothesis that\nmeets the test of direct observation.",
+    "start": 624.051,
+    "duration": 5.341
+  },
+  {
+    "text": "Here is a scar left by an electric\narc on a piece of wet wood.",
+    "start": 630.251,
+    "duration": 4.4
+  },
+  {
+    "text": "Electric discharge provides a direct and\ncomplete explanation for the Valles Marineris.",
+    "start": 635.544,
+    "duration": 6.798
+  },
+  {
+    "text": "The so-called tributaries of the valley were\ncut by secondary streamers of the discharge.",
+    "start": 649.908,
+    "duration": 6.064
+  },
+  {
+    "text": "That is a typical signature of an electric\narc when it cuts a surface channel.",
+    "start": 655.997,
+    "duration": 5.461
+  },
+  {
+    "text": "And here is the scar from electric\ndischarge to an insulator.",
+    "start": 663.873,
+    "duration": 4.222
+  },
+  {
+    "text": "Notice in particular the network of\nsecondary streamers to the left;",
+    "start": 668.12,
+    "duration": 4.94
+  },
+  {
+    "text": "a perfect counterpart to the\nwestern edge of Valles Marineris.",
+    "start": 674.401,
+    "duration": 5.202
+  },
+  {
+    "text": "It was long held that this\nremarkable region on Mars",
+    "start": 679.628,
+    "duration": 3.832
+  },
+  {
+    "text": "was the result of uplift,\nfracturing and spreading.",
+    "start": 683.485,
+    "duration": 4.243
+  },
+  {
+    "text": "And from a distance, it\ndid look like fracturing.",
+    "start": 687.753,
+    "duration": 3.64
+  },
+  {
+    "text": "But with a closer view in front of us, it is\nsimply irrational to cling to that interpretation.",
+    "start": 693.893,
+    "duration": 6.519
+  },
+  {
+    "text": "Material has been cleanly removed, exactly\nas in the discharging to the insulator.",
+    "start": 700.437,
+    "duration": 6.192
+  },
+  {
+    "text": "The evidence now available\ndemands a new perspective,",
+    "start": 707.779,
+    "duration": 4.101
+  },
+  {
+    "text": "a larger field of view.",
+    "start": 711.905,
+    "duration": 2.47
+  },
+  {
+    "text": "In Thornhill's interpretation,",
+    "start": 715.609,
+    "duration": 1.941
+  },
+  {
+    "text": "the discharge took the\nform of a plasmoid,",
+    "start": 717.575,
+    "duration": 2.92
+  },
+  {
+    "text": "not unlike the plasmoid from which\nthe spiral galaxy is formed.",
+    "start": 720.52,
+    "duration": 4.435
+  },
+  {
+    "text": "Plasmoid simulation",
+    "start": 724.972,
+    "duration": 9.578
+  },
+  {
+    "text": "On his website, Thornhill noted\nhow the discharge effect",
+    "start": 735.703,
+    "duration": 3.976
+  },
+  {
+    "text": "spiraled upward to the East\nand downward to the West,",
+    "start": 739.704,
+    "duration": 4.033
+  },
+  {
+    "text": "an effect that shows up quite clearly on\nthe elevation map given on his website.",
+    "start": 743.762,
+    "duration": 5.476
+  },
+  {
+    "text": "In fact, if we extend the\nview of the elevation map,",
+    "start": 750.772,
+    "duration": 3.527
+  },
+  {
+    "text": "we see an even larger effect.",
+    "start": 754.324,
+    "duration": 3.046
+  },
+  {
+    "text": "It seems that the spiraling trails to the\nEast and West nearly completed two circles",
+    "start": 757.395,
+    "duration": 6.192
+  },
+  {
+    "text": "as they swung back to\nthe trench itself.",
+    "start": 763.612,
+    "duration": 4.081
+  },
+  {
+    "text": "But one difference between the northern\nand the southern extension stands out.",
+    "start": 767.718,
+    "duration": 5.08
+  },
+  {
+    "text": "The northern extension is entirely\nconstituted of ravines and depressions,",
+    "start": 772.823,
+    "duration": 5.101
+  },
+  {
+    "text": "while the southern extension consists\nof ridges and mountainous terrain.",
+    "start": 777.949,
+    "duration": 5.225
+  },
+  {
+    "text": "For this unusual contrast, electrical\nexperiments offer a startling explanation.",
+    "start": 783.199,
+    "duration": 6.476
+  },
+  {
+    "text": "It was George Christoph Lichtenberg\nwho in the 18th century first showed",
+    "start": 791.22,
+    "duration": 5.155
+  },
+  {
+    "text": "that electric arcs create ravine networks\non more negatively charged surfaces",
+    "start": 796.4,
+    "duration": 5.226
+  },
+  {
+    "text": "and elevated ridges on more\npositively charged surfaces.",
+    "start": 801.651,
+    "duration": 4.993
+  },
+  {
+    "text": "Could it be that simple?",
+    "start": 806.669,
+    "duration": 2.341
+  },
+  {
+    "text": "...that a cosmic thunderbolt\ncarving Valles Marineris",
+    "start": 809.035,
+    "duration": 3.888
+  },
+  {
+    "text": "acted on two regions of different charge,\nnegative to the north and positive to the south?",
+    "start": 812.948,
+    "duration": 6.788
+  },
+  {
+    "text": "If such was the case, the only plausible\ncause of the charge differential",
+    "start": 820.65,
+    "duration": 5.1
+  },
+  {
+    "text": "would be an electrical exchange between\nMars and other charged bodies in the past.",
+    "start": 825.775,
+    "duration": 6.12
+  },
+  {
+    "text": "And what was the relationship of these\nevents to the hemispheric dichotomies,",
+    "start": 833.332,
+    "duration": 5.419
+  },
+  {
+    "text": "the removal of crustal material to the North\nand the densely cratered southern hemisphere?",
+    "start": 838.776,
+    "duration": 6.572
+  },
+  {
+    "text": "In the electrical interpretation, the violent\nexcavation of the surface to create Valles Marineris",
+    "start": 856.537,
+    "duration": 5.819
+  },
+  {
+    "text": "would have created immense deposits of\nsediment on surrounding topography.",
+    "start": 862.381,
+    "duration": 7.0
+  },
+  {
+    "text": "And indeed, we see that previous craters\nin the region were completely buried,",
+    "start": 873.225,
+    "duration": 4.54
+  },
+  {
+    "text": "with only the largest craters appearing as\noutlines penetrating through the deep deposits.",
+    "start": 877.79,
+    "duration": 5.865
+  },
+  {
+    "text": "It's apparent that the released\nmaterial had a net drift to the West,",
+    "start": 883.68,
+    "duration": 4.874
+  },
+  {
+    "text": "since the blanket of deposited sediment\nstretches all the way to the eastern flank",
+    "start": 888.579,
+    "duration": 5.293
+  },
+  {
+    "text": "of the towering Olympus Mons.",
+    "start": 893.897,
+    "duration": 2.358
+  },
+  {
+    "text": "Keep in mind as well that\nan electric discharge",
+    "start": 898.249,
+    "duration": 3.048
+  },
+  {
+    "text": "at energies necessary to create\nthe chasms of Valles Marineris",
+    "start": 901.322,
+    "duration": 3.888
+  },
+  {
+    "text": "would have ejected great volumes\nof rocky material into space.",
+    "start": 905.235,
+    "duration": 4.299
+  },
+  {
+    "text": "Much of the rocky debris would have fallen\nback to litter the Martian landscape.",
+    "start": 910.774,
+    "duration": 5.14
+  },
+  {
+    "text": "And indeed, shattered rock of all sizes across\nthe surface of Mars is a long-standing mystery.",
+    "start": 915.939,
+    "duration": 6.559
+  },
+  {
+    "text": "And the mystery is resolved by electrical events\non a continental and even hemispheric scale.",
+    "start": 922.523,
+    "duration": 7.191
+  },
+  {
+    "text": "Given the energies of the events",
+    "start": 931.422,
+    "duration": 2.25
+  },
+  {
+    "text": "considerable volumes of material would\nhave surely escaped the planet altogether.",
+    "start": 933.697,
+    "duration": 5.14
+  },
+  {
+    "text": "And what might this tell us\nabout the Mars-Earth connection",
+    "start": 940.136,
+    "duration": 3.844
+  },
+  {
+    "text": "in our reconstruction\nof ancient events?",
+    "start": 944.005,
+    "duration": 3.077
+  },
+  {
+    "text": "Or the surprising discovery that rocks\nfrom Mars have fallen on our own planet?",
+    "start": 947.107,
+    "duration": 6.904
+  },
+  {
+    "text": "When Meteorites Fell from Mars",
+    "start": 964.087,
+    "duration": 5.324
+  },
+  {
+    "text": "One of the great surprises\nof the Space Age",
+    "start": 1002.164,
+    "duration": 3.04
+  },
+  {
+    "text": "was the discovery that certain meteorites\nhad arrived from the planet Mars!",
+    "start": 1005.229,
+    "duration": 5.601
+  },
+  {
+    "text": "Initially, most scientists\nrejected the idea outright.",
+    "start": 1015.865,
+    "duration": 3.86
+  },
+  {
+    "text": "For rock to escape\nMartian gravity,",
+    "start": 1021.045,
+    "duration": 2.972
+  },
+  {
+    "text": "they could only imagine\nan asteroidal impact",
+    "start": 1024.043,
+    "duration": 2.981
+  },
+  {
+    "text": "blasting rock into space at more\nthan three miles per second!",
+    "start": 1027.049,
+    "duration": 4.46
+  },
+  {
+    "text": "That is five times the muzzle\nvelocity of a hunting rifle.",
+    "start": 1031.534,
+    "duration": 3.34
+  },
+  {
+    "text": "The energies would either\npulverize or vaporize the rock.",
+    "start": 1036.272,
+    "duration": 4.271
+  },
+  {
+    "text": "But the question was eventually settled by\ngases trapped inside a suspect meteorite.",
+    "start": 1044.717,
+    "duration": 5.769
+  },
+  {
+    "text": "The gases bore the atmospheric\nsignature of Mars.",
+    "start": 1051.693,
+    "duration": 4.14
+  },
+  {
+    "text": "Martian meteorite",
+    "start": 1055.858,
+    "duration": 3.489
+  },
+  {
+    "text": "\"The trapped gases match these that Viking\nmeasured in the martian atmosphere.\"",
+    "start": 1061.308,
+    "duration": 5.045
+  },
+  {
+    "text": "By 2003, at least 30 meteorites\nhad been identified as Martian.",
+    "start": 1068.01,
+    "duration": 5.706
+  },
+  {
+    "text": "But how could the removal of rock from\nthe Martian surface have occurred?",
+    "start": 1075.744,
+    "duration": 4.662
+  },
+  {
+    "text": "Planetary scientists began\nto offer exotic speculations",
+    "start": 1084.455,
+    "duration": 4.587
+  },
+  {
+    "text": "based on mathematical models.",
+    "start": 1089.067,
+    "duration": 2.349
+  },
+  {
+    "text": "No one seems to have wondered if\nthe vast debris fields of Mars",
+    "start": 1098.237,
+    "duration": 4.46
+  },
+  {
+    "text": "might point the\nway to discovery.",
+    "start": 1102.722,
+    "duration": 2.259
+  },
+  {
+    "text": "Even the smaller rocks viewed here from\nspace would weigh tons on the Earth.",
+    "start": 1107.448,
+    "duration": 6.04
+  },
+  {
+    "text": "We have proposed that in a former\nepoch of planetary instability",
+    "start": 1119.189,
+    "duration": 4.52
+  },
+  {
+    "text": "electric discharge excavated the\nMartian surface miles deep,",
+    "start": 1123.734,
+    "duration": 4.74
+  },
+  {
+    "text": "throwing massive quantities\nof rock into space.",
+    "start": 1128.499,
+    "duration": 3.68
+  },
+  {
+    "text": "This would mean that most of the\nMartian rocks reaching Earth",
+    "start": 1133.204,
+    "duration": 3.587
+  },
+  {
+    "text": "would have come from\nwell below the surface",
+    "start": 1136.816,
+    "duration": 2.534
+  },
+  {
+    "text": "and would not even bear the\natmospheric signature of the planet.",
+    "start": 1139.375,
+    "duration": 4.448
+  },
+  {
+    "text": "So, it is not unreasonable to suspect that\nthe planet Mars was not a small contributor",
+    "start": 1143.848,
+    "duration": 5.74
+  },
+  {
+    "text": "... but the greatest contributor to meteoric\nbombardment of Earth in ancient times!",
+    "start": 1153.431,
+    "duration": 5.76
+  },
+  {
+    "text": "On this question, ancient testimony\nholds a surprising answer!",
+    "start": 1168.63,
+    "duration": 4.834
+  },
+  {
+    "text": "Worldwide accounts describe\napocalyptic wars of the gods",
+    "start": 1173.489,
+    "duration": 4.578
+  },
+  {
+    "text": "punctuated by lightning\nand falling stone!",
+    "start": 1178.092,
+    "duration": 3.16
+  },
+  {
+    "text": "Rocks from space falling on the Earth have no\nconnection to lightning and thunder in our own time,",
+    "start": 1182.957,
+    "duration": 6.46
+  },
+  {
+    "text": "but the ancient\nconnection is clear.",
+    "start": 1189.442,
+    "duration": 2.694
+  },
+  {
+    "text": "In many different languages meteorites and\nexotic rocks were called thunderstones,",
+    "start": 1195.155,
+    "duration": 5.019
+  },
+  {
+    "text": "or thundereggs,",
+    "start": 1203.527,
+    "duration": 1.612
+  },
+  {
+    "text": "said to have fallen in the\ngreat wars of the gods.",
+    "start": 1205.164,
+    "duration": 3.141
+  },
+  {
+    "text": "It seems that the answer lies with\nthe worlds first astronomers.",
+    "start": 1214.802,
+    "duration": 4.374
+  },
+  {
+    "text": "They insisted the\nrocks from space",
+    "start": 1219.201,
+    "duration": 3.01
+  },
+  {
+    "text": "were hurled by the warring\nthundergod, the planet Mars.",
+    "start": 1222.236,
+    "duration": 4.704
+  },
+  {
+    "text": "\"The ancient Babylonians specifically referred\nto meteorites falling from the planet Mars.\"",
+    "start": 1229.94,
+    "duration": 6.129
+  },
+  {
+    "text": "\"You hurl the towering stone...\nYou hurl the stone in fury.\"",
+    "start": 1236.538,
+    "duration": 6.547
+  },
+  {
+    "text": "From one land to another ancient sky\nworshipers celebrated the planet Mars",
+    "start": 1246.706,
+    "duration": 6.38
+  },
+  {
+    "text": "as the cosmic prototype\nfor the warrior on Earth.",
+    "start": 1253.111,
+    "duration": 4.129
+  },
+  {
+    "text": "It seems that rocks\nencircling Mars,",
+    "start": 1263.171,
+    "duration": 2.48
+  },
+  {
+    "text": "when Mars loomed\nhuge in the heavens,",
+    "start": 1265.676,
+    "duration": 2.54
+  },
+  {
+    "text": "appeared as a fiery\nretinue of warriors",
+    "start": 1268.241,
+    "duration": 2.94
+  },
+  {
+    "text": "with ablazing countenance.",
+    "start": 1271.206,
+    "duration": 2.343
+  },
+  {
+    "text": "The terrifying Maruts\nof Hindu literature",
+    "start": 1279.713,
+    "duration": 3.0
+  },
+  {
+    "text": "derived from the same Indo-European\nroot as the Latin Mars.",
+    "start": 1282.738,
+    "duration": 4.74
+  },
+  {
+    "text": "They are the sons and\ncompanians of the Hindu Rudra,",
+    "start": 1287.503,
+    "duration": 3.532
+  },
+  {
+    "text": "\"the Red One\"",
+    "start": 1291.06,
+    "duration": 1.14
+  },
+  {
+    "text": "who could hardly be\nother than Mars itself.",
+    "start": 1292.225,
+    "duration": 3.132
+  },
+  {
+    "text": "The Marutas hurled in the heavens\nbringing blasts of fire,",
+    "start": 1295.382,
+    "duration": 3.779
+  },
+  {
+    "text": "of lightning and falling stone.",
+    "start": 1299.186,
+    "duration": 2.974
+  },
+  {
+    "text": "\"The glittering army...\"",
+    "start": 1302.185,
+    "duration": 2.42
+  },
+  {
+    "text": "\"Armed with lightning spears...\"",
+    "start": 1304.795,
+    "duration": 3.955
+  },
+  {
+    "text": "Babylonian astronomical\ntraditions",
+    "start": 1310.772,
+    "duration": 2.56
+  },
+  {
+    "text": "declared precisely the same thing\nof Nergal, the planet Mars.",
+    "start": 1313.357,
+    "duration": 5.052
+  },
+  {
+    "text": "\"Raging demons with awesome numbers\nrun at his right and at his left\"",
+    "start": 1319.219,
+    "duration": 4.956
+  },
+  {
+    "text": "the texts say.",
+    "start": 1324.2,
+    "duration": 1.589
+  },
+  {
+    "text": "In the same way, the classical poet\ndescribed the dwelling of the Greek Ares,",
+    "start": 1329.291,
+    "duration": 4.702
+  },
+  {
+    "text": "the Roman Mars,",
+    "start": 1334.018,
+    "duration": 1.519
+  },
+  {
+    "text": "ringed by a thousand Furies.",
+    "start": 1335.562,
+    "duration": 2.201
+  },
+  {
+    "text": "Just as a horde of Berserkers,",
+    "start": 1343.788,
+    "duration": 2.14
+  },
+  {
+    "text": "or the furious Valkyries,",
+    "start": 1345.953,
+    "duration": 1.981
+  },
+  {
+    "text": "accompanied the devine warriors in archaic\ntraditions of Germany and Scandinavia.",
+    "start": 1347.959,
+    "duration": 5.901
+  },
+  {
+    "text": "Phobos",
+    "start": 1355.469,
+    "duration": 4.495
+  },
+  {
+    "text": "For many years, our claim has been\nthat catastrophic electrical exchanges",
+    "start": 1360.742,
+    "duration": 4.796
+  },
+  {
+    "text": "between Mars and other\nplanets at close range",
+    "start": 1365.563,
+    "duration": 3.161
+  },
+  {
+    "text": "removed immense volumes of rock, dust and\ndebris from the surface of the Red Planet.",
+    "start": 1368.749,
+    "duration": 6.105
+  },
+  {
+    "text": "But now planetary scientists\nface an additional challenge.",
+    "start": 1377.297,
+    "duration": 3.92
+  },
+  {
+    "text": "The surface of the\nMartian moon Phobos",
+    "start": 1385.504,
+    "duration": 3.202
+  },
+  {
+    "text": "reveals a chemistry very close\nto that of Mars itself.",
+    "start": 1388.731,
+    "duration": 4.461
+  },
+  {
+    "text": "Scientists now say that Phobos is not the\ncaptured asteroid that they have once thought.",
+    "start": 1393.217,
+    "duration": 5.703
+  },
+  {
+    "text": "Like the meteorites from Mars,",
+    "start": 1401.725,
+    "duration": 2.599
+  },
+  {
+    "text": "even this moon seems to\nbe composed of material",
+    "start": 1404.349,
+    "duration": 3.48
+  },
+  {
+    "text": "blasted from the\nplanet's surface.",
+    "start": 1407.854,
+    "duration": 2.596
+  },
+  {
+    "text": "\"Observations from Phobos appear to match the types\nof minerals identified on the surface of Mars.\"",
+    "start": 1412.577,
+    "duration": 6.797
+  },
+  {
+    "text": "\"This moon might itself have originated from material\nthrown into orbit from the Martian surface.\"",
+    "start": 1420.239,
+    "duration": 5.992
+  },
+  {
+    "text": "Theorists envision rocky debris orbiting\nMars after a major impact event,",
+    "start": 1431.281,
+    "duration": 5.318
+  },
+  {
+    "text": "then gradually accreting\ninto the observed moon.",
+    "start": 1436.624,
+    "duration": 3.467
+  },
+  {
+    "text": "But, it is surely more likely",
+    "start": 1443.694,
+    "duration": 2.161
+  },
+  {
+    "text": "that collisions of rocks in orbit\nwould progressively wear them down",
+    "start": 1445.88,
+    "duration": 4.06
+  },
+  {
+    "text": "not create a moon...",
+    "start": 1449.965,
+    "duration": 2.0
+  },
+  {
+    "text": "The idea of gravitational accretion\nfollowed by meteoric impact",
+    "start": 1453.539,
+    "duration": 5.01
+  },
+  {
+    "text": "is, in fact, contradicted by the most\nvisible surface features of Phobos.",
+    "start": 1458.574,
+    "duration": 4.925
+  },
+  {
+    "text": "Imagine the secondary collision",
+    "start": 1465.879,
+    "duration": 2.422
+  },
+  {
+    "text": "that impact theories required in order\nto create the gigantic Stickney crater",
+    "start": 1468.326,
+    "duration": 5.18
+  },
+  {
+    "text": "5.6 miles (9.01km) in diameter,",
+    "start": 1473.531,
+    "duration": 2.68
+  },
+  {
+    "text": "almost half the\ndiameter of Phobos",
+    "start": 1477.191,
+    "duration": 2.46
+  },
+  {
+    "text": "along the axis of the\nsupposed impact.",
+    "start": 1479.676,
+    "duration": 2.927
+  },
+  {
+    "text": "The trivial gravity of the moon could never\nhold together a loose collection of rocks",
+    "start": 1485.292,
+    "duration": 5.292
+  },
+  {
+    "text": "experiencing such an event.",
+    "start": 1490.609,
+    "duration": 2.283
+  },
+  {
+    "text": "Parallel channels and crater\nchains running in every direction.",
+    "start": 1495.612,
+    "duration": 4.415
+  },
+  {
+    "text": "Is it a coincidence that everything required\nto fuse material in the implied way...",
+    "start": 1502.735,
+    "duration": 5.637
+  },
+  {
+    "text": "has already been demonstrated by\nelectric arcs in the laboratory?",
+    "start": 1509.332,
+    "duration": 4.59
+  },
+  {
+    "text": "Pinching material into\nspherical shapes -",
+    "start": 1515.767,
+    "duration": 2.781
+  },
+  {
+    "text": "the same electric force that produces\nparallel channels and crater chains.",
+    "start": 1520.87,
+    "duration": 5.351
+  },
+  {
+    "text": "Electric arc experiments",
+    "start": 1529.125,
+    "duration": 3.832
+  },
+  {
+    "text": "It should not surprise us that a body\nfused electrically into a rough sphere",
+    "start": 1535.828,
+    "duration": 5.346
+  },
+  {
+    "text": "would continue to attract\nthe surrounding dust",
+    "start": 1541.199,
+    "duration": 3.039
+  },
+  {
+    "text": "created by the prior catastrophic\nevents on the Martian surface.",
+    "start": 1544.263,
+    "duration": 5.162
+  },
+  {
+    "text": "But no popular theory has explained how\nPhobos acquired a surface layer of dust",
+    "start": 1549.45,
+    "duration": 5.776
+  },
+  {
+    "text": "or fine grain estimated\nat a hundred meters deep.",
+    "start": 1555.251,
+    "duration": 4.687
+  },
+  {
+    "text": "Even moderate vibrations",
+    "start": 1561.658,
+    "duration": 2.201
+  },
+  {
+    "text": "created by the larger\nsupposed impacts",
+    "start": 1563.884,
+    "duration": 3.01
+  },
+  {
+    "text": "would immediately have propelled\ncollected dust grains back into space",
+    "start": 1566.919,
+    "duration": 4.78
+  },
+  {
+    "text": "due to the rock's\nminuscule gravity.",
+    "start": 1571.724,
+    "duration": 2.775
+  },
+  {
+    "text": "Enhanced colors suggest\nelectrical sorting of dust",
+    "start": 1574.515,
+    "duration": 3.992
+  },
+  {
+    "text": "The available evidence points directly to\nthe very center piece of ancient fears",
+    "start": 1578.532,
+    "duration": 5.682
+  },
+  {
+    "text": "... the cosmic thunderbolt ...",
+    "start": 1584.239,
+    "duration": 2.0
+  },
+  {
+    "text": "and the ancient story of the\ngreat warrior in the heavens",
+    "start": 1589.292,
+    "duration": 3.599
+  },
+  {
+    "text": "of his raging companions",
+    "start": 1592.916,
+    "duration": 2.039
+  },
+  {
+    "text": "and of hurled stone\ndoes not end here.",
+    "start": 1594.98,
+    "duration": 3.162
+  },
+  {
+    "text": "Scarface",
+    "start": 1600.524,
+    "duration": 3.784
+  },
+  {
+    "text": "No surface feature on any\nbody in the solar system",
+    "start": 1604.333,
+    "duration": 3.64
+  },
+  {
+    "text": "is more recognizable than the\ngreat scar of Valles Marineris.",
+    "start": 1607.998,
+    "duration": 4.815
+  },
+  {
+    "text": "And it appears, that ancient nations preserved\nthe story about this memorable scar.",
+    "start": 1615.341,
+    "duration": 5.838
+  },
+  {
+    "text": "The scarred face of\nthe Aztec god Xipe,",
+    "start": 1624.068,
+    "duration": 2.819
+  },
+  {
+    "text": "the celestial model of\nthe devoted warrior,",
+    "start": 1626.912,
+    "duration": 2.8
+  },
+  {
+    "text": "is not easily forgotten.",
+    "start": 1629.737,
+    "duration": 1.96
+  },
+  {
+    "text": "And many cultures recall a\nlegendary warrior or giant",
+    "start": 1632.269,
+    "duration": 4.201
+  },
+  {
+    "text": "recognized by his\ndistinctive scar.",
+    "start": 1636.495,
+    "duration": 3.061
+  },
+  {
+    "text": "But could this scared god really\nhave been the planet Mars?",
+    "start": 1640.921,
+    "duration": 4.681
+  },
+  {
+    "text": "Scarface was the name of a\nlegendary Blackfoot indian warrior",
+    "start": 1647.622,
+    "duration": 4.387
+  },
+  {
+    "text": "also called Star Boy.",
+    "start": 1652.034,
+    "duration": 2.0
+  },
+  {
+    "text": "His counterpart among the Pawnee was\nthe great warrior named Morning Star",
+    "start": 1656.111,
+    "duration": 4.74
+  },
+  {
+    "text": "not Venus they say,\nbut the planet Mars.",
+    "start": 1660.876,
+    "duration": 3.142
+  },
+  {
+    "text": "The Greek Ares personified\nthe lightning weapon",
+    "start": 1665.356,
+    "duration": 3.36
+  },
+  {
+    "text": "and the Greeks identified\nthe god as the planet Mars.",
+    "start": 1668.741,
+    "duration": 3.2
+  },
+  {
+    "text": "When wounded in battle he rushed to Zeus\nwith the shout of a thousand warriors",
+    "start": 1673.053,
+    "duration": 5.118
+  },
+  {
+    "text": "to display the deep gash.",
+    "start": 1678.196,
+    "duration": 2.451
+  },
+  {
+    "text": "In the different cultures, the warring god appears\nalternately as a hero vanquishing chaos monsters",
+    "start": 1682.355,
+    "duration": 6.39
+  },
+  {
+    "text": "and a rogue warrior\nor dark power.",
+    "start": 1688.77,
+    "duration": 3.323
+  },
+  {
+    "text": "We see the two aspects of the warrior\narchetype in the Hindu Indra,",
+    "start": 1693.297,
+    "duration": 4.498
+  },
+  {
+    "text": "famed for the\ncosmic thunderbolt.",
+    "start": 1697.82,
+    "duration": 2.432
+  },
+  {
+    "text": "And the giant Ravana,",
+    "start": 1702.763,
+    "duration": 1.68
+  },
+  {
+    "text": "who is said to have been permanently\nscarred by the thunderbolt.",
+    "start": 1704.468,
+    "duration": 3.705
+  },
+  {
+    "text": "Greek poets knew the monster Typhon\nas the owner of a lightning weapon",
+    "start": 1711.626,
+    "duration": 4.52
+  },
+  {
+    "text": "but also as the\nlightning scarred god.",
+    "start": 1716.171,
+    "duration": 3.16
+  },
+  {
+    "text": "And the same is true of\nthe giant Enceladus,",
+    "start": 1721.06,
+    "duration": 2.94
+  },
+  {
+    "text": "alternately said to have been\nscarred by the thunderbolt of Zeus",
+    "start": 1724.025,
+    "duration": 4.04
+  },
+  {
+    "text": "or the spear of Athena,\nwhich meant the same thing.",
+    "start": 1728.09,
+    "duration": 3.58
+  },
+  {
+    "text": "We have good reason\nto ask, therefore,",
+    "start": 1734.124,
+    "duration": 2.933
+  },
+  {
+    "text": "if the scar-faced theme derived\nfrom remembered events",
+    "start": 1737.082,
+    "duration": 4.117
+  },
+  {
+    "text": "when planetary gods waged\nbattles in the sky",
+    "start": 1741.224,
+    "duration": 3.52
+  },
+  {
+    "text": "and the planet Mars acquired\nit's unforgettable wound.",
+    "start": 1744.769,
+    "duration": 4.36
+  },
+  {
+    "text": "Olympus Mons",
+    "start": 1757.17,
+    "duration": 3.155
+  },
+  {
+    "text": "In it's sheer size the towering\nMartian mountain Olympus Mons",
+    "start": 1767.682,
+    "duration": 4.682
+  },
+  {
+    "text": "dwarfs anything seen on Earth.",
+    "start": 1772.389,
+    "duration": 2.24
+  },
+  {
+    "text": "The great mound on the Tharsis\nRise stunned planetary scientists",
+    "start": 1780.006,
+    "duration": 4.6
+  },
+  {
+    "text": "as it rose through a dust cloud to\ngreet the Mariner 9 mission in 1972.",
+    "start": 1784.631,
+    "duration": 6.08
+  },
+  {
+    "text": "Almost as flat as a pancake,",
+    "start": 1795.852,
+    "duration": 2.4
+  },
+  {
+    "text": "Olympus Mons is three times\nthe height of Mount Everest",
+    "start": 1798.277,
+    "duration": 3.76
+  },
+  {
+    "text": "and as wide as the\nentire State of Arizona!",
+    "start": 1803.666,
+    "duration": 3.34
+  },
+  {
+    "text": "From its discovery onward,",
+    "start": 1810.082,
+    "duration": 1.902
+  },
+  {
+    "text": "planetary scientists interpreted Olympus\nMons as a classic shield volcano,",
+    "start": 1812.009,
+    "duration": 5.598
+  },
+  {
+    "text": "comparing it to the great shield\nvolcanos of the Hawaiian islands.",
+    "start": 1820.832,
+    "duration": 4.217
+  },
+  {
+    "text": "But, Olympus Mons is as large as the\nentire Hawaiian island chain of mountains,",
+    "start": 1826.294,
+    "duration": 5.598
+  },
+  {
+    "text": "from the sea floor\nto their summits.",
+    "start": 1831.917,
+    "duration": 2.31
+  },
+  {
+    "text": "Numerous features distinguish it\nfrom any shield volcano on Earth.",
+    "start": 1837.19,
+    "duration": 3.882
+  },
+  {
+    "text": "It's steep scarp rises up\nto 4 miles (6.43km) high.",
+    "start": 1843.127,
+    "duration": 3.46
+  },
+  {
+    "text": "No shield volcano offers a\ncounterpart to this towering cliff.",
+    "start": 1847.333,
+    "duration": 4.42
+  },
+  {
+    "text": "(Belknap Shield Volcano) The\ndefining feature of a shield volcano",
+    "start": 1857.679,
+    "duration": 3.548
+  },
+  {
+    "text": "is the gentle extrusion of\nfluid or low viscosity lava.",
+    "start": 1861.252,
+    "duration": 3.844
+  },
+  {
+    "text": "Shield volcanoes do\nnot present a scarp",
+    "start": 1866.759,
+    "duration": 3.039
+  },
+  {
+    "text": "and a scarp 4 miles high is\nsimply out of the question.",
+    "start": 1871.308,
+    "duration": 4.54
+  },
+  {
+    "text": "\"The scarp is of unknown origin.\"",
+    "start": 1875.873,
+    "duration": 2.604
+  },
+  {
+    "text": "\"This steep cliff around Olympus Mons is peculiar and\nnot characteristic of terrestrial shield volcanoes.\"",
+    "start": 1880.043,
+    "duration": 5.571
+  },
+  {
+    "text": "In fact, one engima after another\nleaps out at the observer.",
+    "start": 1889.041,
+    "duration": 4.321
+  },
+  {
+    "text": "A blanket of incredibly fine,\nfilamentary ridges and ravines,",
+    "start": 1894.952,
+    "duration": 4.881
+  },
+  {
+    "text": "a surrounding aureole,",
+    "start": 1902.539,
+    "duration": 2.145
+  },
+  {
+    "text": "exhibiting sharply cut\nridges and channels",
+    "start": 1908.565,
+    "duration": 3.382
+  },
+  {
+    "text": "and stupendous carved blocks.",
+    "start": 1914.489,
+    "duration": 3.505
+  },
+  {
+    "text": "\"The origin of the deposits has challenged planetary\nscientists for an explanation for dacades.\"",
+    "start": 1918.019,
+    "duration": 5.142
+  },
+  {
+    "text": "Subsequent to its formation,\nmuch of the aureole to the East",
+    "start": 1926.11,
+    "duration": 3.784
+  },
+  {
+    "text": "was apparently buried by equally\nenigmatic activity in the region.",
+    "start": 1929.919,
+    "duration": 4.24
+  },
+  {
+    "text": "Indeed, the Tharsis Rise as a\nwhole is a long-standing enigma,",
+    "start": 1937.799,
+    "duration": 4.613
+  },
+  {
+    "text": "2,500 miles (4,023 km) across and\nmore than 6 miles (9.65km) high.",
+    "start": 1942.437,
+    "duration": 4.401
+  },
+  {
+    "text": "A vast bulge of this sort has no place in the\nstandard evolution of an isolated planet.",
+    "start": 1950.48,
+    "duration": 7.382
+  },
+  {
+    "text": "\"The origin of the Tharsis\nRise is not well understood.\"",
+    "start": 1957.887,
+    "duration": 4.086
+  },
+  {
+    "text": "Planetary scientists\nstill debate the enigma,",
+    "start": 1966.132,
+    "duration": 3.785
+  },
+  {
+    "text": "but if Mars formerly engaged other\ncharged bodies at close range,",
+    "start": 1969.942,
+    "duration": 5.228
+  },
+  {
+    "text": "the great bulge is the very\ndeformation we would expect.",
+    "start": 1975.195,
+    "duration": 4.312
+  },
+  {
+    "text": "We have claimed that the surface of\nMars was sculpted by electric discharge",
+    "start": 1988.07,
+    "duration": 5.461
+  },
+  {
+    "text": "in an epoch of solar system\ninstability and planetary violence.",
+    "start": 1993.556,
+    "duration": 4.56
+  },
+  {
+    "text": "Yes, this is an outrageous idea,",
+    "start": 2001.606,
+    "duration": 2.784
+  },
+  {
+    "text": "but Olympus Mons itself has all the\ncharacteristics of a lightning blister.",
+    "start": 2004.415,
+    "duration": 5.997
+  },
+  {
+    "text": "Such raised bell-shaped blisters can be\nfound on the caps of lightning arrestors",
+    "start": 2011.782,
+    "duration": 5.249
+  },
+  {
+    "text": "after a cloud to ground strike.",
+    "start": 2017.056,
+    "duration": 2.42
+  },
+  {
+    "text": "And we find them in other\nnatural settings as well,",
+    "start": 2021.642,
+    "duration": 3.528
+  },
+  {
+    "text": "they're elevated fulgarites, what\nsome have called fulgamites.",
+    "start": 2025.195,
+    "duration": 5.08
+  },
+  {
+    "text": "The discharge that creates\nraised fulgurites",
+    "start": 2033.793,
+    "duration": 3.026
+  },
+  {
+    "text": "is often followed by lesser strokes\nalong the same ionized path",
+    "start": 2036.844,
+    "duration": 4.553
+  },
+  {
+    "text": "creating overlapping pits on\nthe top of the formation,",
+    "start": 2042.627,
+    "duration": 4.785
+  },
+  {
+    "text": "just like the circular craters\non the summit of Olympus Mons.",
+    "start": 2047.437,
+    "duration": 4.8
+  },
+  {
+    "text": "On the Martian mountain the smaller\ncraters center on the walls of the larger",
+    "start": 2054.192,
+    "duration": 4.7
+  },
+  {
+    "text": "and are cut to a greater depths,\nas if with a cookie cutter.",
+    "start": 2058.917,
+    "duration": 4.039
+  },
+  {
+    "text": "The material that forms the raised fulgarite\nis scavenged from the surrounding surface.",
+    "start": 2065.446,
+    "duration": 5.82
+  },
+  {
+    "text": "The result is an encircling\ndepression or moat.",
+    "start": 2071.291,
+    "duration": 3.765
+  },
+  {
+    "text": "This characteristic is so clear and obvious\nas to raise an critical question...",
+    "start": 2075.081,
+    "duration": 5.461
+  },
+  {
+    "text": "Is there a moat around the\nbase of Olympus Mons?",
+    "start": 2081.264,
+    "duration": 3.872
+  },
+  {
+    "text": "Planetary scientists\nsay there is a moat,",
+    "start": 2086.129,
+    "duration": 3.147
+  },
+  {
+    "text": "but that its remains are only\nslightly visible to the West",
+    "start": 2089.301,
+    "duration": 3.763
+  },
+  {
+    "text": "and the rest of the moat had been buried by later\ndeposits of material who's origin is still debated.",
+    "start": 2093.089,
+    "duration": 6.434
+  },
+  {
+    "text": "They explain the moat as being\nan effect of Olympus Mons",
+    "start": 2102.377,
+    "duration": 3.748
+  },
+  {
+    "text": "sinking into the local terrain\nover long spans of time.",
+    "start": 2106.15,
+    "duration": 3.94
+  },
+  {
+    "text": "But is another\nexplanation possible?",
+    "start": 2111.855,
+    "duration": 3.36
+  },
+  {
+    "text": "The features of Olympus\nMons are, in fact,",
+    "start": 2117.789,
+    "duration": 2.659
+  },
+  {
+    "text": "a perfect fit to an electrical\ninterpretation down to numerous details.",
+    "start": 2120.473,
+    "duration": 4.939
+  },
+  {
+    "text": "Several years ago, Wal Thornhill\nconducted a laboratory experiment",
+    "start": 2131.98,
+    "duration": 4.56
+  },
+  {
+    "text": "to demonstrate the effect\nof an electric arc",
+    "start": 2136.565,
+    "duration": 2.651
+  },
+  {
+    "text": "on a positively charged,\nor anode clay surface.",
+    "start": 2139.241,
+    "duration": 3.82
+  },
+  {
+    "text": "At moderate power, the electric arc raised a\ncircular mound from the surrounding material",
+    "start": 2146.556,
+    "duration": 5.86
+  },
+  {
+    "text": "to create both, a moat and an encircling\nfluid aureole extracted from the clay,",
+    "start": 2152.441,
+    "duration": 6.017
+  },
+  {
+    "text": "while also carving a crater\non the top of the mound",
+    "start": 2158.483,
+    "duration": 3.414
+  },
+  {
+    "text": "and cutting pits and\ngouges in its flanks.",
+    "start": 2161.922,
+    "duration": 3.901
+  },
+  {
+    "text": "As the power was increased,",
+    "start": 2165.848,
+    "duration": 2.194
+  },
+  {
+    "text": "the arc briefly stopped moving and\nburnt a smaller circular crater",
+    "start": 2168.067,
+    "duration": 4.336
+  },
+  {
+    "text": "within the pre-existing crater,\nleaving a glowing spot.",
+    "start": 2172.428,
+    "duration": 4.684
+  },
+  {
+    "text": "Scaled up to an\ninterplanetary discharge,",
+    "start": 2180.571,
+    "duration": 3.14
+  },
+  {
+    "text": "that glowing spot represents\na duration and temperature",
+    "start": 2183.736,
+    "duration": 3.72
+  },
+  {
+    "text": "sufficient to melt the floors of\nthe Olympus Mons caldera craters",
+    "start": 2187.481,
+    "duration": 4.659
+  },
+  {
+    "text": "and to produce their\nremarkably flat surfaces.",
+    "start": 2192.165,
+    "duration": 3.38
+  },
+  {
+    "text": "The Olympus Mons aureole also has it's\nanalog on the aureoles of lightning blisters",
+    "start": 2201.972,
+    "duration": 5.899
+  },
+  {
+    "text": "showing concentric scarring.",
+    "start": 2208.617,
+    "duration": 2.421
+  },
+  {
+    "text": "This distinctive pattern directs\nour attention to a stunning,",
+    "start": 2217.167,
+    "duration": 3.688
+  },
+  {
+    "text": "highly enigmatic counterpart\non the Olympus Mons aureole.",
+    "start": 2220.88,
+    "duration": 4.361
+  },
+  {
+    "text": "In conventional terms, the\nsimilarity can only be accidental.",
+    "start": 2229.049,
+    "duration": 4.602
+  },
+  {
+    "text": "And, here is an equally\nprofound mystery.",
+    "start": 2239.634,
+    "duration": 3.32
+  },
+  {
+    "text": "Much of the original aureole was\noverwritten by subsequent scarring.",
+    "start": 2242.979,
+    "duration": 4.978
+  },
+  {
+    "text": "It is only necessary to\nlook closely at the images",
+    "start": 2247.982,
+    "duration": 3.153
+  },
+  {
+    "text": "to see that the overwriting was\nachieved by a force acting from above",
+    "start": 2251.16,
+    "duration": 4.5
+  },
+  {
+    "text": "with no regard for previously\nformed ridges and channels.",
+    "start": 2255.685,
+    "duration": 4.157
+  },
+  {
+    "text": "That's the trademark of the\nelectric arcs acting on a surface.",
+    "start": 2259.867,
+    "duration": 4.96
+  },
+  {
+    "text": "In an electrical interpretation\nof Olympus Mons,",
+    "start": 2270.352,
+    "duration": 3.505
+  },
+  {
+    "text": "successive strokes from\na cosmic lightning bolt",
+    "start": 2273.882,
+    "duration": 3.5
+  },
+  {
+    "text": "lifted the peak and carved\nthe craters on the summit.",
+    "start": 2277.407,
+    "duration": 3.606
+  },
+  {
+    "text": "The Olympus Mons caldera illustrates the\neffect of a sputtering, rotating arc,",
+    "start": 2282.59,
+    "duration": 5.664
+  },
+  {
+    "text": "superimposing flat bottom craters\non the summit of an anode blister.",
+    "start": 2288.279,
+    "duration": 5.755
+  },
+  {
+    "text": "It's rapid movement will\nfrequently cut steep terraces",
+    "start": 2294.059,
+    "duration": 3.719
+  },
+  {
+    "text": "into the walls of the\nsuperimposed craters.",
+    "start": 2297.803,
+    "duration": 3.18
+  },
+  {
+    "text": "We see the effect most clearly on the caldera\nwalls of neighbouring Ascraeus Mons.",
+    "start": 2305.749,
+    "duration": 5.5
+  },
+  {
+    "text": "On a planetary scale a cylindrical\nrotating electric discharge",
+    "start": 2321.343,
+    "duration": 4.776
+  },
+  {
+    "text": "can be seen as an array\nof smaller cylinders.",
+    "start": 2326.144,
+    "duration": 3.139
+  },
+  {
+    "text": "A good example is the\ncylindrical Earth auroras",
+    "start": 2331.42,
+    "duration": 3.5
+  },
+  {
+    "text": "formed by curtains of smaller\ndischarge cylinders.",
+    "start": 2334.945,
+    "duration": 4.622
+  },
+  {
+    "text": "When electric arcs\nsputter across a surface",
+    "start": 2343.134,
+    "duration": 3.361
+  },
+  {
+    "text": "they will often stick\nmomentarily to one spot,",
+    "start": 2346.52,
+    "duration": 3.159
+  },
+  {
+    "text": "creating a distinctive\nscalloping effect,",
+    "start": 2349.704,
+    "duration": 3.02
+  },
+  {
+    "text": "an effect evident on the\ncaldera walls of Olympus Mons",
+    "start": 2353.639,
+    "duration": 4.02
+  },
+  {
+    "text": "and even more evident on the caldera\nwalls of Hecates Tholus to the North.",
+    "start": 2358.898,
+    "duration": 5.12
+  },
+  {
+    "text": "Cleanly cut scalloping is not apparent\non the walls of shield volcano calderas.",
+    "start": 2365.074,
+    "duration": 5.85
+  },
+  {
+    "text": "The highly filamentary blanket\non the summit of Olympus Mons",
+    "start": 2375.007,
+    "duration": 4.079
+  },
+  {
+    "text": "is to be expected if an\n'interplanetary' arc",
+    "start": 2379.111,
+    "duration": 3.56
+  },
+  {
+    "text": "created a focal point\nof negative charge",
+    "start": 2382.696,
+    "duration": 2.9
+  },
+  {
+    "text": "on a positively\ncharged surface -",
+    "start": 2385.621,
+    "duration": 2.261
+  },
+  {
+    "text": "like the fine filamentary tail of a comet moving\nthrough the weak electric field of the Sun.",
+    "start": 2390.04,
+    "duration": 6.659
+  },
+  {
+    "text": "Here we would look for a similar\neffect on the massive cloud",
+    "start": 2396.724,
+    "duration": 3.808
+  },
+  {
+    "text": "of dust and sediment that\nfell upon the region.",
+    "start": 2400.557,
+    "duration": 3.624
+  },
+  {
+    "text": "Radial filaments, perhaps even\nelectrically fused material",
+    "start": 2404.206,
+    "duration": 4.641
+  },
+  {
+    "text": "would have poured over the\nflanks and scarp of Olympus Mons",
+    "start": 2408.872,
+    "duration": 3.973
+  },
+  {
+    "text": "to fill the surrounding moat as a permanent\nrecord of the movement of charge.",
+    "start": 2412.87,
+    "duration": 5.747
+  },
+  {
+    "text": "In truth, no shield volcano on Earth\nreplicates the morphology of Olympus Mons.",
+    "start": 2425.479,
+    "duration": 6.139
+  },
+  {
+    "text": "Yet, the pattern is repeated more than\nonce on the Tharsis Rise of Mars,",
+    "start": 2431.643,
+    "duration": 5.07
+  },
+  {
+    "text": "not just superimposed\ncraters and terracing,",
+    "start": 2438.533,
+    "duration": 3.983
+  },
+  {
+    "text": "but as seen in the laboratory\nexperiments with electric arcs,",
+    "start": 2444.697,
+    "duration": 3.64
+  },
+  {
+    "text": "a spectacular array of surrounding\npits and deep surface gouges.",
+    "start": 2448.362,
+    "duration": 5.0
+  },
+  {
+    "text": "And most extraordinary is the fact, that\nthe expansive carved surface seen here",
+    "start": 2454.456,
+    "duration": 5.449
+  },
+  {
+    "text": "reveals not a single opening to the great voids\nthat are supposed to lie beneath the surface",
+    "start": 2459.93,
+    "duration": 6.06
+  },
+  {
+    "text": "- the voids into which scientists have\nassumed these pits and gouges collapsed.",
+    "start": 2468.607,
+    "duration": 5.07
+  },
+  {
+    "text": "Collapsed pits are\ntypically quite obvious",
+    "start": 2477.186,
+    "duration": 2.9
+  },
+  {
+    "text": "revealing either their\nconnection to local fissures",
+    "start": 2480.111,
+    "duration": 3.321
+  },
+  {
+    "text": "or openings to\ncavernous space below.",
+    "start": 2483.457,
+    "duration": 3.02
+  },
+  {
+    "text": "Examined critically. the supposed\nshield volcanoes of Mars",
+    "start": 2489.329,
+    "duration": 4.389
+  },
+  {
+    "text": "do not reveal the\nexpected features.",
+    "start": 2493.743,
+    "duration": 2.461
+  },
+  {
+    "text": "This may not exclude the possibility of active\nvolcanoes in the planet's violent past,",
+    "start": 2498.472,
+    "duration": 5.788
+  },
+  {
+    "text": "but with higher\nresolution images",
+    "start": 2504.285,
+    "duration": 2.852
+  },
+  {
+    "text": "the spectrum of engimas has\nbroadened spectacularly.",
+    "start": 2507.162,
+    "duration": 3.649
+  },
+  {
+    "text": "Electrical events are scaleable,",
+    "start": 2516.258,
+    "duration": 2.697
+  },
+  {
+    "text": "and it should not surprise us to find that\nevents similar to those producing Olympus Mons",
+    "start": 2518.98,
+    "duration": 5.623
+  },
+  {
+    "text": "occurred on a smaller\nscale, as well.",
+    "start": 2524.628,
+    "duration": 2.719
+  },
+  {
+    "text": "In fact, the surface of Mars is replete\nwith small mounds surmounted by craters.",
+    "start": 2529.516,
+    "duration": 6.116
+  },
+  {
+    "text": "Abundant cratered mounds remain\nmysterious to planetary scientists.",
+    "start": 2536.184,
+    "duration": 5.289
+  },
+  {
+    "text": "Many of these mounds are remarkably\nsimilar to raised fulgarites.",
+    "start": 2542.574,
+    "duration": 5.085
+  },
+  {
+    "text": "In many instances, we see the cratered\nmounds surrounded by moats or barrow pits.",
+    "start": 2549.773,
+    "duration": 5.863
+  },
+  {
+    "text": "An electrical explanation may be the only\nexplanation that can withstand scrutiny.",
+    "start": 2556.864,
+    "duration": 6.273
+  },
+  {
+    "text": "Most of the formations are\nunder half a mile in diameter.",
+    "start": 2566.225,
+    "duration": 3.94
+  },
+  {
+    "text": "Where we see one cratered mound\nwe typically see others,",
+    "start": 2571.852,
+    "duration": 3.623
+  },
+  {
+    "text": "sometimes by the hundreds,",
+    "start": 2575.5,
+    "duration": 2.0
+  },
+  {
+    "text": "even by the thousands.",
+    "start": 2578.269,
+    "duration": 1.939
+  },
+  {
+    "text": "We see strings of\ncratered mounds",
+    "start": 2581.644,
+    "duration": 2.5
+  },
+  {
+    "text": "and we see parallel strings; an\nunresolved geological enigma,",
+    "start": 2584.169,
+    "duration": 5.261
+  },
+  {
+    "text": "but an enigma that reminds us of the parallel\nstreamers common to electric discharge.",
+    "start": 2591.056,
+    "duration": 6.219
+  },
+  {
+    "text": "Many of the higher resolution\nimages are quite recent",
+    "start": 2599.431,
+    "duration": 3.761
+  },
+  {
+    "text": "and yes, it is too early to impose\nany sweeping interpretation.",
+    "start": 2603.217,
+    "duration": 5.02
+  },
+  {
+    "text": "But, the greatest mistake would be to\nignore the converging lines of evidence,",
+    "start": 2609.396,
+    "duration": 4.699
+  },
+  {
+    "text": "evidence that points to planet-wide\nelectrical sculpting of the Martian surface",
+    "start": 2614.12,
+    "duration": 5.58
+  },
+  {
+    "text": "not that long ago.",
+    "start": 2619.725,
+    "duration": 2.08
+  },
+  {
+    "text": "Electrical Sculpting of Mars",
+    "start": 2636.581,
+    "duration": 4.436
+  },
+  {
+    "text": "Is it possible to identify the events that\nshaped the surface of the planet Mars?",
+    "start": 2644.903,
+    "duration": 5.6
+  },
+  {
+    "text": "A planet of vast but\nunrecognized landscapes,",
+    "start": 2652.143,
+    "duration": 3.44
+  },
+  {
+    "text": "vista after vista eluding every\nattempt to explain them.",
+    "start": 2657.345,
+    "duration": 4.374
+  },
+  {
+    "text": "Scientists labour to solve the\nmysteries through text book theory,",
+    "start": 2666.028,
+    "duration": 4.306
+  },
+  {
+    "text": "but if, as we have claimed,\nthe cause was electrical,",
+    "start": 2670.359,
+    "duration": 3.5
+  },
+  {
+    "text": "they will never get\nthe expected answers.",
+    "start": 2673.884,
+    "duration": 2.806
+  },
+  {
+    "text": "Many details of a new interpretation come from\nlaboratory experiments with electric discharge,",
+    "start": 2680.594,
+    "duration": 6.06
+  },
+  {
+    "text": "but how far can this new\ninterpretation take us",
+    "start": 2686.679,
+    "duration": 3.414
+  },
+  {
+    "text": "toward an understanding\nof Martian history?",
+    "start": 2690.118,
+    "duration": 3.139
+  },
+  {
+    "text": "One advantage of the\nelectrical perspective",
+    "start": 2697.062,
+    "duration": 2.98
+  },
+  {
+    "text": "is that its every implication can be tested\nagainst massive layers of evidence now available,",
+    "start": 2700.067,
+    "duration": 6.341
+  },
+  {
+    "text": "including wide-ranging\nexperiments with electric arcs.",
+    "start": 2706.433,
+    "duration": 4.36
+  },
+  {
+    "text": "Lab discharge\nbetween two spheres",
+    "start": 2710.818,
+    "duration": 1.9
+  },
+  {
+    "text": "Anode\n(Positive charge)",
+    "start": 2712.743,
+    "duration": 1.332
+  },
+  {
+    "text": "Cathode\n(Negative charge)",
+    "start": 2714.1,
+    "duration": 2.229
+  },
+  {
+    "text": "If as we’ve proposed, Mars was\nimmersed in hemispheric discharge,",
+    "start": 2716.354,
+    "duration": 4.9
+  },
+  {
+    "text": "the planet can be viewed\nas a laboratory in space",
+    "start": 2721.279,
+    "duration": 3.88
+  },
+  {
+    "text": "for testing the\nelectrical hypothesis.",
+    "start": 2725.184,
+    "duration": 2.515
+  },
+  {
+    "text": "Lichtenberg Figures",
+    "start": 2732.701,
+    "duration": 3.213
+  },
+  {
+    "text": "As seen in lightning displays,",
+    "start": 2736.572,
+    "duration": 2.441
+  },
+  {
+    "text": "electric arcs exhibit dendritic\nbranching called Lichtenberg patterns.",
+    "start": 2739.038,
+    "duration": 5.26
+  },
+  {
+    "text": "These look very much like the dendritic\nerosion created by flowing water.",
+    "start": 2746.308,
+    "duration": 4.88
+  },
+  {
+    "text": "And electric arcs exploding across a\nsurface can produce sinuous channels",
+    "start": 2754.948,
+    "duration": 5.053
+  },
+  {
+    "text": "that also resemble\nfluid erosion.",
+    "start": 2760.026,
+    "duration": 2.4
+  },
+  {
+    "text": "Lab discharge to wet wood",
+    "start": 2762.451,
+    "duration": 2.182
+  },
+  {
+    "text": "But there are differences.",
+    "start": 2768.815,
+    "duration": 2.109
+  },
+  {
+    "text": "In electric discharge\nto a solid surface",
+    "start": 2770.949,
+    "duration": 3.114
+  },
+  {
+    "text": "the electron pathways frequently\ncreate dark spotting,",
+    "start": 2774.088,
+    "duration": 3.559
+  },
+  {
+    "text": "or chains of craters, running along\nthe channel floors or close by.",
+    "start": 2777.672,
+    "duration": 4.9
+  },
+  {
+    "text": "The presence of crater concentrations\nin relation to surface channels",
+    "start": 2783.586,
+    "duration": 4.59
+  },
+  {
+    "text": "offers a fundamental test of\nthe electrical hypothesis.",
+    "start": 2789.495,
+    "duration": 4.0
+  },
+  {
+    "text": "In electric experiments, we\nalso see coronal streamers",
+    "start": 2807.17,
+    "duration": 3.98
+  },
+  {
+    "text": "radiating perpendicularly from\nthe primary discharge channel.",
+    "start": 2811.175,
+    "duration": 4.429
+  },
+  {
+    "text": "Both, the cratering and\nthe coronal discharge",
+    "start": 2816.728,
+    "duration": 3.054
+  },
+  {
+    "text": "are keys to a new understanding\nof the Martian surface.",
+    "start": 2819.807,
+    "duration": 3.745
+  },
+  {
+    "text": "Martian Channels:",
+    "start": 2827.921,
+    "duration": 1.326
+  },
+  {
+    "text": "scalloping; crater chains;\nalcoves; pseudo-tributaries",
+    "start": 2829.272,
+    "duration": 3.435
+  },
+  {
+    "text": "Did electric arcs cut the\ngreat channels on Mars?",
+    "start": 2835.655,
+    "duration": 3.821
+  },
+  {
+    "text": "Nirgal Vallis is some three miles and\nmore in width and 250 miles in length.",
+    "start": 2844.907,
+    "duration": 6.746
+  },
+  {
+    "text": "Yes, it did look\nlike a dry river bed",
+    "start": 2851.678,
+    "duration": 2.185
+  },
+  {
+    "text": "when first seen by the\nMariner 9 mission in 1972,",
+    "start": 2853.888,
+    "duration": 3.94
+  },
+  {
+    "text": "but the original confidence of planetary\nscientists soon gave way to doubts,",
+    "start": 2859.761,
+    "duration": 5.159
+  },
+  {
+    "text": "then to contradiction.",
+    "start": 2864.945,
+    "duration": 1.679
+  },
+  {
+    "text": "\"It is not clear how this channel formed...\"",
+    "start": 2867.601,
+    "duration": 6.481
+  },
+  {
+    "text": "A river can take many twists\nand turns along its path",
+    "start": 2878.047,
+    "duration": 3.921
+  },
+  {
+    "text": "but its tributaries will not look like\nthe blunt alcoves of Nirgall Vallis.",
+    "start": 2881.993,
+    "duration": 5.0
+  },
+  {
+    "text": "Martian channels exhibit the predictable\nfeatures of an electric scar.",
+    "start": 2889.849,
+    "duration": 5.14
+  },
+  {
+    "text": "Rotating cylindrical arcs",
+    "start": 2896.699,
+    "duration": 2.38
+  },
+  {
+    "text": "sputtering along the\nprimary discharge path",
+    "start": 2899.104,
+    "duration": 3.14
+  },
+  {
+    "text": "produced scalloping\nof the channel walls",
+    "start": 2902.269,
+    "duration": 2.92
+  },
+  {
+    "text": "with sharp angular projections that\nare inconsistent with fluid flow.",
+    "start": 2905.214,
+    "duration": 4.48
+  },
+  {
+    "text": "The same process left\noverlapping craters and alcoves",
+    "start": 2912.434,
+    "duration": 3.5
+  },
+  {
+    "text": "that make no sense in terms of\nfamiliar erosional patterns.",
+    "start": 2915.959,
+    "duration": 4.482
+  },
+  {
+    "text": "We see virtually identical craters, alcoves and\nsharply cut stubby gouges along Nanedi Valles.",
+    "start": 2924.443,
+    "duration": 7.76
+  },
+  {
+    "text": "Nanedi Valles:\n\"The valley's origins remain unclear.\"",
+    "start": 2932.942,
+    "duration": 7.92
+  },
+  {
+    "text": "Numerous other Martian rilles\nunderscore the same enigma",
+    "start": 2942.784,
+    "duration": 4.473
+  },
+  {
+    "text": "and the unanswered questions\ngrow year by year.",
+    "start": 2947.282,
+    "duration": 4.08
+  },
+  {
+    "text": "Nirgal Valles \"tributaries\"",
+    "start": 2955.933,
+    "duration": 3.582
+  },
+  {
+    "text": "Electric arc to wood",
+    "start": 2959.77,
+    "duration": 4.42
+  },
+  {
+    "text": "\"Collapsed Lava Tubes\"",
+    "start": 2966.704,
+    "duration": 3.396
+  },
+  {
+    "text": "Planetary scientists identify depressions\nsuch as these, as collapsed lava tubes.",
+    "start": 2975.265,
+    "duration": 6.745
+  },
+  {
+    "text": "Lava tubes form as flowing molten rock\ncools and hardens at it's surface,",
+    "start": 2985.224,
+    "duration": 5.34
+  },
+  {
+    "text": "insulating the lava below so it continues\nto flow in a tube that eventually empties.",
+    "start": 2990.589,
+    "duration": 6.776
+  },
+  {
+    "text": "When an empty lava\ntubes collapses,",
+    "start": 2997.39,
+    "duration": 2.819
+  },
+  {
+    "text": "the result will be an\nentrance to a lava tube cave.",
+    "start": 3000.234,
+    "duration": 4.035
+  },
+  {
+    "text": "A good example is \"Barker's\ncave\" in Australia.",
+    "start": 3004.294,
+    "duration": 4.319
+  },
+  {
+    "text": "So, a cave entrance is the first\nthing to look for on Mars.",
+    "start": 3009.8,
+    "duration": 5.562
+  },
+  {
+    "text": "The second thing to look for is a rubble\nfield created by a collapsing roof.",
+    "start": 3015.387,
+    "duration": 6.257
+  },
+  {
+    "text": "And a third thing to look\nfor is abundant outflow",
+    "start": 3021.669,
+    "duration": 3.921
+  },
+  {
+    "text": "since the emptying of a lava\ntube requires an outflow region.",
+    "start": 3025.615,
+    "duration": 4.772
+  },
+  {
+    "text": "Lava outflow",
+    "start": 3030.565,
+    "duration": 2.704
+  },
+  {
+    "text": "But in reviewing innumerable instances\nof claimed lava tubes collapse on Mars",
+    "start": 3035.34,
+    "duration": 5.94
+  },
+  {
+    "text": "we find no cave entrance,",
+    "start": 3041.305,
+    "duration": 2.68
+  },
+  {
+    "text": "no rubble field from\na collapsed roof",
+    "start": 3044.01,
+    "duration": 3.075
+  },
+  {
+    "text": "and no outflow.",
+    "start": 3048.547,
+    "duration": 2.138
+  },
+  {
+    "text": "The depressions stand alone",
+    "start": 3050.71,
+    "duration": 2.313
+  },
+  {
+    "text": "with literally nothing to support\nthe theoretical interpretation.",
+    "start": 3053.048,
+    "duration": 4.697
+  },
+  {
+    "text": "Like any fluid, lava flow\nfollows topographical relief,",
+    "start": 3061.1,
+    "duration": 4.595
+  },
+  {
+    "text": "always running downhill.",
+    "start": 3065.72,
+    "duration": 2.305
+  },
+  {
+    "text": "The channels seen here change directions\nrandomly in apparent disregard for topography.",
+    "start": 3069.127,
+    "duration": 5.91
+  },
+  {
+    "text": "They make 90 degree turns\nunrelated to surface gradients.",
+    "start": 3075.972,
+    "duration": 4.116
+  },
+  {
+    "text": "And they also cross over each other\nwith no disturbance of either.",
+    "start": 3082.544,
+    "duration": 4.972
+  },
+  {
+    "text": "These depressions can not\nbe collapsed lava tubes,",
+    "start": 3090.324,
+    "duration": 3.54
+  },
+  {
+    "text": "but what are they?",
+    "start": 3093.889,
+    "duration": 2.0
+  },
+  {
+    "text": "What you see here is\nnot the planet Mars.",
+    "start": 3100.78,
+    "duration": 3.634
+  },
+  {
+    "text": "It is a surface affected by very\nhigh voltage, but microamp current,",
+    "start": 3104.439,
+    "duration": 5.745
+  },
+  {
+    "text": "creating a complex of\ngouges and craters.",
+    "start": 3110.209,
+    "duration": 3.777
+  },
+  {
+    "text": "Again, in electrical terms",
+    "start": 3115.906,
+    "duration": 2.664
+  },
+  {
+    "text": "craters and channels are\ninseparable companions.",
+    "start": 3118.595,
+    "duration": 3.553
+  },
+  {
+    "text": "\"Fractured\" Terrain",
+    "start": 3125.173,
+    "duration": 2.67
+  },
+  {
+    "text": "In responding to the mysterious\nchannels and depressions on Mars,",
+    "start": 3129.944,
+    "duration": 4.42
+  },
+  {
+    "text": "many planetary scientists thought\nthey saw spreading and fracturing",
+    "start": 3134.389,
+    "duration": 5.238
+  },
+  {
+    "text": "and, indeed, evidence of fracturing\nis present on Mars as seen here.",
+    "start": 3139.652,
+    "duration": 5.764
+  },
+  {
+    "text": "Here there are no associated\ncraters or crater chains",
+    "start": 3145.441,
+    "duration": 4.395
+  },
+  {
+    "text": "and the nature of the stresses acting\non the surface is an open question.",
+    "start": 3149.861,
+    "duration": 4.82
+  },
+  {
+    "text": "Planetary scientists think in the same terms\nwhen considering the region of Avernus Colles.",
+    "start": 3156.181,
+    "duration": 6.305
+  },
+  {
+    "text": "They identify the channels\nas cracks or fractures.",
+    "start": 3162.511,
+    "duration": 4.066
+  },
+  {
+    "text": "But why the concentrations of\ncraters and crater chains?",
+    "start": 3167.513,
+    "duration": 5.071
+  },
+  {
+    "text": "A rotating electric arc traveling across the\nsurface can alternately sputter forward",
+    "start": 3172.609,
+    "duration": 6.117
+  },
+  {
+    "text": "to produce linear\nchains of craters,",
+    "start": 3178.751,
+    "duration": 3.225
+  },
+  {
+    "text": "or advance on a continuous path\nto cut channels as if by a router",
+    "start": 3182.011,
+    "duration": 5.519
+  },
+  {
+    "text": "with uniform depth\nand parallel sides.",
+    "start": 3187.555,
+    "duration": 3.336
+  },
+  {
+    "text": "As seen in laboratory experiments\nwith electric discharge channels,",
+    "start": 3195.733,
+    "duration": 4.76
+  },
+  {
+    "text": "here, the channel width will be\nthe width of the rotating arc",
+    "start": 3200.518,
+    "duration": 3.86
+  },
+  {
+    "text": "at it's contact\nwith the surface.",
+    "start": 3204.403,
+    "duration": 2.765
+  },
+  {
+    "text": "VEMASAT Laboratories, Earth",
+    "start": 3208.428,
+    "duration": 4.992
+  },
+  {
+    "text": "Avernus Colles, Mars",
+    "start": 3216.237,
+    "duration": 4.008
+  },
+  {
+    "text": "Crater Anomalies",
+    "start": 3222.118,
+    "duration": 2.74
+  },
+  {
+    "text": "The question of crater formation on rocky\nplanets and moons must be re-opened.",
+    "start": 3226.069,
+    "duration": 5.594
+  },
+  {
+    "text": "The impact explanation would mean it\nis only necessary to count craters",
+    "start": 3231.688,
+    "duration": 4.804
+  },
+  {
+    "text": "in order to calculate\nthe age of a surface.",
+    "start": 3236.517,
+    "duration": 3.709
+  },
+  {
+    "text": "But electric discharge\non an hemispheric scale",
+    "start": 3243.63,
+    "duration": 3.715
+  },
+  {
+    "text": "could quickly create a surface\nthat looks a billion years old",
+    "start": 3247.37,
+    "duration": 3.739
+  },
+  {
+    "text": "to those counting craters.",
+    "start": 3251.134,
+    "duration": 2.092
+  },
+  {
+    "text": "Plasma scientist Dr. J. C.\nRansom of VEMASAT-Laboratories",
+    "start": 3255.396,
+    "duration": 4.68
+  },
+  {
+    "text": "conducted a series of\nexperiments with electric arcs.",
+    "start": 3260.101,
+    "duration": 4.255
+  },
+  {
+    "text": "Electric discharge produced\nsurface cratering patterns",
+    "start": 3264.381,
+    "duration": 4.328
+  },
+  {
+    "text": "closely resembling those\nobserved on planets and moons.",
+    "start": 3268.734,
+    "duration": 3.982
+  },
+  {
+    "text": "Even a surface darkening and central bumps\nor mounds of so many craters on Mars",
+    "start": 3274.498,
+    "duration": 5.86
+  },
+  {
+    "text": "were present in the\nlaboratory experiment.",
+    "start": 3280.383,
+    "duration": 3.058
+  },
+  {
+    "text": "Electric arcs can also produce cratering\npatterns that could never be produced by impact.",
+    "start": 3286.471,
+    "duration": 6.373
+  },
+  {
+    "text": "Complex terracing of crater\nfloors and crater walls",
+    "start": 3295.181,
+    "duration": 4.036
+  },
+  {
+    "text": "are a common effect of a\nrotating electric arc",
+    "start": 3299.242,
+    "duration": 3.199
+  },
+  {
+    "text": "or discharge streamer.",
+    "start": 3302.466,
+    "duration": 2.0
+  },
+  {
+    "text": "Across the surface of Mars we observe\ncountless examples of exotic terracing.",
+    "start": 3307.941,
+    "duration": 6.047
+  },
+  {
+    "text": "Impact theory was never able\nto resolve the mysteries.",
+    "start": 3314.013,
+    "duration": 4.01
+  },
+  {
+    "text": "So-called bull's eye craters",
+    "start": 3320.624,
+    "duration": 2.347
+  },
+  {
+    "text": "with a central crater\ninside a larger crater",
+    "start": 3322.996,
+    "duration": 3.28
+  },
+  {
+    "text": "are surprisingly common on Mars.",
+    "start": 3326.301,
+    "duration": 2.893
+  },
+  {
+    "text": "Could this be a rare accident?",
+    "start": 3329.219,
+    "duration": 2.304
+  },
+  {
+    "text": "That explanation is reduced to absurdity\nwhen two such craters are seen side by side.",
+    "start": 3332.289,
+    "duration": 6.755
+  },
+  {
+    "text": "In fact several bull's eye craters\nappear within the same region of Mars.",
+    "start": 3340.54,
+    "duration": 5.219
+  },
+  {
+    "text": "But an ionized discharge path of lightning does\nallow for subsequent discharge along the same path.",
+    "start": 3347.433,
+    "duration": 7.423
+  },
+  {
+    "text": "The bull's eye crater",
+    "start": 3354.881,
+    "duration": 1.674
+  },
+  {
+    "text": "is a logical extension\nof the electric model.",
+    "start": 3356.58,
+    "duration": 3.473
+  },
+  {
+    "text": "And when it comes to\nimprobable events side by side",
+    "start": 3362.043,
+    "duration": 3.781
+  },
+  {
+    "text": "these two craters with central peaks\neach terminating in another crater",
+    "start": 3365.849,
+    "duration": 4.56
+  },
+  {
+    "text": "will certainly never be\nexplained by impact.",
+    "start": 3370.434,
+    "duration": 3.411
+  },
+  {
+    "text": "Impacts do not create\nhexagonal craters.",
+    "start": 3377.019,
+    "duration": 3.246
+  },
+  {
+    "text": "But look closely at\nthis region of Mars",
+    "start": 3383.007,
+    "duration": 2.739
+  },
+  {
+    "text": "and you'll see several hexagons,",
+    "start": 3385.771,
+    "duration": 3.0
+  },
+  {
+    "text": "an observed form taken\nby rotating plasma",
+    "start": 3388.796,
+    "duration": 3.58
+  },
+  {
+    "text": "as seen in the planet Saturn’s\nelectrified polar hexagon.",
+    "start": 3392.401,
+    "duration": 4.739
+  },
+  {
+    "text": "In an extended discharge,",
+    "start": 3402.004,
+    "duration": 2.42
+  },
+  {
+    "text": "systematic cratering, pitting,\nor etching can be the norm.",
+    "start": 3404.449,
+    "duration": 4.224
+  },
+  {
+    "text": "That's why in\nindustrial applications",
+    "start": 3411.17,
+    "duration": 2.739
+  },
+  {
+    "text": "electric discharge machining can achieve\nexceptionally dependable results.",
+    "start": 3413.934,
+    "duration": 4.98
+  },
+  {
+    "text": "The microscopic pitting\nof electric discharge",
+    "start": 3419.789,
+    "duration": 3.0
+  },
+  {
+    "text": "can give a consistent depth",
+    "start": 3422.814,
+    "duration": 2.004
+  },
+  {
+    "text": "and a remarkably smooth surface",
+    "start": 3424.843,
+    "duration": 2.48
+  },
+  {
+    "text": "despite the fact that the surface is\nentirely constituted of craters or pits.",
+    "start": 3427.348,
+    "duration": 5.16
+  },
+  {
+    "text": "The same effect can be observed\non seemingly smooth surfaces",
+    "start": 3436.782,
+    "duration": 4.261
+  },
+  {
+    "text": "in the northern\nhemisphere of Mars,",
+    "start": 3441.068,
+    "duration": 2.34
+  },
+  {
+    "text": "surfaces that have been\nexcavated miles deep.",
+    "start": 3443.433,
+    "duration": 3.219
+  },
+  {
+    "text": "But look more closely with the\nhelp of recent high-res images",
+    "start": 3456.026,
+    "duration": 3.982
+  },
+  {
+    "text": "and smooth surfaces are revealed to\nbe nothing more than fields of small",
+    "start": 3461.133,
+    "duration": 5.044
+  },
+  {
+    "text": "densely packed craters.",
+    "start": 3466.202,
+    "duration": 2.0
+  },
+  {
+    "text": "The baffling crater\nfield seen here,",
+    "start": 3472.65,
+    "duration": 2.719
+  },
+  {
+    "text": "like so many others on Mars,",
+    "start": 3475.394,
+    "duration": 2.0
+  },
+  {
+    "text": "is a perfect counterpart to an\nelectrically machined surface.",
+    "start": 3477.419,
+    "duration": 4.996
+  },
+  {
+    "text": "Martian region in high resolution",
+    "start": 3487.518,
+    "duration": 5.095
+  },
+  {
+    "text": "Electric discharge machining\n(electron microscope)",
+    "start": 3492.97,
+    "duration": 6.597
+  },
+  {
+    "text": "And don't underestimate the scale of\nthis dilemma for planetary scientists.",
+    "start": 3499.592,
+    "duration": 5.028
+  },
+  {
+    "text": "We witness a pattern at both, the low\npoints and the high points on Mars.",
+    "start": 3508.635,
+    "duration": 5.303
+  },
+  {
+    "text": "From the bottom of Zunil crater in\nthe depressed northern hemisphere",
+    "start": 3514.67,
+    "duration": 4.934
+  },
+  {
+    "text": "to the highest point on Mars, the\nsummit of towering Olympus Mons.",
+    "start": 3528.805,
+    "duration": 5.122
+  },
+  {
+    "text": "Here no grasping for conventional\nexplanations such as a dune field",
+    "start": 3535.956,
+    "duration": 5.328
+  },
+  {
+    "text": "could possibly account for what\nleaps out at the observer.",
+    "start": 3541.309,
+    "duration": 4.345
+  },
+  {
+    "text": "The baffling crater\nfields seen here,",
+    "start": 3548.626,
+    "duration": 2.821
+  },
+  {
+    "text": "like so many others on Mars,",
+    "start": 3551.472,
+    "duration": 2.32
+  },
+  {
+    "text": "is a perfect counterpart to an\nelectrically machined surface.",
+    "start": 3553.817,
+    "duration": 5.081
+  },
+  {
+    "text": "Electric discharge machining\n(electron microscope)",
+    "start": 3562.875,
+    "duration": 4.746
+  },
+  {
+    "text": "Lightning's Dendritic Forms",
+    "start": 3576.785,
+    "duration": 4.253
+  },
+  {
+    "text": "Lightning in slow motion",
+    "start": 3583.008,
+    "duration": 6.159
+  },
+  {
+    "text": "More than two centuries after\nBenjamin Franklin flew his kite,",
+    "start": 3603.382,
+    "duration": 4.427
+  },
+  {
+    "text": "the origin and behaviour of lightning continues\nto amaze and to puzzle the lightning specialists.",
+    "start": 3607.834,
+    "duration": 6.866
+  },
+  {
+    "text": "Lightning will occasionally imprint it's\ndistinctive form on terrestrial surfaces,",
+    "start": 3618.971,
+    "duration": 5.232
+  },
+  {
+    "text": "Lightning strike on a sidewalk",
+    "start": 3625.178,
+    "duration": 3.095
+  },
+  {
+    "text": "and even on the skin of humans.",
+    "start": 3630.563,
+    "duration": 2.9
+  },
+  {
+    "text": "In the laboratory, the counterpart to\nlightning is the Lichtenberg figure,",
+    "start": 3637.653,
+    "duration": 4.977
+  },
+  {
+    "text": "perhaps the most common and fascinating\nform taken by electric discharge.",
+    "start": 3643.383,
+    "duration": 4.727
+  },
+  {
+    "text": "Dendritic means\ntree-like branching",
+    "start": 3651.819,
+    "duration": 2.48
+  },
+  {
+    "text": "and dendritic forms can be\neasily confused with fracturing.",
+    "start": 3654.324,
+    "duration": 4.02
+  },
+  {
+    "text": "The dendritic patterns seen here are not\nfracturing, as the term is normally understood,",
+    "start": 3661.022,
+    "duration": 5.166
+  },
+  {
+    "text": "but electrical break down channels\non a polycarbonate plate.",
+    "start": 3666.213,
+    "duration": 5.151
+  },
+  {
+    "text": "Georg Christoph Lichtenberg appears to have been\nthe first to demonstrate the different forms",
+    "start": 3673.964,
+    "duration": 6.376
+  },
+  {
+    "text": "taken by dust on positive",
+    "start": 3680.365,
+    "duration": 2.894
+  },
+  {
+    "text": "and negative surfaces.",
+    "start": 3685.055,
+    "duration": 2.219
+  },
+  {
+    "text": "A line of investigation later followed by\nothers but with no impact on planetary science.",
+    "start": 3689.947,
+    "duration": 6.906
+  },
+  {
+    "text": "Late in the 19th century, industrialist Lord William\nG. Armstrong explored the power of electricity",
+    "start": 3698.222,
+    "duration": 7.052
+  },
+  {
+    "text": "to produce exquisite forms on\nsurfaces of different charge.",
+    "start": 3705.299,
+    "duration": 4.122
+  },
+  {
+    "text": "The feathery qualities of Lichtenberg\nfigures on a negative surface",
+    "start": 3709.446,
+    "duration": 4.601
+  },
+  {
+    "text": "could be compared to the more dendritic\npatterns on a positive surface.",
+    "start": 3714.072,
+    "duration": 5.157
+  },
+  {
+    "text": "\"Captured\" Lightning",
+    "start": 3723.098,
+    "duration": 2.642
+  },
+  {
+    "text": "At Stoneridge Engineering, the technology of\nLichtenberg figures has produced an art form,",
+    "start": 3730.559,
+    "duration": 6.159
+  },
+  {
+    "text": "lightning captured in\nclear acrylic blocks.",
+    "start": 3736.743,
+    "duration": 3.514
+  },
+  {
+    "text": "The blocks are bombarded by electrons\nfrom a 5 megavolt particle accelerator",
+    "start": 3742.595,
+    "duration": 5.638
+  },
+  {
+    "text": "arriving at nearly\nthe speed of light",
+    "start": 3748.258,
+    "duration": 2.76
+  },
+  {
+    "text": "but, coming to a stop within a\nfraction of an inch into the block,",
+    "start": 3751.043,
+    "duration": 4.444
+  },
+  {
+    "text": "a cloud of trapped\nnegative charge.",
+    "start": 3755.512,
+    "duration": 3.264
+  },
+  {
+    "text": "Here, the event producing the dendritic channels\nis triggered by a simple stroke of a metallic pin.",
+    "start": 3762.763,
+    "duration": 6.815
+  },
+  {
+    "text": "That is all it takes for a breakdown\nof the insulating material",
+    "start": 3769.603,
+    "duration": 4.165
+  },
+  {
+    "text": "and a nearly instantaneous release\nof charge and dendritic channels.",
+    "start": 3775.245,
+    "duration": 5.361
+  },
+  {
+    "text": "A millisecond lightning storm\nfrozen into the acrylic block.",
+    "start": 3782.785,
+    "duration": 4.932
+  },
+  {
+    "text": "The branching of the electron channels\nis a spectacular fractal pattern,",
+    "start": 3793.086,
+    "duration": 5.238
+  },
+  {
+    "text": "apparently occurring all the way down\nto scale, to the molecular level.",
+    "start": 3801.678,
+    "duration": 4.963
+  },
+  {
+    "text": "From what we have\nearlier presented",
+    "start": 3812.083,
+    "duration": 2.341
+  },
+  {
+    "text": "it is evident that planet-wide\nelectric discharge",
+    "start": 3814.449,
+    "duration": 3.579
+  },
+  {
+    "text": "created vast regions of raised\nLichtenberg figures on Mars.",
+    "start": 3818.053,
+    "duration": 5.179
+  },
+  {
+    "text": "Mars: dendritic ridges",
+    "start": 3827.493,
+    "duration": 5.377
+  },
+  {
+    "text": "Laboratory experiments show that\nin regions of positive charge",
+    "start": 3839.736,
+    "duration": 4.52
+  },
+  {
+    "text": "dust will typically gather into\nraised Lichtenberg formations",
+    "start": 3844.281,
+    "duration": 4.38
+  },
+  {
+    "text": "standing out from the\nsurrounding terrain.",
+    "start": 3848.686,
+    "duration": 2.926
+  },
+  {
+    "text": "In fact, sharply sculpted\ndendritic ridge systems",
+    "start": 3857.204,
+    "duration": 3.967
+  },
+  {
+    "text": "are abundant on Mars",
+    "start": 3861.196,
+    "duration": 1.881
+  },
+  {
+    "text": "showing up wherever the highest\nenergy events are implied.",
+    "start": 3863.102,
+    "duration": 3.801
+  },
+  {
+    "text": "The great trench of Valles Marineris\nis an extraordinary example.",
+    "start": 3869.293,
+    "duration": 5.541
+  },
+  {
+    "text": "Here, we find the raised Lichtenberg figures\nexactly where we would expect them,",
+    "start": 3874.859,
+    "duration": 5.908
+  },
+  {
+    "text": "running down from sharp\ncliffs and high points",
+    "start": 3880.792,
+    "duration": 3.687
+  },
+  {
+    "text": "in predictable patterns, stretching for\nhundreds of miles along the trench.",
+    "start": 3884.504,
+    "duration": 5.256
+  },
+  {
+    "text": "Yet, strangely, the mystery receives\nalmost no mention by planetary scientists.",
+    "start": 3891.039,
+    "duration": 5.878
+  },
+  {
+    "text": "We also observe dendritic ridges on\nthe great mound of Olympus Mons,",
+    "start": 3901.062,
+    "duration": 5.397
+  },
+  {
+    "text": "both, on the miles high scarp",
+    "start": 3907.882,
+    "duration": 2.922
+  },
+  {
+    "text": "and on the caldera walls.",
+    "start": 3912.388,
+    "duration": 2.643
+  },
+  {
+    "text": "In fact, the mystery is global.",
+    "start": 3920.183,
+    "duration": 2.602
+  },
+  {
+    "text": "We see the same pattern on\nthe walls of major rilles.",
+    "start": 3922.81,
+    "duration": 3.995
+  },
+  {
+    "text": "We see it along the so-called fractured\nterrain of Noctis Labyrinthis.",
+    "start": 3927.63,
+    "duration": 5.182
+  },
+  {
+    "text": "And everywhere on Mars we\nsee the dendritic patterns",
+    "start": 3934.681,
+    "duration": 3.949
+  },
+  {
+    "text": "reaching down from\ntowering cliffs and mesas.",
+    "start": 3938.655,
+    "duration": 3.729
+  },
+  {
+    "text": "We even see such ridge systems descending\nfrom the rims of large craters,",
+    "start": 3947.111,
+    "duration": 6.524
+  },
+  {
+    "text": "opening the door to a much broader\nperspective on crater formation.",
+    "start": 3953.66,
+    "duration": 5.386
+  },
+  {
+    "text": "Scalloping",
+    "start": 3964.291,
+    "duration": 2.809
+  },
+  {
+    "text": "In the hypothesis\npresented here,",
+    "start": 3974.293,
+    "duration": 2.68
+  },
+  {
+    "text": "many craters on Mars were produced\nby the same electrical events",
+    "start": 3976.998,
+    "duration": 4.658
+  },
+  {
+    "text": "that created chains of craters and a\ngreat variety of channels or rilles.",
+    "start": 3981.681,
+    "duration": 5.688
+  },
+  {
+    "text": "As a discharge column\nsputters across a surface,",
+    "start": 3996.251,
+    "duration": 3.701
+  },
+  {
+    "text": "it's diameter will vary\nwith discharge energy",
+    "start": 3999.977,
+    "duration": 3.28
+  },
+  {
+    "text": "and a narrowing or pinching by\nthe induced magnetic field.",
+    "start": 4003.282,
+    "duration": 5.014
+  },
+  {
+    "text": "The pinching effect will be most strongly focused\nat the point of contact with the surface.",
+    "start": 4008.321,
+    "duration": 6.301
+  },
+  {
+    "text": "The sputtering arc will leave a unique\nsignature in the form of scalloped walls.",
+    "start": 4018.2,
+    "duration": 5.367
+  },
+  {
+    "text": "Popular explanations say that surface collapse\nmust have produced these crater channels.",
+    "start": 4024.479,
+    "duration": 6.516
+  },
+  {
+    "text": "But scalloping effects on Mars are by\nno means limited to chains of craters.",
+    "start": 4036.817,
+    "duration": 5.507
+  },
+  {
+    "text": "Planetary scientists cannot agree on the forces\nthat created this bizarre channel network",
+    "start": 4043.232,
+    "duration": 6.584
+  },
+  {
+    "text": "north of Valles Marineris.",
+    "start": 4049.841,
+    "duration": 2.856
+  },
+  {
+    "text": "Other channels, that are said to\nhave been caused by fluid flow,",
+    "start": 4061.251,
+    "duration": 3.94
+  },
+  {
+    "text": "either water or lava, exhibit\nthe same scalloped walls.",
+    "start": 4065.216,
+    "duration": 5.174
+  },
+  {
+    "text": "Similar neatly cut scallops appear\non the cliffs of towering mesas.",
+    "start": 4075.636,
+    "duration": 5.23
+  },
+  {
+    "text": "And the so-called calderas of\nthe great mountains of Mars",
+    "start": 4086.553,
+    "duration": 4.058
+  },
+  {
+    "text": "reveal the same pattern.",
+    "start": 4090.636,
+    "duration": 2.373
+  },
+  {
+    "text": "Even the celebrated\nVictoria crater,",
+    "start": 4101.244,
+    "duration": 2.939
+  },
+  {
+    "text": "supposedly formed by impact,",
+    "start": 4104.208,
+    "duration": 2.444
+  },
+  {
+    "text": "exhibits alcoves and scallops similar to\nthose of the great rilles and valleys.",
+    "start": 4106.677,
+    "duration": 6.212
+  },
+  {
+    "text": "And the scalloped\nwalls of Zunil crater",
+    "start": 4119.483,
+    "duration": 2.945
+  },
+  {
+    "text": "are virtually indistinguishable from the\nscalloped walls of Valles Marineris.",
+    "start": 4122.453,
+    "duration": 6.333
+  },
+  {
+    "text": "Scallops and Ridges",
+    "start": 4133.563,
+    "duration": 2.551
+  },
+  {
+    "text": "Additional patterns enter\nthe picture, as well,",
+    "start": 4141.528,
+    "duration": 3.7
+  },
+  {
+    "text": "including a consistent global\nconnection between scallops",
+    "start": 4145.253,
+    "duration": 4.28
+  },
+  {
+    "text": "and dendritic ridge networks.",
+    "start": 4149.558,
+    "duration": 2.633
+  },
+  {
+    "text": "The explanation appears to lie in the fractal\nnature of cylindrical current sheets.",
+    "start": 4155.889,
+    "duration": 6.963
+  },
+  {
+    "text": "Current flow can metamorphose\ninto secondary cylinders",
+    "start": 4166.637,
+    "duration": 3.954
+  },
+  {
+    "text": "and fractal-like sub-structures",
+    "start": 4170.616,
+    "duration": 2.763
+  },
+  {
+    "text": "to be pinched by the\ninduced magnetic fields",
+    "start": 4175.172,
+    "duration": 3.641
+  },
+  {
+    "text": "into a narrow highly\nfocused discharge.",
+    "start": 4178.838,
+    "duration": 3.505
+  },
+  {
+    "text": "We see this interplay\nof different scales",
+    "start": 4184.418,
+    "duration": 3.097
+  },
+  {
+    "text": "in the cylindrical currents\nof Earth's auroras",
+    "start": 4187.54,
+    "duration": 3.118
+  },
+  {
+    "text": "as charged particles enter and exit the\npolar regions in an electric circuit.",
+    "start": 4190.683,
+    "duration": 6.044
+  },
+  {
+    "text": "Invisible current sheets,\nmagnetically pinched at Earth's poles",
+    "start": 4197.835,
+    "duration": 4.979
+  },
+  {
+    "text": "divide into visible curtains\nof secondary cylinders,",
+    "start": 4202.839,
+    "duration": 4.058
+  },
+  {
+    "text": "all dancing in the turbulence\nof Earth's upper atmosphere.",
+    "start": 4210.804,
+    "duration": 3.91
+  },
+  {
+    "text": "The same electromagnetic structure\narising from charged particle movement",
+    "start": 4218.991,
+    "duration": 5.236
+  },
+  {
+    "text": "will at times be seen in the\nelectrified tails of comets.",
+    "start": 4224.252,
+    "duration": 4.399
+  },
+  {
+    "text": "In the larger scale events\ncarving the surface of Mars,",
+    "start": 4236.839,
+    "duration": 4.262
+  },
+  {
+    "text": "we envision multiple columns\nof charged particles",
+    "start": 4241.126,
+    "duration": 3.876
+  },
+  {
+    "text": "being pinched into a narrow\ndischarge at the surface.",
+    "start": 4245.027,
+    "duration": 4.531
+  },
+  {
+    "text": "This established principle will be crucial\nto comprehending the giant Valles Marineris",
+    "start": 4255.596,
+    "duration": 6.469
+  },
+  {
+    "text": "with all of it's\naccompanying chasms.",
+    "start": 4262.09,
+    "duration": 3.029
+  },
+  {
+    "text": "Smaller scallops within\nlarger scallops,",
+    "start": 4267.302,
+    "duration": 3.586
+  },
+  {
+    "text": "they are the imprint of\npinched cylindrical currents,",
+    "start": 4270.913,
+    "duration": 3.979
+  },
+  {
+    "text": "constituted of\nsmaller cylinders.",
+    "start": 4274.917,
+    "duration": 2.994
+  },
+  {
+    "text": "The pattern occurs repeatedly\nand is surely no accident.",
+    "start": 4279.2,
+    "duration": 4.976
+  },
+  {
+    "text": "Consider the consistent relationship\nbetween the scalloping effects",
+    "start": 4287.213,
+    "duration": 4.449
+  },
+  {
+    "text": "and Lichtenberg ridge systems.",
+    "start": 4291.687,
+    "duration": 2.439
+  },
+  {
+    "text": "The most prominent of\nthese dendritic forms",
+    "start": 4295.083,
+    "duration": 2.939
+  },
+  {
+    "text": "are those that separate\nthe larger scallops.",
+    "start": 4298.047,
+    "duration": 3.745
+  },
+  {
+    "text": "The smaller dendritic ridges define the\nboundaries between smaller scallops.",
+    "start": 4301.817,
+    "duration": 5.608
+  },
+  {
+    "text": "At both scales, the ridge networks\ncan be seen as the final events",
+    "start": 4311.893,
+    "duration": 5.019
+  },
+  {
+    "text": "in catastrophic\ndischarge activity",
+    "start": 4316.937,
+    "duration": 3.153
+  },
+  {
+    "text": "as charge redistribution\ngathered and fused lose material",
+    "start": 4320.661,
+    "duration": 5.062
+  },
+  {
+    "text": "into the familiar\nLichtenberg patterns.",
+    "start": 4325.748,
+    "duration": 3.034
+  },
+  {
+    "text": "In this revisioning\nof Martian history",
+    "start": 4332.401,
+    "duration": 2.952
+  },
+  {
+    "text": "contradictions find a\nunified resolution",
+    "start": 4335.378,
+    "duration": 2.859
+  },
+  {
+    "text": "in an electrical cause.",
+    "start": 4338.262,
+    "duration": 2.12
+  },
+  {
+    "text": "Enigmatic craters,",
+    "start": 4345.501,
+    "duration": 2.331
+  },
+  {
+    "text": "crater chains,",
+    "start": 4347.862,
+    "duration": 2.102
+  },
+  {
+    "text": "dendritic ridges,",
+    "start": 4349.995,
+    "duration": 2.311
+  },
+  {
+    "text": "scalloped craters,",
+    "start": 4352.331,
+    "duration": 1.745
+  },
+  {
+    "text": "calderas and rilles -",
+    "start": 4354.101,
+    "duration": 2.153
+  },
+  {
+    "text": "all are connected to the observed\nbehaviour of electric discharge.",
+    "start": 4357.65,
+    "duration": 4.886
+  },
+  {
+    "text": "Negative Lichtenberg Figures",
+    "start": 4366.542,
+    "duration": 2.654
+  },
+  {
+    "text": "Here is an image of electric arcing\nto a negatively charged surface",
+    "start": 4371.989,
+    "duration": 5.042
+  },
+  {
+    "text": "capturing the feathery\ndischarge glow, or corona.",
+    "start": 4377.056,
+    "duration": 4.337
+  },
+  {
+    "text": "The corona is constituted of extremely fine hair-like\nfilaments radiating from the primary streamers.",
+    "start": 4383.459,
+    "duration": 8.428
+  },
+  {
+    "text": "On a surface affected\nby electric arcing,",
+    "start": 4397.528,
+    "duration": 3.1
+  },
+  {
+    "text": "experiments show that\nregions of localised charge",
+    "start": 4400.653,
+    "duration": 4.0
+  },
+  {
+    "text": "can attract dust or sediment into a\nrecord of the electrical activity,",
+    "start": 4404.678,
+    "duration": 4.728
+  },
+  {
+    "text": "or discharge pathways,\ndown to many fine details.",
+    "start": 4409.431,
+    "duration": 4.559
+  },
+  {
+    "text": "Martian surface",
+    "start": 4417.994,
+    "duration": 4.11
+  },
+  {
+    "text": "Here is a ridge complex on Mars",
+    "start": 4423.52,
+    "duration": 3.376
+  },
+  {
+    "text": "covering thousands\nof square miles.",
+    "start": 4426.921,
+    "duration": 3.019
+  },
+  {
+    "text": "The ridge forms have puzzled planetary\nscientists for more than a decade now.",
+    "start": 4434.899,
+    "duration": 5.156
+  },
+  {
+    "text": "Since standard geology does\nnot include such forms,",
+    "start": 4447.142,
+    "duration": 3.892
+  },
+  {
+    "text": "this unique behaviour is a logical\ntest of the electrical hypothesis.",
+    "start": 4451.059,
+    "duration": 5.083
+  },
+  {
+    "text": "Examined closely, we see perpendicular\nhair-like filaments illuminated by the Sun",
+    "start": 4459.95,
+    "duration": 6.521
+  },
+  {
+    "text": "confirming that electric discharge\nattracted dust into raised relief.",
+    "start": 4469.421,
+    "duration": 5.33
+  },
+  {
+    "text": "Martian surface",
+    "start": 4476.23,
+    "duration": 3.516
+  },
+  {
+    "text": "This exotic formation was produced\nelectrically by D. Z. Parker on a CRT screen",
+    "start": 4483.045,
+    "duration": 6.948
+  },
+  {
+    "text": "showing a gathering of dust in a\nregion of previous discharge activity.",
+    "start": 4490.018,
+    "duration": 5.491
+  },
+  {
+    "text": "The ridge with its\nfine filaments",
+    "start": 4496.794,
+    "duration": 3.071
+  },
+  {
+    "text": "offers a striking counterpart to\nthe baffling Martian formations.",
+    "start": 4499.89,
+    "duration": 4.819
+  },
+  {
+    "text": "Surface Etching",
+    "start": 4508.073,
+    "duration": 2.938
+  },
+  {
+    "text": "We have suggested that the\nnorthern hemisphere of Mars",
+    "start": 4516.541,
+    "duration": 3.68
+  },
+  {
+    "text": "was eroded electrically to a\ndepth of 5 miles or more,",
+    "start": 4520.246,
+    "duration": 4.082
+  },
+  {
+    "text": "as seen on the global\nelevation map.",
+    "start": 4524.353,
+    "duration": 3.084
+  },
+  {
+    "text": "It is only reasonable therefore\nto look for transitional zones",
+    "start": 4531.011,
+    "duration": 4.552
+  },
+  {
+    "text": "on the margins of the more depressed\nor heavily eroded regions.",
+    "start": 4535.588,
+    "duration": 4.887
+  },
+  {
+    "text": "If the erosion was electrical,",
+    "start": 4543.657,
+    "duration": 2.605
+  },
+  {
+    "text": "what should we expect to find,",
+    "start": 4546.287,
+    "duration": 2.364
+  },
+  {
+    "text": "particularly in the regions that separate\nthe low lying northern latitudes",
+    "start": 4548.676,
+    "duration": 5.742
+  },
+  {
+    "text": "from the elevated and densely\ncratered southern hemisphere?",
+    "start": 4554.443,
+    "duration": 4.16
+  },
+  {
+    "text": "We should expect to\nfind what we do find -",
+    "start": 4560.472,
+    "duration": 4.084
+  },
+  {
+    "text": "vast regions from the\nequator northward",
+    "start": 4564.581,
+    "duration": 3.318
+  },
+  {
+    "text": "showing the predictable\nphases of electrical erosion.",
+    "start": 4567.924,
+    "duration": 4.224
+  },
+  {
+    "text": "First electric arcs\nraking across the surface",
+    "start": 4573.528,
+    "duration": 3.64
+  },
+  {
+    "text": "created a network of channels",
+    "start": 4577.193,
+    "duration": 2.48
+  },
+  {
+    "text": "cutting the region\nin discrete blocks.",
+    "start": 4579.698,
+    "duration": 2.993
+  },
+  {
+    "text": "Then the arcs acting on the\nsharp edges of the blocks",
+    "start": 4584.658,
+    "duration": 3.46
+  },
+  {
+    "text": "continued to extend\nthe Valley floors",
+    "start": 4588.143,
+    "duration": 2.86
+  },
+  {
+    "text": "leaving separate\nangular islands.",
+    "start": 4591.028,
+    "duration": 2.975
+  },
+  {
+    "text": "The islands standing out above\nthe newly excavated terrain",
+    "start": 4597.391,
+    "duration": 4.36
+  },
+  {
+    "text": "were then progressively eroded\ninto various pyramidal forms",
+    "start": 4601.776,
+    "duration": 4.319
+  },
+  {
+    "text": "then mounds as electric arcs\ncontinued to erode the sharp edges.",
+    "start": 4606.12,
+    "duration": 6.142
+  },
+  {
+    "text": "And finally the remaining\nmounds were etched away.",
+    "start": 4614.787,
+    "duration": 3.855
+  },
+  {
+    "text": "Just as industrial applications\nof electric discharge machining",
+    "start": 4619.843,
+    "duration": 4.46
+  },
+  {
+    "text": "can erode high points to\nproduce a flat surface.",
+    "start": 4624.328,
+    "duration": 4.014
+  },
+  {
+    "text": "All that is left of the\nearlier Martian plains",
+    "start": 4629.213,
+    "duration": 3.348
+  },
+  {
+    "text": "are the few scattered remnants\nof sculpted mesas and bluffs",
+    "start": 4632.586,
+    "duration": 4.46
+  },
+  {
+    "text": "disappearing altogether in a flat\ndepression farther to the north.",
+    "start": 4637.071,
+    "duration": 5.031
+  },
+  {
+    "text": "This transitional process can be\nobserved across great distances on Mars",
+    "start": 4645.514,
+    "duration": 5.32
+  },
+  {
+    "text": "with a consistent pattern,",
+    "start": 4650.859,
+    "duration": 2.448
+  },
+  {
+    "text": "highly cratered elevated\nplains to the south",
+    "start": 4653.332,
+    "duration": 4.193
+  },
+  {
+    "text": "giving way to isolated blocks,",
+    "start": 4658.737,
+    "duration": 2.782
+  },
+  {
+    "text": "then mounds,",
+    "start": 4663.72,
+    "duration": 1.683
+  },
+  {
+    "text": "then a smooth lower terrain that characterizes\nso much of the northern hemisphere.",
+    "start": 4666.817,
+    "duration": 6.51
+  },
+  {
+    "text": "Blueberries",
+    "start": 4677.174,
+    "duration": 3.066
+  },
+  {
+    "text": "In early 2004, the Mars rover\n\"Opportunity\" returned images",
+    "start": 4682.504,
+    "duration": 4.912
+  },
+  {
+    "text": "that alone could alter our ideas about\nthe recent history of the solar system.",
+    "start": 4687.441,
+    "duration": 5.069
+  },
+  {
+    "text": "The rover had landed in a crater",
+    "start": 4692.535,
+    "duration": 2.327
+  },
+  {
+    "text": "and scattered around the walls of the crater\nwere a multitude of BB-sized spherules.",
+    "start": 4694.887,
+    "duration": 5.773
+  },
+  {
+    "text": "Their blue-grey colour set them\napart form the reddish hue",
+    "start": 4700.685,
+    "duration": 3.903
+  },
+  {
+    "text": "of the iron-rich Martian soil.",
+    "start": 4704.613,
+    "duration": 3.176
+  },
+  {
+    "text": "Thus, the informal name\ngiven them: blueberries.",
+    "start": 4707.814,
+    "duration": 4.273
+  },
+  {
+    "text": "As \"Opportunity\" rolled across the Martian landscape\nit found a profusion of the little spheres",
+    "start": 4715.335,
+    "duration": 5.78
+  },
+  {
+    "text": "that apparently occupied the\nMartian surface by the trillions.",
+    "start": 4721.14,
+    "duration": 3.897
+  },
+  {
+    "text": "But how were they formed?",
+    "start": 4730.094,
+    "duration": 2.484
+  },
+  {
+    "text": "Not long after the discovery\nof the Martian blueberries,",
+    "start": 4736.052,
+    "duration": 3.62
+  },
+  {
+    "text": "Dr. Ransom set up an experiment to\ntest the effects of electric arcs",
+    "start": 4739.697,
+    "duration": 4.998
+  },
+  {
+    "text": "on different materials.",
+    "start": 4744.72,
+    "duration": 2.098
+  },
+  {
+    "text": "He obtained a quantity of hematite\nroughly comparable to the Martian soil",
+    "start": 4746.843,
+    "duration": 4.88
+  },
+  {
+    "text": "and blasted it with\nan electric arc.",
+    "start": 4751.748,
+    "duration": 2.886
+  },
+  {
+    "text": "The results are\nquite spectacular.",
+    "start": 4756.538,
+    "duration": 2.24
+  },
+  {
+    "text": "Embedded in the soil were perfect\ncounterparts of the Martian blueberries.",
+    "start": 4758.803,
+    "duration": 5.736
+  },
+  {
+    "text": "From what is now known\nabout the Martian surface,",
+    "start": 4766.42,
+    "duration": 3.26
+  },
+  {
+    "text": "it's clear that if the planet was\nengulfed in electric discharge,",
+    "start": 4769.705,
+    "duration": 4.62
+  },
+  {
+    "text": "the spherules are a\npredictable effect.",
+    "start": 4774.35,
+    "duration": 3.269
+  },
+  {
+    "text": "Mars",
+    "start": 4777.643,
+    "duration": 2.357
+  },
+  {
+    "text": "VEMASAT laboratories",
+    "start": 4781.495,
+    "duration": 1.447
+  },
+  {
+    "text": "Ransom's experiments did not\nend the investigation either.",
+    "start": 4782.967,
+    "duration": 4.08
+  },
+  {
+    "text": "Cameras of the rover \"Opportunity\" captured\na flat floored channel with parallel sides",
+    "start": 4789.839,
+    "duration": 6.444
+  },
+  {
+    "text": "from both walls of the channel\nwe observed jagged razorbacks.",
+    "start": 4796.309,
+    "duration": 4.253
+  },
+  {
+    "text": "One more feature with no place\nin the geologists' lexicon.",
+    "start": 4800.587,
+    "duration": 4.114
+  },
+  {
+    "text": "But Dr. Troy Shinbrot, and his\ncolleagues at Rutger's University,",
+    "start": 4807.03,
+    "duration": 5.212
+  },
+  {
+    "text": "recently produced this very form,\nrazorbacks, in electro-static experiments.",
+    "start": 4812.267,
+    "duration": 6.171
+  },
+  {
+    "text": "And the researchers did indeed see a direct connection\nto the razorbacks recorded by \"Opportunity\".",
+    "start": 4819.35,
+    "duration": 7.203
+  },
+  {
+    "text": "Shortly thereafter, D. Z.\nParker also produced razorbacks",
+    "start": 4826.578,
+    "duration": 4.54
+  },
+  {
+    "text": "on the charged surface\nof a CRT screen.",
+    "start": 4831.143,
+    "duration": 3.553
+  },
+  {
+    "text": "Both, the razorbacks and the\nblueberries, point to electrical events.",
+    "start": 4836.762,
+    "duration": 4.505
+  },
+  {
+    "text": "And electrical events\nare scaleable.",
+    "start": 4842.302,
+    "duration": 3.508
+  },
+  {
+    "text": "Formations created on a small scale can\nalso appear on a much larger scale.",
+    "start": 4845.835,
+    "duration": 5.435
+  },
+  {
+    "text": "In fact, our orbiting cameras have found numerous\ncraters with domes or spheres resting within them",
+    "start": 4851.295,
+    "duration": 6.466
+  },
+  {
+    "text": "looking very much like the spheres and\ncraters of Ransom's blueberry experiments.",
+    "start": 4857.786,
+    "duration": 5.689
+  },
+  {
+    "text": "The pictures seen here\nof domed craters on Mars",
+    "start": 4863.5,
+    "duration": 3.58
+  },
+  {
+    "text": "are from the \"Mars\nGlobal Surveyor\".",
+    "start": 4867.105,
+    "duration": 2.818
+  },
+  {
+    "text": "But in contrast to the\nrover's blueberry images",
+    "start": 4872.887,
+    "duration": 3.358
+  },
+  {
+    "text": "the domed craters range in size\nfrom a hundred meters or less",
+    "start": 4876.27,
+    "duration": 4.364
+  },
+  {
+    "text": "to a mile or more in diameter.",
+    "start": 4880.659,
+    "duration": 2.674
+  },
+  {
+    "text": "And the pattern occurs\neven on a larger scale.",
+    "start": 4885.336,
+    "duration": 4.201
+  },
+  {
+    "text": "In the polar region of Mars the domed\ncraters are up to many miles wide.",
+    "start": 4889.562,
+    "duration": 7.333
+  },
+  {
+    "text": "It is surely reasonable to ask if the tiny\nblueberries, and the far more massive domed craters,",
+    "start": 4896.92,
+    "duration": 6.899
+  },
+  {
+    "text": "were produced by the\nsame electrical force",
+    "start": 4903.844,
+    "duration": 3.0
+  },
+  {
+    "text": "acting on widely different scales in an\nearlier phase of global electric discharge?",
+    "start": 4906.869,
+    "duration": 5.671
+  },
+  {
+    "text": "One thing is certain, if it was electricity\nthat sculpted the Martian surface,",
+    "start": 4915.906,
+    "duration": 5.92
+  },
+  {
+    "text": "the events were vastly more dramatic than\nplanetary scientists have ever imagined.",
+    "start": 4921.851,
+    "duration": 6.831
+  },
+  {
+    "text": "Symbols of an Alien Sky",
+    "start": 4937.614,
+    "duration": 5.802
+  },
+  {
+    "text": "Episode Two\nThe Lightning-Scarred Planet Mars",
+    "start": 4945.052,
+    "duration": 7.548
+  }
+]

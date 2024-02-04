@@ -1,0 +1,337 @@
+[
+  {
+    "text": "Welcome to Space News from the Electric\nUniverse, brought to you by The",
+    "start": 0.06,
+    "duration": 11.97
+  },
+  {
+    "text": "Thunderbolts Project at\nthunderbolts dot info.",
+    "start": 12.03,
+    "duration": 4.559
+  },
+  {
+    "text": "The following presentation is an\nadaptation of the Stephen Smith Picture",
+    "start": 16.589,
+    "duration": 4.92
+  },
+  {
+    "text": "Of the Day article, \"Plasmoids are the\nPower\". The link to the article may be",
+    "start": 21.509,
+    "duration": 4.26
+  },
+  {
+    "text": "found in the description box\nof this video.",
+    "start": 25.769,
+    "duration": 2.611
+  },
+  {
+    "text": "What causes energetic emissions from\ngalactic cores? According to a recent",
+    "start": 28.38,
+    "duration": 5.31
+  },
+  {
+    "text": "press release, there is a so-called\n\"supermassive black hole\" at the center of",
+    "start": 33.69,
+    "duration": 4.59
+  },
+  {
+    "text": "the Milky Way that is tearing stars\napart and flinging the remains into",
+    "start": 38.28,
+    "duration": 3.78
+  },
+  {
+    "text": "space at speeds of 10,000 kilometers per\nsecond. The shredded stars then coalesce",
+    "start": 42.06,
+    "duration": 6.24
+  },
+  {
+    "text": "into planet-sized objects with masses\nthat can exceed 2×10^37",
+    "start": 48.3,
+    "duration": 4.56
+  },
+  {
+    "text": "kilograms, or as much as ten\nJupiters. It is not from observational",
+    "start": 52.86,
+    "duration": 5.88
+  },
+  {
+    "text": "data that the concept is derived. It is\nfrom computer models designed to",
+    "start": 58.74,
+    "duration": 4.2
+  },
+  {
+    "text": "simulate someone's idea about what might\nbe going on with the supermassive black",
+    "start": 62.94,
+    "duration": 4.2
+  },
+  {
+    "text": "hole Sagittarius A (should such a thing\nexist). Eden Girma, an undergraduate",
+    "start": 67.14,
+    "duration": 6.329
+  },
+  {
+    "text": "student at Harvard University wrote: \"A\nsingle shredded star can form hundreds of",
+    "start": 73.469,
+    "duration": 5.371
+  },
+  {
+    "text": "these planets-mass objects. We wondered;\nwhere do they end up? How close do they",
+    "start": 78.84,
+    "duration": 5.76
+  },
+  {
+    "text": "come to us? We developed a computer code\nto answer those questions.\" There are",
+    "start": 84.6,
+    "duration": 5.519
+  },
+  {
+    "text": "thought to be thousands of \"free- floating\"\nplanets wandering through space.",
+    "start": 90.119,
+    "duration": 4.621
+  },
+  {
+    "text": "Why? It is because of how stars and\nplanets theoretically form.",
+    "start": 94.74,
+    "duration": 4.35
+  },
+  {
+    "text": "Protoplanetary disks, as consensus\nunderstanding sees them, are prone to",
+    "start": 99.09,
+    "duration": 5.699
+  },
+  {
+    "text": "collisions among their evolving clumps\nof matter until they settle down into",
+    "start": 104.789,
+    "duration": 4.08
+  },
+  {
+    "text": "stable arrangements. Some of those clumps condense\ninto gas giants or rocky bodies, while others",
+    "start": 108.869,
+    "duration": 6.871
+  },
+  {
+    "text": "are destroyed. However, astronomers\nbelieve that many of these new planets",
+    "start": 115.74,
+    "duration": 4.68
+  },
+  {
+    "text": "are subsequently expelled from their\nsystems.",
+    "start": 120.42,
+    "duration": 2.35
+  },
+  {
+    "text": "The literature suggests that\nfree-floating planets might exceed the",
+    "start": 122.77,
+    "duration": 3.809
+  },
+  {
+    "text": "number associated with stars. The ultimate\nanswer, though, is that they do not know.",
+    "start": 126.579,
+    "duration": 4.921
+  },
+  {
+    "text": "As the announcement from Harvard\nUniversity states: \"those newly minted",
+    "start": 131.5,
+    "duration": 4.86
+  },
+  {
+    "text": "planets are probably different from\nthose that evolved 'naturally'\". The",
+    "start": 136.36,
+    "duration": 4.86
+  },
+  {
+    "text": "researchers borrow a term from Carl\nSagan, and state that they are made of",
+    "start": 141.22,
+    "duration": 3.78
+  },
+  {
+    "text": "\"star-stuff\", so their ingredients\nwill not be the same because different",
+    "start": 145.0,
+    "duration": 4.08
+  },
+  {
+    "text": "parts of exploded stars will form\ndifferent planetary objects. The question",
+    "start": 149.08,
+    "duration": 5.129
+  },
+  {
+    "text": "is, how to tell them apart?\nThere are significant problems with both",
+    "start": 154.209,
+    "duration": 5.101
+  },
+  {
+    "text": "ideas, protoplanetary evolution, as well\nas black holes, in general. Black holes",
+    "start": 159.31,
+    "duration": 6.03
+  },
+  {
+    "text": "cannot be seen by the most powerful\ntelescopes and radiation sensors, but",
+    "start": 165.34,
+    "duration": 4.11
+  },
+  {
+    "text": "astrophysicists continue to maintain\nthat they exist because of their effects.",
+    "start": 169.45,
+    "duration": 4.08
+  },
+  {
+    "text": "They assume that matter is accelerated\nand compressed until it is",
+    "start": 173.53,
+    "duration": 4.2
+  },
+  {
+    "text": "\"spaghettified\" or stretched inside the\nso-called \"event horizon\" until it is torn",
+    "start": 177.73,
+    "duration": 5.55
+  },
+  {
+    "text": "apart and reconfigured into more \"rogue\nplanets\". Since almost all (more",
+    "start": 183.28,
+    "duration": 6.209
+  },
+  {
+    "text": "than 95%) of galaxies are said\nto be home to one or more black holes,",
+    "start": 189.489,
+    "duration": 4.201
+  },
+  {
+    "text": "they might all be shooting\n\"spitballs\" at us from vast distances.",
+    "start": 193.69,
+    "duration": 4.29
+  },
+  {
+    "text": "Since matter spins around a black hole at\nextreme velocities, consensus opinions",
+    "start": 197.98,
+    "duration": 5.43
+  },
+  {
+    "text": "state that it heats up from friction,\ngenerating X-rays and ultraviolet light.",
+    "start": 203.41,
+    "duration": 5.07
+  },
+  {
+    "text": "It is those emissions that are\ninterpreted as indirect evidence for",
+    "start": 208.48,
+    "duration": 4.08
+  },
+  {
+    "text": "black holes. Previous Pictures of the Day\ntake issue with both aspects of this new",
+    "start": 212.56,
+    "duration": 5.31
+  },
+  {
+    "text": "computer model. The terminology, itself,\nis highly speculative and ambiguous.",
+    "start": 217.87,
+    "duration": 4.89
+  },
+  {
+    "text": "Protoplanetary discs and gravitational\ntides, for example, are invoked in order",
+    "start": 222.76,
+    "duration": 5.729
+  },
+  {
+    "text": "to explain how stars are destroyed and\nremade. To say that X-rays and",
+    "start": 228.489,
+    "duration": 4.771
+  },
+  {
+    "text": "ultraviolet light in space are created\nin gravity fields is to betray an",
+    "start": 233.26,
+    "duration": 4.17
+  },
+  {
+    "text": "ignorance. Experiments in the laboratory\ncreate those energies by accelerating",
+    "start": 237.43,
+    "duration": 4.86
+  },
+  {
+    "text": "charged particles in an electric field.\nThere is no experiment that can provide",
+    "start": 242.29,
+    "duration": 5.129
+  },
+  {
+    "text": "evidence for matter collapse to\n\"near infinite density\". Rather, Bennett",
+    "start": 247.419,
+    "duration": 5.461
+  },
+  {
+    "text": "pinches (or z-pinches) in plasma-\nstate material",
+    "start": 252.88,
+    "duration": 3.63
+  },
+  {
+    "text": "form plasmoids that then become stars.\nWhen the electric flux inside double",
+    "start": 256.51,
+    "duration": 5.28
+  },
+  {
+    "text": "layers within galactic circuits gets too\nhigh, there is a sudden \"short circuit\" that",
+    "start": 261.79,
+    "duration": 4.77
+  },
+  {
+    "text": "draws energy from the surrounding space.\nThat energy could be concentrated from",
+    "start": 266.56,
+    "duration": 4.77
+  },
+  {
+    "text": "hundreds of cubic light-years and then\ndischarged in a burst of cosmic",
+    "start": 271.33,
+    "duration": 4.08
+  },
+  {
+    "text": "lightning, generating X-rays or flares of\nultraviolet light. X-ray radiation from",
+    "start": 275.41,
+    "duration": 6.12
+  },
+  {
+    "text": "a plasmoid in the Milky Way's heart is\nthe same as from stars undergoing strong",
+    "start": 281.53,
+    "duration": 4.62
+  },
+  {
+    "text": "electrical stresses. A plasmoid is a\ncharged particle accelerator, so electrons",
+    "start": 286.15,
+    "duration": 5.37
+  },
+  {
+    "text": "spiral in the electromagnetic field and\ngive off X-rays. The diffuse currents then",
+    "start": 291.52,
+    "duration": 6.03
+  },
+  {
+    "text": "flow toward the galaxy's equatorial plane\nand spiral back toward the core. In an",
+    "start": 297.55,
+    "duration": 5.64
+  },
+  {
+    "text": "Electric Universe, electromagnetism is\nmore than able to create celestial",
+    "start": 303.19,
+    "duration": 4.65
+  },
+  {
+    "text": "phenomena, without the supernatural\nphysics of supermassive black holes.",
+    "start": 307.84,
+    "duration": 4.26
+  },
+  {
+    "text": "Plasma discharge events are commonly\nknown to generate high energy light. The",
+    "start": 312.1,
+    "duration": 6.15
+  },
+  {
+    "text": "greater the electric charge flow, the\nhigher the frequency of light will be",
+    "start": 318.25,
+    "duration": 3.66
+  },
+  {
+    "text": "emitted. Supply enough power and even\ngamma rays are released.",
+    "start": 321.91,
+    "duration": 6.51
+  },
+  {
+    "text": "For continuous updates on Space News from the\nElectric Universe, stay tuned to Thunderbolts.info",
+    "start": 328.42,
+    "duration": 43.59
+  }
+]

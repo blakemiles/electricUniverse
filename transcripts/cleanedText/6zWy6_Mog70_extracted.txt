@@ -1,0 +1,1241 @@
+[Music]
+[Music]
+good morning ladies and gentlemen thank
+you for coming this morning to have it
+early to listen to my lecture on the
+logical inconsistencies of that special
+theory of relativity Einstein wrote a
+paper in 1905 that is heralded as a
+turning point in our understanding of
+the nature of space-time in the universe
+it's true in a sense but in the reality
+it's unfortunate because it's introduced
+the an element of mysticism into physics
+so so although it did have this effect
+it's been quite a disaster for science
+so first I'd like to start off with a
+bit of a discussion on dimensions in
+units because they're quite different if
+we call time T where we can measure the
+time T in any kind of unit we could use
+it in seconds or years so or hours and
+days and lengths if we call length L but
+we don't worry about the actual units
+that we use we just talk about length
+and other than that and we denoted by L
+and we can measure that in measures or
+meters have feedin light-years four
+inches and we have from our common
+experience three length dimensions
+length breadth and height for instance
+in a box we have the length of the box
+the width of the box the height of the
+box now the obvious thing about is that
+if you have a length can you add to it a
+time hello oh yes we're back the first
+thing is that if we consider now units
+we might measure length in meters and
+time in seconds can you add meters to
+seconds obviously you cannot so you have
+to be able to add
+it seems that we're working again so and
+you can't add or subtract meters from
+seconds and vice versa you can only add
+the same units in mathematics they're
+just numbers so if you've got no units
+to them you X's and Y's etc but in
+physics we want units there are unit
+unitless quantities constants and such
+but there are also constants that have
+units so units are very important to
+physics and strictly speaking an
+equation needs to be the left hand side
+and you in needs to have the same units
+as the right hand side and diligent
+engineer and scientist would make sure
+that they've got meters on one side if
+they'd want meters and the other side of
+their equation has also got meters
+because if they have meters equal to
+seconds there's a bit of a problem so
+ultimately they're different dimensions
+so if you go back to our generic
+dimensions length can't be met added to
+time and vice-versa but we already live
+in a four-dimensional world because
+we've got length three you three sets of
+them length breadth and height all units
+of length and we have time so we already
+live in a four-dimensional world in this
+sense but in Einsteins world length and
+time the three lengths XY z-- and Zed's
+for instance and time are jumbled up
+together so that you have a
+four-dimensional time which in which you
+can add and subtract all of these
+quantities in one equation so let's have
+a look at how we can denote a position
+in place and time where we'll have X is
+the length Y is the breadth and Zed is
+the height and we'll have T is time so a
+time and place can be specified by a set
+of coordinates X Y Zed in time for
+instance if you say to your friend I'm
+going to meet you at the cafe for a
+coffee at one o'clock well if you go
+there at five o'clock
+are you likely to encounter your friend
+probably not and if you decided that you
+didn't like the cakes can Y Zed
+coordinates
+you went to a different place you
+probably wouldn't make your friend
+either so you have to go there X Y Zed
+the right coordinates for the place and
+at the right time so we already live in
+a four-dimensional world so there's
+nothing new in Einstein's idea of a well
+not nothing new in the idea of a
+four-dimensional world in the terms of
+Einsteins
+conception of the universe because we
+already have that what is different is
+that the you cannot jumble up XY z-- ins
+Ed's and T's jumbled up time and space
+together which is what he has done so
+for instance the distance between two
+points depends on X Y Z and Z it doesn't
+depend on time the difference between
+Phoenix and I don't know LA the distance
+between there is XYZ and Zed's
+but it's not a question of time now that
+means that the four-dimensional world in
+which we live has modeled by Newton is
+consistent with Newton so we'll have now
+looking at Cartesian coordinates I'm
+sure you're all familiar with this from
+school usually we'll have the Cartesian
+plane x and y here we've had added the
+Zed so we have space but it's just like
+the corner of a room if for instance if
+you look at any corner of this room
+because it's a rectangular building we
+have an x y&z set of coordinates
+immediately before us and they are all
+perpendicular to one another not only
+that they're independent of one another
+so that any distance along well XYZ it's
+been purpose because they don't have
+components in each other's directions
+because their definitions so now I want
+to look at a right triangle when we see
+how the jumbled up nature of time and
+space is based on an error utilizing
+right triangles so we quickly revise the
+the theorem of Pythagoras and I'm sure
+you will remember that if you construct
+the square on the x axis as I've drawn
+it in this diagram in a square on
+the y-axis we have areas of those
+squares x squared + y squared from
+simple geometry and then you'd construct
+a square and the hypotenuse of the right
+triangle then we find that x squared
+plus y squared equals R star squared
+well that's just the area of - trying to
+two squares rather added together give
+you the area of another Square and
+usually in geometry in school the
+squares are dropped off and we just say
+x squared plus y squared equals R star
+square or what if you want to give a
+label to the hypotenuse of the right
+triangle but this is the theorem of
+Pythagoras but I ask you is asked well
+let's consider this R star is not a new
+dimension because it's composed of X's
+and Y's so it's not a new dimension it's
+not perpendicular to x and y it's a
+function if you like of x and y it's
+determined by x and y now we'll consider
+a circle and we'll draw the circle
+around the right triangle the right
+triangle hasn't changed but now we can
+reinterpret the length of the hypotenuse
+of the right triangle as the radius of a
+circle it goes through the end of the
+hypotenuse where the hypotenuse is has
+its origin at the origin of the
+coordinates where x and y is 0 and again
+by the theorem of Pythagoras because
+it's a right triangle x squared plus y
+squared equals R star square now you can
+see why I label that R star because to
+give you the idea it's also the radius
+of a circle in this circumstance now is
+the hypotenuse of the right triangle in
+this instance perpendicular to X and y
+know it's still the right triangle and
+can x squared plus y squared minus r
+squared equals 0
+never B not equal to 0 this is the
+important point we can see that it must
+always be 0 because x squared plus y
+squared equals R star squared so if you
+subtract R star squared from each side
+you must have 0 on the right side that's
+always 0 unless of course you're a
+cosmologist which I'll come to shortly
+so X&Y stay perpendicular to one another
+and even in this last equation x squared
+plus y squared minus r star squared
+equals zero
+the R star is not perpendicular x and y
+now let's go from the 2-dimensional to
+the 3-dimensional this is a sphere again
+our right triangle is present notice
+that in this case by the theorem of
+Pythagoras if you look in the xy-plane
+there
+x squared plus y squared equals R star
+squared that's the same triangle we've
+been talking about now if we go from the
+tip of the hypotenuse and go into the Z
+direction
+the lengths are from the origin to the
+surface of that sphere is R star squared
+plus Z squared and we know what R star
+squared is so we'll put that into the
+equation and we get x squared plus y
+squared plus Z squared equals R squared
+again we've applied the theorem of
+Pythagoras so the quantity R in
+three-dimensional space is not
+perpendicular to x y&z either and again
+if we take R star R squared from both
+sides of this equation I get x squared
+plus y squared plus Z squared minus R
+squared equals not can it ever be
+anything other than that of course it
+cannot again unless you're a cosmologist
+which I will show you shortly so but
+before I go to that interesting point
+let's revise what we know about speed
+what do we define a speed it's the
+distance that something moves in a
+certain time and we take the ratio of
+the distance the time that gives you a
+speed so in the case of the hypotenuse
+of that right triangle in the sphere
+that I drew in three dimensions the
+distance from one point to the other
+point or the from between the two ends
+of it is the square root of x squared
+plus y squared plus R squared because
+sorry x squared plus y squared plus Z
+squared because R squared is the square
+of the distance so the length of the
+hypotenuse is not R squared that's the
+that's the area of the square that we
+drew on it so the length of the side of
+the square is R so we take the distance
+x squared plus y squared plus R squared
+said sorry I'll say that again x squared
+plus y square plus Z squared take the
+square root of it that's the distance we
+divided by time and that can give us a
+speed in again whether we use if we use
+that the distance that for instance that
+light travels some distance and the time
+that light travels that distance and we
+take the ratio of that we have the speed
+of light just as though you had the
+speed of a truck if a truck goes from A
+to B and it travels it that distance in
+a certain time T well you can calculate
+its speed what's the same with light
+instead of the speed of the truck we put
+in the speed of the of light so we
+conclude from this that for so that
+neither VT nor CT now VT is a distance
+so if I say to gyro traveling at 60
+miles an hour for one hour how far did
+you go well you take the speed you
+multiply it by the time and you get the
+distance you know it's simple instance
+it's 60 miles per hour times one hour
+the hours cancel out you've got 60 miles
+so VT and CT is not an independent
+fourth length dimension
+it's just how long did it take to travel
+along the hypotenuse of a right triangle
+unless you're a cosmologists because the
+space-time concept associated with
+Einstein and Minkowski it was actually
+introduced by Minkowski in 1907 and
+enthusiastically adopted by Einstein and
+all his followers ever since so now
+you've got a four-dimensional space-time
+continuum that just has curvature so
+space-time requires CT to be in an
+independent fourth length dimension
+because C times T that's a distance now
+we can add that distance to other things
+if you have a distance you can add it to
+distances this is how time is snuck in
+to an equation two jumbled up space and
+time and give you the idea of space-time
+well it's not it's just some
+kind of space with all length dimensions
+so mathematically treating C times T or
+V times T is the speed of a truck times
+the time had traveled does not make it
+but mathematically treating it as such
+does not make it so and does not make T
+an independant for that length dimension
+C T is not 1/4 length I mentioned V T is
+not a for think I mentioned and T on its
+own they can't even be a length so we
+going to go to the truck that I was
+talking about let's consider a truck
+moving along the hypotenuse of the right
+triangle form A to C now there are two
+ways you could get the right from A to C
+you could go along the x-axis at some
+speed you can go then along the y-axis
+at some speed and you get there but the
+shortest distance of course is along the
+hypotenuse as we know from elementary
+geometry so let's have a look at this a
+truck has a constant speed along R star
+is V in time T it travels from A to C
+along this hypotenuse of a right
+triangle then the theorem of Pythagoras
+applies and we say R star squared is
+equal to V times T squared and that's
+equal to x squared plus y squared and
+that means that V times T is equal to
+the square root of x squared plus y
+squared that's the length of the
+hypotenuse of a right triangle and still
+our star equals V times T is not a new
+dimension and it's not orthogonal to X
+and Y so we write the equation of this
+right triangle as x squared plus y
+squared equals V squared T squared well
+recall we could draw a circle around
+that and that would make it the radius
+of a circle and if we subtract V squared
+T squared from both sides we still get x
+squared plus y squared minus V squared T
+squared equals 0
+can it ever be other than naught well
+it's the right triangle the answer is it
+cannot again unless you're a
+cosmologists so now we'll go to the
+three dimensional analog because it's
+actually the same diagram except of draw
+or a spheric sphere around the right
+triangle and everything else applies in
+the same way as we did with the right
+triangle in the sphere before so instead
+of our
+we're well a truck travels from ADA to D
+at some speed V and so the distance
+along there is V times T and the x
+squared plus y squared plus Z squared
+equals V times T or squared well as we
+had before x squared plus y squared was
+equal to R star square or V Star V
+squared T squared that was the equation
+also of a circle so the equation for the
+length of the hypotenuse of the right
+triangle also gives us the radius of the
+equation for a circle here we have the
+length of the hypotenuse is also giving
+us the equation for a sphere so right
+triangles are very important and again
+we can write x squared plus y squared
+plus Z squared minus V squared T squared
+equals naught it's always annoyed and
+it's not orthogonal to x y&z unless
+you're a cosmologists so we see that
+space time is not a 4d continuum let's
+replace the truck that was moving along
+from A to D by a light rain everything
+is exactly the same as before except now
+the speed is not the speed of a truck
+it's the speed of light so the trucks
+not going from A to D a light ray is
+going from A to D does anything else
+change not at all and so now we come to
+what the cosmologists do following
+Minkowski and Einstein so for the right
+triangle x squared plus y squared plus Z
+squared minus C squared T squared equals
+0 always so it can never be not equal to
+0 and it can never be orthogonal to x
+y&z it's always the right that's always
+the hypotenuse of a right triangle so if
+you take away the sides of the triangle
+and just leave the radius line does it
+change anything no it doesn't it's still
+the hypotenuse of a right triangle but
+we don't have the right triangle there
+anymore and with the right triangle
+disappeared magic is done because
+cosmologists write x squared
+y squared plus Z squared minus C squared
+T squared equals s squared it's not
+equal to know it and equal to know it is
+a special case according to them
+according to Albert Einstein and Hermann
+Minkowski but this is clearly a
+violation of elementary geometry all
+right now
+the fundamental reason why they start
+writing this their squared not equal to
+zero is because they mix it up
+incorrectly with what's called
+Riemannian geometry but if you want to
+have a four-dimensional space in pure
+mathematics you have to have four
+independent quantities well x y&z as we
+see by looking up at say the corner of
+one of these roots corners in this room
+you'll have x y&z they're independent of
+one another but we see that the speed
+between any points in that space is not
+independent because you need the XYZ and
+Zed's and the time to be able to
+calculate the speed so it's not
+independent the speed is not independent
+if I multiply speed by time the very
+same time I use to calculate the speed
+that's not independent either because
+it's the length of a right or the
+hypotenuse of a right triangle so to do
+four-dimensional mathematics you need
+four independent quantities well C times
+T is not an independent quantity
+treating it as an independent quantity
+by saying well we'll make it equal to s
+squared not equal no it doesn't make it
+true
+it means you made a mistake the length C
+T well what is it what its units or
+rather what is its dimension its speed
+times time so speed is length divided by
+time and then we multiply that by time
+well T cancels out ones in the numerator
+ones in the denominator and we're left
+with length obviously so just because
+you've got lengths out of some quantity
+doesn't mean that you've got a new
+dimension for instance if I multiply X
+by Y I get length squared and if I
+divide it by Z I get length squared
+divided by length that gives me length
+is X Y over zero
+you dimension not at all similarly with
+X square x squared over y or x squared
+plus y squared well x squared plus y
+squared still has the units of length
+squared or the dimensions of length
+squared so if you had meters squared
+plus meters squared you still got meter
+square or if you got length squared plus
+length squared you're still at length
+squared because it's not a change in any
+unit and if you divide length squared by
+length for instance x squared plus y
+squared Y divided by said you get length
+did I just make a new fourth independent
+dimension orthogonal to the x y&z not at
+all and finally if I take x squared plus
+y square plus Z squared and divided by X
+or Y or Zed I still get the dimensions
+of length but I did not create a new
+dimension it's not a new dimension
+that's not orthogonal to x y&z unless
+you're a cosmologists I know it's a bit
+of a tiring refrain but we need to
+remind ourselves what because ma leaders
+do so we never lose lose track of that
+so I ask you now if I have XY over Z is
+that the length of anything
+what is it the length of we've got our x
+y&z coordinates I take XY and I divide
+it by said what's that the length of
+it's not in the length of anything it
+has dimensions of length there's a
+formal mathematical relationship but
+what is that what is it the length of
+it's not certainly not the length of a
+hypotenuse of a right triangle then it's
+not the length of X or a wire it's just
+some combination of X Y Z and says to
+produce length but it's not a new
+dimension and it's not orthogonal to
+anything of those or those new
+dimensions it's just nothing it's not
+the length of anything and is it
+perpendicular to the XY z-- and Zed's
+well no so it's neither perpendicular to
+anything and it's not the length of
+anything even though it has the units of
+or the dimensions of length and it's
+made up of the XY z-- and Zed's
+so combinations of XYZ and says don't
+give us new dimensions so we come now to
+Einstein's fantastic clocks now will
+bear in mind the things that I've
+covered here when when we get to
+space-time it's
+off but before we do that we want to
+talk about I like to talk about
+Einsteins fantastic clocks and in his
+famous 1900 and what five paper Einstein
+defined time by means of these fantastic
+clocks that he concocted I'll read to
+you what comes from his 1905 paper the
+so called seminal work to turn physics
+into a completely new paradigm that
+changed our conception of space and time
+well it ruined our conceptions of space
+and time by turning it from from physics
+into a Fantasyland here's where Einstein
+says thus with the help of certain
+imaginary physical experiments we have
+settled what is to be understood by
+synchronous stationary clocks located at
+different places and have evidently dub
+tained the definition of simultaneous or
+synchronous and of time the time of
+event is that which has given similar
+tennis with you with the event by a
+stationary clock located at the place of
+the event this clock being synchronous
+and indeed synchronous for all time
+determinations with a specified
+stationary clock well if you can make
+sense of that you know it's that would
+be a miracle but you know let's see now
+there are a number of points I want to
+make about this the first thing is he
+wants systems of stationary observers
+holding clocks that can all be
+synchronized in other words they all
+read the same time so he wants systems
+of clocks synchronized stationary
+observers that's what he's saying there
+the other thing is he says he defines
+time well I'll ask you something do
+clocks define time do they did find time
+clocks no more define time than a
+pressure gauge defines pressure a
+speedometer defines speed a thermometer
+of the fine speed or a spring defines
+gravity because if time is defined by a
+clock wall all those other things must
+be defined by the measuring instruments
+but measuring instruments a measure are
+they were invented to do what to measure
+something other than themselves if a
+measuring
+instrument measures only itself it's
+pretty hopeless
+Einstein's clocks measure only
+themselves
+he has dispensed with physics something
+external to the measuring instrument and
+defines time in terms of his clock now
+he's fantastic clock can do whatever it
+likes independent of any physical
+reality and there boy
+warp stuff let's have a look at how he
+sets up clock synchronizations we're in
+from Einstein so there's no doubt we
+have so far defined only in a time in a
+B time he's got I'm T a time at a time
+in right oh we have not determined a
+common time for a and B this is where he
+wants to get he synchronizing clocks
+right for the ladder cannot be defined
+at all unless we established by
+definition that the time required by
+light to travel from A to B equals the
+time it requires to travel from beat
+away you go from A to B then you travel
+from beat away at the same speed well it
+should take the same time let our light
+little ray of light start at the
+direction of a and arrive again at a at
+the a time T primed a in accordance with
+the definition the two clocks
+synchronized if TB minus ta equals T
+prime de minus TB in other words if you
+go from A to B and you go and it takes a
+certain time you go from beat away at a
+certain time traveling at the speed of
+light they must read the same times
+that's his way of setting up clocks in
+that little diagram you go from a you go
+to B then you go from B backed away and
+you see that at a you start at TA you
+get the T you get at B you get TB and
+then when you get back to a you're at t
+prime day now he goes through as you see
+a great pains to define what he means by
+clock synchronization this is only part
+of it this is the part that I wanted to
+talk about
+now to emphasize again his systems of
+observers what do we see from his
+earlier statements he wants systems of
+clocks synchronized stationary observers
+okay that means everybody in this room
+who's sitting there you're not moving
+anywhere and you're all holding a clock
+and we want to make sure all your clocks
+are synchronized so that everybody says
+yes I've got the same time even though
+you're in different places well that's
+reasonable we want that experience tells
+us that's what we need
+Weinstein says let the time T of the
+stationary system now he's got a system
+of stationary observers and they're all
+got the same time so he's got now let
+the time - of the stationary system be
+determined for all points thereof at
+which there are clocks by means of light
+signals in the men are indicated in
+section one that's his elaboration on
+how he's going to synchronize his clocks
+send the light ray from A to B everybody
+comes back we have this relationship and
+that's it similarly let the time tour of
+the moving system so he's got first a
+system of stationary observers and with
+all their clocks and then he's got
+another system over here ones t and ones
+tour for their times so he's got now
+okay he says here where we are I've got
+my place I'll go epic and read anyway
+similarly let the time tour of the
+moving system be determined for all
+points of the moving system at which
+there are clocks at rest relatively to
+that system by adopting the method given
+in section one of light signals between
+the points at which the latter clocks
+are located - any system of values X Y Z
+and T yes one system which completely
+defines the place and time I'd event in
+the stationary system Einstein calls
+that a stationary system there belongs a
+system of values see e de xira
+int or determining that event relatively
+to the system K so if we have x y&z
+associated with a system big K and the
+Greek letters and for the system little
+K his big case systems moving and his
+little K or his big day system a
+stationary in his little K system is
+moving
+but according to him you can switch it
+around the little system guy could be
+stationed here and the other one could
+be moving because it's only relative
+motion now however as we know how to
+judge whether two or more clocks show
+the same time simultaneously and run in
+the same way we can very well imagine as
+many clocks as we like in a given CS CSS
+coordinate system each of them will help
+us to determine the time and events
+happening in its immediate vicinity the
+clocks are all at rest relative to the
+coordinate system they are good clocks
+what is a good clock maybe they were
+made by the Swiss they make good clocks
+and synchronized which means that they
+show the same time simultaneously well
+this is all of this long-winded stuff it
+says you're all sitting in the room and
+you've all got a clock where you're
+going to watch that's a clock and you've
+all got them synchronized so you read
+the same time that's all it means all of
+this just means that but you've got two
+systems so there's another set of people
+in another room the same size as this
+they call their clocks readings tour you
+call your clock readings too
+they call their positions see either and
+in Zita and you call it x y&z that's all
+so now we have his systems Einstein
+systems have observers there are two
+systems all having the properties we
+just spoke of big guy and little code
+Einstein likes to keep his little K the
+moving system and he's big K the
+stationary system but as I said you can
+switch it around it doesn't matter so in
+the left-hand diagram K and K there's no
+motion between these two systems of
+stationary clocks synchronized observers
+and in the other two they are moving
+well Einstein keeps the K capital K as
+his stationary system and he says that
+the little K is the moving one well if
+it's moving to the right in the middle
+one K is moving to the right with
+respect to K big K and on the other
+final diagram
+little k system the whole system is
+moving along to the left at some speed V
+well that's minus V according to K
+because it's in the opposite direction
+and Einstein systems of observers K and
+K are both clocks synchronized and
+stationary within their systems right
+they are not clock synchronized and
+stationary with respect to the one
+another those those systems because one
+systems moving with respect to the other
+ones so it's not stationary but if
+you're in one of those systems all your
+points are stationary and all your
+clocks are synchronized so if you're the
+one in little K and I'm the one in big K
+or my clocks are synchronized and all
+the points on the x axis are all
+stationary and in your system all your
+clocks on the z axis are stationary and
+all your x tour are synchronized
+Einsteins systems of clocks synchronized
+stationary observers are now an
+essential feature of special relativity
+he holds that the Lorentz transformation
+associates coordinates X Y Z T of a
+stationary system K yeah we'll look at
+the bottom the system of observers
+they're all stationary and they're all
+reading the same time with the
+coordinates see either Zeta and tour of
+the moving system that's the little
+system little K system at the top so the
+little K system is moving producing time
+dilation and length contraction a system
+of clocks synchronized stationary
+observers little K when at rest is not
+clock synchronized
+when they are all moving together or all
+move together with respect to a clock
+synchronized stationary system okay so
+in other words if you're in the case
+sister the big case system where all
+your clocks are reading the same time
+and you look at the clocks as they all
+pass you held by other stationary
+systems in their system it all goes
+haywire all the clocks are all reading
+different things so it becomes
+mind-boggling
+so now we're going to look at the
+Lorentz transformation the Rhenish
+transformation is on the left this was
+first introduced by Valdemar void in
+1887 he didn't have the term bead oh
+that's the only difference
+the beter term which is one over the
+square root of one minus V squared over
+C squared this term did not occur or did
+not appear in Voight's transformation so
+if you take beter out you have voids
+transformation subsequently Poincare the
+French mathematician Lorentz the Dutch
+physicist and Einstein they adopted
+Lorentz transformation modified by this
+effectively constant beta because V is
+moving or the value of V is a constant
+it's the Russian ship between the two
+moving systems is such that the speed
+views are constant that means beta will
+be a constant for any given value of V
+will see is fixed because the speed of
+light so V over C and V squared over C
+squared that's some constant and we have
+a constant beta now let's eliminate from
+the from the X from the equations for
+the Greek ones a little key T we
+eliminate X so we solve this equation
+here the second equation for x we get
+the result and we stick it into the top
+equation and we get tor is equal to T
+over beta minus Z V over C squared it's
+just a simple bit of algebra you could
+do it but we won't bother with that the
+details here is because you could do it
+yourself and if T equals zero
+tor equals zero so in other words if tor
+is equal to t over beta that happens
+when Z is zero because if you look at
+the top equation sit z equal to 0 you
+get tor is equal to t over beta and then
+if tears nought torres naught so if
+you've got Z equals naught then you're
+gonna have T 2 as naught and toric
+wasn't that's what Einstein wants to do
+he wants to make sure that the two
+origins coincide at the time Teague was
+not as they go past one another but if
+tick was not so a but if Teague was
+naught
+you can just put in Teague was not in
+the top equation you get towards equal
+to minus C the over C squared
+professor Wolfgang Englehart wrote a
+paper in 2016 late last year and where
+he points this out and you see that well
+tor now is a function of position Z
+that's supposed to be the time of all
+the clocks in the stationary system so
+if torres if tears nought torque does
+not necessarily know it which means that
+since we're talking now here only about
+the system itself all the coordinates in
+the moving system itself all the
+positions in that system have different
+times right so that means einstein's
+idea of having clocks synchronized
+stationary systems actually fails
+because he wants to have T equals naught
+that toric was naught but if we make T
+equals not we don't necessarily get
+toric was not why because you also have
+to specify that Z was not but that's the
+position in the moving system so you see
+that the idea of having clock
+synchronization in the moving system
+fails because in that instance as
+Engelhard has pointed out all the tours
+are different depending on different
+positions so we see by using the Trent
+Lorentz transformation on the previous
+slide Einstein's clock synchronization
+doesn't hold
+unless tore mystique was not and Zeke
+was not well that's a special case
+here's his logical error now when I read
+Engle Hart's paper I could see
+immediately that I could generalize it
+because professor Englehart just had
+Teague was naught I said well let's make
+tor equal naught then we find for any
+time T in the movie in the stationary
+system there is always a place Z and the
+moving system where the time is always
+naught well that violates einstein's
+idea thus for every T greater than
+naught of the stationary system K there
+exists the point Z greater than 0 in the
+moving system little kaiware torres know
+it but they're both supposedly starting
+in offered zero and Counting well if
+you're both counting you get bigger than
+nought but here we show that you can
+always find a place where it's still
+nought but according to Einstein's clock
+synchronization this must be impossible
+Einstein's synchronization is
+inconsistent inconsistent with the
+Lorentz transformation this is a logical
+inconsistency in the theory if you have
+a physical theory that has logical
+inconsistency is it valid no if you have
+a physical theory that doesn't accord
+with the experiment is that valid no so
+there are two things that a physical
+theory must have it must have logical
+consistency and accord with experimental
+reality if it files on either one of
+those it files absolutely well here's a
+logical problem it gets worse this is
+just the key to the door so we see that
+by instance clock synchronization is
+inconsistent with the Lorentz
+transformation but he wants to make
+everything consistent with the lens
+transformation he didn't let's have a
+look at a systems of stationary observer
+so I ask a question
+our systems of stationary observers
+satisfying the Lorentz transformation
+clock synchronized in other words if I
+set up a system of stationary observers
+I make them satisfy the Lorentz
+transformation must they necessarily
+come out to be clock synchronized as
+Einstein wants them the answer well
+that's been the answer is no because we
+just proved that in the previous two
+slides now we can construct some counter
+examples let's construct a system of
+stationary observers which means that
+they don't change with time all the X's
+are not dependent on time they're
+stationary I'll take a real number Sigma
+and I'll put a subscript on an X and
+I'll say X sub Sigma equals Sigma X sub
+1 X sub 1 greater than naught so if I
+give you an X sub 1 and you have the
+Sigma which is a real number you can say
+X sub 1 is located here on the x axis
+and all the others are now specified
+immediately by some value of Sigma that
+you can put in because Sigma is a real
+number so we have a system now of
+observers that we have labeled each one
+of them and so we can refer to each one
+of them as
+what they see as opposed to just calling
+it X and never knowing which one we're
+talking about it which is what Einstein
+does each observe a Sigma at position X
+sub sigma reads its own clock time T sub
+Sigma so X sub 1 you see there X sub
+Sigma they're located on the x axis and
+they're stationary so if we use X of
+Sigma equals Sigma X sub 1 and the first
+equation of the Lorentz transformation
+which was three or four slides ago and
+we stick it in there is only one way we
+can ensure that we get consistency that
+our inch transformation and we get this
+equation for the times t sub sigma
+equals t1 plus sigma minus 1 3 x 1 over
+c-squared if I put Sigma equals 1 what
+do I get T sub Sigma equals T sub 1
+that's one case if any other value of
+Sigma the times are not the same in
+other words if they are systems of
+stationary observers that satisfy the
+Lorentz transformation they cannot be
+clocked synchronized here's an equation
+that I derived in a paper that I write
+but I have just given you the result
+rather than a derivation if you put
+Sigma X up Sigma equals Sigma X sub 1
+and in T sub Sigma into the second
+equation of the Lorentz transformation
+that we saw earlier slide we get this
+complicated looking expression and again
+if we make Sigma equals 1 in that bottom
+sight equation Sigma equals 1 then we
+get 1 minus V squared over C squared
+plus V squared over C squared that's
+just 1 and that produces X 1 minus V a t
+1 multiplied by beta that's exactly the
+Lorentz transformation in one particular
+case Einsteins case so we'll draw up
+here real graph here a little table of
+things we've got Sigma on the Left
+various values you can put any values
+you like I've put in a few except Sigma
+T sub Sigma Z sub Sigma and tour
+what will you see tour comes out to be
+the same but that's not synchronized in
+the moving
+system that's what the stationary system
+sees when it looks at the moving system
+the moving systems going past it looks
+at the system and says well all those
+clocks are in sync but all the clocks in
+my system or your system that's watching
+it are not in sync a copy clock
+synchronized now it can revert it
+because it's symmetric in the other
+system where you looking at the clocks
+they're all sync if you're in that
+system looking at this system you say
+well all my clocks are not sync but the
+ones in the other one that's moving past
+me are in sync well that's completely
+opposite the Einsteins remember the
+diagram all the ones on the bottom were
+all in sync and the ones that were
+moving past all right I think here we
+got the opposite so this is the
+stationary Lorentz transformation in
+other words this is a system of
+equations that is that's is for
+stationary systems of observers that
+satisfy the Lorentz transformation you
+can see here that the time cannot be
+synchronized but if I make Sigma equals
+one everything reduces to the simple
+expressions that we started with so I
+said here setting Sigma equals one in
+the stationary Lorentz transformation
+the Lorentz transformation used by
+Einstein is recovered however a system s
+that contains only one observer cannot
+by its singular character synchronize
+its costs with anything or Judge Samuel
+taneous of ncns Einstein incorrectly
+permitted his privileged observer Sigma
+equals 1 to speak for all observers
+thereby violating the fundamental tenets
+of his theory that no observer is
+privileged in other words he had a
+tested assumption that he could
+construct systems of clocks synchronized
+stationary observers with the Lorentz
+transformation we see that it's only a
+true in one sort of in one case Sigma
+equals one but in that case it's the
+only one in the whole system there are
+though others in the system
+can it synchronize with anything no
+there's only one clock in the system
+itself can it measure distances no
+because it's only one point it's like
+taking the point out of the whole x axis
+and looking at the point itself the
+other XS the rest of it has disappeared
+so it can't measure this
+or anything and it can't be privileged
+because Einstein requires that they're
+not privileged that's why once whole
+systems of clocks synchronized
+stationary observers no ones privileged
+this is the inverse transformation I
+just put it there for content now we
+look at clocks synchronized systems so I
+asked the second question our systems of
+clocks synchronized observers satisfying
+the Lorentz transformation stationary
+the answer is no we can construct
+counter examples here by we making
+taking the Lorentz transformations and
+we insist that all the clocks in the
+capital K system read the same time T so
+that's on the left and the only way to
+do that is using the kawrench
+transformation is by setting that
+equation up then we ensure that every
+clock in the in one system is
+synchronized so they read the same time
+can they be stationary well we see here
+that when we solve it all we get for X
+sub Sigma there are all functions of
+over time X sub Sigma equals 1 minus
+Sigma C squared T over V plus Sigma X 1
+where X 1 is greater than 0 but
+arbitrary now we see that X sub Sigma is
+a function of time that means it's not
+stationary
+so although observe all observers in K
+o'clock synchronized through a common
+time T only x1 is not a function of the
+time T if I put Sigma equals 1 in I get
+X sub 1 is equal to x1 that's not a
+function of time
+that's Einstein's privileged observer 1
+in a set of how many well they're
+infinite sets so he has one element out
+of an infinite set not the infinite set
+and he takes that one element and allows
+it to speak for the whole infinite set
+of observers that's wrong here we see
+counter examples here's their orange
+transformation for clocks synchronized
+observers notice that Sigma can only
+have limited values it's not a it's not
+the whole set of real numbers it's only
+one minus V over C is less than Sigma is
+less than 1 plus V over C and if V is
+nought we get 1 is less than Sigma is
+less than 1 that just means it's 1
+Einstein's observer again so if we set
+Sigma equals one in the clock
+synchronised system we recover the
+Lorentz transformation used by Einstein
+it's a privileged observer he's not
+allowed to have that because he says we
+don't have privileged observers it
+pertains to only one observer in system
+K and one observing system K the little
+K by tacitly assuming systems of clocks
+synchronized stationary observers
+consistent with the Lorentz
+transformation Einstein incorrectly
+permitted he's privileged observer Sigma
+equals one to speak for all observers
+thereby violating the fundamental tenets
+of his theory that no observer is
+privileged this is the set of equations
+for the inverse clock synchronize
+Lorentz transformation they're going for
+content now Lorentz invariance according
+to the cosmologists in Einstein and
+Minkowski remember when we did the right
+the right triangles in this end in the
+spheres and we had x squared plus y
+squared minus s squared plus said
+squared minus C squared T squared equals
+zero well Einstein requires that no
+matter how the systems are moving they
+all must come out with exactly the same
+equation the only change being the
+symbols any cause this well this is
+called Lorentz invariance so they
+require this top equation so when you
+change from the XYZ and T to the Greek
+ones for the moving system you get the
+same equation well we remember that
+that's always at naught cosmologists
+think that that's not always not so but
+by the Lorentz transformation we have x
+and y not sorry y&z don't appear there
+zero because everything's moving along
+the x axis so we can make that zero and
+we can therefore reduce the equation to
+a simpler one x squared minus C squared
+T squared is equal to the C squared
+minus C squared 2 squared but if we
+substitute now the findings of the
+previous slides for the stationary
+system we get this complicated
+expression and this is true for all
+values of Sigma so
+Lorentz invariance is maintained by the
+counter examples that I've constructed
+well we expect that because I
+constructed it using the Lorentz
+transformation so we would expect that
+they have a Lorentz transparent
+invariance that satisfies Einstein's
+requirement but again this is not a
+single this is not a single observer
+it's many observers infinite set now
+here's the same relationship for the
+clock synchronized
+Lorentz transformation and we get that
+expression I'll go back to the other one
+there is that expression for this and
+there's the expression for this system
+and again we see when you put the nut
+put all the things in there you get
+Lorentz invariants the only change in
+the equation is the symbols that's what
+he wants so the counter examples satisfy
+that condition now we compare the
+observers let's take the the stationary
+Lorentz transformation relation that
+before in equator to the clock
+synchronized
+Lorentz transformation they're not the
+same unless Sigma equals 1 so if I put
+in Sigma equals 1 this becomes an
+identity because in any other case
+they're not equal they satisfy the renze
+invariance individually but when they're
+equated they only hold when Sigma equals
+1 that's Einstein's privileged observer
+which he allows to speak for all
+elements of the infinite set of
+observers that's his mistake
+so Einstein system of clocks
+synchronized stationary observers holds
+holds for only one observer no other
+observers are equivalent thus Einsteins
+tacit assumption is false in the special
+theory of relativity is false here's a
+wave equation this is a simple wave
+equation sine wave this is a little bit
+more complicated because we now we have
+a differential equation the wave
+equation the standard wave equation
+electrical engineers I'm sure are
+familiar with this because it's related
+to electromagnetic radiation so if you
+have a wave polarized in the Y Direction
+traveling in the X direction with speed
+C this equation describes it it's called
+the standard wave equation right this is
+a one-dimensional wave equation as
+opposed to a three-dimensional wave
+so I don't expect you all to understand
+that but the point of it is we have a
+nice little sine wave here
+that's a wave equation it's a plane wave
+so now special relativity requires the
+wave equation to be invariant under the
+Lorentz transformation in other words
+the equation when you put in the Lorentz
+transformation on the left hand side
+equation you get the right-hand side
+it's exactly the same equation except
+that you've just changed the symbols so
+now the standard wave equation becomes
+invariant between moving systems systems
+that are in constant rectilinear motion
+this is what Voigt wanted to do in 1887
+for reasons that are only known to avoid
+because it doesn't make sense so using
+the standard or using the stationary
+Lorenz transformation I take the counter
+examples that I've constructed and I put
+it into the standard wave equation and I
+get the thing on the right
+this is invariant only when Sigma equals
+1 again Einsteins privileged observer if
+you put one in there you see comes out
+to be the standard wave equation
+otherwise it is not so the idea that the
+Lorentz transformation makes the
+standard wave equation invariant under
+its transformation is patently false
+Voight was wrong and hence pancamo was
+wrong Lorentz is wrong and Einstein
+wrong but this is central to special
+relativity without at all special
+relativity is a dead duck here now I'll
+use the clocks synchronized Lorentz
+transformations we get exactly the same
+equations again Sigma equals 1 is the
+only one that makes it invariant that's
+Einstein's privileged observer he
+doesn't know that what he's done he
+takes this privileged observer and he
+lets it speak for all of them so now he
+thinks he's got clock synchronized
+systems of stationary observers when he
+doesn't he only has one and one is
+meaningless so we compare the wave
+equations they are the same
+only when Sigma equals one comparison of
+positions and times they are the same
+only when Sigma equals one so we now
+conclude systems of clocks synchronized
+stationary observers are inconsistent
+with the Lorentz transformation
+Einstein's theory of relativity is
+therefore logically inconsistent it is
+therefore force and the Lorentz
+transformation is meaningless because it
+does not matter it does not do what it
+says or already claims that it can do it
+does not and so that concludes my rather
+technical discussion proving that the
+special theory of relativity is a fairy
+tale thank you
+[Applause]
+[Music]
+[Music]
+you
+[Music]

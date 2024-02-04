@@ -1,0 +1,1724 @@
+Wow! Does a year
+pass by quickly.
+Last time I stood up here
+we were showing you pre-models,
+computer-aided design models of SAFIRE,
+where we thought we were going to go.
+And tonight, we're going to show you
+where we've come and how we got there.
+So, I'm not sure how fast I'll
+go through the presentation;
+I think I have what 600 slides.
+No, not that many, but there's lots of
+colorful ones. We're going to get into some
+of the hard core engineering that goes
+into designing a machine of this nature
+and some of the questions that the team had
+to address for us to get where we are.
+So SAFIRE: Stellar Atmospheric
+Function in Regulation Experiment.
+It's a test of the Electric
+Sun Model and this model,
+we see here are we going...
+OK, this is the overview...
+Here we go.
+The Electric Sun Model.
+I was asked back in 2011
+[I'm just going to give you a really quick
+overview for some of you that are new]
+by the EU and by individuals
+to examine this model.
+And what I did is I compared it
+to the contemporary model
+and I discovered that there is a lot of
+disparities with the contemporary model
+and came to the conclusion that, at least
+at this time here, it's not testable.
+But during this, I used a statistical
+evaluation tool called Design of Experiments,
+which you can apply to filter through
+hypotheses or different models
+to determine whether they
+can be tested or not.
+So that's really the first couple of
+years, and I came to the conclusion
+that I think that the Electric Universe
+Model is based on the principle
+of charged plasma affecting matter
+of a different electrical potential.
+And I came to that conclusion finally after
+Scott Mainwaring had given me a book,
+written by Crookes, where he had a
+cathode at one end of a small jar
+and an anode at the other end
+and had rubies in the center.
+And when he lit it up, the
+ruby started to fluoresce
+and radiate, is what he called it,
+what we call plasma discharge.
+But the rubies themselves were not part of
+the circuit they were just in the plasma
+and what it indicates is that there's
+certain elements that we know now
+do not want to climb or fall to the
+electric potential of its environment,
+when that happens that's when you
+end up with a plasma discharge.
+And it was based on that that I came to
+conclusion that we may be able to test this.
+So Phase 1 was a proof of concept,
+and it was really just to see
+if we could shake it out
+and see if it worked.
+Can we go in and recreate
+these things and can we
+introduce some instrumentation
+to do some measurements?
+Because the data and instrumentation
+to measure what's going on in plasmas is
+extremely weak. There's not much information
+about it, and we're going to get into that.
+And we did test it.
+And we discovered
+that it would work.
+(video Clip Narrator) * We
+adjust pressure, voltage,
+but I'm gonna introduce some more helium
+right now first, just a little bit more,
+* current, and time.
+* Time is also a key element.
+* When the proper combination
+of these factors is arrived at,
+the plasma
+spontaneously ignites.
+* A glow discharge
+forms in the chamber
+Look, look! Look at the emissions
+coming off. Look how bright it becomes.
+* We adjust the various parameters to
+obtain a variety of plasma regimes.
+Look, Look, Look, Look,
+Look, Look, Look
+* What we are observing
+has no clear precedent.
+* We are seeing things
+we did not expect.
+Look at the pressure changes!
+Nice, nice. Look at the spin!
+And that was just the initial...
+Afterwards, we were able to control
+the plasma, and these are some of the
+plasma phenomena that we observed,
+and we were starting to measure.
+And these double layers, we
+ended up finding that we had 2, 3, 4, 20...
+These aren't disks.
+These are spherical discharges.
+Plasma has a unique characteristic where it is
+translucent as you look through the center of it.
+And it looks like it's a
+disk, but in fact it's not.
+What you're looking at
+actually are spheres.
+And then we end up looking at things
+that had certain types of perturbations,
+but what we thought and looked at the
+geometry here was quite remarkable
+with the hexagonal-type formation,
+and this is all moving.
+This is not static.
+Further to this, as
+some of you know,
+we saw a dark or an extremely intense
+ion cloud build up around the core,
+this is very common for what
+we see happening in SAFIRE.
+And when it did, it would
+blow off into the chamber.
+And when that happened, it would often release
+power surges of over 10 million watts.
+Now what we did is we limited the power to
+1800 watts, and we don't understand this,
+but these are the things that we are going
+to now investigate in Phase 2, and...
+this is what you're going to
+be introduced to tonight.
+This is kind of a panoramic
+shot of the lab.
+What you're looking at in the center
+there is the chamber, which can, uh,
+it's about 3 cubic meters.
+It's about 7 feet long, and
+it's about 4 feet in diameter.
+And we're going to go and explore the
+engineering that went behind this.
+But what's behind this?
+This is SAFCON.
+Everybody in the team, we
+have to come up with a name,
+let's call it the control
+room, and nobody liked that.
+So we said okay, well let's really...
+they came up with the name SAFCON.
+So, this is SAFCON.
+And this is kind of a again a panoramic view
+here; it's not complete in this picture of
+where the main control for gas, vacuum,
+data acquisition, and in real time
+we get to monitor what's going on
+with all the systems in the chamber.
+Now there are two things that we're
+going to talk about tonight.
+One of them is systems, which is the
+chamber itself to maintain its stability
+so that it's a stable
+experimental environment.
+And the other is the data that we get back
+from the instruments like the Langmuir probe,
+optical spectroscopy, mass
+spectroscopy, and other things.
+So, you're not
+looking at the Sun.
+This is the result of the first
+discharge from SAFIRE PHASE 2.
+And this is what happened.
+And so, we believe now
+that it is scalable.
+Well, we know it's scalable.
+So the SAFIRE environment: we know that
+the plasma itself is extremely intense.
+We know that it's extremely hot.
+And one of the things that
+happen in a plasma discharge,
+one of the characteristics of a plasma
+is what we call radiation emissions.
+And radiation emissions is the thing
+that you feel when you walk outside,
+and you feel the hot Phoenix sun
+after if you've been in the shade.
+And those emissions in SAFIRE, they
+travel at the speed of light,
+and they impinge on the
+surface of the chamber.
+Now, I didn't think that this would be
+a big deal when we first started out
+because it's such a big chamber; it weighs
+almost 2,000 pounds; it's stainless steel;
+and I found out that was
+actually was not the case.
+This is just a small graph to show you
+the different types of radiation.
+The complete spectrum, you go right
+from what they call non-thermal,
+thermal, optical, broken bands, gamma
+rays, x-rays, and ultraviolet.
+The stuff that we feel predominately
+are within the kind of the infrared
+to ultraviolet range when
+we walk out in the Sun.
+But SAFIRE'S going to experience many of
+these because it's an ionizing plasma.
+And this is what happens
+to the chamber.
+So when this radiation hits the surface of
+the chamber, some of it is reflected back.
+But in our case, because we
+have a certain type of finish,
+a lot of this energy is
+absorbed into that material,
+and there's transmitted radiation
+that comes off the outside.
+So, if you think about your engine,
+it's got gas burning on the inside,
+and you feel the heat migrating through
+the engine; it gets extremely hot.
+And so you have this thermal conductance
+within the material itself.
+So in engineering: we had to take a look
+at what we call potential failure modes--
+the melting of o-rings (is it going to get
+too hot?), thermal stresses on viewports,
+thermal expansion of materials causing
+stress, thermal effect on cameras,
+electrical discharge, erosion of
+materials, deposition of materials.
+When you have a plasma, an ionizing
+plasma, we watch things get vaporized.
+And when we say vaporized, these
+are like happening in seconds.
+So, you can have something that's metal,
+and it's no longer there.
+So you've got to be careful about
+how much energy is in this chamber,
+and you've got to have, you
+know, good control over it.
+So potential failure modes: what
+temperatures are we dealing with;
+how long will it take to
+reach these temperatures;
+how do we limit thermal
+heating in the chamber;
+what are the thermal
+limitations of the gaskets;
+how do we limit the thermal
+heating of the viewports;
+what are the effects of
+thermal expansion...
+Potential failure
+modes, and it goes on.
+And the list becomes endless because
+once you have this radiation in here
+it's like putting a very hot, let's say,
+tungsten light bulb inside a shoe box,
+and that heat and that energy's got nowhere
+to go, and it will cause a fire.
+Molecular solubility: well,
+we're using hydrogen.
+What about the polymer
+hoses that we're using?
+Well, they're designed
+to handle the hydrogen.
+Well, what happens if the
+polymer hose starts to heat up?
+Well,, it opens up the molecular
+structure of the polymer holes,
+the hydrogen starts to migrate through, and
+maybe you get hydrogen embrittlement,
+and then you, you break a hose.
+It doesn't sound like a big deal, but if you've got
+pressurized hydrogen moving into the chamber,
+and you've got a very hot anode, it might
+cause some consternation amongst the team.
+Lowell said, ah, I said "Can 
+we expect an explosion?"
+And he said, "Well, if we
+do, it won't be very big."
+Now you have to understand with
+Lowell, what his background is,
+because he used to work at Los Alamos and 
+Lawrence Livermore Labs, and nuclear weapons,
+So...
+So I asked him, I said, "Are we talking about
+one megaton or 70 megatons?
+You know, or are we just gonna
+become like cosmic dust?"
+So, we have what we call a system, it's
+called Open Issues and Project Tracking.
+And that means that every single person
+on the team has a responsibility to,
+if you think that it's a problem, it's a
+problem unless we know that it isn't.
+It's broken unless we
+know that it's fixed.
+It's not gonna work unless
+we know that it does.
+It's kind of a, you might
+consider it a negative approach,
+but in the automotive industry we would do the
+same thing with your braking system on your car.
+As an engineer, we would say, would you be
+happy if your brakes worked most of the time?
+Or do you, because I got accused
+of being a perfectionist one time,
+and that's the way I
+answered them back.
+And I said well, you know, if I'm
+designing your braking system,
+do you want them to work most of the
+time, 90% of the time, 99% of the time?
+And what I I discovered is that people want
+their brakes to work even if the pads are gone.
+So, we look at where a system is going to fail,
+and if we can eliminate the failure modes,
+then we have a reasonable
+confidence that it's going to work.
+So, there are
+thousands of issues.
+And each person on the team is
+assigned, they're a champion.
+We identify what the
+task or the issue is.
+The team discusses it
+amongst ourselves.
+We come up with recommendations.
+The person can pursue it
+and then come back maybe a day
+or two later a week or a month
+and say OK, this is what I found,
+and maybe they are stuck on it.
+But, the approach is that if any
+member of the team has an issue,
+the whole team has an issue
+because if they're
+stuck, we're all stuck.
+So, we tracked through every single
+issue that we can think of.
+And that brings us to
+Computational Fluid Dynamics.
+And it's a big word, and it's a
+science and engineering that is used
+from designs of kettles,
+to rockets, fighter aircraft.
+And it covers a wide range
+of things in thermodynamics,
+and it includes radiation
+emissions, that's light emissions.
+It means fluids
+as well as gases.
+So, gases fall under the same kinds of laws and principles
+in our calculations as what liquids do.
+So, CFD is a
+software solid modeler.
+It uses proven applied
+mathematical equations,
+algorithms to evaluate the
+effects of various interacting
+and non-interacting factors affecting
+fluids, gases, and materials.
+So think about when they designed
+the radiator of your car,
+they know that, as a radiator
+heats up, it's going to expand.
+And if it didn't let it expand,
+it's gonna break; it's gonna leak.
+So, you want to understand the materials and the
+effects of the heat on these kinds of materials.
+And the same thing
+happens in SAFIRE.
+And you can do all these
+calculations at once
+with some of the most
+advanced solid modelers.
+So as I said before,
+at the beginning,
+I didn't think that thermal radiation
+was going to be too much of an effect,
+cause the thing weighs
+about 2,000 pounds.
+It's a lot of steel there, and I
+thought okay we can fire it up,
+and that's not going to
+be like a small bell jar.
+We can run it for maybe, you
+know, a number of hours.
+But what I discovered in my
+initial calculations is that,
+even at 30 kilowatts, because you need
+more power it's a bigger chamber,
+we would get maybe half an hour out of the
+chamber before things started to melt.
+And if we allow the chamber and
+the energy to go beyond that,
+maybe up to 80 kilowatts,
+or even 165 kilowatts,
+which it has the capability of
+doing because it's a big chamber,
+we might get half an hour before it
+heats up to 500 degrees Celsius.
+And when you see something
+that's red hot,
+that would be in the range of
+around 5-600 degrees Celsius,
+and that's where
+things start to melt.
+And that's a big problem. We can't
+run, you can't run an experiment.
+So what you're looking at here is a
+calculation is called "total heat flux,"
+and you're going to kind of get a kind of a
+basic 101 engineering thing on, on this.
+And I discovered
+something that EU might find
+very useful on the heating of
+the cores of planets and moons,
+but this here is showing you the
+anode in the center of the chamber,
+and as time goes on, how
+radiation emissions
+impinge on the surfaces of the
+materials and the chamber itself.
+Now, the core plasma, remember the core
+plasma we figure is around 3,000 degrees,
+but the radiation is leaving
+at the speed of light
+and is traveling through the atmosphere
+in the chamber because it's in a vacuum
+even faster than it travels
+through our atmosphere on earth.
+So there's nothing to slow it
+down; there's nothing to stop it.
+So, the static results,
+that was Dr. Lowell
+Morgan's calculations.
+So he came out and he said, "Well, it looks like it's
+going to heat up to about 521 degrees Celsius,"
+and I was coming up with numbers
+of around 535 degrees Celsius,
+then I contacted some friends that
+we're doing some work with NASA
+and some aerospace
+down in the Carolinas
+and they were saying maybe
+550 degrees Celsius.
+So we have a problem.
+So what this is is some
+of the calculations.
+This is just really a return graph,
+I'm going to show you some other
+more graphical representations of the results
+that the calculations came out with,
+but it meant we
+have a big problem.
+And it meant that I had to
+make a telephone call to Scott
+and say that if we ran the chamber,
+we could run it for about 10 minutes
+before you see kind of a
+melting thing on the floor,
+and that's the end of SAFIRE.
+What this is here, you have
+static results, which means
+this is going to be the maximum temperature the
+chamber will come to, and it will stabilize.
+The next as you see right here
+it's kind of migrating along,
+you see the graph drops
+down, it comes back up,
+that's giving us the time domain and how
+long it will take the chamber to heat.
+And we came up with approximately
+the same number, about 30 minutes.
+So then I thought, okay well, I don't
+want to call Scott yet and say
+"It's over!"
+So, I thought, well,
+maybe we can cool it.
+So, we'll wrap some
+water around it,
+OK, some hoses or whatever we need
+to do so we can cool the chamber.
+But as you can see here the analysis is showing us
+that well where the hoses are it's nice and cool,
+but right where the
+center of the chamber is,
+which is where the
+most of the heat is,
+it's going to be too complicated for
+us to get anything effective in there.
+And what you're looking at from the green to
+the red is what we call a thermal gradient,
+and it's too steep. You just
+don't do that to materials
+without causing a lot
+of stress and problems.
+So I'm thinking, "Well, how do
+we cool engines?
+What if we blew some air on it?"
+So, I started to do
+some analysis, and
+I thought, "Well, what
+if we put a fan on it,
+and we suck the air down through
+a shroud along the surface,
+and we got some sort
+of laminar flow?"
+And laminar flow falls under
+Computational Fluid Dynamics,
+and this is the kind of math that they
+use to do wing design on aircraft.
+You know, how much laminar flow, how
+well will the air actually stick
+to the surface to
+lift the aircraft up.
+And air's a very effective
+way to get rid of heat;
+you use it in your
+radiators in your car.
+So, it looked promising.
+And I thought okay,
+what we could also work out here is
+the flow of air over the surfaces.
+So, we can effectively predict how the
+winds or the air is going to flow
+over the surfaces to be more effective in
+cooling it -- more effective, more efficient.
+And this is some of the thermal
+distribution, and it's a lot more even.
+So, we're not getting
+500 degrees now.
+Now, if I can get a fan to pull
+air over the surface,
+we can bring the chamber into stability
+of around 100 degrees Celsius.
+Now that's something
+we can work with.
+It's still going to boil water,
+but the worst case scenario
+is about 100 degrees Celsius.
+Its not going to melt gaskets; yes, you
+could fry eggs on it, but it's workable.
+So then I thought,
+"Well, I need a fan."
+And that big blue thing is the
+fan that we came up with.
+I told Scott that, yes
+we have a solution,
+but what I didn't tell him at the
+time is just how big a fan we needed.
+And so he thought okay, this is good,
+so we're going to keep moving ahead.
+And the fan actually will suck
+about 14,000 cubic feet per minute
+at a pressure of about 2 inches of 2
+atmospheres, oh uh, not 2 atmospheres,
+but 2 inches of water, which basically
+would suck the air out of this room,
+all the air out of this room here, oh,
+I would say approximately 30 seconds.
+So keep your hands and feet in
+at all times.
+I mean that's me standing there, I don't what
+I'm doing, I'm looking at something, I guess.
+So then we looked at the
+outside, that looked good,
+so let's take a
+look at the inside,
+because that's where the
+real nasty environment is.
+And what we can model now, very
+accurately, is what these conditions are.
+And the conditions is showing you with
+the little arrows, it's showing you,
+those arrows are showing the effects of
+buoyancy so as hot air heats it rises.
+And so effectively what those arrow are
+showing you that it's going to rise,
+and it's giving you a velocity
+of how fast is the gas rising.
+And so this is gas, this is
+not radiation emissions.
+The radiation emissions are passing
+through the gas at the speed of light,
+but then there's the gas in the
+chamber, and how fast is it moving?
+OK, do we have any kind of
+convection motion happening in here?
+And it's actually quite
+stable, if you look at it.
+The velocity is
+actually not that high.
+ 
+So what we're looking at here, I took a
+cross-section, and we're just kind of
+moving down through the chamber to the
+core, which is where the anode is.
+And it looks like a heck of a
+fire that's in there, and it is,
+but the velocity
+is very, very low.
+We're talking .0005
+meters per second.
+So, it means the gas is
+not moving very quickly,
+which is good for us,
+because it means that,
+you know, gravity is going to have a
+limited effect on the plasma discharge,
+if that makes any sense.
+OK, the gas is very
+stable inside.
+And this is just actually
+looking down into the core.
+So, this here is the effect of
+what's called "total heat flux."
+It's how you can heat up a
+body using electricity.
+So, I'm just going to digress here from
+SAFIRE just to talk about a possibility
+that the EU might want to consider, because
+in the course of doing this analysis,
+it occurred to me that we
+use this tool all the time,
+and it means that the center
+of the anode might be around,
+let's say, 2500 degrees Celsius,
+but the surface temperature of the anode
+was almost one order of magnitude cooler.
+I thought, "Well now
+what is going on?
+Like, you know, I'm going to heat it up,
+it should be just kind of uniform heat."
+But in the analysis what it showed
+is that the radiation emissions
+leaving the surface of the anode
+are leaving at the speed of light,
+but it takes a lot more time for
+the heat to migrate from the core
+through that very dense material
+that we call the anode.
+So if you think about it, you don't need
+gravity to heat the core of a planet or a moon,
+and this is very effective
+mechanism to do this.
+And it does answer for why you can
+have hot cores in planets or moons,
+that really by now, in my opinion, if
+the result is as they say they are,
+should be frozen rocks,
+and they're not.
+And even with bodies that are
+even smaller than our own moon
+might have hot cores
+and volcanic activity.
+Just a consideration for the
+EU, but it's something that
+appears to me that
+might have some legs.
+So, it's just another kind of a
+3-D view of the core.
+It's fun doing this work
+because its really pretty.
+This is stuff you could put on
+t-shirts, you know.
+So this again, what we're
+looking at is the radiation
+and the effects of the radiation
+on components like the cathodes,
+because we're like we have large
+cathods, and you'll see them tonight.
+They are 3 feet in diameter.
+They're very thick copper, and
+what we have to identify now is
+whether or not they're going to
+melt, or they're going to expand,
+and what kind of changes can
+we see occur in the chamber
+without it going
+into a failure mode.
+And this is really
+what it's showing you.
+The green means that its
+cool, the red mean it's hot,
+and the little arrows
+show you the direction
+that the air is moving or the
+gas moving in the chamber.
+This here is the results.
+So the maximum
+temperature that we got
+from radiation is about
+600° Celsius for the copper,
+and that's well within
+copper's ability to handle.
+It's going to get hot, but
+it's not going to melt.
+But when things heat
+up they expand.
+And if you're holding
+something too rigid,
+and it's wanting to expand, well,
+that's when you start to break things.
+So, we can take the
+information that we've got,
+and the results that we got from
+the Computational Fluid Dynamics,
+and read that directly into what's
+called Finite Element Analysis.
+And that really deals with the structure,
+of the strength of materials.
+It's used in building buildings and
+cars and virtually every kind of thing
+you can think of that
+undergoes any kind of stress.
+So, if you take your hand on
+your desk tonight,
+and you just put your fingers on the
+edge, and you push your hand down,
+you're going to get what's
+called "displacement."
+If you feel your muscles stretching,
+this is what we would call "stress."
+So things can displace like the wings on an aircraft,
+but the stresses are within its
+limits so they don't break off.
+And this is basically
+what FEA does.
+And you can apply
+thermal forces.
+And what this is showing us is the effects of the
+radiation emissions on the SAFIRE viewports.
+OK now, if I was paying for this,
+where, these are SAFIRE viewports.
+Now if anyone knows anything
+about vacuum chambers,
+these are really are not
+cheap viewports, OK.
+And you don't wanna be blowing
+them out of your chamber
+because you've subjecting
+them to extremely high stresses.
+And what this is saying in effect as long as
+we've got air moving over top of the surface,
+we can keep it cool down to a point
+where we can effectively use them
+without blowing the
+the viewports out of the chamber.
+But what about the cathode?
+Well, you come up with some ideas.
+You want a nice flat disk.
+The team we all agreed that a nice flat disk
+could be the most effective way to do this,
+but you gotta hold
+that disk up somehow.
+And this was the first concept.
+And this here what you're looking
+at is kind of a pie shape section
+out of that round, that cathode
+that you'll see very soon.
+And what it's showing you is the
+stresses due to thermal forces.
+And you can see...
+ 
+OK, you see right in this area here, the
+stresses are 370, 372.9 megapascals.
+Now that may not mean
+much to most of you,
+but what it does say is that it's about
+400% beyond what copper can handle.
+It means that the copper is
+going to, because the expansion
+due to the deformation
+that we see here,
+that cathode under these temperatures
+is going to grow about half an inch.
+So how do we how do we let it
+grow half an inch without,
+you know, the support
+structure breaking,
+because it can't
+hold it anymore?
+ 
+ 
+ 
+OK, so what we say, well look,
+let's, let's think of some concepts
+that come out of aircraft.
+Well if there, if the, if the wings on an
+aircraft are stiff, actually they break off.
+And when you take off in a big airliner
+nowadays you can see the wings moving up.
+If they didn't, all those
+stresses would be so severe,
+they would actually crack and fracture, and
+break off, and that's not a good thing.
+So, what we're going to do with
+SAFIRE, or what we did, is
+we want to let it grow.
+Let it grow.
+So, in this case here, you know,
+we just put a small joint in here.
+I don't know how well you can
+see it on the big screen,
+but there's a joint in here, and
+it's gonna let the cathode grow.
+And it's not going to put stresses
+on the structure in here,
+but the stresses that you can see here
+were actually supporting the cathode
+are 77 megapascals, which is about
+300% below what copper can handle.
+So, we're in good shape.
+And I have enough experience with this
+to know that it's going to work.
+OK.
+ 
+ 
+OK. So Systems.
+Systems Design and Engineering.
+If you have a computer, you
+have a computer system.
+You have chips, and you
+have wires, you have fans,
+and you have cooling systems
+within that computer.
+And that system itself is hooked into a network
+called the Internet, and we have systems.
+And with this particular machine, we
+have to start breaking those systems out
+into something that's actually going
+to work for us in a laboratory.
+So the main control panel, data feedback and
+capture, this is in SAFCON, video feedback.
+OK, we need to see what's going on
+in the chamber. We have a couple,
+you know, we have one wide angle camera;
+we've got a high-resolution video camera
+that you're going to see some
+of the results from tonight.
+A main data vacuum, and controls raceway,
+so we got to bring all the controls
+and other things across from the
+chamber into the control room,
+and the main power supply.
+And we have deionized
+water cooling system;
+the reason why we use deionized
+water is due to its resistivity,
+and we'll talk about
+that a little bit.
+And then of course you
+have the main chamber.
+This is just a quick
+kind of overview
+of what SAFIRE was modeled
+an engineered to be,
+and the pictures you're going
+to see is really a replica
+of what has been modeled here
+over the course of the year.
+So, we have the gimbal.
+You saw that last year in the model; you're
+going to see the real thing tonight.
+The chamber door, mass spectrometer, and
+remote data data acquisition junction,
+that's kind of uh, you'll see
+some interesting things there.
+Anode isolation chamber.
+Actually, that was Scott
+Mainwaring's idea.
+He says, "Monty, so what if we just--
+'cause that chamber's so big it's going
+to take you days to suck it down
+and get the vacuum that you want--
+if we want to change the anode out, we're going
+to lose three days every time we do that."
+And so we designed
+an isolation chamber
+where we could pull the
+anode back, close the gate valve,
+save the chamber, and switch out
+the anode. And this happened,
+I don't know how long it took us,
+because we did this, maybe 20 minutes,
+and put a new one in and brought
+it back into the chamber.
+Recirculation Recirculation pumps, air cooling,
+cryogenic vacuum, and a lot of other systems.
+What you're looking at here is the
+main gas and vacuum control systems.
+And the point of the
+presentation tonight
+is not just to show you SAFIRE
+and some of the results
+but the effort and the amount of work
+involved with the whole SAFIRE team
+to get to what you're
+going to see tonight.
+And what you're looking at here is really
+the mains gas and vacuum schematic.
+And everybody on the team
+contributes to this.
+The questions: well,
+where's it going to fail?
+What kind of gas we're using?
+What direction is the gas
+going through the valve?
+Is the valve designed
+to go one way?
+Is it more effective if
+it goes the other way?
+What about an emergency stop?
+What if Lowell's right, you know,
+and we need the big red button?
+What happens? How do
+we deal with that?
+Do we need to have nitrogen
+flood into the chamber
+to assure that in fact we've got
+a safe and secure shut down?
+We would like to be on the
+evening news, but not for,
+because we've all become cosmic dust.
+So, we start to model
+these things up.
+So, we take the schematic and we say, okay
+what's it gotta to look like in real life?
+And we have new members on our
+team this year, Jason Lickver,
+and he was my engineering manager
+with another company that I had.
+And so we start to
+design these systems.
+We take the schematic, which
+is really the engineering,
+and that's going to translate into
+drawings and parts and bills of materials,
+and with SAFIRE we figure there's at least
+over 40,000 components, give or take.
+That doesn't even include the
+parts inside the computers.
+So this is a model, these are
+3-D models.
+And we're not at the Iron Man stage
+where we're talking to the computer,
+but it's really getting
+quite advanced.
+We can take materials like this here;
+we can know what the stresses are,
+read that data into an analysis software
+and determine whether or not it's
+strong enough, its properties.
+So, what you're looking at is
+a 3-D model,
+but it understands all the mass
+properties of every single component
+that are in this model.
+This isn't just a rendering.
+This is where
+engineering is today.
+So now, we're going
+to create drawings.
+Things that people could actually use
+to buy materials and start to build,
+and this is, uh, just a drawing
+of the control panel itself,
+the typical balloons. And then, we get
+into things like bills of materials,
+and all the parts and components, and
+fittings and ferrules, and nuts and bolts.
+And each part has to be ordered.
+And you have to
+identify a vendor.
+And you have to
+identify the lead time
+so we get the parts on the floor
+in time so we can build it.
+So, what you're looking
+at here is purchasing.
+And I asked Jano last year if
+he'd be interested in helping out in
+the purchasing side of things,
+and he's never done it before.
+I have a lot of experience
+in this with my other companies,
+and he thought well maybe, maybe it's calling the
+company up saying. "I'd like to buy this part."
+What he discovered was, what I didn't
+tell him is, there's this many pieces,
+and you're going to have to identify who
+the vendor is, lead times, pricing,
+you gotta to get quotes, and just follow up
+at when are the parts going to hit the floor,
+and you really kind of have to
+have the view that the vendor's
+not really going to tell you the
+truth about the price or delivery,
+and they're not gonna
+deliver on time,
+and when they do, it may not
+even be the right part.
+So, this is the Jano's creation.
+And he had worked
+on MRP systems,
+but we all agreed that that probably
+wasn't necessary for SAFIRE,
+little did I say anything, we
+have a very limited budget,
+but it really did deserve a full-blown,
+you know, materials purchasing system.
+There's a lot of components.
+So, there were times
+that when, Jano,
+I'd call him up and I could see his
+eyes were like two little black dots,
+but he hadn't run out the door yet, so I
+knew there was still hope, and he survived.
+ 
+So there he is, Jano's our control,
+science, data acquisition guy.
+He's the guy that is going to be
+responsible and is responsible
+for collecting all the data from
+all the different instruments
+and bringing them in and
+coalescing, you might say,
+and synchronizing the data
+from all the instruments.
+And so here we are at a lab, and
+he's probably looking at...
+So, we have to wire it up.
+And we have to do checks, and
+vacuum checks, and leak tests.
+And then, we have fabrication.
+Now, some say, well you know the
+panel had to be fabricated,
+and I didn't know how to split the
+presentation up into different,
+into the different
+aspects, so, you know,
+the panel did have to be fabricated,
+but when we think of a fabrication,
+we're thinking more on the lines of, you
+know, machining and building and welding.
+That's really cool to see
+how things are made.
+So, when we go to fabricate things,
+ultimately you have to
+get the raw materials,
+and you have to get the parts,
+and they have to be machined,
+and they go on big boring mills, and they
+go, you have to drill holes in them,
+and you have to prepare the holes for
+the feed through and the flanges
+and the glass and all the different
+parts, and this is what it takes to,
+just in the fabrication level.
+And there's a lot of parts.
+And they all have to fit
+together, the first time.
+So, what we're doing
+here right now,
+we're welding the
+flanges into the chamber,
+and we're checking the welds.
+I'll just like the audio
+carry out here for a second.
+ 
+If you have one pin hole,
+you no longer have a stable
+vacuum in your chamber.
+And normally when you
+build a machine this complex,
+you're going to
+have vacuum leaks.
+And we do, at this stage.
+We've got some work to do.
+We may have to go
+and discover,
+we may discover that there's a pin
+hole someplace in one of these welds.
+And we'll have to come back and we'll have
+to plug that weld.
+And then we take delivery.
+It's welded up.
+And this is at Venture
+Machine and DMI Precision.
+We have moved SAFIRE from a laboratory in
+Mississauga to another lab in Mississauga,
+because basically
+we ran out of room.
+And this is the power supply.
+It's a big boy, but it's DC, we have
+extremely low for the electrical people,
+we have extremely low ripple, which
+means that the DC power is very clean,
+which is a requirement of the
+Electric Universe Model,
+because nature expresses
+electricity in DC form not AC,
+although it may be that
+there's responses.
+I'm digressing here, but we take
+delivery, and we're making preparations.
+And part of the
+preparations of course is,
+well, if we've got a scratch on
+the surface that's got a gasket,
+it's got to be polished out.
+And the surface, well, this is Scott, and he
+offered his assistance, free of charge.
+And he asked me, 
+"Do you got a job for me?"
+And I just had the job, and I said,
+"Here's a stone; it's a very fine stone.
+You see this big lip
+across the chamber here?
+Well, if you see any imperfections, see
+if you can you can pull those out,
+because every imperfection means that's
+where we're going to have a gas leak."
+I just let you know Scott, we don't
+have any leaks in the chamber door.
+And this is Leighton MacMillan. He's
+on the team as well. He's not with us,
+but everything has to be
+cleaned with alcohol and
+prepared before you start putting the
+gaskets and the copper rings together.
+This here is the new anode base.
+What you're looking at is the
+bulkhead, services through the anode,
+because at this time around we
+want to be able to bring other,
+we want to cool the anode, ok,
+we want to be able to
+make sure that we didn't
+see some of the failures
+that we saw in Phase 1.
+So, what you're seeing here is a heat
+exchanger, and we have water coming up,
+and we actually can, using a particular
+taper, we can take a new anode
+and shove it in there like
+you do in a drill press,
+and with a small screw
+retain the anode.
+We know from the Computational Fluid
+Dynamics, the thermodynamics,
+that the temperatures are going to
+reach about 1,600 degrees Celsius.
+So, you've got composites that are in
+there, those plastics are going to melt.
+So, we have to get
+that heat away.
+So, we're starting to
+assemble the anode.
+Actually the anode base,
+the receiving base.
+And this is the anode
+isolation chamber
+with it pulled back where we
+can actually put the anode in.
+And what you're looking at
+here, actually, is this good?
+Yeah. This is the
+big gate valve.
+So right now, the chamber can be in
+vacuum, we close this gate valve,
+and well we close it first,
+we pull the anode first, we
+better pull the anode out first.
+OK, then we close the gate valve, and then
+we open up the isolation chamber here,
+so that we can get to the anode and replace
+it, or do whatever kind of work that we want.
+Then we close it back up,
+open up the gate valve,
+and we can bring the anode
+back into the chamber.
+And it works pretty slick.
+This is a cathode.
+This is one cathode.
+There's a coffee cup, but
+kinda give you some scale.
+I didn't mean to leave the coffee cup
+there, but I see that it's there, and
+it's 3 feet in diameter, and the
+copper's about 3/8 of an inch thick.
+And the rings on the
+back are for support,
+because you get that kind of heat as you
+know, with metals it'll start to warp.
+So, we have to have structural
+integrity as well.
+And this is the
+inside of SAFIRE.
+We have a cathodes, the
+anode, instrumentation ports,
+and we're going to be looking
+at some other things,
+and just take you for a tour.
+So Systems.
+We're going to go
+back to systems here.
+And systems is how you get everything
+to talk and work together.
+Electrical, vacuum, water cooling
+systems, there are a lot of systems.
+There are primary vacuum systems;
+there are secondary vacuum systems;
+there's low vacuum and high vacuum;
+there is high voltage systems,
+medium voltage systems, and low
+voltage systems used for controls.
+There are data
+acquisition systems,
+computer numerically controlled-servo systems, air cooling systems.
+ 
+Yes! And there are primary pneumatic
+systems, secondary pneumatic systems,
+gate valves switches, normally open,
+normally closed, indicators lights,
+red lights, green lights, pumps, valves, sensors,
+burst systems, exhaust systems, compressors,
+gas systems, diffusing
+systems, gas analyzing system,
+and an emergency stop big red button
+in case one of the systems fails.
+And I think that's it.
+So it's complex.
+This is the main vacuum pump, and it
+sucks, big time.
+It will It will take the chamber
+down to 10 minus 3 or 2...3,
+10 minus 2 in about 15 minutes.
+OK, if anybody knows about,
+anything about vacuum pumps,
+this is from Oerlikon;
+it's a particular pump.
+The nice thing about this pump is
+that all you have to cool is water,
+because you got your
+water cooling system,
+but you've got nitrogen cooling and
+diffusion line, what's that all about?
+Well, what that's about, is if
+you take a look at the middle,
+it says nitrogen cooling
+and diffusion line,
+it allows us to run hydrogen in the
+chamber, evacuate the hydrogen out,
+and it allows us to introduce nitrogen
+into the exhaust so that it's not dangerous.
+You see?
+So part of that, is part of the
+mass spectrometers measuring
+what the hydrogen content
+is in the exhaust,
+so we don't end up with dangerous fumes
+coming out the exhaust system of the chamber.
+Nice pump, expensive pump, it's
+a really good pump.
+It's a dry pump by the way.
+Now, that's important because we don't
+want any hydrocarbons in the chamber
+other than what we
+want to put in there.
+We don't want oil bleeding back
+through the pump into the chamber,
+which we think we may have
+had a problem Phase 1.
+So, we're not gonna look
+at the cryogenic pump.
+We hear the word "cryogenic"
+and really what it means
+is you bring things down to
+a very cold temperature,
+just a few degrees above absolute
+zero, and it condenses the gas,
+and by doing that we can bring the chamber pressure down even lower.
+Down, theoretically we should be
+able to get down to 10 minus 7,
+but I think operationally in order for us to
+evacuate all the impurities that are in the chamber,
+because we need to do that if we're
+going to do good mass and optical
+and spectral analysis, we need to
+make sure the chamber's clean.
+And there's really not many things
+in the way of moving parts,
+it basically uses helium to bring
+the the the cryo-pump down.
+I mean the temperature of the pump
+down to a place where it condenses the gas.
+We have, if you can see here,
+part of what's going on here,
+we also need to measure...
+In the system, when we talk
+about systems we have one,
+what we call a thermal
+vac pressure sensor,
+because we need to monitor the pressure of
+this system before we actually turn it on.
+So, this is the feedback
+that goes back to SAFCON.
+This is just one.
+We got the cooling
+system, of course,
+and we have to make sure that the
+water that's going into the center of
+SAFIRE is deionized water.
+It doesn't have any
+minerals in it
+because the plasma, the anode
+is charged at 5,000 volts.
+So, we can use water
+as long as it......um.....
+So, we have to deionize the
+water. And the temperatures,
+we need to keep them low; so, we
+use a re-circulation system,
+because we can't afford to just bring
+fresh water in and deionize it.
+Deionized water will not
+conduct electricity.
+So, you can use water
+to cool things down
+as long as it doesn't have
+any mineral content in it.
+And so, we have a high pressure
+pump and manifold system to
+distribute the cooled water out
+to the various characteristics,
+or you might say parts of the
+chamber, to keep them cool.
+And we have a deionizer that actually monitors
+the resistivity of the water as well.
+This will give you an indication
+of the complexities of SAFIRE,
+to make something
+like this work.
+Primary Plasma
+Measurement Instruments
+Well, we've covered this before.
+This is showing the equipment that we have
+either on the floor or it's on route.
+So Langmuir probe.
+It took us about eight months to work out
+with a Langmuir probe manufacturer
+to get the right kind of
+probe manufactured for SAFIRE.
+These probes are approximately 6 feet
+tall, and they're very, very sensitive.
+The section here is
+made of alumina,
+which is like a very
+fragile material,
+but it's extremely good when it comes
+to extremely nasty, hot environments.
+And of course in the past, you've
+seen the optical
+spectrometer that we've been using to
+get some of the signatures that we got,
+and of course the mass
+spectrometer itself.
+Now, the mass spec is probably one of the more
+important pieces of equipment in SAFIRE
+because it tells us what we've got as
+a constituent gas inside the chamber.
+And it'll measure all the
+elements, every 500 milliseconds,
+and return that
+information back to us.
+So, we know that when the chamber has got
+hydrogen in it, or if it's got argon,
+or some other gas, or if we end up
+with some strange species, as some,
+we indicated at last
+year's conference.
+But what we did this time
+is we said look, you know,
+we want to measure in different
+regions in the chamber;
+we want to measure right down near the
+anode; we want to measure the exhaust gas;
+and so we have a system by which
+with just a flip of a switch
+we can sample any area
+of SAFIRE at any time.
+And this is what
+goes on in SAFCON.
+This is what goes on
+in the control room.
+Data Acquisition and
+Systems Control.
+ 
+And no scientific experiment would really be
+complete unless you had a rats nest of wires,
+and communication, and pressure systems,
+and pressure and data acquisition, I mean.
+So, this is Leighton, and
+he is building, the,
+I guess really might say, the
+nervous system of SAFIRE.
+And diagnostics, we
+have to troubleshoot.
+And all this information
+comes back to SAFCON.
+So, we know if there's
+something getting in trouble;
+we know if we got a pressure
+leak, over pressure.
+So, the main power supply,
+as I said before,
+it has a capability of delivering
+200 kilowatts now, DC, clean.
+We can control the voltage, and
+we can control the current.
+And you'll see what happens when
+we didn't control the current.
+ 
+I think this is Joel giving me a lecture;
+Jano's listening intently.
+And this is just before we
+start to do the fire up of SAFIRE,
+which you are going to see
+in just a few minutes here.
+Now for the EU, Don Scott and I've
+talked back and forth a little bit
+about the low energy discharges.
+We can go from 0
+up to 5,000 volts,
+and we can go from 0 up to
+35 amps or better actually,
+but we have some work to
+do to get it refined.
+We have a lot of work to do.
+We just fired up SAFIRE for
+the first time last week.
+The Gimbal,
+As some of you know, it's a
+primary instrument to use
+to move a variety of instruments
+freely through the SAFIRE chamber.
+It's CNC computer
+numerically controlled;
+we have position accuracy to
+almost a thousandth of an inch,
+which means we can move
+the Langmuir probe
+through some of the double
+layers that we've seen,
+and start to examine
+possibly Birkeland Currents,
+and diagnose what's
+actually going on there.
+Maybe we get some answers as to
+why there is charge separation.
+Optical spectroscopy,
+Langmuir probe measurements,
+and other instruments can be
+added and put into the gimbal.
+And here it is here.
+So, last year was a model, and
+now you see the real thing.
+And this will give an indication here,
+I think it should start the movie,
+yes, how smoothly
+the gimbal works.
+So, it's like a long needle and we can
+bring the needle down into the plasma;
+we can move it anywhere we want.
+And we can use it
+using a joystick,
+or we can pre-program different
+types of motions that are in there,
+or different motions
+that we can move.
+If we wanted to move a comet around,
+let's say the anode itself,
+we wanted to move out towards the cathode
+and measure at the anode at the same time.
+There are two gimbals on SAFIRE,
+and the patent was just filed
+on Friday, yesterday actually.
+So, that's pretty cool.
+And this is all within the year.
+So, we've been busy.
+It's pretty tall.
+The gimbal standing
+would be right now,
+I guess from where it's mounted, it'd
+probably be close to 7 feet.
+And now we're going to start up.
+Ben [Ged Low] was kind enough to edit this
+next video we're going to see
+because there are certain
+things that occurred,
+and this is the startup
+of SAFIRE Phase 2.
+Take the voltage down!
+Kill it! Kill it!
+OK, so that was the first day.
+And what I had forgot
+was a little thing
+that Don Scott and a couple
+of us had talked about.
+Instead of limiting the current on the
+first discharge, I was limiting the voltage.
+So, I was thinking, "OK, well, we just want
+to get enough voltage to get it ignited."
+But I should have actually
+limited the current.
+Now, what's missing out of this film here,
+well actually, what I should say is
+what you actually saw at the very end was
+what we call a "plasma flow discharge"
+and it resembles something like
+the Death Star out of Star Wars.
+OK, and what it does is an extremely intense ion
+discharge to wherever it's going and its focus.
+Well, what you don't know,
+what you didn't hear,
+was actually the power supply
+was maxing out of 200 kilowatts
+and the amount of energy
+was impinging on a,
+I thought the chamber of the time,
+but it was a screw this big.
+And what happened was I started,
+you didn't see it in the video,
+but I started to see all
+the stuff flying off, OK.
+And it was actually
+vaporizing the screw.
+I thought it was drilling a hole
+in the side of the chamber.
+So, Ben was kind enough to remove some
+of the colloquialisms I was using
+prior to him saying "shut it off" because
+it was about 30 seconds in there that Joel
+because we didn't actually
+have you know the main control
+actually hooked up inside
+SAFCON at the time.
+It was Joel sitting out and
+standing out by the power supply
+listening to us to please
+turn it up or down,
+and we're all screaming inside because
+we're freaking out because we thought
+we were just going to smoke a new hole in
+SAFIRE, and we haven't even got it started yet.
+So, Day 2, we learned
+a few things.
+We're going to see if we can control the
+current this time and not let it eat
+as much power as it would like. And so
+what you're going to see next was Day 2.
+And that was Day 2.
+So, we thought that
+was pretty cool too.
+We thought okay we've got some good news. And 
+now we can go to the conference and
+tell everyone actually
+it works, which is great.
+Capabilities
+Should we stop to talk now?
+Should we talk about
+capabilities?
+I'm going to fily through these
+quickly because I'm getting that
+OK I've been up here long enough
+and I might be boring you guys.
+You're good?
+OK, OK.
+Well, because now that
+we've got SAFIRE fired up,
+the real work, hard work, science work,
+elucidating cause and effect, starts.
+That's when the Design
+of Experiments starts.
+And we can start to ask some of the
+questions that we have been longing
+to get some answers to
+for a very long time.
+So the capabilities.
+So it has the ability to form a variety
+of spherical plasma discharges.
+And what I will say now I can't
+get into some of the details
+but we do have full control over all
+aspects of the plasma discharge
+according to Paschen's Law.
+If you look into that, we can control
+everything now as a variable for us.
+Now, that's never been
+done before, ever.
+It can move instruments freely
+through the plasma atmosphere.
+It can do synchronous and
+simultaneous measurements.
+We're down to
+picoseconds, by the way.
+So, we can synchronize all the measurements
+that we're taking into picoseconds.
+That should be really important for
+us because, as we move forward,
+there are certain events that happen very
+quickly, and we can capture those events.
+And we can synchronize all the rest of the
+instruments and do graphical overlay,
+and we can see the
+history or what
+what was occurring in the chamber before
+it actually led up to that event.
+This is very important for us to do the
+kind of diagnostics that we need to.
+High-resolution video, materials testing,
+material deposition, erosion test,
+Langmuir probe analysis, optical
+spectroscopy, mass spectroscopy,
+near-ultraviolet light measurements,
+infrared measurements, polarimetry,
+Design of Experiments
+methodology.
+And Questions, questions
+that we have:
+Why do ions and electrons not
+recombine in a double layer?
+Why does ionized hydrogen not go
+back to a stable hydrogen atom
+when it's in a double layer?
+What is the mechanism, what's the
+process, why is it staying like this?
+Why are double layers
+in SAFIRE quasi-stable?
+So, why do we form these spheres,
+and they're quite stable?
+We don't know. We don't
+know why they form;
+we have some ideas but we don't
+know the mechanisms and processes.
+We can recreate them because we
+understand what leads up to them
+but we don't understand
+the physics.
+Why do we get the huge energy
+surges over 10 megawatts?
+Maybe it has to do with
+the paper that Lowell...
+my name is on the paper too,
+I edited some of the things
+but Lowell really is the
+master of that paper
+on ion-electron trapping
+in these double layers.
+And this may be an answer to why the
+Sun's photosphere is so intense;
+maybe why, that's why, there appears to be
+fusion occurring in the Sun's photosphere.
+Are we getting transformation of elements?
+Good question.
+Are we getting more
+energy out than in?
+We could ask that
+question all the time.
+We think now we may be able to
+answer some of these things.
+What does the voltage gradient
+look like before SAFIRE fires?
+We can confirm right now that there is a
+voltage gradient in SAFIRE in Phase 2
+before it actually ignites.
+But we can now go and
+measure that gradient.
+We may even be able to, we may even be
+able to measure the voltage gradient
+before it actually does an intense stream
+plasma discharge to a particular point.
+This is the thing that leads
+up to lightning bolts.
+What's actually the
+environment around there,
+that lightning bolt, before you actually
+see a lightning bolt or plasma discharge.
+So, is the voltage gradient, as an example,
+it is uniform throughout the chamber?
+We can measure these things now:
+x-rays, neutrons, gamma
+rays, and much more.
+And that's really it
+for this presentation.
+So, we will leave you with this.
+What I'm going to do
+right now is invite
+some of the like, really the people
+that have been involved in SAFIRE.
+People that you don't really hear about
+up to the stage, introduce you to them,
+and then I guess we're going to do a
+question-and-answer with just the core team.
+So, thank you! It's
+been a privilege.

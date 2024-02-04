@@ -1,0 +1,617 @@
+[
+  {
+    "text": "The James Webb Space Telescope has been\nsending images to Earth since July 2022",
+    "start": 10.86,
+    "duration": 5.75
+  },
+  {
+    "text": "and has already delivered a startling\nfinding: seeing galaxies orders of magnitude",
+    "start": 16.61,
+    "duration": 6.19
+  },
+  {
+    "text": "brighter in the early Universe than\nastronomers had anticipated.",
+    "start": 22.8,
+    "duration": 4.5
+  },
+  {
+    "text": "The Webb telescope was designed to see\ndeeper into the infrared spectrum of",
+    "start": 27.3,
+    "duration": 4.79
+  },
+  {
+    "text": "light than the Hubble Space Telescope.\nInfrared light does not get as scattered",
+    "start": 32.09,
+    "duration": 4.98
+  },
+  {
+    "text": "by dust and filament clouds as does the\nvisible light spectrum. Consequently,",
+    "start": 37.07,
+    "duration": 5.16
+  },
+  {
+    "text": "photographs of deep space, using the\ninfrared spectrum, reveal many more",
+    "start": 42.23,
+    "duration": 4.87
+  },
+  {
+    "text": "stars hiding in the haze of outer space.\nAdditionally, there is a redshift factor.",
+    "start": 47.1,
+    "duration": 5.76
+  },
+  {
+    "text": "The older the galaxy, the faster it is moving\naway from us, making the Doppler effect",
+    "start": 52.86,
+    "duration": 4.98
+  },
+  {
+    "text": "on the light waves coming from deep space,\nstronger the faster the receding velocity is.",
+    "start": 57.84,
+    "duration": 5.58
+  },
+  {
+    "text": "The Doppler effect is familiar to us in the\nchange of pitch of a train's horn as it passes by.",
+    "start": 63.42,
+    "duration": 6.6
+  },
+  {
+    "text": "As the train moves away from us, the\nsound waves are stretched out, making the",
+    "start": 70.02,
+    "duration": 4.08
+  },
+  {
+    "text": "horn's tone lower. In the case of light,\nthe Doppler effect lowers the received",
+    "start": 74.1,
+    "duration": 4.8
+  },
+  {
+    "text": "light frequency towards the red end of\nthe visible spectrum, and if pronounced",
+    "start": 78.9,
+    "duration": 4.92
+  },
+  {
+    "text": "enough, into the invisible infrared part of the \nspectrum. In order to photograph galaxies that are",
+    "start": 83.82,
+    "duration": 6.11
+  },
+  {
+    "text": "so old that the redshift has moved to\nvisible light wave spectral lines into",
+    "start": 89.93,
+    "duration": 5.17
+  },
+  {
+    "text": "the infrared range, the telescope’s mirror\nand imaging chips are engineered to be",
+    "start": 95.1,
+    "duration": 4.74
+  },
+  {
+    "text": "sensitive to red light and rays that our eyes \ncan't see. In the standard model of cosmology,",
+    "start": 99.84,
+    "duration": 6.66
+  },
+  {
+    "text": "evolutionary cosmologists say the first stars formed 400\nmillion years after the so-called Big Bang and the first",
+    "start": 106.5,
+    "duration": 7.74
+  },
+  {
+    "text": "galaxies then formed a few hundred\nmillion years later. High redshift values",
+    "start": 114.24,
+    "duration": 4.91
+  },
+  {
+    "text": "are a measure of the age of a galaxy, and\nthe degree of shift that the Webb telescope",
+    "start": 119.15,
+    "duration": 4.87
+  },
+  {
+    "text": "is showing, implies that the galaxies\nexisted 180 million years or less after",
+    "start": 124.02,
+    "duration": 5.76
+  },
+  {
+    "text": "the Big Bang, a clear violation of the\ntheory. A galaxy of 180 million years old",
+    "start": 129.78,
+    "duration": 6.53
+  },
+  {
+    "text": "is considered young in a universe that is believed to be\nover 13 billion years old. Following Webb's findings that",
+    "start": 136.31,
+    "duration": 7.87
+  },
+  {
+    "text": "surprisingly mature galaxies are located \nin a very young part of the universe,",
+    "start": 144.18,
+    "duration": 4.22
+  },
+  {
+    "text": "theorists and observers have been\nscrambling to explain them. Reaching back",
+    "start": 148.4,
+    "duration": 4.9
+  },
+  {
+    "text": "to a comparatively young 180 million\nyears after the theoretical Big Bang, the",
+    "start": 153.3,
+    "duration": 5.76
+  },
+  {
+    "text": "telescope found some galaxies with large\nfully formed disk-like structures that",
+    "start": 159.06,
+    "duration": 4.8
+  },
+  {
+    "text": "were not expected to exist so early in cosmic history.\nStacy McGaugh, cosmologist Case Western",
+    "start": 163.86,
+    "duration": 7.73
+  },
+  {
+    "text": "Reserve University, was quoted in the\nSeptember 14, 2022 Scientific American",
+    "start": 171.59,
+    "duration": 6.07
+  },
+  {
+    "text": "saying, “We should see lots of these\nlittle protogalactic fragments that have",
+    "start": 177.66,
+    "duration": 5.15
+  },
+  {
+    "text": "not yet merged to make a big galaxy. Instead,\nwe're seeing a few things that are already big galaxies.”",
+    "start": 182.81,
+    "duration": 8.28
+  },
+  {
+    "text": "Early proto-galaxies are expected to be\nsmall, dim, and thinly populated fuzzy",
+    "start": 191.09,
+    "duration": 5.64
+  },
+  {
+    "text": "blobs of stars, but what is seen are\nfully formed and evolved galaxies, well",
+    "start": 196.73,
+    "duration": 5.11
+  },
+  {
+    "text": "defined with spiral arms, and many times\nthe size and energy of our Milky Way galaxy.",
+    "start": 201.84,
+    "duration": 6.53
+  },
+  {
+    "text": "The Einsteinian gravity-fed Standard\nModel of the Universe's evolution is",
+    "start": 208.37,
+    "duration": 5.89
+  },
+  {
+    "text": "falling under the wheels of increasing\nobservational resolution factors, greater",
+    "start": 214.26,
+    "duration": 4.86
+  },
+  {
+    "text": "levels of detail from which to extract\npredictive patterns. This is science in",
+    "start": 219.12,
+    "duration": 5.1
+  },
+  {
+    "text": "action, doing what it is supposed to do,\nmake new discoveries, not validate old ideas.",
+    "start": 224.22,
+    "duration": 6.48
+  },
+  {
+    "text": "This is the Platonic underpinning of\nscientific method, the replacement of old",
+    "start": 230.7,
+    "duration": 4.5
+  },
+  {
+    "text": "hypotheses by new and better ones.\nWhen science refuses to be updated, it",
+    "start": 235.2,
+    "duration": 5.75
+  },
+  {
+    "text": "ceases to be science and begins to resemble an\nauthoritarian cult, a collection of fetishes.",
+    "start": 240.95,
+    "duration": 7.14
+  },
+  {
+    "text": "Mainstream astronomers, instead of being\nexcited about new discovery, act like",
+    "start": 248.09,
+    "duration": 5.05
+  },
+  {
+    "text": "they were caught flat-footed and not at\nall happy about a 10 billion dollar",
+    "start": 253.14,
+    "duration": 4.25
+  },
+  {
+    "text": "investment that appears to have paid off.\nWhen Michael Boylan Kolchin, theoretical",
+    "start": 257.39,
+    "duration": 7.11
+  },
+  {
+    "text": "astrophysicists, University of Texas Austin\nsaid in Science Journal, 12 August 2022,",
+    "start": 264.5,
+    "duration": 6.46
+  },
+  {
+    "text": "”No one was expecting anything like this.”\nOne can only ask, why the heck not. The",
+    "start": 270.96,
+    "duration": 6.23
+  },
+  {
+    "text": "entire point of science is to toss obsolete ideas\ninto the dustbin of history. This is precisely what",
+    "start": 277.19,
+    "duration": 6.19
+  },
+  {
+    "text": "scientists should be prepared to expect.\nIt is unsure whether current galaxy",
+    "start": 283.38,
+    "duration": 5.03
+  },
+  {
+    "text": "formation models need a revision, or\nabandonment. One can only marvel at the",
+    "start": 288.41,
+    "duration": 5.05
+  },
+  {
+    "text": "kluging of band-aid concepts to paper\nover observations that were unexpected.",
+    "start": 293.46,
+    "duration": 5.82
+  },
+  {
+    "text": "The invocation of dark matter and dark\nenergy in the face of the failure of",
+    "start": 299.28,
+    "duration": 4.38
+  },
+  {
+    "text": "Einsteinian empty space to account for\nthe high rotational speeds of galaxies,",
+    "start": 303.66,
+    "duration": 4.74
+  },
+  {
+    "text": "seems more like a parlor conjurer’s\n’rabbit in a hat-trick’ than a science",
+    "start": 308.4,
+    "duration": 4.73
+  },
+  {
+    "text": "eager for a better understanding, even if\nit dynamites cherished canards like the",
+    "start": 313.13,
+    "duration": 5.28
+  },
+  {
+    "text": "Big Bang Theory and black holes.\nModels hold that gas clouds should be",
+    "start": 318.41,
+    "duration": 6.0
+  },
+  {
+    "text": "far slower to coalesce into stars and\ngalaxies than is suggested by the Webb’s",
+    "start": 324.41,
+    "duration": 4.45
+  },
+  {
+    "text": "galaxy-rich images of the early universe,\nless than 500 million years after the Big Bang.",
+    "start": 328.86,
+    "duration": 6.54
+  },
+  {
+    "text": "In questioning the validity of Big Bang,\nPaul J. Steinhardt, Professor of physics,",
+    "start": 335.4,
+    "duration": 6.12
+  },
+  {
+    "text": "Director of the Princeton Center for\ntheoretical science in Scientific",
+    "start": 341.52,
+    "duration": 4.56
+  },
+  {
+    "text": "American, September 28, 2017, calls for\nreconsideration of the cosmic inflation",
+    "start": 346.08,
+    "duration": 5.88
+  },
+  {
+    "text": "theory, or Big Bang as it has come to be\nknown. He states, “The cosmology community",
+    "start": 351.96,
+    "duration": 6.12
+  },
+  {
+    "text": "has not taken a cold, honest look at the\nBig Bang inflationary theory or paid",
+    "start": 358.08,
+    "duration": 5.28
+  },
+  {
+    "text": "significant attention to critics who\nquestion whether inflation happened.”",
+    "start": 363.36,
+    "duration": 4.98
+  },
+  {
+    "text": "But even before the experts could start\nincorporating the Webb telescope data",
+    "start": 368.34,
+    "duration": 4.44
+  },
+  {
+    "text": "into their interpretive frameworks when\nthe first Webb telescope pictures were",
+    "start": 372.78,
+    "duration": 3.9
+  },
+  {
+    "text": "only days old, astronomers from the\nUniversity of Edinburgh in Scotland,",
+    "start": 376.68,
+    "duration": 4.14
+  },
+  {
+    "text": "announced that they had found a galaxy\nwith the incredible value of 17z. That",
+    "start": 380.82,
+    "duration": 5.76
+  },
+  {
+    "text": "value would indicate that this galaxy\nhad a redshift of 17, which would mean",
+    "start": 386.58,
+    "duration": 5.16
+  },
+  {
+    "text": "this galaxy existed only 220 million\nyears after the Big Bang. The galaxy",
+    "start": 391.74,
+    "duration": 6.44
+  },
+  {
+    "text": "CEERS-1749, but popularly called\nSchrodinger's Galaxy, shows in addition",
+    "start": 398.18,
+    "duration": 7.23
+  },
+  {
+    "text": "to its unusual age, a huge mass which means\nthat there are a lot of stars in the galaxy.",
+    "start": 405.41,
+    "duration": 7.15
+  },
+  {
+    "text": "So, the oldest galaxy in the universe is\nanything but a small cluster of stars",
+    "start": 412.56,
+    "duration": 4.91
+  },
+  {
+    "text": "that might have formed shortly after the\nBig Bang. With 5 billion solar masses,",
+    "start": 417.47,
+    "duration": 5.0
+  },
+  {
+    "text": "Schrodinger's Galaxy is about five times\nmore massive than our Milky Way.",
+    "start": 422.47,
+    "duration": 5.41
+  },
+  {
+    "text": "Schrodinger's also exhibits an enormous\nluminosity. The galaxy’s brightness is much",
+    "start": 427.88,
+    "duration": 5.31
+  },
+  {
+    "text": "too high for one that existed only 220\nmillion years after the Big Bang.",
+    "start": 433.19,
+    "duration": 5.67
+  },
+  {
+    "text": "Tomamaso Treu, Professor of physics, UC\nSanta Barbara, echoes the consensus of",
+    "start": 438.86,
+    "duration": 6.22
+  },
+  {
+    "text": "consternation when he said in the October\n2022 Astrophysical Journal Letters,",
+    "start": 445.08,
+    "duration": 6.23
+  },
+  {
+    "text": "”Somehow, the universe has managed to form\ngalaxies faster and earlier than we thought.”",
+    "start": 451.31,
+    "duration": 6.91
+  },
+  {
+    "text": "The Webb telescope images from NASA also\nunexpectedly reveal for the first time",
+    "start": 458.22,
+    "duration": 5.52
+  },
+  {
+    "text": "barred spiral galaxies located at a time\nwhen the universe was a mere 25 percent",
+    "start": 463.74,
+    "duration": 5.88
+  },
+  {
+    "text": "of its present age. Barred spiral\ngalaxies, similar to our Milky Way, are",
+    "start": 469.62,
+    "duration": 5.51
+  },
+  {
+    "text": "considered to be a mature, not a young\ngalaxy type, in fact to have evolved from",
+    "start": 475.13,
+    "duration": 5.46
+  },
+  {
+    "text": "normal spiral galaxies, making them an \nolder and more evolved galaxy type.",
+    "start": 480.59,
+    "duration": 6.31
+  },
+  {
+    "text": "Garth Illingworth, Professor of Astronomy\nand Astrophysics, UC Santa Cruz, in the 9",
+    "start": 486.9,
+    "duration": 5.82
+  },
+  {
+    "text": "August 2022 issue of Science Journal,\nexclaimed, ”This is way outside the box of what",
+    "start": 492.72,
+    "duration": 6.72
+  },
+  {
+    "text": "models were predicting.” One can only hope that\nthe new box Illingsworth and his colleagues are",
+    "start": 499.44,
+    "duration": 6.65
+  },
+  {
+    "text": "busily constructing, will be one capable of expansion.\nIt will be interesting to see how the",
+    "start": 506.09,
+    "duration": 7.32
+  },
+  {
+    "text": "’engine of orthodoxy’ integrates this new\ndata which is very recent, and not fully",
+    "start": 513.41,
+    "duration": 5.04
+  },
+  {
+    "text": "metabolized by the ‘ivory tower’. Whatever the outcome,\nit is certain that the cosmological discourse will",
+    "start": 518.45,
+    "duration": 7.03
+  },
+  {
+    "text": "gravitate away from Einstein's ‘space-is- empty’\ngravity model. Since that hypothesis has been defended",
+    "start": 525.48,
+    "duration": 6.35
+  },
+  {
+    "text": "for decades as unquestionable truth by\nthe vast majority of cosmological",
+    "start": 531.83,
+    "duration": 4.27
+  },
+  {
+    "text": "theorists, the new data is causing these theorists\nto panic. Based on the published literature right",
+    "start": 536.1,
+    "duration": 7.32
+  },
+  {
+    "text": "now, the Big Bang makes 15 wrong\npredictions, and only one right one,",
+    "start": 543.42,
+    "duration": 4.68
+  },
+  {
+    "text": "the abundance of deuterium, an isotope of \nhydrogen. In the 27 July, 2022 Nature Journal,",
+    "start": 548.1,
+    "duration": 9.66
+  },
+  {
+    "text": "Alison Kirkpatrick, Assistant Professor,\nDepartment of Physics and Astronomy,",
+    "start": 557.76,
+    "duration": 5.34
+  },
+  {
+    "text": "University of Kansas, Lawrence, appears to\nbe not having much luck wrapping her",
+    "start": 563.1,
+    "duration": 5.16
+  },
+  {
+    "text": "head around the new Webb data.\nQuote, “Right now I find myself lying",
+    "start": 568.26,
+    "duration": 5.1
+  },
+  {
+    "text": "awake at three in the morning and wondering\nif everything I've done is wrong....”",
+    "start": 573.36,
+    "duration": 5.15
+  },
+  {
+    "text": "Dr. Sabine Hossenfelder, Research Fellow,\nFrankfurt Institute for Advanced Studies,",
+    "start": 578.51,
+    "duration": 5.35
+  },
+  {
+    "text": "has been wondering the same thing. Even\nbefore the Webb data entered the fray in",
+    "start": 583.86,
+    "duration": 5.34
+  },
+  {
+    "text": "this panel discussion from 2021\nsponsored by The Institute of Art and",
+    "start": 589.2,
+    "duration": 4.92
+  },
+  {
+    "text": "Ideas.  “...and that's exactly what I mean\nwhen I say we have a problem with theory",
+    "start": 594.12,
+    "duration": 3.71
+  },
+  {
+    "text": "development. Because you have all these\ntheorists, they literally guess their",
+    "start": 597.83,
+    "duration": 4.56
+  },
+  {
+    "text": "models and it just leads nowhere. And I really think\nthat theoretical physicists have to have a hard look at",
+    "start": 602.39,
+    "duration": 8.71
+  },
+  {
+    "text": "their methods of theory development,\nand throughout what didn't work. We talk",
+    "start": 611.1,
+    "duration": 4.98
+  },
+  {
+    "text": "about the scientific method as if it was\na fixed thing. But it's a living and",
+    "start": 616.08,
+    "duration": 4.92
+  },
+  {
+    "text": "evolving thing and what counts as good\nscience at one point in history,",
+    "start": 621.0,
+    "duration": 4.5
+  },
+  {
+    "text": "might no longer count as good science a hundred\nyears later.” Dr. Hossenfelder is an example of a",
+    "start": 625.5,
+    "duration": 7.08
+  },
+  {
+    "text": "scientist doing what they should all be\ndoing: protecting the scientific method",
+    "start": 632.58,
+    "duration": 4.19
+  },
+  {
+    "text": "and its process of hypothesis formation.\nWill this predictive failure of the",
+    "start": 636.77,
+    "duration": 4.99
+  },
+  {
+    "text": "accepted cosmology reinvigorate discussion towards\nalternative cosmologies? What I mean specifically are",
+    "start": 641.76,
+    "duration": 7.38
+  },
+  {
+    "text": "the steady state theories of William\nDuncan MacMillan, Hermann Bondi, Thomas",
+    "start": 649.14,
+    "duration": 4.62
+  },
+  {
+    "text": "Gold and Fred Hoyle. And of course,\nthe Electric Universe model of Wal",
+    "start": 653.76,
+    "duration": 4.86
+  },
+  {
+    "text": "Thornhill, Don Scott, Dave Talbot, Ev\nCochrane, Dwardu Cardona, Michael",
+    "start": 658.62,
+    "duration": 4.98
+  },
+  {
+    "text": "Armstrong and Mel Atchison, to name a few.\nPerhaps a cosmology of the future is",
+    "start": 663.6,
+    "duration": 6.72
+  },
+  {
+    "text": "already here, although not yet acknowledged in the\nmainstream. The field is entirely wide open for",
+    "start": 670.32,
+    "duration": 6.54
+  },
+  {
+    "text": "those curious enough to invest the energy to think.\nThe EU model of cosmology represents a",
+    "start": 676.86,
+    "duration": 7.26
+  },
+  {
+    "text": "change in the categories of astrophysics,\nand most important the methodology of",
+    "start": 684.12,
+    "duration": 4.8
+  },
+  {
+    "text": "thought, which must drill these new ideas into\nthe lockstep mind of conventional science.",
+    "start": 688.92,
+    "duration": 5.39
+  },
+  {
+    "text": "[Music]",
+    "start": 694.31,
+    "duration": 5.18
+  },
+  {
+    "text": "[Music]",
+    "start": 701.94,
+    "duration": 27.27
+  }
+]

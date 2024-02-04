@@ -1,0 +1,927 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe,",
+    "start": 7.173,
+    "duration": 2.873
+  },
+  {
+    "text": "brought to you by The\nThunderbolts Project™",
+    "start": 10.071,
+    "duration": 2.363
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 12.459,
+    "duration": 2.941
+  },
+  {
+    "text": "Scientists on Earth are\nagain being reminded",
+    "start": 16.355,
+    "duration": 2.645
+  },
+  {
+    "text": "of the awesome power of\ndust storms on Mars.",
+    "start": 19.025,
+    "duration": 3.333
+  },
+  {
+    "text": "The first stirrings of what has become\na globe-encompassing phenomenon",
+    "start": 22.383,
+    "duration": 3.932
+  },
+  {
+    "text": "began on June 17th",
+    "start": 26.34,
+    "duration": 1.507
+  },
+  {
+    "text": "when a dust storm touched down\non the famous Gale Crater.",
+    "start": 27.872,
+    "duration": 3.579
+  },
+  {
+    "text": "For several decades such remarkably\nenergetic Martian storms",
+    "start": 31.476,
+    "duration": 4.497
+  },
+  {
+    "text": "have posed enigmas that\nmeteorologists have yet to resolve.",
+    "start": 35.998,
+    "duration": 3.864
+  },
+  {
+    "text": "Mars's atmosphere is only slightly more\nthan 1/2 of 1% as dense as Earth's",
+    "start": 39.887,
+    "duration": 6.306
+  },
+  {
+    "text": "yet Mars has towering\ndust tornadoes",
+    "start": 46.218,
+    "duration": 2.685
+  },
+  {
+    "text": "some the size of Mount Everest",
+    "start": 48.928,
+    "duration": 2.044
+  },
+  {
+    "text": "and global dust storms that dwarf anything\never witnessed on our own planet.",
+    "start": 50.997,
+    "duration": 4.827
+  },
+  {
+    "text": "In such a tenuous atmosphere,",
+    "start": 55.849,
+    "duration": 1.825
+  },
+  {
+    "text": "how is dust removed from the soil\nand accelerated into massive clouds",
+    "start": 57.699,
+    "duration": 4.508
+  },
+  {
+    "text": "circling the planet up to 40\nmiles or more above the surface?",
+    "start": 62.232,
+    "duration": 3.983
+  },
+  {
+    "text": "What holds the dust aloft?",
+    "start": 66.24,
+    "duration": 2.549
+  },
+  {
+    "text": "What accelerates the winds and dust across\nthe near vacuum of Mars's upper atmosphere",
+    "start": 68.814,
+    "duration": 5.498
+  },
+  {
+    "text": "to speeds greater than\n250 miles per hour?",
+    "start": 74.337,
+    "duration": 3.527
+  },
+  {
+    "text": "NASA scientists first witnessed\nsuch an awesome event in 1971",
+    "start": 77.889,
+    "duration": 4.55
+  },
+  {
+    "text": "when Mariner 9 became the first\nspace probe to orbit Mars.",
+    "start": 82.464,
+    "duration": 3.943
+  },
+  {
+    "text": "In the subsequent\nnearly half century,",
+    "start": 86.432,
+    "duration": 2.382
+  },
+  {
+    "text": "mainstream planetary science\nhas shown little progress",
+    "start": 88.839,
+    "duration": 3.356
+  },
+  {
+    "text": "in deciphering the\nmany mysteries",
+    "start": 92.22,
+    "duration": 2.063
+  },
+  {
+    "text": "these and many others strange natural\nevents on the red planet present.",
+    "start": 94.308,
+    "duration": 4.601
+  },
+  {
+    "text": "For many years, The Thunderbolts\nProject has offered detailed analysis",
+    "start": 98.934,
+    "duration": 4.256
+  },
+  {
+    "text": "on the role of electricity\nin our solar system",
+    "start": 103.215,
+    "duration": 2.354
+  },
+  {
+    "text": "and its connection to planetary\natmospheric and weather phenomena.",
+    "start": 105.594,
+    "duration": 4.098
+  },
+  {
+    "text": "This analysis has\nmade many predictions",
+    "start": 109.717,
+    "duration": 2.402
+  },
+  {
+    "text": "which continue to receive\nstunning confirmation.",
+    "start": 112.144,
+    "duration": 3.103
+  },
+  {
+    "text": "To understand the global\nMartian dust storms",
+    "start": 115.272,
+    "duration": 3.363
+  },
+  {
+    "text": "it's first necessary to explore\nthe undeniable electrical nature",
+    "start": 118.66,
+    "duration": 3.907
+  },
+  {
+    "text": "of another type of dramatic\ndust raising event,",
+    "start": 122.592,
+    "duration": 2.686
+  },
+  {
+    "text": "a Martian dust devil.",
+    "start": 125.303,
+    "duration": 2.028
+  },
+  {
+    "text": "The so-called dust devils\non Mars are truly alien",
+    "start": 127.356,
+    "duration": 3.027
+  },
+  {
+    "text": "when compared to dust\ndevils on our own planet.",
+    "start": 130.408,
+    "duration": 3.093
+  },
+  {
+    "text": "These monstruous formations are typically\nkilometers high and hundreds of metres wide",
+    "start": 133.526,
+    "duration": 5.593
+  },
+  {
+    "text": "or approximately ten times\nlarger than any earthly tornado.",
+    "start": 139.144,
+    "duration": 4.048
+  },
+  {
+    "text": "The tremendous electric fields\nassociated with the phenomena",
+    "start": 143.217,
+    "duration": 3.438
+  },
+  {
+    "text": "have been acknowledged by\nNASA for well over a decade.",
+    "start": 146.68,
+    "duration": 3.237
+  },
+  {
+    "text": "In 2005, the Space Agency issued\na news release which declared,",
+    "start": 149.942,
+    "duration": 5.043
+  },
+  {
+    "text": "\"When humans visit Mars,",
+    "start": 155.01,
+    "duration": 1.868
+  },
+  {
+    "text": "they'll have to watch out for\ntowering electrified dust devils.\"",
+    "start": 156.879,
+    "duration": 3.816
+  },
+  {
+    "text": "Unfortunately, mainstream planetary\nscientists can only theorize",
+    "start": 160.72,
+    "duration": 4.58
+  },
+  {
+    "text": "that the electric fields are ultimately caused\nby the mechanical energy of air convection.",
+    "start": 165.325,
+    "duration": 5.463
+  },
+  {
+    "text": "The NASA release states,",
+    "start": 170.813,
+    "duration": 1.968
+  },
+  {
+    "text": "\"Dust devils get their charge from grains of\nsand and dust rubbing together in the whirlwind.",
+    "start": 172.806,
+    "duration": 5.102
+  },
+  {
+    "text": "When certain pairs of unlike\nmaterials rub together,",
+    "start": 177.909,
+    "duration": 3.329
+  },
+  {
+    "text": "one material gives up\nsome of its electrons",
+    "start": 181.263,
+    "duration": 2.55
+  },
+  {
+    "text": "(negative charges) to\nthe other material...",
+    "start": 183.838,
+    "duration": 2.571
+  },
+  {
+    "text": "Smaller dust particles\ntend to charge negative",
+    "start": 186.434,
+    "duration": 3.07
+  },
+  {
+    "text": "taking away electrons from\nthe larger sand grains.\"",
+    "start": 189.529,
+    "duration": 3.409
+  },
+  {
+    "text": "And here we see a fundamental\nconfusion of cause and effect.",
+    "start": 192.963,
+    "duration": 3.766
+  },
+  {
+    "text": "As physicist Wal\nThornhill wrote in 2004,",
+    "start": 196.754,
+    "duration": 3.32
+  },
+  {
+    "text": "\"...in an electrified universe charge is\nalready separated on the macroscopic scale",
+    "start": 200.099,
+    "duration": 5.433
+  },
+  {
+    "text": "and the movement of air in a dust devil\nis an effect of charge recombination,",
+    "start": 205.557,
+    "duration": 4.415
+  },
+  {
+    "text": "not a cause of\ncharge separation.\"",
+    "start": 209.997,
+    "duration": 2.736
+  },
+  {
+    "text": "With such low\natmospheric pressure",
+    "start": 212.758,
+    "duration": 2.676
+  },
+  {
+    "text": "how does one account for the dust\nparticles leaving the surface?",
+    "start": 215.459,
+    "duration": 3.716
+  },
+  {
+    "text": "For decades, the Electric\nUniverse community",
+    "start": 219.2,
+    "duration": 2.814
+  },
+  {
+    "text": "has developed experimental research\non electrostatic dust transport",
+    "start": 222.039,
+    "duration": 4.205
+  },
+  {
+    "text": "which can provide great\ninsights into everything",
+    "start": 226.269,
+    "duration": 2.626
+  },
+  {
+    "text": "from the collimated jet\nseen exploding from comets",
+    "start": 228.92,
+    "duration": 3.241
+  },
+  {
+    "text": "to the dust storms on\nMars and other worlds.",
+    "start": 232.186,
+    "duration": 3.276
+  },
+  {
+    "text": "In 2001 Thornhill wrote,",
+    "start": 235.487,
+    "duration": 2.445
+  },
+  {
+    "text": "\"When I was doing experiments on\nelectric discharges to a clay surface",
+    "start": 237.957,
+    "duration": 4.551
+  },
+  {
+    "text": "there was an electric wind effect\nthat would blow away all of the dust",
+    "start": 242.533,
+    "duration": 3.649
+  },
+  {
+    "text": "and loose particles from the surface\nbefore any arcing took place.",
+    "start": 246.207,
+    "duration": 3.918
+  },
+  {
+    "text": "When the diffuse\ndischarge is big enough",
+    "start": 250.15,
+    "duration": 2.462
+  },
+  {
+    "text": "it will rotate causing\na tornado effect.",
+    "start": 252.637,
+    "duration": 2.879
+  },
+  {
+    "text": "We have seen but not recognized\nelectric winds on Mars.",
+    "start": 255.541,
+    "duration": 4.051
+  },
+  {
+    "text": "Mars has no counterpart\nof thunderclouds",
+    "start": 259.617,
+    "duration": 2.772
+  },
+  {
+    "text": "to provide a convenient path to\nground for electrical differences",
+    "start": 262.414,
+    "duration": 3.492
+  },
+  {
+    "text": "between the ionosphere\nand the planet.",
+    "start": 265.931,
+    "duration": 2.236
+  },
+  {
+    "text": "As a result more diffuse and\nvery tall discharges must occur,",
+    "start": 268.192,
+    "duration": 4.718
+  },
+  {
+    "text": "giving rise to an\nelectrical vortex",
+    "start": 272.935,
+    "duration": 2.247
+  },
+  {
+    "text": "that manifests by the material rays from\nthe surface into the thin atmosphere.\"",
+    "start": 275.207,
+    "duration": 4.593
+  },
+  {
+    "text": "In June of 2001 the greatest dust\nstorm ever witnessed on Mars began",
+    "start": 279.825,
+    "duration": 5.657
+  },
+  {
+    "text": "and did not start to subside\nfor a full 4 months.",
+    "start": 285.507,
+    "duration": 3.392
+  },
+  {
+    "text": "In 2005 the Thunderbolts.info website\npublished a Picture Of the Day article",
+    "start": 288.924,
+    "duration": 5.474
+  },
+  {
+    "text": "that made two completely unconventional\npredictions about such dust storms.",
+    "start": 294.423,
+    "duration": 4.994
+  },
+  {
+    "text": "As noted in the 2007 article",
+    "start": 299.442,
+    "duration": 2.836
+  },
+  {
+    "text": "'Martian Dust Devils ―\nPrediction Confirmed'",
+    "start": 302.303,
+    "duration": 3.058
+  },
+  {
+    "text": "taking a pointer from\nWallace Thornhill",
+    "start": 305.386,
+    "duration": 2.403
+  },
+  {
+    "text": "we asserted that the global dust\nstorm that engulfed the planet Mars",
+    "start": 307.814,
+    "duration": 3.657
+  },
+  {
+    "text": "in August and September of 2001 involved\na packed assembly of dust devils",
+    "start": 311.496,
+    "duration": 5.011
+  },
+  {
+    "text": "carrying great volumes of Martian\ndust into billowing clouds.",
+    "start": 316.532,
+    "duration": 4.212
+  },
+  {
+    "text": "Since publication of that TPOD,",
+    "start": 320.769,
+    "duration": 2.369
+  },
+  {
+    "text": "a review of dust storm images from the\nMars Global Surveyor and from THEMIS",
+    "start": 323.139,
+    "duration": 4.918
+  },
+  {
+    "text": "together with the systematic study\nof related phenomena on Mars",
+    "start": 328.082,
+    "duration": 3.882
+  },
+  {
+    "text": "has confirmed that our\nstatement was accurate",
+    "start": 331.989,
+    "duration": 2.837
+  },
+  {
+    "text": "and yet it is also clear that the concept\nof compact \"dust devil congregations\"",
+    "start": 334.851,
+    "duration": 5.686
+  },
+  {
+    "text": "could only appear absurd\nto conventional schools.",
+    "start": 340.538,
+    "duration": 3.252
+  },
+  {
+    "text": "In standard theory an atmospheric vortex\nrequires a vastly larger circulation of wind,",
+    "start": 343.815,
+    "duration": 6.301
+  },
+  {
+    "text": "a condition that precludes\nwhat seems clearly to be seen",
+    "start": 350.141,
+    "duration": 3.14
+  },
+  {
+    "text": "in edge-on pictures of\n\"storm fronts\" on Mars.",
+    "start": 353.306,
+    "duration": 3.903
+  },
+  {
+    "text": "This image shows\napparent vortices,",
+    "start": 357.234,
+    "duration": 2.714
+  },
+  {
+    "text": "a word that would not be\nused by NASA scientists",
+    "start": 359.949,
+    "duration": 3.117
+  },
+  {
+    "text": "rising into billowing clouds from the margins of\nthe south polar ice cap in the Martian summer.",
+    "start": 363.091,
+    "duration": 5.705
+  },
+  {
+    "text": "The caption accompanying\nthe release reads,",
+    "start": 368.821,
+    "duration": 3.012
+  },
+  {
+    "text": "\"Like billowing smoke\nfrom a brush fire,",
+    "start": 371.858,
+    "duration": 2.674
+  },
+  {
+    "text": "clouds of dust are seen streaming off the\nedge of the Martian south polar cap.\"",
+    "start": 374.557,
+    "duration": 4.949
+  },
+  {
+    "text": "The same 2005 Thunderbolts article\nsummarized the electrical cause",
+    "start": 379.531,
+    "duration": 4.676
+  },
+  {
+    "text": "of the massive Martian\ndust storms as follows,",
+    "start": 384.232,
+    "duration": 3.108
+  },
+  {
+    "text": "\"Since Mars has no thunderstorms to\n'charge up its ionosphere',",
+    "start": 387.365,
+    "duration": 4.428
+  },
+  {
+    "text": "it should present a good case\nstudy of the Electric Universe.",
+    "start": 391.818,
+    "duration": 3.232
+  },
+  {
+    "text": "The electrical model predicts that the\nMartian ionosphere is indeed charged,",
+    "start": 395.075,
+    "duration": 4.528
+  },
+  {
+    "text": "and it posits no isolated\ndynamo to 'separate charge'.",
+    "start": 399.628,
+    "duration": 4.655
+  },
+  {
+    "text": "On Mars, electrical effects will reach\ndirectly from the ionosphere to the surface",
+    "start": 404.308,
+    "duration": 5.102
+  },
+  {
+    "text": "without the ameliorating leakage via\nstorm clouds that we see on Earth.",
+    "start": 409.435,
+    "duration": 4.33
+  },
+  {
+    "text": "Unlike radiant\nenergy from the Sun,",
+    "start": 413.79,
+    "duration": 2.402
+  },
+  {
+    "text": "electrical energy can accumulate in the\nplanetary capacitor for some time,",
+    "start": 416.217,
+    "duration": 4.634
+  },
+  {
+    "text": "with the potential for\nplanet altering events",
+    "start": 420.876,
+    "duration": 2.562
+  },
+  {
+    "text": "when the atmosphere\nfinally breaks down",
+    "start": 423.439,
+    "duration": 2.417
+  },
+  {
+    "text": "and massive discharge\nactivity is initiated...",
+    "start": 425.881,
+    "duration": 2.874
+  },
+  {
+    "text": "At the same time the electric currents\nflowing in the Martian ionosphere",
+    "start": 428.78,
+    "duration": 4.467
+  },
+  {
+    "text": "will drive the high-speed winds\nin the upper atmosphere.\"",
+    "start": 433.272,
+    "duration": 3.673
+  },
+  {
+    "text": "The article then offered a second\nextremely radical prediction",
+    "start": 436.97,
+    "duration": 4.069
+  },
+  {
+    "text": "about global Martian\ndust storms. It stated,",
+    "start": 441.064,
+    "duration": 3.221
+  },
+  {
+    "text": "\"There is also another aspect to the\ninterplanetary circuitry affecting Mars.",
+    "start": 444.31,
+    "duration": 5.297
+  },
+  {
+    "text": "The greatest storm on Mars in 2001 occurred\nwhen the planet was nearing perihelion",
+    "start": 449.632,
+    "duration": 5.723
+  },
+  {
+    "text": "and was the closest it had been\nto Earth in about 12 years.",
+    "start": 455.38,
+    "duration": 3.877
+  },
+  {
+    "text": "At that time it was also being 'tickled'\nby the Earth's plasma sheath,",
+    "start": 459.282,
+    "duration": 4.758
+  },
+  {
+    "text": "establishing a temporary electrical\nconnection between Earth and Mars",
+    "start": 464.065,
+    "duration": 3.995
+  },
+  {
+    "text": "for the transfer of charge.",
+    "start": 468.085,
+    "duration": 1.891
+  },
+  {
+    "text": "It seems that Mars responded with an\noutburst of atmospheric discharges,",
+    "start": 470.001,
+    "duration": 4.599
+  },
+  {
+    "text": "these taking the form of\nmonstrous dust devils",
+    "start": 474.625,
+    "duration": 3.263
+  },
+  {
+    "text": "- or more accurately,\nelectrical tornados.\"",
+    "start": 477.913,
+    "duration": 3.27
+  },
+  {
+    "text": "Today as massive dust storms are\nagain encircling the Red Planet",
+    "start": 481.208,
+    "duration": 4.81
+  },
+  {
+    "text": "science headlines have announced\nanother crucial fact about Mars",
+    "start": 486.019,
+    "duration": 3.793
+  },
+  {
+    "text": "though no one outside of the\nElectric Universe community",
+    "start": 489.837,
+    "duration": 3.119
+  },
+  {
+    "text": "appears to have noticed\nthe connection.",
+    "start": 492.981,
+    "duration": 2.188
+  },
+  {
+    "text": "Just as in 2001, today Mars is again\napproaching perihelic opposition",
+    "start": 495.194,
+    "duration": 6.056
+  },
+  {
+    "text": "and by late July it will make its\nclosest approach to Earth in 15 years.",
+    "start": 501.275,
+    "duration": 5.299
+  },
+  {
+    "text": "One such convergence of circumstances\ncould be considered coincidence",
+    "start": 506.599,
+    "duration": 4.339
+  },
+  {
+    "text": "but a second instance\ndemands closer examination.",
+    "start": 510.939,
+    "duration": 3.565
+  },
+  {
+    "text": "Of course the Electric Universe also\npredicts that dramatic solar activity",
+    "start": 514.529,
+    "duration": 4.826
+  },
+  {
+    "text": "in the form of coronal\nmass ejections",
+    "start": 519.38,
+    "duration": 2.549
+  },
+  {
+    "text": "can provoke electrical\ndischarges from celestial bodies",
+    "start": 521.954,
+    "duration": 2.967
+  },
+  {
+    "text": "that move within the\nSun's electrical domain",
+    "start": 524.946,
+    "duration": 2.664
+  },
+  {
+    "text": "including comets\nand even planets.",
+    "start": 527.635,
+    "duration": 2.755
+  },
+  {
+    "text": "Such a display was in fact\nseen on Mars in recent years",
+    "start": 530.415,
+    "duration": 4.166
+  },
+  {
+    "text": "to planetary scientists'\ncomplete bafflement.",
+    "start": 534.606,
+    "duration": 3.087
+  },
+  {
+    "text": "In March of 2012",
+    "start": 537.718,
+    "duration": 2.153
+  },
+  {
+    "text": "amateur astronomers spotted enormous\nplumes jetting from the Martian surface.",
+    "start": 539.896,
+    "duration": 5.163
+  },
+  {
+    "text": "The plumes were more\nthan 250 km high",
+    "start": 545.084,
+    "duration": 3.498
+  },
+  {
+    "text": "and several hundreds of\nkilometers in length.",
+    "start": 548.607,
+    "duration": 2.824
+  },
+  {
+    "text": "As the lead author of a scientific\npaper on the discovery stated,",
+    "start": 551.456,
+    "duration": 4.117
+  },
+  {
+    "text": "\"At about 250 km, the division between the\natmosphere and outer space is very thin,",
+    "start": 555.598,
+    "duration": 6.294
+  },
+  {
+    "text": "so the reported plumes are\nextremely unexpected.\"",
+    "start": 561.917,
+    "duration": 3.656
+  },
+  {
+    "text": "In 2016, scientists using data\nfrom the Mars Express spacecraft",
+    "start": 565.598,
+    "duration": 5.275
+  },
+  {
+    "text": "discovered something\nequally unexpected.",
+    "start": 570.898,
+    "duration": 2.543
+  },
+  {
+    "text": "Immediately before the\nplume was first spotted",
+    "start": 573.466,
+    "duration": 3.414
+  },
+  {
+    "text": "Mars appeared to be hit by\na coronal mass ejection.",
+    "start": 576.905,
+    "duration": 3.422
+  },
+  {
+    "text": "David Andrews of the Swedish\nInstitute of Space Physics stated,",
+    "start": 580.352,
+    "duration": 4.095
+  },
+  {
+    "text": "\"It's very surprising that was affecting Mars\nright before the plume was first observed.\"",
+    "start": 584.472,
+    "duration": 5.554
+  },
+  {
+    "text": "The implications of electrical\nphenomena are obvious",
+    "start": 590.051,
+    "duration": 3.988
+  },
+  {
+    "text": "even to mainstream scientists.",
+    "start": 594.064,
+    "duration": 2.349
+  },
+  {
+    "text": "A New Scientist report of\nthe discovery stated,",
+    "start": 596.438,
+    "duration": 3.066
+  },
+  {
+    "text": "\"One possibility is that plasma could\nbe interacting with ice grains or dust",
+    "start": 599.529,
+    "duration": 4.326
+  },
+  {
+    "text": "lower down in the atmosphere and electrically\ncharging them, boosting them higher,",
+    "start": 603.88,
+    "duration": 5.056
+  },
+  {
+    "text": "but it's not clear how the\neffect would be big.\"",
+    "start": 608.961,
+    "duration": 2.778
+  },
+  {
+    "text": "It must also be\nnoted that in 2012",
+    "start": 611.74,
+    "duration": 3.268
+  },
+  {
+    "text": "just days before scientists\nnoted that baffling plumes,",
+    "start": 615.009,
+    "duration": 3.7
+  },
+  {
+    "text": "Mars was again at opposition",
+    "start": 618.734,
+    "duration": 2.094
+  },
+  {
+    "text": "and at the time was at its closest\nproximity to Earth in over two years.",
+    "start": 620.853,
+    "duration": 4.843
+  },
+  {
+    "text": "As we've noted several times,",
+    "start": 625.721,
+    "duration": 2.221
+  },
+  {
+    "text": "it's been known for many years that when the\nEarth's magnetotail passes over the moon",
+    "start": 627.967,
+    "duration": 4.592
+  },
+  {
+    "text": "it causes electrostatic dust storms\nand visible electrical discharges.",
+    "start": 632.584,
+    "duration": 4.905
+  },
+  {
+    "text": "As noted by NASA\nscientist Tim Stubbs,",
+    "start": 637.514,
+    "duration": 2.482
+  },
+  {
+    "text": "\"Earth's magnetotail extends well\nbeyond the orbit of the moon",
+    "start": 640.021,
+    "duration": 4.244
+  },
+  {
+    "text": "and, once a month, the\nmoon orbits through it.",
+    "start": 644.29,
+    "duration": 3.151
+  },
+  {
+    "text": "This can have consequences ranging from lunar\n'dust storms' to electrostatic discharges.\"",
+    "start": 647.466,
+    "duration": 5.882
+  },
+  {
+    "text": "It is a poignant commentary\non institutional science",
+    "start": 653.373,
+    "duration": 3.975
+  },
+  {
+    "text": "that decade after decade\nof similar discoveries",
+    "start": 657.373,
+    "duration": 2.819
+  },
+  {
+    "text": "continue to provoke only\nsurprise and perplexity.",
+    "start": 660.217,
+    "duration": 3.459
+  },
+  {
+    "text": "Yet the surprises are only met with\nad-hoc amendments to existing theories",
+    "start": 663.701,
+    "duration": 5.241
+  },
+  {
+    "text": "rather than the development\nof promising alternatives.",
+    "start": 668.967,
+    "duration": 3.206
+  },
+  {
+    "text": "Alternatives which have been\nwaiting for many decades",
+    "start": 672.198,
+    "duration": 2.936
+  },
+  {
+    "text": "in the fields of plasma physics\nand electrical engineering.",
+    "start": 675.159,
+    "duration": 3.017
+  },
+  {
+    "text": "Planets are \"organisms\" that interact\nwith their plasma environments",
+    "start": 678.201,
+    "duration": 5.171
+  },
+  {
+    "text": "in incredibly dynamic ways.",
+    "start": 683.397,
+    "duration": 2.148
+  },
+  {
+    "text": "A fact which only confirms that\nwe live in an electrically alive",
+    "start": 685.57,
+    "duration": 4.385
+  },
+  {
+    "text": "and connected universe.",
+    "start": 689.98,
+    "duration": 1.998
+  }
+]

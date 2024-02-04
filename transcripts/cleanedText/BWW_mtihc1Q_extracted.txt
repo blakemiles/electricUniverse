@@ -1,0 +1,469 @@
+[Music]
+It's time to put to bed the fairy tale of dark
+matter, something so dark of course it's invisible,
+and so mysterious that it remains
+undetected after decades of searching
+for it with sophisticated instruments,
+scanning all the known cosmos and
+the entire electromagnetic spectrum. But how can
+something be falsified that's this imperceptible?
+Of course, there are many other invisible
+non-existent astrophysical entities, such
+as dark energy and neutron stars that
+have been invented and disseminated
+using disingenuous methods of measurement and
+interpretation onto a naive unsuspecting public.
+But those are battles for another day.
+Being a scientist is like being an
+explorer who's attempting to hack a
+pathway through a dense jungle, snarl of
+weeds, vines, trees and undergrowth.
+But the scientist’s jungle consists of
+natural ignorance and also a lack of
+knowledge and grown false beliefs which
+may be long time officially accepted mis-
+conceptions. Real scientists try to produce
+hypotheses, that is to say logical descriptions
+of real things and how they interact.
+All scientific hypotheses of course have to
+be testable. If it can't be actively tested, a
+hypothesis at least must pass the so-called test
+of time. Incoming new data has to fit comfortably
+into any proposed hypothesis or model
+without too much tinkering with it, or
+massive back-to-the-drawing board modifications,
+and certainly without inventing imaginary ecological,
+non-measurable forces and non-observable entities,
+such as strange matter to explain the new data.
+In the past few years I’ve been studying
+Birkeland Currents. Those are the strong,
+stable flows of electrically charged
+particles that connect from one place in
+the cosmos to another. What their form
+and structure is and how they affect
+objects they connect with. Originally
+discovered by Kristian Birkeland early
+in the 1900s coming from the Sun to the 
+earth. They deliver the electric power that
+lights up our auroras and I wanted to develop
+an accurate, realistic model of their structure.
+A complete description of what I did is
+thoroughly detailed in chapters 10 and
+11 of my latest book “The Interconnected
+Cosmos,” published by Stickman on Stone,
+and I urge you to pick up a copy. Anyway, 
+here's a brief description of what I did.
+My starting point was at the edge of the
+scientific jungle, astrophysics and cosmology,
+which supposedly is the scientific study
+of cosmic space and those things that
+inhabit it, but it really is a jungle of
+contradictions and warped, bizarre,
+impossible processes and imaginary
+forces. But I had to begin somewhere.
+At that time I had completed the
+derivation and interpretation of a
+mathematical model that had been started by Stig
+Lundquist in 1950. He had determined two equations that
+describe the basic shape of the magnetic
+field that is inside a Birkeland Current,
+but that's where he stopped. I completed his model
+to include five major equations and also interpreted
+what they implied about the physical shape
+of the Birkeland Currents and their behavior
+and that was not explained fully by Lundquist.
+My model predicted that Birkeland
+Currents uniquely produce coaxial
+counter-rotational motion of their
+internal plasma and are able to carry electric
+current in both directions at the same time.
+Let me emphasize, this is a unique
+behavior. A coaxial cable here on Earth
+cannot simultaneously carry current in both 
+directions. As far as we know, true coaxial counter-
+rotation is created in nature only by field
+aligned, that is to say, Birkeland Currents.
+For example a pair of tornadoes, located
+near each other, rotating in opposite
+directions, is not an example of coaxial
+counter-rotation simply because they're
+not coaxial, they're not inside one another.
+So when NASA recorded those coaxial
+counter-rotating cloud bands on both Jupiter
+and Saturn, my model had passed its first test.
+That was the extent of my first foray
+into this cosmological jungle and at
+that point I figured we’d pitch camp for a rest.
+But then the announcement of the discovery
+of counter-rotating stars in the faces of several
+spiral galaxies, was even stronger evidence that was
+headed in the right direction. In 
+2014 it was reported that a vast
+network of plasma filaments, Birkeland Currents
+really, had been discovered that connect many,
+if not all, the galaxies in the 
+Universe in what has been called the
+Intergalactic Web, abbreviation IGW.
+The discovery was quickly confirmed and
+a rush of scientific papers followed.
+All this strongly suggested that
+Birkeland Currents not only connect
+objects within our solar system, but
+there are much larger and stronger Birkeland Currents
+arching across the vast distances between galaxies.
+I assume that those galaxies within the
+Intergalactic Web must be sending and
+receiving electric currents via the plasma
+filaments to which they are connected.
+Also, I thought if galaxies actually form
+on those Birkeland Current filaments in
+the web, they probably inherit their
+rotational profiles from those filaments.
+If that happens, then the stellar
+velocity profiles ought to be the same
+as the velocity profiles of the
+Birkeland Currents on which they form.
+Remember that the typical stellar velocity profile
+in a galaxy, a plot of the star's velocity as a
+function of its radius r, how far out it is from
+the galaxy's center, has been totally baffling to
+astrophysicists. Actually they typically look
+like a plot of the function the square root of r.
+This shape cannot be explained by
+Newtonian physics and almost all
+astrophysicists deny that electrical
+effects could possibly produce any of
+what we see in the cosmos. So, 
+that's why astronomers like Vera
+Rubin and her colleagues postulated the
+existence of dark missing matter in the
+1940s. Their repeated unsuccessful
+attempts to explain this rotation of
+those stars is what set astronomers off on
+their decades-old quest to find dark matter.
+So, I wondered if the plot of the
+rotation speed of the plasma in my model
+Birkeland Current, might be similar to
+the ones that baffled those astronomers.
+I set out to determine what that
+velocity profile might be. My model
+yields information about the magnetic
+field strength and the current density
+in a Birkeland Current, but it doesn't
+directly yield any information about the
+velocity of the charges that make up those currents.
+The key to determining the velocity of
+the stream of charged particles in a
+Birkeland Current was the realization that
+the current density in any plasma has two components,
+the charge density and the velocity of those charges.
+The charge density is how much charge
+you have per cubic meter and the
+velocity of course is how many meters per
+second does that box of charges travel with.
+Therefore, if we know any two of these three
+quantities j, rho and v, we can find the third one.
+We obviously know from historical
+astronomical observations what the
+typical velocity profile of stars 
+within the galaxy looks like, and it's
+approximately the square root of r.
+And we know from the equations of my
+model that the current density j, varies
+with radial distance r, out from the
+BC's, that is the Birkeland Current's central
+axis, as one over the square root of r.
+So, I was able to solve for the third
+quantity, not very hard, the charge
+density rho that must exist inside my model BC,
+using all this data, the data from galaxy NGC1620,
+it turns out to be a simple inverse relationship,
+one over r. This clearly demonstrates that an
+electrical process exists, that can
+produce the heretofore inexplicable
+stellar velocities, that prompted
+astronomers to search for dark matter in
+the first place. In other words, the
+refusal to accept the existence and
+effects of electrical charges in space,
+is what began, and maintains to this day,
+the dark matter wild goose chase.
+But is there any evidence that this
+particular distribution, this one over r
+shape, is the way charge really is
+distributed inside an actual BC?
+I took a short side trip off the logical
+journey we had been on, to find that 
+out. Did the velocity profiles of other
+galaxies also require this same charge density in
+the BC’s they connected with? That was the question.
+Other galaxies may have slightly different velocity
+profiles. Using any of those other velocity
+profiles with the same expression for
+current density from my model, yielded
+slightly different charge density curves.
+But the main point is that there is
+always some charge density curve, that will
+exactly reproduce any arbitrary velocity profile.
+So, I repeat myself. We have now shown, and as I said
+recently, presented in a greater detail in my new
+book, that a purely electrical process does
+indeed exist that can produce a hitherto
+inexplicable stellar velocity [distribution] that
+prompted astronomers to search for dark
+matter. And that's the end of the story.
+The charge densities may be slightly
+different from that one over r-shaped
+distribution in different galaxies but
+the BC curve, that Birkeland Current velocity
+curve will always match the actual one.
+By the way we know that BCs often show
+coaxial counter-rotation. So, when we
+observe coaxial rotation of the stars in
+a galaxy that is connected to a BC,
+that's additional evidence that we're
+correct that it is the Birkeland Current
+that's producing the velocity of those
+stars in those galaxies. The twisting
+motions of the galaxy's Birkeland current are
+what produces the velocities of those stars.
+If we assume that the charge density
+distribution that exists within a
+typical Birkeland Current filament is, as
+a function of radial distance r, the
+distance out from the Z-axis of the
+Birkeland Current, is proportional to one
+over r, as it is for the one particular
+galaxy I show there, NGC1620, we can
+solve mathematically for the electric
+field that particular charge density
+plot creates. In other words, we know what
+the charges are, where they are, we can
+solve for the electrical field that results.
+In turn, knowing the properties of that
+electric field, allows us to find the
+voltage that will occur at every point
+within the Birkeland Current's cross-section as
+a function of the radius value of that point.
+It turns out that under this assumption
+about the charge density, that the
+maximum voltage occurs exactly at the
+center of the Birkeland Current, that r
+equals 0, the central Z-axis. Out 
+from there, the points of increasing
+radius, the voltage plot is a simple
+linearly decreasing function of r.
+This voltage distribution is exactly what's
+needed to produce Marklund convection.
+Okay, but so what? What's Marklund
+convection? Well, in Marklund convection,
+it's a process that occurs in a Birkeland
+Current, atoms of the various elements present
+are sorted according to their so-called ionization
+potential. This results in the easily ionized, that
+is to say the heavier atomic weight
+elements such as iron, being found at the
+center of the filament, and the lighter
+elements such as hydrogen and helium,
+being found in its outer regions. This 
+process works, because positive ions
+accelerate down the voltage drop that
+starts at the center of the Birkeland
+current, and ends at its outer edge.
+They go faster and faster, until they
+collide out at the edge of the Birkeland
+Current with any matter, atoms, ions, dust,
+any other stuff, and this releases heat.
+Those collisions release heat. The
+temperature is hottest at the collision site,
+just at the Birkeland Current's edge. And
+that's why the elements that are the
+most difficult from which to strip off
+an electron, such as hydrogen and helium, are found
+out there. So the center of the Birkeland Current
+is its coolest region and contains
+the heavy elements such as iron,
+and its outer edge is the hottest region
+containing elements such as hydrogen.
+This is intriguingly the same sorting
+arrangement found in stars including our
+Sun, which are formed in Z-pinches in Birkeland
+Currents. Our Sun has a heavy concentration of
+hydrogen at its outer surface.
+Therefore, if the Sun was created at the
+center of a pinch, such as a Birkeland
+Current, then its center ought to be
+relatively cool and its outer surface, the 
+photosphere should be quite hot and it is.
+We know that the dark center of a
+Sunspot, the umbra, is much cooler than
+the surrounding photosphere and it's 
+a window into the inside of the Sun.
+But the question still remained. Was 
+my assumption that the distribution of
+electric charges, the charge density rho,
+one over r, correct? Does it really occur?
+The answer came when a noted astronomer,
+professor Michael Merrifield of the
+University of Nottingham, reported that the
+outer rim of a galaxy, this one was NGC4550,
+mysteriously had a collection of counter-
+rotating, hydrogen-rich stars at its
+periphery, at the edge of it. He complained 
+that there was no known way for this
+to ever occur. His announcement
+unintentionally provided supporting
+evidence that I considered strong evidence,
+for my claim that a Birkeland Current
+had been, or was connected to this galaxy.
+This might easily have been the cause,
+not only of the hydrogen-rich collection
+of stars along its edge, but also why
+that band was counter-rotating with
+respect to the other stars in NGC4550.
+I assert that my assumption was thus
+shown to be valid, at least in this
+particular case. And once again, we 
+see that an electrical process is the
+explanation that eludes all these expert
+astrophysicists that still say yes, yes,
+we know electricity exists in the cosmos but it doesn't
+do anything. Well, the Sun's heliosphere is a node, a
+pinch in a Birkeland Current. According 
+to our model, the only place in a
+Birkeland Current that involves energy
+loss, would be the outer edge of the
+Birkeland Current where positive 
+ions falling radially down that linearly
+decreasing voltage profile, recombine
+with electrons just outside. This
+recombination process will emit a
+low level of visible light. It releases
+energy in the form of light. The newly
+formed energetic neutral atoms called
+ENAs, energetic neutral atoms, then
+diffuse back into the Birkeland Current.
+Being neutral, they're unaffected by any
+of the electromagnetic effects there.
+This visible light was discovered by the
+NASA Lockheed Martin IBEX mission. The
+announcement said in part, IBEX's 
+all-sky map of energetic neutral
+atom emission reveals a bright ring of
+ENAs that encircles the entire heliosphere.
+David J. McComas, IBEX principal
+investigator and assistant vice
+president of the Space Science and
+Engineering division at Southwest
+Research Institute, said quote,
+”The IBEX results are truly remarkable,
+with a narrow ribbon of bright details.
+This is a shocking new result.
+We had no idea this ribbon existed, or
+what has created it. Our previous ideas
+about the outer heliosphere are going to have to be
+revised.” But if history is any guide, it will not
+be revised. NASA and the astrophysics
+power structure never admit they were
+wrong about anything. We'll see what they do in
+this case. In any event the Marklund convection
+process may well be occurring all along
+the vast length of the Birkeland Current
+that extends on either side of our Sun's 
+heliosphere. And that Birkeland Current is not
+visible from Earth, probably because it's
+an aging normal Birkeland Current that
+has a weaker charge density along its
+length than will be found at the Z-pinch,
+the heliopause, the heliosphere.
+The current density will be weaker, the
+plasma will therefore be in dark mode quite
+likely, and I think it is, from observation,
+and any light generated by recombination
+along its periphery will be even weaker
+than that observed by the IBEX mission.
+But the Marklund convection process, in
+which the positive ions inside a Birkeland 
+Current are accelerated outward,
+directed by an E-field from a high-voltage
+central axis, is exactly the same process
+that we now know occurs just above the
+edge of the Sun's heliosphere, when the
+solar wind positive ions coming from the
+Sun recombine with incoming electrons to
+produce the light seen by IBEX. It's 
+also similar to what happens just
+above the Sun's photosphere, where
+accelerating positive ions, escaping from
+inside the Sun, collide with other matter,
+which creates the high temperatures of
+the Sun's coronal temperature anomaly.
+It's the same process, just with higher
+current density at the pinch than 
+along the BC's length, and highest
+of all just above the Sun's photosphere.
+So, the evidence strongly indicates that
+stars are connected to their planets 
+and to other stars. All galaxies are
+connected. The more we look carefully, 
+the entire Universe is interconnected by
+plasma Birkeland Current filaments. 
+And the electrical interactions at all
+locations are fairly similar, just with
+differing strengths and sizes. The
+process seems to be scalable. I have 
+long wondered why cosmologists,
+who claim the Universe is created by a
+Big Bang explosion, never try to explain
+where all the rotation comes from.
+Just about everything we see in the
+cosmos rotates, or twists, or spins. Why?
+How did it get that way from a Big Bang explosion?
+Birkeland Currents rotate and they counter-
+rotate. Is that the source of all the rotation?
+I claim yes, it is. At least until I hear of another
+natural process that can cause the rotation and
+coaxial counter-rotation we see 
+everywhere we look in the sky.
+We all have to realize that no one can ever disprove
+the existence of something that doesn't exist.
+In order to maintain or renew 
+the sources of their grant funding,
+astrophysicists who now refuse to put 
+an end to their fruitless and wildly
+expensive dark matter quest, are 
+challenging us to do just that. In
+maintaining their assertion that dark matter
+still exists, they're saying something like,
+”There's a big vicious dog under this
+table. He's invisible, untouchable,
+unsmellable and makes no sounds, but he ate my
+homework last night. Prove to me he doesn't exist.”
+Now, this is a dishonest, illogical
+unreasonable, childish challenge.
+Anyone seriously making such a demand is
+a shyster, a snake oil salesman who is
+intentionally trying to swindle his audience, or 
+perhaps he's an intellectually lazy astrophysicist
+fearing misinformation. Either way, the evidence is
+indisputable. The theory and most importantly, the
+rationale for the existence of dark matter
+has now been systematically debunked.
+An accurate understanding of the 
+cosmos is impossible in the conventional
+science of astrophysics, simply because
+they refuse to expand their tool set.
+Limited to the force of gravity in 
+either its Newtonian or Einsteinian
+format, gravity only attracts. Magnetic 
+forces can attract, but they can also repel.
+Electrical forces can also attract and they can 
+repel. And then there's the Lorentz force that
+exists between electrical charges moving through a
+magnetic field. Including all of these essential forces
+of nature when cracking the secrets of the Universe,
+then the concept and necessity
+of dark matter is outright ridiculous.
+Another key difference between the Standard Model
+and the Electric Universe model of cosmology.
+[Music]

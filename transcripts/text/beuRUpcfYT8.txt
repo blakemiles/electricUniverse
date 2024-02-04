@@ -1,0 +1,1472 @@
+[
+  {
+    "text": "Welcome to the\nElectricity of Life,",
+    "start": 8.05,
+    "duration": 2.15
+  },
+  {
+    "text": "brought to you by The Thunderbolts\nProject™ at Thunderbolts.info",
+    "start": 10.29,
+    "duration": 4.82
+  },
+  {
+    "text": "The connection of the mind to the body\nis an arena of constantly growing",
+    "start": 19.07,
+    "duration": 4.77
+  },
+  {
+    "text": "scientific investigation.",
+    "start": 23.84,
+    "duration": 2.25
+  },
+  {
+    "text": "To an unprecedented degree,\nmainstream medicine",
+    "start": 26.09,
+    "duration": 2.3
+  },
+  {
+    "text": "today acknowledges that\nthe mind has a",
+    "start": 28.59,
+    "duration": 1.68
+  },
+  {
+    "text": "profound effect on one's\nphysical well-being.",
+    "start": 30.39,
+    "duration": 3.29
+  },
+  {
+    "text": "The mind affects matter,\nwhether it's the so-called placebo",
+    "start": 33.68,
+    "duration": 2.75
+  },
+  {
+    "text": "effect where the mere belief that a\nperson has taken a particular drug",
+    "start": 36.44,
+    "duration": 3.73
+  },
+  {
+    "text": "causes a physical benefit, to the\nincreasingly evident impact of emotional",
+    "start": 40.17,
+    "duration": 4.91
+  },
+  {
+    "text": "stress on physical organisms and\nindividual cells.",
+    "start": 45.08,
+    "duration": 4.02
+  },
+  {
+    "text": "However, as mainstream\nscience acknowledges, the very nature",
+    "start": 49.1,
+    "duration": 3.41
+  },
+  {
+    "text": "and source of the mind\nitself remains a mystery.",
+    "start": 52.58,
+    "duration": 2.43
+  },
+  {
+    "text": "A remarkable scientist who has explored\nthe mind-body connection is Dawson",
+    "start": 55.01,
+    "duration": 4.27
+  },
+  {
+    "text": "Church, the author of dozens of\nscientific papers as well as the recent",
+    "start": 59.28,
+    "duration": 4.68
+  },
+  {
+    "text": "book 'Mind to Matter'\nwhich suggests vast untapped abilities",
+    "start": 63.96,
+    "duration": 3.81
+  },
+  {
+    "text": "of the mind to affect healing.",
+    "start": 67.77,
+    "duration": 2.82
+  },
+  {
+    "text": "In part one of this two-part\ninterview, we asked",
+    "start": 70.59,
+    "duration": 2.05
+  },
+  {
+    "text": "Dawson to begin with\nan introduction to",
+    "start": 72.65,
+    "duration": 2.0
+  },
+  {
+    "text": "his earlier book entitled\n'The Genie in Your Genes'",
+    "start": 74.66,
+    "duration": 3.2
+  },
+  {
+    "text": "which presents voluminous\nscientific evidence that thoughts and",
+    "start": 77.95,
+    "duration": 2.72
+  },
+  {
+    "text": "intentions can trigger one's genes with",
+    "start": 80.67,
+    "duration": 2.41
+  },
+  {
+    "text": "potentially great consequence\nto one's health.",
+    "start": 83.09,
+    "duration": 3.43
+  },
+  {
+    "text": "Well, I became interested in\nenergy healing at an early age and when",
+    "start": 86.58,
+    "duration": 4.59
+  },
+  {
+    "text": "I was 15 I joined a spiritual community\nand began to learn tools like meditation,",
+    "start": 91.17,
+    "duration": 4.17
+  },
+  {
+    "text": "like energy medicine and in that\ncommunity I saw some really remarkable",
+    "start": 95.34,
+    "duration": 5.27
+  },
+  {
+    "text": "rapid healings occur.",
+    "start": 100.61,
+    "duration": 3.14
+  },
+  {
+    "text": "But I always thought about energy\nmedicine, energy healing,",
+    "start": 103.83,
+    "duration": 1.66
+  },
+  {
+    "text": "as being a very fringe endeavor.",
+    "start": 105.55,
+    "duration": 2.74
+  },
+  {
+    "text": "And so, in the 1990s, 1980s it was\nregarded as being part of complementary",
+    "start": 108.49,
+    "duration": 5.66
+  },
+  {
+    "text": "and alternative medicine or CAM, C.A.M.\nand there was no real thought that CAM",
+    "start": 114.15,
+    "duration": 6.27
+  },
+  {
+    "text": "could ever become part\nof the medical mainstream.",
+    "start": 120.42,
+    "duration": 2.66
+  },
+  {
+    "text": "We knew the medical\nmainstream involved things like drugs",
+    "start": 123.11,
+    "duration": 1.99
+  },
+  {
+    "text": "and surgery, interventions by skilled\nmedical professionals and there was no",
+    "start": 125.1,
+    "duration": 4.55
+  },
+  {
+    "text": "real place for CAM in\nconventional medicine.",
+    "start": 129.65,
+    "duration": 4.36
+  },
+  {
+    "text": "But what we had happen in\nthe late 1990s is, scientists turned",
+    "start": 134.2,
+    "duration": 6.08
+  },
+  {
+    "text": "their attention to using some other\ntools developed for diagnosis to looking",
+    "start": 140.28,
+    "duration": 5.57
+  },
+  {
+    "text": "at altered states of consciousness.",
+    "start": 145.85,
+    "duration": 2.56
+  },
+  {
+    "text": "And so we, for example, for the\nfirst time found\nat altered states of consciousness.",
+    "start": 148.41,
+    "duration": 0.01
+  },
+  {
+    "text": "And so we, for example, for the\nfirst time found",
+    "start": 148.42,
+    "duration": 2.58
+  },
+  {
+    "text": "people meditating, getting put inside\nMRIs or having EEGs attached to their heads",
+    "start": 151.0,
+    "duration": 5.13
+  },
+  {
+    "text": "and actually I was actually reading\nthings like brain waves",
+    "start": 156.13,
+    "duration": 4.71
+  },
+  {
+    "text": "that were the result of consciousness and awareness,",
+    "start": 160.84,
+    "duration": 2.08
+  },
+  {
+    "text": "consciousness should\nsend in energy.",
+    "start": 162.97,
+    "duration": 2.11
+  },
+  {
+    "text": "And what we found as we used\nthese modern methods, was that a",
+    "start": 165.12,
+    "duration": 5.05
+  },
+  {
+    "text": "lot was happening that enhanced\nthe bodies of those kinds of people.",
+    "start": 170.17,
+    "duration": 5.46
+  },
+  {
+    "text": "So at a certain point, I moved from\npsychological research looking at",
+    "start": 175.63,
+    "duration": 3.51
+  },
+  {
+    "text": "anxiety, depression, PTSD,\nto biological research.",
+    "start": 179.14,
+    "duration": 5.91
+  },
+  {
+    "text": "And around 2008, 2009, I began to\nlook deep into what was happening inside",
+    "start": 185.11,
+    "duration": 5.58
+  },
+  {
+    "text": "the body when people shift their state.",
+    "start": 190.69,
+    "duration": 3.23
+  },
+  {
+    "text": "And so I wrote this book The Genie in\nYour Genes about the epigenetics of",
+    "start": 193.95,
+    "duration": 3.24
+  },
+  {
+    "text": "personal change, how when you change your\nconsciousness, you're literally shifting",
+    "start": 197.19,
+    "duration": 4.24
+  },
+  {
+    "text": "gene expression inside your cells and\nthis is easy to prove.",
+    "start": 201.43,
+    "duration": 5.13
+  },
+  {
+    "text": "When I wrote the book, there was\nno direct proof of this but",
+    "start": 206.56,
+    "duration": 1.85
+  },
+  {
+    "text": "there was lots of indirect proof of this\nbecause for example when you get scared",
+    "start": 208.48,
+    "duration": 4.71
+  },
+  {
+    "text": "or startled or frightened your\nadrenaline level rises and there is a gene",
+    "start": 213.19,
+    "duration": 4.17
+  },
+  {
+    "text": "that codes for adrenaline, a gene that\ncodes for cortisol, but when you then go",
+    "start": 217.36,
+    "duration": 4.84
+  },
+  {
+    "text": "and tell your best friend or your wife\nor your husband about being scared or",
+    "start": 222.2,
+    "duration": 6.25
+  },
+  {
+    "text": "startled or frightened, say you had a\nbad experience at work and you had a",
+    "start": 228.45,
+    "duration": 3.34
+  },
+  {
+    "text": "high level of cortisol, high level of\nadrenaline in response to a threat at work.",
+    "start": 231.79,
+    "duration": 4.81
+  },
+  {
+    "text": "Now you're telling your spouse\nabout this after you get back from",
+    "start": 236.6,
+    "duration": 3.47
+  },
+  {
+    "text": "work, and your adrenaline\nis now rising again.",
+    "start": 240.07,
+    "duration": 3.31
+  },
+  {
+    "text": "So there's no direct threat to you\nat this point, only a shifted awareness,",
+    "start": 243.46,
+    "duration": 3.69
+  },
+  {
+    "text": "only emotion, only a sense of changing\nyour consciousness, changing your energy",
+    "start": 247.15,
+    "duration": 4.74
+  },
+  {
+    "text": "to relive that threat, but your body is\nnow taking that imaginary situation as",
+    "start": 251.89,
+    "duration": 7.37
+  },
+  {
+    "text": "though it was real\nthreat and producing",
+    "start": 259.26,
+    "duration": 1.84
+  },
+  {
+    "text": "those same stress hormones\nlike cortisol and adrenaline.",
+    "start": 261.31,
+    "duration": 3.86
+  },
+  {
+    "text": "So I did the first large-scale\nrandomized controlled trials",
+    "start": 265.2,
+    "duration": 3.37
+  },
+  {
+    "text": "actually a triple blind\nrandomized controlled trial published",
+    "start": 268.57,
+    "duration": 3.12
+  },
+  {
+    "text": "in the oldest medical journal in the U.S.\nand it showed that when you use an",
+    "start": 271.69,
+    "duration": 6.68
+  },
+  {
+    "text": "acupressure based technique, EFT, that in\none hour you're literally",
+    "start": 278.37,
+    "duration": 6.34
+  },
+  {
+    "text": "bringing the levels of those stress\nhormones down far more than talk therapy",
+    "start": 284.71,
+    "duration": 5.25
+  },
+  {
+    "text": "or simply resting.",
+    "start": 289.96,
+    "duration": 2.04
+  },
+  {
+    "text": "And so that was really a\nlandmark study showing that",
+    "start": 292.38,
+    "duration": 2.37
+  },
+  {
+    "text": "indirectly I was showing that we're\nchanging the gene expression because we're",
+    "start": 295.0,
+    "duration": 4.38
+  },
+  {
+    "text": "changing the byproducts of gene\nexpression like cortisol and adrenaline.",
+    "start": 299.38,
+    "duration": 3.69
+  },
+  {
+    "text": "I then went to study a\nstep deeper than that and actually",
+    "start": 303.07,
+    "duration": 3.96
+  },
+  {
+    "text": "looked at gene expression and with the\nconclusion of the human genome project,",
+    "start": 307.03,
+    "duration": 3.78
+  },
+  {
+    "text": "we now have tools that allow us to much\nless expensively sequence genetic",
+    "start": 310.81,
+    "duration": 6.21
+  },
+  {
+    "text": "sequences and actually see what's\nhappening, which genes are being turned and which",
+    "start": 317.02,
+    "duration": 3.57
+  },
+  {
+    "text": "genes are being turned off.",
+    "start": 320.59,
+    "duration": 1.32
+  },
+  {
+    "text": "So I worked with a group of\nveterans, people mostly",
+    "start": 322.01,
+    "duration": 2.85
+  },
+  {
+    "text": "Vietnam veterans, some Iraq veterans,\nAfghanistan veterans, and we looked at",
+    "start": 324.91,
+    "duration": 3.39
+  },
+  {
+    "text": "their levels of gene expression before\nand after ten sessions of this",
+    "start": 328.3,
+    "duration": 6.42
+  },
+  {
+    "text": "acupressure based technique EFT.",
+    "start": 334.72,
+    "duration": 3.08
+  },
+  {
+    "text": "And we found that their\nlevels of anxiety dropped,",
+    "start": 337.81,
+    "duration": 2.66
+  },
+  {
+    "text": "depression dropped hugely, their\nlevels of PTSD, their levels of",
+    "start": 340.5,
+    "duration": 4.93
+  },
+  {
+    "text": "symptoms like flashbacks and nightmares,\nintrusive thoughts and so on,",
+    "start": 345.43,
+    "duration": 4.76
+  },
+  {
+    "text": "all of these things\ndropped dramatically, over",
+    "start": 350.19,
+    "duration": 2.16
+  },
+  {
+    "text": "50% over those 10 sessions.",
+    "start": 352.38,
+    "duration": 3.71
+  },
+  {
+    "text": "We hit pay dirt, we found\nthat their genes actually were",
+    "start": 356.15,
+    "duration": 3.56
+  },
+  {
+    "text": "shifting dramatically, several of their\ngenes to do with stress, to do with",
+    "start": 359.71,
+    "duration": 4.98
+  },
+  {
+    "text": "inflammation, to do with the byproducts\nof the metabolic signatures of stress",
+    "start": 364.69,
+    "duration": 4.8
+  },
+  {
+    "text": "were being shifted by this psychological\nintervention, so now as you change your",
+    "start": 369.49,
+    "duration": 4.95
+  },
+  {
+    "text": "mind, as you change your awareness, as you\nchange your emotional response, as you",
+    "start": 374.44,
+    "duration": 3.93
+  },
+  {
+    "text": "use an effective therapy like EFT to\nget rid of those emotions so you're",
+    "start": 378.37,
+    "duration": 5.57
+  },
+  {
+    "text": "telling the story of the terrible\nexperiences in Afghanistan or Iraq or",
+    "start": 383.94,
+    "duration": 3.69
+  },
+  {
+    "text": "civilian ones like a car crash or a\ndivorce, so now you're telling all those",
+    "start": 387.63,
+    "duration": 4.12
+  },
+  {
+    "text": "same stories to people but they're no\nlonger laden with emotion and so now",
+    "start": 391.75,
+    "duration": 5.0
+  },
+  {
+    "text": "your body is no longer getting\nthat epigenetic signal to make",
+    "start": 396.75,
+    "duration": 5.08
+  },
+  {
+    "text": "those stress hormones.",
+    "start": 401.83,
+    "duration": 1.95
+  },
+  {
+    "text": "So those veterans then,\nafter those 10 sessions were",
+    "start": 403.84,
+    "duration": 1.73
+  },
+  {
+    "text": "telling those stories, remembering those\nevents and they were no longer",
+    "start": 405.58,
+    "duration": 4.41
+  },
+  {
+    "text": "triggering those stress genes and so",
+    "start": 409.99,
+    "duration": 3.42
+  },
+  {
+    "text": "that has led to a several other\nstudies like that.",
+    "start": 413.62,
+    "duration": 2.9
+  },
+  {
+    "text": "The big take-home message of\nthis was that,",
+    "start": 416.61,
+    "duration": 1.99
+  },
+  {
+    "text": "as you shift your awareness, as you lower\nyour stress level, you're literally",
+    "start": 418.6,
+    "duration": 5.28
+  },
+  {
+    "text": "turning genes on and off in your body.",
+    "start": 423.88,
+    "duration": 1.7
+  },
+  {
+    "text": "And in the gene, in your genes, I map that\nwhole process from start to finish, how",
+    "start": 425.59,
+    "duration": 4.56
+  },
+  {
+    "text": "both actual threats cause changes in\ngene expression and imaginary",
+    "start": 430.15,
+    "duration": 5.97
+  },
+  {
+    "text": "experiences like meditation.",
+    "start": 436.12,
+    "duration": 2.44
+  },
+  {
+    "text": "Meditate for a while and\nyou shift your gene expression.",
+    "start": 438.58,
+    "duration": 2.83
+  },
+  {
+    "text": "Do EFT, you shift gene\nexpression, do Yoga, do Qigong, take a walk",
+    "start": 441.56,
+    "duration": 4.4
+  },
+  {
+    "text": "in nature, any of these things are\nliterally turning genes on and off and",
+    "start": 445.96,
+    "duration": 3.72
+  },
+  {
+    "text": "as we've used these elaborate tools like\nMRIs and EEGs to look at how much, we're",
+    "start": 449.68,
+    "duration": 6.72
+  },
+  {
+    "text": "finding that the answer is, a huge amount,\nthat we're not seeing trivial or minor",
+    "start": 456.4,
+    "duration": 7.26
+  },
+  {
+    "text": "shifts in gene expression, we're not seeing",
+    "start": 463.66,
+    "duration": 2.83
+  },
+  {
+    "text": "trivial or minor shifts\nin brainwave activity.",
+    "start": 466.51,
+    "duration": 3.67
+  },
+  {
+    "text": "We're seeing major shifts,\nradical shifts in the way the brain",
+    "start": 470.19,
+    "duration": 2.74
+  },
+  {
+    "text": "processes information based purely on\nthese energy and consciousness techniques.",
+    "start": 472.93,
+    "duration": 5.38
+  },
+  {
+    "text": "So, that work in the 'Gene in\nyour Genes' made an argument really early",
+    "start": 478.31,
+    "duration": 3.5
+  },
+  {
+    "text": "in 2004, but the newer editions now have\nmany studies showing directly that our",
+    "start": 481.81,
+    "duration": 6.51
+  },
+  {
+    "text": "awareness, our consciousness, our energy\nlevel, our way of seeing the world, our",
+    "start": 488.32,
+    "duration": 4.38
+  },
+  {
+    "text": "worldview, our mental\npicture of reality,",
+    "start": 492.7,
+    "duration": 3.13
+  },
+  {
+    "text": "all of these things are\nturning genes on and off.",
+    "start": 495.92,
+    "duration": 2.68
+  },
+  {
+    "text": "I will leave you with one of the final\nstudies, an amazing study, and it shows",
+    "start": 498.83,
+    "duration": 4.88
+  },
+  {
+    "text": "the cumulative effect of this which\nyou see in longevity.",
+    "start": 503.71,
+    "duration": 3.44
+  },
+  {
+    "text": "So people make a lot of little choices\nin their lives; should I drink",
+    "start": 507.15,
+    "duration": 2.77
+  },
+  {
+    "text": "tea or coffee this morning, should I\nget up on the left or the right side of",
+    "start": 509.93,
+    "duration": 4.19
+  },
+  {
+    "text": "the bed, and you know, those choices are\nminor but when those choices are about",
+    "start": 514.12,
+    "duration": 5.82
+  },
+  {
+    "text": "emotion, when those choices are about\nspirituality, when those choices are",
+    "start": 519.94,
+    "duration": 3.84
+  },
+  {
+    "text": "about stress,\nthey may seem minor.",
+    "start": 523.78,
+    "duration": 2.77
+  },
+  {
+    "text": "Just that five minutes you spent\nobsessing about the bad thing, some of",
+    "start": 526.78,
+    "duration": 3.9
+  },
+  {
+    "text": "the things last week might seem like a\ntrivial thing, but cumulatively over a",
+    "start": 530.68,
+    "duration": 6.21
+  },
+  {
+    "text": "year and then five and ten and twenty\nyears, they make an enormous difference",
+    "start": 536.89,
+    "duration": 5.4
+  },
+  {
+    "text": "to your gene expression which shows up\nin the form of longevity and so this one",
+    "start": 542.29,
+    "duration": 5.97
+  },
+  {
+    "text": "really stunning study I talked\nabout, shows that",
+    "start": 548.26,
+    "duration": 3.47
+  },
+  {
+    "text": "optimists, people who think positively,\npeople who have a positive worldview, people",
+    "start": 551.73,
+    "duration": 4.2
+  },
+  {
+    "text": "who see others in a positive light,\noptimists live on average eight years",
+    "start": 555.93,
+    "duration": 6.83
+  },
+  {
+    "text": "longer than pessimists, that's the",
+    "start": 562.76,
+    "duration": 2.92
+  },
+  {
+    "text": "cumulative effect of\nall that negative thinking.",
+    "start": 565.86,
+    "duration": 3.56
+  },
+  {
+    "text": "Think negatively for a moment,\nyou don't see any big change, think",
+    "start": 569.68,
+    "duration": 3.23
+  },
+  {
+    "text": "negatively for a lifetime and you get\neight years less on it, so these are",
+    "start": 572.91,
+    "duration": 4.5
+  },
+  {
+    "text": "the profound shifts that these\nkinds of emotional states are producing",
+    "start": 577.41,
+    "duration": 4.82
+  },
+  {
+    "text": "epigenetically in ourselves.",
+    "start": 582.23,
+    "duration": 2.65
+  },
+  {
+    "text": "The scientific evidence that thoughts and\nemotions affect one's genes carries",
+    "start": 585.06,
+    "duration": 4.07
+  },
+  {
+    "text": "another extraordinary ramification that\ngenetic changes caused by emotional",
+    "start": 589.13,
+    "duration": 4.56
+  },
+  {
+    "text": "trauma might be passed on\nto future generations.",
+    "start": 593.69,
+    "duration": 3.82
+  },
+  {
+    "text": "That study, showing that\nemotional trauma is intergenerational",
+    "start": 597.54,
+    "duration": 2.9
+  },
+  {
+    "text": "is stunning, because we always thought\nthat if a bad thing happened to me well,",
+    "start": 600.44,
+    "duration": 4.5
+  },
+  {
+    "text": "it was going to affect me, it might produce\nPTSD, it might produce trauma in me, but",
+    "start": 604.94,
+    "duration": 6.43
+  },
+  {
+    "text": "how could that really be passed along to\nmy kids or my grandkids because they're",
+    "start": 611.37,
+    "duration": 6.12
+  },
+  {
+    "text": " going to have a fresh set\nof genes, going to be",
+    "start": 617.49,
+    "duration": 2.11
+  },
+  {
+    "text": "born with these genes that\nare unaffected by that.",
+    "start": 619.61,
+    "duration": 3.11
+  },
+  {
+    "text": "But in the study of Holocaust\nsurvivors, this is the first big study",
+    "start": 622.8,
+    "duration": 3.42
+  },
+  {
+    "text": "done in the late 1990s, they found that\nthe gene expression patterns of the",
+    "start": 626.22,
+    "duration": 4.79
+  },
+  {
+    "text": "children of Holocaust survivors looked\nsimilar to those, mirrored those of actual",
+    "start": 631.01,
+    "duration": 6.37
+  },
+  {
+    "text": "Holocaust survivors.",
+    "start": 637.38,
+    "duration": 1.55
+  },
+  {
+    "text": "We've now shown in animal studies\nwith rats and mice that",
+    "start": 639.17,
+    "duration": 2.71
+  },
+  {
+    "text": "those kinds of epigenetic tags we passed\nalong for seven generations so we're now",
+    "start": 641.93,
+    "duration": 8.11
+  },
+  {
+    "text": "realizing that stress and trauma is not\nsomething that affects just one",
+    "start": 650.04,
+    "duration": 3.44
+  },
+  {
+    "text": "generation of people, that affects people\nin a limited way locally.",
+    "start": 653.58,
+    "duration": 4.86
+  },
+  {
+    "text": "We're realizing that it affects\nthem over time and they",
+    "start": 658.44,
+    "duration": 2.74
+  },
+  {
+    "text": "then literally pass these epigenetic\nmolecular markers onto their children",
+    "start": 661.25,
+    "duration": 3.97
+  },
+  {
+    "text": "and their grandchildren.",
+    "start": 665.22,
+    "duration": 2.28
+  },
+  {
+    "text": "A parallel field of investigation\nto the mind-body",
+    "start": 667.55,
+    "duration": 2.89
+  },
+  {
+    "text": "connection is the study\nof consciousness itself.",
+    "start": 670.5,
+    "duration": 3.22
+  },
+  {
+    "text": "We asked Dawson for his thoughts\non the perspective that consciousness",
+    "start": 673.84,
+    "duration": 3.55
+  },
+  {
+    "text": "is not generated by nor\nconfined to the brain.",
+    "start": 677.39,
+    "duration": 3.98
+  },
+  {
+    "text": "The old view, the materialist\nworldview was",
+    "start": 681.49,
+    "duration": 3.21
+  },
+  {
+    "text": "that mind is what's called an\nepiphenomenon of complex brains.",
+    "start": 684.7,
+    "duration": 7.59
+  },
+  {
+    "text": "And the idea is that originally there were\nsingle-cell organisms, then multi-celled",
+    "start": 692.29,
+    "duration": 3.63
+  },
+  {
+    "text": "organisms, then complex organisms as\nthey got more and more complicated,",
+    "start": 695.92,
+    "duration": 3.72
+  },
+  {
+    "text": "they got bigger and bigger brains, more\ncomplex brains and eventually went",
+    "start": 699.64,
+    "duration": 3.18
+  },
+  {
+    "text": "throughout this phenomenon called mind.",
+    "start": 702.82,
+    "duration": 1.96
+  },
+  {
+    "text": "That's a result of brain activity.",
+    "start": 704.83,
+    "duration": 1.77
+  },
+  {
+    "text": "But there's no actual proof for that point\nof view and in my book Mind to Matter,",
+    "start": 706.68,
+    "duration": 7.18
+  },
+  {
+    "text": "I quote many, many neuroscientists, many\nmany authorities who say, point this out,",
+    "start": 713.86,
+    "duration": 5.16
+  },
+  {
+    "text": "who say that there's really no proof,\nno empirical proof that mind is the",
+    "start": 719.02,
+    "duration": 5.24
+  },
+  {
+    "text": "epiphenomenon of a complex brain.",
+    "start": 724.26,
+    "duration": 2.63
+  },
+  {
+    "text": "And what the brain seems to do more accurately is,\nit seems to be receiving and transducing",
+    "start": 726.94,
+    "duration": 6.15
+  },
+  {
+    "text": "information and then manifesting it on\na physical level so the brain is much",
+    "start": 733.09,
+    "duration": 5.55
+  },
+  {
+    "text": "more like a receiver of information than\nit is like a producer of information.",
+    "start": 738.64,
+    "duration": 4.2
+  },
+  {
+    "text": "Just the way someone is listening to\nthis podcast right now and they're",
+    "start": 742.84,
+    "duration": 3.87
+  },
+  {
+    "text": "listening to it on a device so the words\nI'm speaking and the words you're",
+    "start": 746.71,
+    "duration": 4.92
+  },
+  {
+    "text": "speaking and this interaction isn't\nhappening inside of their smartphone and",
+    "start": 751.63,
+    "duration": 4.32
+  },
+  {
+    "text": "that's the conceit of the\nmaterialist worldview, we think that",
+    "start": 755.95,
+    "duration": 3.3
+  },
+  {
+    "text": "because there's this broadcast coming\nout of the smartphone well, then the",
+    "start": 759.25,
+    "duration": 3.69
+  },
+  {
+    "text": "smartphone has to be the\nsource of a broadcast.",
+    "start": 762.94,
+    "duration": 2.12
+  },
+  {
+    "text": "We don't realize that the\nbroadcast was coming from a distant",
+    "start": 765.08,
+    "duration": 2.15
+  },
+  {
+    "text": "location and so there are lots of\nexamples, there's lots of science now",
+    "start": 767.23,
+    "duration": 3.54
+  },
+  {
+    "text": "behind distant mental effects and the\ndistant phenomenon of consciousness.",
+    "start": 770.77,
+    "duration": 5.55
+  },
+  {
+    "text": "And so, what the research does show is that\nthere's far more evidence for the idea",
+    "start": 776.32,
+    "duration": 5.88
+  },
+  {
+    "text": "of consciousness being something that\npermeates the universe, there's something",
+    "start": 782.2,
+    "duration": 3.9
+  },
+  {
+    "text": "which I talk about in the very\nbeginning of Mind to Matter, I talk",
+    "start": 786.1,
+    "duration": 3.24
+  },
+  {
+    "text": "about non-local mind and our local minds\nare anchored in our local brains.",
+    "start": 789.34,
+    "duration": 4.62
+  },
+  {
+    "text": "So if for example I, talk about me, Dawson, I'm\ntalking about an individual and an",
+    "start": 793.96,
+    "duration": 6.48
+  },
+  {
+    "text": "entity that's anchored in a local sense\nof self which I associate with my body",
+    "start": 800.44,
+    "duration": 4.02
+  },
+  {
+    "text": "and my circumstances\nso that's the local me.",
+    "start": 804.46,
+    "duration": 3.49
+  },
+  {
+    "text": "But there's far more to me\nthan the local me.",
+    "start": 807.98,
+    "duration": 3.2
+  },
+  {
+    "text": "There's far more me than the\nlocal sense of self and so when",
+    "start": 811.25,
+    "duration": 4.31
+  },
+  {
+    "text": "meditators for example enter a deep meditation,\na part of the brain called the parietal",
+    "start": 815.56,
+    "duration": 5.22
+  },
+  {
+    "text": "lobe which locates your body in space,\nthat part of the brain shuts down, the",
+    "start": 820.78,
+    "duration": 4.8
+  },
+  {
+    "text": "prefrontal cortex that that constructs\nthe self, shuts down, there's a massive",
+    "start": 825.58,
+    "duration": 4.65
+  },
+  {
+    "text": "drop in the consumption of\noxygen and nutrients by those two parts",
+    "start": 830.23,
+    "duration": 6.96
+  },
+  {
+    "text": "of the brain and so people literally\nbegin to have a non-local sense of self.",
+    "start": 837.19,
+    "duration": 4.74
+  },
+  {
+    "text": "They describe a feeling of oneness, they\nfeel a sense of peace, they feel a sense",
+    "start": 841.93,
+    "duration": 4.08
+  },
+  {
+    "text": "of connection with the rest of the universe.",
+    "start": 846.01,
+    "duration": 1.52
+  },
+  {
+    "text": "In these states of\nconsciousness, all kinds of non-local",
+    "start": 847.56,
+    "duration": 3.94
+  },
+  {
+    "text": "phenomena occur so people who are in\nthis non-local space report experiences",
+    "start": 851.5,
+    "duration": 5.46
+  },
+  {
+    "text": "of precognition, knowing the future\nwhat's happening in the future before it",
+    "start": 856.96,
+    "duration": 3.81
+  },
+  {
+    "text": "happens and there's really, really good\nevidence for precognition, telepathy.",
+    "start": 860.77,
+    "duration": 6.0
+  },
+  {
+    "text": "The EEG is one of the most pervasive\ninstruments used by modern science, the",
+    "start": 866.77,
+    "duration": 6.03
+  },
+  {
+    "text": "electroencephalograph, and there are\nthousands of things now that plot our",
+    "start": 872.8,
+    "duration": 3.84
+  },
+  {
+    "text": "brain waves using EEG.",
+    "start": 876.64,
+    "duration": 1.71
+  },
+  {
+    "text": "But when I was writing\nMind to Matter, I became",
+    "start": 878.46,
+    "duration": 2.8
+  },
+  {
+    "text": "interested in the guy who invented the\nEEG, whose name is Hans Berger and he was",
+    "start": 881.27,
+    "duration": 3.98
+  },
+  {
+    "text": "a German doctor in the late 1800s, early\nnineteen hundreds and he had, he got his",
+    "start": 885.25,
+    "duration": 6.87
+  },
+  {
+    "text": "big insight about inventing a device to\nmeasure brain waves when he had an",
+    "start": 892.12,
+    "duration": 4.2
+  },
+  {
+    "text": "experience of non-local reality.",
+    "start": 896.32,
+    "duration": 2.07
+  },
+  {
+    "text": "He was actually a German military\nofficer and one day he was on his horse",
+    "start": 898.4,
+    "duration": 4.58
+  },
+  {
+    "text": "and he was part of a horse team\ntowing a huge big field gun in the late",
+    "start": 902.98,
+    "duration": 5.1
+  },
+  {
+    "text": "1800s and his horse reared up and threw\nhim right in the path of this rolling",
+    "start": 908.08,
+    "duration": 3.84
+  },
+  {
+    "text": "gun and just as a gun was about to crush\nhim, his friends managed to stop the",
+    "start": 911.92,
+    "duration": 5.85
+  },
+  {
+    "text": "gun and he wasn't crushed.",
+    "start": 917.77,
+    "duration": 2.23
+  },
+  {
+    "text": "That night he got a telegram of\nhis father saying, I've",
+    "start": 920.08,
+    "duration": 2.32
+  },
+  {
+    "text": "been concerned about you,\nhow are you?",
+    "start": 922.6,
+    "duration": 1.66
+  },
+  {
+    "text": "And he never got a telegram\nfrom his father before.",
+    "start": 924.4,
+    "duration": 2.79
+  },
+  {
+    "text": "It turned that his sister\nthat day, at the very moment he is, he was",
+    "start": 927.26,
+    "duration": 3.44
+  },
+  {
+    "text": "about to be crushed by the gun, she had this\npremonition of a terrible thing about to",
+    "start": 930.7,
+    "duration": 3.93
+  },
+  {
+    "text": "happen to him and\ntold the father to send the telegram.",
+    "start": 934.63,
+    "duration": 2.85
+  },
+  {
+    "text": "So there are always examples of people, even\nin science, Einstein said that all great",
+    "start": 937.48,
+    "duration": 4.53
+  },
+  {
+    "text": "scientific discoveries come from these\nstates in which you're letting go",
+    "start": 942.01,
+    "duration": 4.8
+  },
+  {
+    "text": "of the local self and connecting\nwith a non-local self.",
+    "start": 946.81,
+    "duration": 3.6
+  },
+  {
+    "text": "That's where inspiration\ncomes from, that's what",
+    "start": 950.45,
+    "duration": 1.28
+  },
+  {
+    "text": "creativity comes from\nand so the brain",
+    "start": 951.73,
+    "duration": 1.83
+  },
+  {
+    "text": "is the anchor of that\nnon-local mind in",
+    "start": 953.58,
+    "duration": 3.43
+  },
+  {
+    "text": "local experience and\nthat's really where",
+    "start": 957.26,
+    "duration": 3.11
+  },
+  {
+    "text": "the evidence is pointing.",
+    "start": 960.41,
+    "duration": 1.23
+  },
+  {
+    "text": "When I began to write my book\nMind to Matter, I thought I",
+    "start": 962.37,
+    "duration": 3.02
+  },
+  {
+    "text": "would find a chain of evidence linking\nour thoughts to manifestation in things",
+    "start": 965.64,
+    "duration": 6.43
+  },
+  {
+    "text": "but I didn't think I'd find a complete\nchain, I think, I thought I would find",
+    "start": 972.07,
+    "duration": 4.09
+  },
+  {
+    "text": "that science would reveal a number\nof links in that chain and there'd be",
+    "start": 976.16,
+    "duration": 3.28
+  },
+  {
+    "text": "some big gaps in the chain as well.",
+    "start": 979.44,
+    "duration": 2.79
+  },
+  {
+    "text": "And I was amazed when I got to the end of the\nbook, that there are no missing links to the chain.",
+    "start": 982.3,
+    "duration": 4.51
+  },
+  {
+    "text": "They're all there, they're all\nthere scientifically and so that was one",
+    "start": 986.81,
+    "duration": 3.68
+  },
+  {
+    "text": "big surprise to me in\nwriting Mind to Matter.",
+    "start": 990.49,
+    "duration": 1.68
+  },
+  {
+    "text": "The other was the scale and the\nsize of some of these phenomena",
+    "start": 992.23,
+    "duration": 4.78
+  },
+  {
+    "text": "and in the first chapter I tell the story of\nastrophysicist turned TV reporter called",
+    "start": 997.01,
+    "duration": 6.53
+  },
+  {
+    "text": "Graham Phillips and he has a show in\nAustralia called Catalyst and he'd heard",
+    "start": 1003.54,
+    "duration": 4.38
+  },
+  {
+    "text": "about meditation and the meditational\nhealth benefits so he thought well, I",
+    "start": 1007.92,
+    "duration": 3.27
+  },
+  {
+    "text": "should give it a try.",
+    "start": 1011.19,
+    "duration": 1.73
+  },
+  {
+    "text": "He wasn't a believer, he was\na bit of a skeptic but",
+    "start": 1012.95,
+    "duration": 1.82
+  },
+  {
+    "text": "he went into Monash University, a very\ndistinguished university in Australia",
+    "start": 1014.82,
+    "duration": 4.47
+  },
+  {
+    "text": "and he had a complete workup of his\nphysical function and his brain.",
+    "start": 1019.29,
+    "duration": 5.58
+  },
+  {
+    "text": "So they measured the volume of every single\npoint of his brain and also tested his",
+    "start": 1024.87,
+    "duration": 4.82
+  },
+  {
+    "text": "neurological function.",
+    "start": 1029.69,
+    "duration": 1.89
+  },
+  {
+    "text": "He then began to practice\nmindfulness and up in just two",
+    "start": 1031.58,
+    "duration": 3.41
+  },
+  {
+    "text": "weeks he found that his whole way of\nreacting to stress had changed.",
+    "start": 1035.08,
+    "duration": 4.64
+  },
+  {
+    "text": "He could feel and see the\ndifference in his behavior.",
+    "start": 1039.72,
+    "duration": 2.84
+  },
+  {
+    "text": "When he went back to the University after\neight weeks, now again this is only two",
+    "start": 1042.66,
+    "duration": 3.89
+  },
+  {
+    "text": "months of practicing meditation and\nmindfulness, they did this complete",
+    "start": 1046.55,
+    "duration": 3.79
+  },
+  {
+    "text": "battery of tests on him again and they\nfound that things like his reaction",
+    "start": 1050.34,
+    "duration": 3.78
+  },
+  {
+    "text": "speed, his memory and learning capacity\nhad increased exponentially and a part",
+    "start": 1054.12,
+    "duration": 5.3
+  },
+  {
+    "text": "of the brain that regulates emotions and\nits job is to regulate emotion across",
+    "start": 1059.42,
+    "duration": 4.69
+  },
+  {
+    "text": "different brain regions, it's called the\nDentate gyrus, it's right in the very",
+    "start": 1064.11,
+    "duration": 3.36
+  },
+  {
+    "text": "center of the brain, the center of the hippocampus,\nthe memory learning center of the brain.",
+    "start": 1067.47,
+    "duration": 4.62
+  },
+  {
+    "text": "The Dentate gyrus spreads\nout through it, it actually helps",
+    "start": 1073.09,
+    "duration": 2.87
+  },
+  {
+    "text": "different parts of the brain regions\ncoordinate their regulation of emotion.",
+    "start": 1075.96,
+    "duration": 3.63
+  },
+  {
+    "text": "So in eight weeks, the volume\nof neural tissue",
+    "start": 1079.59,
+    "duration": 5.23
+  },
+  {
+    "text": "in Graham Phillips's brain in the\nDentate gyrus had increased by 22.8%.",
+    "start": 1084.82,
+    "duration": 8.16
+  },
+  {
+    "text": "Now, that's an enormous difference, that's\nmore than a fifth growth in that one",
+    "start": 1092.98,
+    "duration": 4.74
+  },
+  {
+    "text": "brain region in less than two months so\njust a remarkable shift and not just",
+    "start": 1097.72,
+    "duration": 5.13
+  },
+  {
+    "text": "in brain software activity but\nin brain hardware as well.",
+    "start": 1102.85,
+    "duration": 3.44
+  },
+  {
+    "text": "And so, what I'm arguing",
+    "start": 1106.3,
+    "duration": 1.24
+  },
+  {
+    "text": "in Mind to Matter, what I'm\nshowing in these studies,",
+    "start": 1107.59,
+    "duration": 2.8
+  },
+  {
+    "text": "they reveal that our brains\nare changing substantially, remarkably,",
+    "start": 1110.54,
+    "duration": 5.45
+  },
+  {
+    "text": "and quickly in response to consciousness,\nwhen our awareness changes, when we",
+    "start": 1115.99,
+    "duration": 6.6
+  },
+  {
+    "text": "destress ourselves, when we tap, when we\nmeditate, when we do all these things",
+    "start": 1122.59,
+    "duration": 3.81
+  },
+  {
+    "text": "that help us feel better,\nthose subjective feelings of",
+    "start": 1126.4,
+    "duration": 4.02
+  },
+  {
+    "text": "well-being translate into objective\nchanges in measures like the volume of",
+    "start": 1130.42,
+    "duration": 5.91
+  },
+  {
+    "text": "neural tissue in different\nparts of the brain.",
+    "start": 1136.33,
+    "duration": 2.06
+  },
+  {
+    "text": "So if you've been for\nexample a kind of a",
+    "start": 1138.47,
+    "duration": 2.41
+  },
+  {
+    "text": "person who's been angry and stressed and\nupset and resentful for a long time,",
+    "start": 1140.89,
+    "duration": 2.7
+  },
+  {
+    "text": "you've been growing those neural\ncircuits for a long time and they",
+    "start": 1143.59,
+    "duration": 4.71
+  },
+  {
+    "text": "get worse and worse and worse.",
+    "start": 1148.3,
+    "duration": 1.14
+  },
+  {
+    "text": "PTSD, people with PTSD they get worse\nover time generally speaking, but if you",
+    "start": 1149.5,
+    "duration": 6.51
+  },
+  {
+    "text": "fill your mind and heart with love, with\ncompassion, with kindness, you can make",
+    "start": 1156.01,
+    "duration": 5.55
+  },
+  {
+    "text": "that choice over and over and over again\nas Graham Phillips did, you are then",
+    "start": 1161.56,
+    "duration": 4.35
+  },
+  {
+    "text": "building up those circuits that have to\ndo with all of those phenomena and you",
+    "start": 1165.91,
+    "duration": 5.82
+  },
+  {
+    "text": "are a resilient human being, you have\nthis core of resilience that can really",
+    "start": 1171.73,
+    "duration": 4.29
+  },
+  {
+    "text": "help you when times are tough or\nwhen you have life setbacks.",
+    "start": 1176.02,
+    "duration": 4.56
+  },
+  {
+    "text": "So I was intrigued by his case history of how\nwe're literally turning the software of",
+    "start": 1180.58,
+    "duration": 5.75
+  },
+  {
+    "text": "consciousness, of mind, into\nthe hardware of brain.",
+    "start": 1186.33,
+    "duration": 5.63
+  }
+]

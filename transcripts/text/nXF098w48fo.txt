@@ -1,0 +1,4902 @@
+[
+  {
+    "text": "need to know what my topic will be a day",
+    "start": 21.699,
+    "duration": 4.781
+  },
+  {
+    "text": "you might have guessed it's Astro",
+    "start": 23.96,
+    "duration": 5.189
+  },
+  {
+    "text": "mathematics and I can tell you that I'm",
+    "start": 26.48,
+    "duration": 5.099
+  },
+  {
+    "text": "not a proponent of Astro mathematics my",
+    "start": 29.149,
+    "duration": 4.291
+  },
+  {
+    "text": "purpose today is to reveal to you some",
+    "start": 31.579,
+    "duration": 5.811
+  },
+  {
+    "text": "of the methods of this very secret craft",
+    "start": 33.44,
+    "duration": 6.149
+  },
+  {
+    "text": "now the first thing I'd like to tell you",
+    "start": 37.39,
+    "duration": 4.089
+  },
+  {
+    "text": "is that there are different types of big",
+    "start": 39.589,
+    "duration": 3.301
+  },
+  {
+    "text": "height black holes and big bangs",
+    "start": 41.479,
+    "duration": 3.031
+  },
+  {
+    "text": "there are actually four types of black",
+    "start": 42.89,
+    "duration": 3.089
+  },
+  {
+    "text": "holes that are alleged and there are",
+    "start": 44.51,
+    "duration": 3.41
+  },
+  {
+    "text": "three types of big bangs that are ledges",
+    "start": 45.979,
+    "duration": 4.17
+  },
+  {
+    "text": "whenever you hear a proponent of black",
+    "start": 47.92,
+    "duration": 3.58
+  },
+  {
+    "text": "holes and big bangs talking to you about",
+    "start": 50.149,
+    "duration": 3.51
+  },
+  {
+    "text": "them do they ever tell you which black",
+    "start": 51.5,
+    "duration": 4.409
+  },
+  {
+    "text": "hole in which beg bang never they never",
+    "start": 53.659,
+    "duration": 2.61
+  },
+  {
+    "text": "do",
+    "start": 55.909,
+    "duration": 2.97
+  },
+  {
+    "text": "so you left guessing provided of course",
+    "start": 56.269,
+    "duration": 3.72
+  },
+  {
+    "text": "you know that there are four different",
+    "start": 58.879,
+    "duration": 2.31
+  },
+  {
+    "text": "types of black holes and three different",
+    "start": 59.989,
+    "duration": 3.06
+  },
+  {
+    "text": "types of big banks to begin with if you",
+    "start": 61.189,
+    "duration": 3.57
+  },
+  {
+    "text": "don't but whether you're in a real be",
+    "start": 63.049,
+    "duration": 4.86
+  },
+  {
+    "text": "disadvantaged further now there's a",
+    "start": 64.759,
+    "duration": 5.131
+  },
+  {
+    "text": "thing here that a couple of things here",
+    "start": 67.909,
+    "duration": 3.331
+  },
+  {
+    "text": "that I'd like to quote from lineweaver",
+    "start": 69.89,
+    "duration": 3.9
+  },
+  {
+    "text": "and Davis which was published in",
+    "start": 71.24,
+    "duration": 5.879
+  },
+  {
+    "text": "Scientific American in 2005 they're tell",
+    "start": 73.79,
+    "duration": 4.5
+  },
+  {
+    "text": "us here that the space between the",
+    "start": 77.119,
+    "duration": 5.131
+  },
+  {
+    "text": "galaxies is expanding okay this the Big",
+    "start": 78.29,
+    "duration": 6.3
+  },
+  {
+    "text": "Bang happened everywhere in the room in",
+    "start": 82.25,
+    "duration": 4.62
+  },
+  {
+    "text": "which you are reading this article in a",
+    "start": 84.59,
+    "duration": 4.1
+  },
+  {
+    "text": "spot just to the left of Alpha Centauri",
+    "start": 86.87,
+    "duration": 3.03
+  },
+  {
+    "text": "everywhere",
+    "start": 88.69,
+    "duration": 3.16
+  },
+  {
+    "text": "thus we can conceive of the early",
+    "start": 89.9,
+    "duration": 3.3
+  },
+  {
+    "text": "universe as a pile of overlapping",
+    "start": 91.85,
+    "duration": 4.32
+  },
+  {
+    "text": "grapefruits that stretches infinitely in",
+    "start": 93.2,
+    "duration": 5.04
+  },
+  {
+    "text": "all directions correspondingly the idea",
+    "start": 96.17,
+    "duration": 3.12
+  },
+  {
+    "text": "that the Big Bang was small is",
+    "start": 98.24,
+    "duration": 3.15
+  },
+  {
+    "text": "misleading the totality of space might",
+    "start": 99.29,
+    "duration": 4.89
+  },
+  {
+    "text": "be infinite well Weinberg Steven",
+    "start": 101.39,
+    "duration": 4.68
+  },
+  {
+    "text": "Weinberg is a well-known physicist and",
+    "start": 104.18,
+    "duration": 4.74
+  },
+  {
+    "text": "he tells us that all spaces in this",
+    "start": 106.07,
+    "duration": 5.1
+  },
+  {
+    "text": "context may be either infinite universe",
+    "start": 108.92,
+    "duration": 5.309
+  },
+  {
+    "text": "or a finite universe so they're telling",
+    "start": 111.17,
+    "duration": 7.23
+  },
+  {
+    "text": "us what Big Bang well they put all",
+    "start": 114.229,
+    "duration": 6.061
+  },
+  {
+    "text": "together at once so if you're in doubt",
+    "start": 118.4,
+    "duration": 4.44
+  },
+  {
+    "text": "make altogether the case so if you",
+    "start": 120.29,
+    "duration": 5.52
+  },
+  {
+    "text": "always guess now they're talking about",
+    "start": 122.84,
+    "duration": 3.72
+  },
+  {
+    "text": "grapefruit",
+    "start": 125.81,
+    "duration": 4.05
+  },
+  {
+    "text": "so is it fruit I thought to myself we",
+    "start": 126.56,
+    "duration": 5.039
+  },
+  {
+    "text": "thought it's they're telling us it's",
+    "start": 129.86,
+    "duration": 3.18
+  },
+  {
+    "text": "grapefruit and all along we thought it",
+    "start": 131.599,
+    "duration": 3.36
+  },
+  {
+    "text": "was fruit in general so we must have",
+    "start": 133.04,
+    "duration": 2.79
+  },
+  {
+    "text": "made a mistake",
+    "start": 134.959,
+    "duration": 5.161
+  },
+  {
+    "text": "why nominally name this the pH C B this",
+    "start": 135.83,
+    "duration": 6.329
+  },
+  {
+    "text": "is the principle of hedging cosmological",
+    "start": 140.12,
+    "duration": 4.22
+  },
+  {
+    "text": "bets",
+    "start": 142.159,
+    "duration": 2.181
+  },
+  {
+    "text": "now let's have a look here at the",
+    "start": 145.849,
+    "duration": 5.14
+  },
+  {
+    "text": "defining characteristics of black holes",
+    "start": 148.62,
+    "duration": 4.47
+  },
+  {
+    "text": "and big bangs I put five up there",
+    "start": 150.989,
+    "duration": 4.291
+  },
+  {
+    "text": "they've quite generic all types of black",
+    "start": 153.09,
+    "duration": 3.24
+  },
+  {
+    "text": "holes have mentioned there are four",
+    "start": 155.28,
+    "duration": 3.12
+  },
+  {
+    "text": "types they all share these",
+    "start": 156.33,
+    "duration": 3.989
+  },
+  {
+    "text": "characteristics and the three types of",
+    "start": 158.4,
+    "duration": 3.66
+  },
+  {
+    "text": "BIGBANG's that are alleged have this",
+    "start": 160.319,
+    "duration": 3.091
+  },
+  {
+    "text": "characteristic let's compare them",
+    "start": 162.06,
+    "duration": 3.899
+  },
+  {
+    "text": "they're very simple all black hole",
+    "start": 163.41,
+    "duration": 5.43
+  },
+  {
+    "text": "universes are spatially infinite they're",
+    "start": 165.959,
+    "duration": 5.041
+  },
+  {
+    "text": "eternal verities they're static or",
+    "start": 168.84,
+    "duration": 5.19
+  },
+  {
+    "text": "stationary they contain only one mass",
+    "start": 171.0,
+    "duration": 5.549
+  },
+  {
+    "text": "they are not expanding and they're",
+    "start": 174.03,
+    "duration": 4.05
+  },
+  {
+    "text": "either asymptotically flat or",
+    "start": 176.549,
+    "duration": 3.871
+  },
+  {
+    "text": "asymptotically curved that might sound a",
+    "start": 178.08,
+    "duration": 4.14
+  },
+  {
+    "text": "little hairy theory but it doesn't",
+    "start": 180.42,
+    "duration": 2.94
+  },
+  {
+    "text": "really matter if you don't know if you",
+    "start": 182.22,
+    "duration": 3.39
+  },
+  {
+    "text": "know of an asymptote with a hyper for",
+    "start": 183.36,
+    "duration": 4.709
+  },
+  {
+    "text": "example the hyperbola against the x and",
+    "start": 185.61,
+    "duration": 4.92
+  },
+  {
+    "text": "y axis that's all it is now when we",
+    "start": 188.069,
+    "duration": 4.291
+  },
+  {
+    "text": "compare this to all the alleged Big Bang",
+    "start": 190.53,
+    "duration": 4.5
+  },
+  {
+    "text": "universes we find that the Big Bang",
+    "start": 192.36,
+    "duration": 4.68
+  },
+  {
+    "text": "universes are either spatially infinite",
+    "start": 195.03,
+    "duration": 4.83
+  },
+  {
+    "text": "in one case or sorry spatially finite in",
+    "start": 197.04,
+    "duration": 4.68
+  },
+  {
+    "text": "one case or spatially infant in two",
+    "start": 199.86,
+    "duration": 3.81
+  },
+  {
+    "text": "different cases well it doesn't match",
+    "start": 201.72,
+    "duration": 4.2
+  },
+  {
+    "text": "the black hole characteristic then",
+    "start": 203.67,
+    "duration": 5.76
+  },
+  {
+    "text": "they're of a finite age that means the",
+    "start": 205.92,
+    "duration": 5.069
+  },
+  {
+    "text": "non static or non station they tell us",
+    "start": 209.43,
+    "duration": 4.26
+  },
+  {
+    "text": "now that they're about 13.8 billion",
+    "start": 210.989,
+    "duration": 4.47
+  },
+  {
+    "text": "years it's crept up every now and then",
+    "start": 213.69,
+    "duration": 4.65
+  },
+  {
+    "text": "from the bits of increments 13.8 billion",
+    "start": 215.459,
+    "duration": 4.86
+  },
+  {
+    "text": "well the black hole universe is eternal",
+    "start": 218.34,
+    "duration": 4.5
+  },
+  {
+    "text": "the Big Bang universe is contained",
+    "start": 220.319,
+    "duration": 4.441
+  },
+  {
+    "text": "radiation and many masses there",
+    "start": 222.84,
+    "duration": 3.63
+  },
+  {
+    "text": "allegedly expanding and they're not",
+    "start": 224.76,
+    "duration": 4.38
+  },
+  {
+    "text": "asymptotically anything so how can you",
+    "start": 226.47,
+    "duration": 4.29
+  },
+  {
+    "text": "have a black hole universe in a Big Bang",
+    "start": 229.14,
+    "duration": 2.849
+  },
+  {
+    "text": "universe when they're diametrically",
+    "start": 230.76,
+    "duration": 4.08
+  },
+  {
+    "text": "opposed by very definition you can't but",
+    "start": 231.989,
+    "duration": 4.83
+  },
+  {
+    "text": "they do they put them all together and",
+    "start": 234.84,
+    "duration": 3.269
+  },
+  {
+    "text": "they never tell you which ones they're",
+    "start": 236.819,
+    "duration": 4.111
+  },
+  {
+    "text": "putting together now another point here",
+    "start": 238.109,
+    "duration": 6.421
+  },
+  {
+    "text": "is the Big Bang universe is from my",
+    "start": 240.93,
+    "duration": 4.77
+  },
+  {
+    "text": "previous slide you might have seen or",
+    "start": 244.53,
+    "duration": 5.459
+  },
+  {
+    "text": "characterized by K values I'll call them",
+    "start": 245.7,
+    "duration": 6.45
+  },
+  {
+    "text": "k curvatures there's three types minus",
+    "start": 249.989,
+    "duration": 5.461
+  },
+  {
+    "text": "one zero or one well we come to this one",
+    "start": 252.15,
+    "duration": 5.369
+  },
+  {
+    "text": "again we see no alleged Big Bang",
+    "start": 255.45,
+    "duration": 5.31
+  },
+  {
+    "text": "knowledge black hole universe has a big",
+    "start": 257.519,
+    "duration": 5.821
+  },
+  {
+    "text": "bang knowledge black hole universe has a",
+    "start": 260.76,
+    "duration": 4.62
+  },
+  {
+    "text": "big benkei curvature then or even the",
+    "start": 263.34,
+    "duration": 4.53
+  },
+  {
+    "text": "same types of universes so but they",
+    "start": 265.38,
+    "duration": 4.92
+  },
+  {
+    "text": "still put them together so we see that",
+    "start": 267.87,
+    "duration": 4.68
+  },
+  {
+    "text": "black hole universes and Big Bang",
+    "start": 270.3,
+    "duration": 3.989
+  },
+  {
+    "text": "universe are mutually exclusive they",
+    "start": 272.55,
+    "duration": 3.78
+  },
+  {
+    "text": "can't coexist even by the very theory",
+    "start": 274.289,
+    "duration": 3.361
+  },
+  {
+    "text": "that these people use",
+    "start": 276.33,
+    "duration": 3.089
+  },
+  {
+    "text": "yet they put them together and construct",
+    "start": 277.65,
+    "duration": 4.62
+  },
+  {
+    "text": "multiple black holes in a Big Bang",
+    "start": 279.419,
+    "duration": 4.591
+  },
+  {
+    "text": "universe they never specify which Big",
+    "start": 282.27,
+    "duration": 3.33
+  },
+  {
+    "text": "Bang universe and they never tell you",
+    "start": 284.01,
+    "duration": 3.36
+  },
+  {
+    "text": "which black hole they're talking about",
+    "start": 285.6,
+    "duration": 3.39
+  },
+  {
+    "text": "so you can see that it's quite a",
+    "start": 287.37,
+    "duration": 4.92
+  },
+  {
+    "text": "nonsensical here's a little example",
+    "start": 288.99,
+    "duration": 6.14
+  },
+  {
+    "text": "rather of the principle of superposition",
+    "start": 292.29,
+    "duration": 4.71
+  },
+  {
+    "text": "violations it relates to what I've just",
+    "start": 295.13,
+    "duration": 4.36
+  },
+  {
+    "text": "been talking about let's say X is a",
+    "start": 297.0,
+    "duration": 4.08
+  },
+  {
+    "text": "black hole universe it doesn't matter",
+    "start": 299.49,
+    "duration": 4.2
+  },
+  {
+    "text": "what one any one you like and we have a",
+    "start": 301.08,
+    "duration": 6.63
+  },
+  {
+    "text": "wise a Big Bang universe then we have X",
+    "start": 303.69,
+    "duration": 6.27
+  },
+  {
+    "text": "plus y is not a universe in Einstein's",
+    "start": 307.71,
+    "duration": 5.04
+  },
+  {
+    "text": "theory why because X plus y is a linear",
+    "start": 309.96,
+    "duration": 5.37
+  },
+  {
+    "text": "combination and generally theory is what",
+    "start": 312.75,
+    "duration": 6.33
+  },
+  {
+    "text": "we call a nonlinear theory so you cannot",
+    "start": 315.33,
+    "duration": 5.43
+  },
+  {
+    "text": "make a linear combination of solutions",
+    "start": 319.08,
+    "duration": 3.69
+  },
+  {
+    "text": "the first and the second thing is we see",
+    "start": 320.76,
+    "duration": 4.74
+  },
+  {
+    "text": "that x and y pertain to completely",
+    "start": 322.77,
+    "duration": 4.44
+  },
+  {
+    "text": "different sets of Einstein field",
+    "start": 325.5,
+    "duration": 3.66
+  },
+  {
+    "text": "equations so they have absolutely",
+    "start": 327.21,
+    "duration": 4.62
+  },
+  {
+    "text": "nothing to do with one another so how do",
+    "start": 329.16,
+    "duration": 4.08
+  },
+  {
+    "text": "they get them to match or put them",
+    "start": 331.83,
+    "duration": 3.39
+  },
+  {
+    "text": "together linearly they can't but they do",
+    "start": 333.24,
+    "duration": 4.38
+  },
+  {
+    "text": "because they just decided that's what",
+    "start": 335.22,
+    "duration": 4.44
+  },
+  {
+    "text": "they want to do but that doesn't work it",
+    "start": 337.62,
+    "duration": 3.84
+  },
+  {
+    "text": "violates the general relativity the fear",
+    "start": 339.66,
+    "duration": 5.28
+  },
+  {
+    "text": "of generality itself so you can't do",
+    "start": 341.46,
+    "duration": 6.959
+  },
+  {
+    "text": "that but they do it all the time here's",
+    "start": 344.94,
+    "duration": 5.099
+  },
+  {
+    "text": "a quote from Martin Rees he's the",
+    "start": 348.419,
+    "duration": 3.691
+  },
+  {
+    "text": "astronomer royal he tells us that black",
+    "start": 350.039,
+    "duration": 3.451
+  },
+  {
+    "text": "holes are all over the place and their",
+    "start": 352.11,
+    "duration": 3.17
+  },
+  {
+    "text": "consequences of Einstein's theory well",
+    "start": 353.49,
+    "duration": 4.14
+  },
+  {
+    "text": "in what Big Bang universe he doesn't",
+    "start": 355.28,
+    "duration": 3.609
+  },
+  {
+    "text": "tell us but he does think it's in the",
+    "start": 357.63,
+    "duration": 3.509
+  },
+  {
+    "text": "Big Bang universe you can see that it",
+    "start": 358.889,
+    "duration": 3.771
+  },
+  {
+    "text": "doesn't make sense",
+    "start": 361.139,
+    "duration": 4.681
+  },
+  {
+    "text": "now all Big Bang universes contrary to",
+    "start": 362.66,
+    "duration": 5.02
+  },
+  {
+    "text": "what you might be led to believe are one",
+    "start": 365.82,
+    "duration": 3.33
+  },
+  {
+    "text": "massing of vs. because they model the",
+    "start": 367.68,
+    "duration": 4.41
+  },
+  {
+    "text": "universe as being fully completely",
+    "start": 369.15,
+    "duration": 4.56
+  },
+  {
+    "text": "filled by a single indivisible",
+    "start": 372.09,
+    "duration": 4.13
+  },
+  {
+    "text": "homogeneous distribution of matter and",
+    "start": 373.71,
+    "duration": 6.51
+  },
+  {
+    "text": "so if that's the case how do you account",
+    "start": 376.22,
+    "duration": 6.31
+  },
+  {
+    "text": "for gravity all experiments show that",
+    "start": 380.22,
+    "duration": 4.199
+  },
+  {
+    "text": "gravity is an interaction between two or",
+    "start": 382.53,
+    "duration": 3.69
+  },
+  {
+    "text": "more masses well you can't get that from",
+    "start": 384.419,
+    "duration": 3.571
+  },
+  {
+    "text": "a model that models a whole universe as",
+    "start": 386.22,
+    "duration": 3.36
+  },
+  {
+    "text": "a single master can't be divided up in",
+    "start": 387.99,
+    "duration": 4.5
+  },
+  {
+    "text": "the bits nonetheless they divided up",
+    "start": 389.58,
+    "duration": 4.32
+  },
+  {
+    "text": "into bits and tell us that the great big",
+    "start": 392.49,
+    "duration": 2.76
+  },
+  {
+    "text": "bang universe has got lots of black",
+    "start": 393.9,
+    "duration": 5.04
+  },
+  {
+    "text": "holes some of them are primordial sizes",
+    "start": 395.25,
+    "duration": 5.07
+  },
+  {
+    "text": "of black holes don't change types",
+    "start": 398.94,
+    "duration": 2.82
+  },
+  {
+    "text": "they're not types it's like human beings",
+    "start": 400.32,
+    "duration": 3.24
+  },
+  {
+    "text": "we've got different races but we've got",
+    "start": 401.76,
+    "duration": 3.649
+  },
+  {
+    "text": "big ones and small ones on a small one",
+    "start": 403.56,
+    "duration": 4.34
+  },
+  {
+    "text": "but",
+    "start": 405.409,
+    "duration": 5.401
+  },
+  {
+    "text": "you know so we've got different types",
+    "start": 407.9,
+    "duration": 4.71
+  },
+  {
+    "text": "different races same with black holes",
+    "start": 410.81,
+    "duration": 3.51
+  },
+  {
+    "text": "big ones and small ones are not types",
+    "start": 412.61,
+    "duration": 5.25
+  },
+  {
+    "text": "they just sizes whatever you got here",
+    "start": 414.32,
+    "duration": 5.73
+  },
+  {
+    "text": "now I can't read without my glasses and",
+    "start": 417.86,
+    "duration": 3.779
+  },
+  {
+    "text": "I haven't got good ones so what do we",
+    "start": 420.05,
+    "duration": 2.07
+  },
+  {
+    "text": "got here",
+    "start": 421.639,
+    "duration": 4.321
+  },
+  {
+    "text": "oh yes well how do they get these black",
+    "start": 422.12,
+    "duration": 5.579
+  },
+  {
+    "text": "holes and big bangs to go together they",
+    "start": 425.96,
+    "duration": 4.079
+  },
+  {
+    "text": "apply the principle of superposition we",
+    "start": 427.699,
+    "duration": 3.631
+  },
+  {
+    "text": "saw earlier that you can't do that",
+    "start": 430.039,
+    "duration": 3.781
+  },
+  {
+    "text": "because generative is a nonlinear theory",
+    "start": 431.33,
+    "duration": 4.589
+  },
+  {
+    "text": "you have two different solutions and you",
+    "start": 433.82,
+    "duration": 3.81
+  },
+  {
+    "text": "add them together you haven't got a",
+    "start": 435.919,
+    "duration": 3.691
+  },
+  {
+    "text": "solution right you can't do that you",
+    "start": 437.63,
+    "duration": 3.27
+  },
+  {
+    "text": "have to solve a set of equation",
+    "start": 439.61,
+    "duration": 4.44
+  },
+  {
+    "text": "specifically now this is not a NASA",
+    "start": 440.9,
+    "duration": 5.519
+  },
+  {
+    "text": "photograph you can tell it's not a NASA",
+    "start": 444.05,
+    "duration": 3.899
+  },
+  {
+    "text": "photograph because on the right hand",
+    "start": 446.419,
+    "duration": 3.511
+  },
+  {
+    "text": "side written in vertical small print it",
+    "start": 447.949,
+    "duration": 4.831
+  },
+  {
+    "text": "says an artistic impression this is a",
+    "start": 449.93,
+    "duration": 4.109
+  },
+  {
+    "text": "standard method of presenting",
+    "start": 452.78,
+    "duration": 3.57
+  },
+  {
+    "text": "photographs or images of black holes and",
+    "start": 454.039,
+    "duration": 4.621
+  },
+  {
+    "text": "big bangs now we have an astronaut here",
+    "start": 456.35,
+    "duration": 3.99
+  },
+  {
+    "text": "this is called spaghettification if you",
+    "start": 458.66,
+    "duration": 3.45
+  },
+  {
+    "text": "don't know about it you get stretched",
+    "start": 460.34,
+    "duration": 2.699
+  },
+  {
+    "text": "like a piece of spaghetti",
+    "start": 462.11,
+    "duration": 3.179
+  },
+  {
+    "text": "well the astronaut on the left is a very",
+    "start": 463.039,
+    "duration": 3.871
+  },
+  {
+    "text": "happy little Vegemite he's standing on",
+    "start": 465.289,
+    "duration": 1.891
+  },
+  {
+    "text": "the earth",
+    "start": 466.91,
+    "duration": 3.33
+  },
+  {
+    "text": "you see smiling now this one on the",
+    "start": 467.18,
+    "duration": 5.73
+  },
+  {
+    "text": "right he's falling into a black hole or",
+    "start": 470.24,
+    "duration": 4.59
+  },
+  {
+    "text": "maybe a star because black holes and",
+    "start": 472.91,
+    "duration": 3.99
+  },
+  {
+    "text": "stars distinctly described by the same",
+    "start": 474.83,
+    "duration": 3.99
+  },
+  {
+    "text": "alleged solutions so he's being",
+    "start": 476.9,
+    "duration": 4.56
+  },
+  {
+    "text": "stretched why well which way is he",
+    "start": 478.82,
+    "duration": 3.319
+  },
+  {
+    "text": "falling",
+    "start": 481.46,
+    "duration": 4.38
+  },
+  {
+    "text": "you can't tell is he falling headfirst",
+    "start": 482.139,
+    "duration": 6.731
+  },
+  {
+    "text": "or is he falling feet first let's say",
+    "start": 485.84,
+    "duration": 4.5
+  },
+  {
+    "text": "he's falling headfirst the black hole",
+    "start": 488.87,
+    "duration": 2.85
+  },
+  {
+    "text": "was star must be above his head",
+    "start": 490.34,
+    "duration": 2.94
+  },
+  {
+    "text": "so he's falling in he gets stretched",
+    "start": 491.72,
+    "duration": 3.39
+  },
+  {
+    "text": "like a piece of spaghetti because they",
+    "start": 493.28,
+    "duration": 3.8
+  },
+  {
+    "text": "tell us that the tidal forces",
+    "start": 495.11,
+    "duration": 4.17
+  },
+  {
+    "text": "gravitational forces on his head are",
+    "start": 497.08,
+    "duration": 4.18
+  },
+  {
+    "text": "stronger than those on his feet and so",
+    "start": 499.28,
+    "duration": 3.6
+  },
+  {
+    "text": "he gets stretched as he falls into this",
+    "start": 501.26,
+    "duration": 4.469
+  },
+  {
+    "text": "black hole the trouble is in general",
+    "start": 502.88,
+    "duration": 3.36
+  },
+  {
+    "text": "relativity",
+    "start": 505.729,
+    "duration": 3.451
+  },
+  {
+    "text": "gravity's another force we see here",
+    "start": 506.24,
+    "duration": 5.609
+  },
+  {
+    "text": "quote from a paper boy well him to see",
+    "start": 509.18,
+    "duration": 6.0
+  },
+  {
+    "text": "there was a famous Dutch astronomer and",
+    "start": 511.849,
+    "duration": 5.37
+  },
+  {
+    "text": "he tells us what we already know anyway",
+    "start": 515.18,
+    "duration": 6.12
+  },
+  {
+    "text": "that in general relativity gravity is",
+    "start": 517.219,
+    "duration": 6.661
+  },
+  {
+    "text": "not a force so you don't have a force of",
+    "start": 521.3,
+    "duration": 4.979
+  },
+  {
+    "text": "gravity so why do they invoke forces of",
+    "start": 523.88,
+    "duration": 4.5
+  },
+  {
+    "text": "gravity to spaghettify astronauts",
+    "start": 526.279,
+    "duration": 4.141
+  },
+  {
+    "text": "falling into black holes in other words",
+    "start": 528.38,
+    "duration": 3.93
+  },
+  {
+    "text": "they're using Newtonian ideas or forces",
+    "start": 530.42,
+    "duration": 4.65
+  },
+  {
+    "text": "to describe gravitational forces where",
+    "start": 532.31,
+    "duration": 4.08
+  },
+  {
+    "text": "in generality there are no forces",
+    "start": 535.07,
+    "duration": 2.79
+  },
+  {
+    "text": "because what's what's gravity",
+    "start": 536.39,
+    "duration": 3.96
+  },
+  {
+    "text": "it's a curvature of space-time so we",
+    "start": 537.86,
+    "duration": 3.78
+  },
+  {
+    "text": "would have to say the curve",
+    "start": 540.35,
+    "duration": 3.39
+  },
+  {
+    "text": "to a space/time on his head he's bigger",
+    "start": 541.64,
+    "duration": 3.66
+  },
+  {
+    "text": "or stronger than the curvature of",
+    "start": 543.74,
+    "duration": 3.42
+  },
+  {
+    "text": "space-time on his feet in some hair",
+    "start": 545.3,
+    "duration": 3.09
+  },
+  {
+    "text": "another he gets a lot more curved",
+    "start": 547.16,
+    "duration": 4.95
+  },
+  {
+    "text": "stretched at such well apples are fruit",
+    "start": 548.39,
+    "duration": 4.92
+  },
+  {
+    "text": "aren't they",
+    "start": 552.11,
+    "duration": 3.18
+  },
+  {
+    "text": "you take you go to the you go to the",
+    "start": 553.31,
+    "duration": 3.42
+  },
+  {
+    "text": "grocery remember the old days you go the",
+    "start": 555.29,
+    "duration": 3.54
+  },
+  {
+    "text": "grocery store and you would go to they",
+    "start": 556.73,
+    "duration": 4.17
+  },
+  {
+    "text": "have a grocer would have a a pen in a",
+    "start": 558.83,
+    "duration": 3.96
+  },
+  {
+    "text": "spring balance you put your apples in",
+    "start": 560.9,
+    "duration": 4.11
+  },
+  {
+    "text": "the spring balance and it stretches the",
+    "start": 562.79,
+    "duration": 4.44
+  },
+  {
+    "text": "spring and you read off the gauge is",
+    "start": 565.01,
+    "duration": 4.26
+  },
+  {
+    "text": "that's two dollars or whatever it cost",
+    "start": 567.23,
+    "duration": 5.76
+  },
+  {
+    "text": "for the apothem apples well how do you",
+    "start": 569.27,
+    "duration": 6.86
+  },
+  {
+    "text": "weigh apples using general relativity",
+    "start": 572.99,
+    "duration": 5.42
+  },
+  {
+    "text": "you know it's a curvature of space-time",
+    "start": 576.13,
+    "duration": 5.08
+  },
+  {
+    "text": "the what's in the spring it's a force",
+    "start": 578.41,
+    "duration": 4.24
+  },
+  {
+    "text": "it's stretching the spring we know",
+    "start": 581.21,
+    "duration": 3.56
+  },
+  {
+    "text": "that's forces it's very simple physics",
+    "start": 582.65,
+    "duration": 5.82
+  },
+  {
+    "text": "you cannot why apples with general",
+    "start": 584.77,
+    "duration": 5.23
+  },
+  {
+    "text": "relativity you can't buy anything with",
+    "start": 588.47,
+    "duration": 2.91
+  },
+  {
+    "text": "general relativity so if you've got a",
+    "start": 590.0,
+    "duration": 3.03
+  },
+  {
+    "text": "theory of gravity that can't account for",
+    "start": 591.38,
+    "duration": 2.79
+  },
+  {
+    "text": "weighing apples at the grocery store",
+    "start": 593.03,
+    "duration": 3.06
+  },
+  {
+    "text": "what kind of theory of gravity have you",
+    "start": 594.17,
+    "duration": 7.08
+  },
+  {
+    "text": "got mm-hmm tell me here is a black hole",
+    "start": 596.09,
+    "duration": 7.8
+  },
+  {
+    "text": "universe this is not this is based on an",
+    "start": 601.25,
+    "duration": 5.58
+  },
+  {
+    "text": "earth on a NASA photograph I drew it but",
+    "start": 603.89,
+    "duration": 5.07
+  },
+  {
+    "text": "it's based on a NASA photograph this is",
+    "start": 606.83,
+    "duration": 4.05
+  },
+  {
+    "text": "the kind of presentations you get so I",
+    "start": 608.96,
+    "duration": 3.87
+  },
+  {
+    "text": "thought I just put that in as let you",
+    "start": 610.88,
+    "duration": 5.58
+  },
+  {
+    "text": "know now what do we got here let's say",
+    "start": 612.83,
+    "duration": 5.25
+  },
+  {
+    "text": "that the top line the horizontal line is",
+    "start": 616.46,
+    "duration": 3.48
+  },
+  {
+    "text": "flat space-time and the horror in the",
+    "start": 618.08,
+    "duration": 3.0
+  },
+  {
+    "text": "vertical line goes off to the",
+    "start": 619.94,
+    "duration": 2.61
+  },
+  {
+    "text": "singularity where it's infinitely curved",
+    "start": 621.08,
+    "duration": 3.81
+  },
+  {
+    "text": "space-time well as you move away from",
+    "start": 622.55,
+    "duration": 4.59
+  },
+  {
+    "text": "the center by the radial distance you",
+    "start": 624.89,
+    "duration": 3.93
+  },
+  {
+    "text": "get closer and closer but you never",
+    "start": 627.14,
+    "duration": 3.51
+  },
+  {
+    "text": "actually touched the top line horizontal",
+    "start": 628.82,
+    "duration": 3.06
+  },
+  {
+    "text": "one year close this is called asymptotic",
+    "start": 630.65,
+    "duration": 3.6
+  },
+  {
+    "text": "flatness or asymptotic curve it as if",
+    "start": 631.88,
+    "duration": 5.28
+  },
+  {
+    "text": "it's a curved space-time right so this",
+    "start": 634.25,
+    "duration": 4.26
+  },
+  {
+    "text": "is a part of the definition the black",
+    "start": 637.16,
+    "duration": 4.44
+  },
+  {
+    "text": "hole it goes off to infinity and",
+    "start": 638.51,
+    "duration": 5.04
+  },
+  {
+    "text": "encounters no other masses because",
+    "start": 641.6,
+    "duration": 3.51
+  },
+  {
+    "text": "otherwise you wouldn't have the",
+    "start": 643.55,
+    "duration": 4.11
+  },
+  {
+    "text": "definition of a black hole so let's",
+    "start": 645.11,
+    "duration": 5.79
+  },
+  {
+    "text": "compare this now we'll compare this to",
+    "start": 647.66,
+    "duration": 6.69
+  },
+  {
+    "text": "two black holes well in this diagram",
+    "start": 650.9,
+    "duration": 6.57
+  },
+  {
+    "text": "I've got the two black holes here next",
+    "start": 654.35,
+    "duration": 4.74
+  },
+  {
+    "text": "to one another and a little insert there",
+    "start": 657.47,
+    "duration": 4.17
+  },
+  {
+    "text": "with lots of black holes we see here",
+    "start": 659.09,
+    "duration": 4.23
+  },
+  {
+    "text": "that in between these two black holes",
+    "start": 661.64,
+    "duration": 5.19
+  },
+  {
+    "text": "are they asymptotically flat no what",
+    "start": 663.32,
+    "duration": 5.07
+  },
+  {
+    "text": "about the left black hole and the right",
+    "start": 666.83,
+    "duration": 3.8
+  },
+  {
+    "text": "black hole will the left black hole",
+    "start": 668.39,
+    "duration": 5.25
+  },
+  {
+    "text": "encounters it's not as importantly flat",
+    "start": 670.63,
+    "duration": 4.96
+  },
+  {
+    "text": "between them and it encounters in",
+    "start": 673.64,
+    "duration": 3.69
+  },
+  {
+    "text": "curvature where the other black hole is",
+    "start": 675.59,
+    "duration": 4.11
+  },
+  {
+    "text": "well similarly the right black hole it",
+    "start": 677.33,
+    "duration": 5.64
+  },
+  {
+    "text": "encounters non it's not a knot no Kurt",
+    "start": 679.7,
+    "duration": 5.25
+  },
+  {
+    "text": "no no asymptotic flatness in the middle",
+    "start": 682.97,
+    "duration": 3.6
+  },
+  {
+    "text": "or curvature in the middle and it",
+    "start": 684.95,
+    "duration": 4.11
+  },
+  {
+    "text": "encounters a infinite curvature at the",
+    "start": 686.57,
+    "duration": 4.53
+  },
+  {
+    "text": "other black hole but by the definition",
+    "start": 689.06,
+    "duration": 2.91
+  },
+  {
+    "text": "of black holes",
+    "start": 691.1,
+    "duration": 2.85
+  },
+  {
+    "text": "they must be asymptotically flat or",
+    "start": 691.97,
+    "duration": 3.36
+  },
+  {
+    "text": "asymptotically curved that's not",
+    "start": 693.95,
+    "duration": 2.01
+  },
+  {
+    "text": "possible",
+    "start": 695.33,
+    "duration": 3.78
+  },
+  {
+    "text": "can't be because let's have a look at",
+    "start": 695.96,
+    "duration": 5.37
+  },
+  {
+    "text": "what this fellow",
+    "start": 699.11,
+    "duration": 4.68
+  },
+  {
+    "text": "Daniel Stone he's a lead author on the",
+    "start": 701.33,
+    "duration": 3.75
+  },
+  {
+    "text": "wise survey for NASA",
+    "start": 703.79,
+    "duration": 2.64
+  },
+  {
+    "text": "they reckon they've got black holes",
+    "start": 705.08,
+    "duration": 4.71
+  },
+  {
+    "text": "cornered he tells us that they found 2.5",
+    "start": 706.43,
+    "duration": 5.37
+  },
+  {
+    "text": "million black holes with a wide survey",
+    "start": 709.79,
+    "duration": 3.96
+  },
+  {
+    "text": "well that means each one of these black",
+    "start": 711.8,
+    "duration": 5.37
+  },
+  {
+    "text": "holes that he talks about encounters two",
+    "start": 713.75,
+    "duration": 4.86
+  },
+  {
+    "text": "million four hundred and ninety nine",
+    "start": 717.17,
+    "duration": 2.97
+  },
+  {
+    "text": "thousand nine hundred and ninety nine",
+    "start": 718.61,
+    "duration": 4.05
+  },
+  {
+    "text": "infinite curvatures all around it that's",
+    "start": 720.14,
+    "duration": 4.2
+  },
+  {
+    "text": "a long way from being asymptotically",
+    "start": 722.66,
+    "duration": 4.05
+  },
+  {
+    "text": "anything so that violates the very",
+    "start": 724.34,
+    "duration": 3.9
+  },
+  {
+    "text": "definition of a black hole you can't",
+    "start": 726.71,
+    "duration": 2.73
+  },
+  {
+    "text": "have black holes all over the place",
+    "start": 728.24,
+    "duration": 3.69
+  },
+  {
+    "text": "black holes are one mass universes that",
+    "start": 729.44,
+    "duration": 5.22
+  },
+  {
+    "text": "doesn't describe anything here's a real",
+    "start": 731.93,
+    "duration": 4.23
+  },
+  {
+    "text": "gem I really like this one this is about",
+    "start": 734.66,
+    "duration": 4.53
+  },
+  {
+    "text": "escape velocities this is what here we",
+    "start": 736.16,
+    "duration": 4.56
+  },
+  {
+    "text": "find in the dictionary of geophysics and",
+    "start": 739.19,
+    "duration": 3.33
+  },
+  {
+    "text": "astrophysics a black hole is a region of",
+    "start": 740.72,
+    "duration": 4.35
+  },
+  {
+    "text": "space-time from which the escape",
+    "start": 742.52,
+    "duration": 4.73
+  },
+  {
+    "text": "velocity exceeds the velocity of light",
+    "start": 745.07,
+    "duration": 5.1
+  },
+  {
+    "text": "similarly we find in the import by",
+    "start": 747.25,
+    "duration": 4.33
+  },
+  {
+    "text": "Hawking in his book the theory of",
+    "start": 750.17,
+    "duration": 3.72
+  },
+  {
+    "text": "everything he tells us that you can't",
+    "start": 751.58,
+    "duration": 3.78
+  },
+  {
+    "text": "escape from the event horizon white",
+    "start": 753.89,
+    "duration": 3.27
+  },
+  {
+    "text": "hovers forever on the edge of the black",
+    "start": 755.36,
+    "duration": 4.98
+  },
+  {
+    "text": "hole it doesn't even get out and there",
+    "start": 757.16,
+    "duration": 5.1
+  },
+  {
+    "text": "here's my favorite one Professor Joseph",
+    "start": 760.34,
+    "duration": 3.42
+  },
+  {
+    "text": "Lee and Hawthorne at the University of",
+    "start": 762.26,
+    "duration": 3.72
+  },
+  {
+    "text": "Sydney at the Institute for astronomy he",
+    "start": 763.76,
+    "duration": 4.26
+  },
+  {
+    "text": "was on television at this on the ABC one",
+    "start": 765.98,
+    "duration": 4.89
+  },
+  {
+    "text": "not long ago he tells us that the escape",
+    "start": 768.02,
+    "duration": 4.56
+  },
+  {
+    "text": "velocities of black holes is the speed",
+    "start": 770.87,
+    "duration": 5.66
+  },
+  {
+    "text": "of light therefore light can't escape",
+    "start": 772.58,
+    "duration": 8.16
+  },
+  {
+    "text": "think about that light the speed of",
+    "start": 776.53,
+    "duration": 6.58
+  },
+  {
+    "text": "light is the light travels at the speed",
+    "start": 780.74,
+    "duration": 4.26
+  },
+  {
+    "text": "of light the escape velocity is the",
+    "start": 783.11,
+    "duration": 3.62
+  },
+  {
+    "text": "speed of light wouldn't life at escape",
+    "start": 785.0,
+    "duration": 4.92
+  },
+  {
+    "text": "he tells us no it doesn't escape this is",
+    "start": 786.73,
+    "duration": 4.9
+  },
+  {
+    "text": "on national television now I put a",
+    "start": 789.92,
+    "duration": 3.63
+  },
+  {
+    "text": "little annotation here because it seems",
+    "start": 791.63,
+    "duration": 3.81
+  },
+  {
+    "text": "to me that astrophysics has stumbled",
+    "start": 793.55,
+    "duration": 3.66
+  },
+  {
+    "text": "upon a solution to a long-standing out",
+    "start": 795.44,
+    "duration": 3.51
+  },
+  {
+    "text": "along outstanding anthropological",
+    "start": 797.21,
+    "duration": 3.51
+  },
+  {
+    "text": "problem failure when typological problem",
+    "start": 798.95,
+    "duration": 5.7
+  },
+  {
+    "text": "on the left its Homo erectus on the",
+    "start": 800.72,
+    "duration": 5.76
+  },
+  {
+    "text": "right its cro-magnon man",
+    "start": 804.65,
+    "duration": 4.53
+  },
+  {
+    "text": "the paleoanthropologist tell us that",
+    "start": 806.48,
+    "duration": 4.41
+  },
+  {
+    "text": "hi my reckless didn't have the brain",
+    "start": 809.18,
+    "duration": 4.34
+  },
+  {
+    "text": "capacity to make such contributions and",
+    "start": 810.89,
+    "duration": 4.8
+  },
+  {
+    "text": "cro-magnon men they tell us had the read",
+    "start": 813.52,
+    "duration": 4.33
+  },
+  {
+    "text": "the grain capacity to spot such",
+    "start": 815.69,
+    "duration": 4.58
+  },
+  {
+    "text": "contradictions but somewhere in between",
+    "start": 817.85,
+    "duration": 4.59
+  },
+  {
+    "text": "there's a brain capacity that can make",
+    "start": 820.27,
+    "duration": 3.61
+  },
+  {
+    "text": "contradictions and never realize it",
+    "start": 822.44,
+    "duration": 4.5
+  },
+  {
+    "text": "that's the missing link you all you you",
+    "start": 823.88,
+    "duration": 7.31
+  },
+  {
+    "text": "know so I reckon so",
+    "start": 826.94,
+    "duration": 4.25
+  },
+  {
+    "text": "so Charles Dawson and his co-accused",
+    "start": 832.79,
+    "duration": 3.09
+  },
+  {
+    "text": "they didn't have to go out and get",
+    "start": 834.44,
+    "duration": 3.33
+  },
+  {
+    "text": "themselves an ape-man the bull and fall",
+    "start": 835.88,
+    "duration": 3.3
+  },
+  {
+    "text": "down the tooth and die there and rub",
+    "start": 837.77,
+    "duration": 2.64
+  },
+  {
+    "text": "them in the closet Piltdown they get",
+    "start": 839.18,
+    "duration": 2.4
+  },
+  {
+    "text": "their missing link all I had to do is",
+    "start": 840.41,
+    "duration": 3.06
+  },
+  {
+    "text": "interview a few astrophysicists and",
+    "start": 841.58,
+    "duration": 3.36
+  },
+  {
+    "text": "astronomers at the time they would have",
+    "start": 843.47,
+    "duration": 5.61
+  },
+  {
+    "text": "found them there okay now here we got",
+    "start": 844.94,
+    "duration": 7.08
+  },
+  {
+    "text": "some magical material sources this is",
+    "start": 849.08,
+    "duration": 4.53
+  },
+  {
+    "text": "Einstein's field equations I've included",
+    "start": 852.02,
+    "duration": 3.12
+  },
+  {
+    "text": "the cosmological constant that's a",
+    "start": 853.61,
+    "duration": 2.79
+  },
+  {
+    "text": "second term there on the left",
+    "start": 855.14,
+    "duration": 3.93
+  },
+  {
+    "text": "these are really ugly customers so we're",
+    "start": 856.4,
+    "duration": 5.19
+  },
+  {
+    "text": "going to turn it into words but thing on",
+    "start": 859.07,
+    "duration": 4.38
+  },
+  {
+    "text": "the left with the G that's one Stein's",
+    "start": 861.59,
+    "duration": 3.93
+  },
+  {
+    "text": "tensor the thing with a lambda",
+    "start": 863.45,
+    "duration": 3.69
+  },
+  {
+    "text": "that's the cosmological constant the",
+    "start": 865.52,
+    "duration": 2.85
+  },
+  {
+    "text": "thing on the right hand side is the",
+    "start": 867.14,
+    "duration": 2.61
+  },
+  {
+    "text": "energy momentum tensor",
+    "start": 868.37,
+    "duration": 2.79
+  },
+  {
+    "text": "well it's turned that back into some",
+    "start": 869.75,
+    "duration": 3.54
+  },
+  {
+    "text": "meaningful words' space-time curvature",
+    "start": 871.16,
+    "duration": 4.92
+  },
+  {
+    "text": "equals a constant times the material",
+    "start": 873.29,
+    "duration": 4.83
+  },
+  {
+    "text": "source is why because space-time",
+    "start": 876.08,
+    "duration": 3.9
+  },
+  {
+    "text": "curvature is the gravity gravitational",
+    "start": 878.12,
+    "duration": 3.6
+  },
+  {
+    "text": "field that it's induced by the presence",
+    "start": 879.98,
+    "duration": 3.57
+  },
+  {
+    "text": "of the material sources this is what",
+    "start": 881.72,
+    "duration": 4.08
+  },
+  {
+    "text": "Einsteins field equations do they couple",
+    "start": 883.55,
+    "duration": 4.17
+  },
+  {
+    "text": "the gravitational forces or the",
+    "start": 885.8,
+    "duration": 3.36
+  },
+  {
+    "text": "gravitational field because there are no",
+    "start": 887.72,
+    "duration": 5.07
+  },
+  {
+    "text": "forces to its sources okay so the",
+    "start": 889.16,
+    "duration": 6.48
+  },
+  {
+    "text": "space-time curvature is induced by the",
+    "start": 892.79,
+    "duration": 5.04
+  },
+  {
+    "text": "presence of material sources let's take",
+    "start": 895.64,
+    "duration": 4.35
+  },
+  {
+    "text": "these two examples on the Left we've got",
+    "start": 897.83,
+    "duration": 4.23
+  },
+  {
+    "text": "case one let's make the material sources",
+    "start": 899.99,
+    "duration": 3.69
+  },
+  {
+    "text": "disappear like Einstein does he says",
+    "start": 902.06,
+    "duration": 3.9
+  },
+  {
+    "text": "Teague was nought and we make the letter",
+    "start": 903.68,
+    "duration": 4.92
+  },
+  {
+    "text": "lambda equals another cosmological",
+    "start": 905.96,
+    "duration": 4.59
+  },
+  {
+    "text": "constant naught as well his field",
+    "start": 908.6,
+    "duration": 3.36
+  },
+  {
+    "text": "equations reduced to this thing it's",
+    "start": 910.55,
+    "duration": 3.18
+  },
+  {
+    "text": "called the Ricci tensor well it's",
+    "start": 911.96,
+    "duration": 3.24
+  },
+  {
+    "text": "nothing other than a statement that says",
+    "start": 913.73,
+    "duration": 3.59
+  },
+  {
+    "text": "energy momentum tensor equals the Lord",
+    "start": 915.2,
+    "duration": 4.38
+  },
+  {
+    "text": "example is the starch chilled solution",
+    "start": 917.32,
+    "duration": 3.94
+  },
+  {
+    "text": "it's a solution for that that's",
+    "start": 919.58,
+    "duration": 3.72
+  },
+  {
+    "text": "supposedly a black hole solution or a",
+    "start": 921.26,
+    "duration": 4.14
+  },
+  {
+    "text": "star solution on the right hand side",
+    "start": 923.3,
+    "duration": 4.86
+  },
+  {
+    "text": "we've got energy momentum tensor equals",
+    "start": 925.4,
+    "duration": 4.86
+  },
+  {
+    "text": "zero but the cosmological constant",
+    "start": 928.16,
+    "duration": 4.74
+  },
+  {
+    "text": "doesn't equal zero so we've got the",
+    "start": 930.26,
+    "duration": 3.9
+  },
+  {
+    "text": "Ricci tensor equals a cosmological",
+    "start": 932.9,
+    "duration": 3.84
+  },
+  {
+    "text": "constant term and his momentum tensor",
+    "start": 934.16,
+    "duration": 4.79
+  },
+  {
+    "text": "still equals naught because T is not",
+    "start": 936.74,
+    "duration": 5.25
+  },
+  {
+    "text": "this is do sitters empty universe it's",
+    "start": 938.95,
+    "duration": 4.0
+  },
+  {
+    "text": "well known",
+    "start": 941.99,
+    "duration": 2.07
+  },
+  {
+    "text": "why is it empty because it doesn't",
+    "start": 942.95,
+    "duration": 3.63
+  },
+  {
+    "text": "contain anything let's have a look at",
+    "start": 944.06,
+    "duration": 4.44
+  },
+  {
+    "text": "this on the left hand side material",
+    "start": 946.58,
+    "duration": 3.63
+  },
+  {
+    "text": "sources are naught but there's a",
+    "start": 948.5,
+    "duration": 3.72
+  },
+  {
+    "text": "material source on the right hand side",
+    "start": 950.21,
+    "duration": 4.65
+  },
+  {
+    "text": "energy momentum source in mentem tensor",
+    "start": 952.22,
+    "duration": 4.89
+  },
+  {
+    "text": "is zero there's no material sources but",
+    "start": 954.86,
+    "duration": 4.8
+  },
+  {
+    "text": "isn't empty universe so by the very very",
+    "start": 957.11,
+    "duration": 4.83
+  },
+  {
+    "text": "same constraint you have matter present",
+    "start": 959.66,
+    "duration": 4.26
+  },
+  {
+    "text": "and absent how can that be",
+    "start": 961.94,
+    "duration": 5.94
+  },
+  {
+    "text": "it's nonsense it's impossible of course",
+    "start": 963.92,
+    "duration": 5.28
+  },
+  {
+    "text": "unless you're an escrow Mathemagician",
+    "start": 967.88,
+    "duration": 5.34
+  },
+  {
+    "text": "you can do it now the principle of",
+    "start": 969.2,
+    "duration": 7.53
+  },
+  {
+    "text": "equivalence Einstein here I just taken a",
+    "start": 973.22,
+    "duration": 5.16
+  },
+  {
+    "text": "little bit from it the point of it is if",
+    "start": 976.73,
+    "duration": 4.2
+  },
+  {
+    "text": "you read this thing you see that his",
+    "start": 978.38,
+    "duration": 4.32
+  },
+  {
+    "text": "principle of equivalence is defined in",
+    "start": 980.93,
+    "duration": 3.27
+  },
+  {
+    "text": "terms of the AR priori presence of",
+    "start": 982.7,
+    "duration": 4.59
+  },
+  {
+    "text": "multiple masses and photons well we've",
+    "start": 984.2,
+    "duration": 4.65
+  },
+  {
+    "text": "just seen that black hole universes are",
+    "start": 987.29,
+    "duration": 3.78
+  },
+  {
+    "text": "one mess universes and we've seen that",
+    "start": 988.85,
+    "duration": 4.05
+  },
+  {
+    "text": "Big Bang universe is one messy reduces",
+    "start": 991.07,
+    "duration": 3.63
+  },
+  {
+    "text": "but in fact black hole universes are",
+    "start": 992.9,
+    "duration": 3.78
+  },
+  {
+    "text": "empty universes because we saw in the",
+    "start": 994.7,
+    "duration": 4.29
+  },
+  {
+    "text": "previous slide that there's a",
+    "start": 996.68,
+    "duration": 3.96
+  },
+  {
+    "text": "contradiction between these two things",
+    "start": 998.99,
+    "duration": 3.78
+  },
+  {
+    "text": "managing momentum tensor is zero and you",
+    "start": 1000.64,
+    "duration": 3.6
+  },
+  {
+    "text": "have matter both present and absent",
+    "start": 1002.77,
+    "duration": 5.24
+  },
+  {
+    "text": "that's impossible so you cannot have",
+    "start": 1004.24,
+    "duration": 6.03
+  },
+  {
+    "text": "multiple masses in either of these two",
+    "start": 1008.01,
+    "duration": 5.05
+  },
+  {
+    "text": "models Einstein's principle equivalence",
+    "start": 1010.27,
+    "duration": 4.29
+  },
+  {
+    "text": "is couched in terms of the presence of",
+    "start": 1013.06,
+    "duration": 4.8
+  },
+  {
+    "text": "multiple masses and photons so black",
+    "start": 1014.56,
+    "duration": 5.19
+  },
+  {
+    "text": "hole universe and Big Bang universe even",
+    "start": 1017.86,
+    "duration": 3.6
+  },
+  {
+    "text": "violate the principle of equivalence",
+    "start": 1019.75,
+    "duration": 4.2
+  },
+  {
+    "text": "that Einstein said why should I didn't",
+    "start": 1021.46,
+    "duration": 3.6
+  },
+  {
+    "text": "even realize himself that he was",
+    "start": 1023.95,
+    "duration": 2.49
+  },
+  {
+    "text": "violating his own principles when he",
+    "start": 1025.06,
+    "duration": 3.81
+  },
+  {
+    "text": "wrote these things down oh these are",
+    "start": 1026.44,
+    "duration": 6.139
+  },
+  {
+    "text": "really nice we put some grandpoo bars of",
+    "start": 1028.87,
+    "duration": 5.79
+  },
+  {
+    "text": "gravitation called maizena Thorne and",
+    "start": 1032.579,
+    "duration": 3.25
+  },
+  {
+    "text": "wheeler they wrote a book is the size of",
+    "start": 1034.66,
+    "duration": 4.14
+  },
+  {
+    "text": "a telephone book and they tell us in",
+    "start": 1035.829,
+    "duration": 5.821
+  },
+  {
+    "text": "that that let's read it one crucial",
+    "start": 1038.8,
+    "duration": 4.92
+  },
+  {
+    "text": "assumption that's at the heart or the",
+    "start": 1041.65,
+    "duration": 5.189
+  },
+  {
+    "text": "basis at the standard big hot Big Bang",
+    "start": 1043.72,
+    "duration": 5.58
+  },
+  {
+    "text": "model the universe began in a state of",
+    "start": 1046.839,
+    "duration": 5.731
+  },
+  {
+    "text": "rapid expansion from a nearly",
+    "start": 1049.3,
+    "duration": 5.4
+  },
+  {
+    "text": "homogeneous isotropic condition of",
+    "start": 1052.57,
+    "duration": 4.41
+  },
+  {
+    "text": "infinite or near infinite density and",
+    "start": 1054.7,
+    "duration": 5.25
+  },
+  {
+    "text": "pressure well I asked the question how",
+    "start": 1056.98,
+    "duration": 4.59
+  },
+  {
+    "text": "close to the infinite must you get to be",
+    "start": 1059.95,
+    "duration": 3.99
+  },
+  {
+    "text": "near infinite is it infinite minus one",
+    "start": 1061.57,
+    "duration": 5.43
+  },
+  {
+    "text": "maybe it's infinite minus opinion you",
+    "start": 1063.94,
+    "duration": 4.97
+  },
+  {
+    "text": "can never know",
+    "start": 1067.0,
+    "duration": 4.49
+  },
+  {
+    "text": "well he's not the only one worried Kraus",
+    "start": 1068.91,
+    "duration": 5.43
+  },
+  {
+    "text": "got on TV on us in Australia you",
+    "start": 1071.49,
+    "duration": 4.35
+  },
+  {
+    "text": "actually get on television in Australia",
+    "start": 1074.34,
+    "duration": 4.44
+  },
+  {
+    "text": "Larry and he tells us this that he can",
+    "start": 1075.84,
+    "duration": 5.37
+  },
+  {
+    "text": "get an almost an infinite number of what",
+    "start": 1078.78,
+    "duration": 4.59
+  },
+  {
+    "text": "universes well they are how close does",
+    "start": 1081.21,
+    "duration": 4.47
+  },
+  {
+    "text": "Larry have to get to an infinite to",
+    "start": 1083.37,
+    "duration": 3.93
+  },
+  {
+    "text": "infinity to have almost an infinite",
+    "start": 1085.68,
+    "duration": 4.35
+  },
+  {
+    "text": "number again is it infinity minus one",
+    "start": 1087.3,
+    "duration": 7.23
+  },
+  {
+    "text": "you know this seems to be a code of",
+    "start": 1090.03,
+    "duration": 6.45
+  },
+  {
+    "text": "practice with Astro mathematics that",
+    "start": 1094.53,
+    "duration": 4.02
+  },
+  {
+    "text": "you're not allowed to use common",
+    "start": 1096.48,
+    "duration": 4.08
+  },
+  {
+    "text": "parlance so I've got to refrain from the",
+    "start": 1098.55,
+    "duration": 3.78
+  },
+  {
+    "text": "vernacular so I'll translate it into",
+    "start": 1100.56,
+    "duration": 3.17
+  },
+  {
+    "text": "what and that's a scholarly language",
+    "start": 1102.33,
+    "duration": 5.21
+  },
+  {
+    "text": "have you ever heard a bigger crock right",
+    "start": 1103.73,
+    "duration": 5.56
+  },
+  {
+    "text": "austere Kasturi",
+    "start": 1107.54,
+    "duration": 5.08
+  },
+  {
+    "text": "in your life those of you who know Latin",
+    "start": 1109.29,
+    "duration": 5.31
+  },
+  {
+    "text": "will know what I mean those who don't",
+    "start": 1112.62,
+    "duration": 3.78
+  },
+  {
+    "text": "just look it up it's on you can google",
+    "start": 1114.6,
+    "duration": 6.2
+  },
+  {
+    "text": "it okay here's another thing they do",
+    "start": 1116.4,
+    "duration": 7.83
+  },
+  {
+    "text": "black holes have singularities Penrose",
+    "start": 1120.8,
+    "duration": 4.81
+  },
+  {
+    "text": "and Hawking tell us that they found",
+    "start": 1124.23,
+    "duration": 3.06
+  },
+  {
+    "text": "these singularities in all black hole",
+    "start": 1125.61,
+    "duration": 3.87
+  },
+  {
+    "text": "solutions well there are two types of",
+    "start": 1127.29,
+    "duration": 4.41
+  },
+  {
+    "text": "singularities there it's either a point",
+    "start": 1129.48,
+    "duration": 4.89
+  },
+  {
+    "text": "or the circumference of a circle I don't",
+    "start": 1131.7,
+    "duration": 4.14
+  },
+  {
+    "text": "mean a circle I mean the circumference",
+    "start": 1134.37,
+    "duration": 3.96
+  },
+  {
+    "text": "of a circle right and they're supposed",
+    "start": 1135.84,
+    "duration": 4.95
+  },
+  {
+    "text": "to be infinitely dense will you tell me",
+    "start": 1138.33,
+    "duration": 4.02
+  },
+  {
+    "text": "how a point or a circumference of a",
+    "start": 1140.79,
+    "duration": 3.57
+  },
+  {
+    "text": "circle can have mass well it doesn't",
+    "start": 1142.35,
+    "duration": 4.2
+  },
+  {
+    "text": "have volume so they divide the mass",
+    "start": 1144.36,
+    "duration": 4.02
+  },
+  {
+    "text": "which they pulled onto the circumference",
+    "start": 1146.55,
+    "duration": 3.87
+  },
+  {
+    "text": "or the point and they divide it by zero",
+    "start": 1148.38,
+    "duration": 3.12
+  },
+  {
+    "text": "and they tell you that the answer is",
+    "start": 1150.42,
+    "duration": 4.74
+  },
+  {
+    "text": "infinity is that real first infinity is",
+    "start": 1151.5,
+    "duration": 5.34
+  },
+  {
+    "text": "not a number in the second thing is you",
+    "start": 1155.16,
+    "duration": 3.54
+  },
+  {
+    "text": "can't by divide by zero as you know from",
+    "start": 1156.84,
+    "duration": 3.96
+  },
+  {
+    "text": "primary school that's not allowed it's",
+    "start": 1158.7,
+    "duration": 4.47
+  },
+  {
+    "text": "undefined but they do and they say it's",
+    "start": 1160.8,
+    "duration": 4.14
+  },
+  {
+    "text": "infinity and then they assign physical",
+    "start": 1163.17,
+    "duration": 3.9
+  },
+  {
+    "text": "properties to it they call them",
+    "start": 1164.94,
+    "duration": 5.49
+  },
+  {
+    "text": "singularities or event horizons but it's",
+    "start": 1167.07,
+    "duration": 6.78
+  },
+  {
+    "text": "nonsense yeah well this is just the",
+    "start": 1170.43,
+    "duration": 5.79
+  },
+  {
+    "text": "follow up in the previous slide these",
+    "start": 1173.85,
+    "duration": 5.19
+  },
+  {
+    "text": "guys Carol and Asli theis that it's not",
+    "start": 1176.22,
+    "duration": 4.71
+  },
+  {
+    "text": "a mathematical artifact you can divide",
+    "start": 1179.04,
+    "duration": 3.51
+  },
+  {
+    "text": "by node it's not a mathematical artifact",
+    "start": 1180.93,
+    "duration": 3.42
+  },
+  {
+    "text": "the other guys tell us it's not a",
+    "start": 1182.55,
+    "duration": 3.57
+  },
+  {
+    "text": "limiting function and not a limiting",
+    "start": 1184.35,
+    "duration": 3.03
+  },
+  {
+    "text": "fiction so it's not like a limit in",
+    "start": 1186.12,
+    "duration": 3.24
+  },
+  {
+    "text": "elementary calculus you take the limit",
+    "start": 1187.38,
+    "duration": 3.96
+  },
+  {
+    "text": "now they're dividing by nought and it's",
+    "start": 1189.36,
+    "duration": 3.45
+  },
+  {
+    "text": "true you can divide by Norden get",
+    "start": 1191.34,
+    "duration": 6.36
+  },
+  {
+    "text": "infinity 1 1 is what school I went to",
+    "start": 1192.81,
+    "duration": 7.55
+  },
+  {
+    "text": "I'm only glad I didn't go there",
+    "start": 1197.7,
+    "duration": 4.86
+  },
+  {
+    "text": "okay the infinite hotness of nothing",
+    "start": 1200.36,
+    "duration": 4.12
+  },
+  {
+    "text": "here's walking telling us that the",
+    "start": 1202.56,
+    "duration": 4.53
+  },
+  {
+    "text": "universe began and it's had a zero size",
+    "start": 1204.48,
+    "duration": 4.05
+  },
+  {
+    "text": "but it was infinitely high",
+    "start": 1207.09,
+    "duration": 3.9
+  },
+  {
+    "text": "well what's temperature it's all these",
+    "start": 1208.53,
+    "duration": 4.77
+  },
+  {
+    "text": "particles jiggling around isn't it don't",
+    "start": 1210.99,
+    "duration": 3.9
+  },
+  {
+    "text": "you have to have space to have particles",
+    "start": 1213.3,
+    "duration": 3.3
+  },
+  {
+    "text": "and don't they need space to jiggle",
+    "start": 1214.89,
+    "duration": 4.65
+  },
+  {
+    "text": "around but Hawking tells us it was zero",
+    "start": 1216.6,
+    "duration": 4.68
+  },
+  {
+    "text": "sighs but he's got an infinite",
+    "start": 1219.54,
+    "duration": 2.28
+  },
+  {
+    "text": "temperature",
+    "start": 1221.28,
+    "duration": 3.69
+  },
+  {
+    "text": "you've got no jiggling so he can't have",
+    "start": 1221.82,
+    "duration": 4.92
+  },
+  {
+    "text": "a temperature and how fast would they be",
+    "start": 1224.97,
+    "duration": 6.18
+  },
+  {
+    "text": "jiggling to be infinitely hot the mind",
+    "start": 1226.74,
+    "duration": 7.62
+  },
+  {
+    "text": "boggles you know now Larry Krauss on",
+    "start": 1231.15,
+    "duration": 5.28
+  },
+  {
+    "text": "television he's he's got a lot of gems",
+    "start": 1234.36,
+    "duration": 4.35
+  },
+  {
+    "text": "this guy he gets in television and he",
+    "start": 1236.43,
+    "duration": 5.07
+  },
+  {
+    "text": "tells us that he's got no there's no",
+    "start": 1238.71,
+    "duration": 4.08
+  },
+  {
+    "text": "space there's no time there's no",
+    "start": 1241.5,
+    "duration": 2.73
+  },
+  {
+    "text": "particles and they're ready he says this",
+    "start": 1242.79,
+    "duration": 2.88
+  },
+  {
+    "text": "is a good approximation or nothing in",
+    "start": 1244.23,
+    "duration": 2.94
+  },
+  {
+    "text": "other words nothing's a good",
+    "start": 1245.67,
+    "duration": 4.86
+  },
+  {
+    "text": "approximation to nothing you know I can",
+    "start": 1247.17,
+    "duration": 5.55
+  },
+  {
+    "text": "ask you is zero a good approximation to",
+    "start": 1250.53,
+    "duration": 7.83
+  },
+  {
+    "text": "zero so nothing is not nothing I was",
+    "start": 1252.72,
+    "duration": 8.03
+  },
+  {
+    "text": "another one from Larry he tells us that",
+    "start": 1258.36,
+    "duration": 4.98
+  },
+  {
+    "text": "he would argue that nothing is a",
+    "start": 1260.75,
+    "duration": 4.57
+  },
+  {
+    "text": "physical quantity it's the absence of",
+    "start": 1263.34,
+    "duration": 5.82
+  },
+  {
+    "text": "something can you believe it I thought",
+    "start": 1265.32,
+    "duration": 5.64
+  },
+  {
+    "text": "to myself does that include the absence",
+    "start": 1269.16,
+    "duration": 4.34
+  },
+  {
+    "text": "of neurons",
+    "start": 1270.96,
+    "duration": 2.54
+  },
+  {
+    "text": "here we come again he's hilarious he's a",
+    "start": 1275.4,
+    "duration": 5.2
+  },
+  {
+    "text": "big timer the second coming of Kraus I",
+    "start": 1277.9,
+    "duration": 7.74
+  },
+  {
+    "text": "couldn't resist it the universe came",
+    "start": 1280.6,
+    "duration": 7.02
+  },
+  {
+    "text": "again from nothing there's no radiation",
+    "start": 1285.64,
+    "duration": 4.2
+  },
+  {
+    "text": "no space no time no nothing etcetera",
+    "start": 1287.62,
+    "duration": 3.3
+  },
+  {
+    "text": "etcetera that's the reason why it's hard",
+    "start": 1289.84,
+    "duration": 2.52
+  },
+  {
+    "text": "he got chopped off there you can read",
+    "start": 1290.92,
+    "duration": 3.15
+  },
+  {
+    "text": "the transcripts someone chopped him off",
+    "start": 1292.36,
+    "duration": 5.4
+  },
+  {
+    "text": "they must have a cigarette but what does",
+    "start": 1294.07,
+    "duration": 5.88
+  },
+  {
+    "text": "hawking tell us energy cannot be created",
+    "start": 1297.76,
+    "duration": 5.13
+  },
+  {
+    "text": "out of nothing they just told us the",
+    "start": 1299.95,
+    "duration": 4.89
+  },
+  {
+    "text": "universe came out of nothing but walking",
+    "start": 1302.89,
+    "duration": 4.23
+  },
+  {
+    "text": "tells us no you can't Energy's not",
+    "start": 1304.84,
+    "duration": 3.57
+  },
+  {
+    "text": "created you can't create energy out of",
+    "start": 1307.12,
+    "duration": 1.74
+  },
+  {
+    "text": "nothing",
+    "start": 1308.41,
+    "duration": 2.15
+  },
+  {
+    "text": "what's there dark energy isn't it energy",
+    "start": 1308.86,
+    "duration": 3.69
+  },
+  {
+    "text": "didn't they create that out of nothing",
+    "start": 1310.56,
+    "duration": 5.74
+  },
+  {
+    "text": "yeah but you can't do that talk about",
+    "start": 1312.55,
+    "duration": 4.65
+  },
+  {
+    "text": "contradictions",
+    "start": 1316.3,
+    "duration": 3.42
+  },
+  {
+    "text": "here's numerical methods well they think",
+    "start": 1317.2,
+    "duration": 4.65
+  },
+  {
+    "text": "you can now solve for multiple black",
+    "start": 1319.72,
+    "duration": 4.05
+  },
+  {
+    "text": "holes while numerical methods because I",
+    "start": 1321.85,
+    "duration": 3.21
+  },
+  {
+    "text": "know that they can't get an analytic",
+    "start": 1323.77,
+    "duration": 2.61
+  },
+  {
+    "text": "solution for two or more masses with",
+    "start": 1325.06,
+    "duration": 3.03
+  },
+  {
+    "text": "Einstein's equations so what do they do",
+    "start": 1326.38,
+    "duration": 4.35
+  },
+  {
+    "text": "they pretend they've got two or more",
+    "start": 1328.09,
+    "duration": 4.2
+  },
+  {
+    "text": "black holes and then they applied the",
+    "start": 1330.73,
+    "duration": 3.99
+  },
+  {
+    "text": "numerical methods to them they haven't",
+    "start": 1332.29,
+    "duration": 4.74
+  },
+  {
+    "text": "given us a numerical salute or a set of",
+    "start": 1334.72,
+    "duration": 4.89
+  },
+  {
+    "text": "equations to solve to define the two",
+    "start": 1337.03,
+    "duration": 4.83
+  },
+  {
+    "text": "black holes or more black holes they",
+    "start": 1339.61,
+    "duration": 3.6
+  },
+  {
+    "text": "just say oh we've got these black holes",
+    "start": 1341.86,
+    "duration": 2.91
+  },
+  {
+    "text": "let's make numerical methods to make a",
+    "start": 1343.21,
+    "duration": 3.9
+  },
+  {
+    "text": "merge so it's numerical methods on",
+    "start": 1344.77,
+    "duration": 4.17
+  },
+  {
+    "text": "nonsense what do you get from that more",
+    "start": 1347.11,
+    "duration": 7.74
+  },
+  {
+    "text": "nonsense ah this is Lucy she's my",
+    "start": 1348.94,
+    "duration": 8.97
+  },
+  {
+    "text": "favorite blonde we talk physics when we",
+    "start": 1354.85,
+    "duration": 4.62
+  },
+  {
+    "text": "go walking in the park she's three years",
+    "start": 1357.91,
+    "duration": 3.63
+  },
+  {
+    "text": "old she's a semi and she's beautiful I",
+    "start": 1359.47,
+    "duration": 4.47
+  },
+  {
+    "text": "love her very much this is the",
+    "start": 1361.54,
+    "duration": 4.02
+  },
+  {
+    "text": "Australian grass tree it's very",
+    "start": 1363.94,
+    "duration": 4.86
+  },
+  {
+    "text": "interesting you see this tree it's very",
+    "start": 1365.56,
+    "duration": 5.88
+  },
+  {
+    "text": "ancient and fascinating it has a base",
+    "start": 1368.8,
+    "duration": 4.77
+  },
+  {
+    "text": "like a trunk that bright black trunk",
+    "start": 1371.44,
+    "duration": 3.87
+  },
+  {
+    "text": "there grows tall and you see the grass",
+    "start": 1373.57,
+    "duration": 3.03
+  },
+  {
+    "text": "is called a grass tree because these",
+    "start": 1375.31,
+    "duration": 3.0
+  },
+  {
+    "text": "grass comes out of the head and it has a",
+    "start": 1376.6,
+    "duration": 3.87
+  },
+  {
+    "text": "spear growing up through the center and",
+    "start": 1378.31,
+    "duration": 4.26
+  },
+  {
+    "text": "another top of the spear is a kind of a",
+    "start": 1380.47,
+    "duration": 5.4
+  },
+  {
+    "text": "spear head and it's a really ancient",
+    "start": 1382.57,
+    "duration": 5.73
+  },
+  {
+    "text": "thing really fascinating unfortunately",
+    "start": 1385.87,
+    "duration": 3.78
+  },
+  {
+    "text": "don't have time to discuss it so we'll",
+    "start": 1388.3,
+    "duration": 3.53
+  },
+  {
+    "text": "have to move on",
+    "start": 1389.65,
+    "duration": 7.71
+  },
+  {
+    "text": "now let's if you take a glass of water",
+    "start": 1391.83,
+    "duration": 7.059
+  },
+  {
+    "text": "and put inside a microwave oven and turn",
+    "start": 1397.36,
+    "duration": 4.799
+  },
+  {
+    "text": "it on tell us something does the water",
+    "start": 1398.889,
+    "duration": 6.571
+  },
+  {
+    "text": "reflect or absorb the microwaves if",
+    "start": 1402.159,
+    "duration": 4.681
+  },
+  {
+    "text": "you're an astronaut the magician you",
+    "start": 1405.46,
+    "duration": 3.599
+  },
+  {
+    "text": "don't know the answer but if you've ever",
+    "start": 1406.84,
+    "duration": 4.319
+  },
+  {
+    "text": "used the microwave oven you know that",
+    "start": 1409.059,
+    "duration": 3.811
+  },
+  {
+    "text": "the water absorbs the microwaves doesn't",
+    "start": 1411.159,
+    "duration": 4.561
+  },
+  {
+    "text": "it does it reflect them would you what",
+    "start": 1412.87,
+    "duration": 4.08
+  },
+  {
+    "text": "if you put a block of ice in there and",
+    "start": 1415.72,
+    "duration": 3.39
+  },
+  {
+    "text": "do the same thing what if you put your",
+    "start": 1416.95,
+    "duration": 5.31
+  },
+  {
+    "text": "head in there and you turned it on would",
+    "start": 1419.11,
+    "duration": 4.85
+  },
+  {
+    "text": "you do it I wouldn't do it",
+    "start": 1422.26,
+    "duration": 4.32
+  },
+  {
+    "text": "why because you absorbed microwaves and",
+    "start": 1423.96,
+    "duration": 4.48
+  },
+  {
+    "text": "your heads full of water so water",
+    "start": 1426.58,
+    "duration": 3.54
+  },
+  {
+    "text": "absorbs microwaves what are we know from",
+    "start": 1428.44,
+    "duration": 6.719
+  },
+  {
+    "text": "physics physics tells us that anything",
+    "start": 1430.12,
+    "duration": 6.51
+  },
+  {
+    "text": "that's a good absorber is also good",
+    "start": 1435.159,
+    "duration": 4.291
+  },
+  {
+    "text": "emitter right so if water absorbs",
+    "start": 1436.63,
+    "duration": 4.62
+  },
+  {
+    "text": "microwaves in emits microwaves that's",
+    "start": 1439.45,
+    "duration": 3.18
+  },
+  {
+    "text": "very important we know that from a",
+    "start": 1441.25,
+    "duration": 2.13
+  },
+  {
+    "text": "microwave oven",
+    "start": 1442.63,
+    "duration": 4.95
+  },
+  {
+    "text": "hmm now here's water some water",
+    "start": 1443.38,
+    "duration": 5.759
+  },
+  {
+    "text": "molecules water molecules are very",
+    "start": 1447.58,
+    "duration": 4.38
+  },
+  {
+    "text": "interesting the water molecule itself",
+    "start": 1449.139,
+    "duration": 5.731
+  },
+  {
+    "text": "can be considered as a monomer then if",
+    "start": 1451.96,
+    "duration": 4.079
+  },
+  {
+    "text": "you have two of them join up together",
+    "start": 1454.87,
+    "duration": 2.85
+  },
+  {
+    "text": "with a hydrogen bond you have a dimer",
+    "start": 1456.039,
+    "duration": 3.721
+  },
+  {
+    "text": "and then many of them join up by",
+    "start": 1457.72,
+    "duration": 3.66
+  },
+  {
+    "text": "hydrogen bonds each water molecule can",
+    "start": 1459.76,
+    "duration": 4.71
+  },
+  {
+    "text": "form four hydrogen bonds right and this",
+    "start": 1461.38,
+    "duration": 6.81
+  },
+  {
+    "text": "core it forms a kind of fleeting polymer",
+    "start": 1464.47,
+    "duration": 6.98
+  },
+  {
+    "text": "structure and these hydrogen bonds are",
+    "start": 1468.19,
+    "duration": 6.329
+  },
+  {
+    "text": "the other responsible actually for the",
+    "start": 1471.45,
+    "duration": 5.079
+  },
+  {
+    "text": "emissions of microwaves from water so",
+    "start": 1474.519,
+    "duration": 3.03
+  },
+  {
+    "text": "this is a very important thing to",
+    "start": 1476.529,
+    "duration": 2.61
+  },
+  {
+    "text": "remember about water why what is the",
+    "start": 1477.549,
+    "duration": 3.571
+  },
+  {
+    "text": "mechanism you need an oscillator of some",
+    "start": 1479.139,
+    "duration": 4.681
+  },
+  {
+    "text": "kind to generate emissions in water it's",
+    "start": 1481.12,
+    "duration": 6.779
+  },
+  {
+    "text": "this now absolute and differential",
+    "start": 1483.82,
+    "duration": 7.829
+  },
+  {
+    "text": "instruments these wmf was what we call",
+    "start": 1487.899,
+    "duration": 6.091
+  },
+  {
+    "text": "differential instrument and Coby furious",
+    "start": 1491.649,
+    "duration": 6.15
+  },
+  {
+    "text": "was an absolutely instrument in a kind",
+    "start": 1493.99,
+    "duration": 8.189
+  },
+  {
+    "text": "of way what the Furious satellite did it",
+    "start": 1497.799,
+    "duration": 6.931
+  },
+  {
+    "text": "compared the sky signal to an onboard",
+    "start": 1502.179,
+    "duration": 4.201
+  },
+  {
+    "text": "calibrator so it's still kind of a",
+    "start": 1504.73,
+    "duration": 3.299
+  },
+  {
+    "text": "differential instrument but it's called",
+    "start": 1506.38,
+    "duration": 4.47
+  },
+  {
+    "text": "an absolute instrument whereas W map for",
+    "start": 1508.029,
+    "duration": 4.86
+  },
+  {
+    "text": "instance had to say two horns the",
+    "start": 1510.85,
+    "duration": 3.6
+  },
+  {
+    "text": "signals come in and if they're the same",
+    "start": 1512.889,
+    "duration": 3.481
+  },
+  {
+    "text": "you cancel the signals by comparing them",
+    "start": 1514.45,
+    "duration": 3.599
+  },
+  {
+    "text": "together if they're the same signal that",
+    "start": 1516.37,
+    "duration": 3.96
+  },
+  {
+    "text": "cancels everything out right anything",
+    "start": 1518.049,
+    "duration": 3.771
+  },
+  {
+    "text": "that's not the same in that in the two",
+    "start": 1520.33,
+    "duration": 4.5
+  },
+  {
+    "text": "horns is left behind as difference data",
+    "start": 1521.82,
+    "duration": 3.41
+  },
+  {
+    "text": "so",
+    "start": 1524.83,
+    "duration": 2.2
+  },
+  {
+    "text": "you have some remnants if they're",
+    "start": 1525.23,
+    "duration": 3.569
+  },
+  {
+    "text": "exactly the same they will disappear",
+    "start": 1527.03,
+    "duration": 4.769
+  },
+  {
+    "text": "when you subtract in signal now with the",
+    "start": 1528.799,
+    "duration": 5.821
+  },
+  {
+    "text": "Furious instrument you have a calibrator",
+    "start": 1531.799,
+    "duration": 4.351
+  },
+  {
+    "text": "set at a temperature that you can modify",
+    "start": 1534.62,
+    "duration": 3.96
+  },
+  {
+    "text": "they take the sky signal and then they",
+    "start": 1536.15,
+    "duration": 4.08
+  },
+  {
+    "text": "modify the temperature to match what",
+    "start": 1538.58,
+    "duration": 3.54
+  },
+  {
+    "text": "they think is a sky signal and then if",
+    "start": 1540.23,
+    "duration": 2.819
+  },
+  {
+    "text": "they get what's called a null a",
+    "start": 1542.12,
+    "duration": 2.429
+  },
+  {
+    "text": "difference between the two is zero then",
+    "start": 1543.049,
+    "duration": 3.571
+  },
+  {
+    "text": "this hour the sky signal is exactly what",
+    "start": 1544.549,
+    "duration": 3.541
+  },
+  {
+    "text": "our collaborator is because now we get a",
+    "start": 1546.62,
+    "duration": 4.35
+  },
+  {
+    "text": "zero white can separate different in the",
+    "start": 1548.09,
+    "duration": 5.61
+  },
+  {
+    "text": "two well with W map they remove what's",
+    "start": 1550.97,
+    "duration": 3.99
+  },
+  {
+    "text": "called the monopole seed with the mean",
+    "start": 1553.7,
+    "duration": 2.849
+  },
+  {
+    "text": "temperature of the so-called Cosmic",
+    "start": 1554.96,
+    "duration": 3.15
+  },
+  {
+    "text": "Microwave Background and they're left",
+    "start": 1556.549,
+    "duration": 3.031
+  },
+  {
+    "text": "with little bits that aren't the same in",
+    "start": 1558.11,
+    "duration": 3.3
+  },
+  {
+    "text": "the two horns so that's called the anti",
+    "start": 1559.58,
+    "duration": 3.99
+  },
+  {
+    "text": "so trapeze right so this is the",
+    "start": 1561.41,
+    "duration": 3.81
+  },
+  {
+    "text": "difference between the two the Planck",
+    "start": 1563.57,
+    "duration": 3.27
+  },
+  {
+    "text": "satellite however was a bit different",
+    "start": 1565.22,
+    "duration": 3.449
+  },
+  {
+    "text": "it's capable of an absolute the",
+    "start": 1566.84,
+    "duration": 4.29
+  },
+  {
+    "text": "detection and it's also capable of a",
+    "start": 1568.669,
+    "duration": 6.031
+  },
+  {
+    "text": "differential measurement right so the",
+    "start": 1571.13,
+    "duration": 5.31
+  },
+  {
+    "text": "question is what did these satellites",
+    "start": 1574.7,
+    "duration": 3.84
+  },
+  {
+    "text": "measure well the first thing is when you",
+    "start": 1576.44,
+    "duration": 3.9
+  },
+  {
+    "text": "take a real microwave image let's think",
+    "start": 1578.54,
+    "duration": 3.509
+  },
+  {
+    "text": "of what it's composed of think of",
+    "start": 1580.34,
+    "duration": 3.51
+  },
+  {
+    "text": "transparencies piled upon one another",
+    "start": 1582.049,
+    "duration": 4.711
+  },
+  {
+    "text": "right the top one we've got here the",
+    "start": 1583.85,
+    "duration": 4.74
+  },
+  {
+    "text": "Galactic foreground that's noise you got",
+    "start": 1586.76,
+    "duration": 2.94
+  },
+  {
+    "text": "to get rid of that it's a lot of noise",
+    "start": 1588.59,
+    "duration": 3.719
+  },
+  {
+    "text": "coming from the galaxy it's a meeting in",
+    "start": 1589.7,
+    "duration": 4.38
+  },
+  {
+    "text": "microwave how do you get rid of that",
+    "start": 1592.309,
+    "duration": 5.131
+  },
+  {
+    "text": "data processing then after that we've",
+    "start": 1594.08,
+    "duration": 4.95
+  },
+  {
+    "text": "got a monopole signal this is around",
+    "start": 1597.44,
+    "duration": 4.83
+  },
+  {
+    "text": "about three Kelvin the foreground is",
+    "start": 1599.03,
+    "duration": 4.08
+  },
+  {
+    "text": "about millikelvin",
+    "start": 1602.27,
+    "duration": 2.82
+  },
+  {
+    "text": "then we've got a dipole signal it's due",
+    "start": 1603.11,
+    "duration": 3.87
+  },
+  {
+    "text": "to the motion of the satellite against",
+    "start": 1605.09,
+    "duration": 4.31
+  },
+  {
+    "text": "the Galactic group or the local group",
+    "start": 1606.98,
+    "duration": 5.25
+  },
+  {
+    "text": "it's in nearly Kelvin as well and behind",
+    "start": 1609.4,
+    "duration": 3.82
+  },
+  {
+    "text": "all of these we have what are called",
+    "start": 1612.23,
+    "duration": 3.81
+  },
+  {
+    "text": "multi polls higher orders it's because",
+    "start": 1613.22,
+    "duration": 4.05
+  },
+  {
+    "text": "it's made into an infinite series",
+    "start": 1616.04,
+    "duration": 2.73
+  },
+  {
+    "text": "mathematically it's an infinite series",
+    "start": 1617.27,
+    "duration": 3.96
+  },
+  {
+    "text": "in spherical harmonics okay so we've got",
+    "start": 1618.77,
+    "duration": 3.899
+  },
+  {
+    "text": "to get rid of the Galactic foreground",
+    "start": 1621.23,
+    "duration": 3.6
+  },
+  {
+    "text": "the dipole signal and what's left our",
+    "start": 1622.669,
+    "duration": 5.13
+  },
+  {
+    "text": "mean temperature well then we want to",
+    "start": 1624.83,
+    "duration": 4.05
+  },
+  {
+    "text": "get rid of that and we can get the",
+    "start": 1627.799,
+    "duration": 5.041
+  },
+  {
+    "text": "dipoles so sorry I'm the multipoles",
+    "start": 1628.88,
+    "duration": 6.81
+  },
+  {
+    "text": "now balloons and Rockets went up into",
+    "start": 1632.84,
+    "duration": 4.98
+  },
+  {
+    "text": "the atmosphere so they measured stuff in",
+    "start": 1635.69,
+    "duration": 2.88
+  },
+  {
+    "text": "the atmosphere",
+    "start": 1637.82,
+    "duration": 2.91
+  },
+  {
+    "text": "well when we've talked about water in",
+    "start": 1638.57,
+    "duration": 4.109
+  },
+  {
+    "text": "the microwave what about the earth is",
+    "start": 1640.73,
+    "duration": 3.96
+  },
+  {
+    "text": "not covered in water the Earth's about",
+    "start": 1642.679,
+    "duration": 3.721
+  },
+  {
+    "text": "70 percent coated in water covered in",
+    "start": 1644.69,
+    "duration": 4.47
+  },
+  {
+    "text": "water water emits microwaves these",
+    "start": 1646.4,
+    "duration": 3.99
+  },
+  {
+    "text": "microwaves are going up into the",
+    "start": 1649.16,
+    "duration": 2.67
+  },
+  {
+    "text": "atmosphere they're getting scattered",
+    "start": 1650.39,
+    "duration": 4.56
+  },
+  {
+    "text": "around Coby didn't have a shield for",
+    "start": 1651.83,
+    "duration": 5.76
+  },
+  {
+    "text": "microwaves only RF and thermal so what",
+    "start": 1654.95,
+    "duration": 3.99
+  },
+  {
+    "text": "is it's 900 kilometers",
+    "start": 1657.59,
+    "duration": 2.55
+  },
+  {
+    "text": "it's getting microwaves from Earth",
+    "start": 1658.94,
+    "duration": 2.46
+  },
+  {
+    "text": "because they're bouncing over the shield",
+    "start": 1660.14,
+    "duration": 3.42
+  },
+  {
+    "text": "of deflecting over the shield all of",
+    "start": 1661.4,
+    "duration": 3.51
+  },
+  {
+    "text": "these balloons and satellites which",
+    "start": 1663.56,
+    "duration": 3.03
+  },
+  {
+    "text": "rather balloons and rockets up into the",
+    "start": 1664.91,
+    "duration": 3.69
+  },
+  {
+    "text": "atmosphere the Earth's atmosphere is",
+    "start": 1666.59,
+    "duration": 3.81
+  },
+  {
+    "text": "full of microwaves from water reservoirs",
+    "start": 1668.6,
+    "duration": 5.75
+  },
+  {
+    "text": "the atmosphere is full of water too so",
+    "start": 1670.4,
+    "duration": 5.82
+  },
+  {
+    "text": "we have a look now where these",
+    "start": 1674.35,
+    "duration": 3.94
+  },
+  {
+    "text": "satellites are located here is Kobe",
+    "start": 1676.22,
+    "duration": 4.14
+  },
+  {
+    "text": "furious very close to the earth 900k is",
+    "start": 1678.29,
+    "duration": 5.7
+  },
+  {
+    "text": "up right and this is not the scale of",
+    "start": 1680.36,
+    "duration": 6.27
+  },
+  {
+    "text": "course so it's getting microwaves from",
+    "start": 1683.99,
+    "duration": 4.77
+  },
+  {
+    "text": "the War of the earth it's going up into",
+    "start": 1686.63,
+    "duration": 5.13
+  },
+  {
+    "text": "the Furious horn by diffraction right",
+    "start": 1688.76,
+    "duration": 5.28
+  },
+  {
+    "text": "they think it's cosmic but it's not it's",
+    "start": 1691.76,
+    "duration": 4.26
+  },
+  {
+    "text": "getting it from the earth right because",
+    "start": 1694.04,
+    "duration": 4.56
+  },
+  {
+    "text": "watery mids and they couldn't protect it",
+    "start": 1696.02,
+    "duration": 7.1
+  },
+  {
+    "text": "from this here is an inner fury Graham",
+    "start": 1698.6,
+    "duration": 8.76
+  },
+  {
+    "text": "from the Kobe theorists team see the top",
+    "start": 1703.12,
+    "duration": 6.04
+  },
+  {
+    "text": "trace this is where they say they get a",
+    "start": 1707.36,
+    "duration": 4.02
+  },
+  {
+    "text": "null between the sky and a temperature",
+    "start": 1709.16,
+    "duration": 5.28
+  },
+  {
+    "text": "about what seven point two point seven",
+    "start": 1711.38,
+    "duration": 5.28
+  },
+  {
+    "text": "three five two point seven five nine is",
+    "start": 1714.44,
+    "duration": 5.49
+  },
+  {
+    "text": "it yeah I think so and then you look at",
+    "start": 1716.66,
+    "duration": 5.76
+  },
+  {
+    "text": "the second trace this is a sky it's a",
+    "start": 1719.93,
+    "duration": 4.32
+  },
+  {
+    "text": "near Nile at two point seven some other",
+    "start": 1722.42,
+    "duration": 3.96
+  },
+  {
+    "text": "one and between the two calibrates that",
+    "start": 1724.25,
+    "duration": 4.14
+  },
+  {
+    "text": "they had on board well this is very",
+    "start": 1726.38,
+    "duration": 3.75
+  },
+  {
+    "text": "deceptive you see the top trace in the",
+    "start": 1728.39,
+    "duration": 3.45
+  },
+  {
+    "text": "bottom trace they're on the wrong",
+    "start": 1730.13,
+    "duration": 3.81
+  },
+  {
+    "text": "they're on a different scale the Kobe",
+    "start": 1731.84,
+    "duration": 3.96
+  },
+  {
+    "text": "Furious team published this if you read",
+    "start": 1733.94,
+    "duration": 3.36
+  },
+  {
+    "text": "that you think oh they must go to a null",
+    "start": 1735.8,
+    "duration": 3.84
+  },
+  {
+    "text": "they didn't they didn't get a null in a",
+    "start": 1737.3,
+    "duration": 4.38
+  },
+  {
+    "text": "way because the top and bottom traces",
+    "start": 1739.64,
+    "duration": 4.23
+  },
+  {
+    "text": "three two fight they had their amplitude",
+    "start": 1741.68,
+    "duration": 3.63
+  },
+  {
+    "text": "suppressed by a factor of three to five",
+    "start": 1743.87,
+    "duration": 2.97
+  },
+  {
+    "text": "compared the middle one so if you",
+    "start": 1745.31,
+    "duration": 3.33
+  },
+  {
+    "text": "amplify these two traces of top and",
+    "start": 1746.84,
+    "duration": 3.3
+  },
+  {
+    "text": "bottom they didn't get to know anywhere",
+    "start": 1748.64,
+    "duration": 3.45
+  },
+  {
+    "text": "but they claimed they did not even at",
+    "start": 1750.14,
+    "duration": 3.51
+  },
+  {
+    "text": "that temperature they claimed it was a",
+    "start": 1752.09,
+    "duration": 3.75
+  },
+  {
+    "text": "two point seven to five that it doesn't",
+    "start": 1753.65,
+    "duration": 5.31
+  },
+  {
+    "text": "even appear in their data so that's a",
+    "start": 1755.84,
+    "duration": 4.8
+  },
+  {
+    "text": "pretty shifty looking graph here's",
+    "start": 1758.96,
+    "duration": 4.95
+  },
+  {
+    "text": "another one notice that this is a",
+    "start": 1760.64,
+    "duration": 5.58
+  },
+  {
+    "text": "blackbody curve it differs from the",
+    "start": 1763.91,
+    "duration": 4.44
+  },
+  {
+    "text": "perfect one by nothing it's the the",
+    "start": 1766.22,
+    "duration": 3.81
+  },
+  {
+    "text": "error bars are 400 times smaller than",
+    "start": 1768.35,
+    "duration": 3.72
+  },
+  {
+    "text": "the width of the width of the curve and",
+    "start": 1770.03,
+    "duration": 4.02
+  },
+  {
+    "text": "what do you find here let's count the",
+    "start": 1772.07,
+    "duration": 4.8
+  },
+  {
+    "text": "divisions from the from zero one two",
+    "start": 1774.05,
+    "duration": 6.36
+  },
+  {
+    "text": "three four is something wrong three this",
+    "start": 1776.87,
+    "duration": 6.45
+  },
+  {
+    "text": "graph has been shifted to the left",
+    "start": 1780.41,
+    "duration": 6.03
+  },
+  {
+    "text": "there's a division missing where does it",
+    "start": 1783.32,
+    "duration": 3.57
+  },
+  {
+    "text": "start",
+    "start": 1786.44,
+    "duration": 2.13
+  },
+  {
+    "text": "they haven't told us where it starts",
+    "start": 1786.89,
+    "duration": 3.84
+  },
+  {
+    "text": "that's very convenient now we might",
+    "start": 1788.57,
+    "duration": 3.66
+  },
+  {
+    "text": "analyze that and try to figure out where",
+    "start": 1790.73,
+    "duration": 1.75
+  },
+  {
+    "text": "it's",
+    "start": 1792.23,
+    "duration": 2.8
+  },
+  {
+    "text": "make some sense of it but they presented",
+    "start": 1792.48,
+    "duration": 4.5
+  },
+  {
+    "text": "this as a data that's the data for their",
+    "start": 1795.03,
+    "duration": 4.65
+  },
+  {
+    "text": "blackbody curve so the separative graph",
+    "start": 1796.98,
+    "duration": 4.41
+  },
+  {
+    "text": "it seemed properly labeled why did they",
+    "start": 1799.68,
+    "duration": 3.75
+  },
+  {
+    "text": "do that well they didn't get a graph",
+    "start": 1801.39,
+    "duration": 4.08
+  },
+  {
+    "text": "that didn't get an inferior gram that",
+    "start": 1803.43,
+    "duration": 4.05
+  },
+  {
+    "text": "got him a temperature with a null and I",
+    "start": 1805.47,
+    "duration": 4.01
+  },
+  {
+    "text": "present this is a perfect null",
+    "start": 1807.48,
+    "duration": 5.94
+  },
+  {
+    "text": "doesn't add up here is a monopole signal",
+    "start": 1809.48,
+    "duration": 5.65
+  },
+  {
+    "text": "it fills the sky that's the one that's",
+    "start": 1813.42,
+    "duration": 3.0
+  },
+  {
+    "text": "the so-called mean temperature of the",
+    "start": 1815.13,
+    "duration": 4.08
+  },
+  {
+    "text": "CMB it fills everything right that's the",
+    "start": 1816.42,
+    "duration": 3.99
+  },
+  {
+    "text": "one that they say is the temperature of",
+    "start": 1819.21,
+    "duration": 6.27
+  },
+  {
+    "text": "the universe here is the DMR or the",
+    "start": 1820.41,
+    "duration": 7.38
+  },
+  {
+    "text": "differential microwave radiometers from",
+    "start": 1825.48,
+    "duration": 4.17
+  },
+  {
+    "text": "Kobe notice that there's a big strip in",
+    "start": 1827.79,
+    "duration": 3.39
+  },
+  {
+    "text": "the middle red that's the Galactic",
+    "start": 1829.65,
+    "duration": 3.51
+  },
+  {
+    "text": "foreground why is it present because",
+    "start": 1831.18,
+    "duration": 3.42
+  },
+  {
+    "text": "they couldn't zero the foreground so",
+    "start": 1833.16,
+    "duration": 4.68
+  },
+  {
+    "text": "they present here an anti Sacopee map",
+    "start": 1834.6,
+    "duration": 5.34
+  },
+  {
+    "text": "with the foreground the foreground is",
+    "start": 1837.84,
+    "duration": 4.2
+  },
+  {
+    "text": "anisotropic the monopoles disappeared",
+    "start": 1839.94,
+    "duration": 5.99
+  },
+  {
+    "text": "because the two horns cancelled and",
+    "start": 1842.04,
+    "duration": 5.88
+  },
+  {
+    "text": "remove the monopole because it's in the",
+    "start": 1845.93,
+    "duration": 4.57
+  },
+  {
+    "text": "same the same in each horn but here",
+    "start": 1847.92,
+    "duration": 5.64
+  },
+  {
+    "text": "we've got the bits that differ including",
+    "start": 1850.5,
+    "duration": 5.64
+  },
+  {
+    "text": "the glycan ik foreground well it appears",
+    "start": 1853.56,
+    "duration": 4.02
+  },
+  {
+    "text": "because I couldn't get rid of it they're",
+    "start": 1856.14,
+    "duration": 2.91
+  },
+  {
+    "text": "trying to look through the galaxy to",
+    "start": 1857.58,
+    "duration": 4.08
+  },
+  {
+    "text": "find these little bits that are 1",
+    "start": 1859.05,
+    "duration": 4.38
+  },
+  {
+    "text": "million times smaller than the mean",
+    "start": 1861.66,
+    "duration": 5.64
+  },
+  {
+    "text": "temperature of the so-called CMB well if",
+    "start": 1863.43,
+    "duration": 4.92
+  },
+  {
+    "text": "you can't get rid of it with data",
+    "start": 1867.3,
+    "duration": 4.62
+  },
+  {
+    "text": "processing you use scissors see they cut",
+    "start": 1868.35,
+    "duration": 5.34
+  },
+  {
+    "text": "it out I didn't do this",
+    "start": 1871.92,
+    "duration": 6.21
+  },
+  {
+    "text": "this comes from George Smoot he did it",
+    "start": 1873.69,
+    "duration": 4.86
+  },
+  {
+    "text": "with scissors",
+    "start": 1878.13,
+    "duration": 6.84
+  },
+  {
+    "text": "can you believe it well here's a really",
+    "start": 1878.55,
+    "duration": 8.49
+  },
+  {
+    "text": "interesting thing I'd like to read it to",
+    "start": 1884.97,
+    "duration": 3.78
+  },
+  {
+    "text": "you so I'll come over here so I can read",
+    "start": 1887.04,
+    "duration": 4.98
+  },
+  {
+    "text": "it properly this is from some smut and",
+    "start": 1888.75,
+    "duration": 5.31
+  },
+  {
+    "text": "his colleagues we were confident that",
+    "start": 1892.02,
+    "duration": 3.81
+  },
+  {
+    "text": "the quadrupole was a real cosmic symbol",
+    "start": 1894.06,
+    "duration": 3.54
+  },
+  {
+    "text": "by late January and early February the",
+    "start": 1895.83,
+    "duration": 3.69
+  },
+  {
+    "text": "results were beginning to gel but they",
+    "start": 1897.6,
+    "duration": 3.84
+  },
+  {
+    "text": "still did not quite make sense",
+    "start": 1899.52,
+    "duration": 3.0
+  },
+  {
+    "text": "I tried all kinds of different",
+    "start": 1901.44,
+    "duration": 3.06
+  },
+  {
+    "text": "approaches plotting beta in every format",
+    "start": 1902.52,
+    "duration": 3.57
+  },
+  {
+    "text": "I could think of including upside down",
+    "start": 1904.5,
+    "duration": 4.2
+  },
+  {
+    "text": "up down backwards just to try a new",
+    "start": 1906.09,
+    "duration": 3.72
+  },
+  {
+    "text": "perspective and hoping for a",
+    "start": 1908.7,
+    "duration": 3.27
+  },
+  {
+    "text": "breakthrough and I thought why not throw",
+    "start": 1909.81,
+    "duration": 4.2
+  },
+  {
+    "text": "out the quadrupole the thing I'd been",
+    "start": 1911.97,
+    "duration": 4.41
+  },
+  {
+    "text": "searching for all those years and see if",
+    "start": 1914.01,
+    "duration": 5.01
+  },
+  {
+    "text": "Nature had put anything else there why",
+    "start": 1916.38,
+    "duration": 4.86
+  },
+  {
+    "text": "by puzzled did I have to remove the",
+    "start": 1919.02,
+    "duration": 4.14
+  },
+  {
+    "text": "quadrupole to see the wrinkles well",
+    "start": 1921.24,
+    "duration": 3.63
+  },
+  {
+    "text": "quadrupole is one of those multipoles I",
+    "start": 1923.16,
+    "duration": 2.82
+  },
+  {
+    "text": "talked about before",
+    "start": 1924.87,
+    "duration": 3.48
+  },
+  {
+    "text": "he thinks they're real right well",
+    "start": 1925.98,
+    "duration": 4.26
+  },
+  {
+    "text": "professor Robert has got a really really",
+    "start": 1928.35,
+    "duration": 4.26
+  },
+  {
+    "text": "neat answer to this the answer to this",
+    "start": 1930.24,
+    "duration": 4.95
+  },
+  {
+    "text": "question is one of data processing when",
+    "start": 1932.61,
+    "duration": 4.23
+  },
+  {
+    "text": "smart and his colleagues impose the",
+    "start": 1935.19,
+    "duration": 3.54
+  },
+  {
+    "text": "systematic removal of signal they",
+    "start": 1936.84,
+    "duration": 3.54
+  },
+  {
+    "text": "produce the systematic remnant in",
+    "start": 1938.73,
+    "duration": 3.6
+  },
+  {
+    "text": "essence the act of removing the",
+    "start": 1940.38,
+    "duration": 4.44
+  },
+  {
+    "text": "quadrupole created the multipoles and",
+    "start": 1942.33,
+    "duration": 4.95
+  },
+  {
+    "text": "the Associated systematic ni site repeat",
+    "start": 1944.82,
+    "duration": 4.62
+  },
+  {
+    "text": "once a quadrupole has removed the",
+    "start": 1947.28,
+    "duration": 4.44
+  },
+  {
+    "text": "multipoles appeared as extremely",
+    "start": 1949.44,
+    "duration": 6.119
+  },
+  {
+    "text": "consistent variations on the maps parent",
+    "start": 1951.72,
+    "duration": 6.48
+  },
+  {
+    "text": "and isotropy must not be generated by",
+    "start": 1955.559,
+    "duration": 4.891
+  },
+  {
+    "text": "processing so in other words George",
+    "start": 1958.2,
+    "duration": 3.84
+  },
+  {
+    "text": "Smoot and his colleagues couldn't tell",
+    "start": 1960.45,
+    "duration": 3.51
+  },
+  {
+    "text": "the difference between data and data",
+    "start": 1962.04,
+    "duration": 5.7
+  },
+  {
+    "text": "induce spots before their eyes they",
+    "start": 1963.96,
+    "duration": 6.3
+  },
+  {
+    "text": "think that's data here is where l2 is",
+    "start": 1967.74,
+    "duration": 5.49
+  },
+  {
+    "text": "see the earth l2 is 1.5 million",
+    "start": 1970.26,
+    "duration": 4.14
+  },
+  {
+    "text": "kilometers away from Earth",
+    "start": 1973.23,
+    "duration": 3.0
+  },
+  {
+    "text": "that's where W map was and where the",
+    "start": 1974.4,
+    "duration": 4.11
+  },
+  {
+    "text": "Planck satellite was there's no monopole",
+    "start": 1976.23,
+    "duration": 4.439
+  },
+  {
+    "text": "signal out there W map couldn't detect",
+    "start": 1978.51,
+    "duration": 3.15
+  },
+  {
+    "text": "it because it was a differential",
+    "start": 1980.669,
+    "duration": 3.031
+  },
+  {
+    "text": "instrument Planck has never reported the",
+    "start": 1981.66,
+    "duration": 4.5
+  },
+  {
+    "text": "finding of a monopole why because there",
+    "start": 1983.7,
+    "duration": 4.74
+  },
+  {
+    "text": "is no monopole the monopole signal with",
+    "start": 1986.16,
+    "duration": 4.86
+  },
+  {
+    "text": "a mean temperature is from Earth from",
+    "start": 1988.44,
+    "duration": 4.32
+  },
+  {
+    "text": "the water in the atmosphere and that's",
+    "start": 1991.02,
+    "duration": 3.48
+  },
+  {
+    "text": "what Kobe detected it didn't have a",
+    "start": 1992.76,
+    "duration": 3.63
+  },
+  {
+    "text": "shield remember the microwaves",
+    "start": 1994.5,
+    "duration": 5.64
+  },
+  {
+    "text": "diffracted over here is some comparative",
+    "start": 1996.39,
+    "duration": 6.51
+  },
+  {
+    "text": "maps well look at this on the left",
+    "start": 2000.14,
+    "duration": 4.83
+  },
+  {
+    "text": "Piper corner that's the K band this is",
+    "start": 2002.9,
+    "duration": 4.08
+  },
+  {
+    "text": "these frequencies in which W map sampled",
+    "start": 2004.97,
+    "duration": 5.55
+  },
+  {
+    "text": "look at that how red is that it was full",
+    "start": 2006.98,
+    "duration": 6.09
+  },
+  {
+    "text": "of so much noise it was useless the one",
+    "start": 2010.52,
+    "duration": 4.409
+  },
+  {
+    "text": "next to it's not much better so what did",
+    "start": 2013.07,
+    "duration": 4.17
+  },
+  {
+    "text": "they do decide to do well they combined",
+    "start": 2014.929,
+    "duration": 4.981
+  },
+  {
+    "text": "all of these maps and then they played",
+    "start": 2017.24,
+    "duration": 5.04
+  },
+  {
+    "text": "around with it and they waited the V",
+    "start": 2019.91,
+    "duration": 5.34
+  },
+  {
+    "text": "band why because it looks the best we",
+    "start": 2022.28,
+    "duration": 4.32
+  },
+  {
+    "text": "don't like that one up in the left-hand",
+    "start": 2025.25,
+    "duration": 4.049
+  },
+  {
+    "text": "corner we'd better not use it so they",
+    "start": 2026.6,
+    "duration": 5.1
+  },
+  {
+    "text": "gave it really low waiting and they did",
+    "start": 2029.299,
+    "duration": 5.791
+  },
+  {
+    "text": "this to get themselves a map of the",
+    "start": 2031.7,
+    "duration": 6.42
+  },
+  {
+    "text": "universe that looks like this magically",
+    "start": 2035.09,
+    "duration": 5.16
+  },
+  {
+    "text": "all that noise from the flight before",
+    "start": 2038.12,
+    "duration": 7.98
+  },
+  {
+    "text": "ground is gone yeah but remember it's",
+    "start": 2040.25,
+    "duration": 7.65
+  },
+  {
+    "text": "1,000 times weaker than the Galactic",
+    "start": 2046.1,
+    "duration": 3.99
+  },
+  {
+    "text": "foreground well we know from laboratory",
+    "start": 2047.9,
+    "duration": 4.019
+  },
+  {
+    "text": "experience if you're trying to extract",
+    "start": 2050.09,
+    "duration": 3.809
+  },
+  {
+    "text": "the signal that's 1,000 times weaker",
+    "start": 2051.919,
+    "duration": 4.681
+  },
+  {
+    "text": "than the noise you can only do it if you",
+    "start": 2053.899,
+    "duration": 4.321
+  },
+  {
+    "text": "have one of two things satisfied you",
+    "start": 2056.6,
+    "duration": 2.789
+  },
+  {
+    "text": "either they have up",
+    "start": 2058.22,
+    "duration": 2.309
+  },
+  {
+    "text": "your knowledge of the nature of the",
+    "start": 2059.389,
+    "duration": 3.27
+  },
+  {
+    "text": "source or the ability to manipulate the",
+    "start": 2060.529,
+    "duration": 4.89
+  },
+  {
+    "text": "source if you can't do that you can't",
+    "start": 2062.659,
+    "duration": 5.22
+  },
+  {
+    "text": "extract that signal that noise is too",
+    "start": 2065.419,
+    "duration": 6.87
+  },
+  {
+    "text": "overpowering so how did they do it data",
+    "start": 2067.879,
+    "duration": 8.071
+  },
+  {
+    "text": "processing on nonsense this is the",
+    "start": 2072.289,
+    "duration": 5.61
+  },
+  {
+    "text": "Planck receiver low-frequency instrument",
+    "start": 2075.95,
+    "duration": 4.02
+  },
+  {
+    "text": "they compared the sky to another onboard",
+    "start": 2077.899,
+    "duration": 5.821
+  },
+  {
+    "text": "calibrator right just like ferris did",
+    "start": 2079.97,
+    "duration": 5.399
+  },
+  {
+    "text": "right but it's a more sensitive",
+    "start": 2083.72,
+    "duration": 3.929
+  },
+  {
+    "text": "instrument goes in they compare the",
+    "start": 2085.369,
+    "duration": 4.68
+  },
+  {
+    "text": "thing in that box right now let's have a",
+    "start": 2087.649,
+    "duration": 5.37
+  },
+  {
+    "text": "look at there see this this is their",
+    "start": 2090.049,
+    "duration": 5.22
+  },
+  {
+    "text": "calibrator or their load notice on the",
+    "start": 2093.019,
+    "duration": 4.231
+  },
+  {
+    "text": "bottom how they connected it they",
+    "start": 2095.269,
+    "duration": 3.51
+  },
+  {
+    "text": "connect the dead load their so-called",
+    "start": 2097.25,
+    "duration": 5.069
+  },
+  {
+    "text": "black body by bolting it to the high",
+    "start": 2098.779,
+    "duration": 5.58
+  },
+  {
+    "text": "frequency shield the high frequency",
+    "start": 2102.319,
+    "duration": 4.2
+  },
+  {
+    "text": "shield was maintained at 4 Kelvin right",
+    "start": 2104.359,
+    "duration": 4.791
+  },
+  {
+    "text": "this is supposed to be a black body",
+    "start": 2106.519,
+    "duration": 5.431
+  },
+  {
+    "text": "comparator in other words this should be",
+    "start": 2109.15,
+    "duration": 5.889
+  },
+  {
+    "text": "a meeting around about 4 K into the horn",
+    "start": 2111.95,
+    "duration": 5.879
+  },
+  {
+    "text": "as an emitter but it's got one those",
+    "start": 2115.039,
+    "duration": 4.8
+  },
+  {
+    "text": "those connectors there are stainless",
+    "start": 2117.829,
+    "duration": 4.561
+  },
+  {
+    "text": "steel washers you got conduction so",
+    "start": 2119.839,
+    "duration": 5.311
+  },
+  {
+    "text": "they're conducting heat out of this into",
+    "start": 2122.39,
+    "duration": 5.669
+  },
+  {
+    "text": "the shield they're not this doesn't have",
+    "start": 2125.15,
+    "duration": 5.28
+  },
+  {
+    "text": "to meet a single photon in other words",
+    "start": 2128.059,
+    "duration": 4.171
+  },
+  {
+    "text": "they're black bodies on board don't even",
+    "start": 2130.43,
+    "duration": 4.8
+  },
+  {
+    "text": "work so Planck this is a serious design",
+    "start": 2132.23,
+    "duration": 6.569
+  },
+  {
+    "text": "flaw Planck cartridges anything without",
+    "start": 2135.23,
+    "duration": 6.029
+  },
+  {
+    "text": "the 4 K loads there's no monopole adèle",
+    "start": 2138.799,
+    "duration": 4.77
+  },
+  {
+    "text": "- they can't they can't find anything",
+    "start": 2141.259,
+    "duration": 4.32
+  },
+  {
+    "text": "how do they do it well it's just the",
+    "start": 2143.569,
+    "duration": 4.05
+  },
+  {
+    "text": "data procedural issue the main you know",
+    "start": 2145.579,
+    "duration": 8.901
+  },
+  {
+    "text": "none of its real so my final fliers is",
+    "start": 2147.619,
+    "duration": 9.75
+  },
+  {
+    "text": "believe it or not it is now being",
+    "start": 2154.48,
+    "duration": 4.539
+  },
+  {
+    "text": "alleged that alignments between the",
+    "start": 2157.369,
+    "duration": 3.99
+  },
+  {
+    "text": "dipole and the multi poles of the",
+    "start": 2159.019,
+    "duration": 5.49
+  },
+  {
+    "text": "fictitious CMB or generated by data",
+    "start": 2161.359,
+    "duration": 7.101
+  },
+  {
+    "text": "processing form an axis of evil",
+    "start": 2164.509,
+    "duration": 7.59
+  },
+  {
+    "text": "seriously and this axis of evil right",
+    "start": 2168.46,
+    "duration": 6.46
+  },
+  {
+    "text": "tells us that we are at the center of",
+    "start": 2172.099,
+    "duration": 4.801
+  },
+  {
+    "text": "the universe we're going back to",
+    "start": 2174.92,
+    "duration": 4.139
+  },
+  {
+    "text": "medieval times with epicycles and the",
+    "start": 2176.9,
+    "duration": 3.27
+  },
+  {
+    "text": "earth is at the center of the universe",
+    "start": 2179.059,
+    "duration": 3.661
+  },
+  {
+    "text": "can you believe this that's what now the",
+    "start": 2180.17,
+    "duration": 5.55
+  },
+  {
+    "text": "CMB is being useful right now I had a",
+    "start": 2182.72,
+    "duration": 4.889
+  },
+  {
+    "text": "lot of jokes about this but the truth of",
+    "start": 2185.72,
+    "duration": 4.26
+  },
+  {
+    "text": "the matter is it's serious but it's so",
+    "start": 2187.609,
+    "duration": 4.26
+  },
+  {
+    "text": "ridiculous that you can't help but laugh",
+    "start": 2189.98,
+    "duration": 2.76
+  },
+  {
+    "text": "at the",
+    "start": 2191.869,
+    "duration": 3.301
+  },
+  {
+    "text": "physics is now become intellectually",
+    "start": 2192.74,
+    "duration": 7.8
+  },
+  {
+    "text": "decrepit so I will conclude there by",
+    "start": 2195.17,
+    "duration": 7.74
+  },
+  {
+    "text": "telling you why what the parallax effect",
+    "start": 2200.54,
+    "duration": 4.74
+  },
+  {
+    "text": "on short here really is well according",
+    "start": 2202.91,
+    "duration": 4.83
+  },
+  {
+    "text": "to the grand poobahs again it's a Baldy",
+    "start": 2205.28,
+    "duration": 5.55
+  },
+  {
+    "text": "pipe why because black holes they don't",
+    "start": 2207.74,
+    "duration": 5.7
+  },
+  {
+    "text": "have any hair that's the reason why I",
+    "start": 2210.83,
+    "duration": 6.47
+  },
+  {
+    "text": "gave that title thank you very much",
+    "start": 2213.44,
+    "duration": 3.86
+  }
+]

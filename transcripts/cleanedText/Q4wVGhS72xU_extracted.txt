@@ -1,0 +1,490 @@
+Welcome to Space News from the Electric
+Universe brought to you by The
+Thunderbolts Project™ at Thunderbolts.info
+In Part 1 of this two-part
+presentation, Dr. Raymond Gallucci began
+his independent mathematical analysis of
+cosmological alternatives to the
+standard interpretations of cosmic
+redshift. For many decades, astronomers
+have believed that cosmological redshift
+indicates “stretching” of light in an 
+expanding universe. The higher an
+object’s redshift, the farther away it is
+from our perspective on Earth. However, as
+we've reported exhaustively on this
+series, an imposing body of scientific
+research contradicts that perspective.
+Today, Dr. Gallucci concludes his
+analysis on the mathematical
+plausibility of the respective
+alternative redshift explanations by
+scientists Halton ARP and C-C Su. Now, let me
+switch over to the quantization concept
+and I'll now read from quotations from
+Halton ARP’s talk given to the Kronia
+group at the conference in Portland in
+Oregon 2000. He was talking about his
+theory on intrinsic redshift. “in the
+early 1950s, they saw thin connections
+between galaxies and radio lobes, going
+from the central galaxy out to the
+radio lobes on either side. This material
+is actually being ejected; that's about
+the only way you could get this
+configuration. if the galaxy is going to
+eject something, it's going to eject
+along the path of least resistance, which
+is out the poles of the galaxy. You have
+this nice relationship that, as the
+quasars proceed out as time goes past,
+they age and drop, in preferred
+quantized redshifts. What I, Halton Arp,
+have interpreted this to mean, is that
+these quasars move out, evolving to low
+redshift.” And if you look at the various
+videos or some of the websites, or even
+the books that Halton Arp has
+published, he has some very nice
+pictures that show galaxies, apparent
+galaxies with a series of smaller
+galaxies at various distances from
+the galaxy, with these
+quantized redshifts. So, if we look at the
+regression fits that I had back in slide
+10, again there were five
+regression fits of which three I
+selected as being possible contenders
+for calculation for quantization. What I
+have here, I have the five observed redshift
+peaks, their time increments. Again,
+the redshift drops as the time, or the
+distance, increases. So, you'll see that
+the time increments go from 5 down to 1,
+while the Z-peaks go from 0.3 up
+to 1.96. I then took the three best
+regression fits; the first was a function
+of the square root of the mass ratio
+again, the mass of the quasar or
+QSO, to the mass of the Sun. The second
+fit was based on the natural log of the
+ratio; and the third was based on the
+ratio to the two-thirds power. And I
+calculated the mass ratios that would
+come from these formulas. And their
+average is shown in the rightmost column.
+So, those are the
+QSO mass ratios for the various
+Z-peaks and the text there reads, “From the
+three best regression fits, estimate the
+QSO mass at each of the main five
+redshift peaks. If there is a quantization
+phenomenon as the QSO is
+ejected and travels outward, with
+redshift decreasing in specific
+increments (these are increments of time or
+distance), we expect some relationship
+between redshift, and therefore mass, of
+the QSO with time and/or distance. With
+time or distance increment 1 being
+associated with the newly ejected QSO
+(that's shown as time increment 1), it
+has a redshift of 1.96, a scaled mass,
+mass ratio of about 2E+9 It's the
+largest redshift and it's also
+the largest mass, and increment 5
+associated with the oldest
+QSO; that's shown in the first row,
+that's the redshift of 0.3, the scaled
+mass of 1.65E+8, about a
+factor of 10 lower.
+So again, Arp's theory is that as the
+QSOs are ejected, they travel outward
+from the parent galaxy and their
+redshifts drop with time, which is the
+same as with distance, as their mass
+decreases. Now again, going back to the
+previous slide, I'm going to do another
+regression, using the average mass ratio
+in the rightmost column, at the various
+time increments 5-4-3-2-1,
+which are analogous to distance increments.
+You can see the results there,
+on the graph we have the mass as it’s
+scaled to the mass of the Sun, versus time
+or distance increment. And again, I had
+five regression fits; the exponential in
+purple fits the data best, passing
+through all the quantized values. The
+natural log in blue as nearly as good;
+the inverse time shown in green is
+slightly weaker, but it's still
+acceptable. If you look at these you'll
+see that all three of these, the ones
+highlighted in yellow, stay above zero
+through the fifth increment. The
+other two that are still decent fits,
+hit down to zero around 5, so I
+didn't work with those any further. The
+question asked is, do any of these in
+yellow highlights, suggest the
+quantization mechanism? Again let's
+return to Halton Arp’s talk at the Kronia
+conference group in Portland, and I'll
+quote from him again.
+Here he's now talking about particle
+mass being variable with time, and to
+quote Halton, “Einstein’s solution in
+1922, made an approximation which I,
+Halton Arp, think was wrong. The
+particle masses were constant everywhere
+in the universe - that was the
+approximation by Einstein. With this
+approximation, they got the Big Bang
+solution and they predict expanding
+coordinates, singularities at time equals zero,
+and this demands that all the redshifts
+are velocities of recession. Jack
+Narlikar and Fred Hoyle did not assume
+that particle masses were constant in
+time, and they got a very simple solution
+that the masses varied with the time
+squared. That is, as time went on, they
+communicated with more and more of the
+universe, and their mass grew. This is
+a Machian theory: if the electron mass-
+when it makes its transition in the atom
+and emits the photon- is small, the photon
+is weak and it's red shifted. As the
+electron grows in mass, the photon which
+is emitted, is stronger and it drops in
+redshift. So, this is a perfect
+explanation for what we've been seeing,
+that younger objects are highly
+redshifted and the sacred Hubble
+constant is just the inverse age of our
+galaxy. Continuing with the Halton Arp’s talk at
+that conference, if you start in the
+galaxy nucleus, you get a high density in
+the center of this active nucleus, this
+mysterious engine where the stuff is
+created. The new particles are in that
+environment and they're gaining mass
+from their environment very rapidly. When
+they step out of the nucleus, they go
+into a different, much lower density,
+environment into the bulge of the galaxy,
+and then, if they come out in the plane
+of the galaxy or along the axis, they
+drop here into the local group. These are
+enormous drops in density and finally
+when they drop out of the local group of
+galaxies, they take another step down
+into the local supercluster of galaxies,
+and out the local supercluster they take
+yet another step down. These particles
+will be gaining mass very rapidly and
+the redshift will be dropping very
+rapidly and then it finally levels off.
+And there goes another step in the drop,
+and there are just about six drops and
+there are six major quantization levels,
+and he quotes the values of 1.96, 1.41,
+0.96, 0.6, 0.3 and the one that was postulated at
+a very low 0.061. And the
+following slide, this is taken again from
+Halton Arp’s talk at the Kronia group.
+He presented a series
+of slides that show these drops in
+density and I made a composite schematic
+from his presentation; and there's
+incremental increases in particle mass
+and corresponding quantized drops in
+redshift. If we start from zero, which is
+at the top, that shows the galactic
+nucleus and the leftmost axis there
+shows drops in density, while the left
+axis, the vertical axis and the y-axis,
+the x-axis is time/distance as the
+QSO moves outward. So, we start
+from zero which is the galactic nucleus,
+then proceed to the first step, which is
+the drop to the galactic bulge, which is
+step 1. Following that, we go to the
+galactic plane or axial ejection which
+is shown as step 2. That then proceeds
+to the local galactic group, which is
+step 3. Next goes to the galactic
+super cluster, which is step 4 and
+finally then there's a step 5, which
+is postulating, he does not specify what that is,
+but again, the key here is that
+Halton Arp sees the stepwise incremental
+increases in particle mass corresponding
+to the quantized drops in redshift. So
+this is his explanation for the
+quantization of redshift. Now I'd like to
+talk a little bit about the theory of
+C-C Su, from whom I use the redshift data.
+This is from an article taken from the
+arXiv website in physics in 2006.
+According to Su is the following.
+According to the ejection model, quasars
+are formed from the gas of atoms, plasma
+and dust ejected from the parent active
+galaxy. Suppose that the material of
+the gas cloud together forms a local
+ether. The gravitational potential on the
+surface of the quasar is extraordinarily
+strong. The wide variation in redshift
+can be ascribed to a variation in
+density and size of the gas cloud, which
+can be due to the strength of the
+initial ejection from the parent
+galaxy. The speed at which the cloud
+moves away, to the gas expansion, to the
+fragmentation of glass clouds, and to
+star formation. So, he has multiple
+explanations for the wide variation in
+redshift. Due to the non-uniformity
+in particle velocity and density, or to
+some internal disturbance, the quasar may
+break into pieces of identical or
+similar sizes. Suppose the fragments are
+also spherical and the density remains
+unchanged. Thereby their radius is
+shorter than the previous one by a
+factor of 2^-1/3 power; and
+the gravitational potential on the
+surface of either fragment will decrease
+by a factor of 2^-2/3 power.
+And after the nth splitting in half, the
+gravitationally induced intrinsic redshift
+is given by the formula shown there,
+1+zn equals the square root
+of those terms there. Continuing with
+gravity induced quantization from C-C Su,
+what are the terms inside the square
+root on the previous formula? The 1 plus
+z0 squared minus 1, denotes 2 times the
+normalized gravitational potential,
+corresponding to the 0th redshift,
+z sub 0. For the cases of very high
+redshift, this can be approximated as 1
+plus Z to the n equal to 1.26
+to the minus n times 1 plus Z sub 0. By
+adopting the preferred redshift value
+of 1.956 as the 0th redshift once
+again, this formula leads to the
+prediction that the preferred
+intrinsic redshifts are a series
+starting at z equal to 6.08,
+and shown there are the series
+down to 0.06, with n
+ranging from -4 to +9  by integers.
+And the ones highlighted in red,
+are the ones that have been observed.
+You notice that the
+0.06 isn't shown there. But
+what see C-C Su observes is that a
+redshift distribution around 0.6
+may actually be a merger of two
+close distributions around 0.71 and
+0.49 which are two that he predicts, and
+that just happens to be the average of
+the two, 0.6. So, he does get
+the 6 key redshift peaks from his
+formula. Low redshift peaks are expected
+to be smeared, since other affecting
+factors of uneven splitting, gas
+expansion and star formation,
+will accumulate with time.
+Now, my observation is that unlike Arp’s
+theory, Su’s does not postulate the
+series of quantized redshifts represents
+QSO evolution with time and/or distance,
+although he does agree that QSOs are
+formed by injection from a parent galaxy.
+His quantizations are static for each
+QSO and dependent upon various initial
+conditions and interactions until the QSO
+”stabilizes” and exhibits one of the
+characteristic, preferred redshift values.
+So, whereas Arp believes that QSOs
+are ejected and they evolve with time,
+as they move outward from the parent
+galaxies and the redshifts drop in
+quantized amounts with variable particle
+mass, Su’s belief is that they're all
+ejected at the given redshifts that are
+already quantized due to other factors.
+It's not a case of each QSO going
+through an evolution and a change in its
+quantization of redshift. Now I’m going to
+offer some speculation on my part. From
+Halton Arp’s theories, the QSO quantized
+redshift values with QSO distance, or
+time from the parent galaxy, which could
+be either or both a time or distance
+phenomenon. QSOs are ejected with
+high redshift, which seems to correlate
+well with high mass, therefore high
+density, provided the “emitting nucleus”
+remains relatively constant in size. Arp
+bases the observed quantization on
+variable particle mass, which increases
+with time and correspondingly with
+distance, as the particles evolve and
+travel outward from higher to lower
+density regions, in a piecewise, not
+continuous manner. If you accept Arp’s
+variable mass postulate, this appears
+reasonable. For C-C Su, the quantized QSO
+redshift and mass results from initial
+conditions and subsequent interactions.
+Presumably, the spatial distribution
+around the parent galaxy, whereby the
+higher redshifted QSOs are closest
+and the lower one's farthest, is the result
+of the initial energy of the
+QSO’s ejection, its initial size and
+various interactions with surrounding
+material. The more energetic ones travel
+outward farther and interact more with
+material, thereby losing more mass
+and showing lower redshift
+with distance. Regarding Su's theory,
+although he predicts at least some of
+the quantized values, he does not offer a
+definitive reason for the quantization
+as Arp does, which is variable particle mass.
+Therefore, in my opinion, his theory appears
+less plausible than Halton Arp’s. Continuing
+with my speculation, I'm going to offer
+another possible mathematical
+observation for quantization that could
+have a yet to be identified physical
+basis. My simplest equations that
+reproduce well the quantized decreasing
+QSO redshifts as a function of
+uniformly increasing time or distance
+intervals, suggest an exponential decay,
+or roughly a decay as a function of
+inverse time, or distance. I'll just
+go back a bit to that earlier
+slide for familiarity. I'm referring to
+the slide here where I show the mass,
+the scaled mass relative to the Sun's
+mass, as a function of equal time or
+distance increments. And the one in
+purple was the one that showed an
+exponential dependence:
+e to the minus 0.6. So, what I said
+is the exponential decay is a
+fairly common physical phenomenon. For
+example it's typical of radioactive
+decay, but the discrete aspect appears to
+be unique to QSO redshifts. It's not a
+continuous decay; it is again in a
+stepwise fashion; at least from what's
+been observed. An inverse distance
+dependence, which was also shown on the
+earlier slide, the inverse distance one
+is the one in green, where we have
+distance or time to the -1.2
+which is basically inverse time or
+inverse distance dependence. An inverse
+distance dependence is characteristic of
+a magnetic or electric field around an
+infinitely long string of charges, or
+current-carrying wire, and this
+suggests Electric Universe theory, where
+we have intergalactic Birkeland currents
+pervading the universe. Galaxies form
+where these currents flow and could
+exhibit surrounding magnetic or electric
+fields with the inverse distance
+dependence. What is more difficult to
+ascertain is the quantization aspect.
+I do make the following
+mathemetical observation, that the
+quantization of both QSO mass and
+redshift can be represented very well by
+a sine curve with decreasing amplitude
+of the same decaying exponential form as
+my previous equation. And that's shown on
+this next slide here. This is my own
+speculation; what I've plotted here is
+the scaled mass which is the scaled mass,
+or the quantized redshift because
+they're related, as a function of the
+time or distance increment. The formula
+at the bottom M/M0 equals..... The
+equation on the right is actually an
+absolute value, and that's shown by the
+bars, and that indicates absolute value.
+I have a scaling factor
+of 2.73E+9, it's a scaling factor which is
+corresponding to the quantized masses.
+I have a shift factor for the sinusoidal
+variation, -0.55 and that enables me
+to set the peaks at the integer values.
+Therefore the peaks for each
+of the sine curves come out at
+integer values of 1 through 5. You'll
+notice that the peaks occur at scaled
+masses of 2.05E+9 etc., for increments
+1 through 5, and what I reproduced there
+is the table earlier, where I showed the
+average scaled mass ratios as a function
+of the Z peaks, the redshift peaks and
+the increments. And the arrows there show
+how well the sinusoidal curve, the peaks
+correspond to those values. They all
+align very well with them. In fact, the
+comparison with the observed value shows
+agreement to within ten percent. Now I
+don't know what phenomenon might exhibit
+a sinusoidal behavior with exponentially
+decaying amplitude. Could it be some form
+of harmonic dependence? I'm
+only offering this as food for thought. I
+just thought it was rather..., I know if
+it's pure coincidence or what, that I was
+able to come up with a sinusoidal
+function that matched the Z peaks, or the
+mass ratios that result from the Z peaks.
+The Z peaks are shown in red,
+decreasing trend, the mass ratios are
+shown in the dotted curves here, and the
+predicted values as shown, the five here
+at the tops of the peaks, align very well with the
+ratios that were derived from the
+regression analysis using the much
+earlier data from C-C Su. So, finally in
+summary, my approach to the topic of
+quantization of intrinsic QSO
+redshifts, especially based on the
+lifetime work of Halton Arp, was purely
+mathematical - developing a theory for
+intrinsic quantized QSO redshift is
+beyond my experience. I postulated a
+geometric explanation of intrinsic
+redshift possibly dependent on mass to
+the two-thirds power, related to possible
+attenuation of light energy (and
+therefore frequency) within the emitting
+nucleus of a QSO, compounded by a further
+dilution (and therefore energy and
+frequency) decrease due to spread over
+the surface area. To do the quantization
+aspect justice, I summarized two theories
+by other experts and examined their
+plausibility within my realm of
+knowledge. Finally, I offered at least a
+mathematical representation of the
+quantization aspect as food for thought.
+That concludes this presentation.
+ 
+00:21:05,100 --> 00:00:00,000
+[Music]

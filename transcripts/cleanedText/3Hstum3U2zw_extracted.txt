@@ -1,0 +1,847 @@
+thank you very much I'd like to begin
+again by expressing my honor to be here
+I've really met a lot of nice people so
+it's been a it's been a privilege to
+attend the conference as you remember
+yesterday I started my talk by speaking
+about anchoring so the question becomes
+if you're going to do physics you do
+have to trust the laws of physics I mean
+we can't just go back and recheck
+everything every time we do something or
+else physics wouldn't advance and
+actually some laws are almost forgotten
+like kirchoff's law a few people use it
+in astrophysics most people don't think
+about it at all but it's an extremely
+important it's it's a lot of extremely
+important consequences actually I as I
+spoke about yesterday relative to the
+Cosmic Microwave Background
+I mentioned that Penzias and Wilson are
+not allowed to take a temperature and
+the reason that they're not is that they
+cannot guarantee that they understand
+the nature of their source that it has
+no conduction no convection basically
+that the universe would be the same as
+the condition required by Kirchhoff's
+law which is thermal equilibrium with an
+enclosure now I have reassigned that
+signal to water and I've said that water
+has different degrees of freedom and B
+and its ability to contain energy in any
+one degree of freedom it can be vastly
+different so the hydrogen bond contain
+very little energy
+it's basically full right around three
+Kelvin and then the hydroxyl bond can
+take much more energy into it so that
+degree of freedom it can handle more
+energy well all materials are going to
+be like that
+real materials are going to be written
+aid up of real atoms that are
+oscillating against each one another
+there's going to be electrons and
+conduction bands valence electrons and
+all these things that are making up that
+real material are going to have
+different degrees of freedom and those
+degrees of freedom will have a different
+ability to take up energy now this is
+Kirchhoff's law is important the
+downfall of Kurt
+slaw is important because physics will
+start looking at materials a different
+way because they know that this law is
+no longer universal so that has
+implications in statistical
+thermodynamics now relative to the Sun
+it's extremely important because if
+kirchoff's law is not valid you can
+never have a gaseous Sun because a
+gaseous Sun uses the equations of
+radiative transfer and those equations
+all have at their source kirchoff's law
+of thermal emission so for instance in
+Mills classic paper on local thermal
+equilibrium
+he states that at the center of the Sun
+you can have blackbody radiation because
+the atoms there are colliding so quickly
+that you can consider things enclosed
+but actually he described a condition
+for conduction not thermal radiation so
+you cannot have blackbody radiation at
+the center of the Sun and with
+kirchoff's law collapsing this is the
+only thing that's required for the
+gaseous Sun to go away now of course the
+collapse of kirchoff's law also means
+that we don't have universality and this
+has consequences relative to our
+understanding of universal constants
+like planks and Boltzmann's and we
+should remember the laws of physics they
+summarize experimental observations if a
+formulation is contrary to laboratory
+findings it cannot continue to exist as
+a law of physics it is in this light the
+kirchoff's law can no longer hold any
+place in the annals of science so now
+that I've been so hard on for Kirchhoff
+I did want to say that he was still a
+brilliant scientist remember he's the
+father of spectroscopy we have spectral
+analysis because of him he was the first
+with Bunsen to analyze elements on the
+Sun and also we for the electrical
+engineers here we all know the laws of
+current come from him but unfortunately
+his law collapses and the proper law is
+comes from balford Stewart it was
+written two years before and that law is
+much simpler than Kirchhoff's it doesn't
+say that all cavities
+came black radiation it just says that
+at thermal equilibrium the emissivity of
+an object will be equal to its absorbed
+Tiffany so in this talk I'm going to
+review thermal emission and I'm going to
+give you a statement of kirchoff's law
+then will quickly cover Planck's
+equation and it's a nurse so derivation
+einstein's derivation I'll just glance
+over it no not too much time and I'll
+just present Wiens and Stefan's law then
+we'll talk about thermal emissions and
+gasses and solids then I will discuss
+briefly the experimental basis of
+Kirchhoff's error and then we'll talk
+about the central thing that comes from
+this talk perhaps is the linking of
+Planck's equation to physical reality
+and this has dramatic consequences for
+both physics and chemistry so now you'll
+have to excuse me when I did the slides
+by the way this was a last minute thing
+that I knew I was coming here to give
+this particular talk but when I made the
+slides I I put the diagram in
+wavelengths and the equations in
+frequency but it doesn't matter
+you you can just put the right diagram
+if you want now so Kirchhoff this is a
+summary of Kirchhoff's laws it whoops
+sorry this is a summary of Kirchhoff's
+law and it just says that there's some
+function of temperature and it depends
+on the image Civet ii of the body
+divided by its opacity or absorbed Tiffa
+t and so you have some function now
+Kirchhoff didn't really know what the
+function looked like back then he just
+knew it was a continuous spectrum but
+what he did believe is that this
+equation was universally applicable to
+all cavities now here's the statement of
+the law from his paper if a space be
+entirely surrounded by bodies of the
+same temperature so that no rays can
+penetrate through them every pencil in
+the interior of the space must be so
+constituted in regards to its quality
+and intensity as if it had proceeded
+from a perfectly black body of the same
+temperature and must therefore be
+independent of the form and nature of
+the bodies and determined by temperature
+alone so he's saying if I have a cavity
+any
+it doesn't matter what it's made out of
+the radiation inside will always be the
+same the interior therefore of an opaque
+red hot body of any temperature the
+illumination is always the same whatever
+be the constitution of the body in any
+other respect now
+Planck of course is tied to kirchoff's
+law as you'll see in this next slide but
+Planck initially writes down his
+blackbody equation without derivation he
+sees the data and by just visualizing
+the data
+he knows his equation this was a
+marvelous feat in physics and still is
+today and that's why one of the reasons
+that Planck's equation is called a
+miraculous equation quantum physics was
+born on that day he derives the law he
+he then goes ahead after he writes it
+down he writes it on a postcard mails it
+to his friend and that's how Planck's
+law is born he derives the he then
+spends many weeks deriving the law of
+blackbody radiation treating the problem
+with oscillators and then invoking
+quantum values for the vibrations so
+when you look at Planck's law you see
+that within it here you actually have
+kirchoff's law this is kirchoff's law
+and this is Planck's okay now there's
+another law that's quite important this
+is called Stefan's law and it this is
+used all the time with the astronomers
+they actually think that the the
+emissivity of a body will always move
+with the fourth power of the temperature
+well actually there's almost nothing on
+earth that follows this law and I will
+demonstrate that for you in a couple of
+examples and gases but anyhow just the
+the total emissivity so the area under
+the curve here is just proportional to a
+constant times the fourth power of the
+temperature okay so if you have a real
+black body it's truly black a perfectly
+absorbing cavity this will be true but
+other than that it's never true now we
+ins a lot of thermal emission can also
+be used and that law says that if you go
+to the maximum wavelength here I switch
+back to wavelength for the equation that
+the wavelength times the temperature is
+just equal to a constant so we won't go
+through Planck's derivation but I did
+mention to you that it used oscillators
+now Albert Einstein very
+elegantly derives Planck's equation in
+1916 using a two energy system Einstein
+coefficients and what people often
+forget a radiation field which doesn't
+come from nowhere the physical nature of
+the transmission the transition species
+is never considered so we'll just I
+won't go through this too much you you
+just got two energy levels and you're
+gonna permit transitions within these
+levels and he considers energy going
+from this one to this one this one to
+that one so you have the rate of
+stimulated absorption the rate of
+spontaneous emission the rate of
+stimulated emission he puts them all
+together with the the Planck brightness
+and then he uses these coefficients and
+then poof plant oh and then wait a
+minute there's one more thing before the
+poof we have to use Boltzmann's
+distribution and then of course poof you
+get Planck's equation now the problem
+with this of course is that people often
+forget well people don't forget this
+part the critical step in the derivation
+was C was to include stimulated emission
+if this is not done you get the Rallye
+gene solution but Einsteins derivation
+also requires the presence of a
+radiation field from which he can deduce
+his coefficients and he uses Wiens
+blackbody approximation to characterize
+this the energy of this radiation field
+so his derivation looks very easy it's
+it's beautiful it's simple but of course
+he's introducing something for which we
+Ned worked very hard to obtain now
+here's a brief review of thermal
+radiation so the first thing that we
+have we all recognize in this room is
+most people in this room will recognize
+is that gases always emit radiation in
+the discontinuous matter their total
+emission now this is something that
+people don't always recognize their
+total emission can draw up as a function
+of temperature and this is in direct
+contradiction to Stefan's law right
+Stefan's law told us that the temp that
+the emission always moves with the
+fourth power of the temperature so this
+situation is unlike what is found in
+solids and liquids so gases solids and
+liquids tend to emit in a continuous
+manner I won't say that they follow
+Stefan's law may be an ideal solid my
+so when you learn spectroscopy you the
+hit you with this spectrum diatomic
+molecules the they have rotational
+vibrational spectra which looks
+something like this so you know just a
+bunch of lines at different frequency
+okay if you want to see the actual
+spectrum you could just go to this
+reference this is uh I did these figures
+well my son did a lot of these figures
+this shows you how bad I am in art and
+this is a figure that is my son had an
+exam so you couldn't help me but so this
+is just a schematic representation of
+absorption bands and for something like
+co2 for instance you'll have a bunch of
+absorption bands you know and they're
+they're discrete and they come down to
+zero and there's no there's no
+absorption then though
+there'll be another band then so you get
+bands that's never continuous for gas
+now if you look at the emissivity of
+carbon dioxide and now we'll look at it
+as a function of temperature and I'll
+just look at one pressure well what the
+log of the emissivity looks like
+according to Stefan's law right this
+should a move at the fourth power of the
+temperature so as the temperature went
+up this curve should be going up but in
+reality if you look at this
+authoritative book on radiative
+thermometry you'll see that the
+emissivity of carbon dioxide actually
+drops with temperature it doesn't go up
+and this is true at all pressures so if
+you go to this text you'll actually see
+a whole bunch of lines you know a whole
+bunch of lines all dropping here and
+each line will have that will be for a
+specific pressure so the emissivity of a
+real gas drops with temperature here's
+water pressure water vapor the same
+thing the emissivity does not follow
+Stefan's law for a gas the emissivity
+drops with temperature and again you can
+have a whole bunch of lines here and
+each at a different partial pressure of
+a water pressure vapor pressure
+now how about solids
+solids emit radiation in a continuous
+manner their total emission usually does
+not follow Stefan's law except in the
+crudest sense in materials like graphite
+soot or other near ideal absorbers in
+all other cases the behavior of the
+emission as a function of temperature is
+highly erratic and polished metals tend
+to have a low emissivity value now this
+is important for the people looking at
+the Sun because sunspots have low
+emissivity and that is just a related to
+their high ability to conduct so
+different materials if I say okay I'm
+going to have different solids well the
+way that the light looks like is all
+going to be different each material is
+going to have is going to give you a
+different spectrum okay
+so different materials emit light with
+varying features which change as a
+function of temperature so what are we
+describing here an absolute mess right
+nothing is universal here all materials
+are different right so how did Kirchhoff
+come to tell us that things were
+universal if you look at the spectrum of
+aluminum oxide powders or silicon oxide
+powders you'll get spectra that look
+like this whereas some free at some
+wavelengths there's essentially knowing
+it nice and then they'll come up and wow
+they have almost perfect immittance over
+a very small range okay but this is not
+a blackbody spectrum so materials real
+materials really vary look at graphite
+of course I made this slide myself again
+now if you look at graphite for instance
+okay you'll see that even when I talk I
+said well graphite we can treat it as a
+perfect absorber or a perfect emitter
+and actually it's true at some
+wavelengths graphite can be pretty good
+but different graphite comes from
+different minds and those different
+minds will give you different
+emissivities okay so you can have
+graphite with terrible emission at
+certain frequencies essentially zero
+it's not emitting out there okay
+so even for graphite it doesn't work
+very well
+now here's one frequency though at 0.66
+a whole bunch of forms of graphite at
+point six six micrometers you see that a
+whole bunch of forms of graphite
+actually give you an emissivity that's
+not too bad
+you know 0.9 we're getting in close now
+in Kurt Ross today what did he used to
+do well he made his boxes and then he'd
+line him with soot people used to use
+blood lampblack in those days they just
+took the soot from the lamp and that was
+such a good absorber okay so soot has a
+structure very similar to graphite and
+that's what they use they coated
+everything which stood their cooker
+monitors their black bodies there the
+whole Lab was covered in soot okay so
+obviously everything became universal
+they busted needed a maid I don't know
+okay so now modern physics believes that
+blackbody radiation is universal and
+this is a resort salt of kirchhoff's air
+so let's restate kirchoff's law states
+that within a cavity the ratio of
+emissive and absorptive powers is
+independent of the nature of the cavity
+walls and Max Planck wrote according to
+kirchoff's law now this is critical for
+physics because Planck is about to give
+birth to quantum physics here according
+to kirchoff's law this radiation is
+independent of the nature of the
+radiations radiating substance and
+therefore has universal significance now
+he's not talking about the universe
+although we could be it could be
+anywhere in the universe but he's
+actually talking about from material to
+material it doesn't matter make me a
+cavity and you're gonna have black
+radiation inside of it yet if kirchoff's
+law was actually valid is it actually
+valid and do arbitrary cavities that we
+make in the laboratory do they really
+contain black radiation if so why is it
+that all our laboratory black bodies are
+always constructed from nearly perfectly
+absorbing materials so obviously it
+cannot be true kirchoff's law can not be
+valid or else we'd be making black
+bodies out of silver this is also
+important there is no proper
+mathematical proof of kirchoff's law now
+this has been true
+in in a paper and he ends his discussion
+by saying well then Einstein came along
+and then we get kirchoff's law well
+unfortunately remember I told you I 9
+used a radiation field and that was a
+Wiens field and that field was a
+blackbody field and it came from a
+blackbody saying you can also read these
+papers that discuss these issues but
+remember black bodies are always made
+from nearly per ideal absorbers of
+radiation or the frequency of interest
+now let's look at kirchoff's law a
+little bit we're going to consider two
+cases so if I look at the law you saw it
+this is a right on the one of the very
+first slides and now we're going to
+consider two cases we're going to look
+at a perfect absorber where the
+emissivity is 1 the absorptivity is 1
+and then we're going to look at the
+perfect reflector where we don't have a
+Mississippian absorptivity but we have
+reflectivity as 1 so this is a perfect
+reflector all they could do is reflect
+now when I do this now remember in
+physics they tell us well we can assume
+that cat that episode that epsilon is
+one that we do that all the time we
+always assume you can get 1 we have an
+ideal blackbody let's assume it can be 1
+well let me assume that it could be 0
+when I put a 0 in there
+this becomes undefined so this equation
+doesn't work so the problem is is that
+the true equation which is not shown in
+this slide but I published in a in
+another paper it's just it should be
+epsilon plus Rho divided by Kappa plus
+Rho is equal to some function of
+temperature frequency the nature of the
+material and anything else you want to
+add into it now do cavities really
+contain black radiation now if you look
+at some astronomy books they always have
+this example lots of storing books have
+this example they give us a nice
+spherical cavity ok and they say look
+would make a very small hole in it and
+the radiation that comes in once it
+comes in it's trapped and it can't come
+out
+so therefore the radiation and it must
+be black well this is a fallacy because
+if it can't come out it never came in
+now let's look at this argument now this
+argument actually I gave a talk at the
+American Physical Society in Denver two
+weeks ago it was a poster and in front
+of my poster there was a discussion of
+this case and the professor who was
+discussing it with me we left in a
+discord because he couldn't understand
+the point so let me go and explain the
+point now so astronomers say look I'll
+prove to you that every cavity contains
+black radiation okay so what they do is
+they say okay on the Left I'm going to
+take a real black body it's going to be
+an ideal black body
+okay we know it has black radiation in
+that one now the question is does this
+one have black radiation in it okay now
+I'm gonna take an ideal blackbody this
+is gonna be perfectly absorbing wall and
+I'm gonna make another cavity with a
+perfectly reflecting wall but now I want
+to keep my radiation from going into
+space in other words I don't want this
+wall to be radiating out here right so
+what I'll do is I'll take this black
+lining here and that's gonna be an
+adiabatic barrier adiabatic is a big
+word but it only it only means no heat
+will go through that wall okay heat is
+prevented from going through that wall
+in any form so all the energy of this
+system is contained within it it cannot
+go into the universe same with this one
+all the energy contained is within it
+and it cannot go into the universe but
+now this is a perfect reflector so their
+question is does this have black
+radiation in it well the argument that
+the astronomers make is look if I put
+these two cavities together and they're
+at the same temperature now they say
+these are at the same temperature when
+we begin okay when I put them together
+photons are going to come from the
+cavity on the left into the right that
+means that photons from the right cavity
+must go into the left one or else the
+temperature of the left cavity would
+drop and they're already at the same
+temperature so that cannot be allowed
+under the laws of thermodynamics under
+the zeroth law we can assume that
+there's another body out there also at
+the same temperature the zeroth law
+involves three bodies
+so because this temperature cannot drop
+that means that photons must come from
+the right cabbie and go into the left
+okay that's the argument that's used in
+astronomy but unfortunately that's not
+correct because the problem is is what
+have you built here you've made a cavity
+out of a perfect reflector right and you
+put an adiabatic wall around it right so
+where's the energy well if you can't put
+it in the phonons in the wall and you're
+not sure that there's radiation here you
+don't even have the same temperature
+you can't even characterize this this
+cavity with a temperature so here's
+another insight now I'm going to take
+cavities surrounded by adiabatic walls
+and they're now truly going to be at the
+same temperature because now what I'm
+going to assume is instead of building
+cavity to out of a perfect reflector
+instead of building cavity to out of the
+perfect reflector that's just an
+adiabatic wall I'm gonna build it out of
+something that's like silver and I'm
+gonna say this is gonna be a real
+material and when I put these together
+what happens is when they're at the same
+temperature as soon as a photon wants to
+come from the left cavity into the right
+a phonon moves from this wall directly
+into this one and creates the photon
+again so what happens in this experiment
+is you just redistribute the energy you
+create block radiation in this cavity
+but it never had any initially and the
+temperatures do not change so this is
+the correct way to look at it so cavity
+one is transforming phonon energy of
+cavity two into photons the energy or
+temperature of the system of each system
+remains constant
+now here's another little experiment and
+you know what since I'm running out of
+time I'll just tell you that you can
+take a perfect box and you could read
+this paper is a very simple paper and
+the citation is here you could just read
+this paper I take a perfectly reflecting
+cavity I take a perfectly absorbing
+cavity and you can prove that the
+radiation inside the perfectly
+reflecting cavity will not follow
+kirchoff's law but we'll skip it because
+we don't have time for it so arbitrary
+cavities do not contain black radiation
+that's absolutely false
+so what is strength what is kirchoff's
+box well remember when he was in his lab
+coated his box with soot well what he
+had discovered is he had made a
+transformer of light he wanted to know
+what the temperatures of the objects was
+he'd put the objects inside the cavity
+and then they would occur liberate with
+the walls and once the equilibrated this
+the spectrum started looking like the
+graphite spectrum but there was still
+impurity because the the object could
+directly emit light right so let's
+refine it a little bit and now put
+cavity the hide the object over here and
+put some put some soot covered walls
+inside now the only photons that will
+come out will be photons from the soot
+if you let this come in thermal
+equilibrium with the cavity now you
+always get black radiation so what
+Kirchhoff had done is he had figured out
+a way to take any object he didn't know
+his temperature if he put it in the
+cavity let them to come to thermal
+equilibrium and took the spectrum he
+would know the temperature so he had
+made a transformer of light so here's an
+example if I take an aluminum oxide
+chunk I put it inside a cavity we'll
+assume that there's walls here it goes
+from the aluminum spectrum to the
+blackbody spectrum but what if I put it
+in a perfect reflector well if you put
+it in a perfect reflector you can wait
+all day but you're always gonna get
+aluminum oxide because that's a perfect
+reflector so it can never transform this
+spectrum but then this is what Planck
+does throughout his work if you read
+heat radiation Planck's in love with a
+carbon particle he keeps putting it
+everywhere inside the problem he wants
+to put a little carbon particle in the
+box so what cutt playing what Planck
+does is he always uses a perfectly
+reflecting enclosure okay it's perfectly
+reflecting now he knows in the lab that
+that doesn't work so what he does is he
+says now just ensure that I have the
+right radiation I'm gonna go ahead and
+put a little piece of graphite in here
+and as soon as he does what has he done
+he's just put a perfect emitter inside
+this box well it's going to become in
+thermal equilibrium with this aluminum
+oxide right let's make this a silver box
+put this guy on the floor put that guy
+on the floor there temperatures go to
+equilibrium and this starts dominating
+all the radiation now you get a
+blackbody spectrum so as soon as you put
+a perfect absorber and I can show you
+this mathematically in one of my papers
+as soon as you put a
+perfect absorber inside the box you now
+govern everything because guess what
+this thing is perfect that's as if you
+had line the whole cavity with graphite
+so Planck had written it is therefore
+possible to change a perfectly absorbing
+radiation which exists at the start of
+an evacuated cavity with perfectly
+reflecting walls under consideration but
+by the introduction of a minut particle
+of carbon as a result Planck came to see
+the graphite particle as a catalyst in
+fact it was acting as a perfect absorber
+it was as if the experimentalist had
+lined the entire walls of the box with
+graphite as a result both Planck and
+Kirchhoff had left the perfectly
+absorbing had never left the perfect
+absorbing cavity yet Kirchhoff and
+planck should have considered the case
+of the perfect reflector as a separate
+case this was a serious error which
+resulted in Planck believing that his
+equation could be applied universally so
+in conclusion Planck erred when he
+assigned to graphite the role of a
+catalyst in fact graphite was a perfect
+absorber and Kirchhoff and Planck had
+never left the perfectly absorbing
+cavity so they can't speak about all
+cavities all arbitrary cavities having
+black radiation they never left them
+right they never left the perfectly
+absorbing cavity so consequently
+Planckian radiation is actually
+absolutely dependent on their bate
+nature of the emitting object graphite
+smoke soot and carbon are still used
+today to make black bodies now all black
+bodies are always limited to solids
+since only they can be perfect absorbers
+and can be near-perfect absorbers and
+unlike liquids they cannot sustain
+convection now this is important
+Planck's equation remains the only
+fundamental equation in physics which
+has yet to be linked to physical reality
+Planck couldn't link it because Kershaw
+had told them the radiation is
+independent of the nature of the walls
+so don't look for the cause it's
+independent of the nature of the walls
+so it was never linked this is a direct
+result of Curtiss error we must explain
+why a thermal photon is being produced
+as a result of the temperature of an
+object
+this still hasn't been done it's sorry
+whenever in physics or chemistry we have
+light okay so whenever in physics and
+chemistry we have the production of
+light we always have to have five
+components these must always be defined
+we have to have a setting we have to
+have the nature of the energy levels we
+have to have the nature of the
+transition species the equation which
+describes the process and finally the
+absorption of light so what am I talking
+about let's look at the Lyman series
+which the astronomers use all the time
+the setting is the atom actually the
+hydrogen atom what's the energy of the
+the energy levels what's the electric
+atomic and orbitals right what's the
+nature of the transition species it's
+the electron everybody knows that what's
+the equation is the Ryberg equation with
+the Rydberg constant and what's the
+production what's the production of
+light eventually the Lyman series so
+everything is defined very clearly how
+about an NMR my discipline well the
+setting is the nucleus and now we have
+to be fussy we have to take this nucleus
+and it has to have spin and we have to
+put it in a magnetic field what's the
+nature of the energy levels it's the
+spin energy levels what's the nature of
+the transition species it's a spin
+there's an equation describing the
+process it's a llamar equation and
+finally after all that we get the NMR
+lines bah bah bah Planck
+what Kirchhoff told us that it's setting
+doesn't matter so we don't know the
+setting so everything can produce black
+radiation the Big Bang the Sun a gaseous
+Sun everything can produce it right the
+nature of the energy levels are not
+defined they've never told us what the
+transition species is all we have and
+this is all directly because of
+Kirchhoff's the first three are missing
+because of Kirchhoff all we have is
+Planck's equation and the blackbody
+spectrum so that Planck's equation has
+not been linked is a direct result of
+Kirchhoff's era now I have a little joke
+here if there's any black hole in
+physics that's it
+now so I've advanced there is a solution
+to this problem because I'm living in
+the graphite world I want to live in the
+perfect absorber that I know will
+produce a spectrum pretty close to a
+blackbody so what do I want the setting
+I want a nearly perfectly absorbing
+solid something like graphite because
+that's the closest or soot they have
+similar structures so it's not something
+very close to that what's the nature of
+the energy levels it's probably the
+vibrational energy levels within the
+lattice so we need a lot Asst you cannot
+get a blackbody emission unless you have
+a vibrational lattice now that is a big
+requirement because there's none in the
+Big Bang and there's none in the gaseous
+Sun what is the nature of the transition
+species well we know that in physics
+it's usually always the electron it's
+always the electron causing light but I
+suspect that in black radiation it's
+actually a vibrating nucleus within a
+lattice field and then of course we have
+the other known too so there's some
+consequences here some of them are
+positive we are currently portraying
+physics as if we understand everything
+okay
+but in the end the emissive properties
+of all cavities are directly dependent
+on the nature of the materials involved
+okay so that has enormous consequences
+not only in real material work but in
+theory remember I keep saying the equal
+partition theorem is not valid this has
+enormous consequences okay that means
+that within the material again what you
+get the distribution of energy within
+that material will depend about what
+receptacles it has to take the energy
+and that depends on the type of material
+you have there is no universality in
+cavity radiation and as such the concept
+of Boltzmann and Planck are not
+Universal in nature and this has
+enormous consequences throughout physics
+each material must be characterized by
+its own constants and its own variables
+and finally by admitting our
+shortcomings we give hope to our
+children that they too can contribute to
+the advancement of scientific thought
+and discovery now I've written a lot on
+kirchoff's law these are some of the
+papers this last one just just came out
+I want to acknowledge my son for most of
+the drawings in this presentation except
+the bad ones the sketches of Kirchhoff
+and balford Stuart came from Bernadette
+I also want to thank my department for
+supporting me the editorial staff of
+progress in physics where so many of my
+papers have been published for accepting
+my work and I want to close with this
+followed up by Max Planck we cannot
+order men to see the truth or prohibit
+them from indulging in error thank you
+very much

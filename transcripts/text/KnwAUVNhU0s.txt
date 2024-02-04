@@ -1,0 +1,4197 @@
+[
+  {
+    "text": "Gerald Pollack",
+    "start": 8.38,
+    "duration": 3.22
+  },
+  {
+    "text": "Weather and EZ Water ― An\nIntimate Role of Separated Charge",
+    "start": 15.893,
+    "duration": 5.73
+  },
+  {
+    "text": "So I am going to\ntalk about water but",
+    "start": 22.787,
+    "duration": 2.853
+  },
+  {
+    "text": "I'm going to talk about\nwater in a special context",
+    "start": 25.665,
+    "duration": 3.465
+  },
+  {
+    "text": "and that is in the context of something\nthat's really important around here",
+    "start": 29.155,
+    "duration": 5.409
+  },
+  {
+    "text": "and really important where I\ncome from and that is weather.",
+    "start": 34.589,
+    "duration": 3.318
+  },
+  {
+    "text": "And so, I want to talk\nabout water and weather",
+    "start": 37.932,
+    "duration": 4.947
+  },
+  {
+    "text": "and I hope to demonstrate to you that\nsomething is really important about weather",
+    "start": 42.904,
+    "duration": 6.462
+  },
+  {
+    "text": "that we haven't realized before\nand that is electrical charge",
+    "start": 49.391,
+    "duration": 3.974
+  },
+  {
+    "text": "which fits nicely into the\ntheme of this conference.",
+    "start": 53.39,
+    "duration": 3.432
+  },
+  {
+    "text": "And, I guess, a shorter title would be,\nshould I bring an umbrella to work?",
+    "start": 56.847,
+    "duration": 6.162
+  },
+  {
+    "text": "Okay, so let me start\nwith a few questions.",
+    "start": 63.656,
+    "duration": 3.263
+  },
+  {
+    "text": "So, here's a question.",
+    "start": 66.944,
+    "duration": 1.575
+  },
+  {
+    "text": "Sometimes above the water\nyou see a single cloud.",
+    "start": 68.519,
+    "duration": 5.467
+  },
+  {
+    "text": "But that's weird because you know, the\nwater is evaporating from everywhere",
+    "start": 74.423,
+    "duration": 5.031
+  },
+  {
+    "text": "so how come only one cloud\nwhen the vapor rises all over?",
+    "start": 79.479,
+    "duration": 5.004
+  },
+  {
+    "text": "Is there some attraction\nof moisture that comes",
+    "start": 84.508,
+    "duration": 8.215
+  },
+  {
+    "text": "and pulls the moisture into\nthis cloud or something else?",
+    "start": 92.748,
+    "duration": 3.283
+  },
+  {
+    "text": "How do we understand this?",
+    "start": 96.056,
+    "duration": 1.595
+  },
+  {
+    "text": "How come there's not one broad\ncloud that exists over the water?",
+    "start": 97.676,
+    "duration": 5.059
+  },
+  {
+    "text": "Another one.",
+    "start": 102.76,
+    "duration": 1.212
+  },
+  {
+    "text": "Maybe you haven't\nthought about this",
+    "start": 103.997,
+    "duration": 2.197
+  },
+  {
+    "text": "but what keeps the cloud afloat?",
+    "start": 106.219,
+    "duration": 3.585
+  },
+  {
+    "text": "Cloud consists of\nwater, water is heavy,",
+    "start": 109.829,
+    "duration": 3.671
+  },
+  {
+    "text": "cloud like this consists of, I\ncould give you in kilograms,",
+    "start": 113.525,
+    "duration": 5.884
+  },
+  {
+    "text": "the weight and such but",
+    "start": 119.434,
+    "duration": 2.607
+  },
+  {
+    "text": "it's convenient to talk about the\nweight in terms of elephants.",
+    "start": 122.066,
+    "duration": 3.333
+  },
+  {
+    "text": "So, this is the equivalent of\nperhaps a thousand or so elephants.",
+    "start": 125.424,
+    "duration": 4.566
+  },
+  {
+    "text": "And how come the elephants\ndon't fall on your head?",
+    "start": 130.015,
+    "duration": 3.181
+  },
+  {
+    "text": "Maybe it's a question that you haven't\nthought about but some people have.",
+    "start": 133.221,
+    "duration": 4.407
+  },
+  {
+    "text": "And then, you know, in\nSeattle where I live,",
+    "start": 137.653,
+    "duration": 3.254
+  },
+  {
+    "text": "we get a lot of rain and\nwe see dark clouds.",
+    "start": 140.932,
+    "duration": 4.751
+  },
+  {
+    "text": "Sometimes they release the rain\nand other times they don't.",
+    "start": 145.708,
+    "duration": 3.738
+  },
+  {
+    "text": "And so, what gives, how\ncome, what makes it rain",
+    "start": 149.471,
+    "duration": 4.812
+  },
+  {
+    "text": "and why sometimes\ndoes it not rain?",
+    "start": 154.308,
+    "duration": 2.987
+  },
+  {
+    "text": "So we're talking about water",
+    "start": 157.32,
+    "duration": 1.796
+  },
+  {
+    "text": "and water is something\nabout which we know so.",
+    "start": 159.141,
+    "duration": 3.634
+  },
+  {
+    "text": "So I want to start from a few principles\nthat have been developed over the past years",
+    "start": 162.8,
+    "duration": 8.508
+  },
+  {
+    "text": "and then go on from there to\ntalk about how these principles",
+    "start": 171.333,
+    "duration": 3.196
+  },
+  {
+    "text": "can be applied to get a better\nunderstanding of weather.",
+    "start": 174.554,
+    "duration": 3.159
+  },
+  {
+    "text": "And it starts with this book\nthat Don Scott mentioned",
+    "start": 177.738,
+    "duration": 5.551
+  },
+  {
+    "text": "and we uncovered a different phase of\nwater beyond solid, liquid and vapor.",
+    "start": 184.74,
+    "duration": 8.896
+  },
+  {
+    "text": "And it's the basis, it comes from\na lot of experiments that we did",
+    "start": 193.684,
+    "duration": 5.413
+  },
+  {
+    "text": "and I think rather\nstraightforward interpretations.",
+    "start": 199.122,
+    "duration": 2.868
+  },
+  {
+    "text": "And I just want to give you a summary without\npresenting the evidence for what we found.",
+    "start": 202.015,
+    "duration": 6.075
+  },
+  {
+    "text": "So, we found that\nif there's water",
+    "start": 208.115,
+    "duration": 3.019
+  },
+  {
+    "text": "and the water sits next to a hydrophilic\nmaterial in particular not hydrophobic",
+    "start": 211.159,
+    "duration": 5.362
+  },
+  {
+    "text": "but hydrophilic, water-loving,",
+    "start": 216.546,
+    "duration": 2.257
+  },
+  {
+    "text": "what happens is that the water transitions\ninto a completely different structure.",
+    "start": 218.828,
+    "duration": 5.339
+  },
+  {
+    "text": "A layered structure, honeycomb kind\nof structure that builds in layers",
+    "start": 224.192,
+    "duration": 7.026
+  },
+  {
+    "text": "from here one after another\nand just keeps going on",
+    "start": 231.243,
+    "duration": 3.453
+  },
+  {
+    "text": "and in fact typically we find up\nto millions of molecular layers",
+    "start": 234.721,
+    "duration": 5.494
+  },
+  {
+    "text": "that undergo these\ntransformations.",
+    "start": 240.24,
+    "duration": 2.173
+  },
+  {
+    "text": "We call them EZ or\nExclusion Zone of water",
+    "start": 242.438,
+    "duration": 5.583
+  },
+  {
+    "text": "because we find experimentally\nthat as these grow",
+    "start": 248.046,
+    "duration": 3.997
+  },
+  {
+    "text": "they push out all\nparticles and solutes",
+    "start": 252.068,
+    "duration": 2.883
+  },
+  {
+    "text": "so it's rather pure substance that\nwe get here that's solute free.",
+    "start": 254.976,
+    "duration": 5.739
+  },
+  {
+    "text": "And the structure looks\nsomething like this.",
+    "start": 260.74,
+    "duration": 2.877
+  },
+  {
+    "text": "It's a hexagonal or\nhoneycomb kind of structure",
+    "start": 263.642,
+    "duration": 3.542
+  },
+  {
+    "text": "consisting of course\nof oxygen and hydrogen",
+    "start": 267.209,
+    "duration": 3.195
+  },
+  {
+    "text": "and unlike the structure of\nliquid water which sits out here.",
+    "start": 270.429,
+    "duration": 5.547
+  },
+  {
+    "text": "And it turns out it's\nnot H₂O anymore.",
+    "start": 276.001,
+    "duration": 3.401
+  },
+  {
+    "text": "It's actually H₃O₂ - if you count the\noxygens and hydrogens in the unit cell.",
+    "start": 279.427,
+    "duration": 6.833
+  },
+  {
+    "text": "This is what you get",
+    "start": 286.285,
+    "duration": 1.932
+  },
+  {
+    "text": "and it's not surprising because\nexperimentally we found that this region",
+    "start": 288.242,
+    "duration": 6.196
+  },
+  {
+    "text": "has a net negative charge and\nthis is negatively charged.",
+    "start": 294.463,
+    "duration": 5.231
+  },
+  {
+    "text": "To be neutral, it would have to be H₄0₂\nthat is double H₂O that's neutral.",
+    "start": 299.719,
+    "duration": 6.376
+  },
+  {
+    "text": "It's negatively charged.",
+    "start": 306.12,
+    "duration": 1.54
+  },
+  {
+    "text": "If you wanted this to be neutral, you'd\nhave to put one more proton in here",
+    "start": 307.66,
+    "duration": 5.696
+  },
+  {
+    "text": "to make it H₄0₂.",
+    "start": 313.381,
+    "duration": 1.929
+  },
+  {
+    "text": "So, negatively charged and\nthe positive charges,",
+    "start": 315.335,
+    "duration": 5.078
+  },
+  {
+    "text": "complementary positive\ncharges lie here in water",
+    "start": 320.438,
+    "duration": 3.696
+  },
+  {
+    "text": "and the reason is that,\nin order to build these",
+    "start": 324.159,
+    "duration": 3.968
+  },
+  {
+    "text": "what happens is the water molecule is\nbreaking into its component parts into OH-",
+    "start": 328.152,
+    "duration": 7.739
+  },
+  {
+    "text": "which sits here and lines up to give\nyou this structure and H+ protons.",
+    "start": 335.916,
+    "duration": 4.818
+  },
+  {
+    "text": "So this is negative\nand this is positive",
+    "start": 340.759,
+    "duration": 3.186
+  },
+  {
+    "text": "and what that does is to\nform a kind of battery.",
+    "start": 343.97,
+    "duration": 4.057
+  },
+  {
+    "text": "This is the hydrophilic\nsurface, this is the water",
+    "start": 348.052,
+    "duration": 4.349
+  },
+  {
+    "text": "and this negatively charged, EZ, or we call\nit 'fourth phase of water' is sitting here",
+    "start": 352.426,
+    "duration": 6.921
+  },
+  {
+    "text": "and the complementary\nprotons are sitting here.",
+    "start": 359.372,
+    "duration": 3.852
+  },
+  {
+    "text": "It's got potential energy\njust like a battery",
+    "start": 363.249,
+    "duration": 3.271
+  },
+  {
+    "text": "and in fact the energy to charge this\ncomes from light, we found that.",
+    "start": 366.545,
+    "duration": 5.16
+  },
+  {
+    "text": "So, question is, how does this\npotential energy play into weather?",
+    "start": 371.73,
+    "duration": 5.319
+  },
+  {
+    "text": "Everybody's interested in the weather,\nnobody really understands it.",
+    "start": 377.05,
+    "duration": 4.334
+  },
+  {
+    "text": "And I think the answer\nis - profoundly.",
+    "start": 381.409,
+    "duration": 3.123
+  },
+  {
+    "text": "And I want to present to you some,\nwell rather than really evidence,",
+    "start": 384.557,
+    "duration": 6.875
+  },
+  {
+    "text": "some of this is evidence and\nsome of it is conjecture",
+    "start": 391.457,
+    "duration": 2.81
+  },
+  {
+    "text": "to give you perhaps some idea that\ndiffers from the conventional idea of",
+    "start": 394.292,
+    "duration": 7.368
+  },
+  {
+    "text": "what is responsible for weather.",
+    "start": 401.685,
+    "duration": 2.682
+  },
+  {
+    "text": "It's not with the watercycle and\nmany of you have seen this before.",
+    "start": 404.392,
+    "duration": 6.366
+  },
+  {
+    "text": "Here's the atmosphere and the\nclouds and we have precipitation",
+    "start": 410.783,
+    "duration": 3.865
+  },
+  {
+    "text": "which could be water or\nit could be ice and snow",
+    "start": 414.673,
+    "duration": 3.23
+  },
+  {
+    "text": "and the groundwater flows down\ninto the oceans and it evaporates",
+    "start": 417.928,
+    "duration": 5.003
+  },
+  {
+    "text": "and the evaporated water\ncondenses and so on.",
+    "start": 422.956,
+    "duration": 3.393
+  },
+  {
+    "text": "And so, some of the water that exists,\ncould be millions of years old.",
+    "start": 426.374,
+    "duration": 5.973
+  },
+  {
+    "text": "Same molecules that get\nrecycled over and over.",
+    "start": 432.372,
+    "duration": 4.098
+  },
+  {
+    "text": "And so, we deal with ice and\nsnow, we deal with snow-melt,",
+    "start": 436.495,
+    "duration": 5.964
+  },
+  {
+    "text": "evaporation, condensation\nand then precipitation.",
+    "start": 442.484,
+    "duration": 3.825
+  },
+  {
+    "text": "And that's what I\nwant to talk about",
+    "start": 446.334,
+    "duration": 1.523
+  },
+  {
+    "text": "and I'd like to present you and argue\nthat these are qualitatively different",
+    "start": 447.882,
+    "duration": 6.36
+  },
+  {
+    "text": "from what you think you have,\nwhat you might have learned.",
+    "start": 454.267,
+    "duration": 4.939
+  },
+  {
+    "text": "So, we're going to talk about\nthis water cycle and weather",
+    "start": 459.8,
+    "duration": 4.681
+  },
+  {
+    "text": "and I want to talk first about water and\nice which you saw on the upper left.",
+    "start": 464.506,
+    "duration": 5.435
+  },
+  {
+    "text": "Then evaporation, condensation,\nprecipitation and then wind,",
+    "start": 469.966,
+    "duration": 7.906
+  },
+  {
+    "text": "something that many of us never really\nthink about but it's certainly around.",
+    "start": 477.897,
+    "duration": 5.35
+  },
+  {
+    "text": "And, weather exotica.",
+    "start": 483.272,
+    "duration": 3.038
+  },
+  {
+    "text": "I'm not sure how much I'll\nget through but let's see.",
+    "start": 486.335,
+    "duration": 3.358
+  },
+  {
+    "text": "So, we start with water and ice.",
+    "start": 489.718,
+    "duration": 2.683
+  },
+  {
+    "text": "So you know about ice, you just basically\ntake water and freeze it and you get ice.",
+    "start": 492.426,
+    "duration": 5.7
+  },
+  {
+    "text": "But it's not quite\nso clear as that.",
+    "start": 498.151,
+    "duration": 2.546
+  },
+  {
+    "text": "It turns out that this fourth\nphase that I mentioned to you",
+    "start": 500.722,
+    "duration": 5.456
+  },
+  {
+    "text": "is a necessary condition\nfor the freezing of water.",
+    "start": 506.203,
+    "duration": 4.623
+  },
+  {
+    "text": "So we all think that when you freeze\nwater you go from water to ice",
+    "start": 510.851,
+    "duration": 5.749
+  },
+  {
+    "text": "but what we found and is described in the\nbook and I'll show you a few slides,",
+    "start": 516.625,
+    "duration": 4.552
+  },
+  {
+    "text": "is that water doesn't really\ntransition directly to ice.",
+    "start": 521.202,
+    "duration": 3.852
+  },
+  {
+    "text": "It transitions to EZ whose structure\nis not so different from ice.",
+    "start": 525.079,
+    "duration": 4.052
+  },
+  {
+    "text": "It's not ice but not so\ndifferent and then to ice.",
+    "start": 529.156,
+    "duration": 2.884
+  },
+  {
+    "text": "And if you melt the ice, you go\nfrom ice to EZ and then to water.",
+    "start": 532.065,
+    "duration": 4.55
+  },
+  {
+    "text": "So, the process of\nfreezing differs.",
+    "start": 536.64,
+    "duration": 3.052
+  },
+  {
+    "text": "And the way it works is something like\nthis, you start with the EZ structure,",
+    "start": 539.717,
+    "duration": 5.427
+  },
+  {
+    "text": "remember there are the these hexagonal\nsheets that pile on one another,",
+    "start": 545.169,
+    "duration": 5.203
+  },
+  {
+    "text": "and you may not\nhave noticed it but",
+    "start": 550.397,
+    "duration": 1.99
+  },
+  {
+    "text": "each sheet is slightly displaced\nfrom the sheet behind it.",
+    "start": 552.412,
+    "duration": 4.387
+  },
+  {
+    "text": "It's displaced in such a way\nthat the negative oxygen here",
+    "start": 556.824,
+    "duration": 3.958
+  },
+  {
+    "text": "lines up with the\npositive hydrogen here",
+    "start": 560.807,
+    "duration": 3.361
+  },
+  {
+    "text": "and so these are\nelectrostatically attracted.",
+    "start": 564.193,
+    "duration": 2.623
+  },
+  {
+    "text": "The same here, so it's a stable\nstructure, it sticks together.",
+    "start": 566.841,
+    "duration": 3.836
+  },
+  {
+    "text": "And what we found is that the\nice forms as this EZ structure.",
+    "start": 570.702,
+    "duration": 6.27
+  },
+  {
+    "text": "Remember, you start, you go from\nwater to EZ and then to ice.",
+    "start": 576.997,
+    "duration": 4.76
+  },
+  {
+    "text": "What happens is that you add protons,\nand I'll explain how in a moment,",
+    "start": 581.782,
+    "duration": 4.862
+  },
+  {
+    "text": "and these protons,\npositively charged,",
+    "start": 586.669,
+    "duration": 3.117
+  },
+  {
+    "text": "insinuate themselves between\nthe two negative oxygens here",
+    "start": 589.811,
+    "duration": 4.489
+  },
+  {
+    "text": "and then there's a\nshift of planes",
+    "start": 594.325,
+    "duration": 4.133
+  },
+  {
+    "text": "so that the planes are no longer\ndisplaced from one another",
+    "start": 598.483,
+    "duration": 4.325
+  },
+  {
+    "text": "but they're actually in register and\nthat's when the planes come apart",
+    "start": 602.833,
+    "duration": 5.081
+  },
+  {
+    "text": "so that the ice is less\ndense and the ice floats.",
+    "start": 607.939,
+    "duration": 4.332
+  },
+  {
+    "text": "And, you know, we're\nhappy that ice floats",
+    "start": 612.296,
+    "duration": 2.8
+  },
+  {
+    "text": "because if it didn't float,\nif the ice were more dense",
+    "start": 615.121,
+    "duration": 3.479
+  },
+  {
+    "text": "and the ice began from the\nbottom and worked its way up",
+    "start": 618.6,
+    "duration": 4.6
+  },
+  {
+    "text": "then you'd have a real problem because\ncreatures like this could be,",
+    "start": 623.225,
+    "duration": 3.776
+  },
+  {
+    "text": "maybe in cold climes, could be\nbasically pushed out of the water",
+    "start": 627.026,
+    "duration": 6.496
+  },
+  {
+    "text": "and would obviously perish.",
+    "start": 633.547,
+    "duration": 2.285
+  },
+  {
+    "text": "So, we're lucky that the structure of ice\nis less dense than the structure of water.",
+    "start": 635.857,
+    "duration": 7.658
+  },
+  {
+    "text": "So, let me show\nyou the evidence.",
+    "start": 643.54,
+    "duration": 2.5
+  },
+  {
+    "text": "Is it really necessary, is the EZ\nreally necessary for ice formation?",
+    "start": 646.065,
+    "duration": 4.632
+  },
+  {
+    "text": "So, here's a simple experiment.",
+    "start": 650.722,
+    "duration": 2.522
+  },
+  {
+    "text": "What we do is, we take\na droplet of water",
+    "start": 653.269,
+    "duration": 3.974
+  },
+  {
+    "text": "and we put it next to a\nhydrophilic material.",
+    "start": 657.268,
+    "duration": 3.242
+  },
+  {
+    "text": "This is one that\nwe commonly use.",
+    "start": 660.535,
+    "duration": 1.832
+  },
+  {
+    "text": "It's called Nafion.",
+    "start": 662.392,
+    "duration": 1.935
+  },
+  {
+    "text": "And so, what we find is\nthat next to the Nafion",
+    "start": 664.352,
+    "duration": 4.469
+  },
+  {
+    "text": "we have EZ water that forms and\nbeneath this we have a cooling plate",
+    "start": 668.846,
+    "duration": 6.298
+  },
+  {
+    "text": "so basically this water is being\ncooled and eventually it turns to ice.",
+    "start": 675.169,
+    "duration": 5.028
+  },
+  {
+    "text": "But I want to demonstrate\nto you that it's the EZ",
+    "start": 680.222,
+    "duration": 3.896
+  },
+  {
+    "text": "where the ice formation\nis initiated.",
+    "start": 684.143,
+    "duration": 3.157
+  },
+  {
+    "text": "And that's shown here.",
+    "start": 687.325,
+    "duration": 1.545
+  },
+  {
+    "text": "And so, we're depicting this\nparticular region over time",
+    "start": 688.895,
+    "duration": 5.937
+  },
+  {
+    "text": "and so here's a water drop and here's\nthe piece of Nafion and remember the EZ",
+    "start": 694.857,
+    "duration": 5.259
+  },
+  {
+    "text": "is sitting right here and\nyou see this bright spot.",
+    "start": 700.141,
+    "duration": 4.386
+  },
+  {
+    "text": "This bright spot shows the initial\nlocation of ice formation",
+    "start": 704.552,
+    "duration": 5.758
+  },
+  {
+    "text": "and later as ice formation occurs\nof course it moves into the water",
+    "start": 710.335,
+    "duration": 5.139
+  },
+  {
+    "text": "but it moves and penetrates down where\nthe EZ is and you can see later",
+    "start": 715.499,
+    "duration": 4.704
+  },
+  {
+    "text": "it basically follows the EZ.",
+    "start": 720.228,
+    "duration": 2.122
+  },
+  {
+    "text": "So, the EZ is basically the\nfirst place to freeze.",
+    "start": 722.375,
+    "duration": 4.355
+  },
+  {
+    "text": "The freeze initiates in the\nEZ and that's the main point.",
+    "start": 726.755,
+    "duration": 3.737
+  },
+  {
+    "text": "And the way we think it does, and\nI'll show you evidence in a moment,",
+    "start": 730.517,
+    "duration": 4.12
+  },
+  {
+    "text": "is that you have the EZ here and\nremember negatively charged here",
+    "start": 734.662,
+    "duration": 4.361
+  },
+  {
+    "text": "and the protons here and\ngradually as the EZ builds up,",
+    "start": 739.048,
+    "duration": 4.392
+  },
+  {
+    "text": "more negative charge, you get\nmore positive charge here.",
+    "start": 743.465,
+    "duration": 3.298
+  },
+  {
+    "text": "And when the positive\ncharge gets dense enough,",
+    "start": 746.788,
+    "duration": 3.734
+  },
+  {
+    "text": "what happens is it\nmoves into the lattice",
+    "start": 750.547,
+    "duration": 2.898
+  },
+  {
+    "text": "all the way to the most negative\npart and it forms here.",
+    "start": 753.47,
+    "duration": 3.981
+  },
+  {
+    "text": "And remember, EZ plus\nprotons gives you ice",
+    "start": 757.476,
+    "duration": 4.116
+  },
+  {
+    "text": "and so we have the ice that forms\nright here and the process continues",
+    "start": 761.617,
+    "duration": 5.013
+  },
+  {
+    "text": "and gradually you get a whole bunch\nof ice starting with the EZ.",
+    "start": 766.655,
+    "duration": 4.859
+  },
+  {
+    "text": "Now to show you that this really happens,\nwe have a setup that looks like this.",
+    "start": 771.539,
+    "duration": 6.222
+  },
+  {
+    "text": "So, here's a chamber.",
+    "start": 777.786,
+    "duration": 2.461
+  },
+  {
+    "text": "This is a thermoelectric cooler so this\nwater then gets progressively cooler",
+    "start": 780.272,
+    "duration": 6.307
+  },
+  {
+    "text": "and we find that the cooler it\ngets the bigger the EZ gets",
+    "start": 786.604,
+    "duration": 4.046
+  },
+  {
+    "text": "and beyond that we just have water\nand we put pH sensitive dye.",
+    "start": 790.675,
+    "duration": 4.274
+  },
+  {
+    "text": "These are the dyes, you know, that\nchange color just like litmus paper.",
+    "start": 794.974,
+    "duration": 4.956
+  },
+  {
+    "text": "Acid is one color, base is another color and\nhere's what happens when freeze occurs.",
+    "start": 799.955,
+    "duration": 6.684
+  },
+  {
+    "text": "So here's the cooling\nplate, right.",
+    "start": 806.639,
+    "duration": 2.012
+  },
+  {
+    "text": "Here's this cooling plate.",
+    "start": 808.676,
+    "duration": 2.695
+  },
+  {
+    "text": "Here's the ice and here's the water\nthat has yet to convert to ice.",
+    "start": 811.396,
+    "duration": 4.949
+  },
+  {
+    "text": "So, the green color\nis actually neutral",
+    "start": 816.37,
+    "duration": 3.573
+  },
+  {
+    "text": "and here in the ice the\nred color is very low pH.",
+    "start": 819.968,
+    "duration": 4.624
+  },
+  {
+    "text": "It means it's full of protons.",
+    "start": 824.617,
+    "duration": 1.781
+  },
+  {
+    "text": "So it shows that indeed, as the ice forms,\na lot of protons enter into that region.",
+    "start": 826.423,
+    "duration": 7.524
+  },
+  {
+    "text": "So, ice formation\ninvolves protons.",
+    "start": 833.972,
+    "duration": 3.652
+  },
+  {
+    "text": "It's EZ, negatively charged,\nplus protons, give you ice.",
+    "start": 837.649,
+    "duration": 6.365
+  },
+  {
+    "text": "So we understand now that what happens is,\nyou reduce the temperature, you get EZ,",
+    "start": 844.039,
+    "duration": 6.546
+  },
+  {
+    "text": "EZ builds up and all the protons that\nare sitting here rush into the EZ",
+    "start": 850.61,
+    "duration": 5.603
+  },
+  {
+    "text": "whose structure is a little bit different\nfrom ice and that converts to ice.",
+    "start": 856.238,
+    "duration": 4.35
+  },
+  {
+    "text": "So, what happens\nwhen the ice melts?",
+    "start": 860.613,
+    "duration": 3.037
+  },
+  {
+    "text": "Well, you might expect the\nopposite or the reverse process.",
+    "start": 863.675,
+    "duration": 4.338
+  },
+  {
+    "text": "So, the ice turns into EZ which\nthen turns into - water.",
+    "start": 868.038,
+    "duration": 7.499
+  },
+  {
+    "text": "So do we really see EZ\nwater when this melts?",
+    "start": 875.562,
+    "duration": 5.112
+  },
+  {
+    "text": "We did the experiment, put ice into\na cuvette and allowed it to melt.",
+    "start": 880.699,
+    "duration": 5.755
+  },
+  {
+    "text": "And put the cuvette\ninto a spectrometer",
+    "start": 886.479,
+    "duration": 2.878
+  },
+  {
+    "text": "which can measure the absorption\nof light at different wavelengths.",
+    "start": 889.382,
+    "duration": 3.934
+  },
+  {
+    "text": "And so we asked the question, does\nmelting produce EZ water and protons?",
+    "start": 893.341,
+    "duration": 6.385
+  },
+  {
+    "text": "So, this is the absorption spectra of just\nmelted ice, just melted water samples.",
+    "start": 899.751,
+    "duration": 9.032
+  },
+  {
+    "text": "And there are four\ndifferent panels",
+    "start": 908.808,
+    "duration": 2.287
+  },
+  {
+    "text": "and the only difference between them\nis we used a different kind of water",
+    "start": 911.12,
+    "duration": 3.851
+  },
+  {
+    "text": "so this is de-ionized water,\nwe use that to make the ice.",
+    "start": 914.996,
+    "duration": 3.223
+  },
+  {
+    "text": "Boiled de-ionized water,\nde-gassed de-ionized water.",
+    "start": 918.244,
+    "duration": 3.944
+  },
+  {
+    "text": "It doesn't really matter what\nkind of water you put in there,",
+    "start": 922.213,
+    "duration": 4.111
+  },
+  {
+    "text": "when you melt the ice you get\na similar spectral pattern.",
+    "start": 926.349,
+    "duration": 4.2
+  },
+  {
+    "text": "In all cases, there's a big\nabsorption peak at 270 nanometers",
+    "start": 930.574,
+    "duration": 5.521
+  },
+  {
+    "text": "and we know from our\nprevious experience that",
+    "start": 936.12,
+    "duration": 4.28
+  },
+  {
+    "text": "the 270 nanometer absorption\nis the signature of EZ water.",
+    "start": 940.425,
+    "duration": 5.148
+  },
+  {
+    "text": "It's the defining feature.",
+    "start": 945.598,
+    "duration": 2.115
+  },
+  {
+    "text": "That water absorbs light in the UV region\nat 270 nanometers, ordinary water doesn't.",
+    "start": 947.738,
+    "duration": 6.213
+  },
+  {
+    "text": "So, we can conclude that as you\ntake the ice and you melt the ice,",
+    "start": 953.976,
+    "duration": 5.054
+  },
+  {
+    "text": "the melted ice is EZ water.",
+    "start": 959.055,
+    "duration": 2.45
+  },
+  {
+    "text": "So, the melting is ice\nto EZ and then finally,",
+    "start": 961.53,
+    "duration": 5.151
+  },
+  {
+    "text": "after some time, the EZ\nconverts to ordinary water.",
+    "start": 966.706,
+    "duration": 4.273
+  },
+  {
+    "text": "So, what about snow?",
+    "start": 971.004,
+    "duration": 3.371
+  },
+  {
+    "text": "Um well, it's pretty",
+    "start": 974.4,
+    "duration": 4.632
+  },
+  {
+    "text": "and I think all of you know that\nsnow has hexagonal crystals",
+    "start": 979.057,
+    "duration": 5.618
+  },
+  {
+    "text": "and it's always been a kind of mystery\nas to why they should be hexagonal.",
+    "start": 984.7,
+    "duration": 4.131
+  },
+  {
+    "text": "But remember, the EZ is hexagonal\nand if snow grows from",
+    "start": 988.856,
+    "duration": 5.323
+  },
+  {
+    "text": "hexagonal kind of ordered water it makes\ntotal sense that the snowflake would\nBut remember, the EZ is hexagonal\nand if snow grows from",
+    "start": 994.179,
+    "duration": 0.001
+  },
+  {
+    "text": "hexagonal kind of ordered water it makes\ntotal sense that the snowflake would",
+    "start": 994.18,
+    "duration": 7.209
+  },
+  {
+    "text": "actually be EZ, some\nconstruct of EZ water.",
+    "start": 1001.389,
+    "duration": 4.617
+  },
+  {
+    "text": "And the fact that EZ\nwater is negative",
+    "start": 1006.031,
+    "duration": 2.551
+  },
+  {
+    "text": "means every snowflake\nshould have negative charge",
+    "start": 1008.607,
+    "duration": 2.838
+  },
+  {
+    "text": "and these snowflakes should stay apart\nfrom one another which basically they do,",
+    "start": 1011.47,
+    "duration": 4.742
+  },
+  {
+    "text": "built from hexagonal EZ.",
+    "start": 1016.237,
+    "duration": 4.57
+  },
+  {
+    "text": "So, we dealt with ice and snow\nand the fourth phase of water",
+    "start": 1020.832,
+    "duration": 5.044
+  },
+  {
+    "text": "and I presented to you some features\nthat are perhaps a lot different",
+    "start": 1025.901,
+    "duration": 5.315
+  },
+  {
+    "text": "from what the conventional view\nis of freezing and melting.",
+    "start": 1031.241,
+    "duration": 4.27
+  },
+  {
+    "text": "And now I would like\nto show you a video",
+    "start": 1035.536,
+    "duration": 2.919
+  },
+  {
+    "text": "and this video is something that\nis on the Discovery Channel",
+    "start": 1038.48,
+    "duration": 4.69
+  },
+  {
+    "text": "and it was based on my book\n'The Fourth Phase Of Water'",
+    "start": 1043.195,
+    "duration": 4.524
+  },
+  {
+    "text": "and we made it, you might say, to Hollywood\nand I want to show you a five minute clip.",
+    "start": 1047.744,
+    "duration": 4.84
+  },
+  {
+    "text": "The movie is called\n'The Fourth Phase'.",
+    "start": 1052.609,
+    "duration": 3.28
+  },
+  {
+    "text": "It's done by a famous\nsnowboarder Travis Rice.",
+    "start": 1060.781,
+    "duration": 4.447
+  },
+  {
+    "text": "From when I was a kid I've\nalways been intrigued with water",
+    "start": 1065.253,
+    "duration": 3.137
+  },
+  {
+    "text": "and how we interact with it.",
+    "start": 1068.415,
+    "duration": 1.974
+  },
+  {
+    "text": "Since then, traveling the world of snowboarding,\nthe concept for this trip evolved",
+    "start": 1071.659,
+    "duration": 4.836
+  },
+  {
+    "text": "to follow the hydrological\ncycle around the North Pacific",
+    "start": 1076.52,
+    "duration": 3.721
+  },
+  {
+    "text": "really attempting to immerse oneself in the\nelements and see how this whole thing works.",
+    "start": 1080.266,
+    "duration": 5.946
+  },
+  {
+    "text": "It's been incredible.",
+    "start": 1086.237,
+    "duration": 2.086
+  },
+  {
+    "text": "As children, we're all\nmotivated to find the truth.",
+    "start": 1092.947,
+    "duration": 3.437
+  },
+  {
+    "text": "A child looks around and is\nlearning truths all the time.",
+    "start": 1096.409,
+    "duration": 4.56
+  },
+  {
+    "text": "We have this natural\ntendency to explore.",
+    "start": 1100.994,
+    "duration": 3.321
+  },
+  {
+    "text": "I'm Gerald Pollack",
+    "start": 1104.965,
+    "duration": 1.778
+  },
+  {
+    "text": "and I'm a professor of bioengineering at\nthe University of Washington in Seattle.",
+    "start": 1106.768,
+    "duration": 5.007
+  },
+  {
+    "text": "It can be really challenging to\nkeep an open mind in these days.",
+    "start": 1111.8,
+    "duration": 5.435
+  },
+  {
+    "text": "Scientists have become more hesitant\nto challenge perceived truth.",
+    "start": 1117.26,
+    "duration": 4.316
+  },
+  {
+    "text": "\"How are you doing?\nSo, it's working?\"",
+    "start": 1121.601,
+    "duration": 2.109
+  },
+  {
+    "text": "There are some books\nthat suggest that",
+    "start": 1123.735,
+    "duration": 1.817
+  },
+  {
+    "text": "essentially we've kind of reached\nthe limit of what there is to know.",
+    "start": 1125.577,
+    "duration": 2.926
+  },
+  {
+    "text": "I'm shocked by this\nthis perception.",
+    "start": 1128.528,
+    "duration": 4.575
+  },
+  {
+    "text": "There are many aspects of\nwater that we see every day",
+    "start": 1136.059,
+    "duration": 4.096
+  },
+  {
+    "text": "and we don't really\nunderstand them.",
+    "start": 1140.18,
+    "duration": 2.316
+  },
+  {
+    "text": "These are questions\nthat need answers.",
+    "start": 1143.385,
+    "duration": 3.927
+  },
+  {
+    "text": "We all learned that\nwater has three phases;",
+    "start": 1161.66,
+    "duration": 3.201
+  },
+  {
+    "text": "solid state,",
+    "start": 1164.886,
+    "duration": 1.99
+  },
+  {
+    "text": "liquid state",
+    "start": 1166.901,
+    "duration": 3.164
+  },
+  {
+    "text": "and also vapor state.",
+    "start": 1170.09,
+    "duration": 2.547
+  },
+  {
+    "text": "However, you can't explain all the known\nproperties of water with 3 phases alone.",
+    "start": 1172.662,
+    "duration": 7.537
+  },
+  {
+    "text": "You need a fourth phase.",
+    "start": 1184.876,
+    "duration": 5.205
+  },
+  {
+    "text": "What's the fourth phase?",
+    "start": 1190.84,
+    "duration": 2.276
+  },
+  {
+    "text": "With an energetic input, water\nmolecules undergo massive change.",
+    "start": 1193.141,
+    "duration": 5.202
+  },
+  {
+    "text": "They become ordered,\nthey acquire charge.",
+    "start": 1198.368,
+    "duration": 3.695
+  },
+  {
+    "text": "All of this energy to create\nthat order comes from light.",
+    "start": 1202.496,
+    "duration": 3.912
+  },
+  {
+    "text": "We began with experiments\nto try to learn more.",
+    "start": 1206.992,
+    "duration": 3.755
+  },
+  {
+    "text": "We noticed something that\nseemed almost magical.",
+    "start": 1211.487,
+    "duration": 3.046
+  },
+  {
+    "text": "Every one of the tests\nthat we did showed that",
+    "start": 1214.558,
+    "duration": 3.082
+  },
+  {
+    "text": "this water was different\nfrom ordinary water.",
+    "start": 1217.665,
+    "duration": 3.379
+  },
+  {
+    "text": "The individual molecules were actually\nlinked together to form a hexagon,",
+    "start": 1221.069,
+    "duration": 4.271
+  },
+  {
+    "text": "and then many hexagons.",
+    "start": 1225.365,
+    "duration": 2.434
+  },
+  {
+    "text": "We can understand why\nsnowflakes are hexagonal.",
+    "start": 1227.824,
+    "duration": 4.572
+  },
+  {
+    "text": "They actually form from the\nfourth phase of water.",
+    "start": 1232.421,
+    "duration": 4.548
+  },
+  {
+    "text": "After some time there seemed to be\nenough evidence to indicate that",
+    "start": 1237.009,
+    "duration": 4.854
+  },
+  {
+    "text": "this was a distinctly\ndifferent phase of water.",
+    "start": 1241.888,
+    "duration": 4.348
+  },
+  {
+    "text": "You might ask, what\nimplications it has for us?",
+    "start": 1246.261,
+    "duration": 3.611
+  },
+  {
+    "text": "We're approximately\ntwo-thirds water.",
+    "start": 1249.897,
+    "duration": 3.078
+  },
+  {
+    "text": "Most of the water inside of our cells,\nthey're filled with fourth-phase water.",
+    "start": 1253.68,
+    "duration": 4.625
+  },
+  {
+    "text": "This could be central to all of what\ngoes on in the biology of the cell.",
+    "start": 1258.33,
+    "duration": 6.022
+  },
+  {
+    "text": "This is going to lead the way to a better\nunderstanding of how cells function.",
+    "start": 1264.377,
+    "duration": 6.013
+  },
+  {
+    "text": "I think part of the beauty\nof the fourth phase,",
+    "start": 1274.009,
+    "duration": 3.547
+  },
+  {
+    "text": "especially as it relates,\nI guess, to this film,",
+    "start": 1277.581,
+    "duration": 2.92
+  },
+  {
+    "text": "is the concept that not everything\nis as it appears to be.",
+    "start": 1280.526,
+    "duration": 5.853
+  },
+  {
+    "text": "Leaving some space\nand open-mindedness",
+    "start": 1290.326,
+    "duration": 2.916
+  },
+  {
+    "text": "for allowance of a shift in perspective\non how you view the world is",
+    "start": 1293.267,
+    "duration": 4.812
+  },
+  {
+    "text": "one of the most important\nthings in my life.",
+    "start": 1298.104,
+    "duration": 3.806
+  },
+  {
+    "text": "Being a scientist is\na search for truth.",
+    "start": 1319.109,
+    "duration": 4.036
+  },
+  {
+    "text": "We somehow need to change\nthe system so that",
+    "start": 1323.17,
+    "duration": 3.082
+  },
+  {
+    "text": "we're looking for ideas whose outcome has\nthe capacity to really shake the earth",
+    "start": 1326.277,
+    "duration": 4.166
+  },
+  {
+    "text": "and yield breakthroughs\nif not revolutions.",
+    "start": 1330.468,
+    "duration": 3.247
+  },
+  {
+    "text": "You need to dig deeper and deeper\nin order to find the truth.",
+    "start": 1334.331,
+    "duration": 5.717
+  },
+  {
+    "text": "Thank you.",
+    "start": 1344.321,
+    "duration": 1.937
+  },
+  {
+    "text": "This was cool and I'm really shocked\nthat these guys actually survive",
+    "start": 1350.528,
+    "duration": 6.881
+  },
+  {
+    "text": "what they, what they\ndo in the backcountry.",
+    "start": 1357.434,
+    "duration": 2.64
+  },
+  {
+    "text": "OK, so I talked about water and ice\nand I've tried to demonstrate that",
+    "start": 1360.099,
+    "duration": 5.727
+  },
+  {
+    "text": "the formation of ice and the melting of\nice is different from what we think.",
+    "start": 1365.851,
+    "duration": 4.845
+  },
+  {
+    "text": "And I want to talk about evaporation\nand the message is the same,",
+    "start": 1370.721,
+    "duration": 3.568
+  },
+  {
+    "text": "it's not what we think.",
+    "start": 1374.314,
+    "duration": 1.316
+  },
+  {
+    "text": "So, what do you think\nabout evaporation?",
+    "start": 1375.655,
+    "duration": 2.148
+  },
+  {
+    "text": "You probably think that you've\ngot a glass of water, you know,",
+    "start": 1377.828,
+    "duration": 3.022
+  },
+  {
+    "text": "and it's evaporating one\nmolecule at a time.",
+    "start": 1380.875,
+    "duration": 3.117
+  },
+  {
+    "text": "A molecule gets a kick of energy,\nof kinetic energy, and it comes up",
+    "start": 1384.017,
+    "duration": 5.299
+  },
+  {
+    "text": "at least that's what I learned.",
+    "start": 1389.341,
+    "duration": 2.178
+  },
+  {
+    "text": "And the reality is\na lot different.",
+    "start": 1391.544,
+    "duration": 3.395
+  },
+  {
+    "text": "So, let me start with this.",
+    "start": 1394.964,
+    "duration": 2.34
+  },
+  {
+    "text": "This is taken at Starbucks",
+    "start": 1397.329,
+    "duration": 3.691
+  },
+  {
+    "text": "and, you know, Seattle, Starbucks was born\nin Seattle so we drink a lot of coffee.",
+    "start": 1401.045,
+    "duration": 5.51
+  },
+  {
+    "text": "And if you have a dark background you\nnotice this is a hot latte, I think,",
+    "start": 1406.58,
+    "duration": 9.373
+  },
+  {
+    "text": "and taken by my son.",
+    "start": 1415.978,
+    "duration": 2.302
+  },
+  {
+    "text": "You notice something interesting,\nyou can see the vapor.",
+    "start": 1418.305,
+    "duration": 3.035
+  },
+  {
+    "text": "Now, if you can see the\nvapor, what does that mean?",
+    "start": 1421.365,
+    "duration": 3.106
+  },
+  {
+    "text": "Well, you can see the vapor because\nthe light is being scattered",
+    "start": 1424.496,
+    "duration": 4.651
+  },
+  {
+    "text": "and you don't see a hell of a lot\nunless the scattering entity",
+    "start": 1429.172,
+    "duration": 4.453
+  },
+  {
+    "text": "is at least on the order of\nthe wavelength of light.",
+    "start": 1433.65,
+    "duration": 3.465
+  },
+  {
+    "text": "Wavelength of light\nis half a micrometer.",
+    "start": 1437.14,
+    "duration": 2.979
+  },
+  {
+    "text": "Well, it turns out that these are little tiny\ndroplets in here that are tens of microns.",
+    "start": 1440.144,
+    "duration": 7.5
+  },
+  {
+    "text": "Now, even one micrometer\nlittle droplet contains,",
+    "start": 1447.669,
+    "duration": 5.625
+  },
+  {
+    "text": "you know, how many\nwater molecules?",
+    "start": 1453.319,
+    "duration": 2.14
+  },
+  {
+    "text": "You can do the arithmetic, it's something\nlike a billion, on that order.",
+    "start": 1455.484,
+    "duration": 5.438
+  },
+  {
+    "text": "So, there's something wrong with,\nappears to be wrong with the idea",
+    "start": 1460.947,
+    "duration": 6.45
+  },
+  {
+    "text": "that the evaporative\nentity is one molecule,",
+    "start": 1467.422,
+    "duration": 4.134
+  },
+  {
+    "text": "unless they come together above here and\nwe know they don't because we've checked",
+    "start": 1471.581,
+    "duration": 4.912
+  },
+  {
+    "text": "that where we've checked these\nwhen water is evaporating",
+    "start": 1476.518,
+    "duration": 3.542
+  },
+  {
+    "text": "and we can check right just above\nthe surface as this is emerging,",
+    "start": 1480.085,
+    "duration": 3.658
+  },
+  {
+    "text": "it's no different from\nwhat you see here.",
+    "start": 1483.768,
+    "duration": 2.505
+  },
+  {
+    "text": "So, that idea seems to be\nincompatible with basic physics.",
+    "start": 1486.298,
+    "duration": 4.75
+  },
+  {
+    "text": "Well, another interesting feature\nis that it's not continuous.",
+    "start": 1491.073,
+    "duration": 5.51
+  },
+  {
+    "text": "Look, it seems to be discrete.",
+    "start": 1496.608,
+    "duration": 3.018
+  },
+  {
+    "text": "Now that's a surprise\nbecause most of us,",
+    "start": 1499.651,
+    "duration": 3.582
+  },
+  {
+    "text": "we presume that the evaporative process is\na continuous one, not only is it discrete",
+    "start": 1503.258,
+    "duration": 9.872
+  },
+  {
+    "text": "but also it appears to come\nfrom one region of the water",
+    "start": 1513.155,
+    "duration": 3.955
+  },
+  {
+    "text": "not necessarily from the\nentire surface simultaneously.",
+    "start": 1517.135,
+    "duration": 4.711
+  },
+  {
+    "text": "Well, I have a lot of undergraduate\nstudents working in the lab",
+    "start": 1521.871,
+    "duration": 5.777
+  },
+  {
+    "text": "and many of them don't do\nwhat I tell them to do.",
+    "start": 1527.673,
+    "duration": 3.744
+  },
+  {
+    "text": "They have minds of their\nown and there was one guy,",
+    "start": 1531.442,
+    "duration": 3.143
+  },
+  {
+    "text": "a Chinese student, we have\na lot of them in Seattle,",
+    "start": 1534.61,
+    "duration": 4.463
+  },
+  {
+    "text": "and he was curious and so he\ntook a laser beam and he,",
+    "start": 1539.098,
+    "duration": 4.341
+  },
+  {
+    "text": "what he did is to condense\nthe beam into a plane",
+    "start": 1543.464,
+    "duration": 2.783
+  },
+  {
+    "text": "and he wanted to get a cross-section\nof how one of these would look like.",
+    "start": 1546.272,
+    "duration": 4.487
+  },
+  {
+    "text": "So, what do you think\nthey look like?",
+    "start": 1550.784,
+    "duration": 2.967
+  },
+  {
+    "text": "You might think,\ncross-section might,",
+    "start": 1553.776,
+    "duration": 3.035
+  },
+  {
+    "text": "would look like kind of cotton\nor something like that,",
+    "start": 1556.836,
+    "duration": 3.366
+  },
+  {
+    "text": "but doesn't.",
+    "start": 1560.227,
+    "duration": 1.18
+  },
+  {
+    "text": "It looks like this.",
+    "start": 1561.432,
+    "duration": 1.5
+  },
+  {
+    "text": "These are four different\nexperiments and you can see,",
+    "start": 1562.957,
+    "duration": 4.499
+  },
+  {
+    "text": "looking at let's say this one, that\nthe bright area is scattering light.",
+    "start": 1567.481,
+    "duration": 7.086
+  },
+  {
+    "text": "It means that's\nwhere the water is.",
+    "start": 1574.592,
+    "duration": 1.856
+  },
+  {
+    "text": "In between that, the dark\narea is doing nothing.",
+    "start": 1576.473,
+    "duration": 2.476
+  },
+  {
+    "text": "So it seems to be\nessentially empty.",
+    "start": 1578.974,
+    "duration": 3.093
+  },
+  {
+    "text": "And I got to tell you that",
+    "start": 1582.092,
+    "duration": 2.197
+  },
+  {
+    "text": "when I saw this for the first\ntime I almost fell out of my seat",
+    "start": 1584.314,
+    "duration": 3.196
+  },
+  {
+    "text": "because I couldn't believe that the evaporative\nentity had structure, just like this.",
+    "start": 1587.535,
+    "duration": 7.602
+  },
+  {
+    "text": "It seemed inconceivable but, you know,\nafter enough repeats of the experiment",
+    "start": 1595.162,
+    "duration": 5.025
+  },
+  {
+    "text": "it was pretty clear\nthat this was correct.",
+    "start": 1600.212,
+    "duration": 2.444
+  },
+  {
+    "text": "So the first thing...",
+    "start": 1602.681,
+    "duration": 1.28
+  },
+  {
+    "text": "Well, sorry it wasn't\nthe first thing",
+    "start": 1603.986,
+    "duration": 2.19
+  },
+  {
+    "text": "but we thought this is not\ncreated from nothing.",
+    "start": 1606.201,
+    "duration": 3.212
+  },
+  {
+    "text": "This kind of\npretzel-like structure.",
+    "start": 1609.438,
+    "duration": 2.656
+  },
+  {
+    "text": "There must be something\nin the water",
+    "start": 1612.119,
+    "duration": 2.184
+  },
+  {
+    "text": "that may be giving rise to this\nkind of pretzel-like structure.",
+    "start": 1614.328,
+    "duration": 5.524
+  },
+  {
+    "text": "So, we raised the question, is there a\ncorresponding structure in the water itself?",
+    "start": 1619.877,
+    "duration": 6.385
+  },
+  {
+    "text": "I'm not sure if you can see it\nbut I can see it on my screen.",
+    "start": 1627.971,
+    "duration": 5.014
+  },
+  {
+    "text": "If you look into the warm\nwater that you see here,",
+    "start": 1633.01,
+    "duration": 4.623
+  },
+  {
+    "text": "and this picture was\ntaken by my son,",
+    "start": 1637.658,
+    "duration": 2.141
+  },
+  {
+    "text": "he was the artist of my book and I was\nreally pleasantly surprised to see this.",
+    "start": 1639.824,
+    "duration": 5.401
+  },
+  {
+    "text": "This one was at home, I think,\nnot in Starbucks but...",
+    "start": 1645.25,
+    "duration": 3.148
+  },
+  {
+    "text": "I can see it here,\nI hope you can.",
+    "start": 1648.423,
+    "duration": 1.893
+  },
+  {
+    "text": "There's a mosaic structure.",
+    "start": 1650.341,
+    "duration": 2.303
+  },
+  {
+    "text": "If you can't see it then\ntake a look at this one.",
+    "start": 1652.669,
+    "duration": 4.458
+  },
+  {
+    "text": "This is an experiment\nyou could do yourself.",
+    "start": 1657.152,
+    "duration": 2.471
+  },
+  {
+    "text": "So, this is a pan of warm water and\nit's illuminated not from above",
+    "start": 1659.648,
+    "duration": 4.47
+  },
+  {
+    "text": "but at a glancing\nangle from the side.",
+    "start": 1664.143,
+    "duration": 4.059
+  },
+  {
+    "text": "You might call that\ndark field illumination",
+    "start": 1668.227,
+    "duration": 3.156
+  },
+  {
+    "text": "and you can see the same sort of\nstructure, low angle illumination.",
+    "start": 1671.408,
+    "duration": 5.651
+  },
+  {
+    "text": "And so, it looks like the\nwarm water that's evaporating",
+    "start": 1677.084,
+    "duration": 5.399
+  },
+  {
+    "text": "does contain some kind of structure\nas the previous slide showed as well.",
+    "start": 1682.508,
+    "duration": 5.221
+  },
+  {
+    "text": "And we can also see it by\nusing an infrared camera",
+    "start": 1687.754,
+    "duration": 6.686
+  },
+  {
+    "text": "to look down at the warm water and\nyou can see same sort of structures.",
+    "start": 1694.465,
+    "duration": 6.774
+  },
+  {
+    "text": "There's no doubt that\nthe structure is there.",
+    "start": 1701.264,
+    "duration": 2.263
+  },
+  {
+    "text": "Well the usual interpretation\nwhen you use an infrared camera",
+    "start": 1703.552,
+    "duration": 4.148
+  },
+  {
+    "text": "is that this region looks\nwarmer than this region.",
+    "start": 1707.725,
+    "duration": 4.848
+  },
+  {
+    "text": "In fact, conveniently they\nactually provide a scale for you",
+    "start": 1712.598,
+    "duration": 3.624
+  },
+  {
+    "text": "so you can correlate the darkness\nwith the equivalent temperature",
+    "start": 1716.247,
+    "duration": 5.975
+  },
+  {
+    "text": "but it's not necessary that\nthat's the only explanation.",
+    "start": 1722.247,
+    "duration": 5.317
+  },
+  {
+    "text": "Another possible explanation is that these lines\nactually denote the presence of EZ water.",
+    "start": 1727.589,
+    "duration": 7.983
+  },
+  {
+    "text": "Now why do I think so?",
+    "start": 1735.597,
+    "duration": 2.721
+  },
+  {
+    "text": "Well it's because of older\nexperiments that we did.",
+    "start": 1738.343,
+    "duration": 3.027
+  },
+  {
+    "text": "Here's a piece of\nNafion next to water",
+    "start": 1741.395,
+    "duration": 4.199
+  },
+  {
+    "text": "and remember an EZ forms\nnext to the water.",
+    "start": 1745.619,
+    "duration": 4.731
+  },
+  {
+    "text": "And so the infrared camera is picking\nup the amount of infrared energy",
+    "start": 1750.375,
+    "duration": 5.403
+  },
+  {
+    "text": "that's being radiated from that.",
+    "start": 1755.803,
+    "duration": 1.838
+  },
+  {
+    "text": "The EZ is dark.",
+    "start": 1757.666,
+    "duration": 2.068
+  },
+  {
+    "text": "That means it doesn't\nradiate a whole lot",
+    "start": 1759.759,
+    "duration": 2.766
+  },
+  {
+    "text": "and the water beyond the EZ radiates, as you\ncan see it's brighter, it radiates much more.",
+    "start": 1762.55,
+    "duration": 5.637
+  },
+  {
+    "text": "So dark here, the EZ is dark and if we\ngo back to the infrared image of this",
+    "start": 1768.212,
+    "duration": 7.966
+  },
+  {
+    "text": "you have to ask the question,",
+    "start": 1776.203,
+    "duration": 1.607
+  },
+  {
+    "text": "is it possible that the dark region\nhere is actually EZ material?",
+    "start": 1777.835,
+    "duration": 4.743
+  },
+  {
+    "text": "And we think it is because we've looked at\nthe origin of these structures that form.",
+    "start": 1782.603,
+    "duration": 9.94
+  },
+  {
+    "text": "And you can see little dots\nhere just as they form.",
+    "start": 1792.568,
+    "duration": 2.735
+  },
+  {
+    "text": "And these dots, we don't know whether\nthey're little droplets or little bubbles",
+    "start": 1795.328,
+    "duration": 5.581
+  },
+  {
+    "text": "but essentially it doesn't matter for us\nbecause what we found in our experiments",
+    "start": 1800.934,
+    "duration": 6.814
+  },
+  {
+    "text": "is that if you have a droplet,\nthis is the structure.",
+    "start": 1807.773,
+    "duration": 3.731
+  },
+  {
+    "text": "If you have a bubble,\nthis is a structure.",
+    "start": 1811.529,
+    "duration": 2.328
+  },
+  {
+    "text": "And in both cases these are\nlined by layers of EZ material,",
+    "start": 1813.882,
+    "duration": 5.552
+  },
+  {
+    "text": "just like onion skin and that's what\nholds it together for both of these.",
+    "start": 1819.459,
+    "duration": 5.382
+  },
+  {
+    "text": "But inside you have a lot of protons and\nthe protons are repelling each other,",
+    "start": 1824.866,
+    "duration": 4.812
+  },
+  {
+    "text": "they're pushing out against the skin and\nthat's what keeps it into a sphere.",
+    "start": 1829.703,
+    "duration": 6.583
+  },
+  {
+    "text": "The difference is that in this case\nit's liquid, in this case it's a vapor.",
+    "start": 1836.311,
+    "duration": 4.967
+  },
+  {
+    "text": "So we've learned in our experiments\nabout these water droplets",
+    "start": 1841.303,
+    "duration": 4.655
+  },
+  {
+    "text": "and since we don't really know if they are\ndroplets or bubbles, we call them vesicles.",
+    "start": 1845.983,
+    "duration": 6.091
+  },
+  {
+    "text": "And we do know that the vesicle\nstructure looks like this",
+    "start": 1852.099,
+    "duration": 3.767
+  },
+  {
+    "text": "and we do know that as they form\nbefore they enclose themselves,",
+    "start": 1855.891,
+    "duration": 4.843
+  },
+  {
+    "text": "these positive charges tend to\nrepel each other, they leak out.",
+    "start": 1860.759,
+    "duration": 4.02
+  },
+  {
+    "text": "And so, the amount of\nnegative charge here",
+    "start": 1864.804,
+    "duration": 3.53
+  },
+  {
+    "text": "is always more than the\namount of positive charge.",
+    "start": 1868.359,
+    "duration": 3.163
+  },
+  {
+    "text": "So, these little vesicles, whether they're\nbubbles or droplets, have net negative charge.",
+    "start": 1871.547,
+    "duration": 5.52
+  },
+  {
+    "text": "That's important.",
+    "start": 1877.092,
+    "duration": 1.309
+  },
+  {
+    "text": "So, if you think about the possible\nexplanation for these dark lines,",
+    "start": 1878.426,
+    "duration": 6.22
+  },
+  {
+    "text": "remember I suggested, maybe\nthey contain EZ material.",
+    "start": 1884.671,
+    "duration": 4.086
+  },
+  {
+    "text": "Well, a possible way that\nthey can contain EZ material",
+    "start": 1888.782,
+    "duration": 4.129
+  },
+  {
+    "text": "is shown here that you have a lot of\nthese vesicles that are stuck together",
+    "start": 1892.936,
+    "duration": 5.807
+  },
+  {
+    "text": "and so, for example,\nthis entire cluster here",
+    "start": 1898.768,
+    "duration": 6.605
+  },
+  {
+    "text": "would represent what we see here consisting\nof a whole bunch of these stuck together.",
+    "start": 1905.398,
+    "duration": 5.684
+  },
+  {
+    "text": "How are they stuck together?",
+    "start": 1911.107,
+    "duration": 1.687
+  },
+  {
+    "text": "Well, we presume that they're\nactually glued by protons",
+    "start": 1912.819,
+    "duration": 3.849
+  },
+  {
+    "text": "and so these are negatively charged\nand this is negatively charged.",
+    "start": 1916.693,
+    "duration": 4.471
+  },
+  {
+    "text": "If you have protons between them, the protons\nwill act as glue holding them together.",
+    "start": 1921.189,
+    "duration": 4.713
+  },
+  {
+    "text": "Now this is not a\nwild speculation.",
+    "start": 1925.927,
+    "duration": 3.478
+  },
+  {
+    "text": "It actually comes from\nFeynman, many years ago,",
+    "start": 1929.43,
+    "duration": 3.313
+  },
+  {
+    "text": "who talked about negative, like\ncharges that come together",
+    "start": 1932.768,
+    "duration": 7.306
+  },
+  {
+    "text": "and he called it\nlike-likes-like.",
+    "start": 1940.099,
+    "duration": 2.711
+  },
+  {
+    "text": "Well, these negative\ncharges like each other",
+    "start": 1942.835,
+    "duration": 2.375
+  },
+  {
+    "text": "so they come together and he said\nthe reason they come together",
+    "start": 1945.235,
+    "duration": 3.402
+  },
+  {
+    "text": "doesn't violate any basic\nprinciples of physics.",
+    "start": 1948.662,
+    "duration": 3.012
+  },
+  {
+    "text": "It's because opposite\ncharges gather in between",
+    "start": 1951.699,
+    "duration": 3.756
+  },
+  {
+    "text": "and so you might have positive charge\nwhich pulls this one and pulls this one.",
+    "start": 1955.48,
+    "duration": 5.182
+  },
+  {
+    "text": "He said like-likes-like because\nof an intermediate of unlikes.",
+    "start": 1960.687,
+    "duration": 5.913
+  },
+  {
+    "text": "And I think that's what happens\nand that's how you can imagine",
+    "start": 1966.625,
+    "duration": 3.745
+  },
+  {
+    "text": "that these are actually glued\ntogether, negative charge here",
+    "start": 1970.395,
+    "duration": 3.535
+  },
+  {
+    "text": "negative charge here, protons\nin-between holding it all together.",
+    "start": 1973.955,
+    "duration": 3.862
+  },
+  {
+    "text": "There are many examples of this.",
+    "start": 1977.842,
+    "duration": 2.318
+  },
+  {
+    "text": "I don't have time to present it.",
+    "start": 1980.185,
+    "duration": 3.778
+  },
+  {
+    "text": "So, this is what, this is an oblique view\nthat shows the same mosaic structure on top;",
+    "start": 1983.988,
+    "duration": 6.661
+  },
+  {
+    "text": "but what this slide shows is that\nit's not just a surface layer,",
+    "start": 1990.674,
+    "duration": 4.14
+  },
+  {
+    "text": "it actually extends downward.",
+    "start": 1994.839,
+    "duration": 1.869
+  },
+  {
+    "text": "You can see the dark lines\ncoming and extending downward",
+    "start": 1996.733,
+    "duration": 5.044
+  },
+  {
+    "text": "and what that means is that these\nmosaic cells are actually mosaic tubes,",
+    "start": 2001.802,
+    "duration": 5.801
+  },
+  {
+    "text": "they extend down into the water.",
+    "start": 2007.628,
+    "duration": 3.476
+  },
+  {
+    "text": "And so, when we talk about evaporation we\nhave a situation that looks like this.",
+    "start": 2011.129,
+    "duration": 5.345
+  },
+  {
+    "text": "This is a kind of conclusion slide that we\nhave these basically tubes that run down.",
+    "start": 2016.499,
+    "duration": 6.981
+  },
+  {
+    "text": "They're not just on the surface.",
+    "start": 2023.505,
+    "duration": 1.451
+  },
+  {
+    "text": "They run into the water and\nwhen sufficient charge gathers,",
+    "start": 2024.981,
+    "duration": 4.681
+  },
+  {
+    "text": "they actually rise up like this\nand then they become vapor.",
+    "start": 2029.687,
+    "duration": 4.349
+  },
+  {
+    "text": "And if you were to take a cross-section of\nthis, it might look something like this.",
+    "start": 2034.061,
+    "duration": 5.239
+  },
+  {
+    "text": "So, basically the vapor patterns that\nyou see, especially in cross-section,",
+    "start": 2039.325,
+    "duration": 6.663
+  },
+  {
+    "text": "come from liquid patterns\nthat are down here.",
+    "start": 2046.013,
+    "duration": 2.962
+  },
+  {
+    "text": "They simply rise up to give you this incredibly\nbeautifully shaped vapor that we see.",
+    "start": 2049.0,
+    "duration": 6.074
+  },
+  {
+    "text": "And you get clusters so you get one\nof these groups of tubes that rise,",
+    "start": 2055.099,
+    "duration": 6.452
+  },
+  {
+    "text": "so this will be the first\none then the next one",
+    "start": 2061.576,
+    "duration": 2.66
+  },
+  {
+    "text": "and the next one and they're\nactually discrete events.",
+    "start": 2064.261,
+    "duration": 3.17
+  },
+  {
+    "text": "But by the time you get up here, the\ndroplets that make up these clusters",
+    "start": 2067.456,
+    "duration": 7.03
+  },
+  {
+    "text": "eventually dissipate because you\ndon't see any vapor up here.",
+    "start": 2074.511,
+    "duration": 3.308
+  },
+  {
+    "text": "So they're basically\ndissipated into the air.",
+    "start": 2077.844,
+    "duration": 3.725
+  },
+  {
+    "text": "And so, when you think\nabout humid air,",
+    "start": 2081.594,
+    "duration": 3.2
+  },
+  {
+    "text": "you can think about these\nnegatively charged little droplets",
+    "start": 2084.819,
+    "duration": 5.199
+  },
+  {
+    "text": "surrounded by positive charges which\nare known to occupy the atmosphere.",
+    "start": 2090.043,
+    "duration": 6.481
+  },
+  {
+    "text": "However, if there's enough positive\ncharge to glue these together",
+    "start": 2096.549,
+    "duration": 5.763
+  },
+  {
+    "text": "and form clouds like this.",
+    "start": 2102.337,
+    "duration": 2.307
+  },
+  {
+    "text": "In the atmosphere, the humidity disappears\nand it becomes clear instead of humid",
+    "start": 2104.669,
+    "duration": 5.117
+  },
+  {
+    "text": "and then you can see a\ndifference in your environment.",
+    "start": 2109.811,
+    "duration": 4.395
+  },
+  {
+    "text": "So, if you have humid air,",
+    "start": 2114.231,
+    "duration": 2.081
+  },
+  {
+    "text": "you can imagine looking through this humid air\nto some building that sits at some distance.",
+    "start": 2116.337,
+    "duration": 5.483
+  },
+  {
+    "text": "And the building is not clear, it's\nfuzzy and the reason it's fuzzy",
+    "start": 2121.845,
+    "duration": 3.435
+  },
+  {
+    "text": "is that the light that gets scattered from\nthe building before it gets to your eye,",
+    "start": 2125.305,
+    "duration": 6.989
+  },
+  {
+    "text": "it's scattered by numerous of these\nrather large little droplets",
+    "start": 2132.319,
+    "duration": 4.302
+  },
+  {
+    "text": "that sit in the air as humidity.",
+    "start": 2136.646,
+    "duration": 2.904
+  },
+  {
+    "text": "On the other hand,\nif the air is clear,",
+    "start": 2139.575,
+    "duration": 2.873
+  },
+  {
+    "text": "if these little droplets have\nactually condensed into clouds,",
+    "start": 2142.473,
+    "duration": 4.832
+  },
+  {
+    "text": "then you can see these\nbuildings much more clearly.",
+    "start": 2147.33,
+    "duration": 3.172
+  },
+  {
+    "text": "So, those of you who live on the East Coast,\nyou know, Washington DC in summertime,",
+    "start": 2150.527,
+    "duration": 6.105
+  },
+  {
+    "text": "buildings look like this but in the\nwintertime they may look like this.",
+    "start": 2156.657,
+    "duration": 5.553
+  },
+  {
+    "text": "OK, so that's evaporation and the\nmechanism I've presented evidence to you",
+    "start": 2162.235,
+    "duration": 6.462
+  },
+  {
+    "text": "that the mechanism is grossly\ndifferent from what we think.",
+    "start": 2168.722,
+    "duration": 5.611
+  },
+  {
+    "text": "OK, now what about condensation?",
+    "start": 2174.358,
+    "duration": 2.72
+  },
+  {
+    "text": "So, you've got these droplets in the\nair, how do they condense into clouds?",
+    "start": 2177.103,
+    "duration": 5.007
+  },
+  {
+    "text": "Why do we get a cloud\nto begin with?",
+    "start": 2182.135,
+    "duration": 2.857
+  },
+  {
+    "text": "So, what we have in the atmosphere among\nother things are two principal constituents.",
+    "start": 2185.017,
+    "duration": 7.794
+  },
+  {
+    "text": "One is these water vesicles\nthat have a net negative charge",
+    "start": 2192.836,
+    "duration": 5.292
+  },
+  {
+    "text": "and we have positive\ncharges known,",
+    "start": 2198.153,
+    "duration": 2.904
+  },
+  {
+    "text": "the atmosphere is known among atmospheric\nscientists to be net positive charge",
+    "start": 2201.082,
+    "duration": 5.102
+  },
+  {
+    "text": "and somehow the positive charges are\nlinked, nobody knows exactly how,",
+    "start": 2206.209,
+    "duration": 4.142
+  },
+  {
+    "text": "to molecules in the air.",
+    "start": 2210.376,
+    "duration": 2.014
+  },
+  {
+    "text": "So, we have negative charge\nand we have positive charge",
+    "start": 2212.415,
+    "duration": 3.788
+  },
+  {
+    "text": "and so we come back to the Feynman\nlike-likes-like mechanism,",
+    "start": 2216.228,
+    "duration": 7.438
+  },
+  {
+    "text": "we have these vesicles of water\nthat are suspended in the air",
+    "start": 2223.691,
+    "duration": 5.951
+  },
+  {
+    "text": "and we have positive charge.",
+    "start": 2229.667,
+    "duration": 1.744
+  },
+  {
+    "text": "If you add these together in the\nright quantity, you get a cloud",
+    "start": 2231.436,
+    "duration": 3.854
+  },
+  {
+    "text": "because the positive charge brings these\nnegatively charged vesicles together.",
+    "start": 2235.315,
+    "duration": 4.754
+  },
+  {
+    "text": "So, a cloud may look\nsomething like this.",
+    "start": 2240.094,
+    "duration": 3.444
+  },
+  {
+    "text": "Principally these negatively-charged\nvesicles and with enough positive charge",
+    "start": 2243.563,
+    "duration": 6.372
+  },
+  {
+    "text": "these charges, these vesicles\nare actually linked together",
+    "start": 2249.96,
+    "duration": 3.915
+  },
+  {
+    "text": "and they form these clusters\nthat we call clouds.",
+    "start": 2253.9,
+    "duration": 5.084
+  },
+  {
+    "text": "So question arises, what keeps\nclouds suspended in the sky?",
+    "start": 2259.009,
+    "duration": 5.821
+  },
+  {
+    "text": "And I don't know, a lot of people have\nnever thought about this question.",
+    "start": 2264.855,
+    "duration": 3.815
+  },
+  {
+    "text": "Remember it's water, the\nwater is pretty heavy.",
+    "start": 2268.67,
+    "duration": 3.772
+  },
+  {
+    "text": "Well we know that\nclouds have charge.",
+    "start": 2272.467,
+    "duration": 4.339
+  },
+  {
+    "text": "This is one example, probably not unknown\nto the Electric Universe people.",
+    "start": 2276.831,
+    "duration": 6.715
+  },
+  {
+    "text": "We also know that the earth\nhas an electric field.",
+    "start": 2283.571,
+    "duration": 2.907
+  },
+  {
+    "text": "I mean, beyond the\nmagnetic field.",
+    "start": 2286.503,
+    "duration": 2.121
+  },
+  {
+    "text": "And the electric field runs perpendicular\nto the surface of the earth",
+    "start": 2288.649,
+    "duration": 3.509
+  },
+  {
+    "text": "and it exists because there are positive\ncharges up here in the ionosphere and beneath",
+    "start": 2292.183,
+    "duration": 5.526
+  },
+  {
+    "text": "and because the earth has\na net negative charge.",
+    "start": 2297.734,
+    "duration": 3.484
+  },
+  {
+    "text": "By the way, the net negative\ncharge may come from the EZ water",
+    "start": 2301.243,
+    "duration": 5.408
+  },
+  {
+    "text": "that fills the surface of\nthe earth and all greenery.",
+    "start": 2306.676,
+    "duration": 4.343
+  },
+  {
+    "text": "So, this is the electric field\nat the surface of the earth.",
+    "start": 2311.044,
+    "duration": 5.839
+  },
+  {
+    "text": "It is roughly a hundred\nvolts per meter",
+    "start": 2316.908,
+    "duration": 2.997
+  },
+  {
+    "text": "which means that my nose is 200\nvolts relative to my toes.",
+    "start": 2319.93,
+    "duration": 6.744
+  },
+  {
+    "text": "OK, good to remember.",
+    "start": 2326.699,
+    "duration": 4.289
+  },
+  {
+    "text": "You know, it's easy.",
+    "start": 2331.013,
+    "duration": 2.142
+  },
+  {
+    "text": "OK, so we have, what\nabout floating clouds.",
+    "start": 2333.18,
+    "duration": 5.246
+  },
+  {
+    "text": "So, the earth is negative\nand the cloud is negative",
+    "start": 2338.451,
+    "duration": 3.441
+  },
+  {
+    "text": "and so doesn't take a rocket\nscientist to figure out that",
+    "start": 2341.917,
+    "duration": 3.829
+  },
+  {
+    "text": "there's a repulsive\nforce between them.",
+    "start": 2345.771,
+    "duration": 2.333
+  },
+  {
+    "text": "But your reaction might\nbe or may might not be,",
+    "start": 2348.129,
+    "duration": 3.729
+  },
+  {
+    "text": "is that repulsive force really strong\nenough to keep the clouds suspended",
+    "start": 2351.883,
+    "duration": 5.479
+  },
+  {
+    "text": "simply by repulsion?",
+    "start": 2357.387,
+    "duration": 1.378
+  },
+  {
+    "text": "I want to give you two\nexamples that demonstrate it.",
+    "start": 2358.79,
+    "duration": 2.632
+  },
+  {
+    "text": "The first is this.",
+    "start": 2361.447,
+    "duration": 1.017
+  },
+  {
+    "text": "You take an old-fashioned\n120-watt bulb",
+    "start": 2362.489,
+    "duration": 5.171
+  },
+  {
+    "text": "and, you know, current is flowing\nthrough the tungsten filament.",
+    "start": 2367.685,
+    "duration": 3.631
+  },
+  {
+    "text": "And suppose you could collect one second\nworth of charge flowing through it,",
+    "start": 2371.341,
+    "duration": 4.966
+  },
+  {
+    "text": "just one second.",
+    "start": 2376.332,
+    "duration": 1.191
+  },
+  {
+    "text": "And suppose, thought experiment,\nyou could compress that to a point",
+    "start": 2377.548,
+    "duration": 5.81
+  },
+  {
+    "text": "and you put that point down\nhere of negative charge",
+    "start": 2383.383,
+    "duration": 3.966
+  },
+  {
+    "text": "and you do the same thing up here\nand they're separated by one meter.",
+    "start": 2387.374,
+    "duration": 3.856
+  },
+  {
+    "text": "So, the question I ask you is, you know\nthat these are going to repel each other.",
+    "start": 2391.255,
+    "duration": 5.479
+  },
+  {
+    "text": "This one can't go down\nbut this one can go up.",
+    "start": 2396.759,
+    "duration": 3.85
+  },
+  {
+    "text": "So, question is, how much\nweight do you need to put",
+    "start": 2400.634,
+    "duration": 4.679
+  },
+  {
+    "text": "on this one in order to\nprevent it from going up, OK?",
+    "start": 2405.338,
+    "duration": 6.745
+  },
+  {
+    "text": "So, I've asked this question.",
+    "start": 2412.108,
+    "duration": 2.578
+  },
+  {
+    "text": "I got all kinds of answers from\na gram to a ton or whatever",
+    "start": 2414.711,
+    "duration": 3.798
+  },
+  {
+    "text": "and the right answer is about\n50,000 garbage trucks.",
+    "start": 2418.534,
+    "duration": 4.048
+  },
+  {
+    "text": "Now, knowing that there are Boeing engineers\nhere, the original thought was actually,",
+    "start": 2423.376,
+    "duration": 4.777
+  },
+  {
+    "text": "it's something like\n5,000 Boeing 747s.",
+    "start": 2428.178,
+    "duration": 3.352
+  },
+  {
+    "text": "But my son, the artist, couldn't\ndraw a Boeing 747 stacked up",
+    "start": 2431.555,
+    "duration": 4.297
+  },
+  {
+    "text": "so we wind up with garbage trucks and\nthis is roughly the amount of weight.",
+    "start": 2435.877,
+    "duration": 4.887
+  },
+  {
+    "text": "And even... So it, we're\ntalking a huge force.",
+    "start": 2440.789,
+    "duration": 4.714
+  },
+  {
+    "text": "Now, another example is this.",
+    "start": 2445.528,
+    "duration": 2.897
+  },
+  {
+    "text": "So, you have a couple and the guy is lying\nhere and the woman is suspended somehow.",
+    "start": 2448.45,
+    "duration": 8.197
+  },
+  {
+    "text": "It doesn't really matter\nhow she's suspended,",
+    "start": 2456.672,
+    "duration": 1.834
+  },
+  {
+    "text": "you might think of a net or\nsomething that's keeping her away.",
+    "start": 2458.531,
+    "duration": 3.583
+  },
+  {
+    "text": "Of course, they would like to join\neach other but she's suspended here.",
+    "start": 2462.139,
+    "duration": 3.804
+  },
+  {
+    "text": "And suppose, this comes also\nfrom Feynman by the way,",
+    "start": 2465.968,
+    "duration": 4.938
+  },
+  {
+    "text": "from his lectures except\nhe has them vertical.",
+    "start": 2470.931,
+    "duration": 3.172
+  },
+  {
+    "text": "I mean, standing instead\nof in this position.",
+    "start": 2474.128,
+    "duration": 3.236
+  },
+  {
+    "text": "But suppose you're able to remove\n1% of the electrons from this guy",
+    "start": 2477.389,
+    "duration": 4.697
+  },
+  {
+    "text": "and 1% of the electrons from this woman\nso she's positive, he's positive.",
+    "start": 2482.111,
+    "duration": 6.613
+  },
+  {
+    "text": "They repel each other.",
+    "start": 2488.749,
+    "duration": 1.791
+  },
+  {
+    "text": "He can't go down\nbut she can go up.",
+    "start": 2490.565,
+    "duration": 2.775
+  },
+  {
+    "text": "He doesn't want her to go up,\nhe'd rather have her go...",
+    "start": 2493.365,
+    "duration": 2.887
+  },
+  {
+    "text": "Well, so, so a question is,",
+    "start": 2496.277,
+    "duration": 5.196
+  },
+  {
+    "text": "how much weight would you have to put on her\nback in order to prevent her from rising up?",
+    "start": 2501.498,
+    "duration": 6.523
+  },
+  {
+    "text": "Anybody have a guess?",
+    "start": 2508.046,
+    "duration": 3.159
+  },
+  {
+    "text": "How many garbage trucks.",
+    "start": 2511.23,
+    "duration": 1.756
+  },
+  {
+    "text": "OK, so actually the number of garbage\ntrucks is so large, the correct answer,",
+    "start": 2513.011,
+    "duration": 5.576
+  },
+  {
+    "text": "remember according to Feynman\nis the weight of the earth.",
+    "start": 2518.612,
+    "duration": 4.743
+  },
+  {
+    "text": "It's astonishing.",
+    "start": 2523.38,
+    "duration": 1.634
+  },
+  {
+    "text": "So, main point.",
+    "start": 2525.039,
+    "duration": 3.256
+  },
+  {
+    "text": "The force that is generated\nby charges is much larger",
+    "start": 2528.32,
+    "duration": 5.849
+  },
+  {
+    "text": "even than people in the Electric Universe\nare, most of you are, I think, thinking.",
+    "start": 2534.194,
+    "duration": 5.744
+  },
+  {
+    "text": "Huge forces.",
+    "start": 2539.963,
+    "duration": 1.797
+  },
+  {
+    "text": "And so we come back to what\nkeeps the clouds suspended?",
+    "start": 2541.785,
+    "duration": 3.784
+  },
+  {
+    "text": "And I think what keeps them\nsuspended is the fact that",
+    "start": 2545.594,
+    "duration": 3.938
+  },
+  {
+    "text": "the clouds have a net negative charge and\nthe earth has a net negative charge.",
+    "start": 2549.557,
+    "duration": 4.503
+  },
+  {
+    "text": "So one suggestion is a repulsive\nforce between these and these.",
+    "start": 2554.085,
+    "duration": 4.478
+  },
+  {
+    "text": "That's why the clouds\nare sitting up there.",
+    "start": 2558.588,
+    "duration": 2.314
+  },
+  {
+    "text": "And if the cloud has more negative\ncharge then it's going to be higher",
+    "start": 2560.927,
+    "duration": 3.923
+  },
+  {
+    "text": "and if it has less negative charge\nthen it's going to be lower.",
+    "start": 2564.875,
+    "duration": 3.944
+  },
+  {
+    "text": "It's a simple paradigm",
+    "start": 2568.844,
+    "duration": 1.673
+  },
+  {
+    "text": "and that explains what atmospheric scientists\nhave a really hard time explaining",
+    "start": 2570.542,
+    "duration": 5.017
+  },
+  {
+    "text": "and that is clouds\nin different layers.",
+    "start": 2575.584,
+    "duration": 2.929
+  },
+  {
+    "text": "So, simple explanation is that this cloud\nhas a lot of negative charge so it's high.",
+    "start": 2578.538,
+    "duration": 6.211
+  },
+  {
+    "text": "And this one has a moderate amount and\nthis one has low negative charge.",
+    "start": 2584.774,
+    "duration": 4.949
+  },
+  {
+    "text": "And so that's how\nthey're suspended.",
+    "start": 2589.748,
+    "duration": 2.441
+  },
+  {
+    "text": "Side issue is this,\nthink about it.",
+    "start": 2592.214,
+    "duration": 3.429
+  },
+  {
+    "text": "The earth is negative, the\natmosphere is positive.",
+    "start": 2595.668,
+    "duration": 4.075
+  },
+  {
+    "text": "We all know that positive attracts\nnegative and so you'd expect that",
+    "start": 2599.768,
+    "duration": 6.058
+  },
+  {
+    "text": "simply by virtue of the fact that this\nis positive and this is negative,",
+    "start": 2605.851,
+    "duration": 3.821
+  },
+  {
+    "text": "they're going to stick together.",
+    "start": 2609.697,
+    "duration": 1.903
+  },
+  {
+    "text": "Now imagine if they\ndidn't stick together.",
+    "start": 2611.625,
+    "duration": 2.704
+  },
+  {
+    "text": "Just think about the\nscenario for a moment.",
+    "start": 2614.354,
+    "duration": 2.447
+  },
+  {
+    "text": "The earth is spinning, right, and\ntypical velocity on the surface is,",
+    "start": 2616.826,
+    "duration": 5.844
+  },
+  {
+    "text": "we're talking about something like\ntwo times the speed of a jet plane.",
+    "start": 2622.695,
+    "duration": 4.12
+  },
+  {
+    "text": "So, it means if you went outside and the\natmosphere was not stuck to the earth,",
+    "start": 2626.84,
+    "duration": 5.61
+  },
+  {
+    "text": "there'd be a hurricane outside\nevery time you walked out.",
+    "start": 2632.475,
+    "duration": 3.24
+  },
+  {
+    "text": "So, I mean the atmosphere must\nsomehow stick to the earth",
+    "start": 2635.74,
+    "duration": 5.326
+  },
+  {
+    "text": "and this is perhaps a\nsimple explanation that",
+    "start": 2641.091,
+    "duration": 3.448
+  },
+  {
+    "text": "plus and minus cling and so the\natmospheric clings to the earth.",
+    "start": 2644.564,
+    "duration": 3.983
+  },
+  {
+    "text": "And in fact, if you think about it,\na question that might be raised is,",
+    "start": 2648.572,
+    "duration": 5.703
+  },
+  {
+    "text": "does clinging force explain what\nwe know as atmospheric pressure?",
+    "start": 2654.3,
+    "duration": 4.727
+  },
+  {
+    "text": "We think of the pressure arising from\nmolecules pressing on each other",
+    "start": 2659.052,
+    "duration": 4.654
+  },
+  {
+    "text": "but, you know, the atmosphere\nis not a pile of bricks.",
+    "start": 2663.731,
+    "duration": 2.759
+  },
+  {
+    "text": "The molecules are a gas which means\nthey hardly touch each other",
+    "start": 2666.515,
+    "duration": 4.328
+  },
+  {
+    "text": "and you can go through various\narguments to come up with an idea",
+    "start": 2670.868,
+    "duration": 4.099
+  },
+  {
+    "text": "of how the atmosphere could\nactually press on the earth",
+    "start": 2674.992,
+    "duration": 3.183
+  },
+  {
+    "text": "but a simple argument\nmight be that",
+    "start": 2678.2,
+    "duration": 2.535
+  },
+  {
+    "text": "the pressure comes from the\nplus sticking to the minus.",
+    "start": 2680.76,
+    "duration": 3.379
+  },
+  {
+    "text": "And that prevents the\nblow-away scenario because",
+    "start": 2684.164,
+    "duration": 4.491
+  },
+  {
+    "text": "there are big winds up here and if\nyou just have stray molecules around",
+    "start": 2688.68,
+    "duration": 4.462
+  },
+  {
+    "text": "and the wind comes, you might expect that\nwe'd have no oxygen left to breathe.",
+    "start": 2693.167,
+    "duration": 4.597
+  },
+  {
+    "text": "OK, so I talked about\nthe condensation.",
+    "start": 2697.789,
+    "duration": 3.286
+  },
+  {
+    "text": "Now what about precipitation?",
+    "start": 2701.1,
+    "duration": 2.291
+  },
+  {
+    "text": "It does rain, although not\ntoo often around here.",
+    "start": 2703.416,
+    "duration": 5.522
+  },
+  {
+    "text": "So, what causes the rain?",
+    "start": 2708.963,
+    "duration": 1.932
+  },
+  {
+    "text": "Well, if you listen to\nthe weather people,",
+    "start": 2710.92,
+    "duration": 5.439
+  },
+  {
+    "text": "they'll talk about pressure and\nthey'll talk about temperature",
+    "start": 2716.384,
+    "duration": 3.919
+  },
+  {
+    "text": "and I don't know about you but\nI've never been able to understand",
+    "start": 2720.328,
+    "duration": 3.46
+  },
+  {
+    "text": "how this combination of temperature\nand pressure could yield rain.",
+    "start": 2723.813,
+    "duration": 5.671
+  },
+  {
+    "text": "So of course, another question that\npeople here are likely to raise is,",
+    "start": 2729.509,
+    "duration": 6.113
+  },
+  {
+    "text": "what about charge?",
+    "start": 2735.647,
+    "duration": 2.038
+  },
+  {
+    "text": "There's somehow charge involved\nin weather and bringing rain.",
+    "start": 2737.71,
+    "duration": 5.372
+  },
+  {
+    "text": "We know that there's\ncharge there",
+    "start": 2743.107,
+    "duration": 3.225
+  },
+  {
+    "text": "and I'd like to bring up the\nprinciple of induction.",
+    "start": 2746.357,
+    "duration": 3.507
+  },
+  {
+    "text": "This is Faraday induction which I\nthink is known to many of you.",
+    "start": 2749.889,
+    "duration": 4.04
+  },
+  {
+    "text": "So if you have a positive\ncharge sitting up here,",
+    "start": 2753.954,
+    "duration": 3.13
+  },
+  {
+    "text": "if it's really far away doesn't do\na whole lot but if it's closer,",
+    "start": 2757.109,
+    "duration": 3.981
+  },
+  {
+    "text": "it'll begin to induce opposite charge\ndown here and the closer it is,",
+    "start": 2761.115,
+    "duration": 4.761
+  },
+  {
+    "text": "the larger the opposite\ncharge that’s generated.",
+    "start": 2765.901,
+    "duration": 2.833
+  },
+  {
+    "text": "It doesn't matter whether this\ncharge is positive or negative.",
+    "start": 2768.759,
+    "duration": 4.241
+  },
+  {
+    "text": "Basically the same thing occurs and this\nforce is always attractive, that is,",
+    "start": 2773.0,
+    "duration": 5.753
+  },
+  {
+    "text": "if you have the negative here you'll always have\npositive here and they attract one another.",
+    "start": 2778.778,
+    "duration": 4.698
+  },
+  {
+    "text": "And I think this principle, this simple principle\nthat we all know about is really critical.",
+    "start": 2783.501,
+    "duration": 6.061
+  },
+  {
+    "text": "An example of it is here.",
+    "start": 2789.587,
+    "duration": 2.194
+  },
+  {
+    "text": "You take a balloon and you\nrub it on your shirt.",
+    "start": 2791.806,
+    "duration": 3.275
+  },
+  {
+    "text": "And notice same shirt as in the\nmovie, it's the only shirt I own.",
+    "start": 2795.106,
+    "duration": 4.853
+  },
+  {
+    "text": "Embarrassing moment.",
+    "start": 2802.205,
+    "duration": 1.765
+  },
+  {
+    "text": "And you put it next to the faucet and\nthe faucet bends quite appreciably.",
+    "start": 2803.995,
+    "duration": 4.64
+  },
+  {
+    "text": "It's a fun thing to\ndemonstrate for kids.",
+    "start": 2808.66,
+    "duration": 3.393
+  },
+  {
+    "text": "And what's going on?",
+    "start": 2812.078,
+    "duration": 1.758
+  },
+  {
+    "text": "Well, the balloon is charged\nby the triboelectric effect,",
+    "start": 2813.861,
+    "duration": 3.572
+  },
+  {
+    "text": "rubbing on your\nshirt or your hair,",
+    "start": 2817.458,
+    "duration": 1.946
+  },
+  {
+    "text": "induces opposite charge and the two are\nattracted and so the stream bends this way.",
+    "start": 2819.429,
+    "duration": 6.006
+  },
+  {
+    "text": "So, we have the same\nprinciple going.",
+    "start": 2825.46,
+    "duration": 4.917
+  },
+  {
+    "text": "We go back to the cloud\nand in the cloud,",
+    "start": 2830.402,
+    "duration": 2.255
+  },
+  {
+    "text": "we have the negatively charged vesicles containing\nthe water and we have positive charges.",
+    "start": 2832.682,
+    "duration": 5.872
+  },
+  {
+    "text": "They come together to form a\nnegatively charged cloud.",
+    "start": 2838.579,
+    "duration": 3.856
+  },
+  {
+    "text": "And when positive charge, more\npositive charge lowers the cloud,",
+    "start": 2842.46,
+    "duration": 7.51
+  },
+  {
+    "text": "right, it comes closer to here, there's an\ninductive force, positive here negative here.",
+    "start": 2849.995,
+    "duration": 6.615
+  },
+  {
+    "text": "And this pulls the\nwater from the cloud.",
+    "start": 2856.635,
+    "duration": 3.469
+  },
+  {
+    "text": "It's a simple pulling\nforce that can do that.",
+    "start": 2860.129,
+    "duration": 2.286
+  },
+  {
+    "text": "So, I think a possibility is that\nprecipitation occurs inductively.",
+    "start": 2862.44,
+    "duration": 5.76
+  },
+  {
+    "text": "I'll go back to\nthat in a moment.",
+    "start": 2868.898,
+    "duration": 1.747
+  },
+  {
+    "text": "And what about wind?",
+    "start": 2870.67,
+    "duration": 1.3
+  },
+  {
+    "text": "So, we know the wind occurs and",
+    "start": 2871.995,
+    "duration": 3.19
+  },
+  {
+    "text": "we sometimes think that it's a fire\nof the Dragon that creates the wind,",
+    "start": 2875.21,
+    "duration": 5.797
+  },
+  {
+    "text": "but, what creates the wind?",
+    "start": 2881.032,
+    "duration": 3.909
+  },
+  {
+    "text": "We, you know, we don't know.",
+    "start": 2884.966,
+    "duration": 1.654
+  },
+  {
+    "text": "Is it pressure gradients, which I think\nis what you'll read in the textbook.",
+    "start": 2886.645,
+    "duration": 5.862
+  },
+  {
+    "text": "But it's kind of difficult to\nunderstand how you get a wind gust?",
+    "start": 2892.532,
+    "duration": 6.178
+  },
+  {
+    "text": "Gust is pretty local and of course the\ngust can be powerful as you see here.",
+    "start": 2898.71,
+    "duration": 5.434
+  },
+  {
+    "text": "And I think it's possible that charge\ngradients are responsible for wind.",
+    "start": 2904.169,
+    "duration": 6.309
+  },
+  {
+    "text": "And why do I think so?",
+    "start": 2910.503,
+    "duration": 1.421
+  },
+  {
+    "text": "So, here's diagram\nthat you've seen.",
+    "start": 2911.949,
+    "duration": 2.991
+  },
+  {
+    "text": "Here's the earth and here's the\npositive charge in the atmosphere",
+    "start": 2914.94,
+    "duration": 3.661
+  },
+  {
+    "text": "and it's known from measurements that\nprotons diminish with increasing altitude.",
+    "start": 2918.626,
+    "duration": 5.712
+  },
+  {
+    "text": "So here you have the\nhighest electric field,",
+    "start": 2924.363,
+    "duration": 2.408
+  },
+  {
+    "text": "and it diminishes with\nincreasing altitude.",
+    "start": 2926.796,
+    "duration": 2.723
+  },
+  {
+    "text": "At night, It's very small, possibly\nbecause there's not much evaporation",
+    "start": 2929.519,
+    "duration": 6.064
+  },
+  {
+    "text": "and the positive charges don't\nget into the atmosphere.",
+    "start": 2935.608,
+    "duration": 3.185
+  },
+  {
+    "text": "During the daytime, it gets much\nhigher and this is well known.",
+    "start": 2938.818,
+    "duration": 4.471
+  },
+  {
+    "text": "This is not conjecture.",
+    "start": 2943.314,
+    "duration": 1.84
+  },
+  {
+    "text": "So here is low electric field\nand here's high electric field.",
+    "start": 2945.179,
+    "duration": 3.998
+  },
+  {
+    "text": "Now this is taken from\na published paper",
+    "start": 2949.202,
+    "duration": 4.104
+  },
+  {
+    "text": "and what we're seeing here is the electric field\nup high in different places on the earth.",
+    "start": 2953.331,
+    "duration": 6.028
+  },
+  {
+    "text": "So, forget this one\nfor the moment.",
+    "start": 2959.384,
+    "duration": 2.142
+  },
+  {
+    "text": "That's integrated\nover all of them.",
+    "start": 2961.551,
+    "duration": 1.985
+  },
+  {
+    "text": "Let's look at Africa and Europe",
+    "start": 2963.561,
+    "duration": 3.569
+  },
+  {
+    "text": "and this is GMT so we see that the peak\nelectric field in Africa and Europe",
+    "start": 2967.155,
+    "duration": 7.407
+  },
+  {
+    "text": "occurs at 14.00 roughly GMT.",
+    "start": 2974.587,
+    "duration": 3.398
+  },
+  {
+    "text": "So, this is in Africa and\nEurope roughly early afternoon.",
+    "start": 2978.01,
+    "duration": 4.801
+  },
+  {
+    "text": "It's when the sun\nis the brightest.",
+    "start": 2982.836,
+    "duration": 1.754
+  },
+  {
+    "text": "Sun is really shining and you see\nit's much bigger than in the evening.",
+    "start": 2984.615,
+    "duration": 4.548
+  },
+  {
+    "text": "Look at the Americas.",
+    "start": 2989.188,
+    "duration": 1.555
+  },
+  {
+    "text": "The peak occurs at about 21.00.",
+    "start": 2990.768,
+    "duration": 3.841
+  },
+  {
+    "text": "It occurs later than here.",
+    "start": 2994.634,
+    "duration": 1.449
+  },
+  {
+    "text": "Again, it corresponds to when the\nsun is really up high in the sky.",
+    "start": 2996.108,
+    "duration": 4.57
+  },
+  {
+    "text": "And the difference between nighttime and\ndaytime is huge, it is a factor of 10.",
+    "start": 3000.703,
+    "duration": 8.06
+  },
+  {
+    "text": "There's a big difference\nbetween the two.",
+    "start": 3008.788,
+    "duration": 2.929
+  },
+  {
+    "text": "So, think about it.",
+    "start": 3011.742,
+    "duration": 2.094
+  },
+  {
+    "text": "The electric field is high\nhere and it's low here.",
+    "start": 3013.861,
+    "duration": 5.134
+  },
+  {
+    "text": "So, that means you've got a gradient:\nhigh electric field, low electric field.",
+    "start": 3019.02,
+    "duration": 5.828
+  },
+  {
+    "text": "So, in this case you've got a lot of positive\ncharges here and very few positive charges.",
+    "start": 3024.873,
+    "duration": 7.909
+  },
+  {
+    "text": "Positive charges\nrepel each other.",
+    "start": 3032.807,
+    "duration": 2.332
+  },
+  {
+    "text": "They want to escape.",
+    "start": 3035.164,
+    "duration": 1.221
+  },
+  {
+    "text": "Where are they going to go?",
+    "start": 3036.41,
+    "duration": 1.484
+  },
+  {
+    "text": "Well, they're going to go this\nway and that gives you wind.",
+    "start": 3037.919,
+    "duration": 3.141
+  },
+  {
+    "text": "And I think, with this,\nI don't have time,",
+    "start": 3041.085,
+    "duration": 2.947
+  },
+  {
+    "text": "I think this can explain both the trade\nwinds that blow from east to west",
+    "start": 3044.057,
+    "duration": 4.948
+  },
+  {
+    "text": "and the prevailing westerlies or jet\nstream that flows from west to east.",
+    "start": 3049.03,
+    "duration": 6.768
+  },
+  {
+    "text": "They occur, originate at the two\ndifferent light / dark boundaries.",
+    "start": 3055.823,
+    "duration": 4.463
+  },
+  {
+    "text": "That gives you wind.",
+    "start": 3060.311,
+    "duration": 1.981
+  },
+  {
+    "text": "So, what about a gust of wind?",
+    "start": 3062.317,
+    "duration": 1.972
+  },
+  {
+    "text": "Well, I think a gust of wind could\noccur with a local charge gradient",
+    "start": 3064.314,
+    "duration": 4.674
+  },
+  {
+    "text": "depending on the plants and the\nstructures that exist there.",
+    "start": 3069.013,
+    "duration": 4.782
+  },
+  {
+    "text": "I think they, it's possible\nthat the origin of wind",
+    "start": 3073.82,
+    "duration": 3.943
+  },
+  {
+    "text": "comes from atmospheric\ncharge gradients.",
+    "start": 3077.788,
+    "duration": 3.888
+  },
+  {
+    "text": "Now what about exotic weather?",
+    "start": 3081.701,
+    "duration": 4.382
+  },
+  {
+    "text": "Seattle is not like Phoenix.",
+    "start": 3086.13,
+    "duration": 3.781
+  },
+  {
+    "text": "This is what it looks like\nin typical winter time",
+    "start": 3089.936,
+    "duration": 5.074
+  },
+  {
+    "text": "and we get a fair amount of rain\nand people get caught downtown,",
+    "start": 3095.01,
+    "duration": 6.126
+  },
+  {
+    "text": "you know, without their umbrellas\nand they rush to their cars.",
+    "start": 3101.161,
+    "duration": 5.375
+  },
+  {
+    "text": "So, what's going on?",
+    "start": 3106.561,
+    "duration": 1.555
+  },
+  {
+    "text": "Why, the question is, why in Seattle\ndo we get a lot of rain in the winter",
+    "start": 3108.141,
+    "duration": 5.372
+  },
+  {
+    "text": "whereas the summertime it's a bit like\nPhoenix although a little bit cooler.",
+    "start": 3113.538,
+    "duration": 5.709
+  },
+  {
+    "text": "And remember, this is the mechanism\nthat we've deduced for clouds.",
+    "start": 3119.272,
+    "duration": 6.294
+  },
+  {
+    "text": "You need the humidity\nwith negative charge",
+    "start": 3125.591,
+    "duration": 3.118
+  },
+  {
+    "text": "and you need positive charge\nto bring these together.",
+    "start": 3128.734,
+    "duration": 3.616
+  },
+  {
+    "text": "And of course you need enough\npositive charge to bring it together",
+    "start": 3132.375,
+    "duration": 3.761
+  },
+  {
+    "text": "because if you have a trivial\namount, it won't happen.",
+    "start": 3136.161,
+    "duration": 3.318
+  },
+  {
+    "text": "So, think about the\nwinter in Seattle, OK.",
+    "start": 3139.504,
+    "duration": 4.311
+  },
+  {
+    "text": "Now, when it's\nwinter in Seattle,",
+    "start": 3143.84,
+    "duration": 2.677
+  },
+  {
+    "text": "in the summer the earth is tilted in such\na way that in the southern hemisphere",
+    "start": 3146.542,
+    "duration": 5.115
+  },
+  {
+    "text": "you got a lot of sunshine\noccuring, right?",
+    "start": 3151.682,
+    "duration": 3.623
+  },
+  {
+    "text": "And this lot of sunshine builds positive\ncharge way up into the atmosphere.",
+    "start": 3155.33,
+    "duration": 5.975
+  },
+  {
+    "text": "We don't get it here\nbut we get it here.",
+    "start": 3161.33,
+    "duration": 2.78
+  },
+  {
+    "text": "Now, where does this\ncharge want to go?",
+    "start": 3164.135,
+    "duration": 2.863
+  },
+  {
+    "text": "Well, the charge wants\nto escape from here,",
+    "start": 3167.023,
+    "duration": 2.564
+  },
+  {
+    "text": "the high atmospheric charge,\nso it goes this way.",
+    "start": 3169.612,
+    "duration": 3.403
+  },
+  {
+    "text": "Meanwhile, you have the prevailing\nwesterlies going this way",
+    "start": 3173.04,
+    "duration": 3.998
+  },
+  {
+    "text": "and the two are combined to bring\nmoisture into Seattle in the wintertime.",
+    "start": 3177.063,
+    "duration": 6.477
+  },
+  {
+    "text": "And so, you're getting a lot of charge\ncoming and the situation is like this.",
+    "start": 3183.565,
+    "duration": 5.995
+  },
+  {
+    "text": "You have a cloud, charge comes, right,\nand the addition of more positive charge",
+    "start": 3189.585,
+    "duration": 6.864
+  },
+  {
+    "text": "reduces the negativity\nso the cloud gets lower.",
+    "start": 3196.474,
+    "duration": 3.825
+  },
+  {
+    "text": "And of course, sorry,",
+    "start": 3200.324,
+    "duration": 3.373
+  },
+  {
+    "text": "a lot of these vesicles begin to be\nattracted to these positive charges.",
+    "start": 3203.722,
+    "duration": 5.48
+  },
+  {
+    "text": "So the cloud begins to, the cloud, because\nof the positive charge begins to lower",
+    "start": 3209.227,
+    "duration": 5.898
+  },
+  {
+    "text": "and because of additional positive charges these\nclouds can actually merge with one another",
+    "start": 3215.15,
+    "duration": 5.061
+  },
+  {
+    "text": "so not only do they get lower but they\nget larger and this keeps happening.",
+    "start": 3220.236,
+    "duration": 4.369
+  },
+  {
+    "text": "Gets lower and it reaches the point\nwhere you have an inductive force,",
+    "start": 3224.63,
+    "duration": 5.559
+  },
+  {
+    "text": "the negative charge induces positive\ncharge and that brings the rain.",
+    "start": 3230.19,
+    "duration": 5.157
+  },
+  {
+    "text": "If it's low enough and it\ninduces enough positive charge,",
+    "start": 3235.372,
+    "duration": 4.29
+  },
+  {
+    "text": "the positive pulls the negatively\ncharged vesicles and we get rain.",
+    "start": 3239.687,
+    "duration": 4.418
+  },
+  {
+    "text": "The rain is actually\npulled toward the earth.",
+    "start": 3244.996,
+    "duration": 3.283
+  },
+  {
+    "text": "So, rain or no rain it's, I think,\nthe cloud must lower sufficiently",
+    "start": 3248.304,
+    "duration": 7.24
+  },
+  {
+    "text": "past the critical point of inductive\ninevitability, then it rains.",
+    "start": 3255.569,
+    "duration": 5.288
+  },
+  {
+    "text": "It's sort of like an orgasm, you know,\nyou're almost there and then you're there,",
+    "start": 3260.882,
+    "duration": 5.256
+  },
+  {
+    "text": "if you will.",
+    "start": 3266.163,
+    "duration": 2.116
+  },
+  {
+    "text": "Interesting scientific fact.",
+    "start": 3268.28,
+    "duration": 3.34
+  },
+  {
+    "text": "Some guys, not this\none, this one.",
+    "start": 3271.645,
+    "duration": 4.322
+  },
+  {
+    "text": "Some guys used high-speed\nvideo to record rainfall",
+    "start": 3275.992,
+    "duration": 6.324
+  },
+  {
+    "text": "and we all know, if you have\na droplet that's falling,",
+    "start": 3282.341,
+    "duration": 3.299
+  },
+  {
+    "text": "based on its size, and physical\nproperties, you can compute the velocity.",
+    "start": 3285.665,
+    "duration": 5.442
+  },
+  {
+    "text": "Well they measured the velocity and they\nfound that it was up to ten times higher",
+    "start": 3291.132,
+    "duration": 5.718
+  },
+  {
+    "text": "than you could imagine due to to\nthe fall and so they concluded,",
+    "start": 3296.875,
+    "duration": 6.574
+  },
+  {
+    "text": "this is published in Nature,\nthey concluded that",
+    "start": 3303.474,
+    "duration": 2.768
+  },
+  {
+    "text": "there's a pulling force that\nbrings it to the earth.",
+    "start": 3306.267,
+    "duration": 3.211
+  },
+  {
+    "text": "I need about three minutes, OK.",
+    "start": 3309.503,
+    "duration": 2.428
+  },
+  {
+    "text": "Now, exotic weather.",
+    "start": 3311.956,
+    "duration": 2.983
+  },
+  {
+    "text": "For the Australians who are here, I\nthink, this comes from Australia.",
+    "start": 3314.964,
+    "duration": 5.134
+  },
+  {
+    "text": "We have these thunderheads which\ncan yield intense rainfalls",
+    "start": 3320.123,
+    "duration": 6.007
+  },
+  {
+    "text": "and notice the\ncurvature around here.",
+    "start": 3326.155,
+    "duration": 3.609
+  },
+  {
+    "text": "If you think about the earth\nthat's rotating, you know.",
+    "start": 3329.789,
+    "duration": 3.031
+  },
+  {
+    "text": "If you're standing on the equator,\nit's rotating really fast.",
+    "start": 3332.845,
+    "duration": 3.079
+  },
+  {
+    "text": "If you're standing up here,\nthe speed is pretty slow.",
+    "start": 3335.949,
+    "duration": 2.926
+  },
+  {
+    "text": "And so, there's a gradient\nalong here which means,",
+    "start": 3338.9,
+    "duration": 3.203
+  },
+  {
+    "text": "because this is always faster than\nthis clouds will always rotate",
+    "start": 3342.128,
+    "duration": 4.009
+  },
+  {
+    "text": "in the counterclockwise in the\nnorthern hemisphere we see here.",
+    "start": 3346.162,
+    "duration": 3.862
+  },
+  {
+    "text": "So, if you think\nabout a hurricane,",
+    "start": 3350.049,
+    "duration": 2.133
+  },
+  {
+    "text": "so here's a cloud that\nhas negative charge.",
+    "start": 3352.207,
+    "duration": 5.418
+  },
+  {
+    "text": "It's moving in this direction\nat least initially",
+    "start": 3357.65,
+    "duration": 2.667
+  },
+  {
+    "text": "because the trade winds\npush in this direction.",
+    "start": 3360.342,
+    "duration": 4.386
+  },
+  {
+    "text": "But think about the atmosphere, the\npositively charged atmosphere.",
+    "start": 3364.753,
+    "duration": 4.293
+  },
+  {
+    "text": "So, this cloud is moving in this direction,\ncompressing all of these positive charges",
+    "start": 3369.071,
+    "duration": 5.302
+  },
+  {
+    "text": "whereas behind it, it's already passed\nthrough, there's not much positivity left.",
+    "start": 3374.398,
+    "duration": 5.007
+  },
+  {
+    "text": "It's left a swath where there\nshouldn't be positive charge.",
+    "start": 3379.43,
+    "duration": 3.765
+  },
+  {
+    "text": "So, this negative charge is attracted\nto a lot of positive charges.",
+    "start": 3383.22,
+    "duration": 5.557
+  },
+  {
+    "text": "The two will tend to combine and\nwhen they combine, what happens is,",
+    "start": 3388.802,
+    "duration": 4.791
+  },
+  {
+    "text": "remember you get more positive\ncharge with the negative,",
+    "start": 3393.618,
+    "duration": 3.067
+  },
+  {
+    "text": "this part of the cloud descends.",
+    "start": 3396.71,
+    "duration": 2.324
+  },
+  {
+    "text": "It releases its rain\nand it becomes clear.",
+    "start": 3399.059,
+    "duration": 3.617
+  },
+  {
+    "text": "And this will be the\neye of the hurricane.",
+    "start": 3402.701,
+    "duration": 3.747
+  },
+  {
+    "text": "Meanwhile, the cloud is\nrotating in this direction",
+    "start": 3406.473,
+    "duration": 3.021
+  },
+  {
+    "text": "for the reason I showed\nyou in the last slide",
+    "start": 3409.519,
+    "duration": 2.482
+  },
+  {
+    "text": "so you come to here and again the\nsame thing happens with this region",
+    "start": 3412.026,
+    "duration": 4.806
+  },
+  {
+    "text": "and so the eye becomes larger.",
+    "start": 3416.857,
+    "duration": 3.076
+  },
+  {
+    "text": "And it starts curling around until you\nreach the state where a negative charge,",
+    "start": 3419.958,
+    "duration": 6.367
+  },
+  {
+    "text": "right, induces positive charge\nand the ice sticks to this.",
+    "start": 3426.35,
+    "duration": 3.911
+  },
+  {
+    "text": "And it keeps going and\nbuilding like that",
+    "start": 3430.286,
+    "duration": 2.702
+  },
+  {
+    "text": "and eventually you get a structure\nthat looks something like this.",
+    "start": 3433.013,
+    "duration": 3.575
+  },
+  {
+    "text": "This is a typical hurricane.",
+    "start": 3436.613,
+    "duration": 1.951
+  },
+  {
+    "text": "And sometimes, you know, you\ncan get one of these typhoon,",
+    "start": 3438.589,
+    "duration": 4.725
+  },
+  {
+    "text": "not typhoons, but tornadoes\nand think about it.",
+    "start": 3443.339,
+    "duration": 4.59
+  },
+  {
+    "text": "Again, we have the\nrotation occurring here",
+    "start": 3447.954,
+    "duration": 2.665
+  },
+  {
+    "text": "and what keeps it all\ntogether is the first point",
+    "start": 3450.644,
+    "duration": 4.727
+  },
+  {
+    "text": "and most of these particles\nhere are negatively charged.",
+    "start": 3455.396,
+    "duration": 3.428
+  },
+  {
+    "text": "So, you've got positive charge\nthat keeps it all together",
+    "start": 3458.849,
+    "duration": 4.214
+  },
+  {
+    "text": "by the like-likes-like\nmechanism.",
+    "start": 3463.088,
+    "duration": 3.436
+  },
+  {
+    "text": "And by the way, you often see\nlightning discharges in these.",
+    "start": 3466.549,
+    "duration": 3.583
+  },
+  {
+    "text": "So, it's kept together and because it's kept\ntogether this entire thing is rotating.",
+    "start": 3470.157,
+    "duration": 5.178
+  },
+  {
+    "text": "You get fierce winds out here\nand because of the charges,",
+    "start": 3475.36,
+    "duration": 4.392
+  },
+  {
+    "text": "the induction force pulls\nup refrigerators from here.",
+    "start": 3479.777,
+    "duration": 3.129
+  },
+  {
+    "text": "So we get some idea of what is\nresponsible for the tornado.",
+    "start": 3482.931,
+    "duration": 5.569
+  },
+  {
+    "text": "So, I've gone quickly\nthrough the entire cycle.",
+    "start": 3488.525,
+    "duration": 5.415
+  },
+  {
+    "text": "Evaporation, condensation,\nprecipitation, ice and snow, and so on.",
+    "start": 3493.965,
+    "duration": 5.337
+  },
+  {
+    "text": "And I'm suggesting to you that\nnot only are the mechanisms",
+    "start": 3499.327,
+    "duration": 4.812
+  },
+  {
+    "text": "different from what\nwe've all learned",
+    "start": 3504.164,
+    "duration": 3.153
+  },
+  {
+    "text": "but that central feature\nfor all of this is charge.",
+    "start": 3507.342,
+    "duration": 3.795
+  },
+  {
+    "text": "Negative charge and\npositive charge.",
+    "start": 3511.162,
+    "duration": 2.589
+  },
+  {
+    "text": "So, I would leave you with,\ncharge is absolutely critical",
+    "start": 3513.776,
+    "duration": 7.546
+  },
+  {
+    "text": "and there's not a single weather\nforecast that I've ever seen",
+    "start": 3521.347,
+    "duration": 5.074
+  },
+  {
+    "text": "that says hey, the charge in the\natmosphere is such and such",
+    "start": 3526.446,
+    "duration": 3.247
+  },
+  {
+    "text": "and because of the charge we may\nexpect this kind of weather.",
+    "start": 3529.718,
+    "duration": 3.851
+  },
+  {
+    "text": "So, I think one day if the atmospheric\npeople begin to take into account",
+    "start": 3533.594,
+    "duration": 7.062
+  },
+  {
+    "text": "that the universe is\nreally electrical,",
+    "start": 3540.681,
+    "duration": 3.665
+  },
+  {
+    "text": "we'll know whether to bring\nan umbrella to work.",
+    "start": 3544.371,
+    "duration": 2.76
+  },
+  {
+    "text": "And before I end, I have to talk one slide\nabout the Institute for Venture Science,",
+    "start": 3547.156,
+    "duration": 6.918
+  },
+  {
+    "text": "because well, for a number\nof reasons including,",
+    "start": 3554.099,
+    "duration": 3.387
+  },
+  {
+    "text": "the next speaker is\ndeeply involved in it",
+    "start": 3557.511,
+    "duration": 2.705
+  },
+  {
+    "text": "and Dave Talbott was also involved in getting\nthis and Susan, getting this started",
+    "start": 3560.241,
+    "duration": 5.922
+  },
+  {
+    "text": "and the Institute funds promising ideas\nthat challenge conventional thinking.",
+    "start": 3566.188,
+    "duration": 6.489
+  },
+  {
+    "text": "And we received more\nthan 200 pre-proposals.",
+    "start": 3572.702,
+    "duration": 3.533
+  },
+  {
+    "text": "They've all been reviewed and out of\nthose 200 we picked a dozen or so",
+    "start": 3576.26,
+    "duration": 4.816
+  },
+  {
+    "text": "that are extremely promising.",
+    "start": 3581.101,
+    "duration": 2.313
+  },
+  {
+    "text": "And the people, those people are\nnow drafting full proposals",
+    "start": 3583.439,
+    "duration": 5.39
+  },
+  {
+    "text": "which we expect to receive in about, well,\ntwo weeks and this is a going concern.",
+    "start": 3588.854,
+    "duration": 7.156
+  },
+  {
+    "text": "Of course, we're looking for donors\nand anybody who knows people of means",
+    "start": 3596.035,
+    "duration": 8.896
+  },
+  {
+    "text": "who have done well and would\nlike to give back to society,",
+    "start": 3604.956,
+    "duration": 4.359
+  },
+  {
+    "text": "I think this is a really wonderful\nway of returning to society",
+    "start": 3609.34,
+    "duration": 7.734
+  },
+  {
+    "text": "in a way that is meaningful.",
+    "start": 3617.099,
+    "duration": 2.078
+  },
+  {
+    "text": "So, I end with the book.",
+    "start": 3619.202,
+    "duration": 3.444
+  },
+  {
+    "text": "The book has become popular",
+    "start": 3622.671,
+    "duration": 1.84
+  },
+  {
+    "text": "and a lot of the ideas and issues\nthat led to the speculations,",
+    "start": 3624.536,
+    "duration": 6.801
+  },
+  {
+    "text": "which is really what they\nare, that I presented to you,",
+    "start": 3631.362,
+    "duration": 2.969
+  },
+  {
+    "text": "come from this book, where\nyou'll find the evidence.",
+    "start": 3634.356,
+    "duration": 3.539
+  },
+  {
+    "text": "Thank you very much!",
+    "start": 3637.92,
+    "duration": 1.46
+  }
+]

@@ -1,0 +1,540 @@
+it is been a journey this last year and
+a half I do have a lot of material to
+cover I recognize that there's some here
+that are new and I need to honor that
+and those who are quite involved in the
+project so Sapphire a sense for Solar
+atmospheric function in regulation
+experiment and dr. mark cleric Paul
+Anderson wal thornhill Don Scott and
+others are here on the what I call a
+core team and a job is really to
+evaluate the possibility is it possible
+to do an experiment is it feasible as a
+viable is it capable and those are words
+that we use in designs of experiments
+and kind of an analytical perspective
+when we progress with an experiment okay
+because this is what I would call
+classical science it's not theoretical
+its classical so we've got to break all
+the natural philosophy down and we've
+got to take a look at the opinions of
+suppositions two models two concepts and
+see whether or not it's possible to test
+hypotheses you see and that's really the
+kind of work I've done for the last 35
+years
+so Safire I'm just gonna get on with it
+here as quickly as I can
+these are some of the older guys kind of
+come and gone that are you know we look
+into to see you know if there's there's
+a basis for the work that we do so we
+always build on the shoulders of others
+and it really kind of goes back from
+what I can see to guys like Sir Isaac
+Newton who was looking at spectroscopy
+as well you know he wouldn't might have
+used that word in gravity of course
+Heinrich Geissler was really kind of I
+would say the grandfather of the neon
+tube the gas discharge we move on to
+William Crookes which his experiment of
+throwing rubies into a vacuum chamber
+and watching them radiate regardless of
+their their opacity brilliant red
+was quite remarkable and I would say
+probably the first plasma spectroscopy
+type of experiment although he may not
+have said this but observations um of
+course Kristian Birkeland you know we
+just kind of build you know on each
+other's work as that as years go on and
+we'll get into his his working more
+depth as we we proceed here
+nikola tesla's well somebody say well it
+has not much to do with it but obviously
+his work was based on others and the
+research and we know what today what you
+know what's coming off his work hands
+often I'm not gonna speak too much about
+this because we all touched on his work
+earlier off waves which NASA and you
+know many others refer to with respect
+to their study of the Sun ah
+Rolf your guns I think is probably the
+one in my opinion right now that dr. Don
+Scott's work is based on which would be
+the first I guess more comprehensive a
+quantitative evaluation of what the Sun
+looks like as a circuit and then so you
+can see down here in I just you know
+quick picture of Don Scott's model here
+ok so this is our team there's a great
+there's a core team as I mentioned
+before there's Donald Scott as well
+Farah hill paul michael jim writer
+forest bishop David tell but Susan and
+Mark and then there's others that we
+resource um you know try to gather them
+in so the idea behind this is that I
+build a team a diverse team of various
+disciplines because the idea behind it
+is we want to find out if the experiment
+is going to fail we don't want to spend
+money if we have any opportunity for
+failure you see or holes in the
+experiment so that's why we want a
+diverse team so stellar atmospheric
+function and regulation experiment what
+I want to do is kind of move into
+quickly the overview which is phase one
+exam as a contemporary plausible stellar
+atmospheric process concepts that
+includes gravitational and electric
+process capability
+and concept viability determine if a
+design of experiments method is
+applicable now I know that some of these
+terms here may be new to some of you but
+those who are into experimentation would
+understand very quickly what design of
+experiments and how powerful that is
+it's a fairly recent tool in the last
+maybe 60 years to obtain a very high
+confidence level of analysis of a
+process okay I'm just want to leave it
+there we can talk about that maybe one
+on one later on
+so gravitational electric process
+capability phase two examination of the
+electric Sun concept prior to
+experiments and observations phase three
+quantify stellar atmospheric function in
+mathematical terms we may leave that as
+we as we move through this as there some
+changes now the challenge is
+experimental limitations design failure
+modes and effects analysis and phase
+fours examine the experimental options
+the plausibility feasibility viability
+and capability and that that doesn't
+just apply to whether or not we can
+replicate the phenomenon in a laboratory
+experiment but it also means the means
+by which we measure are they capable do
+we have a standard no theoretics nor
+theoretical models no extrapolations no
+interpolations no mathematical
+adjustments of the data do we have a
+ruler that we can actually all agree on
+that's a standard that's capable you see
+of giving us consistent measurements so
+it's vital because otherwise it's up to
+anybody's idea as to what you know the
+results are going to return and it's
+something that we deal with all the time
+in science right it's a it's a bit of a
+challenge so evaluation of prior
+experiments determine if if they're
+viable candidates so we can build on
+those you see is there is a precedent
+for this determine if prior experiments
+require augmentation to thoroughly test
+the hypothesis and we're going to find
+that there is evaluation of contemporary
+merit illogical capabilities determine
+if the experiment is feasible so all
+these things have to be addressed right
+upfront before we even start spending a
+nickel because I won't do it you know I
+mean I spent millions in our idea over
+the years
+and you have to evaluate you know before
+you get into it especially if you have
+shareholders okay
+so phase five engineering design and
+construction of the experimental so
+Louis I want to thank Rennes for that
+word because it's a lot I mean small son
+the u.s. is masculine not sure why but I
+suppose you could tell me why it's
+masculine the earth is I guess feminine
+so I probably dates back some time but
+these are these are the disciplines
+right we want all the disciplines all
+with distance is applying in these
+models face sex execution of the
+experiment using a design of experiments
+methods phase seven evaluate evaluation
+and reconciliation of the test results
+mathematical predictions and real solar
+data and now this is really what we're
+after right here now the design of
+experiments methodology does not allow
+for sanitization or sanitizing of the
+data the actual data feeds back into the
+experiment and you need that to develop
+your methods to identify what factors
+are the primary factors associated with
+the phenomena okay and maybe now you can
+see after Poul Anderson's work why he's
+on the team you see so
+hertzsprung-russell diagram has told the
+other day this is an old diagram but
+nevertheless it's something that we're
+all familiar with or many of us are
+generally it's used to take a look at
+the evolutionary lifecycle of a son or a
+star I look at a little differently and
+from my perspective I look at a process
+and this is really important that we
+understand that what this means is that
+we have an extremely extremely stable
+universe electrically if we take a look
+at the luminosity the spectral signature
+and temperature under the three hundred
+billion stars that we have in our galaxy
+there may be a few supernovae but
+generally out of the 300 billion they're
+not they don't vary they may be quite
+violent in themselves but generally
+extremely extremely stable enough for a
+person
+doing experimental work that is like a
+lifesaver you've got a process that is
+already under control you're not trying
+to identify the factors or the causes of
+reason why something is out of control
+okay if you're making hamburgers and
+they're bad every other day you got to
+find out what's wrong with them but in
+this case you know we're making 300
+billion hamburgers and there's only one
+or two that are bad so it would say that
+however you're making hammer is it
+probably pretty stable you know you know
+what you're doing so when we look at it
+from a process not an evolutionary
+perspective it draws a it's quite a
+quite a different picture so it means
+that we only have point zero zero one
+star per million that change from the
+normal DV you know from the normal curve
+every year so from a statistical
+perspective it's an extremely stable
+situation and that's just that's just
+great news for anyone who's studying
+this process okay so we have two
+candidates one is the nuclear concept
+you know there's the electrical concept
+as we know the electrical concepts based
+on gravitational model by which elements
+are compressed to such a state that
+nuclear reactions occur fusion occurs in
+the core of the star as result of
+complex processing whatever those
+complexities are and they are really
+really complex from a mathematical
+perspective and just so you know when I
+did my first evaluation in January last
+year I found numerous disparities with
+the gravitational model and came to the
+conclusion myself personally
+it's none testable it's non testable
+model okay I I don't know how you could
+test it with so many so many problems
+with it now the electric concept on the
+other hands electric universe concept
+claims that luminosity spectrum and
+thermal differentials are the result of
+intense plasma discharge behavior
+beginning in the diffuse Corona and
+terminating in the denser Solar
+ionosphere okay now what that means to
+me is that we have two factors two
+primary factors we have incoming charged
+plasma affecting matter of a different
+electrical potential and that's it
+period
+that's great this is a model of the Sun
+as standard model of the Sun and we've
+gone over that's almost being real time
+on it because I've got we're gonna get
+into the experiment and what we're doing
+this is the model of the electric Sun
+and it's basically incoming charge
+plasma to a body of a different
+electrical potential in this case here
+the Sun is positive the incoming charge
+is coming from our heliopause or the
+source of electrons which is negative
+for a cathode from an electrical
+perspective and that's the model so we
+want to talk about some of the features
+spicules there's a lot of literature on
+this from slore Dynamics Observatory got
+McIntosh in the National Center for
+Atmospheric Research published in nature
+article he says the that looked very
+similar to Kristian Birkeland torella
+experiment results that were obtained
+over a hundred years ago hmm interesting
+so this is NASA okay so they're
+recognizing that they don't starting to
+look at and I respect these people I
+know there's some that have issues but
+myself personally you know we put men on
+the moon they've done a lot of things I
+think there's a very very intelligent
+people but I think that with all of us
+including myself if I have an assumption
+that may not be correct I can trigger
+now on the wrong path pretty quickly and
+it can cost a lot of money so these
+society there's a picture a hundred
+years ago looks very very very similar
+and we're going to examine these more
+more detail shortly
+so Kristian Birkeland if the globe is
+slightly magnetized slightly the patches
+of eruption are seen to arrange
+themselves in zones with long pencils
+issuing into space almost as in figure
+the picture I showed you only these
+pencils are bent by the magnetism which
+is exactly analogous to what we have
+assumed regarding the cathode rays
+issuing from the Sun okay now wall
+showed you this picture earlier so I
+won't play the point but you know these
+are quite remarkable it shows that
+branch discharge issuing from the spot
+sometimes follows the magnetic
+lines of force in the neighbor
+neighborhood of the equator giving rise
+to a phenomenon which greatly resembles
+the black filaments of the Sun studied
+by Hale element Fox these these are
+these are fellows that were studying
+astrophysics boxes in his time so he
+wasn't just working on his own he had
+friends that were what we would call
+modern-day astrophysics or physicists at
+the time this is a modern NASA Marshall
+Space Flight Center from David Hathaway
+they believe this is due to acoustic you
+know is it Genesis that the super
+rotation senior granular rotation of the
+of the atmosphere of the Sun around its
+equator I have a different and you have
+a different perspective of why that's
+occurring and if we take a look at the
+picture wall shows earlier this is quite
+remarkable from my perspective I look at
+it a little different than you all does
+but more what's really notable about
+this is the actual rotation of the
+plasma torus but the predominance in
+this area here this is spinning around
+the Sun the counterclockwise direction
+that's correct right
+well it's counterclockwise I do this
+yeah and now we have the EU model if you
+see here we have incoming charge bottom
+I'm not sure why that is but I know it
+appears that that is what is occurring
+but we have this mania increase main
+current increase in strength about its
+equator it's interesting because this
+isn't Brooklyn's work this is Quinton
+fioretto in March 1967 when they were
+studying plasma discharge for they were
+looking to - what it takes to actually
+bring plasma instability they weren't
+looking at any comparisons to what we
+see occurring in the planets or the Sun
+itself that was interesting in the paper
+is the predominance of this Taurus at
+forum that was spinning around spinning
+around the globe you see they weren't
+looking for this we're trying to find
+out how we can stabilize it the problem
+of course is that these are fairly
+granular pictures they're just the
+black-and-white there's not really been
+much examination from the electrical
+properties which is what sapphire is is
+looking into CME's berkland currents
+coronal mass ejections what's
+interesting here if I can
+is this predominance here if you could
+see the spiral shape in this ejection
+and take a look at what occurred with
+their Tarawa in 1967 and their
+experiment here you see and they're not
+the only ones I mean these types of
+phenomena are being recorded by others
+who have conducted Torrell experiments
+around the world in Norway in
+Switzerland and you know Brooklyn of
+course and and others dear assuming this
+stellar arcing or what is called today
+sympathetic flares but really to break
+it right down or we're saying that
+there's Cimiez that are occurring on
+either side of the Sun at the same time
+so for those of you you know we're
+thinking about relativity and speed
+light and time and things just let that
+soak in for a second because it means it
+means they were measuring this we don't
+understand it but it can't be happening
+instantaneously so we'll call it
+sympathetic arcing but in fact it's
+happening concurrently within
+milliseconds of each other and this is
+something that was observed by mister
+berkland the discharges opposite points
+this is not clearly seen because it's a
+still photograph however brought to my
+mind a very strange picture of some
+enormous eruptions on the Sun reproduced
+from marbles of the universe from some
+of this astrophysics guys his friends
+okay so we have some CME's we have mr.
+burr clones experiment boy there lookie
+visually they look very very close don't
+they you see and we take a look at
+you know the typical dark filaments that
+he called you know erupting from the Sun
+here's a picture of what his friends
+were able to procure from their cameras
+and their imagery from you know a
+hundred years ago concurrently you see
+now they couldn't measure it to be
+concurrent it's like wow this is like
+happening at the same time but now we
+have instrumentation is saying well
+they're happening within milliseconds of
+each other so sapphire was result
+expectation now what this is pointing to
+is the things that we're gonna be going
+after we're going to be looking for ion
+acceleration now from my perspective I
+do physics I do engineering I do
+consulting and that's what I get paid
+for and I'm gonna tell you right now I
+accept that it takes a force to cause
+something to accelerate we all know that
+but what forces that I can see if you
+know if there's a coronal mass ejection
+it's possible that maybe the particles
+can maintain their velocity that's for
+me a little difficult to to handle I
+would expect them to decelerate but I
+sure would never expect them to
+accelerate as you know as they leave the
+Sun it's just not you know they don't
+start to expedia should they should do
+that but they do okay so does this
+happen well as a matter of fact it
+appears that it does happen in normal
+plasma discharge stellar coronal mass
+ejections are a normal characteristic to
+this process of plasma discharge upon
+matter what we've already seen in some
+of the photographs these types of
+discharges within the Tarawa so we'll
+expect to see those things solar
+photosphere tufting granulation can be
+expected so tufting means and we're you
+know we're going to end up with intense
+plasma charge on the surface we've seen
+some of the pictures earlier okay now
+we're just talking visual right now but
+we have got to a point now we can
+actually go in and measure these things
+electrically and spectrally and this is
+the key to success at fire success or
+it's you know as we move forward here
+stellar photosphere nuclear fusion
+vortices within the photosphere Tufts
+could be expected while those who are
+familiar with chickens know that there's
+calcium and every one of their eggs and
+there must be people have come to
+conclusion that there's fusion occurring
+within a chicken so does it have to be
+millions and millions of degrees where
+does the calcium come from you know they
+keep laying these eggs but the calcium
+doesn't appear to be coming out of their
+bones so you know calcium we know as
+being one of the beasts one of the
+elements right you know so where is this
+coming from so is it possible we'll see
+fusion you know I'm kind of excited this
+would be really cool you know so stellar
+a photosphere nuclear fusion vortices
+within a photosphere tufts can be
+expected Wow so a cellular photosphere
+cooler than a corona can be expected
+well I've four grandsons and I find this
+quite remarkable because this is really
+getting closer to what turned me on to
+the EU because you know where the gamma
+rays you know it's a nuclear explosion
+just well there isn't many so why is the
+photosphere cooler well my grandson
+knows the closer I get to a match you
+know the hotter it gets and I could tell
+you he's like a burnt finger you know so
+why is it cooler but but this appears to
+be a normal phenomenon of a plasma
+discharge hmm so my perspectives
+starting to add up to an electric model
+photosphere ik stability and contrast at
+higher level Asia higher elevations
+higher frequencies can be replicable in
+this model as a natural result of double
+layers formed within a stellar discharge
+with instability at higher frequencies
+so we're going to be getting of that a
+little bit later not too much detail
+here cyclic magnetic variation results
+from varying direct current electrical
+supply to a star the charged quasi
+neutral plasma interacting with
+positively charged body will exhibit the
+same characteristics regardless of
+stellar material and this is really what
+I was saying my first paper I don't
+really care what a star's made out of
+the spectrum is just an indication of
+the predominant elements
+okay so you can and that goes right back
+to crooks work he stuck some rubies in
+there lit up Brett
+you know he's took some green cheese
+maybe it'll come up with some other
+color but the bottom line is that every
+element is going to start radiating a
+particular spectral color depending on
+what you know I guess order magnitude
+the discharge it's being exposed to you
+know ice cream will probably melt but
+you know there's other elements in there
+that I think we're going to go after and
+this is where the spectroscopy comes in
+and you're going to find that the
+technology today is available to us to
+really really examine these things in a
+significant resolution in detail so
+sunspots the complex behavior due to
+varying cosmic discharge in magnetized
+body similar tennis arc generation to
+different points can be expected so
+we're going to expect a number of these
+things to occur in the experiment

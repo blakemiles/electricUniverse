@@ -1,0 +1,604 @@
+You've all heard all sorts of mention in
+the last couple of days and you will
+continue to hear mention of this thing called the
+Birkeland Current. And all of you, to a lesser or
+greater degree, have some idea about
+what is meant by that term. What I'd like
+to do is to give you some results that I've
+developed over the last year to try to nail down
+some of the properties of Birkeland
+Currents. There are some well-known
+properties of Birkeland Currents
+that I think most of you will know.
+In no particular order, the definition of it,
+it's the flow of electrical charge in space.
+So, that means there is an electrical
+current. The flow of charge - how many
+Coulombs pass up an observation point - in one
+second, constitutes the amperage of that current.
+Currents create magnetic fields. In other
+words, if you have a Birkeland Current , if you
+have a current, you will have a magnetic
+field. And if you have a magnetic field,
+you better remember that there's a current there
+that made it. Some astronomers lack that insight,
+I guess. One example of a Birkeland Current
+is the one that connects the Sun to the Earth,
+that powers up the Aurora Borealis and the Aurora
+Australis. And the man who discovered that fact,
+was Christian Birkeland, after whom those
+flows are named. He was dogged for years
+by a man whose name was Sydney Chapman,
+an astronomer who claimed that Birkeland was crazy.
+Obviously there could be no flow of current - of
+charge - through space. It would all dissipate.
+At first they said, well, space is an insulator,
+you can't get current through an insulator.
+Then they changed their mind and said, oh
+no, no, no, space is a perfect conductor.
+Well you can't have it both ways. Actually, the latter
+is closer to the truth. Space contains plasma and
+plasma is a very good, not perfect, but very good
+conductor. And so, when charge flows in a plasma, it has
+certain properties. There's a picture of what those
+Birkeland Currents look like. They come from the Sun
+and they drop down into that cone at the north
+pole and the south pole of the magnetosphere.
+Typical properties of Birkeland currents:
+They twist; they often come in pairs; they
+produce helical magnetic fields - we'll
+talk some about that. In fact, we'll talk
+a lot about that in the next half hour. Sometimes
+they're called ‘vortices’; they form filaments in sunspot
+penumbras. You've probably seen those. There's a picture
+of what they look like. On the right is a single Birkeland
+Current - you can see the twist. In the left-hand picture,
+when it's magnified, you can see they do very often
+come in pairs. They're very straight, typically. They
+can curve and twist too, but they are straight and
+that's a mystery. If you have a fire hose and
+you spray a fire hose, if I had one in my hand, I
+don't think I could hit somebody sitting in the back row
+of the room. The thing would dissipate. These things,
+contrary to Sydney Chapman, do not dissipate.
+And the question is why, and I hope to answer
+that this morning. They connect stars in strings.
+A number of years ago, you've probably
+heard somebody say, “Gee, it looks like those stars
+form in strings.” Astronomers say, “No, no that's an
+optical illusion, they don't form in strings.”
+Yes, they do form in strings and those
+strings are Birkeland Currents. The
+Birkeland Currents also connect galaxies.
+Just a couple of weeks ago, I think Wal
+mentioned this the other day, there was
+an announcement in Science Digest that
+astronomers - Australian astronomers,
+coupled with some [astronomers] here -
+have discovered that galaxies do indeed
+form on strings, which is a big reversal.
+Anyway, I developed over the last year a method
+for taking a close look at what the magnetic
+field is - what it looks like, the structure of
+it, around the Birkeland Current. Let's just assume,
+in your mind's eye for a second, in space you've got this
+bunch of charges that are flowing
+along. What will happen? I've just
+said they'll make a magnetic field. Sure,
+but what will the shape of that field be,
+and what will the properties of that that whole
+operation look like? I've discovered, because of the
+results of this work, that the magnetic
+force fields that surround Birkeland Currents
+reach out vastly - and I can't overemphasize that
+word too much - vastly farther into space than
+previously thought. The magnetic fields that
+the Birkeland Currents create, wrap around them,
+similar to the bindings of Roman fasces.
+You know the fascist business? You
+can take a bunch of sticks and wrap
+it up and it's much stronger with the
+wrapping than the individual sticks
+would be. I searched the internet for a
+picture of a Roman fasces and that's the best one I can
+come up with. Clearly, that winding goes around in one
+direction, but in reality - maybe not on that picture -
+it also wraps around, going back from left to right and
+right to left. I'll talk more about that
+in a second. What is a minimum energy
+field? Somebody mentioned that the other day.
+In nature, stuff tends to seek a minimum energy.
+Water runs downhill. Perfume spreads out - will
+diffuse - right up uncorking the perfume bottle. In
+a few minutes the people in the back of
+the room would smell the perfume. People
+in the front row would smell it first, and after a while,
+if I left it open long enough, there would be a level
+concentration of perfume throughout the room.
+And so, stuff just tends to shrink away. If you
+push on it, it'll move away to avoid the
+push. And it's a natural thing. Lightning
+follows whatever path seems to lead downward
+to a lower voltage. Planets. One of the primary
+claims of the Electric Universe is that the
+separation of the planets is due to a push-pull, back
+and forth, a jockeying. Many people don't
+realize that the planet Venus has a long tail.
+That tail carries electric charge and
+it just flicks the outer regions of our
+magnetosphere as Venus passes
+between us and the Sun. And if
+we get too close, our theory is that it is a push.
+On Earth electricity goes wherever you lead it.
+The wire goes like that, that's the way the current
+is going to go. Provided, of course, you put a
+voltage at one end and a lower voltage
+at the other end, so that the charge can
+flow downhill to a minimum energy. In space
+however, it goes wherever it wants to, because
+there are no wires. So that lightning,
+that charge moving through space, (in this
+case through our atmosphere) is following
+a path that it wants to, to get from a
+higher voltage to a lower voltage, why doesn't it go
+in a straight line? Well, because it meets up with all
+sorts of stuff in the atmosphere. Little
+regions, clouds of charge, changes in
+humidity, maybe a cloud or something here
+or there. It is going as it senses downhill, just
+the way water would ripple down
+over the surface of a mountainside.
+And of course, if you really get out in
+space, it does go where it wants to,
+as long as you leave it alone, as long
+as you don't put any rocks in its path.
+As long as you don't put a magnetic field there
+that will disturb the direction of that flow.
+That's the jet from the M87 [galaxy].
+And that jet is several hundred light years
+long. See how well it's collimated. It's a
+heck of a lot better than your garden hose.
+So the question is why is it collimated?
+Why does it stick together like that?
+Well, there's one thing that even that jet
+from M87 senses and that is the Lorentz force.
+There's a current there, right? And if there's
+a current, you know there's a magnetic field.
+Well, if a current crosses over a magnetic
+field, you get what's called the Lorentz force.
+This is as complicated as the talk
+gets. So, don't sweat. If you point
+your red arrow in the direction of
+the current flow and it crosses a
+magnetic field, that's the direction of
+the blue arrow. And you point your
+fingers in the direction of the red arrow,
+and then move your fingers toward the
+direction of the blue arrow. So, we
+start with the current and then move
+toward the magnetic field. Your thumb
+is going to be in the direction of the
+force that those charges are going to
+experience. In other words, in this
+situation, the charge which is flowing from left to
+right will start to curl up. That's how cyclotrons
+work. You know the things go around in a circle
+and the radius is called the Larmor radius.
+Well, anyway that's the only force that charge
+moving in free space - if you leave it alone - will
+suffer. It'll feel that Lorentz force.
+I realized that - and I didn't invent that
+idea, I just realized it - and then I
+found in Tony Peratt's book an equation
+that says if you want to have a cosmic Birkeland
+Current at a minimum energy, suffering no forces,
+the way to get the Lorentz force to zero,
+is to have that Birkeland Current look
+like this. And out comes this big equation. Now
+if you're a mathematician - and I am surely not -
+then you can visualize what that
+structure has to be. Well, I looked at
+that equation for a long time and as I say
+this talk is a non-mathematical talk, but...
+[Quoted link is invalid] ... you can see
+the paper and you can wallow around in
+the mathematics as much as you want to.
+What I did was when I got that equation,
+I plugged it into a computer and did an
+iterative solution, almost exactly the
+same as Dr. Wolf was talking about,
+in the generation of fractals. You get the
+equation, pick a number, stick it in and
+see what you get. And take that number
+and stick it back in the equation and see what
+that produces. And eventually you get this trail.
+Well, I didn't generate anything as
+wild as a fractal, but I did come up
+with a solution. I will show you the
+solution in a second. But the purpose was
+to get an equation which would result in a
+Birkeland curve, that is free. Left alone.
+Leave it on its own devices, what will it look like?
+To understand this, we have to talk a
+little bit about cylindrical coordinates.
+Is there anybody who doesn't have any
+idea what a cylindrical coordinate is?
+Cartesian coordinates are the x, y and z
+ in there. You see the x, y and z?
+z is the vertical axis. x is coming out
+at you, and y is going from left to right.
+We want to specify the position of a
+point like this guy up here. You can
+specify: it's this far in the x-axis,
+this far in the y-axis and this far in the z-axis.
+That's the point. Cylindrical coordinates is the same
+thing, except instead of the x- and y- 
+axes (you still use the same Z-axis),
+but instead of x and y, you replace x and
+y by, at what angle are you from the
+center of this cylinder, from this pipe?
+And how far out are you? So,
+think about a Birkeland Current.
+Think about an oil pipeline or a water
+pipeline. It doesn't make any difference
+where z is particularly, because it's all
+the same. Things don't change in a
+cylinder. It doesn't even depend on where
+you are in theta, because it's 
+symmetrical. It doesn't make any
+difference where you're at the three
+o'clock position, the six o'clock position,
+where you are. The radius, oh yes, that
+makes a big difference. How far you are
+out from the center of the thing. That is critical.
+So, I'm trying to plot the magnitude and
+the direction of the magnetic field, and that's 
+this B vector. The B Vector has two components,
+one in the direction of the flow - z, and 
+one in the wrap-around direction, the
+theta direction. So, if you can come up
+with a solution that will enable you to tell
+what B(z) is and what B(theta) is,
+how strong they are for any given
+radius you are out from the center of
+this thing, then you can predict and plot
+what the magnetic field is going to look like.
+OK, now hold on to your seats because
+there's the answer. It may not make much
+sense looking at it, but let me see if I can
+explain what I'm talking about. The black line
+is the strength - it starts off there at 1 - of
+the axial magnetic field, B(z). That's how
+strong the field is along the axis of the flow.
+The red component is the strength
+of the wraparound field [B(theta)].
+The horizontal axis here is not time.
+Please, it's not time. It's the radius, the
+radial distance you are out from the center of this flow.
+So, can you begin to see what's going to happen?
+Right at zero, or as close to the vertical
+axis as we can get, the wraparound - the red -
+there is no wraparound field. It's 
+all parallel; the magnetic field is
+exactly in the same direction as the current.
+And then, as you begin to come away from -
+that is increase the radius - that axial field 
+component.... Of course you know the sum
+of the two vectors B(z) and B (theta) is the B that
+we're looking for. So, what's the sum of two component
+vectors? Well, it's the square root of the sum of 
+the squares, right? Well, that's the light blue curve.
+So, the light blue curve, the cyan curve,
+is the total strength of the magnetic field
+as a function of how far you come out
+from the center of a Birkeland Current.
+And other than maybe a couple 
+of little ripples at the close-in,
+small values of r, it comes down pretty well,
+decaying like any decaying exponential right?
+Well, no not like any decaying exponential.
+The purple curve is one over the square root of r.
+Most people will say OK. If you know
+what we are so proud of in the Electrical
+Universe and that is we're always saying to the
+astronomers that gravity goes down as one over r squared,
+and the magnetic field from a wire carrying a current
+goes down as only 1/r. That's a much less rapid decay.
+1/r is much less rapid than one over r squared.
+This goes down as one over the square root of r.
+So, this stuff reaches out into space
+much farther than we had heretofore
+thought, because there are no wires up
+there. We don't get any 1/r decay. We
+get a one over the square root of r decay,
+which means this stuff has a much
+wider effect than we had ever sensed
+before. Also, if you think about it, try to
+visualize in your mind's eye what's going to happen
+as you go out to higher values of r. First, the
+axial strength is getting weaker and the
+red curve is building up to a maximum.
+That maximum occurs almost (not
+during the first cycle but the other
+cycles) - it's almost exact - the maximum 
+of the curlicue kind of the curling around
+field occurs when the axial field component 
+is zero. So, what that means is, just look at these
+11 plots. Just look at step number 1.
+Think of yourself as you’re above this
+Birkeland Current that’s in the cylinder.
+The cyan-colored arrows are the
+direction of the field. The whole field,
+because there is no wrap-around.
+And then, as you come to step number 2,
+that's a little farther away from the
+axis of the flow, and you can see that the
+curl-around field begins to contribute. The
+axial field gets weaker and the
+whole thing begins to tilt. And so,
+this magnetic field begins to wrap
+like a fasce around the current.
+In step number 3 you see that the
+wrap-around field is stronger yet.
+The white arrows in each of these successive
+diagrams [are a repeat of the previous one]
+and so each successive diagram is
+one layer higher, away from the
+center of this flow. The white field shows
+what is happening just below the blue field.
+Eventually, when you get to somewhere out here
+between 4 and 5, you can see that the white
+arrows are really zero. Notice there is no
+axial magnetic field. It's all wrap- around.
+It's just as though you took tape and
+just wrapped it around that pipe.
+And then, as you go farther and farther
+away, the axial field actually reverses
+direction, begins to come back at you and so
+the curl is down. And then... when you get to
+number 6, the axial field has reversed and is just
+against you. Again, what's going on between 6 and 7?
+Well,... at 6 the wraparound field is zero
+and at 7 it's beginning to wrap the other way.
+So, first of all it wraps this way. Then it goes back
+down that way. Perhaps some of you have seen that
+diagram that was published by one of
+our EU heroes, Hannes Alfven. You can
+see that the red arrow is right near the center of the
+flow, and (what should I say) the pitch of it is not
+very high at all. Then the farther out
+you get, like you go to the blue arrow
+then the pitch is less. It's a finer thread, if you will.
+And then finally out to the green arrow,
+well that's out there somewhere between my diagram 3 and 4.
+The axial field is zero and the thing just goes
+around. That's fine as it goes.
+As far as it goes, Alfven was right.
+He just didn't go far enough, because 
+the next radius out, bigger than the green
+circles there, would produce something like the blue,
+except with a wider radius. And instead of going up, it
+would come down. Let me give you
+an analogy. The perfume bottle when I
+opened it, would go to all corners of the room.
+It would spread out in all dimensions.
+This is also a minimum-energy field and that
+means that this magnetic field is going to wrap
+around the current, every possible way it can.
+And so it isn't just going to go clockwise and then stop.
+It's going to go clockwise and then
+counterclockwise, and come back down again. So,
+the question is, well so what?
+Well, here's the comparison of the field
+strengths. The yellow curve is one
+over the square root of r. The purple
+curve is the wire's magnetic field
+which is 1/r, and if you look at a
+couple of different radial distances,
+there my observation number 2 says
+that the Birkeland Current magnetic field
+is 32 times stronger than gravity at r=10.
+And it's even 3.2 times stronger than the previous EU
+estimate which [was based on] the magnetic field in a wire.
+But there aren’t any wires out there,
+So, therefore it spreads out even farther.
+The Lorentz force compresses matter at
+various radial fields, I don't know how
+much longer I got here, but let me just try to
+give you what I think is the most important thing.
+Here's a picture that looks like a bullseye,
+as you're looking down a Birkeland Current.
+[Pay attention to the thin little
+black circles with numbers. The numbers
+at the various radius distances correlate with the
+numbers that you see in the field strength figure below].
+For example at about 31. That's a 
+place where the axial strength is zero.
+So what you've got is simply the
+wraparound magnetic field, the red is at a
+maximum, and so there's what I've tried to draw
+there at 31, you can see that's a strong wraparound
+current. If you come out to radius 73,
+you can see that again, you're at a
+point where the wraparound field is very 
+strong. The axial field is zero and so what you
+got is the thing goes around the other way.
+Okay, so what? Well, consider yourself
+as a positive charge and you're
+heading down the highway here.
+You are going to either intercept,
+depending on how far your path is,
+whether you're right at the center or
+whether you're a little bit farther out
+from the center of this flow, are you in
+the right hand lane or the high-speed
+lane, you're going to encounter either this
+(at that point) downward magnetic field,
+or, if you're out here, you'll encounter an upward
+magnetic field. You see it? Well, now think about
+the Lorentz force. If you're at radius 31,
+you're going that way, the magnetic field is down,
+and so you've got a force pushing you in
+toward the center. Remember the Lorentz force:
+you put your fingers in the direction
+of the flow of a current charge,
+then change them into the direction of
+the magnetic field and your thumb tells
+you what the push is going to be. So you've got current
+going in at radius 31. You've got a magnetic field
+downward. So, in, down, the force is in. So any charge
+around the radius 31 is going to be squeezed into
+the middle. Is that good? Yes, it's good 
+because in the middle you've got a very strong
+axial [magnetic field]. The black line is at a maximum.
+You got a strong field going that way.
+Then you have nothing in any other 
+direction. And when the current
+wants to go in the same direction 
+as the field, it's a super highway.
+So, that's why these Birkeland 
+Currents work so well, right in that first
+little area. What about the rest of it? Well, you can 
+spend some time doing this kind of stuff, but for
+example at radius 75, look at 75.
+The z- field is zero and you got a counter-
+rotating magnetic field and so what happens?
+You're heading into the board. You're a plus charge.
+and you put your fingers in the direction of your
+flow, and then you look at the magnetic field: it's up.
+Okay, your fingers are there, go up, out. So, any 
+charge that's flowing around radius 73, is going to be
+expelled outward from the flow. And so, 
+every time you come to one of these reversals,
+you're going to be pushed either in or out.
+And that's what I've done. I've tried to
+mark in the pink as where the charges 
+end up. Okay. I hope it's clear. If you look
+at this long enough, it becomes clear, 
+I guess... Pick anything, like pick 136.
+What's going on here? Well, at 136 you
+look along over here someplace that's right
+there, that says that the wraparound field is zero 
+and the axial field is negative. So, at 136 there is no
+wraparound field. It's zero, and this magnetic
+field is coming at you. Doesn't that defeat the
+purpose? You don't want any current flowing
+back, you want current going that way.
+Well, you notice there's no charge carriers 
+there. Because at 136, they're either pushed
+that way into this, sort of first shell,
+or they're pushed outward to that shell.
+So, regions like 51 and 136 radius, out here is
+another one at 220, it's sort of like a super highway.
+But there's no cars on the highway.
+There's no charge carriers there.
+I hope I've shown that at certain places,
+at certain radii, it's easy for current
+to flow, and other places it's hard for
+current to flow and certainly because of
+the counter-rotating wraparound field,
+charges will tend to form in these
+layers. So, these layers are concentric
+cylinders. This is the same sort of
+result that Marklund came up with, with Marklund
+convection. If any of you are familiar with that.
+Marklund, a Swedish scientist/engineer I think,
+developed almost the same thing except his
+mechanism is predicated on the idea that you've got
+a variety, a spectrum of different types of elements,
+and he found that what goes to the center are the
+easily ionizable elements. To me it's very counter-
+intuitive. Iron and stuff like that are
+easy to ionize, so you'll find iron and
+the heavy elements in the middle.
+And one of the hardest elements
+of all (which seems absolutely nuts to me, but 
+it is true) to ionize is hydrogen. And hydrogen
+is on the outside. So, that's Marklund convection.
+He's got the same result as this. That is there are
+concentric cylinders and there's a
+selectivity as to what kind of elements
+you're going to find in which layer. And
+that's great. My result is independent of
+what you've got there. In other words,
+this will happen no matter what the stuff is that's
+flowing. It could be just protons, it could be 
+electrons. If all you have is electrons,
+everything I said, just reverse it.
+It goes the other way, it's no problem.
+But the same kind of selectivity the same kind of
+forming these concentric layers will occur. Well,
+is this true? Well there's a famous picture
+of Saturn's north pole. It's also the famous
+hexagon in the middle. You see the little
+one right in the middle and my results
+here do not predict that hexagon. I wish they did,
+but they don't. But they do predict those circles.
+Here's a Birkeland Current coming down into
+Jupiter's north pole. Same sort of thing.
+there are concentric circles. That's where the charge 
+hits. That's where the charge is concentrated.
+And the wrapping around, by the way, I don't have
+any slide to show it but the the way this crazy
+’going this way and then back that way’ it's wrapped
+like a Roman soldier. In World War I the soldiers
+wore patisse, wrapped around their leg.
+I think they only wrapped them in one direction.
+But if you wrap them all the way down
+and then come wrapping them about the
+other way and then back down the other
+way, you got a real wrap. And that's a real
+reason, in my mind, that the whole thing
+hangs together, and doesn't dissipate.
+Here's a picture from Tony Peratt's lab.
+That's a dense plasma focus device
+and you can see the circularity of it. You can
+almost see this circle going one way and then going
+the other way. Here's a picture that
+C.J. Ransom and Mel Acheson can be
+proud of. They made that one in CJ's lab. And 
+again that's the result of a high amperage current.
+Probably, CJ if he's here, can tell you 
+what the surface, the substrate is.
+But you can see, it forms a bullseye.
+And the strongest one is of course
+that one right in the middle. So, that's
+because of the properties, I think we've
+identified here as the properties of a Birkeland 
+Current. We, Wal, me, a few other of us
+nuts, are convinced that what you're
+looking at there is a Birkeland Current.
+A Birkeland Current that's undergoing a z-pinch,
+and you can see, I think very obviously,
+that the Birkeland Current consists of
+concentric cylinders. You can see the
+outside too certainly. And the center one I
+think that that, and that, are double layers
+in a central stream of current. Whether
+the current's going all one way or all
+the other, we've talked for hours on 
+this and we still can't figure it out. But I
+would say if that is indeed a Birkeland
+Current, all the currents going one way
+on the outer sheath, whether it goes
+in the opposite direction in the center,
+I don't know. But certainly, it can go
+whichever way it wants to because in the center,
+the magnetic field is lined up with the flow of
+charge, no matter which way it's going.
+And so it goes for free. It's a super highway.
+Anyway, that Planetary Nebula M2-9 that's not Messier.
+Somebody else quoted Walt Whitman,
+so I didn't want to be left in the lurch.
+And after all this lecture of numbers and all this
+he says he looked up in perfect silence at the stars.
+You have to look. And I submit that's one of the
+primary rules of the Electric Universe. That is,
+let your eyes tell you and that is a
+concentrically-made sheet of current.
+Again, just looking downstream, that's 
+what you see in a Birkeland Current.
+And there's that picture of Saturn. I submit that's 
+pretty darn good evidence. Anyway, thanks.
+[Applause]
+[Music]

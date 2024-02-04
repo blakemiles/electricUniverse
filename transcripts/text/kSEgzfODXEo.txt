@@ -1,0 +1,372 @@
+[
+  {
+    "text": "[Music]",
+    "start": 2.3,
+    "duration": 5.37
+  },
+  {
+    "text": "We recently looked at the new discovery of filament\nstructures that were located in our neighborhood.",
+    "start": 11.51,
+    "duration": 5.21
+  },
+  {
+    "text": "We also saw that the nearest open star\ncluster to us revealed an important part",
+    "start": 16.72,
+    "duration": 4.63
+  },
+  {
+    "text": "of the filament structure of the galaxy spiral \narms. Mainstream science agrees that much of",
+    "start": 21.35,
+    "duration": 5.68
+  },
+  {
+    "text": "the interstellar medium is not simply filled with \nempty space. Instead, they see that it is a",
+    "start": 27.03,
+    "duration": 5.68
+  },
+  {
+    "text": "hierarchical structure and facilitates\nthe formation of filaments that are",
+    "start": 32.71,
+    "duration": 4.33
+  },
+  {
+    "text": "governed by the galactic potential on a large scale.\nWe already know that there is a network of",
+    "start": 37.04,
+    "duration": 6.0
+  },
+  {
+    "text": "hydrogen filaments that is structured\nmostly parallel to the galactic plane.",
+    "start": 43.04,
+    "duration": 5.19
+  },
+  {
+    "text": "In 2010, astronomers discovered a highly\nfilamented dark cloud which they called Nessie.",
+    "start": 48.23,
+    "duration": 6.41
+  },
+  {
+    "text": "They believe that it is one of the first\nfilaments whose morphology is likely",
+    "start": 54.64,
+    "duration": 4.64
+  },
+  {
+    "text": "governed by the structural dynamics of the galaxy.\nBecause of this, they dubbed this type of",
+    "start": 59.28,
+    "duration": 5.19
+  },
+  {
+    "text": "filament the bones of the Milky Way as\nthey think that its formation, evolution,",
+    "start": 64.47,
+    "duration": 5.13
+  },
+  {
+    "text": "and shape could be closely linked to the global spiral\narm structure. Within molecular clouds they discovered",
+    "start": 69.6,
+    "duration": 6.96
+  },
+  {
+    "text": "giant molecular filaments. These seem to have the\nhighest masses, while exhibiting the lowest column",
+    "start": 76.56,
+    "duration": 6.23
+  },
+  {
+    "text": "densities and star forming activity, making them good\ncandidates to be intermediate descendants of the atomic",
+    "start": 82.79,
+    "duration": 7.45
+  },
+  {
+    "text": "interstellar medium structures. These \nstructures are not only associated",
+    "start": 90.24,
+    "duration": 4.64
+  },
+  {
+    "text": "with spiral arms, but are also located\nin inter-arm regions. The recently",
+    "start": 94.88,
+    "duration": 5.76
+  },
+  {
+    "text": "discovered Radcliffe wave is yet another\nexample of filaments in our local neighborhood.",
+    "start": 100.64,
+    "duration": 5.43
+  },
+  {
+    "text": "Even in their own simulations they found that giant\nmolecular clouds often form as large filaments.",
+    "start": 106.07,
+    "duration": 8.0
+  },
+  {
+    "text": "Now obviously, they see the formation\nprocess a little differently and quote",
+    "start": 114.07,
+    "duration": 4.4
+  },
+  {
+    "text": "things like “In our simulations the\ngalactic shear between the spiral arms",
+    "start": 118.47,
+    "duration": 4.89
+  },
+  {
+    "text": "plays a critical role in the formation\nof highly filamented structures.” Their",
+    "start": 123.36,
+    "duration": 4.72
+  },
+  {
+    "text": "assumption is also that these giant\nmolecular clouds tend to sustain their",
+    "start": 128.08,
+    "duration": 4.72
+  },
+  {
+    "text": "large filamentary shape, before entering\nthe spiral arms, where they are prone to",
+    "start": 132.8,
+    "duration": 5.2
+  },
+  {
+    "text": "being disrupted by local events of\nstar formation and stellar feedback.",
+    "start": 138.0,
+    "duration": 5.04
+  },
+  {
+    "text": "And yet, we have examples of large filaments\nthat are located in our neighborhood.",
+    "start": 143.04,
+    "duration": 5.76
+  },
+  {
+    "text": "Peering through our galaxy is not easy,\nand now astronomers think that they have",
+    "start": 148.8,
+    "duration": 4.48
+  },
+  {
+    "text": "spotted a massive filament of atomic hydrogen.\nThis is one of the largest structures ever",
+    "start": 153.28,
+    "duration": 5.76
+  },
+  {
+    "text": "observed in our galaxy. It is \nlocated about 55,000 lightyears",
+    "start": 159.04,
+    "duration": 4.96
+  },
+  {
+    "text": "away on the other side of the Milky Way.\nThe research is based on data obtained",
+    "start": 164.0,
+    "duration": 5.68
+  },
+  {
+    "text": "by THOR, an observational program that\nrelies on the Very Large Array in New Mexico.",
+    "start": 169.68,
+    "duration": 6.4
+  },
+  {
+    "text": "The project studies molecular cloud\nformation, the conversion of atomic",
+    "start": 176.08,
+    "duration": 3.92
+  },
+  {
+    "text": "molecular hydrogen, the galaxy's magnetic\nfield, and other questions related to",
+    "start": 180.0,
+    "duration": 4.87
+  },
+  {
+    "text": "interstellar medium and star formation.\nThe ultimate purpose is to determine how",
+    "start": 184.87,
+    "duration": 6.17
+  },
+  {
+    "text": "the two most common types of hydrogen gas converge\nto create dense clouds that give rise to new stars.",
+    "start": 191.04,
+    "duration": 7.68
+  },
+  {
+    "text": "These two types are atomic hydrogen and\nmolecular hydrogen. The process of how",
+    "start": 198.72,
+    "duration": 5.28
+  },
+  {
+    "text": "atomic hydrogen transitions to molecular\nhydrogen, is still largely unknown, which",
+    "start": 204.0,
+    "duration": 5.2
+  },
+  {
+    "text": "is why finding this huge filament is so important.\nTo put the size into context, the largest",
+    "start": 209.2,
+    "duration": 6.39
+  },
+  {
+    "text": "known clouds of molecular hydrogen are\naround 800 lightyears in length. This",
+    "start": 215.59,
+    "duration": 5.28
+  },
+  {
+    "text": "new cloud which they call Maggie, measures just shy\nof 4,000 lightyears long and 130 lightyears wide.",
+    "start": 220.87,
+    "duration": 8.33
+  },
+  {
+    "text": "More interesting is that parts of this\nfilament extend about 1,600 lightyears",
+    "start": 229.2,
+    "duration": 4.8
+  },
+  {
+    "text": "below the plane of the Milky Way.\nWhen they analyze the speed of the",
+    "start": 234.0,
+    "duration": 4.4
+  },
+  {
+    "text": "material moving in the filament, they\ndetermined that it had a mean velocity",
+    "start": 238.4,
+    "duration": 4.16
+  },
+  {
+    "text": "of 54 kilometers per second. They \nwere also able to show that the",
+    "start": 242.56,
+    "duration": 4.48
+  },
+  {
+    "text": "velocities along the filament barely differ.\nThey determined that this filament might",
+    "start": 247.04,
+    "duration": 5.36
+  },
+  {
+    "text": "be remotely linked to the global spiral\narm structure of the Milky Way.",
+    "start": 252.4,
+    "duration": 4.55
+  },
+  {
+    "text": "They were not able to detect any carbon\nmonoxide emissions or dust in the",
+    "start": 256.95,
+    "duration": 3.93
+  },
+  {
+    "text": "filament, and there were no signs of\nnew stars forming along the filament.",
+    "start": 260.88,
+    "duration": 4.8
+  },
+  {
+    "text": "On closer inspection, the team noticed\nthat the gas converges at various points",
+    "start": 265.68,
+    "duration": 4.48
+  },
+  {
+    "text": "along the filament which led them\nto conclude that the hydrogen gas",
+    "start": 270.16,
+    "duration": 4.31
+  },
+  {
+    "text": "accumulates into large clouds at these locations.\nThe Maggie filament discloses a hub-like",
+    "start": 274.47,
+    "duration": 5.77
+  },
+  {
+    "text": "feature in the East, on which small-scale\nfilaments appear to converge, and a tail",
+    "start": 280.24,
+    "duration": 5.36
+  },
+  {
+    "text": "that thins out towards the West. The North-Western\npart shows a connection to the midplane, potentially",
+    "start": 285.6,
+    "duration": 6.48
+  },
+  {
+    "text": "feeding off hydrogen material located at higher\nlatitudes. So, many of you will not be surprised by",
+    "start": 292.08,
+    "duration": 6.48
+  },
+  {
+    "text": "these findings, but is there more that\nwe can learn from these observations?",
+    "start": 298.56,
+    "duration": 5.04
+  },
+  {
+    "text": "An important point to note is that,\nalthough these filaments are composed of",
+    "start": 303.6,
+    "duration": 3.76
+  },
+  {
+    "text": "atomic hydrogen, that doesn't mean that they are\nnot a plasma. Even if only one atom in 10,000 is",
+    "start": 307.36,
+    "duration": 6.96
+  },
+  {
+    "text": "ionized, it can be considered a plasma. Therefore\nthe motion will be dominated electromagnetically.",
+    "start": 314.32,
+    "duration": 6.71
+  },
+  {
+    "text": "If we examine the overall structure of\nthe filament and look at the centroid",
+    "start": 321.03,
+    "duration": 3.93
+  },
+  {
+    "text": "velocity, we can see that\nthis speeds up and slows down.",
+    "start": 324.96,
+    "duration": 4.56
+  },
+  {
+    "text": "What might cause the velocity to speed up?\nAround these areas we also see a much",
+    "start": 329.52,
+    "duration": 5.44
+  },
+  {
+    "text": "higher density of the cloud. This is likely an indi-\ncation that electromagnetic pinching is occurring.",
+    "start": 334.96,
+    "duration": 7.04
+  },
+  {
+    "text": "This would tend to compress the material, increasing\nthe density, and also increasing the velocity.",
+    "start": 342.0,
+    "duration": 6.16
+  },
+  {
+    "text": "In larger, more dense filaments, these are probably\nthe areas where most star formation is taking place.",
+    "start": 348.16,
+    "duration": 6.96
+  },
+  {
+    "text": "At these points we would also expect\nMarklund convection to be strongest,",
+    "start": 355.12,
+    "duration": 4.4
+  },
+  {
+    "text": "creating a greater spread of material around these\npoints, which is what we see to some extent in",
+    "start": 359.52,
+    "duration": 6.0
+  },
+  {
+    "text": "the images of the filament so far obtained.\nIn Marklund convection, a hydrogen is the",
+    "start": 365.52,
+    "duration": 5.2
+  },
+  {
+    "text": "outermost ion from the center axis which becomes\ndeionized or recombines with an electron.",
+    "start": 370.72,
+    "duration": 6.0
+  },
+  {
+    "text": "The diffuse nature of Maggie and \nthe lack of a CO signal, except on the",
+    "start": 376.72,
+    "duration": 4.24
+  },
+  {
+    "text": "smaller scale along the axis, suggests\nthat this is a juvenile filament.",
+    "start": 380.96,
+    "duration": 5.44
+  },
+  {
+    "text": "One important aspect is also that they\nsee the movement of the material in the",
+    "start": 386.4,
+    "duration": 4.48
+  },
+  {
+    "text": "filament. This once more confirms the\nidea, that it is the movement of this",
+    "start": 390.88,
+    "duration": 4.96
+  },
+  {
+    "text": "material in the filaments, which powers\nthe stars that reside in them.",
+    "start": 395.84,
+    "duration": 6.76
+  },
+  {
+    "text": "[Music]",
+    "start": 407.59,
+    "duration": 27.13
+  }
+]

@@ -1,0 +1,372 @@
+[
+  {
+    "text": "Welcome to Space News from\nthe Electric Universe,",
+    "start": 0.0,
+    "duration": 2.842
+  },
+  {
+    "text": "brought to you by The\nThunderbolts Project™",
+    "start": 2.867,
+    "duration": 2.316
+  },
+  {
+    "text": "at Thunderbolts.info",
+    "start": 5.208,
+    "duration": 3.514
+  },
+  {
+    "text": "New scientific reports are\nagain forcing planetary",
+    "start": 9.787,
+    "duration": 2.644
+  },
+  {
+    "text": "scientists to rewrite the\nhistory of our Moon.",
+    "start": 12.456,
+    "duration": 3.869
+  },
+  {
+    "text": "A new study into the lunar surface\ncontradicts the notion that",
+    "start": 16.35,
+    "duration": 3.646
+  },
+  {
+    "text": "cratering on the moon occurs\nincrementally over vast eons of time.",
+    "start": 20.021,
+    "duration": 4.774
+  },
+  {
+    "text": "A team of scientists studied\nseveral thousands of",
+    "start": 24.82,
+    "duration": 2.75
+  },
+  {
+    "text": "before-and-after images of\nthe Moon's surface",
+    "start": 27.57,
+    "duration": 2.759
+  },
+  {
+    "text": "with the visual data covering\nnearly a million square miles.",
+    "start": 30.354,
+    "duration": 4.046
+  },
+  {
+    "text": "What they found is that lunar\ncratering appears to occur at a rate",
+    "start": 34.654,
+    "duration": 3.566
+  },
+  {
+    "text": "more than 100 times faster than the\nstandard impact model has predicted.",
+    "start": 38.245,
+    "duration": 4.776
+  },
+  {
+    "text": "The lead author of\nthe study states:",
+    "start": 43.046,
+    "duration": 2.549
+  },
+  {
+    "text": "\"Before the Lunar Reconnaissance\nOrbiter was launched in 2009,",
+    "start": 45.62,
+    "duration": 4.023
+  },
+  {
+    "text": "we thought that it took\nhundreds of thousands",
+    "start": 49.668,
+    "duration": 2.475
+  },
+  {
+    "text": "to millions of years to change the\nlunar surface layers significantly.",
+    "start": 52.168,
+    "duration": 3.808
+  },
+  {
+    "text": "But we've discovered that the\nmoon's uppermost surface materials",
+    "start": 56.001,
+    "duration": 3.221
+  },
+  {
+    "text": "are completely turned over in\nsomething like 80,000 years.\"",
+    "start": 59.247,
+    "duration": 3.959
+  },
+  {
+    "text": "A Phys.org report on\nthe study states:",
+    "start": 63.293,
+    "duration": 3.137
+  },
+  {
+    "text": "\"The number of craters is\ngreater than anticipated",
+    "start": 66.455,
+    "duration": 2.642
+  },
+  {
+    "text": "by standard impact-modeling\nrates used by lunar scientists.",
+    "start": 69.122,
+    "duration": 4.435
+  },
+  {
+    "text": "The discovery has the effect of giving\nlunar surface features younger ages.",
+    "start": 73.582,
+    "duration": 4.805
+  },
+  {
+    "text": "Theory says that a lunar geologic\nunit should accumulate a certain",
+    "start": 78.412,
+    "duration": 3.53
+  },
+  {
+    "text": "number of craters of a given size\nin a million years, for example.",
+    "start": 81.967,
+    "duration": 3.863
+  },
+  {
+    "text": "But if it turns out that impacts\nare making craters more quickly,",
+    "start": 85.855,
+    "duration": 3.455
+  },
+  {
+    "text": "then it takes less time to\nreach the benchmark number,",
+    "start": 89.335,
+    "duration": 2.934
+  },
+  {
+    "text": "and the geologic unit is in reality\nyounger than theory predicts.\"",
+    "start": 92.294,
+    "duration": 4.316
+  },
+  {
+    "text": "Unfortunately, the only process\nthe scientists have considered",
+    "start": 96.635,
+    "duration": 3.723
+  },
+  {
+    "text": "for the astonishingly high rate of\ncratering is impacts from space.",
+    "start": 100.383,
+    "duration": 4.378
+  },
+  {
+    "text": "However, many of recent discoveries\nreported on this series should",
+    "start": 104.786,
+    "duration": 3.431
+  },
+  {
+    "text": "provide a doorway to alternative\ntheoretical possibilities.",
+    "start": 108.242,
+    "duration": 4.055
+  },
+  {
+    "text": "A clue can be found in\ninvestigations into dramatic",
+    "start": 112.432,
+    "duration": 3.361
+  },
+  {
+    "text": "electrostatic dust raising events on\nvarious bodies in the solar system.",
+    "start": 115.818,
+    "duration": 4.426
+  },
+  {
+    "text": "In August, we reported on a recent\nNASA funded study which confirms",
+    "start": 120.269,
+    "duration": 4.687
+  },
+  {
+    "text": "that electrostatic dust transportation\noccurs on airless bodies in space.",
+    "start": 124.981,
+    "duration": 4.656
+  },
+  {
+    "text": "This includes the electrostatic dust\nstorms and electrical discharges",
+    "start": 129.662,
+    "duration": 3.723
+  },
+  {
+    "text": "that are regularly\nobserved on the Moon",
+    "start": 133.41,
+    "duration": 2.102
+  },
+  {
+    "text": "when it passes through\nthe Earth's magnetotail.",
+    "start": 135.537,
+    "duration": 2.578
+  },
+  {
+    "text": "As described by NASA\nscientist Tim Stubbs:",
+    "start": 138.14,
+    "duration": 2.915
+  },
+  {
+    "text": "Earth's magnetotail extends well\nbeyond the orbit of the Moon",
+    "start": 141.08,
+    "duration": 3.245
+  },
+  {
+    "text": "and once a month the\nMoon orbits through it.",
+    "start": 144.35,
+    "duration": 3.1
+  },
+  {
+    "text": "It's gonna have consequences\nranging from lunar dust storms",
+    "start": 147.475,
+    "duration": 3.127
+  },
+  {
+    "text": "to electrostatic discharges.",
+    "start": 150.627,
+    "duration": 2.45
+  },
+  {
+    "text": "Could at least some of\nthe new lunar craters be",
+    "start": 153.102,
+    "duration": 2.61
+  },
+  {
+    "text": "the result of this kind of\nelectrostatic activity?",
+    "start": 155.737,
+    "duration": 3.093
+  },
+  {
+    "text": "Electrical discharges to solid\nsurfaces and to plates of dust",
+    "start": 158.855,
+    "duration": 3.949
+  },
+  {
+    "text": "result in cratering and many other geological\nfeatures familiar to planetary science",
+    "start": 162.829,
+    "duration": 5.121
+  },
+  {
+    "text": "as we repeatedly referenced in\nthese experiments by Billy Yelverton.",
+    "start": 167.975,
+    "duration": 4.189
+  },
+  {
+    "text": "In fact, in recent years the scientific\nmainstream has begun to recognize",
+    "start": 172.189,
+    "duration": 4.63
+  },
+  {
+    "text": "the role of electrical forces\nin altering the lunar soil.",
+    "start": 176.819,
+    "duration": 3.7
+  },
+  {
+    "text": "A scientific paper in 2014 explored\nthe possibility that so-called",
+    "start": 180.544,
+    "duration": 4.268
+  },
+  {
+    "text": "\"electrical sparking\" may occur\nunder the Moon's surface.",
+    "start": 184.837,
+    "duration": 3.728
+  },
+  {
+    "text": "But the surprisingly high rate of new\nlunar craters is only the latest",
+    "start": 188.59,
+    "duration": 4.008
+  },
+  {
+    "text": "of many unresolved problems with\nthe Moon's speculative history.",
+    "start": 192.623,
+    "duration": 4.149
+  },
+  {
+    "text": "In the 20th century the discovery\nof apparently discrepant ages",
+    "start": 196.797,
+    "duration": 4.479
+  },
+  {
+    "text": "of melted lunar rocks contributed\nto the invention of an era called",
+    "start": 201.301,
+    "duration": 3.601
+  },
+  {
+    "text": "\"The Late Heavy Bombardment\" though\nastronomers do not roundly accept the theory",
+    "start": 204.927,
+    "duration": 4.425
+  },
+  {
+    "text": "and it's not clear where the bombarding\nobjects would have come from.",
+    "start": 209.377,
+    "duration": 3.768
+  },
+  {
+    "text": "In the Electric Universe theory,",
+    "start": 213.17,
+    "duration": 1.796
+  },
+  {
+    "text": "as developed by the chief principles\nof The Thunderbolts Project,",
+    "start": 214.991,
+    "duration": 3.22
+  },
+  {
+    "text": "the massive cratering on the Moon and\nevery heavily cratered planetary body",
+    "start": 218.236,
+    "duration": 4.053
+  },
+  {
+    "text": "was a product of electrical discharge\nscarring at an interplanetary scale.",
+    "start": 222.314,
+    "duration": 4.745
+  },
+  {
+    "text": "Numerous references to past\npresentations on this theory",
+    "start": 227.084,
+    "duration": 3.374
+  },
+  {
+    "text": "can be found in the description\nbox of this video.",
+    "start": 230.483,
+    "duration": 2.902
+  },
+  {
+    "text": "Of course any new electrical\ncratering occurring on the Moon today",
+    "start": 233.41,
+    "duration": 3.743
+  },
+  {
+    "text": "would be at a vastly smaller\nscale than the events",
+    "start": 237.178,
+    "duration": 2.71
+  },
+  {
+    "text": "that violently scarred\nits surface from pole to pole.",
+    "start": 239.913,
+    "duration": 3.714
+  },
+  {
+    "text": "In any case, new scientific data\nwill continue to make it more clear",
+    "start": 243.851,
+    "duration": 4.52
+  },
+  {
+    "text": "that cratering is not the result of periodic\nimpacts from space over eons of time.",
+    "start": 248.396,
+    "duration": 5.485
+  },
+  {
+    "text": "Electrical cratering is just one\nof many new pathways of discovery",
+    "start": 253.906,
+    "duration": 4.262
+  },
+  {
+    "text": "waiting to be explored in\nour electric universe.",
+    "start": 258.193,
+    "duration": 3.952
+  },
+  {
+    "text": "For continuous updates on Space\nNews from the Electric Universe",
+    "start": 263.649,
+    "duration": 4.089
+  },
+  {
+    "text": "stay tuned to",
+    "start": 267.763,
+    "duration": 1.038
+  },
+  {
+    "text": "Thunderbolts.info",
+    "start": 268.826,
+    "duration": 3.024
+  }
+]
